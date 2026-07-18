@@ -1,0 +1,168 @@
+{
+  "updatedAt": "2026-07-18T22:22:24.279530+00:00",
+  "indices": [
+    {
+      "name": "IBEX 35",
+      "symbol": "^IBEX",
+      "price": 19216.9,
+      "change": -87.19999999999709,
+      "changePct": -0.45171751078784866,
+      "currency": "EUR"
+    },
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "price": 7457.69,
+      "change": -114.71000000000004,
+      "changePct": -1.5148433785853894,
+      "currency": "USD"
+    },
+    {
+      "name": "NASDAQ",
+      "symbol": "^IXIC",
+      "price": 25520.244,
+      "change": -748.9860000000008,
+      "changePct": -2.8511912987171715,
+      "currency": "USD"
+    },
+    {
+      "name": "DAX",
+      "symbol": "^GDAXI",
+      "price": 24830.98,
+      "change": -168.54999999999927,
+      "changePct": -0.6742126751982909,
+      "currency": "EUR"
+    },
+    {
+      "name": "Euro Stoxx 50",
+      "symbol": "^STOXX50E",
+      "price": 6230.87,
+      "change": -52.73999999999978,
+      "changePct": -0.8393264381462213,
+      "currency": "EUR"
+    },
+    {
+      "name": "VIX (miedo)",
+      "symbol": "^VIX",
+      "price": 18.77,
+      "change": 2.039999999999999,
+      "changePct": 12.19366407650926,
+      "currency": "USD"
+    }
+  ],
+  "news": [
+    {
+      "id": "6bf69e40-37a1-3328-a63c-86b1b92ac2e2",
+      "title": "Samsung Electronics America to reduce workforce by 739 in New Jersey, US WARN notice says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-electronics-america-reduce-workforce-215814306.html",
+      "publisher": "Reuters",
+      "time": 1784411894,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "6bf69e40-37a1-3328-a63c-86b1b92ac2e2",
+      "title": "Samsung Electronics America to reduce workforce by 739 in New Jersey, WARN notice says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-electronics-america-reduce-workforce-215814306.html",
+      "publisher": "Reuters",
+      "time": 1784411894,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "117868d3-9361-36f5-a497-e442c74e9996",
+      "title": "3 AI Stocks That Can Outperform Nvidia Next Year",
+      "link": "https://finance.yahoo.com/m/117868d3-9361-36f5-a497-e442c74e9996/3-ai-stocks-that-can.html",
+      "publisher": "Motley Fool",
+      "time": 1784411760,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "3f47f530-0851-3302-8b72-55383e242985",
+      "title": "Sunday, July 19, 2026",
+      "link": "https://finance.yahoo.com/media-advertising/articles/sunday-july-19-2026-215400325.html",
+      "publisher": "CNW Group",
+      "time": 1784411640,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1ea3c0cf-9daa-32fb-9538-50f8cabbae4e",
+      "title": "Taylor Farms recalls lettuce shipped to 27 states over cyclospora risk",
+      "link": "https://finance.yahoo.com/m/1ea3c0cf-9daa-32fb-9538-50f8cabbae4e/taylor-farms-recalls-lettuce.html",
+      "publisher": "Associated Press",
+      "time": 1784411477,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b1239d9b-4a31-3369-9788-4d2047e6a071",
+      "title": "ColestZen Official Launch 2026 | Cholesterol Support Capsules Available in USA, UK, CA & AU Market By Colestzen Supplement.",
+      "link": "https://finance.yahoo.com/healthcare/articles/colestzen-official-launch-2026-cholesterol-215100313.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784411460,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "495bc20f-22f7-3a0c-ba8c-0c9ad745986d",
+      "title": "Niagara Falls City Council votes down road paving, grass cutting plans; deadlocks on NFR payment",
+      "link": "https://finance.yahoo.com/m/495bc20f-22f7-3a0c-ba8c-0c9ad745986d/niagara-falls-city-council.html",
+      "publisher": "Niagara Gazette, Niagara Falls, N.Y.",
+      "time": 1784411160,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ed5a83d7-6336-3f70-b328-8fc194f4844c",
+      "title": "Pokémon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie",
+      "link": "https://finance.yahoo.com/m/ed5a83d7-6336-3f70-b328-8fc194f4844c/pok%C3%A9mon-cards-beat-the-s%26p.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1784411100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c0a58a0c-a994-30ce-9a25-e076eaf6debe",
+      "title": "Netflix Stock's Last Decade Was Spectacular. But What Will the Next Decade Look Like?",
+      "link": "https://finance.yahoo.com/m/c0a58a0c-a994-30ce-9a25-e076eaf6debe/netflix-stock%27s-last-decade.html",
+      "publisher": "Motley Fool",
+      "time": 1784410980,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "51f81617-8709-3ce1-bf93-304b6a368ead",
+      "title": "Why Intuitive Surgical Stock Dropped This Week",
+      "link": "https://finance.yahoo.com/m/51f81617-8709-3ce1-bf93-304b6a368ead/why-intuitive-surgical-stock.html",
+      "publisher": "Motley Fool",
+      "time": 1784410877,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5e87e785-387c-35ce-b7c6-30b496a5c64d",
+      "title": "Clarks' highly rated Cloudstepper sandals are nearly 60% off at Macy's",
+      "link": "https://finance.yahoo.com/m/5e87e785-387c-35ce-b7c6-30b496a5c64d/clarks%27-highly-rated.html",
+      "publisher": "TheStreet",
+      "time": 1784410200,
+      "impact": "low",
+      "tags": []
+    }
+  ],
+  "errors": {
+    "indices": [],
+    "news": []
+  }
+}
