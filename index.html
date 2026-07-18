@@ -319,54 +319,11 @@
     </section>
 
     <footer>
-      Datos orientativos vía Yahoo Finance. No es asesoramiento financiero.
+      Datos orientativos vía Yahoo Finance, actualizados automáticamente cada 30 min. No es asesoramiento financiero.
     </footer>
   </div>
 
   <script>
-    const INDICES = [
-      { symbol: '^IBEX', name: 'IBEX 35' },
-      { symbol: '^GSPC', name: 'S&P 500' },
-      { symbol: '^IXIC', name: 'NASDAQ' },
-      { symbol: '^GDAXI', name: 'DAX' },
-      { symbol: '^STOXX50E', name: 'Euro Stoxx 50' },
-      { symbol: '^VIX', name: 'VIX (miedo)' }
-    ];
-
-    const NEWS_QUERIES = [
-      'stock market economy',
-      'fed interest rates inflation',
-      'earnings results stocks',
-      'IBEX bolsa España',
-      'geopolitics tariffs markets'
-    ];
-
-    const IMPACT_RULES = [
-      {
-        level: 'high',
-        tags: ['macro', 'geo'],
-        keywords: [
-          'fed', 'federal reserve', 'banco central', 'ecb', 'bce', 'tipos de inter', 'interest rate',
-          'inflation', 'inflacion', 'inflación', 'recession', 'recesion', 'recesión', 'crisis',
-          'war', 'guerra', 'tariff', 'arance', 'default', 'deuda', 'debt ceiling', 'shutdown'
-        ]
-      },
-      {
-        level: 'medium',
-        tags: ['results', 'macro'],
-        keywords: [
-          'earnings', 'resultados', 'beneficio', 'profit', 'guidance', 'prevision', 'forecast',
-          'jobs report', 'empleo', 'nóminas', 'payroll', 'ipo', 'merger', 'acquisition', 'fusión',
-          'oil', 'petróleo', 'opec', 'semiconductor', 'bank', 'banco'
-        ]
-      },
-      {
-        level: 'medium',
-        tags: ['geo'],
-        keywords: ['sanction', 'sancion', 'sanción', 'conflict', 'conflicto', 'china', 'trade']
-      }
-    ];
-
     const FILTER_MATCHERS = {
       high: (item) => item.impact === 'high',
       macro: (item) => item.tags.includes('macro'),
@@ -401,73 +358,9 @@
       }).format(date);
     }
 
-    function classifyNews(title, publisher = '') {
-      const text = `${title} ${publisher}`.toLowerCase();
-      const tags = new Set();
-
-      for (const rule of IMPACT_RULES) {
-        if (rule.keywords.some((word) => text.includes(word))) {
-          rule.tags.forEach((tag) => tags.add(tag));
-          return { impact: rule.level, tags: [...tags] };
-        }
-      }
-
-      if (/market|mercado|bolsa|stocks|acciones|index|índice|indice/i.test(text)) {
-        tags.add('macro');
-      }
-
-      return { impact: 'low', tags: [...tags] };
-    }
-
-    async function fetchJson(url) {
-      const response = await fetch(url);
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-      return response.json();
-    }
-
-    async function fetchIndex(index) {
-      const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(index.symbol)}?interval=1d&range=2d`;
-      const data = await fetchJson(url);
-      const result = data?.chart?.result?.[0];
-      const meta = result?.meta;
-
-      if (!meta?.regularMarketPrice) {
-        throw new Error(`Sin datos para ${index.name}`);
-      }
-
-      const previousClose = meta.chartPreviousClose ?? meta.previousClose ?? meta.regularMarketPrice;
-      const change = meta.regularMarketPrice - previousClose;
-      const changePct = previousClose ? (change / previousClose) * 100 : 0;
-
-      return {
-        ...index,
-        price: meta.regularMarketPrice,
-        change,
-        changePct,
-        currency: meta.currency || ''
-      };
-    }
-
-    async function fetchNewsBatch(query) {
-      const url = `https://query1.finance.yahoo.com/v1/finance/search?q=${encodeURIComponent(query)}&newsCount=10&quotesCount=0`;
-      const data = await fetchJson(url);
-      return (data.news || []).map((item) => {
-        const { impact, tags } = classifyNews(item.title || '', item.publisher || '');
-        return {
-          id: item.uuid || `${item.title}-${item.providerPublishTime}`,
-          title: item.title,
-          link: item.link,
-          publisher: item.publisher || 'Fuente externa',
-          time: item.providerPublishTime,
-          impact,
-          tags
-        };
-      });
-    }
-
     function renderIndices(items) {
       if (!items.length) {
-        indicesEl.innerHTML = '<div class="state">No se pudieron cargar los índices.</div>';
+        indicesEl.innerHTML = '<div class="state">No hay índices disponibles en este momento.</div>';
         return;
       }
 
@@ -514,46 +407,31 @@
       }).join('');
     }
 
-    function mergeNews(items) {
-      const map = new Map();
-      for (const item of items) {
-        if (!item.title || !item.link) continue;
-        const key = item.title.trim().toLowerCase();
-        if (!map.has(key)) map.set(key, item);
-      }
-
-      return [...map.values()].sort((a, b) => (b.time || 0) - (a.time || 0));
-    }
-
     async function loadData() {
       refreshBtn.disabled = true;
       lastUpdatedEl.textContent = 'Actualizando…';
 
-      const indexResults = await Promise.allSettled(INDICES.map(fetchIndex));
-      const indices = indexResults
-        .filter((result) => result.status === 'fulfilled')
-        .map((result) => result.value);
-
-      renderIndices(indices);
-
       try {
-        const batches = await Promise.all(NEWS_QUERIES.map(fetchNewsBatch));
-        allNews = mergeNews(batches.flat());
+        const response = await fetch(`./data/market.json?t=${Date.now()}`, { cache: 'no-store' });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+
+        const data = await response.json();
+        allNews = data.news || [];
+        renderIndices(data.indices || []);
         renderNews();
+
+        const updatedAt = data.updatedAt
+          ? new Intl.DateTimeFormat('es-ES', { dateStyle: 'short', timeStyle: 'short' }).format(new Date(data.updatedAt))
+          : 'desconocida';
+
+        lastUpdatedEl.textContent = `Datos del servidor: ${updatedAt}. ${allNews.length} titulares analizados.`;
       } catch (error) {
-        newsListEl.innerHTML = `<div class="state">No se pudieron cargar noticias. Prueba de nuevo en unos segundos.</div>`;
+        indicesEl.innerHTML = '<div class="state">No se pudieron cargar los índices.</div>';
+        newsListEl.innerHTML = '<div class="state">No se pudieron cargar los datos. Toca Actualizar en unos segundos.</div>';
+        lastUpdatedEl.textContent = 'Error al cargar datos. GitHub Actions los actualiza cada 30 minutos.';
+      } finally {
+        refreshBtn.disabled = false;
       }
-
-      const failedIndices = indexResults.filter((result) => result.status === 'rejected').length;
-      const now = new Intl.DateTimeFormat('es-ES', {
-        dateStyle: 'short',
-        timeStyle: 'short'
-      }).format(new Date());
-
-      lastUpdatedEl.textContent = failedIndices
-        ? `Actualizado ${now}. Algunos índices no respondieron (${failedIndices}).`
-        : `Actualizado ${now}. ${allNews.length} titulares analizados.`;
-      refreshBtn.disabled = false;
     }
 
     filtersEl.addEventListener('click', (event) => {
@@ -569,7 +447,6 @@
 
     refreshBtn.addEventListener('click', loadData);
     loadData();
-    setInterval(loadData, 5 * 60 * 1000);
   </script>
 </body>
 </html>
