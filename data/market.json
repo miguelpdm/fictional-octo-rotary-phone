@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T11:51:30.964927+00:00",
+  "updatedAt": "2026-07-19T13:02:39.580919+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,105 +52,97 @@
   ],
   "news": [
     {
-      "id": "db0534ae-435f-32f3-a9c9-5dedad55d2d9",
-      "title": "Oracle Crashed 65% From Its Peak. I Just Bought It Anyway. Here's Why.",
-      "link": "https://finance.yahoo.com/m/db0534ae-435f-32f3-a9c9-5dedad55d2d9/oracle-crashed-65%25-from-its.html",
+      "id": "51e0c026-cde4-3b01-8196-3aa03780844c",
+      "title": "Warren Buffett Is Behind Berkshire Hathaway's Massive Alphabet Investment. Here's What He Likes About the Company.",
+      "link": "https://finance.yahoo.com/m/51e0c026-cde4-3b01-8196-3aa03780844c/warren-buffett-is-behind.html",
       "publisher": "Motley Fool",
-      "time": 1784461260,
+      "time": 1784465400,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "d15f4760-f68d-3027-8d00-6d1405acb6b3",
+      "title": "How to Invest in SpaceX Stock After Its Nasdaq-100 Debut",
+      "link": "https://finance.yahoo.com/m/d15f4760-f68d-3027-8d00-6d1405acb6b3/how-to-invest-in-spacex-stock.html",
+      "publisher": "Motley Fool",
+      "time": 1784465400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6d2177d8-21d8-3bc9-ae63-f6f67e8cf18d",
-      "title": "Google rejects alarming report that says its Search AI tools are unsafe for kids",
-      "link": "https://finance.yahoo.com/m/6d2177d8-21d8-3bc9-ae63-f6f67e8cf18d/google-rejects-alarming.html",
+      "id": "92e83029-917d-362f-b0d9-de4be7243dde",
+      "title": "GEnx-1B Engines Surpass 50 Million Flight Hours",
+      "link": "https://finance.yahoo.com/technology/articles/genx-1b-engines-surpass-50-124900158.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784465340,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cf875fea-9da0-36cb-ab6c-781b03e83e99",
+      "title": "Salesforce vs. Dell Technologies: Which High-Growth Tech Stock Is a Better Buy in 2026?",
+      "link": "https://finance.yahoo.com/m/cf875fea-9da0-36cb-ab6c-781b03e83e99/salesforce-vs.-dell.html",
+      "publisher": "Motley Fool",
+      "time": 1784465221,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "966f0d94-bc0a-318b-9429-8254f347297f",
+      "title": "Apple’s 2026 Back to School promo saves you up to $150 on a new Mac or iPad",
+      "link": "https://finance.yahoo.com/m/966f0d94-bc0a-318b-9429-8254f347297f/apple%E2%80%99s-2026-back-to-school.html",
       "publisher": "Digital Trends",
-      "time": 1784461091,
+      "time": 1784465200,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cea5b95e-e1c7-37f1-ba21-69f9830cff13",
-      "title": "Looking for Cheap Income Stocks? Why Pfizer Belongs on Your Shortlist Right Now",
-      "link": "https://finance.yahoo.com/m/cea5b95e-e1c7-37f1-ba21-69f9830cff13/looking-for-cheap-income.html",
-      "publisher": "Motley Fool",
-      "time": 1784460900,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "6c8dacfc-1037-32fc-a343-353600ff0076",
-      "title": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
-      "link": "https://finance.yahoo.com/m/6c8dacfc-1037-32fc-a343-353600ff0076/dow-jones-futures-loom-as.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1784460662,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4f1f81f4-95cb-3f47-9a2a-f1078413c554",
-      "title": "‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?",
-      "link": "https://finance.yahoo.com/m/4f1f81f4-95cb-3f47-9a2a-f1078413c554/%E2%80%98i-am-at-a-loss%E2%80%99%3A-my-brother.html",
-      "publisher": "MarketWatch",
-      "time": 1784460600,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "f82dfacc-82a7-3a62-a4b2-1f6b779bb815",
-      "title": "Yachts ahoy! Boat-sharing apps allow would-be sailors to co-own boats so they can break waves without breaking the bank",
-      "link": "https://finance.yahoo.com/small-business/articles/yachts-ahoy-boat-sharing-apps-113000029.html",
+      "id": "8ba7facf-69bc-37e1-aaa4-5826d61c64af",
+      "title": "5 things no one tells you about becoming a millionaire in America — are you ready for them?",
+      "link": "https://finance.yahoo.com/markets/articles/5-things-no-one-tells-124500743.html",
       "publisher": "Moneywise",
-      "time": 1784460600,
-      "impact": "medium",
+      "time": 1784465100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "52ec3145-1098-34f6-9ce2-589e73a63d71",
+      "title": "Love Stock Market Gains But Hate Risk? Here's 1 ETF Worth Looking At.",
+      "link": "https://finance.yahoo.com/m/52ec3145-1098-34f6-9ce2-589e73a63d71/love-stock-market-gains-but.html",
+      "publisher": "Motley Fool",
+      "time": 1784464980,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "3debaac0-5c3f-3382-b79a-e06f88584a64",
-      "title": "US-Iran strikes: latest developments",
-      "link": "https://finance.yahoo.com/m/3debaac0-5c3f-3382-b79a-e06f88584a64/us-iran-strikes%3A-latest.html",
+      "id": "1bf5de74-662d-3420-89d7-611e146a2c45",
+      "title": "Influencer Andrew Tate and brother arrested in Miami",
+      "link": "https://finance.yahoo.com/m/1bf5de74-662d-3420-89d7-611e146a2c45/influencer-andrew-tate-and.html",
       "publisher": "AFP",
-      "time": 1784460455,
+      "time": 1784464805,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a6df3266-fd68-38ab-a474-a6f3fe5b9948",
-      "title": "3 Stocks I'm Buying After Taiwan Semiconductor's Stellar Announcement",
-      "link": "https://finance.yahoo.com/m/a6df3266-fd68-38ab-a474-a6f3fe5b9948/3-stocks-i%27m-buying-after.html",
-      "publisher": "Motley Fool",
-      "time": 1784460420,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "1540050d-61a9-3d36-bef8-ad1e3dc8418d",
+      "title": "OpenAI made a tiny $230 keyboard that lets you turn up an AI’s brainpower",
+      "link": "https://finance.yahoo.com/m/1540050d-61a9-3d36-bef8-ad1e3dc8418d/openai-made-a-tiny-%24230.html",
+      "publisher": "Digital Trends",
+      "time": 1784464800,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "709978b6-3d3d-3bf4-9636-1bb5bb3de32c",
-      "title": "Carnival Reported Earnings on June 23, Royal Caribbean Is Next on July 28, Then Norwegian Cruise Line on July 30. Here's My Top Buy of the Bunch.",
-      "link": "https://finance.yahoo.com/m/709978b6-3d3d-3bf4-9636-1bb5bb3de32c/carnival-reported-earnings-on.html",
-      "publisher": "Motley Fool",
-      "time": 1784460300,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "fed9bce7-1397-3370-b20f-adaf928c7fbb",
-      "title": "Peter Thiel said real estate ‘catastrophe’ will deal massive blow to young Americans. Are the numbers proving him right?",
-      "link": "https://finance.yahoo.com/real-estate/articles/peter-thiel-said-real-estate-112500659.html",
-      "publisher": "Moneywise",
-      "time": 1784460300,
+      "id": "056379e9-98fd-3008-8bb0-e94ad34668c8",
+      "title": "Despite Trump's unpopularity, WaPo poll shows tight race for Congress",
+      "link": "https://finance.yahoo.com/m/056379e9-98fd-3008-8bb0-e94ad34668c8/despite-trump%27s-unpopularity%2C.html",
+      "publisher": "USA TODAY",
+      "time": 1784464681,
       "impact": "low",
       "tags": []
     }
