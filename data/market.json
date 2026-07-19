@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T07:29:55.484938+00:00",
+  "updatedAt": "2026-07-19T07:31:04.118600+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -51,6 +51,51 @@
     }
   ],
   "news": [
+    {
+      "id": "cd8e54ec-33bb-3efa-b86f-276440c0e0bc",
+      "title": "Former China Development Bank president is under anti-corruption probe",
+      "link": "https://finance.yahoo.com/m/cd8e54ec-33bb-3efa-b86f-276440c0e0bc/former-china-development-bank.html",
+      "publisher": "Associated Press",
+      "time": 1784445818,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "cc8fd6f2-9be9-3d98-b073-05abf80d2174",
+      "title": "New Era Energy & Digital (NUAI) Is Down 8.0% After FERC Questions PJM Tariff For Data Center Grid Access - Has The Bull Case Changed?",
+      "link": "https://finance.yahoo.com/energy/articles/era-energy-digital-nuai-down-070908516.html",
+      "publisher": "Simply Wall St.",
+      "time": 1784444948,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "4cc1f274-c114-3045-ae07-0d77a19198dc",
+      "title": "Duke Energy (DUK) Stock Could Be 29% Overvalued After Rate Case Pushback",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-stock-could-070854788.html",
+      "publisher": "Simply Wall St.",
+      "time": 1784444934,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "368ee2d3-48a7-322e-9c35-0b949a115894",
+      "title": "How Life’s Higher Dividend Amid Softer Profits At Life (TSE:8194) Has Changed Its Investment Story",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/life-higher-dividend-amid-softer-070844988.html",
+      "publisher": "Simply Wall St.",
+      "time": 1784444924,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
     {
       "id": "63dbef3b-6531-36fd-9ab5-c6e8edad9085",
       "title": "What are the implications of a renewed closure of the Strait of Hormuz?",
@@ -107,53 +152,6 @@
       "time": 1784442605,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "2cecd13f-50b7-3f2e-8b05-083b9bab9f07",
-      "title": "\"It's Gambling\": Warren Buffett Just Issued a Blunt Warning to Investors -- and History Says He's Right.",
-      "link": "https://finance.yahoo.com/m/2cecd13f-50b7-3f2e-8b05-083b9bab9f07/%22it%27s-gambling%22%3A-warren.html",
-      "publisher": "Motley Fool",
-      "time": 1784442000,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "d351ff7d-07d8-362c-b830-1430213d9110",
-      "title": "Pocket-size AI: Powerful phones star at China show",
-      "link": "https://finance.yahoo.com/m/d351ff7d-07d8-362c-b830-1430213d9110/pocket-size-ai%3A-powerful.html",
-      "publisher": "AFP",
-      "time": 1784441388,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "73029dda-4afc-3132-b85f-d53634f05917",
-      "title": "Can Nordea Bank Abp (HLSE:NDA FI) Still Be Undervalued?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nordea-bank-abp-hlse-nda-060803087.html",
-      "publisher": "Simply Wall St.",
-      "time": 1784441283,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "bd32b36c-7a07-35c1-84e9-d58eaa6b8ad1",
-      "title": "TowneBank (TOWN) Could Be 103% Below Fair Value On Mixed Valuation Signals",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/townebank-town-could-103-below-060749985.html",
-      "publisher": "Simply Wall St.",
-      "time": 1784441269,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
     }
   ],
   "errors": {
