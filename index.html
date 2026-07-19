@@ -4,22 +4,22 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <meta name="description" content="Sigue mercados y noticias que pueden mover la bolsa">
-  <meta name="theme-color" content="#0b1220">
+  <meta name="theme-color" content="#f4f7fb">
   <title>Pulso de Mercados</title>
   <style>
     :root {
-      --bg: #0b1220;
-      --panel: #121b2e;
-      --panel-2: #18233a;
-      --text: #e8eef9;
-      --muted: #94a3b8;
-      --line: #24324d;
-      --green: #34d399;
-      --red: #f87171;
-      --amber: #fbbf24;
-      --blue: #38bdf8;
-      --high: #ef4444;
-      --medium: #f59e0b;
+      --bg: #f4f7fb;
+      --panel: #ffffff;
+      --panel-2: #f8fafc;
+      --text: #0f172a;
+      --muted: #64748b;
+      --line: #e2e8f0;
+      --green: #059669;
+      --red: #dc2626;
+      --amber: #d97706;
+      --blue: #0284c7;
+      --high: #dc2626;
+      --medium: #d97706;
       --low: #64748b;
     }
 
@@ -27,7 +27,7 @@
 
     body {
       font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
-      background: var(--bg);
+      background: linear-gradient(180deg, #ffffff 0%, var(--bg) 100%);
       color: var(--text);
       min-height: 100dvh;
       line-height: 1.45;
@@ -44,7 +44,7 @@
       top: 0;
       z-index: 10;
       backdrop-filter: blur(10px);
-      background: color-mix(in srgb, var(--bg) 88%, transparent);
+      background: color-mix(in srgb, #ffffff 92%, transparent);
       border-bottom: 1px solid var(--line);
       padding: 0.85rem 0 1rem;
       margin-bottom: 1rem;
@@ -106,10 +106,11 @@
     }
 
     .index-card {
-      background: linear-gradient(180deg, var(--panel-2), var(--panel));
+      background: var(--panel);
       border: 1px solid var(--line);
       border-radius: 14px;
       padding: 0.85rem;
+      box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
     }
 
     .index-name {
@@ -155,9 +156,9 @@
     }
 
     .filter-btn.active {
-      background: color-mix(in srgb, var(--blue) 18%, var(--panel));
-      border-color: color-mix(in srgb, var(--blue) 45%, var(--line));
-      color: var(--text);
+      background: color-mix(in srgb, var(--blue) 10%, #ffffff);
+      border-color: color-mix(in srgb, var(--blue) 35%, var(--line));
+      color: var(--blue);
     }
 
     .news-list {
@@ -173,6 +174,7 @@
       border: 1px solid var(--line);
       border-radius: 14px;
       padding: 0.9rem;
+      box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
     }
 
     .news-card:active { transform: scale(0.995); }
@@ -195,18 +197,18 @@
     }
 
     .impact.high {
-      background: color-mix(in srgb, var(--high) 18%, transparent);
-      color: #fca5a5;
+      background: #fee2e2;
+      color: #b91c1c;
     }
 
     .impact.medium {
-      background: color-mix(in srgb, var(--medium) 18%, transparent);
-      color: #fcd34d;
+      background: #fef3c7;
+      color: #b45309;
     }
 
     .impact.low {
-      background: color-mix(in srgb, var(--low) 22%, transparent);
-      color: #cbd5e1;
+      background: #f1f5f9;
+      color: #475569;
     }
 
     .news-time {
@@ -236,7 +238,7 @@
     .tag {
       font-size: 0.72rem;
       color: var(--blue);
-      background: color-mix(in srgb, var(--blue) 12%, transparent);
+      background: #e0f2fe;
       border-radius: 999px;
       padding: 0.15rem 0.45rem;
     }
@@ -260,6 +262,10 @@
       border-radius: 14px;
       padding: 0.85rem;
     }
+
+    .legend-high { color: #b91c1c; }
+    .legend-medium { color: #b45309; }
+    .legend-low { color: #475569; }
 
     footer {
       margin-top: 1.5rem;
@@ -312,9 +318,9 @@
     <section>
       <h2 class="section-title">Cómo leer el impacto</h2>
       <div class="legend">
-        <div><strong style="color:#fca5a5">Alto</strong> — tipos de interés, inflación, bancos centrales, aranceles, crisis.</div>
-        <div><strong style="color:#fcd34d">Medio</strong> — resultados, fusiones, sectores concretos, empleo.</div>
-        <div><strong style="color:#cbd5e1">Bajo</strong> — contexto general o análisis sin catalizador claro.</div>
+        <div><strong class="legend-high">Alto</strong> — tipos de interés, inflación, bancos centrales, aranceles, crisis.</div>
+        <div><strong class="legend-medium">Medio</strong> — resultados, fusiones, sectores concretos, empleo.</div>
+        <div><strong class="legend-low">Bajo</strong> — contexto general o análisis sin catalizador claro.</div>
       </div>
     </section>
 
