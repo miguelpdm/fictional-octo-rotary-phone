@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T10:50:43.957504+00:00",
+  "updatedAt": "2026-07-19T11:51:30.964927+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,60 @@
   ],
   "news": [
     {
-      "id": "1809a065-139c-3ca7-8c1b-265f15295328",
-      "title": "Taiwan Semiconductor Manufacturing: Is the Stock a Buy as Revenue Continues to Soar?",
-      "link": "https://finance.yahoo.com/m/1809a065-139c-3ca7-8c1b-265f15295328/taiwan-semiconductor.html",
+      "id": "db0534ae-435f-32f3-a9c9-5dedad55d2d9",
+      "title": "Oracle Crashed 65% From Its Peak. I Just Bought It Anyway. Here's Why.",
+      "link": "https://finance.yahoo.com/m/db0534ae-435f-32f3-a9c9-5dedad55d2d9/oracle-crashed-65%25-from-its.html",
       "publisher": "Motley Fool",
-      "time": 1784457300,
+      "time": 1784461260,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6d2177d8-21d8-3bc9-ae63-f6f67e8cf18d",
+      "title": "Google rejects alarming report that says its Search AI tools are unsafe for kids",
+      "link": "https://finance.yahoo.com/m/6d2177d8-21d8-3bc9-ae63-f6f67e8cf18d/google-rejects-alarming.html",
+      "publisher": "Digital Trends",
+      "time": 1784461091,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cea5b95e-e1c7-37f1-ba21-69f9830cff13",
+      "title": "Looking for Cheap Income Stocks? Why Pfizer Belongs on Your Shortlist Right Now",
+      "link": "https://finance.yahoo.com/m/cea5b95e-e1c7-37f1-ba21-69f9830cff13/looking-for-cheap-income.html",
+      "publisher": "Motley Fool",
+      "time": 1784460900,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "6c8dacfc-1037-32fc-a343-353600ff0076",
+      "title": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
+      "link": "https://finance.yahoo.com/m/6c8dacfc-1037-32fc-a343-353600ff0076/dow-jones-futures-loom-as.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1784460662,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4f1f81f4-95cb-3f47-9a2a-f1078413c554",
+      "title": "‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?",
+      "link": "https://finance.yahoo.com/m/4f1f81f4-95cb-3f47-9a2a-f1078413c554/%E2%80%98i-am-at-a-loss%E2%80%99%3A-my-brother.html",
+      "publisher": "MarketWatch",
+      "time": 1784460600,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "f82dfacc-82a7-3a62-a4b2-1f6b779bb815",
+      "title": "Yachts ahoy! Boat-sharing apps allow would-be sailors to co-own boats so they can break waves without breaking the bank",
+      "link": "https://finance.yahoo.com/small-business/articles/yachts-ahoy-boat-sharing-apps-113000029.html",
+      "publisher": "Moneywise",
+      "time": 1784460600,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,86 +113,44 @@
       ]
     },
     {
-      "id": "7c432c65-bd6c-317d-b9a8-7df9805162fe",
-      "title": "Starbucks Korea staff form union after 'Tank Day' campaign fiasco",
-      "link": "https://finance.yahoo.com/m/7c432c65-bd6c-317d-b9a8-7df9805162fe/starbucks-korea-staff-form.html",
+      "id": "3debaac0-5c3f-3382-b79a-e06f88584a64",
+      "title": "US-Iran strikes: latest developments",
+      "link": "https://finance.yahoo.com/m/3debaac0-5c3f-3382-b79a-e06f88584a64/us-iran-strikes%3A-latest.html",
       "publisher": "AFP",
-      "time": 1784457027,
+      "time": 1784460455,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "906ed272-1e56-3e56-b915-cfcf40f3ceb5",
-      "title": "Street Calls of the Week",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/street-calls-week-103002941.html",
-      "publisher": "Investing.com",
-      "time": 1784457002,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7e696589-4f31-3130-bea4-ebd3d6f6f236",
-      "title": "Gen Z is breaking our biggest social taboo by sharing their salaries online — but 'loud budgeting' can cost everyone",
-      "link": "https://finance.yahoo.com/small-business/articles/gen-z-breaking-biggest-social-103000350.html",
-      "publisher": "Moneywise",
-      "time": 1784457000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7f252824-44ee-3042-99b8-7e280bc7eaf1",
-      "title": "AI recruitment startup Refer can help find you a job instead of stealing yours — but it will cost you",
-      "link": "https://finance.yahoo.com/small-business/articles/ai-recruitment-startup-refer-help-103000913.html",
-      "publisher": "Moneywise",
-      "time": 1784457000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cec2d495-0f46-34ef-aabc-f1bc07f16b58",
-      "title": "XRP Achieves a Milestone No Other Altcoin Has Ever Reached in Crypto History",
-      "link": "https://finance.yahoo.com/m/cec2d495-0f46-34ef-aabc-f1bc07f16b58/xrp-achieves-a-milestone-no.html",
-      "publisher": "BeInCrypto",
-      "time": 1784457000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e253a117-a027-3c47-a18f-214c085e68b0",
-      "title": "ANAC Publishes Proposed Noise Certification Criteria for Eve 100",
-      "link": "https://finance.yahoo.com/technology/articles/anac-publishes-proposed-noise-certification-103000288.html",
-      "publisher": "PR Newswire",
-      "time": 1784457000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a3cd742a-19d6-3f4d-b292-f717ba32c9f9",
-      "title": "Fort Worth Stockyards Launches $71M Apartment Anchor",
-      "link": "https://finance.yahoo.com/m/a3cd742a-19d6-3f4d-b292-f717ba32c9f9/fort-worth-stockyards.html",
-      "publisher": "CRE Daily",
-      "time": 1784456944,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "682d4480-3e15-3dfa-8da1-565ca7883ed7",
-      "title": "Alphabet vs. Apple: Which Warren Buffett Favorite Is the Better Stock to Buy Today?",
-      "link": "https://finance.yahoo.com/m/682d4480-3e15-3dfa-8da1-565ca7883ed7/alphabet-vs.-apple%3A-which.html",
+      "id": "a6df3266-fd68-38ab-a474-a6f3fe5b9948",
+      "title": "3 Stocks I'm Buying After Taiwan Semiconductor's Stellar Announcement",
+      "link": "https://finance.yahoo.com/m/a6df3266-fd68-38ab-a474-a6f3fe5b9948/3-stocks-i%27m-buying-after.html",
       "publisher": "Motley Fool",
-      "time": 1784456700,
-      "impact": "high",
+      "time": 1784460420,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "19299565-9597-34f7-8fdf-086863ed591d",
-      "title": "Transamerica Pyramid Lands 113K SF in New SF Leases",
-      "link": "https://finance.yahoo.com/m/19299565-9597-34f7-8fdf-086863ed591d/transamerica-pyramid-lands.html",
-      "publisher": "CRE Daily",
-      "time": 1784456569,
+      "id": "709978b6-3d3d-3bf4-9636-1bb5bb3de32c",
+      "title": "Carnival Reported Earnings on June 23, Royal Caribbean Is Next on July 28, Then Norwegian Cruise Line on July 30. Here's My Top Buy of the Bunch.",
+      "link": "https://finance.yahoo.com/m/709978b6-3d3d-3bf4-9636-1bb5bb3de32c/carnival-reported-earnings-on.html",
+      "publisher": "Motley Fool",
+      "time": 1784460300,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "fed9bce7-1397-3370-b20f-adaf928c7fbb",
+      "title": "Peter Thiel said real estate ‘catastrophe’ will deal massive blow to young Americans. Are the numbers proving him right?",
+      "link": "https://finance.yahoo.com/real-estate/articles/peter-thiel-said-real-estate-112500659.html",
+      "publisher": "Moneywise",
+      "time": 1784460300,
       "impact": "low",
       "tags": []
     }
