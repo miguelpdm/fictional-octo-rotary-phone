@@ -6,28 +6,67 @@
   <meta name="description" content="Sigue mercados y noticias que pueden mover la bolsa">
   <meta name="theme-color" content="#f4f7fb">
   <title>Pulso de Mercados</title>
+  <script>
+    (function () {
+      const saved = localStorage.getItem('pulso-theme');
+      document.documentElement.dataset.theme = saved === 'dark' ? 'dark' : 'light';
+    })();
+  </script>
   <style>
-    :root {
+    :root,
+    :root[data-theme="light"] {
       --bg: #f4f7fb;
       --panel: #ffffff;
-      --panel-2: #f8fafc;
       --text: #0f172a;
       --muted: #64748b;
       --line: #e2e8f0;
       --green: #059669;
       --red: #dc2626;
-      --amber: #d97706;
       --blue: #0284c7;
-      --high: #dc2626;
-      --medium: #d97706;
-      --low: #64748b;
+      --body-bg: linear-gradient(180deg, #ffffff 0%, #f4f7fb 100%);
+      --header-bg: color-mix(in srgb, #ffffff 92%, transparent);
+      --card-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
+      --filter-active-bg: color-mix(in srgb, #0284c7 10%, #ffffff);
+      --filter-active-border: color-mix(in srgb, #0284c7 35%, #e2e8f0);
+      --tag-bg: #e0f2fe;
+      --impact-high-bg: #fee2e2;
+      --impact-high-text: #b91c1c;
+      --impact-medium-bg: #fef3c7;
+      --impact-medium-text: #b45309;
+      --impact-low-bg: #f1f5f9;
+      --impact-low-text: #475569;
+      --theme-color: #f4f7fb;
+    }
+
+    :root[data-theme="dark"] {
+      --bg: #0b1220;
+      --panel: #121b2e;
+      --text: #e8eef9;
+      --muted: #94a3b8;
+      --line: #24324d;
+      --green: #34d399;
+      --red: #f87171;
+      --blue: #38bdf8;
+      --body-bg: linear-gradient(160deg, #0f172a 0%, #1e3a5f 100%);
+      --header-bg: color-mix(in srgb, #0b1220 88%, transparent);
+      --card-shadow: none;
+      --filter-active-bg: color-mix(in srgb, #38bdf8 18%, #121b2e);
+      --filter-active-border: color-mix(in srgb, #38bdf8 45%, #24324d);
+      --tag-bg: color-mix(in srgb, #38bdf8 12%, transparent);
+      --impact-high-bg: color-mix(in srgb, #ef4444 18%, transparent);
+      --impact-high-text: #fca5a5;
+      --impact-medium-bg: color-mix(in srgb, #f59e0b 18%, transparent);
+      --impact-medium-text: #fcd34d;
+      --impact-low-bg: color-mix(in srgb, #64748b 22%, transparent);
+      --impact-low-text: #cbd5e1;
+      --theme-color: #0b1220;
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
     body {
       font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
-      background: linear-gradient(180deg, #ffffff 0%, var(--bg) 100%);
+      background: var(--body-bg);
       color: var(--text);
       min-height: 100dvh;
       line-height: 1.45;
@@ -44,11 +83,48 @@
       top: 0;
       z-index: 10;
       backdrop-filter: blur(10px);
-      background: color-mix(in srgb, #ffffff 92%, transparent);
+      background: var(--header-bg);
       border-bottom: 1px solid var(--line);
       padding: 0.85rem 0 1rem;
       margin-bottom: 1rem;
     }
+
+    .header-actions {
+      display: flex;
+      gap: 0.45rem;
+      flex-shrink: 0;
+    }
+
+    .icon-btn,
+    .refresh-btn {
+      border: 1px solid var(--line);
+      background: var(--panel);
+      color: var(--text);
+      border-radius: 999px;
+      font-weight: 600;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+
+    .icon-btn {
+      width: 2.5rem;
+      height: 2.5rem;
+      display: grid;
+      place-items: center;
+      font-size: 1.05rem;
+      padding: 0;
+    }
+
+    .refresh-btn {
+      padding: 0.55rem 0.9rem;
+      font-size: 0.85rem;
+    }
+
+    .icon-btn:active,
+    .refresh-btn:active { transform: scale(0.98); }
+
+    .icon-btn:disabled,
+    .refresh-btn:disabled { opacity: 0.6; cursor: wait; }
 
     .top-row {
       display: flex;
@@ -67,21 +143,6 @@
       font-size: 0.9rem;
       margin-top: 0.25rem;
     }
-
-    .refresh-btn {
-      border: 1px solid var(--line);
-      background: var(--panel);
-      color: var(--text);
-      border-radius: 999px;
-      padding: 0.55rem 0.9rem;
-      font-size: 0.85rem;
-      font-weight: 600;
-      cursor: pointer;
-      white-space: nowrap;
-    }
-
-    .refresh-btn:active { transform: scale(0.98); }
-    .refresh-btn:disabled { opacity: 0.6; cursor: wait; }
 
     .meta {
       margin-top: 0.65rem;
@@ -110,7 +171,7 @@
       border: 1px solid var(--line);
       border-radius: 14px;
       padding: 0.85rem;
-      box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
+      box-shadow: var(--card-shadow);
     }
 
     .index-name {
@@ -156,8 +217,8 @@
     }
 
     .filter-btn.active {
-      background: color-mix(in srgb, var(--blue) 10%, #ffffff);
-      border-color: color-mix(in srgb, var(--blue) 35%, var(--line));
+      background: var(--filter-active-bg);
+      border-color: var(--filter-active-border);
       color: var(--blue);
     }
 
@@ -174,7 +235,7 @@
       border: 1px solid var(--line);
       border-radius: 14px;
       padding: 0.9rem;
-      box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
+      box-shadow: var(--card-shadow);
     }
 
     .news-card:active { transform: scale(0.995); }
@@ -197,18 +258,18 @@
     }
 
     .impact.high {
-      background: #fee2e2;
-      color: #b91c1c;
+      background: var(--impact-high-bg);
+      color: var(--impact-high-text);
     }
 
     .impact.medium {
-      background: #fef3c7;
-      color: #b45309;
+      background: var(--impact-medium-bg);
+      color: var(--impact-medium-text);
     }
 
     .impact.low {
-      background: #f1f5f9;
-      color: #475569;
+      background: var(--impact-low-bg);
+      color: var(--impact-low-text);
     }
 
     .news-time {
@@ -238,7 +299,7 @@
     .tag {
       font-size: 0.72rem;
       color: var(--blue);
-      background: #e0f2fe;
+      background: var(--tag-bg);
       border-radius: 999px;
       padding: 0.15rem 0.45rem;
     }
@@ -263,9 +324,9 @@
       padding: 0.85rem;
     }
 
-    .legend-high { color: #b91c1c; }
-    .legend-medium { color: #b45309; }
-    .legend-low { color: #475569; }
+    .legend-high { color: var(--impact-high-text); }
+    .legend-medium { color: var(--impact-medium-text); }
+    .legend-low { color: var(--impact-low-text); }
 
     footer {
       margin-top: 1.5rem;
@@ -287,7 +348,10 @@
           <h1>Pulso de Mercados</h1>
           <p class="subtitle">Índices y noticias que pueden mover la bolsa</p>
         </div>
-        <button class="refresh-btn" id="refreshBtn" type="button">Actualizar</button>
+        <div class="header-actions">
+          <button class="icon-btn" id="themeBtn" type="button" aria-label="Cambiar tema">🌙</button>
+          <button class="refresh-btn" id="refreshBtn" type="button">Actualizar</button>
+        </div>
       </div>
       <p class="meta" id="lastUpdated">Cargando datos…</p>
     </header>
@@ -344,7 +408,29 @@
     const newsListEl = document.getElementById('newsList');
     const lastUpdatedEl = document.getElementById('lastUpdated');
     const refreshBtn = document.getElementById('refreshBtn');
+    const themeBtn = document.getElementById('themeBtn');
     const filtersEl = document.getElementById('filters');
+
+    function applyTheme(theme) {
+      const nextTheme = theme === 'dark' ? 'dark' : 'light';
+      document.documentElement.dataset.theme = nextTheme;
+      localStorage.setItem('pulso-theme', nextTheme);
+      themeBtn.textContent = nextTheme === 'dark' ? '☀️' : '🌙';
+      themeBtn.setAttribute(
+        'aria-label',
+        nextTheme === 'dark' ? 'Activar modo claro' : 'Activar modo oscuro'
+      );
+
+      const themeMeta = document.querySelector('meta[name="theme-color"]');
+      if (themeMeta) {
+        themeMeta.content = getComputedStyle(document.documentElement).getPropertyValue('--theme-color').trim();
+      }
+    }
+
+    function toggleTheme() {
+      const current = document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light';
+      applyTheme(current === 'dark' ? 'light' : 'dark');
+    }
 
     function formatNumber(value, decimals = 2) {
       return new Intl.NumberFormat('es-ES', {
@@ -452,6 +538,8 @@
     });
 
     refreshBtn.addEventListener('click', loadData);
+    themeBtn.addEventListener('click', toggleTheme);
+    applyTheme(document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light');
     loadData();
   </script>
 </body>
