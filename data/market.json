@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T07:03:24.606717+00:00",
+  "updatedAt": "2026-07-19T07:29:55.484938+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -51,6 +51,24 @@
     }
   ],
   "news": [
+    {
+      "id": "63dbef3b-6531-36fd-9ab5-c6e8edad9085",
+      "title": "What are the implications of a renewed closure of the Strait of Hormuz?",
+      "link": "https://finance.yahoo.com/energy/articles/implications-renewed-closure-strait-hormuz-070646525.html",
+      "publisher": "Investing.com",
+      "time": 1784444806,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "481b7fd8-b2a1-3a8e-afd4-27cda27df953",
+      "title": "Parents Are Helping Their Kids Buy Homes These Days. How to Do It the Right Way.",
+      "link": "https://finance.yahoo.com/m/481b7fd8-b2a1-3a8e-afd4-27cda27df953/parents-are-helping-their.html",
+      "publisher": "Barrons.com",
+      "time": 1784444400,
+      "impact": "low",
+      "tags": []
+    },
     {
       "id": "6ef0cede-aaf9-3d45-9bd9-3808776866ce",
       "title": "Kuwait says it's under Iranian missile and drone attack",
@@ -135,27 +153,6 @@
       "tags": [
         "macro",
         "results"
-      ]
-    },
-    {
-      "id": "bd1b9045-8c7c-3b21-b0c1-2c10273602e2",
-      "title": "Coty (COTY) Stock Looks Cheap Even With Fresh Growth Doubts",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coty-coty-stock-looks-cheap-060747330.html",
-      "publisher": "Simply Wall St.",
-      "time": 1784441267,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f67fd2a9-8d96-3fd7-a7dd-01dbc9268100",
-      "title": "Ukraine strikes Wildberries warehouses deep inside Russia, killing eight",
-      "link": "https://finance.yahoo.com/m/f67fd2a9-8d96-3fd7-a7dd-01dbc9268100/ukraine-strikes-wildberries.html",
-      "publisher": "Investing.com",
-      "time": 1784440389,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
       ]
     }
   ],
