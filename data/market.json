@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T09:24:48.442012+00:00",
+  "updatedAt": "2026-07-19T10:50:43.957504+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,23 +52,11 @@
   ],
   "news": [
     {
-      "id": "2f0a3027-8649-3f71-9707-93a9b42e21da",
-      "title": "The Portfolio That Lets You Ignore Inflation",
-      "link": "https://finance.yahoo.com/m/2f0a3027-8649-3f71-9707-93a9b42e21da/the-portfolio-that-lets-you.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1784452337,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "73d0bbe8-6ee1-31e2-8c85-3d6dbc0c1aac",
-      "title": "Institutional demand for CXMT's $8.6 billion Shanghai IPO dented by chip stock selloff",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/institutional-demand-cxmts-8-6-091050988.html",
-      "publisher": "Reuters",
-      "time": 1784452250,
+      "id": "1809a065-139c-3ca7-8c1b-265f15295328",
+      "title": "Taiwan Semiconductor Manufacturing: Is the Stock a Buy as Revenue Continues to Soar?",
+      "link": "https://finance.yahoo.com/m/1809a065-139c-3ca7-8c1b-265f15295328/taiwan-semiconductor.html",
+      "publisher": "Motley Fool",
+      "time": 1784457300,
       "impact": "medium",
       "tags": [
         "macro",
@@ -76,69 +64,74 @@
       ]
     },
     {
-      "id": "e2a68320-ff5d-3845-9eeb-0f321afe8281",
-      "title": "US launches strikes to 'punish' Iran after troops killed",
-      "link": "https://finance.yahoo.com/m/e2a68320-ff5d-3845-9eeb-0f321afe8281/us-launches-strikes-to.html",
+      "id": "7c432c65-bd6c-317d-b9a8-7df9805162fe",
+      "title": "Starbucks Korea staff form union after 'Tank Day' campaign fiasco",
+      "link": "https://finance.yahoo.com/m/7c432c65-bd6c-317d-b9a8-7df9805162fe/starbucks-korea-staff-form.html",
       "publisher": "AFP",
-      "time": 1784452198,
+      "time": 1784457027,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9d515c02-6eea-3bf4-abd5-6c22531891b5",
-      "title": "Puzzle solutions for Sunday, Jul. 19, 2026",
-      "link": "https://finance.yahoo.com/m/9d515c02-6eea-3bf4-abd5-6c22531891b5/puzzle-solutions-for-sunday%2C.html",
-      "publisher": "USA TODAY",
-      "time": 1784452117,
+      "id": "906ed272-1e56-3e56-b915-cfcf40f3ceb5",
+      "title": "Street Calls of the Week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/street-calls-week-103002941.html",
+      "publisher": "Investing.com",
+      "time": 1784457002,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9abbd91b-3084-3cc9-bc2d-83e31bfcf58a",
-      "title": "If a Stock Market Crash Is Coming, History Says Investors Who Make This Simple Move Will Come Out Ahead",
-      "link": "https://finance.yahoo.com/m/9abbd91b-3084-3cc9-bc2d-83e31bfcf58a/if-a-stock-market-crash-is.html",
+      "id": "7e696589-4f31-3130-bea4-ebd3d6f6f236",
+      "title": "Gen Z is breaking our biggest social taboo by sharing their salaries online — but 'loud budgeting' can cost everyone",
+      "link": "https://finance.yahoo.com/small-business/articles/gen-z-breaking-biggest-social-103000350.html",
+      "publisher": "Moneywise",
+      "time": 1784457000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7f252824-44ee-3042-99b8-7e280bc7eaf1",
+      "title": "AI recruitment startup Refer can help find you a job instead of stealing yours — but it will cost you",
+      "link": "https://finance.yahoo.com/small-business/articles/ai-recruitment-startup-refer-help-103000913.html",
+      "publisher": "Moneywise",
+      "time": 1784457000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cec2d495-0f46-34ef-aabc-f1bc07f16b58",
+      "title": "XRP Achieves a Milestone No Other Altcoin Has Ever Reached in Crypto History",
+      "link": "https://finance.yahoo.com/m/cec2d495-0f46-34ef-aabc-f1bc07f16b58/xrp-achieves-a-milestone-no.html",
+      "publisher": "BeInCrypto",
+      "time": 1784457000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e253a117-a027-3c47-a18f-214c085e68b0",
+      "title": "ANAC Publishes Proposed Noise Certification Criteria for Eve 100",
+      "link": "https://finance.yahoo.com/technology/articles/anac-publishes-proposed-noise-certification-103000288.html",
+      "publisher": "PR Newswire",
+      "time": 1784457000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a3cd742a-19d6-3f4d-b292-f717ba32c9f9",
+      "title": "Fort Worth Stockyards Launches $71M Apartment Anchor",
+      "link": "https://finance.yahoo.com/m/a3cd742a-19d6-3f4d-b292-f717ba32c9f9/fort-worth-stockyards.html",
+      "publisher": "CRE Daily",
+      "time": 1784456944,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "682d4480-3e15-3dfa-8da1-565ca7883ed7",
+      "title": "Alphabet vs. Apple: Which Warren Buffett Favorite Is the Better Stock to Buy Today?",
+      "link": "https://finance.yahoo.com/m/682d4480-3e15-3dfa-8da1-565ca7883ed7/alphabet-vs.-apple%3A-which.html",
       "publisher": "Motley Fool",
-      "time": 1784452080,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "dcf3ec55-b98a-37b7-a900-bf9289a24896",
-      "title": "Should you take Social Security at 62? Consider these 4 factors",
-      "link": "https://finance.yahoo.com/m/dcf3ec55-b98a-37b7-a900-bf9289a24896/should-you-take-social.html",
-      "publisher": "USA TODAY",
-      "time": 1784452036,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5bb198a0-7ace-3de2-b91d-9a7dc0d9fbb0",
-      "title": "Paychecks gone in a 'blink.' Rising costs on the minds of Americans",
-      "link": "https://finance.yahoo.com/m/5bb198a0-7ace-3de2-b91d-9a7dc0d9fbb0/paychecks-gone-in-a-%27blink.%27.html",
-      "publisher": "USA TODAY",
-      "time": 1784452034,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "50c803a7-bd2d-383c-9c22-ff86635343a7",
-      "title": "Bill Ackman Runs a $14 Billion Fund on Just 11 Stocks. These Are His 3 Biggest Bets Right Now.",
-      "link": "https://finance.yahoo.com/m/50c803a7-bd2d-383c-9c22-ff86635343a7/bill-ackman-runs-a-%2414.html",
-      "publisher": "Motley Fool",
-      "time": 1784452020,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "df5b706a-7465-315c-92f9-896073bcca27",
-      "title": "Russia pounds Kyiv with ballistic missiles in escalating air war",
-      "link": "https://finance.yahoo.com/m/df5b706a-7465-315c-92f9-896073bcca27/russia-pounds-kyiv-with.html",
-      "publisher": "AFP",
-      "time": 1784451981,
+      "time": 1784456700,
       "impact": "high",
       "tags": [
         "geo",
@@ -146,11 +139,11 @@
       ]
     },
     {
-      "id": "028b87f0-f85e-3122-b9ee-4682a6f34f8f",
-      "title": "Trump ally seeks makeover ahead of critical Arizona governor's race",
-      "link": "https://finance.yahoo.com/m/028b87f0-f85e-3122-b9ee-4682a6f34f8f/trump-ally-seeks-makeover.html",
-      "publisher": "USA TODAY",
-      "time": 1784451960,
+      "id": "19299565-9597-34f7-8fdf-086863ed591d",
+      "title": "Transamerica Pyramid Lands 113K SF in New SF Leases",
+      "link": "https://finance.yahoo.com/m/19299565-9597-34f7-8fdf-086863ed591d/transamerica-pyramid-lands.html",
+      "publisher": "CRE Daily",
+      "time": 1784456569,
       "impact": "low",
       "tags": []
     }
