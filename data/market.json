@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T00:58:31.630767+00:00",
+  "updatedAt": "2026-07-19T04:22:17.704687+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,29 @@
   ],
   "news": [
     {
-      "id": "f65a20e8-7cbf-3892-bb51-4e5976a55212",
-      "title": "Chubb Trades at Just 12 Times Earnings, Well Below the Broader Market. Is One of the World's Biggest Insurers a Bargain?",
-      "link": "https://finance.yahoo.com/m/f65a20e8-7cbf-3892-bb51-4e5976a55212/chubb-trades-at-just-12-times.html",
-      "publisher": "Motley Fool",
-      "time": 1784422200,
+      "id": "0094cca8-e44e-30f9-b766-e8a6dd14cc6d",
+      "title": "Has National Healthcare Properties (NHP) Run Ahead Of Its Fair Value?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/national-healthcare-properties-nhp-run-041516365.html",
+      "publisher": "Simply Wall St.",
+      "time": 1784434516,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ee016494-281e-3fd1-8b23-be09110474b5",
+      "title": "Iridium (IRDM) Launches A New Chip For GPS Spoofing And Jamming Risks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iridium-irdm-launches-chip-gps-041506485.html",
+      "publisher": "Simply Wall St.",
+      "time": 1784434506,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bfa54778-0993-3285-a888-49f2c8ebddcc",
+      "title": "Eli Lilly (LLY) Stock Looks Undervalued On Fair Value Yet Full On Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-lly-stock-looks-041501100.html",
+      "publisher": "Simply Wall St.",
+      "time": 1784434501,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,83 +82,68 @@
       ]
     },
     {
-      "id": "935d621d-9c57-3643-9253-e2f6f1ebeecd",
-      "title": "TSLY Investors Are Missing Tesla’s Rally: How Option Income Strategy Costs You 30% in Upside",
-      "link": "https://finance.yahoo.com/m/935d621d-9c57-3643-9253-e2f6f1ebeecd/tsly-investors-are-missing.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1784422080,
+      "id": "429e465e-cfc4-3e6e-af73-df3c4d91ff6d",
+      "title": "General Electric (GE) Beats Q2 Expectations And Raises 2026 Outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/general-electric-ge-beats-q2-041449677.html",
+      "publisher": "Simply Wall St.",
+      "time": 1784434489,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "555c1edf-1e26-3cc6-8b86-146e394a4d2c",
-      "title": "Taylor Farms pulls iceberg lettuce linked to cyclosporiasis outbreak",
-      "link": "https://finance.yahoo.com/m/555c1edf-1e26-3cc6-8b86-146e394a4d2c/taylor-farms-pulls-iceberg.html",
-      "publisher": "CBS News",
-      "time": 1784422054,
+      "id": "ab46b1e6-8f71-3d69-a76d-fa2db520a9b7",
+      "title": "Allstate (ALL) Appoints Chris Lown As CFO Ahead Of August 2026 Start",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/allstate-appoints-chris-lown-cfo-041438191.html",
+      "publisher": "Simply Wall St.",
+      "time": 1784434478,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "35782fa6-a681-3e19-9ae1-661aed35cb02",
-      "title": "FIFA toasts World Cup triumph as tournament draws to close",
-      "link": "https://finance.yahoo.com/m/35782fa6-a681-3e19-9ae1-661aed35cb02/fifa-toasts-world-cup-triumph.html",
+      "id": "43da38fa-0f31-30b3-8a6f-bb4190aae1ef",
+      "title": "Comcast (CMCSA) Plans Split That Could Put NBCUniversal In Netflix's Sights",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-cmcsa-plans-split-could-041432951.html",
+      "publisher": "Simply Wall St.",
+      "time": 1784434472,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "eeea69a8-f9e2-3469-b39e-26eb37bbfe44",
+      "title": "World Cup moments: Viking row and minnows sparkle",
+      "link": "https://finance.yahoo.com/m/eeea69a8-f9e2-3469-b39e-26eb37bbfe44/world-cup-moments%3A-viking-row.html",
       "publisher": "AFP",
-      "time": 1784421514,
+      "time": 1784433451,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f03e7069-00ab-3660-8a71-cdea09211f7a",
-      "title": "IHE vs IXJ: Which Popular Healthcare ETF Is the Better Buy for Investors?",
-      "link": "https://finance.yahoo.com/m/f03e7069-00ab-3660-8a71-cdea09211f7a/ihe-vs-ixj%3A-which-popular.html",
-      "publisher": "Motley Fool",
-      "time": 1784421361,
-      "impact": "low",
-      "tags": []
+      "id": "c638ef49-4fb8-3716-8844-dc5c4cd2ae13",
+      "title": "W. R. Berkley (WRB) To Report Earnings Tomorrow: Here Is What To Expect",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/w-r-berkley-wrb-report-035701811.html",
+      "publisher": "StockStory",
+      "time": 1784433421,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "12b0b4c4-1da7-3aa2-b7ae-8374a4c7fd53",
-      "title": "British runner sets new men's mile record",
-      "link": "https://finance.yahoo.com/m/12b0b4c4-1da7-3aa2-b7ae-8374a4c7fd53/british-runner-sets-new-men%27s.html",
-      "publisher": "CBS News Videos",
-      "time": 1784421111,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "eeb4fb72-9eec-336c-940e-ed4bf1ebdb98",
-      "title": "Intermodal’s historic growth",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/intermodal-historic-growth-003000152.html",
-      "publisher": "FreightWaves",
-      "time": 1784421000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e434915f-ef51-35c2-8efb-d8c762c1cd5e",
-      "title": "US strikes Iran after attack kills two American troops",
-      "link": "https://finance.yahoo.com/m/e434915f-ef51-35c2-8efb-d8c762c1cd5e/us-strikes-iran-after-attack.html",
-      "publisher": "Investing.com",
-      "time": 1784420428,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4ca0d3c5-5999-32fa-a6b9-215f7166b858",
-      "title": "England finish third as Spain and Argentina brace for World Cup final",
-      "link": "https://finance.yahoo.com/m/4ca0d3c5-5999-32fa-a6b9-215f7166b858/england-finish-third-as-spain.html",
+      "id": "dc5b0abf-c6c7-3094-abc2-6dda70c74c21",
+      "title": "Spain and Argentina brace for World Cup final",
+      "link": "https://finance.yahoo.com/m/dc5b0abf-c6c7-3094-abc2-6dda70c74c21/spain-and-argentina-brace-for.html",
       "publisher": "AFP",
-      "time": 1784420406,
+      "time": 1784433261,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ab877e4b-f466-3a9e-bf44-744244730a4a",
-      "title": "Prediction: Lemonade Stock Will Reach $100 in 2027. Here's Why.",
-      "link": "https://finance.yahoo.com/m/ab877e4b-f466-3a9e-bf44-744244730a4a/prediction%3A-lemonade-stock.html",
-      "publisher": "Motley Fool",
-      "time": 1784420400,
+      "id": "d1b6e246-d732-3499-a6fc-3f8ce88fa911",
+      "title": "US strikes Iran's Revolutionary Guard over attack that killed troops in Jordan",
+      "link": "https://finance.yahoo.com/m/d1b6e246-d732-3499-a6fc-3f8ce88fa911/us-strikes-iran%27s.html",
+      "publisher": "Associated Press",
+      "time": 1784433122,
       "impact": "low",
       "tags": []
     }
