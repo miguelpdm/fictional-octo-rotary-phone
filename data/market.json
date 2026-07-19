@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T17:53:20.993152+00:00",
+  "updatedAt": "2026-07-19T18:57:14.123325+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,56 +52,31 @@
   ],
   "news": [
     {
-      "id": "b4e12ae6-b35e-3379-911b-66cb3fe70685",
-      "title": "Amazon's $190 titanium luxury watch is powered by Seiko",
-      "link": "https://finance.yahoo.com/m/b4e12ae6-b35e-3379-911b-66cb3fe70685/amazon%27s-%24190-titanium-luxury.html",
-      "publisher": "TheStreet",
-      "time": 1784483100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "09e3b227-1071-3c3e-95c9-06a7301c506e",
-      "title": "3 Social Security Birthdays That Decide the Size of Your Check",
-      "link": "https://finance.yahoo.com/m/09e3b227-1071-3c3e-95c9-06a7301c506e/3-social-security-birthdays.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1784482928,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d6986804-8d0d-3774-8960-3ffe5a37b80d",
-      "title": "SpaceX vs. BWX Technologies: Which Industrials Stock Is a Better Buy in 2026?",
-      "link": "https://finance.yahoo.com/m/d6986804-8d0d-3774-8960-3ffe5a37b80d/spacex-vs.-bwx-technologies%3A.html",
+      "id": "b6961fb6-3757-3ad2-a5f7-62edc11b484a",
+      "title": "Are Index Funds Making the Market “Irrational”?",
+      "link": "https://finance.yahoo.com/m/b6961fb6-3757-3ad2-a5f7-62edc11b484a/are-index-funds-making-the.html",
       "publisher": "Motley Fool",
-      "time": 1784482861,
+      "time": 1784485981,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "52b2d0ee-f92a-317a-954c-42c59d281421",
+      "title": "Griffin Global Asset Management Announces the Delivery of the First of Six Boeing 737 MAX 8 Aircraft on Long-Term Lease to VietJet Group",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/griffin-global-asset-management-announces-183000561.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784485800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "02a83c19-06c6-3e6f-a186-8ae7a87f3297",
-      "title": "U.S. companies pouring swelling cash balances into growth plans - Morgan Stanley",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/u-companies-pouring-swelling-cash-174055727.html",
-      "publisher": "Investing.com",
-      "time": 1784482855,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "99337b9e-18bd-323c-9310-ea475fe4bdb3",
-      "title": "Tyler Mitchell’s High Line Debut Highlights The Business Of Building A Lasting Creative Career",
-      "link": "https://finance.yahoo.com/m/99337b9e-18bd-323c-9310-ea475fe4bdb3/tyler-mitchell%E2%80%99s-high-line.html",
-      "publisher": "AfroTech",
-      "time": 1784482849,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "86494530-4923-3778-8253-4b3f7e6f59be",
-      "title": "Bank of America doubles down on Google stock ahead of earnings",
-      "link": "https://finance.yahoo.com/m/86494530-4923-3778-8253-4b3f7e6f59be/bank-of-america-doubles-down.html",
-      "publisher": "TheStreet",
-      "time": 1784482815,
+      "id": "5e3f3bb0-2b13-388f-b47d-93f7b54accd9",
+      "title": "Taiwan Semiconductor Manufacturing Just Showed the Artificial Intelligence (AI) Build-Out Is Alive and Well With This Jaw-Dropping Announcement",
+      "link": "https://finance.yahoo.com/m/5e3f3bb0-2b13-388f-b47d-93f7b54accd9/taiwan-semiconductor.html",
+      "publisher": "Motley Fool",
+      "time": 1784485800,
       "impact": "medium",
       "tags": [
         "macro",
@@ -109,29 +84,50 @@
       ]
     },
     {
-      "id": "8b5eabb7-5ac6-32ee-9f19-996b4871195f",
-      "title": "A Hidden Threat for Micron? Apple Is Eyeing a Fix for AI Memory Demands",
-      "link": "https://finance.yahoo.com/m/8b5eabb7-5ac6-32ee-9f19-996b4871195f/a-hidden-threat-for-micron%3F.html",
+      "id": "711bade4-4dbe-3743-ad2a-770db8bcd9f3",
+      "title": "Fed Flags a Fresh Inflation Threat That Could Rattle Markets",
+      "link": "https://finance.yahoo.com/m/711bade4-4dbe-3743-ad2a-770db8bcd9f3/fed-flags-a-fresh-inflation.html",
       "publisher": "Motley Fool",
-      "time": 1784482500,
-      "impact": "low",
-      "tags": []
+      "time": 1784485200,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "e2a68320-ff5d-3845-9eeb-0f321afe8281",
-      "title": "US launches strikes to 'punish' Iran after troops killed",
-      "link": "https://finance.yahoo.com/m/e2a68320-ff5d-3845-9eeb-0f321afe8281/us-launches-strikes-to.html",
+      "id": "e45ddc19-972b-3e24-a40e-84497d14c6a4",
+      "title": "Italy's Mazzoli wins US PGA Dominican Republic title",
+      "link": "https://finance.yahoo.com/m/e45ddc19-972b-3e24-a40e-84497d14c6a4/italy%27s-mazzoli-wins-us-pga.html",
       "publisher": "AFP",
-      "time": 1784482335,
+      "time": 1784485179,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b261266c-cb7d-3ee5-87bc-4ccdffcbcdb8",
-      "title": "Wall Street Is Warming to Marvell After Its XConn Acquisition. Here’s The Price Target",
-      "link": "https://finance.yahoo.com/m/b261266c-cb7d-3ee5-87bc-4ccdffcbcdb8/wall-street-is-warming-to.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1784482226,
+      "id": "f220fc28-1982-35dd-a7a6-f92b044bac03",
+      "title": "New Zealander Fox birdies last hole to win British Open",
+      "link": "https://finance.yahoo.com/m/f220fc28-1982-35dd-a7a6-f92b044bac03/new-zealander-fox-birdies.html",
+      "publisher": "AFP",
+      "time": 1784485131,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "577c979a-cb40-3e39-ae7d-f3e1f4c17cb9",
+      "title": "Exponent CEO Catherine Corrigan Sells 1,737 Shares",
+      "link": "https://finance.yahoo.com/m/577c979a-cb40-3e39-ae7d-f3e1f4c17cb9/exponent-ceo-catherine.html",
+      "publisher": "Motley Fool",
+      "time": 1784485021,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8a2cd5fd-01f2-35df-8ce7-5b6de88df7fd",
+      "title": "Vanguard warns of Social Security traps costing retirees",
+      "link": "https://finance.yahoo.com/m/8a2cd5fd-01f2-35df-8ce7-5b6de88df7fd/vanguard-warns-of-social.html",
+      "publisher": "TheStreet",
+      "time": 1784485020,
       "impact": "high",
       "tags": [
         "geo",
@@ -139,16 +135,25 @@
       ]
     },
     {
-      "id": "277652a4-8905-3eeb-812f-b4a26029d690",
-      "title": "Netflix's Post-Earnings Sell-Off Just Revealed Why It Was Bidding to Acquire Warner Bros. and Roku",
-      "link": "https://finance.yahoo.com/m/277652a4-8905-3eeb-812f-b4a26029d690/netflix%27s-post-earnings.html",
-      "publisher": "Motley Fool",
-      "time": 1784481600,
+      "id": "1cd042ae-e6a8-3d2b-b114-bdbe4c9e82c7",
+      "title": "Tensions rise in Iran war after latest US troop deaths",
+      "link": "https://finance.yahoo.com/m/1cd042ae-e6a8-3d2b-b114-bdbe4c9e82c7/tensions-rise-in-iran-war.html",
+      "publisher": "USA TODAY",
+      "time": 1784485004,
       "impact": "high",
       "tags": [
         "geo",
         "macro"
       ]
+    },
+    {
+      "id": "3c052125-38e8-3cd2-8fd2-7661ff64735b",
+      "title": "Argentina make three changes for World Cup final, Spain name same team",
+      "link": "https://finance.yahoo.com/m/3c052125-38e8-3cd2-8fd2-7661ff64735b/argentina-make-three-changes.html",
+      "publisher": "AFP",
+      "time": 1784484377,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
