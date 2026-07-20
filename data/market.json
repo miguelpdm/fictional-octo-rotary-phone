@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-20T11:20:23.255189+00:00",
+  "updatedAt": "2026-07-20T13:23:58.536550+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19224.2,
-      "change": 7.299999999999272,
-      "changePct": 0.037987396510359484,
+      "price": 19202.7,
+      "change": -14.200000000000728,
+      "changePct": -0.07389329184208028,
       "currency": "EUR"
     },
     {
@@ -28,44 +28,44 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 24884.62,
-      "change": -30.87000000000262,
-      "changePct": -0.12389882759681876,
+      "price": 24837.08,
+      "change": -78.40999999999985,
+      "changePct": -0.3147038248093851,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6239.06,
-      "change": 8.19000000000051,
-      "changePct": 0.1314423186489288,
+      "price": 6230.92,
+      "change": 0.0500000000001819,
+      "changePct": 0.0008024561578107376,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.2,
-      "change": -0.5700000000000003,
-      "changePct": -3.0367607884922765,
+      "price": 18.09,
+      "change": -0.6799999999999997,
+      "changePct": -3.6228023441662214,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "f02067a1-81fe-3318-8221-05536f0f59de",
-      "title": "FRN Variable Rate Fix",
-      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-111600062.html",
-      "publisher": "Business Wire",
-      "time": 1784546160,
+      "id": "813fa394-c196-3602-b8d0-d0ca8fef8afb",
+      "title": "Acadia Pharmaceuticals Receives US FDA Fast Track Designation for Alzheimer's Disease Psychosis Treatment",
+      "link": "https://finance.yahoo.com/healthcare/articles/acadia-pharmaceuticals-receives-us-fda-132149155.html",
+      "publisher": "MT Newswires",
+      "time": 1784553709,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "302397b9-25bd-3648-9c63-f22cdbc228e4",
-      "title": "Will GM or 3M Crush Earnings? Wall Street Favors This One",
-      "link": "https://finance.yahoo.com/m/302397b9-25bd-3648-9c63-f22cdbc228e4/will-gm-or-3m-crush-earnings%3F.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1784546120,
+      "id": "d26abc40-7946-30a1-91bf-403aef2f9d80",
+      "title": "Earnings To Watch: Home Bancorp Inc (HBCP) Reports Q2 2026 Result",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-home-bancorp-inc-132128312.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784553688,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,38 +73,11 @@
       ]
     },
     {
-      "id": "37de395e-1565-3d68-9bb4-9c69debd70e0",
-      "title": "Zurn Elkay Water Solutions Corporation to Acquire Intellihot",
-      "link": "https://finance.yahoo.com/technology/articles/zurn-elkay-water-solutions-corporation-111500408.html",
-      "publisher": "Business Wire",
-      "time": 1784546100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "89efd3d7-f54f-357d-ab49-0054bd98beda",
-      "title": "Devon Group Founder Appointed to Rutgers Business School Center for Women in Business (CWIB) Board of Advisors",
-      "link": "https://finance.yahoo.com/small-business/articles/devon-group-founder-appointed-rutgers-111500946.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784546100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cede83f9-09ab-35a5-b84f-101b92b203eb",
-      "title": "John Galt Solutions Accelerates the Path from Insight to Action with New Atlas Planning Platform Enhancements",
-      "link": "https://finance.yahoo.com/technology/ai/articles/john-galt-solutions-accelerates-path-111500259.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1784546100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "708c23ac-73b9-4b7e-a19d-9a27e97bc0b1",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge up as oil turns lower in wait for Big Tech earnings",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-july-20-dow-sp-500-nasdaq-111429441.html",
-      "publisher": "Yahoo Finance",
-      "time": 1784546069,
+      "id": "6dcf9583-fcd3-35e7-9a28-243bf7c4b696",
+      "title": "Saturn Oil & Gas Sees Rise in Q2 Funds Flow",
+      "link": "https://finance.yahoo.com/energy/articles/saturn-oil-gas-sees-rise-132125422.html",
+      "publisher": "MT Newswires",
+      "time": 1784553685,
       "impact": "medium",
       "tags": [
         "macro",
@@ -112,40 +85,68 @@
       ]
     },
     {
-      "id": "dfbef256-6c8f-37ae-9c30-82a22a6ce484",
-      "title": "EU aims to boost electrification with new action plan and ETS update",
-      "link": "https://finance.yahoo.com/m/dfbef256-6c8f-37ae-9c30-82a22a6ce484/eu-aims-to-boost.html",
-      "publisher": "Energy Monitor",
-      "time": 1784546065,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c9202b92-02e7-3688-9310-e18631323520",
-      "title": "Why Moonshot AI’s Kimi K3 is actually bullish for memory stocks",
-      "link": "https://finance.yahoo.com/technology/ai/articles/why-moonshot-ai-kimi-k3-111349056.html",
-      "publisher": "Investing.com",
-      "time": 1784546029,
-      "impact": "low",
+      "id": "42ea930c-c05a-3fb1-aed1-1cc98737f902",
+      "title": "Earnings To Watch: Embellence Group AB (OSTO:EMBELL) Reports Q2 2026 Result",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-embellence-group-ab-132047914.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784553647,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "1f328bd6-6918-3820-9bdb-1864cff33335",
-      "title": "AICPA and CIMA select new director for MESANA region",
-      "link": "https://finance.yahoo.com/m/1f328bd6-6918-3820-9bdb-1864cff33335/aicpa-and-cima-select-new.html",
-      "publisher": "The Accountant",
-      "time": 1784545920,
+      "id": "df47b4eb-4c3f-3cf0-be77-ca2b62e26c28",
+      "title": "Morgan Stanley Adjusts Price Target on Intel to $75 From $73, Maintains Equalweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-132036424.html",
+      "publisher": "MT Newswires",
+      "time": 1784553636,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d77dc9d8-29e8-3e15-9af5-778e9a54c1ff",
-      "title": "[Latest] Renewable Natural Gas Market Size Expected to Reach USD 31.55 Billion by 2034, With 8.32% CAGR; Rising Environmental Awareness Across the Globe to Propel Market Growth",
-      "link": "https://finance.yahoo.com/energy/articles/latest-renewable-natural-gas-market-110800039.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784545680,
+      "id": "5593fcb4-ab17-3cf2-8326-2ddc14ad2734",
+      "title": "What To Expect From SmartFinancial Inc (SMBK) Q2 2026 Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/expect-smartfinancial-inc-smbk-q2-132029708.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784553629,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "ca3db89b-7d65-39a5-8ef3-cc770ab2c4d4",
+      "title": "What To Expect From Metropolitan Bank Holding Corp (MCB) Q2 2026 Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/expect-metropolitan-bank-holding-corp-132008124.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784553608,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "38279e67-9dd0-3b41-9f85-686873539587",
+      "title": "Peoples Bancorp Inc (Marietta OH) (PEBO) Q2 2026 Earnings Report Preview: What To Expect",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/peoples-bancorp-inc-marietta-oh-131951807.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784553591,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "c87db7d4-a6fb-3c7e-8ddd-75679d363db6",
+      "title": "Scars of war linger on Syria's Saint Simeon monastery",
+      "link": "https://finance.yahoo.com/m/c87db7d4-a6fb-3c7e-8ddd-75679d363db6/scars-of-war-linger-on.html",
+      "publisher": "AFP",
+      "time": 1784553580,
       "impact": "high",
       "tags": [
         "geo",
@@ -153,54 +154,13 @@
       ]
     },
     {
-      "id": "7fd9fc7c-9505-35d8-97fe-f1ab67beb99a",
-      "title": "Samsung Biologics to acquire PolyPeptide in $1.81bn cash deal",
-      "link": "https://finance.yahoo.com/m/7fd9fc7c-9505-35d8-97fe-f1ab67beb99a/samsung-biologics-to-acquire.html",
-      "publisher": "Pharmaceutical Technology",
-      "time": 1784545634,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "489be112-e9ee-3758-a273-5f4d5e9fdd8c",
-      "title": "3.2 MW Solar Project Announced by PowerBank",
-      "link": "https://finance.yahoo.com/energy/articles/3-2-mw-solar-project-110700252.html",
-      "publisher": "CNW Group",
-      "time": 1784545620,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "cf947ef4-bbdf-35d0-a6ab-a1b2510c5dad",
-      "title": "Brompton Announces the Launch of Two New ETFs: Brompton Utilities & Infrastructure HighPay ETF and Brompton U.S. Equity HighPay ETF and Declares Distributions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/brompton-announces-launch-two-etfs-110700261.html",
-      "publisher": "TMX Newsfile",
-      "time": 1784545620,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "48e842ed-c2e3-3299-b2fc-3f4902551345",
-      "title": "UK biotech financing continues recovery trajectory on five-year Q2 high",
-      "link": "https://finance.yahoo.com/m/48e842ed-c2e3-3299-b2fc-3f4902551345/uk-biotech-financing.html",
-      "publisher": "Pharmaceutical Technology",
-      "time": 1784545583,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4aa59db2-05bc-3645-9030-e8deba1de3bd",
-      "title": "Top Premarket Gainers",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-110619277.html",
+      "id": "c220e870-15a3-391d-a88f-04394bf257ea",
+      "title": "Bernstein Adjusts UnitedHealth Price Target to $512 From $492, Maintains Outperform Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bernstein-adjusts-unitedhealth-price-target-131932010.html",
       "publisher": "MT Newswires",
-      "time": 1784545579,
+      "time": 1784553572,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     }
   ],
   "errors": {
