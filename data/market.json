@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T20:16:57.666176+00:00",
+  "updatedAt": "2026-07-20T21:39:45.771011+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -44,109 +44,106 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.44,
-      "change": -0.3299999999999983,
-      "changePct": -1.7581246670218345,
+      "price": 18.65,
+      "change": -0.120000000000001,
+      "changePct": -0.6393180607352211,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "10f00567-cbd6-3b10-9a47-97ed7f58e0dc",
-      "title": "EPR Strengthens Balance Sheet With New Credit Facility",
-      "link": "https://finance.yahoo.com/real-estate/articles/epr-strengthens-balance-sheet-credit-201612108.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784578572,
+      "id": "716c3c5c-570c-315f-ada9-a1151c7a72b9",
+      "title": "In HelloNation, Remodeling Expert Brian Ward Explains Aging in Place Remodeling Strategies",
+      "link": "https://finance.yahoo.com/real-estate/articles/hellonation-remodeling-expert-brian-ward-213800689.html",
+      "publisher": "PR Newswire",
+      "time": 1784583480,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "660df95d-b429-3359-bc3c-d3f180dfaf2b",
+      "title": "Bank of America doubles down on Microsoft stock ahead of earnings",
+      "link": "https://finance.yahoo.com/m/660df95d-b429-3359-bc3c-d3f180dfaf2b/bank-of-america-doubles-down.html",
+      "publisher": "TheStreet",
+      "time": 1784583180,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "33d2248e-6352-309d-b9dc-83d76a84a793",
+      "title": "D2L Inc. Announces Preliminary Results of Substantial Issuer Bid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/d2l-inc-announces-preliminary-results-213000243.html",
+      "publisher": "CNW Group",
+      "time": 1784583000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1d050433-e208-4817-bb3f-fb15fefa3808",
-      "title": "AMC jumps 20% after strong quarter, The Odyssey debut",
-      "link": "https://finance.yahoo.com/video/amc-jumps-20-after-strong-quarter-the-odyssey-debut-201248288.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1784578368,
+      "id": "f66301c2-d462-3182-a35b-e80956444a74",
+      "title": "ENERGIZER HOLDINGS, INC. TO WEBCAST A DISCUSSION OF THIRD QUARTER FISCAL YEAR 2026 RESULTS ON AUGUST 4",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/energizer-holdings-inc-webcast-discussion-213000748.html",
+      "publisher": "PR Newswire",
+      "time": 1784583000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1dc16b56-7c5b-3f63-bf08-cce4b4876fba",
-      "title": "Bristol Myers Expands NVIDIA Partnership to Build Top Life Sciences AI Supercomputer",
-      "link": "https://finance.yahoo.com/technology/ai/articles/bristol-myers-expands-nvidia-partnership-201248290.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784578368,
+      "id": "1ee631ae-13da-396f-8ec5-7c6f85ffd574",
+      "title": "Clean Harbors' Founder Parted With 1,265 Shares. He Still Holds Over 2 Million",
+      "link": "https://finance.yahoo.com/m/1ee631ae-13da-396f-8ec5-7c6f85ffd574/clean-harbors%27-founder-parted.html",
+      "publisher": "Motley Fool",
+      "time": 1784582912,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0483e379-8e1d-3014-907e-a47f750727d7",
-      "title": "Spain stars lap up adulation of estimated two million on World Cup parade",
-      "link": "https://finance.yahoo.com/m/0483e379-8e1d-3014-907e-a47f750727d7/spain-stars-lap-up-adulation.html",
-      "publisher": "AFP",
-      "time": 1784578305,
+      "id": "43807832-c9d6-3257-bb39-4c8ef95078e6",
+      "title": "STEICO SE: Half-Year Report 2026 - Catch-up Effects in the Second Quarter, Along With Cost Pressures",
+      "link": "https://finance.yahoo.com/real-estate/articles/steico-se-half-report-2026-212755958.html",
+      "publisher": "NewMediaWire",
+      "time": 1784582875,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0991de36-1cae-33b8-a8ac-974b6530e335",
-      "title": "RBB Bancorp Reports Second Quarter 2026 Earnings and Declares Quarterly Cash Dividend of $0.16 Per Common Share",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rbb-bancorp-reports-second-quarter-201000997.html",
+      "id": "d5118432-c0ac-3d26-aad8-bacf6e3600f7",
+      "title": "3 Reasons I’m Buying Amazon Over and Over Until Late 2026",
+      "link": "https://finance.yahoo.com/m/d5118432-c0ac-3d26-aad8-bacf6e3600f7/3-reasons-i%E2%80%99m-buying-amazon.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1784582820,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "34c2d78f-4a17-3841-9ee9-73971d87c6e3",
+      "title": "I’m Buying Apple’s AI Advantage That Keeps It Ahead of the Mag 7 At Least Until This Point",
+      "link": "https://finance.yahoo.com/m/34c2d78f-4a17-3841-9ee9-73971d87c6e3/i%E2%80%99m-buying-apple%E2%80%99s-ai.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1784582801,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7661a276-21e5-331e-9254-5b07f6c55029",
+      "title": "Empire State Realty Trust Leases 30,017 Square Feet to Infinium Wall Systems in New York",
+      "link": "https://finance.yahoo.com/real-estate/articles/empire-state-realty-trust-leases-212601345.html",
+      "publisher": "MT Newswires",
+      "time": 1784582761,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9789ddbd-72ab-3c5d-a638-01d30762a993",
+      "title": "North American Construction Group Ltd. Second Quarter Results Conference Call and Webcast Notification",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/north-american-construction-group-ltd-212600491.html",
       "publisher": "GlobeNewswire",
-      "time": 1784578200,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "0d171d1e-3e35-3f30-9e1b-cd5e8b67058c",
-      "title": "Biscuit Belly Positions for Next Phase of Growth with Acquisition of Maple Street Biscuit Company",
-      "link": "https://finance.yahoo.com/small-business/articles/biscuit-belly-positions-next-phase-201000612.html",
-      "publisher": "PR Newswire",
-      "time": 1784578200,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "12a87c02-eee4-39e3-ae1f-dbd9a6bfbefe",
-      "title": "PSEG Declares Regular Quarterly Dividend for the Third Quarter of 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pseg-declares-regular-quarterly-dividend-201000614.html",
-      "publisher": "PR Newswire",
-      "time": 1784578200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1dff0b8a-c8bf-3bca-953c-0bfaf64c1c72",
-      "title": "Zions Bancorporation, National Association Reports Second Quarter Financial Results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zions-bancorporation-national-association-reports-201000554.html",
-      "publisher": "PR Newswire",
-      "time": 1784578200,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "259570cc-304b-3b84-a416-7a08697d4917",
-      "title": "Eagle Nuclear Energy Provides Second Quarter 2026 Corporate Update",
-      "link": "https://finance.yahoo.com/energy/articles/eagle-nuclear-energy-provides-second-201000583.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784578200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8a4c9cb4-6fa9-3cbc-9ad5-4b4ca4488322",
-      "title": "Columbus McKinnon Declares Quarterly Dividend of $0.07 per Share",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/columbus-mckinnon-declares-quarterly-dividend-201000442.html",
-      "publisher": "PR Newswire",
-      "time": 1784578200,
+      "time": 1784582760,
       "impact": "low",
       "tags": []
     }
