@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T16:55:23.443832+00:00",
+  "updatedAt": "2026-07-20T18:50:19.498555+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7476.58,
-      "change": -57.19000000000051,
-      "changePct": -0.7591152902199099,
+      "price": 7452.01,
+      "change": -81.76000000000022,
+      "changePct": -1.0852468286130346,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25663.086,
-      "change": -218.8640000000014,
-      "changePct": -0.8456240739202471,
+      "price": 25567.137,
+      "change": -314.8130000000019,
+      "changePct": -1.2163418907771706,
       "currency": "USD"
     },
     {
@@ -44,28 +44,91 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.56,
-      "change": -1.2100000000000009,
-      "changePct": -6.44645711241343,
+      "price": 18.1,
+      "change": -0.6699999999999982,
+      "changePct": -3.569525839104945,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "868b73b2-a13b-414b-81b1-b95a18a7cb31",
-      "title": "How to file a renters insurance claim — and what to do if a claim is denied",
-      "link": "https://finance.yahoo.com/personal-finance/insurance/article/how-to-file-a-renters-insurance-claim-165131785.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1784566291,
+      "id": "f6611c59-db73-3856-998e-e725f188b775",
+      "title": "Archer and Anduril Unveil Thunder Attack Rotorcraft",
+      "link": "https://finance.yahoo.com/technology/articles/archer-anduril-unveil-thunder-attack-184550301.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784573150,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b4f865b3-377e-33ff-911c-4f8c3ba4c3d7",
-      "title": "European shares tick lower as investors assess US-Iran jitters; tech earnings loom",
-      "link": "https://finance.yahoo.com/markets/articles/european-shares-muted-markets-assess-091825695.html",
+      "id": "b5fcea71-7429-3f4e-ac09-eff249f32c51",
+      "title": "Striking Skincare Gold: Gold Bond® and Ali Larter Debut the Gold Standard in Scented Skincare at Under the Big Sky Music Festival",
+      "link": "https://finance.yahoo.com/media-advertising/articles/striking-skincare-gold-gold-bond-184500121.html",
+      "publisher": "PR Newswire",
+      "time": 1784573100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3070a357-66c0-3dec-950b-44aff1bb2b93",
+      "title": "Banijay Group: weekly share transactions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/banijay-group-weekly-share-transactions-184400267.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784573040,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "07f2102c-6b72-3ba7-b724-eb1f30257aa4",
+      "title": "Virbac: Solid growth of +7.4% at CERS in H1 2026, fueled by double-digit growth of our Supercharge platforms",
+      "link": "https://finance.yahoo.com/healthcare/articles/virbac-solid-growth-7-4-184300332.html",
+      "publisher": "PR Newswire",
+      "time": 1784572980,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "249b88f8-b8f1-3aa7-af7e-343c554cac22",
+      "title": "Airtripmaker Announces the Launch of Its Newly Redesigned Website",
+      "link": "https://finance.yahoo.com/small-business/articles/airtripmaker-announces-launch-newly-redesigned-184300810.html",
+      "publisher": "TMX Newsfile",
+      "time": 1784572980,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a8ccf5b9-d4d0-3d76-9cb8-7cd6ea9dfe5d",
+      "title": "8thElement and Synthesized Partner to Industrialize Enterprise AI with AI-Native Test Data Automation",
+      "link": "https://finance.yahoo.com/technology/ai/articles/8thelement-synthesized-partner-industrialize-enterprise-184300157.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784572980,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a042f7b7-dfd4-3e88-98fe-a075a01a1f8b",
+      "title": "It's not just Taco Bell. Taylor Farms supplies lettuce to many US brands",
+      "link": "https://finance.yahoo.com/m/a042f7b7-dfd4-3e88-98fe-a075a01a1f8b/it%27s-not-just-taco-bell..html",
+      "publisher": "USA TODAY",
+      "time": 1784572856,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1804008c-8e39-3cf7-a716-65813923f7e1",
+      "title": "French Parliament's committee approves social media ban for under-15s",
+      "link": "https://finance.yahoo.com/m/1804008c-8e39-3cf7-a716-65813923f7e1/french-parliament%27s-committee.html",
       "publisher": "Reuters",
-      "time": 1784566276,
+      "time": 1784572647,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "83d94e3b-fa2a-3847-8f7b-d7047048fc66",
+      "title": "Wall Street Eager For Robotaxi, Optimus News During Tesla Earnings",
+      "link": "https://finance.yahoo.com/m/83d94e3b-fa2a-3847-8f7b-d7047048fc66/wall-street-eager-for.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1784572630,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,86 +136,15 @@
       ]
     },
     {
-      "id": "2fd2dfc7-ef39-38b7-b00c-ebddfc06e650",
-      "title": "Paramount's $110 Billion Warner Bros. Deal Clears Early Court Challenge",
-      "link": "https://finance.yahoo.com/media-advertising/articles/paramounts-110-billion-warner-bros-165102776.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784566262,
+      "id": "8a51e626-dd26-3e3f-bb03-6e1fbb3f8bb8",
+      "title": "OneTimeSuite.com Launches Public \"100 Apps in 100 Days\" Challenge to Replace Subscription Software With One-Time Purchases",
+      "link": "https://finance.yahoo.com/technology/articles/onetimesuite-com-launches-public-100-183700200.html",
+      "publisher": "PR Newswire",
+      "time": 1784572620,
       "impact": "high",
       "tags": [
         "geo",
         "macro"
-      ]
-    },
-    {
-      "id": "9dcc63fa-b369-3d5b-83f2-2506a3a80bca",
-      "title": "/DISREGARD RELEASE: Chris Sain/",
-      "link": "https://finance.yahoo.com/media-advertising/articles/chris-sain-jr-becomes-first-123500746.html",
-      "publisher": "PR Newswire",
-      "time": 1784566260,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "acbdfc7b-17ab-3bb7-8624-db202bc50b01",
-      "title": "ThaiBev Weighs Sale of Thailand's Largest KFC Franchise With 500+ Restaurants",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/thaibev-weighs-sale-thailands-largest-165009905.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784566209,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1714f047-b0c8-3e77-8e28-20253733e71a",
-      "title": "How Invasive Pests Spread and How You Can Help Stop Them",
-      "link": "https://finance.yahoo.com/healthcare/articles/invasive-pests-spread-help-stop-165000690.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784566200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "59f4683d-49f2-3f5b-9ee7-453696426554",
-      "title": "5 Semiconductor Stocks Poised to Outperform This Summer",
-      "link": "https://finance.yahoo.com/m/59f4683d-49f2-3f5b-9ee7-453696426554/5-semiconductor-stocks-poised.html",
-      "publisher": "Motley Fool",
-      "time": 1784566200,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a12d661c-6d39-3612-868d-49a1b4d16dac",
-      "title": "UBS Sees 8% Stoxx 600 Upside as European Earnings Momentum Strengthens",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-sees-8-stoxx-600-164805108.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784566085,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "75190130-42e6-36fc-b2fa-b67bb4c2f8c3",
-      "title": "Ocean West Announces Long-Term Lease Extension with the District of Columbia at Sentinel Square II",
-      "link": "https://finance.yahoo.com/real-estate/articles/ocean-west-announces-long-term-164800723.html",
-      "publisher": "PR Newswire",
-      "time": 1784566080,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1175c1fa-58d6-32fe-89e0-f200e87f82cc",
-      "title": "AMC Entertainment (AMC) Stock Trades Up, Here Is Why",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amc-entertainment-amc-stock-trades-164733604.html",
-      "publisher": "StockStory",
-      "time": 1784566053,
-      "impact": "medium",
-      "tags": [
-        "geo"
       ]
     }
   ],
