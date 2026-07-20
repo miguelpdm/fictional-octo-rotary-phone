@@ -1,156 +1,159 @@
 {
-  "updatedAt": "2026-07-20T15:26:55.795151+00:00",
+  "updatedAt": "2026-07-20T16:55:23.443832+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19222.6,
-      "change": 5.69999999999709,
-      "changePct": 0.029661391795747956,
+      "price": 19206.9,
+      "change": -10.0,
+      "changePct": -0.05203752946625105,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7483.33,
-      "change": -50.44000000000051,
-      "changePct": -0.6695187137382812,
+      "price": 7476.58,
+      "change": -57.19000000000051,
+      "changePct": -0.7591152902199099,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25685.729,
-      "change": -196.22100000000137,
-      "changePct": -0.7581383937454533,
+      "price": 25663.086,
+      "change": -218.8640000000014,
+      "changePct": -0.8456240739202471,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 24864.5,
-      "change": -50.9900000000016,
-      "changePct": -0.20465180496149823,
+      "price": 24846.69,
+      "change": -68.80000000000291,
+      "changePct": -0.2761334414856096,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6232.76,
-      "change": 1.8900000000003274,
-      "changePct": 0.030332842765140783,
+      "price": 6227.4,
+      "change": -3.4700000000002547,
+      "changePct": -0.055690457351866667,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.22,
-      "change": -0.5500000000000007,
-      "changePct": -2.930207778369743,
+      "price": 17.56,
+      "change": -1.2100000000000009,
+      "changePct": -6.44645711241343,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "f753b241-7157-4583-952f-3d1190b45467",
-      "title": "Silver prices today, Monday, July 20, 2026: Silver ticks up after violent weekend in Middle East",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-july-20-2026-silver-ticks-up-after-violent-weekend-in-middle-east-152445143.html",
+      "id": "868b73b2-a13b-414b-81b1-b95a18a7cb31",
+      "title": "How to file a renters insurance claim — and what to do if a claim is denied",
+      "link": "https://finance.yahoo.com/personal-finance/insurance/article/how-to-file-a-renters-insurance-claim-165131785.html",
       "publisher": "Yahoo Personal Finance",
-      "time": 1784561085,
+      "time": 1784566291,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "36fa875d-ebe4-3d29-8f6c-c9550e8a9c84",
-      "title": "Air Canada Launches Initiative With Airbus to Scale Domestic Sustainable Aviation Fuel Industry",
-      "link": "https://finance.yahoo.com/energy/articles/air-canada-launches-initiative-airbus-152229404.html",
-      "publisher": "MT Newswires",
-      "time": 1784560949,
+      "id": "b4f865b3-377e-33ff-911c-4f8c3ba4c3d7",
+      "title": "European shares tick lower as investors assess US-Iran jitters; tech earnings loom",
+      "link": "https://finance.yahoo.com/markets/articles/european-shares-muted-markets-assess-091825695.html",
+      "publisher": "Reuters",
+      "time": 1784566276,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "2fd2dfc7-ef39-38b7-b00c-ebddfc06e650",
+      "title": "Paramount's $110 Billion Warner Bros. Deal Clears Early Court Challenge",
+      "link": "https://finance.yahoo.com/media-advertising/articles/paramounts-110-billion-warner-bros-165102776.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784566262,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "9dcc63fa-b369-3d5b-83f2-2506a3a80bca",
+      "title": "/DISREGARD RELEASE: Chris Sain/",
+      "link": "https://finance.yahoo.com/media-advertising/articles/chris-sain-jr-becomes-first-123500746.html",
+      "publisher": "PR Newswire",
+      "time": 1784566260,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "64bdf09f-46e9-3bbb-a52e-468105f8aa71",
-      "title": "Datadog Seen Delivering Strong Q2 Results on AI Demand, Product Expansion, Oppenheimer Says",
-      "link": "https://finance.yahoo.com/technology/ai/articles/datadog-seen-delivering-strong-q2-152133953.html",
-      "publisher": "MT Newswires",
-      "time": 1784560893,
+      "id": "acbdfc7b-17ab-3bb7-8624-db202bc50b01",
+      "title": "ThaiBev Weighs Sale of Thailand's Largest KFC Franchise With 500+ Restaurants",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/thaibev-weighs-sale-thailands-largest-165009905.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784566209,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d4c2a509-4610-364c-83f4-a42bf444b4e5",
-      "title": "Goldman Sachs Adjusts Kimco Realty Price Target to $26 From $25, Maintains Neutral Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-kimco-realty-152115669.html",
-      "publisher": "MT Newswires",
-      "time": 1784560875,
+      "id": "1714f047-b0c8-3e77-8e28-20253733e71a",
+      "title": "How Invasive Pests Spread and How You Can Help Stop Them",
+      "link": "https://finance.yahoo.com/healthcare/articles/invasive-pests-spread-help-stop-165000690.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784566200,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6c5d3e86-1f0e-3d9b-9382-2922fd6ec727",
-      "title": "Rubico Terminates $30 Million Equity Facility With B. Riley",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rubico-terminates-30-million-equity-152103631.html",
-      "publisher": "MT Newswires",
-      "time": 1784560863,
+      "id": "59f4683d-49f2-3f5b-9ee7-453696426554",
+      "title": "5 Semiconductor Stocks Poised to Outperform This Summer",
+      "link": "https://finance.yahoo.com/m/59f4683d-49f2-3f5b-9ee7-453696426554/5-semiconductor-stocks-poised.html",
+      "publisher": "Motley Fool",
+      "time": 1784566200,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a12d661c-6d39-3612-868d-49a1b4d16dac",
+      "title": "UBS Sees 8% Stoxx 600 Upside as European Earnings Momentum Strengthens",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-sees-8-stoxx-600-164805108.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784566085,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "75190130-42e6-36fc-b2fa-b67bb4c2f8c3",
+      "title": "Ocean West Announces Long-Term Lease Extension with the District of Columbia at Sentinel Square II",
+      "link": "https://finance.yahoo.com/real-estate/articles/ocean-west-announces-long-term-164800723.html",
+      "publisher": "PR Newswire",
+      "time": 1784566080,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b7a97c8c-eb6c-35f3-bb5a-b36a2920c687",
-      "title": "Goldman Sachs Adjusts Price Target on Simon Property to $241 From $229, Maintains Buy Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-price-target-152056583.html",
-      "publisher": "MT Newswires",
-      "time": 1784560856,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "79fd51ef-5123-4e9c-91fc-e2cc61f942d6",
-      "title": "Bitcoin and ethereum prices today, Monday, July 20, 2026: Crypto prices mixed as second half 2026 outlooks conflict",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-20-2026-crypto-prices-mixed-as-second-half-2026-outlooks-conflict-151956982.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1784560796,
+      "id": "1175c1fa-58d6-32fe-89e0-f200e87f82cc",
+      "title": "AMC Entertainment (AMC) Stock Trades Up, Here Is Why",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amc-entertainment-amc-stock-trades-164733604.html",
+      "publisher": "StockStory",
+      "time": 1784566053,
       "impact": "medium",
       "tags": [
         "geo"
       ]
-    },
-    {
-      "id": "2beb2d1f-08a4-3368-9f39-65fe346b1e1e",
-      "title": "Apple Sidesteps AI Spend Bubble So I Keep Buying",
-      "link": "https://finance.yahoo.com/m/2beb2d1f-08a4-3368-9f39-65fe346b1e1e/apple-sidesteps-ai-spend.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1784560742,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f2ed2b79-3666-3634-bd71-698b5cb453bd",
-      "title": "Form 8.3",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-151900525.html",
-      "publisher": "Business Wire",
-      "time": 1784560740,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5ee29fc2-941b-38d0-89a5-40df69f27b10",
-      "title": "F.N.B. Faces Ongoing Net Interest Income Headwinds, BofA Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/f-n-b-faces-ongoing-151746752.html",
-      "publisher": "MT Newswires",
-      "time": 1784560666,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4e101d8e-b97e-4432-8d90-f97eeb75ff43",
-      "title": "Lockheed Martin exec. explains new missile and drone defense systems",
-      "link": "https://finance.yahoo.com/video/lockheed-martin-exec-explains-new-missile-and-drone-defense-systems-151502083.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1784560502,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
