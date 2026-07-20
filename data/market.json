@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-20T05:01:26.752784+00:00",
+  "updatedAt": "2026-07-20T08:22:28.142560+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19216.9,
-      "change": -87.19999999999709,
-      "changePct": -0.45171751078784866,
+      "price": 19253.0,
+      "change": 36.099999999998545,
+      "changePct": 0.18785548137315874,
       "currency": "EUR"
     },
     {
@@ -28,74 +28,71 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 24830.98,
-      "change": -168.54999999999927,
-      "changePct": -0.6742126751982909,
+      "price": 24840.96,
+      "change": -74.53000000000247,
+      "changePct": -0.2991311830511961,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6230.87,
-      "change": -52.73999999999978,
-      "changePct": -0.8393264381462213,
+      "price": 6237.9,
+      "change": 7.029999999999745,
+      "changePct": 0.11282533578777516,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.77,
-      "change": 2.039999999999999,
-      "changePct": 12.19366407650926,
+      "price": 18.49,
+      "change": -0.28000000000000114,
+      "changePct": -1.4917421417155095,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "a708507d-df35-3605-9a56-a98f5bffdb45",
-      "title": "WesBanco (WSBC) Reports Q2: Everything You Need To Know Ahead Of Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wesbanco-wsbc-reports-q2-everything-045310221.html",
-      "publisher": "StockStory",
-      "time": 1784523190,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "9755221b-504c-3853-8a29-cb51f3cf8520",
-      "title": "Chocolate Master Ryan Stevenson named as official Callebaut Ambassador in South Pacific, Australia.",
-      "link": "https://finance.yahoo.com/small-business/articles/chocolate-master-ryan-stevenson-named-045200800.html",
-      "publisher": "PR Newswire",
-      "time": 1784523120,
+      "id": "ddb52318-128e-3468-9d5a-895f321866b5",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-081800933.html",
+      "publisher": "Business Wire",
+      "time": 1784535480,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "af662365-96ef-35b2-b73e-b77912ba9bdf",
-      "title": "Fostering new opportunities in the Greater Bay Area and Asia's Pharmaceutical Industry",
-      "link": "https://finance.yahoo.com/healthcare/articles/fostering-opportunities-greater-bay-area-045200359.html",
-      "publisher": "PR Newswire",
-      "time": 1784523120,
+      "id": "4022e4ad-6b08-3695-996d-19bcb89be33b",
+      "title": "IEA highlights supply risks for France in critical minerals sector",
+      "link": "https://finance.yahoo.com/m/4022e4ad-6b08-3695-996d-19bcb89be33b/iea-highlights-supply-risks.html",
+      "publisher": "Mining Technology",
+      "time": 1784535440,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "25ea6246-0922-3d5f-b7be-0bc395c2d361",
-      "title": "Ferry capsizes off Guyana coast, 67 rescued as search continues",
-      "link": "https://finance.yahoo.com/m/25ea6246-0922-3d5f-b7be-0bc395c2d361/ferry-capsizes-off-guyana.html",
-      "publisher": "AFP",
-      "time": 1784523095,
+      "id": "4c6d94e3-9884-3651-85d0-cee7ead5adfc",
+      "title": "Could AI chip boom make ASML Europe's first trillion-dollar firm?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/could-ai-chip-boom-asml-081518524.html",
+      "publisher": "Reuters",
+      "time": 1784535318,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "20e2e0dd-7e8c-386b-a890-e62fa4ba98e7",
-      "title": "Fed Chair Kevin Warsh Vowed to End 5 Years of High Inflation in First Congressional Testimony",
-      "link": "https://finance.yahoo.com/m/20e2e0dd-7e8c-386b-a890-e62fa4ba98e7/fed-chair-kevin-warsh-vowed.html",
-      "publisher": "Motley Fool",
-      "time": 1784523000,
+      "id": "a308f85f-a6ef-3e4d-993e-c1e5ffa7ab70",
+      "title": "3 Token Unlocks to Watch in the Fourth Week of July 2026",
+      "link": "https://finance.yahoo.com/m/a308f85f-a6ef-3e4d-993e-c1e5ffa7ab70/3-token-unlocks-to-watch-in.html",
+      "publisher": "BeInCrypto",
+      "time": 1784535117,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "59ab71e2-2a6b-3d5e-aead-ba132f52e519",
+      "title": "Analysis-Portugal's migrant curbs hit construction firms working to solve housing crisis",
+      "link": "https://finance.yahoo.com/m/59ab71e2-2a6b-3d5e-aead-ba132f52e519/analysis-portugal%27s-migrant.html",
+      "publisher": "Reuters",
+      "time": 1784535084,
       "impact": "high",
       "tags": [
         "geo",
@@ -103,58 +100,52 @@
       ]
     },
     {
-      "id": "b0addd55-daa9-33f6-9a1a-2e38e3e45fd4",
-      "title": "Capital One (COF) Reports Q2: Everything You Need To Know Ahead Of Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/capital-one-cof-reports-q2-044510308.html",
-      "publisher": "StockStory",
-      "time": 1784522710,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "87d2e94d-ffec-382e-80e7-2b5b611f7f4e",
-      "title": "Kuwait says its air defenses are working to intercept incoming Iranian fire",
-      "link": "https://finance.yahoo.com/m/87d2e94d-ffec-382e-80e7-2b5b611f7f4e/kuwait-says-its-air-defenses.html",
-      "publisher": "Associated Press",
-      "time": 1784522285,
+      "id": "c207464a-3fee-38cf-88b7-a35d149dc2cf",
+      "title": "Blackstone to Invest in Korea's Futronic",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/blackstone-invest-korea-apos-futronic-081031007.html",
+      "publisher": "MT Newswires",
+      "time": 1784535031,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1c78655a-5e3e-3bb9-8d64-df62389ac2c8",
-      "title": "MSCI (MSCI) Q2 Earnings Report Preview: What To Look For",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/msci-msci-q2-earnings-report-043710840.html",
-      "publisher": "StockStory",
-      "time": 1784522230,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c775f39c-ed95-3caa-8a24-ef74e10b5934",
-      "title": "South Korea's Kospi drops nearly 5% as some AI stocks swoon, while oil keeps climbing",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/south-koreas-kospi-drops-nearly-043530052.html",
-      "publisher": "Associated Press",
-      "time": 1784522130,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "9198fa5e-51ba-3914-9e1d-f24632c944b6",
-      "title": "More Than 60 Nations Unite as IIHM Launches GAIHEC, the World's First Global AI Hospitality Education Council",
-      "link": "https://finance.yahoo.com/technology/ai/articles/more-60-nations-unite-iihm-043000510.html",
-      "publisher": "PR Newswire",
-      "time": 1784521800,
+      "id": "f8732471-7c9d-3d6f-8604-1080562ea525",
+      "title": "METZ Launches the New MNH7000Z QD-MiniLED TV in Italy, Bringing Premium Home Entertainment to a New Level.",
+      "link": "https://finance.yahoo.com/media-advertising/articles/metz-launches-mnh7000z-qd-miniled-081000701.html",
+      "publisher": "Business Wire",
+      "time": 1784535000,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "aa909d48-dd5e-3df0-b041-50517c42b7af",
+      "title": "Vizsla Copper reports phase one drill results at Thira Discovery",
+      "link": "https://finance.yahoo.com/m/aa909d48-dd5e-3df0-b041-50517c42b7af/vizsla-copper-reports-phase.html",
+      "publisher": "Mining Technology",
+      "time": 1784534929,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b56d86cd-f89d-3064-bcb7-aa591f8aafdf",
+      "title": "Elis: Disclosure of the number of shares forming the capital and of the total number of voting rights as of 30 06 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/elis-disclosure-number-shares-forming-080800239.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784534880,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "73a8e7f7-3527-3b32-bd8a-63f448644ee5",
+      "title": "Peoples Bancorp (PEBO) Reports Q2: Everything You Need To Know Ahead Of Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/peoples-bancorp-pebo-reports-q2-080733581.html",
+      "publisher": "StockStory",
+      "time": 1784534853,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
