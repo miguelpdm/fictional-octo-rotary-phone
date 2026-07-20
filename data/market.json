@@ -1,164 +1,154 @@
 {
-  "updatedAt": "2026-07-20T13:23:58.536550+00:00",
+  "updatedAt": "2026-07-20T15:26:55.795151+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19202.7,
-      "change": -14.200000000000728,
-      "changePct": -0.07389329184208028,
+      "price": 19222.6,
+      "change": 5.69999999999709,
+      "changePct": 0.029661391795747956,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7457.69,
-      "change": -114.71000000000004,
-      "changePct": -1.5148433785853894,
+      "price": 7483.33,
+      "change": -50.44000000000051,
+      "changePct": -0.6695187137382812,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25520.244,
-      "change": -748.9860000000008,
-      "changePct": -2.8511912987171715,
+      "price": 25685.729,
+      "change": -196.22100000000137,
+      "changePct": -0.7581383937454533,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 24837.08,
-      "change": -78.40999999999985,
-      "changePct": -0.3147038248093851,
+      "price": 24864.5,
+      "change": -50.9900000000016,
+      "changePct": -0.20465180496149823,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6230.92,
-      "change": 0.0500000000001819,
-      "changePct": 0.0008024561578107376,
+      "price": 6232.76,
+      "change": 1.8900000000003274,
+      "changePct": 0.030332842765140783,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.09,
-      "change": -0.6799999999999997,
-      "changePct": -3.6228023441662214,
+      "price": 18.22,
+      "change": -0.5500000000000007,
+      "changePct": -2.930207778369743,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "813fa394-c196-3602-b8d0-d0ca8fef8afb",
-      "title": "Acadia Pharmaceuticals Receives US FDA Fast Track Designation for Alzheimer's Disease Psychosis Treatment",
-      "link": "https://finance.yahoo.com/healthcare/articles/acadia-pharmaceuticals-receives-us-fda-132149155.html",
-      "publisher": "MT Newswires",
-      "time": 1784553709,
+      "id": "f753b241-7157-4583-952f-3d1190b45467",
+      "title": "Silver prices today, Monday, July 20, 2026: Silver ticks up after violent weekend in Middle East",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-july-20-2026-silver-ticks-up-after-violent-weekend-in-middle-east-152445143.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1784561085,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d26abc40-7946-30a1-91bf-403aef2f9d80",
-      "title": "Earnings To Watch: Home Bancorp Inc (HBCP) Reports Q2 2026 Result",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-home-bancorp-inc-132128312.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784553688,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "6dcf9583-fcd3-35e7-9a28-243bf7c4b696",
-      "title": "Saturn Oil & Gas Sees Rise in Q2 Funds Flow",
-      "link": "https://finance.yahoo.com/energy/articles/saturn-oil-gas-sees-rise-132125422.html",
+      "id": "36fa875d-ebe4-3d29-8f6c-c9550e8a9c84",
+      "title": "Air Canada Launches Initiative With Airbus to Scale Domestic Sustainable Aviation Fuel Industry",
+      "link": "https://finance.yahoo.com/energy/articles/air-canada-launches-initiative-airbus-152229404.html",
       "publisher": "MT Newswires",
-      "time": 1784553685,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "42ea930c-c05a-3fb1-aed1-1cc98737f902",
-      "title": "Earnings To Watch: Embellence Group AB (OSTO:EMBELL) Reports Q2 2026 Result",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-embellence-group-ab-132047914.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784553647,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "df47b4eb-4c3f-3cf0-be77-ca2b62e26c28",
-      "title": "Morgan Stanley Adjusts Price Target on Intel to $75 From $73, Maintains Equalweight Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-132036424.html",
-      "publisher": "MT Newswires",
-      "time": 1784553636,
+      "time": 1784560949,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5593fcb4-ab17-3cf2-8326-2ddc14ad2734",
-      "title": "What To Expect From SmartFinancial Inc (SMBK) Q2 2026 Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/expect-smartfinancial-inc-smbk-q2-132029708.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784553629,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "ca3db89b-7d65-39a5-8ef3-cc770ab2c4d4",
-      "title": "What To Expect From Metropolitan Bank Holding Corp (MCB) Q2 2026 Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/expect-metropolitan-bank-holding-corp-132008124.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784553608,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "38279e67-9dd0-3b41-9f85-686873539587",
-      "title": "Peoples Bancorp Inc (Marietta OH) (PEBO) Q2 2026 Earnings Report Preview: What To Expect",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/peoples-bancorp-inc-marietta-oh-131951807.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784553591,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c87db7d4-a6fb-3c7e-8ddd-75679d363db6",
-      "title": "Scars of war linger on Syria's Saint Simeon monastery",
-      "link": "https://finance.yahoo.com/m/c87db7d4-a6fb-3c7e-8ddd-75679d363db6/scars-of-war-linger-on.html",
-      "publisher": "AFP",
-      "time": 1784553580,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "c220e870-15a3-391d-a88f-04394bf257ea",
-      "title": "Bernstein Adjusts UnitedHealth Price Target to $512 From $492, Maintains Outperform Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bernstein-adjusts-unitedhealth-price-target-131932010.html",
+      "id": "64bdf09f-46e9-3bbb-a52e-468105f8aa71",
+      "title": "Datadog Seen Delivering Strong Q2 Results on AI Demand, Product Expansion, Oppenheimer Says",
+      "link": "https://finance.yahoo.com/technology/ai/articles/datadog-seen-delivering-strong-q2-152133953.html",
       "publisher": "MT Newswires",
-      "time": 1784553572,
+      "time": 1784560893,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d4c2a509-4610-364c-83f4-a42bf444b4e5",
+      "title": "Goldman Sachs Adjusts Kimco Realty Price Target to $26 From $25, Maintains Neutral Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-kimco-realty-152115669.html",
+      "publisher": "MT Newswires",
+      "time": 1784560875,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6c5d3e86-1f0e-3d9b-9382-2922fd6ec727",
+      "title": "Rubico Terminates $30 Million Equity Facility With B. Riley",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rubico-terminates-30-million-equity-152103631.html",
+      "publisher": "MT Newswires",
+      "time": 1784560863,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b7a97c8c-eb6c-35f3-bb5a-b36a2920c687",
+      "title": "Goldman Sachs Adjusts Price Target on Simon Property to $241 From $229, Maintains Buy Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-price-target-152056583.html",
+      "publisher": "MT Newswires",
+      "time": 1784560856,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "79fd51ef-5123-4e9c-91fc-e2cc61f942d6",
+      "title": "Bitcoin and ethereum prices today, Monday, July 20, 2026: Crypto prices mixed as second half 2026 outlooks conflict",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-20-2026-crypto-prices-mixed-as-second-half-2026-outlooks-conflict-151956982.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1784560796,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "2beb2d1f-08a4-3368-9f39-65fe346b1e1e",
+      "title": "Apple Sidesteps AI Spend Bubble So I Keep Buying",
+      "link": "https://finance.yahoo.com/m/2beb2d1f-08a4-3368-9f39-65fe346b1e1e/apple-sidesteps-ai-spend.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1784560742,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f2ed2b79-3666-3634-bd71-698b5cb453bd",
+      "title": "Form 8.3",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-151900525.html",
+      "publisher": "Business Wire",
+      "time": 1784560740,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5ee29fc2-941b-38d0-89a5-40df69f27b10",
+      "title": "F.N.B. Faces Ongoing Net Interest Income Headwinds, BofA Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/f-n-b-faces-ongoing-151746752.html",
+      "publisher": "MT Newswires",
+      "time": 1784560666,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4e101d8e-b97e-4432-8d90-f97eeb75ff43",
+      "title": "Lockheed Martin exec. explains new missile and drone defense systems",
+      "link": "https://finance.yahoo.com/video/lockheed-martin-exec-explains-new-missile-and-drone-defense-systems-151502083.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1784560502,
       "impact": "low",
       "tags": []
     }
