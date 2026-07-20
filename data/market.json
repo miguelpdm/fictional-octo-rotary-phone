@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T18:50:19.498555+00:00",
+  "updatedAt": "2026-07-20T20:16:57.666176+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7452.01,
-      "change": -81.76000000000022,
-      "changePct": -1.0852468286130346,
+      "price": 7443.28,
+      "change": -90.49000000000069,
+      "changePct": -1.2011250675292806,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25567.137,
-      "change": -314.8130000000019,
-      "changePct": -1.2163418907771706,
+      "price": 25508.072,
+      "change": -373.8780000000006,
+      "changePct": -1.4445511253982044,
       "currency": "USD"
     },
     {
@@ -44,91 +44,55 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.1,
-      "change": -0.6699999999999982,
-      "changePct": -3.569525839104945,
+      "price": 18.44,
+      "change": -0.3299999999999983,
+      "changePct": -1.7581246670218345,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "f6611c59-db73-3856-998e-e725f188b775",
-      "title": "Archer and Anduril Unveil Thunder Attack Rotorcraft",
-      "link": "https://finance.yahoo.com/technology/articles/archer-anduril-unveil-thunder-attack-184550301.html",
+      "id": "10f00567-cbd6-3b10-9a47-97ed7f58e0dc",
+      "title": "EPR Strengthens Balance Sheet With New Credit Facility",
+      "link": "https://finance.yahoo.com/real-estate/articles/epr-strengthens-balance-sheet-credit-201612108.html",
       "publisher": "GuruFocus.com",
-      "time": 1784573150,
+      "time": 1784578572,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b5fcea71-7429-3f4e-ac09-eff249f32c51",
-      "title": "Striking Skincare Gold: Gold Bond® and Ali Larter Debut the Gold Standard in Scented Skincare at Under the Big Sky Music Festival",
-      "link": "https://finance.yahoo.com/media-advertising/articles/striking-skincare-gold-gold-bond-184500121.html",
-      "publisher": "PR Newswire",
-      "time": 1784573100,
+      "id": "1d050433-e208-4817-bb3f-fb15fefa3808",
+      "title": "AMC jumps 20% after strong quarter, The Odyssey debut",
+      "link": "https://finance.yahoo.com/video/amc-jumps-20-after-strong-quarter-the-odyssey-debut-201248288.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1784578368,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3070a357-66c0-3dec-950b-44aff1bb2b93",
-      "title": "Banijay Group: weekly share transactions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/banijay-group-weekly-share-transactions-184400267.html",
+      "id": "1dc16b56-7c5b-3f63-bf08-cce4b4876fba",
+      "title": "Bristol Myers Expands NVIDIA Partnership to Build Top Life Sciences AI Supercomputer",
+      "link": "https://finance.yahoo.com/technology/ai/articles/bristol-myers-expands-nvidia-partnership-201248290.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784578368,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0483e379-8e1d-3014-907e-a47f750727d7",
+      "title": "Spain stars lap up adulation of estimated two million on World Cup parade",
+      "link": "https://finance.yahoo.com/m/0483e379-8e1d-3014-907e-a47f750727d7/spain-stars-lap-up-adulation.html",
+      "publisher": "AFP",
+      "time": 1784578305,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0991de36-1cae-33b8-a8ac-974b6530e335",
+      "title": "RBB Bancorp Reports Second Quarter 2026 Earnings and Declares Quarterly Cash Dividend of $0.16 Per Common Share",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rbb-bancorp-reports-second-quarter-201000997.html",
       "publisher": "GlobeNewswire",
-      "time": 1784573040,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "07f2102c-6b72-3ba7-b724-eb1f30257aa4",
-      "title": "Virbac: Solid growth of +7.4% at CERS in H1 2026, fueled by double-digit growth of our Supercharge platforms",
-      "link": "https://finance.yahoo.com/healthcare/articles/virbac-solid-growth-7-4-184300332.html",
-      "publisher": "PR Newswire",
-      "time": 1784572980,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "249b88f8-b8f1-3aa7-af7e-343c554cac22",
-      "title": "Airtripmaker Announces the Launch of Its Newly Redesigned Website",
-      "link": "https://finance.yahoo.com/small-business/articles/airtripmaker-announces-launch-newly-redesigned-184300810.html",
-      "publisher": "TMX Newsfile",
-      "time": 1784572980,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a8ccf5b9-d4d0-3d76-9cb8-7cd6ea9dfe5d",
-      "title": "8thElement and Synthesized Partner to Industrialize Enterprise AI with AI-Native Test Data Automation",
-      "link": "https://finance.yahoo.com/technology/ai/articles/8thelement-synthesized-partner-industrialize-enterprise-184300157.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784572980,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a042f7b7-dfd4-3e88-98fe-a075a01a1f8b",
-      "title": "It's not just Taco Bell. Taylor Farms supplies lettuce to many US brands",
-      "link": "https://finance.yahoo.com/m/a042f7b7-dfd4-3e88-98fe-a075a01a1f8b/it%27s-not-just-taco-bell..html",
-      "publisher": "USA TODAY",
-      "time": 1784572856,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1804008c-8e39-3cf7-a716-65813923f7e1",
-      "title": "French Parliament's committee approves social media ban for under-15s",
-      "link": "https://finance.yahoo.com/m/1804008c-8e39-3cf7-a716-65813923f7e1/french-parliament%27s-committee.html",
-      "publisher": "Reuters",
-      "time": 1784572647,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "83d94e3b-fa2a-3847-8f7b-d7047048fc66",
-      "title": "Wall Street Eager For Robotaxi, Optimus News During Tesla Earnings",
-      "link": "https://finance.yahoo.com/m/83d94e3b-fa2a-3847-8f7b-d7047048fc66/wall-street-eager-for.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1784572630,
+      "time": 1784578200,
       "impact": "medium",
       "tags": [
         "macro",
@@ -136,16 +100,55 @@
       ]
     },
     {
-      "id": "8a51e626-dd26-3e3f-bb03-6e1fbb3f8bb8",
-      "title": "OneTimeSuite.com Launches Public \"100 Apps in 100 Days\" Challenge to Replace Subscription Software With One-Time Purchases",
-      "link": "https://finance.yahoo.com/technology/articles/onetimesuite-com-launches-public-100-183700200.html",
+      "id": "0d171d1e-3e35-3f30-9e1b-cd5e8b67058c",
+      "title": "Biscuit Belly Positions for Next Phase of Growth with Acquisition of Maple Street Biscuit Company",
+      "link": "https://finance.yahoo.com/small-business/articles/biscuit-belly-positions-next-phase-201000612.html",
       "publisher": "PR Newswire",
-      "time": 1784572620,
-      "impact": "high",
+      "time": 1784578200,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
+    },
+    {
+      "id": "12a87c02-eee4-39e3-ae1f-dbd9a6bfbefe",
+      "title": "PSEG Declares Regular Quarterly Dividend for the Third Quarter of 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pseg-declares-regular-quarterly-dividend-201000614.html",
+      "publisher": "PR Newswire",
+      "time": 1784578200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1dff0b8a-c8bf-3bca-953c-0bfaf64c1c72",
+      "title": "Zions Bancorporation, National Association Reports Second Quarter Financial Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zions-bancorporation-national-association-reports-201000554.html",
+      "publisher": "PR Newswire",
+      "time": 1784578200,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "259570cc-304b-3b84-a416-7a08697d4917",
+      "title": "Eagle Nuclear Energy Provides Second Quarter 2026 Corporate Update",
+      "link": "https://finance.yahoo.com/energy/articles/eagle-nuclear-energy-provides-second-201000583.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784578200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8a4c9cb4-6fa9-3cbc-9ad5-4b4ca4488322",
+      "title": "Columbus McKinnon Declares Quarterly Dividend of $0.07 per Share",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/columbus-mckinnon-declares-quarterly-dividend-201000442.html",
+      "publisher": "PR Newswire",
+      "time": 1784578200,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
