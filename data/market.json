@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-21T10:36:37.843903+00:00",
+  "updatedAt": "2026-07-21T12:20:57.470709+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19364.6,
-      "change": 157.6999999999971,
-      "changePct": 0.8210590985531089,
+      "price": 19330.4,
+      "change": 123.5,
+      "changePct": 0.6429980892283501,
       "currency": "EUR"
     },
     {
@@ -28,89 +28,107 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 24966.36,
-      "change": 135.38000000000102,
-      "changePct": 0.5452060289203287,
+      "price": 24902.23,
+      "change": 71.25,
+      "changePct": 0.2869399435704914,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6274.36,
-      "change": 46.960000000000036,
-      "changePct": 0.7540867777884838,
+      "price": 6258.47,
+      "change": 31.07000000000062,
+      "changePct": 0.49892410958025213,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.55,
-      "change": -1.0999999999999979,
-      "changePct": -5.898123324396773,
+      "price": 17.78,
+      "change": -0.8699999999999974,
+      "changePct": -4.664879356568352,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "b69460ca-cf79-3c3b-a09a-c37861ed911a",
-      "title": "Apollo Hospitals Brings Next-Generation Lysin Science to India's Fight Against AMR - Collaborates with Precisio Biotix",
-      "link": "https://finance.yahoo.com/healthcare/articles/apollo-hospitals-brings-next-generation-103200194.html",
+      "id": "8e389833-4036-3847-bdfd-fa27abe54155",
+      "title": "JPMorgan CEO Urges Investor Patience",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-ceo-urges-investor-patience-121820357.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784636300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "48e6aff4-4eb6-3d0c-9b17-524be8026a58",
+      "title": "BofA Securities Adjusts Cencora Price Target to $310 From $285",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-cencora-price-121722992.html",
+      "publisher": "MT Newswires",
+      "time": 1784636242,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "512dce95-4b8f-3248-9505-b0d95e594943",
+      "title": "Barrick Mining Invests C$20 Million in Kingfisher Metals, Takes 9.9% Stake",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/barrick-mining-invests-c-20-121703171.html",
+      "publisher": "MT Newswires",
+      "time": 1784636223,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "76abf7b7-cf9e-336c-937f-16881bee0bc9",
+      "title": "Rocket One Expands AI Infrastructure Platform Through Strategic Partnership with Placeve to Advance Defense, Space, and Intelligent Edge Computing",
+      "link": "https://finance.yahoo.com/technology/ai/articles/rocket-one-expands-ai-infrastructure-121700897.html",
       "publisher": "PR Newswire",
-      "time": 1784629920,
+      "time": 1784636220,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "05d75048-7232-310e-8943-5490c835801d",
-      "title": "CGI research finds data sovereignty and modernization critical to scaling AI in Canada",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cgi-research-finds-data-sovereignty-103000301.html",
-      "publisher": "CNW Group",
-      "time": 1784629800,
+      "id": "75bcdac2-6693-34be-9896-3af96e62ac97",
+      "title": "GMG Executes MOU to Co-Develop Exclusive Graphene Products with Alstom for Rail Industry",
+      "link": "https://finance.yahoo.com/technology/articles/gmg-executes-mou-co-develop-121600783.html",
+      "publisher": "TMX Newsfile",
+      "time": 1784636160,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3c640821-2511-3ac2-89b6-dcda7667eb37",
-      "title": "iFabric & GermstopSQ Advancing New Hard Surface Antimicrobial",
-      "link": "https://finance.yahoo.com/healthcare/articles/ifabric-germstopsq-advancing-hard-surface-103000095.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1784629800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "646d955c-703b-3dac-8a06-967967d8409d",
-      "title": "New LDC Report Produced in Partnership with the W. P. Carey School of Business at Arizona State University Finds U.S. Latinos Are Driving the Third Largest Consumer Cohort in the World",
-      "link": "https://finance.yahoo.com/economy/articles/ldc-report-produced-partnership-w-103000309.html",
-      "publisher": "Business Wire",
-      "time": 1784629800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6c297243-dfd5-3b52-b022-70e99e299c22",
-      "title": "Reported 20% Surge in U.S. Diesel Futures Highlights Potential Role of Domestic Renewable Fuel Supply",
-      "link": "https://finance.yahoo.com/energy/articles/reported-20-surge-u-diesel-103000026.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1784629800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "75785f23-4956-3b6f-ba69-e4339597d5f0",
-      "title": "Hasbro Reports Second Quarter 2026 Financial Results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hasbro-reports-second-quarter-2026-103000744.html",
-      "publisher": "Business Wire",
-      "time": 1784629800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "95b5942c-597b-3304-9dca-de930ef7b298",
-      "title": "3M Reports Second-Quarter 2026 Results; Increases Full-Year Guidance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3m-reports-second-quarter-2026-103000328.html",
+      "id": "e13ba7f6-b6da-3454-bfa7-df7a558f9230",
+      "title": "Survey of business and tech leaders reveals persistent gap between corporate AI adoption and workforce readiness",
+      "link": "https://finance.yahoo.com/technology/ai/articles/survey-business-tech-leaders-reveals-121600008.html",
       "publisher": "PR Newswire",
-      "time": 1784629800,
+      "time": 1784636160,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ceee057b-fe42-3195-a900-ea9b002f01cb",
+      "title": "Autonomous Research Adjusts Price Target on Ares Management to $169 From $170, Maintains Outperform Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/autonomous-research-adjusts-price-target-121533939.html",
+      "publisher": "MT Newswires",
+      "time": 1784636133,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "854b4624-c222-3fcc-8aa4-fd8fc1bb0b7f",
+      "title": "BofA Securities Adjusts Biogen Price Target to $215 From $217",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-biogen-price-121526655.html",
+      "publisher": "MT Newswires",
+      "time": 1784636126,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "14c5a7f4-b19c-3378-b535-b732a55871d9",
+      "title": "Novartis Earnings Beat, Cash Flow Weakens",
+      "link": "https://finance.yahoo.com/healthcare/articles/novartis-earnings-beat-cash-flow-121506817.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784636106,
       "impact": "medium",
       "tags": [
         "macro",
@@ -118,32 +136,11 @@
       ]
     },
     {
-      "id": "b84eb7d6-936d-3e15-b219-fb827419ef39",
-      "title": "GM releases 2026 second-quarter results, raises full-year 2026 guidance and declares quarterly dividend",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gm-releases-2026-second-quarter-103000769.html",
+      "id": "321bc30b-8ef9-3252-b2fe-c2cb4273fffc",
+      "title": "Hop-A-Jet Worldwide Adds G280 to Charter Fleet",
+      "link": "https://finance.yahoo.com/small-business/articles/hop-jet-worldwide-adds-g280-121500588.html",
       "publisher": "PR Newswire",
-      "time": 1784629800,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c21d150e-9b79-304c-b84a-75688eb532cd",
-      "title": "Forestar Reports Fiscal 2026 Third Quarter Results",
-      "link": "https://finance.yahoo.com/real-estate/articles/forestar-reports-fiscal-2026-third-103000805.html",
-      "publisher": "Business Wire",
-      "time": 1784629800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cf7d694e-c624-31fb-ab89-ae5d577d99f1",
-      "title": "PermRock Royalty Trust Declares Monthly Cash Distribution",
-      "link": "https://finance.yahoo.com/energy/articles/permrock-royalty-trust-declares-monthly-103000945.html",
-      "publisher": "PR Newswire",
-      "time": 1784629800,
+      "time": 1784636100,
       "impact": "low",
       "tags": []
     }
