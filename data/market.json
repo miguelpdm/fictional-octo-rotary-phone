@@ -1,148 +1,149 @@
 {
-  "updatedAt": "2026-07-21T12:20:57.470709+00:00",
+  "updatedAt": "2026-07-21T14:32:32.868883+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19330.4,
-      "change": 123.5,
-      "changePct": 0.6429980892283501,
+      "price": 19315.7,
+      "change": 108.79999999999927,
+      "changePct": 0.5664630939922594,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7443.28,
-      "change": -90.49000000000069,
-      "changePct": -1.2011250675292806,
+      "price": 7495.77,
+      "change": 38.08000000000084,
+      "changePct": 0.510613876414826,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25508.072,
-      "change": -373.8780000000006,
-      "changePct": -1.4445511253982044,
+      "price": 25789.732,
+      "change": 269.49199999999837,
+      "changePct": 1.055993203825663,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 24902.23,
-      "change": 71.25,
-      "changePct": 0.2869399435704914,
+      "price": 24889.55,
+      "change": 58.56999999999971,
+      "changePct": 0.23587470168313823,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6258.47,
-      "change": 31.07000000000062,
-      "changePct": 0.49892410958025213,
+      "price": 6255.06,
+      "change": 27.660000000000764,
+      "changePct": 0.4441661046343701,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.78,
-      "change": -0.8699999999999974,
-      "changePct": -4.664879356568352,
+      "price": 17.75,
+      "change": -0.8999999999999986,
+      "changePct": -4.825737265415542,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "8e389833-4036-3847-bdfd-fa27abe54155",
-      "title": "JPMorgan CEO Urges Investor Patience",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-ceo-urges-investor-patience-121820357.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784636300,
+      "id": "e6ace58f-9e8c-3d5a-8a07-9b3931a6b6cd",
+      "title": "French lawmakers set to ban social media for under-15s in European first",
+      "link": "https://finance.yahoo.com/m/e6ace58f-9e8c-3d5a-8a07-9b3931a6b6cd/french-lawmakers-set-to-ban.html",
+      "publisher": "AFP",
+      "time": 1784644103,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "48e6aff4-4eb6-3d0c-9b17-524be8026a58",
-      "title": "BofA Securities Adjusts Cencora Price Target to $310 From $285",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-cencora-price-121722992.html",
-      "publisher": "MT Newswires",
-      "time": 1784636242,
+      "id": "1a9d3903-fac5-3885-abc7-134a09e32b0a",
+      "title": "Loman AI integrates with Toast to streamline restaurant phone orders",
+      "link": "https://finance.yahoo.com/m/1a9d3903-fac5-3885-abc7-134a09e32b0a/loman-ai-integrates-with.html",
+      "publisher": "Verdict Food Service",
+      "time": 1784643903,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "512dce95-4b8f-3248-9505-b0d95e594943",
-      "title": "Barrick Mining Invests C$20 Million in Kingfisher Metals, Takes 9.9% Stake",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/barrick-mining-invests-c-20-121703171.html",
-      "publisher": "MT Newswires",
-      "time": 1784636223,
+      "id": "49d69a16-2b2c-3a94-848c-d7dbf79fb336",
+      "title": "SOCAN Announces Collaboration with Musical AI to Advance Music Creator Attribution, Remuneration and Transparency in AI",
+      "link": "https://finance.yahoo.com/technology/ai/articles/socan-announces-collaboration-musical-ai-142500646.html",
+      "publisher": "CNW Group",
+      "time": 1784643900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "76abf7b7-cf9e-336c-937f-16881bee0bc9",
-      "title": "Rocket One Expands AI Infrastructure Platform Through Strategic Partnership with Placeve to Advance Defense, Space, and Intelligent Edge Computing",
-      "link": "https://finance.yahoo.com/technology/ai/articles/rocket-one-expands-ai-infrastructure-121700897.html",
-      "publisher": "PR Newswire",
-      "time": 1784636220,
+      "id": "baf5ccf0-d08f-3c16-8894-4c2bdde04dd1",
+      "title": "Improving access to community-based mental health services for Nova Scotia youth",
+      "link": "https://finance.yahoo.com/healthcare/articles/improving-access-community-based-mental-142500497.html",
+      "publisher": "CNW Group",
+      "time": 1784643900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "75bcdac2-6693-34be-9896-3af96e62ac97",
-      "title": "GMG Executes MOU to Co-Develop Exclusive Graphene Products with Alstom for Rail Industry",
-      "link": "https://finance.yahoo.com/technology/articles/gmg-executes-mou-co-develop-121600783.html",
-      "publisher": "TMX Newsfile",
-      "time": 1784636160,
+      "id": "59dbe70a-292c-37d5-bf1a-7274b52b4acc",
+      "title": "Krispy Kreme Launches New Original Glazed Blueberry Flavored Doughnut",
+      "link": "https://finance.yahoo.com/m/59dbe70a-292c-37d5-bf1a-7274b52b4acc/krispy-kreme-launches-new.html",
+      "publisher": "QSR",
+      "time": 1784643835,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e13ba7f6-b6da-3454-bfa7-df7a558f9230",
-      "title": "Survey of business and tech leaders reveals persistent gap between corporate AI adoption and workforce readiness",
-      "link": "https://finance.yahoo.com/technology/ai/articles/survey-business-tech-leaders-reveals-121600008.html",
-      "publisher": "PR Newswire",
-      "time": 1784636160,
+      "id": "202cba57-3345-3053-832e-20f0408a726d",
+      "title": "Intuitive Surgical (ISRG) Slid Despite Strong Fundamentals",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intuitive-surgical-isrg-slid-despite-142345149.html",
+      "publisher": "Insider Monkey",
+      "time": 1784643825,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ceee057b-fe42-3195-a900-ea9b002f01cb",
-      "title": "Autonomous Research Adjusts Price Target on Ares Management to $169 From $170, Maintains Outperform Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/autonomous-research-adjusts-price-target-121533939.html",
-      "publisher": "MT Newswires",
-      "time": 1784636133,
+      "id": "ade0bb95-361f-36ee-b612-ef13f8ee3e70",
+      "title": "Another Georgia cop accused of misusing Flock data in growing trend",
+      "link": "https://finance.yahoo.com/m/ade0bb95-361f-36ee-b612-ef13f8ee3e70/another-georgia-cop-accused.html",
+      "publisher": "USA TODAY",
+      "time": 1784643773,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "854b4624-c222-3fcc-8aa4-fd8fc1bb0b7f",
-      "title": "BofA Securities Adjusts Biogen Price Target to $215 From $217",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-adjusts-biogen-price-121526655.html",
-      "publisher": "MT Newswires",
-      "time": 1784636126,
+      "id": "74a39879-6944-48be-beed-2c19a561df74",
+      "title": "GM CFO Paul Jacobsen breaks down the Q2 results",
+      "link": "https://finance.yahoo.com/video/gm-cfo-paul-jacobsen-breaks-down-the-q2-results-142240244.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1784643760,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "14c5a7f4-b19c-3378-b535-b732a55871d9",
-      "title": "Novartis Earnings Beat, Cash Flow Weakens",
-      "link": "https://finance.yahoo.com/healthcare/articles/novartis-earnings-beat-cash-flow-121506817.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784636106,
-      "impact": "medium",
+      "id": "a40696b9-d049-392d-ad49-305901c764f7",
+      "title": "3 Market-Beating Stocks with Solid Fundamentals",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-market-beating-stocks-solid-142226623.html",
+      "publisher": "StockStory",
+      "time": 1784643746,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "321bc30b-8ef9-3252-b2fe-c2cb4273fffc",
-      "title": "Hop-A-Jet Worldwide Adds G280 to Charter Fleet",
-      "link": "https://finance.yahoo.com/small-business/articles/hop-jet-worldwide-adds-g280-121500588.html",
-      "publisher": "PR Newswire",
-      "time": 1784636100,
+      "id": "0f7313c4-7325-3016-9d40-d7e48ab64bbf",
+      "title": "Market Thinks Cadence’s (CDNS) Moat Is at Risk Due To Kimi K3. We Think it’s Not, Here’s Why",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-thinks-cadence-cdns-moat-142214767.html",
+      "publisher": "Insider Monkey",
+      "time": 1784643734,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
