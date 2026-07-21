@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T19:09:43.826182+00:00",
+  "updatedAt": "2026-07-21T20:42:28.336894+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7507.0,
-      "change": 49.3100000000004,
-      "changePct": 0.6611966976369412,
+      "price": 7509.2,
+      "change": 51.51000000000022,
+      "changePct": 0.6906964489003997,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25831.076,
-      "change": 310.83599999999933,
-      "changePct": 1.2179979498625377,
+      "price": 25837.207,
+      "change": 316.9669999999969,
+      "changePct": 1.2420220186016937,
       "currency": "USD"
     },
     {
@@ -44,79 +44,28 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.04,
-      "change": -1.6099999999999994,
-      "changePct": -8.632707774798925,
+      "price": 17.05,
+      "change": -1.5999999999999979,
+      "changePct": -8.579088471849856,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "604b480a-b613-3719-bea7-c96b04118978",
-      "title": "Garmin Unveils $200 Screenless Tracker as $10 Billion Whoop Faces New Rival",
-      "link": "https://finance.yahoo.com/news/garmin-unveils-200-screenless-tracker-190605432.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784660765,
+      "id": "2fe6203b-f38d-36ec-ad57-d5d65aec6884",
+      "title": "3M Stock Is Soaring After a Big Beat-and-Raise Quarter",
+      "link": "https://finance.yahoo.com/m/2fe6203b-f38d-36ec-ad57-d5d65aec6884/3m-stock-is-soaring-after-a.html",
+      "publisher": "Barrons.com",
+      "time": 1784666160,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b80ad948-fc12-33ec-9e8c-99515ed212da",
-      "title": "RBB Bancorp Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/b80ad948-fc12-33ec-9e8c-99515ed212da/rbb-bancorp-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1784660564,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "98230243-546e-3128-b33c-0884f2d577ac",
-      "title": "Home Bancorp Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/98230243-546e-3128-b33c-0884f2d577ac/home-bancorp-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1784660560,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "cb700ea8-0d81-34f1-91d7-d3f5fc47977e",
-      "title": "HelloFresh Bond Sees Over 10% Available to Borrow as Short Interest Surges",
-      "link": "https://finance.yahoo.com/news/hellofresh-bond-sees-over-10-190157718.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784660517,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7b7d53fd-0a18-3899-ba53-9c82aa6da63a",
-      "title": "Her Last Paycheck Included 30 Weeks of Severance. Her First Medicare Premium Included a Surcharge.",
-      "link": "https://finance.yahoo.com/m/7b7d53fd-0a18-3899-ba53-9c82aa6da63a/her-last-paycheck-included-30.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1784660499,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e352c1cf-28e8-3f66-b820-942973f452d0",
-      "title": "Elastic Shares Fall After Morgan Stanley Downgrade",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/elastic-shares-fall-morgan-stanley-190117040.html",
+      "id": "94401424-aabf-34fb-9a6a-55e63c8e71d7",
+      "title": "National Bank Q2 Adjusted Earnings Fall, Revenue Rises",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/national-bank-q2-adjusted-earnings-203547687.html",
       "publisher": "MT Newswires",
-      "time": 1784660477,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "307cfe20-4e57-30ce-b075-249833d84e37",
-      "title": "Sobha Ltd (BOM:532784) Q1 2027 Earnings Call Highlights: Record Sales and Strategic Expansion",
-      "link": "https://finance.yahoo.com/news/sobha-ltd-bom-532784-q1-190107583.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784660467,
+      "time": 1784666147,
       "impact": "medium",
       "tags": [
         "macro",
@@ -124,34 +73,93 @@
       ]
     },
     {
-      "id": "7d40b62c-6ae0-341c-b8d7-b6365eb014e8",
-      "title": "IndiaMART InterMESH Ltd (BOM:542726) Q1 2027 Earnings Call Highlights: Navigating Growth and ...",
-      "link": "https://finance.yahoo.com/news/indiamart-intermesh-ltd-bom-542726-190107112.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784660467,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "6aa7317a-002b-3745-9842-78b175385c77",
-      "title": "THE PIZZA CUPCAKE REBRANDS AS INCREDIFULLS TO TAKE A BIGGER BITE",
-      "link": "https://finance.yahoo.com/small-business/articles/pizza-cupcake-rebrands-incredifulls-bigger-190100255.html",
-      "publisher": "PR Newswire",
-      "time": 1784660460,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a2af8aac-bd06-3098-b5d1-9f35e84ab639",
-      "title": "US Treasury Closing Levels",
-      "link": "https://finance.yahoo.com/news/us-treasury-closing-levels-190054809.html",
+      "id": "e1465b80-e45f-33c1-86c8-5423834b0635",
+      "title": "Glaukos Insider Sold Shares Worth $1,600,000, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/glaukos-insider-sold-shares-worth-203522909.html",
       "publisher": "MT Newswires",
-      "time": 1784660454,
+      "time": 1784666122,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "99b888ed-e4c1-3133-849e-e2e7b534c53c",
+      "title": "WesBanco Q2 Adjusted Earnings, Revenue Rise",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wesbanco-q2-adjusted-earnings-revenue-203323268.html",
+      "publisher": "MT Newswires",
+      "time": 1784666003,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "96a252f0-b5c1-3cce-aedb-d8e927079f51",
+      "title": "GM’s Secret Weapon: Fewer Shares and Stronger Earnings",
+      "link": "https://finance.yahoo.com/m/96a252f0-b5c1-3cce-aedb-d8e927079f51/gm%E2%80%99s-secret-weapon%3A-fewer.html",
+      "publisher": "Barrons.com",
+      "time": 1784665980,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "ae93fc8b-7e98-43a9-b79e-1e28698d8fb8",
+      "title": "Big Tech's big AI spending is 'a good thing' right now",
+      "link": "https://finance.yahoo.com/video/big-techs-big-ai-spending-is-a-good-thing-right-now-203258720.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1784665978,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c4300172-a3a8-3c86-bfb0-c71b52f5da4d",
+      "title": "Annaly: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/annaly-q2-earnings-snapshot-203250389.html",
+      "publisher": "Associated Press",
+      "time": 1784665970,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "94bf5cf6-fec1-35e6-addc-729edd448ca0",
+      "title": "KKR Real Estate: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/real-estate/articles/kkr-real-estate-q2-earnings-203248136.html",
+      "publisher": "Associated Press",
+      "time": 1784665968,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b4dc6b9a-485b-3a7d-b200-764828a7bbec",
+      "title": "Interactive Brokers Earnings Surge Above Views, Matching Charles Schwab",
+      "link": "https://finance.yahoo.com/m/b4dc6b9a-485b-3a7d-b200-764828a7bbec/interactive-brokers-earnings.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1784665954,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "2679b83b-1259-36cf-92fe-216bd4ea812c",
+      "title": "TSX Closer: The Index Rises as Commodity Gains Offset US-Canada Trade Tensions",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/tsx-closer-index-rises-commodity-203145884.html",
+      "publisher": "MT Newswires",
+      "time": 1784665905,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
     }
   ],
   "errors": {
