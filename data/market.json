@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-21T05:34:01.239661+00:00",
+  "updatedAt": "2026-07-21T08:14:59.753171+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19206.9,
-      "change": -10.0,
-      "changePct": -0.05203752946625105,
+      "price": 19284.8,
+      "change": 77.89999999999782,
+      "changePct": 0.4055834101286403,
       "currency": "EUR"
     },
     {
@@ -28,73 +28,44 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 24846.69,
-      "change": -68.80000000000291,
-      "changePct": -0.2761334414856096,
+      "price": 24877.71,
+      "change": 46.72999999999956,
+      "changePct": 0.18819233070945876,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6227.4,
-      "change": -3.4700000000002547,
-      "changePct": -0.055690457351866667,
+      "price": 6253.2,
+      "change": 25.800000000000182,
+      "changePct": 0.4142981019366057,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.65,
-      "change": -0.120000000000001,
-      "changePct": -0.6393180607352211,
+      "price": 17.59,
+      "change": -1.0599999999999987,
+      "changePct": -5.683646112600529,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "17146401-6326-35d2-b1b7-72574eea74b3",
-      "title": "DEMIRE secures the UN as a tenant for around 10,000 m² in Bonn",
-      "link": "https://finance.yahoo.com/real-estate/articles/demire-secures-un-tenant-around-053000667.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784611800,
+      "id": "d3c587f8-a18a-3180-a3a4-f81c7cfcc892",
+      "title": "ADBE Stock Is Falling Again But Here’s Why One Wall Street Analyst Sees A 31% Upside",
+      "link": "https://finance.yahoo.com/m/d3c587f8-a18a-3180-a3a4-f81c7cfcc892/adbe-stock-is-falling-again.html",
+      "publisher": "Stocktwits",
+      "time": 1784621364,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "958cf1f5-b3ad-3542-be95-83e0c46b5767",
-      "title": "Publication of the Q2 2026 financial results  on Thursday, July 30, 2026, after market close",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/publication-q2-2026-financial-results-052800063.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784611680,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "59cc6ac0-8e47-3ecf-a7ba-ec8c66ffe31f",
-      "title": "Coda Launches Playbook on Turning Linkouts into a Growth Channel",
-      "link": "https://finance.yahoo.com/media-advertising/articles/coda-launches-playbook-turning-linkouts-052500927.html",
-      "publisher": "PR Newswire",
-      "time": 1784611500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e99d0c11-45bb-3fde-9835-358cd473b634",
-      "title": "South Korea president urges regulator action on leveraged stock funds",
-      "link": "https://finance.yahoo.com/markets/options/articles/south-korea-president-urges-regulator-052107244.html",
-      "publisher": "AFP",
-      "time": 1784611267,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "06abd80c-edec-32b2-8a30-928976a324bf",
-      "title": "Trump imposes 50% tariffs on Canadian goods citing disputes over autos",
-      "link": "https://finance.yahoo.com/m/06abd80c-edec-32b2-8a30-928976a324bf/trump-imposes-50%25-tariffs-on.html",
-      "publisher": "Euronews",
-      "time": 1784611249,
+      "id": "d366302a-2fa2-3cc7-9dfd-61709371884e",
+      "title": "Pathward Financial (CASH) Q2 Earnings Report Preview: What To Look For",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pathward-financial-cash-q2-earnings-080626254.html",
+      "publisher": "StockStory",
+      "time": 1784621186,
       "impact": "high",
       "tags": [
         "geo",
@@ -102,20 +73,11 @@
       ]
     },
     {
-      "id": "1bf017fe-e77c-3d8f-955d-4385989578f3",
-      "title": "Sungrow Opens Australia's New Solar & Battery Experience Hub, Bringing the Future of Clean Energy Closer to Home",
-      "link": "https://finance.yahoo.com/energy/articles/sungrow-opens-australias-solar-battery-051900099.html",
-      "publisher": "PR Newswire",
-      "time": 1784611140,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2acc4dc3-6dd8-3381-9035-ceb99d46f479",
-      "title": "Fulton Financial (FULT) To Report Earnings Tomorrow: Here Is What To Expect",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fulton-financial-fult-report-earnings-051826793.html",
-      "publisher": "StockStory",
-      "time": 1784611106,
+      "id": "3160761d-43e3-3107-81d4-120410a4a648",
+      "title": "If You'd Invested $10,000 in Micron After Its IPO, Here's How Much You Would Have Now.",
+      "link": "https://finance.yahoo.com/m/3160761d-43e3-3107-81d4-120410a4a648/if-you%27d-invested-%2410%2C000-in.html",
+      "publisher": "Motley Fool",
+      "time": 1784621100,
       "impact": "medium",
       "tags": [
         "macro",
@@ -123,37 +85,79 @@
       ]
     },
     {
-      "id": "370c7e5f-1b3a-316c-9c82-c6bd54e7543b",
-      "title": "New UK PM Burnham stamps authority with cabinet shakeup",
-      "link": "https://finance.yahoo.com/m/370c7e5f-1b3a-316c-9c82-c6bd54e7543b/new-uk-pm-burnham-stamps.html",
+      "id": "d995e337-5009-3790-9e75-e9e1e35d2ef7",
+      "title": "Euro zone banks tighten credit access on war fears",
+      "link": "https://finance.yahoo.com/economy/policy/articles/euro-zone-banks-tighten-credit-080450407.html",
+      "publisher": "Reuters",
+      "time": 1784621090,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "962cd958-0121-3121-b3be-1102031f5642",
+      "title": "Afghans search for dozens missing after devastating flood",
+      "link": "https://finance.yahoo.com/m/962cd958-0121-3121-b3be-1102031f5642/afghans-search-for-dozens.html",
       "publisher": "AFP",
-      "time": 1784610859,
+      "time": 1784621021,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "84d150e1-4ba1-3900-afa9-349792ee8423",
-      "title": "Globe Life (GL) Reports Earnings Tomorrow: What To Expect",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/globe-life-gl-reports-earnings-051026827.html",
-      "publisher": "StockStory",
-      "time": 1784610626,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "034f9861-ed23-3fc2-ad97-d70b5bd8ac39",
+      "title": "TargetMol Brings Publication-Backed Validation Across Its Extensive Global Research Product Portfolio",
+      "link": "https://finance.yahoo.com/healthcare/articles/targetmol-brings-publication-backed-validation-080000721.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1784620800,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "c4acd176-861d-368e-a0e1-1b41a4dbbf1e",
-      "title": "Tesla (TSLA) Reports Q2: Everything You Need To Know Ahead Of Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-reports-q2-everything-051026350.html",
-      "publisher": "StockStory",
-      "time": 1784610626,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "157821b4-b50a-31d8-b1b7-61e7dd319b96",
+      "title": "Mad Max Moves from Myth to Machine",
+      "link": "https://finance.yahoo.com/media-advertising/articles/mad-max-moves-myth-machine-080000878.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784620800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "56fa0806-4c87-327a-967f-4a65ec77ae98",
+      "title": "ViiV Healthcare to present phase IIIb data comparing Dovato with Biktarvy in treatment-naïve adults; alongside INSTI-powered long-acting injectable innovation at AIDS 2026",
+      "link": "https://finance.yahoo.com/healthcare/articles/viiv-healthcare-present-phase-iiib-080000136.html",
+      "publisher": "Business Wire",
+      "time": 1784620800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7cfb7a02-672d-3ddc-98ac-ef950a8c9f06",
+      "title": "Transactions in connection with share buy-back program",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/transactions-connection-share-buy-back-080000390.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784620800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8759ae43-a613-3aa9-a700-be3736cfb19a",
+      "title": "Passport Power Doubles as Global Peace Declines",
+      "link": "https://finance.yahoo.com/economy/policy/articles/passport-power-doubles-global-peace-080000826.html",
+      "publisher": "CNW Group",
+      "time": 1784620800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "98a74903-10ba-357c-baaf-861151a39182",
+      "title": "Lundin Mining Provides Update on Chile Operations Following Severe Winter Storm",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/lundin-mining-provides-chile-operations-080000690.html",
+      "publisher": "CNW Group",
+      "time": 1784620800,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
