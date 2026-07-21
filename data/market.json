@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-21T08:14:59.753171+00:00",
+  "updatedAt": "2026-07-21T10:36:37.843903+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19284.8,
-      "change": 77.89999999999782,
-      "changePct": 0.4055834101286403,
+      "price": 19364.6,
+      "change": 157.6999999999971,
+      "changePct": 0.8210590985531089,
       "currency": "EUR"
     },
     {
@@ -28,56 +28,89 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 24877.71,
-      "change": 46.72999999999956,
-      "changePct": 0.18819233070945876,
+      "price": 24966.36,
+      "change": 135.38000000000102,
+      "changePct": 0.5452060289203287,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6253.2,
-      "change": 25.800000000000182,
-      "changePct": 0.4142981019366057,
+      "price": 6274.36,
+      "change": 46.960000000000036,
+      "changePct": 0.7540867777884838,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.59,
-      "change": -1.0599999999999987,
-      "changePct": -5.683646112600529,
+      "price": 17.55,
+      "change": -1.0999999999999979,
+      "changePct": -5.898123324396773,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "d3c587f8-a18a-3180-a3a4-f81c7cfcc892",
-      "title": "ADBE Stock Is Falling Again But Here’s Why One Wall Street Analyst Sees A 31% Upside",
-      "link": "https://finance.yahoo.com/m/d3c587f8-a18a-3180-a3a4-f81c7cfcc892/adbe-stock-is-falling-again.html",
-      "publisher": "Stocktwits",
-      "time": 1784621364,
+      "id": "b69460ca-cf79-3c3b-a09a-c37861ed911a",
+      "title": "Apollo Hospitals Brings Next-Generation Lysin Science to India's Fight Against AMR - Collaborates with Precisio Biotix",
+      "link": "https://finance.yahoo.com/healthcare/articles/apollo-hospitals-brings-next-generation-103200194.html",
+      "publisher": "PR Newswire",
+      "time": 1784629920,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d366302a-2fa2-3cc7-9dfd-61709371884e",
-      "title": "Pathward Financial (CASH) Q2 Earnings Report Preview: What To Look For",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pathward-financial-cash-q2-earnings-080626254.html",
-      "publisher": "StockStory",
-      "time": 1784621186,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
+      "id": "05d75048-7232-310e-8943-5490c835801d",
+      "title": "CGI research finds data sovereignty and modernization critical to scaling AI in Canada",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cgi-research-finds-data-sovereignty-103000301.html",
+      "publisher": "CNW Group",
+      "time": 1784629800,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "3160761d-43e3-3107-81d4-120410a4a648",
-      "title": "If You'd Invested $10,000 in Micron After Its IPO, Here's How Much You Would Have Now.",
-      "link": "https://finance.yahoo.com/m/3160761d-43e3-3107-81d4-120410a4a648/if-you%27d-invested-%2410%2C000-in.html",
-      "publisher": "Motley Fool",
-      "time": 1784621100,
+      "id": "3c640821-2511-3ac2-89b6-dcda7667eb37",
+      "title": "iFabric & GermstopSQ Advancing New Hard Surface Antimicrobial",
+      "link": "https://finance.yahoo.com/healthcare/articles/ifabric-germstopsq-advancing-hard-surface-103000095.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1784629800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "646d955c-703b-3dac-8a06-967967d8409d",
+      "title": "New LDC Report Produced in Partnership with the W. P. Carey School of Business at Arizona State University Finds U.S. Latinos Are Driving the Third Largest Consumer Cohort in the World",
+      "link": "https://finance.yahoo.com/economy/articles/ldc-report-produced-partnership-w-103000309.html",
+      "publisher": "Business Wire",
+      "time": 1784629800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6c297243-dfd5-3b52-b022-70e99e299c22",
+      "title": "Reported 20% Surge in U.S. Diesel Futures Highlights Potential Role of Domestic Renewable Fuel Supply",
+      "link": "https://finance.yahoo.com/energy/articles/reported-20-surge-u-diesel-103000026.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1784629800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "75785f23-4956-3b6f-ba69-e4339597d5f0",
+      "title": "Hasbro Reports Second Quarter 2026 Financial Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hasbro-reports-second-quarter-2026-103000744.html",
+      "publisher": "Business Wire",
+      "time": 1784629800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "95b5942c-597b-3304-9dca-de930ef7b298",
+      "title": "3M Reports Second-Quarter 2026 Results; Increases Full-Year Guidance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3m-reports-second-quarter-2026-103000328.html",
+      "publisher": "PR Newswire",
+      "time": 1784629800,
       "impact": "medium",
       "tags": [
         "macro",
@@ -85,77 +118,32 @@
       ]
     },
     {
-      "id": "d995e337-5009-3790-9e75-e9e1e35d2ef7",
-      "title": "Euro zone banks tighten credit access on war fears",
-      "link": "https://finance.yahoo.com/economy/policy/articles/euro-zone-banks-tighten-credit-080450407.html",
-      "publisher": "Reuters",
-      "time": 1784621090,
-      "impact": "high",
+      "id": "b84eb7d6-936d-3e15-b219-fb827419ef39",
+      "title": "GM releases 2026 second-quarter results, raises full-year 2026 guidance and declares quarterly dividend",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gm-releases-2026-second-quarter-103000769.html",
+      "publisher": "PR Newswire",
+      "time": 1784629800,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "962cd958-0121-3121-b3be-1102031f5642",
-      "title": "Afghans search for dozens missing after devastating flood",
-      "link": "https://finance.yahoo.com/m/962cd958-0121-3121-b3be-1102031f5642/afghans-search-for-dozens.html",
-      "publisher": "AFP",
-      "time": 1784621021,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "034f9861-ed23-3fc2-ad97-d70b5bd8ac39",
-      "title": "TargetMol Brings Publication-Backed Validation Across Its Extensive Global Research Product Portfolio",
-      "link": "https://finance.yahoo.com/healthcare/articles/targetmol-brings-publication-backed-validation-080000721.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1784620800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "157821b4-b50a-31d8-b1b7-61e7dd319b96",
-      "title": "Mad Max Moves from Myth to Machine",
-      "link": "https://finance.yahoo.com/media-advertising/articles/mad-max-moves-myth-machine-080000878.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784620800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "56fa0806-4c87-327a-967f-4a65ec77ae98",
-      "title": "ViiV Healthcare to present phase IIIb data comparing Dovato with Biktarvy in treatment-naïve adults; alongside INSTI-powered long-acting injectable innovation at AIDS 2026",
-      "link": "https://finance.yahoo.com/healthcare/articles/viiv-healthcare-present-phase-iiib-080000136.html",
+      "id": "c21d150e-9b79-304c-b84a-75688eb532cd",
+      "title": "Forestar Reports Fiscal 2026 Third Quarter Results",
+      "link": "https://finance.yahoo.com/real-estate/articles/forestar-reports-fiscal-2026-third-103000805.html",
       "publisher": "Business Wire",
-      "time": 1784620800,
+      "time": 1784629800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7cfb7a02-672d-3ddc-98ac-ef950a8c9f06",
-      "title": "Transactions in connection with share buy-back program",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/transactions-connection-share-buy-back-080000390.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784620800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8759ae43-a613-3aa9-a700-be3736cfb19a",
-      "title": "Passport Power Doubles as Global Peace Declines",
-      "link": "https://finance.yahoo.com/economy/policy/articles/passport-power-doubles-global-peace-080000826.html",
-      "publisher": "CNW Group",
-      "time": 1784620800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "98a74903-10ba-357c-baaf-861151a39182",
-      "title": "Lundin Mining Provides Update on Chile Operations Following Severe Winter Storm",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/lundin-mining-provides-chile-operations-080000690.html",
-      "publisher": "CNW Group",
-      "time": 1784620800,
+      "id": "cf7d694e-c624-31fb-ab89-ae5d577d99f1",
+      "title": "PermRock Royalty Trust Declares Monthly Cash Distribution",
+      "link": "https://finance.yahoo.com/energy/articles/permrock-royalty-trust-declares-monthly-103000945.html",
+      "publisher": "PR Newswire",
+      "time": 1784629800,
       "impact": "low",
       "tags": []
     }
