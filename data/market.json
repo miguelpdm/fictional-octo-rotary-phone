@@ -1,149 +1,157 @@
 {
-  "updatedAt": "2026-07-21T14:32:32.868883+00:00",
+  "updatedAt": "2026-07-21T16:18:30.465353+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19315.7,
-      "change": 108.79999999999927,
-      "changePct": 0.5664630939922594,
+      "price": 19379.8,
+      "change": 172.89999999999782,
+      "changePct": 0.9001973249196789,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7495.77,
-      "change": 38.08000000000084,
-      "changePct": 0.510613876414826,
+      "price": 7509.31,
+      "change": 51.6200000000008,
+      "changePct": 0.6921714364635806,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25789.732,
-      "change": 269.49199999999837,
-      "changePct": 1.055993203825663,
+      "price": 25842.443,
+      "change": 322.2029999999977,
+      "changePct": 1.2625390670307084,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 24889.55,
-      "change": 58.56999999999971,
-      "changePct": 0.23587470168313823,
+      "price": 25011.35,
+      "change": 180.36999999999898,
+      "changePct": 0.7263909841657437,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6255.06,
-      "change": 27.660000000000764,
-      "changePct": 0.4441661046343701,
+      "price": 6285.63,
+      "change": 58.23000000000047,
+      "changePct": 0.9350611812313402,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.75,
-      "change": -0.8999999999999986,
-      "changePct": -4.825737265415542,
+      "price": 17.21,
+      "change": -1.4399999999999977,
+      "changePct": -7.721179624664868,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "e6ace58f-9e8c-3d5a-8a07-9b3931a6b6cd",
-      "title": "French lawmakers set to ban social media for under-15s in European first",
-      "link": "https://finance.yahoo.com/m/e6ace58f-9e8c-3d5a-8a07-9b3931a6b6cd/french-lawmakers-set-to-ban.html",
-      "publisher": "AFP",
-      "time": 1784644103,
+      "id": "79050f34-301b-31af-8048-cb147a726fc4",
+      "title": "Cardinal Health makes acquisition duo worth $360m for home care business advance",
+      "link": "https://finance.yahoo.com/m/79050f34-301b-31af-8048-cb147a726fc4/cardinal-health-makes.html",
+      "publisher": "Medical Device Network",
+      "time": 1784650549,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "6ab45535-71d8-33d4-b180-c722c9657771",
+      "title": "Kolon TissueGene’s stock drops on Phase III knee osteoarthritis trial failure",
+      "link": "https://finance.yahoo.com/m/6ab45535-71d8-33d4-b180-c722c9657771/kolon-tissuegene%E2%80%99s-stock.html",
+      "publisher": "Clinical Trials Arena",
+      "time": 1784650543,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1a9d3903-fac5-3885-abc7-134a09e32b0a",
-      "title": "Loman AI integrates with Toast to streamline restaurant phone orders",
-      "link": "https://finance.yahoo.com/m/1a9d3903-fac5-3885-abc7-134a09e32b0a/loman-ai-integrates-with.html",
-      "publisher": "Verdict Food Service",
-      "time": 1784643903,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "49d69a16-2b2c-3a94-848c-d7dbf79fb336",
-      "title": "SOCAN Announces Collaboration with Musical AI to Advance Music Creator Attribution, Remuneration and Transparency in AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/socan-announces-collaboration-musical-ai-142500646.html",
-      "publisher": "CNW Group",
-      "time": 1784643900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "baf5ccf0-d08f-3c16-8894-4c2bdde04dd1",
-      "title": "Improving access to community-based mental health services for Nova Scotia youth",
-      "link": "https://finance.yahoo.com/healthcare/articles/improving-access-community-based-mental-142500497.html",
-      "publisher": "CNW Group",
-      "time": 1784643900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "59dbe70a-292c-37d5-bf1a-7274b52b4acc",
-      "title": "Krispy Kreme Launches New Original Glazed Blueberry Flavored Doughnut",
-      "link": "https://finance.yahoo.com/m/59dbe70a-292c-37d5-bf1a-7274b52b4acc/krispy-kreme-launches-new.html",
-      "publisher": "QSR",
-      "time": 1784643835,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "202cba57-3345-3053-832e-20f0408a726d",
-      "title": "Intuitive Surgical (ISRG) Slid Despite Strong Fundamentals",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intuitive-surgical-isrg-slid-despite-142345149.html",
-      "publisher": "Insider Monkey",
-      "time": 1784643825,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ade0bb95-361f-36ee-b612-ef13f8ee3e70",
-      "title": "Another Georgia cop accused of misusing Flock data in growing trend",
-      "link": "https://finance.yahoo.com/m/ade0bb95-361f-36ee-b612-ef13f8ee3e70/another-georgia-cop-accused.html",
-      "publisher": "USA TODAY",
-      "time": 1784643773,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "74a39879-6944-48be-beed-2c19a561df74",
-      "title": "GM CFO Paul Jacobsen breaks down the Q2 results",
-      "link": "https://finance.yahoo.com/video/gm-cfo-paul-jacobsen-breaks-down-the-q2-results-142240244.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1784643760,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a40696b9-d049-392d-ad49-305901c764f7",
-      "title": "3 Market-Beating Stocks with Solid Fundamentals",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-market-beating-stocks-solid-142226623.html",
+      "id": "fbe7ae42-05d4-32e4-acb7-5760ad3f02b4",
+      "title": "Q1 Earnings Outperformers: Napco (NASDAQ:NSSC) And The Rest Of The Specialized Technology Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q1-earnings-outperformers-napco-nasdaq-161426348.html",
       "publisher": "StockStory",
-      "time": 1784643746,
-      "impact": "low",
+      "time": 1784650466,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "0f7313c4-7325-3016-9d40-d7e48ab64bbf",
-      "title": "Market Thinks Cadence’s (CDNS) Moat Is at Risk Due To Kimi K3. We Think it’s Not, Here’s Why",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-thinks-cadence-cdns-moat-142214767.html",
-      "publisher": "Insider Monkey",
-      "time": 1784643734,
+      "id": "651df27d-69cb-36a7-bf00-b66b33c709c4",
+      "title": "Skunk Train Debuts First-Ever Fresh Dining Experience at Glen Blair Junction",
+      "link": "https://finance.yahoo.com/small-business/articles/skunk-train-debuts-first-ever-161200756.html",
+      "publisher": "Business Wire",
+      "time": 1784650320,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8a9f6142-2fb7-334f-8f12-9786d98e6e9e",
+      "title": "Alphabet vs Apple: The Better Buy Before Earnings",
+      "link": "https://finance.yahoo.com/m/8a9f6142-2fb7-334f-8f12-9786d98e6e9e/alphabet-vs-apple%3A-the-better.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1784650240,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
+    },
+    {
+      "id": "141df1a5-e0f4-3185-b1f8-b1d376a4d201",
+      "title": "Italy to use EU budget leeway to fund energy-relief measures in 2027-2028",
+      "link": "https://finance.yahoo.com/news/italy-eu-budget-leeway-fund-161005441.html",
+      "publisher": "Reuters",
+      "time": 1784650205,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e6ace58f-9e8c-3d5a-8a07-9b3931a6b6cd",
+      "title": "French senators back social media ban for under-15s",
+      "link": "https://finance.yahoo.com/m/e6ace58f-9e8c-3d5a-8a07-9b3931a6b6cd/french-senators-back-social.html",
+      "publisher": "AFP",
+      "time": 1784650086,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "63bcb97e-a85f-3834-b41a-aea2cd96dc62",
+      "title": "Lineaje Launches Continuous Vulnerability Elimination Factory, Powered by Frontier Defense™",
+      "link": "https://finance.yahoo.com/technology/ai/articles/lineaje-launches-continuous-vulnerability-elimination-160800114.html",
+      "publisher": "Business Wire",
+      "time": 1784650080,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d86c4238-869b-3059-9495-178bae355c25",
+      "title": "ICIMS Earns Fifth Consecutive Strategic Leader Recognition in Fosway 9-Grid™ for Talent Acquisition",
+      "link": "https://finance.yahoo.com/technology/ai/articles/icims-earns-fifth-consecutive-strategic-160800517.html",
+      "publisher": "PR Newswire",
+      "time": 1784650080,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "526843a8-2a07-38f7-b420-b7951749f44a",
+      "title": "Nike Misses World Cup Final as Adidas Gains Merchandise Opportunity",
+      "link": "https://finance.yahoo.com/media-advertising/articles/nike-misses-world-cup-final-160748666.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784650068,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
