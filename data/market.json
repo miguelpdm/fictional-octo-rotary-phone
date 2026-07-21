@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T16:18:30.465353+00:00",
+  "updatedAt": "2026-07-21T17:51:57.752834+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7509.31,
-      "change": 51.6200000000008,
-      "changePct": 0.6921714364635806,
+      "price": 7513.31,
+      "change": 55.6200000000008,
+      "changePct": 0.7458073478516913,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25842.443,
-      "change": 322.2029999999977,
-      "changePct": 1.2625390670307084,
+      "price": 25873.432,
+      "change": 353.1919999999991,
+      "changePct": 1.3839681758478724,
       "currency": "USD"
     },
     {
@@ -44,100 +44,73 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.21,
-      "change": -1.4399999999999977,
-      "changePct": -7.721179624664868,
+      "price": 17.04,
+      "change": -1.6099999999999994,
+      "changePct": -8.632707774798925,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "79050f34-301b-31af-8048-cb147a726fc4",
-      "title": "Cardinal Health makes acquisition duo worth $360m for home care business advance",
-      "link": "https://finance.yahoo.com/m/79050f34-301b-31af-8048-cb147a726fc4/cardinal-health-makes.html",
-      "publisher": "Medical Device Network",
-      "time": 1784650549,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "6ab45535-71d8-33d4-b180-c722c9657771",
-      "title": "Kolon TissueGene’s stock drops on Phase III knee osteoarthritis trial failure",
-      "link": "https://finance.yahoo.com/m/6ab45535-71d8-33d4-b180-c722c9657771/kolon-tissuegene%E2%80%99s-stock.html",
-      "publisher": "Clinical Trials Arena",
-      "time": 1784650543,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fbe7ae42-05d4-32e4-acb7-5760ad3f02b4",
-      "title": "Q1 Earnings Outperformers: Napco (NASDAQ:NSSC) And The Rest Of The Specialized Technology Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/q1-earnings-outperformers-napco-nasdaq-161426348.html",
-      "publisher": "StockStory",
-      "time": 1784650466,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "651df27d-69cb-36a7-bf00-b66b33c709c4",
-      "title": "Skunk Train Debuts First-Ever Fresh Dining Experience at Glen Blair Junction",
-      "link": "https://finance.yahoo.com/small-business/articles/skunk-train-debuts-first-ever-161200756.html",
+      "id": "150f7909-24d6-32c1-a4f2-4d6d64f4c8d3",
+      "title": "Roboteon Delivers Unified Fleet Management and Orchestration for Mobile Robots and Autonomous AGVs in Manufacturing",
+      "link": "https://finance.yahoo.com/technology/ai/articles/roboteon-delivers-unified-fleet-management-140000931.html",
       "publisher": "Business Wire",
-      "time": 1784650320,
+      "time": 1784656140,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8a9f6142-2fb7-334f-8f12-9786d98e6e9e",
-      "title": "Alphabet vs Apple: The Better Buy Before Earnings",
-      "link": "https://finance.yahoo.com/m/8a9f6142-2fb7-334f-8f12-9786d98e6e9e/alphabet-vs-apple%3A-the-better.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1784650240,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "141df1a5-e0f4-3185-b1f8-b1d376a4d201",
-      "title": "Italy to use EU budget leeway to fund energy-relief measures in 2027-2028",
-      "link": "https://finance.yahoo.com/news/italy-eu-budget-leeway-fund-161005441.html",
-      "publisher": "Reuters",
-      "time": 1784650205,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e6ace58f-9e8c-3d5a-8a07-9b3931a6b6cd",
-      "title": "French senators back social media ban for under-15s",
-      "link": "https://finance.yahoo.com/m/e6ace58f-9e8c-3d5a-8a07-9b3931a6b6cd/french-senators-back-social.html",
-      "publisher": "AFP",
-      "time": 1784650086,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "63bcb97e-a85f-3834-b41a-aea2cd96dc62",
-      "title": "Lineaje Launches Continuous Vulnerability Elimination Factory, Powered by Frontier Defense™",
-      "link": "https://finance.yahoo.com/technology/ai/articles/lineaje-launches-continuous-vulnerability-elimination-160800114.html",
-      "publisher": "Business Wire",
-      "time": 1784650080,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d86c4238-869b-3059-9495-178bae355c25",
-      "title": "ICIMS Earns Fifth Consecutive Strategic Leader Recognition in Fosway 9-Grid™ for Talent Acquisition",
-      "link": "https://finance.yahoo.com/technology/ai/articles/icims-earns-fifth-consecutive-strategic-160800517.html",
+      "id": "1548ca11-c82e-3f0d-b53e-18e5bda2d6c3",
+      "title": "Hewlett Foundation Announces New $100 Million Emerging Technology and Security Initiative",
+      "link": "https://finance.yahoo.com/technology/ai/articles/hewlett-foundation-announces-100-million-174800235.html",
       "publisher": "PR Newswire",
-      "time": 1784650080,
+      "time": 1784656080,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d48c9c8a-ea61-3f94-a172-131c5c2652c0",
+      "title": "Rancher's Premium Smokehouse Celebrates National Grilling Month with Ultimate Grill Master Giveaway",
+      "link": "https://finance.yahoo.com/small-business/articles/ranchers-premium-smokehouse-celebrates-national-174800544.html",
+      "publisher": "Business Wire",
+      "time": 1784656080,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f35e9a3b-e800-3363-8929-c8a25137b129",
+      "title": "Samsung Unveils AI Health Assistant Ahead of New Galaxy Device Launch",
+      "link": "https://finance.yahoo.com/technology/ai/articles/samsung-unveils-ai-health-assistant-174737361.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784656057,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a8c97964-818f-3cb4-a0b1-c87018ffc852",
+      "title": "Generational Group Advises Agape Sales & Service in Its Sale to Agape Holdings One",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/generational-group-advises-agape-sales-174700002.html",
+      "publisher": "Business Wire",
+      "time": 1784656020,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ec50d149-9cd5-398a-86d6-f0862a3dca71",
+      "title": "/C O R R E C T I O N -- Microsoft Corp./",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-mistral-expand-strategic-partnership-123000697.html",
+      "publisher": "PR Newswire",
+      "time": 1784656020,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b7eece36-2f48-3b1a-a13f-3c2626e377ab",
+      "title": "Biotech IPOs Surge 55% as AI Listings Lose Momentum",
+      "link": "https://finance.yahoo.com/healthcare/articles/biotech-ipos-surge-55-ai-174611427.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784655971,
       "impact": "medium",
       "tags": [
         "macro",
@@ -145,11 +118,102 @@
       ]
     },
     {
-      "id": "526843a8-2a07-38f7-b420-b7951749f44a",
-      "title": "Nike Misses World Cup Final as Adidas Gains Merchandise Opportunity",
-      "link": "https://finance.yahoo.com/media-advertising/articles/nike-misses-world-cup-final-160748666.html",
+      "id": "9994ab6d-64d1-36f1-887e-28846ffd2936",
+      "title": "An InventHelp 123Invent Client Develops Wind Energy Generation Idea (SBW-142)",
+      "link": "https://finance.yahoo.com/energy/articles/inventhelp-123invent-client-develops-wind-174500318.html",
+      "publisher": "PR Newswire",
+      "time": 1784655900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d805da5f-089c-3e6d-8b38-9e7821bb13ef",
+      "title": "CO2 Energy Transition Corp. Announces Shareholder Approval of SPAC Extension and Deadline for Acceptance of Redemption Reversals",
+      "link": "https://finance.yahoo.com/energy/articles/co2-energy-transition-corp-announces-174500935.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784655900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3f9263d0-8d6b-34cb-9c66-7330fb51bff4",
+      "title": "White House official postpones military duty right before a major crypto vote",
+      "link": "https://finance.yahoo.com/m/3f9263d0-8d6b-34cb-9c66-7330fb51bff4/white-house-official.html",
+      "publisher": "TheStreet",
+      "time": 1784655882,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "42d4055a-78f7-3b7c-91e7-0e0837a88a54",
+      "title": "Chip Stocks Surge as SK hynix, Micron Lead AI-Fueled Rally",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-surge-sk-hynix-174430156.html",
       "publisher": "GuruFocus.com",
-      "time": 1784650068,
+      "time": 1784655870,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "f4f33a58-b335-3a02-b3d0-94b6e807caec",
+      "title": "Microsoft Expands Mistral Alliance to Boost European AI Push",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-expands-mistral-alliance-boost-174259844.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784655779,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f04dcec8-48b5-3e48-a946-c61aa73c0869",
+      "title": "Tesla Rallies Ahead of Earnings as Options Signal 6% Stock Swing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-rallies-ahead-earnings-options-174159353.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784655719,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "40403e86-f591-363c-b7b6-752e868d8918",
+      "title": "Cracker Barrel sells Maple Street Biscuit, raises fiscal 2026 outlook",
+      "link": "https://finance.yahoo.com/m/40403e86-f591-363c-b7b6-752e868d8918/cracker-barrel-sells-maple.html",
+      "publisher": "Quartz",
+      "time": 1784655700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c88a97fc-96a2-30cf-9438-70b1679eb6aa",
+      "title": "Sector Update: Financial Stocks Rise in Afternoon Trading",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-afternoon-174051634.html",
+      "publisher": "MT Newswires",
+      "time": 1784655651,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "239b3cb1-1d49-33d0-8988-a746a65ed136",
+      "title": "SpaceX Jumps 6% as Bank of America Sees Massive Upside Ahead of Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-jumps-6-bank-america-174048126.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784655648,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "47bde58d-bf95-33f9-a67c-1c4c66479f4a",
+      "title": "Need to escape hurricane? Company offers evacuation membership to ATL",
+      "link": "https://finance.yahoo.com/m/47bde58d-bf95-33f9-a67c-1c4c66479f4a/need-to-escape-hurricane%3F.html",
+      "publisher": "USA TODAY",
+      "time": 1784655547,
       "impact": "low",
       "tags": []
     }
