@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T17:51:57.752834+00:00",
+  "updatedAt": "2026-07-21T19:09:43.826182+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7513.31,
-      "change": 55.6200000000008,
-      "changePct": 0.7458073478516913,
+      "price": 7507.0,
+      "change": 49.3100000000004,
+      "changePct": 0.6611966976369412,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25873.432,
-      "change": 353.1919999999991,
-      "changePct": 1.3839681758478724,
+      "price": 25831.076,
+      "change": 310.83599999999933,
+      "changePct": 1.2179979498625377,
       "currency": "USD"
     },
     {
@@ -52,65 +52,20 @@
   ],
   "news": [
     {
-      "id": "150f7909-24d6-32c1-a4f2-4d6d64f4c8d3",
-      "title": "Roboteon Delivers Unified Fleet Management and Orchestration for Mobile Robots and Autonomous AGVs in Manufacturing",
-      "link": "https://finance.yahoo.com/technology/ai/articles/roboteon-delivers-unified-fleet-management-140000931.html",
-      "publisher": "Business Wire",
-      "time": 1784656140,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1548ca11-c82e-3f0d-b53e-18e5bda2d6c3",
-      "title": "Hewlett Foundation Announces New $100 Million Emerging Technology and Security Initiative",
-      "link": "https://finance.yahoo.com/technology/ai/articles/hewlett-foundation-announces-100-million-174800235.html",
-      "publisher": "PR Newswire",
-      "time": 1784656080,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d48c9c8a-ea61-3f94-a172-131c5c2652c0",
-      "title": "Rancher's Premium Smokehouse Celebrates National Grilling Month with Ultimate Grill Master Giveaway",
-      "link": "https://finance.yahoo.com/small-business/articles/ranchers-premium-smokehouse-celebrates-national-174800544.html",
-      "publisher": "Business Wire",
-      "time": 1784656080,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f35e9a3b-e800-3363-8929-c8a25137b129",
-      "title": "Samsung Unveils AI Health Assistant Ahead of New Galaxy Device Launch",
-      "link": "https://finance.yahoo.com/technology/ai/articles/samsung-unveils-ai-health-assistant-174737361.html",
+      "id": "604b480a-b613-3719-bea7-c96b04118978",
+      "title": "Garmin Unveils $200 Screenless Tracker as $10 Billion Whoop Faces New Rival",
+      "link": "https://finance.yahoo.com/news/garmin-unveils-200-screenless-tracker-190605432.html",
       "publisher": "GuruFocus.com",
-      "time": 1784656057,
+      "time": 1784660765,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a8c97964-818f-3cb4-a0b1-c87018ffc852",
-      "title": "Generational Group Advises Agape Sales & Service in Its Sale to Agape Holdings One",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/generational-group-advises-agape-sales-174700002.html",
-      "publisher": "Business Wire",
-      "time": 1784656020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ec50d149-9cd5-398a-86d6-f0862a3dca71",
-      "title": "/C O R R E C T I O N -- Microsoft Corp./",
-      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-mistral-expand-strategic-partnership-123000697.html",
-      "publisher": "PR Newswire",
-      "time": 1784656020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b7eece36-2f48-3b1a-a13f-3c2626e377ab",
-      "title": "Biotech IPOs Surge 55% as AI Listings Lose Momentum",
-      "link": "https://finance.yahoo.com/healthcare/articles/biotech-ipos-surge-55-ai-174611427.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784655971,
+      "id": "b80ad948-fc12-33ec-9e8c-99515ed212da",
+      "title": "RBB Bancorp Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/b80ad948-fc12-33ec-9e8c-99515ed212da/rbb-bancorp-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1784660564,
       "impact": "medium",
       "tags": [
         "macro",
@@ -118,58 +73,11 @@
       ]
     },
     {
-      "id": "9994ab6d-64d1-36f1-887e-28846ffd2936",
-      "title": "An InventHelp 123Invent Client Develops Wind Energy Generation Idea (SBW-142)",
-      "link": "https://finance.yahoo.com/energy/articles/inventhelp-123invent-client-develops-wind-174500318.html",
-      "publisher": "PR Newswire",
-      "time": 1784655900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d805da5f-089c-3e6d-8b38-9e7821bb13ef",
-      "title": "CO2 Energy Transition Corp. Announces Shareholder Approval of SPAC Extension and Deadline for Acceptance of Redemption Reversals",
-      "link": "https://finance.yahoo.com/energy/articles/co2-energy-transition-corp-announces-174500935.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784655900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3f9263d0-8d6b-34cb-9c66-7330fb51bff4",
-      "title": "White House official postpones military duty right before a major crypto vote",
-      "link": "https://finance.yahoo.com/m/3f9263d0-8d6b-34cb-9c66-7330fb51bff4/white-house-official.html",
-      "publisher": "TheStreet",
-      "time": 1784655882,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "42d4055a-78f7-3b7c-91e7-0e0837a88a54",
-      "title": "Chip Stocks Surge as SK hynix, Micron Lead AI-Fueled Rally",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-surge-sk-hynix-174430156.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784655870,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "f4f33a58-b335-3a02-b3d0-94b6e807caec",
-      "title": "Microsoft Expands Mistral Alliance to Boost European AI Push",
-      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-expands-mistral-alliance-boost-174259844.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784655779,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f04dcec8-48b5-3e48-a946-c61aa73c0869",
-      "title": "Tesla Rallies Ahead of Earnings as Options Signal 6% Stock Swing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-rallies-ahead-earnings-options-174159353.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784655719,
+      "id": "98230243-546e-3128-b33c-0884f2d577ac",
+      "title": "Home Bancorp Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/98230243-546e-3128-b33c-0884f2d577ac/home-bancorp-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1784660560,
       "impact": "medium",
       "tags": [
         "macro",
@@ -177,31 +85,38 @@
       ]
     },
     {
-      "id": "40403e86-f591-363c-b7b6-752e868d8918",
-      "title": "Cracker Barrel sells Maple Street Biscuit, raises fiscal 2026 outlook",
-      "link": "https://finance.yahoo.com/m/40403e86-f591-363c-b7b6-752e868d8918/cracker-barrel-sells-maple.html",
-      "publisher": "Quartz",
-      "time": 1784655700,
+      "id": "cb700ea8-0d81-34f1-91d7-d3f5fc47977e",
+      "title": "HelloFresh Bond Sees Over 10% Available to Borrow as Short Interest Surges",
+      "link": "https://finance.yahoo.com/news/hellofresh-bond-sees-over-10-190157718.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784660517,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c88a97fc-96a2-30cf-9438-70b1679eb6aa",
-      "title": "Sector Update: Financial Stocks Rise in Afternoon Trading",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-afternoon-174051634.html",
+      "id": "7b7d53fd-0a18-3899-ba53-9c82aa6da63a",
+      "title": "Her Last Paycheck Included 30 Weeks of Severance. Her First Medicare Premium Included a Surcharge.",
+      "link": "https://finance.yahoo.com/m/7b7d53fd-0a18-3899-ba53-9c82aa6da63a/her-last-paycheck-included-30.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1784660499,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e352c1cf-28e8-3f66-b820-942973f452d0",
+      "title": "Elastic Shares Fall After Morgan Stanley Downgrade",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/elastic-shares-fall-morgan-stanley-190117040.html",
       "publisher": "MT Newswires",
-      "time": 1784655651,
+      "time": 1784660477,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "239b3cb1-1d49-33d0-8988-a746a65ed136",
-      "title": "SpaceX Jumps 6% as Bank of America Sees Massive Upside Ahead of Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-jumps-6-bank-america-174048126.html",
+      "id": "307cfe20-4e57-30ce-b075-249833d84e37",
+      "title": "Sobha Ltd (BOM:532784) Q1 2027 Earnings Call Highlights: Record Sales and Strategic Expansion",
+      "link": "https://finance.yahoo.com/news/sobha-ltd-bom-532784-q1-190107583.html",
       "publisher": "GuruFocus.com",
-      "time": 1784655648,
+      "time": 1784660467,
       "impact": "medium",
       "tags": [
         "macro",
@@ -209,11 +124,32 @@
       ]
     },
     {
-      "id": "47bde58d-bf95-33f9-a67c-1c4c66479f4a",
-      "title": "Need to escape hurricane? Company offers evacuation membership to ATL",
-      "link": "https://finance.yahoo.com/m/47bde58d-bf95-33f9-a67c-1c4c66479f4a/need-to-escape-hurricane%3F.html",
-      "publisher": "USA TODAY",
-      "time": 1784655547,
+      "id": "7d40b62c-6ae0-341c-b8d7-b6365eb014e8",
+      "title": "IndiaMART InterMESH Ltd (BOM:542726) Q1 2027 Earnings Call Highlights: Navigating Growth and ...",
+      "link": "https://finance.yahoo.com/news/indiamart-intermesh-ltd-bom-542726-190107112.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784660467,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "6aa7317a-002b-3745-9842-78b175385c77",
+      "title": "THE PIZZA CUPCAKE REBRANDS AS INCREDIFULLS TO TAKE A BIGGER BITE",
+      "link": "https://finance.yahoo.com/small-business/articles/pizza-cupcake-rebrands-incredifulls-bigger-190100255.html",
+      "publisher": "PR Newswire",
+      "time": 1784660460,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a2af8aac-bd06-3098-b5d1-9f35e84ab639",
+      "title": "US Treasury Closing Levels",
+      "link": "https://finance.yahoo.com/news/us-treasury-closing-levels-190054809.html",
+      "publisher": "MT Newswires",
+      "time": 1784660454,
       "impact": "low",
       "tags": []
     }
