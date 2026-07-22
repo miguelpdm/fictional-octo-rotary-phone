@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-22T06:25:24.883331+00:00",
+  "updatedAt": "2026-07-22T09:07:16.693818+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19379.8,
-      "change": 172.89999999999782,
-      "changePct": 0.9001973249196789,
+      "price": 19528.7,
+      "change": 148.90000000000146,
+      "changePct": 0.768325782515823,
       "currency": "EUR"
     },
     {
@@ -28,53 +28,85 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25011.35,
-      "change": 180.36999999999898,
-      "changePct": 0.7263909841657437,
+      "price": 25157.07,
+      "change": 310.380000000001,
+      "changePct": 1.2491804743408519,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6285.63,
-      "change": 58.23000000000047,
-      "changePct": 0.9350611812313402,
+      "price": 6305.27,
+      "change": 19.640000000000327,
+      "changePct": 0.31245873524213685,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.05,
-      "change": -1.5999999999999979,
-      "changePct": -8.579088471849856,
+      "price": 17.46,
+      "change": 0.41000000000000014,
+      "changePct": 2.404692082111438,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "0747c1a4-702d-3a09-b2ce-b82990bc4a72",
-      "title": "Lithuania moves Red Army graves to leave behind Soviet past",
-      "link": "https://finance.yahoo.com/m/0747c1a4-702d-3a09-b2ce-b82990bc4a72/lithuania-moves-red-army.html",
-      "publisher": "AFP",
-      "time": 1784701221,
+      "id": "f29a98d5-1dac-3d32-9c99-bc1144224c3a",
+      "title": "Morocco plans 60,000-bed hotel expansion ahead of 2030 World Cup",
+      "link": "https://finance.yahoo.com/m/f29a98d5-1dac-3d32-9c99-bc1144224c3a/morocco-plans-60%2C000-bed.html",
+      "publisher": "Hotel Management Network",
+      "time": 1784711113,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "103881f5-8742-3f1f-82be-2ac0f9b234e8",
-      "title": "Puzzle solutions for Wednesday, Jul. 22, 2026",
-      "link": "https://finance.yahoo.com/m/103881f5-8742-3f1f-82be-2ac0f9b234e8/puzzle-solutions-for.html",
-      "publisher": "USA TODAY",
-      "time": 1784701097,
+      "id": "44259413-863e-3954-a1fe-03f3f5aed2ef",
+      "title": "White House's sweeping Canada tariffs put US prices at risk",
+      "link": "https://finance.yahoo.com/m/44259413-863e-3954-a1fe-03f3f5aed2ef/white-house%27s-sweeping-canada.html",
+      "publisher": "TheStreet",
+      "time": 1784710980,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "e7cd166e-b20e-3324-895a-40903c22cd0a",
+      "title": "Middle East conflict drives global operating costs to record high – survey",
+      "link": "https://finance.yahoo.com/m/e7cd166e-b20e-3324-895a-40903c22cd0a/middle-east-conflict-drives.html",
+      "publisher": "The Accountant",
+      "time": 1784710953,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "40fb3fb2-3ea6-3fce-b257-7b6011468cfd",
+      "title": "Genesis Automation Healthcare to Debut Unified Platform and Launch Agentic AI Design Partner Program at AHRMM26",
+      "link": "https://finance.yahoo.com/healthcare/articles/genesis-automation-healthcare-debut-unified-090100037.html",
+      "publisher": "PR Newswire",
+      "time": 1784710860,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f5e3ea5a-2ee6-341a-bc26-1faf5a09c157",
-      "title": "SouthState (SSB) To Report Earnings Tomorrow: Here Is What To Expect",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/southstate-ssb-report-earnings-tomorrow-061427671.html",
-      "publisher": "StockStory",
-      "time": 1784700867,
+      "id": "d574c10c-2882-3669-afb0-587905542a2d",
+      "title": "American Lung Association Empowers Schools to Protect Student and Staff Health",
+      "link": "https://finance.yahoo.com/healthcare/articles/american-lung-association-empowers-schools-090100589.html",
+      "publisher": "PR Newswire",
+      "time": 1784710860,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9abb0a4f-4aad-360d-aedd-6efacc7c102e",
+      "title": "LG Display Co Ltd (LPL) Q2 2026 Earnings Call Highlights: Navigating Challenges with OLED ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lg-display-co-ltd-lpl-090021414.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784710821,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,76 +114,43 @@
       ]
     },
     {
-      "id": "ad2ff277-e4f8-38e7-a553-da21898acb8f",
-      "title": "Is Honeywell Aerospace (HONA) Below Fair Value After A 25% Slide?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-aerospace-hona-below-fair-061129199.html",
-      "publisher": "Simply Wall St.",
-      "time": 1784700689,
+      "id": "45e8aa3b-3318-3a98-a65d-c060862375ab",
+      "title": "DP World and EBRD Sign €25 Million Green Loan for Constanța Terminal",
+      "link": "https://finance.yahoo.com/energy/articles/dp-world-ebrd-sign-25-090000259.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1784710800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "865d7abe-0475-396d-8a2f-5d7f12cc9b57",
-      "title": "Bank of New York Mellon Corporation (BNY) Stock Looks Fully Valued After A 284% Run",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-york-mellon-corporation-bny-061115295.html",
-      "publisher": "Simply Wall St.",
-      "time": 1784700675,
-      "impact": "medium",
+      "id": "50c5bcd1-de9f-35b8-a06f-f522c32208da",
+      "title": "More Ways for Canadians to Travel, Earn and Be Rewarded: American Express and ALL Accor Announce Global Partnership",
+      "link": "https://finance.yahoo.com/media-advertising/articles/more-ways-canadians-travel-earn-090000242.html",
+      "publisher": "CNW Group",
+      "time": 1784710800,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "c6ad9355-1bc6-3eaa-bbbc-92c049ea556e",
-      "title": "Taiwan Semiconductor (TSM) Stock Is Down Nearly 15% This Month Despite Record AI Demand. Here Is Why",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-tsm-stock-down-061104350.html",
-      "publisher": "Insider Monkey",
-      "time": 1784700664,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "1dd4c05b-a561-39fe-9463-8f88d90a3e94",
-      "title": "Shell (LSE:SHEL) Signs Five Year SAF Deal With Delta Across Major U.S. Airports",
-      "link": "https://finance.yahoo.com/energy/articles/shell-lse-shel-signs-five-061102100.html",
-      "publisher": "Simply Wall St.",
-      "time": 1784700662,
+      "id": "5a75117c-43ff-337f-b260-4b4d4f2f5762",
+      "title": "Priceva Launches Out-of-Stock Analytics and Bulk Editing Tools for Retailers",
+      "link": "https://finance.yahoo.com/small-business/articles/priceva-launches-stock-analytics-bulk-090000570.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1784710800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ca4023ad-ee3d-3541-8b23-e0e73f0d1c61",
-      "title": "Novartis (SWX:NOVN) Is Pushing AI Deeper Into Drug Discovery",
-      "link": "https://finance.yahoo.com/healthcare/articles/novartis-swx-novn-pushing-ai-061047281.html",
-      "publisher": "Simply Wall St.",
-      "time": 1784700647,
+      "id": "922c490b-bbaf-324f-87db-40872a8914ae",
+      "title": "Vision Marine Technologies Files U.S. Patent Application Covering Marine Low-Voltage Power Management",
+      "link": "https://finance.yahoo.com/technology/articles/vision-marine-technologies-files-u-090000366.html",
+      "publisher": "PR Newswire",
+      "time": 1784710800,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "46645aa6-0cd7-3e24-9846-ed85caa5d2b9",
-      "title": "Coca Cola HBC (LSE:CCH) Stock Gets Fair Value Bump After Analyst Target Increases",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-hbc-lse-cch-061043465.html",
-      "publisher": "Simply Wall St.",
-      "time": 1784700643,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bfcae27b-f63f-334f-8cf2-dff005f88a93",
-      "title": "What ServisFirst Bancshares (SFBS)'s Strong Q2 2026 Earnings and Margin Gains Mean For Shareholders",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/servisfirst-bancshares-sfbs-strong-q2-061022739.html",
-      "publisher": "Simply Wall St.",
-      "time": 1784700622,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
     }
   ],
   "errors": {
