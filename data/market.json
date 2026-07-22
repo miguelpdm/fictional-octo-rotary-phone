@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T16:25:52.528063+00:00",
+  "updatedAt": "2026-07-22T17:48:26.528350+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7524.33,
-      "change": 81.05000000000018,
-      "changePct": 1.0889016670070208,
+      "price": 7515.9,
+      "change": 72.61999999999989,
+      "changePct": 0.9756451456884585,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25825.787,
-      "change": 317.71700000000055,
-      "changePct": 1.2455548381355412,
+      "price": 25787.135,
+      "change": 279.0649999999987,
+      "changePct": 1.094026321865977,
       "currency": "USD"
     },
     {
@@ -44,173 +44,100 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.78,
-      "change": -0.2699999999999996,
-      "changePct": -1.5835777126099682,
+      "price": 16.79,
+      "change": -0.26000000000000156,
+      "changePct": -1.5249266862170179,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "7131c17c-c542-487d-b2f7-71484ee00460",
-      "title": "Bond yields rise as elevated oil prices reignite threat of 'renewed pressure on inflation'",
-      "link": "https://finance.yahoo.com/markets/article/bond-yields-rise-as-elevated-oil-prices-reignite-threat-of-renewed-pressure-on-inflation-162442976.html",
-      "publisher": "Yahoo Finance",
-      "time": 1784737482,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "26f9108f-8164-322d-8b61-4a5a4cf76000",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-162300624.html",
-      "publisher": "Business Wire",
-      "time": 1784737380,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "760a4031-affa-3f18-b31c-2183b164043f",
-      "title": "FRN Variable Rate Fix",
-      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-162300063.html",
-      "publisher": "Business Wire",
-      "time": 1784737380,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f0e8ad16-d0eb-3e19-82cf-80a07e9abc7b",
-      "title": "Deko Cocktails Launches Statewide Across South Carolina with Southern Crown Partners",
-      "link": "https://finance.yahoo.com/small-business/articles/deko-cocktails-launches-statewide-across-162300403.html",
-      "publisher": "Business Wire",
-      "time": 1784737380,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c4c65df5-eccb-33b6-b4d8-19dcf8d6a477",
-      "title": "OtterBox Announces New Foldable Phone Case Lineup for the Samsung Galaxy Z Fold8 Ultra, Galaxy Z Fold8 and Galaxy Z Flip8",
-      "link": "https://finance.yahoo.com/technology/articles/otterbox-announces-foldable-phone-case-162200335.html",
-      "publisher": "PR Newswire",
-      "time": 1784737320,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "02035fda-2bcd-3a0f-847f-f47369455098",
-      "title": "Yemen's Houthis Could Cause a Global Oil Shock That Rattles Markets",
-      "link": "https://finance.yahoo.com/m/02035fda-2bcd-3a0f-847f-f47369455098/yemen%27s-houthis-could-cause-a.html",
-      "publisher": "Motley Fool",
-      "time": 1784737260,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "6bd4bfc9-fa9a-3185-b1fb-54b2dd891728",
-      "title": "Generational Group Advises Garage Living SoFlo LLC in Its Sale to an Individual Buyer",
-      "link": "https://finance.yahoo.com/small-business/articles/generational-group-advises-garage-living-162000008.html",
-      "publisher": "Business Wire",
-      "time": 1784737200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f78ed853-1cfa-36a0-b74d-843ec3108657",
-      "title": "Samsung launches new, more expensive foldable smartphones",
-      "link": "https://finance.yahoo.com/m/f78ed853-1cfa-36a0-b74d-843ec3108657/samsung-launches-new%2C-more.html",
-      "publisher": "AFP",
-      "time": 1784737159,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5d63baca-e86e-35ee-80e0-3a3eaf2cf748",
-      "title": "Why Oil Prices Could Make Your House More Expensive, According to PulteGroup",
-      "link": "https://finance.yahoo.com/m/5d63baca-e86e-35ee-80e0-3a3eaf2cf748/why-oil-prices-could-make.html",
-      "publisher": "Barrons.com",
-      "time": 1784737140,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "ac837aeb-5968-3cfd-a303-40868762a137",
-      "title": "Cinerama Dome, an iconic Hollywood theater shuttered by COVID pandemic, will reopen",
-      "link": "https://finance.yahoo.com/m/ac837aeb-5968-3cfd-a303-40868762a137/cinerama-dome%2C-an-iconic.html",
-      "publisher": "Associated Press",
-      "time": 1784737130,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c9dbd941-1760-369c-a445-e1295bdb114c",
-      "title": "Ivanhoe Mines to Issue Q2 2026 Financial Results After Market Close on July 29 and Host a Conference Call for Investors on July 30, 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ivanhoe-mines-issue-q2-2026-161600948.html",
-      "publisher": "TMX Newsfile",
-      "time": 1784736960,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "0fd06031-01e4-33ee-851a-c40dd48ae0ae",
-      "title": "Prediction: ServiceNow Stock Will Soar After Earnings if It Delivers on This AI Metric",
-      "link": "https://finance.yahoo.com/m/0fd06031-01e4-33ee-851a-c40dd48ae0ae/prediction%3A-servicenow-stock.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1784736934,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "b067cd81-b2ff-394c-a5aa-c5ad91e18ed2",
-      "title": "Trustpoint Xposure, the First AEO-Certified PR Agency in the United States, Releases Q3 2026 AI Visibility Report Examining How Certified AEO Methodology Affects Brand Citation Authority Across Professional Service Categories",
-      "link": "https://finance.yahoo.com/technology/ai/articles/trustpoint-xposure-first-aeo-certified-161500746.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1784736900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ba8fc790-10f0-3738-9742-3935ee0e7188",
-      "title": "Why the ECB Will Probably Hold Rates Steady Despite Iran Inflation Fears",
-      "link": "https://finance.yahoo.com/m/ba8fc790-10f0-3738-9742-3935ee0e7188/why-the-ecb-will-probably.html",
-      "publisher": "Barrons.com",
-      "time": 1784736900,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "03ce876b-23c4-39a7-a59b-7e93714c0b0c",
-      "title": "S&P/TSX Composite Index up 190 points at Midday",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/p-tsx-composite-index-190-161456996.html",
+      "id": "bb51c8d1-7d09-37df-9548-ca39cb59f9cc",
+      "title": "Top Midday Gainers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-174148964.html",
       "publisher": "MT Newswires",
-      "time": 1784736896,
+      "time": 1784742108,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a682c7b4-c8a8-30ba-82a2-99b500d26879",
+      "title": "Sector Update: Energy Stocks Gain Wednesday Afternoon",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-wednesday-174054073.html",
+      "publisher": "MT Newswires",
+      "time": 1784742054,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "1341fc11-6ea5-3ef2-901b-ccd3314929c0",
-      "title": "S&T Bancorp (STBA) To Report Earnings Tomorrow: Here Is What To Expect",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/t-bancorp-stba-report-earnings-161427008.html",
-      "publisher": "StockStory",
-      "time": 1784736867,
+      "id": "5263e5cf-ba00-3c83-8bb2-9ac55effc28a",
+      "title": "Sector Update: Healthcare Stocks Lower in Afternoon Trading",
+      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-lower-afternoon-173829298.html",
+      "publisher": "MT Newswires",
+      "time": 1784741909,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "2e16d7f2-bb4d-315b-8165-8e795d092dad",
+      "title": "Two current owners seek to take Penske Automotive private",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/two-current-owners-seek-penske-173727157.html",
+      "publisher": "FreightWaves",
+      "time": 1784741847,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4d84478e-e3c0-3236-ad8d-88330b096d38",
+      "title": "Snoop Dogg Reveals The Role Martha Stewart Played In His Multi-Year Deal With Skechers",
+      "link": "https://finance.yahoo.com/m/4d84478e-e3c0-3236-ad8d-88330b096d38/snoop-dogg-reveals-the-role.html",
+      "publisher": "AfroTech",
+      "time": 1784741846,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "8fcb8ba8-509b-398d-a839-dc44071fd595",
+      "title": "Trump vows tit-for-tat strikes on Iran power plants",
+      "link": "https://finance.yahoo.com/m/8fcb8ba8-509b-398d-a839-dc44071fd595/trump-vows-tit-for-tat.html",
+      "publisher": "AFP",
+      "time": 1784741844,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c3ef9fcc-805a-36c3-88fc-576b1ae8422a",
+      "title": "Coherus Oncology to Report Second Quarter 2026 Financial Results on August 5, 2026",
+      "link": "https://finance.yahoo.com/healthcare/articles/coherus-oncology-report-second-quarter-173600762.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784741760,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1c679c39-b73f-3cc1-abf9-648d2f1a9328",
+      "title": "Stock Market Today: Dow Climbs, Nasdaq Lags; This Biotech Hits A High (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/1c679c39-b73f-3cc1-abf9-648d2f1a9328/stock-market-today%3A-dow.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1784741752,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "03bdc1bf-cbd4-30f6-a4de-b09b46ac50fb",
+      "title": "Tesla Earnings, Elon Musk Loom: What Investors Want To Know (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/03bdc1bf-cbd4-30f6-a4de-b09b46ac50fb/tesla-earnings%2C-elon-musk.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1784741742,
       "impact": "medium",
       "tags": [
         "macro",
@@ -218,13 +145,15 @@
       ]
     },
     {
-      "id": "c04e3e7c-12e1-4b10-9624-2abe52760c71",
-      "title": "Data centers are popping up everywhere. But most people don't want them in their neighborhoods.",
-      "link": "https://finance.yahoo.com/real-estate/article/data-centers-are-popping-up-everywhere-but-most-people-dont-want-them-in-their-neighborhoods-161405393.html",
-      "publisher": "Yahoo Finance",
-      "time": 1784736845,
+      "id": "cc2a0f1e-31a8-3176-b54b-49a0dee122e4",
+      "title": "A 15% “Dividend” ETF With Berkshire Stocks? Read This Before You Buy a Single Share",
+      "link": "https://finance.yahoo.com/m/cc2a0f1e-31a8-3176-b54b-49a0dee122e4/a-15%25-%E2%80%9Cdividend%E2%80%9D-etf-with.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1784741733,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
