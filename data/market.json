@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-22T09:07:16.693818+00:00",
+  "updatedAt": "2026-07-22T11:24:15.130029+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19528.7,
-      "change": 148.90000000000146,
-      "changePct": 0.768325782515823,
+      "price": 19546.0,
+      "change": 166.20000000000073,
+      "changePct": 0.8575939896180597,
       "currency": "EUR"
     },
     {
@@ -28,44 +28,53 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25157.07,
-      "change": 310.380000000001,
-      "changePct": 1.2491804743408519,
+      "price": 25096.67,
+      "change": 249.97999999999956,
+      "changePct": 1.0060897447507076,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6305.27,
-      "change": 19.640000000000327,
-      "changePct": 0.31245873524213685,
+      "price": 6295.92,
+      "change": 10.289999999999964,
+      "changePct": 0.1637067406131122,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.46,
-      "change": 0.41000000000000014,
-      "changePct": 2.404692082111438,
+      "price": 17.39,
+      "change": 0.33999999999999986,
+      "changePct": 1.994134897360703,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "f29a98d5-1dac-3d32-9c99-bc1144224c3a",
-      "title": "Morocco plans 60,000-bed hotel expansion ahead of 2030 World Cup",
-      "link": "https://finance.yahoo.com/m/f29a98d5-1dac-3d32-9c99-bc1144224c3a/morocco-plans-60%2C000-bed.html",
-      "publisher": "Hotel Management Network",
-      "time": 1784711113,
+      "id": "5e9a1c77-4957-39fd-a8ff-e6c4011286b1",
+      "title": "Celldex’s mAb fails to show benefit in Phase II prurigo nodularis trial",
+      "link": "https://finance.yahoo.com/m/5e9a1c77-4957-39fd-a8ff-e6c4011286b1/celldex%E2%80%99s-mab-fails-to-show.html",
+      "publisher": "Clinical Trials Arena",
+      "time": 1784719297,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "44259413-863e-3954-a1fe-03f3f5aed2ef",
-      "title": "White House's sweeping Canada tariffs put US prices at risk",
-      "link": "https://finance.yahoo.com/m/44259413-863e-3954-a1fe-03f3f5aed2ef/white-house%27s-sweeping-canada.html",
-      "publisher": "TheStreet",
-      "time": 1784710980,
+      "id": "1dbb0c85-a8f6-361a-9130-a7b6340598ab",
+      "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - MITIE GROUP PLC - Ordinary Shares",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-fund-advisors-ltd-form-111700507.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784719020,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "be8fdd7f-d85e-3753-9ffb-6b6243c2fa17",
+      "title": "Canada vows action after US slaps 50% tariff on apparel and other goods",
+      "link": "https://finance.yahoo.com/m/be8fdd7f-d85e-3753-9ffb-6b6243c2fa17/canada-vows-action-after-us.html",
+      "publisher": "Just Style",
+      "time": 1784719020,
       "impact": "high",
       "tags": [
         "geo",
@@ -73,40 +82,29 @@
       ]
     },
     {
-      "id": "e7cd166e-b20e-3324-895a-40903c22cd0a",
-      "title": "Middle East conflict drives global operating costs to record high – survey",
-      "link": "https://finance.yahoo.com/m/e7cd166e-b20e-3324-895a-40903c22cd0a/middle-east-conflict-drives.html",
-      "publisher": "The Accountant",
-      "time": 1784710953,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "40fb3fb2-3ea6-3fce-b257-7b6011468cfd",
-      "title": "Genesis Automation Healthcare to Debut Unified Platform and Launch Agentic AI Design Partner Program at AHRMM26",
-      "link": "https://finance.yahoo.com/healthcare/articles/genesis-automation-healthcare-debut-unified-090100037.html",
-      "publisher": "PR Newswire",
-      "time": 1784710860,
+      "id": "5a9b8caa-5c4d-330f-a264-ac111480ac76",
+      "title": "US 30-year mortgage hits 11-month high, MBA says",
+      "link": "https://finance.yahoo.com/real-estate/articles/us-30-mortgage-hits-11-111646334.html",
+      "publisher": "Reuters",
+      "time": 1784719006,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d574c10c-2882-3669-afb0-587905542a2d",
-      "title": "American Lung Association Empowers Schools to Protect Student and Staff Health",
-      "link": "https://finance.yahoo.com/healthcare/articles/american-lung-association-empowers-schools-090100589.html",
-      "publisher": "PR Newswire",
-      "time": 1784710860,
+      "id": "7b0c5349-9327-38eb-b08e-f9450aadd700",
+      "title": "Detroit Wing Company Debuts Barbecue-Inspired Limited-Time Lineup",
+      "link": "https://finance.yahoo.com/m/7b0c5349-9327-38eb-b08e-f9450aadd700/detroit-wing-company-debuts.html",
+      "publisher": "QSR",
+      "time": 1784718927,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9abb0a4f-4aad-360d-aedd-6efacc7c102e",
-      "title": "LG Display Co Ltd (LPL) Q2 2026 Earnings Call Highlights: Navigating Challenges with OLED ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lg-display-co-ltd-lpl-090021414.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784710821,
+      "id": "1291f312-8350-3bac-b4db-8cf27ed47c3b",
+      "title": "Oil prices near $95 as U.S. strikes Iran for 11th straight night",
+      "link": "https://finance.yahoo.com/m/1291f312-8350-3bac-b4db-8cf27ed47c3b/oil-prices-near-%2495-as-u.s..html",
+      "publisher": "Quartz",
+      "time": 1784718901,
       "impact": "medium",
       "tags": [
         "macro",
@@ -114,41 +112,41 @@
       ]
     },
     {
-      "id": "45e8aa3b-3318-3a98-a65d-c060862375ab",
-      "title": "DP World and EBRD Sign €25 Million Green Loan for Constanța Terminal",
-      "link": "https://finance.yahoo.com/energy/articles/dp-world-ebrd-sign-25-090000259.html",
+      "id": "1448797a-923a-3f2d-83a9-163b92119445",
+      "title": "Avino Announces Q2 2026 Production Results",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/avino-announces-q2-2026-production-111500933.html",
       "publisher": "ACCESS Newswire",
-      "time": 1784710800,
+      "time": 1784718900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "50c5bcd1-de9f-35b8-a06f-f522c32208da",
-      "title": "More Ways for Canadians to Travel, Earn and Be Rewarded: American Express and ALL Accor Announce Global Partnership",
-      "link": "https://finance.yahoo.com/media-advertising/articles/more-ways-canadians-travel-earn-090000242.html",
-      "publisher": "CNW Group",
-      "time": 1784710800,
-      "impact": "high",
+      "id": "78d10b57-1e46-305a-98d2-4f76a315a3d5",
+      "title": "Trinity Biotech Plc Announces Plan to Implement ADS Ratio Change",
+      "link": "https://finance.yahoo.com/healthcare/articles/trinity-biotech-plc-announces-plan-111500109.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784718900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "90a624dc-4a52-3b3b-a14d-6a8c362ff53e",
+      "title": "Natural Grocers® Kicks Off 71st Anniversary Celebration With a $71,000 Product Donation to Food Bank of the Rockies™ in Partnership With Pop Your Vitamins™",
+      "link": "https://finance.yahoo.com/small-business/articles/natural-grocers-kicks-off-71st-111500902.html",
+      "publisher": "PR Newswire",
+      "time": 1784718900,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "5a75117c-43ff-337f-b260-4b4d4f2f5762",
-      "title": "Priceva Launches Out-of-Stock Analytics and Bulk Editing Tools for Retailers",
-      "link": "https://finance.yahoo.com/small-business/articles/priceva-launches-stock-analytics-bulk-090000570.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1784710800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "922c490b-bbaf-324f-87db-40872a8914ae",
-      "title": "Vision Marine Technologies Files U.S. Patent Application Covering Marine Low-Voltage Power Management",
-      "link": "https://finance.yahoo.com/technology/articles/vision-marine-technologies-files-u-090000366.html",
-      "publisher": "PR Newswire",
-      "time": 1784710800,
+      "id": "a800175e-8324-30e4-a659-d7ae6f991c49",
+      "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - GAMMA COMMUNICATIONS PLC - Ordinary Shares",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-fund-advisors-ltd-form-111400577.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784718840,
       "impact": "low",
       "tags": []
     }
