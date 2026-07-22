@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-22T11:24:15.130029+00:00",
+  "updatedAt": "2026-07-22T12:55:11.773780+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19546.0,
-      "change": 166.20000000000073,
-      "changePct": 0.8575939896180597,
+      "price": 19619.7,
+      "change": 239.90000000000146,
+      "changePct": 1.2378868718975504,
       "currency": "EUR"
     },
     {
@@ -28,113 +28,64 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25096.67,
-      "change": 249.97999999999956,
-      "changePct": 1.0060897447507076,
+      "price": 25146.27,
+      "change": 299.58000000000175,
+      "changePct": 1.2057139200432805,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6295.92,
-      "change": 10.289999999999964,
-      "changePct": 0.1637067406131122,
+      "price": 6309.65,
+      "change": 24.019999999999527,
+      "changePct": 0.38214148780630625,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.39,
-      "change": 0.33999999999999986,
-      "changePct": 1.994134897360703,
+      "price": 17.51,
+      "change": 0.46000000000000085,
+      "changePct": 2.6979472140762515,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "5e9a1c77-4957-39fd-a8ff-e6c4011286b1",
-      "title": "Celldex’s mAb fails to show benefit in Phase II prurigo nodularis trial",
-      "link": "https://finance.yahoo.com/m/5e9a1c77-4957-39fd-a8ff-e6c4011286b1/celldex%E2%80%99s-mab-fails-to-show.html",
+      "id": "8b374fe0-cf21-37b1-90e0-c0c4ccca3d5f",
+      "title": "Gilead, MSD chart weekly HIV med’s course to approval on SoC non-inferiority",
+      "link": "https://finance.yahoo.com/m/8b374fe0-cf21-37b1-90e0-c0c4ccca3d5f/gilead%2C-msd-chart-weekly-hiv.html",
       "publisher": "Clinical Trials Arena",
-      "time": 1784719297,
+      "time": 1784724713,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1dbb0c85-a8f6-361a-9130-a7b6340598ab",
-      "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - MITIE GROUP PLC - Ordinary Shares",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-fund-advisors-ltd-form-111700507.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784719020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "be8fdd7f-d85e-3753-9ffb-6b6243c2fa17",
-      "title": "Canada vows action after US slaps 50% tariff on apparel and other goods",
-      "link": "https://finance.yahoo.com/m/be8fdd7f-d85e-3753-9ffb-6b6243c2fa17/canada-vows-action-after-us.html",
-      "publisher": "Just Style",
-      "time": 1784719020,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "5a9b8caa-5c4d-330f-a264-ac111480ac76",
-      "title": "US 30-year mortgage hits 11-month high, MBA says",
-      "link": "https://finance.yahoo.com/real-estate/articles/us-30-mortgage-hits-11-111646334.html",
-      "publisher": "Reuters",
-      "time": 1784719006,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7b0c5349-9327-38eb-b08e-f9450aadd700",
-      "title": "Detroit Wing Company Debuts Barbecue-Inspired Limited-Time Lineup",
-      "link": "https://finance.yahoo.com/m/7b0c5349-9327-38eb-b08e-f9450aadd700/detroit-wing-company-debuts.html",
-      "publisher": "QSR",
-      "time": 1784718927,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1291f312-8350-3bac-b4db-8cf27ed47c3b",
-      "title": "Oil prices near $95 as U.S. strikes Iran for 11th straight night",
-      "link": "https://finance.yahoo.com/m/1291f312-8350-3bac-b4db-8cf27ed47c3b/oil-prices-near-%2495-as-u.s..html",
-      "publisher": "Quartz",
-      "time": 1784718901,
+      "id": "0c2c7d0a-1cb3-311e-a2af-508247d8be19",
+      "title": "TSMC's $200 billion U.S. bet comes with a costly trade-off",
+      "link": "https://finance.yahoo.com/technology/articles/tsmcs-200-billion-u-bet-125127921.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784724687,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
     },
     {
-      "id": "1448797a-923a-3f2d-83a9-163b92119445",
-      "title": "Avino Announces Q2 2026 Production Results",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/avino-announces-q2-2026-production-111500933.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1784718900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "78d10b57-1e46-305a-98d2-4f76a315a3d5",
-      "title": "Trinity Biotech Plc Announces Plan to Implement ADS Ratio Change",
-      "link": "https://finance.yahoo.com/healthcare/articles/trinity-biotech-plc-announces-plan-111500109.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784718900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "90a624dc-4a52-3b3b-a14d-6a8c362ff53e",
-      "title": "Natural Grocers® Kicks Off 71st Anniversary Celebration With a $71,000 Product Donation to Food Bank of the Rockies™ in Partnership With Pop Your Vitamins™",
-      "link": "https://finance.yahoo.com/small-business/articles/natural-grocers-kicks-off-71st-111500902.html",
+      "id": "25205b08-a616-34b7-a088-faeb5a0e2dfd",
+      "title": "Security Properties Launches FirstPass, a Proprietary AI Underwriting Platform",
+      "link": "https://finance.yahoo.com/real-estate/articles/security-properties-launches-firstpass-proprietary-125100869.html",
       "publisher": "PR Newswire",
-      "time": 1784718900,
+      "time": 1784724660,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "813737ad-301b-36bb-a7c3-ccb3debc4ba6",
+      "title": "Capital One Beats Estimates as Q2 Profit Reaches $3.02 Billion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/capital-one-beats-estimates-q2-124950414.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784724590,
       "impact": "medium",
       "tags": [
         "macro",
@@ -142,11 +93,56 @@
       ]
     },
     {
-      "id": "a800175e-8324-30e4-a659-d7ae6f991c49",
-      "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - GAMMA COMMUNICATIONS PLC - Ordinary Shares",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-fund-advisors-ltd-form-111400577.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784718840,
+      "id": "cd971c6f-2c5d-3594-a133-2f3da083252a",
+      "title": "Pressure on Italy wine exports continues",
+      "link": "https://finance.yahoo.com/m/cd971c6f-2c5d-3594-a133-2f3da083252a/pressure-on-italy-wine.html",
+      "publisher": "Just Drinks",
+      "time": 1784724559,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8679a727-f3bc-3c5f-9e72-53caa6806ded",
+      "title": "Pacific Mind Health Releases Free Guide to Help Employees Recognize and Manage Workplace Stress",
+      "link": "https://finance.yahoo.com/healthcare/articles/pacific-mind-health-releases-free-124900029.html",
+      "publisher": "PR Newswire",
+      "time": 1784724540,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f0eef8fa-3e0e-387e-b6fe-a2a9fa98fe6f",
+      "title": "Alaska Air Fuel Costs Surge 85% as Q3 EPS Outlook Misses Expectations",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alaska-air-fuel-costs-surge-124825903.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784724505,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "08628126-e30c-3222-b066-a54bfff051e3",
+      "title": "US Senate panel to vote on Chinese vehicle crackdown bill",
+      "link": "https://finance.yahoo.com/m/08628126-e30c-3222-b066-a54bfff051e3/us-senate-panel-to-vote-on.html",
+      "publisher": "Reuters",
+      "time": 1784724465,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1d2e4fee-cef2-3afd-b0ab-56f599bc84a7",
+      "title": "Wellington, Vanguard, Blackstone launch funds targeting wealthy investors",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wellington-vanguard-blackstone-launch-funds-124730639.html",
+      "publisher": "Reuters",
+      "time": 1784724450,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1bcdbf5b-b645-3bcf-8adf-c563b1b7322c",
+      "title": "Nintendo's Tomodachi Life Sells 3.8 Million Copies in Two Weeks",
+      "link": "https://finance.yahoo.com/news/nintendos-tomodachi-life-sells-3-124724572.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784724444,
       "impact": "low",
       "tags": []
     }
