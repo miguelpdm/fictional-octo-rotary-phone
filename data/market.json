@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T17:48:26.528350+00:00",
+  "updatedAt": "2026-07-22T19:03:42.673979+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7515.9,
-      "change": 72.61999999999989,
-      "changePct": 0.9756451456884585,
+      "price": 7507.84,
+      "change": 64.5600000000004,
+      "changePct": 0.8673595511656206,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25787.135,
-      "change": 279.0649999999987,
-      "changePct": 1.094026321865977,
+      "price": 25752.621,
+      "change": 244.55099999999948,
+      "changePct": 0.9587201226905817,
       "currency": "USD"
     },
     {
@@ -44,100 +44,19 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.79,
-      "change": -0.26000000000000156,
-      "changePct": -1.5249266862170179,
+      "price": 16.91,
+      "change": -0.14000000000000057,
+      "changePct": -0.8211143695014695,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "bb51c8d1-7d09-37df-9548-ca39cb59f9cc",
-      "title": "Top Midday Gainers",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-174148964.html",
-      "publisher": "MT Newswires",
-      "time": 1784742108,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a682c7b4-c8a8-30ba-82a2-99b500d26879",
-      "title": "Sector Update: Energy Stocks Gain Wednesday Afternoon",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-wednesday-174054073.html",
-      "publisher": "MT Newswires",
-      "time": 1784742054,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "5263e5cf-ba00-3c83-8bb2-9ac55effc28a",
-      "title": "Sector Update: Healthcare Stocks Lower in Afternoon Trading",
-      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-lower-afternoon-173829298.html",
-      "publisher": "MT Newswires",
-      "time": 1784741909,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "2e16d7f2-bb4d-315b-8165-8e795d092dad",
-      "title": "Two current owners seek to take Penske Automotive private",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/two-current-owners-seek-penske-173727157.html",
-      "publisher": "FreightWaves",
-      "time": 1784741847,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4d84478e-e3c0-3236-ad8d-88330b096d38",
-      "title": "Snoop Dogg Reveals The Role Martha Stewart Played In His Multi-Year Deal With Skechers",
-      "link": "https://finance.yahoo.com/m/4d84478e-e3c0-3236-ad8d-88330b096d38/snoop-dogg-reveals-the-role.html",
-      "publisher": "AfroTech",
-      "time": 1784741846,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "8fcb8ba8-509b-398d-a839-dc44071fd595",
-      "title": "Trump vows tit-for-tat strikes on Iran power plants",
-      "link": "https://finance.yahoo.com/m/8fcb8ba8-509b-398d-a839-dc44071fd595/trump-vows-tit-for-tat.html",
-      "publisher": "AFP",
-      "time": 1784741844,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c3ef9fcc-805a-36c3-88fc-576b1ae8422a",
-      "title": "Coherus Oncology to Report Second Quarter 2026 Financial Results on August 5, 2026",
-      "link": "https://finance.yahoo.com/healthcare/articles/coherus-oncology-report-second-quarter-173600762.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784741760,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1c679c39-b73f-3cc1-abf9-648d2f1a9328",
-      "title": "Stock Market Today: Dow Climbs, Nasdaq Lags; This Biotech Hits A High (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/1c679c39-b73f-3cc1-abf9-648d2f1a9328/stock-market-today%3A-dow.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1784741752,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "03bdc1bf-cbd4-30f6-a4de-b09b46ac50fb",
-      "title": "Tesla Earnings, Elon Musk Loom: What Investors Want To Know (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/03bdc1bf-cbd4-30f6-a4de-b09b46ac50fb/tesla-earnings%2C-elon-musk.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1784741742,
+      "id": "3520f68a-a557-3919-829e-65aa52b7ced3",
+      "title": "IndusInd Bank Ltd (BOM:532187) Q1 2027 Earnings Call Highlights: Strong Profit Growth Amid ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/indusind-bank-ltd-bom-532187-190140299.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784746900,
       "impact": "medium",
       "tags": [
         "macro",
@@ -145,14 +64,111 @@
       ]
     },
     {
-      "id": "cc2a0f1e-31a8-3176-b54b-49a0dee122e4",
-      "title": "A 15% “Dividend” ETF With Berkshire Stocks? Read This Before You Buy a Single Share",
-      "link": "https://finance.yahoo.com/m/cc2a0f1e-31a8-3176-b54b-49a0dee122e4/a-15%25-%E2%80%9Cdividend%E2%80%9D-etf-with.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1784741733,
-      "impact": "low",
+      "id": "591da739-88fb-30c0-be82-5730d916522c",
+      "title": "Tata Communications Ltd (BOM:500483) Q1 2027 Earnings Call Highlights: Strong Data Revenue ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tata-communications-ltd-bom-500483-190118884.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784746878,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b1670003-dea0-34af-a5ce-152a974b11c9",
+      "title": "Lonza Group Ltd (LZAGF) (H1 2026) Earnings Call Highlights: Strong Growth Amid Strategic ...",
+      "link": "https://finance.yahoo.com/healthcare/articles/lonza-group-ltd-lzagf-h1-190118105.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784746878,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a34c42a8-a608-3f26-9765-a725edbaba31",
+      "title": "GE Vernova Inc (GEV) Q2 2026 Earnings Call Highlights: Record Growth in Orders and Cash Flow",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-inc-gev-q2-190110337.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784746870,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "010b1898-f9f1-3cba-9d76-0dbeb370eb23",
+      "title": "Eternal Ltd (BOM:543320) Q1 2027 Earnings Call Highlights: Navigating Competitive Intensity ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/eternal-ltd-bom-543320-q1-190109363.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784746869,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "e653de19-dcf8-36b9-8aa2-428abf5cdc57",
+      "title": "Hansa Biopharma AB (FRA:24H) Q2 2026 Earnings Call Highlights: Transformative Growth and ...",
+      "link": "https://finance.yahoo.com/healthcare/articles/hansa-biopharma-ab-fra-24h-190106391.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784746866,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "de146491-25ff-3b72-95fb-75a6296945f9",
+      "title": "Oatly Group AB (OTLY) Q2 2026 Earnings Call Highlights: Strong Revenue Growth Amid Geopolitical ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oatly-group-ab-otly-q2-190056449.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784746856,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "60253565-f016-33a7-9997-9f6d76720168",
+      "title": "Kirloskar Pneumatic Co Ltd (BOM:505283) Q1 2027 Earnings Call Highlights: Record Revenue and ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kirloskar-pneumatic-co-ltd-bom-190055176.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784746855,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "dd6121ee-dc76-3dcd-adc4-524e6c2b167a",
+      "title": "Pegasystems Inc (PEGA) Q2 2026 Earnings Call Highlights: Cloud Growth and Strategic Challenges",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pegasystems-inc-pega-q2-2026-190055282.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784746855,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "613f6c03-f0bc-3e44-9287-a283227ae2b9",
+      "title": "Rogers Communications Inc (RCI) Q2 2026 Earnings Call Highlights: Strong Revenue Growth Amidst ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rogers-communications-inc-rci-q2-190051705.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784746851,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
       ]
     }
   ],
