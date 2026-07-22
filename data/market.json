@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T19:03:42.673979+00:00",
+  "updatedAt": "2026-07-22T20:36:35.578052+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7507.84,
-      "change": 64.5600000000004,
-      "changePct": 0.8673595511656206,
+      "price": 7498.96,
+      "change": 55.68000000000029,
+      "changePct": 0.7480573080684899,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25752.621,
-      "change": 244.55099999999948,
-      "changePct": 0.9587201226905817,
+      "price": 25690.902,
+      "change": 182.83199999999852,
+      "changePct": 0.716761401391789,
       "currency": "USD"
     },
     {
@@ -44,19 +44,19 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.91,
-      "change": -0.14000000000000057,
-      "changePct": -0.8211143695014695,
+      "price": 16.64,
+      "change": -0.41000000000000014,
+      "changePct": -2.404692082111438,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "3520f68a-a557-3919-829e-65aa52b7ced3",
-      "title": "IndusInd Bank Ltd (BOM:532187) Q1 2027 Earnings Call Highlights: Strong Profit Growth Amid ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/indusind-bank-ltd-bom-532187-190140299.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784746900,
+      "id": "4bc8709b-15c6-32af-bb7d-91d52d26e31f",
+      "title": "Alphabet Q2 2026 earnings: revenue up 24%, Cloud surges 82%",
+      "link": "https://finance.yahoo.com/m/4bc8709b-15c6-32af-bb7d-91d52d26e31f/alphabet-q2-2026-earnings%3A.html",
+      "publisher": "Quartz",
+      "time": 1784752258,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,11 +64,20 @@
       ]
     },
     {
-      "id": "591da739-88fb-30c0-be82-5730d916522c",
-      "title": "Tata Communications Ltd (BOM:500483) Q1 2027 Earnings Call Highlights: Strong Data Revenue ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tata-communications-ltd-bom-500483-190118884.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784746878,
+      "id": "0ca2b8ef-22b0-3a62-a2ba-56ec9f980d1c",
+      "title": "Lockheed Martin Declares Third Quarter 2026 Dividend",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-declares-third-quarter-203000740.html",
+      "publisher": "PR Newswire",
+      "time": 1784752200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0e51488d-49a2-31b2-aa2f-01ff1b19e858",
+      "title": "Lake Shore Bancorp, Inc. Announces Second Quarter 2026 Financial Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lake-shore-bancorp-inc-announces-203000640.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784752200,
       "impact": "medium",
       "tags": [
         "macro",
@@ -76,11 +85,20 @@
       ]
     },
     {
-      "id": "b1670003-dea0-34af-a5ce-152a974b11c9",
-      "title": "Lonza Group Ltd (LZAGF) (H1 2026) Earnings Call Highlights: Strong Growth Amid Strategic ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/lonza-group-ltd-lzagf-h1-190118105.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784746878,
+      "id": "0fd359c9-bdf4-3a7d-8b3c-2cc2414811a6",
+      "title": "CIVISTA BANCSHARES, INC. ANNOUNCES THIRD QUARTER COMMON DIVIDEND",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/civista-bancshares-inc-announces-third-203000934.html",
+      "publisher": "PR Newswire",
+      "time": 1784752200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1d08f13e-fc3c-3729-a850-47fbb0c9534f",
+      "title": "The Vita Coco Company Announces the Acquisition of Copra, Inc.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vita-coco-company-announces-acquisition-203000567.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784752200,
       "impact": "medium",
       "tags": [
         "macro",
@@ -88,88 +106,49 @@
       ]
     },
     {
-      "id": "a34c42a8-a608-3f26-9765-a725edbaba31",
-      "title": "GE Vernova Inc (GEV) Q2 2026 Earnings Call Highlights: Record Growth in Orders and Cash Flow",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-inc-gev-q2-190110337.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784746870,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "1fd20b0c-ed57-3db3-80fc-df15e7db8ee9",
+      "title": "EVgo to Report Second Quarter 2026 Results on August 5",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/evgo-report-second-quarter-2026-203000777.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784752200,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "010b1898-f9f1-3cba-9d76-0dbeb370eb23",
-      "title": "Eternal Ltd (BOM:543320) Q1 2027 Earnings Call Highlights: Navigating Competitive Intensity ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/eternal-ltd-bom-543320-q1-190109363.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784746869,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "25cb9dbc-20d3-32e7-9df6-dff0d4b5805e",
+      "title": "Serina Therapeutics Appoints Farrell Simon to its Board of Directors",
+      "link": "https://finance.yahoo.com/healthcare/articles/serina-therapeutics-appoints-farrell-simon-203000590.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784752200,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "e653de19-dcf8-36b9-8aa2-428abf5cdc57",
-      "title": "Hansa Biopharma AB (FRA:24H) Q2 2026 Earnings Call Highlights: Transformative Growth and ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/hansa-biopharma-ab-fra-24h-190106391.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784746866,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "2ec0d965-cb65-3dc9-b878-714e249e3a94",
+      "title": "Trump is pulling billions in research money out of America's universities — and handing it to AI and scientists instead",
+      "link": "https://finance.yahoo.com/technology/ai/articles/trump-pulling-billions-research-money-203000932.html",
+      "publisher": "Moneywise",
+      "time": 1784752200,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "de146491-25ff-3b72-95fb-75a6296945f9",
-      "title": "Oatly Group AB (OTLY) Q2 2026 Earnings Call Highlights: Strong Revenue Growth Amid Geopolitical ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oatly-group-ab-otly-q2-190056449.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784746856,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "35c8a97f-c6f5-3d84-b94e-93f363ed005c",
+      "title": "Enovix to Report Second Quarter 2026 Financial Results on August 12, 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/enovix-report-second-quarter-2026-203000916.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784752200,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "60253565-f016-33a7-9997-9f6d76720168",
-      "title": "Kirloskar Pneumatic Co Ltd (BOM:505283) Q1 2027 Earnings Call Highlights: Record Revenue and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kirloskar-pneumatic-co-ltd-bom-190055176.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784746855,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "dd6121ee-dc76-3dcd-adc4-524e6c2b167a",
-      "title": "Pegasystems Inc (PEGA) Q2 2026 Earnings Call Highlights: Cloud Growth and Strategic Challenges",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pegasystems-inc-pega-q2-2026-190055282.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784746855,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "613f6c03-f0bc-3e44-9287-a283227ae2b9",
-      "title": "Rogers Communications Inc (RCI) Q2 2026 Earnings Call Highlights: Strong Revenue Growth Amidst ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rogers-communications-inc-rci-q2-190051705.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784746851,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "5dbe4a9b-9059-3e2b-baf0-c4ea37b5c735",
+      "title": "Fulton Financial Corporation Announces Second Quarter 2026 Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fulton-financial-corporation-announces-second-203000229.html",
+      "publisher": "PR Newswire",
+      "time": 1784752200,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
