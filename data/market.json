@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T15:50:57.320298+00:00",
+  "updatedAt": "2026-07-23T17:13:34.190761+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7393.75,
-      "change": -115.44999999999982,
-      "changePct": -1.5374473978586243,
+      "price": 7413.13,
+      "change": -96.06999999999971,
+      "changePct": -1.2793639801843033,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25040.889,
-      "change": -796.3209999999999,
-      "changePct": -3.0820703938234812,
+      "price": 25170.385,
+      "change": -666.8250000000007,
+      "changePct": -2.5808707673932316,
       "currency": "USD"
     },
     {
@@ -44,82 +44,64 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 19.95,
-      "change": 3.3099999999999987,
-      "changePct": 19.891826923076913,
+      "price": 19.44,
+      "change": 2.8000000000000007,
+      "changePct": 16.82692307692308,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "8eb62371-2408-3584-b5ff-c7c523a61672",
-      "title": "Nebius Stock Jumps as Nvidia Partnership Reaches Major AI Milestone",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-jumps-nvidia-partnership-154700130.html",
+      "id": "97ad2d5a-5bfa-3fdf-8c17-e0fdea6cacb1",
+      "title": "Blackstone Raises Quarterly Dividend to $1.29 a Share",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/blackstone-raises-quarterly-dividend-1-171123337.html",
       "publisher": "GuruFocus.com",
-      "time": 1784821620,
+      "time": 1784826683,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1d090c5b-0f18-3c77-a8e6-1470bb74ad7e",
-      "title": "Gold Runner Gets 5-Year Drilling Permit at Golden Girl Property in British Columbia",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-runner-gets-5-drilling-154628246.html",
-      "publisher": "MT Newswires",
-      "time": 1784821588,
+      "id": "a2209a55-3fd4-3f50-a92b-36eafb7c3f7d",
+      "title": "Eli Lilly's Retatrutide Clears Two More Trials Ahead of 2027 Filing",
+      "link": "https://finance.yahoo.com/healthcare/articles/eli-lillys-retatrutide-clears-two-171045869.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784826645,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "23ca1ecd-7afc-30c2-b3d5-ab78b0d49682",
-      "title": "Jefferies Raises Edison International Price Target to $68 From $66",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-raises-edison-international-price-154547674.html",
-      "publisher": "MT Newswires",
-      "time": 1784821547,
+      "id": "84ce0122-ad43-3745-9bb9-ea300e625d73",
+      "title": "STMicroelectronics Slides as Third-Quarter Outlook Misses Estimates",
+      "link": "https://finance.yahoo.com/technology/articles/stmicroelectronics-slides-third-quarter-outlook-171004219.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784826604,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "12373195-5440-3db0-9998-72e59ac4b287",
-      "title": "Tesla's FSD, Robotaxi Expansion Seen as Key Growth Drivers After Q2 Miss, BofA Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-apos-fsd-robotaxi-expansion-154529527.html",
-      "publisher": "MT Newswires",
-      "time": 1784821529,
+      "id": "2463e816-b29c-32a4-ad9d-9320325f326a",
+      "title": "Boeing Wins Quiet Airshow Order Race",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-wins-quiet-airshow-order-170924682.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784826564,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5c13b873-8106-3176-b899-f357678f7461",
-      "title": "Crocs Has Q2 Upside Potential, Strengthening H2 Outlook, BofA Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/crocs-q2-upside-potential-strengthening-154512073.html",
-      "publisher": "MT Newswires",
-      "time": 1784821512,
+      "id": "f0c8950b-489e-3381-843d-eef4d89208f3",
+      "title": "Palantir Commercial Business Gets Citi Boost",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-commercial-business-gets-citi-170827003.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784826507,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2b62f1ee-6768-34ca-9c3f-3f71cdfea496",
-      "title": "Reddit Seen Benefiting From User Growth, Ad Momentum, AI Deals, Wedbush Says",
-      "link": "https://finance.yahoo.com/media-advertising/articles/reddit-seen-benefiting-user-growth-154506934.html",
-      "publisher": "MT Newswires",
-      "time": 1784821506,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4578c107-8938-33de-8b54-168c644bda7e",
-      "title": "Think you're the best parallel parker in Philadelphia? Prove it",
-      "link": "https://finance.yahoo.com/m/4578c107-8938-33de-8b54-168c644bda7e/think-you%27re-the-best.html",
-      "publisher": "USA TODAY",
-      "time": 1784821321,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ab69ce87-f926-337c-bc42-b84f507051c0",
-      "title": "Tesla Stock Plunges 14% as Weak Earnings Override AI Hype",
-      "link": "https://finance.yahoo.com/m/ab69ce87-f926-337c-bc42-b84f507051c0/tesla-stock-plunges-14%25-as.html",
-      "publisher": "Barrons.com",
-      "time": 1784821320,
+      "id": "d44b539d-0450-3bcc-a15f-f87cd4964035",
+      "title": "Tesla and Alphabet Trigger Nasdaq 2.5% Selloff as Oil Nears $100",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-alphabet-trigger-nasdaq-2-170712221.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784826432,
       "impact": "medium",
       "tags": [
         "macro",
@@ -127,22 +109,52 @@
       ]
     },
     {
-      "id": "9b074ceb-775c-3197-860b-2482e07a89b0",
-      "title": "Alphabet Just Posted a Monster Quarter. The Stock Dropped Anyway. Time to Buy the Stock?",
-      "link": "https://finance.yahoo.com/m/9b074ceb-775c-3197-860b-2482e07a89b0/alphabet-just-posted-a.html",
-      "publisher": "Motley Fool",
-      "time": 1784821243,
-      "impact": "low",
-      "tags": []
+      "id": "0d10178e-9555-3d69-9a69-ccb52fabdb4d",
+      "title": "Third Coast Bancshares Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/0d10178e-9555-3d69-9a69-ccb52fabdb4d/third-coast-bancshares-q2.html",
+      "publisher": "MarketBeat",
+      "time": 1784826426,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "2c00bb00-ec1d-49bf-9d3b-dca4b661bf63",
-      "title": "No, this isn't Skynet... yet! But Congress should act on AI testing after OpenAI incident",
-      "link": "https://finance.yahoo.com/video/no-this-isnt-skynet-yet-but-congress-should-act-on-ai-testing-after-openai-incident-154004339.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1784821204,
-      "impact": "low",
-      "tags": []
+      "id": "71690e72-5f29-3a81-a7bf-a5be6875a89f",
+      "title": "QCR Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/71690e72-5f29-3a81-a7bf-a5be6875a89f/qcr-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1784826425,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a4f11375-21a5-3874-9519-1159c63b6488",
+      "title": "Southern Missouri Bancorp Q4 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/a4f11375-21a5-3874-9519-1159c63b6488/southern-missouri-bancorp-q4.html",
+      "publisher": "MarketBeat",
+      "time": 1784826425,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "f0126758-6659-334d-b65a-f16d10689ecf",
+      "title": "Richardson Electronics Q4 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/f0126758-6659-334d-b65a-f16d10689ecf/richardson-electronics-q4.html",
+      "publisher": "MarketBeat",
+      "time": 1784826425,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
