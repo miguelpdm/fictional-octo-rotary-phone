@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T20:08:57.822996+00:00",
+  "updatedAt": "2026-07-23T21:34:12.770635+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -44,19 +44,46 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 19.42,
-      "change": 2.780000000000001,
-      "changePct": 16.706730769230777,
+      "price": 18.7,
+      "change": 2.0599999999999987,
+      "changePct": 12.379807692307685,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "20bbede8-70e8-3a7a-b4f5-0a11f825d69b",
-      "title": "Lockheed Martin, RTX Jump After Earnings Beat. One Is Breaking Out.",
-      "link": "https://finance.yahoo.com/m/20bbede8-70e8-3a7a-b4f5-0a11f825d69b/lockheed-martin%2C-rtx-jump.html",
+      "id": "a26e353c-71e8-3f48-82eb-62af5486715e",
+      "title": "Almonty to Voluntarily Delist From ASX",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/almonty-voluntarily-delist-asx-213000918.html",
+      "publisher": "Business Wire",
+      "time": 1784842200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "86db07b7-b604-3111-ab21-15984c083310",
+      "title": "IC Group Announces Exclusive Partnership to Expand Community Sports Engagement Across North America",
+      "link": "https://finance.yahoo.com/media-advertising/articles/ic-group-announces-exclusive-partnership-212800048.html",
+      "publisher": "TMX Newsfile",
+      "time": 1784842080,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f5811de0-b092-3394-ab23-51baecfc02d1",
+      "title": "AMD, Arm gain after hours following blowout results from Intel",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-arm-gain-hours-following-212750145.html",
+      "publisher": "Investing.com",
+      "time": 1784842070,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "92b4db45-0f0a-37f7-aaa6-ed482620a367",
+      "title": "Intel Stock Jumps On Chipmaker's Big Q2 Earnings Beat",
+      "link": "https://finance.yahoo.com/m/92b4db45-0f0a-37f7-aaa6-ed482620a367/intel-stock-jumps-on.html",
       "publisher": "Investor's Business Daily",
-      "time": 1784837078,
+      "time": 1784842033,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,87 +91,110 @@
       ]
     },
     {
-      "id": "e5f3b6eb-be1e-3228-b432-a2691f2e2c15",
-      "title": "1 S&P 500 Stock on Our Buy List and 2 Facing Challenges",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-buy-200431173.html",
-      "publisher": "StockStory",
-      "time": 1784837071,
+      "id": "d6171993-c937-36cf-80a3-26ca04b725f1",
+      "title": "NACD North Texas Announces New Chapter Officers and Board Member for 2026–2027",
+      "link": "https://finance.yahoo.com/small-business/articles/nacd-north-texas-announces-chapter-212700977.html",
+      "publisher": "Business Wire",
+      "time": 1784842020,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b46f7397-35e1-39f7-8323-8109f9c68021",
+      "title": "Ovintiv Q2 Adjusted Earnings Rise",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ovintiv-q2-adjusted-earnings-rise-212626361.html",
+      "publisher": "MT Newswires",
+      "time": 1784841986,
+      "impact": "medium",
       "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "99e29825-292c-3cee-81d4-36efb3ed2db1",
+      "title": "Defense Department Awards Oracle $7 Billion Contract",
+      "link": "https://finance.yahoo.com/m/99e29825-292c-3cee-81d4-36efb3ed2db1/defense-department-awards.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1784841985,
+      "impact": "high",
+      "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "5ad71e19-a591-452c-bc00-eebc617f5583",
-      "title": "Amazon, Walmart, & cautious consumers are major headwinds for Albertson's: A closer look",
-      "link": "https://finance.yahoo.com/video/amazon-walmart--cautious-consumers-are-major-headwinds-for-albertsons-a-closer-look-200355467.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1784837035,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c2116b92-aecc-3fe1-b0cb-25f38a4508f2",
-      "title": "Elon Musk Preaches Patience On Robotaxi, Optimus Rollout. Tesla Stock Plummets.",
-      "link": "https://finance.yahoo.com/m/c2116b92-aecc-3fe1-b0cb-25f38a4508f2/elon-musk-preaches-patience.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1784837028,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5b9f6c92-746c-3457-8612-face5256f226",
-      "title": "Cetera Names Craig Bartlett Community Leader of Cetera Financial Specialists Within the Firm's Tax & Accounting Channel",
-      "link": "https://finance.yahoo.com/small-business/articles/cetera-names-craig-bartlett-community-200300758.html",
-      "publisher": "PR Newswire",
-      "time": 1784836980,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9968618d-313c-30fc-ae1a-c7e905d794fa",
-      "title": "US Treasury finds no trading partner manipulated currency for trade advantage in 2025",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/us-treasury-finds-no-trading-200258754.html",
-      "publisher": "Reuters",
-      "time": 1784836978,
+      "id": "b31d80c3-e8d8-3e34-a5a0-432d4242f6eb",
+      "title": "Ovintiv Posts Higher Q2 Earnings; Full-year Production Outlook Lifted",
+      "link": "https://finance.yahoo.com/energy/articles/ovintiv-posts-higher-q2-earnings-212610203.html",
+      "publisher": "MT Newswires",
+      "time": 1784841970,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "a01e5897-12a0-3df2-9a92-b78db27ff229",
-      "title": "Tesla Reports $1 Billion Gain On Its SpaceX Equity Stake",
-      "link": "https://finance.yahoo.com/m/a01e5897-12a0-3df2-9a92-b78db27ff229/tesla-reports-%241-billion-gain.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1784836975,
+      "id": "4cafd3cd-5862-303c-8ec9-a4b86a1d3329",
+      "title": "Prediction: $1,000 Invested in SpaceX Stock Will Be Worth This Amount in 3 Years",
+      "link": "https://finance.yahoo.com/m/4cafd3cd-5862-303c-8ec9-a4b86a1d3329/prediction%3A-%241%2C000-invested.html",
+      "publisher": "Motley Fool",
+      "time": 1784841900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e069ea37-7fbf-3494-aca8-75eac517bd4d",
-      "title": "EnerCom Releases Presenter Lineup for the 31st EnerCom Denver - The Energy Investment Conference, August 17-19, 2026, in Denver, Colorado",
-      "link": "https://finance.yahoo.com/energy/articles/enercom-releases-presenter-lineup-31st-200200013.html",
+      "id": "7bf99898-3926-3d66-8fed-e435813bbf57",
+      "title": "U.S. Stocks Slide as Oil Hits $100, While Tech Selloff Deepens",
+      "link": "https://finance.yahoo.com/m/7bf99898-3926-3d66-8fed-e435813bbf57/u.s.-stocks-slide-as-oil-hits.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1784841900,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "cbb42710-ff17-3cff-b5c8-3ba665ca8679",
+      "title": "VELMENI Receives FDA 510(k) Clearance for AI-Powered 3D CBCT Dental Imaging Software",
+      "link": "https://finance.yahoo.com/healthcare/articles/velmeni-receives-fda-510-k-212500425.html",
       "publisher": "PR Newswire",
-      "time": 1784836920,
+      "time": 1784841900,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "46fcd9fd-121c-366a-8aee-83b78906eb52",
+      "title": "Logitech Publishes Annual Report for Fiscal Year 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/logitech-publishes-annual-report-fiscal-212500978.html",
+      "publisher": "Business Wire",
+      "time": 1784841900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "07f60cb3-cfc6-3035-ae10-d2d9ed1a2baa",
-      "title": "Coolkicks co-founder, 11 others indicted in alleged $2M Nike theft ring",
-      "link": "https://finance.yahoo.com/m/07f60cb3-cfc6-3035-ae10-d2d9ed1a2baa/coolkicks-co-founder%2C-11.html",
-      "publisher": "USA TODAY",
-      "time": 1784836875,
-      "impact": "low",
-      "tags": []
+      "id": "a22b4341-351e-3650-b3ca-1be73d283d88",
+      "title": "TaskUs (TASK): Buy, Sell, or Hold Post Q1 Earnings?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/taskus-task-buy-sell-hold-212431216.html",
+      "publisher": "StockStory",
+      "time": 1784841871,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "23428308-1a38-37c5-9291-4719dcc58df6",
-      "title": "MAGYAR BANCORP, INC. ANNOUNCES THIRD QUARTER FINANCIAL RESULTS AND DECLARES DIVIDEND",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/magyar-bancorp-inc-announces-third-200100950.html",
-      "publisher": "PR Newswire",
-      "time": 1784836860,
+      "id": "5b0d087c-df5e-3d62-95f0-501add8a7035",
+      "title": "Scholastic Fiscal Q4 Adjusted Earnings Rise, Revenue Declines",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/scholastic-fiscal-q4-adjusted-earnings-212408421.html",
+      "publisher": "MT Newswires",
+      "time": 1784841848,
       "impact": "medium",
       "tags": [
         "macro",
@@ -154,19 +204,6 @@
   ],
   "errors": {
     "indices": [],
-    "news": [
-      {
-        "query": "fed interest rates inflation",
-        "error": "HTTP Error 500: Internal Server Error"
-      },
-      {
-        "query": "earnings results stocks",
-        "error": "HTTP Error 500: Internal Server Error"
-      },
-      {
-        "query": "IBEX bolsa España",
-        "error": "HTTP Error 500: Internal Server Error"
-      }
-    ]
+    "news": []
   }
 }
