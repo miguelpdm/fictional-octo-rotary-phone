@@ -1,155 +1,143 @@
 {
-  "updatedAt": "2026-07-23T11:53:54.767025+00:00",
+  "updatedAt": "2026-07-23T13:41:58.306444+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19413.8,
-      "change": -157.5,
-      "changePct": -0.8047498122250439,
+      "price": 19281.2,
+      "change": -290.09999999999854,
+      "changePct": -1.4822725112792638,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7498.96,
-      "change": 55.68000000000029,
-      "changePct": 0.7480573080684899,
+      "price": 7440.48,
+      "change": -68.72000000000025,
+      "changePct": -0.9151440899163726,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25690.902,
-      "change": 182.83199999999852,
-      "changePct": 0.716761401391789,
+      "price": 25314.197,
+      "change": -523.012999999999,
+      "changePct": -2.0242626816130653,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 24942.6,
-      "change": -68.75,
-      "changePct": -0.2748752066561781,
+      "price": 24770.95,
+      "change": -240.39999999999782,
+      "changePct": -0.9611636317111945,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6246.56,
-      "change": -70.42999999999938,
-      "changePct": -1.1149297371057953,
+      "price": 6205.67,
+      "change": -111.31999999999971,
+      "changePct": -1.7622316957918203,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.25,
-      "change": 1.6099999999999994,
-      "changePct": 9.675480769230765,
+      "price": 19.45,
+      "change": 2.8099999999999987,
+      "changePct": 16.887019230769223,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "2eba0736-704b-3f2f-b637-f6fd1e352018",
-      "title": "Advyzon adds AI system to adviser platform",
-      "link": "https://finance.yahoo.com/m/2eba0736-704b-3f2f-b637-f6fd1e352018/advyzon-adds-ai-system-to.html",
-      "publisher": "Private Banker International",
-      "time": 1784807552,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "ee9e6877-7908-398d-9777-112b5ab1fe99",
-      "title": "Huey Magoo’s Rebrands National Chicken Finger Day with BOGO Offer",
-      "link": "https://finance.yahoo.com/m/ee9e6877-7908-398d-9777-112b5ab1fe99/huey-magoo%E2%80%99s-rebrands.html",
-      "publisher": "QSR",
-      "time": 1784807337,
+      "id": "bd221d76-9b3c-3d13-a6f0-fdc031daf048",
+      "title": "Health Insurance Now Launches Health Insurance Cost Comparison Service Amid Workforce Reductions",
+      "link": "https://finance.yahoo.com/healthcare/articles/health-insurance-now-launches-health-133800560.html",
+      "publisher": "TMX Newsfile",
+      "time": 1784813880,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a63c7c5b-510e-3032-8e3a-110baa2e9074",
-      "title": "EFG International AUM reaches SFr196.3bn in H1 2026",
-      "link": "https://finance.yahoo.com/m/a63c7c5b-510e-3032-8e3a-110baa2e9074/efg%C2%A0international-aum%C2%A0reaches.html",
-      "publisher": "Private Banker International",
-      "time": 1784807257,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "61b8986d-d521-3e03-aafd-891960833c75",
+      "title": "JBS Nigeria plan central to Greenpeace court bid",
+      "link": "https://finance.yahoo.com/m/61b8986d-d521-3e03-aafd-891960833c75/jbs-nigeria-plan-central-to.html",
+      "publisher": "Just Food",
+      "time": 1784813801,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "1f402157-73d8-3121-890d-3aca11e06f45",
-      "title": "Ardagh Metal Packaging Q2 Adjusted Earnings, Revenue Rise",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ardagh-metal-packaging-q2-adjusted-114723429.html",
+      "id": "6baa488d-6457-3d48-b54c-cd09a59ce486",
+      "title": "AI 'kill switch' bill floated by US House lawmakers",
+      "link": "https://finance.yahoo.com/m/6baa488d-6457-3d48-b54c-cd09a59ce486/ai-%27kill-switch%27-bill-floated.html",
+      "publisher": "Reuters",
+      "time": 1784813781,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3b4dc898-3a82-3981-b5eb-36649564f52d",
+      "title": "Reorganization Point Bridge America First ETF (MAGA)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/reorganization-point-bridge-america-first-133500541.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1784813700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b673f20d-2869-3c05-8268-4bef40872c26",
+      "title": "Real Messenger Announces Receipt of Nasdaq Notification Letter Regarding Minimum Price Deficiency",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/real-messenger-announces-receipt-nasdaq-133500006.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784813700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "07292b3f-175d-37da-87e1-b7a4ac54fc79",
+      "title": "Citigroup Downgrades Penske Automotive Group to Neutral From Buy, Adjusts Price Target to $210 From $199",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-downgrades-penske-automotive-group-133209369.html",
       "publisher": "MT Newswires",
-      "time": 1784807243,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "time": 1784813529,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "9f5cd690-74ce-3198-a2fb-7863928aada0",
-      "title": "Barclays Adjusts Price Target on Raymond James Financial to $196 From $192, Maintains Overweight Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-adjusts-price-target-raymond-114721376.html",
+      "id": "45ae5541-93e3-3e2a-9ebf-54b051579ead",
+      "title": "Drain Plumbing Company, Exceed Drain Plumbers Adelaide, Expands Across Adelaide and Launches Humm Financing",
+      "link": "https://finance.yahoo.com/small-business/articles/drain-plumbing-company-exceed-drain-133200069.html",
+      "publisher": "TMX Newsfile",
+      "time": 1784813520,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3de69e2c-641f-33aa-908e-95c4883906c2",
+      "title": "Vita Coco buys coconut-products firm Copra",
+      "link": "https://finance.yahoo.com/m/3de69e2c-641f-33aa-908e-95c4883906c2/vita-coco-buys.html",
+      "publisher": "Just Food",
+      "time": 1784813511,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "52be85c0-2859-3c5f-81b5-5bcd1e6beea5",
+      "title": "Jefferies Downgrades BioLife Solutions to Hold From Buy, Adjusts Price Target to $31 From $30",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-downgrades-biolife-solutions-hold-133150997.html",
       "publisher": "MT Newswires",
-      "time": 1784807241,
+      "time": 1784813510,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cf6958a4-3e2f-3e97-9dfe-ce194124110a",
-      "title": "Vita Coco Q2 Net Income, Revenue Increase; 2026 Revenue Guidance Raised",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vita-coco-q2-net-income-114622266.html",
-      "publisher": "MT Newswires",
-      "time": 1784807182,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "6c3564c1-aafa-39ed-aa66-83ecdd7c4558",
-      "title": "Norway set to make formal complaint to FIFA over Balogun red card saga",
-      "link": "https://finance.yahoo.com/m/6c3564c1-aafa-39ed-aa66-83ecdd7c4558/norway-set-to-make-formal.html",
-      "publisher": "AFP",
-      "time": 1784807175,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5ad83b52-0c01-3ef1-bdab-72636629addb",
-      "title": "Ameriprise Financial Declares Regular Quarterly Dividend",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ameriprise-financial-declares-regular-quarterly-114600891.html",
-      "publisher": "Business Wire",
-      "time": 1784807160,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3f282afb-b302-31bd-937c-7646b0538c86",
-      "title": "Aurora Cannabis Says Niagara Facility Obtains EU-GMP Certification",
-      "link": "https://finance.yahoo.com/healthcare/articles/aurora-cannabis-says-niagara-facility-114549742.html",
-      "publisher": "MT Newswires",
-      "time": 1784807149,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8fe269b6-826d-3d37-800f-ee9f72d19d70",
-      "title": "Union Pacific Reports Second Quarter 2026 Results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/union-pacific-reports-second-quarter-114500048.html",
-      "publisher": "Business Wire",
-      "time": 1784807100,
+      "id": "b2676155-a060-3e59-8231-c2d561921af6",
+      "title": "Range Rover confirms fifth model line with new GT",
+      "link": "https://finance.yahoo.com/m/b2676155-a060-3e59-8231-c2d561921af6/range-rover-confirms-fifth.html",
+      "publisher": "Just Auto",
+      "time": 1784813501,
       "impact": "low",
       "tags": []
     }
