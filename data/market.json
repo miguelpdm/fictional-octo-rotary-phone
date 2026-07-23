@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T17:13:34.190761+00:00",
+  "updatedAt": "2026-07-23T18:43:32.908835+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7413.13,
-      "change": -96.06999999999971,
-      "changePct": -1.2793639801843033,
+      "price": 7392.23,
+      "change": -116.97000000000025,
+      "changePct": -1.557689234538969,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25170.385,
-      "change": -666.8250000000007,
-      "changePct": -2.5808707673932316,
+      "price": 25080.107,
+      "change": -757.1029999999992,
+      "changePct": -2.9302815590382987,
       "currency": "USD"
     },
     {
@@ -44,121 +44,113 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 19.44,
-      "change": 2.8000000000000007,
-      "changePct": 16.82692307692308,
+      "price": 19.53,
+      "change": 2.8900000000000006,
+      "changePct": 17.367788461538463,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "97ad2d5a-5bfa-3fdf-8c17-e0fdea6cacb1",
-      "title": "Blackstone Raises Quarterly Dividend to $1.29 a Share",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/blackstone-raises-quarterly-dividend-1-171123337.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784826683,
+      "id": "7f098b9a-7855-3344-8692-b51bd0a57560",
+      "title": "Supermicro Introduces New Server Portfolio with 6th Gen AMD EPYC™ 9006 Series CPUs, Delivering 1.7x Generational Performance Improvements",
+      "link": "https://finance.yahoo.com/technology/ai/articles/supermicro-introduces-server-portfolio-6th-183500112.html",
+      "publisher": "PR Newswire",
+      "time": 1784831700,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a2209a55-3fd4-3f50-a92b-36eafb7c3f7d",
-      "title": "Eli Lilly's Retatrutide Clears Two More Trials Ahead of 2027 Filing",
-      "link": "https://finance.yahoo.com/healthcare/articles/eli-lillys-retatrutide-clears-two-171045869.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784826645,
+      "id": "a1b57968-46bc-3c19-90c9-fdde884e1ad2",
+      "title": "23-Year-Old AI Billionaire Says Gen Z Should Avoid This Popular Career Tactic",
+      "link": "https://finance.yahoo.com/m/a1b57968-46bc-3c19-90c9-fdde884e1ad2/23-year-old-ai-billionaire.html",
+      "publisher": "Entrepreneur",
+      "time": 1784831680,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "84ce0122-ad43-3745-9bb9-ea300e625d73",
-      "title": "STMicroelectronics Slides as Third-Quarter Outlook Misses Estimates",
-      "link": "https://finance.yahoo.com/technology/articles/stmicroelectronics-slides-third-quarter-outlook-171004219.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784826604,
+      "id": "c6301214-1453-328d-883e-2f5c47015c62",
+      "title": "Verizon shuts down longtime customer support option after layoffs",
+      "link": "https://finance.yahoo.com/m/c6301214-1453-328d-883e-2f5c47015c62/verizon-shuts-down-longtime.html",
+      "publisher": "TheStreet",
+      "time": 1784831580,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2463e816-b29c-32a4-ad9d-9320325f326a",
-      "title": "Boeing Wins Quiet Airshow Order Race",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-wins-quiet-airshow-order-170924682.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784826564,
+      "id": "38903542-7c45-356c-bf30-29f3442bbe4a",
+      "title": "National Tequila Day 2026 means savings on sips. See the deals",
+      "link": "https://finance.yahoo.com/m/38903542-7c45-356c-bf30-29f3442bbe4a/national-tequila-day-2026.html",
+      "publisher": "USA TODAY",
+      "time": 1784831561,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f0c8950b-489e-3381-843d-eef4d89208f3",
-      "title": "Palantir Commercial Business Gets Citi Boost",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-commercial-business-gets-citi-170827003.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784826507,
+      "id": "f77f2372-72d4-3e80-9a76-f4c6d2d95363",
+      "title": "Eric Trump-backed Foundation partners with AMD to develop humanoid robots",
+      "link": "https://finance.yahoo.com/technology/ai/articles/eric-trump-backed-foundation-partners-183241547.html",
+      "publisher": "Reuters",
+      "time": 1784831561,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d44b539d-0450-3bcc-a15f-f87cd4964035",
-      "title": "Tesla and Alphabet Trigger Nasdaq 2.5% Selloff as Oil Nears $100",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-alphabet-trigger-nasdaq-2-170712221.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784826432,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "e518e945-0dfc-3db3-ab03-7c1c6e28ffca",
+      "title": "Trump says Xi will visit US on September 24",
+      "link": "https://finance.yahoo.com/m/e518e945-0dfc-3db3-ab03-7c1c6e28ffca/trump-says-xi-will-visit-us.html",
+      "publisher": "Reuters",
+      "time": 1784831547,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "0d10178e-9555-3d69-9a69-ccb52fabdb4d",
-      "title": "Third Coast Bancshares Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/0d10178e-9555-3d69-9a69-ccb52fabdb4d/third-coast-bancshares-q2.html",
-      "publisher": "MarketBeat",
-      "time": 1784826426,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "091bd4ee-73e9-3dd1-bcdf-8dc7799e60b2",
+      "title": "$139M drug bust exposes broker-style cross-border trucking operation",
+      "link": "https://finance.yahoo.com/m/091bd4ee-73e9-3dd1-bcdf-8dc7799e60b2/%24139m-drug-bust-exposes.html",
+      "publisher": "FreightWaves",
+      "time": 1784831478,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "71690e72-5f29-3a81-a7bf-a5be6875a89f",
-      "title": "QCR Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/71690e72-5f29-3a81-a7bf-a5be6875a89f/qcr-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1784826425,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "14b39237-216f-3743-9de2-407870af83df",
+      "title": "Nota AI Joins the AMD Robotics Partner Network to Accelerate Development of Next Generation Physical AI Solutions - Extending its on-device AI optimization technology into the robotics sector",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nota-ai-joins-amd-robotics-183000599.html",
+      "publisher": "PR Newswire",
+      "time": 1784831400,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "a4f11375-21a5-3874-9519-1159c63b6488",
-      "title": "Southern Missouri Bancorp Q4 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/a4f11375-21a5-3874-9519-1159c63b6488/southern-missouri-bancorp-q4.html",
-      "publisher": "MarketBeat",
-      "time": 1784826425,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "1fadd02e-172f-3e5f-9c37-876298d21376",
+      "title": "Vultr Scales Next-Generation AI Infrastructure with AMD Helios Rackscale Solution Powered by AMD Instinct™ MI455X GPUs",
+      "link": "https://finance.yahoo.com/technology/ai/articles/vultr-scales-next-generation-ai-183000718.html",
+      "publisher": "Business Wire",
+      "time": 1784831400,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "f0126758-6659-334d-b65a-f16d10689ecf",
-      "title": "Richardson Electronics Q4 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/f0126758-6659-334d-b65a-f16d10689ecf/richardson-electronics-q4.html",
-      "publisher": "MarketBeat",
-      "time": 1784826425,
-      "impact": "medium",
+      "id": "1fe3abf8-6684-320a-9c25-26a4d845e400",
+      "title": "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?",
+      "link": "https://finance.yahoo.com/m/1fe3abf8-6684-320a-9c25-26a4d845e400/my-second-husband-and-i-have.html",
+      "publisher": "MarketWatch",
+      "time": 1784831400,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     }
   ],
   "errors": {
     "indices": [],
-    "news": []
+    "news": [
+      {
+        "query": "IBEX bolsa España",
+        "error": "HTTP Error 500: Internal Server Error"
+      }
+    ]
   }
 }
