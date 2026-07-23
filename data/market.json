@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-23T09:59:21.992939+00:00",
+  "updatedAt": "2026-07-23T11:53:54.767025+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19439.8,
-      "change": -131.5,
-      "changePct": -0.6719022241751953,
+      "price": 19413.8,
+      "change": -157.5,
+      "changePct": -0.8047498122250439,
       "currency": "EUR"
     },
     {
@@ -28,53 +28,35 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25011.3,
-      "change": -0.049999999999272404,
-      "changePct": -0.00019990924120158414,
+      "price": 24942.6,
+      "change": -68.75,
+      "changePct": -0.2748752066561781,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6267.08,
-      "change": -49.909999999999854,
-      "changePct": -0.790091483443853,
+      "price": 6246.56,
+      "change": -70.42999999999938,
+      "changePct": -1.1149297371057953,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.63,
-      "change": 0.9899999999999984,
-      "changePct": 5.949519230769221,
+      "price": 18.25,
+      "change": 1.6099999999999994,
+      "changePct": 9.675480769230765,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "4b42a86d-e732-36cf-921b-b581959e0aa1",
-      "title": "Colorman Ireland expands BOBST collaboration for packaging automation",
-      "link": "https://finance.yahoo.com/m/4b42a86d-e732-36cf-921b-b581959e0aa1/colorman-ireland-expands.html",
-      "publisher": "Packaging Gateway",
-      "time": 1784800698,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "218e2212-dd6d-3991-8ff5-c9f6bd127f8a",
-      "title": "Walt Disney Faces European Patent Injunction Over Video Codecs",
-      "link": "https://finance.yahoo.com/technology/articles/walt-disney-faces-european-patent-095745266.html",
-      "publisher": "MT Newswires",
-      "time": 1784800665,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1e90c39a-ba2b-3a66-8dd6-a956bfaab95e",
-      "title": "Teck Resources Reports Jump in Q2 Adjusted Profit YoY",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/teck-resources-reports-jump-q2-095741942.html",
-      "publisher": "MT Newswires",
-      "time": 1784800661,
+      "id": "2eba0736-704b-3f2f-b637-f6fd1e352018",
+      "title": "Advyzon adds AI system to adviser platform",
+      "link": "https://finance.yahoo.com/m/2eba0736-704b-3f2f-b637-f6fd1e352018/advyzon-adds-ai-system-to.html",
+      "publisher": "Private Banker International",
+      "time": 1784807552,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,70 +64,94 @@
       ]
     },
     {
-      "id": "99f28f4b-1672-31f9-93a8-090a98fd7a3d",
-      "title": "Geely to take over idle Ford assembly line in Spain",
-      "link": "https://finance.yahoo.com/m/99f28f4b-1672-31f9-93a8-090a98fd7a3d/geely-to-take-over-idle-ford.html",
-      "publisher": "Just Auto",
-      "time": 1784800605,
+      "id": "ee9e6877-7908-398d-9777-112b5ab1fe99",
+      "title": "Huey Magoo’s Rebrands National Chicken Finger Day with BOGO Offer",
+      "link": "https://finance.yahoo.com/m/ee9e6877-7908-398d-9777-112b5ab1fe99/huey-magoo%E2%80%99s-rebrands.html",
+      "publisher": "QSR",
+      "time": 1784807337,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "54be9fd1-943e-3cbf-831c-c71856fa6ac1",
-      "title": "Bitget Wallet taps Mesh network to broaden crypto payment acceptance",
-      "link": "https://finance.yahoo.com/m/54be9fd1-943e-3cbf-831c-c71856fa6ac1/bitget-wallet-taps-mesh.html",
-      "publisher": "Electronic Payments",
-      "time": 1784800591,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "968fd4f3-c695-3900-859f-4bc80ed2fefb",
-      "title": "RTX Reports Q2 2026 Results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-reports-q2-2026-results-095500203.html",
-      "publisher": "PR Newswire",
-      "time": 1784800500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f0ccb4ba-e3c8-36d2-91eb-b0e7a5f4ccc5",
-      "title": "Sporticast: A Tale of Two Billion-Dollar Sports Family Empires",
-      "link": "https://finance.yahoo.com/m/f0ccb4ba-e3c8-36d2-91eb-b0e7a5f4ccc5/sporticast%3A-a-tale-of-two.html",
-      "publisher": "Sportico",
-      "time": 1784800500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8c2900cf-c7b5-33dc-93bf-73445ff281d1",
-      "title": "Navan Selected by Evotec for Global Travel, Expense Management",
-      "link": "https://finance.yahoo.com/small-business/articles/navan-selected-evotec-global-travel-095211865.html",
-      "publisher": "MT Newswires",
-      "time": 1784800331,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "45836498-02b8-37fe-b475-32da623dec4d",
-      "title": "RWE’s Nordseecluster A offshore wind farm delivers first electricity",
-      "link": "https://finance.yahoo.com/m/45836498-02b8-37fe-b475-32da623dec4d/rwe%E2%80%99s-nordseecluster-a.html",
-      "publisher": "Power Technology",
-      "time": 1784800246,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4a976926-2d6b-3ce4-89f0-575b292e24c3",
-      "title": "Paid To Trade Wins “Fastest Payout Prop Firm” at UF AWARDS Global 2026",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/paid-trade-wins-fastest-payout-095000171.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784800200,
-      "impact": "high",
+      "id": "a63c7c5b-510e-3032-8e3a-110baa2e9074",
+      "title": "EFG International AUM reaches SFr196.3bn in H1 2026",
+      "link": "https://finance.yahoo.com/m/a63c7c5b-510e-3032-8e3a-110baa2e9074/efg%C2%A0international-aum%C2%A0reaches.html",
+      "publisher": "Private Banker International",
+      "time": 1784807257,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
+    },
+    {
+      "id": "1f402157-73d8-3121-890d-3aca11e06f45",
+      "title": "Ardagh Metal Packaging Q2 Adjusted Earnings, Revenue Rise",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ardagh-metal-packaging-q2-adjusted-114723429.html",
+      "publisher": "MT Newswires",
+      "time": 1784807243,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9f5cd690-74ce-3198-a2fb-7863928aada0",
+      "title": "Barclays Adjusts Price Target on Raymond James Financial to $196 From $192, Maintains Overweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-adjusts-price-target-raymond-114721376.html",
+      "publisher": "MT Newswires",
+      "time": 1784807241,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cf6958a4-3e2f-3e97-9dfe-ce194124110a",
+      "title": "Vita Coco Q2 Net Income, Revenue Increase; 2026 Revenue Guidance Raised",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vita-coco-q2-net-income-114622266.html",
+      "publisher": "MT Newswires",
+      "time": 1784807182,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "6c3564c1-aafa-39ed-aa66-83ecdd7c4558",
+      "title": "Norway set to make formal complaint to FIFA over Balogun red card saga",
+      "link": "https://finance.yahoo.com/m/6c3564c1-aafa-39ed-aa66-83ecdd7c4558/norway-set-to-make-formal.html",
+      "publisher": "AFP",
+      "time": 1784807175,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5ad83b52-0c01-3ef1-bdab-72636629addb",
+      "title": "Ameriprise Financial Declares Regular Quarterly Dividend",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ameriprise-financial-declares-regular-quarterly-114600891.html",
+      "publisher": "Business Wire",
+      "time": 1784807160,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3f282afb-b302-31bd-937c-7646b0538c86",
+      "title": "Aurora Cannabis Says Niagara Facility Obtains EU-GMP Certification",
+      "link": "https://finance.yahoo.com/healthcare/articles/aurora-cannabis-says-niagara-facility-114549742.html",
+      "publisher": "MT Newswires",
+      "time": 1784807149,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8fe269b6-826d-3d37-800f-ee9f72d19d70",
+      "title": "Union Pacific Reports Second Quarter 2026 Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/union-pacific-reports-second-quarter-114500048.html",
+      "publisher": "Business Wire",
+      "time": 1784807100,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
