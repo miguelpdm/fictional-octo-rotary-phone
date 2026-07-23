@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T18:43:32.908835+00:00",
+  "updatedAt": "2026-07-23T20:08:57.822996+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7392.23,
-      "change": -116.97000000000025,
-      "changePct": -1.557689234538969,
+      "price": 7408.3,
+      "change": -100.89999999999964,
+      "changePct": -1.343685079635642,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25080.107,
-      "change": -757.1029999999992,
-      "changePct": -2.9302815590382987,
+      "price": 25137.693,
+      "change": -699.5169999999998,
+      "changePct": -2.7074014570458647,
       "currency": "USD"
     },
     {
@@ -44,109 +44,125 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 19.53,
-      "change": 2.8900000000000006,
-      "changePct": 17.367788461538463,
+      "price": 19.42,
+      "change": 2.780000000000001,
+      "changePct": 16.706730769230777,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "7f098b9a-7855-3344-8692-b51bd0a57560",
-      "title": "Supermicro Introduces New Server Portfolio with 6th Gen AMD EPYC™ 9006 Series CPUs, Delivering 1.7x Generational Performance Improvements",
-      "link": "https://finance.yahoo.com/technology/ai/articles/supermicro-introduces-server-portfolio-6th-183500112.html",
-      "publisher": "PR Newswire",
-      "time": 1784831700,
-      "impact": "low",
-      "tags": []
+      "id": "20bbede8-70e8-3a7a-b4f5-0a11f825d69b",
+      "title": "Lockheed Martin, RTX Jump After Earnings Beat. One Is Breaking Out.",
+      "link": "https://finance.yahoo.com/m/20bbede8-70e8-3a7a-b4f5-0a11f825d69b/lockheed-martin%2C-rtx-jump.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1784837078,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "a1b57968-46bc-3c19-90c9-fdde884e1ad2",
-      "title": "23-Year-Old AI Billionaire Says Gen Z Should Avoid This Popular Career Tactic",
-      "link": "https://finance.yahoo.com/m/a1b57968-46bc-3c19-90c9-fdde884e1ad2/23-year-old-ai-billionaire.html",
-      "publisher": "Entrepreneur",
-      "time": 1784831680,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c6301214-1453-328d-883e-2f5c47015c62",
-      "title": "Verizon shuts down longtime customer support option after layoffs",
-      "link": "https://finance.yahoo.com/m/c6301214-1453-328d-883e-2f5c47015c62/verizon-shuts-down-longtime.html",
-      "publisher": "TheStreet",
-      "time": 1784831580,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "38903542-7c45-356c-bf30-29f3442bbe4a",
-      "title": "National Tequila Day 2026 means savings on sips. See the deals",
-      "link": "https://finance.yahoo.com/m/38903542-7c45-356c-bf30-29f3442bbe4a/national-tequila-day-2026.html",
-      "publisher": "USA TODAY",
-      "time": 1784831561,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f77f2372-72d4-3e80-9a76-f4c6d2d95363",
-      "title": "Eric Trump-backed Foundation partners with AMD to develop humanoid robots",
-      "link": "https://finance.yahoo.com/technology/ai/articles/eric-trump-backed-foundation-partners-183241547.html",
-      "publisher": "Reuters",
-      "time": 1784831561,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e518e945-0dfc-3db3-ab03-7c1c6e28ffca",
-      "title": "Trump says Xi will visit US on September 24",
-      "link": "https://finance.yahoo.com/m/e518e945-0dfc-3db3-ab03-7c1c6e28ffca/trump-says-xi-will-visit-us.html",
-      "publisher": "Reuters",
-      "time": 1784831547,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "091bd4ee-73e9-3dd1-bcdf-8dc7799e60b2",
-      "title": "$139M drug bust exposes broker-style cross-border trucking operation",
-      "link": "https://finance.yahoo.com/m/091bd4ee-73e9-3dd1-bcdf-8dc7799e60b2/%24139m-drug-bust-exposes.html",
-      "publisher": "FreightWaves",
-      "time": 1784831478,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "14b39237-216f-3743-9de2-407870af83df",
-      "title": "Nota AI Joins the AMD Robotics Partner Network to Accelerate Development of Next Generation Physical AI Solutions - Extending its on-device AI optimization technology into the robotics sector",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nota-ai-joins-amd-robotics-183000599.html",
-      "publisher": "PR Newswire",
-      "time": 1784831400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1fadd02e-172f-3e5f-9c37-876298d21376",
-      "title": "Vultr Scales Next-Generation AI Infrastructure with AMD Helios Rackscale Solution Powered by AMD Instinct™ MI455X GPUs",
-      "link": "https://finance.yahoo.com/technology/ai/articles/vultr-scales-next-generation-ai-183000718.html",
-      "publisher": "Business Wire",
-      "time": 1784831400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1fe3abf8-6684-320a-9c25-26a4d845e400",
-      "title": "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?",
-      "link": "https://finance.yahoo.com/m/1fe3abf8-6684-320a-9c25-26a4d845e400/my-second-husband-and-i-have.html",
-      "publisher": "MarketWatch",
-      "time": 1784831400,
+      "id": "e5f3b6eb-be1e-3228-b432-a2691f2e2c15",
+      "title": "1 S&P 500 Stock on Our Buy List and 2 Facing Challenges",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-buy-200431173.html",
+      "publisher": "StockStory",
+      "time": 1784837071,
       "impact": "low",
       "tags": [
         "macro"
+      ]
+    },
+    {
+      "id": "5ad71e19-a591-452c-bc00-eebc617f5583",
+      "title": "Amazon, Walmart, & cautious consumers are major headwinds for Albertson's: A closer look",
+      "link": "https://finance.yahoo.com/video/amazon-walmart--cautious-consumers-are-major-headwinds-for-albertsons-a-closer-look-200355467.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1784837035,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c2116b92-aecc-3fe1-b0cb-25f38a4508f2",
+      "title": "Elon Musk Preaches Patience On Robotaxi, Optimus Rollout. Tesla Stock Plummets.",
+      "link": "https://finance.yahoo.com/m/c2116b92-aecc-3fe1-b0cb-25f38a4508f2/elon-musk-preaches-patience.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1784837028,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5b9f6c92-746c-3457-8612-face5256f226",
+      "title": "Cetera Names Craig Bartlett Community Leader of Cetera Financial Specialists Within the Firm's Tax & Accounting Channel",
+      "link": "https://finance.yahoo.com/small-business/articles/cetera-names-craig-bartlett-community-200300758.html",
+      "publisher": "PR Newswire",
+      "time": 1784836980,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9968618d-313c-30fc-ae1a-c7e905d794fa",
+      "title": "US Treasury finds no trading partner manipulated currency for trade advantage in 2025",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/us-treasury-finds-no-trading-200258754.html",
+      "publisher": "Reuters",
+      "time": 1784836978,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "a01e5897-12a0-3df2-9a92-b78db27ff229",
+      "title": "Tesla Reports $1 Billion Gain On Its SpaceX Equity Stake",
+      "link": "https://finance.yahoo.com/m/a01e5897-12a0-3df2-9a92-b78db27ff229/tesla-reports-%241-billion-gain.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1784836975,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e069ea37-7fbf-3494-aca8-75eac517bd4d",
+      "title": "EnerCom Releases Presenter Lineup for the 31st EnerCom Denver - The Energy Investment Conference, August 17-19, 2026, in Denver, Colorado",
+      "link": "https://finance.yahoo.com/energy/articles/enercom-releases-presenter-lineup-31st-200200013.html",
+      "publisher": "PR Newswire",
+      "time": 1784836920,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "07f60cb3-cfc6-3035-ae10-d2d9ed1a2baa",
+      "title": "Coolkicks co-founder, 11 others indicted in alleged $2M Nike theft ring",
+      "link": "https://finance.yahoo.com/m/07f60cb3-cfc6-3035-ae10-d2d9ed1a2baa/coolkicks-co-founder%2C-11.html",
+      "publisher": "USA TODAY",
+      "time": 1784836875,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "23428308-1a38-37c5-9291-4719dcc58df6",
+      "title": "MAGYAR BANCORP, INC. ANNOUNCES THIRD QUARTER FINANCIAL RESULTS AND DECLARES DIVIDEND",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/magyar-bancorp-inc-announces-third-200100950.html",
+      "publisher": "PR Newswire",
+      "time": 1784836860,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
       ]
     }
   ],
   "errors": {
     "indices": [],
     "news": [
+      {
+        "query": "fed interest rates inflation",
+        "error": "HTTP Error 500: Internal Server Error"
+      },
+      {
+        "query": "earnings results stocks",
+        "error": "HTTP Error 500: Internal Server Error"
+      },
       {
         "query": "IBEX bolsa España",
         "error": "HTTP Error 500: Internal Server Error"
