@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T23:28:07.021330+00:00",
+  "updatedAt": "2026-07-23T01:01:57.833232+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,105 +52,103 @@
   ],
   "news": [
     {
-      "id": "092ff924-f233-311d-95de-ed11a4dabc57",
-      "title": "Dow Jones Futures: Google, Tesla Fall On Earnings, Capex",
-      "link": "https://finance.yahoo.com/m/092ff924-f233-311d-95de-ed11a4dabc57/dow-jones-futures%3A-google%2C.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1784762664,
+      "id": "08ab9dc5-2b4c-36d8-942b-0e5b65cc0a98",
+      "title": "Mildef Group AB (STU:8QA) Q2 2026 Earnings Call Highlights: Record Growth Amidst Volatile Order ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mildef-group-ab-stu-8qa-010016560.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784768416,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
-    },
-    {
-      "id": "7522765a-b001-3f03-a0a6-6c192340c92c",
-      "title": "DT Derrick Brown on importance of training camp: 'What you do in camp is the separating factor' 'The Insiders'",
-      "link": "https://finance.yahoo.com/m/7522765a-b001-3f03-a0a6-6c192340c92c/dt-derrick-brown-on.html",
-      "publisher": "NFL Highlights",
-      "time": 1784762662,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7cf2e30c-d3ec-4ad6-b540-ed6a5fd76351",
-      "title": "Tesla-SpaceX merger? Musk cites 'more and more overlap'",
-      "link": "https://finance.yahoo.com/video/tesla-spacex-merger-musk-cites-more-and-more-overlap-232240873.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1784762560,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "dbbda8ee-569d-3c94-b908-0e45b86f86d3",
-      "title": "Teen Withdraws Social Media Addiction Lawsuit Against Meta",
-      "link": "https://finance.yahoo.com/media-advertising/articles/teen-withdraws-social-media-addiction-232206771.html",
-      "publisher": "MT Newswires",
-      "time": 1784762526,
-      "impact": "low",
-      "tags": []
     },
     {
       "id": "0097e300-5081-3190-9bff-4ea575ce7f59",
-      "title": "South Korea economy expands 0.6% q/q in Q2, better than expected",
+      "title": "South Korea's Q2 GDP beats estimates on chip export boom",
       "link": "https://finance.yahoo.com/economy/articles/south-korea-economy-expands-0-232103137.html",
       "publisher": "Reuters",
-      "time": 1784762463,
+      "time": 1784768337,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4a31e525-cf40-319b-b699-7bd47fe8aeaa",
-      "title": "This Social Security Strategy Sounds Smart, But Running The Numbers Tells A Different Story",
-      "link": "https://finance.yahoo.com/m/4a31e525-cf40-319b-b699-7bd47fe8aeaa/this-social-security-strategy.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1784762413,
+      "id": "96009717-0d53-32ad-bc94-f6c91d7f07c7",
+      "title": "Nona Biosciences Enters Research Collaboration with the Medical University of Vienna to Advance Fully Human Antibody Development for Infectious Diseases",
+      "link": "https://finance.yahoo.com/healthcare/articles/nona-biosciences-enters-research-collaboration-005500023.html",
+      "publisher": "PR Newswire",
+      "time": 1784768100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ab90947a-1d0d-3c7d-97ec-5017f03f814c",
-      "title": "China Comes To AliExpress’ Defense After Massive EU Fine",
-      "link": "https://finance.yahoo.com/m/ab90947a-1d0d-3c7d-97ec-5017f03f814c/china-comes-to-aliexpress%E2%80%99.html",
-      "publisher": "Sourcing Journal",
-      "time": 1784762365,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "a414a52f-a992-3f77-af72-e61b72ff4ff5",
-      "title": "Judge orders immediate changes at Adelanto ICE detention center",
-      "link": "https://finance.yahoo.com/m/a414a52f-a992-3f77-af72-e61b72ff4ff5/judge-orders-immediate.html",
-      "publisher": "USA TODAY",
-      "time": 1784762324,
+      "id": "c15f2ba4-5f87-39f1-866d-0299ae675104",
+      "title": "US-Iran tensions underpin dollar as yen nears 40-year low",
+      "link": "https://finance.yahoo.com/news/us-iran-tensions-underpin-dollar-005027588.html",
+      "publisher": "Reuters",
+      "time": 1784767827,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3619b9e4-4deb-3d1d-b472-5b80c6dda4dd",
-      "title": "After OpenAI and Hugging Face incident, VCs bet on controlling the blast radius",
-      "link": "https://finance.yahoo.com/m/3619b9e4-4deb-3d1d-b472-5b80c6dda4dd/after-openai-and-hugging-face.html",
-      "publisher": "Pitchbook",
-      "time": 1784762315,
+      "id": "15f59a91-6eb5-3890-919b-1b9f3c5f8434",
+      "title": "Video: USF Athletics and Tampa General Hospital Unveil New Football Uniforms Featuring Tampa General Hospital Patch",
+      "link": "https://finance.yahoo.com/healthcare/articles/video-usf-athletics-tampa-general-004900636.html",
+      "publisher": "PR Newswire",
+      "time": 1784767740,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3b02519b-8ebf-365e-8b84-897cd0b95a46",
-      "title": "S&P 500, Nasdaq close lower ahead of technology earnings",
-      "link": "https://finance.yahoo.com/video/p-500-nasdaq-close-lower-231736518.html",
-      "publisher": "Reuters Videos",
-      "time": 1784762256,
+      "id": "bff58423-1e28-319f-a58f-2d9fb6d9234c",
+      "title": "Argentine Football Association says US did not detain its president",
+      "link": "https://finance.yahoo.com/m/bff58423-1e28-319f-a58f-2d9fb6d9234c/argentine-football.html",
+      "publisher": "AFP",
+      "time": 1784767732,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "092ff924-f233-311d-95de-ed11a4dabc57",
+      "title": "Dow Jones Futures Rise; Google, Tesla Fall On Earnings, Capex, But AI Stocks Climb",
+      "link": "https://finance.yahoo.com/m/092ff924-f233-311d-95de-ed11a4dabc57/dow-jones-futures-rise%3B.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1784767654,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
+    },
+    {
+      "id": "31816f74-61e2-3dd0-8a6a-3b849823a766",
+      "title": "Teledyne (TDY) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/31816f74-61e2-3dd0-8a6a-3b849823a766/teledyne-%28tdy%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1784767574,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "7f1b04d5-defb-38a0-be27-93fbd18e9a75",
+      "title": "HD Hyundai Heavy Industries Reaches Major Milestone in ITER Nuclear Fusion Project",
+      "link": "https://finance.yahoo.com/energy/articles/hd-hyundai-heavy-industries-reaches-004000109.html",
+      "publisher": "PR Newswire",
+      "time": 1784767200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a2016f82-f3f1-3551-a017-a4b20d6478d6",
+      "title": "PBCO Financial Corporation Reports Q2 2026 Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pbco-financial-corporation-reports-q2-004000814.html",
+      "publisher": "Business Wire",
+      "time": 1784767200,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
