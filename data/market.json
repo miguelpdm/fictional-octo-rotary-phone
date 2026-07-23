@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-23T07:28:17.616991+00:00",
+  "updatedAt": "2026-07-23T09:59:21.992939+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19446.0,
-      "change": -125.29999999999927,
-      "changePct": -0.64022318394792,
+      "price": 19439.8,
+      "change": -131.5,
+      "changePct": -0.6719022241751953,
       "currency": "EUR"
     },
     {
@@ -28,148 +28,123 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 24912.28,
-      "change": -99.06999999999971,
-      "changePct": -0.39610017052258156,
+      "price": 25011.3,
+      "change": -0.049999999999272404,
+      "changePct": -0.00019990924120158414,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6253.85,
-      "change": -63.13999999999942,
-      "changePct": -0.99952667330484,
+      "price": 6267.08,
+      "change": -49.909999999999854,
+      "changePct": -0.790091483443853,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.64,
-      "change": 0.0,
-      "changePct": 0.0,
+      "price": 17.63,
+      "change": 0.9899999999999984,
+      "changePct": 5.949519230769221,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "29154f33-ee29-3047-819e-58f990b79b22",
-      "title": "3 Cash-Heavy Stocks to Research Further",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-cash-heavy-stocks-research-072449010.html",
-      "publisher": "StockStory",
-      "time": 1784791489,
+      "id": "4b42a86d-e732-36cf-921b-b581959e0aa1",
+      "title": "Colorman Ireland expands BOBST collaboration for packaging automation",
+      "link": "https://finance.yahoo.com/m/4b42a86d-e732-36cf-921b-b581959e0aa1/colorman-ireland-expands.html",
+      "publisher": "Packaging Gateway",
+      "time": 1784800698,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "57bcbe6c-2cb1-3aab-8665-05a658ab228e",
-      "title": "Hyliion Wins $41.7 Million Contract to Supply Power Generation Systems for US Navy",
-      "link": "https://finance.yahoo.com/technology/articles/hyliion-wins-41-7-million-072129014.html",
+      "id": "218e2212-dd6d-3991-8ff5-c9f6bd127f8a",
+      "title": "Walt Disney Faces European Patent Injunction Over Video Codecs",
+      "link": "https://finance.yahoo.com/technology/articles/walt-disney-faces-european-patent-095745266.html",
       "publisher": "MT Newswires",
-      "time": 1784791289,
+      "time": 1784800665,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "41daf974-1a27-388b-8a72-7f734513b61e",
-      "title": "European shares slip after STMicro, Alphabet results weigh on tech stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/european-shares-slip-stmicro-alphabet-071755502.html",
-      "publisher": "Reuters",
-      "time": 1784791075,
-      "impact": "low",
+      "id": "1e90c39a-ba2b-3a66-8dd6-a956bfaab95e",
+      "title": "Teck Resources Reports Jump in Q2 Adjusted Profit YoY",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/teck-resources-reports-jump-q2-095741942.html",
+      "publisher": "MT Newswires",
+      "time": 1784800661,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "e3fd3839-ec8e-3523-996b-f0f1cb35d251",
-      "title": "Singapore Immigration Consultancy Unveils Redesigned Website With Free PR Readiness Consultation for Over 200,000 Work Pass Holders in Singapore",
-      "link": "https://finance.yahoo.com/small-business/articles/singapore-immigration-consultancy-unveils-redesigned-071700817.html",
+      "id": "99f28f4b-1672-31f9-93a8-090a98fd7a3d",
+      "title": "Geely to take over idle Ford assembly line in Spain",
+      "link": "https://finance.yahoo.com/m/99f28f4b-1672-31f9-93a8-090a98fd7a3d/geely-to-take-over-idle-ford.html",
+      "publisher": "Just Auto",
+      "time": 1784800605,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "54be9fd1-943e-3cbf-831c-c71856fa6ac1",
+      "title": "Bitget Wallet taps Mesh network to broaden crypto payment acceptance",
+      "link": "https://finance.yahoo.com/m/54be9fd1-943e-3cbf-831c-c71856fa6ac1/bitget-wallet-taps-mesh.html",
+      "publisher": "Electronic Payments",
+      "time": 1784800591,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "968fd4f3-c695-3900-859f-4bc80ed2fefb",
+      "title": "RTX Reports Q2 2026 Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-reports-q2-2026-results-095500203.html",
       "publisher": "PR Newswire",
-      "time": 1784791020,
+      "time": 1784800500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b05c6a47-5913-3de7-87f9-98cf58fb98fa",
-      "title": "1 Profitable Stock to Target This Week and 2 We Ignore",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-target-week-071649474.html",
-      "publisher": "StockStory",
-      "time": 1784791009,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "f0ccb4ba-e3c8-36d2-91eb-b0e7a5f4ccc5",
+      "title": "Sporticast: A Tale of Two Billion-Dollar Sports Family Empires",
+      "link": "https://finance.yahoo.com/m/f0ccb4ba-e3c8-36d2-91eb-b0e7a5f4ccc5/sporticast%3A-a-tale-of-two.html",
+      "publisher": "Sportico",
+      "time": 1784800500,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "bb199bec-24c1-3cd6-a1b9-e68b28847704",
-      "title": "BE Semiconductor Industries N.V. Announces Q2-26 and H1-26 Results",
-      "link": "https://finance.yahoo.com/technology/articles/semiconductor-industries-n-v-announces-071600996.html",
+      "id": "8c2900cf-c7b5-33dc-93bf-73445ff281d1",
+      "title": "Navan Selected by Evotec for Global Travel, Expense Management",
+      "link": "https://finance.yahoo.com/small-business/articles/navan-selected-evotec-global-travel-095211865.html",
+      "publisher": "MT Newswires",
+      "time": 1784800331,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "45836498-02b8-37fe-b475-32da623dec4d",
+      "title": "RWE’s Nordseecluster A offshore wind farm delivers first electricity",
+      "link": "https://finance.yahoo.com/m/45836498-02b8-37fe-b475-32da623dec4d/rwe%E2%80%99s-nordseecluster-a.html",
+      "publisher": "Power Technology",
+      "time": 1784800246,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4a976926-2d6b-3ce4-89f0-575b292e24c3",
+      "title": "Paid To Trade Wins “Fastest Payout Prop Firm” at UF AWARDS Global 2026",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/paid-trade-wins-fastest-payout-095000171.html",
       "publisher": "GlobeNewswire",
-      "time": 1784790960,
-      "impact": "medium",
+      "time": 1784800200,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "5f7292f2-6622-300c-8c20-30609da8ea85",
-      "title": "Casey's General Stores (CASY) After The Proxy Fight And The Fair Value Debate",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/caseys-general-stores-casy-proxy-071334501.html",
-      "publisher": "Simply Wall St.",
-      "time": 1784790814,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e69c5b82-8e14-380c-92d9-d3dcbbf77b3b",
-      "title": "Boston Scientific (BSX) Enrolls First Patients In Global Faraflex AFib Trial",
-      "link": "https://finance.yahoo.com/healthcare/articles/boston-scientific-bsx-enrolls-first-071323627.html",
-      "publisher": "Simply Wall St.",
-      "time": 1784790803,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "158a18df-6f84-3dfb-84ee-80241578dfd9",
-      "title": "Is Domino's Pizza (DPZ) Undervalued After Stronger Than Expected Q2 Revenue?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dominos-pizza-dpz-undervalued-stronger-071256001.html",
-      "publisher": "Simply Wall St.",
-      "time": 1784790776,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b55b813c-9938-3b04-88e9-e73ac67a3703",
-      "title": "Did New HARMONi Survival Data Just Shift Summit Therapeutics' (SMMT) Ivonescimab Investment Narrative?",
-      "link": "https://finance.yahoo.com/healthcare/articles/did-harmoni-survival-data-just-071252979.html",
-      "publisher": "Simply Wall St.",
-      "time": 1784790772,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d515b2ec-e1e6-35ee-89a4-f325ea00d6b8",
-      "title": "Is Axon (AXON) Quietly Recasting Its AI Governance To Reshape Its Public Safety Platform?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/axon-axon-quietly-recasting-ai-071235272.html",
-      "publisher": "Simply Wall St.",
-      "time": 1784790755,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2f82d781-cfbb-36ed-80e7-87c134258a07",
-      "title": "Is MSCI (MSCI) Fully Valued On Higher Expense Guidance After Earnings?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/msci-msci-fully-valued-higher-071159047.html",
-      "publisher": "Simply Wall St.",
-      "time": 1784790719,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     }
   ],
