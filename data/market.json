@@ -1,143 +1,146 @@
 {
-  "updatedAt": "2026-07-23T13:41:58.306444+00:00",
+  "updatedAt": "2026-07-23T15:50:57.320298+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19281.2,
-      "change": -290.09999999999854,
-      "changePct": -1.4822725112792638,
+      "price": 19267.0,
+      "change": -304.2999999999993,
+      "changePct": -1.554827732444954,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7440.48,
-      "change": -68.72000000000025,
-      "changePct": -0.9151440899163726,
+      "price": 7393.75,
+      "change": -115.44999999999982,
+      "changePct": -1.5374473978586243,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25314.197,
-      "change": -523.012999999999,
-      "changePct": -2.0242626816130653,
+      "price": 25040.889,
+      "change": -796.3209999999999,
+      "changePct": -3.0820703938234812,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 24770.95,
-      "change": -240.39999999999782,
-      "changePct": -0.9611636317111945,
+      "price": 24763.12,
+      "change": -248.22999999999956,
+      "changePct": -0.992469418883825,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6205.67,
-      "change": -111.31999999999971,
-      "changePct": -1.7622316957918203,
+      "price": 6210.17,
+      "change": -106.81999999999971,
+      "changePct": -1.690995236655428,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 19.45,
-      "change": 2.8099999999999987,
-      "changePct": 16.887019230769223,
+      "price": 19.95,
+      "change": 3.3099999999999987,
+      "changePct": 19.891826923076913,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "bd221d76-9b3c-3d13-a6f0-fdc031daf048",
-      "title": "Health Insurance Now Launches Health Insurance Cost Comparison Service Amid Workforce Reductions",
-      "link": "https://finance.yahoo.com/healthcare/articles/health-insurance-now-launches-health-133800560.html",
-      "publisher": "TMX Newsfile",
-      "time": 1784813880,
+      "id": "8eb62371-2408-3584-b5ff-c7c523a61672",
+      "title": "Nebius Stock Jumps as Nvidia Partnership Reaches Major AI Milestone",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-jumps-nvidia-partnership-154700130.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784821620,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "61b8986d-d521-3e03-aafd-891960833c75",
-      "title": "JBS Nigeria plan central to Greenpeace court bid",
-      "link": "https://finance.yahoo.com/m/61b8986d-d521-3e03-aafd-891960833c75/jbs-nigeria-plan-central-to.html",
-      "publisher": "Just Food",
-      "time": 1784813801,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6baa488d-6457-3d48-b54c-cd09a59ce486",
-      "title": "AI 'kill switch' bill floated by US House lawmakers",
-      "link": "https://finance.yahoo.com/m/6baa488d-6457-3d48-b54c-cd09a59ce486/ai-%27kill-switch%27-bill-floated.html",
-      "publisher": "Reuters",
-      "time": 1784813781,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3b4dc898-3a82-3981-b5eb-36649564f52d",
-      "title": "Reorganization Point Bridge America First ETF (MAGA)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/reorganization-point-bridge-america-first-133500541.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1784813700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b673f20d-2869-3c05-8268-4bef40872c26",
-      "title": "Real Messenger Announces Receipt of Nasdaq Notification Letter Regarding Minimum Price Deficiency",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/real-messenger-announces-receipt-nasdaq-133500006.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784813700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "07292b3f-175d-37da-87e1-b7a4ac54fc79",
-      "title": "Citigroup Downgrades Penske Automotive Group to Neutral From Buy, Adjusts Price Target to $210 From $199",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-downgrades-penske-automotive-group-133209369.html",
+      "id": "1d090c5b-0f18-3c77-a8e6-1470bb74ad7e",
+      "title": "Gold Runner Gets 5-Year Drilling Permit at Golden Girl Property in British Columbia",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-runner-gets-5-drilling-154628246.html",
       "publisher": "MT Newswires",
-      "time": 1784813529,
+      "time": 1784821588,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "45ae5541-93e3-3e2a-9ebf-54b051579ead",
-      "title": "Drain Plumbing Company, Exceed Drain Plumbers Adelaide, Expands Across Adelaide and Launches Humm Financing",
-      "link": "https://finance.yahoo.com/small-business/articles/drain-plumbing-company-exceed-drain-133200069.html",
-      "publisher": "TMX Newsfile",
-      "time": 1784813520,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3de69e2c-641f-33aa-908e-95c4883906c2",
-      "title": "Vita Coco buys coconut-products firm Copra",
-      "link": "https://finance.yahoo.com/m/3de69e2c-641f-33aa-908e-95c4883906c2/vita-coco-buys.html",
-      "publisher": "Just Food",
-      "time": 1784813511,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "52be85c0-2859-3c5f-81b5-5bcd1e6beea5",
-      "title": "Jefferies Downgrades BioLife Solutions to Hold From Buy, Adjusts Price Target to $31 From $30",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-downgrades-biolife-solutions-hold-133150997.html",
+      "id": "23ca1ecd-7afc-30c2-b3d5-ab78b0d49682",
+      "title": "Jefferies Raises Edison International Price Target to $68 From $66",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-raises-edison-international-price-154547674.html",
       "publisher": "MT Newswires",
-      "time": 1784813510,
+      "time": 1784821547,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b2676155-a060-3e59-8231-c2d561921af6",
-      "title": "Range Rover confirms fifth model line with new GT",
-      "link": "https://finance.yahoo.com/m/b2676155-a060-3e59-8231-c2d561921af6/range-rover-confirms-fifth.html",
-      "publisher": "Just Auto",
-      "time": 1784813501,
+      "id": "12373195-5440-3db0-9998-72e59ac4b287",
+      "title": "Tesla's FSD, Robotaxi Expansion Seen as Key Growth Drivers After Q2 Miss, BofA Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-apos-fsd-robotaxi-expansion-154529527.html",
+      "publisher": "MT Newswires",
+      "time": 1784821529,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5c13b873-8106-3176-b899-f357678f7461",
+      "title": "Crocs Has Q2 Upside Potential, Strengthening H2 Outlook, BofA Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/crocs-q2-upside-potential-strengthening-154512073.html",
+      "publisher": "MT Newswires",
+      "time": 1784821512,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2b62f1ee-6768-34ca-9c3f-3f71cdfea496",
+      "title": "Reddit Seen Benefiting From User Growth, Ad Momentum, AI Deals, Wedbush Says",
+      "link": "https://finance.yahoo.com/media-advertising/articles/reddit-seen-benefiting-user-growth-154506934.html",
+      "publisher": "MT Newswires",
+      "time": 1784821506,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4578c107-8938-33de-8b54-168c644bda7e",
+      "title": "Think you're the best parallel parker in Philadelphia? Prove it",
+      "link": "https://finance.yahoo.com/m/4578c107-8938-33de-8b54-168c644bda7e/think-you%27re-the-best.html",
+      "publisher": "USA TODAY",
+      "time": 1784821321,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ab69ce87-f926-337c-bc42-b84f507051c0",
+      "title": "Tesla Stock Plunges 14% as Weak Earnings Override AI Hype",
+      "link": "https://finance.yahoo.com/m/ab69ce87-f926-337c-bc42-b84f507051c0/tesla-stock-plunges-14%25-as.html",
+      "publisher": "Barrons.com",
+      "time": 1784821320,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9b074ceb-775c-3197-860b-2482e07a89b0",
+      "title": "Alphabet Just Posted a Monster Quarter. The Stock Dropped Anyway. Time to Buy the Stock?",
+      "link": "https://finance.yahoo.com/m/9b074ceb-775c-3197-860b-2482e07a89b0/alphabet-just-posted-a.html",
+      "publisher": "Motley Fool",
+      "time": 1784821243,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2c00bb00-ec1d-49bf-9d3b-dca4b661bf63",
+      "title": "No, this isn't Skynet... yet! But Congress should act on AI testing after OpenAI incident",
+      "link": "https://finance.yahoo.com/video/no-this-isnt-skynet-yet-but-congress-should-act-on-ai-testing-after-openai-incident-154004339.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1784821204,
       "impact": "low",
       "tags": []
     }
