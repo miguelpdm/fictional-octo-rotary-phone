@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-23T04:47:23.780995+00:00",
+  "updatedAt": "2026-07-23T07:28:17.616991+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19571.3,
-      "change": 191.5,
-      "changePct": 0.9881422924901186,
+      "price": 19446.0,
+      "change": -125.29999999999927,
+      "changePct": -0.64022318394792,
       "currency": "EUR"
     },
     {
@@ -28,118 +28,144 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25155.41,
-      "change": 308.72000000000116,
-      "changePct": 1.2424995039580773,
+      "price": 24912.28,
+      "change": -99.06999999999971,
+      "changePct": -0.39610017052258156,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6316.99,
-      "change": 31.359999999999673,
-      "changePct": 0.498915780916148,
+      "price": 6253.85,
+      "change": -63.13999999999942,
+      "changePct": -0.99952667330484,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
       "price": 16.64,
-      "change": -0.41000000000000014,
-      "changePct": -2.404692082111438,
+      "change": 0.0,
+      "changePct": 0.0,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "fa2dee76-7e47-3892-80ca-71e103f96cf8",
-      "title": "4 Chandigarh University Law Graduates Become Judicial Officers, 244 Secure Jobs at Corporate Law Firms",
-      "link": "https://finance.yahoo.com/small-business/articles/4-chandigarh-university-law-graduates-043800856.html",
-      "publisher": "PR Newswire",
-      "time": 1784781480,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "71a276a8-3480-3afb-891e-37a75fd3fddf",
-      "title": "The American Chip Boom Picks Winners: TXN, INTC, and QRVO at Current Share Prices",
-      "link": "https://finance.yahoo.com/m/71a276a8-3480-3afb-891e-37a75fd3fddf/the-american-chip-boom-picks.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1784781361,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d324a096-b6c6-338b-92ac-fa99222bc2da",
-      "title": "Registration Now Open: Free Global Webinar on Dual-HA Biostimulation Featuring Live Clinical Demonstration",
-      "link": "https://finance.yahoo.com/healthcare/articles/registration-now-open-free-global-043500162.html",
-      "publisher": "PR Newswire",
-      "time": 1784781300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "06e774b8-0178-3e94-8d3b-663d5902adc6",
-      "title": "Joinable Labs Launches Joinable Propagator™, the Trusted Knowledge Foundry for the Agentic Enterprise",
-      "link": "https://finance.yahoo.com/technology/ai/articles/joinable-labs-launches-joinable-propagator-043000478.html",
-      "publisher": "Business Wire",
-      "time": 1784781000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "47ed1ef7-5279-3aab-a17c-c74fc051e7fe",
-      "title": "Macy's has a 'lightweight' $100 8-piece comforter set for just $30 that's 'perfect for summer'",
-      "link": "https://finance.yahoo.com/m/47ed1ef7-5279-3aab-a17c-c74fc051e7fe/macy%27s-has-a-%27lightweight%27.html",
-      "publisher": "TheStreet",
-      "time": 1784781000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "82d007f8-05f3-3e5e-ab33-049c523adb4c",
-      "title": "ANSR and HFS Research Release Findings from the Inaugural HFS GCC Generative Enterprise Market Pulse Study; India's GCCs Emerge as Transformation Partners, but Ownership and AI-Native Operating Models Will Define the Next Leap",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ansr-hfs-research-release-findings-043000124.html",
-      "publisher": "PR Newswire",
-      "time": 1784781000,
+      "id": "29154f33-ee29-3047-819e-58f990b79b22",
+      "title": "3 Cash-Heavy Stocks to Research Further",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-cash-heavy-stocks-research-072449010.html",
+      "publisher": "StockStory",
+      "time": 1784791489,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "bf39e1b9-773d-34a4-9323-de1615d537d8",
-      "title": "ATOZ Services Announces Strategic Growth Investment from Bregal Sagemount",
-      "link": "https://finance.yahoo.com/small-business/articles/atoz-services-announces-strategic-growth-043000200.html",
-      "publisher": "Business Wire",
-      "time": 1784781000,
+      "id": "57bcbe6c-2cb1-3aab-8665-05a658ab228e",
+      "title": "Hyliion Wins $41.7 Million Contract to Supply Power Generation Systems for US Navy",
+      "link": "https://finance.yahoo.com/technology/articles/hyliion-wins-41-7-million-072129014.html",
+      "publisher": "MT Newswires",
+      "time": 1784791289,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a94f00c9-01dd-3243-8dfc-53db4ee64caf",
-      "title": "Dutch riders dreaming of crazy party corner of Alpe d'Huez",
-      "link": "https://finance.yahoo.com/m/a94f00c9-01dd-3243-8dfc-53db4ee64caf/dutch-riders-dreaming-of.html",
-      "publisher": "AFP",
-      "time": 1784780524,
+      "id": "41daf974-1a27-388b-8a72-7f734513b61e",
+      "title": "European shares slip after STMicro, Alphabet results weigh on tech stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/european-shares-slip-stmicro-alphabet-071755502.html",
+      "publisher": "Reuters",
+      "time": 1784791075,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "e3fd3839-ec8e-3523-996b-f0f1cb35d251",
+      "title": "Singapore Immigration Consultancy Unveils Redesigned Website With Free PR Readiness Consultation for Over 200,000 Work Pass Holders in Singapore",
+      "link": "https://finance.yahoo.com/small-business/articles/singapore-immigration-consultancy-unveils-redesigned-071700817.html",
+      "publisher": "PR Newswire",
+      "time": 1784791020,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e334cf0a-e5f6-3140-a7a9-304739097f66",
-      "title": "Killer whales: orcas blow fish to bits 'for fun', study finds",
-      "link": "https://finance.yahoo.com/m/e334cf0a-e5f6-3140-a7a9-304739097f66/killer-whales%3A-orcas-blow.html",
-      "publisher": "AFP",
-      "time": 1784780477,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9ca83ef1-e6d6-378b-916a-edec912175a4",
-      "title": "SLB Earnings: What To Look For From SLB",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/slb-earnings-look-slb-042053548.html",
+      "id": "b05c6a47-5913-3de7-87f9-98cf58fb98fa",
+      "title": "1 Profitable Stock to Target This Week and 2 We Ignore",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-target-week-071649474.html",
       "publisher": "StockStory",
-      "time": 1784780453,
+      "time": 1784791009,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "bb199bec-24c1-3cd6-a1b9-e68b28847704",
+      "title": "BE Semiconductor Industries N.V. Announces Q2-26 and H1-26 Results",
+      "link": "https://finance.yahoo.com/technology/articles/semiconductor-industries-n-v-announces-071600996.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784790960,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "5f7292f2-6622-300c-8c20-30609da8ea85",
+      "title": "Casey's General Stores (CASY) After The Proxy Fight And The Fair Value Debate",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/caseys-general-stores-casy-proxy-071334501.html",
+      "publisher": "Simply Wall St.",
+      "time": 1784790814,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e69c5b82-8e14-380c-92d9-d3dcbbf77b3b",
+      "title": "Boston Scientific (BSX) Enrolls First Patients In Global Faraflex AFib Trial",
+      "link": "https://finance.yahoo.com/healthcare/articles/boston-scientific-bsx-enrolls-first-071323627.html",
+      "publisher": "Simply Wall St.",
+      "time": 1784790803,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "158a18df-6f84-3dfb-84ee-80241578dfd9",
+      "title": "Is Domino's Pizza (DPZ) Undervalued After Stronger Than Expected Q2 Revenue?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dominos-pizza-dpz-undervalued-stronger-071256001.html",
+      "publisher": "Simply Wall St.",
+      "time": 1784790776,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b55b813c-9938-3b04-88e9-e73ac67a3703",
+      "title": "Did New HARMONi Survival Data Just Shift Summit Therapeutics' (SMMT) Ivonescimab Investment Narrative?",
+      "link": "https://finance.yahoo.com/healthcare/articles/did-harmoni-survival-data-just-071252979.html",
+      "publisher": "Simply Wall St.",
+      "time": 1784790772,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d515b2ec-e1e6-35ee-89a4-f325ea00d6b8",
+      "title": "Is Axon (AXON) Quietly Recasting Its AI Governance To Reshape Its Public Safety Platform?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/axon-axon-quietly-recasting-ai-071235272.html",
+      "publisher": "Simply Wall St.",
+      "time": 1784790755,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2f82d781-cfbb-36ed-80e7-87c134258a07",
+      "title": "Is MSCI (MSCI) Fully Valued On Higher Expense Guidance After Earnings?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/msci-msci-fully-valued-higher-071159047.html",
+      "publisher": "Simply Wall St.",
+      "time": 1784790719,
       "impact": "medium",
       "tags": [
         "macro",
