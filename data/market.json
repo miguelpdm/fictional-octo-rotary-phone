@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T22:50:59.013303+00:00",
+  "updatedAt": "2026-07-23T23:54:53.313271+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,56 @@
   ],
   "news": [
     {
-      "id": "96fdd7c6-3e7b-334a-a08e-b91b60ced4b6",
-      "title": "Dow Jones Futures: Market Sells Off On Oil Prices, Google, Tesla; Intel Rises Late, SpaceX Starship Launch Due",
-      "link": "https://finance.yahoo.com/m/96fdd7c6-3e7b-334a-a08e-b91b60ced4b6/dow-jones-futures%3A-market.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1784846907,
+      "id": "a6eb6517-8dc4-35de-979c-c5dc747e6a04",
+      "title": "Brazil probe shows severe icing contributed to 2024 plane crash that killed 62",
+      "link": "https://finance.yahoo.com/m/a6eb6517-8dc4-35de-979c-c5dc747e6a04/brazil-probe-shows-severe.html",
+      "publisher": "Associated Press",
+      "time": 1784850379,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7967509f-d1f1-3aff-9271-a8141bbe83e8",
+      "title": "Amazon’s highly rated 2-drawer mini dresser is on sale for just $24",
+      "link": "https://finance.yahoo.com/m/7967509f-d1f1-3aff-9271-a8141bbe83e8/amazon%E2%80%99s-highly-rated.html",
+      "publisher": "TheStreet",
+      "time": 1784850300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cc380ef0-3fed-3965-bd6b-ecd282023b5d",
+      "title": "Provident Financial Holdings Announces Quarterly Cash Dividend",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/provident-financial-holdings-announces-quarterly-234400613.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784850240,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4277e13d-44ec-3907-bf2d-1c08b5d8a03c",
+      "title": "Dodgers return to Trump White House despite fan anger",
+      "link": "https://finance.yahoo.com/m/4277e13d-44ec-3907-bf2d-1c08b5d8a03c/dodgers-return-to-trump-white.html",
+      "publisher": "AFP",
+      "time": 1784850111,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6e548d59-5e41-3bf1-b668-66345d6c6fd5",
+      "title": "Collect $2,000 a Month in Rent and Never Meet a Tenant. These 3 ETFs Handle the Hard Part",
+      "link": "https://finance.yahoo.com/m/6e548d59-5e41-3bf1-b668-66345d6c6fd5/collect-%242%2C000-a-month-in.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1784850055,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "76b818ab-8285-3ce1-be98-92e276acd1e4",
+      "title": "Revolve (RVLV): Buy, Sell, or Hold Post Q1 Earnings?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/revolve-rvlv-buy-sell-hold-234031676.html",
+      "publisher": "StockStory",
+      "time": 1784850031,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,22 +109,11 @@
       ]
     },
     {
-      "id": "0f4af3f2-3cf4-3d77-bce7-3669d39374de",
-      "title": "IMAX (IMAX) Stock Trades Up, Here Is Why",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/imax-imax-stock-trades-why-224431782.html",
-      "publisher": "StockStory",
-      "time": 1784846671,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "23bf3d3c-a15b-38e7-b59d-27b7dd7e6001",
-      "title": "Trive Capital-backed Lyntris reveals revenue jump in US IPO filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/trive-capital-backed-lyntris-reveals-224318625.html",
-      "publisher": "Reuters",
-      "time": 1784846598,
+      "id": "d40c8697-4ef8-3820-910d-ca87e51db46d",
+      "title": "Defense Technology Firm Lyntris Files for US IPO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/defense-technology-firm-lyntris-files-234015005.html",
+      "publisher": "MT Newswires",
+      "time": 1784850015,
       "impact": "medium",
       "tags": [
         "macro",
@@ -87,103 +121,32 @@
       ]
     },
     {
-      "id": "94e1bce1-cea5-3fd1-8c06-4af8013ea44e",
-      "title": "University of the Fraser Valley achieves Gold STARS sustainability rating",
-      "link": "https://finance.yahoo.com/healthcare/articles/university-fraser-valley-achieves-gold-224100942.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784846460,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0baf2b0d-281b-3bd0-be3d-98d2d8a382b7",
-      "title": "US unveils new tariffs on 60 partners as Trump rebuilds trade agenda",
-      "link": "https://finance.yahoo.com/economy/policy/articles/us-trade-envoy-tariff-announcement-163252831.html",
-      "publisher": "AFP",
-      "time": 1784846420,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "cd0d7130-25d0-3bbd-9d45-ec7088719dc2",
-      "title": "Judge temporarily halts Paramount-Warner Bros. Discovery merger",
-      "link": "https://finance.yahoo.com/m/cd0d7130-25d0-3bbd-9d45-ec7088719dc2/judge-temporarily-halts.html",
-      "publisher": "CBS News",
-      "time": 1784846412,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "dc620041-a647-3fd6-9dbd-0839965e0397",
-      "title": "COALITION OF INDEPENDENT INTERNET PROVIDERS ASKS CRTC TO FIX ERRORS IN WHOLESALE FIBRE RATES",
-      "link": "https://finance.yahoo.com/technology/articles/coalition-independent-internet-providers-asks-223900151.html",
-      "publisher": "CNW Group",
-      "time": 1784846340,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c7b22ac9-e572-3430-800f-e0b3264612bb",
-      "title": "Sensient Declares Dividend",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sensient-declares-dividend-223800547.html",
-      "publisher": "Business Wire",
-      "time": 1784846280,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3532d5c4-b34e-34cf-81c3-f3ecab5d22b3",
-      "title": "US vows to punish Iran after Houthis strike tankers",
-      "link": "https://finance.yahoo.com/m/3532d5c4-b34e-34cf-81c3-f3ecab5d22b3/us-vows-to-punish-iran-after.html",
-      "publisher": "AFP",
-      "time": 1784846205,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "30767157-b572-3fdd-82d3-3b74ae395e97",
-      "title": "NVR and Champion Homes Stocks Trade Down, What You Need To Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvr-champion-homes-stocks-trade-223631767.html",
-      "publisher": "StockStory",
-      "time": 1784846191,
+      "id": "0a767a65-d7cf-37da-ac29-658ea79707cb",
+      "title": "Is Tesla’s Earnings Miss and Negative Free Cash Flow a Red Flag for Rivian and Lucid Investors?",
+      "link": "https://finance.yahoo.com/m/0a767a65-d7cf-37da-ac29-658ea79707cb/is-tesla%E2%80%99s-earnings-miss-and.html",
+      "publisher": "Motley Fool",
+      "time": 1784850001,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "0808538c-003e-399f-8ffb-d709d25b3ed2",
-      "title": "Pennsylvania Commercial Insurance Provider Stephany Insurance Earns Erie Insurance Commercial Lines District Sales Award for Second Consecutive Year",
-      "link": "https://finance.yahoo.com/small-business/articles/pennsylvania-commercial-insurance-provider-stephany-223500498.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784846100,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "67335ac0-4fc5-30d8-a37f-fc7f9097fee3",
-      "title": "Records published July 23, 2026",
-      "link": "https://finance.yahoo.com/m/67335ac0-4fc5-30d8-a37f-fc7f9097fee3/records-published-july-23%2C.html",
-      "publisher": "West Central Tribune, Willmar, Minn.",
-      "time": 1784846100,
+      "id": "44487a17-0a90-329c-9712-c300817ae329",
+      "title": "Francisco Partners' $21B haul defies tech PE fundraising chill",
+      "link": "https://finance.yahoo.com/m/44487a17-0a90-329c-9712-c300817ae329/francisco-partners%27-%2421b-haul.html",
+      "publisher": "Pitchbook",
+      "time": 1784849843,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3db7fed7-0b64-3c7f-8206-e3f73212df13",
-      "title": "End of era for LA’s infamous ‘graffiti towers.’ Where project stands",
-      "link": "https://finance.yahoo.com/m/3db7fed7-0b64-3c7f-8206-e3f73212df13/end-of-era-for-la%E2%80%99s-infamous.html",
-      "publisher": "USA TODAY",
-      "time": 1784846064,
+      "id": "a7e13c77-4ee0-3c57-bdda-12c9b7d59c72",
+      "title": "Amazon vs. Microsoft: Which Cloud Empire Is the Better Buy Now?",
+      "link": "https://finance.yahoo.com/m/a7e13c77-4ee0-3c57-bdda-12c9b7d59c72/amazon-vs.-microsoft%3A-which.html",
+      "publisher": "Motley Fool",
+      "time": 1784849700,
       "impact": "low",
       "tags": []
     }
