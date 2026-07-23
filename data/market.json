@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T21:34:12.770635+00:00",
+  "updatedAt": "2026-07-23T22:50:59.013303+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,38 +52,11 @@
   ],
   "news": [
     {
-      "id": "a26e353c-71e8-3f48-82eb-62af5486715e",
-      "title": "Almonty to Voluntarily Delist From ASX",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/almonty-voluntarily-delist-asx-213000918.html",
-      "publisher": "Business Wire",
-      "time": 1784842200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "86db07b7-b604-3111-ab21-15984c083310",
-      "title": "IC Group Announces Exclusive Partnership to Expand Community Sports Engagement Across North America",
-      "link": "https://finance.yahoo.com/media-advertising/articles/ic-group-announces-exclusive-partnership-212800048.html",
-      "publisher": "TMX Newsfile",
-      "time": 1784842080,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f5811de0-b092-3394-ab23-51baecfc02d1",
-      "title": "AMD, Arm gain after hours following blowout results from Intel",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-arm-gain-hours-following-212750145.html",
-      "publisher": "Investing.com",
-      "time": 1784842070,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "92b4db45-0f0a-37f7-aaa6-ed482620a367",
-      "title": "Intel Stock Jumps On Chipmaker's Big Q2 Earnings Beat",
-      "link": "https://finance.yahoo.com/m/92b4db45-0f0a-37f7-aaa6-ed482620a367/intel-stock-jumps-on.html",
+      "id": "96fdd7c6-3e7b-334a-a08e-b91b60ced4b6",
+      "title": "Dow Jones Futures: Market Sells Off On Oil Prices, Google, Tesla; Intel Rises Late, SpaceX Starship Launch Due",
+      "link": "https://finance.yahoo.com/m/96fdd7c6-3e7b-334a-a08e-b91b60ced4b6/dow-jones-futures%3A-market.html",
       "publisher": "Investor's Business Daily",
-      "time": 1784842033,
+      "time": 1784846907,
       "impact": "medium",
       "tags": [
         "macro",
@@ -91,98 +64,22 @@
       ]
     },
     {
-      "id": "d6171993-c937-36cf-80a3-26ca04b725f1",
-      "title": "NACD North Texas Announces New Chapter Officers and Board Member for 2026–2027",
-      "link": "https://finance.yahoo.com/small-business/articles/nacd-north-texas-announces-chapter-212700977.html",
-      "publisher": "Business Wire",
-      "time": 1784842020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b46f7397-35e1-39f7-8323-8109f9c68021",
-      "title": "Ovintiv Q2 Adjusted Earnings Rise",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ovintiv-q2-adjusted-earnings-rise-212626361.html",
-      "publisher": "MT Newswires",
-      "time": 1784841986,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "99e29825-292c-3cee-81d4-36efb3ed2db1",
-      "title": "Defense Department Awards Oracle $7 Billion Contract",
-      "link": "https://finance.yahoo.com/m/99e29825-292c-3cee-81d4-36efb3ed2db1/defense-department-awards.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1784841985,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "b31d80c3-e8d8-3e34-a5a0-432d4242f6eb",
-      "title": "Ovintiv Posts Higher Q2 Earnings; Full-year Production Outlook Lifted",
-      "link": "https://finance.yahoo.com/energy/articles/ovintiv-posts-higher-q2-earnings-212610203.html",
-      "publisher": "MT Newswires",
-      "time": 1784841970,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "4cafd3cd-5862-303c-8ec9-a4b86a1d3329",
-      "title": "Prediction: $1,000 Invested in SpaceX Stock Will Be Worth This Amount in 3 Years",
-      "link": "https://finance.yahoo.com/m/4cafd3cd-5862-303c-8ec9-a4b86a1d3329/prediction%3A-%241%2C000-invested.html",
-      "publisher": "Motley Fool",
-      "time": 1784841900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7bf99898-3926-3d66-8fed-e435813bbf57",
-      "title": "U.S. Stocks Slide as Oil Hits $100, While Tech Selloff Deepens",
-      "link": "https://finance.yahoo.com/m/7bf99898-3926-3d66-8fed-e435813bbf57/u.s.-stocks-slide-as-oil-hits.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1784841900,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "cbb42710-ff17-3cff-b5c8-3ba665ca8679",
-      "title": "VELMENI Receives FDA 510(k) Clearance for AI-Powered 3D CBCT Dental Imaging Software",
-      "link": "https://finance.yahoo.com/healthcare/articles/velmeni-receives-fda-510-k-212500425.html",
-      "publisher": "PR Newswire",
-      "time": 1784841900,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "46fcd9fd-121c-366a-8aee-83b78906eb52",
-      "title": "Logitech Publishes Annual Report for Fiscal Year 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/logitech-publishes-annual-report-fiscal-212500978.html",
-      "publisher": "Business Wire",
-      "time": 1784841900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a22b4341-351e-3650-b3ca-1be73d283d88",
-      "title": "TaskUs (TASK): Buy, Sell, or Hold Post Q1 Earnings?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/taskus-task-buy-sell-hold-212431216.html",
+      "id": "0f4af3f2-3cf4-3d77-bce7-3669d39374de",
+      "title": "IMAX (IMAX) Stock Trades Up, Here Is Why",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/imax-imax-stock-trades-why-224431782.html",
       "publisher": "StockStory",
-      "time": 1784841871,
+      "time": 1784846671,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "23bf3d3c-a15b-38e7-b59d-27b7dd7e6001",
+      "title": "Trive Capital-backed Lyntris reveals revenue jump in US IPO filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trive-capital-backed-lyntris-reveals-224318625.html",
+      "publisher": "Reuters",
+      "time": 1784846598,
       "impact": "medium",
       "tags": [
         "macro",
@@ -190,16 +87,105 @@
       ]
     },
     {
-      "id": "5b0d087c-df5e-3d62-95f0-501add8a7035",
-      "title": "Scholastic Fiscal Q4 Adjusted Earnings Rise, Revenue Declines",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/scholastic-fiscal-q4-adjusted-earnings-212408421.html",
-      "publisher": "MT Newswires",
-      "time": 1784841848,
+      "id": "94e1bce1-cea5-3fd1-8c06-4af8013ea44e",
+      "title": "University of the Fraser Valley achieves Gold STARS sustainability rating",
+      "link": "https://finance.yahoo.com/healthcare/articles/university-fraser-valley-achieves-gold-224100942.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784846460,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0baf2b0d-281b-3bd0-be3d-98d2d8a382b7",
+      "title": "US unveils new tariffs on 60 partners as Trump rebuilds trade agenda",
+      "link": "https://finance.yahoo.com/economy/policy/articles/us-trade-envoy-tariff-announcement-163252831.html",
+      "publisher": "AFP",
+      "time": 1784846420,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "cd0d7130-25d0-3bbd-9d45-ec7088719dc2",
+      "title": "Judge temporarily halts Paramount-Warner Bros. Discovery merger",
+      "link": "https://finance.yahoo.com/m/cd0d7130-25d0-3bbd-9d45-ec7088719dc2/judge-temporarily-halts.html",
+      "publisher": "CBS News",
+      "time": 1784846412,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "dc620041-a647-3fd6-9dbd-0839965e0397",
+      "title": "COALITION OF INDEPENDENT INTERNET PROVIDERS ASKS CRTC TO FIX ERRORS IN WHOLESALE FIBRE RATES",
+      "link": "https://finance.yahoo.com/technology/articles/coalition-independent-internet-providers-asks-223900151.html",
+      "publisher": "CNW Group",
+      "time": 1784846340,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c7b22ac9-e572-3430-800f-e0b3264612bb",
+      "title": "Sensient Declares Dividend",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sensient-declares-dividend-223800547.html",
+      "publisher": "Business Wire",
+      "time": 1784846280,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3532d5c4-b34e-34cf-81c3-f3ecab5d22b3",
+      "title": "US vows to punish Iran after Houthis strike tankers",
+      "link": "https://finance.yahoo.com/m/3532d5c4-b34e-34cf-81c3-f3ecab5d22b3/us-vows-to-punish-iran-after.html",
+      "publisher": "AFP",
+      "time": 1784846205,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "30767157-b572-3fdd-82d3-3b74ae395e97",
+      "title": "NVR and Champion Homes Stocks Trade Down, What You Need To Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvr-champion-homes-stocks-trade-223631767.html",
+      "publisher": "StockStory",
+      "time": 1784846191,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
+    },
+    {
+      "id": "0808538c-003e-399f-8ffb-d709d25b3ed2",
+      "title": "Pennsylvania Commercial Insurance Provider Stephany Insurance Earns Erie Insurance Commercial Lines District Sales Award for Second Consecutive Year",
+      "link": "https://finance.yahoo.com/small-business/articles/pennsylvania-commercial-insurance-provider-stephany-223500498.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784846100,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "67335ac0-4fc5-30d8-a37f-fc7f9097fee3",
+      "title": "Records published July 23, 2026",
+      "link": "https://finance.yahoo.com/m/67335ac0-4fc5-30d8-a37f-fc7f9097fee3/records-published-july-23%2C.html",
+      "publisher": "West Central Tribune, Willmar, Minn.",
+      "time": 1784846100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3db7fed7-0b64-3c7f-8206-e3f73212df13",
+      "title": "End of era for LA’s infamous ‘graffiti towers.’ Where project stands",
+      "link": "https://finance.yahoo.com/m/3db7fed7-0b64-3c7f-8206-e3f73212df13/end-of-era-for-la%E2%80%99s-infamous.html",
+      "publisher": "USA TODAY",
+      "time": 1784846064,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
