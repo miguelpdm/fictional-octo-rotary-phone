@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T18:55:17.558269+00:00",
+  "updatedAt": "2026-07-24T20:15:40.429161+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7405.27,
-      "change": -93.6899999999996,
-      "changePct": -1.2493732464234988,
+      "price": 7411.98,
+      "change": -86.98000000000047,
+      "changePct": -1.1598941719918558,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 24978.355,
-      "change": -712.5450000000019,
-      "changePct": -2.7735307054248852,
+      "price": 24975.824,
+      "change": -715.0760000000009,
+      "changePct": -2.7833824428104927,
       "currency": "USD"
     },
     {
@@ -44,114 +44,42 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.8,
-      "change": 0.10000000000000142,
-      "changePct": 0.5347593582887776,
+      "price": 18.56,
+      "change": -0.14000000000000057,
+      "changePct": -0.7486631016042812,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "8d049922-1d2c-3842-808a-b2786c6e501c",
-      "title": "Samsung, SK Hynix Prepare Major AI Deals as $880 Billion Plan Advances",
-      "link": "https://finance.yahoo.com/technology/ai/articles/samsung-sk-hynix-prepare-major-185441252.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784919281,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0eaaceb8-ef6a-3251-9638-b471d54b49c0",
-      "title": "Travelers' 30% Rally Triggers Wave of Wall Street Downgrades",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/travelers-30-rally-triggers-wave-185234592.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784919154,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8fe84b2b-4329-3377-96df-dce290c9a0f2",
-      "title": "Verizon Stock Rises as Q2 Beats, AI Deals Could Add Billions in Revenue",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/verizon-stock-rises-q2-beats-185131402.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784919091,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6836a894-9380-3433-bacc-42cb2f5eec0e",
-      "title": "LaPlaya Beach & Golf Resort Splashes Into Summer with Draper James and POLYWOOD Partnership",
-      "link": "https://finance.yahoo.com/media-advertising/articles/laplaya-beach-golf-resort-splashes-185100062.html",
-      "publisher": "PR Newswire",
-      "time": 1784919060,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1cc0c38b-78ac-32bd-8c4b-d549070de15b",
-      "title": "AMD Draws Analyst Praise After Bullish AI Event",
-      "link": "https://finance.yahoo.com/technology/ai/articles/amd-draws-analyst-praise-bullish-185005907.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784919005,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "56d55ecf-b020-3f95-b38a-b3c4d8ed91d2",
-      "title": "Viking Mergers & Acquisitions Accelerates Florida Growth Strategy",
-      "link": "https://finance.yahoo.com/small-business/articles/viking-mergers-acquisitions-accelerates-florida-185000170.html",
-      "publisher": "PR Newswire",
-      "time": 1784919000,
-      "impact": "medium",
+      "id": "1c0f1aeb-a6d4-3bf4-897c-784f7d7b161e",
+      "title": "Paramount agrees to delay closing its Warner Bros. buyout for months, while judge considers challenge from 12 states",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/paramount-agrees-delay-closing-warner-201120590.html",
+      "publisher": "Associated Press",
+      "time": 1784923880,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "ae25fd39-917e-32be-8bee-3b68dc1cef46",
-      "title": "2 Reasons to Like BBSI (and 1 Not So Much)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-bbsi-1-not-184908694.html",
+      "id": "b1f5218d-dfc0-3f2d-ba75-228b8244d1a7",
+      "title": "3 Reasons UAA is Risky and 1 Stock to Buy Instead",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-uaa-risky-1-200908799.html",
       "publisher": "StockStory",
-      "time": 1784918948,
+      "time": 1784923748,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "eb4aa763-398f-386e-841e-e03500e27530",
-      "title": "Yen records biggest weekly drop in over two months, dollar climbs for the week",
-      "link": "https://finance.yahoo.com/news/dollar-rides-yield-surge-middle-005503376.html",
-      "publisher": "Reuters",
-      "time": 1784918942,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "80ffe507-d6d0-3bb2-a491-1c8364364a42",
-      "title": "NVIDIA, Microsoft Lead Push for Open AI Models After Kimi K3 Launch",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-microsoft-lead-push-open-184846210.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784918926,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b77428b4-a78a-3422-908b-68ad90711173",
-      "title": "Intel Wins Over Analysts, But Not Everyone Is Buying",
-      "link": "https://finance.yahoo.com/technology/articles/intel-wins-over-analysts-not-184802459.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784918882,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0811ab59-dafc-314c-91c3-abd97b1be680",
-      "title": "This Optical Networking Stock Has Soared This Year. Why It Fell After Strong Earnings.",
-      "link": "https://finance.yahoo.com/m/0811ab59-dafc-314c-91c3-abd97b1be680/this-optical-networking-stock.html",
-      "publisher": "Barrons.com",
-      "time": 1784918820,
+      "id": "9af6a5a3-b2a7-3dd5-8c3e-87a50f6668c0",
+      "title": "MetroCity: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/metrocity-q2-earnings-snapshot-200627792.html",
+      "publisher": "Associated Press",
+      "time": 1784923587,
       "impact": "medium",
       "tags": [
         "macro",
@@ -159,43 +87,88 @@
       ]
     },
     {
-      "id": "8dc4cf6f-ef61-3199-bc9b-07cae3c65d7a",
-      "title": "Tesla Avoids Door Safety Probe, But New Rules Could Follow",
-      "link": "https://finance.yahoo.com/m/8dc4cf6f-ef61-3199-bc9b-07cae3c65d7a/tesla-avoids-door-safety.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784918785,
+      "id": "12f987ae-a3d9-401e-96f8-3b0effefe44e",
+      "title": "Lebron James is coming to Philadelphia, signing two-year deal with 76ers",
+      "link": "https://finance.yahoo.com/video/lebron-james-is-coming-to-philadelphia-signing-two-year-deal-with-76ers-200500886.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1784923500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "65f994b5-96cf-3949-8824-79b8b831d3c0",
-      "title": "Scribe Therapeutics Soars 67% After $128.7 Million Upsized IPO",
-      "link": "https://finance.yahoo.com/healthcare/articles/scribe-therapeutics-soars-67-128-184519224.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784918719,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "ee0e6183-c4ce-3486-ba3d-bea45a3e3943",
-      "title": "Why Lockheed Martin Stock Keeps Going Up",
-      "link": "https://finance.yahoo.com/m/ee0e6183-c4ce-3486-ba3d-bea45a3e3943/why-lockheed-martin-stock.html",
-      "publisher": "Motley Fool",
-      "time": 1784918641,
+      "id": "18ac6388-6b2c-30d3-8e3b-7541ca9afa60",
+      "title": "Cadbury brand Dairy Milk Oreo Candy (bar) recalled due to undeclared pistachio",
+      "link": "https://finance.yahoo.com/healthcare/articles/cadbury-brand-dairy-milk-oreo-200500656.html",
+      "publisher": "CNW Group",
+      "time": 1784923500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5e97d511-e155-329e-8e2f-62458b3214cf",
-      "title": "Jefferies Cuts Summit Therapeutics Price Target to $15 From $17, Hold Rating Kept",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-cuts-summit-therapeutics-price-184346815.html",
+      "id": "d6555f9b-bf59-3188-94f1-3c8511f4a2ca",
+      "title": "Paramount Skydance Corporation Announces Extension of Expiration Dates of Previously Announced Exchange Offers and Tender Offers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/paramount-skydance-corporation-announces-extension-200500946.html",
+      "publisher": "PR Newswire",
+      "time": 1784923500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a8cddb52-67fe-3bfa-950d-d14a4bf9984f",
+      "title": "Findev Inc. Announces CCAA Proceedings Involving 1682 Victoria Park Avenue Inc. and Related Party Subordination Arrangement",
+      "link": "https://finance.yahoo.com/real-estate/articles/findev-inc-announces-ccaa-proceedings-200500775.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1784923500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ea3e3c32-93e1-35d4-96b5-60af608e2315",
+      "title": "Top Cryptocurrencies Fall; Bitcoin Holds Above $64,000",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/top-cryptocurrencies-fall-bitcoin-holds-200416069.html",
       "publisher": "MT Newswires",
-      "time": 1784918626,
+      "time": 1784923456,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "68d89af1-c7e0-376c-84d3-0efd3f44d70b",
+      "title": "This satellite image of a 'hummingbird' isn't what you think",
+      "link": "https://finance.yahoo.com/m/68d89af1-c7e0-376c-84d3-0efd3f44d70b/this-satellite-image-of-a.html",
+      "publisher": "USA TODAY",
+      "time": 1784923391,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1f1dd57c-ed37-32f5-8590-45315fbb657c",
+      "title": "Aptos climbs to the top 4 blockchains in transaction count",
+      "link": "https://finance.yahoo.com/m/1f1dd57c-ed37-32f5-8590-45315fbb657c/aptos-climbs-to-the-top-4.html",
+      "publisher": "TheStreet",
+      "time": 1784923380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "eeda680f-1de1-3638-adc5-5fd9c8388a84",
+      "title": "Investing $5,000 in SCHD Now Could Generate Serious Passive Income Over 20 Years",
+      "link": "https://finance.yahoo.com/m/eeda680f-1de1-3638-adc5-5fd9c8388a84/investing-%245%2C000-in-schd-now.html",
+      "publisher": "Motley Fool",
+      "time": 1784923380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c22a0857-d6dd-338b-a987-8bdd74e95429",
+      "title": "Grupo Televisa Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/c22a0857-d6dd-338b-a987-8bdd74e95429/grupo-televisa-q2-earnings.html",
+      "publisher": "MarketBeat",
+      "time": 1784923319,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
