@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T02:05:13.509561+00:00",
+  "updatedAt": "2026-07-24T05:34:27.203326+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,20 @@
   ],
   "news": [
     {
-      "id": "8a4ef4e1-4bc6-3181-8402-2a80958253fb",
-      "title": "Matador Expands Delaware Basin With $1.28 Billion Paloma Acquisition",
-      "link": "https://finance.yahoo.com/energy/articles/matador-expands-delaware-basin-1-020000803.html",
-      "publisher": "Oilprice.com",
-      "time": 1784858400,
+      "id": "5d0be847-ec49-3d61-8447-8d60ef95401e",
+      "title": "Vitura: First-half 2026 Results",
+      "link": "https://finance.yahoo.com/real-estate/articles/vitura-first-half-2026-results-053000326.html",
+      "publisher": "Business Wire",
+      "time": 1784871000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "987fa1f4-f2ca-35bd-b08b-020d5d9b549b",
+      "title": "US imposes new tariffs on dozens of countries over 'forced labour' claims",
+      "link": "https://finance.yahoo.com/m/987fa1f4-f2ca-35bd-b08b-020d5d9b549b/us-imposes-new-tariffs-on.html",
+      "publisher": "Euronews",
+      "time": 1784870572,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,107 +73,78 @@
       ]
     },
     {
-      "id": "2f976c89-09cf-3c6a-9f8d-2d23598dcc6f",
-      "title": "Trump under pressure from all sides over Chinese AI surge",
-      "link": "https://finance.yahoo.com/m/2f976c89-09cf-3c6a-9f8d-2d23598dcc6f/trump-under-pressure-from-all.html",
+      "id": "a3d1fb38-c8fc-317f-89db-458015c9b69a",
+      "title": "India protest leaders to meet govt after Modi vows action",
+      "link": "https://finance.yahoo.com/m/a3d1fb38-c8fc-317f-89db-458015c9b69a/india-protest-leaders-to-meet.html",
       "publisher": "AFP",
-      "time": 1784857946,
+      "time": 1784870555,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "96fdd7c6-3e7b-334a-a08e-b91b60ced4b6",
-      "title": "Dow Jones Futures: Market Sells Off On Oil Prices, Google, Tesla; Intel Jumps Late",
-      "link": "https://finance.yahoo.com/m/96fdd7c6-3e7b-334a-a08e-b91b60ced4b6/dow-jones-futures%3A-market.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1784857875,
-      "impact": "medium",
+      "id": "8ca69bce-d8f7-3dc3-9d22-c01a98a2e528",
+      "title": "Chengdu's Magnetic Appeal Through the Lens of APEC Digital Week",
+      "link": "https://finance.yahoo.com/technology/ai/articles/chengdus-magnetic-appeal-lens-apec-052200688.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784870520,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "46fbb22e-b370-386d-8512-0ed4b8d6d72f",
+      "title": "2 Vanguard ETFs Built to Thrive as Big Tech Loses Its Market Grip",
+      "link": "https://finance.yahoo.com/m/46fbb22e-b370-386d-8512-0ed4b8d6d72f/2-vanguard-etfs-built-to.html",
+      "publisher": "Motley Fool",
+      "time": 1784870400,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "399027a7-d1fc-3c34-80bc-da8cac1621ca",
-      "title": "IMAX Corp (IMAX) Rockets 11.86% on Earnings Beat, H2 Optimism",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/imax-corp-imax-rockets-11-014804578.html",
-      "publisher": "Insider Monkey",
-      "time": 1784857684,
-      "impact": "medium",
+      "id": "1cd21e7e-8ebe-3199-a07d-4e9f4597521f",
+      "title": "India's Coforge secures over $230 million AI transformation contract with European client",
+      "link": "https://finance.yahoo.com/technology/ai/articles/indias-coforge-secures-over-230-051937063.html",
+      "publisher": "Reuters",
+      "time": 1784870377,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a073a26d-d1e4-3ccc-a0ae-5ba418ba6862",
+      "title": "Why Is The Crypto Market Up Today?",
+      "link": "https://finance.yahoo.com/m/a073a26d-d1e4-3ccc-a0ae-5ba418ba6862/why-is-the-crypto-market-up.html",
+      "publisher": "BeInCrypto",
+      "time": 1784870356,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "9121ce0a-111c-3d9c-a468-2033bc7f82e4",
-      "title": "MaxsMaking Inc. Announces Receipt of Nasdaq Delisting Determination Notice",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/maxsmaking-inc-announces-receipt-nasdaq-014700620.html",
+      "id": "5ca4e49e-733c-3e34-83d6-e764186fba70",
+      "title": "Fractal posts 20% revenue growth and 92% net income growth in Q1 FY27",
+      "link": "https://finance.yahoo.com/technology/ai/articles/fractal-posts-20-revenue-growth-051900920.html",
       "publisher": "PR Newswire",
-      "time": 1784857620,
+      "time": 1784870340,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6300c69e-a881-3d44-8bda-30a71950ece8",
-      "title": "Is 'superstar' Pogacar's Tour de France domination boring?",
-      "link": "https://finance.yahoo.com/m/6300c69e-a881-3d44-8bda-30a71950ece8/is-%27superstar%27-pogacar%27s-tour.html",
-      "publisher": "AFP",
-      "time": 1784857618,
+      "id": "30240321-c27e-3459-bac1-85c26ddd258d",
+      "title": "How Investors May Respond To Energy Transfer (ET) Boosting EBITDA Outlook and Affirming Preferred Cash Payouts",
+      "link": "https://finance.yahoo.com/energy/articles/investors-may-respond-energy-transfer-051453245.html",
+      "publisher": "Simply Wall St.",
+      "time": 1784870093,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "40fee23f-127e-33bc-9a94-ba03dd3a407f",
-      "title": "ICC member states decide fate of embattled prosecutor Karim Khan",
-      "link": "https://finance.yahoo.com/m/40fee23f-127e-33bc-9a94-ba03dd3a407f/icc-member-states-decide-fate.html",
-      "publisher": "AFP",
-      "time": 1784857541,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "22a95b18-4eec-3e53-b539-b552394ba03a",
-      "title": "Valley National Bancorp (VLY) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/22a95b18-4eec-3e53-b539-b552394ba03a/valley-national-bancorp-%28vly%29.html",
-      "publisher": "Motley Fool",
-      "time": 1784857476,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "884d6083-7af8-337f-9e00-f318e8c6e00a",
-      "title": "Albertsons (ACI) Q1 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/884d6083-7af8-337f-9e00-f318e8c6e00a/albertsons-%28aci%29-q1-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1784857476,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "bd3fc93d-2f58-36c8-b170-68524a8e62c5",
-      "title": "S&T Bancorp (STBA) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/bd3fc93d-2f58-36c8-b170-68524a8e62c5/s%26t-bancorp-%28stba%29-q2-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1784857476,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "d6abc678-9b37-38b5-b4e6-487d1f54dfb1",
-      "title": "Boyd Gaming (BYD) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/d6abc678-9b37-38b5-b4e6-487d1f54dfb1/boyd-gaming-%28byd%29-q2-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1784857476,
+      "id": "a5b0a489-af27-3edb-b867-9dd8ff494b3d",
+      "title": "Moody's (MCO) Earnings Beat Puts Valuation Back In Focus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/moodys-mco-earnings-beat-puts-051442341.html",
+      "publisher": "Simply Wall St.",
+      "time": 1784870082,
       "impact": "medium",
       "tags": [
         "macro",
