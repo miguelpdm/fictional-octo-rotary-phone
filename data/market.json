@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-24T05:34:27.203326+00:00",
+  "updatedAt": "2026-07-24T08:14:31.980447+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19267.0,
-      "change": -304.2999999999993,
-      "changePct": -1.554827732444954,
+      "price": 19406.9,
+      "change": 139.90000000000146,
+      "changePct": 0.7261120049826203,
       "currency": "EUR"
     },
     {
@@ -28,44 +28,80 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 24763.12,
-      "change": -248.22999999999956,
-      "changePct": -0.992469418883825,
+      "price": 24886.0,
+      "change": -269.40999999999985,
+      "changePct": -1.0709823453483758,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6210.17,
-      "change": -106.81999999999971,
-      "changePct": -1.690995236655428,
+      "price": 6239.58,
+      "change": 29.409999999999854,
+      "changePct": 0.4735780179930638,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.7,
-      "change": 2.0599999999999987,
-      "changePct": 12.379807692307685,
+      "price": 18.87,
+      "change": 0.1700000000000017,
+      "changePct": 0.9090909090909183,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "5d0be847-ec49-3d61-8447-8d60ef95401e",
-      "title": "Vitura: First-half 2026 Results",
-      "link": "https://finance.yahoo.com/real-estate/articles/vitura-first-half-2026-results-053000326.html",
-      "publisher": "Business Wire",
-      "time": 1784871000,
+      "id": "e0ccc928-2a90-33dd-a683-4cd4ce9b1a93",
+      "title": "Samsara Insider Sold Shares Worth $9,534,065, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/samsara-insider-sold-shares-worth-080225011.html",
+      "publisher": "MT Newswires",
+      "time": 1784880145,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "987fa1f4-f2ca-35bd-b08b-020d5d9b549b",
-      "title": "US imposes new tariffs on dozens of countries over 'forced labour' claims",
-      "link": "https://finance.yahoo.com/m/987fa1f4-f2ca-35bd-b08b-020d5d9b549b/us-imposes-new-tariffs-on.html",
-      "publisher": "Euronews",
-      "time": 1784870572,
+      "id": "25a9b70a-9601-36f6-80ef-980084fd0a25",
+      "title": "Comsysto Reply Supports Audi in Evolving Its B2B Used Car Platform With an AI-Based Multi-Agent System",
+      "link": "https://finance.yahoo.com/technology/ai/articles/comsysto-reply-supports-audi-evolving-080000781.html",
+      "publisher": "Business Wire",
+      "time": 1784880000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3e5ea2fe-ca16-3cf4-8f2a-2d266771ab64",
+      "title": "CSTS Leaders Appointed to HKGCC Committees",
+      "link": "https://finance.yahoo.com/economy/articles/csts-leaders-appointed-hkgcc-committees-080000180.html",
+      "publisher": "PR Newswire",
+      "time": 1784880000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "52419381-cccd-3536-ae14-35fc40a1f050",
+      "title": "Swiss Firms Seek Managed Security as AI Risks Rise",
+      "link": "https://finance.yahoo.com/technology/ai/articles/swiss-firms-seek-managed-security-080000168.html",
+      "publisher": "Business Wire",
+      "time": 1784880000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5430042b-9a2f-3308-b297-036b4e91820e",
+      "title": "Dr Mark Kohout Plastic Surgeon Announces Enhanced Patient Education and Consultation Framework to Strengthen Surgical Transparency and Long Term Care",
+      "link": "https://finance.yahoo.com/healthcare/articles/dr-mark-kohout-plastic-surgeon-080000350.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1784880000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "77b6d682-ae21-34f1-9add-3190fd456f77",
+      "title": "Beko Publishes 2025 Integrated Report, Charting Years of Progress Toward Net Zero",
+      "link": "https://finance.yahoo.com/technology/articles/beko-publishes-2025-integrated-report-080000255.html",
+      "publisher": "CNW Group",
+      "time": 1784880000,
       "impact": "high",
       "tags": [
         "geo",
@@ -73,83 +109,46 @@
       ]
     },
     {
-      "id": "a3d1fb38-c8fc-317f-89db-458015c9b69a",
-      "title": "India protest leaders to meet govt after Modi vows action",
-      "link": "https://finance.yahoo.com/m/a3d1fb38-c8fc-317f-89db-458015c9b69a/india-protest-leaders-to-meet.html",
-      "publisher": "AFP",
-      "time": 1784870555,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8ca69bce-d8f7-3dc3-9d22-c01a98a2e528",
-      "title": "Chengdu's Magnetic Appeal Through the Lens of APEC Digital Week",
-      "link": "https://finance.yahoo.com/technology/ai/articles/chengdus-magnetic-appeal-lens-apec-052200688.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784870520,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "46fbb22e-b370-386d-8512-0ed4b8d6d72f",
-      "title": "2 Vanguard ETFs Built to Thrive as Big Tech Loses Its Market Grip",
-      "link": "https://finance.yahoo.com/m/46fbb22e-b370-386d-8512-0ed4b8d6d72f/2-vanguard-etfs-built-to.html",
-      "publisher": "Motley Fool",
-      "time": 1784870400,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "1cd21e7e-8ebe-3199-a07d-4e9f4597521f",
-      "title": "India's Coforge secures over $230 million AI transformation contract with European client",
-      "link": "https://finance.yahoo.com/technology/ai/articles/indias-coforge-secures-over-230-051937063.html",
-      "publisher": "Reuters",
-      "time": 1784870377,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a073a26d-d1e4-3ccc-a0ae-5ba418ba6862",
-      "title": "Why Is The Crypto Market Up Today?",
-      "link": "https://finance.yahoo.com/m/a073a26d-d1e4-3ccc-a0ae-5ba418ba6862/why-is-the-crypto-market-up.html",
-      "publisher": "BeInCrypto",
-      "time": 1784870356,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "5ca4e49e-733c-3e34-83d6-e764186fba70",
-      "title": "Fractal posts 20% revenue growth and 92% net income growth in Q1 FY27",
-      "link": "https://finance.yahoo.com/technology/ai/articles/fractal-posts-20-revenue-growth-051900920.html",
-      "publisher": "PR Newswire",
-      "time": 1784870340,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "30240321-c27e-3459-bac1-85c26ddd258d",
-      "title": "How Investors May Respond To Energy Transfer (ET) Boosting EBITDA Outlook and Affirming Preferred Cash Payouts",
-      "link": "https://finance.yahoo.com/energy/articles/investors-may-respond-energy-transfer-051453245.html",
-      "publisher": "Simply Wall St.",
-      "time": 1784870093,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a5b0a489-af27-3edb-b867-9dd8ff494b3d",
-      "title": "Moody's (MCO) Earnings Beat Puts Valuation Back In Focus",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/moodys-mco-earnings-beat-puts-051442341.html",
-      "publisher": "Simply Wall St.",
-      "time": 1784870082,
+      "id": "997e0704-2b91-3f8d-8d64-982a67ec9184",
+      "title": "Morgan Stanley Real Estate Investing Announces Acquisition of French Logistics Portfolio of Five Assets",
+      "link": "https://finance.yahoo.com/real-estate/articles/morgan-stanley-real-estate-investing-080000268.html",
+      "publisher": "Business Wire",
+      "time": 1784880000,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
+    },
+    {
+      "id": "e3cfb81e-7eb6-3e8d-a113-4528468171aa",
+      "title": "Silver Pony Announces Final CSE Approval, Resumption of Trading, and the Official Launch of 2026 Drilling Having Commenced at the Company's Primary High-Grade Silver Targets",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/silver-pony-announces-final-cse-080000650.html",
+      "publisher": "TMX Newsfile",
+      "time": 1784880000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4d2c1f15-a300-3823-a896-d3ed90681704",
+      "title": "Ukraine hits 'Russia's Amazon' warehouses outside St Petersburg",
+      "link": "https://finance.yahoo.com/m/4d2c1f15-a300-3823-a896-d3ed90681704/ukraine-hits-%27russia%27s.html",
+      "publisher": "AFP",
+      "time": 1784879935,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "2f861684-9da7-3607-aacc-48067c6101e8",
+      "title": "Aukera - India's solitaire experts, now in Chennai",
+      "link": "https://finance.yahoo.com/small-business/articles/aukera-indias-solitaire-experts-now-075800576.html",
+      "publisher": "PR Newswire",
+      "time": 1784879880,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
