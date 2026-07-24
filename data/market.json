@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T17:24:02.339040+00:00",
+  "updatedAt": "2026-07-24T18:55:17.558269+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7433.87,
-      "change": -65.09000000000015,
-      "changePct": -0.8679870275344868,
+      "price": 7405.27,
+      "change": -93.6899999999996,
+      "changePct": -1.2493732464234988,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25103.66,
-      "change": -587.2400000000016,
-      "changePct": -2.2857899100459758,
+      "price": 24978.355,
+      "change": -712.5450000000019,
+      "changePct": -2.7735307054248852,
       "currency": "USD"
     },
     {
@@ -44,19 +44,64 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.19,
-      "change": -0.509999999999998,
-      "changePct": -2.727272727272717,
+      "price": 18.8,
+      "change": 0.10000000000000142,
+      "changePct": 0.5347593582887776,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "08e90f14-cb3f-316d-bf58-62e286a51951",
-      "title": "Mbanq secures inaugural institutional funding investment",
-      "link": "https://finance.yahoo.com/m/08e90f14-cb3f-316d-bf58-62e286a51951/mbanq-secures-inaugural.html",
-      "publisher": "Retail Banker International",
-      "time": 1784913393,
+      "id": "8d049922-1d2c-3842-808a-b2786c6e501c",
+      "title": "Samsung, SK Hynix Prepare Major AI Deals as $880 Billion Plan Advances",
+      "link": "https://finance.yahoo.com/technology/ai/articles/samsung-sk-hynix-prepare-major-185441252.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784919281,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0eaaceb8-ef6a-3251-9638-b471d54b49c0",
+      "title": "Travelers' 30% Rally Triggers Wave of Wall Street Downgrades",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/travelers-30-rally-triggers-wave-185234592.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784919154,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8fe84b2b-4329-3377-96df-dce290c9a0f2",
+      "title": "Verizon Stock Rises as Q2 Beats, AI Deals Could Add Billions in Revenue",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/verizon-stock-rises-q2-beats-185131402.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784919091,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6836a894-9380-3433-bacc-42cb2f5eec0e",
+      "title": "LaPlaya Beach & Golf Resort Splashes Into Summer with Draper James and POLYWOOD Partnership",
+      "link": "https://finance.yahoo.com/media-advertising/articles/laplaya-beach-golf-resort-splashes-185100062.html",
+      "publisher": "PR Newswire",
+      "time": 1784919060,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1cc0c38b-78ac-32bd-8c4b-d549070de15b",
+      "title": "AMD Draws Analyst Praise After Bullish AI Event",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amd-draws-analyst-praise-bullish-185005907.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784919005,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "56d55ecf-b020-3f95-b38a-b3c4d8ed91d2",
+      "title": "Viking Mergers & Acquisitions Accelerates Florida Growth Strategy",
+      "link": "https://finance.yahoo.com/small-business/articles/viking-mergers-acquisitions-accelerates-florida-185000170.html",
+      "publisher": "PR Newswire",
+      "time": 1784919000,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,93 +109,93 @@
       ]
     },
     {
-      "id": "1ebea110-4f3a-3b05-ad4c-a91f15a351bd",
-      "title": "Aerospace fights for young recruits as AI drains talent pool",
-      "link": "https://finance.yahoo.com/technology/articles/aerospace-fights-young-recruits-ai-171519181.html",
-      "publisher": "Reuters",
-      "time": 1784913319,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "15a52110-5169-3c39-8d87-b58eefd8c6b3",
-      "title": "Global Bond Yields Hit Highest Since 2008 as Brent Surges Above $100",
-      "link": "https://finance.yahoo.com/economy/policy/articles/global-bond-yields-hit-highest-171437019.html",
-      "publisher": "GuruFocus.com",
-      "time": 1784913277,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1f9ce427-3103-34d8-b6c6-fd5318b35d4a",
-      "title": "Society of Hematologic Oncology launches 2nd podcast focused on educational content in hematologic malignancies",
-      "link": "https://finance.yahoo.com/healthcare/articles/society-hematologic-oncology-launches-2nd-171400250.html",
-      "publisher": "PR Newswire",
-      "time": 1784913240,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e48dfb0d-eca2-3d89-b481-d01187e8177f",
-      "title": "Mitsubishi Motors to Invest Bt16bn in Thailand’s EV Push by 2030 – report",
-      "link": "https://finance.yahoo.com/m/e48dfb0d-eca2-3d89-b481-d01187e8177f/mitsubishi-motors-to-invest.html",
-      "publisher": "Just Auto",
-      "time": 1784913198,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8c3c5baa-c8d4-3423-8586-4ab6d1be1244",
-      "title": "3 Stocks Under $50 with Warning Signs",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-under-50-warning-171308588.html",
+      "id": "ae25fd39-917e-32be-8bee-3b68dc1cef46",
+      "title": "2 Reasons to Like BBSI (and 1 Not So Much)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-bbsi-1-not-184908694.html",
       "publisher": "StockStory",
-      "time": 1784913188,
-      "impact": "high",
+      "time": 1784918948,
+      "impact": "low",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "6b8695a4-bd56-3436-94e2-f74d5c1c3c24",
-      "title": "Amazon’s Quietest Business is Why I Keep Buying Hand Over Fist",
-      "link": "https://finance.yahoo.com/m/6b8695a4-bd56-3436-94e2-f74d5c1c3c24/amazon%E2%80%99s-quietest-business-is.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1784913134,
+      "id": "eb4aa763-398f-386e-841e-e03500e27530",
+      "title": "Yen records biggest weekly drop in over two months, dollar climbs for the week",
+      "link": "https://finance.yahoo.com/news/dollar-rides-yield-surge-middle-005503376.html",
+      "publisher": "Reuters",
+      "time": 1784918942,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c4156281-d46d-3321-a5df-5b804ad64091",
-      "title": "FEDERAL HOME LOAN BANK OF BOSTON ANNOUNCES 2026 SECOND QUARTER RESULTS, DECLARES DIVIDEND",
-      "link": "https://finance.yahoo.com/real-estate/articles/federal-home-loan-bank-boston-171100153.html",
-      "publisher": "PR Newswire",
-      "time": 1784913060,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "3c9f4880-ed54-3f75-a720-84b7c79a7d4f",
-      "title": "Salesforce Wins $1.6 Billion VA Contract for AI Agents",
-      "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-wins-1-6-billion-171045471.html",
+      "id": "80ffe507-d6d0-3bb2-a491-1c8364364a42",
+      "title": "NVIDIA, Microsoft Lead Push for Open AI Models After Kimi K3 Launch",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-microsoft-lead-push-open-184846210.html",
       "publisher": "GuruFocus.com",
-      "time": 1784913045,
+      "time": 1784918926,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9014dcdf-343e-34b5-9904-9d9da185819c",
-      "title": "UC Asset Secured $250K Bridge Loan for SPO Marketing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/uc-asset-secured-250k-bridge-171000204.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784913000,
+      "id": "b77428b4-a78a-3422-908b-68ad90711173",
+      "title": "Intel Wins Over Analysts, But Not Everyone Is Buying",
+      "link": "https://finance.yahoo.com/technology/articles/intel-wins-over-analysts-not-184802459.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784918882,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0811ab59-dafc-314c-91c3-abd97b1be680",
+      "title": "This Optical Networking Stock Has Soared This Year. Why It Fell After Strong Earnings.",
+      "link": "https://finance.yahoo.com/m/0811ab59-dafc-314c-91c3-abd97b1be680/this-optical-networking-stock.html",
+      "publisher": "Barrons.com",
+      "time": 1784918820,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
+    },
+    {
+      "id": "8dc4cf6f-ef61-3199-bc9b-07cae3c65d7a",
+      "title": "Tesla Avoids Door Safety Probe, But New Rules Could Follow",
+      "link": "https://finance.yahoo.com/m/8dc4cf6f-ef61-3199-bc9b-07cae3c65d7a/tesla-avoids-door-safety.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784918785,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "65f994b5-96cf-3949-8824-79b8b831d3c0",
+      "title": "Scribe Therapeutics Soars 67% After $128.7 Million Upsized IPO",
+      "link": "https://finance.yahoo.com/healthcare/articles/scribe-therapeutics-soars-67-128-184519224.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784918719,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "ee0e6183-c4ce-3486-ba3d-bea45a3e3943",
+      "title": "Why Lockheed Martin Stock Keeps Going Up",
+      "link": "https://finance.yahoo.com/m/ee0e6183-c4ce-3486-ba3d-bea45a3e3943/why-lockheed-martin-stock.html",
+      "publisher": "Motley Fool",
+      "time": 1784918641,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5e97d511-e155-329e-8e2f-62458b3214cf",
+      "title": "Jefferies Cuts Summit Therapeutics Price Target to $15 From $17, Hold Rating Kept",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-cuts-summit-therapeutics-price-184346815.html",
+      "publisher": "MT Newswires",
+      "time": 1784918626,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
