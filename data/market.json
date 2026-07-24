@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T23:54:53.313271+00:00",
+  "updatedAt": "2026-07-24T02:05:13.509561+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,56 +52,32 @@
   ],
   "news": [
     {
-      "id": "a6eb6517-8dc4-35de-979c-c5dc747e6a04",
-      "title": "Brazil probe shows severe icing contributed to 2024 plane crash that killed 62",
-      "link": "https://finance.yahoo.com/m/a6eb6517-8dc4-35de-979c-c5dc747e6a04/brazil-probe-shows-severe.html",
-      "publisher": "Associated Press",
-      "time": 1784850379,
-      "impact": "low",
-      "tags": []
+      "id": "8a4ef4e1-4bc6-3181-8402-2a80958253fb",
+      "title": "Matador Expands Delaware Basin With $1.28 Billion Paloma Acquisition",
+      "link": "https://finance.yahoo.com/energy/articles/matador-expands-delaware-basin-1-020000803.html",
+      "publisher": "Oilprice.com",
+      "time": 1784858400,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "7967509f-d1f1-3aff-9271-a8141bbe83e8",
-      "title": "Amazon’s highly rated 2-drawer mini dresser is on sale for just $24",
-      "link": "https://finance.yahoo.com/m/7967509f-d1f1-3aff-9271-a8141bbe83e8/amazon%E2%80%99s-highly-rated.html",
-      "publisher": "TheStreet",
-      "time": 1784850300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cc380ef0-3fed-3965-bd6b-ecd282023b5d",
-      "title": "Provident Financial Holdings Announces Quarterly Cash Dividend",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/provident-financial-holdings-announces-quarterly-234400613.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784850240,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4277e13d-44ec-3907-bf2d-1c08b5d8a03c",
-      "title": "Dodgers return to Trump White House despite fan anger",
-      "link": "https://finance.yahoo.com/m/4277e13d-44ec-3907-bf2d-1c08b5d8a03c/dodgers-return-to-trump-white.html",
+      "id": "2f976c89-09cf-3c6a-9f8d-2d23598dcc6f",
+      "title": "Trump under pressure from all sides over Chinese AI surge",
+      "link": "https://finance.yahoo.com/m/2f976c89-09cf-3c6a-9f8d-2d23598dcc6f/trump-under-pressure-from-all.html",
       "publisher": "AFP",
-      "time": 1784850111,
+      "time": 1784857946,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6e548d59-5e41-3bf1-b668-66345d6c6fd5",
-      "title": "Collect $2,000 a Month in Rent and Never Meet a Tenant. These 3 ETFs Handle the Hard Part",
-      "link": "https://finance.yahoo.com/m/6e548d59-5e41-3bf1-b668-66345d6c6fd5/collect-%242%2C000-a-month-in.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1784850055,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "76b818ab-8285-3ce1-be98-92e276acd1e4",
-      "title": "Revolve (RVLV): Buy, Sell, or Hold Post Q1 Earnings?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/revolve-rvlv-buy-sell-hold-234031676.html",
-      "publisher": "StockStory",
-      "time": 1784850031,
+      "id": "96fdd7c6-3e7b-334a-a08e-b91b60ced4b6",
+      "title": "Dow Jones Futures: Market Sells Off On Oil Prices, Google, Tesla; Intel Jumps Late",
+      "link": "https://finance.yahoo.com/m/96fdd7c6-3e7b-334a-a08e-b91b60ced4b6/dow-jones-futures%3A-market.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1784857875,
       "impact": "medium",
       "tags": [
         "macro",
@@ -109,11 +85,11 @@
       ]
     },
     {
-      "id": "d40c8697-4ef8-3820-910d-ca87e51db46d",
-      "title": "Defense Technology Firm Lyntris Files for US IPO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/defense-technology-firm-lyntris-files-234015005.html",
-      "publisher": "MT Newswires",
-      "time": 1784850015,
+      "id": "399027a7-d1fc-3c34-80bc-da8cac1621ca",
+      "title": "IMAX Corp (IMAX) Rockets 11.86% on Earnings Beat, H2 Optimism",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/imax-corp-imax-rockets-11-014804578.html",
+      "publisher": "Insider Monkey",
+      "time": 1784857684,
       "impact": "medium",
       "tags": [
         "macro",
@@ -121,11 +97,38 @@
       ]
     },
     {
-      "id": "0a767a65-d7cf-37da-ac29-658ea79707cb",
-      "title": "Is Tesla’s Earnings Miss and Negative Free Cash Flow a Red Flag for Rivian and Lucid Investors?",
-      "link": "https://finance.yahoo.com/m/0a767a65-d7cf-37da-ac29-658ea79707cb/is-tesla%E2%80%99s-earnings-miss-and.html",
+      "id": "9121ce0a-111c-3d9c-a468-2033bc7f82e4",
+      "title": "MaxsMaking Inc. Announces Receipt of Nasdaq Delisting Determination Notice",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/maxsmaking-inc-announces-receipt-nasdaq-014700620.html",
+      "publisher": "PR Newswire",
+      "time": 1784857620,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6300c69e-a881-3d44-8bda-30a71950ece8",
+      "title": "Is 'superstar' Pogacar's Tour de France domination boring?",
+      "link": "https://finance.yahoo.com/m/6300c69e-a881-3d44-8bda-30a71950ece8/is-%27superstar%27-pogacar%27s-tour.html",
+      "publisher": "AFP",
+      "time": 1784857618,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "40fee23f-127e-33bc-9a94-ba03dd3a407f",
+      "title": "ICC member states decide fate of embattled prosecutor Karim Khan",
+      "link": "https://finance.yahoo.com/m/40fee23f-127e-33bc-9a94-ba03dd3a407f/icc-member-states-decide-fate.html",
+      "publisher": "AFP",
+      "time": 1784857541,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "22a95b18-4eec-3e53-b539-b552394ba03a",
+      "title": "Valley National Bancorp (VLY) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/22a95b18-4eec-3e53-b539-b552394ba03a/valley-national-bancorp-%28vly%29.html",
       "publisher": "Motley Fool",
-      "time": 1784850001,
+      "time": 1784857476,
       "impact": "medium",
       "tags": [
         "macro",
@@ -133,22 +136,40 @@
       ]
     },
     {
-      "id": "44487a17-0a90-329c-9712-c300817ae329",
-      "title": "Francisco Partners' $21B haul defies tech PE fundraising chill",
-      "link": "https://finance.yahoo.com/m/44487a17-0a90-329c-9712-c300817ae329/francisco-partners%27-%2421b-haul.html",
-      "publisher": "Pitchbook",
-      "time": 1784849843,
-      "impact": "low",
-      "tags": []
+      "id": "884d6083-7af8-337f-9e00-f318e8c6e00a",
+      "title": "Albertsons (ACI) Q1 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/884d6083-7af8-337f-9e00-f318e8c6e00a/albertsons-%28aci%29-q1-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1784857476,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "a7e13c77-4ee0-3c57-bdda-12c9b7d59c72",
-      "title": "Amazon vs. Microsoft: Which Cloud Empire Is the Better Buy Now?",
-      "link": "https://finance.yahoo.com/m/a7e13c77-4ee0-3c57-bdda-12c9b7d59c72/amazon-vs.-microsoft%3A-which.html",
+      "id": "bd3fc93d-2f58-36c8-b170-68524a8e62c5",
+      "title": "S&T Bancorp (STBA) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/bd3fc93d-2f58-36c8-b170-68524a8e62c5/s%26t-bancorp-%28stba%29-q2-2026.html",
       "publisher": "Motley Fool",
-      "time": 1784849700,
-      "impact": "low",
-      "tags": []
+      "time": 1784857476,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "d6abc678-9b37-38b5-b4e6-487d1f54dfb1",
+      "title": "Boyd Gaming (BYD) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/d6abc678-9b37-38b5-b4e6-487d1f54dfb1/boyd-gaming-%28byd%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1784857476,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
