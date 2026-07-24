@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-24T08:14:31.980447+00:00",
+  "updatedAt": "2026-07-24T10:32:07.076555+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19406.9,
-      "change": 139.90000000000146,
-      "changePct": 0.7261120049826203,
+      "price": 19452.1,
+      "change": 185.09999999999854,
+      "changePct": 0.9607100223179454,
       "currency": "EUR"
     },
     {
@@ -28,92 +28,107 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 24886.0,
-      "change": -269.40999999999985,
-      "changePct": -1.0709823453483758,
+      "price": 24953.66,
+      "change": -201.75,
+      "changePct": -0.8020143579452691,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6239.58,
-      "change": 29.409999999999854,
-      "changePct": 0.4735780179930638,
+      "price": 6253.4,
+      "change": 43.22999999999956,
+      "changePct": 0.6961162093791243,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.87,
-      "change": 0.1700000000000017,
-      "changePct": 0.9090909090909183,
+      "price": 18.79,
+      "change": 0.08999999999999986,
+      "changePct": 0.4812834224598923,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "e0ccc928-2a90-33dd-a683-4cd4ce9b1a93",
-      "title": "Samsara Insider Sold Shares Worth $9,534,065, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/samsara-insider-sold-shares-worth-080225011.html",
+      "id": "23063701-6dbc-3dec-bb3d-15cbe5966a12",
+      "title": "Webuild an Vianini Lavori to start work on Rome Metro Line C T1 extension",
+      "link": "https://finance.yahoo.com/m/23063701-6dbc-3dec-bb3d-15cbe5966a12/webuild-an-vianini-lavori-to.html",
+      "publisher": "World Construction Network",
+      "time": 1784889000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "28925058-fced-36f2-be7f-5e74103871c9",
+      "title": "Protests for Corey Ruiz",
+      "link": "https://finance.yahoo.com/m/28925058-fced-36f2-be7f-5e74103871c9/protests-for-corey-ruiz.html",
+      "publisher": "USA TODAY",
+      "time": 1784888791,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e0ba456b-4b16-3faf-a180-1d79bf310472",
+      "title": "BeOne to invest $300m in US manufacturing facility expansion",
+      "link": "https://finance.yahoo.com/m/e0ba456b-4b16-3faf-a180-1d79bf310472/beone-to-invest-%24300m-in-us.html",
+      "publisher": "Pharmaceutical Technology",
+      "time": 1784888604,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9c2d24e8-5523-3673-9a1e-295cb330b835",
+      "title": "Roth Capital Partners Adjusts Price Target on Intel to $120 From $100, Maintains Buy Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/roth-capital-partners-adjusts-price-102049469.html",
       "publisher": "MT Newswires",
-      "time": 1784880145,
+      "time": 1784888449,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "25a9b70a-9601-36f6-80ef-980084fd0a25",
-      "title": "Comsysto Reply Supports Audi in Evolving Its B2B Used Car Platform With an AI-Based Multi-Agent System",
-      "link": "https://finance.yahoo.com/technology/ai/articles/comsysto-reply-supports-audi-evolving-080000781.html",
-      "publisher": "Business Wire",
-      "time": 1784880000,
+      "id": "4e16f873-a05b-3e97-81e7-38140e28f3af",
+      "title": "Cantor Fitzgerald Adjusts Price Target on Intel to $125 From $90, Maintains Neutral Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-adjusts-price-target-102037295.html",
+      "publisher": "MT Newswires",
+      "time": 1784888437,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3e5ea2fe-ca16-3cf4-8f2a-2d266771ab64",
-      "title": "CSTS Leaders Appointed to HKGCC Committees",
-      "link": "https://finance.yahoo.com/economy/articles/csts-leaders-appointed-hkgcc-committees-080000180.html",
-      "publisher": "PR Newswire",
-      "time": 1784880000,
+      "id": "5d5bebd7-f552-3d13-9dd2-cdc94287b5ea",
+      "title": "Wells Fargo Adjusts Price Target on Intel to $120 From $110, Maintains Equalweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-price-target-102031090.html",
+      "publisher": "MT Newswires",
+      "time": 1784888431,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "52419381-cccd-3536-ae14-35fc40a1f050",
-      "title": "Swiss Firms Seek Managed Security as AI Risks Rise",
-      "link": "https://finance.yahoo.com/technology/ai/articles/swiss-firms-seek-managed-security-080000168.html",
-      "publisher": "Business Wire",
-      "time": 1784880000,
+      "id": "689588eb-8318-3cd1-8ab6-218735d11ae0",
+      "title": "Stifel Adjusts Price Target on Intel to $110 From $120, Maintains Hold Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stifel-adjusts-price-target-intel-102025888.html",
+      "publisher": "MT Newswires",
+      "time": 1784888425,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5430042b-9a2f-3308-b297-036b4e91820e",
-      "title": "Dr Mark Kohout Plastic Surgeon Announces Enhanced Patient Education and Consultation Framework to Strengthen Surgical Transparency and Long Term Care",
-      "link": "https://finance.yahoo.com/healthcare/articles/dr-mark-kohout-plastic-surgeon-080000350.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1784880000,
+      "id": "b3fb0a4d-f428-3541-8dcb-14568b5323b5",
+      "title": "Goldman Sachs Adjusts Price Target on JPMorgan Chase to $419 From $418, Maintains Buy Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-price-target-102005637.html",
+      "publisher": "MT Newswires",
+      "time": 1784888405,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "77b6d682-ae21-34f1-9add-3190fd456f77",
-      "title": "Beko Publishes 2025 Integrated Report, Charting Years of Progress Toward Net Zero",
-      "link": "https://finance.yahoo.com/technology/articles/beko-publishes-2025-integrated-report-080000255.html",
-      "publisher": "CNW Group",
-      "time": 1784880000,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "997e0704-2b91-3f8d-8d64-982a67ec9184",
-      "title": "Morgan Stanley Real Estate Investing Announces Acquisition of French Logistics Portfolio of Five Assets",
-      "link": "https://finance.yahoo.com/real-estate/articles/morgan-stanley-real-estate-investing-080000268.html",
-      "publisher": "Business Wire",
-      "time": 1784880000,
+      "id": "d004462d-0430-3466-a6fd-6f3eb4299fcf",
+      "title": "Flagstar Bank Approves $250 Million Stock Buyback",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/flagstar-bank-approves-250-million-102004727.html",
+      "publisher": "MT Newswires",
+      "time": 1784888404,
       "impact": "medium",
       "tags": [
         "macro",
@@ -121,32 +136,20 @@
       ]
     },
     {
-      "id": "e3cfb81e-7eb6-3e8d-a113-4528468171aa",
-      "title": "Silver Pony Announces Final CSE Approval, Resumption of Trading, and the Official Launch of 2026 Drilling Having Commenced at the Company's Primary High-Grade Silver Targets",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/silver-pony-announces-final-cse-080000650.html",
-      "publisher": "TMX Newsfile",
-      "time": 1784880000,
+      "id": "f2e953d4-43e3-34c5-a198-f63d44e32f39",
+      "title": "How Your Social Security Benefit Changes Each Year You Wait Past 62",
+      "link": "https://finance.yahoo.com/m/f2e953d4-43e3-34c5-a198-f63d44e32f39/how-your-social-security.html",
+      "publisher": "Motley Fool",
+      "time": 1784888400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4d2c1f15-a300-3823-a896-d3ed90681704",
-      "title": "Ukraine hits 'Russia's Amazon' warehouses outside St Petersburg",
-      "link": "https://finance.yahoo.com/m/4d2c1f15-a300-3823-a896-d3ed90681704/ukraine-hits-%27russia%27s.html",
-      "publisher": "AFP",
-      "time": 1784879935,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "2f861684-9da7-3607-aacc-48067c6101e8",
-      "title": "Aukera - India's solitaire experts, now in Chennai",
-      "link": "https://finance.yahoo.com/small-business/articles/aukera-indias-solitaire-experts-now-075800576.html",
-      "publisher": "PR Newswire",
-      "time": 1784879880,
+      "id": "50d6856e-0f20-387e-8c00-49b24c004e6a",
+      "title": "BNP Paribas Adjusts Price Target on Comcast to $21 From $22, Maintains Underperform Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-adjusts-price-target-101946642.html",
+      "publisher": "MT Newswires",
+      "time": 1784888386,
       "impact": "low",
       "tags": []
     }
