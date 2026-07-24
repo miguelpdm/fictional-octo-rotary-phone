@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-24T10:32:07.076555+00:00",
+  "updatedAt": "2026-07-24T12:15:41.554879+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19452.1,
-      "change": 185.09999999999854,
-      "changePct": 0.9607100223179454,
+      "price": 19454.0,
+      "change": 187.0,
+      "changePct": 0.9705714434006332,
       "currency": "EUR"
     },
     {
@@ -28,107 +28,82 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 24953.66,
-      "change": -201.75,
-      "changePct": -0.8020143579452691,
+      "price": 24965.39,
+      "change": -190.02000000000044,
+      "changePct": -0.7553842294758879,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6253.4,
-      "change": 43.22999999999956,
-      "changePct": 0.6961162093791243,
+      "price": 6254.54,
+      "change": 44.36999999999989,
+      "changePct": 0.7144731947756646,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.79,
-      "change": 0.08999999999999986,
-      "changePct": 0.4812834224598923,
+      "price": 18.7,
+      "change": 0.0,
+      "changePct": 0.0,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "23063701-6dbc-3dec-bb3d-15cbe5966a12",
-      "title": "Webuild an Vianini Lavori to start work on Rome Metro Line C T1 extension",
-      "link": "https://finance.yahoo.com/m/23063701-6dbc-3dec-bb3d-15cbe5966a12/webuild-an-vianini-lavori-to.html",
-      "publisher": "World Construction Network",
-      "time": 1784889000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "28925058-fced-36f2-be7f-5e74103871c9",
-      "title": "Protests for Corey Ruiz",
-      "link": "https://finance.yahoo.com/m/28925058-fced-36f2-be7f-5e74103871c9/protests-for-corey-ruiz.html",
-      "publisher": "USA TODAY",
-      "time": 1784888791,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e0ba456b-4b16-3faf-a180-1d79bf310472",
-      "title": "BeOne to invest $300m in US manufacturing facility expansion",
-      "link": "https://finance.yahoo.com/m/e0ba456b-4b16-3faf-a180-1d79bf310472/beone-to-invest-%24300m-in-us.html",
-      "publisher": "Pharmaceutical Technology",
-      "time": 1784888604,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9c2d24e8-5523-3673-9a1e-295cb330b835",
-      "title": "Roth Capital Partners Adjusts Price Target on Intel to $120 From $100, Maintains Buy Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/roth-capital-partners-adjusts-price-102049469.html",
+      "id": "7c6f380b-6be1-3a0f-9f81-0e0e0181f2c3",
+      "title": "Evercore ISI Trims Price Target on Hartford Insurance to $145 From $146, Maintains In Line Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-trims-price-target-121025835.html",
       "publisher": "MT Newswires",
-      "time": 1784888449,
+      "time": 1784895025,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4e16f873-a05b-3e97-81e7-38140e28f3af",
-      "title": "Cantor Fitzgerald Adjusts Price Target on Intel to $125 From $90, Maintains Neutral Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-adjusts-price-target-102037295.html",
+      "id": "d8a70924-baa6-341d-a312-7b653b3f0f5e",
+      "title": "Jefferies Adjusts Price Target on Digital Realty Trust to $231 From $230, Maintains Buy Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-adjusts-price-target-digital-120959542.html",
       "publisher": "MT Newswires",
-      "time": 1784888437,
+      "time": 1784894999,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5d5bebd7-f552-3d13-9dd2-cdc94287b5ea",
-      "title": "Wells Fargo Adjusts Price Target on Intel to $120 From $110, Maintains Equalweight Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-price-target-102031090.html",
+      "id": "7a851d7e-2f04-3615-98aa-46d635eefa22",
+      "title": "Bernstein Adjusts Price Target on Digital Realty Trust to $226 From $232, Maintains Outperform Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bernstein-adjusts-price-target-digital-120958202.html",
       "publisher": "MT Newswires",
-      "time": 1784888431,
+      "time": 1784894998,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "689588eb-8318-3cd1-8ab6-218735d11ae0",
-      "title": "Stifel Adjusts Price Target on Intel to $110 From $120, Maintains Hold Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stifel-adjusts-price-target-intel-102025888.html",
+      "id": "b8c9a508-6bc6-33c0-9ea7-d83b32029370",
+      "title": "Raymond James Adjusts Freeport-McMoRan Price Target to $76 From $73, Maintains Outperform Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/raymond-james-adjusts-freeport-mcmoran-120942352.html",
       "publisher": "MT Newswires",
-      "time": 1784888425,
+      "time": 1784894982,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b3fb0a4d-f428-3541-8dcb-14568b5323b5",
-      "title": "Goldman Sachs Adjusts Price Target on JPMorgan Chase to $419 From $418, Maintains Buy Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-price-target-102005637.html",
-      "publisher": "MT Newswires",
-      "time": 1784888405,
+      "id": "6e0a33f3-213b-36f4-b2df-f1a8d35c9793",
+      "title": "Winners And Losers Of Q1: PVH (NYSE:PVH) Vs The Rest Of The Consumer Discretionary - Apparel and Accessories Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/winners-losers-q1-pvh-nyse-120908235.html",
+      "publisher": "StockStory",
+      "time": 1784894948,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     },
     {
-      "id": "d004462d-0430-3466-a6fd-6f3eb4299fcf",
-      "title": "Flagstar Bank Approves $250 Million Stock Buyback",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/flagstar-bank-approves-250-million-102004727.html",
+      "id": "277f9f7f-d5e5-35d4-95ae-a3fafdccbce8",
+      "title": "Amapa Minerals Prices IPO at C$1.10 Per Share",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amapa-minerals-prices-ipo-c-120616032.html",
       "publisher": "MT Newswires",
-      "time": 1784888404,
+      "time": 1784894776,
       "impact": "medium",
       "tags": [
         "macro",
@@ -136,22 +111,43 @@
       ]
     },
     {
-      "id": "f2e953d4-43e3-34c5-a198-f63d44e32f39",
-      "title": "How Your Social Security Benefit Changes Each Year You Wait Past 62",
-      "link": "https://finance.yahoo.com/m/f2e953d4-43e3-34c5-a198-f63d44e32f39/how-your-social-security.html",
-      "publisher": "Motley Fool",
-      "time": 1784888400,
+      "id": "3a1f0d59-d9f5-35df-b1a3-f44129bb0693",
+      "title": "Barclays Adjusts Price Target on Rollins to $45 From $72, Maintains Overweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-adjusts-price-target-rollins-120520979.html",
+      "publisher": "MT Newswires",
+      "time": 1784894720,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "50d6856e-0f20-387e-8c00-49b24c004e6a",
-      "title": "BNP Paribas Adjusts Price Target on Comcast to $21 From $22, Maintains Underperform Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-adjusts-price-target-101946642.html",
-      "publisher": "MT Newswires",
-      "time": 1784888386,
+      "id": "be021860-4db9-36d8-ba2e-16e060ddfea4",
+      "title": "AFROTECH™ Commits To Training 1 Million People In AI Skills For The Future Of Work",
+      "link": "https://finance.yahoo.com/m/be021860-4db9-36d8-ba2e-16e060ddfea4/afrotech%E2%84%A2-commits-to-training.html",
+      "publisher": "AfroTech",
+      "time": 1784894715,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "07d2bcec-d2ce-3fe2-b90a-e85ea6939865",
+      "title": "How Much Could a $5,000 Investment in SpaceX Be Worth By 2030? Here's Why This Industrial Stock May Be a Better Buy Today.",
+      "link": "https://finance.yahoo.com/m/07d2bcec-d2ce-3fe2-b90a-e85ea6939865/how-much-could-a-%245%2C000.html",
+      "publisher": "Motley Fool",
+      "time": 1784894700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1cba9a8a-3a55-3fb2-b3d3-edda45cd184d",
+      "title": "Cotality recognized in Insurance Business's Global 5-Star Technology and Software Providers 2026",
+      "link": "https://finance.yahoo.com/technology/articles/cotality-recognized-insurance-businesss-global-120500925.html",
+      "publisher": "Business Wire",
+      "time": 1784894700,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     }
   ],
   "errors": {
