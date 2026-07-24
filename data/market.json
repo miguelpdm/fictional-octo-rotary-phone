@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T15:52:38.501924+00:00",
+  "updatedAt": "2026-07-24T17:24:02.339040+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7447.23,
-      "change": -51.73000000000047,
-      "changePct": -0.6898289896199002,
+      "price": 7433.87,
+      "change": -65.09000000000015,
+      "changePct": -0.8679870275344868,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25152.037,
-      "change": -538.8630000000012,
-      "changePct": -2.0974858802143994,
+      "price": 25103.66,
+      "change": -587.2400000000016,
+      "changePct": -2.2857899100459758,
       "currency": "USD"
     },
     {
@@ -44,118 +44,113 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.63,
-      "change": -1.0700000000000003,
-      "changePct": -5.721925133689841,
+      "price": 18.19,
+      "change": -0.509999999999998,
+      "changePct": -2.727272727272717,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "bb5b7657-f0af-41e1-a763-cfc645ff1da6",
-      "title": "AI's power demand is surging: Who pays the cost?",
-      "link": "https://finance.yahoo.com/video/ais-power-demand-is-surging-who-pays-the-cost-153601318.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1784907361,
+      "id": "08e90f14-cb3f-316d-bf58-62e286a51951",
+      "title": "Mbanq secures inaugural institutional funding investment",
+      "link": "https://finance.yahoo.com/m/08e90f14-cb3f-316d-bf58-62e286a51951/mbanq-secures-inaugural.html",
+      "publisher": "Retail Banker International",
+      "time": 1784913393,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "1ebea110-4f3a-3b05-ad4c-a91f15a351bd",
+      "title": "Aerospace fights for young recruits as AI drains talent pool",
+      "link": "https://finance.yahoo.com/technology/articles/aerospace-fights-young-recruits-ai-171519181.html",
+      "publisher": "Reuters",
+      "time": 1784913319,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8251e707-1110-4fa9-b769-c20ff615cfb7",
-      "title": "Open source AI is 'critical' for gaining a foothold on global cybersecurity",
-      "link": "https://finance.yahoo.com/video/open-source-ai-critical-gaining-153000279.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1784907000,
+      "id": "15a52110-5169-3c39-8d87-b58eefd8c6b3",
+      "title": "Global Bond Yields Hit Highest Since 2008 as Brent Surges Above $100",
+      "link": "https://finance.yahoo.com/economy/policy/articles/global-bond-yields-hit-highest-171437019.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784913277,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cb4b4328-2948-4b0b-bcce-61cb1ea6f7ef",
-      "title": "Gold prices today, Friday, July 24, 2026: Gold price remains below $4,100 ahead of next week’s rate decision",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-july-24-2026-gold-price-remains-below-4100-ahead-of-next-weeks-rate-decision-152726975.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1784906846,
+      "id": "1f9ce427-3103-34d8-b6c6-fd5318b35d4a",
+      "title": "Society of Hematologic Oncology launches 2nd podcast focused on educational content in hematologic malignancies",
+      "link": "https://finance.yahoo.com/healthcare/articles/society-hematologic-oncology-launches-2nd-171400250.html",
+      "publisher": "PR Newswire",
+      "time": 1784913240,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "24c9d310-f983-32e7-9232-74f398b05547",
-      "title": "AI adoption outpaces governance readiness across FS: Tricentis",
-      "link": "https://finance.yahoo.com/m/24c9d310-f983-32e7-9232-74f398b05547/ai-adoption-outpaces.html",
-      "publisher": "Retail Banker International",
-      "time": 1784906797,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "5e7db464-cedb-388f-9443-f6f443a6b5db",
-      "title": "China’s rapid rise in drug development casts a long shadow over US oncology",
-      "link": "https://finance.yahoo.com/m/5e7db464-cedb-388f-9443-f6f443a6b5db/china%E2%80%99s-rapid-rise-in-drug.html",
-      "publisher": "Clinical Trials Arena",
-      "time": 1784906782,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "95cb5fa8-96d0-32b4-a47c-b825272bac51",
-      "title": "European banks pour into risk, compliance and AI to compete: Moody’s",
-      "link": "https://finance.yahoo.com/m/95cb5fa8-96d0-32b4-a47c-b825272bac51/european-banks-pour-into.html",
-      "publisher": "Retail Banker International",
-      "time": 1784906770,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c872f945-c24a-36d4-8362-dbc55c1e885f",
-      "title": "US homeowner satisfaction with mortgage servicers improves as financial pressures mount: JD Power",
-      "link": "https://finance.yahoo.com/m/c872f945-c24a-36d4-8362-dbc55c1e885f/us-homeowner-satisfaction.html",
-      "publisher": "Retail Banker International",
-      "time": 1784906716,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "6eddefa3-dff8-35fe-bba2-98df349e36e2",
-      "title": "OCBC deepens next-generation wealth franchise with expansion of GENesis programme",
-      "link": "https://finance.yahoo.com/m/6eddefa3-dff8-35fe-bba2-98df349e36e2/ocbc-deepens-next-generation.html",
-      "publisher": "Private Banker International",
-      "time": 1784906686,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "2a926efe-8202-4c00-9833-eece33a24b9c",
-      "title": "Silver prices today, Friday, July 24, 2026: Silver returns above $58 as markets price in higher rate risks",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-july-24-2026-silver-returns-above-58-as-markets-price-in-higher-rate-risks-152408436.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1784906648,
+      "id": "e48dfb0d-eca2-3d89-b481-d01187e8177f",
+      "title": "Mitsubishi Motors to Invest Bt16bn in Thailand’s EV Push by 2030 – report",
+      "link": "https://finance.yahoo.com/m/e48dfb0d-eca2-3d89-b481-d01187e8177f/mitsubishi-motors-to-invest.html",
+      "publisher": "Just Auto",
+      "time": 1784913198,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8c3c5baa-c8d4-3423-8586-4ab6d1be1244",
+      "title": "3 Stocks Under $50 with Warning Signs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-under-50-warning-171308588.html",
+      "publisher": "StockStory",
+      "time": 1784913188,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "49ce805e-7a33-3afd-8483-8ad9320aba98",
-      "title": "Mastercard expands virtual card platform with new controls and embedded ecosystem partnerships",
-      "link": "https://finance.yahoo.com/m/49ce805e-7a33-3afd-8483-8ad9320aba98/mastercard-expands-virtual.html",
-      "publisher": "Electronic Payments",
-      "time": 1784906648,
+      "id": "6b8695a4-bd56-3436-94e2-f74d5c1c3c24",
+      "title": "Amazon’s Quietest Business is Why I Keep Buying Hand Over Fist",
+      "link": "https://finance.yahoo.com/m/6b8695a4-bd56-3436-94e2-f74d5c1c3c24/amazon%E2%80%99s-quietest-business-is.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1784913134,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "c4156281-d46d-3321-a5df-5b804ad64091",
+      "title": "FEDERAL HOME LOAN BANK OF BOSTON ANNOUNCES 2026 SECOND QUARTER RESULTS, DECLARES DIVIDEND",
+      "link": "https://finance.yahoo.com/real-estate/articles/federal-home-loan-bank-boston-171100153.html",
+      "publisher": "PR Newswire",
+      "time": 1784913060,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "3c9f4880-ed54-3f75-a720-84b7c79a7d4f",
+      "title": "Salesforce Wins $1.6 Billion VA Contract for AI Agents",
+      "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-wins-1-6-billion-171045471.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784913045,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9014dcdf-343e-34b5-9904-9d9da185819c",
+      "title": "UC Asset Secured $250K Bridge Loan for SPO Marketing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/uc-asset-secured-250k-bridge-171000204.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784913000,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
