@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T20:15:40.429161+00:00",
+  "updatedAt": "2026-07-24T21:35:09.546103+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -44,19 +44,137 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.56,
-      "change": -0.14000000000000057,
-      "changePct": -0.7486631016042812,
+      "price": 18.58,
+      "change": -0.120000000000001,
+      "changePct": -0.6417112299465294,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "1c0f1aeb-a6d4-3bf4-897c-784f7d7b161e",
-      "title": "Paramount agrees to delay closing its Warner Bros. buyout for months, while judge considers challenge from 12 states",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/paramount-agrees-delay-closing-warner-201120590.html",
-      "publisher": "Associated Press",
-      "time": 1784923880,
+      "id": "9d775279-5994-3bf7-afbb-e8f1172c8d9f",
+      "title": "Ninepoint Partners Announces July 2026 Cash Distributions for its ETFs and ETF Series Securities",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ninepoint-partners-announces-july-2026-213200719.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784928720,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6151f1be-79fd-380d-a339-b71663e1478f",
+      "title": "360 Energy Pulse: What mattered this week in energy",
+      "link": "https://finance.yahoo.com/energy/articles/360-energy-pulse-mattered-week-213022415.html",
+      "publisher": "Oil and Gas 360",
+      "time": 1784928622,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "212963e3-16bc-48e9-8620-7b4d95bcc9de",
+      "title": "Unlock the value of AI tools by thinking of them as a 'thought partner'",
+      "link": "https://finance.yahoo.com/video/unlock-value-ai-tools-thinking-213000046.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1784928600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "06e92e4b-51d3-341c-bc68-e0fe5e603622",
+      "title": "Conifex Announces Second Quarter 2026 Results Conference Call and Provides Corporate Update",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/conifex-announces-second-quarter-2026-213000690.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784928600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ef782fa1-03a2-302e-a621-c046d30292ba",
+      "title": "Univest Securities, LLC Announces Closing of $9 Million Registered Direct Offering for its Client China SXT Pharmaceuticals Inc. (NASDAQ: SXTC)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/univest-securities-llc-announces-closing-213000402.html",
+      "publisher": "GlobeNewswire",
+      "time": 1784928600,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "6d13fcbe-0d6e-34cd-bf2b-f341d22f4788",
+      "title": "The Short and Long of the Latest in Summer Dressing Out of Tokyo",
+      "link": "https://finance.yahoo.com/m/6d13fcbe-0d6e-34cd-bf2b-f341d22f4788/the-short-and-long-of-the.html",
+      "publisher": "WWD",
+      "time": 1784928568,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "11cdad22-a23f-3779-a81d-e87f9fea1e3a",
+      "title": "Stocks to Watch: Bank of America, Intel, SAP, Oracle",
+      "link": "https://finance.yahoo.com/m/11cdad22-a23f-3779-a81d-e87f9fea1e3a/stocks-to-watch%3A-bank-of.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1784928439,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "7571c745-0f12-33af-a3fe-149472b6ecb1",
+      "title": "From the Archive: The Polka Dot Bikini Endures, From Gottex to Moschino",
+      "link": "https://finance.yahoo.com/m/7571c745-0f12-33af-a3fe-149472b6ecb1/from-the-archive%3A-the-polka.html",
+      "publisher": "WWD",
+      "time": 1784928431,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a1282270-7a91-3a4d-a4a6-959991dd930d",
+      "title": "Voters want candidates to focus more on the economy, Pew poll shows",
+      "link": "https://finance.yahoo.com/m/a1282270-7a91-3a4d-a4a6-959991dd930d/voters-want-candidates-to.html",
+      "publisher": "USA TODAY",
+      "time": 1784928341,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1927968e-a8aa-3e8c-b4f3-e23fff08cb56",
+      "title": "Interactive Brokers Has Posted a Pre-Tax Margin Above 70% for 7 Straight Quarters. Why Rivals Struggle to Copy It",
+      "link": "https://finance.yahoo.com/m/1927968e-a8aa-3e8c-b4f3-e23fff08cb56/interactive-brokers-has.html",
+      "publisher": "Motley Fool",
+      "time": 1784928300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a5566ad3-b730-3e40-83a7-8458fb648928",
+      "title": "Stock Market Today, July 24: Dow Recovers and Sandisk Tumbles 11% as Tech Stocks Fall Further",
+      "link": "https://finance.yahoo.com/m/a5566ad3-b730-3e40-83a7-8458fb648928/stock-market-today%2C-july-24%3A.html",
+      "publisher": "Motley Fool",
+      "time": 1784928293,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "40fee23f-127e-33bc-9a94-ba03dd3a407f",
+      "title": "ICC prosecutor Karim Khan removed over 'serious misconduct'",
+      "link": "https://finance.yahoo.com/m/40fee23f-127e-33bc-9a94-ba03dd3a407f/icc-prosecutor-karim-khan.html",
+      "publisher": "AFP",
+      "time": 1784928144,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "111e514d-a9b0-3139-a9c6-71785d887826",
+      "title": "Paramount agrees to delay Warner Bros. merger ",
+      "link": "https://finance.yahoo.com/media-advertising/articles/paramount-agrees-delay-warner-bros-212205518.html",
+      "publisher": "AFP",
+      "time": 1784928125,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,110 +182,14 @@
       ]
     },
     {
-      "id": "b1f5218d-dfc0-3f2d-ba75-228b8244d1a7",
-      "title": "3 Reasons UAA is Risky and 1 Stock to Buy Instead",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-uaa-risky-1-200908799.html",
-      "publisher": "StockStory",
-      "time": 1784923748,
+      "id": "2e751cc0-ca45-338b-a981-5b36b917e61c",
+      "title": "Wild Markets Week Settles Down",
+      "link": "https://finance.yahoo.com/m/2e751cc0-ca45-338b-a981-5b36b917e61c/wild-markets-week-settles-down.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1784928120,
       "impact": "low",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "id": "9af6a5a3-b2a7-3dd5-8c3e-87a50f6668c0",
-      "title": "MetroCity: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/metrocity-q2-earnings-snapshot-200627792.html",
-      "publisher": "Associated Press",
-      "time": 1784923587,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "12f987ae-a3d9-401e-96f8-3b0effefe44e",
-      "title": "Lebron James is coming to Philadelphia, signing two-year deal with 76ers",
-      "link": "https://finance.yahoo.com/video/lebron-james-is-coming-to-philadelphia-signing-two-year-deal-with-76ers-200500886.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1784923500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "18ac6388-6b2c-30d3-8e3b-7541ca9afa60",
-      "title": "Cadbury brand Dairy Milk Oreo Candy (bar) recalled due to undeclared pistachio",
-      "link": "https://finance.yahoo.com/healthcare/articles/cadbury-brand-dairy-milk-oreo-200500656.html",
-      "publisher": "CNW Group",
-      "time": 1784923500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d6555f9b-bf59-3188-94f1-3c8511f4a2ca",
-      "title": "Paramount Skydance Corporation Announces Extension of Expiration Dates of Previously Announced Exchange Offers and Tender Offers",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/paramount-skydance-corporation-announces-extension-200500946.html",
-      "publisher": "PR Newswire",
-      "time": 1784923500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a8cddb52-67fe-3bfa-950d-d14a4bf9984f",
-      "title": "Findev Inc. Announces CCAA Proceedings Involving 1682 Victoria Park Avenue Inc. and Related Party Subordination Arrangement",
-      "link": "https://finance.yahoo.com/real-estate/articles/findev-inc-announces-ccaa-proceedings-200500775.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1784923500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ea3e3c32-93e1-35d4-96b5-60af608e2315",
-      "title": "Top Cryptocurrencies Fall; Bitcoin Holds Above $64,000",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/top-cryptocurrencies-fall-bitcoin-holds-200416069.html",
-      "publisher": "MT Newswires",
-      "time": 1784923456,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "68d89af1-c7e0-376c-84d3-0efd3f44d70b",
-      "title": "This satellite image of a 'hummingbird' isn't what you think",
-      "link": "https://finance.yahoo.com/m/68d89af1-c7e0-376c-84d3-0efd3f44d70b/this-satellite-image-of-a.html",
-      "publisher": "USA TODAY",
-      "time": 1784923391,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1f1dd57c-ed37-32f5-8590-45315fbb657c",
-      "title": "Aptos climbs to the top 4 blockchains in transaction count",
-      "link": "https://finance.yahoo.com/m/1f1dd57c-ed37-32f5-8590-45315fbb657c/aptos-climbs-to-the-top-4.html",
-      "publisher": "TheStreet",
-      "time": 1784923380,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "eeda680f-1de1-3638-adc5-5fd9c8388a84",
-      "title": "Investing $5,000 in SCHD Now Could Generate Serious Passive Income Over 20 Years",
-      "link": "https://finance.yahoo.com/m/eeda680f-1de1-3638-adc5-5fd9c8388a84/investing-%245%2C000-in-schd-now.html",
-      "publisher": "Motley Fool",
-      "time": 1784923380,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c22a0857-d6dd-338b-a987-8bdd74e95429",
-      "title": "Grupo Televisa Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/c22a0857-d6dd-338b-a987-8bdd74e95429/grupo-televisa-q2-earnings.html",
-      "publisher": "MarketBeat",
-      "time": 1784923319,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
       ]
     }
   ],
