@@ -1,62 +1,89 @@
 {
-  "updatedAt": "2026-07-24T14:19:37.159725+00:00",
+  "updatedAt": "2026-07-24T15:52:38.501924+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19497.5,
-      "change": 230.5,
-      "changePct": 1.196346083977786,
+      "price": 19585.4,
+      "change": 318.40000000000146,
+      "changePct": 1.6525665645923158,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7406.09,
-      "change": -92.86999999999989,
-      "changePct": -1.2384383967910202,
+      "price": 7447.23,
+      "change": -51.73000000000047,
+      "changePct": -0.6898289896199002,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 24973.307,
-      "change": -717.5930000000008,
-      "changePct": -2.79317968619239,
+      "price": 25152.037,
+      "change": -538.8630000000012,
+      "changePct": -2.0974858802143994,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 24973.01,
-      "change": -182.40000000000146,
-      "changePct": -0.725092534766881,
+      "price": 25099.0,
+      "change": -56.409999999999854,
+      "changePct": -0.22424599718311033,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6249.4,
-      "change": 39.22999999999956,
-      "changePct": 0.6317057343035628,
+      "price": 6280.94,
+      "change": 70.76999999999953,
+      "changePct": 1.1395823302743648,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.87,
-      "change": 0.1700000000000017,
-      "changePct": 0.9090909090909183,
+      "price": 17.63,
+      "change": -1.0700000000000003,
+      "changePct": -5.721925133689841,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "fa065b92-c6f8-3d03-b83d-0c2918547c66",
-      "title": "Oil futures dip but surge for week amid attacks on shipping routes",
-      "link": "https://finance.yahoo.com/m/fa065b92-c6f8-3d03-b83d-0c2918547c66/oil-futures-dip-but-surge-for.html",
-      "publisher": "Offshore Technology",
-      "time": 1784902544,
+      "id": "bb5b7657-f0af-41e1-a763-cfc645ff1da6",
+      "title": "AI's power demand is surging: Who pays the cost?",
+      "link": "https://finance.yahoo.com/video/ais-power-demand-is-surging-who-pays-the-cost-153601318.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1784907361,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8251e707-1110-4fa9-b769-c20ff615cfb7",
+      "title": "Open source AI is 'critical' for gaining a foothold on global cybersecurity",
+      "link": "https://finance.yahoo.com/video/open-source-ai-critical-gaining-153000279.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1784907000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cb4b4328-2948-4b0b-bcce-61cb1ea6f7ef",
+      "title": "Gold prices today, Friday, July 24, 2026: Gold price remains below $4,100 ahead of next week’s rate decision",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-july-24-2026-gold-price-remains-below-4100-ahead-of-next-weeks-rate-decision-152726975.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1784906846,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "24c9d310-f983-32e7-9232-74f398b05547",
+      "title": "AI adoption outpaces governance readiness across FS: Tricentis",
+      "link": "https://finance.yahoo.com/m/24c9d310-f983-32e7-9232-74f398b05547/ai-adoption-outpaces.html",
+      "publisher": "Retail Banker International",
+      "time": 1784906797,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,29 +91,22 @@
       ]
     },
     {
-      "id": "11afe0e0-c0a4-350b-9fe2-a7179e0383ee",
-      "title": "Brompton Split Corp. Enhanced Equity Income ETF Declares Increased Distributions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/brompton-split-corp-enhanced-equity-141400710.html",
-      "publisher": "TMX Newsfile",
-      "time": 1784902440,
-      "impact": "low",
-      "tags": []
+      "id": "5e7db464-cedb-388f-9443-f6f443a6b5db",
+      "title": "China’s rapid rise in drug development casts a long shadow over US oncology",
+      "link": "https://finance.yahoo.com/m/5e7db464-cedb-388f-9443-f6f443a6b5db/china%E2%80%99s-rapid-rise-in-drug.html",
+      "publisher": "Clinical Trials Arena",
+      "time": 1784906782,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
     },
     {
-      "id": "f3563f8b-68a8-393e-9e18-9a7640cae1a7",
-      "title": "Brompton Funds Declares Distributions for Brompton Wellington Square AAA CLO ETF and Brompton Wellington Square Investment Grade CLO ETF",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/brompton-funds-declares-distributions-brompton-141300119.html",
-      "publisher": "TMX Newsfile",
-      "time": 1784902380,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "15e60868-aa2d-345b-91ab-416250d5463b",
-      "title": "American Express Posts Mixed Second-Quarter Results, Sees Revenue Growth at High End of Guidance Range",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/american-express-posts-mixed-second-141252707.html",
-      "publisher": "MT Newswires",
-      "time": 1784902372,
+      "id": "95cb5fa8-96d0-32b4-a47c-b825272bac51",
+      "title": "European banks pour into risk, compliance and AI to compete: Moody’s",
+      "link": "https://finance.yahoo.com/m/95cb5fa8-96d0-32b4-a47c-b825272bac51/european-banks-pour-into.html",
+      "publisher": "Retail Banker International",
+      "time": 1784906770,
       "impact": "medium",
       "tags": [
         "macro",
@@ -94,60 +114,46 @@
       ]
     },
     {
-      "id": "7d1b7060-e5a1-31a3-ab6e-4f54f2543a33",
-      "title": "Progressive's Premium Growth Outpacing Market, Morgan Stanley Says; Rating, Price Target Raised",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/progressive-apos-premium-growth-outpacing-141251891.html",
-      "publisher": "MT Newswires",
-      "time": 1784902371,
+      "id": "c872f945-c24a-36d4-8362-dbc55c1e885f",
+      "title": "US homeowner satisfaction with mortgage servicers improves as financial pressures mount: JD Power",
+      "link": "https://finance.yahoo.com/m/c872f945-c24a-36d4-8362-dbc55c1e885f/us-homeowner-satisfaction.html",
+      "publisher": "Retail Banker International",
+      "time": 1784906716,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "6eddefa3-dff8-35fe-bba2-98df349e36e2",
+      "title": "OCBC deepens next-generation wealth franchise with expansion of GENesis programme",
+      "link": "https://finance.yahoo.com/m/6eddefa3-dff8-35fe-bba2-98df349e36e2/ocbc-deepens-next-generation.html",
+      "publisher": "Private Banker International",
+      "time": 1784906686,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "2a926efe-8202-4c00-9833-eece33a24b9c",
+      "title": "Silver prices today, Friday, July 24, 2026: Silver returns above $58 as markets price in higher rate risks",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-july-24-2026-silver-returns-above-58-as-markets-price-in-higher-rate-risks-152408436.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1784906648,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "ca5d9235-99ce-3abf-8c06-8c2c376f52d6",
-      "title": "YMX Logistics Reduced a Grocery Distributor’s Yard Fleet by 36% With Its Autonomous Yard Operating System",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ymx-logistics-reduced-grocery-distributor-140911494.html",
-      "publisher": "FreightWaves",
-      "time": 1784902151,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "60b9bb9b-6e5e-372e-a577-36127e7a7c7b",
-      "title": "TMO Q2 Deep Dive: Broad-Based End Market Growth and Strategic Portfolio Moves",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tmo-q2-deep-dive-broad-140908659.html",
-      "publisher": "StockStory",
-      "time": 1784902148,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "42157be5-f5d6-3d0c-bea1-57479a21f7ed",
-      "title": "US New-Home Sales Rise in June, Down Year-Over-Year",
-      "link": "https://finance.yahoo.com/real-estate/articles/us-home-sales-rise-june-140831581.html",
-      "publisher": "MT Newswires",
-      "time": 1784902111,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b153aaa6-54c9-39a4-993c-548ef51d8135",
-      "title": "MAX Power Mining Adds Aurora Project Permits Next to Lawson Project in Saskatchewan",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/max-power-mining-adds-aurora-140757517.html",
-      "publisher": "MT Newswires",
-      "time": 1784902077,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "39cf5632-8af6-326e-a230-1296d718e37b",
-      "title": "Target makes another investment in key category it needs to grow",
-      "link": "https://finance.yahoo.com/m/39cf5632-8af6-326e-a230-1296d718e37b/target-makes-another.html",
-      "publisher": "TheStreet",
-      "time": 1784902020,
+      "id": "49ce805e-7a33-3afd-8483-8ad9320aba98",
+      "title": "Mastercard expands virtual card platform with new controls and embedded ecosystem partnerships",
+      "link": "https://finance.yahoo.com/m/49ce805e-7a33-3afd-8483-8ad9320aba98/mastercard-expands-virtual.html",
+      "publisher": "Electronic Payments",
+      "time": 1784906648,
       "impact": "low",
       "tags": []
     }
