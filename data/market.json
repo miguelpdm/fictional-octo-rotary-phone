@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T11:41:04.751995+00:00",
+  "updatedAt": "2026-07-25T13:10:55.251832+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,84 +52,61 @@
   ],
   "news": [
     {
-      "id": "c035eeb6-d444-36f5-8001-df5e7d37007b",
-      "title": "My employer didn’t enroll me in a retirement plan after I filed the paperwork a year ago. I’m out thousands — now what?",
-      "link": "https://finance.yahoo.com/markets/options/articles/employer-didn-t-enroll-retirement-113500923.html",
-      "publisher": "Moneywise",
-      "time": 1784979300,
+      "id": "3c54e6f4-b81f-39a0-b03d-3dc01dcbe85f",
+      "title": "Costco makes big payment changes",
+      "link": "https://finance.yahoo.com/m/3c54e6f4-b81f-39a0-b03d-3dc01dcbe85f/costco-makes-big-payment.html",
+      "publisher": "TheStreet",
+      "time": 1784984580,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2a269b72-309c-31c2-a918-1ef87653354b",
-      "title": "Alex Trebek's former $33M estate could sell below asking at a no-reserve auction — and it's a warning for all sellers",
-      "link": "https://finance.yahoo.com/real-estate/articles/alex-trebeks-former-33m-estate-113000611.html",
-      "publisher": "Moneywise",
-      "time": 1784979000,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "3a2a5bc7-ce2b-3591-a606-655f4878d472",
-      "title": "GE Aerospace (GE) Just Beat and Dropped Again — Is the Third Straight Selloff Any Different This Time?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-ge-just-beat-112946138.html",
-      "publisher": "Insider Monkey",
-      "time": 1784978986,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8c2eebf6-b7b2-34bb-b67c-450a921439f1",
-      "title": "Prediction: Kevin Warsh and the Federal Open Market Committee (FOMC) Will Not Raise Interest Rates in 2026",
-      "link": "https://finance.yahoo.com/m/8c2eebf6-b7b2-34bb-b67c-450a921439f1/prediction%3A-kevin-warsh-and.html",
+      "id": "c7413164-38bf-3f2a-bc20-d0dbb07bcf6c",
+      "title": "Investors: July 29 Will Be a Critical Day for the Stock Market. Here's Why.",
+      "link": "https://finance.yahoo.com/m/c7413164-38bf-3f2a-bc20-d0dbb07bcf6c/investors%3A-july-29-will-be-a.html",
       "publisher": "Motley Fool",
-      "time": 1784978700,
-      "impact": "high",
+      "time": 1784984520,
+      "impact": "low",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "9bbc998f-4ab5-3246-af3d-904385e6af6a",
-      "title": "Citi brush off memory \"peak-out\" fears, reiterates Buy on Samsung and SK Hynix",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/citi-brush-off-memory-peak-112454050.html",
-      "publisher": "Investing.com",
-      "time": 1784978694,
+      "id": "13c1a27e-b211-31a9-ad5d-dfd7ddc06957",
+      "title": "Wedding Budget Mistakes Financial Advisors See Most Often",
+      "link": "https://finance.yahoo.com/m/13c1a27e-b211-31a9-ad5d-dfd7ddc06957/wedding-budget-mistakes.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1784984423,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d2b7cf7a-5249-3e15-b1b0-3be7eafd3ec2",
-      "title": "GAC Becomes Official Pre-Season Tour Partner of Chelsea FC in Hong Kong (China) and Malaysia",
-      "link": "https://finance.yahoo.com/media-advertising/articles/gac-becomes-official-pre-season-112100866.html",
-      "publisher": "PR Newswire",
-      "time": 1784978460,
+      "id": "e442bf76-1fbd-3668-b741-f1c96e66a0f0",
+      "title": "Reasons People Switch Banks",
+      "link": "https://finance.yahoo.com/m/e442bf76-1fbd-3668-b741-f1c96e66a0f0/reasons-people-switch-banks.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1784984419,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "f39cd143-9039-3252-bb46-a91b20925bac",
-      "title": "GAC and Chelsea FC Join Forces as Official Pre-Season Tour Partners in Hong Kong (China) and Malaysia",
-      "link": "https://finance.yahoo.com/media-advertising/articles/gac-chelsea-fc-join-forces-112100932.html",
-      "publisher": "PR Newswire",
-      "time": 1784978460,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
+      "id": "699f3bdb-40e0-3b0b-bd31-b8c479be07c3",
+      "title": "If you always say ‘yes’ to these 5 crucial things, you're probably broke (regardless of how much money you make)",
+      "link": "https://finance.yahoo.com/markets/articles/always-yes-5-crucial-things-125500931.html",
+      "publisher": "Moneywise",
+      "time": 1784984100,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "6607f7dd-1850-3967-9cbd-ecba89e75b7d",
-      "title": "Elon Musk Warns Short Sellers as $25 Billion Bet Builds Against SpaceX Ahead of Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-warns-short-sellers-112039197.html",
-      "publisher": "Insider Monkey",
-      "time": 1784978439,
+      "id": "42e25270-8141-3c46-bc68-d112edc765e3",
+      "title": "Alphabet vs. Apple: Which Warren Buffett Favorite Is the Better Buy Right Now?",
+      "link": "https://finance.yahoo.com/m/42e25270-8141-3c46-bc68-d112edc765e3/alphabet-vs.-apple%3A-which.html",
+      "publisher": "Motley Fool",
+      "time": 1784984040,
       "impact": "high",
       "tags": [
         "geo",
@@ -137,23 +114,38 @@
       ]
     },
     {
-      "id": "6b53476c-ccb6-319b-ae36-774357273416",
-      "title": "Prediction: Greg Abel Will Buy a Stock That Warren Buffett Spent Decades Passing On for This Simple Reason",
-      "link": "https://finance.yahoo.com/m/6b53476c-ccb6-319b-ae36-774357273416/prediction%3A-greg-abel-will.html",
+      "id": "27c535b2-a27f-312b-80ce-9de397c4061d",
+      "title": "2 Advantages and 2 Drawbacks of Working While Claiming Social Security",
+      "link": "https://finance.yahoo.com/m/27c535b2-a27f-312b-80ce-9de397c4061d/2-advantages-and-2-drawbacks.html",
       "publisher": "Motley Fool",
-      "time": 1784978400,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
+      "time": 1784983800,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "49fd7f59-12b3-3064-8120-40e11f2b07f7",
-      "title": "Prediction: This Unstoppable ETF Will Crush the S&P 500 in 2026 and Beyond",
-      "link": "https://finance.yahoo.com/m/49fd7f59-12b3-3064-8120-40e11f2b07f7/prediction%3A-this-unstoppable.html",
+      "id": "a5c583b3-d93b-38fe-be21-6bf72f664980",
+      "title": "What Does the Dropbox CTO's Sale of Nearly 13,000 Company Shares Mean for Investors?",
+      "link": "https://finance.yahoo.com/m/a5c583b3-d93b-38fe-be21-6bf72f664980/what-does-the-dropbox-cto%27s.html",
       "publisher": "Motley Fool",
-      "time": 1784978100,
+      "time": 1784983621,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7a486edb-9134-3de3-a1e3-7a91762e7f64",
+      "title": "Calhoun to launch aviation maintenance program this fall",
+      "link": "https://finance.yahoo.com/m/7a486edb-9134-3de3-a1e3-7a91762e7f64/calhoun-to-launch-aviation.html",
+      "publisher": "The Decatur Daily, Ala.",
+      "time": 1784983560,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "96b7d8ef-49ba-3278-aa71-595e262ecdbc",
+      "title": "Investing in St. Kitts: Opportunities, Incentives, and How Invest St. Kitts Can Help",
+      "link": "https://finance.yahoo.com/small-business/articles/investing-st-kitts-opportunities-incentives-124500940.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1784983500,
       "impact": "low",
       "tags": []
     }
