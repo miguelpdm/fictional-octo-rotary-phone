@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T13:10:55.251832+00:00",
+  "updatedAt": "2026-07-25T14:45:16.883288+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,40 +52,20 @@
   ],
   "news": [
     {
-      "id": "3c54e6f4-b81f-39a0-b03d-3dc01dcbe85f",
-      "title": "Costco makes big payment changes",
-      "link": "https://finance.yahoo.com/m/3c54e6f4-b81f-39a0-b03d-3dc01dcbe85f/costco-makes-big-payment.html",
-      "publisher": "TheStreet",
-      "time": 1784984580,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c7413164-38bf-3f2a-bc20-d0dbb07bcf6c",
-      "title": "Investors: July 29 Will Be a Critical Day for the Stock Market. Here's Why.",
-      "link": "https://finance.yahoo.com/m/c7413164-38bf-3f2a-bc20-d0dbb07bcf6c/investors%3A-july-29-will-be-a.html",
+      "id": "2c08e526-3946-3dcb-ab1d-dc140ea3e110",
+      "title": "Two Wall Street Analysts Just Set Price Targets on Sandisk $1,430 Apart. One of Them Is Going to Be Very Wrong.",
+      "link": "https://finance.yahoo.com/m/2c08e526-3946-3dcb-ab1d-dc140ea3e110/two-wall-street-analysts-just.html",
       "publisher": "Motley Fool",
-      "time": 1784984520,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "13c1a27e-b211-31a9-ad5d-dfd7ddc06957",
-      "title": "Wedding Budget Mistakes Financial Advisors See Most Often",
-      "link": "https://finance.yahoo.com/m/13c1a27e-b211-31a9-ad5d-dfd7ddc06957/wedding-budget-mistakes.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1784984423,
+      "time": 1784990220,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e442bf76-1fbd-3668-b741-f1c96e66a0f0",
-      "title": "Reasons People Switch Banks",
-      "link": "https://finance.yahoo.com/m/e442bf76-1fbd-3668-b741-f1c96e66a0f0/reasons-people-switch-banks.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1784984419,
+      "id": "764121fb-6c0a-38a6-ada6-5d4afe46f231",
+      "title": "United Rentals CFO Sells Shares After Earnings Pop. Should Investors Follow?",
+      "link": "https://finance.yahoo.com/m/764121fb-6c0a-38a6-ada6-5d4afe46f231/united-rentals-cfo-sells.html",
+      "publisher": "Motley Fool",
+      "time": 1784990206,
       "impact": "medium",
       "tags": [
         "macro",
@@ -93,61 +73,78 @@
       ]
     },
     {
-      "id": "699f3bdb-40e0-3b0b-bd31-b8c479be07c3",
-      "title": "If you always say ‘yes’ to these 5 crucial things, you're probably broke (regardless of how much money you make)",
-      "link": "https://finance.yahoo.com/markets/articles/always-yes-5-crucial-things-125500931.html",
-      "publisher": "Moneywise",
-      "time": 1784984100,
+      "id": "329025e8-be69-31e3-85fe-4695f138cd79",
+      "title": "Why Wall Street Can't Get Enough of This Dividend King",
+      "link": "https://finance.yahoo.com/m/329025e8-be69-31e3-85fe-4695f138cd79/why-wall-street-can%27t-get.html",
+      "publisher": "Motley Fool",
+      "time": 1784990100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "42e25270-8141-3c46-bc68-d112edc765e3",
-      "title": "Alphabet vs. Apple: Which Warren Buffett Favorite Is the Better Buy Right Now?",
-      "link": "https://finance.yahoo.com/m/42e25270-8141-3c46-bc68-d112edc765e3/alphabet-vs.-apple%3A-which.html",
-      "publisher": "Motley Fool",
-      "time": 1784984040,
-      "impact": "high",
+      "id": "c1bcb18e-6ac1-3588-ab37-44124d74019c",
+      "title": "'Mind-blowing' El Niño stuns scientists. Why are they so concerned?",
+      "link": "https://finance.yahoo.com/m/c1bcb18e-6ac1-3588-ab37-44124d74019c/%27mind-blowing%27-el-ni%C3%B1o-stuns.html",
+      "publisher": "USA TODAY",
+      "time": 1784990090,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "71eeca4c-c8ef-42ba-8745-ddc194b078eb",
+      "title": "AEW's Tony Khan on the business lessons he learned from his billionaire father Shad Khan",
+      "link": "https://finance.yahoo.com/markets/article/aews-tony-khan-on-the-business-lessons-he-learned-from-his-billionaire-father-shad-khan-143202987.html",
+      "publisher": "Yahoo Finance",
+      "time": 1784989922,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "48e22827-4777-3cbc-9b53-07ff0de80ab9",
+      "title": "NextEra Energy vs Brookfield Renewable: The Better Dividend Stock",
+      "link": "https://finance.yahoo.com/m/48e22827-4777-3cbc-9b53-07ff0de80ab9/nextera-energy-vs-brookfield.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1784989813,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "36c73cdf-9420-3eb7-b8d4-0ac2866e0a78",
+      "title": "SEC Mutual Funds: The Performance Standard You Can Actually Trust",
+      "link": "https://finance.yahoo.com/m/36c73cdf-9420-3eb7-b8d4-0ac2866e0a78/sec-mutual-funds%3A-the.html",
+      "publisher": "TheStreet",
+      "time": 1784989800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fc2e8a88-87eb-3919-973b-e8615c083b1c",
+      "title": "You can ‘ease off the gas’ once you hit $100,000, said Charlie Munger. Here’s how to get there as fast as possible",
+      "link": "https://finance.yahoo.com/markets/articles/ease-off-gas-once-hit-143000540.html",
+      "publisher": "Moneywise",
+      "time": 1784989800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5cc33a8a-3de7-372a-ba98-f9973c6b5818",
+      "title": "Chandigarh University's 272 Allied Health Sciences Students Secure Jobs in Prestigious Govt & Private Hospitals in Past 3 Years",
+      "link": "https://finance.yahoo.com/healthcare/articles/chandigarh-universitys-272-allied-health-142200824.html",
+      "publisher": "PR Newswire",
+      "time": 1784989320,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f5298731-7253-3c1e-87b0-da8700d3bcf0",
+      "title": "Why Retirees Are Moving Cash Reserves Into High-Yield Money Market Funds Instead of Savings Accounts",
+      "link": "https://finance.yahoo.com/m/f5298731-7253-3c1e-87b0-da8700d3bcf0/why-retirees-are-moving-cash.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1784989318,
+      "impact": "low",
       "tags": [
-        "geo",
         "macro"
       ]
-    },
-    {
-      "id": "27c535b2-a27f-312b-80ce-9de397c4061d",
-      "title": "2 Advantages and 2 Drawbacks of Working While Claiming Social Security",
-      "link": "https://finance.yahoo.com/m/27c535b2-a27f-312b-80ce-9de397c4061d/2-advantages-and-2-drawbacks.html",
-      "publisher": "Motley Fool",
-      "time": 1784983800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a5c583b3-d93b-38fe-be21-6bf72f664980",
-      "title": "What Does the Dropbox CTO's Sale of Nearly 13,000 Company Shares Mean for Investors?",
-      "link": "https://finance.yahoo.com/m/a5c583b3-d93b-38fe-be21-6bf72f664980/what-does-the-dropbox-cto%27s.html",
-      "publisher": "Motley Fool",
-      "time": 1784983621,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7a486edb-9134-3de3-a1e3-7a91762e7f64",
-      "title": "Calhoun to launch aviation maintenance program this fall",
-      "link": "https://finance.yahoo.com/m/7a486edb-9134-3de3-a1e3-7a91762e7f64/calhoun-to-launch-aviation.html",
-      "publisher": "The Decatur Daily, Ala.",
-      "time": 1784983560,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "96b7d8ef-49ba-3278-aa71-595e262ecdbc",
-      "title": "Investing in St. Kitts: Opportunities, Incentives, and How Invest St. Kitts Can Help",
-      "link": "https://finance.yahoo.com/small-business/articles/investing-st-kitts-opportunities-incentives-124500940.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1784983500,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
