@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T22:56:20.991958+00:00",
+  "updatedAt": "2026-07-25T00:02:01.148477+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,20 +52,56 @@
   ],
   "news": [
     {
-      "id": "2da6cc49-e44f-34e1-a339-6e8ba066ee84",
-      "title": "The AI Boom Is Expanding Beyond Chips. These 3 ETFs Could Be the Next Winners",
-      "link": "https://finance.yahoo.com/m/2da6cc49-e44f-34e1-a339-6e8ba066ee84/the-ai-boom-is-expanding.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1784933163,
+      "id": "ba9510eb-24f0-3c0f-943f-f406171cd7fc",
+      "title": "Good News For Tesla Stock Fans",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/good-news-tesla-stock-fans-000012156.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784937612,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8cafc0a4-85b4-3dad-b6ee-e6be6532ef81",
-      "title": "Trump jokes about tariffs for Mexico's lettuce, Canada's wildfire smoke",
-      "link": "https://finance.yahoo.com/m/8cafc0a4-85b4-3dad-b6ee-e6be6532ef81/trump-jokes-about-tariffs-for.html",
-      "publisher": "USA TODAY",
-      "time": 1784932907,
+      "id": "b3c13545-884e-3b21-94ab-e4335c1b8f08",
+      "title": "Nvidia, Microsoft, Palantir Lead Big Tech Revolt Against AI Restrictions",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-microsoft-palantir-lead-big-235955088.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784937595,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b479239a-e173-3927-a3b3-048878f4705d",
+      "title": "Good News For Meta Stock Fans",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/good-news-meta-stock-fans-235943957.html",
+      "publisher": "GuruFocus.com",
+      "time": 1784937583,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "59d9ce9e-ca8d-3e86-96a1-e7e258189032",
+      "title": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-sk-group-unveil-500-235343258.html",
+      "publisher": "Reuters",
+      "time": 1784937223,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6acb63d3-519a-33dd-9d07-a3e1d43c5359",
+      "title": "Dave Canales and Tetairoa McMillan speak on the state of the Panthers 'The Insiders'",
+      "link": "https://finance.yahoo.com/m/6acb63d3-519a-33dd-9d07-a3e1d43c5359/dave-canales-and-tetairoa.html",
+      "publisher": "NFL Highlights",
+      "time": 1784937084,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ea4492b6-3c81-3c66-b61b-968fa3562d3c",
+      "title": "Turk's term as UN human rights chief extended despite US warnings",
+      "link": "https://finance.yahoo.com/m/ea4492b6-3c81-3c66-b61b-968fa3562d3c/turk%27s-term-as-un-human.html",
+      "publisher": "AFP",
+      "time": 1784937035,
       "impact": "high",
       "tags": [
         "geo",
@@ -73,78 +109,42 @@
       ]
     },
     {
-      "id": "86d94be9-c4cb-3a5e-b403-64665fe5f479",
-      "title": "Robert Half (RHI) Stock Trades Down, Here Is Why",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/robert-half-rhi-stock-trades-224108569.html",
+      "id": "cff88d04-5935-30a9-9019-e81feeb29549",
+      "title": "Anthropic Is the New SpaceX for ETF Issuers",
+      "link": "https://finance.yahoo.com/m/cff88d04-5935-30a9-9019-e81feeb29549/anthropic-is-the-new-spacex.html",
+      "publisher": "etf.com",
+      "time": 1784936963,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "712afca0-d08a-302d-98a7-ffb498bf5be8",
+      "title": "Iran hits U.S. facilities in the Middle East as Trump is pressed on exit strategy",
+      "link": "https://finance.yahoo.com/m/712afca0-d08a-302d-98a7-ffb498bf5be8/iran-hits-u.s.-facilities-in.html",
+      "publisher": "CBS News Videos",
+      "time": 1784936940,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e3852931-5674-37e4-b391-e72f20affa8b",
+      "title": "Trump orders disclaimer signs outside museum of American history",
+      "link": "https://finance.yahoo.com/m/e3852931-5674-37e4-b391-e72f20affa8b/trump-orders-disclaimer-signs.html",
+      "publisher": "AFP",
+      "time": 1784936898,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b62898ed-77e7-3a06-a2cd-48c9bca10c2f",
+      "title": "Kinsale Capital Group (KNSL) Stock Trades Up, Here Is Why",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kinsale-capital-group-knsl-stock-234508623.html",
       "publisher": "StockStory",
-      "time": 1784932868,
+      "time": 1784936708,
       "impact": "medium",
       "tags": [
         "geo"
       ]
-    },
-    {
-      "id": "177538fc-9ad9-3e86-a90d-707ec525b7d0",
-      "title": "You’re 58 and Your $350K Is Just Sitting There. These 3 ETFs Turn It Into a Retirement Engine",
-      "link": "https://finance.yahoo.com/m/177538fc-9ad9-3e86-a90d-707ec525b7d0/you%E2%80%99re-58-and-your-%24350k-is.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1784932807,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "019bb45c-f9b3-3e9b-8bb9-4e0a08c6185e",
-      "title": "Saudi Arabia strikes Yemeni port city of Hodeidah as Iranian backed Houthi rebels vow to escalate",
-      "link": "https://finance.yahoo.com/m/019bb45c-f9b3-3e9b-8bb9-4e0a08c6185e/saudi-arabia-strikes-yemeni.html",
-      "publisher": "Associated Press",
-      "time": 1784932670,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "535fa448-37f1-3e87-a92f-863d65acfb98",
-      "title": "Venezuela to withdraw from International Criminal Court",
-      "link": "https://finance.yahoo.com/m/535fa448-37f1-3e87-a92f-863d65acfb98/venezuela-to-withdraw-from.html",
-      "publisher": "AFP",
-      "time": 1784932654,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a564e126-5835-30b1-afc3-b5830c152d62",
-      "title": "Vector Science & Therapeutics Reports First Quarterly Financial Results as a Public Company; Announces Inaugural Investor Q&A on July 28",
-      "link": "https://finance.yahoo.com/healthcare/articles/vector-science-therapeutics-reports-first-223700122.html",
-      "publisher": "CNW Group",
-      "time": 1784932620,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f109558c-775d-3c8b-a55a-9e3361463f2c",
-      "title": "AHF Backs Africa Union’s Debt Reform Push",
-      "link": "https://finance.yahoo.com/economy/policy/articles/ahf-backs-africa-union-debt-223700324.html",
-      "publisher": "Business Wire",
-      "time": 1784932620,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "48f7ba5d-6ae0-368c-ab27-b07aaea6f47e",
-      "title": "Pathfinder Ventures Inc. Provides Corporate Update",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pathfinder-ventures-inc-provides-corporate-223500070.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1784932500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "40fee23f-127e-33bc-9a94-ba03dd3a407f",
-      "title": "ICC prosecutor Karim Khan removed over 'serious misconduct'",
-      "link": "https://finance.yahoo.com/m/40fee23f-127e-33bc-9a94-ba03dd3a407f/icc-prosecutor-karim-khan.html",
-      "publisher": "AFP",
-      "time": 1784932460,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
