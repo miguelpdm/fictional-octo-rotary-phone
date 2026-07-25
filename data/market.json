@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T14:45:16.883288+00:00",
+  "updatedAt": "2026-07-25T15:59:26.960469+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,99 +52,107 @@
   ],
   "news": [
     {
-      "id": "2c08e526-3946-3dcb-ab1d-dc140ea3e110",
-      "title": "Two Wall Street Analysts Just Set Price Targets on Sandisk $1,430 Apart. One of Them Is Going to Be Very Wrong.",
-      "link": "https://finance.yahoo.com/m/2c08e526-3946-3dcb-ab1d-dc140ea3e110/two-wall-street-analysts-just.html",
-      "publisher": "Motley Fool",
-      "time": 1784990220,
+      "id": "2fd1afae-dfae-388c-96b5-7cdf46c5d24c",
+      "title": "Brazil bars U.S. officials planning to challenge vote integrity - report",
+      "link": "https://finance.yahoo.com/m/2fd1afae-dfae-388c-96b5-7cdf46c5d24c/brazil-bars-u.s.-officials.html",
+      "publisher": "Investing.com",
+      "time": 1784994667,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "764121fb-6c0a-38a6-ada6-5d4afe46f231",
-      "title": "United Rentals CFO Sells Shares After Earnings Pop. Should Investors Follow?",
-      "link": "https://finance.yahoo.com/m/764121fb-6c0a-38a6-ada6-5d4afe46f231/united-rentals-cfo-sells.html",
-      "publisher": "Motley Fool",
-      "time": 1784990206,
-      "impact": "medium",
+      "id": "ffd5a8c6-1c88-3290-9ae4-419872bd0a86",
+      "title": "Small businesses file lawsuits against Trump's new sweeping tariffs",
+      "link": "https://finance.yahoo.com/m/ffd5a8c6-1c88-3290-9ae4-419872bd0a86/small-businesses-file.html",
+      "publisher": "Associated Press",
+      "time": 1784993922,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "329025e8-be69-31e3-85fe-4695f138cd79",
-      "title": "Why Wall Street Can't Get Enough of This Dividend King",
-      "link": "https://finance.yahoo.com/m/329025e8-be69-31e3-85fe-4695f138cd79/why-wall-street-can%27t-get.html",
+      "id": "f0e7fe9a-5e9e-3bab-ab83-a9024fd128f6",
+      "title": "Ukraine strikes Siberia refinery as Kazakh leader tells Putin war should end",
+      "link": "https://finance.yahoo.com/m/f0e7fe9a-5e9e-3bab-ab83-a9024fd128f6/ukraine-strikes-siberia.html",
+      "publisher": "AFP",
+      "time": 1784993877,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "638dcd12-476d-33d3-8075-760d33a754c8",
+      "title": "3 Energy Stocks Yielding Over 4.5% to Cash in on the AI Power Boom",
+      "link": "https://finance.yahoo.com/m/638dcd12-476d-33d3-8075-760d33a754c8/3-energy-stocks-yielding-over.html",
       "publisher": "Motley Fool",
-      "time": 1784990100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c1bcb18e-6ac1-3588-ab37-44124d74019c",
-      "title": "'Mind-blowing' El Niño stuns scientists. Why are they so concerned?",
-      "link": "https://finance.yahoo.com/m/c1bcb18e-6ac1-3588-ab37-44124d74019c/%27mind-blowing%27-el-ni%C3%B1o-stuns.html",
-      "publisher": "USA TODAY",
-      "time": 1784990090,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "71eeca4c-c8ef-42ba-8745-ddc194b078eb",
-      "title": "AEW's Tony Khan on the business lessons he learned from his billionaire father Shad Khan",
-      "link": "https://finance.yahoo.com/markets/article/aews-tony-khan-on-the-business-lessons-he-learned-from-his-billionaire-father-shad-khan-143202987.html",
-      "publisher": "Yahoo Finance",
-      "time": 1784989922,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "48e22827-4777-3cbc-9b53-07ff0de80ab9",
-      "title": "NextEra Energy vs Brookfield Renewable: The Better Dividend Stock",
-      "link": "https://finance.yahoo.com/m/48e22827-4777-3cbc-9b53-07ff0de80ab9/nextera-energy-vs-brookfield.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1784989813,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "36c73cdf-9420-3eb7-b8d4-0ac2866e0a78",
-      "title": "SEC Mutual Funds: The Performance Standard You Can Actually Trust",
-      "link": "https://finance.yahoo.com/m/36c73cdf-9420-3eb7-b8d4-0ac2866e0a78/sec-mutual-funds%3A-the.html",
-      "publisher": "TheStreet",
-      "time": 1784989800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fc2e8a88-87eb-3919-973b-e8615c083b1c",
-      "title": "You can ‘ease off the gas’ once you hit $100,000, said Charlie Munger. Here’s how to get there as fast as possible",
-      "link": "https://finance.yahoo.com/markets/articles/ease-off-gas-once-hit-143000540.html",
-      "publisher": "Moneywise",
-      "time": 1784989800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5cc33a8a-3de7-372a-ba98-f9973c6b5818",
-      "title": "Chandigarh University's 272 Allied Health Sciences Students Secure Jobs in Prestigious Govt & Private Hospitals in Past 3 Years",
-      "link": "https://finance.yahoo.com/healthcare/articles/chandigarh-universitys-272-allied-health-142200824.html",
-      "publisher": "PR Newswire",
-      "time": 1784989320,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f5298731-7253-3c1e-87b0-da8700d3bcf0",
-      "title": "Why Retirees Are Moving Cash Reserves Into High-Yield Money Market Funds Instead of Savings Accounts",
-      "link": "https://finance.yahoo.com/m/f5298731-7253-3c1e-87b0-da8700d3bcf0/why-retirees-are-moving-cash.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1784989318,
+      "time": 1784993700,
       "impact": "low",
       "tags": [
         "macro"
       ]
+    },
+    {
+      "id": "87760f6c-8887-3c95-b145-4153fc3b5523",
+      "title": "Troy Jackson replaces Graham Platner as Maine Senate Democratic nominee",
+      "link": "https://finance.yahoo.com/m/87760f6c-8887-3c95-b145-4153fc3b5523/troy-jackson-replaces-graham.html",
+      "publisher": "USA TODAY",
+      "time": 1784993699,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "172ae123-28f7-399d-a3fc-348c79b8380a",
+      "title": "Billionaire Investor Seth Klarman’s Top 5 Stocks: Would He Buy More Today?",
+      "link": "https://finance.yahoo.com/m/172ae123-28f7-399d-a3fc-348c79b8380a/billionaire-investor-seth.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1784993451,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "be16e5e3-2e51-360a-adbd-e96350cad8e1",
+      "title": "Prediction: Is Salesforce a Millionaire-Maker Stock?",
+      "link": "https://finance.yahoo.com/m/be16e5e3-2e51-360a-adbd-e96350cad8e1/prediction%3A-is-salesforce-a.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1784993418,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1c945391-80ca-3725-92b6-2f2db206266e",
+      "title": "A stroke can cost $78K a year in home care that Medicare won't cover. Returning to work carries own hidden costs",
+      "link": "https://finance.yahoo.com/healthcare/articles/stroke-cost-78k-home-care-153000518.html",
+      "publisher": "Moneywise",
+      "time": 1784993400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "38a13305-8519-3474-87e9-1134c2f745c3",
+      "title": "Citi Warns U.S. Equity Positioning May Face Further Pressure",
+      "link": "https://finance.yahoo.com/m/38a13305-8519-3474-87e9-1134c2f745c3/citi-warns-u.s.-equity.html",
+      "publisher": "InvestorsHub",
+      "time": 1784993400,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "fc80dc2d-995c-35a3-80d2-a4964645f25c",
+      "title": "REI has a 40-degree sleeping bag that’s great for camping for just $45",
+      "link": "https://finance.yahoo.com/m/fc80dc2d-995c-35a3-80d2-a4964645f25c/rei-has-a-40-degree-sleeping.html",
+      "publisher": "TheStreet",
+      "time": 1784993400,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
