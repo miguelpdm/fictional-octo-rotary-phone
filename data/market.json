@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T08:28:20.259366+00:00",
+  "updatedAt": "2026-07-25T10:08:24.861829+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,29 +52,38 @@
   ],
   "news": [
     {
-      "id": "0de12593-560f-3834-ae68-3726d745e7b6",
-      "title": "Oracle Corporation (NYSE:ORCL)’s Stock Is The One To Watch, Says Jim Cramer",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-corporation-nyse-orcl-stock-080707294.html",
-      "publisher": "Insider Monkey",
-      "time": 1784966827,
+      "id": "3db90acf-625e-35c1-b343-2176b1ea3cc3",
+      "title": "She’s Land-Rich but Cash-Poor at 64. A Deal for the Farm’s Development Rights Could Let Her Delay Social Security to 70.",
+      "link": "https://finance.yahoo.com/m/3db90acf-625e-35c1-b343-2176b1ea3cc3/she%E2%80%99s-land-rich-but-cash-poor.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1784973852,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "825da128-fc2c-36ac-90ec-8a1100451676",
-      "title": "Tencent Brings Together AI and Games to Help Preserve and Share Cultural Heritage of New UNESCO Site in Jingdezhen",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tencent-brings-together-ai-games-080600670.html",
-      "publisher": "PR Newswire",
-      "time": 1784966760,
+      "id": "942c4819-c3eb-3109-87ff-ab5b253fd3ff",
+      "title": "Robinhood's New Blockchain Has Been a Smash Success. Here's Why That's Bearish for Ethereum.",
+      "link": "https://finance.yahoo.com/m/942c4819-c3eb-3109-87ff-ab5b253fd3ff/robinhood%27s-new-blockchain.html",
+      "publisher": "Motley Fool",
+      "time": 1784973720,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4f071c4c-6e86-3bbf-af84-83de3faeaf4c",
-      "title": "Jim Cramer Called 3M Company (NYSE:MMM) “Easy Money” As Earnings Hit The Wires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-called-3m-company-080528132.html",
-      "publisher": "Insider Monkey",
-      "time": 1784966728,
+      "id": "ea2eb4ab-3e50-3360-a1b5-07c78aa55cec",
+      "title": "Six ancient Comoros medinas join UNESCO's heritage list",
+      "link": "https://finance.yahoo.com/m/ea2eb4ab-3e50-3360-a1b5-07c78aa55cec/six-ancient-comoros-medinas.html",
+      "publisher": "AFP",
+      "time": 1784973670,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "02e696a7-2a3b-4f15-b099-77eaa5a2ffb6",
+      "title": "Why aren't oil prices higher? Staggering drop in energy demand leaves strategists puzzled.",
+      "link": "https://finance.yahoo.com/energy/article/why-arent-oil-prices-higher-staggering-drop-in-energy-demand-leaves-strategists-puzzled-100000046.html",
+      "publisher": "Yahoo Finance",
+      "time": 1784973600,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,69 +91,59 @@
       ]
     },
     {
-      "id": "b2537371-d268-3c3c-aeb1-69d37449592b",
-      "title": "Alphabet's Projected $205 Billion Capex Can Lift These 3 AI Stocks",
-      "link": "https://finance.yahoo.com/m/b2537371-d268-3c3c-aeb1-69d37449592b/alphabet%27s-projected-%24205.html",
+      "id": "055bc807-3109-3882-a780-8ab2b3070831",
+      "title": "News Quiz for July 25, 2026",
+      "link": "https://finance.yahoo.com/m/055bc807-3109-3882-a780-8ab2b3070831/news-quiz-for-july-25%2C-2026.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1784973600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "53bc405d-cda5-459a-b4e9-3ddd59a9bed4",
+      "title": "Best CD rates today, Saturday, July 25, 2026: Best account provides 4.20% APY",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-july-25-2026-best-account-provides-420-apy-100000276.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1784973600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7f0b7469-feb5-4639-a79b-6a7a3a300521",
+      "title": "Mortgage and refinance interest rates today, Saturday, July 25, 2026: Highest rates this year",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-july-25-2026-highest-rates-this-year-100000185.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1784973600,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "e9df1839-1b79-3f0d-966d-7e8a21d09f4a",
+      "title": "My mom just died and I found out she borrowed $90,000 to put me through school and never paid it back. Am I on the hook?",
+      "link": "https://finance.yahoo.com/small-business/articles/mom-just-died-found-she-100000738.html",
+      "publisher": "Moneywise",
+      "time": 1784973600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "87cb5c79-50cb-3c19-855b-aa84aff5d017",
+      "title": "Americans Disagree on How to Save Social Security Before 2032, Polls Find",
+      "link": "https://finance.yahoo.com/m/87cb5c79-50cb-3c19-855b-aa84aff5d017/americans-disagree-on-how-to.html",
       "publisher": "Motley Fool",
-      "time": 1784966580,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "06d80772-e5a7-3d64-8657-cf0528e11983",
-      "title": "Western Digital Corporation (NASDAQ:WDC) Got Lucky While Micron’s The Real Deal, Says Jim Cramer",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-corporation-nasdaq-wdc-080209259.html",
-      "publisher": "Insider Monkey",
-      "time": 1784966529,
+      "time": 1784973540,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "800c5aa3-67ab-3faa-a917-1e9d48b56b63",
-      "title": "Jim Cramer Said To Buy Johnson & Johnson (NYSE:JNJ)’s Shares – Here’s What Happened Next",
-      "link": "https://finance.yahoo.com/healthcare/articles/jim-cramer-said-buy-johnson-075928603.html",
-      "publisher": "Insider Monkey",
-      "time": 1784966368,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a869777e-413f-35f8-8638-b695470d929e",
-      "title": "Jim Cramer Discsusses Meta Platforms (NASDAQ:META)’s “Brilliant Team of People” & Their Big Worry",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discsusses-meta-platforms-075638806.html",
-      "publisher": "Insider Monkey",
-      "time": 1784966198,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "17951ad2-acb6-3c96-8887-e09bff3054eb",
-      "title": "Jim Cramer Discussed A Surprise For International Business Machines Corporation (NYSE:IBM) CEO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discussed-surprise-international-075436459.html",
-      "publisher": "Insider Monkey",
-      "time": 1784966076,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b2695148-063f-356c-a195-5f07d95cb410",
-      "title": "Jim Cramer: These Two Financial Stocks Are Outrageously Cheap",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-two-financial-stocks-075239448.html",
-      "publisher": "Insider Monkey",
-      "time": 1784965959,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "81b11cbc-ce89-3b6f-afd1-367587121b3b",
-      "title": "ANCEL Helps Drivers Prepare for National Park Road Trips When Roadside Assistance May Be Out of Reach",
-      "link": "https://finance.yahoo.com/technology/articles/ancel-helps-drivers-prepare-national-075100219.html",
-      "publisher": "GlobeNewswire",
-      "time": 1784965860,
+      "id": "c4502b1e-0999-3933-aa40-4218aa2bf0e5",
+      "title": "Jensen Huang Signed Toyota, Fanuc, Kioxia, and 5 Other Japanese Industrial Giants Into Nvidia's Physical AI Coalition This Week. Nvidia Has $1 Trillion in Confirmed Demand Through 2027.",
+      "link": "https://finance.yahoo.com/m/c4502b1e-0999-3933-aa40-4218aa2bf0e5/jensen-huang-signed-toyota%2C.html",
+      "publisher": "Motley Fool",
+      "time": 1784973540,
       "impact": "low",
       "tags": []
     }
