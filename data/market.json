@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T18:04:16.581784+00:00",
+  "updatedAt": "2026-07-26T19:42:23.890170+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,80 @@
   ],
   "news": [
     {
-      "id": "c5c987a3-aa4e-308b-beff-8ad89188ad84",
-      "title": "South Korea’s Biggest Bank Taps JPMorgan Blockchain for Trade Payments",
-      "link": "https://finance.yahoo.com/m/c5c987a3-aa4e-308b-beff-8ad89188ad84/south-korea%E2%80%99s-biggest-bank.html",
-      "publisher": "BeInCrypto",
-      "time": 1785088800,
+      "id": "3dc6a15c-8bff-340c-adeb-03fba2b5cc41",
+      "title": "After Arrest Controversy, \"Empire State Building Couple\" Angela Nikolau and Ivan Beerkus to Address Recent Incident on Gosh Live",
+      "link": "https://finance.yahoo.com/media-advertising/articles/arrest-controversy-empire-state-building-193700889.html",
+      "publisher": "PR Newswire",
+      "time": 1785094620,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "41df034a-4545-3199-be18-ee6025755954",
+      "title": "Nolan's 'Odyssey' shows staying power at N. America box office",
+      "link": "https://finance.yahoo.com/m/41df034a-4545-3199-be18-ee6025755954/nolan%27s-%27odyssey%27-shows.html",
+      "publisher": "AFP",
+      "time": 1785094379,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2f6b6862-9419-3be9-8057-339805fc0b37",
+      "title": "Lucas Museum to display unseen 'Star Wars' pieces, curator says",
+      "link": "https://finance.yahoo.com/m/2f6b6862-9419-3be9-8057-339805fc0b37/lucas-museum-to-display.html",
+      "publisher": "AFP",
+      "time": 1785094062,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "0ada02ec-879e-3bac-8a6b-42a66d83b052",
+      "title": "Fires in Europe: latest developments",
+      "link": "https://finance.yahoo.com/m/0ada02ec-879e-3bac-8a6b-42a66d83b052/fires-in-europe%3A-latest.html",
+      "publisher": "AFP",
+      "time": 1785093625,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "557ccdd8-7e22-3fa7-a1a9-8f0ec341be54",
+      "title": "Airbnb Is in the Spotlight for All the Right Reasons. Here's Why It's a Buy Now.",
+      "link": "https://finance.yahoo.com/m/557ccdd8-7e22-3fa7-a1a9-8f0ec341be54/airbnb-is-in-the-spotlight.html",
+      "publisher": "Motley Fool",
+      "time": 1785093600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0d4a433f-b9c9-3e6b-8bb3-0d529e2c5f8c",
+      "title": "Rising inflation turns July Fed meeting into rate-hike showdown",
+      "link": "https://finance.yahoo.com/m/0d4a433f-b9c9-3e6b-8bb3-0d529e2c5f8c/rising-inflation-turns-july.html",
+      "publisher": "TheStreet",
+      "time": 1785093180,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "485a5278-57c0-3f68-bbd1-289c32e8afe4",
+      "title": "Parsons (PSN) Could Be 16% Below Fair Value After Army Cybersecurity Win",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/parsons-psn-could-16-below-191007852.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785093007,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b2c7b90e-0275-39a1-95a5-3ec7d53286ac",
+      "title": "Is World Kinect (WKC) Undervalued On Strong Q2 Results And Raised Guidance?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/world-kinect-wkc-undervalued-strong-190943852.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785092983,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,106 +133,25 @@
       ]
     },
     {
-      "id": "09da3fd9-6272-3a5c-88ee-46a11450d713",
-      "title": "As Financials Rally, Is the Steady Vanguard Financials ETF or the Leveraged ProShares Ultra Financials the Better Buy Right Now?",
-      "link": "https://finance.yahoo.com/m/09da3fd9-6272-3a5c-88ee-46a11450d713/as-financials-rally%2C-is-the.html",
-      "publisher": "Motley Fool",
-      "time": 1785088261,
+      "id": "15b10d52-02c2-3cc9-9999-c1f74a31f711",
+      "title": "Rigetti Computing (RGTI) Could Be 12% Undervalued As Quantum Push Faces Valuation Test",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rigetti-computing-rgti-could-12-190942633.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785092982,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c275f2f7-2557-3fb8-9589-b2ed69803637",
-      "title": "1 Top Warren Buffett Stock for Dividend Investors",
-      "link": "https://finance.yahoo.com/m/c275f2f7-2557-3fb8-9589-b2ed69803637/1-top-warren-buffett-stock.html",
-      "publisher": "Motley Fool",
-      "time": 1785088200,
-      "impact": "high",
+      "id": "a8ae561a-127d-3a6a-b2a0-311e44dd3a04",
+      "title": "KeyBank Parent KeyCorp (KEY) Lands Founding Partner Role With Cleveland WNBA Team",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/keybank-parent-keycorp-key-lands-190925724.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785092965,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
-    },
-    {
-      "id": "56d0a8cb-a014-3c28-a929-8720c9c346e7",
-      "title": "Dow Jones Futures: U.S., Iran Seek Deal; Apple Leads Earnings Wave, Fed Meeting Ahead",
-      "link": "https://finance.yahoo.com/m/56d0a8cb-a014-3c28-a929-8720c9c346e7/dow-jones-futures%3A-u.s.%2C-iran.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1785087872,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "a5f1a139-ecc2-34a1-8d38-2c1b1046d406",
-      "title": "Micron vs. Sandisk: Which Stock Is the Better Buy for the Memory Boom?",
-      "link": "https://finance.yahoo.com/m/a5f1a139-ecc2-34a1-8d38-2c1b1046d406/micron-vs.-sandisk%3A-which.html",
-      "publisher": "Motley Fool",
-      "time": 1785087780,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5f9917d0-ce37-3369-aff2-7690f751c2a5",
-      "title": "58% Are Confident About Retirement. 46% Have Never Calculated What They Actually Need.",
-      "link": "https://finance.yahoo.com/m/5f9917d0-ce37-3369-aff2-7690f751c2a5/58%25-are-confident-about.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1785087399,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "78e775c4-b993-31d6-9816-8dff10059707",
-      "title": "FOMC Preview: Fed likely to hold rates despite oil spike, Citi sees dovish outcome",
-      "link": "https://finance.yahoo.com/economy/policy/articles/fomc-preview-fed-likely-hold-173617583.html",
-      "publisher": "Investing.com",
-      "time": 1785087377,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "b7698377-eb80-30d0-97a7-a29967b7f8f5",
-      "title": "Here's Why Qualcomm Is Still Overlooked vs. Nvidia and Intel",
-      "link": "https://finance.yahoo.com/m/b7698377-eb80-30d0-97a7-a29967b7f8f5/here%27s-why-qualcomm-is-still.html",
-      "publisher": "Motley Fool",
-      "time": 1785087300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1690a8d3-ba91-3787-8f41-26597d41a07b",
-      "title": "IBM CEO makes bold AI strategy claim",
-      "link": "https://finance.yahoo.com/m/1690a8d3-ba91-3787-8f41-26597d41a07b/ibm-ceo-makes-bold-ai.html",
-      "publisher": "TheStreet",
-      "time": 1785087180,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "709a46d5-fba7-30f3-8f3c-c230d138971a",
-      "title": "Rising Energy Prices Shifting Near-Term Inflation Risk Upward: JPMorgan",
-      "link": "https://finance.yahoo.com/m/709a46d5-fba7-30f3-8f3c-c230d138971a/rising-energy-prices-shifting.html",
-      "publisher": "Barrons.com",
-      "time": 1785087142,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "9917a042-8021-39d5-b717-4939cb94dae7",
-      "title": "I've stayed in hundreds of Airbnbs across nearly 100 countries. These are the 9 amenities that saved me thousands",
-      "link": "https://finance.yahoo.com/real-estate/articles/ive-stayed-hundreds-airbnbs-across-173000039.html",
-      "publisher": "Moneywise",
-      "time": 1785087000,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
