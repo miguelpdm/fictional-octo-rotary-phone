@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T13:06:21.833781+00:00",
+  "updatedAt": "2026-07-26T14:47:16.297504+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,38 +52,31 @@
   ],
   "news": [
     {
-      "id": "2b21f2b9-9ad9-3cef-8582-9dedb9757024",
-      "title": "5 crystal-clear signs you’re (very) well prepared for retirement. Can you finally stop stressing?",
-      "link": "https://finance.yahoo.com/markets/articles/5-crystal-clear-signs-very-125500900.html",
+      "id": "d00d2b56-7d87-32d2-a1ba-afddca255c6f",
+      "title": "Google’s $205 Billion AI Bet Terrified Investors. Here’s Why the Market Was Wrong",
+      "link": "https://finance.yahoo.com/m/d00d2b56-7d87-32d2-a1ba-afddca255c6f/google%E2%80%99s-%24205-billion-ai-bet.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785076388,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "88dd22ad-d5f8-3c49-9ecc-23c8400b4cab",
+      "title": "The 1 Vanguard ETF I'd Tell You to Buy Right Now in a Heartbeat",
+      "link": "https://finance.yahoo.com/m/88dd22ad-d5f8-3c49-9ecc-23c8400b4cab/the-1-vanguard-etf-i%27d-tell.html",
+      "publisher": "Motley Fool",
+      "time": 1785076260,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6efb9ae1-6539-31db-ba1d-f3ed8910358f",
+      "title": "Elizabeth Warren says House stock trading ban has 'major loopholes' — 48% of Congress still owns individual stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/elizabeth-warren-says-house-stock-143000935.html",
       "publisher": "Moneywise",
-      "time": 1785070500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "066e3beb-5566-3d75-ad06-47535a7f5c99",
-      "title": "If I Were Starting My Portfolio From Scratch Today, This Is the First ETF I'd Buy",
-      "link": "https://finance.yahoo.com/m/066e3beb-5566-3d75-ad06-47535a7f5c99/if-i-were-starting-my.html",
-      "publisher": "Motley Fool",
-      "time": 1785070200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "25596a17-99bb-3152-a0cc-a362ac0cd260",
-      "title": "In HelloNation, Pool Expert James White Explains How to Choose the Right Pool Finish and Tile for Georgia Heat, Maintenance, and Long-Term Durability",
-      "link": "https://finance.yahoo.com/real-estate/articles/hellonation-pool-expert-james-white-124600896.html",
-      "publisher": "PR Newswire",
-      "time": 1785069960,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "88abd1bb-dd72-39fb-af5a-25c5cd5d5b1c",
-      "title": "Warner Bros. Discovery CEO David Zaslav Sells Company Stock Worth Nearly $60 Million as the Paramount Skydance Merger Faces Delays",
-      "link": "https://finance.yahoo.com/m/88abd1bb-dd72-39fb-af5a-25c5cd5d5b1c/warner-bros.-discovery-ceo.html",
-      "publisher": "Motley Fool",
-      "time": 1785069902,
+      "time": 1785076200,
       "impact": "high",
       "tags": [
         "geo",
@@ -91,58 +84,79 @@
       ]
     },
     {
-      "id": "b0dc3178-10ed-3837-af33-07ff8016ce1e",
-      "title": "Dave Ramsey says you can save money by raising your car insurance deductible. We did the math to see if it works",
-      "link": "https://finance.yahoo.com/markets/articles/dave-ramsey-says-save-money-124500438.html",
-      "publisher": "Moneywise",
-      "time": 1785069900,
+      "id": "80b5845c-0df2-3fcd-8edc-c99edd766382",
+      "title": "Predicting Beef Prices: Can Summer Seasonality Help?",
+      "link": "https://finance.yahoo.com/m/80b5845c-0df2-3fcd-8edc-c99edd766382/predicting-beef-prices%3A-can.html",
+      "publisher": "TheStreet",
+      "time": 1785076200,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "250a9555-e419-30cf-9b30-a2cfab34eb10",
-      "title": "What Sam Altman will tell the White House this week",
-      "link": "https://finance.yahoo.com/m/250a9555-e419-30cf-9b30-a2cfab34eb10/what-sam-altman-will-tell-the.html",
-      "publisher": "Axios",
-      "time": 1785069544,
+      "id": "8a496a69-8d05-36f0-a987-4c334027b2f0",
+      "title": "US pauses attacks on Iran for a second straight day and Tehran pauses, too",
+      "link": "https://finance.yahoo.com/m/8a496a69-8d05-36f0-a987-4c334027b2f0/us-pauses-attacks-on-iran-for.html",
+      "publisher": "Associated Press",
+      "time": 1785076128,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "59ce5590-a8a7-3247-ace9-34b95d170a17",
-      "title": "3 High-Yielding Dividend Stocks Worth Loading Up On Now (1 Yields Over 5.5%)",
-      "link": "https://finance.yahoo.com/m/59ce5590-a8a7-3247-ace9-34b95d170a17/3-high-yielding-dividend.html",
-      "publisher": "Motley Fool",
-      "time": 1785069300,
+      "id": "7fedafe1-f457-34f2-a877-03c09fac7167",
+      "title": "How plants feel",
+      "link": "https://finance.yahoo.com/m/7fedafe1-f457-34f2-a877-03c09fac7167/how-plants-feel.html",
+      "publisher": "CBS News Videos",
+      "time": 1785076030,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f5de0523-265a-3bcf-8da4-af183c7a351a",
+      "title": "UN chief urges immediate removal of all Syria sanctions",
+      "link": "https://finance.yahoo.com/m/f5de0523-265a-3bcf-8da4-af183c7a351a/un-chief-urges-immediate.html",
+      "publisher": "AFP",
+      "time": 1785075886,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "geo"
       ]
     },
     {
-      "id": "1895a11d-b00b-3d89-9a82-e05ebb630f92",
-      "title": "One Billionaire Fund Has Nearly 80% of Its Portfolio in a Single Stock",
-      "link": "https://finance.yahoo.com/m/1895a11d-b00b-3d89-9a82-e05ebb630f92/one-billionaire-fund-has.html",
+      "id": "17f9c4d6-c354-3702-b41b-b8374b1befd4",
+      "title": "The Covered Call Strategy Behind JEPI: Why Some Retirees Love It and Others Get Burned",
+      "link": "https://finance.yahoo.com/m/17f9c4d6-c354-3702-b41b-b8374b1befd4/the-covered-call-strategy.html",
       "publisher": "24/7 Wall St.",
-      "time": 1785069021,
+      "time": 1785075742,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "57c9df37-284c-32f6-a83f-c55c656b55ea",
-      "title": "Costco puts up to 9% of your salary into your 401(k) even if you contribute nothing — and other employers do too",
-      "link": "https://finance.yahoo.com/markets/options/articles/costco-puts-9-salary-401-123000250.html",
-      "publisher": "Moneywise",
-      "time": 1785069000,
+      "id": "930dda2b-75da-3e59-a85a-862139f657d9",
+      "title": "‘Our employees are our greatest asset’: Fidelity Investments ranks No. 3 in Top Workplaces large category",
+      "link": "https://finance.yahoo.com/m/930dda2b-75da-3e59-a85a-862139f657d9/%E2%80%98our-employees-are-our.html",
+      "publisher": "Albuquerque Journal, N.M.",
+      "time": 1785075360,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5b95820f-a854-4457-8719-639ed75d6ef6",
-      "title": "Why are investors freaking out about Big Tech's booming AI capex?",
-      "link": "https://finance.yahoo.com/markets/article/why-are-investors-freaking-out-about-big-techs-booming-ai-capex-123000998.html",
-      "publisher": "Yahoo Finance",
-      "time": 1785069000,
+      "id": "fc8db0ab-68d7-3c00-89f5-27ec4f3bab11",
+      "title": "‘Feels like a family’: Pioneer Bank is the No. 1 midsize Top Workplaces company",
+      "link": "https://finance.yahoo.com/m/fc8db0ab-68d7-3c00-89f5-27ec4f3bab11/%E2%80%98feels-like-a-family%E2%80%99%3A.html",
+      "publisher": "Albuquerque Journal, N.M.",
+      "time": 1785075300,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b54b0c15-fb64-3e10-a494-5e3359bce05f",
+      "title": "The adventurous life of supermodel Lauren Hutton",
+      "link": "https://finance.yahoo.com/m/b54b0c15-fb64-3e10-a494-5e3359bce05f/the-adventurous-life-of.html",
+      "publisher": "CBS News Videos",
+      "time": 1785075245,
       "impact": "low",
       "tags": []
     }
