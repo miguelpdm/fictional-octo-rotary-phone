@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T16:59:29.811936+00:00",
+  "updatedAt": "2026-07-26T18:04:16.581784+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,29 +52,32 @@
   ],
   "news": [
     {
-      "id": "96e0f16a-3547-3e66-aae2-fa54912ee513",
-      "title": "Jenny Shin Goes Wire-to-Wire to Capture ISPS HANDA Women's Scottish Open",
-      "link": "https://finance.yahoo.com/media-advertising/articles/jenny-shin-goes-wire-wire-165500683.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1785084900,
-      "impact": "low",
-      "tags": []
+      "id": "c5c987a3-aa4e-308b-beff-8ad89188ad84",
+      "title": "South Korea’s Biggest Bank Taps JPMorgan Blockchain for Trade Payments",
+      "link": "https://finance.yahoo.com/m/c5c987a3-aa4e-308b-beff-8ad89188ad84/south-korea%E2%80%99s-biggest-bank.html",
+      "publisher": "BeInCrypto",
+      "time": 1785088800,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "d0df445f-7f69-3b6d-a9bd-4c27f83a6497",
-      "title": "If I Were Starting Over With $500 to Invest, I'd Begin by Building a Portfolio Around This Unstoppable Stock",
-      "link": "https://finance.yahoo.com/m/d0df445f-7f69-3b6d-a9bd-4c27f83a6497/if-i-were-starting-over-with.html",
+      "id": "09da3fd9-6272-3a5c-88ee-46a11450d713",
+      "title": "As Financials Rally, Is the Steady Vanguard Financials ETF or the Leveraged ProShares Ultra Financials the Better Buy Right Now?",
+      "link": "https://finance.yahoo.com/m/09da3fd9-6272-3a5c-88ee-46a11450d713/as-financials-rally%2C-is-the.html",
       "publisher": "Motley Fool",
-      "time": 1785084600,
+      "time": 1785088261,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "743ecdc5-e57d-3fa1-8095-ee97bf207d04",
-      "title": "Federal By-elections Now Under Way in Beaches-East York, Chicoutimi-Le Fjord and North Vancouver-Capilano",
-      "link": "https://finance.yahoo.com/economy/policy/articles/federal-elections-now-under-way-164800436.html",
-      "publisher": "CNW Group",
-      "time": 1785084480,
+      "id": "c275f2f7-2557-3fb8-9589-b2ed69803637",
+      "title": "1 Top Warren Buffett Stock for Dividend Investors",
+      "link": "https://finance.yahoo.com/m/c275f2f7-2557-3fb8-9589-b2ed69803637/1-top-warren-buffett-stock.html",
+      "publisher": "Motley Fool",
+      "time": 1785088200,
       "impact": "high",
       "tags": [
         "geo",
@@ -82,67 +85,83 @@
       ]
     },
     {
-      "id": "f751e3c1-18e0-3a16-a622-fd6fc0dd60ef",
-      "title": "Iran halts strikes as Trump gives space to talks",
-      "link": "https://finance.yahoo.com/m/f751e3c1-18e0-3a16-a622-fd6fc0dd60ef/iran-halts-strikes-as-trump.html",
-      "publisher": "AFP",
-      "time": 1785084437,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "56169601-e331-3df7-8d8f-ee2a0028acef",
-      "title": "How Much XRP (Ripple) Is Enough to Retire?",
-      "link": "https://finance.yahoo.com/m/56169601-e331-3df7-8d8f-ee2a0028acef/how-much-xrp-%28ripple%29-is.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1785084291,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4b4a2789-83be-3af8-94a8-d901367f7068",
-      "title": "Trump, Hegseth attend dignified transfer of 4 soldiers killed in Middle East",
-      "link": "https://finance.yahoo.com/m/4b4a2789-83be-3af8-94a8-d901367f7068/trump%2C-hegseth-attend.html",
-      "publisher": "CBS News Videos",
-      "time": 1785084004,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "74ef25a6-cbe0-3999-9873-5a3f706c4cd2",
-      "title": "Berlin mourns deadly Islamist Pride attack as police hunt for suspect",
-      "link": "https://finance.yahoo.com/m/74ef25a6-cbe0-3999-9873-5a3f706c4cd2/berlin-mourns-deadly-islamist.html",
-      "publisher": "AFP",
-      "time": 1785083885,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "53eee934-c8ee-3ad1-88cb-3b16272f2ff2",
-      "title": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
-      "link": "https://finance.yahoo.com/m/53eee934-c8ee-3ad1-88cb-3b16272f2ff2/neocloud-stocks-vs.-the.html",
-      "publisher": "Motley Fool",
-      "time": 1785083700,
-      "impact": "low",
+      "id": "56d0a8cb-a014-3c28-a929-8720c9c346e7",
+      "title": "Dow Jones Futures: U.S., Iran Seek Deal; Apple Leads Earnings Wave, Fed Meeting Ahead",
+      "link": "https://finance.yahoo.com/m/56d0a8cb-a014-3c28-a929-8720c9c346e7/dow-jones-futures%3A-u.s.%2C-iran.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1785087872,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "e4d99892-57fe-3c3a-9224-8f54781311f0",
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "link": "https://finance.yahoo.com/m/e4d99892-57fe-3c3a-9224-8f54781311f0/hugging-face-ceo-calls-for.html",
-      "publisher": "TechCrunch",
-      "time": 1785083593,
+      "id": "a5f1a139-ecc2-34a1-8d38-2c1b1046d406",
+      "title": "Micron vs. Sandisk: Which Stock Is the Better Buy for the Memory Boom?",
+      "link": "https://finance.yahoo.com/m/a5f1a139-ecc2-34a1-8d38-2c1b1046d406/micron-vs.-sandisk%3A-which.html",
+      "publisher": "Motley Fool",
+      "time": 1785087780,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8d323a20-97e3-329f-b6e5-94ce1f64bf3c",
-      "title": "Morgan Stanley sees shift coming for Big Tech investors",
-      "link": "https://finance.yahoo.com/m/8d323a20-97e3-329f-b6e5-94ce1f64bf3c/morgan-stanley-sees-shift.html",
+      "id": "5f9917d0-ce37-3369-aff2-7690f751c2a5",
+      "title": "58% Are Confident About Retirement. 46% Have Never Calculated What They Actually Need.",
+      "link": "https://finance.yahoo.com/m/5f9917d0-ce37-3369-aff2-7690f751c2a5/58%25-are-confident-about.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785087399,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "78e775c4-b993-31d6-9816-8dff10059707",
+      "title": "FOMC Preview: Fed likely to hold rates despite oil spike, Citi sees dovish outcome",
+      "link": "https://finance.yahoo.com/economy/policy/articles/fomc-preview-fed-likely-hold-173617583.html",
+      "publisher": "Investing.com",
+      "time": 1785087377,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "b7698377-eb80-30d0-97a7-a29967b7f8f5",
+      "title": "Here's Why Qualcomm Is Still Overlooked vs. Nvidia and Intel",
+      "link": "https://finance.yahoo.com/m/b7698377-eb80-30d0-97a7-a29967b7f8f5/here%27s-why-qualcomm-is-still.html",
+      "publisher": "Motley Fool",
+      "time": 1785087300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1690a8d3-ba91-3787-8f41-26597d41a07b",
+      "title": "IBM CEO makes bold AI strategy claim",
+      "link": "https://finance.yahoo.com/m/1690a8d3-ba91-3787-8f41-26597d41a07b/ibm-ceo-makes-bold-ai.html",
       "publisher": "TheStreet",
-      "time": 1785083580,
+      "time": 1785087180,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "709a46d5-fba7-30f3-8f3c-c230d138971a",
+      "title": "Rising Energy Prices Shifting Near-Term Inflation Risk Upward: JPMorgan",
+      "link": "https://finance.yahoo.com/m/709a46d5-fba7-30f3-8f3c-c230d138971a/rising-energy-prices-shifting.html",
+      "publisher": "Barrons.com",
+      "time": 1785087142,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "9917a042-8021-39d5-b717-4939cb94dae7",
+      "title": "I've stayed in hundreds of Airbnbs across nearly 100 countries. These are the 9 amenities that saved me thousands",
+      "link": "https://finance.yahoo.com/real-estate/articles/ive-stayed-hundreds-airbnbs-across-173000039.html",
+      "publisher": "Moneywise",
+      "time": 1785087000,
       "impact": "low",
       "tags": []
     }
