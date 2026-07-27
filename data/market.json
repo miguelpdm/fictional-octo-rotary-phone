@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T23:55:08.856862+00:00",
+  "updatedAt": "2026-07-27T02:22:58.479461+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,20 +52,29 @@
   ],
   "news": [
     {
-      "id": "db91f718-101c-3e9d-a4e5-e78f5089dc88",
-      "title": "Target has a waffle-textured 3-piece bedding set for $70, and it’s perfect for all seasons",
-      "link": "https://finance.yahoo.com/m/db91f718-101c-3e9d-a4e5-e78f5089dc88/target-has-a-waffle-textured.html",
+      "id": "67ab5f13-6007-3375-bac5-41a3aadcae2c",
+      "title": "Goldman Sachs sees writing on the wall for Eli Lilly stock",
+      "link": "https://finance.yahoo.com/m/67ab5f13-6007-3375-bac5-41a3aadcae2c/goldman-sachs-sees-writing-on.html",
       "publisher": "TheStreet",
-      "time": 1785109500,
+      "time": 1785118620,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "871b11a3-26df-3864-882a-1375afe238d3",
-      "title": "China memory chipmaker CXMT set for Shanghai debut after Asia's biggest IPO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/china-memory-chipmaker-cxmt-set-234440051.html",
-      "publisher": "Reuters",
-      "time": 1785109480,
+      "id": "678c8e1a-9ee1-3318-b5b0-cff5962ccfa2",
+      "title": "The $1.3 Million 401(k) Trap: Why Converting $130,000 at Once Costs $19,800 More Than It Should",
+      "link": "https://finance.yahoo.com/m/678c8e1a-9ee1-3318-b5b0-cff5962ccfa2/the-%241.3-million-401%28k%29-trap%3A.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785118235,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "883840a8-057d-3c30-8b82-2b3f71df8fc6",
+      "title": "Indonesia central bank chief steps down early: govt ",
+      "link": "https://finance.yahoo.com/economy/policy/articles/indonesia-central-bank-chief-steps-020904934.html",
+      "publisher": "AFP",
+      "time": 1785118144,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,47 +82,53 @@
       ]
     },
     {
-      "id": "8ba5558d-5125-3f0d-9d2b-035c56d5246f",
-      "title": "A Crash in Your First Year of Retirement Can Wreck All 30. These 3 ETFs Soften the Blow",
-      "link": "https://finance.yahoo.com/m/8ba5558d-5125-3f0d-9d2b-035c56d5246f/a-crash-in-your-first-year-of.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1785109454,
+      "id": "8a649f26-4c5d-39b9-a5f9-07b7c50a4d34",
+      "title": "Gold Gains as US-Iran Pause Also Sends Oil Prices Lower",
+      "link": "https://finance.yahoo.com/m/8a649f26-4c5d-39b9-a5f9-07b7c50a4d34/gold-gains-as-us-iran-pause.html",
+      "publisher": "BeInCrypto",
+      "time": 1785117998,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "cbbcdb12-62f0-348d-90d8-f83c447181f0",
+      "title": "Woodside gains State Significant Project status for Browse gas development",
+      "link": "https://finance.yahoo.com/m/cbbcdb12-62f0-348d-90d8-f83c447181f0/woodside-gains-state.html",
+      "publisher": "Proactive",
+      "time": 1785117960,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0ad123c1-81d8-3259-a54b-7ddb964ae7d3",
-      "title": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-talks-openai-guarantee-250-233930971.html",
-      "publisher": "Reuters",
-      "time": 1785109170,
+      "id": "5db78106-9d99-31d7-82bd-415f3020b584",
+      "title": "Film recounting bloody Punjab crackdown caught in India's crosshairs",
+      "link": "https://finance.yahoo.com/m/5db78106-9d99-31d7-82bd-415f3020b584/film-recounting-bloody-punjab.html",
+      "publisher": "AFP",
+      "time": 1785117717,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "dbfea6cb-57b9-36fb-a263-baff1cce471e",
-      "title": "Mark Cuban's group buys stake in relocating MLB franchise",
-      "link": "https://finance.yahoo.com/m/dbfea6cb-57b9-36fb-a263-baff1cce471e/mark-cuban%27s-group-buys-stake.html",
-      "publisher": "TheStreet",
-      "time": 1785109020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c404bb25-aa0b-3c45-8496-9a788a22a484",
-      "title": "GE Aerospace has a Backlog Worth $210 Billion. Here's Why I'm Still Not Buying",
-      "link": "https://finance.yahoo.com/m/c404bb25-aa0b-3c45-8496-9a788a22a484/ge-aerospace-has-a-backlog.html",
-      "publisher": "Motley Fool",
-      "time": 1785108900,
-      "impact": "low",
-      "tags": []
+      "id": "b98404dc-045c-30f6-8014-cdd09c788efa",
+      "title": "Baker Hughes Raises Outlook After Record Equipment Bookings",
+      "link": "https://finance.yahoo.com/energy/articles/baker-hughes-raises-outlook-record-020112770.html",
+      "publisher": "Oilprice.com",
+      "time": 1785117672,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
       "id": "56d0a8cb-a014-3c28-a929-8720c9c346e7",
       "title": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
       "link": "https://finance.yahoo.com/m/56d0a8cb-a014-3c28-a929-8720c9c346e7/dow-jones-futures-rise%2C-oil.html",
       "publisher": "Investor's Business Daily",
-      "time": 1785108679,
+      "time": 1785117664,
       "impact": "high",
       "tags": [
         "geo",
@@ -121,31 +136,27 @@
       ]
     },
     {
-      "id": "7044cfc3-bab8-39f0-8dd2-1837caabf961",
-      "title": "Ascentage Pharma Chairman and CEO Dr. Dajun Yang Named to The Medicine Maker Power List 2026",
-      "link": "https://finance.yahoo.com/healthcare/articles/ascentage-pharma-chairman-ceo-dr-233000953.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785108600,
-      "impact": "low",
-      "tags": []
+      "id": "766c8b4e-3e6d-3826-b7f7-3b183bb01c42",
+      "title": "Meta Slipped Back Below $600 Before Wednesday's Report. It Now Trades at About 22 Times Earnings. Here's What Investors Should Know.",
+      "link": "https://finance.yahoo.com/m/766c8b4e-3e6d-3826-b7f7-3b183bb01c42/meta-slipped-back-below-%24600.html",
+      "publisher": "Motley Fool",
+      "time": 1785117660,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "330f99fd-3a23-32c9-9a02-6ff035aeb388",
-      "title": "Why SLB Stock Surged This Past Week",
-      "link": "https://finance.yahoo.com/m/330f99fd-3a23-32c9-9a02-6ff035aeb388/why-slb-stock-surged-this.html",
-      "publisher": "Motley Fool",
-      "time": 1785108520,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "36ca0c74-251b-311f-95dc-6c1eedfb6dce",
-      "title": "HSBC Just Started Covering SpaceX With a $115 Price Target. The Stock Closed Friday at $115.07.",
-      "link": "https://finance.yahoo.com/m/36ca0c74-251b-311f-95dc-6c1eedfb6dce/hsbc-just-started-covering.html",
-      "publisher": "Motley Fool",
-      "time": 1785108480,
-      "impact": "low",
-      "tags": []
+      "id": "5125f9b4-8aae-36e0-9b5d-1c5b6679cdab",
+      "title": "China’s Tycoons Made Fortunes Offshore. Now the Party Is Over.",
+      "link": "https://finance.yahoo.com/m/5125f9b4-8aae-36e0-9b5d-1c5b6679cdab/china%E2%80%99s-tycoons-made-fortunes.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1785117600,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
     }
   ],
   "errors": {
