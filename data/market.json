@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-27T06:03:38.731536+00:00",
+  "updatedAt": "2026-07-27T10:14:35.605668+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19585.4,
-      "change": 318.40000000000146,
-      "changePct": 1.6525665645923158,
+      "price": 19851.7,
+      "change": 266.2999999999993,
+      "changePct": 1.3596862969354684,
       "currency": "EUR"
     },
     {
@@ -28,126 +28,123 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25099.0,
-      "change": -56.409999999999854,
-      "changePct": -0.22424599718311033,
+      "price": 25476.49,
+      "change": 713.3700000000026,
+      "changePct": 2.8807759280736946,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6280.94,
-      "change": 70.76999999999953,
-      "changePct": 1.1395823302743648,
+      "price": 6359.37,
+      "change": 78.43000000000029,
+      "changePct": 1.2486984432266555,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.58,
-      "change": -0.120000000000001,
-      "changePct": -0.6417112299465294,
+      "price": 17.57,
+      "change": -1.009999999999998,
+      "changePct": -5.4359526372443385,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "6bc93230-3224-3694-ae86-6c73e1c4653e",
-      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - July 27",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-hotels-group-plc-announces-060000934.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1785132000,
+      "id": "7f1524b8-3e4c-34d8-b071-53668e105be0",
+      "title": "KPMG barred from competing for government work in Victoria – report",
+      "link": "https://finance.yahoo.com/m/7f1524b8-3e4c-34d8-b071-53668e105be0/kpmg-barred-from-competing.html",
+      "publisher": "International Accounting Bulletin",
+      "time": 1785147078,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8db8df00-c2e8-31a3-8465-1116d1d4b30f",
-      "title": "Thomas Murray Publishes Second Report",
-      "link": "https://finance.yahoo.com/technology/ai/articles/thomas-murray-publishes-second-report-060000783.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1785132000,
+      "id": "f0caeeb7-1bd9-30c5-ab5a-c9cf73283d34",
+      "title": "Vertical Aerospace Signs MOU With VIC Properties to Explore Electric Air Mobility in Portugal",
+      "link": "https://finance.yahoo.com/real-estate/articles/vertical-aerospace-signs-mou-vic-101019684.html",
+      "publisher": "MT Newswires",
+      "time": 1785147019,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cab556a0-7e19-399d-83d0-af22778f6c37",
-      "title": "Chancen International Set to Expand Access to Skills & Economic Opportunity for 60,000 Youth through its Fair Financing Model",
-      "link": "https://finance.yahoo.com/economy/policy/articles/chancen-international-set-expand-access-060000687.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1785132000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "772144d1-34f0-30bc-a78f-c02fbf56e8fa",
-      "title": "Civinity completes acquisition of Metus, which maintains nearly 3,000 lifts in Croatia",
-      "link": "https://finance.yahoo.com/real-estate/articles/civinity-completes-acquisition-metus-maintains-055400410.html",
+      "id": "fee37ff6-69b7-3c9e-ae18-a1e7d5d8844f",
+      "title": "HKTB's Hong Kong Summer Fun Adds Ticket Spending Offers",
+      "link": "https://finance.yahoo.com/small-business/articles/hktbs-hong-kong-summer-fun-100800535.html",
       "publisher": "GlobeNewswire",
-      "time": 1785131640,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "9e539268-fa3a-3972-b7d2-d83639c8ca27",
-      "title": "Share Buy-back Programme – Transactions Week 30",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/share-buy-back-programme-transactions-055400271.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785131640,
+      "time": 1785146880,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "034bf730-20ca-3240-b5b9-3864e32dbc94",
-      "title": "Benjamin Netanyahu Says He's Going to New York to 'Fight for the Truth': Crypto Prediction Market Weighs Arrest Odds Amid Mamdani Campaign",
-      "link": "https://finance.yahoo.com/m/034bf730-20ca-3240-b5b9-3864e32dbc94/benjamin-netanyahu-says-he%27s.html",
-      "publisher": "Benzinga",
-      "time": 1785131584,
+      "id": "ba059e50-d960-3085-90f6-635f4fcafa00",
+      "title": "Raymond James Adjusts PT on United Rentals to $1,325 From $1,275, Maintains Outperform Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/raymond-james-adjusts-pt-united-100629848.html",
+      "publisher": "MT Newswires",
+      "time": 1785146789,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f1aa9bb8-2dee-31ad-a44b-a99d0c15db5a",
+      "title": "Leading Edge Sees Sweden's New Mineral Strategy Supporting Norra Karr Rare Earth Project",
+      "link": "https://finance.yahoo.com/energy/articles/leading-edge-sees-sweden-apos-100603842.html",
+      "publisher": "MT Newswires",
+      "time": 1785146763,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fafa10d7-55cd-3192-a14a-86519375b9a1",
+      "title": "Market Chatter: DeepSeek Suspends Follow-On Fundraising After Viral Posts",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-deepseek-suspends-fundraising-100507561.html",
+      "publisher": "MT Newswires",
+      "time": 1785146707,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "219058af-a4a4-36b4-93d6-89be14479a60",
-      "title": "CaoCao Officially Launches Driverless Robotaxi Testing",
-      "link": "https://finance.yahoo.com/technology/ai/articles/caocao-officially-launches-driverless-robotaxi-055300976.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785131580,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d05e3c14-283e-37e1-9f40-ca13a8162bd3",
-      "title": "Gansu Jinchang Accelerates Grid Connection of Green Power Projects via Full-Process Customized Services",
-      "link": "https://finance.yahoo.com/energy/articles/gansu-jinchang-accelerates-grid-connection-055300027.html",
-      "publisher": "PR Newswire",
-      "time": 1785131580,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "12a376f2-a60f-34c5-b66e-6e295fb2fe19",
-      "title": "Is Intel Stock a Buy as AI Revenue Surges Nearly 60%?",
-      "link": "https://finance.yahoo.com/m/12a376f2-a60f-34c5-b66e-6e295fb2fe19/is-intel-stock-a-buy-as-ai.html",
-      "publisher": "Motley Fool",
-      "time": 1785131400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ff2d65b1-ed63-3196-a289-8036233c0d68",
-      "title": "Visa (V) Reports Q2: Everything You Need To Know Ahead Of Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/visa-v-reports-q2-everything-054902456.html",
+      "id": "85459a39-9c8c-337f-b580-008ffd615c7c",
+      "title": "Crane Earnings: What To Look For From CR",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/crane-earnings-look-cr-100502980.html",
       "publisher": "StockStory",
-      "time": 1785131342,
+      "time": 1785146702,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
+    },
+    {
+      "id": "bea28307-23c0-31f0-b9e6-222fcf123086",
+      "title": "Rothschild & Co Redburn Adjusts PT on United Rentals to $980 From $940, Maintains Neutral Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rothschild-co-redburn-adjusts-pt-100454254.html",
+      "publisher": "MT Newswires",
+      "time": 1785146694,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a252a4e6-47b3-35a2-a59c-a2bd21e69e48",
+      "title": "Median Milwaukee metro home sold for $425,000. Here's what you get.",
+      "link": "https://finance.yahoo.com/m/a252a4e6-47b3-35a2-a59c-a2bd21e69e48/median-milwaukee-metro-home.html",
+      "publisher": "Milwaukee Journal Sentinel",
+      "time": 1785146690,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "205c8b52-a3a2-34b7-af25-7d64257983c4",
+      "title": "Jefferies Adjusts Price Target on Lockheed Martin to $595 From $575, Maintains Hold Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-adjusts-price-target-lockheed-100436852.html",
+      "publisher": "MT Newswires",
+      "time": 1785146676,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
