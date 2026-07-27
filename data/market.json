@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T17:42:25.344327+00:00",
+  "updatedAt": "2026-07-27T19:18:07.020328+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7391.53,
-      "change": -16.770000000000437,
-      "changePct": -0.22636772268942182,
+      "price": 7417.24,
+      "change": 8.9399999999996,
+      "changePct": 0.12067545860723243,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 24835.824,
-      "change": -301.86599999999817,
-      "changePct": -1.2008501974525032,
+      "price": 24955.807,
+      "change": -181.882999999998,
+      "changePct": -0.7235469925836384,
       "currency": "USD"
     },
     {
@@ -44,66 +44,19 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 19.53,
-      "change": 0.9500000000000028,
-      "changePct": 5.113024757804106,
+      "price": 18.95,
+      "change": 0.370000000000001,
+      "changePct": 1.9913885898815986,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "c25582dd-1d7d-342b-8483-b951d5f551dc",
-      "title": "Zum Hosts Philadelphia Open House Hiring Event Ahead of 2026-27 School Year",
-      "link": "https://finance.yahoo.com/small-business/articles/zum-hosts-philadelphia-open-house-173900852.html",
-      "publisher": "PR Newswire",
-      "time": 1785173940,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2c833ec7-a5b9-3900-8749-ed7e2c9617b0",
-      "title": "Cognizant Reports Picked to Modernize Technology for Andover",
-      "link": "https://finance.yahoo.com/technology/articles/cognizant-reports-picked-modernize-technology-173708672.html",
-      "publisher": "MT Newswires",
-      "time": 1785173828,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4e3e20d6-720f-3f89-a5e8-2de5b0c2cfb1",
-      "title": "Sector Update: Tech Stocks Fall Monday Afternoon",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-monday-173532065.html",
-      "publisher": "MT Newswires",
-      "time": 1785173732,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "ffa19d62-db7c-36f6-aa12-8dbe7b6567a0",
-      "title": "End of Day Message",
-      "link": "https://finance.yahoo.com/media-advertising/articles/end-day-message-173500800.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785173700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ffbb3a37-d673-3ad9-9a2e-a57398d878d3",
-      "title": "Book Your Next Motel 6 Stay with the Motel 6 Plugin in ChatGPT",
-      "link": "https://finance.yahoo.com/small-business/articles/book-next-motel-6-stay-173500443.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785173700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1f2a453f-e512-38a2-b0d6-e17534043599",
-      "title": "Oshkosh (OSK) Reports Q2: Everything You Need To Know Ahead Of Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oshkosh-osk-reports-q2-everything-173302369.html",
-      "publisher": "StockStory",
-      "time": 1785173582,
+      "id": "086007a1-dd1e-3807-bca6-da982ba0b7eb",
+      "title": "AstraZeneca's $2.63 Earnings Beat Supports $80 Billion Revenue Target",
+      "link": "https://finance.yahoo.com/healthcare/articles/astrazenecas-2-63-earnings-beat-191608131.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785179768,
       "impact": "medium",
       "tags": [
         "macro",
@@ -111,69 +64,93 @@
       ]
     },
     {
-      "id": "1479bb50-5651-34b1-9231-b1ba4c27616b",
-      "title": "Jim Cramer has terrifying one-word message for tech stock investors",
-      "link": "https://finance.yahoo.com/m/1479bb50-5651-34b1-9231-b1ba4c27616b/jim-cramer-has-terrifying.html",
-      "publisher": "TheStreet",
-      "time": 1785173580,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "55400069-4e82-3cf9-8b09-ce8e245a302c",
-      "title": "The ePlane Company Strengthens Its Supply Chain and Strategic Partnerships at Farnborough International Airshow 2026",
-      "link": "https://finance.yahoo.com/technology/articles/eplane-company-strengthens-supply-chain-173200020.html",
-      "publisher": "PR Newswire",
-      "time": 1785173520,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4cf38b17-ae3a-4bfb-9e3b-e2a5decfb737",
-      "title": "4 crypto firms shut down in just 1 week. What's going on?",
-      "link": "https://finance.yahoo.com/video/4-crypto-firms-shut-down-173000439.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1785173400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a6ef361b-9f02-30fb-b3ac-fd20e240d115",
-      "title": "Military Wallet Launches New Mobile App to Help Military Families Take Control of Their Financial Lives",
-      "link": "https://finance.yahoo.com/small-business/articles/military-wallet-launches-mobile-app-173000597.html",
-      "publisher": "PR Newswire",
-      "time": 1785173400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "aa104d72-6d14-3153-bae0-753285334f69",
-      "title": "Why Quantum Computing Stock Just Popped",
-      "link": "https://finance.yahoo.com/m/aa104d72-6d14-3153-bae0-753285334f69/why-quantum-computing-stock.html",
-      "publisher": "Motley Fool",
-      "time": 1785173337,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "de8b5436-c73d-31ce-a62f-9df4d32cb08d",
-      "title": "Stock Market Today: Dow Up; Pharma Firm Tests Entry; Memory Plays Sink As China Rival Soars (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/de8b5436-c73d-31ce-a62f-9df4d32cb08d/stock-market-today%3A-dow-up%3B.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1785173296,
+      "id": "a896bff4-fb49-340d-aadf-f83099037343",
+      "title": "3 Profitable Stocks We Think Twice About",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-profitable-stocks-think-twice-190902539.html",
+      "publisher": "StockStory",
+      "time": 1785179342,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "a73120d1-fc4b-3391-9130-4c61d3342fdf",
-      "title": "Cracker Barrel CEO to step down after overseeing logo backlash last year",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-ceo-step-down-172812359.html",
-      "publisher": "The Guardian",
-      "time": 1785173292,
+      "id": "0a7ab7a5-cb19-3af3-a2c4-95ebf3d4b6a5",
+      "title": "SSC SECURITY SERVICES CORP. ANNOUNCES RECEIPT OF FINAL ORDER APPROVING PREVIOUSLY ANNOUNCED PLAN OF ARRANGEMENT",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ssc-security-services-corp-announces-190600933.html",
+      "publisher": "CNW Group",
+      "time": 1785179160,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "e61434dd-41f7-3df4-8393-bb39be3f03c5",
+      "title": "Maxime Collins Inc. Launches Dedicated Print-Ready Verification Service for Front-of-Package Labelling Compliance",
+      "link": "https://finance.yahoo.com/healthcare/articles/maxime-collins-inc-launches-dedicated-190600165.html",
+      "publisher": "TMX Newsfile",
+      "time": 1785179160,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ade5a314-57b9-336f-826a-1075d6261923",
+      "title": "Americans have more spending power than ever. It doesn't feel that way",
+      "link": "https://finance.yahoo.com/m/ade5a314-57b9-336f-826a-1075d6261923/americans-have-more-spending.html",
+      "publisher": "USA TODAY",
+      "time": 1785179126,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7b4f3d30-8829-39a4-a973-1ddac6cdfd89",
+      "title": "Boys & Girls Clubs of the Northwest Suburbs Unveils $13.2 Million Woodlands Teen Impact Center",
+      "link": "https://finance.yahoo.com/small-business/articles/boys-girls-clubs-northwest-suburbs-190500273.html",
+      "publisher": "PR Newswire",
+      "time": 1785179100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cd712478-131b-322a-88d0-c8dc788e0e69",
+      "title": "GLP-1 Drugs Need to Stay Cold: Is it Turning Into a Real Growth Story for United Parcel Service, Inc. (UPS) and FedEx Corporation (FDX)?",
+      "link": "https://finance.yahoo.com/healthcare/articles/glp-1-drugs-stay-cold-190359097.html",
+      "publisher": "Insider Monkey",
+      "time": 1785179039,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "27afe57f-754f-3295-8eb9-9bb5c7a5389d",
+      "title": "Dell Technologies vs. Snowflake: Which AI-Driven Stock Is a Better Buy in 2026?",
+      "link": "https://finance.yahoo.com/m/27afe57f-754f-3295-8eb9-9bb5c7a5389d/dell-technologies-vs..html",
+      "publisher": "Motley Fool",
+      "time": 1785179026,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6bc75d2a-6e7a-3f11-bd32-90950d2a839b",
+      "title": "He Enrolled in Medicare at 65. His 62-Year-Old Wife Lost Her Coverage the Same Week.",
+      "link": "https://finance.yahoo.com/m/6bc75d2a-6e7a-3f11-bd32-90950d2a839b/he-enrolled-in-medicare-at.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785178986,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ad14b446-5279-3ba8-9744-6756377b9e48",
+      "title": "Blue Shield of California Earns Top Score on the 2026 Disability Index",
+      "link": "https://finance.yahoo.com/healthcare/articles/blue-shield-california-earns-top-190300064.html",
+      "publisher": "PR Newswire",
+      "time": 1785178980,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
