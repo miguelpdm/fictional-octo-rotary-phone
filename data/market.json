@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T15:57:30.235592+00:00",
+  "updatedAt": "2026-07-27T17:42:25.344327+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7399.13,
-      "change": -9.170000000000073,
-      "changePct": -0.12378008449981875,
+      "price": 7391.53,
+      "change": -16.770000000000437,
+      "changePct": -0.22636772268942182,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 24867.496,
-      "change": -270.1939999999995,
-      "changePct": -1.074856122420157,
+      "price": 24835.824,
+      "change": -301.86599999999817,
+      "changePct": -1.2008501974525032,
       "currency": "USD"
     },
     {
@@ -44,107 +44,136 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 19.49,
-      "change": 0.9100000000000001,
-      "changePct": 4.89773950484392,
+      "price": 19.53,
+      "change": 0.9500000000000028,
+      "changePct": 5.113024757804106,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "47d062c1-c001-3b90-b5c3-9aebc4ff7a52",
-      "title": "7 smuggled migrants die in sealed rail container, 11 face life sentences",
-      "link": "https://finance.yahoo.com/m/47d062c1-c001-3b90-b5c3-9aebc4ff7a52/7-smuggled-migrants-die-in.html",
-      "publisher": "FreightWaves",
-      "time": 1785167563,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a80d7770-8dce-4eea-a9f6-aa842f7f9264",
-      "title": "One number instantly explains why Apple's investors are having a wildly different year than Oracle's",
-      "link": "https://finance.yahoo.com/markets/article/one-number-instantly-explains-why-apples-investors-are-having-a-wildly-different-year-than-oracles-155100388.html",
-      "publisher": "Yahoo Finance",
-      "time": 1785167460,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9aa66331-18a4-3d6f-b073-d8f7f80e8225",
-      "title": "Nvidia’s Margins are Safe This Decade So I Keep Loading Up as Fear Resonates",
-      "link": "https://finance.yahoo.com/m/9aa66331-18a4-3d6f-b073-d8f7f80e8225/nvidia%E2%80%99s-margins-are-safe.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1785167456,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "74257daa-727e-38dc-b1dc-7a695a7cb00b",
-      "title": "AMD Is On Track to Beat Lisa Su’s $100 Billion Revenue Prediction By 2 Years",
-      "link": "https://finance.yahoo.com/m/74257daa-727e-38dc-b1dc-7a695a7cb00b/amd-is-on-track-to-beat-lisa.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1785167429,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "708fb8a9-aae7-3035-9cc2-69fabd2f4a98",
-      "title": "The Campbell’s Company (CPB) Offers Promising Upside Despite Past Challenges",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/campbell-company-cpb-offers-promising-154851072.html",
-      "publisher": "Insider Monkey",
-      "time": 1785167331,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d2b37d6e-4ed8-32fd-94db-b060e923b80f",
-      "title": "Yoodli Appoints Former Meta and Coalition Product Leader Kartik Murthy as VP of Product",
-      "link": "https://finance.yahoo.com/technology/ai/articles/yoodli-appoints-former-meta-coalition-154800527.html",
+      "id": "c25582dd-1d7d-342b-8483-b951d5f551dc",
+      "title": "Zum Hosts Philadelphia Open House Hiring Event Ahead of 2026-27 School Year",
+      "link": "https://finance.yahoo.com/small-business/articles/zum-hosts-philadelphia-open-house-173900852.html",
       "publisher": "PR Newswire",
-      "time": 1785167280,
+      "time": 1785173940,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3220f777-e609-394e-af6e-0b48fc6bbbfd",
-      "title": "OpenAI's Sam Altman to meet with Senate Intelligence Committee's top Democrat",
-      "link": "https://finance.yahoo.com/m/3220f777-e609-394e-af6e-0b48fc6bbbfd/openai%27s-sam-altman-to-meet.html",
-      "publisher": "Reuters",
-      "time": 1785167166,
+      "id": "2c833ec7-a5b9-3900-8749-ed7e2c9617b0",
+      "title": "Cognizant Reports Picked to Modernize Technology for Andover",
+      "link": "https://finance.yahoo.com/technology/articles/cognizant-reports-picked-modernize-technology-173708672.html",
+      "publisher": "MT Newswires",
+      "time": 1785173828,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0329b42d-498c-305c-8928-b0b012f69900",
-      "title": "Waaree Renewable Technologies Limited Signs ECI Agreement to Enter the Australia & New Zealand Renewable Energy Market",
-      "link": "https://finance.yahoo.com/energy/articles/waaree-renewable-technologies-limited-signs-154600528.html",
-      "publisher": "PR Newswire",
-      "time": 1785167160,
+      "id": "4e3e20d6-720f-3f89-a5e8-2de5b0c2cfb1",
+      "title": "Sector Update: Tech Stocks Fall Monday Afternoon",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-monday-173532065.html",
+      "publisher": "MT Newswires",
+      "time": 1785173732,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "fc30e1e6-bacf-3ff8-99d8-3f9b07ec9593",
-      "title": "LVMH: Accelerating growth in the second quarter; solid first-half results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lvmh-accelerating-growth-second-quarter-154600075.html",
+      "id": "ffa19d62-db7c-36f6-aa12-8dbe7b6567a0",
+      "title": "End of Day Message",
+      "link": "https://finance.yahoo.com/media-advertising/articles/end-day-message-173500800.html",
       "publisher": "GlobeNewswire",
-      "time": 1785167160,
+      "time": 1785173700,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0dcd926a-cfa2-3946-8de5-04d6fe76968f",
-      "title": "Xeinadin extends Dublin reach with acquisition of Hayden Brown",
-      "link": "https://finance.yahoo.com/m/0dcd926a-cfa2-3946-8de5-04d6fe76968f/xeinadin-extends-dublin-reach.html",
-      "publisher": "International Accounting Bulletin",
-      "time": 1785167153,
+      "id": "ffbb3a37-d673-3ad9-9a2e-a57398d878d3",
+      "title": "Book Your Next Motel 6 Stay with the Motel 6 Plugin in ChatGPT",
+      "link": "https://finance.yahoo.com/small-business/articles/book-next-motel-6-stay-173500443.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785173700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1f2a453f-e512-38a2-b0d6-e17534043599",
+      "title": "Oshkosh (OSK) Reports Q2: Everything You Need To Know Ahead Of Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oshkosh-osk-reports-q2-everything-173302369.html",
+      "publisher": "StockStory",
+      "time": 1785173582,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
+    },
+    {
+      "id": "1479bb50-5651-34b1-9231-b1ba4c27616b",
+      "title": "Jim Cramer has terrifying one-word message for tech stock investors",
+      "link": "https://finance.yahoo.com/m/1479bb50-5651-34b1-9231-b1ba4c27616b/jim-cramer-has-terrifying.html",
+      "publisher": "TheStreet",
+      "time": 1785173580,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "55400069-4e82-3cf9-8b09-ce8e245a302c",
+      "title": "The ePlane Company Strengthens Its Supply Chain and Strategic Partnerships at Farnborough International Airshow 2026",
+      "link": "https://finance.yahoo.com/technology/articles/eplane-company-strengthens-supply-chain-173200020.html",
+      "publisher": "PR Newswire",
+      "time": 1785173520,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4cf38b17-ae3a-4bfb-9e3b-e2a5decfb737",
+      "title": "4 crypto firms shut down in just 1 week. What's going on?",
+      "link": "https://finance.yahoo.com/video/4-crypto-firms-shut-down-173000439.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1785173400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a6ef361b-9f02-30fb-b3ac-fd20e240d115",
+      "title": "Military Wallet Launches New Mobile App to Help Military Families Take Control of Their Financial Lives",
+      "link": "https://finance.yahoo.com/small-business/articles/military-wallet-launches-mobile-app-173000597.html",
+      "publisher": "PR Newswire",
+      "time": 1785173400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "aa104d72-6d14-3153-bae0-753285334f69",
+      "title": "Why Quantum Computing Stock Just Popped",
+      "link": "https://finance.yahoo.com/m/aa104d72-6d14-3153-bae0-753285334f69/why-quantum-computing-stock.html",
+      "publisher": "Motley Fool",
+      "time": 1785173337,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "de8b5436-c73d-31ce-a62f-9df4d32cb08d",
+      "title": "Stock Market Today: Dow Up; Pharma Firm Tests Entry; Memory Plays Sink As China Rival Soars (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/de8b5436-c73d-31ce-a62f-9df4d32cb08d/stock-market-today%3A-dow-up%3B.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1785173296,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "a73120d1-fc4b-3391-9130-4c61d3342fdf",
+      "title": "Cracker Barrel CEO to step down after overseeing logo backlash last year",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-ceo-step-down-172812359.html",
+      "publisher": "The Guardian",
+      "time": 1785173292,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
