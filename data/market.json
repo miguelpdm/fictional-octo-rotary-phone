@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-27T10:14:35.605668+00:00",
+  "updatedAt": "2026-07-27T13:24:16.121686+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19851.7,
-      "change": 266.2999999999993,
-      "changePct": 1.3596862969354684,
+      "price": 19846.2,
+      "change": 260.7999999999993,
+      "changePct": 1.331604154114796,
       "currency": "EUR"
     },
     {
@@ -28,91 +28,35 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25476.49,
-      "change": 713.3700000000026,
-      "changePct": 2.8807759280736946,
+      "price": 25499.18,
+      "change": 736.0600000000013,
+      "changePct": 2.97240412355148,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6359.37,
-      "change": 78.43000000000029,
-      "changePct": 1.2486984432266555,
+      "price": 6345.25,
+      "change": 64.3100000000004,
+      "changePct": 1.0238913283680533,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.57,
-      "change": -1.009999999999998,
-      "changePct": -5.4359526372443385,
+      "price": 17.73,
+      "change": -0.8499999999999979,
+      "changePct": -4.574811625403648,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "7f1524b8-3e4c-34d8-b071-53668e105be0",
-      "title": "KPMG barred from competing for government work in Victoria – report",
-      "link": "https://finance.yahoo.com/m/7f1524b8-3e4c-34d8-b071-53668e105be0/kpmg-barred-from-competing.html",
-      "publisher": "International Accounting Bulletin",
-      "time": 1785147078,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f0caeeb7-1bd9-30c5-ab5a-c9cf73283d34",
-      "title": "Vertical Aerospace Signs MOU With VIC Properties to Explore Electric Air Mobility in Portugal",
-      "link": "https://finance.yahoo.com/real-estate/articles/vertical-aerospace-signs-mou-vic-101019684.html",
-      "publisher": "MT Newswires",
-      "time": 1785147019,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fee37ff6-69b7-3c9e-ae18-a1e7d5d8844f",
-      "title": "HKTB's Hong Kong Summer Fun Adds Ticket Spending Offers",
-      "link": "https://finance.yahoo.com/small-business/articles/hktbs-hong-kong-summer-fun-100800535.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785146880,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ba059e50-d960-3085-90f6-635f4fcafa00",
-      "title": "Raymond James Adjusts PT on United Rentals to $1,325 From $1,275, Maintains Outperform Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/raymond-james-adjusts-pt-united-100629848.html",
-      "publisher": "MT Newswires",
-      "time": 1785146789,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f1aa9bb8-2dee-31ad-a44b-a99d0c15db5a",
-      "title": "Leading Edge Sees Sweden's New Mineral Strategy Supporting Norra Karr Rare Earth Project",
-      "link": "https://finance.yahoo.com/energy/articles/leading-edge-sees-sweden-apos-100603842.html",
-      "publisher": "MT Newswires",
-      "time": 1785146763,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fafa10d7-55cd-3192-a14a-86519375b9a1",
-      "title": "Market Chatter: DeepSeek Suspends Follow-On Fundraising After Viral Posts",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-deepseek-suspends-fundraising-100507561.html",
-      "publisher": "MT Newswires",
-      "time": 1785146707,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "85459a39-9c8c-337f-b580-008ffd615c7c",
-      "title": "Crane Earnings: What To Look For From CR",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/crane-earnings-look-cr-100502980.html",
-      "publisher": "StockStory",
-      "time": 1785146702,
+      "id": "b7d71d4e-2652-3b6a-ac26-07ecd5bbd4de",
+      "title": "Games Workshop Group PLC (LSE:GAW) Q4 2026 Earnings Report Preview: What To Expect",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/games-workshop-group-plc-lse-132208582.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785158528,
       "impact": "medium",
       "tags": [
         "macro",
@@ -120,29 +64,103 @@
       ]
     },
     {
-      "id": "bea28307-23c0-31f0-b9e6-222fcf123086",
-      "title": "Rothschild & Co Redburn Adjusts PT on United Rentals to $980 From $940, Maintains Neutral Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rothschild-co-redburn-adjusts-pt-100454254.html",
+      "id": "304ffb18-de48-3e64-bd24-e860ce4c718c",
+      "title": "Axis Capital Holdings Ltd (FRA:AXV) Q2 2026 Earnings Report Preview: What To Expect",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/axis-capital-holdings-ltd-fra-132050436.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785158450,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "f546fa0a-a4c6-3a03-abe4-36d61700d037",
+      "title": "Koninklijke Philips NV (XAMS:PHIA) Q2 2026 Earnings Report Preview: What To Expect",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/koninklijke-philips-nv-xams-phia-131936591.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785158376,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "40941024-d22a-3cf3-8871-b4435e3dc5bb",
+      "title": "Earnings To Watch: ASM International NV (XAMS:ASM) Reports Q2 2026 Result",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-asm-international-nv-131813579.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785158293,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "d216b0f6-9db9-344e-aac1-d5a0b161d9be",
+      "title": "Boost Run to Redeem Unexercised Warrants",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/boost-run-redeem-unexercised-warrants-131736478.html",
       "publisher": "MT Newswires",
-      "time": 1785146694,
+      "time": 1785158256,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "61e459ea-7915-30c2-91ee-8871a7720e61",
+      "title": "SiTime Corporation (SITM) Rose on AI Infrastructure Demand and Margin Expansion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sitime-corporation-sitm-rose-ai-131730881.html",
+      "publisher": "Insider Monkey",
+      "time": 1785158250,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a252a4e6-47b3-35a2-a59c-a2bd21e69e48",
-      "title": "Median Milwaukee metro home sold for $425,000. Here's what you get.",
-      "link": "https://finance.yahoo.com/m/a252a4e6-47b3-35a2-a59c-a2bd21e69e48/median-milwaukee-metro-home.html",
-      "publisher": "Milwaukee Journal Sentinel",
-      "time": 1785146690,
-      "impact": "low",
-      "tags": []
+      "id": "d80bf2e3-9c18-34d7-9514-1ddad7e7c9dc",
+      "title": "Yarrow Bioscience Completes VYNE Therapeutics Merger, Begins Phase 2 Trial Dosing for YB-101",
+      "link": "https://finance.yahoo.com/healthcare/articles/yarrow-bioscience-completes-vyne-therapeutics-131723756.html",
+      "publisher": "MT Newswires",
+      "time": 1785158243,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "205c8b52-a3a2-34b7-af25-7d64257983c4",
-      "title": "Jefferies Adjusts Price Target on Lockheed Martin to $595 From $575, Maintains Hold Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-adjusts-price-target-lockheed-100436852.html",
+      "id": "8611682e-721e-3e62-9464-768e8c3a36e4",
+      "title": "3 Market-Beating Stocks with Competitive Advantages",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-market-beating-stocks-competitive-131702228.html",
+      "publisher": "StockStory",
+      "time": 1785158222,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "953c6d09-e5ca-3ec0-9e38-2b1f64e58cac",
+      "title": "Earnings To Watch: GSK PLC (LSE:GSK) Reports Q2 2026 Result",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-gsk-plc-lse-131700676.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785158220,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "57ca8fb4-4088-379f-a75b-dc998eb0d1bb",
+      "title": "Kratos Defense Says it Delivered Turbomachinery for Lockheed Martin's Ramjet Propulsion System",
+      "link": "https://finance.yahoo.com/technology/articles/kratos-defense-says-delivered-turbomachinery-131643731.html",
       "publisher": "MT Newswires",
-      "time": 1785146676,
+      "time": 1785158203,
       "impact": "low",
       "tags": []
     }
