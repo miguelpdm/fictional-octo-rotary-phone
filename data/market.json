@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T21:12:43.394278+00:00",
+  "updatedAt": "2026-07-28T22:32:30.951262+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -13,24 +13,24 @@
       "name": "S&P 500",
       "symbol": "^GSPC",
       "price": 7428.78,
-      "change": 16.800000000000182,
-      "changePct": 0.22666008273093266,
+      "change": 15.599999999999454,
+      "changePct": 0.21043600721956643,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
       "price": 24876.912,
-      "change": -98.90799999999945,
-      "changePct": -0.39601502573288666,
+      "change": -55.168000000001484,
+      "changePct": -0.22127315490725794,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
       "price": 25464.01,
-      "change": 365.0099999999984,
-      "changePct": 1.4542810470536611,
+      "change": 102.97999999999956,
+      "changePct": 0.4060560631803975,
       "currency": "EUR"
     },
     {
@@ -52,22 +52,53 @@
   ],
   "news": [
     {
-      "id": "0d0170d8-8074-378f-b1ff-49d9e70e6ccd",
-      "title": "fuboTV Stockholders Approve All Six Proposals, Expand Equity Plan",
-      "link": "https://finance.yahoo.com/m/0d0170d8-8074-378f-b1ff-49d9e70e6ccd/fubotv-stockholders-approve.html",
-      "publisher": "MarketBeat",
-      "time": 1785272655,
-      "impact": "low",
+      "id": "0eb51c4d-da78-36ad-bd11-f37d9adcc2f8",
+      "title": "Dow Jones Futures: Market Strong Outside AI; Seagate, SK Hynix, KLA, Bloom Energy Earnings Late",
+      "link": "https://finance.yahoo.com/m/0eb51c4d-da78-36ad-bd11-f37d9adcc2f8/dow-jones-futures%3A-market.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1785277677,
+      "impact": "medium",
       "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9b465bf0-029c-3db1-a008-a32f1195fd1e",
+      "title": "Buildforce Raises $10M Series A to Staff Electricians Nationally",
+      "link": "https://finance.yahoo.com/small-business/articles/buildforce-raises-10m-series-staff-222500894.html",
+      "publisher": "PR Newswire",
+      "time": 1785277500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4c1bd931-e0af-376b-841a-42bf36de9ef4",
+      "title": "Michael Saylor warns Bitcoin's biggest threat is here",
+      "link": "https://finance.yahoo.com/m/4c1bd931-e0af-376b-841a-42bf36de9ef4/michael-saylor-warns.html",
+      "publisher": "TheStreet",
+      "time": 1785277380,
+      "impact": "high",
+      "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "fa4408f3-607d-3230-ac8a-f92c542882d3",
-      "title": "Xylem Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/fa4408f3-607d-3230-ac8a-f92c542882d3/xylem-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1785272655,
+      "id": "7460d876-7905-3f63-871e-cbd0bc7b2d33",
+      "title": "GreenCore Solutions Corp. (GSC) Ships CPG Knowledge Graph v3.2.0 -- AI Agents at 9.5 Million+ Monthly Transactions",
+      "link": "https://finance.yahoo.com/technology/ai/articles/greencore-solutions-corp-gsc-ships-222200867.html",
+      "publisher": "PR Newswire",
+      "time": 1785277320,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "70a0d25d-f65b-36bb-9bd7-778dfdbcfb11",
+      "title": "Earnings To Watch: Flowserve (FLS) Reports Q2 Results Tomorrow",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-flowserve-fls-reports-222102937.html",
+      "publisher": "StockStory",
+      "time": 1785277262,
       "impact": "medium",
       "tags": [
         "macro",
@@ -75,11 +106,29 @@
       ]
     },
     {
-      "id": "8053d708-3dcb-37c9-9489-1d57663ad8c4",
-      "title": "Welltower Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/8053d708-3dcb-37c9-9489-1d57663ad8c4/welltower-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1785272654,
+      "id": "8f1afc14-dde2-349e-a0b3-21293a37dbfe",
+      "title": "Where Will Tesla Stock Be in 5 Years?",
+      "link": "https://finance.yahoo.com/m/8f1afc14-dde2-349e-a0b3-21293a37dbfe/where-will-tesla-stock-be-in.html",
+      "publisher": "Motley Fool",
+      "time": 1785277200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0460120a-f429-3a88-a861-3bf334555c89",
+      "title": "Advanced Micro Devices vs. Arista Networks: Which Tech Stock Is a Better Buy in 2026?",
+      "link": "https://finance.yahoo.com/m/0460120a-f429-3a88-a861-3bf334555c89/advanced-micro-devices-vs..html",
+      "publisher": "Motley Fool",
+      "time": 1785277081,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0cdf51c8-00f7-35ef-8f3a-28f3227a12dd",
+      "title": "Spokane Colleges: Official Institutional Reference and Naming Guidance",
+      "link": "https://finance.yahoo.com/small-business/articles/spokane-colleges-official-institutional-reference-221800829.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785277080,
       "impact": "medium",
       "tags": [
         "macro",
@@ -87,88 +136,22 @@
       ]
     },
     {
-      "id": "977fb35f-487e-3dd1-a26e-80f0d17f645e",
-      "title": "Expro Group Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/977fb35f-487e-3dd1-a26e-80f0d17f645e/expro-group-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1785272654,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "ae43afdd-42b1-302a-930c-0e32bf9f0a1f",
+      "title": "Diamond Certified Resource Publishes New Article About Diamond Certified Ratings Being the Most Accurate in the United States",
+      "link": "https://finance.yahoo.com/small-business/articles/diamond-certified-publishes-article-diamond-221800039.html",
+      "publisher": "PR Newswire",
+      "time": 1785277080,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "a893f8b6-45bb-358b-8829-a40159a5db41",
-      "title": "Telefonica Brasil Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/a893f8b6-45bb-358b-8829-a40159a5db41/telefonica-brasil-q2-earnings.html",
-      "publisher": "MarketBeat",
-      "time": 1785272654,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "d2de1afd-6075-3921-9772-d83de94e1fe8",
-      "title": "XPLR Infrastructure Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/d2de1afd-6075-3921-9772-d83de94e1fe8/xplr-infrastructure-q2.html",
-      "publisher": "MarketBeat",
-      "time": 1785272654,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "35ace747-f95f-31bb-aeec-96feaa84f1db",
-      "title": "Universal Health Services Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/35ace747-f95f-31bb-aeec-96feaa84f1db/universal-health-services-q2.html",
-      "publisher": "MarketBeat",
-      "time": 1785272653,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "5f9ec7aa-39de-35e9-9865-b0e6f0091c90",
-      "title": "United Parcel Service Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/5f9ec7aa-39de-35e9-9865-b0e6f0091c90/united-parcel-service-q2.html",
-      "publisher": "MarketBeat",
-      "time": 1785272653,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "8ead0a91-7142-3d6f-98ea-92193053240d",
-      "title": "United Dominion Realty Trust Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/8ead0a91-7142-3d6f-98ea-92193053240d/united-dominion-realty-trust.html",
-      "publisher": "MarketBeat",
-      "time": 1785272653,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "b3211835-0e96-3687-9703-467a2620b55b",
-      "title": "TransUnion Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/b3211835-0e96-3687-9703-467a2620b55b/transunion-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1785272652,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "7f31b78b-efd7-3759-846b-24828bf450c0",
+      "title": "Dato Seri Ivan Teh Founder of datoseri-ivanteh.com, Supports the Well-Being of Orphans in Pahang: From Food to Clean Living",
+      "link": "https://finance.yahoo.com/small-business/articles/dato-seri-ivan-teh-founder-221700456.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785277020,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
