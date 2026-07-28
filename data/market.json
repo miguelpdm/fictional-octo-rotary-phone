@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T16:57:00.819385+00:00",
+  "updatedAt": "2026-07-28T18:13:23.308123+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7451.01,
-      "change": 39.030000000000655,
-      "changePct": 0.5265799422016878,
+      "price": 7429.53,
+      "change": 17.550000000000182,
+      "changePct": 0.23677883642427774,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 24982.88,
-      "change": 7.06000000000131,
-      "changePct": 0.028267340171419034,
+      "price": 24873.492,
+      "change": -102.32800000000134,
+      "changePct": -0.40970826983859326,
       "currency": "USD"
     },
     {
@@ -44,37 +44,19 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.03,
-      "change": -0.6400000000000006,
-      "changePct": -3.4279592929833984,
+      "price": 18.35,
+      "change": -0.3200000000000003,
+      "changePct": -1.7139796464916992,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "e8a29432-32b6-3cb9-ba17-017012cbcd23",
-      "title": "Fires in Europe: latest developments",
-      "link": "https://finance.yahoo.com/m/e8a29432-32b6-3cb9-ba17-017012cbcd23/fires-in-europe%3A-latest.html",
-      "publisher": "AFP",
-      "time": 1785257496,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5f878329-0f85-3dec-9b85-5c89fc7b6dc3",
-      "title": "Breakthrough Champions, Record-Breaking Cuts and an Eight-Time Winner: STIHL TIMBERSPORTS® Crowns 2026 U.S. Champions",
-      "link": "https://finance.yahoo.com/media-advertising/articles/breakthrough-champions-record-breaking-cuts-165100363.html",
-      "publisher": "PR Newswire",
-      "time": 1785257460,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0199d08a-231a-39f1-bf91-d42b74f07dc4",
-      "title": "Netanyahu visits White House for first Trump talks during Iran war",
-      "link": "https://finance.yahoo.com/m/0199d08a-231a-39f1-bf91-d42b74f07dc4/netanyahu-visits-white-house.html",
-      "publisher": "AFP",
-      "time": 1785257374,
+      "id": "040675ff-862a-3e77-b1a1-b5afb6736d3a",
+      "title": "How a Florida woman won her $1K claim after a fight with FedEx over car damage the company first denied",
+      "link": "https://finance.yahoo.com/small-business/articles/florida-woman-won-her-1k-181000242.html",
+      "publisher": "Moneywise",
+      "time": 1785262200,
       "impact": "high",
       "tags": [
         "geo",
@@ -82,40 +64,61 @@
       ]
     },
     {
-      "id": "8b4fb5b0-250c-4d1e-85af-fc3b18d1a1d5",
-      "title": "The chip stock rout hasn't crushed the broader market, but investors should look out for these trends",
-      "link": "https://finance.yahoo.com/markets/article/the-chip-stock-rout-hasnt-crushed-the-broader-market-but-investors-should-look-out-for-these-trends-164913877.html",
-      "publisher": "Yahoo Finance",
-      "time": 1785257353,
+      "id": "7e6ed44a-fc54-32cc-8000-73cfd3982350",
+      "title": "Sandisk vs. Micron: Which Memory Stock Is the Better Buy for the Second Half of 2026?",
+      "link": "https://finance.yahoo.com/m/7e6ed44a-fc54-32cc-8000-73cfd3982350/sandisk-vs.-micron%3A-which.html",
+      "publisher": "Motley Fool",
+      "time": 1785261900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "88cf3ed3-1962-3e3b-a571-e7b3b5d6e340",
+      "title": "Academy Sports + Outdoors Helps Texas Families Kick Off Back-to-School and Back-to-Sport Shopping with Exclusive Statewide Giveaway Event",
+      "link": "https://finance.yahoo.com/small-business/articles/academy-sports-outdoors-helps-texas-180500024.html",
+      "publisher": "PR Newswire",
+      "time": 1785261900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ef7f8346-67e7-318b-ad8d-4cf555afdd94",
+      "title": "CAPITOL FEDERAL FINANCIAL, INC.® ANNOUNCES QUARTERLY DIVIDEND AND STOCK BUYBACK UPDATE",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/capitol-federal-financial-inc-announces-180500428.html",
+      "publisher": "PR Newswire",
+      "time": 1785261900,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "fc2514f6-2ba8-3a67-9392-024ebc28da39",
+      "title": "Report: Most Organizations Are Preparing Workers for Today's AI, Not Tomorrow's Jobs",
+      "link": "https://finance.yahoo.com/technology/ai/articles/report-most-organizations-preparing-workers-180500393.html",
+      "publisher": "PR Newswire",
+      "time": 1785261900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "318ec75c-255b-37cf-8be7-f01202817223",
+      "title": "Promis Reports No ARIA-E in PMN310 Alzheimer’s Trial Interim Data",
+      "link": "https://finance.yahoo.com/m/318ec75c-255b-37cf-8be7-f01202817223/promis-reports-no-aria-e-in.html",
+      "publisher": "MarketBeat",
+      "time": 1785261876,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "c72f95b1-f2cd-31eb-8a72-eb646014d9b2",
-      "title": "Composition of the Board of Directors’ Committees",
-      "link": "https://finance.yahoo.com/technology/articles/composition-board-directors-committees-164900586.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785257340,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "30053996-76a6-35c6-ae41-e9164f5b8eff",
-      "title": "Flock Cameras Build Timeline That Leads to Arrest in Fatal Kentwood Hit-and-Run",
-      "link": "https://finance.yahoo.com/technology/articles/flock-cameras-build-timeline-leads-164700391.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785257220,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b8f98b79-a08b-369e-855c-202b44114d4f",
-      "title": "FHLBank San Francisco Names Anabel Cuevas Head of Public Affairs",
-      "link": "https://finance.yahoo.com/real-estate/articles/fhlbank-san-francisco-names-anabel-164700095.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785257220,
+      "id": "e964226d-f314-3595-88f0-c33732e97ef7",
+      "title": "Hubbell Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/e964226d-f314-3595-88f0-c33732e97ef7/hubbell-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1785261876,
       "impact": "medium",
       "tags": [
         "macro",
@@ -123,34 +126,52 @@
       ]
     },
     {
-      "id": "06de43c6-84b0-3a10-af9f-8ec7f2fcd9f4",
-      "title": "US Department Of Education Enacts Law Threatening Federal Funding For Universities With Low-Earning Graduates",
-      "link": "https://finance.yahoo.com/m/06de43c6-84b0-3a10-af9f-8ec7f2fcd9f4/us-department-of-education.html",
-      "publisher": "AfroTech",
-      "time": 1785257182,
-      "impact": "high",
+      "id": "7d276ef6-fdb9-389f-95c5-2e2b15a45a0f",
+      "title": "Hilton Worldwide Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/7d276ef6-fdb9-389f-95c5-2e2b15a45a0f/hilton-worldwide-q2-earnings.html",
+      "publisher": "MarketBeat",
+      "time": 1785261875,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "d6d59bf7-59d0-3b81-a1b2-3184dfb56ffb",
-      "title": "Flock Camera Data Helps Wichita Police Arrest Murder Suspect Overnight",
-      "link": "https://finance.yahoo.com/technology/articles/flock-camera-data-helps-wichita-164600715.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785257160,
-      "impact": "low",
-      "tags": []
+      "id": "f3ec8dff-cdeb-3b8d-aa34-c2b5789977c9",
+      "title": "Herc Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/f3ec8dff-cdeb-3b8d-aa34-c2b5789977c9/herc-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1785261875,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "27d21e40-4aca-36c2-8db9-872a010aa585",
-      "title": "Third Coast Bancshares, Inc. to Ring the New York Stock Exchange Closing Bell",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/third-coast-bancshares-inc-ring-164500869.html",
-      "publisher": "PR Newswire",
-      "time": 1785257100,
-      "impact": "low",
-      "tags": []
+      "id": "062440d7-7d5a-36ea-a0d6-d399657d6d40",
+      "title": "GSK Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/062440d7-7d5a-36ea-a0d6-d399657d6d40/gsk-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1785261874,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "d495f6b1-34f9-3dda-9e68-a94edab83821",
+      "title": "Corning Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/d495f6b1-34f9-3dda-9e68-a94edab83821/corning-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1785261874,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
