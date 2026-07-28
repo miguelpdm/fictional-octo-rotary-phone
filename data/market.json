@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-28T05:16:54.404074+00:00",
+  "updatedAt": "2026-07-28T07:58:37.097047+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19741.3,
-      "change": 155.89999999999782,
-      "changePct": 0.7960011028623251,
+      "price": 19821.8,
+      "change": 80.5,
+      "changePct": 0.4077745639851479,
       "currency": "EUR"
     },
     {
@@ -28,122 +28,62 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25361.03,
-      "change": 597.9099999999999,
-      "changePct": 2.4145180413453553,
+      "price": 25508.53,
+      "change": 409.52999999999884,
+      "changePct": 1.6316586318179962,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6282.21,
-      "change": 1.2700000000004366,
-      "changePct": 0.020219903390263822,
+      "price": 6297.35,
+      "change": 15.140000000000327,
+      "changePct": 0.24099799274459668,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.67,
-      "change": 0.09000000000000341,
-      "changePct": 0.4843918191604059,
+      "price": 19.02,
+      "change": 0.34999999999999787,
+      "changePct": 1.8746652383502829,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "e3098b7e-a84b-3609-894b-35a608a141e0",
-      "title": "Australia's sudden housing chill seeps into economy",
-      "link": "https://finance.yahoo.com/real-estate/articles/australias-sudden-housing-chill-seeps-050942496.html",
-      "publisher": "Reuters",
-      "time": 1785215382,
+      "id": "6c3a7615-7316-340e-9ef5-4c47cd996779",
+      "title": "Form 8.5 (EPT/RI) - CAB Payments Holdings Plc",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-5-ept-ri-075300225.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785225180,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f469f468-249c-38ab-8e88-3838265236a9",
-      "title": "Wise stock rattles investors as OCC denies bank application",
-      "link": "https://finance.yahoo.com/m/f469f468-249c-38ab-8e88-3838265236a9/wise-stock-rattles-investors.html",
-      "publisher": "TheStreet",
-      "time": 1785215220,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "06c13268-f544-3d6a-90cf-cb0b02e6503e",
-      "title": "Advancing Its Product Launch Programme, Mercedes-Benz Cars Performs in Line With Guidance; Strong Earnings at Financial Services and Vans; Full-year Outlook Confirmed",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/advancing-product-launch-programme-mercedes-050400782.html",
-      "publisher": "Business Wire",
-      "time": 1785215040,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "eec889aa-2c51-38f8-ae93-79e3401b4830",
-      "title": "Aroa Biosurgery Limited announces the recent appointments of Michael Lynskey and Mike Falcon to its US-based commercial team.",
-      "link": "https://finance.yahoo.com/healthcare/articles/aroa-biosurgery-limited-announces-recent-050300224.html",
-      "publisher": "PR Newswire",
-      "time": 1785214980,
+      "id": "24f3720b-165b-3245-a744-ff1aee92e9b6",
+      "title": "Rocket Lab Has Fallen 58% From Its High While Wall Street's Average Target Sits 79% Above the Price. One Side Is Badly Wrong.",
+      "link": "https://finance.yahoo.com/m/24f3720b-165b-3245-a744-ff1aee92e9b6/rocket-lab-has-fallen-58%25.html",
+      "publisher": "Motley Fool",
+      "time": 1785225120,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "591898b9-2c88-3dca-a28c-7fd289b48e50",
-      "title": "Google rivals line up seeking damages after record $1 billion fine",
-      "link": "https://finance.yahoo.com/technology/articles/google-rivals-line-seeking-damages-050129136.html",
-      "publisher": "Reuters",
-      "time": 1785214889,
+      "id": "5c891fad-fe9d-3f8f-96d7-2a11ae2b13c5",
+      "title": "Form 8.5 (EPT/RI) - Alternative Income REIT plc",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-5-ept-ri-075100317.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785225060,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cb6bd806-a6d7-3828-8fef-14ad1fefc451",
-      "title": "F5 Inc (FFIV) Q3 2026 Earnings Call Highlights: Strong Product Revenue Growth and Raised Fiscal ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/f5-inc-ffiv-q3-2026-050127841.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785214887,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "86e5da3b-97d2-3c4b-a0d3-3938ef97ea06",
-      "title": "OPKO Health Inc (OPK) Q2 2026 Earnings Call Highlights: Strong Pharmaceutical Growth and ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/opko-health-inc-opk-q2-050116310.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785214876,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "081bbd0b-3d65-3b07-96da-d8a06e34af7e",
-      "title": "Agilysys Inc (AGYS) Q1 2027 Earnings Call Highlights: Record Revenue and Raised Guidance Amid ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/agilysys-inc-agys-q1-2027-050105430.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785214865,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a96fdca6-d825-304d-ac4b-ce6393fa38e1",
-      "title": "PennyMac Financial Services (PFSI) Reports Q2: Everything You Need To Know Ahead Of Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pennymac-financial-services-pfsi-reports-050102409.html",
+      "id": "bd03de38-7c16-3beb-89a5-d3b16831aa57",
+      "title": "Moelis (MC) Reports Q2: Everything You Need To Know Ahead Of Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/moelis-mc-reports-q2-everything-074902095.html",
       "publisher": "StockStory",
-      "time": 1785214862,
+      "time": 1785224942,
       "impact": "medium",
       "tags": [
         "macro",
@@ -151,13 +91,64 @@
       ]
     },
     {
-      "id": "179e7773-25ea-3a40-a8c4-c2233d8d8957",
-      "title": "ICAC hosts professional anti-corruption training for Saudi Arabian's anti-corruption authority",
-      "link": "https://finance.yahoo.com/technology/articles/icac-hosts-professional-anti-corruption-050100647.html",
-      "publisher": "PR Newswire",
-      "time": 1785214860,
+      "id": "1a2f3554-1801-3384-a5c3-0a8d07d9c2dd",
+      "title": "Rubix Data Centers Appoints Josh Joshi as Chairman",
+      "link": "https://finance.yahoo.com/technology/ai/articles/rubix-data-centers-appoints-josh-074900453.html",
+      "publisher": "Business Wire",
+      "time": 1785224940,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "34785c92-ac03-3146-9610-909751258e66",
+      "title": "Form 8.5 (EPT/RI) - AEW UK REIT plc",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-5-ept-ri-074900502.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785224940,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1a6b2a36-1a90-39d0-add0-6d20046b82cb",
+      "title": "Huntington Ingalls Expands Distributed Shipbuilding to Navy Amphibious Transport Dock Program",
+      "link": "https://finance.yahoo.com/technology/articles/huntington-ingalls-expands-distributed-shipbuilding-074834795.html",
+      "publisher": "MT Newswires",
+      "time": 1785224914,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e3ad97d4-1eef-328a-b226-d44f0a23c58c",
+      "title": "SBS positioned as a Leader in the SPARK Matrix™: Digital Banking Platform 2026 by QKS Group",
+      "link": "https://finance.yahoo.com/technology/articles/sbs-positioned-leader-spark-matrix-074600484.html",
+      "publisher": "PR Newswire",
+      "time": 1785224760,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "cbf7f20c-b6ad-3e5e-bf02-6a398ea8730d",
+      "title": "Stellantis to Sell Entire Stake in Free2move Car-Sharing Business to Mutares",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-sell-entire-stake-free2move-074412629.html",
+      "publisher": "MT Newswires",
+      "time": 1785224652,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9dfeb2a3-bdd6-3f70-9bce-e6544e1576f9",
+      "title": "Catalyst Acquisition Prices $200 Million IPO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/catalyst-acquisition-prices-200-million-074411641.html",
+      "publisher": "MT Newswires",
+      "time": 1785224651,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
