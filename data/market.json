@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T01:58:16.061056+00:00",
+  "updatedAt": "2026-07-28T05:16:54.404074+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,97 +52,110 @@
   ],
   "news": [
     {
-      "id": "536ea2c7-0fac-3bb8-8e0d-536203afd05d",
-      "title": "Tom Lee Says the AI Capex Fear Is Actually the Bullish Tell",
-      "link": "https://finance.yahoo.com/m/536ea2c7-0fac-3bb8-8e0d-536203afd05d/tom-lee-says-the-ai-capex.html",
-      "publisher": "BeInCrypto",
-      "time": 1785203201,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1a75afd6-348b-32c8-b395-0a45b73a0fa8",
-      "title": "South Korea may cap leveraged ETF investments for retail investors, media reports say",
-      "link": "https://finance.yahoo.com/markets/options/articles/south-korea-may-cap-leveraged-014255384.html",
+      "id": "e3098b7e-a84b-3609-894b-35a608a141e0",
+      "title": "Australia's sudden housing chill seeps into economy",
+      "link": "https://finance.yahoo.com/real-estate/articles/australias-sudden-housing-chill-seeps-050942496.html",
       "publisher": "Reuters",
-      "time": 1785202975,
+      "time": 1785215382,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4ccd5889-fd75-3b8e-b72c-43031fe1a910",
-      "title": "Cloud Monitoring Stocks Q1 In Review: Nutanix (NASDAQ:NTNX) Vs Peers",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cloud-monitoring-stocks-q1-review-014102800.html",
-      "publisher": "StockStory",
-      "time": 1785202862,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "d4587986-713e-3ddb-aae1-0f3769598f8f",
-      "title": "Why D-Wave Quantum Stock Surged Today",
-      "link": "https://finance.yahoo.com/m/d4587986-713e-3ddb-aae1-0f3769598f8f/why-d-wave-quantum-stock.html",
-      "publisher": "Motley Fool",
-      "time": 1785202858,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "39bb8f3f-b436-3173-bc36-4163ebebb97e",
-      "title": "Kelso Technologies Inc. Financial Results for the Quarter Ended June 30, 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kelso-technologies-inc-financial-results-014000110.html",
-      "publisher": "TMX Newsfile",
-      "time": 1785202800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8d226d41-968e-356f-8074-4862fa2911c0",
-      "title": "Hotel Okura Thermal Resort & Spa Cappadocia to Open in 2028",
-      "link": "https://finance.yahoo.com/real-estate/articles/hotel-okura-thermal-resort-spa-013900024.html",
-      "publisher": "Business Wire",
-      "time": 1785202740,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "43af704f-f349-3b3e-b369-e48826175cc3",
-      "title": "AI cameras spot suicide attempts in South Korea's capital",
-      "link": "https://finance.yahoo.com/m/43af704f-f349-3b3e-b369-e48826175cc3/ai-cameras-spot-suicide.html",
-      "publisher": "AFP",
-      "time": 1785202733,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4f199d4e-7a61-3207-a485-a106b16135c4",
-      "title": "Nvidia just made a move Wall Street wasn't ready for",
-      "link": "https://finance.yahoo.com/m/4f199d4e-7a61-3207-a485-a106b16135c4/nvidia-just-made-a-move-wall.html",
+      "id": "f469f468-249c-38ab-8e88-3838265236a9",
+      "title": "Wise stock rattles investors as OCC denies bank application",
+      "link": "https://finance.yahoo.com/m/f469f468-249c-38ab-8e88-3838265236a9/wise-stock-rattles-investors.html",
       "publisher": "TheStreet",
-      "time": 1785202620,
+      "time": 1785215220,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "06c13268-f544-3d6a-90cf-cb0b02e6503e",
+      "title": "Advancing Its Product Launch Programme, Mercedes-Benz Cars Performs in Line With Guidance; Strong Earnings at Financial Services and Vans; Full-year Outlook Confirmed",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/advancing-product-launch-programme-mercedes-050400782.html",
+      "publisher": "Business Wire",
+      "time": 1785215040,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "eec889aa-2c51-38f8-ae93-79e3401b4830",
+      "title": "Aroa Biosurgery Limited announces the recent appointments of Michael Lynskey and Mike Falcon to its US-based commercial team.",
+      "link": "https://finance.yahoo.com/healthcare/articles/aroa-biosurgery-limited-announces-recent-050300224.html",
+      "publisher": "PR Newswire",
+      "time": 1785214980,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9d3a4af1-5c18-375b-b0c1-e79a3aaf79d6",
-      "title": "40 Years in Vietnam: Weichai and Partners Reap the Rewards, Ready for More",
-      "link": "https://finance.yahoo.com/energy/articles/40-years-vietnam-weichai-partners-013600574.html",
-      "publisher": "PR Newswire",
-      "time": 1785202560,
-      "impact": "high",
+      "id": "591898b9-2c88-3dca-a28c-7fd289b48e50",
+      "title": "Google rivals line up seeking damages after record $1 billion fine",
+      "link": "https://finance.yahoo.com/technology/articles/google-rivals-line-seeking-damages-050129136.html",
+      "publisher": "Reuters",
+      "time": 1785214889,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cb6bd806-a6d7-3828-8fef-14ad1fefc451",
+      "title": "F5 Inc (FFIV) Q3 2026 Earnings Call Highlights: Strong Product Revenue Growth and Raised Fiscal ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/f5-inc-ffiv-q3-2026-050127841.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785214887,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "60868194-b223-3f33-b7fb-6586d49e0b79",
-      "title": "Shopify (SHOP) Jumps 11.5% on ‘High-Twenties’ Revenue Growth Hopes for Q2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/shopify-shop-jumps-11-5-013523745.html",
-      "publisher": "Insider Monkey",
-      "time": 1785202523,
+      "id": "86e5da3b-97d2-3c4b-a0d3-3938ef97ea06",
+      "title": "OPKO Health Inc (OPK) Q2 2026 Earnings Call Highlights: Strong Pharmaceutical Growth and ...",
+      "link": "https://finance.yahoo.com/healthcare/articles/opko-health-inc-opk-q2-050116310.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785214876,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "081bbd0b-3d65-3b07-96da-d8a06e34af7e",
+      "title": "Agilysys Inc (AGYS) Q1 2027 Earnings Call Highlights: Record Revenue and Raised Guidance Amid ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/agilysys-inc-agys-q1-2027-050105430.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785214865,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a96fdca6-d825-304d-ac4b-ce6393fa38e1",
+      "title": "PennyMac Financial Services (PFSI) Reports Q2: Everything You Need To Know Ahead Of Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pennymac-financial-services-pfsi-reports-050102409.html",
+      "publisher": "StockStory",
+      "time": 1785214862,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "179e7773-25ea-3a40-a8c4-c2233d8d8957",
+      "title": "ICAC hosts professional anti-corruption training for Saudi Arabian's anti-corruption authority",
+      "link": "https://finance.yahoo.com/technology/articles/icac-hosts-professional-anti-corruption-050100647.html",
+      "publisher": "PR Newswire",
+      "time": 1785214860,
       "impact": "low",
       "tags": []
     }
