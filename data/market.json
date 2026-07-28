@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-28T10:38:41.135619+00:00",
+  "updatedAt": "2026-07-28T12:50:46.638762+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19833.7,
-      "change": 92.40000000000146,
-      "changePct": 0.4680542821394815,
+      "price": 19753.1,
+      "change": 11.799999999999272,
+      "changePct": 0.05977316590092483,
       "currency": "EUR"
     },
     {
@@ -28,35 +28,80 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25475.12,
-      "change": 376.119999999999,
-      "changePct": 1.4985457587951672,
+      "price": 25363.8,
+      "change": 264.7999999999993,
+      "changePct": 1.0550221124347554,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6293.43,
-      "change": 11.220000000000255,
-      "changePct": 0.17859956925986642,
+      "price": 6266.29,
+      "change": -15.920000000000073,
+      "changePct": -0.25341400558083976,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.98,
-      "change": 0.3099999999999987,
-      "changePct": 1.660417782538825,
+      "price": 18.7,
+      "change": 0.029999999999997584,
+      "changePct": 0.16068559185858372,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "7835afb0-ae89-31cf-af24-e16f2a5802c9",
-      "title": "Skadden, Arps, Slate, Meagher & Flom tops oil and gas M&A legal advisory by value in H1 2026",
-      "link": "https://finance.yahoo.com/m/7835afb0-ae89-31cf-af24-e16f2a5802c9/skadden%2C-arps%2C-slate%2C-meagher.html",
-      "publisher": "Offshore Technology",
-      "time": 1785234976,
+      "id": "4c0dc3f9-6cdb-3ed1-92be-a57518afe5dd",
+      "title": "Alt-meat co-packer No Meat Factory to exit US",
+      "link": "https://finance.yahoo.com/m/4c0dc3f9-6cdb-3ed1-92be-a57518afe5dd/alt-meat-co-packer-no-meat.html",
+      "publisher": "Just Food",
+      "time": 1785242865,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a8318661-9e42-3e75-8984-9b906cefcf7b",
+      "title": "Pladis reformulates to capture trends in HFSS, protein, fibre",
+      "link": "https://finance.yahoo.com/m/a8318661-9e42-3e75-8984-9b906cefcf7b/pladis-reformulates-to.html",
+      "publisher": "Just Food",
+      "time": 1785242739,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a8c4e400-26cd-3840-8e02-54071d2660ba",
+      "title": "Noble Plains Uranium Commences Confirmation Drill Program at Shirley Central Project",
+      "link": "https://finance.yahoo.com/energy/articles/noble-plains-uranium-commences-confirmation-124500714.html",
+      "publisher": "TMX Newsfile",
+      "time": 1785242700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e0810271-91e8-3a61-8378-e48c02059d09",
+      "title": "Minaurum Engages Dr. Paula Montoya and Launches Down-Hole Imagery Program to Enhance Geological Modeling of the Alamos Silver Project",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/minaurum-engages-dr-paula-montoya-124500497.html",
+      "publisher": "TMX Newsfile",
+      "time": 1785242700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2ba753d4-5706-33aa-ad05-5cfd5865e9fb",
+      "title": "Liquidia Corporation (LQDA) Has 50%+ Upside on Yutrepia Ruling and Buyout Potential",
+      "link": "https://finance.yahoo.com/healthcare/articles/liquidia-corporation-lqda-50-upside-124444035.html",
+      "publisher": "Insider Monkey",
+      "time": 1785242684,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d4f9dd08-318d-3fae-979e-7509ebe4175b",
+      "title": "PayPal Q2 2026 earnings beat; raises full-year EPS guidance",
+      "link": "https://finance.yahoo.com/m/d4f9dd08-318d-3fae-979e-7509ebe4175b/paypal-q2-2026-earnings-beat%3B.html",
+      "publisher": "Quartz",
+      "time": 1785242617,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,148 +109,44 @@
       ]
     },
     {
-      "id": "1ab8847c-6ca4-3b04-bcc5-1131880ef363",
-      "title": "Form 8.3",
-      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-103400939.html",
-      "publisher": "Business Wire",
-      "time": 1785234840,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "40c12fae-96a1-3d5e-92f0-4f82a8d5caea",
-      "title": "Microsoft unveils new cybersecurity model, launches Perception platform",
-      "link": "https://finance.yahoo.com/m/40c12fae-96a1-3d5e-92f0-4f82a8d5caea/microsoft-unveils-new.html",
-      "publisher": "Verdict",
-      "time": 1785234812,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6850b209-29fa-3d60-8e1e-a3227d7075c3",
-      "title": "Democrat's TV ad targets data centers in drive to oust Republican from swing Pennsylvania House seat",
-      "link": "https://finance.yahoo.com/m/6850b209-29fa-3d60-8e1e-a3227d7075c3/democrat%27s-tv-ad-targets-data.html",
-      "publisher": "Associated Press",
-      "time": 1785234781,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b7ef3693-6037-377a-aa8e-def5c77fc8f4",
-      "title": "BrowserAct Launches BrowserAct Agent Build: An AI Web Scraper That Builds and Tests Itself From a Single Prompt",
-      "link": "https://finance.yahoo.com/technology/ai/articles/browseract-launches-browseract-agent-build-103300660.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785234780,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7576658b-655c-33e7-bc7c-6457db065ff5",
-      "title": "Unified Threat Management Market to Hit $19.7 Bn by 2031 Cloud Deployments Held 57.65% of the Market in 2025, Says Mordor Intelligence",
-      "link": "https://finance.yahoo.com/technology/ai/articles/unified-threat-management-market-hit-103200429.html",
-      "publisher": "PR Newswire",
-      "time": 1785234720,
-      "impact": "low",
+      "id": "5e167975-0b2a-3e48-ac7d-75dc5c7266c1",
+      "title": "S&P Global profit jumps, strikes datacenterHawk, Agusto deals",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-global-profit-jumps-strikes-124242201.html",
+      "publisher": "Reuters",
+      "time": 1785242562,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "b24a50a8-f110-3fa6-8372-d2aa6d55e2b5",
-      "title": "INNIO Group Reports Second Quarter 2026 Financial Results",
-      "link": "https://finance.yahoo.com/energy/articles/innio-group-reports-second-quarter-103100597.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785234660,
+      "id": "1bc0020e-4203-361b-ad42-2f09b0ebf6ba",
+      "title": "First image taken of Betelgeuse's elusive companion star",
+      "link": "https://finance.yahoo.com/m/1bc0020e-4203-361b-ad42-2f09b0ebf6ba/first-image-taken-of.html",
+      "publisher": "AFP",
+      "time": 1785242557,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5a43d17f-fc4c-3e57-a530-c87a6e672e0a",
-      "title": "BioMarin and n-Lorem partner on early research for ReNU syndrome therapy",
-      "link": "https://finance.yahoo.com/m/5a43d17f-fc4c-3e57-a530-c87a6e672e0a/biomarin-and-n-lorem-partner.html",
-      "publisher": "Pharmaceutical Technology",
-      "time": 1785234607,
-      "impact": "low",
-      "tags": []
+      "id": "a4e773fd-3ce6-372c-97e5-8e858cbad6a3",
+      "title": "Itron: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/itron-q2-earnings-snapshot-124117715.html",
+      "publisher": "Associated Press",
+      "time": 1785242477,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "1e3c4a24-3357-358b-aaf7-1b3abc11db19",
-      "title": "Liverpool Bay CCS secures seabed lease for UK carbon storage project",
-      "link": "https://finance.yahoo.com/m/1e3c4a24-3357-358b-aaf7-1b3abc11db19/liverpool-bay-ccs-secures.html",
-      "publisher": "Energy Monitor",
-      "time": 1785234600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "266a5734-7c9a-3518-b04e-11e18f5e0c64",
-      "title": "XCF Global Highlights Revenue-Generating Production and Commercial Progress",
-      "link": "https://finance.yahoo.com/energy/articles/xcf-global-highlights-revenue-generating-103000788.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1785234600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2aa9e222-b1f3-3ba3-8f3a-28daa79fbd57",
-      "title": "Trans Canada Gold Continues Steady Underground Drilling at the Harrison Lake District Scale Gold Project",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/trans-canada-gold-continues-steady-103000839.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1785234600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "561f4f67-d2aa-3926-bd45-6a2e4427f587",
-      "title": "TNL Mediagene Completes Full Repayment of Senior Convertible Note and Mutually Terminates Note Purchase Agreement with 3i, LP",
-      "link": "https://finance.yahoo.com/technology/articles/tnl-mediagene-completes-full-repayment-103000631.html",
-      "publisher": "TMX Newsfile",
-      "time": 1785234600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5829f3f6-5225-3f7e-a791-57db2b2abbc0",
-      "title": "A.I.S. Resources Secures Drilling Permit for New Brunswick Project and Mobilizes Drill Rig",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/resources-secures-drilling-permit-brunswick-103000368.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785234600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cb549ce1-6177-3985-bea6-762b9e7fab98",
-      "title": "Bimergen Energy Emerges With $8.9 Million Revenue Transaction",
-      "link": "https://finance.yahoo.com/energy/articles/bimergen-energy-emerges-8-9-103000224.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785234600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d6352b4b-49cb-3406-a2ae-86e61014f0ed",
-      "title": "Tinka Provides Results of Silvia NW Geophysical Survey and Outlines Copper Targets",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/tinka-provides-results-silvia-nw-103000637.html",
-      "publisher": "TMX Newsfile",
-      "time": 1785234600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0ebfda32-7ab4-3198-963f-15c39e74831a",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-103000546.html",
-      "publisher": "Business Wire",
-      "time": 1785234600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0fd79f2d-1382-3fa7-b8f6-ca22ae46fe7c",
-      "title": "Qnity Advances Thermal Management Portfolio as AI and High-Power Electronics Push Heat to the Center of Design",
-      "link": "https://finance.yahoo.com/technology/articles/qnity-advances-thermal-management-portfolio-103000276.html",
-      "publisher": "Business Wire",
-      "time": 1785234600,
+      "id": "c5a59df8-83b6-3094-82c2-e65880a759db",
+      "title": "How food industry consolidation is worsening the cyclospora outbreak",
+      "link": "https://finance.yahoo.com/m/c5a59df8-83b6-3094-82c2-e65880a759db/how-food-industry.html",
+      "publisher": "Quartz",
+      "time": 1785242296,
       "impact": "low",
       "tags": []
     }
