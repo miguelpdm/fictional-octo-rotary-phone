@@ -1,62 +1,80 @@
 {
-  "updatedAt": "2026-07-28T15:15:15.928991+00:00",
+  "updatedAt": "2026-07-28T16:57:00.819385+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19691.4,
-      "change": -49.89999999999782,
-      "changePct": -0.25276957444544085,
+      "price": 19727.0,
+      "change": -14.299999999999272,
+      "changePct": -0.07243697223586731,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7415.78,
-      "change": 2.5999999999994543,
-      "changePct": 0.0350726678699216,
+      "price": 7451.01,
+      "change": 39.030000000000655,
+      "changePct": 0.5265799422016878,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 24793.867,
-      "change": -138.21300000000338,
-      "changePct": -0.5543580800318441,
+      "price": 24982.88,
+      "change": 7.06000000000131,
+      "changePct": 0.028267340171419034,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25388.49,
-      "change": 27.460000000002765,
-      "changePct": 0.10827635943809366,
+      "price": 25464.01,
+      "change": 365.0099999999984,
+      "changePct": 1.4542810470536611,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6272.8,
-      "change": -9.409999999999854,
-      "changePct": -0.14978805229369688,
+      "price": 6289.51,
+      "change": 7.300000000000182,
+      "changePct": 0.11620114577513617,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.51,
-      "change": -0.16000000000000014,
-      "changePct": -0.8569898232458496,
+      "price": 18.03,
+      "change": -0.6400000000000006,
+      "changePct": -3.4279592929833984,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "046583c4-952a-4b5e-bb7b-537044e0c221",
-      "title": "Bitcoin falls to $63,000 as Fed decision looms, Clarity Act hopes fade",
-      "link": "https://finance.yahoo.com/markets/article/bitcoin-falls-to-63000-as-fed-decision-looms-clarity-act-hopes-fade-151145521.html",
-      "publisher": "Yahoo Finance",
-      "time": 1785251505,
+      "id": "e8a29432-32b6-3cb9-ba17-017012cbcd23",
+      "title": "Fires in Europe: latest developments",
+      "link": "https://finance.yahoo.com/m/e8a29432-32b6-3cb9-ba17-017012cbcd23/fires-in-europe%3A-latest.html",
+      "publisher": "AFP",
+      "time": 1785257496,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5f878329-0f85-3dec-9b85-5c89fc7b6dc3",
+      "title": "Breakthrough Champions, Record-Breaking Cuts and an Eight-Time Winner: STIHL TIMBERSPORTS® Crowns 2026 U.S. Champions",
+      "link": "https://finance.yahoo.com/media-advertising/articles/breakthrough-champions-record-breaking-cuts-165100363.html",
+      "publisher": "PR Newswire",
+      "time": 1785257460,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0199d08a-231a-39f1-bf91-d42b74f07dc4",
+      "title": "Netanyahu visits White House for first Trump talks during Iran war",
+      "link": "https://finance.yahoo.com/m/0199d08a-231a-39f1-bf91-d42b74f07dc4/netanyahu-visits-white-house.html",
+      "publisher": "AFP",
+      "time": 1785257374,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,83 +82,73 @@
       ]
     },
     {
-      "id": "abdd0392-036c-3c35-9bf3-424f7905c232",
-      "title": "HOPE & SESAME IN GUANGZHOU TAKES THE NO.1 SPOT AT ASIA'S 50 BEST BARS 2026",
-      "link": "https://finance.yahoo.com/media-advertising/articles/hope-sesame-guangzhou-takes-no-150900018.html",
-      "publisher": "CNW Group",
-      "time": 1785251340,
+      "id": "8b4fb5b0-250c-4d1e-85af-fc3b18d1a1d5",
+      "title": "The chip stock rout hasn't crushed the broader market, but investors should look out for these trends",
+      "link": "https://finance.yahoo.com/markets/article/the-chip-stock-rout-hasnt-crushed-the-broader-market-but-investors-should-look-out-for-these-trends-164913877.html",
+      "publisher": "Yahoo Finance",
+      "time": 1785257353,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "c72f95b1-f2cd-31eb-8a72-eb646014d9b2",
+      "title": "Composition of the Board of Directors’ Committees",
+      "link": "https://finance.yahoo.com/technology/articles/composition-board-directors-committees-164900586.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785257340,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "58c98ce4-852e-35ae-89dc-9343d0b172ae",
-      "title": "PhoneStash Launches as Newest MagSafe-Compatible Everyday Carry Companion",
-      "link": "https://finance.yahoo.com/technology/articles/phonestash-launches-newest-magsafe-compatible-150800062.html",
+      "id": "30053996-76a6-35c6-ae41-e9164f5b8eff",
+      "title": "Flock Cameras Build Timeline That Leads to Arrest in Fatal Kentwood Hit-and-Run",
+      "link": "https://finance.yahoo.com/technology/articles/flock-cameras-build-timeline-leads-164700391.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785257220,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b8f98b79-a08b-369e-855c-202b44114d4f",
+      "title": "FHLBank San Francisco Names Anabel Cuevas Head of Public Affairs",
+      "link": "https://finance.yahoo.com/real-estate/articles/fhlbank-san-francisco-names-anabel-164700095.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785257220,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "06de43c6-84b0-3a10-af9f-8ec7f2fcd9f4",
+      "title": "US Department Of Education Enacts Law Threatening Federal Funding For Universities With Low-Earning Graduates",
+      "link": "https://finance.yahoo.com/m/06de43c6-84b0-3a10-af9f-8ec7f2fcd9f4/us-department-of-education.html",
+      "publisher": "AfroTech",
+      "time": 1785257182,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "d6d59bf7-59d0-3b81-a1b2-3184dfb56ffb",
+      "title": "Flock Camera Data Helps Wichita Police Arrest Murder Suspect Overnight",
+      "link": "https://finance.yahoo.com/technology/articles/flock-camera-data-helps-wichita-164600715.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785257160,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "27d21e40-4aca-36c2-8db9-872a010aa585",
+      "title": "Third Coast Bancshares, Inc. to Ring the New York Stock Exchange Closing Bell",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/third-coast-bancshares-inc-ring-164500869.html",
       "publisher": "PR Newswire",
-      "time": 1785251280,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7706b45c-2547-3d5d-89aa-6c63fd7efa7d",
-      "title": "National Organization for Rare Disorders Expands Rare Disease Centers of Excellence Network",
-      "link": "https://finance.yahoo.com/healthcare/articles/national-organization-rare-disorders-expands-150800397.html",
-      "publisher": "PR Newswire",
-      "time": 1785251280,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "773fd305-d855-3f11-9494-cb0ff44ef1aa",
-      "title": "Here's the \"Magnificent Seven\" Stock Cathie Wood Is Piling Into Now",
-      "link": "https://finance.yahoo.com/m/773fd305-d855-3f11-9494-cb0ff44ef1aa/here%27s-the-%22magnificent.html",
-      "publisher": "Motley Fool",
-      "time": 1785251240,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "739ab2f6-732e-3f96-a446-957891d2d1d5",
-      "title": "New Analysis From Obi Finds World Cup Match Days Sent Rideshare Prices Surging Across Host Cities",
-      "link": "https://finance.yahoo.com/small-business/articles/analysis-obi-finds-world-cup-150700477.html",
-      "publisher": "PR Newswire",
-      "time": 1785251220,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ec89990c-065d-30d3-86fa-58b932c22a8a",
-      "title": "/C O R R E C T I O N -- Whatfix/",
-      "link": "https://finance.yahoo.com/technology/ai/articles/c-o-r-r-e-150700802.html",
-      "publisher": "PR Newswire",
-      "time": 1785251220,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ad878361-8ebb-3a81-8bc2-60bc607c7ca4",
-      "title": "Bain Capital in talks over 25% stake in IndusInd General Insurance – report",
-      "link": "https://finance.yahoo.com/m/ad878361-8ebb-3a81-8bc2-60bc607c7ca4/bain-capital-in-talks-over.html",
-      "publisher": "Life Insurance International",
-      "time": 1785251190,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "560e8f83-8351-3d87-b256-e11d230a1cdd",
-      "title": "MapLight Therapeutics stock crashes on Phase II schizophrenia data",
-      "link": "https://finance.yahoo.com/m/560e8f83-8351-3d87-b256-e11d230a1cdd/maplight-therapeutics-stock.html",
-      "publisher": "Clinical Trials Arena",
-      "time": 1785251180,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "003cd1c1-fc5f-3ebb-b5a6-04321d3630ff",
-      "title": "Should You Buy AST SpaceMobile Stock Below $63?",
-      "link": "https://finance.yahoo.com/m/003cd1c1-fc5f-3ebb-b5a6-04321d3630ff/should-you-buy-ast.html",
-      "publisher": "Motley Fool",
-      "time": 1785251100,
+      "time": 1785257100,
       "impact": "low",
       "tags": []
     }
