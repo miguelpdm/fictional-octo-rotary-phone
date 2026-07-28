@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T18:13:23.308123+00:00",
+  "updatedAt": "2026-07-28T19:59:23.234754+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,25 +12,25 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7429.53,
-      "change": 17.550000000000182,
-      "changePct": 0.23677883642427774,
+      "price": 7432.29,
+      "change": 19.109999999999673,
+      "changePct": 0.25778410884397346,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 24873.492,
-      "change": -102.32800000000134,
-      "changePct": -0.40970826983859326,
+      "price": 24888.361,
+      "change": -43.71900000000096,
+      "changePct": -0.1753523973932418,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
       "price": 25464.01,
-      "change": 365.0099999999984,
-      "changePct": 1.4542810470536611,
+      "change": 102.97999999999956,
+      "changePct": 0.4060560631803975,
       "currency": "EUR"
     },
     {
@@ -44,19 +44,37 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.35,
-      "change": -0.3200000000000003,
-      "changePct": -1.7139796464916992,
+      "price": 18.22,
+      "change": -0.45000000000000284,
+      "changePct": -2.4102838778789653,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "040675ff-862a-3e77-b1a1-b5afb6736d3a",
-      "title": "How a Florida woman won her $1K claim after a fight with FedEx over car damage the company first denied",
-      "link": "https://finance.yahoo.com/small-business/articles/florida-woman-won-her-1k-181000242.html",
-      "publisher": "Moneywise",
-      "time": 1785262200,
+      "id": "a2c7f538-eedc-3c74-ab6b-488a481060f2",
+      "title": "What's Going On With AMD Stock Tuesday",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/whats-going-amd-stock-tuesday-195658330.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785268618,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8552ada1-68d8-3b6a-b917-65083fd995b1",
+      "title": "Dell Stock Crashes as AI Server Boom Faces New Margin Concerns",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-crashes-ai-server-195648777.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785268608,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "91b63c93-69b7-3d67-877b-1fdef680a1da",
+      "title": "Market Chatter: Ashland Moves Toward Agreement With Activist Investor Ancora",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-ashland-moves-toward-195115330.html",
+      "publisher": "MT Newswires",
+      "time": 1785268275,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,29 +82,38 @@
       ]
     },
     {
-      "id": "7e6ed44a-fc54-32cc-8000-73cfd3982350",
-      "title": "Sandisk vs. Micron: Which Memory Stock Is the Better Buy for the Second Half of 2026?",
-      "link": "https://finance.yahoo.com/m/7e6ed44a-fc54-32cc-8000-73cfd3982350/sandisk-vs.-micron%3A-which.html",
-      "publisher": "Motley Fool",
-      "time": 1785261900,
+      "id": "e2dfc398-82dd-38ff-96fd-d9100aa6006b",
+      "title": "GSK Stock Rises as $2.52 Billion Savings Plan Funds Pipeline",
+      "link": "https://finance.yahoo.com/healthcare/articles/gsk-stock-rises-2-52-195100747.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785268260,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "88cf3ed3-1962-3e3b-a571-e7b3b5d6e340",
-      "title": "Academy Sports + Outdoors Helps Texas Families Kick Off Back-to-School and Back-to-Sport Shopping with Exclusive Statewide Giveaway Event",
-      "link": "https://finance.yahoo.com/small-business/articles/academy-sports-outdoors-helps-texas-180500024.html",
-      "publisher": "PR Newswire",
-      "time": 1785261900,
+      "id": "5af6e7fa-97a2-31df-948e-4a329501b8db",
+      "title": "Chef James Briscione Highlights the Biggest Trends Transforming Summer Parties on TipsOnTv",
+      "link": "https://finance.yahoo.com/media-advertising/articles/chef-james-briscione-highlights-biggest-195000539.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1785268200,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ef7f8346-67e7-318b-ad8d-4cf555afdd94",
-      "title": "CAPITOL FEDERAL FINANCIAL, INC.® ANNOUNCES QUARTERLY DIVIDEND AND STOCK BUYBACK UPDATE",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/capitol-federal-financial-inc-announces-180500428.html",
+      "id": "b2723ee2-4974-3d1f-969a-15bf00589d56",
+      "title": "Widespread Community Support Surges Across North Metro for Gateway Fiber",
+      "link": "https://finance.yahoo.com/small-business/articles/widespread-community-support-surges-across-195000158.html",
+      "publisher": "Business Wire",
+      "time": 1785268200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ca3b8066-fa44-32df-a64c-52293e397e50",
+      "title": "Armor Health Expands Georgia Footprint with Newton County Correctional Healthcare Award",
+      "link": "https://finance.yahoo.com/healthcare/articles/armor-health-expands-georgia-footprint-195000752.html",
       "publisher": "PR Newswire",
-      "time": 1785261900,
+      "time": 1785268200,
       "impact": "high",
       "tags": [
         "geo",
@@ -94,79 +121,31 @@
       ]
     },
     {
-      "id": "fc2514f6-2ba8-3a67-9392-024ebc28da39",
-      "title": "Report: Most Organizations Are Preparing Workers for Today's AI, Not Tomorrow's Jobs",
-      "link": "https://finance.yahoo.com/technology/ai/articles/report-most-organizations-preparing-workers-180500393.html",
-      "publisher": "PR Newswire",
-      "time": 1785261900,
+      "id": "47e1ee18-6c01-48b2-9c1e-58bf829f3617",
+      "title": "How a 'Super El Niño' could send food prices higher",
+      "link": "https://finance.yahoo.com/video/how-a-super-el-nino-could-send-food-prices-higher-194936023.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1785268176,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "318ec75c-255b-37cf-8be7-f01202817223",
-      "title": "Promis Reports No ARIA-E in PMN310 Alzheimer’s Trial Interim Data",
-      "link": "https://finance.yahoo.com/m/318ec75c-255b-37cf-8be7-f01202817223/promis-reports-no-aria-e-in.html",
-      "publisher": "MarketBeat",
-      "time": 1785261876,
+      "id": "0f06cf43-0d72-372a-9b2f-4ba24d2a67b7",
+      "title": "3 of Wall Street’s Favorite Stocks with Questionable Fundamentals",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-wall-street-favorite-stocks-194902743.html",
+      "publisher": "StockStory",
+      "time": 1785268142,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "e964226d-f314-3595-88f0-c33732e97ef7",
-      "title": "Hubbell Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/e964226d-f314-3595-88f0-c33732e97ef7/hubbell-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1785261876,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "7d276ef6-fdb9-389f-95c5-2e2b15a45a0f",
-      "title": "Hilton Worldwide Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/7d276ef6-fdb9-389f-95c5-2e2b15a45a0f/hilton-worldwide-q2-earnings.html",
-      "publisher": "MarketBeat",
-      "time": 1785261875,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "f3ec8dff-cdeb-3b8d-aa34-c2b5789977c9",
-      "title": "Herc Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/f3ec8dff-cdeb-3b8d-aa34-c2b5789977c9/herc-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1785261875,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "062440d7-7d5a-36ea-a0d6-d399657d6d40",
-      "title": "GSK Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/062440d7-7d5a-36ea-a0d6-d399657d6d40/gsk-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1785261874,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "d495f6b1-34f9-3dda-9e68-a94edab83821",
-      "title": "Corning Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/d495f6b1-34f9-3dda-9e68-a94edab83821/corning-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1785261874,
+      "id": "5f41281e-0953-3dc1-9e3c-1fc439775099",
+      "title": "Barclays Stock Falls 5% as Costs Overshadow 17% Profit Gain",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-stock-falls-5-costs-194830185.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785268110,
       "impact": "medium",
       "tags": [
         "macro",
