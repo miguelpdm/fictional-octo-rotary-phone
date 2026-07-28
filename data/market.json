@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T19:59:23.234754+00:00",
+  "updatedAt": "2026-07-28T21:12:43.394278+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,25 +12,25 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7432.29,
-      "change": 19.109999999999673,
-      "changePct": 0.25778410884397346,
+      "price": 7428.78,
+      "change": 16.800000000000182,
+      "changePct": 0.22666008273093266,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 24888.361,
-      "change": -43.71900000000096,
-      "changePct": -0.1753523973932418,
+      "price": 24876.912,
+      "change": -98.90799999999945,
+      "changePct": -0.39601502573288666,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
       "price": 25464.01,
-      "change": 102.97999999999956,
-      "changePct": 0.4060560631803975,
+      "change": 365.0099999999984,
+      "changePct": 1.4542810470536611,
       "currency": "EUR"
     },
     {
@@ -44,108 +44,126 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.22,
-      "change": -0.45000000000000284,
-      "changePct": -2.4102838778789653,
+      "price": 18.21,
+      "change": -0.46000000000000085,
+      "changePct": -2.46384574183182,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "a2c7f538-eedc-3c74-ab6b-488a481060f2",
-      "title": "What's Going On With AMD Stock Tuesday",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/whats-going-amd-stock-tuesday-195658330.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785268618,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8552ada1-68d8-3b6a-b917-65083fd995b1",
-      "title": "Dell Stock Crashes as AI Server Boom Faces New Margin Concerns",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-crashes-ai-server-195648777.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785268608,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "91b63c93-69b7-3d67-877b-1fdef680a1da",
-      "title": "Market Chatter: Ashland Moves Toward Agreement With Activist Investor Ancora",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-ashland-moves-toward-195115330.html",
-      "publisher": "MT Newswires",
-      "time": 1785268275,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "e2dfc398-82dd-38ff-96fd-d9100aa6006b",
-      "title": "GSK Stock Rises as $2.52 Billion Savings Plan Funds Pipeline",
-      "link": "https://finance.yahoo.com/healthcare/articles/gsk-stock-rises-2-52-195100747.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785268260,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5af6e7fa-97a2-31df-948e-4a329501b8db",
-      "title": "Chef James Briscione Highlights the Biggest Trends Transforming Summer Parties on TipsOnTv",
-      "link": "https://finance.yahoo.com/media-advertising/articles/chef-james-briscione-highlights-biggest-195000539.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1785268200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b2723ee2-4974-3d1f-969a-15bf00589d56",
-      "title": "Widespread Community Support Surges Across North Metro for Gateway Fiber",
-      "link": "https://finance.yahoo.com/small-business/articles/widespread-community-support-surges-across-195000158.html",
-      "publisher": "Business Wire",
-      "time": 1785268200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ca3b8066-fa44-32df-a64c-52293e397e50",
-      "title": "Armor Health Expands Georgia Footprint with Newton County Correctional Healthcare Award",
-      "link": "https://finance.yahoo.com/healthcare/articles/armor-health-expands-georgia-footprint-195000752.html",
-      "publisher": "PR Newswire",
-      "time": 1785268200,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "47e1ee18-6c01-48b2-9c1e-58bf829f3617",
-      "title": "How a 'Super El Niño' could send food prices higher",
-      "link": "https://finance.yahoo.com/video/how-a-super-el-nino-could-send-food-prices-higher-194936023.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1785268176,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0f06cf43-0d72-372a-9b2f-4ba24d2a67b7",
-      "title": "3 of Wall Street’s Favorite Stocks with Questionable Fundamentals",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-wall-street-favorite-stocks-194902743.html",
-      "publisher": "StockStory",
-      "time": 1785268142,
+      "id": "0d0170d8-8074-378f-b1ff-49d9e70e6ccd",
+      "title": "fuboTV Stockholders Approve All Six Proposals, Expand Equity Plan",
+      "link": "https://finance.yahoo.com/m/0d0170d8-8074-378f-b1ff-49d9e70e6ccd/fubotv-stockholders-approve.html",
+      "publisher": "MarketBeat",
+      "time": 1785272655,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "5f41281e-0953-3dc1-9e3c-1fc439775099",
-      "title": "Barclays Stock Falls 5% as Costs Overshadow 17% Profit Gain",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-stock-falls-5-costs-194830185.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785268110,
+      "id": "fa4408f3-607d-3230-ac8a-f92c542882d3",
+      "title": "Xylem Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/fa4408f3-607d-3230-ac8a-f92c542882d3/xylem-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1785272655,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "8053d708-3dcb-37c9-9489-1d57663ad8c4",
+      "title": "Welltower Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/8053d708-3dcb-37c9-9489-1d57663ad8c4/welltower-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1785272654,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "977fb35f-487e-3dd1-a26e-80f0d17f645e",
+      "title": "Expro Group Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/977fb35f-487e-3dd1-a26e-80f0d17f645e/expro-group-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1785272654,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a893f8b6-45bb-358b-8829-a40159a5db41",
+      "title": "Telefonica Brasil Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/a893f8b6-45bb-358b-8829-a40159a5db41/telefonica-brasil-q2-earnings.html",
+      "publisher": "MarketBeat",
+      "time": 1785272654,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "d2de1afd-6075-3921-9772-d83de94e1fe8",
+      "title": "XPLR Infrastructure Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/d2de1afd-6075-3921-9772-d83de94e1fe8/xplr-infrastructure-q2.html",
+      "publisher": "MarketBeat",
+      "time": 1785272654,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "35ace747-f95f-31bb-aeec-96feaa84f1db",
+      "title": "Universal Health Services Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/35ace747-f95f-31bb-aeec-96feaa84f1db/universal-health-services-q2.html",
+      "publisher": "MarketBeat",
+      "time": 1785272653,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "5f9ec7aa-39de-35e9-9865-b0e6f0091c90",
+      "title": "United Parcel Service Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/5f9ec7aa-39de-35e9-9865-b0e6f0091c90/united-parcel-service-q2.html",
+      "publisher": "MarketBeat",
+      "time": 1785272653,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "8ead0a91-7142-3d6f-98ea-92193053240d",
+      "title": "United Dominion Realty Trust Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/8ead0a91-7142-3d6f-98ea-92193053240d/united-dominion-realty-trust.html",
+      "publisher": "MarketBeat",
+      "time": 1785272653,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b3211835-0e96-3687-9703-467a2620b55b",
+      "title": "TransUnion Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/b3211835-0e96-3687-9703-467a2620b55b/transunion-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1785272652,
       "impact": "medium",
       "tags": [
         "macro",
