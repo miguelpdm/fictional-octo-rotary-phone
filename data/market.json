@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-28T07:58:37.097047+00:00",
+  "updatedAt": "2026-07-28T10:38:41.135619+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19821.8,
-      "change": 80.5,
-      "changePct": 0.4077745639851479,
+      "price": 19833.7,
+      "change": 92.40000000000146,
+      "changePct": 0.4680542821394815,
       "currency": "EUR"
     },
     {
@@ -28,62 +28,35 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25508.53,
-      "change": 409.52999999999884,
-      "changePct": 1.6316586318179962,
+      "price": 25475.12,
+      "change": 376.119999999999,
+      "changePct": 1.4985457587951672,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6297.35,
-      "change": 15.140000000000327,
-      "changePct": 0.24099799274459668,
+      "price": 6293.43,
+      "change": 11.220000000000255,
+      "changePct": 0.17859956925986642,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 19.02,
-      "change": 0.34999999999999787,
-      "changePct": 1.8746652383502829,
+      "price": 18.98,
+      "change": 0.3099999999999987,
+      "changePct": 1.660417782538825,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "6c3a7615-7316-340e-9ef5-4c47cd996779",
-      "title": "Form 8.5 (EPT/RI) - CAB Payments Holdings Plc",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-5-ept-ri-075300225.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785225180,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "24f3720b-165b-3245-a744-ff1aee92e9b6",
-      "title": "Rocket Lab Has Fallen 58% From Its High While Wall Street's Average Target Sits 79% Above the Price. One Side Is Badly Wrong.",
-      "link": "https://finance.yahoo.com/m/24f3720b-165b-3245-a744-ff1aee92e9b6/rocket-lab-has-fallen-58%25.html",
-      "publisher": "Motley Fool",
-      "time": 1785225120,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5c891fad-fe9d-3f8f-96d7-2a11ae2b13c5",
-      "title": "Form 8.5 (EPT/RI) - Alternative Income REIT plc",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-5-ept-ri-075100317.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785225060,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bd03de38-7c16-3beb-89a5-d3b16831aa57",
-      "title": "Moelis (MC) Reports Q2: Everything You Need To Know Ahead Of Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/moelis-mc-reports-q2-everything-074902095.html",
-      "publisher": "StockStory",
-      "time": 1785224942,
+      "id": "7835afb0-ae89-31cf-af24-e16f2a5802c9",
+      "title": "Skadden, Arps, Slate, Meagher & Flom tops oil and gas M&A legal advisory by value in H1 2026",
+      "link": "https://finance.yahoo.com/m/7835afb0-ae89-31cf-af24-e16f2a5802c9/skadden%2C-arps%2C-slate%2C-meagher.html",
+      "publisher": "Offshore Technology",
+      "time": 1785234976,
       "impact": "medium",
       "tags": [
         "macro",
@@ -91,64 +64,150 @@
       ]
     },
     {
-      "id": "1a2f3554-1801-3384-a5c3-0a8d07d9c2dd",
-      "title": "Rubix Data Centers Appoints Josh Joshi as Chairman",
-      "link": "https://finance.yahoo.com/technology/ai/articles/rubix-data-centers-appoints-josh-074900453.html",
+      "id": "1ab8847c-6ca4-3b04-bcc5-1131880ef363",
+      "title": "Form 8.3",
+      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-103400939.html",
       "publisher": "Business Wire",
-      "time": 1785224940,
+      "time": 1785234840,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "34785c92-ac03-3146-9610-909751258e66",
-      "title": "Form 8.5 (EPT/RI) - AEW UK REIT plc",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-5-ept-ri-074900502.html",
+      "id": "40c12fae-96a1-3d5e-92f0-4f82a8d5caea",
+      "title": "Microsoft unveils new cybersecurity model, launches Perception platform",
+      "link": "https://finance.yahoo.com/m/40c12fae-96a1-3d5e-92f0-4f82a8d5caea/microsoft-unveils-new.html",
+      "publisher": "Verdict",
+      "time": 1785234812,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6850b209-29fa-3d60-8e1e-a3227d7075c3",
+      "title": "Democrat's TV ad targets data centers in drive to oust Republican from swing Pennsylvania House seat",
+      "link": "https://finance.yahoo.com/m/6850b209-29fa-3d60-8e1e-a3227d7075c3/democrat%27s-tv-ad-targets-data.html",
+      "publisher": "Associated Press",
+      "time": 1785234781,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b7ef3693-6037-377a-aa8e-def5c77fc8f4",
+      "title": "BrowserAct Launches BrowserAct Agent Build: An AI Web Scraper That Builds and Tests Itself From a Single Prompt",
+      "link": "https://finance.yahoo.com/technology/ai/articles/browseract-launches-browseract-agent-build-103300660.html",
       "publisher": "GlobeNewswire",
-      "time": 1785224940,
+      "time": 1785234780,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1a6b2a36-1a90-39d0-add0-6d20046b82cb",
-      "title": "Huntington Ingalls Expands Distributed Shipbuilding to Navy Amphibious Transport Dock Program",
-      "link": "https://finance.yahoo.com/technology/articles/huntington-ingalls-expands-distributed-shipbuilding-074834795.html",
-      "publisher": "MT Newswires",
-      "time": 1785224914,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e3ad97d4-1eef-328a-b226-d44f0a23c58c",
-      "title": "SBS positioned as a Leader in the SPARK Matrix™: Digital Banking Platform 2026 by QKS Group",
-      "link": "https://finance.yahoo.com/technology/articles/sbs-positioned-leader-spark-matrix-074600484.html",
+      "id": "7576658b-655c-33e7-bc7c-6457db065ff5",
+      "title": "Unified Threat Management Market to Hit $19.7 Bn by 2031 Cloud Deployments Held 57.65% of the Market in 2025, Says Mordor Intelligence",
+      "link": "https://finance.yahoo.com/technology/ai/articles/unified-threat-management-market-hit-103200429.html",
       "publisher": "PR Newswire",
-      "time": 1785224760,
-      "impact": "medium",
+      "time": 1785234720,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "cbf7f20c-b6ad-3e5e-bf02-6a398ea8730d",
-      "title": "Stellantis to Sell Entire Stake in Free2move Car-Sharing Business to Mutares",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-sell-entire-stake-free2move-074412629.html",
-      "publisher": "MT Newswires",
-      "time": 1785224652,
+      "id": "b24a50a8-f110-3fa6-8372-d2aa6d55e2b5",
+      "title": "INNIO Group Reports Second Quarter 2026 Financial Results",
+      "link": "https://finance.yahoo.com/energy/articles/innio-group-reports-second-quarter-103100597.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785234660,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9dfeb2a3-bdd6-3f70-9bce-e6544e1576f9",
-      "title": "Catalyst Acquisition Prices $200 Million IPO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/catalyst-acquisition-prices-200-million-074411641.html",
-      "publisher": "MT Newswires",
-      "time": 1785224651,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "5a43d17f-fc4c-3e57-a530-c87a6e672e0a",
+      "title": "BioMarin and n-Lorem partner on early research for ReNU syndrome therapy",
+      "link": "https://finance.yahoo.com/m/5a43d17f-fc4c-3e57-a530-c87a6e672e0a/biomarin-and-n-lorem-partner.html",
+      "publisher": "Pharmaceutical Technology",
+      "time": 1785234607,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1e3c4a24-3357-358b-aaf7-1b3abc11db19",
+      "title": "Liverpool Bay CCS secures seabed lease for UK carbon storage project",
+      "link": "https://finance.yahoo.com/m/1e3c4a24-3357-358b-aaf7-1b3abc11db19/liverpool-bay-ccs-secures.html",
+      "publisher": "Energy Monitor",
+      "time": 1785234600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "266a5734-7c9a-3518-b04e-11e18f5e0c64",
+      "title": "XCF Global Highlights Revenue-Generating Production and Commercial Progress",
+      "link": "https://finance.yahoo.com/energy/articles/xcf-global-highlights-revenue-generating-103000788.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1785234600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2aa9e222-b1f3-3ba3-8f3a-28daa79fbd57",
+      "title": "Trans Canada Gold Continues Steady Underground Drilling at the Harrison Lake District Scale Gold Project",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/trans-canada-gold-continues-steady-103000839.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1785234600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "561f4f67-d2aa-3926-bd45-6a2e4427f587",
+      "title": "TNL Mediagene Completes Full Repayment of Senior Convertible Note and Mutually Terminates Note Purchase Agreement with 3i, LP",
+      "link": "https://finance.yahoo.com/technology/articles/tnl-mediagene-completes-full-repayment-103000631.html",
+      "publisher": "TMX Newsfile",
+      "time": 1785234600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5829f3f6-5225-3f7e-a791-57db2b2abbc0",
+      "title": "A.I.S. Resources Secures Drilling Permit for New Brunswick Project and Mobilizes Drill Rig",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/resources-secures-drilling-permit-brunswick-103000368.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785234600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cb549ce1-6177-3985-bea6-762b9e7fab98",
+      "title": "Bimergen Energy Emerges With $8.9 Million Revenue Transaction",
+      "link": "https://finance.yahoo.com/energy/articles/bimergen-energy-emerges-8-9-103000224.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785234600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d6352b4b-49cb-3406-a2ae-86e61014f0ed",
+      "title": "Tinka Provides Results of Silvia NW Geophysical Survey and Outlines Copper Targets",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/tinka-provides-results-silvia-nw-103000637.html",
+      "publisher": "TMX Newsfile",
+      "time": 1785234600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0ebfda32-7ab4-3198-963f-15c39e74831a",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-103000546.html",
+      "publisher": "Business Wire",
+      "time": 1785234600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0fd79f2d-1382-3fa7-b8f6-ca22ae46fe7c",
+      "title": "Qnity Advances Thermal Management Portfolio as AI and High-Power Electronics Push Heat to the Center of Design",
+      "link": "https://finance.yahoo.com/technology/articles/qnity-advances-thermal-management-portfolio-103000276.html",
+      "publisher": "Business Wire",
+      "time": 1785234600,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
