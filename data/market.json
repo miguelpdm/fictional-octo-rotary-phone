@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T23:54:49.987991+00:00",
+  "updatedAt": "2026-07-29T02:01:02.841983+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -13,24 +13,24 @@
       "name": "S&P 500",
       "symbol": "^GSPC",
       "price": 7428.78,
-      "change": 15.599999999999454,
-      "changePct": 0.21043600721956643,
+      "change": 16.800000000000182,
+      "changePct": 0.22666008273093266,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
       "price": 24876.912,
-      "change": -55.168000000001484,
-      "changePct": -0.22127315490725794,
+      "change": -98.90799999999945,
+      "changePct": -0.39601502573288666,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
       "price": 25464.01,
-      "change": 102.97999999999956,
-      "changePct": 0.4060560631803975,
+      "change": 365.0099999999984,
+      "changePct": 1.4542810470536611,
       "currency": "EUR"
     },
     {
@@ -52,29 +52,20 @@
   ],
   "news": [
     {
-      "id": "fbb563c2-d29b-3f22-b0eb-6bf9190ff387",
-      "title": "Why Lucid Stock Soared 21.5% Today",
-      "link": "https://finance.yahoo.com/m/fbb563c2-d29b-3f22-b0eb-6bf9190ff387/why-lucid-stock-soared-21.5%25.html",
-      "publisher": "Motley Fool",
-      "time": 1785282316,
+      "id": "cdc2942e-33aa-31c7-8427-8e9f4785d260",
+      "title": "Activists defend century-old tree standing in way of Trump’s border wall",
+      "link": "https://finance.yahoo.com/m/cdc2942e-33aa-31c7-8427-8e9f4785d260/activists-defend-century-old.html",
+      "publisher": "USA TODAY",
+      "time": 1785289961,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a4843946-6402-3f43-8ce4-0f18666a91a3",
-      "title": "Jazz reaches tentative agreement with its flight dispatcher union",
-      "link": "https://finance.yahoo.com/small-business/articles/jazz-reaches-tentative-agreement-flight-234300123.html",
-      "publisher": "CNW Group",
-      "time": 1785282180,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0eb51c4d-da78-36ad-bd11-f37d9adcc2f8",
-      "title": "Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Earnings Late",
-      "link": "https://finance.yahoo.com/m/0eb51c4d-da78-36ad-bd11-f37d9adcc2f8/dow-jones-futures-fall%2C-oil.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1785282102,
+      "id": "54acc40e-cc95-3006-b4b5-a7a51a7d8994",
+      "title": "SK hynix posts 1,200% net profit boost on AI chip boom",
+      "link": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-posts-1-200-015118972.html",
+      "publisher": "AFP",
+      "time": 1785289878,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,72 +73,84 @@
       ]
     },
     {
-      "id": "33a04a90-20db-38d9-9fea-be0dbb344651",
-      "title": "BIS Warns AI Blurs Economic Signals for Policymakers",
-      "link": "https://finance.yahoo.com/economy/policy/articles/bis-warns-ai-blurs-economic-234111169.html",
-      "publisher": "MT Newswires",
-      "time": 1785282071,
+      "id": "0eb51c4d-da78-36ad-bd11-f37d9adcc2f8",
+      "title": "Dow Jones Futures: Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Earnings Late",
+      "link": "https://finance.yahoo.com/m/0eb51c4d-da78-36ad-bd11-f37d9adcc2f8/dow-jones-futures%3A-oil-jumps.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1785289596,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a47d2566-a0f3-35f9-92c2-6dc6738021cf",
+      "title": "Lucid Group (LCID) Soars 21% as Saudi Prince Backing Eases Financial Health Worries",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-group-lcid-soars-21-014628543.html",
+      "publisher": "Insider Monkey",
+      "time": 1785289588,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1542b268-d873-31ab-8afa-dd6df008f327",
+      "title": "Global Mofy Reports 49.4% YoY Revenue Increase for the Six Months Ended March 31, 2026, Driven by Virtual Tech Growth and New AI Digital Asset Business",
+      "link": "https://finance.yahoo.com/technology/ai/articles/global-mofy-reports-49-4-014600303.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785289560,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9c58bcd8-e6fa-3002-bd44-4891f5ad88e8",
+      "title": "What parents should know about ultra-processed toddler foods",
+      "link": "https://finance.yahoo.com/m/9c58bcd8-e6fa-3002-bd44-4891f5ad88e8/what-parents-should-know.html",
+      "publisher": "USA TODAY",
+      "time": 1785289342,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "feb8aa1c-b2ea-342b-a07d-52d9d3ddaf07",
+      "title": "Generic Pharmaceuticals Stocks Q1 Highlights: Viatris (NASDAQ:VTRS)",
+      "link": "https://finance.yahoo.com/healthcare/articles/generic-pharmaceuticals-stocks-q1-highlights-014102391.html",
+      "publisher": "StockStory",
+      "time": 1785289262,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "3ac3674e-9ea9-3586-9697-75f4b883c44e",
+      "title": "Sandfire Resources America Files Black Butte Copper Project Preliminary Feasibility Study",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/sandfire-resources-america-files-black-014000694.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785289200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "82d02966-e369-39be-b71c-6d4bafe08f4c",
+      "title": "D3 Energy expands certified helium resource base and starts drilling at Nooitgedacht during June quarter",
+      "link": "https://finance.yahoo.com/m/82d02966-e369-39be-b71c-6d4bafe08f4c/d3-energy-expands-certified.html",
+      "publisher": "Proactive",
+      "time": 1785289140,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1774db34-38d2-3c99-9af3-12ca23634a34",
+      "title": "Why Some Economists Want Fed Chair Warsh to Hike Rates Today",
+      "link": "https://finance.yahoo.com/m/1774db34-38d2-3c99-9af3-12ca23634a34/why-some-economists-want-fed.html",
+      "publisher": "BeInCrypto",
+      "time": 1785289027,
       "impact": "high",
       "tags": [
         "geo",
         "macro"
       ]
-    },
-    {
-      "id": "e8d48fbf-4be2-3ead-9eae-fb695ae48f12",
-      "title": "1 of Wall Street’s Favorite Stocks to Target This Week and 2 We Brush Off",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stocks-234102306.html",
-      "publisher": "StockStory",
-      "time": 1785282062,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "c571d58d-3207-3280-87bc-9c4070a5c03f",
-      "title": "Astera Labs vs. BigBear.ai: Which Artificial Intelligence Stock Is a Better Buy in 2026?",
-      "link": "https://finance.yahoo.com/m/c571d58d-3207-3280-87bc-9c4070a5c03f/astera-labs-vs.-bigbear.ai%3A.html",
-      "publisher": "Motley Fool",
-      "time": 1785281941,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6da04580-9349-33bd-8ea2-cc548300fb0e",
-      "title": "CBS' '60 minutes' announces new slate of correspondents for upcoming 59th season",
-      "link": "https://finance.yahoo.com/m/6da04580-9349-33bd-8ea2-cc548300fb0e/cbs%27-%2760-minutes%27-announces.html",
-      "publisher": "Associated Press",
-      "time": 1785281884,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ff21b0a7-8d68-33cf-908e-40e7869e11a1",
-      "title": "Kevin O'Connell opens up about Vikings' QB competition 'The Insiders'",
-      "link": "https://finance.yahoo.com/m/ff21b0a7-8d68-33cf-908e-40e7869e11a1/kevin-o%27connell-opens-up.html",
-      "publisher": "NFL Highlights",
-      "time": 1785281850,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "20cec3f9-bfb4-365a-a0e8-5d847bf0b9b1",
-      "title": "Beloved 60-year old international coffee chain closes all locations",
-      "link": "https://finance.yahoo.com/m/20cec3f9-bfb4-365a-a0e8-5d847bf0b9b1/beloved-60-year-old.html",
-      "publisher": "TheStreet",
-      "time": 1785281820,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9e1feb3f-b8da-31d8-8537-d68c2c2db616",
-      "title": "Elon Musk Says Optimus Could Be \"the Biggest Product Ever.\" Here's What Production Data Shows So Far.",
-      "link": "https://finance.yahoo.com/m/9e1feb3f-b8da-31d8-8537-d68c2c2db616/elon-musk-says-optimus-could.html",
-      "publisher": "Motley Fool",
-      "time": 1785281700,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
