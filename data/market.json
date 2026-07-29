@@ -1,154 +1,157 @@
 {
-  "updatedAt": "2026-07-29T15:34:48.329930+00:00",
+  "updatedAt": "2026-07-29T16:49:48.786759+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19389.0,
-      "change": -338.0,
-      "changePct": -1.713387742687687,
+      "price": 19412.7,
+      "change": -314.2999999999993,
+      "changePct": -1.5932478329193454,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7367.6,
-      "change": -45.57999999999993,
-      "changePct": -0.6148508467351382,
+      "price": 7361.06,
+      "change": -52.11999999999989,
+      "changePct": -0.7030720959156515,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 24597.06,
-      "change": -335.02000000000044,
-      "changePct": -1.3437306474229203,
+      "price": 24604.592,
+      "change": -327.4880000000012,
+      "changePct": -1.3135205726918942,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25463.75,
-      "change": 102.72000000000116,
-      "changePct": 0.4050308682257825,
+      "price": 25460.48,
+      "change": 99.45000000000073,
+      "changePct": 0.39213707014265875,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6246.7,
-      "change": -42.8100000000004,
-      "changePct": -0.6806571577118153,
+      "price": 6248.84,
+      "change": -40.67000000000007,
+      "changePct": -0.6466322495711124,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 19.81,
-      "change": 1.5999999999999979,
-      "changePct": 8.786381109280603,
+      "price": 19.93,
+      "change": 1.7199999999999989,
+      "changePct": 9.445359692476654,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "23865de2-ee14-31ba-a77c-8ad45b3162f7",
-      "title": "Dimerix acquisition of DMX-652 bolsters kidney disease development",
-      "link": "https://finance.yahoo.com/m/23865de2-ee14-31ba-a77c-8ad45b3162f7/dimerix-acquisition-of.html",
-      "publisher": "Pharmaceutical Technology",
-      "time": 1785339240,
+      "id": "22137258-aa3d-3d7f-8360-c3310440ea4f",
+      "title": "Portugal: Air France-KLM and Lufthansa submit binding bids to buy TAP",
+      "link": "https://finance.yahoo.com/m/22137258-aa3d-3d7f-8360-c3310440ea4f/portugal%3A-air-france-klm-and.html",
+      "publisher": "Euronews",
+      "time": 1785343595,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "836e40d2-ba47-353c-a040-6cebe2d388bb",
+      "title": "AM Best Revises Outlooks to Stable for Mid-Hudson Group’s Members",
+      "link": "https://finance.yahoo.com/healthcare/articles/am-best-revises-outlooks-stable-164100387.html",
+      "publisher": "Business Wire",
+      "time": 1785343260,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0ced92df-0334-300e-aa2d-87b0707204ea",
+      "title": "Carta Healthcare Wins Gold in the 2026 Stevie® Awards for Technology Excellence",
+      "link": "https://finance.yahoo.com/healthcare/articles/carta-healthcare-wins-gold-2026-163900330.html",
+      "publisher": "PR Newswire",
+      "time": 1785343140,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "be66c440-2fc4-325a-96c7-128179f7f3bf",
+      "title": "Exclusive-US FTC suing Hims & Hers for sending user health info to Meta, Snap",
+      "link": "https://finance.yahoo.com/healthcare/articles/exclusive-us-ftc-suing-hims-163849263.html",
+      "publisher": "Reuters",
+      "time": 1785343129,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1beb220f-0cbc-3b1e-80bf-02c25bc225b4",
+      "title": "More Arizona Children with Hearing Loss to Benefit from Expanded Early Intervention and Hearing Healthcare Services",
+      "link": "https://finance.yahoo.com/healthcare/articles/more-arizona-children-hearing-loss-163800372.html",
+      "publisher": "PR Newswire",
+      "time": 1785343080,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fd2ce88d-e40c-3f3b-99c1-996ce848cd2c",
+      "title": "Federal Home Loan Bank of Dallas Reports Second Quarter 2026 Operating Results",
+      "link": "https://finance.yahoo.com/real-estate/articles/federal-home-loan-bank-dallas-163800852.html",
+      "publisher": "Business Wire",
+      "time": 1785343080,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "57cb3d5a-ba70-3d29-9f1c-3adea418eef0",
+      "title": "Boeing to Gain From Higher Output, Certifications, Cash Flow, RBC Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-gain-higher-output-certifications-163739024.html",
+      "publisher": "MT Newswires",
+      "time": 1785343059,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3752f2a8-127e-345b-b740-56a4c1dc15ab",
+      "title": "Latest US Tariffs Threats to Create Uneven Effects Across Sectors of Canada's Economy, National Bank Says",
+      "link": "https://finance.yahoo.com/economy/policy/articles/latest-us-tariffs-threats-create-163708011.html",
+      "publisher": "MT Newswires",
+      "time": 1785343028,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "57ce89ca-f042-37c6-8e42-8587c6b3b0bf",
+      "title": "Why AMD (AMD) and Core Scientific (CORZ) Are Pairing AI Chips With Up to 2.5 Gigawatts",
+      "link": "https://finance.yahoo.com/technology/ai/articles/why-amd-amd-core-scientific-163703591.html",
+      "publisher": "Insider Monkey",
+      "time": 1785343023,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "876a86fe-db95-35b2-85df-6cff6801601b",
+      "title": "What To Expect From Avery Dennison’s (AVY) Q2 Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/expect-avery-dennison-avy-q2-163702115.html",
+      "publisher": "StockStory",
+      "time": 1785343022,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
-    },
-    {
-      "id": "bd71afad-c1d1-344a-b8b0-4888fc4c43ac",
-      "title": "Church & Dwight to Deliver 'Solid' Q2, RBC Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/church-dwight-deliver-apos-solid-153114308.html",
-      "publisher": "MT Newswires",
-      "time": 1785339074,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "24c79d81-36e4-3ff5-87e2-fffdb0df955b",
-      "title": "LiveBarn Launches Analytics Platform Built for Every Part of the Youth Hockey Community",
-      "link": "https://finance.yahoo.com/media-advertising/articles/livebarn-launches-analytics-platform-built-153000779.html",
-      "publisher": "CNW Group",
-      "time": 1785339000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "31f23334-512a-3b55-9f9e-2c18c6131308",
-      "title": "Canadian Pacific Kansas City Limited declares dividend",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-pacific-kansas-city-limited-153000640.html",
-      "publisher": "CNW Group",
-      "time": 1785339000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f86d4843-a5c3-3a75-a815-80f08f84630c",
-      "title": "Graphano Energy Appoints Andrew Gainsbury as CFO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/graphano-energy-appoints-andrew-gainsbury-152946364.html",
-      "publisher": "MT Newswires",
-      "time": 1785338986,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8092f569-534a-3029-815a-7ee98a3625c0",
-      "title": "VF Shares Tumble After Reporting Wider-Than-Expected Fiscal First-Quarter Loss",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vf-shares-tumble-reporting-wider-152846224.html",
-      "publisher": "MT Newswires",
-      "time": 1785338926,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a81c6662-d729-3c1e-a968-368523a23960",
-      "title": "Canada Commodities: Oil Higher as US-Iran Hostilities Resume, Saudi Arabia Joins Conflict",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/canada-commodities-oil-higher-us-152802272.html",
-      "publisher": "MT Newswires",
-      "time": 1785338882,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "04760ac8-b106-31bc-9ec0-e28de77c4e31",
-      "title": "GlobalFoundries inks $300M CHIPS R&D agreement with US Commerce Department",
-      "link": "https://finance.yahoo.com/m/04760ac8-b106-31bc-9ec0-e28de77c4e31/globalfoundries-inks-%24300m.html",
-      "publisher": "Proactive",
-      "time": 1785338880,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d4fcd73d-6212-3bb7-b05b-a1c57905ddc5",
-      "title": "U.S. Crude Oil Stockpiles Fall More Than Expected",
-      "link": "https://finance.yahoo.com/m/d4fcd73d-6212-3bb7-b05b-a1c57905ddc5/u.s.-crude-oil-stockpiles.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1785338880,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "b09f0afe-bade-3840-9116-155c98de1d0e",
-      "title": "GSK's ViiV Healthcare Highlights New Long-Acting Injectable Data on Cabenuva in HIV Treatment",
-      "link": "https://finance.yahoo.com/healthcare/articles/gsk-apos-viiv-healthcare-highlights-152708974.html",
-      "publisher": "MT Newswires",
-      "time": 1785338828,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
