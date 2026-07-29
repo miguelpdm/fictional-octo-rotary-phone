@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T19:51:36.894840+00:00",
+  "updatedAt": "2026-07-29T20:46:42.962848+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7330.1,
-      "change": -83.07999999999993,
-      "changePct": -1.1207066333206521,
+      "price": 7316.15,
+      "change": -97.03000000000065,
+      "changePct": -1.3088849859304732,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 24512.225,
-      "change": -419.8550000000032,
-      "changePct": -1.6839950778274544,
+      "price": 24442.941,
+      "change": -489.13900000000285,
+      "changePct": -1.9618860520261558,
       "currency": "USD"
     },
     {
@@ -44,48 +44,106 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 19.49,
-      "change": 1.2799999999999976,
-      "changePct": 7.029104887424478,
+      "price": 20.66,
+      "change": 2.4499999999999993,
+      "changePct": 13.454146073585937,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "34126f08-7d6e-4b40-95fb-90a02d04151d",
-      "title": "Long-term care insurance explained",
-      "link": "https://finance.yahoo.com/personal-finance/insurance/article/long-term-care-insurance-194903621.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1785354543,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f4a2dda5-09a3-3625-b67b-5f8c0588e158",
-      "title": "Sector Update: Healthcare Stocks Softer Late Afternoon",
-      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-softer-afternoon-194606504.html",
+      "id": "b6a82487-fe6b-356a-aa83-7439e88bd193",
+      "title": "FTAI Aviation Q2 Earnings Fall, Revenue Rises; Increases Quarterly Dividend",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ftai-aviation-q2-earnings-fall-204222347.html",
       "publisher": "MT Newswires",
-      "time": 1785354366,
-      "impact": "low",
+      "time": 1785357742,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "376ef7f1-8195-394e-bf49-88b0103ce901",
-      "title": "HR Rebooted Launches Governance 1st, The first comprehensive AI Governance Platform for Reducing Risk & Accelerating Adoption",
-      "link": "https://finance.yahoo.com/technology/ai/articles/hr-rebooted-launches-governance-1st-194500897.html",
-      "publisher": "PR Newswire",
-      "time": 1785354300,
+      "id": "d55256c2-f95e-354e-919f-ee967564293e",
+      "title": "Alliance Laundry Holdings Insider Sold Shares Worth $363,744, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alliance-laundry-holdings-insider-sold-204152086.html",
+      "publisher": "MT Newswires",
+      "time": 1785357712,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b040d3d7-2a63-4b4d-846c-a8836f9a2041",
-      "title": "Fed holds rates steady, Warsh doubles down on 2% inflation goal",
-      "link": "https://finance.yahoo.com/video/fed-holds-rates-steady-warsh-doubles-down-on-2-inflation-goal-194404865.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1785354244,
+      "id": "3407ff25-ae74-3092-8b19-e61dc9f001f1",
+      "title": "FormFactor Fiscal Q2 Adjusted Earnings, Revenue Rise; Q3 Guidance Set",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/formfactor-fiscal-q2-adjusted-earnings-204134761.html",
+      "publisher": "MT Newswires",
+      "time": 1785357694,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "4c4bb36c-a76e-35f4-8f02-a950c1150c35",
+      "title": "Omega Healthcare Q2 Adjusted FFO, Revenue Rise; Full Year Adjusted FFO Guidance Raised",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/omega-healthcare-q2-adjusted-ffo-204115085.html",
+      "publisher": "MT Newswires",
+      "time": 1785357675,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "7cf14530-d917-39a9-bea6-b587de2994d5",
+      "title": "General Motors Insider Sold Shares Worth $6,394,978, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/general-motors-insider-sold-shares-204045949.html",
+      "publisher": "MT Newswires",
+      "time": 1785357645,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1a703da3-a131-36aa-a48c-86732c47b0a9",
+      "title": "Corcept Therapeutics Q2 Earnings, Revenue Rise; Shares Jump After Hours",
+      "link": "https://finance.yahoo.com/healthcare/articles/corcept-therapeutics-q2-earnings-revenue-204042569.html",
+      "publisher": "MT Newswires",
+      "time": 1785357642,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "f6a02a39-6d2b-37cd-b57d-6b5a3c16dde1",
+      "title": "Medpace Holdings Insider Sold Shares Worth $4,500,000, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/medpace-holdings-insider-sold-shares-204005753.html",
+      "publisher": "MT Newswires",
+      "time": 1785357605,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5af6aad8-901f-3d0c-b50f-56cbd8ef9366",
+      "title": "Bausch Health Rises After Q2 Earnings, Revenue Beat Estimates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bausch-health-rises-q2-earnings-203921694.html",
+      "publisher": "MT Newswires",
+      "time": 1785357561,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "99b890aa-b43b-3afc-903d-15a99852f8b0",
+      "title": "Fed holds interest rates steady, but 3 officials vote for hike",
+      "link": "https://finance.yahoo.com/m/99b890aa-b43b-3afc-903d-15a99852f8b0/fed-holds-interest-rates.html",
+      "publisher": "CBS News",
+      "time": 1785357523,
       "impact": "high",
       "tags": [
         "geo",
@@ -93,74 +151,16 @@
       ]
     },
     {
-      "id": "89a4a6b6-8e3e-32cf-9c17-eed5e90f9008",
-      "title": "Even a Successful Starship Launch Wasn't Enough to Lift SpaceX Stock. Investors Are Still Worried About This 1 Thing",
-      "link": "https://finance.yahoo.com/m/89a4a6b6-8e3e-32cf-9c17-eed5e90f9008/even-a-successful-starship.html",
-      "publisher": "Motley Fool",
-      "time": 1785354180,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "76d019f7-31dc-3f6c-ae95-229d0a1db2a0",
-      "title": "PL Gold Mine Restart Update High Grade Gold Results, Resource Expansion Potential and Operational Readiness Update",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/pl-gold-mine-restart-high-194300064.html",
-      "publisher": "TMX Newsfile",
-      "time": 1785354180,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ef31ddc1-e502-363f-9c0a-63698524bdce",
-      "title": "Sector Update: Consumer Stocks Mixed Late Afternoon",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-194238414.html",
+      "id": "aff6dc6f-2da5-393c-94f1-213a7c9ce994",
+      "title": "Flowserve Q2 Adjusted Earnings Rise, Revenue Lower",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/flowserve-q2-adjusted-earnings-rise-203826020.html",
       "publisher": "MT Newswires",
-      "time": 1785354158,
-      "impact": "low",
+      "time": 1785357506,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
-    },
-    {
-      "id": "8a1aa99d-00de-3956-9050-feb19656f909",
-      "title": "FAR.AI Launches AI Security Leaderboard Revealing Hundredfold Gap in Frontier AI Model Safeguards",
-      "link": "https://finance.yahoo.com/technology/ai/articles/far-ai-launches-ai-security-194200169.html",
-      "publisher": "PR Newswire",
-      "time": 1785354120,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0c5a495e-92a7-3073-99ae-913cb4c5a87e",
-      "title": "Asure Software (ASUR) Reports Earnings Tomorrow: What To Expect",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asure-software-asur-reports-earnings-194102358.html",
-      "publisher": "StockStory",
-      "time": 1785354062,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "f2cb073f-e65d-34f8-bd61-80560446b4ae",
-      "title": "Sector Update: Tech Stocks Decline Late Afternoon",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-decline-afternoon-194055326.html",
-      "publisher": "MT Newswires",
-      "time": 1785354055,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "6bcf6202-01fa-399a-ae25-817dd8c62311",
-      "title": "Dow Falls 1,000 Points as Tech Selling Picks Back Up",
-      "link": "https://finance.yahoo.com/m/6bcf6202-01fa-399a-ae25-817dd8c62311/dow-falls-1%2C000-points-as.html",
-      "publisher": "Barrons.com",
-      "time": 1785354031,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
