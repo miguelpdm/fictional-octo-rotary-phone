@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T18:02:51.343023+00:00",
+  "updatedAt": "2026-07-29T19:51:36.894840+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7414.66,
-      "change": 1.4799999999995634,
-      "changePct": 0.01996444171056906,
+      "price": 7330.1,
+      "change": -83.07999999999993,
+      "changePct": -1.1207066333206521,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 24883.498,
-      "change": -48.582000000002154,
-      "changePct": -0.19485738855323,
+      "price": 24512.225,
+      "change": -419.8550000000032,
+      "changePct": -1.6839950778274544,
       "currency": "USD"
     },
     {
@@ -44,39 +44,48 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 19.59,
-      "change": 1.379999999999999,
-      "changePct": 7.578253706754524,
+      "price": 19.49,
+      "change": 1.2799999999999976,
+      "changePct": 7.029104887424478,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "96c82e08-ff13-3bc7-a45c-e1b2f2d33cd3",
-      "title": "EcoSynthetix Reports Q2 Net loss",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ecosynthetix-reports-q2-net-loss-180113379.html",
-      "publisher": "MT Newswires",
-      "time": 1785348073,
+      "id": "34126f08-7d6e-4b40-95fb-90a02d04151d",
+      "title": "Long-term care insurance explained",
+      "link": "https://finance.yahoo.com/personal-finance/insurance/article/long-term-care-insurance-194903621.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1785354543,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "75d0c58e-bb91-3e3e-877f-80c97de041d0",
-      "title": "Weatherford International Poised to Benefit From Post-Conflict Recovery, UBS Securities Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/weatherford-international-poised-benefit-post-180057968.html",
+      "id": "f4a2dda5-09a3-3625-b67b-5f8c0588e158",
+      "title": "Sector Update: Healthcare Stocks Softer Late Afternoon",
+      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-softer-afternoon-194606504.html",
       "publisher": "MT Newswires",
-      "time": 1785348057,
-      "impact": "medium",
+      "time": 1785354366,
+      "impact": "low",
       "tags": [
-        "geo"
+        "macro"
       ]
     },
     {
-      "id": "f346d002-6e6a-3a0b-b86e-42603cb44294",
-      "title": "Equities Lower Intraday Ahead of Fed Decision, Major Tech Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-lower-intraday-ahead-fed-180032148.html",
-      "publisher": "MT Newswires",
-      "time": 1785348032,
+      "id": "376ef7f1-8195-394e-bf49-88b0103ce901",
+      "title": "HR Rebooted Launches Governance 1st, The first comprehensive AI Governance Platform for Reducing Risk & Accelerating Adoption",
+      "link": "https://finance.yahoo.com/technology/ai/articles/hr-rebooted-launches-governance-1st-194500897.html",
+      "publisher": "PR Newswire",
+      "time": 1785354300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b040d3d7-2a63-4b4d-846c-a8836f9a2041",
+      "title": "Fed holds rates steady, Warsh doubles down on 2% inflation goal",
+      "link": "https://finance.yahoo.com/video/fed-holds-rates-steady-warsh-doubles-down-on-2-inflation-goal-194404865.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1785354244,
       "impact": "high",
       "tags": [
         "geo",
@@ -84,47 +93,49 @@
       ]
     },
     {
-      "id": "fea9867c-5520-3037-8f63-a00d5893b522",
-      "title": "Update: FTC Suing Hims & Hers for Allegedly Sharing User Data With Meta, Snap",
-      "link": "https://finance.yahoo.com/healthcare/articles/ftc-suing-hims-hers-allegedly-180008986.html",
-      "publisher": "MT Newswires",
-      "time": 1785348008,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9bd662d1-7743-3fbe-96c9-7a3db70fc466",
-      "title": "Top Midday Gainers",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-175951790.html",
-      "publisher": "MT Newswires",
-      "time": 1785347991,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6f75f779-c50a-3b3e-b17f-81f5aea69a34",
-      "title": "I’m Loading Up on AMD Because It Proves That Coming in Second Place Creates Asymmetric Upside",
-      "link": "https://finance.yahoo.com/m/6f75f779-c50a-3b3e-b17f-81f5aea69a34/i%E2%80%99m-loading-up-on-amd-because.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1785347957,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "304b6e17-9d87-3197-8136-ec8a0a695937",
-      "title": "Why Shares in This AI Infrastructure Stock Crashed Today",
-      "link": "https://finance.yahoo.com/m/304b6e17-9d87-3197-8136-ec8a0a695937/why-shares-in-this-ai.html",
+      "id": "89a4a6b6-8e3e-32cf-9c17-eed5e90f9008",
+      "title": "Even a Successful Starship Launch Wasn't Enough to Lift SpaceX Stock. Investors Are Still Worried About This 1 Thing",
+      "link": "https://finance.yahoo.com/m/89a4a6b6-8e3e-32cf-9c17-eed5e90f9008/even-a-successful-starship.html",
       "publisher": "Motley Fool",
-      "time": 1785347890,
+      "time": 1785354180,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2e1e8645-45e8-303e-a93a-a593cca7935f",
-      "title": "Update: US Equity Indexes Slump Ahead of Fed Policy Moves, Big-Tech Results; Crude Oil Soars as Trump Vows to Hit Iran Hard",
-      "link": "https://finance.yahoo.com/markets/articles/us-equity-indexes-slump-ahead-175807087.html",
+      "id": "76d019f7-31dc-3f6c-ae95-229d0a1db2a0",
+      "title": "PL Gold Mine Restart Update High Grade Gold Results, Resource Expansion Potential and Operational Readiness Update",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/pl-gold-mine-restart-high-194300064.html",
+      "publisher": "TMX Newsfile",
+      "time": 1785354180,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ef31ddc1-e502-363f-9c0a-63698524bdce",
+      "title": "Sector Update: Consumer Stocks Mixed Late Afternoon",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-194238414.html",
       "publisher": "MT Newswires",
-      "time": 1785347887,
+      "time": 1785354158,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "8a1aa99d-00de-3956-9050-feb19656f909",
+      "title": "FAR.AI Launches AI Security Leaderboard Revealing Hundredfold Gap in Frontier AI Model Safeguards",
+      "link": "https://finance.yahoo.com/technology/ai/articles/far-ai-launches-ai-security-194200169.html",
+      "publisher": "PR Newswire",
+      "time": 1785354120,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0c5a495e-92a7-3073-99ae-913cb4c5a87e",
+      "title": "Asure Software (ASUR) Reports Earnings Tomorrow: What To Expect",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asure-software-asur-reports-earnings-194102358.html",
+      "publisher": "StockStory",
+      "time": 1785354062,
       "impact": "high",
       "tags": [
         "geo",
@@ -132,20 +143,22 @@
       ]
     },
     {
-      "id": "6b4dd88c-9df5-3138-8740-8a0bad36a93b",
-      "title": "Amazon's AI Spending Is About to Face a Bigger Test",
-      "link": "https://finance.yahoo.com/technology/ai/articles/amazons-ai-spending-face-bigger-175639355.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785347799,
+      "id": "f2cb073f-e65d-34f8-bd61-80560446b4ae",
+      "title": "Sector Update: Tech Stocks Decline Late Afternoon",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-decline-afternoon-194055326.html",
+      "publisher": "MT Newswires",
+      "time": 1785354055,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     },
     {
-      "id": "0ce897d5-3051-3515-94da-1a9ac9cf4741",
-      "title": "I Keep Buying Alphabet Because of This Silicon Shift Expected to Hit By Year End",
-      "link": "https://finance.yahoo.com/m/0ce897d5-3051-3515-94da-1a9ac9cf4741/i-keep-buying-alphabet.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1785347751,
+      "id": "6bcf6202-01fa-399a-ae25-817dd8c62311",
+      "title": "Dow Falls 1,000 Points as Tech Selling Picks Back Up",
+      "link": "https://finance.yahoo.com/m/6bcf6202-01fa-399a-ae25-817dd8c62311/dow-falls-1%2C000-points-as.html",
+      "publisher": "Barrons.com",
+      "time": 1785354031,
       "impact": "low",
       "tags": []
     }
