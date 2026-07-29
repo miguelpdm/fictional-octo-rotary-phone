@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T22:55:16.182436+00:00",
+  "updatedAt": "2026-07-29T23:56:52.704931+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,29 +52,62 @@
   ],
   "news": [
     {
-      "id": "dd7866c9-2832-38f1-a80d-2030e6597b68",
-      "title": "Aton Announces Strategic Cooperation Relationship and Board Nominee",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aton-announces-strategic-cooperation-relationship-225000248.html",
+      "id": "bc8a1c38-6cad-3e09-85cf-d9166d2f6296",
+      "title": "Johnson & Johnson Gets Option to Acquire Sail Biomedicines for $2.58 Billion",
+      "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-gets-option-acquire-234722150.html",
+      "publisher": "MT Newswires",
+      "time": 1785368842,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0f970dcc-a997-38ef-a27d-78d0b18e6785",
+      "title": "Custom Legal Marketing Releases First Public Report on AI Rankings from Its Sequoia Platform",
+      "link": "https://finance.yahoo.com/technology/ai/articles/custom-legal-marketing-releases-first-234500293.html",
       "publisher": "ACCESS Newswire",
-      "time": 1785365400,
+      "time": 1785368700,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "6ae8499e-d17c-34ba-aa92-370ffa785a7d",
+      "title": "Electronic Arts' Chief People Officer Sells 1,200 Shares as the Company Prepares to Go Private",
+      "link": "https://finance.yahoo.com/m/6ae8499e-d17c-34ba-aa92-370ffa785a7d/electronic-arts%27-chief-people.html",
+      "publisher": "Motley Fool",
+      "time": 1785368641,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5c5fc470-a9bb-37c0-8a38-77bbafabc26b",
-      "title": "KBRA Assigns Preliminary Ratings to Bayview Opportunity Master Fund VII Trust 2026-CES2 (BVCES 2026-2)",
-      "link": "https://finance.yahoo.com/real-estate/articles/kbra-assigns-preliminary-ratings-bayview-224800635.html",
-      "publisher": "Business Wire",
-      "time": 1785365280,
+      "id": "776d015b-f6be-30a1-9b4b-fa18da623508",
+      "title": "Why Biogen Stock Topped the Market Today",
+      "link": "https://finance.yahoo.com/m/776d015b-f6be-30a1-9b4b-fa18da623508/why-biogen-stock-topped-the.html",
+      "publisher": "Motley Fool",
+      "time": 1785368580,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     },
     {
-      "id": "f2ccc7eb-7b67-3ee6-9a62-f61a509c0fc6",
-      "title": "Wall Street closes down sharply after Fed holds rates unchanged",
-      "link": "https://finance.yahoo.com/video/wall-street-closes-down-sharply-224632926.html",
-      "publisher": "Reuters Videos",
-      "time": 1785365192,
+      "id": "69e55f66-4da9-3dec-92d3-ac71c19408dd",
+      "title": "Market Chatter: ChatGPT, Roblox to Be Subject to EU's Strictest Platform Rules",
+      "link": "https://finance.yahoo.com/technology/articles/market-chatter-chatgpt-roblox-subject-234205421.html",
+      "publisher": "MT Newswires",
+      "time": 1785368525,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "d4ea19b7-3627-3144-a4ac-1a00bf230b8d",
+      "title": "Critical shortage: Red Cross declares second-ever blood supply crisis",
+      "link": "https://finance.yahoo.com/m/d4ea19b7-3627-3144-a4ac-1a00bf230b8d/critical-shortage%3A-red-cross.html",
+      "publisher": "USA TODAY",
+      "time": 1785368470,
       "impact": "high",
       "tags": [
         "geo",
@@ -82,43 +115,29 @@
       ]
     },
     {
-      "id": "1d0ad1ca-5879-3d72-be6e-cc61c5c59660",
-      "title": "Align Technology Hosts 2026 Invisalign® Ortho Summit, Showcasing a \"Beyond Possible\" Vision for Connected Digital Orthodontics",
-      "link": "https://finance.yahoo.com/healthcare/articles/align-technology-hosts-2026-invisalign-224500440.html",
-      "publisher": "Business Wire",
-      "time": 1785365100,
+      "id": "3f8cd49e-e78f-30b5-91e6-90fbc1034aaf",
+      "title": "TELETRAC NAVMAN LAUNCHES ENERGY HUB TO REDUCE COMPLEXITY ACROSS MIXED-ENERGY FLEETS",
+      "link": "https://finance.yahoo.com/energy/articles/teletrac-navman-launches-energy-hub-234100271.html",
+      "publisher": "PR Newswire",
+      "time": 1785368460,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e08f14ab-e8e3-3054-92f2-71edbb7c991d",
-      "title": "ImmunityBio Receives United Arab Emirates (UAE) Marketing Authorization for ANKTIVA® Across BCG-Unresponsive Non-Muscle Invasive Bladder Cancer for CIS and Papillary Disease and Metastatic Non-Small Cell Lung Cancer",
-      "link": "https://finance.yahoo.com/healthcare/articles/immunitybio-receives-united-arab-emirates-224500925.html",
-      "publisher": "Business Wire",
-      "time": 1785365100,
+      "id": "25c3bd32-8115-38ea-a4fa-3975e91785a2",
+      "title": "Lockheed Martin Wins $59 Billion Deal to Triple Patriot Missile Output",
+      "link": "https://finance.yahoo.com/technology/articles/lockheed-martin-wins-59-billion-233959130.html",
+      "publisher": "MT Newswires",
+      "time": 1785368399,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "c6bc2432-1a6f-3b26-81da-e46ebf9e356b",
-      "title": "LPT Aperture Holdings Wins Multiple Honors Across 2026 Inman Innovators and Golden I Club Awards",
-      "link": "https://finance.yahoo.com/real-estate/articles/lpt-aperture-holdings-wins-multiple-224400795.html",
-      "publisher": "Business Wire",
-      "time": 1785365040,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "77801270-2a2e-3ae5-abad-a7e47bd9026b",
-      "title": "Microsoft Profits Jump 31% as Azure Cloud Sales Surpass $100 Billion",
-      "link": "https://finance.yahoo.com/m/77801270-2a2e-3ae5-abad-a7e47bd9026b/microsoft-profits-jump-31%25-as.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1785364980,
+      "id": "58bee05c-df37-343b-b099-b9d3d5fa6440",
+      "title": "Dow Jones Futures: Stock Market Tumbles, Oil Prices Soar On Trump's Iran Threats; Microsoft, Meta, Fortinet Earnings Late",
+      "link": "https://finance.yahoo.com/m/58bee05c-df37-343b-b099-b9d3d5fa6440/dow-jones-futures%3A-stock.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1785368396,
       "impact": "medium",
       "tags": [
         "macro",
@@ -126,33 +145,16 @@
       ]
     },
     {
-      "id": "b27c9b2c-83e0-3e93-a154-4608d5564231",
-      "title": "Stocks to Watch Recap: Ford, Caterpillar, Teva, Starbucks",
-      "link": "https://finance.yahoo.com/m/b27c9b2c-83e0-3e93-a154-4608d5564231/stocks-to-watch-recap%3A-ford%2C.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1785364978,
-      "impact": "low",
+      "id": "dae8d200-fb82-3b63-939e-366a0d85ed05",
+      "title": "Robinhood's latest earnings beat Wall Street estimates",
+      "link": "https://finance.yahoo.com/m/dae8d200-fb82-3b63-939e-366a0d85ed05/robinhood%27s-latest-earnings.html",
+      "publisher": "TheStreet",
+      "time": 1785368276,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
-    },
-    {
-      "id": "0b77f822-c9a3-307d-aca7-ea33760d37f5",
-      "title": "Mockett Introduces the HK40 Hook, an Architectural Wall Accessory",
-      "link": "https://finance.yahoo.com/small-business/articles/mockett-introduces-hk40-hook-architectural-224100509.html",
-      "publisher": "PR Newswire",
-      "time": 1785364860,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c00f18ee-8b44-3dcd-adf8-a466fd8263b8",
-      "title": "Media Advisory: Infrastructure Announcement in Victoria",
-      "link": "https://finance.yahoo.com/real-estate/articles/media-advisory-infrastructure-announcement-victoria-224100800.html",
-      "publisher": "CNW Group",
-      "time": 1785364860,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
