@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-29T05:35:18.562220+00:00",
+  "updatedAt": "2026-07-29T08:28:53.354797+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19727.0,
-      "change": -14.299999999999272,
-      "changePct": -0.07243697223586731,
+      "price": 19520.1,
+      "change": -206.90000000000146,
+      "changePct": -1.0488163430830915,
       "currency": "EUR"
     },
     {
@@ -28,82 +28,46 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25464.01,
-      "change": 365.0099999999984,
-      "changePct": 1.4542810470536611,
+      "price": 25474.41,
+      "change": 113.38000000000102,
+      "changePct": 0.44706386136525617,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6289.51,
-      "change": 7.300000000000182,
-      "changePct": 0.11620114577513617,
+      "price": 6268.14,
+      "change": -21.36999999999989,
+      "changePct": -0.3397720967134147,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.21,
-      "change": -0.46000000000000085,
-      "changePct": -2.46384574183182,
+      "price": 18.25,
+      "change": 0.03999999999999915,
+      "changePct": 0.2196595277320107,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "d3d2f7d1-19ae-3e5a-8a76-feb1ed0b8315",
-      "title": "Senate confirms Clayton as Trump intelligence chief",
-      "link": "https://finance.yahoo.com/m/d3d2f7d1-19ae-3e5a-8a76-feb1ed0b8315/senate-confirms-clayton-as.html",
-      "publisher": "AFP",
-      "time": 1785303037,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "442ca352-70f0-329e-a252-86603fd3f859",
-      "title": "Hong Kong independent bookstores to close after police raid",
-      "link": "https://finance.yahoo.com/m/442ca352-70f0-329e-a252-86603fd3f859/hong-kong-independent.html",
-      "publisher": "AFP",
-      "time": 1785302512,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3a9f057b-17cd-369b-968b-40d5300ef127",
-      "title": "Asian stock rout deepens as AI worries grip markets",
-      "link": "https://finance.yahoo.com/news/asian-stocks-stabilise-rout-ahead-012705415.html",
-      "publisher": "Reuters",
-      "time": 1785302424,
+      "id": "34a2e861-928f-35bb-ae17-73443a29aa2d",
+      "title": "Cansoft Signs Strategic Marketing Partnerships Across Four Growing Industries",
+      "link": "https://finance.yahoo.com/small-business/articles/cansoft-signs-strategic-marketing-partnerships-082500621.html",
+      "publisher": "TMX Newsfile",
+      "time": 1785313500,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "2345a926-619a-3cc4-9ccd-74fcd8b951f9",
-      "title": "The S&P 500 and Dow Are on Track to Beat the Nasdaq for the First Time Since 2022. Here's What That Means for Investors.",
-      "link": "https://finance.yahoo.com/m/2345a926-619a-3cc4-9ccd-74fcd8b951f9/the-s%26p-500-and-dow-are-on.html",
-      "publisher": "Motley Fool",
-      "time": 1785302400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3c71c5b8-26ad-3b80-a99c-35e71e0b2ec2",
-      "title": "Analysis-AI race redraws Asian air cargo, replacing e-commerce as growth engine",
-      "link": "https://finance.yahoo.com/technology/ai/articles/analysis-ai-race-redraws-asian-051733242.html",
-      "publisher": "Reuters",
-      "time": 1785302253,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b9cc949d-7c90-3f3e-81fd-f3b83b7c6769",
-      "title": "Fiverr: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fiverr-q2-earnings-snapshot-051732017.html",
-      "publisher": "Associated Press",
-      "time": 1785302252,
+      "id": "68b0d428-8a3d-3518-a802-8a7d19d0a90a",
+      "title": "J. Stern & Co to merge Swiss operations with bvo capital",
+      "link": "https://finance.yahoo.com/m/68b0d428-8a3d-3518-a802-8a7d19d0a90a/j.-stern-%26-co-to-merge-swiss.html",
+      "publisher": "Private Banker International",
+      "time": 1785313474,
       "impact": "medium",
       "tags": [
         "macro",
@@ -111,45 +75,84 @@
       ]
     },
     {
-      "id": "62a1db30-d8d7-33bf-a53e-231c2dcee970",
-      "title": "KFRC Q2 Deep Dive: Consulting and AI Talent Drive Sequential Growth",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kfrc-q2-deep-dive-consulting-051702080.html",
+      "id": "f5e36686-2513-3244-80b8-9cf61648df6e",
+      "title": "Why Repligen (RGEN) Stock Is Up Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-repligen-rgen-stock-today-082102598.html",
       "publisher": "StockStory",
-      "time": 1785302222,
+      "time": 1785313262,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "78cfe397-b6fe-3f03-984c-ea0b3e04be08",
-      "title": "South Korean stocks collapse amid Asian tech rout",
-      "link": "https://finance.yahoo.com/energy/articles/crude-jumps-fresh-mideast-flare-030605104.html",
-      "publisher": "AFP",
-      "time": 1785302174,
+      "id": "8070d4b6-b5bf-4b83-a3f2-845b0b8133e5",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures steady after Korean stocks fall, Iran resumes attacks",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html",
+      "publisher": "Yahoo Finance",
+      "time": 1785313209,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "42381c25-5963-3e4d-9092-bd048846e54a",
-      "title": "Basilea receives USD 30 million funding under existing BARDA agreement for advancing phase 3 development of novel antifungal fosmanogepix",
-      "link": "https://finance.yahoo.com/healthcare/articles/basilea-receives-usd-30-million-051500266.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785302100,
+      "id": "0c682bb4-26c0-381f-bdd0-79d18538ab28",
+      "title": "Threat Out of China Creeps Up on ASML: Is the Dip in the Stock Worth Buying?",
+      "link": "https://finance.yahoo.com/m/0c682bb4-26c0-381f-bdd0-79d18538ab28/threat-out-of-china-creeps-up.html",
+      "publisher": "Motley Fool",
+      "time": 1785312900,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "8e70556c-6ca8-39a0-a03a-f875f615f795",
+      "title": "Hacksaw Gaming Announces Hollywoodbets Partnership In South Africa",
+      "link": "https://finance.yahoo.com/media-advertising/articles/hacksaw-gaming-announces-hollywoodbets-partnership-081500701.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1785312900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ec22dd5a-7814-3c0f-9c05-cfeca6bf1ae7",
-      "title": "As AI Anxiety Spreads, Hyperscaler Default Bets Are Spiking",
-      "link": "https://finance.yahoo.com/m/ec22dd5a-7814-3c0f-9c05-cfeca6bf1ae7/as-ai-anxiety-spreads%2C.html",
-      "publisher": "Barrons.com",
-      "time": 1785302100,
-      "impact": "high",
+      "id": "caef81d8-6256-3bf9-9cb4-f3f031c7d5f1",
+      "title": "Agoda Data Reveals Indian Travelers Are Expanding Their International Beach Bucket List",
+      "link": "https://finance.yahoo.com/small-business/articles/agoda-data-reveals-indian-travelers-081400729.html",
+      "publisher": "PR Newswire",
+      "time": 1785312840,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0d0b81de-b695-39f3-b2f9-211c44b73a44",
+      "title": "Why Agilysys (AGYS) Stock Is Up Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-agilysys-agys-stock-today-081302516.html",
+      "publisher": "StockStory",
+      "time": 1785312782,
+      "impact": "low",
       "tags": [
-        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "a8a46855-9075-3245-96ab-02098f7ad1c0",
+      "title": "EXCLUSIVE: McQueen Channels Noir Desire in Fall Campaign Starring Karen Elson",
+      "link": "https://finance.yahoo.com/m/a8a46855-9075-3245-96ab-02098f7ad1c0/exclusive%3A-mcqueen-channels.html",
+      "publisher": "WWD",
+      "time": 1785312741,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fa45ffa0-9917-3256-9147-6709cfafc452",
+      "title": "Market Chatter: DigitalBridge-Backed Vantage Weighs Malaysia Asset Sale Valued at Over $2 Billion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-digitalbridge-backed-vantage-081153514.html",
+      "publisher": "MT Newswires",
+      "time": 1785312713,
+      "impact": "low",
+      "tags": [
         "macro"
       ]
     }
