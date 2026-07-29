@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T20:46:42.962848+00:00",
+  "updatedAt": "2026-07-29T21:54:20.106347+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,11 @@
   ],
   "news": [
     {
-      "id": "b6a82487-fe6b-356a-aa83-7439e88bd193",
-      "title": "FTAI Aviation Q2 Earnings Fall, Revenue Rises; Increases Quarterly Dividend",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ftai-aviation-q2-earnings-fall-204222347.html",
+      "id": "391bb07d-04e8-3b9e-9171-d44c07b6b9f0",
+      "title": "Hexcel Q2 Adjusted Earnings, Revenue Rise; 2026 Guidance Revised",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hexcel-q2-adjusted-earnings-revenue-214902208.html",
       "publisher": "MT Newswires",
-      "time": 1785357742,
+      "time": 1785361742,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,78 +64,37 @@
       ]
     },
     {
-      "id": "d55256c2-f95e-354e-919f-ee967564293e",
-      "title": "Alliance Laundry Holdings Insider Sold Shares Worth $363,744, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alliance-laundry-holdings-insider-sold-204152086.html",
+      "id": "fce8e917-a052-37b4-ab11-9f748b9d897c",
+      "title": "Procore Technologies Q2 Adjusted Earnings, Revenue Rise; Q3 Guidance Set",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/procore-technologies-q2-adjusted-earnings-214902732.html",
       "publisher": "MT Newswires",
-      "time": 1785357712,
+      "time": 1785361742,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "03605864-afd2-31d6-9469-bb19fde2ee12",
+      "title": "JPMorgan just sent stock market investors a signal worth watching",
+      "link": "https://finance.yahoo.com/m/03605864-afd2-31d6-9469-bb19fde2ee12/jpmorgan-just-sent-stock.html",
+      "publisher": "TheStreet",
+      "time": 1785361620,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3407ff25-ae74-3092-8b19-e61dc9f001f1",
-      "title": "FormFactor Fiscal Q2 Adjusted Earnings, Revenue Rise; Q3 Guidance Set",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/formfactor-fiscal-q2-adjusted-earnings-204134761.html",
-      "publisher": "MT Newswires",
-      "time": 1785357694,
-      "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "4c4bb36c-a76e-35f4-8f02-a950c1150c35",
-      "title": "Omega Healthcare Q2 Adjusted FFO, Revenue Rise; Full Year Adjusted FFO Guidance Raised",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/omega-healthcare-q2-adjusted-ffo-204115085.html",
-      "publisher": "MT Newswires",
-      "time": 1785357675,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "7cf14530-d917-39a9-bea6-b587de2994d5",
-      "title": "General Motors Insider Sold Shares Worth $6,394,978, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/general-motors-insider-sold-shares-204045949.html",
-      "publisher": "MT Newswires",
-      "time": 1785357645,
+      "id": "3530d59a-46c7-31f5-a473-eee1a1599547",
+      "title": "Mirrorless Lenses Market Size to Reach $4.80 Billion by 2033, Growing at 7.4% CAGR as Creator-Led Demand and Full-Frame Adoption Accelerate, Reports Verified Market Research®",
+      "link": "https://finance.yahoo.com/technology/articles/mirrorless-lenses-market-size-reach-214700183.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785361620,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1a703da3-a131-36aa-a48c-86732c47b0a9",
-      "title": "Corcept Therapeutics Q2 Earnings, Revenue Rise; Shares Jump After Hours",
-      "link": "https://finance.yahoo.com/healthcare/articles/corcept-therapeutics-q2-earnings-revenue-204042569.html",
-      "publisher": "MT Newswires",
-      "time": 1785357642,
-      "impact": "medium",
       "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "f6a02a39-6d2b-37cd-b57d-6b5a3c16dde1",
-      "title": "Medpace Holdings Insider Sold Shares Worth $4,500,000, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/medpace-holdings-insider-sold-shares-204005753.html",
-      "publisher": "MT Newswires",
-      "time": 1785357605,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5af6aad8-901f-3d0c-b50f-56cbd8ef9366",
-      "title": "Bausch Health Rises After Q2 Earnings, Revenue Beat Estimates",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bausch-health-rises-q2-earnings-203921694.html",
-      "publisher": "MT Newswires",
-      "time": 1785357561,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
@@ -143,7 +102,7 @@
       "title": "Fed holds interest rates steady, but 3 officials vote for hike",
       "link": "https://finance.yahoo.com/m/99b890aa-b43b-3afc-903d-15a99852f8b0/fed-holds-interest-rates.html",
       "publisher": "CBS News",
-      "time": 1785357523,
+      "time": 1785361552,
       "impact": "high",
       "tags": [
         "geo",
@@ -151,15 +110,60 @@
       ]
     },
     {
-      "id": "aff6dc6f-2da5-393c-94f1-213a7c9ce994",
-      "title": "Flowserve Q2 Adjusted Earnings Rise, Revenue Lower",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/flowserve-q2-adjusted-earnings-rise-203826020.html",
+      "id": "60f983c6-ad7f-3e7e-b473-8a3371ac0e82",
+      "title": "NewMarket Q2 Earnings, Net Sales Rise",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/newmarket-q2-earnings-net-sales-214515050.html",
       "publisher": "MT Newswires",
-      "time": 1785357506,
+      "time": 1785361515,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
+      ]
+    },
+    {
+      "id": "dbf39088-26c8-3648-a581-96ea82861217",
+      "title": "Antero Resources Q2 Earnings, Revenue Rise",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/antero-resources-q2-earnings-revenue-214506999.html",
+      "publisher": "MT Newswires",
+      "time": 1785361506,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "e7b10291-4a6f-3cc7-a6c6-b1d4a8aa2556",
+      "title": "Beacon Financial Q2 Earnings, Revenue Rise",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/beacon-financial-q2-earnings-revenue-214503158.html",
+      "publisher": "MT Newswires",
+      "time": 1785361503,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "5e83b2b4-42c3-35ed-a3b8-c94e1caff5c3",
+      "title": "Analysts have blunt response to Dave Ramsey's 'dumb' Bitcoin comment",
+      "link": "https://finance.yahoo.com/m/5e83b2b4-42c3-35ed-a3b8-c94e1caff5c3/analysts-have-blunt-response.html",
+      "publisher": "TheStreet",
+      "time": 1785361500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a32a2e88-48bd-31a9-945b-423804d8a8f7",
+      "title": "HII is Awarded Contracts for Construction of Block VI Virginia-class and Build II Columbia-class Submarines",
+      "link": "https://finance.yahoo.com/technology/articles/hii-awarded-contracts-construction-block-214500767.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785361500,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
       ]
     }
   ],
