@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T16:49:48.786759+00:00",
+  "updatedAt": "2026-07-29T18:02:51.343023+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7361.06,
-      "change": -52.11999999999989,
-      "changePct": -0.7030720959156515,
+      "price": 7414.66,
+      "change": 1.4799999999995634,
+      "changePct": 0.01996444171056906,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 24604.592,
-      "change": -327.4880000000012,
-      "changePct": -1.3135205726918942,
+      "price": 24883.498,
+      "change": -48.582000000002154,
+      "changePct": -0.19485738855323,
       "currency": "USD"
     },
     {
@@ -44,114 +44,110 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 19.93,
-      "change": 1.7199999999999989,
-      "changePct": 9.445359692476654,
+      "price": 19.59,
+      "change": 1.379999999999999,
+      "changePct": 7.578253706754524,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "22137258-aa3d-3d7f-8360-c3310440ea4f",
-      "title": "Portugal: Air France-KLM and Lufthansa submit binding bids to buy TAP",
-      "link": "https://finance.yahoo.com/m/22137258-aa3d-3d7f-8360-c3310440ea4f/portugal%3A-air-france-klm-and.html",
-      "publisher": "Euronews",
-      "time": 1785343595,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "836e40d2-ba47-353c-a040-6cebe2d388bb",
-      "title": "AM Best Revises Outlooks to Stable for Mid-Hudson Group’s Members",
-      "link": "https://finance.yahoo.com/healthcare/articles/am-best-revises-outlooks-stable-164100387.html",
-      "publisher": "Business Wire",
-      "time": 1785343260,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0ced92df-0334-300e-aa2d-87b0707204ea",
-      "title": "Carta Healthcare Wins Gold in the 2026 Stevie® Awards for Technology Excellence",
-      "link": "https://finance.yahoo.com/healthcare/articles/carta-healthcare-wins-gold-2026-163900330.html",
-      "publisher": "PR Newswire",
-      "time": 1785343140,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "be66c440-2fc4-325a-96c7-128179f7f3bf",
-      "title": "Exclusive-US FTC suing Hims & Hers for sending user health info to Meta, Snap",
-      "link": "https://finance.yahoo.com/healthcare/articles/exclusive-us-ftc-suing-hims-163849263.html",
-      "publisher": "Reuters",
-      "time": 1785343129,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1beb220f-0cbc-3b1e-80bf-02c25bc225b4",
-      "title": "More Arizona Children with Hearing Loss to Benefit from Expanded Early Intervention and Hearing Healthcare Services",
-      "link": "https://finance.yahoo.com/healthcare/articles/more-arizona-children-hearing-loss-163800372.html",
-      "publisher": "PR Newswire",
-      "time": 1785343080,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fd2ce88d-e40c-3f3b-99c1-996ce848cd2c",
-      "title": "Federal Home Loan Bank of Dallas Reports Second Quarter 2026 Operating Results",
-      "link": "https://finance.yahoo.com/real-estate/articles/federal-home-loan-bank-dallas-163800852.html",
-      "publisher": "Business Wire",
-      "time": 1785343080,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "57cb3d5a-ba70-3d29-9f1c-3adea418eef0",
-      "title": "Boeing to Gain From Higher Output, Certifications, Cash Flow, RBC Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-gain-higher-output-certifications-163739024.html",
+      "id": "96c82e08-ff13-3bc7-a45c-e1b2f2d33cd3",
+      "title": "EcoSynthetix Reports Q2 Net loss",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ecosynthetix-reports-q2-net-loss-180113379.html",
       "publisher": "MT Newswires",
-      "time": 1785343059,
+      "time": 1785348073,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3752f2a8-127e-345b-b740-56a4c1dc15ab",
-      "title": "Latest US Tariffs Threats to Create Uneven Effects Across Sectors of Canada's Economy, National Bank Says",
-      "link": "https://finance.yahoo.com/economy/policy/articles/latest-us-tariffs-threats-create-163708011.html",
+      "id": "75d0c58e-bb91-3e3e-877f-80c97de041d0",
+      "title": "Weatherford International Poised to Benefit From Post-Conflict Recovery, UBS Securities Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/weatherford-international-poised-benefit-post-180057968.html",
       "publisher": "MT Newswires",
-      "time": 1785343028,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "57ce89ca-f042-37c6-8e42-8587c6b3b0bf",
-      "title": "Why AMD (AMD) and Core Scientific (CORZ) Are Pairing AI Chips With Up to 2.5 Gigawatts",
-      "link": "https://finance.yahoo.com/technology/ai/articles/why-amd-amd-core-scientific-163703591.html",
-      "publisher": "Insider Monkey",
-      "time": 1785343023,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "876a86fe-db95-35b2-85df-6cff6801601b",
-      "title": "What To Expect From Avery Dennison’s (AVY) Q2 Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/expect-avery-dennison-avy-q2-163702115.html",
-      "publisher": "StockStory",
-      "time": 1785343022,
+      "time": 1785348057,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
+    },
+    {
+      "id": "f346d002-6e6a-3a0b-b86e-42603cb44294",
+      "title": "Equities Lower Intraday Ahead of Fed Decision, Major Tech Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-lower-intraday-ahead-fed-180032148.html",
+      "publisher": "MT Newswires",
+      "time": 1785348032,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "fea9867c-5520-3037-8f63-a00d5893b522",
+      "title": "Update: FTC Suing Hims & Hers for Allegedly Sharing User Data With Meta, Snap",
+      "link": "https://finance.yahoo.com/healthcare/articles/ftc-suing-hims-hers-allegedly-180008986.html",
+      "publisher": "MT Newswires",
+      "time": 1785348008,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9bd662d1-7743-3fbe-96c9-7a3db70fc466",
+      "title": "Top Midday Gainers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-175951790.html",
+      "publisher": "MT Newswires",
+      "time": 1785347991,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6f75f779-c50a-3b3e-b17f-81f5aea69a34",
+      "title": "I’m Loading Up on AMD Because It Proves That Coming in Second Place Creates Asymmetric Upside",
+      "link": "https://finance.yahoo.com/m/6f75f779-c50a-3b3e-b17f-81f5aea69a34/i%E2%80%99m-loading-up-on-amd-because.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785347957,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "304b6e17-9d87-3197-8136-ec8a0a695937",
+      "title": "Why Shares in This AI Infrastructure Stock Crashed Today",
+      "link": "https://finance.yahoo.com/m/304b6e17-9d87-3197-8136-ec8a0a695937/why-shares-in-this-ai.html",
+      "publisher": "Motley Fool",
+      "time": 1785347890,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2e1e8645-45e8-303e-a93a-a593cca7935f",
+      "title": "Update: US Equity Indexes Slump Ahead of Fed Policy Moves, Big-Tech Results; Crude Oil Soars as Trump Vows to Hit Iran Hard",
+      "link": "https://finance.yahoo.com/markets/articles/us-equity-indexes-slump-ahead-175807087.html",
+      "publisher": "MT Newswires",
+      "time": 1785347887,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "6b4dd88c-9df5-3138-8740-8a0bad36a93b",
+      "title": "Amazon's AI Spending Is About to Face a Bigger Test",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amazons-ai-spending-face-bigger-175639355.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785347799,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0ce897d5-3051-3515-94da-1a9ac9cf4741",
+      "title": "I Keep Buying Alphabet Because of This Silicon Shift Expected to Hit By Year End",
+      "link": "https://finance.yahoo.com/m/0ce897d5-3051-3515-94da-1a9ac9cf4741/i-keep-buying-alphabet.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785347751,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
