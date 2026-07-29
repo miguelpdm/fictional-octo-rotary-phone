@@ -1,146 +1,152 @@
 {
-  "updatedAt": "2026-07-29T13:12:47.014262+00:00",
+  "updatedAt": "2026-07-29T15:34:48.329930+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19505.7,
-      "change": -221.29999999999927,
-      "changePct": -1.1218127439549819,
+      "price": 19389.0,
+      "change": -338.0,
+      "changePct": -1.713387742687687,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7428.78,
-      "change": 15.599999999999454,
-      "changePct": 0.21043600721956643,
+      "price": 7367.6,
+      "change": -45.57999999999993,
+      "changePct": -0.6148508467351382,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 24876.912,
-      "change": -55.168000000001484,
-      "changePct": -0.22127315490725794,
+      "price": 24597.06,
+      "change": -335.02000000000044,
+      "changePct": -1.3437306474229203,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25503.79,
-      "change": 142.76000000000204,
-      "changePct": 0.5629108912374696,
+      "price": 25463.75,
+      "change": 102.72000000000116,
+      "changePct": 0.4050308682257825,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6263.5,
-      "change": -26.01000000000022,
-      "changePct": -0.4135457293175496,
+      "price": 6246.7,
+      "change": -42.8100000000004,
+      "changePct": -0.6806571577118153,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.69,
-      "change": 0.4800000000000004,
-      "changePct": 2.6359143327841865,
+      "price": 19.81,
+      "change": 1.5999999999999979,
+      "changePct": 8.786381109280603,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "059240e3-3c3e-33fe-a214-c3e4dc3d4b0e",
-      "title": "MGP Ingredients hires clutch of industry veterans in bid to spur growth",
-      "link": "https://finance.yahoo.com/m/059240e3-3c3e-33fe-a214-c3e4dc3d4b0e/mgp-ingredients-hires-clutch.html",
-      "publisher": "Just Drinks",
-      "time": 1785330556,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d586ed26-1775-318b-9f23-ac0f1cbf09d8",
-      "title": "US Democratic lawmakers press SEC to probe Trump Media's fast feed",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-democratic-lawmakers-press-sec-130348360.html",
-      "publisher": "Reuters",
-      "time": 1785330369,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7a39df94-1079-39c5-9c74-4b93df8ce1cc",
-      "title": "SNICKERS® ICE CREAM MINIS IS SEARCHING FOR ITS FIRST-EVER 'CHIEF ONLINE CHILL OFFICER' TO HELP BRING MORE CHILL AND HUMOR TO THE INTERNET",
-      "link": "https://finance.yahoo.com/media-advertising/articles/snickers-ice-cream-minis-searching-130500092.html",
-      "publisher": "PR Newswire",
-      "time": 1785330300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "987c5667-aab0-3bd5-bc05-a7c4bfbe5bd5",
-      "title": "75% of Small Business Owners Tapped Personal Credit for Business Expenses, Bluevine Study Finds",
-      "link": "https://finance.yahoo.com/small-business/articles/75-small-business-owners-tapped-130500669.html",
-      "publisher": "PR Newswire",
-      "time": 1785330300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9da25144-7e3c-3574-a958-e076eb7b0bb1",
-      "title": "Cogent Communications CEO to Present at Three Upcoming Conferences",
-      "link": "https://finance.yahoo.com/technology/articles/cogent-communications-ceo-present-three-130500433.html",
-      "publisher": "PR Newswire",
-      "time": 1785330300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9f1b3cd7-f70a-3e2c-b8c9-deba03c02d8e",
-      "title": "HYDRINITY® Earns Prestigious 2026 Skin Anarchy Science of Skin Award, Joining the Industry's Most Scientifically Advanced Skincare Brands",
-      "link": "https://finance.yahoo.com/healthcare/articles/hydrinity-earns-prestigious-2026-skin-130500854.html",
-      "publisher": "PR Newswire",
-      "time": 1785330300,
-      "impact": "high",
+      "id": "23865de2-ee14-31ba-a77c-8ad45b3162f7",
+      "title": "Dimerix acquisition of DMX-652 bolsters kidney disease development",
+      "link": "https://finance.yahoo.com/m/23865de2-ee14-31ba-a77c-8ad45b3162f7/dimerix-acquisition-of.html",
+      "publisher": "Pharmaceutical Technology",
+      "time": 1785339240,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "b237649d-e2d2-3957-9939-ee10009d712e",
-      "title": "16 Handles Surpasses Last Year's Franchise Growth in Just Six Months, Posts 30% Same-Store Sales Growth",
-      "link": "https://finance.yahoo.com/small-business/articles/16-handles-surpasses-last-years-130500190.html",
-      "publisher": "PR Newswire",
-      "time": 1785330300,
+      "id": "bd71afad-c1d1-344a-b8b0-4888fc4c43ac",
+      "title": "Church & Dwight to Deliver 'Solid' Q2, RBC Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/church-dwight-deliver-apos-solid-153114308.html",
+      "publisher": "MT Newswires",
+      "time": 1785339074,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cc42adeb-1148-3ea6-9924-1f28cb8df921",
-      "title": "Family feud over Chadwick Boseman’s estate highlights 3 lessons for grieving families",
-      "link": "https://finance.yahoo.com/m/cc42adeb-1148-3ea6-9924-1f28cb8df921/family-feud-over-chadwick.html",
-      "publisher": "The Conversation",
-      "time": 1785330248,
+      "id": "24c79d81-36e4-3ff5-87e2-fffdb0df955b",
+      "title": "LiveBarn Launches Analytics Platform Built for Every Part of the Youth Hockey Community",
+      "link": "https://finance.yahoo.com/media-advertising/articles/livebarn-launches-analytics-platform-built-153000779.html",
+      "publisher": "CNW Group",
+      "time": 1785339000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2592e78e-94b4-3f27-81e9-aae040ba944b",
-      "title": "Got money questions? How to get chatbots to give you accurate answers",
-      "link": "https://finance.yahoo.com/m/2592e78e-94b4-3f27-81e9-aae040ba944b/got-money-questions%3F-how-to.html",
-      "publisher": "The Conversation",
-      "time": 1785330247,
+      "id": "31f23334-512a-3b55-9f9e-2c18c6131308",
+      "title": "Canadian Pacific Kansas City Limited declares dividend",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-pacific-kansas-city-limited-153000640.html",
+      "publisher": "CNW Group",
+      "time": 1785339000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4e8616d5-b178-35b5-820a-f1e74dcb5ccc",
-      "title": "InsideTracker Unveils Source-Agnostic Blood Data Processing Across Nearly 120 Biomarkers",
-      "link": "https://finance.yahoo.com/healthcare/articles/insidetracker-unveils-source-agnostic-blood-130400956.html",
-      "publisher": "PR Newswire",
-      "time": 1785330240,
+      "id": "f86d4843-a5c3-3a75-a815-80f08f84630c",
+      "title": "Graphano Energy Appoints Andrew Gainsbury as CFO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/graphano-energy-appoints-andrew-gainsbury-152946364.html",
+      "publisher": "MT Newswires",
+      "time": 1785338986,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8092f569-534a-3029-815a-7ee98a3625c0",
+      "title": "VF Shares Tumble After Reporting Wider-Than-Expected Fiscal First-Quarter Loss",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vf-shares-tumble-reporting-wider-152846224.html",
+      "publisher": "MT Newswires",
+      "time": 1785338926,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a81c6662-d729-3c1e-a968-368523a23960",
+      "title": "Canada Commodities: Oil Higher as US-Iran Hostilities Resume, Saudi Arabia Joins Conflict",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/canada-commodities-oil-higher-us-152802272.html",
+      "publisher": "MT Newswires",
+      "time": 1785338882,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "04760ac8-b106-31bc-9ec0-e28de77c4e31",
+      "title": "GlobalFoundries inks $300M CHIPS R&D agreement with US Commerce Department",
+      "link": "https://finance.yahoo.com/m/04760ac8-b106-31bc-9ec0-e28de77c4e31/globalfoundries-inks-%24300m.html",
+      "publisher": "Proactive",
+      "time": 1785338880,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d4fcd73d-6212-3bb7-b05b-a1c57905ddc5",
+      "title": "U.S. Crude Oil Stockpiles Fall More Than Expected",
+      "link": "https://finance.yahoo.com/m/d4fcd73d-6212-3bb7-b05b-a1c57905ddc5/u.s.-crude-oil-stockpiles.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1785338880,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b09f0afe-bade-3840-9116-155c98de1d0e",
+      "title": "GSK's ViiV Healthcare Highlights New Long-Acting Injectable Data on Cabenuva in HIV Treatment",
+      "link": "https://finance.yahoo.com/healthcare/articles/gsk-apos-viiv-healthcare-highlights-152708974.html",
+      "publisher": "MT Newswires",
+      "time": 1785338828,
       "impact": "low",
       "tags": []
     }
