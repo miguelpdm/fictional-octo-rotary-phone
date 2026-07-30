@@ -1,167 +1,145 @@
 {
-  "updatedAt": "2026-07-30T12:10:37.632019+00:00",
+  "updatedAt": "2026-07-30T14:40:29.350315+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19711.5,
-      "change": 298.7999999999993,
-      "changePct": 1.5391985658872762,
+      "price": 19734.2,
+      "change": 321.5,
+      "changePct": 1.6561323257455172,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7316.15,
-      "change": -97.03000000000065,
-      "changePct": -1.3088849859304732,
+      "price": 7411.14,
+      "change": -17.639999999999418,
+      "changePct": -0.23745487145937044,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 24442.941,
-      "change": -489.13900000000285,
-      "changePct": -1.9618860520261558,
+      "price": 25086.766,
+      "change": 209.85599999999977,
+      "changePct": 0.8435774378731111,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25547.37,
-      "change": 83.36000000000058,
-      "changePct": 0.3273639933380508,
+      "price": 25616.27,
+      "change": 152.26000000000204,
+      "changePct": 0.5979419580812372,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6315.08,
-      "change": 66.23999999999978,
-      "changePct": 1.0600367428194637,
+      "price": 6347.11,
+      "change": 98.26999999999953,
+      "changePct": 1.57261187676432,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 19.06,
-      "change": -1.6000000000000014,
-      "changePct": -7.74443368828655,
+      "price": 18.42,
+      "change": -2.2399999999999984,
+      "changePct": -10.842207163601154,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "bb9ea3dc-37ef-3207-bda8-e2d52c581f37",
-      "title": "Stellantis Q2 profit squeezed by pricing pressures in Europe",
-      "link": "https://finance.yahoo.com/m/bb9ea3dc-37ef-3207-bda8-e2d52c581f37/stellantis-q2-profit-squeezed.html",
-      "publisher": "Just Auto",
-      "time": 1785413315,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "ffc5d11b-58c0-3646-b857-db2c8c41d313",
-      "title": "Leidos and CoreWeave collaborate to accelerate delivery of AI capabilities for defense, national security and intelligence missions",
-      "link": "https://finance.yahoo.com/technology/ai/articles/leidos-coreweave-collaborate-accelerate-delivery-120400011.html",
-      "publisher": "PR Newswire",
-      "time": 1785413040,
+      "id": "b969c8b2-b65a-3438-808c-0f9cb64449fe",
+      "title": "Kempinski implements Shiji’s Daylight PMS for Chinese operations",
+      "link": "https://finance.yahoo.com/m/b969c8b2-b65a-3438-808c-0f9cb64449fe/kempinski-implements-shiji%E2%80%99s.html",
+      "publisher": "Hotel Management Network",
+      "time": 1785422355,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6fa7679b-0865-337d-aa21-199eb20be816",
-      "title": "The Hanover Insurance Group Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/6fa7679b-0865-337d-aa21-199eb20be816/the-hanover-insurance-group.html",
-      "publisher": "MarketBeat",
-      "time": 1785413033,
-      "impact": "medium",
+      "id": "254f27f5-946f-3a3e-8d76-774f6a26685d",
+      "title": "The Senior Women in Private Equity (\"SWIPE\") Opens the Market",
+      "link": "https://finance.yahoo.com/small-business/articles/senior-women-private-equity-swipe-143500317.html",
+      "publisher": "TMX Newsfile",
+      "time": 1785422100,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "71109cfd-efd8-395c-a3b1-038cea9264e5",
-      "title": "Teva Pharmaceutical Industries Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/71109cfd-efd8-395c-a3b1-038cea9264e5/teva-pharmaceutical.html",
-      "publisher": "MarketBeat",
-      "time": 1785413033,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "67cf1169-e51d-3eff-91a2-9a894668ddd9",
+      "title": "Seafair Weekend Festival 2026: schedule, ticket prices and more",
+      "link": "https://finance.yahoo.com/m/67cf1169-e51d-3eff-91a2-9a894668ddd9/seafair-weekend-festival.html",
+      "publisher": "USA TODAY",
+      "time": 1785422033,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "42fe916a-abaa-3cb2-9852-94533ed1150e",
-      "title": "Takeda Pharmaceutical Q1 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/42fe916a-abaa-3cb2-9852-94533ed1150e/takeda-pharmaceutical-q1.html",
-      "publisher": "MarketBeat",
-      "time": 1785413032,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "ddbeafb7-1c01-3ff8-b87b-5703114c0b7d",
+      "title": "Raymond James Adjusts Price Target on Flex to $170 From $150, Maintains Outperform Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/raymond-james-adjusts-price-target-143348845.html",
+      "publisher": "MT Newswires",
+      "time": 1785422028,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "a318caca-3592-30d7-8264-06eacae2ef87",
-      "title": "Smurfit Westrock Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/a318caca-3592-30d7-8264-06eacae2ef87/smurfit-westrock-q2-earnings.html",
-      "publisher": "MarketBeat",
-      "time": 1785413032,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "cad38eaa-3767-3cfb-8aec-f84873352d2c",
+      "title": "Oppenheimer Adjusts Price Target on Orion Group to $15 From $20, Maintains Outperform Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-adjusts-price-target-orion-143233140.html",
+      "publisher": "MT Newswires",
+      "time": 1785421953,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "c7b8d7fb-86c6-30aa-9d5c-b65c7488cf3a",
-      "title": "Teladoc Health Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/c7b8d7fb-86c6-30aa-9d5c-b65c7488cf3a/teladoc-health-q2-earnings.html",
-      "publisher": "MarketBeat",
-      "time": 1785413032,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "31f166f5-01f5-3f28-8874-24d35bbce5ff",
+      "title": "Yum! Brands Q2 net income surges 128% to $853m",
+      "link": "https://finance.yahoo.com/m/31f166f5-01f5-3f28-8874-24d35bbce5ff/yum%21-brands-q2-net-income.html",
+      "publisher": "Verdict Food Service",
+      "time": 1785421932,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "f347bfec-609a-3cab-b1a8-1553e5c14062",
-      "title": "Stanley Black & Decker Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/f347bfec-609a-3cab-b1a8-1553e5c14062/stanley-black-%26-decker-q2.html",
-      "publisher": "MarketBeat",
-      "time": 1785413032,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "7e6fc9f7-bd05-34cc-bf5b-ad6394b8a977",
+      "title": "KBW upgrades Core Scientific after AMD leases raise contracted value, eyes 35% rise",
+      "link": "https://finance.yahoo.com/m/7e6fc9f7-bd05-34cc-bf5b-ad6394b8a977/kbw-upgrades-core-scientific.html",
+      "publisher": "Blockspace",
+      "time": 1785421927,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "6ba12af4-179a-3f06-bc8a-b4fc6299f376",
-      "title": "Hershey Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/6ba12af4-179a-3f06-bc8a-b4fc6299f376/hershey-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1785413031,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "812cdee9-e811-38b6-83dd-e7baa3dfa378",
+      "title": "Vertiv Holdings (VRT) Sees Robust Growth Ahead as AI Infrastructure Spending Accelerates",
+      "link": "https://finance.yahoo.com/technology/ai/articles/vertiv-holdings-vrt-sees-robust-143200928.html",
+      "publisher": "Insider Monkey",
+      "time": 1785421920,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "853ffc24-5e0d-303e-8511-c0ada143314c",
-      "title": "Lloyds Banking Group Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/853ffc24-5e0d-303e-8511-c0ada143314c/lloyds-banking-group-q2.html",
-      "publisher": "MarketBeat",
-      "time": 1785413031,
+      "id": "416f12b4-80fc-3f7f-bec5-d94a90bfa69b",
+      "title": "Box Selected by Quintas Energy for AI-Driven Content Management Platform",
+      "link": "https://finance.yahoo.com/energy/articles/box-selected-quintas-energy-ai-143159963.html",
+      "publisher": "MT Newswires",
+      "time": 1785421919,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "31b85644-bb2d-3f20-a025-6848b2a38f19",
+      "title": "Robinhood Earnings Soar Above Views On Record Trading Volumes",
+      "link": "https://finance.yahoo.com/m/31b85644-bb2d-3f20-a025-6848b2a38f19/robinhood-earnings-soar-above.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1785421873,
       "impact": "medium",
       "tags": [
         "macro",
