@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-30T07:53:06.122613+00:00",
+  "updatedAt": "2026-07-30T10:18:15.835673+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19539.5,
-      "change": 126.79999999999927,
-      "changePct": 0.6531806497808098,
+      "price": 19604.1,
+      "change": 191.39999999999782,
+      "changePct": 0.985952495016138,
       "currency": "EUR"
     },
     {
@@ -28,35 +28,35 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25309.68,
-      "change": -154.3299999999981,
-      "changePct": -0.6060710783572506,
+      "price": 25434.66,
+      "change": -29.349999999998545,
+      "changePct": -0.11526071502484701,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6253.43,
-      "change": 4.5900000000001455,
-      "changePct": 0.07345363299428606,
+      "price": 6278.25,
+      "change": 29.409999999999854,
+      "changePct": 0.4706473521485564,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 19.95,
-      "change": -0.7100000000000009,
-      "changePct": -3.4365924491771582,
+      "price": 19.7,
+      "change": -0.9600000000000009,
+      "changePct": -4.6466602129719305,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "04b25f1d-844d-30b7-962a-39a744f556ad",
-      "title": "Takeda Pharmaceutical Fiscal Q1 Core Earnings, Revenue Rise",
-      "link": "https://finance.yahoo.com/healthcare/articles/takeda-pharmaceutical-fiscal-q1-core-074520549.html",
+      "id": "3e99f17f-3ada-34f3-ac41-6f3d29a622a8",
+      "title": "Ategrity Specialty Insurance Company Q2 Adjusted Earnings, Gross Premiums Rise",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ategrity-specialty-insurance-company-q2-101417952.html",
       "publisher": "MT Newswires",
-      "time": 1785397520,
+      "time": 1785406457,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,99 +64,105 @@
       ]
     },
     {
-      "id": "3c280ad4-cf3e-3d0d-9e50-c4b12e6cea99",
-      "title": "Form 8.3",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-074300497.html",
-      "publisher": "Business Wire",
-      "time": 1785397380,
+      "id": "809770fa-aa7a-32cb-a0e3-1dd04a17f3c0",
+      "title": "Enterprise Products Q2 Earnings, Revenue Rise",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-q2-earnings-revenue-101413312.html",
+      "publisher": "MT Newswires",
+      "time": 1785406453,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "f76f108e-988f-3b34-94ec-b4d131e11e3f",
+      "title": "Amneal: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amneal-q2-earnings-snapshot-101152487.html",
+      "publisher": "Associated Press",
+      "time": 1785406312,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "56ed5995-df90-32b7-b836-93e079cfd338",
+      "title": "Sea Insider Sold Shares Worth $288,732, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sea-insider-sold-shares-worth-101109320.html",
+      "publisher": "MT Newswires",
+      "time": 1785406269,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "45410103-2879-3d46-888a-16a7e61e024d",
-      "title": "French, Spanish Economies Picked Up in Second Quarter Despite Uncertainty From Iran War",
-      "link": "https://finance.yahoo.com/m/45410103-2879-3d46-888a-16a7e61e024d/french%2C-spanish-economies.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1785397320,
+      "id": "ee056ccc-3258-3d12-9f04-c020357e185c",
+      "title": "Wesco International: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wesco-international-q2-earnings-snapshot-101102804.html",
+      "publisher": "Associated Press",
+      "time": 1785406262,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "11dc224e-18e6-33d3-ae40-35b2e3cd341f",
+      "title": "Escalade: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/escalade-q2-earnings-snapshot-101101879.html",
+      "publisher": "Associated Press",
+      "time": 1785406261,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "e89e511a-6632-373e-9a90-b58c8923a825",
+      "title": "Strivve Secures Chartway Ventures as Lead Investor in Final, CUSO-Backed Capital Raise",
+      "link": "https://finance.yahoo.com/small-business/articles/strivve-secures-chartway-ventures-lead-101100717.html",
+      "publisher": "PR Newswire",
+      "time": 1785406260,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "954089dd-7e67-3542-9b85-50258b7aadd2",
+      "title": "Lincoln National: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lincoln-national-q2-earnings-snapshot-101004418.html",
+      "publisher": "Associated Press",
+      "time": 1785406204,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "c098ee48-5ac5-35fc-a3a1-ac46de424cf6",
+      "title": "Xcel: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/xcel-q2-earnings-snapshot-101004422.html",
+      "publisher": "Associated Press",
+      "time": 1785406204,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "6c430b01-b1e0-345e-ad5a-0d12433c6af2",
+      "title": "illumend, from myCOI, Wins Stevie Award for New AI-Native Product Redefining Insurance Compliance and Risk Intelligence",
+      "link": "https://finance.yahoo.com/technology/ai/articles/illumend-mycoi-wins-stevie-award-101000978.html",
+      "publisher": "PR Newswire",
+      "time": 1785406200,
       "impact": "high",
       "tags": [
         "geo",
         "macro"
-      ]
-    },
-    {
-      "id": "e8f68140-4192-37c3-8117-b6a3c64a5077",
-      "title": "Seoul extends losses as most Asian markets drop, oil rises again",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/south-korean-stocks-bounce-rout-030639895.html",
-      "publisher": "AFP",
-      "time": 1785397140,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "17bedd1e-c5aa-387c-a46a-25b2154d6c7c",
-      "title": "Bernie Sanders Says Politicians Told Not to 'Antagonize' Big Money Interests: 'When You Take on Crypto...'",
-      "link": "https://finance.yahoo.com/m/17bedd1e-c5aa-387c-a46a-25b2154d6c7c/bernie-sanders-says.html",
-      "publisher": "Benzinga",
-      "time": 1785397016,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "43ae0be6-aa5f-3ee3-8e44-a9767eb3c407",
-      "title": "Mizuho: Fiscal Q1 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mizuho-fiscal-q1-earnings-snapshot-073637911.html",
-      "publisher": "Associated Press",
-      "time": 1785396997,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "714b7eb9-0a9b-3633-a1c1-395a509bfe03",
-      "title": "Interim Management Statement Q3 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/interim-management-statement-q3-2026-073600867.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785396960,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6badc0da-2121-3495-9906-ec62581162da",
-      "title": "Capgemini sees multi-year IT modernisation boom as firms prepare for AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/capgemini-sees-multi-modernisation-boom-073357906.html",
-      "publisher": "Reuters",
-      "time": 1785396837,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5a76383a-ac5c-39d0-a3eb-80c97d9db267",
-      "title": "ASE Technology Q2 Earnings, Revenue Rise",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ase-technology-q2-earnings-revenue-073309551.html",
-      "publisher": "MT Newswires",
-      "time": 1785396789,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "5f0104af-3126-31a8-99dd-d6a1eb422e78",
-      "title": "Axos Financial Earnings: What To Look For From AX",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/axos-financial-earnings-look-ax-073302640.html",
-      "publisher": "StockStory",
-      "time": 1785396782,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
       ]
     }
   ],
