@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T02:12:32.441447+00:00",
+  "updatedAt": "2026-07-30T05:22:20.603821+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,38 +52,89 @@
   ],
   "news": [
     {
-      "id": "e01dcbbd-31a6-3d6e-abcf-2368c7b927cc",
-      "title": "Ngumoha scores as Liverpool beat Wrexham 1-0 in New York friendly",
-      "link": "https://finance.yahoo.com/m/e01dcbbd-31a6-3d6e-abcf-2368c7b927cc/ngumoha-scores-as-liverpool.html",
+      "id": "2b511491-b5aa-35d9-b31c-12585701ea5a",
+      "title": "Esentia Announces Confidential Submission of Draft Registration Statement to SEC for Proposed Initial Public Offering in the U.S.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/esentia-announces-confidential-submission-draft-051500450.html",
+      "publisher": "PR Newswire",
+      "time": 1785388500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fcdb721e-19e1-3a25-97ca-3a69356e763a",
+      "title": "GrackerAI Launches Visibility Diagnosis, an AI Agent That Decodes AI Search",
+      "link": "https://finance.yahoo.com/technology/ai/articles/grackerai-launches-visibility-diagnosis-ai-051500850.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1785388500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "33511a57-1ba4-3551-a43b-9b39f295bc98",
+      "title": "Oil prices slip and Asian shares are mostly lower as investors sell chipmaker stocks",
+      "link": "https://finance.yahoo.com/markets/articles/oil-prices-slip-asian-shares-050950736.html",
+      "publisher": "Associated Press",
+      "time": 1785388190,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b3f3563d-313d-3593-a2bb-80810c6ce28f",
+      "title": "Australian regulator says Telegram breached online safety law",
+      "link": "https://finance.yahoo.com/m/b3f3563d-313d-3593-a2bb-80810c6ce28f/australian-regulator-says.html",
       "publisher": "AFP",
-      "time": 1785377265,
+      "time": 1785388131,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b4d25b01-6c13-3ffb-ba2f-0a276869171f",
-      "title": "‘Who Cares About a FICO Score When You Are 94?’: Suze Orman’s Blunt Advice to a Family Drowning in Debt",
-      "link": "https://finance.yahoo.com/m/b4d25b01-6c13-3ffb-ba2f-0a276869171f/%E2%80%98who-cares-about-a-fico-score.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1785377051,
+      "id": "89e9e24e-3554-3f07-a958-2b2ac5bd1e06",
+      "title": "Anheuser-Busch Inbev: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/anheuser-busch-inbev-q2-earnings-050841270.html",
+      "publisher": "Associated Press",
+      "time": 1785388121,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b2d26461-c630-35bb-a1b0-6f914492c115",
+      "title": "BofA just turned on Exxon in favor of Chevron",
+      "link": "https://finance.yahoo.com/m/b2d26461-c630-35bb-a1b0-6f914492c115/bofa-just-turned-on-exxon-in.html",
+      "publisher": "TheStreet",
+      "time": 1785388020,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6caba1e1-f905-3fc3-9a9d-0925d2fb3d29",
-      "title": "South Korea's women web sleuths fight AI deepfake porn",
-      "link": "https://finance.yahoo.com/m/6caba1e1-f905-3fc3-9a9d-0925d2fb3d29/south-korea%27s-women-web.html",
-      "publisher": "AFP",
-      "time": 1785377046,
+      "id": "69920497-d943-3967-a84d-62909d3deaf5",
+      "title": "South Korea export growth seen easing but chip boom to hold",
+      "link": "https://finance.yahoo.com/economy/articles/south-korea-export-growth-seen-050617549.html",
+      "publisher": "Reuters",
+      "time": 1785387977,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "73925052-24b5-315e-80b9-ae01b126f5c8",
-      "title": "ASGN Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/73925052-24b5-315e-80b9-ae01b126f5c8/asgn-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1785377031,
+      "id": "7bba08c7-f830-3cfe-b67f-b35d037181c9",
+      "title": "Second quarter 2026 results: EUR 171 million net income in Q2 2026, contributing to a net income of EUR 397 million in H1 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/second-quarter-2026-results-eur-050500793.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785387900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "dddee9b5-1ad5-3436-a37a-605bb22544c6",
+      "title": "Aris Mining Corp (ARIS) (Q2 2026) Earnings Call Highlights: Record Cash Flow and On-Track ...",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/aris-mining-corp-aris-q2-050448470.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785387888,
       "impact": "medium",
       "tags": [
         "macro",
@@ -91,71 +142,11 @@
       ]
     },
     {
-      "id": "efeb4bfa-9324-317d-af19-c209500e99fa",
-      "title": "Ethan Allen Interiors Q4 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/efeb4bfa-9324-317d-af19-c209500e99fa/ethan-allen-interiors-q4.html",
-      "publisher": "MarketBeat",
-      "time": 1785377031,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "6b59fab1-054c-3de5-a2d0-e7d92c07a04e",
-      "title": "Canadian Pacific Kansas City Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/6b59fab1-054c-3de5-a2d0-e7d92c07a04e/canadian-pacific-kansas-city.html",
-      "publisher": "MarketBeat",
-      "time": 1785377030,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "727d256d-14c1-3305-a859-39231ecfc2a8",
-      "title": "Carvana Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/727d256d-14c1-3305-a859-39231ecfc2a8/carvana-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1785377030,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "b539042e-14ab-3db5-b7aa-2dbb91237274",
-      "title": "Carlisle Companies Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/b539042e-14ab-3db5-b7aa-2dbb91237274/carlisle-companies-q2.html",
-      "publisher": "MarketBeat",
-      "time": 1785377030,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c615e0f2-b649-330b-8e82-2c7bb64d62e5",
-      "title": "Coursera Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/c615e0f2-b649-330b-8e82-2c7bb64d62e5/coursera-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1785377030,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "434690df-da6d-3aa8-8f79-bf6a39068975",
-      "title": "Boot Barn Q1 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/434690df-da6d-3aa8-8f79-bf6a39068975/boot-barn-q1-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1785377029,
+      "id": "67b70151-d6ae-321a-8442-b9fe7ad641d3",
+      "title": "Carvana Co (CVNA) (Q2 2026) Earnings Call Highlights: Record Sales and Revenue, Strong ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/carvana-co-cvna-q2-2026-050444051.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785387884,
       "impact": "medium",
       "tags": [
         "macro",
