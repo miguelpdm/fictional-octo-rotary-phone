@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-30T10:18:15.835673+00:00",
+  "updatedAt": "2026-07-30T12:10:37.632019+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19604.1,
-      "change": 191.39999999999782,
-      "changePct": 0.985952495016138,
+      "price": 19711.5,
+      "change": 298.7999999999993,
+      "changePct": 1.5391985658872762,
       "currency": "EUR"
     },
     {
@@ -28,35 +28,35 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25434.66,
-      "change": -29.349999999998545,
-      "changePct": -0.11526071502484701,
+      "price": 25547.37,
+      "change": 83.36000000000058,
+      "changePct": 0.3273639933380508,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6278.25,
-      "change": 29.409999999999854,
-      "changePct": 0.4706473521485564,
+      "price": 6315.08,
+      "change": 66.23999999999978,
+      "changePct": 1.0600367428194637,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 19.7,
-      "change": -0.9600000000000009,
-      "changePct": -4.6466602129719305,
+      "price": 19.06,
+      "change": -1.6000000000000014,
+      "changePct": -7.74443368828655,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "3e99f17f-3ada-34f3-ac41-6f3d29a622a8",
-      "title": "Ategrity Specialty Insurance Company Q2 Adjusted Earnings, Gross Premiums Rise",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ategrity-specialty-insurance-company-q2-101417952.html",
-      "publisher": "MT Newswires",
-      "time": 1785406457,
+      "id": "bb9ea3dc-37ef-3207-bda8-e2d52c581f37",
+      "title": "Stellantis Q2 profit squeezed by pricing pressures in Europe",
+      "link": "https://finance.yahoo.com/m/bb9ea3dc-37ef-3207-bda8-e2d52c581f37/stellantis-q2-profit-squeezed.html",
+      "publisher": "Just Auto",
+      "time": 1785413315,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,44 +64,20 @@
       ]
     },
     {
-      "id": "809770fa-aa7a-32cb-a0e3-1dd04a17f3c0",
-      "title": "Enterprise Products Q2 Earnings, Revenue Rise",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-q2-earnings-revenue-101413312.html",
-      "publisher": "MT Newswires",
-      "time": 1785406453,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "f76f108e-988f-3b34-94ec-b4d131e11e3f",
-      "title": "Amneal: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amneal-q2-earnings-snapshot-101152487.html",
-      "publisher": "Associated Press",
-      "time": 1785406312,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "56ed5995-df90-32b7-b836-93e079cfd338",
-      "title": "Sea Insider Sold Shares Worth $288,732, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sea-insider-sold-shares-worth-101109320.html",
-      "publisher": "MT Newswires",
-      "time": 1785406269,
+      "id": "ffc5d11b-58c0-3646-b857-db2c8c41d313",
+      "title": "Leidos and CoreWeave collaborate to accelerate delivery of AI capabilities for defense, national security and intelligence missions",
+      "link": "https://finance.yahoo.com/technology/ai/articles/leidos-coreweave-collaborate-accelerate-delivery-120400011.html",
+      "publisher": "PR Newswire",
+      "time": 1785413040,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ee056ccc-3258-3d12-9f04-c020357e185c",
-      "title": "Wesco International: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wesco-international-q2-earnings-snapshot-101102804.html",
-      "publisher": "Associated Press",
-      "time": 1785406262,
+      "id": "6fa7679b-0865-337d-aa21-199eb20be816",
+      "title": "The Hanover Insurance Group Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/6fa7679b-0865-337d-aa21-199eb20be816/the-hanover-insurance-group.html",
+      "publisher": "MarketBeat",
+      "time": 1785413033,
       "impact": "medium",
       "tags": [
         "macro",
@@ -109,11 +85,11 @@
       ]
     },
     {
-      "id": "11dc224e-18e6-33d3-ae40-35b2e3cd341f",
-      "title": "Escalade: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/escalade-q2-earnings-snapshot-101101879.html",
-      "publisher": "Associated Press",
-      "time": 1785406261,
+      "id": "71109cfd-efd8-395c-a3b1-038cea9264e5",
+      "title": "Teva Pharmaceutical Industries Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/71109cfd-efd8-395c-a3b1-038cea9264e5/teva-pharmaceutical.html",
+      "publisher": "MarketBeat",
+      "time": 1785413033,
       "impact": "medium",
       "tags": [
         "macro",
@@ -121,20 +97,11 @@
       ]
     },
     {
-      "id": "e89e511a-6632-373e-9a90-b58c8923a825",
-      "title": "Strivve Secures Chartway Ventures as Lead Investor in Final, CUSO-Backed Capital Raise",
-      "link": "https://finance.yahoo.com/small-business/articles/strivve-secures-chartway-ventures-lead-101100717.html",
-      "publisher": "PR Newswire",
-      "time": 1785406260,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "954089dd-7e67-3542-9b85-50258b7aadd2",
-      "title": "Lincoln National: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lincoln-national-q2-earnings-snapshot-101004418.html",
-      "publisher": "Associated Press",
-      "time": 1785406204,
+      "id": "42fe916a-abaa-3cb2-9852-94533ed1150e",
+      "title": "Takeda Pharmaceutical Q1 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/42fe916a-abaa-3cb2-9852-94533ed1150e/takeda-pharmaceutical-q1.html",
+      "publisher": "MarketBeat",
+      "time": 1785413032,
       "impact": "medium",
       "tags": [
         "macro",
@@ -142,11 +109,11 @@
       ]
     },
     {
-      "id": "c098ee48-5ac5-35fc-a3a1-ac46de424cf6",
-      "title": "Xcel: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/xcel-q2-earnings-snapshot-101004422.html",
-      "publisher": "Associated Press",
-      "time": 1785406204,
+      "id": "a318caca-3592-30d7-8264-06eacae2ef87",
+      "title": "Smurfit Westrock Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/a318caca-3592-30d7-8264-06eacae2ef87/smurfit-westrock-q2-earnings.html",
+      "publisher": "MarketBeat",
+      "time": 1785413032,
       "impact": "medium",
       "tags": [
         "macro",
@@ -154,15 +121,51 @@
       ]
     },
     {
-      "id": "6c430b01-b1e0-345e-ad5a-0d12433c6af2",
-      "title": "illumend, from myCOI, Wins Stevie Award for New AI-Native Product Redefining Insurance Compliance and Risk Intelligence",
-      "link": "https://finance.yahoo.com/technology/ai/articles/illumend-mycoi-wins-stevie-award-101000978.html",
-      "publisher": "PR Newswire",
-      "time": 1785406200,
-      "impact": "high",
+      "id": "c7b8d7fb-86c6-30aa-9d5c-b65c7488cf3a",
+      "title": "Teladoc Health Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/c7b8d7fb-86c6-30aa-9d5c-b65c7488cf3a/teladoc-health-q2-earnings.html",
+      "publisher": "MarketBeat",
+      "time": 1785413032,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "f347bfec-609a-3cab-b1a8-1553e5c14062",
+      "title": "Stanley Black & Decker Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/f347bfec-609a-3cab-b1a8-1553e5c14062/stanley-black-%26-decker-q2.html",
+      "publisher": "MarketBeat",
+      "time": 1785413032,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "6ba12af4-179a-3f06-bc8a-b4fc6299f376",
+      "title": "Hershey Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/6ba12af4-179a-3f06-bc8a-b4fc6299f376/hershey-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1785413031,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "853ffc24-5e0d-303e-8511-c0ada143314c",
+      "title": "Lloyds Banking Group Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/853ffc24-5e0d-303e-8511-c0ada143314c/lloyds-banking-group-q2.html",
+      "publisher": "MarketBeat",
+      "time": 1785413031,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
       ]
     }
   ],
