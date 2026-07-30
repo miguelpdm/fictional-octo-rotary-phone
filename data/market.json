@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T20:40:11.744016+00:00",
+  "updatedAt": "2026-07-30T22:07:29.926732+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,20 +52,67 @@
   ],
   "news": [
     {
-      "id": "05d09813-036c-4539-8fe8-90ab4e8ef679",
-      "title": "Lightspeed CEO breaks down Q1 growth 'we're firing on cyclinder'",
-      "link": "https://finance.yahoo.com/video/lightspeed-ceo-breaks-down-q1-203400433.html",
+      "id": "beaea8f2-be9d-3772-9410-58c22d2d7451",
+      "title": "In bipartisan rebuke, Senate panel votes to shield special ed from RFK Jr.'s agency",
+      "link": "https://finance.yahoo.com/m/beaea8f2-be9d-3772-9410-58c22d2d7451/in-bipartisan-rebuke%2C-senate.html",
+      "publisher": "USA TODAY",
+      "time": 1785449055,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7fd520f6-322a-4551-a642-6e2cf9c627a7",
+      "title": "Amazon CEO: AWS could be a ‘trillion-dollar’ business",
+      "link": "https://finance.yahoo.com/video/amazon-ceo-aws-could-trillion-220140999.html",
       "publisher": "Yahoo Finance Video",
-      "time": 1785443640,
+      "time": 1785448900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "04eb411f-32e9-4791-aaa4-9690e07f6b72",
-      "title": "SEC chair defends proposal to allow companies to report earnings only twice a year",
-      "link": "https://finance.yahoo.com/markets/article/sec-chair-defends-proposal-to-allow-companies-to-report-earnings-only-twice-a-year-203339554.html",
-      "publisher": "Yahoo Finance",
-      "time": 1785443619,
+      "id": "73c63c06-410c-3499-b58e-fc98ace92700",
+      "title": "Human-caused climate change made Spanish, French fires much more likely, scientists calculate",
+      "link": "https://finance.yahoo.com/m/73c63c06-410c-3499-b58e-fc98ace92700/human-caused-climate-change.html",
+      "publisher": "Associated Press",
+      "time": 1785448831,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3bb18ddd-5185-3f27-a425-728d49f4148a",
+      "title": "Alliant Energy Announces Second Quarter 2026 Results",
+      "link": "https://finance.yahoo.com/energy/articles/alliant-energy-announces-second-quarter-220000090.html",
+      "publisher": "Business Wire",
+      "time": 1785448800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "49cb595f-5730-3cd9-b97d-467a89397021",
+      "title": "Analyst compares SpaceX, Palantir to Bitcoin",
+      "link": "https://finance.yahoo.com/m/49cb595f-5730-3cd9-b97d-467a89397021/analyst-compares-spacex%2C.html",
+      "publisher": "TheStreet",
+      "time": 1785448800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "410b5188-fada-3c74-b2e7-6fb6f4fcea6e",
+      "title": "Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",
+      "link": "https://finance.yahoo.com/m/410b5188-fada-3c74-b2e7-6fb6f4fcea6e/dow-jones-futures%3A-apple%2C.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1785448796,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "c1f51a3e-5ca6-370b-80f1-5e94ab37ddff",
+      "title": "Middlesex Water Company Q2 Earnings, Revenue Rise",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/middlesex-water-company-q2-earnings-215813263.html",
+      "publisher": "MT Newswires",
+      "time": 1785448693,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,80 +120,29 @@
       ]
     },
     {
-      "id": "00beb79f-91b6-36bf-85e5-a6e2142b811d",
-      "title": "SunCar Technology Group Announces Receipt of Nasdaq Notification Regarding Minimum Bid Price Compliance Deficiency",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/suncar-technology-group-announces-receipt-203000829.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785443400,
+      "id": "47268217-4cea-3864-994b-915128a41b98",
+      "title": "Tredegar Announces the Retirement of Frasier W. Brickhouse II, Chief Financial Officer, Treasurer and Vice President, Effective September 1, 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tredegar-announces-retirement-frasier-w-215800880.html",
+      "publisher": "Business Wire",
+      "time": 1785448680,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "03f8a783-1da0-3e82-9dd6-459d6fee50a9",
-      "title": "QUAKER HOUGHTON ANNOUNCES SECOND QUARTER 2026 RESULTS",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/quaker-houghton-announces-second-quarter-203000785.html",
-      "publisher": "PR Newswire",
-      "time": 1785443400,
+      "id": "7032325b-6038-3d3d-a493-f13b6427195a",
+      "title": "Morgan Stanley Nearly Doubled Its Price Target for CRISPR Therapeutics. Is the Gene-Editing Stock a No-Brainer Buy?",
+      "link": "https://finance.yahoo.com/m/7032325b-6038-3d3d-a493-f13b6427195a/morgan-stanley-nearly-doubled.html",
+      "publisher": "Motley Fool",
+      "time": 1785448680,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "099f5ace-750d-3969-86db-c5eb6ef71349",
-      "title": "Smallest.ai gets $21 Million in Funding to Build Voice 4.0, the Next Generation of Enterprise Voice AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/smallest-ai-gets-21-million-203000905.html",
-      "publisher": "PR Newswire",
-      "time": 1785443400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "19ae2600-4fda-34ac-9f22-3cd5a84e361d",
-      "title": "Lument Finance Trust Receives NYSE Continued Listing Standard Notice",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lument-finance-trust-receives-nyse-203000333.html",
-      "publisher": "PR Newswire",
-      "time": 1785443400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "26fc1060-3b49-3795-97a5-82696fb83bd1",
-      "title": "NORTH EUROPEAN OIL ROYALTY TRUST ANNOUNCES THE DISTRIBUTION FOR THE THIRD QUARTER OF FISCAL 2026",
-      "link": "https://finance.yahoo.com/energy/articles/north-european-oil-royalty-trust-203000257.html",
-      "publisher": "PR Newswire",
-      "time": 1785443400,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "2a0b5bcf-113c-3f38-80dd-8395429376d0",
-      "title": "QUAINT OAK BANCORP, INC. ANNOUNCES SECOND QUARTER EARNINGS",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/quaint-oak-bancorp-inc-announces-203000120.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785443400,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "31825e9b-0eee-3b34-a933-217de9a16d2d",
-      "title": "Bitzero Announces Closing of US$25 Million Private Placement",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bitzero-announces-closing-us-25-203000877.html",
-      "publisher": "TMX Newsfile",
-      "time": 1785443400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "31b36f8c-6f28-36ce-b482-e8dfcf477fb6",
-      "title": "INTEGRA FILES FEASIBILITY STUDY AND UPDATED LIFE OF MINE PLAN TECHNICAL REPORT FOR THE PRODUCING FLORIDA CANYON MINE",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/integra-files-feasibility-study-updated-203000222.html",
-      "publisher": "PR Newswire",
-      "time": 1785443400,
+      "id": "0e406bd4-58c7-3486-a4a9-42a0ae106f3d",
+      "title": "Acadia Pharmaceuticals to Participate in the Canaccord Genuity 46th Annual Growth Conference",
+      "link": "https://finance.yahoo.com/healthcare/articles/acadia-pharmaceuticals-participate-canaccord-genuity-215700421.html",
+      "publisher": "Business Wire",
+      "time": 1785448620,
       "impact": "low",
       "tags": []
     }
