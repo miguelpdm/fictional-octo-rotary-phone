@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T17:55:08.073974+00:00",
+  "updatedAt": "2026-07-30T19:15:53.489460+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7423.15,
-      "change": -5.630000000000109,
-      "changePct": -0.07578633369140167,
+      "price": 7443.41,
+      "change": 14.63000000000011,
+      "changePct": 0.19693677831353346,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25075.535,
-      "change": 198.625,
-      "changePct": 0.7984311556378987,
+      "price": 25148.672,
+      "change": 271.7619999999988,
+      "changePct": 1.0924266719620677,
       "currency": "USD"
     },
     {
@@ -44,28 +44,39 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.07,
-      "change": -2.59,
-      "changePct": -12.536302032913843,
+      "price": 17.65,
+      "change": -3.0100000000000016,
+      "changePct": -14.569215876089068,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "df440d6c-0036-3020-9b47-a2f31d436631",
-      "title": "Scale AI names Francis deSouza as new CEO",
-      "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-      "publisher": "Quartz",
-      "time": 1785433746,
+      "id": "61121f7d-a5a5-33a7-a928-bee73593f868",
+      "title": "Cathie Wood Invests $28.7 Million in Two High-Stakes Tech Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-invests-28-7-191401816.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785438841,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "07842c14-2970-3873-9acb-181094619414",
+      "title": "UPS intensifies effort to attract small businesses",
+      "link": "https://finance.yahoo.com/small-business/articles/ups-intensifies-effort-attract-small-191106492.html",
+      "publisher": "FreightWaves",
+      "time": 1785438666,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8896bca5-f5ac-365b-a791-23235349c822",
-      "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
+      "id": "03f91738-dcd4-33ff-9468-3e39ca53be6f",
+      "title": "IEX Q2 Deep Dive: Data Center and Semiconductor Demand Drive Momentum, Guidance Raised",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iex-q2-deep-dive-data-190902631.html",
       "publisher": "StockStory",
-      "time": 1785433742,
+      "time": 1785438542,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,85 +84,65 @@
       ]
     },
     {
-      "id": "9383f0d7-88cd-3d6c-8e13-220ef21601f4",
-      "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-      "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-      "publisher": "PR Newswire",
-      "time": 1785433560,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "54a0f094-5cce-34c7-bfdc-d513d9e56bc5",
-      "title": "The rent was already high. Then came the $200 work-from-home fee",
-      "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-      "publisher": "USA TODAY",
-      "time": 1785433555,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3ccbacf0-f2b5-3ce7-b33a-e04b1f345237",
-      "title": "Diné Development Corporation AI-Driven Legacy Modernization Solution Earns Awardable Designation in CDAO Tradewinds Solutions Marketplace",
-      "link": "https://finance.yahoo.com/technology/ai/articles/din-development-corporation-ai-driven-174500135.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1785433500,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "e9db4c65-e358-3e05-89b1-6f46b4805fd6",
-      "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-      "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-      "publisher": "Moneywise",
-      "time": 1785433500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "95cf3d75-7465-36c5-a047-9c47b1a1a202",
-      "title": "American Solar Energy Society's SOLAR 2026 Conference Prices Increase After Tomorrow",
-      "link": "https://finance.yahoo.com/energy/articles/american-solar-energy-societys-solar-174400602.html",
-      "publisher": "PR Newswire",
-      "time": 1785433440,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f12365d7-25e7-31f5-87aa-4d6577e0d4bb",
-      "title": "The federal government invests in electric vehicle infrastructure and education across Canada",
-      "link": "https://finance.yahoo.com/energy/articles/federal-government-invests-electric-vehicle-174400539.html",
-      "publisher": "CNW Group",
-      "time": 1785433440,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "c3b3508f-bc2e-3e34-9463-5dfcc5a45cbd",
-      "title": "Update: Market Chatter: TSMC Developing AI Chip-Packaging Technology Similar to Intel's",
-      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-tsmc-developing-ai-174352069.html",
-      "publisher": "MT Newswires",
-      "time": 1785433432,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "5f65a347-ea92-3e57-ab1c-140580ae8339",
-      "title": "ABC accuses FCC of retaliating over its news coverage",
-      "link": "https://finance.yahoo.com/m/5f65a347-ea92-3e57-ab1c-140580ae8339/abc-accuses-fcc-of.html",
+      "id": "73fac11b-3bfd-3acf-9fb6-b30ae9dbfd03",
+      "title": "State laws restricting AI in mental health care, explained",
+      "link": "https://finance.yahoo.com/m/73fac11b-3bfd-3acf-9fb6-b30ae9dbfd03/state-laws-restricting-ai-in.html",
       "publisher": "Quartz",
-      "time": 1785433411,
+      "time": 1785438522,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "08f71a31-d72f-32ed-8e5c-0ae3fad0275e",
+      "title": "What chatbot empathy studies actually measured",
+      "link": "https://finance.yahoo.com/m/08f71a31-d72f-32ed-8e5c-0ae3fad0275e/what-chatbot-empathy-studies.html",
+      "publisher": "Quartz",
+      "time": 1785438465,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6941ae5a-efad-3de0-9536-7ea21856c090",
+      "title": "Toyota (TSE:7203) Joins Cellcentric With Daimler Truck And Volvo Group",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/toyota-tse-7203-joins-cellcentric-190702208.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785438422,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "756a088d-b122-3668-a925-db164f08bed9",
+      "title": "AST SpaceMobile vs. Lockheed Martin: Which Stock Is a Better Buy in 2026?",
+      "link": "https://finance.yahoo.com/m/756a088d-b122-3668-a925-db164f08bed9/ast-spacemobile-vs.-lockheed.html",
+      "publisher": "Motley Fool",
+      "time": 1785438402,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ddc16b24-4a7e-350e-8fc1-1fcfa7222847",
+      "title": "US sugar demand up, corn syrup down, as consumers pick less processed foods, report says",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/us-sugar-demand-corn-syrup-190638855.html",
+      "publisher": "Reuters",
+      "time": 1785438398,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "be533f52-fa6e-32d7-80c0-8738b7876763",
+      "title": "FP Canada™ Recognizes Top Performers on the May 2026 CFP® Exam and QAFP® Exam",
+      "link": "https://finance.yahoo.com/small-business/articles/fp-canada-recognizes-top-performers-190600019.html",
+      "publisher": "CNW Group",
+      "time": 1785438360,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "123d2707-740c-39fc-abdc-17d0d712086f",
+      "title": "How chatbot amplification spirals deepen emotional dependence",
+      "link": "https://finance.yahoo.com/m/123d2707-740c-39fc-abdc-17d0d712086f/how-chatbot-amplification.html",
+      "publisher": "Quartz",
+      "time": 1785438313,
       "impact": "low",
       "tags": []
     }
