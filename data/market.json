@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T16:22:16.837888+00:00",
+  "updatedAt": "2026-07-30T17:55:08.073974+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7415.06,
-      "change": -13.719999999999345,
-      "changePct": -0.18468712224617428,
+      "price": 7423.15,
+      "change": -5.630000000000109,
+      "changePct": -0.07578633369140167,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25081.178,
-      "change": 204.26800000000003,
-      "changePct": 0.8211148410313017,
+      "price": 25075.535,
+      "change": 198.625,
+      "changePct": 0.7984311556378987,
       "currency": "USD"
     },
     {
@@ -44,88 +44,28 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.34,
-      "change": -2.3200000000000003,
-      "changePct": -11.229428848015491,
+      "price": 18.07,
+      "change": -2.59,
+      "changePct": -12.536302032913843,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "20690e5b-fd04-45fa-8079-587901481fcc",
-      "title": "US stocks, bitcoin gain since Fed held rates steady at July FOMC meeting",
-      "link": "https://finance.yahoo.com/video/us-stocks-bitcoin-gain-since-162000444.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1785428400,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "616a8abb-5ec9-389d-9e49-e5e79de6f09c",
-      "title": "Lilly Boosts Diabetes and Obesity Capacity With $750 Million Deal",
-      "link": "https://finance.yahoo.com/healthcare/articles/lilly-boosts-diabetes-obesity-capacity-161957060.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785428397,
+      "id": "df440d6c-0036-3020-9b47-a2f31d436631",
+      "title": "Scale AI names Francis deSouza as new CEO",
+      "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
+      "publisher": "Quartz",
+      "time": 1785433746,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "977bb6f4-a18b-37b1-b510-2db12477ae7c",
-      "title": "Yen surges, analysts suspect official Japanese intervention",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/yen-surges-against-dollar-analysts-142557924.html",
-      "publisher": "Reuters",
-      "time": 1785428302,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0fb1b670-ae09-3fd4-8212-c7c73cf0c6cf",
-      "title": "OpenAI's Sam Altman to discuss voluntary AI safety tests with Trump officials after agent went rogue",
-      "link": "https://finance.yahoo.com/m/0fb1b670-ae09-3fd4-8212-c7c73cf0c6cf/openai%27s-sam-altman-to.html",
-      "publisher": "Reuters",
-      "time": 1785428220,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "137e52f5-7000-3221-a604-8ec092223af2",
-      "title": "Oconee Federal Financial Corp. Announces Quarterly Dividend",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oconee-federal-financial-corp-announces-161600946.html",
-      "publisher": "Business Wire",
-      "time": 1785428160,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "053b6355-94b3-3b5c-bcbd-52dc8cf70b2b",
-      "title": "Wall St advances as Microsoft results ease AI spending fears",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-steady-microsoft-105820411.html",
-      "publisher": "Reuters",
-      "time": 1785428146,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e7098183-1485-3efd-a597-d0bb17589856",
-      "title": "Veolia Environnement: Availability of the Amendment to the 2025 Universal Registration Document and 2026 Half-Yearly Financial Report (French and English Version)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/veolia-environnement-availability-amendment-2025-161200918.html",
-      "publisher": "Business Wire",
-      "time": 1785427920,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "aa30b7c4-15f1-4d53-86e0-ac00b95d7e39",
-      "title": "Meta stock poised for a new losing streak: Earnings call takeaways",
-      "link": "https://finance.yahoo.com/video/meta-stock-poised-losing-streak-161106585.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1785427866,
+      "id": "8896bca5-f5ac-365b-a791-23235349c822",
+      "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
+      "publisher": "StockStory",
+      "time": 1785433742,
       "impact": "medium",
       "tags": [
         "macro",
@@ -133,20 +73,85 @@
       ]
     },
     {
-      "id": "4ed336c5-1b10-3111-8aeb-7c34edd813a1",
-      "title": "How CNH Precision Technology Is Helping Family Farms Turn Data Into Better Decisions",
-      "link": "https://finance.yahoo.com/technology/articles/cnh-precision-technology-helping-family-161000081.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1785427800,
+      "id": "9383f0d7-88cd-3d6c-8e13-220ef21601f4",
+      "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
+      "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
+      "publisher": "PR Newswire",
+      "time": 1785433560,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "54a0f094-5cce-34c7-bfdc-d513d9e56bc5",
+      "title": "The rent was already high. Then came the $200 work-from-home fee",
+      "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
+      "publisher": "USA TODAY",
+      "time": 1785433555,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "63fe727f-abc6-302d-aaff-2bc15ee1b024",
-      "title": "Wyyerd Fiber Launches 8 Gig Internet In Sahuarita",
-      "link": "https://finance.yahoo.com/technology/articles/wyyerd-fiber-launches-8-gig-161000348.html",
+      "id": "3ccbacf0-f2b5-3ce7-b33a-e04b1f345237",
+      "title": "Diné Development Corporation AI-Driven Legacy Modernization Solution Earns Awardable Designation in CDAO Tradewinds Solutions Marketplace",
+      "link": "https://finance.yahoo.com/technology/ai/articles/din-development-corporation-ai-driven-174500135.html",
       "publisher": "ACCESS Newswire",
-      "time": 1785427800,
+      "time": 1785433500,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "e9db4c65-e358-3e05-89b1-6f46b4805fd6",
+      "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
+      "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
+      "publisher": "Moneywise",
+      "time": 1785433500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "95cf3d75-7465-36c5-a047-9c47b1a1a202",
+      "title": "American Solar Energy Society's SOLAR 2026 Conference Prices Increase After Tomorrow",
+      "link": "https://finance.yahoo.com/energy/articles/american-solar-energy-societys-solar-174400602.html",
+      "publisher": "PR Newswire",
+      "time": 1785433440,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f12365d7-25e7-31f5-87aa-4d6577e0d4bb",
+      "title": "The federal government invests in electric vehicle infrastructure and education across Canada",
+      "link": "https://finance.yahoo.com/energy/articles/federal-government-invests-electric-vehicle-174400539.html",
+      "publisher": "CNW Group",
+      "time": 1785433440,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "c3b3508f-bc2e-3e34-9463-5dfcc5a45cbd",
+      "title": "Update: Market Chatter: TSMC Developing AI Chip-Packaging Technology Similar to Intel's",
+      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-tsmc-developing-ai-174352069.html",
+      "publisher": "MT Newswires",
+      "time": 1785433432,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "5f65a347-ea92-3e57-ab1c-140580ae8339",
+      "title": "ABC accuses FCC of retaliating over its news coverage",
+      "link": "https://finance.yahoo.com/m/5f65a347-ea92-3e57-ab1c-140580ae8339/abc-accuses-fcc-of.html",
+      "publisher": "Quartz",
+      "time": 1785433411,
       "impact": "low",
       "tags": []
     }
