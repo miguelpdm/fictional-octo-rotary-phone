@@ -1,150 +1,154 @@
 {
-  "updatedAt": "2026-07-30T14:40:29.350315+00:00",
+  "updatedAt": "2026-07-30T16:22:16.837888+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19734.2,
-      "change": 321.5,
-      "changePct": 1.6561323257455172,
+      "price": 19757.7,
+      "change": 345.0,
+      "changePct": 1.77718709916704,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7411.14,
-      "change": -17.639999999999418,
-      "changePct": -0.23745487145937044,
+      "price": 7415.06,
+      "change": -13.719999999999345,
+      "changePct": -0.18468712224617428,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25086.766,
-      "change": 209.85599999999977,
-      "changePct": 0.8435774378731111,
+      "price": 25081.178,
+      "change": 204.26800000000003,
+      "changePct": 0.8211148410313017,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25616.27,
-      "change": 152.26000000000204,
-      "changePct": 0.5979419580812372,
+      "price": 25612.03,
+      "change": 148.02000000000044,
+      "changePct": 0.5812910064047274,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6347.11,
-      "change": 98.26999999999953,
-      "changePct": 1.57261187676432,
+      "price": 6344.4,
+      "change": 95.55999999999949,
+      "changePct": 1.5292438276544045,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.42,
-      "change": -2.2399999999999984,
-      "changePct": -10.842207163601154,
+      "price": 18.34,
+      "change": -2.3200000000000003,
+      "changePct": -11.229428848015491,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "b969c8b2-b65a-3438-808c-0f9cb64449fe",
-      "title": "Kempinski implements Shiji’s Daylight PMS for Chinese operations",
-      "link": "https://finance.yahoo.com/m/b969c8b2-b65a-3438-808c-0f9cb64449fe/kempinski-implements-shiji%E2%80%99s.html",
-      "publisher": "Hotel Management Network",
-      "time": 1785422355,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "254f27f5-946f-3a3e-8d76-774f6a26685d",
-      "title": "The Senior Women in Private Equity (\"SWIPE\") Opens the Market",
-      "link": "https://finance.yahoo.com/small-business/articles/senior-women-private-equity-swipe-143500317.html",
-      "publisher": "TMX Newsfile",
-      "time": 1785422100,
-      "impact": "low",
+      "id": "20690e5b-fd04-45fa-8079-587901481fcc",
+      "title": "US stocks, bitcoin gain since Fed held rates steady at July FOMC meeting",
+      "link": "https://finance.yahoo.com/video/us-stocks-bitcoin-gain-since-162000444.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1785428400,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "67cf1169-e51d-3eff-91a2-9a894668ddd9",
-      "title": "Seafair Weekend Festival 2026: schedule, ticket prices and more",
-      "link": "https://finance.yahoo.com/m/67cf1169-e51d-3eff-91a2-9a894668ddd9/seafair-weekend-festival.html",
-      "publisher": "USA TODAY",
-      "time": 1785422033,
+      "id": "616a8abb-5ec9-389d-9e49-e5e79de6f09c",
+      "title": "Lilly Boosts Diabetes and Obesity Capacity With $750 Million Deal",
+      "link": "https://finance.yahoo.com/healthcare/articles/lilly-boosts-diabetes-obesity-capacity-161957060.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785428397,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ddbeafb7-1c01-3ff8-b87b-5703114c0b7d",
-      "title": "Raymond James Adjusts Price Target on Flex to $170 From $150, Maintains Outperform Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/raymond-james-adjusts-price-target-143348845.html",
-      "publisher": "MT Newswires",
-      "time": 1785422028,
+      "id": "977bb6f4-a18b-37b1-b510-2db12477ae7c",
+      "title": "Yen surges, analysts suspect official Japanese intervention",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/yen-surges-against-dollar-analysts-142557924.html",
+      "publisher": "Reuters",
+      "time": 1785428302,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cad38eaa-3767-3cfb-8aec-f84873352d2c",
-      "title": "Oppenheimer Adjusts Price Target on Orion Group to $15 From $20, Maintains Outperform Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-adjusts-price-target-orion-143233140.html",
-      "publisher": "MT Newswires",
-      "time": 1785421953,
+      "id": "0fb1b670-ae09-3fd4-8212-c7c73cf0c6cf",
+      "title": "OpenAI's Sam Altman to discuss voluntary AI safety tests with Trump officials after agent went rogue",
+      "link": "https://finance.yahoo.com/m/0fb1b670-ae09-3fd4-8212-c7c73cf0c6cf/openai%27s-sam-altman-to.html",
+      "publisher": "Reuters",
+      "time": 1785428220,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "31f166f5-01f5-3f28-8874-24d35bbce5ff",
-      "title": "Yum! Brands Q2 net income surges 128% to $853m",
-      "link": "https://finance.yahoo.com/m/31f166f5-01f5-3f28-8874-24d35bbce5ff/yum%21-brands-q2-net-income.html",
-      "publisher": "Verdict Food Service",
-      "time": 1785421932,
+      "id": "137e52f5-7000-3221-a604-8ec092223af2",
+      "title": "Oconee Federal Financial Corp. Announces Quarterly Dividend",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oconee-federal-financial-corp-announces-161600946.html",
+      "publisher": "Business Wire",
+      "time": 1785428160,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "053b6355-94b3-3b5c-bcbd-52dc8cf70b2b",
+      "title": "Wall St advances as Microsoft results ease AI spending fears",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-steady-microsoft-105820411.html",
+      "publisher": "Reuters",
+      "time": 1785428146,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7e6fc9f7-bd05-34cc-bf5b-ad6394b8a977",
-      "title": "KBW upgrades Core Scientific after AMD leases raise contracted value, eyes 35% rise",
-      "link": "https://finance.yahoo.com/m/7e6fc9f7-bd05-34cc-bf5b-ad6394b8a977/kbw-upgrades-core-scientific.html",
-      "publisher": "Blockspace",
-      "time": 1785421927,
+      "id": "e7098183-1485-3efd-a597-d0bb17589856",
+      "title": "Veolia Environnement: Availability of the Amendment to the 2025 Universal Registration Document and 2026 Half-Yearly Financial Report (French and English Version)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/veolia-environnement-availability-amendment-2025-161200918.html",
+      "publisher": "Business Wire",
+      "time": 1785427920,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "812cdee9-e811-38b6-83dd-e7baa3dfa378",
-      "title": "Vertiv Holdings (VRT) Sees Robust Growth Ahead as AI Infrastructure Spending Accelerates",
-      "link": "https://finance.yahoo.com/technology/ai/articles/vertiv-holdings-vrt-sees-robust-143200928.html",
-      "publisher": "Insider Monkey",
-      "time": 1785421920,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "416f12b4-80fc-3f7f-bec5-d94a90bfa69b",
-      "title": "Box Selected by Quintas Energy for AI-Driven Content Management Platform",
-      "link": "https://finance.yahoo.com/energy/articles/box-selected-quintas-energy-ai-143159963.html",
-      "publisher": "MT Newswires",
-      "time": 1785421919,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "31b85644-bb2d-3f20-a025-6848b2a38f19",
-      "title": "Robinhood Earnings Soar Above Views On Record Trading Volumes",
-      "link": "https://finance.yahoo.com/m/31b85644-bb2d-3f20-a025-6848b2a38f19/robinhood-earnings-soar-above.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1785421873,
+      "id": "aa30b7c4-15f1-4d53-86e0-ac00b95d7e39",
+      "title": "Meta stock poised for a new losing streak: Earnings call takeaways",
+      "link": "https://finance.yahoo.com/video/meta-stock-poised-losing-streak-161106585.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1785427866,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
+    },
+    {
+      "id": "4ed336c5-1b10-3111-8aeb-7c34edd813a1",
+      "title": "How CNH Precision Technology Is Helping Family Farms Turn Data Into Better Decisions",
+      "link": "https://finance.yahoo.com/technology/articles/cnh-precision-technology-helping-family-161000081.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1785427800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "63fe727f-abc6-302d-aaff-2bc15ee1b024",
+      "title": "Wyyerd Fiber Launches 8 Gig Internet In Sahuarita",
+      "link": "https://finance.yahoo.com/technology/articles/wyyerd-fiber-launches-8-gig-161000348.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1785427800,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
