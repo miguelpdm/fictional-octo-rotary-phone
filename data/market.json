@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T19:15:53.489460+00:00",
+  "updatedAt": "2026-07-30T20:40:11.744016+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7443.41,
-      "change": 14.63000000000011,
-      "changePct": 0.19693677831353346,
+      "price": 7437.63,
+      "change": 8.850000000000364,
+      "changePct": 0.11913127054510113,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25148.672,
-      "change": 271.7619999999988,
-      "changePct": 1.0924266719620677,
+      "price": 25122.178,
+      "change": 245.26800000000003,
+      "changePct": 0.9859263067639833,
       "currency": "USD"
     },
     {
@@ -44,39 +44,28 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.65,
-      "change": -3.0100000000000016,
-      "changePct": -14.569215876089068,
+      "price": 17.09,
+      "change": -3.5700000000000003,
+      "changePct": -17.27976766698935,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "61121f7d-a5a5-33a7-a928-bee73593f868",
-      "title": "Cathie Wood Invests $28.7 Million in Two High-Stakes Tech Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-invests-28-7-191401816.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785438841,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "07842c14-2970-3873-9acb-181094619414",
-      "title": "UPS intensifies effort to attract small businesses",
-      "link": "https://finance.yahoo.com/small-business/articles/ups-intensifies-effort-attract-small-191106492.html",
-      "publisher": "FreightWaves",
-      "time": 1785438666,
+      "id": "05d09813-036c-4539-8fe8-90ab4e8ef679",
+      "title": "Lightspeed CEO breaks down Q1 growth 'we're firing on cyclinder'",
+      "link": "https://finance.yahoo.com/video/lightspeed-ceo-breaks-down-q1-203400433.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1785443640,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "03f91738-dcd4-33ff-9468-3e39ca53be6f",
-      "title": "IEX Q2 Deep Dive: Data Center and Semiconductor Demand Drive Momentum, Guidance Raised",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/iex-q2-deep-dive-data-190902631.html",
-      "publisher": "StockStory",
-      "time": 1785438542,
+      "id": "04eb411f-32e9-4791-aaa4-9690e07f6b72",
+      "title": "SEC chair defends proposal to allow companies to report earnings only twice a year",
+      "link": "https://finance.yahoo.com/markets/article/sec-chair-defends-proposal-to-allow-companies-to-report-earnings-only-twice-a-year-203339554.html",
+      "publisher": "Yahoo Finance",
+      "time": 1785443619,
       "impact": "medium",
       "tags": [
         "macro",
@@ -84,65 +73,80 @@
       ]
     },
     {
-      "id": "73fac11b-3bfd-3acf-9fb6-b30ae9dbfd03",
-      "title": "State laws restricting AI in mental health care, explained",
-      "link": "https://finance.yahoo.com/m/73fac11b-3bfd-3acf-9fb6-b30ae9dbfd03/state-laws-restricting-ai-in.html",
-      "publisher": "Quartz",
-      "time": 1785438522,
+      "id": "00beb79f-91b6-36bf-85e5-a6e2142b811d",
+      "title": "SunCar Technology Group Announces Receipt of Nasdaq Notification Regarding Minimum Bid Price Compliance Deficiency",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/suncar-technology-group-announces-receipt-203000829.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785443400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "08f71a31-d72f-32ed-8e5c-0ae3fad0275e",
-      "title": "What chatbot empathy studies actually measured",
-      "link": "https://finance.yahoo.com/m/08f71a31-d72f-32ed-8e5c-0ae3fad0275e/what-chatbot-empathy-studies.html",
-      "publisher": "Quartz",
-      "time": 1785438465,
+      "id": "03f8a783-1da0-3e82-9dd6-459d6fee50a9",
+      "title": "QUAKER HOUGHTON ANNOUNCES SECOND QUARTER 2026 RESULTS",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/quaker-houghton-announces-second-quarter-203000785.html",
+      "publisher": "PR Newswire",
+      "time": 1785443400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6941ae5a-efad-3de0-9536-7ea21856c090",
-      "title": "Toyota (TSE:7203) Joins Cellcentric With Daimler Truck And Volvo Group",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/toyota-tse-7203-joins-cellcentric-190702208.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785438422,
+      "id": "099f5ace-750d-3969-86db-c5eb6ef71349",
+      "title": "Smallest.ai gets $21 Million in Funding to Build Voice 4.0, the Next Generation of Enterprise Voice AI",
+      "link": "https://finance.yahoo.com/technology/ai/articles/smallest-ai-gets-21-million-203000905.html",
+      "publisher": "PR Newswire",
+      "time": 1785443400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "756a088d-b122-3668-a925-db164f08bed9",
-      "title": "AST SpaceMobile vs. Lockheed Martin: Which Stock Is a Better Buy in 2026?",
-      "link": "https://finance.yahoo.com/m/756a088d-b122-3668-a925-db164f08bed9/ast-spacemobile-vs.-lockheed.html",
-      "publisher": "Motley Fool",
-      "time": 1785438402,
+      "id": "19ae2600-4fda-34ac-9f22-3cd5a84e361d",
+      "title": "Lument Finance Trust Receives NYSE Continued Listing Standard Notice",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lument-finance-trust-receives-nyse-203000333.html",
+      "publisher": "PR Newswire",
+      "time": 1785443400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ddc16b24-4a7e-350e-8fc1-1fcfa7222847",
-      "title": "US sugar demand up, corn syrup down, as consumers pick less processed foods, report says",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/us-sugar-demand-corn-syrup-190638855.html",
-      "publisher": "Reuters",
-      "time": 1785438398,
+      "id": "26fc1060-3b49-3795-97a5-82696fb83bd1",
+      "title": "NORTH EUROPEAN OIL ROYALTY TRUST ANNOUNCES THE DISTRIBUTION FOR THE THIRD QUARTER OF FISCAL 2026",
+      "link": "https://finance.yahoo.com/energy/articles/north-european-oil-royalty-trust-203000257.html",
+      "publisher": "PR Newswire",
+      "time": 1785443400,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "2a0b5bcf-113c-3f38-80dd-8395429376d0",
+      "title": "QUAINT OAK BANCORP, INC. ANNOUNCES SECOND QUARTER EARNINGS",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/quaint-oak-bancorp-inc-announces-203000120.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785443400,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "31825e9b-0eee-3b34-a933-217de9a16d2d",
+      "title": "Bitzero Announces Closing of US$25 Million Private Placement",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bitzero-announces-closing-us-25-203000877.html",
+      "publisher": "TMX Newsfile",
+      "time": 1785443400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "be533f52-fa6e-32d7-80c0-8738b7876763",
-      "title": "FP Canada™ Recognizes Top Performers on the May 2026 CFP® Exam and QAFP® Exam",
-      "link": "https://finance.yahoo.com/small-business/articles/fp-canada-recognizes-top-performers-190600019.html",
-      "publisher": "CNW Group",
-      "time": 1785438360,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "123d2707-740c-39fc-abdc-17d0d712086f",
-      "title": "How chatbot amplification spirals deepen emotional dependence",
-      "link": "https://finance.yahoo.com/m/123d2707-740c-39fc-abdc-17d0d712086f/how-chatbot-amplification.html",
-      "publisher": "Quartz",
-      "time": 1785438313,
+      "id": "31b36f8c-6f28-36ce-b482-e8dfcf477fb6",
+      "title": "INTEGRA FILES FEASIBILITY STUDY AND UPDATED LIFE OF MINE PLAN TECHNICAL REPORT FOR THE PRODUCING FLORIDA CANYON MINE",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/integra-files-feasibility-study-updated-203000222.html",
+      "publisher": "PR Newswire",
+      "time": 1785443400,
       "impact": "low",
       "tags": []
     }
