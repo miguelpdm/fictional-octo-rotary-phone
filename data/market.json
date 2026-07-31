@@ -1,120 +1,100 @@
 {
-  "updatedAt": "2026-07-31T15:36:07.645636+00:00",
+  "updatedAt": "2026-07-31T17:23:13.031051+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19810.4,
-      "change": 52.70000000000073,
-      "changePct": 0.26673145153535444,
+      "price": 19782.9,
+      "change": 25.200000000000728,
+      "changePct": 0.12754521022184123,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7433.41,
-      "change": 117.26000000000022,
-      "changePct": 1.602755547658266,
+      "price": 7477.9,
+      "change": 161.75,
+      "changePct": 2.210862270456456,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25102.299,
-      "change": 659.3590000000004,
-      "changePct": 2.697543748828907,
+      "price": 25307.768,
+      "change": 864.8280000000013,
+      "changePct": 3.5381504843525424,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25673.95,
-      "change": 213.47000000000116,
-      "changePct": 0.8384366673369911,
+      "price": 25629.24,
+      "change": 168.76000000000204,
+      "changePct": 0.6628311799306299,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6367.37,
-      "change": 22.970000000000255,
-      "changePct": 0.36205157304079594,
+      "price": 6358.01,
+      "change": 13.610000000000582,
+      "changePct": 0.21451989155791854,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.56,
-      "change": 0.46999999999999886,
-      "changePct": 2.750146284376822,
+      "price": 16.85,
+      "change": -0.23999999999999844,
+      "changePct": -1.4043300175541162,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "d7878b7b-8399-4be2-87ea-fcd397d127e7",
-      "title": "Reddit stock tumbles the most on record as lack of new AI deals, US daily users metric disappoints",
-      "link": "https://finance.yahoo.com/markets/article/reddit-stock-tumbles-the-most-on-record-as-lack-of-new-ai-deals-us-daily-users-metric-disappoints-153413759.html",
-      "publisher": "Yahoo Finance",
-      "time": 1785512053,
+      "id": "7a6f989d-fd15-3cfe-abaf-eb753d41c6f8",
+      "title": "Hungary to shut nuclear plant as heatwave hits central Europe",
+      "link": "https://finance.yahoo.com/m/7a6f989d-fd15-3cfe-abaf-eb753d41c6f8/hungary-to-shut-nuclear-plant.html",
+      "publisher": "AFP",
+      "time": 1785518386,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9c53580f-1baa-319e-81ae-87219b587014",
-      "title": "Reddit to Overcome Search Pressure as Ads, AI Licensing Support Growth, Wedbush Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-overcome-search-pressure-ads-153157892.html",
+      "id": "e7d57ca4-51c4-35e1-82db-e97bd1524534",
+      "title": "Sector Update: Financial",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-171933484.html",
       "publisher": "MT Newswires",
-      "time": 1785511917,
+      "time": 1785518373,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "55510c1f-9b36-38fc-9e42-f61c6f1be0ce",
-      "title": "Update: Market Chatter: China's Moonshot Has Computing Power Deal With Alibaba for 20,000 Nvidia Chips",
-      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-china-apos-moonshot-153051102.html",
+      "id": "a6c1d69b-569a-3789-bd48-a77e49df88b5",
+      "title": "Exchange-Traded Funds Mixed, US Equities Higher After Midday",
+      "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-mixed-us-171904557.html",
       "publisher": "MT Newswires",
-      "time": 1785511851,
+      "time": 1785518344,
       "impact": "medium",
       "tags": [
         "geo"
       ]
     },
     {
-      "id": "378239b5-3dec-4ecc-9a80-e64a995ceee8",
-      "title": "Why Starbucks CEO says the pumpkin spice latte won't be on the menu year-round",
-      "link": "https://finance.yahoo.com/markets/article/why-starbucks-ceo-says-the-pumpkin-spice-latte-wont-be-on-the-menu-year-round-153050808.html",
-      "publisher": "Yahoo Finance",
-      "time": 1785511850,
+      "id": "d880e083-d27a-3f91-8c96-3ca3b528fe14",
+      "title": "ERI’s John Shegerian Calls for Ban of Shipping E-Waste Overseas in Newsweek Opinion Piece",
+      "link": "https://finance.yahoo.com/technology/articles/eri-john-shegerian-calls-ban-171600532.html",
+      "publisher": "Business Wire",
+      "time": 1785518160,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "20c35ff1-6adf-3c2a-9e2b-513c45a22705",
-      "title": "GoDaddy Faces Shift in Web Builder Offering to 'Vibe Coding,' Wedbush Says",
-      "link": "https://finance.yahoo.com/technology/ai/articles/godaddy-faces-shift-builder-offering-153030901.html",
-      "publisher": "MT Newswires",
-      "time": 1785511830,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "99f878c6-6984-3838-bd89-2719e860d470",
-      "title": "Market Chatter: DoorDash Asked by US Lawmakers for Additional Info on Chinese AI Model Use",
-      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-doordash-asked-us-153028360.html",
-      "publisher": "MT Newswires",
-      "time": 1785511828,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "0e28f4af-3cde-4ab1-84e4-110b48154439",
-      "title": "Listen to Tim Cook's first and last earnings calls as Apple CEO",
-      "link": "https://finance.yahoo.com/video/listen-tim-cooks-first-last-153002417.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1785511802,
+      "id": "796b5806-caa2-3ecb-a996-ed07a7a33a8d",
+      "title": "5 Must-Read Analyst Questions From American Express’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-171557413.html",
+      "publisher": "StockStory",
+      "time": 1785518157,
       "impact": "medium",
       "tags": [
         "macro",
@@ -122,37 +102,51 @@
       ]
     },
     {
-      "id": "dbb87561-5eee-3a5c-aacb-0b647b4b6307",
-      "title": "In HelloNation, Prescription Savings Expert Carl Stecker Outlines How to Lower Prescription Costs Without Insurance",
-      "link": "https://finance.yahoo.com/healthcare/articles/hellonation-prescription-savings-expert-carl-153000007.html",
-      "publisher": "PR Newswire",
-      "time": 1785511800,
+      "id": "b48a9de6-23bc-34ec-9dda-9693471743e0",
+      "title": "Weight Loss Drug Stocks Slump. What Ozempic Maker Novo Nordisk Said.",
+      "link": "https://finance.yahoo.com/m/b48a9de6-23bc-34ec-9dda-9693471743e0/weight-loss-drug-stocks.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1785518074,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "0e95f665-87e8-3e9a-b141-3596c03de319",
+      "title": "U.S. Treasury attacks Iran's Hormuz 'extortion' network",
+      "link": "https://finance.yahoo.com/m/0e95f665-87e8-3e9a-b141-3596c03de319/u.s.-treasury-attacks-iran%27s.html",
+      "publisher": "TheStreet",
+      "time": 1785518055,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "37cddecf-75da-352b-adca-2a1256ab7d46",
-      "title": "Fed chief Warsh faces hard choice on inflation after bond market's 'red flag'",
-      "link": "https://finance.yahoo.com/economy/policy/articles/fed-chief-warsh-faces-hard-100259422.html",
-      "publisher": "Reuters",
-      "time": 1785511794,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
+      "id": "fdc22986-7e1f-3111-bac5-d1fff6ebde84",
+      "title": "Google launches new satellite image AI tool, alarming researchers",
+      "link": "https://finance.yahoo.com/m/fdc22986-7e1f-3111-bac5-d1fff6ebde84/google-launches-new-satellite.html",
+      "publisher": "AFP",
+      "time": 1785518048,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "970b3803-bef0-327d-8037-b980dcb8308d",
-      "title": "Trump and far-right seize on Spanish migration crisis",
-      "link": "https://finance.yahoo.com/m/970b3803-bef0-327d-8037-b980dcb8308d/trump-and-far-right-seize-on.html",
-      "publisher": "AFP",
-      "time": 1785511705,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
+      "id": "8949b358-295e-316a-a326-d8aa63e8fc05",
+      "title": "TransDigm (TDG) Adds Another Bolt-On: What the $1.07 Billion Prince & Izant Deal Says About Its Playbook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/transdigm-tdg-adds-another-bolt-171404277.html",
+      "publisher": "Insider Monkey",
+      "time": 1785518044,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "aa950966-7478-3a1c-a7a4-66ba15aa6dce",
+      "title": "Meta Faces India Legal Scrutiny",
+      "link": "https://finance.yahoo.com/technology/articles/meta-faces-india-legal-scrutiny-171355742.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785518035,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
