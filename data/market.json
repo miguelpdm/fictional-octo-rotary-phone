@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T02:09:52.650237+00:00",
+  "updatedAt": "2026-07-31T05:49:08.485119+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,29 @@
   ],
   "news": [
     {
-      "id": "f68ab10e-0ee8-304d-8590-3fb3944d2953",
-      "title": "Cathie Wood buys $14.3 million of tumbling semiconductor stock",
-      "link": "https://finance.yahoo.com/m/f68ab10e-0ee8-304d-8590-3fb3944d2953/cathie-wood-buys-%2414.3.html",
-      "publisher": "TheStreet",
-      "time": 1785463620,
+      "id": "f223c080-56d5-329f-96b9-d93cc6e5523e",
+      "title": "Apple shares fall despite record revenue as outlook disappoints",
+      "link": "https://finance.yahoo.com/m/f223c080-56d5-329f-96b9-d93cc6e5523e/apple-shares-fall-despite.html",
+      "publisher": "Euronews",
+      "time": 1785476411,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "38890b23-bfd7-3e23-8dd2-c073e81f0f27",
+      "title": "Volume Nine Redefines AI Search Optimization with Launch of GEO Grader Tool",
+      "link": "https://finance.yahoo.com/technology/ai/articles/volume-nine-redefines-ai-search-054000967.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1785476400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8ced91d5-aa0c-37eb-b405-196cab81cd9a",
+      "title": "New Analysis of 8,500+ Dental Practices Identifies New Patient Acquisition as the Strongest Driver of Practice Growth",
+      "link": "https://finance.yahoo.com/healthcare/articles/analysis-8-500-dental-practices-054000794.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1785476400,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,97 +82,70 @@
       ]
     },
     {
-      "id": "410b5188-fada-3c74-b2e7-6fb6f4fcea6e",
-      "title": "Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",
-      "link": "https://finance.yahoo.com/m/410b5188-fada-3c74-b2e7-6fb6f4fcea6e/dow-jones-futures%3A-apple%2C.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1785463589,
+      "id": "8f87e51d-d26c-3459-b164-3a1f6c7330ba",
+      "title": "S99 PR Expands Premium Media Services Across Visa Press, Executive PR, and AI Discoverability",
+      "link": "https://finance.yahoo.com/media-advertising/articles/s99-pr-expands-premium-media-053700418.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785476220,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "6ffb5e3d-bd4e-3518-86f4-5b7491c1962d",
-      "title": "Elon Musk Mulls Selling Tesla's China Unit To Smooth SpaceX Merger: WSJ",
-      "link": "https://finance.yahoo.com/m/6ffb5e3d-bd4e-3518-86f4-5b7491c1962d/elon-musk-mulls-selling.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1785463264,
+      "id": "c4cabfe5-2f77-3824-b4d1-8ac371f4e96e",
+      "title": "Sniffer dogs search mall wrecked after Japan quake",
+      "link": "https://finance.yahoo.com/m/c4cabfe5-2f77-3824-b4d1-8ac371f4e96e/sniffer-dogs-search-mall.html",
+      "publisher": "AFP",
+      "time": 1785475949,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "009cd2bd-c5c2-305a-901a-ea8feaf88ff3",
+      "title": "Wall Street splits on Big Tech's AI bills",
+      "link": "https://finance.yahoo.com/video/wall-street-splits-big-techs-053017939.html",
+      "publisher": "Reuters Videos",
+      "time": 1785475817,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1b0268c4-be25-3af8-b1f9-8d6523bc6163",
+      "title": "SES: Disclosure of Share Buyback Transactions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ses-disclosure-share-buyback-transactions-053000139.html",
+      "publisher": "Business Wire",
+      "time": 1785475800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "77369352-3dae-3010-b55f-4613f72dba0c",
+      "title": "Umicore: Half-Year Results 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/umicore-half-results-2026-053000716.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785475800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8069ac54-84c6-373f-ac6a-9795a6c4f204",
+      "title": "Half-Year Report on SES’s Liquidity Contract",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/half-report-ses-liquidity-contract-053000788.html",
+      "publisher": "Business Wire",
+      "time": 1785475800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "85946052-dd78-39b5-a12a-fd5b00af1687",
+      "title": "Brunel 2Q and 1H26 results: Continued recovery in DACH and improved profitability across the Global business",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/brunel-2q-1h26-results-continued-053000647.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785475800,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
-    },
-    {
-      "id": "860e4a9c-7d0f-31d1-bbc2-498f9fbf49d2",
-      "title": "Casablanca Unveils CASA-V 7A Uplift Dry & Glow Series, a Next-Generation Quick-Dry Bedding Collection",
-      "link": "https://finance.yahoo.com/small-business/articles/casablanca-unveils-casa-v-7a-020000506.html",
-      "publisher": "PR Newswire",
-      "time": 1785463200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a7f1cc38-ba8c-3fc7-885a-35cdc4fee56b",
-      "title": "Ondo Finance CEO explains what happens when Fidelity and Schwab enter tokenization",
-      "link": "https://finance.yahoo.com/m/a7f1cc38-ba8c-3fc7-885a-35cdc4fee56b/ondo-finance-ceo-explains.html",
-      "publisher": "TheStreet",
-      "time": 1785463080,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "abd1a5cc-a1b2-3639-a010-73349d961cd9",
-      "title": "Yen weakens after intervention-led surge ahead of BOJ policy decision",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/yen-weakens-intervention-led-surge-002908369.html",
-      "publisher": "Reuters",
-      "time": 1785462632,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "08bda9fa-34dc-34af-8545-be5a4bc090a0",
-      "title": "Alliant Energy Reaffirms 2026 Outlook as Data Center Growth Supports Demand",
-      "link": "https://finance.yahoo.com/energy/articles/alliant-energy-reaffirms-2026-outlook-015021048.html",
-      "publisher": "Oilprice.com",
-      "time": 1785462621,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "97a1a07a-5ae9-37ba-9404-151335137edf",
-      "title": "Iran Tensions Illustrate Defense Supply Shortages That Will Benefit These 3 Stocks",
-      "link": "https://finance.yahoo.com/m/97a1a07a-5ae9-37ba-9404-151335137edf/iran-tensions-illustrate.html",
-      "publisher": "Motley Fool",
-      "time": 1785462600,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "4bcf8595-a477-3c39-b8f3-13cf9196f75f",
-      "title": "Why Coursera (COUR) Stock Is Down Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-coursera-cour-stock-down-014902959.html",
-      "publisher": "StockStory",
-      "time": 1785462542,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "8c5215f3-341a-3ccd-a6b0-2879c85d5641",
-      "title": "Sell Your Winners, Pay 0% Tax, and Buy Them Right Back the Same Day. It’s the Reset the Wash-Sale Rule Can’t Touch",
-      "link": "https://finance.yahoo.com/m/8c5215f3-341a-3ccd-a6b0-2879c85d5641/sell-your-winners%2C-pay-0%25.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1785462534,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
