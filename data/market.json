@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-31T11:25:14.209155+00:00",
+  "updatedAt": "2026-07-31T13:12:53.284808+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19897.1,
-      "change": 139.39999999999782,
-      "changePct": 0.7055477105128523,
+      "price": 19833.0,
+      "change": 75.29999999999927,
+      "changePct": 0.3811172353057252,
       "currency": "EUR"
     },
     {
@@ -28,118 +28,130 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25771.59,
-      "change": 311.1100000000006,
-      "changePct": 1.2219329721984842,
+      "price": 25644.28,
+      "change": 183.79999999999927,
+      "changePct": 0.7219031220149787,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6403.55,
-      "change": 59.150000000000546,
-      "changePct": 0.932318264926558,
+      "price": 6375.35,
+      "change": 30.950000000000728,
+      "changePct": 0.4878317886640301,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.75,
-      "change": -0.33999999999999986,
-      "changePct": -1.989467524868343,
+      "price": 17.24,
+      "change": 0.14999999999999858,
+      "changePct": 0.8777062609713199,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "810c760b-eb28-3b81-ac43-bb2281cdcfb9",
-      "title": "H&R Real Estate Investment Trust's Dividend Analysis",
-      "link": "https://finance.yahoo.com/real-estate/articles/h-r-real-estate-investment-112305809.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785496985,
+      "id": "4247a575-d537-3d52-a186-b9587b614ec1",
+      "title": "1 of Wall Street’s Favorite Stocks for Long-Term Investors and 2 We Find Risky",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stocks-130749289.html",
+      "publisher": "StockStory",
+      "time": 1785503269,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "5c0e0584-f44c-4864-bc96-0db4f442ec09",
+      "title": "Bitcoin and ethereum prices today, Friday, July 31, 2026: Crypto prices back off this morning",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-31-2026-crypto-prices-back-off-this-morning-130657761.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1785503217,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "966309d9-5dc9-39c1-a7ed-467b62cde53d",
-      "title": "Northwest Natural Holding Co's Dividend Analysis",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/northwest-natural-holding-cos-dividend-112239349.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785496959,
+      "id": "56ffa4a9-5f06-30a8-996a-b1bb428097e0",
+      "title": "RBC Global Asset Management Inc. announces July 2026 cash distributions for ETF Series of RBC Funds",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-global-asset-management-inc-130500888.html",
+      "publisher": "CNW Group",
+      "time": 1785503100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1661f3e5-51ce-328f-ae7e-895936a335d1",
-      "title": "Boardwalk Real Estate Investment Trust's Dividend Analysis",
-      "link": "https://finance.yahoo.com/real-estate/articles/boardwalk-real-estate-investment-trusts-112206481.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785496926,
+      "id": "75e74a9b-53b1-4ac1-b8cb-a0e4d890290a",
+      "title": "Apple stock falls on weak revenue forecast as CEO Tim Cook flags 'increasing impact' from memory shortage",
+      "link": "https://finance.yahoo.com/technology/article/apple-stock-falls-on-weak-revenue-forecast-as-ceo-tim-cook-flags-increasing-impact-from-memory-shortage-130428410.html",
+      "publisher": "Yahoo Finance",
+      "time": 1785503068,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "6b9dc5da-f29e-3e79-8df8-2bc7b6d970fa",
+      "title": "PepsiCo Has Gone Practically Nowhere for a Year. Here's Why That Could Change in the Second Half of 2026.",
+      "link": "https://finance.yahoo.com/m/6b9dc5da-f29e-3e79-8df8-2bc7b6d970fa/pepsico-has-gone-practically.html",
+      "publisher": "Motley Fool",
+      "time": 1785502980,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "94117ad9-8527-3ddb-a481-8c3cdc4c0d47",
-      "title": "Crombie Real Estate Investment Trust's Dividend Analysis",
-      "link": "https://finance.yahoo.com/real-estate/articles/crombie-real-estate-investment-trusts-112136599.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785496896,
+      "id": "5f5e74b7-7a4a-3863-a462-3baed5998744",
+      "title": "Ghosts of the 1970s: Why three Fed hawks voted to spike rates",
+      "link": "https://finance.yahoo.com/economy/policy/articles/ghosts-1970s-why-three-fed-130255628.html",
+      "publisher": "Investing.com",
+      "time": 1785502975,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "9a9c4993-de0c-3967-b5e7-271ea55a0ded",
+      "title": "Franklin Resources (NYSE:BEN) Exceeds Q2 CY2026 Expectations",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/franklin-resources-nyse-ben-exceeds-130229445.html",
+      "publisher": "StockStory",
+      "time": 1785502949,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "d2c4699e-ce84-3298-830c-1db57d56f0e3",
+      "title": "Alpharetta Concrete Leveling Contractor Advance Concrete Lifting and Leveling Surpasses 150 Five-Star Customer Reviews",
+      "link": "https://finance.yahoo.com/small-business/articles/alpharetta-concrete-leveling-contractor-advance-130200075.html",
+      "publisher": "PR Newswire",
+      "time": 1785502920,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e5141dd5-2359-376a-92a3-545c09918094",
-      "title": "Extendicare Inc's Dividend Analysis",
-      "link": "https://finance.yahoo.com/healthcare/articles/extendicare-incs-dividend-analysis-112107636.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785496867,
+      "id": "65be32cf-be14-3426-a063-1338cb9fe775",
+      "title": "Sector Update: Financial",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-130133877.html",
+      "publisher": "MT Newswires",
+      "time": 1785502893,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "da0ee851-56fe-3bc5-a3c0-9b5f55582806",
-      "title": "FIC acquires US battery and solar platform operator Perfect Power",
-      "link": "https://finance.yahoo.com/m/da0ee851-56fe-3bc5-a3c0-9b5f55582806/fic-acquires-us-battery-and.html",
-      "publisher": "Power Technology",
-      "time": 1785496852,
+      "id": "cfb1b94c-3e63-309a-ba0b-22cd1edd2434",
+      "title": "T. Rowe Price (NASDAQ:TROW) Misses Q2 CY2026 Revenue Estimates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-nasdaq-trow-130133468.html",
+      "publisher": "StockStory",
+      "time": 1785502893,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c0f4a2e9-52dc-3a64-a3ae-4a5cfc768480",
-      "title": "Bird Construction Inc's Dividend Analysis",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bird-construction-incs-dividend-analysis-112040144.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785496840,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "19b88c02-bf66-305b-8134-5f2017c462d6",
-      "title": "Four Corners Property Trust Inc's Dividend Analysis",
-      "link": "https://finance.yahoo.com/real-estate/articles/four-corners-property-trust-incs-112009462.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785496809,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "756d11ca-e9e2-3096-bad9-3d7848ea6063",
-      "title": "Dream Industrial Real Estate Investment Trust's Dividend Analysis",
-      "link": "https://finance.yahoo.com/real-estate/articles/dream-industrial-real-estate-investment-111941587.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785496781,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "496f2229-cad7-38d2-a6c4-b76b90b1a820",
-      "title": "Vintae CEO on bid to revitalise Spanish wine peer Bodegas Riojanas",
-      "link": "https://finance.yahoo.com/m/496f2229-cad7-38d2-a6c4-b76b90b1a820/vintae-ceo-on-bid-to.html",
-      "publisher": "Just Drinks",
-      "time": 1785496775,
-      "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
