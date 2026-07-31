@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T17:23:13.031051+00:00",
+  "updatedAt": "2026-07-31T18:51:17.462302+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7477.9,
-      "change": 161.75,
-      "changePct": 2.210862270456456,
+      "price": 7487.68,
+      "change": 171.53000000000065,
+      "changePct": 2.344539136021004,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25307.768,
-      "change": 864.8280000000013,
-      "changePct": 3.5381504843525424,
+      "price": 25350.49,
+      "change": 907.5500000000029,
+      "changePct": 3.712933059607408,
       "currency": "USD"
     },
     {
@@ -44,107 +44,104 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.85,
-      "change": -0.23999999999999844,
-      "changePct": -1.4043300175541162,
+      "price": 16.6,
+      "change": -0.48999999999999844,
+      "changePct": -2.867173785839663,
       "currency": "USD"
     }
   ],
   "news": [
     {
+      "id": "78d3dc9b-50ba-396e-9438-25eba6bd0d6e",
+      "title": "Rise of the machines? The fallout from Anthropic and OpenAI hacks",
+      "link": "https://finance.yahoo.com/m/78d3dc9b-50ba-396e-9438-25eba6bd0d6e/rise-of-the-machines%3F-the.html",
+      "publisher": "USA TODAY",
+      "time": 1785523412,
+      "impact": "low",
+      "tags": []
+    },
+    {
       "id": "7a6f989d-fd15-3cfe-abaf-eb753d41c6f8",
       "title": "Hungary to shut nuclear plant as heatwave hits central Europe",
       "link": "https://finance.yahoo.com/m/7a6f989d-fd15-3cfe-abaf-eb753d41c6f8/hungary-to-shut-nuclear-plant.html",
       "publisher": "AFP",
-      "time": 1785518386,
+      "time": 1785523346,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e7d57ca4-51c4-35e1-82db-e97bd1524534",
-      "title": "Sector Update: Financial",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-171933484.html",
-      "publisher": "MT Newswires",
-      "time": 1785518373,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a6c1d69b-569a-3789-bd48-a77e49df88b5",
-      "title": "Exchange-Traded Funds Mixed, US Equities Higher After Midday",
-      "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-mixed-us-171904557.html",
-      "publisher": "MT Newswires",
-      "time": 1785518344,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "d880e083-d27a-3f91-8c96-3ca3b528fe14",
-      "title": "ERI’s John Shegerian Calls for Ban of Shipping E-Waste Overseas in Newsweek Opinion Piece",
-      "link": "https://finance.yahoo.com/technology/articles/eri-john-shegerian-calls-ban-171600532.html",
-      "publisher": "Business Wire",
-      "time": 1785518160,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "796b5806-caa2-3ecb-a996-ed07a7a33a8d",
-      "title": "5 Must-Read Analyst Questions From American Express’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-171557413.html",
-      "publisher": "StockStory",
-      "time": 1785518157,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "b48a9de6-23bc-34ec-9dda-9693471743e0",
-      "title": "Weight Loss Drug Stocks Slump. What Ozempic Maker Novo Nordisk Said.",
-      "link": "https://finance.yahoo.com/m/b48a9de6-23bc-34ec-9dda-9693471743e0/weight-loss-drug-stocks.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1785518074,
+      "id": "cabadb8e-d993-48a8-90db-0f994929a73d",
+      "title": "Did Apple just signal a bottom in momentum-driven memory chip stocks?",
+      "link": "https://finance.yahoo.com/markets/article/did-apple-just-signal-a-bottom-in-momentum-driven-memory-chip-stocks-184019981.html",
+      "publisher": "Yahoo Finance",
+      "time": 1785523219,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "0e95f665-87e8-3e9a-b141-3596c03de319",
-      "title": "U.S. Treasury attacks Iran's Hormuz 'extortion' network",
-      "link": "https://finance.yahoo.com/m/0e95f665-87e8-3e9a-b141-3596c03de319/u.s.-treasury-attacks-iran%27s.html",
-      "publisher": "TheStreet",
-      "time": 1785518055,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fdc22986-7e1f-3111-bac5-d1fff6ebde84",
-      "title": "Google launches new satellite image AI tool, alarming researchers",
-      "link": "https://finance.yahoo.com/m/fdc22986-7e1f-3111-bac5-d1fff6ebde84/google-launches-new-satellite.html",
+      "id": "60b4a9fd-87ed-3e7b-ac55-bd2d045156e2",
+      "title": "Chelsea's Mudryk cleared to play after doping ban appeal",
+      "link": "https://finance.yahoo.com/m/60b4a9fd-87ed-3e7b-ac55-bd2d045156e2/chelsea%27s-mudryk-cleared-to.html",
       "publisher": "AFP",
-      "time": 1785518048,
+      "time": 1785523218,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8949b358-295e-316a-a326-d8aa63e8fc05",
-      "title": "TransDigm (TDG) Adds Another Bolt-On: What the $1.07 Billion Prince & Izant Deal Says About Its Playbook",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/transdigm-tdg-adds-another-bolt-171404277.html",
-      "publisher": "Insider Monkey",
-      "time": 1785518044,
+      "id": "3e1882a4-f7c0-3e13-9d66-01f306dd4d58",
+      "title": "SK Hynix Stock Surged 30% in South Korea. It’s Dropping in the U.S.",
+      "link": "https://finance.yahoo.com/m/3e1882a4-f7c0-3e13-9d66-01f306dd4d58/sk-hynix-stock-surged-30%25-in.html",
+      "publisher": "Barrons.com",
+      "time": 1785523200,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "aa950966-7478-3a1c-a7a4-66ba15aa6dce",
-      "title": "Meta Faces India Legal Scrutiny",
-      "link": "https://finance.yahoo.com/technology/articles/meta-faces-india-legal-scrutiny-171355742.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785518035,
+      "id": "a26c6c55-3a74-365b-a8d1-0c4efa2400df",
+      "title": "Trump administration pushes tougher English rules for Mexican train crews crossing into the US",
+      "link": "https://finance.yahoo.com/m/a26c6c55-3a74-365b-a8d1-0c4efa2400df/trump-administration-pushes.html",
+      "publisher": "Associated Press",
+      "time": 1785523088,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "deb485a9-c2ec-3fe8-be9b-1c1e26e168cb",
+      "title": "Click Beta 14: Who Wins When We Know Less?",
+      "link": "https://finance.yahoo.com/m/deb485a9-c2ec-3fe8-be9b-1c1e26e168cb/click-beta-14%3A-who-wins-when.html",
+      "publisher": "etf.com",
+      "time": 1785523077,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1fdfdab8-93d2-385c-837c-936070b3ee05",
+      "title": "/C O R R E C T I O N -- THE PEW CHARITABLE TRUSTS/",
+      "link": "https://finance.yahoo.com/economy/policy/articles/c-o-r-r-e-183700933.html",
+      "publisher": "PR Newswire",
+      "time": 1785523020,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6ec11dff-c0be-3dbf-a268-76836122a7aa",
+      "title": "Stock Market Today: Nasdaq Advances Despite Spiking Yields; Coinbase Tumbles (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/6ec11dff-c0be-3dbf-a268-76836122a7aa/stock-market-today%3A-nasdaq.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1785522973,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "3615ac5d-0022-31ef-a7fc-2f09fd91a326",
+      "title": "SanDisk Is Down 45% in a Month. Should Memory Investors Switch to Micron or SK Hynix Now?",
+      "link": "https://finance.yahoo.com/m/3615ac5d-0022-31ef-a7fc-2f09fd91a326/sandisk-is-down-45%25-in-a.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785522966,
       "impact": "low",
       "tags": []
     }
