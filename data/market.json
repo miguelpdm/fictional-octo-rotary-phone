@@ -1,91 +1,120 @@
 {
-  "updatedAt": "2026-07-31T13:12:53.284808+00:00",
+  "updatedAt": "2026-07-31T15:36:07.645636+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19833.0,
-      "change": 75.29999999999927,
-      "changePct": 0.3811172353057252,
+      "price": 19810.4,
+      "change": 52.70000000000073,
+      "changePct": 0.26673145153535444,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7437.63,
-      "change": 8.850000000000364,
-      "changePct": 0.11913127054510113,
+      "price": 7433.41,
+      "change": 117.26000000000022,
+      "changePct": 1.602755547658266,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25122.178,
-      "change": 245.26800000000003,
-      "changePct": 0.9859263067639833,
+      "price": 25102.299,
+      "change": 659.3590000000004,
+      "changePct": 2.697543748828907,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25644.28,
-      "change": 183.79999999999927,
-      "changePct": 0.7219031220149787,
+      "price": 25673.95,
+      "change": 213.47000000000116,
+      "changePct": 0.8384366673369911,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6375.35,
-      "change": 30.950000000000728,
-      "changePct": 0.4878317886640301,
+      "price": 6367.37,
+      "change": 22.970000000000255,
+      "changePct": 0.36205157304079594,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.24,
-      "change": 0.14999999999999858,
-      "changePct": 0.8777062609713199,
+      "price": 17.56,
+      "change": 0.46999999999999886,
+      "changePct": 2.750146284376822,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "4247a575-d537-3d52-a186-b9587b614ec1",
-      "title": "1 of Wall Street’s Favorite Stocks for Long-Term Investors and 2 We Find Risky",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stocks-130749289.html",
-      "publisher": "StockStory",
-      "time": 1785503269,
+      "id": "d7878b7b-8399-4be2-87ea-fcd397d127e7",
+      "title": "Reddit stock tumbles the most on record as lack of new AI deals, US daily users metric disappoints",
+      "link": "https://finance.yahoo.com/markets/article/reddit-stock-tumbles-the-most-on-record-as-lack-of-new-ai-deals-us-daily-users-metric-disappoints-153413759.html",
+      "publisher": "Yahoo Finance",
+      "time": 1785512053,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9c53580f-1baa-319e-81ae-87219b587014",
+      "title": "Reddit to Overcome Search Pressure as Ads, AI Licensing Support Growth, Wedbush Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-overcome-search-pressure-ads-153157892.html",
+      "publisher": "MT Newswires",
+      "time": 1785511917,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "55510c1f-9b36-38fc-9e42-f61c6f1be0ce",
+      "title": "Update: Market Chatter: China's Moonshot Has Computing Power Deal With Alibaba for 20,000 Nvidia Chips",
+      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-china-apos-moonshot-153051102.html",
+      "publisher": "MT Newswires",
+      "time": 1785511851,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "378239b5-3dec-4ecc-9a80-e64a995ceee8",
+      "title": "Why Starbucks CEO says the pumpkin spice latte won't be on the menu year-round",
+      "link": "https://finance.yahoo.com/markets/article/why-starbucks-ceo-says-the-pumpkin-spice-latte-wont-be-on-the-menu-year-round-153050808.html",
+      "publisher": "Yahoo Finance",
+      "time": 1785511850,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "20c35ff1-6adf-3c2a-9e2b-513c45a22705",
+      "title": "GoDaddy Faces Shift in Web Builder Offering to 'Vibe Coding,' Wedbush Says",
+      "link": "https://finance.yahoo.com/technology/ai/articles/godaddy-faces-shift-builder-offering-153030901.html",
+      "publisher": "MT Newswires",
+      "time": 1785511830,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "99f878c6-6984-3838-bd89-2719e860d470",
+      "title": "Market Chatter: DoorDash Asked by US Lawmakers for Additional Info on Chinese AI Model Use",
+      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-doordash-asked-us-153028360.html",
+      "publisher": "MT Newswires",
+      "time": 1785511828,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "5c0e0584-f44c-4864-bc96-0db4f442ec09",
-      "title": "Bitcoin and ethereum prices today, Friday, July 31, 2026: Crypto prices back off this morning",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-31-2026-crypto-prices-back-off-this-morning-130657761.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1785503217,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "56ffa4a9-5f06-30a8-996a-b1bb428097e0",
-      "title": "RBC Global Asset Management Inc. announces July 2026 cash distributions for ETF Series of RBC Funds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-global-asset-management-inc-130500888.html",
-      "publisher": "CNW Group",
-      "time": 1785503100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "75e74a9b-53b1-4ac1-b8cb-a0e4d890290a",
-      "title": "Apple stock falls on weak revenue forecast as CEO Tim Cook flags 'increasing impact' from memory shortage",
-      "link": "https://finance.yahoo.com/technology/article/apple-stock-falls-on-weak-revenue-forecast-as-ceo-tim-cook-flags-increasing-impact-from-memory-shortage-130428410.html",
-      "publisher": "Yahoo Finance",
-      "time": 1785503068,
+      "id": "0e28f4af-3cde-4ab1-84e4-110b48154439",
+      "title": "Listen to Tim Cook's first and last earnings calls as Apple CEO",
+      "link": "https://finance.yahoo.com/video/listen-tim-cooks-first-last-153002417.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1785511802,
       "impact": "medium",
       "tags": [
         "macro",
@@ -93,20 +122,20 @@
       ]
     },
     {
-      "id": "6b9dc5da-f29e-3e79-8df8-2bc7b6d970fa",
-      "title": "PepsiCo Has Gone Practically Nowhere for a Year. Here's Why That Could Change in the Second Half of 2026.",
-      "link": "https://finance.yahoo.com/m/6b9dc5da-f29e-3e79-8df8-2bc7b6d970fa/pepsico-has-gone-practically.html",
-      "publisher": "Motley Fool",
-      "time": 1785502980,
+      "id": "dbb87561-5eee-3a5c-aacb-0b647b4b6307",
+      "title": "In HelloNation, Prescription Savings Expert Carl Stecker Outlines How to Lower Prescription Costs Without Insurance",
+      "link": "https://finance.yahoo.com/healthcare/articles/hellonation-prescription-savings-expert-carl-153000007.html",
+      "publisher": "PR Newswire",
+      "time": 1785511800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5f5e74b7-7a4a-3863-a462-3baed5998744",
-      "title": "Ghosts of the 1970s: Why three Fed hawks voted to spike rates",
-      "link": "https://finance.yahoo.com/economy/policy/articles/ghosts-1970s-why-three-fed-130255628.html",
-      "publisher": "Investing.com",
-      "time": 1785502975,
+      "id": "37cddecf-75da-352b-adca-2a1256ab7d46",
+      "title": "Fed chief Warsh faces hard choice on inflation after bond market's 'red flag'",
+      "link": "https://finance.yahoo.com/economy/policy/articles/fed-chief-warsh-faces-hard-100259422.html",
+      "publisher": "Reuters",
+      "time": 1785511794,
       "impact": "high",
       "tags": [
         "geo",
@@ -114,42 +143,14 @@
       ]
     },
     {
-      "id": "9a9c4993-de0c-3967-b5e7-271ea55a0ded",
-      "title": "Franklin Resources (NYSE:BEN) Exceeds Q2 CY2026 Expectations",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/franklin-resources-nyse-ben-exceeds-130229445.html",
-      "publisher": "StockStory",
-      "time": 1785502949,
-      "impact": "low",
+      "id": "970b3803-bef0-327d-8037-b980dcb8308d",
+      "title": "Trump and far-right seize on Spanish migration crisis",
+      "link": "https://finance.yahoo.com/m/970b3803-bef0-327d-8037-b980dcb8308d/trump-and-far-right-seize-on.html",
+      "publisher": "AFP",
+      "time": 1785511705,
+      "impact": "high",
       "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "d2c4699e-ce84-3298-830c-1db57d56f0e3",
-      "title": "Alpharetta Concrete Leveling Contractor Advance Concrete Lifting and Leveling Surpasses 150 Five-Star Customer Reviews",
-      "link": "https://finance.yahoo.com/small-business/articles/alpharetta-concrete-leveling-contractor-advance-130200075.html",
-      "publisher": "PR Newswire",
-      "time": 1785502920,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "65be32cf-be14-3426-a063-1338cb9fe775",
-      "title": "Sector Update: Financial",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-130133877.html",
-      "publisher": "MT Newswires",
-      "time": 1785502893,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cfb1b94c-3e63-309a-ba0b-22cd1edd2434",
-      "title": "T. Rowe Price (NASDAQ:TROW) Misses Q2 CY2026 Revenue Estimates",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-nasdaq-trow-130133468.html",
-      "publisher": "StockStory",
-      "time": 1785502893,
-      "impact": "low",
-      "tags": [
+        "geo",
         "macro"
       ]
     }
