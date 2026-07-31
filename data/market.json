@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T18:51:17.462302+00:00",
+  "updatedAt": "2026-07-31T20:16:35.758447+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7487.68,
-      "change": 171.53000000000065,
-      "changePct": 2.344539136021004,
+      "price": 7489.72,
+      "change": 173.57000000000062,
+      "changePct": 2.3724226539915203,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25350.49,
-      "change": 907.5500000000029,
-      "changePct": 3.712933059607408,
+      "price": 25373.854,
+      "change": 930.9140000000007,
+      "changePct": 3.8085189424840085,
       "currency": "USD"
     },
     {
@@ -44,106 +44,112 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.6,
-      "change": -0.48999999999999844,
-      "changePct": -2.867173785839663,
+      "price": 16.03,
+      "change": -1.0599999999999987,
+      "changePct": -6.202457577530712,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "78d3dc9b-50ba-396e-9438-25eba6bd0d6e",
-      "title": "Rise of the machines? The fallout from Anthropic and OpenAI hacks",
-      "link": "https://finance.yahoo.com/m/78d3dc9b-50ba-396e-9438-25eba6bd0d6e/rise-of-the-machines%3F-the.html",
-      "publisher": "USA TODAY",
-      "time": 1785523412,
+      "id": "12f34019-5441-3c5d-a538-7065b7af8023",
+      "title": "Tesla Stock Falls 1.8% as Musk Denies China Separation Report",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-falls-1-8-201435427.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785528875,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "acf7462a-8e44-3c03-abb8-fce68ef32604",
+      "title": "NVIDIA Stock Rises as Amazon Lifts AI Spending",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-rises-amazon-lifts-201324588.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785528804,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7a6f989d-fd15-3cfe-abaf-eb753d41c6f8",
-      "title": "Hungary to shut nuclear plant as heatwave hits central Europe",
-      "link": "https://finance.yahoo.com/m/7a6f989d-fd15-3cfe-abaf-eb753d41c6f8/hungary-to-shut-nuclear-plant.html",
-      "publisher": "AFP",
-      "time": 1785523346,
+      "id": "0dd88575-3763-37bf-a50e-2b898f60fe75",
+      "title": "Microsoft Stock Rises Again After Record $450 Billion Gain",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-rises-again-record-201157133.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785528717,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cabadb8e-d993-48a8-90db-0f994929a73d",
-      "title": "Did Apple just signal a bottom in momentum-driven memory chip stocks?",
-      "link": "https://finance.yahoo.com/markets/article/did-apple-just-signal-a-bottom-in-momentum-driven-memory-chip-stocks-184019981.html",
-      "publisher": "Yahoo Finance",
-      "time": 1785523219,
+      "id": "fb12f94a-04bf-3a58-8826-b90ef1ebc05e",
+      "title": "2 Small-Cap Stocks to Consider Right Now and 1 We Ignore",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-small-cap-stocks-consider-201157758.html",
+      "publisher": "StockStory",
+      "time": 1785528717,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "60b4a9fd-87ed-3e7b-ac55-bd2d045156e2",
-      "title": "Chelsea's Mudryk cleared to play after doping ban appeal",
-      "link": "https://finance.yahoo.com/m/60b4a9fd-87ed-3e7b-ac55-bd2d045156e2/chelsea%27s-mudryk-cleared-to.html",
-      "publisher": "AFP",
-      "time": 1785523218,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3e1882a4-f7c0-3e13-9d66-01f306dd4d58",
-      "title": "SK Hynix Stock Surged 30% in South Korea. It’s Dropping in the U.S.",
-      "link": "https://finance.yahoo.com/m/3e1882a4-f7c0-3e13-9d66-01f306dd4d58/sk-hynix-stock-surged-30%25-in.html",
-      "publisher": "Barrons.com",
-      "time": 1785523200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a26c6c55-3a74-365b-a8d1-0c4efa2400df",
-      "title": "Trump administration pushes tougher English rules for Mexican train crews crossing into the US",
-      "link": "https://finance.yahoo.com/m/a26c6c55-3a74-365b-a8d1-0c4efa2400df/trump-administration-pushes.html",
-      "publisher": "Associated Press",
-      "time": 1785523088,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "deb485a9-c2ec-3fe8-be9b-1c1e26e168cb",
-      "title": "Click Beta 14: Who Wins When We Know Less?",
-      "link": "https://finance.yahoo.com/m/deb485a9-c2ec-3fe8-be9b-1c1e26e168cb/click-beta-14%3A-who-wins-when.html",
-      "publisher": "etf.com",
-      "time": 1785523077,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1fdfdab8-93d2-385c-837c-936070b3ee05",
-      "title": "/C O R R E C T I O N -- THE PEW CHARITABLE TRUSTS/",
-      "link": "https://finance.yahoo.com/economy/policy/articles/c-o-r-r-e-183700933.html",
-      "publisher": "PR Newswire",
-      "time": 1785523020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6ec11dff-c0be-3dbf-a268-76836122a7aa",
-      "title": "Stock Market Today: Nasdaq Advances Despite Spiking Yields; Coinbase Tumbles (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/6ec11dff-c0be-3dbf-a268-76836122a7aa/stock-market-today%3A-nasdaq.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1785522973,
-      "impact": "low",
+      "id": "408961e0-8dbd-3c60-aa94-c6894b5ec3e9",
+      "title": "Apple Stock Plunges 9.3% as Supply Shortages Weaken Forecast",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-plunges-9-3-200927033.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785528567,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "3615ac5d-0022-31ef-a7fc-2f09fd91a326",
-      "title": "SanDisk Is Down 45% in a Month. Should Memory Investors Switch to Micron or SK Hynix Now?",
-      "link": "https://finance.yahoo.com/m/3615ac5d-0022-31ef-a7fc-2f09fd91a326/sandisk-is-down-45%25-in-a.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1785522966,
+      "id": "60a136b8-5322-378e-af13-74d6bd72bbaf",
+      "title": "Alibaba's Biggest AI Customer Is Also Its Rival",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alibabas-biggest-ai-customer-rival-200750423.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785528470,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "2cffb4c5-3640-3976-83fe-de1691406c4d",
+      "title": "Pinder Plotkin Legal Team's Jason Plotkin, Esq. to Teach National Dog Bite Injury CLE for Attorneys",
+      "link": "https://finance.yahoo.com/small-business/articles/pinder-plotkin-legal-teams-jason-200700917.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785528420,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "81058e09-e6a0-3793-a1c6-bbd75eea5da2",
+      "title": "IBM quietly cleared a quantum computing hurdle experts doubted",
+      "link": "https://finance.yahoo.com/m/81058e09-e6a0-3793-a1c6-bbd75eea5da2/ibm-quietly-cleared-a-quantum.html",
+      "publisher": "TheStreet",
+      "time": 1785528420,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6ed44350-5ae0-304a-8fd4-816f06725b37",
+      "title": "Amazon Stock Surges 14% as AWS Growth Hits Four-Year High",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-surges-14-aws-200628751.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785528388,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c8bd386b-120a-3f7a-81c5-be434d090a71",
+      "title": "SpaceX and Tesla Are Considering a Mega Merger -- Here's What Investors Need to Know",
+      "link": "https://finance.yahoo.com/m/c8bd386b-120a-3f7a-81c5-be434d090a71/spacex-and-tesla-are.html",
+      "publisher": "Motley Fool",
+      "time": 1785528363,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
