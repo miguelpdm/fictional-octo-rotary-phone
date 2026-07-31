@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-31T08:40:18.632369+00:00",
+  "updatedAt": "2026-07-31T11:25:14.209155+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19920.0,
-      "change": 162.29999999999927,
-      "changePct": 0.8214518896430215,
+      "price": 19897.1,
+      "change": 139.39999999999782,
+      "changePct": 0.7055477105128523,
       "currency": "EUR"
     },
     {
@@ -28,129 +28,118 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25870.28,
-      "change": 409.7999999999993,
-      "changePct": 1.609553315569853,
+      "price": 25771.59,
+      "change": 311.1100000000006,
+      "changePct": 1.2219329721984842,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6418.08,
-      "change": 73.68000000000029,
-      "changePct": 1.1613391337242338,
+      "price": 6403.55,
+      "change": 59.150000000000546,
+      "changePct": 0.932318264926558,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.78,
-      "change": -0.3099999999999987,
-      "changePct": -1.8139262726740708,
+      "price": 16.75,
+      "change": -0.33999999999999986,
+      "changePct": -1.989467524868343,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "3027fd1b-3c43-3c2a-a0be-8b2eecdb82c1",
-      "title": "Buscar Company expands Treasure Canyon mining claims",
-      "link": "https://finance.yahoo.com/m/3027fd1b-3c43-3c2a-a0be-8b2eecdb82c1/buscar-company-expands.html",
-      "publisher": "Mining Technology",
-      "time": 1785486835,
+      "id": "810c760b-eb28-3b81-ac43-bb2281cdcfb9",
+      "title": "H&R Real Estate Investment Trust's Dividend Analysis",
+      "link": "https://finance.yahoo.com/real-estate/articles/h-r-real-estate-investment-112305809.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785496985,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "42055a93-2b04-3d2f-a22b-c0c3e40eba29",
-      "title": "Oil falls on slightly improved flows through Gulf; set for monthly gain",
-      "link": "https://finance.yahoo.com/news/oil-falls-more-1-greater-030001809.html",
-      "publisher": "Reuters",
-      "time": 1785486615,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e5e5bc5e-5ed4-31c9-94c4-f3f7407a5a76",
-      "title": "Daiichi Sankyo Reports First Quarter Fiscal Year 2026 Financial Results",
-      "link": "https://finance.yahoo.com/healthcare/articles/daiichi-sankyo-reports-first-quarter-083000134.html",
-      "publisher": "Business Wire",
-      "time": 1785486600,
+      "id": "966309d9-5dc9-39c1-a7ed-467b62cde53d",
+      "title": "Northwest Natural Holding Co's Dividend Analysis",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/northwest-natural-holding-cos-dividend-112239349.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785496959,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "605457b2-68f7-38b4-8787-0f48ce19502b",
-      "title": "Apple slides as supply snags cloud outlook, putting iPhone demand in focus",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-slides-supply-snags-cloud-082812003.html",
-      "publisher": "Reuters",
-      "time": 1785486492,
+      "id": "1661f3e5-51ce-328f-ae7e-895936a335d1",
+      "title": "Boardwalk Real Estate Investment Trust's Dividend Analysis",
+      "link": "https://finance.yahoo.com/real-estate/articles/boardwalk-real-estate-investment-trusts-112206481.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785496926,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2f8668c2-2e87-3a84-a70f-9b0fe0321daa",
-      "title": "French preliminary inflation at 2.4% in July, above estimates",
-      "link": "https://finance.yahoo.com/news/french-preliminary-inflation-2-1-064832450.html",
-      "publisher": "Reuters",
-      "time": 1785486396,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "dbf37a8e-90c5-3bb4-903c-f62fa127ab64",
-      "title": "Legendary Italian football defender Franco Baresi has died: AC Milan",
-      "link": "https://finance.yahoo.com/m/dbf37a8e-90c5-3bb4-903c-f62fa127ab64/legendary-italian-football.html",
-      "publisher": "AFP",
-      "time": 1785486378,
+      "id": "94117ad9-8527-3ddb-a481-8c3cdc4c0d47",
+      "title": "Crombie Real Estate Investment Trust's Dividend Analysis",
+      "link": "https://finance.yahoo.com/real-estate/articles/crombie-real-estate-investment-trusts-112136599.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785496896,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "48fb9b00-d2a3-3091-971e-53d77443685f",
-      "title": "The Federal Reserve's Latest Interest Rate Decision Featured Something We Haven't Seen in 10 Years, and It Should Rightly Worry Wall Street",
-      "link": "https://finance.yahoo.com/m/48fb9b00-d2a3-3091-971e-53d77443685f/the-federal-reserve%27s-latest.html",
-      "publisher": "Motley Fool",
-      "time": 1785486360,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "837fd40f-72b7-3e41-bd79-5b18356172b8",
-      "title": "Form 8.3",
-      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-082600672.html",
-      "publisher": "Business Wire",
-      "time": 1785486360,
+      "id": "e5141dd5-2359-376a-92a3-545c09918094",
+      "title": "Extendicare Inc's Dividend Analysis",
+      "link": "https://finance.yahoo.com/healthcare/articles/extendicare-incs-dividend-analysis-112107636.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785496867,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6c3f1e54-c030-3686-bf5c-8de67b428199",
-      "title": "Result of the auction of treasury bills on 31 July 2026",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/result-auction-treasury-bills-31-082400033.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785486240,
+      "id": "da0ee851-56fe-3bc5-a3c0-9b5f55582806",
+      "title": "FIC acquires US battery and solar platform operator Perfect Power",
+      "link": "https://finance.yahoo.com/m/da0ee851-56fe-3bc5-a3c0-9b5f55582806/fic-acquires-us-battery-and.html",
+      "publisher": "Power Technology",
+      "time": 1785496852,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d269d30c-38b8-3946-ad81-d1047015a34d",
-      "title": "Tech rebound fuels record-breaking rally in South Korean stocks",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-rebound-fuels-record-breaking-031606933.html",
-      "publisher": "AFP",
-      "time": 1785486211,
+      "id": "c0f4a2e9-52dc-3a64-a3ae-4a5cfc768480",
+      "title": "Bird Construction Inc's Dividend Analysis",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bird-construction-incs-dividend-analysis-112040144.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785496840,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
+    },
+    {
+      "id": "19b88c02-bf66-305b-8134-5f2017c462d6",
+      "title": "Four Corners Property Trust Inc's Dividend Analysis",
+      "link": "https://finance.yahoo.com/real-estate/articles/four-corners-property-trust-incs-112009462.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785496809,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "756d11ca-e9e2-3096-bad9-3d7848ea6063",
+      "title": "Dream Industrial Real Estate Investment Trust's Dividend Analysis",
+      "link": "https://finance.yahoo.com/real-estate/articles/dream-industrial-real-estate-investment-111941587.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785496781,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "496f2229-cad7-38d2-a6c4-b76b90b1a820",
+      "title": "Vintae CEO on bid to revitalise Spanish wine peer Bodegas Riojanas",
+      "link": "https://finance.yahoo.com/m/496f2229-cad7-38d2-a6c4-b76b90b1a820/vintae-ceo-on-bid-to.html",
+      "publisher": "Just Drinks",
+      "time": 1785496775,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
