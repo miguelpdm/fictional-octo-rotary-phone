@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T23:30:57.182694+00:00",
+  "updatedAt": "2026-07-31T02:09:52.650237+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,31 +52,11 @@
   ],
   "news": [
     {
-      "id": "2fc78243-e7a4-3aab-952b-d9e3d6c5394b",
-      "title": "Hilton Grand Vacations (HGV) Stock Trades Down, Here Is Why",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hilton-grand-vacations-hgv-stock-232502011.html",
-      "publisher": "StockStory",
-      "time": 1785453902,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "e68004e0-4922-3c63-bbe9-d84b01eb2dae",
-      "title": "Local officials says casino, foundation roles will remain stable",
-      "link": "https://finance.yahoo.com/m/e68004e0-4922-3c63-bbe9-d84b01eb2dae/local-officials-says-casino%2C.html",
-      "publisher": "The Tribune-Star, Terre Haute, Ind.",
-      "time": 1785453840,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "65873e11-edb5-373f-852e-6e680139e601",
-      "title": "Coinbase Q2 earnings miss Wall Street estimates",
-      "link": "https://finance.yahoo.com/m/65873e11-edb5-373f-852e-6e680139e601/coinbase-q2-earnings-miss.html",
+      "id": "f68ab10e-0ee8-304d-8590-3fb3944d2953",
+      "title": "Cathie Wood buys $14.3 million of tumbling semiconductor stock",
+      "link": "https://finance.yahoo.com/m/f68ab10e-0ee8-304d-8590-3fb3944d2953/cathie-wood-buys-%2414.3.html",
       "publisher": "TheStreet",
-      "time": 1785453819,
+      "time": 1785463620,
       "impact": "medium",
       "tags": [
         "macro",
@@ -84,20 +64,22 @@
       ]
     },
     {
-      "id": "7b520a08-11d7-38a0-b251-6a8a99a1520a",
-      "title": "Rapoport: 'Baker Mayfield is upset' about current contract situation with Bucs 'The Insiders'",
-      "link": "https://finance.yahoo.com/m/7b520a08-11d7-38a0-b251-6a8a99a1520a/rapoport%3A-%27baker-mayfield-is.html",
-      "publisher": "NFL Highlights",
-      "time": 1785453738,
+      "id": "410b5188-fada-3c74-b2e7-6fb6f4fcea6e",
+      "title": "Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",
+      "link": "https://finance.yahoo.com/m/410b5188-fada-3c74-b2e7-6fb6f4fcea6e/dow-jones-futures%3A-apple%2C.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1785463589,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     },
     {
-      "id": "a7ce27b9-0262-3877-ba62-10acabe0d2f4",
-      "title": "Why Chipotle Stock Popped Today",
-      "link": "https://finance.yahoo.com/m/a7ce27b9-0262-3877-ba62-10acabe0d2f4/why-chipotle-stock-popped.html",
-      "publisher": "Motley Fool",
-      "time": 1785453736,
+      "id": "6ffb5e3d-bd4e-3518-86f4-5b7491c1962d",
+      "title": "Elon Musk Mulls Selling Tesla's China Unit To Smooth SpaceX Merger: WSJ",
+      "link": "https://finance.yahoo.com/m/6ffb5e3d-bd4e-3518-86f4-5b7491c1962d/elon-musk-mulls-selling.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1785463264,
       "impact": "medium",
       "tags": [
         "macro",
@@ -105,50 +87,72 @@
       ]
     },
     {
-      "id": "bd1b1f39-78fe-3109-ab1b-596acfc05652",
-      "title": "Anthropic says its AI models hacked systems of three companies during tests",
-      "link": "https://finance.yahoo.com/m/bd1b1f39-78fe-3109-ab1b-596acfc05652/anthropic-says-its-ai-models.html",
-      "publisher": "Reuters",
-      "time": 1785453655,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "efbbc5b4-4697-3fa9-b9d4-a58403e12eb0",
-      "title": "Edison International Says Equipment Likely Associated With Eaton Fire Ignition",
-      "link": "https://finance.yahoo.com/energy/articles/edison-international-says-equipment-likely-232006240.html",
-      "publisher": "MT Newswires",
-      "time": 1785453606,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "88030939-12ad-36d8-b64c-2912078a86b4",
-      "title": "Fitch Upgrades Agibank’s Rating to ‘AA(bra)’, with stable Outlook",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fitch-upgrades-agibank-rating-aa-232000332.html",
-      "publisher": "Business Wire",
-      "time": 1785453600,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "dc12d794-bf54-3398-b54b-a8a65e6bccee",
-      "title": "Nvidia CEO Jensen Huang Personally Joined a Closed-Door Morgan Stanley Roadshow to Address 3 Investor Concerns. Nvidia Stock Is Down 4% Since He Spoke.",
-      "link": "https://finance.yahoo.com/m/dc12d794-bf54-3398-b54b-a8a65e6bccee/nvidia-ceo-jensen-huang.html",
-      "publisher": "Motley Fool",
-      "time": 1785453600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7d46d0d0-4457-38c7-828c-406eb7ed31ab",
-      "title": "Plutus Launches Agentic Platform for Life and Annuity Operations, Bringing Purpose-Built AI to the Workflows That Define Service Quality for Life and Annuity Carriers",
-      "link": "https://finance.yahoo.com/technology/ai/articles/plutus-launches-agentic-platform-life-231900635.html",
+      "id": "860e4a9c-7d0f-31d1-bbc2-498f9fbf49d2",
+      "title": "Casablanca Unveils CASA-V 7A Uplift Dry & Glow Series, a Next-Generation Quick-Dry Bedding Collection",
+      "link": "https://finance.yahoo.com/small-business/articles/casablanca-unveils-casa-v-7a-020000506.html",
       "publisher": "PR Newswire",
-      "time": 1785453540,
+      "time": 1785463200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a7f1cc38-ba8c-3fc7-885a-35cdc4fee56b",
+      "title": "Ondo Finance CEO explains what happens when Fidelity and Schwab enter tokenization",
+      "link": "https://finance.yahoo.com/m/a7f1cc38-ba8c-3fc7-885a-35cdc4fee56b/ondo-finance-ceo-explains.html",
+      "publisher": "TheStreet",
+      "time": 1785463080,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "abd1a5cc-a1b2-3639-a010-73349d961cd9",
+      "title": "Yen weakens after intervention-led surge ahead of BOJ policy decision",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/yen-weakens-intervention-led-surge-002908369.html",
+      "publisher": "Reuters",
+      "time": 1785462632,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "08bda9fa-34dc-34af-8545-be5a4bc090a0",
+      "title": "Alliant Energy Reaffirms 2026 Outlook as Data Center Growth Supports Demand",
+      "link": "https://finance.yahoo.com/energy/articles/alliant-energy-reaffirms-2026-outlook-015021048.html",
+      "publisher": "Oilprice.com",
+      "time": 1785462621,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "97a1a07a-5ae9-37ba-9404-151335137edf",
+      "title": "Iran Tensions Illustrate Defense Supply Shortages That Will Benefit These 3 Stocks",
+      "link": "https://finance.yahoo.com/m/97a1a07a-5ae9-37ba-9404-151335137edf/iran-tensions-illustrate.html",
+      "publisher": "Motley Fool",
+      "time": 1785462600,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "4bcf8595-a477-3c39-b8f3-13cf9196f75f",
+      "title": "Why Coursera (COUR) Stock Is Down Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-coursera-cour-stock-down-014902959.html",
+      "publisher": "StockStory",
+      "time": 1785462542,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "8c5215f3-341a-3ccd-a6b0-2879c85d5641",
+      "title": "Sell Your Winners, Pay 0% Tax, and Buy Them Right Back the Same Day. It’s the Reset the Wash-Sale Rule Can’t Touch",
+      "link": "https://finance.yahoo.com/m/8c5215f3-341a-3ccd-a6b0-2879c85d5641/sell-your-winners%2C-pay-0%25.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785462534,
       "impact": "low",
       "tags": []
     }
