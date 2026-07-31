@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-31T05:49:08.485119+00:00",
+  "updatedAt": "2026-07-31T08:40:18.632369+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19757.7,
-      "change": 345.0,
-      "changePct": 1.77718709916704,
+      "price": 19920.0,
+      "change": 162.29999999999927,
+      "changePct": 0.8214518896430215,
       "currency": "EUR"
     },
     {
@@ -28,53 +28,44 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25612.03,
-      "change": 148.02000000000044,
-      "changePct": 0.5812910064047274,
+      "price": 25870.28,
+      "change": 409.7999999999993,
+      "changePct": 1.609553315569853,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6344.4,
-      "change": 95.55999999999949,
-      "changePct": 1.5292438276544045,
+      "price": 6418.08,
+      "change": 73.68000000000029,
+      "changePct": 1.1613391337242338,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.09,
-      "change": -3.5700000000000003,
-      "changePct": -17.27976766698935,
+      "price": 16.78,
+      "change": -0.3099999999999987,
+      "changePct": -1.8139262726740708,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "f223c080-56d5-329f-96b9-d93cc6e5523e",
-      "title": "Apple shares fall despite record revenue as outlook disappoints",
-      "link": "https://finance.yahoo.com/m/f223c080-56d5-329f-96b9-d93cc6e5523e/apple-shares-fall-despite.html",
-      "publisher": "Euronews",
-      "time": 1785476411,
+      "id": "3027fd1b-3c43-3c2a-a0be-8b2eecdb82c1",
+      "title": "Buscar Company expands Treasure Canyon mining claims",
+      "link": "https://finance.yahoo.com/m/3027fd1b-3c43-3c2a-a0be-8b2eecdb82c1/buscar-company-expands.html",
+      "publisher": "Mining Technology",
+      "time": 1785486835,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "38890b23-bfd7-3e23-8dd2-c073e81f0f27",
-      "title": "Volume Nine Redefines AI Search Optimization with Launch of GEO Grader Tool",
-      "link": "https://finance.yahoo.com/technology/ai/articles/volume-nine-redefines-ai-search-054000967.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1785476400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8ced91d5-aa0c-37eb-b405-196cab81cd9a",
-      "title": "New Analysis of 8,500+ Dental Practices Identifies New Patient Acquisition as the Strongest Driver of Practice Growth",
-      "link": "https://finance.yahoo.com/healthcare/articles/analysis-8-500-dental-practices-054000794.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1785476400,
+      "id": "42055a93-2b04-3d2f-a22b-c0c3e40eba29",
+      "title": "Oil falls on slightly improved flows through Gulf; set for monthly gain",
+      "link": "https://finance.yahoo.com/news/oil-falls-more-1-greater-030001809.html",
+      "publisher": "Reuters",
+      "time": 1785486615,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,69 +73,83 @@
       ]
     },
     {
-      "id": "8f87e51d-d26c-3459-b164-3a1f6c7330ba",
-      "title": "S99 PR Expands Premium Media Services Across Visa Press, Executive PR, and AI Discoverability",
-      "link": "https://finance.yahoo.com/media-advertising/articles/s99-pr-expands-premium-media-053700418.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785476220,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c4cabfe5-2f77-3824-b4d1-8ac371f4e96e",
-      "title": "Sniffer dogs search mall wrecked after Japan quake",
-      "link": "https://finance.yahoo.com/m/c4cabfe5-2f77-3824-b4d1-8ac371f4e96e/sniffer-dogs-search-mall.html",
-      "publisher": "AFP",
-      "time": 1785475949,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "009cd2bd-c5c2-305a-901a-ea8feaf88ff3",
-      "title": "Wall Street splits on Big Tech's AI bills",
-      "link": "https://finance.yahoo.com/video/wall-street-splits-big-techs-053017939.html",
-      "publisher": "Reuters Videos",
-      "time": 1785475817,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1b0268c4-be25-3af8-b1f9-8d6523bc6163",
-      "title": "SES: Disclosure of Share Buyback Transactions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ses-disclosure-share-buyback-transactions-053000139.html",
+      "id": "e5e5bc5e-5ed4-31c9-94c4-f3f7407a5a76",
+      "title": "Daiichi Sankyo Reports First Quarter Fiscal Year 2026 Financial Results",
+      "link": "https://finance.yahoo.com/healthcare/articles/daiichi-sankyo-reports-first-quarter-083000134.html",
       "publisher": "Business Wire",
-      "time": 1785475800,
+      "time": 1785486600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "77369352-3dae-3010-b55f-4613f72dba0c",
-      "title": "Umicore: Half-Year Results 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/umicore-half-results-2026-053000716.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785475800,
+      "id": "605457b2-68f7-38b4-8787-0f48ce19502b",
+      "title": "Apple slides as supply snags cloud outlook, putting iPhone demand in focus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-slides-supply-snags-cloud-082812003.html",
+      "publisher": "Reuters",
+      "time": 1785486492,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8069ac54-84c6-373f-ac6a-9795a6c4f204",
-      "title": "Half-Year Report on SES’s Liquidity Contract",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/half-report-ses-liquidity-contract-053000788.html",
-      "publisher": "Business Wire",
-      "time": 1785475800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "85946052-dd78-39b5-a12a-fd5b00af1687",
-      "title": "Brunel 2Q and 1H26 results: Continued recovery in DACH and improved profitability across the Global business",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/brunel-2q-1h26-results-continued-053000647.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785475800,
-      "impact": "medium",
+      "id": "2f8668c2-2e87-3a84-a70f-9b0fe0321daa",
+      "title": "French preliminary inflation at 2.4% in July, above estimates",
+      "link": "https://finance.yahoo.com/news/french-preliminary-inflation-2-1-064832450.html",
+      "publisher": "Reuters",
+      "time": 1785486396,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "dbf37a8e-90c5-3bb4-903c-f62fa127ab64",
+      "title": "Legendary Italian football defender Franco Baresi has died: AC Milan",
+      "link": "https://finance.yahoo.com/m/dbf37a8e-90c5-3bb4-903c-f62fa127ab64/legendary-italian-football.html",
+      "publisher": "AFP",
+      "time": 1785486378,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "48fb9b00-d2a3-3091-971e-53d77443685f",
+      "title": "The Federal Reserve's Latest Interest Rate Decision Featured Something We Haven't Seen in 10 Years, and It Should Rightly Worry Wall Street",
+      "link": "https://finance.yahoo.com/m/48fb9b00-d2a3-3091-971e-53d77443685f/the-federal-reserve%27s-latest.html",
+      "publisher": "Motley Fool",
+      "time": 1785486360,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "837fd40f-72b7-3e41-bd79-5b18356172b8",
+      "title": "Form 8.3",
+      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-082600672.html",
+      "publisher": "Business Wire",
+      "time": 1785486360,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6c3f1e54-c030-3686-bf5c-8de67b428199",
+      "title": "Result of the auction of treasury bills on 31 July 2026",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/result-auction-treasury-bills-31-082400033.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785486240,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d269d30c-38b8-3946-ad81-d1047015a34d",
+      "title": "Tech rebound fuels record-breaking rally in South Korean stocks",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-rebound-fuels-record-breaking-031606933.html",
+      "publisher": "AFP",
+      "time": 1785486211,
+      "impact": "low",
+      "tags": [
+        "macro"
       ]
     }
   ],
