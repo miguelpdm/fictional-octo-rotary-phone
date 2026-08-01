@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T02:28:38.699345+00:00",
+  "updatedAt": "2026-08-01T05:40:56.907779+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,22 @@
   ],
   "news": [
     {
-      "id": "5585485d-ec46-3880-8b2c-aa4fbaf9eb48",
-      "title": "Treasury selloff signals need to bolster Fed's inflation credibility, Musalem tells FT",
-      "link": "https://finance.yahoo.com/economy/policy/articles/treasury-selloff-signals-bolster-feds-021227632.html",
-      "publisher": "Reuters",
-      "time": 1785550347,
+      "id": "904e929b-9cb0-3d22-a48d-794462c7ece0",
+      "title": "Why Are SPX Technologies (SPXC) Shares Soaring Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-spx-technologies-spxc-shares-052357456.html",
+      "publisher": "StockStory",
+      "time": 1785561837,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "cdef922d-234b-3f42-b932-4f893f86b011",
+      "title": "If a Recession Is Coming, Here's How I'm Preparing My Portfolio",
+      "link": "https://finance.yahoo.com/m/cdef922d-234b-3f42-b932-4f893f86b011/if-a-recession-is-coming%2C.html",
+      "publisher": "Motley Fool",
+      "time": 1785561600,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,40 +75,52 @@
       ]
     },
     {
-      "id": "76bb1c1d-a4fd-3d82-a73e-1d121262f028",
-      "title": "EEFT Q2 Deep Dive: Digital Accelerators Offset Cross-Border and Travel Headwinds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/eeft-q2-deep-dive-digital-021157072.html",
+      "id": "40f62421-41a1-3de8-95c7-4111fad34796",
+      "title": "Warsaw and Kyiv exhume Volyn victims at centre of diplomatic quarrel",
+      "link": "https://finance.yahoo.com/m/40f62421-41a1-3de8-95c7-4111fad34796/warsaw-and-kyiv-exhume-volyn.html",
+      "publisher": "AFP",
+      "time": 1785561442,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "ca1de2dd-855b-32ba-a69e-28e90f93c04f",
+      "title": "Why Myriad Genetics (MYGN) Shares Are Falling Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-myriad-genetics-mygn-shares-051557143.html",
       "publisher": "StockStory",
-      "time": 1785550317,
+      "time": 1785561357,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "45310c36-829d-389a-bed9-af6da956a8f2",
-      "title": "What Resolute Mining (ASX:RSG)'s Q2 Production Slump and ABC Resource Upgrade Means For Shareholders",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/resolute-mining-asx-rsg-q2-020821642.html",
+      "id": "049de035-9244-3e2b-b642-9b9a674b667f",
+      "title": "UFP Industries (UFPI) Could Be 55% Below Fair Value Following Margin Pressured Q2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ufp-industries-ufpi-could-55-050846751.html",
       "publisher": "Simply Wall St.",
-      "time": 1785550101,
+      "time": 1785560926,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e9e9fe74-d98d-3372-903d-182a2c2713bb",
-      "title": "Hexcel (HXL) Stock May Be 27% Below Fair Value As Composite Qualification Lands",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hexcel-hxl-stock-may-27-020813619.html",
+      "id": "201c8534-de7a-327a-89d2-174ee45481ba",
+      "title": "Excelerate Energy (EE) Lifts Its Dividend, Is The Stock Fully Valued?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/excelerate-energy-ee-lifts-dividend-050846986.html",
       "publisher": "Simply Wall St.",
-      "time": 1785550093,
+      "time": 1785560926,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bdcd688b-f90a-3dfe-aba3-e753cb036349",
-      "title": "Steven Madden (SHOO) Lifts 2026 Guidance, Is The Stock Overvalued?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/steven-madden-shoo-lifts-2026-020750217.html",
+      "id": "ec7e00bc-de7c-3fed-b9e0-222795f41f34",
+      "title": "Amneal (AMRX) Stock Looks About Fair Value On Current Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amneal-amrx-stock-looks-fair-050839284.html",
       "publisher": "Simply Wall St.",
-      "time": 1785550070,
+      "time": 1785560919,
       "impact": "medium",
       "tags": [
         "macro",
@@ -105,55 +128,34 @@
       ]
     },
     {
-      "id": "15ea3e22-eb0c-3e09-a5e2-b9245ac75dcd",
-      "title": "Did Capital One’s Q2 Profit Rebound and Dividend Moves Just Shift Capital One Financial's (COF) Investment Narrative?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/did-capital-one-q2-profit-020746973.html",
+      "id": "ba77499e-060b-39da-a67e-8dd32bdef788",
+      "title": "Roblox (RBLX) Is Reworking Recommendations And Safety, And Bookings Are Feeling It",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/roblox-rblx-reworking-recommendations-safety-050833600.html",
       "publisher": "Simply Wall St.",
-      "time": 1785550066,
+      "time": 1785560913,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3f9bf020-eca0-3282-9b9d-0ec814f38fce",
+      "title": "Why did the Japanese yen collapse in 2026?",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/why-did-japanese-yen-collapse-050827534.html",
+      "publisher": "Investing.com",
+      "time": 1785560907,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d1166500-814d-34c3-b591-ef47e91854e7",
+      "title": "TJX Companies (TJX) Slips Before Earnings, Is The Stock Cheap Or Expensive?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tjx-companies-tjx-slips-earnings-050811143.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785560891,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
-    },
-    {
-      "id": "ec05d763-6375-3a85-93df-b4da6c12eb5f",
-      "title": "Aon (AON) Reports Q2 2026 Results, Is The Valuation Still Compelling?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aon-aon-reports-q2-2026-020741871.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785550061,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e385417d-a0de-3bd4-8f2a-c3b0e2197060",
-      "title": "Myers Industries (MYE) Could Be 8% Undervalued On Stronger Q2 Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/myers-industries-mye-could-8-020727048.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785550047,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "aa2dc0af-a2f6-310f-be5c-0678e3ae9657",
-      "title": "Community Financial System (CBU) Stock May Be 37% Undervalued On Dividend Hike",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/community-financial-system-cbu-stock-020659975.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785550019,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2ba15cc9-2f17-3a4c-b99e-5a4217051e57",
-      "title": "Mondelez (MDLZ) Tackles Cocoa Costs While Recalling Cadbury Oreo Candy Bar",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mondelez-mdlz-tackles-cocoa-costs-020655695.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785550015,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
