@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T11:40:14.313228+00:00",
+  "updatedAt": "2026-08-01T13:05:02.393010+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,59 +52,11 @@
   ],
   "news": [
     {
-      "id": "1660f3e4-23a3-3291-b87d-68141588e5a3",
-      "title": "Bristol Myers Squibb Isn't Nearly as Cheap as It Looks -- Here's the 1 Thing That Could Change That",
-      "link": "https://finance.yahoo.com/m/1660f3e4-23a3-3291-b87d-68141588e5a3/bristol-myers-squibb-isn%27t.html",
-      "publisher": "Motley Fool",
-      "time": 1785584100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "60e4a7c3-6993-3292-abd1-14c1b37f874c",
-      "title": "COLUMN: What to know about the latest trend in prenuptial agreements",
-      "link": "https://finance.yahoo.com/m/60e4a7c3-6993-3292-abd1-14c1b37f874c/column%3A-what-to-know-about.html",
-      "publisher": "Press-Republican, Plattsburgh, N.Y.",
-      "time": 1785583980,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "92c82d3e-1f19-3e53-99e6-ec64a3d1b260",
-      "title": "The Top 5 Analyst Questions From First Interstate BancSystem’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-first-113157984.html",
-      "publisher": "StockStory",
-      "time": 1785583917,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "195eaba4-53b0-3115-9bc2-afd95022100c",
-      "title": "Bitcoin's August curse: analyst says history points to another painful month",
-      "link": "https://finance.yahoo.com/m/195eaba4-53b0-3115-9bc2-afd95022100c/bitcoin%27s-august-curse%3A.html",
-      "publisher": "TheStreet",
-      "time": 1785583800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0a8778b2-eaf5-3dcb-b694-d3da676fb415",
-      "title": "A 72-year-old retiree inherited $40,000 from her sister — here's what financial experts say to do first",
-      "link": "https://finance.yahoo.com/markets/articles/72-old-retiree-inherited-40-113000725.html",
+      "id": "42d17a87-5b40-3ec0-8496-6f194425a5b4",
+      "title": "Ray Dalio warns this major asset will have the ‘worst return’ guaranteed — and you probably own a lot of it",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/ray-dalio-warns-major-asset-125500604.html",
       "publisher": "Moneywise",
-      "time": 1785583800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "db26c547-0f4a-33d4-87d7-0ae99eb7ebd1",
-      "title": "Mark Cuban, Michael Burry raise the same red flag warning over giant US sector — is your nest egg at risk?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mark-cuban-michael-burry-raise-113000465.html",
-      "publisher": "Moneywise",
-      "time": 1785583800,
+      "time": 1785588900,
       "impact": "high",
       "tags": [
         "geo",
@@ -112,50 +64,43 @@
       ]
     },
     {
-      "id": "35bc8f46-c028-3b37-915f-6775743483cb",
-      "title": "A SpaceX Earnings Preview: Starlink Growth, AI Costs, Starship Roadmap",
-      "link": "https://finance.yahoo.com/m/35bc8f46-c028-3b37-915f-6775743483cb/a-spacex-earnings-preview%3A.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1785583702,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "eb099fde-d32e-3e56-8bb1-8e4ac059cd73",
-      "title": "NASA Searches Couch Cushions, Finds Another $600 Million for Moon Missions",
-      "link": "https://finance.yahoo.com/m/eb099fde-d32e-3e56-8bb1-8e4ac059cd73/nasa-searches-couch-cushions%2C.html",
-      "publisher": "Motley Fool",
-      "time": 1785583620,
+      "id": "d6292e46-72fa-391b-abe6-6592d0624e96",
+      "title": "Hyundai Motor America Reports Record-Breaking July 2026 Sales",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hyundai-motor-america-reports-record-125500246.html",
+      "publisher": "PR Newswire",
+      "time": 1785588900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a5246073-9236-3dd2-85ab-d043b343d3ff",
-      "title": "Established Experts Are Racing to Clone Their Knowledge Before AI Leaves Them Behind",
-      "link": "https://finance.yahoo.com/technology/ai/articles/established-experts-racing-clone-knowledge-112500919.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1785583500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e35704d7-8ec1-3e7d-acff-acbe8b149ee5",
-      "title": "Munch Studio Reviewed: Why AI-Powered Content Repurposing Is Becoming Every Creator's Secret Weapon",
-      "link": "https://finance.yahoo.com/technology/ai/articles/munch-studio-reviewed-why-ai-112500885.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1785583500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "df5cecf1-4c2e-3896-bb69-ab2d9da6669d",
-      "title": "PRG Q2 Deep Dive: Margin Compression Despite Broad-Based Growth and Guidance Lift",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prg-q2-deep-dive-margin-112357845.html",
+      "id": "dfaac3bf-7759-3140-8eed-043ad6ad711e",
+      "title": "SWK Q2 Deep Dive: Productivity Gains and Brand Strength Drive Margin Expansion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/swk-q2-deep-dive-productivity-125157486.html",
       "publisher": "StockStory",
-      "time": 1785583437,
+      "time": 1785588717,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "1e395a1a-7365-30aa-ad26-d44d5d94ccaf",
+      "title": "US TV host says family 'begging for help' six months after mother's disappearance",
+      "link": "https://finance.yahoo.com/m/1e395a1a-7365-30aa-ad26-d44d5d94ccaf/us-tv-host-says-family.html",
+      "publisher": "AFP",
+      "time": 1785588277,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "c0de559c-ee33-35e4-9f31-d9d138f10ff0",
+      "title": "BAND Q2 Deep Dive: AI Adoption Drives Growth, Guidance Sparks Market Reassessment",
+      "link": "https://finance.yahoo.com/technology/ai/articles/band-q2-deep-dive-ai-124357896.html",
+      "publisher": "StockStory",
+      "time": 1785588237,
       "impact": "medium",
       "tags": [
         "macro",
@@ -163,31 +108,53 @@
       ]
     },
     {
-      "id": "a55aa44c-2005-31e1-b699-7e7a675aab49",
-      "title": "XRP Price Prediction: What Price Will XRP Hit in August?",
-      "link": "https://finance.yahoo.com/m/a55aa44c-2005-31e1-b699-7e7a675aab49/xrp-price-prediction%3A-what.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1785583323,
+      "id": "25131554-19ac-31d0-aa40-8dc52df9da8f",
+      "title": "Nirmal Purja, who redefined climbing, confirmed dead in Pakistan",
+      "link": "https://finance.yahoo.com/m/25131554-19ac-31d0-aa40-8dc52df9da8f/nirmal-purja%2C-who-redefined.html",
+      "publisher": "AFP",
+      "time": 1785588218,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8d361d86-14ff-387e-9213-2c1c9dde536d",
-      "title": "1 Incredible Stock-Split Stock to Buy With $200 Right Now",
-      "link": "https://finance.yahoo.com/m/8d361d86-14ff-387e-9213-2c1c9dde536d/1-incredible-stock-split.html",
+      "id": "a5f392c5-247c-3f7e-857d-b93b17ddfbf1",
+      "title": "Both Berkshire Hathaway and Micron Stocks Look Cheap on the Surface. But I Like 1 Better Than the Other.",
+      "link": "https://finance.yahoo.com/m/a5f392c5-247c-3f7e-857d-b93b17ddfbf1/both-berkshire-hathaway-and.html",
       "publisher": "Motley Fool",
-      "time": 1785583200,
+      "time": 1785588180,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "e6f1826b-6d5d-34d7-97c9-c8fc1f9126c4",
+      "title": "Richarlison, Tonali fire 10-man Spurs to 2-1 Sydney win over Chelsea",
+      "link": "https://finance.yahoo.com/m/e6f1826b-6d5d-34d7-97c9-c8fc1f9126c4/richarlison%2C-tonali-fire.html",
+      "publisher": "AFP",
+      "time": 1785588091,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d29ebcb9-e80e-3d4d-83e9-5551e10985fa",
-      "title": "Stronger Q2 Results and R2 Ramp-Up Plans Could Be A Game Changer For Rivian (RIVN)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stronger-q2-results-r2-ramp-111708762.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785583028,
+      "id": "5fc66bef-d7c0-3f5b-92ed-9e8209c7c64b",
+      "title": "Treasury Secretary Invokes Satoshi as CLARITY Act Faces Senate Collapse",
+      "link": "https://finance.yahoo.com/m/5fc66bef-d7c0-3f5b-92ed-9e8209c7c64b/treasury-secretary-invokes.html",
+      "publisher": "Coinspeaker",
+      "time": 1785587834,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "aadd5ea4-3efb-3627-b25a-2e0e096a5035",
+      "title": "SLGN Q2 Deep Dive: Margin Pressure and Brazil Weakness Offset Volume Gains",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/slgn-q2-deep-dive-margin-123557781.html",
+      "publisher": "StockStory",
+      "time": 1785587757,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
