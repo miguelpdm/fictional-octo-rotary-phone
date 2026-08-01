@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T13:05:02.393010+00:00",
+  "updatedAt": "2026-08-01T14:43:51.647109+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,43 +52,51 @@
   ],
   "news": [
     {
-      "id": "42d17a87-5b40-3ec0-8496-6f194425a5b4",
-      "title": "Ray Dalio warns this major asset will have the ‘worst return’ guaranteed — and you probably own a lot of it",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/ray-dalio-warns-major-asset-125500604.html",
-      "publisher": "Moneywise",
-      "time": 1785588900,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "d6292e46-72fa-391b-abe6-6592d0624e96",
-      "title": "Hyundai Motor America Reports Record-Breaking July 2026 Sales",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hyundai-motor-america-reports-record-125500246.html",
-      "publisher": "PR Newswire",
-      "time": 1785588900,
+      "id": "8f00ddb4-3e0c-3f41-bdd2-d5a8b6287479",
+      "title": "11 injured in Colombia bombing days before presidential inauguration",
+      "link": "https://finance.yahoo.com/m/8f00ddb4-3e0c-3f41-bdd2-d5a8b6287479/11-injured-in-colombia.html",
+      "publisher": "AFP",
+      "time": 1785594905,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "dfaac3bf-7759-3140-8eed-043ad6ad711e",
-      "title": "SWK Q2 Deep Dive: Productivity Gains and Brand Strength Drive Margin Expansion",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/swk-q2-deep-dive-productivity-125157486.html",
-      "publisher": "StockStory",
-      "time": 1785588717,
+      "id": "e7d7d87f-382f-3ace-b311-a220821c43d8",
+      "title": "Should You Buy Billionaire Investor Chase Coleman’s Top 5 Growth Stocks in August?",
+      "link": "https://finance.yahoo.com/m/e7d7d87f-382f-3ace-b311-a220821c43d8/should-you-buy-billionaire.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785594636,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "1e395a1a-7365-30aa-ad26-d44d5d94ccaf",
-      "title": "US TV host says family 'begging for help' six months after mother's disappearance",
-      "link": "https://finance.yahoo.com/m/1e395a1a-7365-30aa-ad26-d44d5d94ccaf/us-tv-host-says-family.html",
-      "publisher": "AFP",
-      "time": 1785588277,
+      "id": "a8d59682-e77c-3b75-9bbf-25f75bc6171d",
+      "title": "Why Retirement Research Matters More Than Ever",
+      "link": "https://finance.yahoo.com/m/a8d59682-e77c-3b75-9bbf-25f75bc6171d/why-retirement-research.html",
+      "publisher": "TheStreet",
+      "time": 1785594600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c871378c-6b2e-3973-9a66-98e576e44c98",
+      "title": "Strategy lost $8.22 billion in Q2, but stock rose 4.4% anyway, here is why market is not worried",
+      "link": "https://finance.yahoo.com/m/c871378c-6b2e-3973-9a66-98e576e44c98/strategy-lost-%248.22-billion.html",
+      "publisher": "TheStreet",
+      "time": 1785594600,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "85ccdd48-9a19-3a98-b380-5477fc902f0c",
+      "title": "Is the Fed Becoming an Even Bigger Black Box? Warsh Wants to Reduce Number of Meetings",
+      "link": "https://finance.yahoo.com/m/85ccdd48-9a19-3a98-b380-5477fc902f0c/is-the-fed-becoming-an-even.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785594579,
       "impact": "high",
       "tags": [
         "geo",
@@ -96,64 +104,53 @@
       ]
     },
     {
-      "id": "c0de559c-ee33-35e4-9f31-d9d138f10ff0",
-      "title": "BAND Q2 Deep Dive: AI Adoption Drives Growth, Guidance Sparks Market Reassessment",
-      "link": "https://finance.yahoo.com/technology/ai/articles/band-q2-deep-dive-ai-124357896.html",
+      "id": "ea9a6f4f-770a-3146-a39f-9a8702666637",
+      "title": "2 Reasons to Like FAST (and 1 Not So Much)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-fast-1-not-142757143.html",
       "publisher": "StockStory",
-      "time": 1785588237,
+      "time": 1785594477,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "49242298-8043-3d08-8733-70387d4ebd07",
+      "title": "CTA Nasdaq de-risking appears largely complete: BofA",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cta-nasdaq-risking-appears-largely-142630967.html",
+      "publisher": "Investing.com",
+      "time": 1785594390,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c36502c9-4a64-3914-a94d-41a136569708",
+      "title": "1 in 5 new car buyers are stuck in a $1,000-a-month nightmare — and it’s ruining their long-term wealth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-5-car-buyers-stuck-142500536.html",
+      "publisher": "Moneywise",
+      "time": 1785594300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e592e342-73bd-3e1f-ba01-49b17911e801",
+      "title": "JEPI vs JEPQ: After Comparing America’s Two Biggest Income ETFs, One Is the Better Buy for the Rest of 2026",
+      "link": "https://finance.yahoo.com/m/e592e342-73bd-3e1f-ba01-49b17911e801/jepi-vs-jepq%3A-after-comparing.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785594237,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c52d0fd8-004f-33ba-8736-78d9b7e806f3",
+      "title": "SpaceX Is Down 19% From Its IPO Price. Tesla's History Suggests This May Happen Next",
+      "link": "https://finance.yahoo.com/m/c52d0fd8-004f-33ba-8736-78d9b7e806f3/spacex-is-down-19%25-from-its.html",
+      "publisher": "Motley Fool",
+      "time": 1785594000,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
-      ]
-    },
-    {
-      "id": "25131554-19ac-31d0-aa40-8dc52df9da8f",
-      "title": "Nirmal Purja, who redefined climbing, confirmed dead in Pakistan",
-      "link": "https://finance.yahoo.com/m/25131554-19ac-31d0-aa40-8dc52df9da8f/nirmal-purja%2C-who-redefined.html",
-      "publisher": "AFP",
-      "time": 1785588218,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a5f392c5-247c-3f7e-857d-b93b17ddfbf1",
-      "title": "Both Berkshire Hathaway and Micron Stocks Look Cheap on the Surface. But I Like 1 Better Than the Other.",
-      "link": "https://finance.yahoo.com/m/a5f392c5-247c-3f7e-857d-b93b17ddfbf1/both-berkshire-hathaway-and.html",
-      "publisher": "Motley Fool",
-      "time": 1785588180,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "e6f1826b-6d5d-34d7-97c9-c8fc1f9126c4",
-      "title": "Richarlison, Tonali fire 10-man Spurs to 2-1 Sydney win over Chelsea",
-      "link": "https://finance.yahoo.com/m/e6f1826b-6d5d-34d7-97c9-c8fc1f9126c4/richarlison%2C-tonali-fire.html",
-      "publisher": "AFP",
-      "time": 1785588091,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5fc66bef-d7c0-3f5b-92ed-9e8209c7c64b",
-      "title": "Treasury Secretary Invokes Satoshi as CLARITY Act Faces Senate Collapse",
-      "link": "https://finance.yahoo.com/m/5fc66bef-d7c0-3f5b-92ed-9e8209c7c64b/treasury-secretary-invokes.html",
-      "publisher": "Coinspeaker",
-      "time": 1785587834,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "aadd5ea4-3efb-3627-b25a-2e0e096a5035",
-      "title": "SLGN Q2 Deep Dive: Margin Pressure and Brazil Weakness Offset Volume Gains",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/slgn-q2-deep-dive-margin-123557781.html",
-      "publisher": "StockStory",
-      "time": 1785587757,
-      "impact": "low",
-      "tags": [
-        "macro"
       ]
     }
   ],
