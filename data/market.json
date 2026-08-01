@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T22:25:50.650171+00:00",
+  "updatedAt": "2026-08-01T23:27:45.873359+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,121 +52,41 @@
   ],
   "news": [
     {
-      "id": "a6404bb6-4890-31d6-8f0a-5240caeb44af",
-      "title": "13 dead after small tourist plane crashes in Peru",
-      "link": "https://finance.yahoo.com/m/a6404bb6-4890-31d6-8f0a-5240caeb44af/13-dead-after-small-tourist.html",
-      "publisher": "AFP",
-      "time": 1785622457,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9caa132b-cf35-3336-a454-f17f4d5f71e1",
-      "title": "Has Expeditors International Of Washington (EXPD) Run Too Far Ahead Of Flat Sales?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/expeditors-international-washington-expd-run-221154529.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785622314,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e5be42e7-e40a-37ca-a7ad-0b17bac5bf1c",
-      "title": "Can Virtu Financial (VIRT) Justify Its Valuation After Record Results And A Dividend Affirmation?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/virtu-financial-virt-justify-valuation-221151892.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785622311,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "08b9b61d-5f20-3844-8f3b-927970f27c9b",
-      "title": "Is Ategrity Specialty Insurance Company Holdings (ASIC) Below Fair Value?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ategrity-specialty-insurance-company-holdings-221151307.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785622311,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "577bcf5e-4535-3ef0-b0a4-e0945fb15599",
-      "title": "Luckin Coffee (OTCPK:LKNC.Y) Stock Trades Below Fair Value Despite New York Push",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/luckin-coffee-otcpk-lknc-y-221126257.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785622286,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "0c729209-9595-3ce5-80df-75cc6401457d",
-      "title": "CIBC (TSX:CM) Stock Could Be Undervalued Even After A 233% Run",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cibc-tsx-cm-stock-could-221118805.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785622278,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3f4b1f9f-1eb4-3cba-986e-4b9ec661776f",
-      "title": "Korn Ferry (KFY) Revenue Growth Story Raises The Question Of Whether The Stock Is Fully Valued",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/korn-ferry-kfy-revenue-growth-221110839.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785622270,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f24724af-29ee-399c-8c9a-f46ed5bd0ebc",
-      "title": "Caesars Entertainment (CZR) Stock Looks Cheap Even After The Take Private Deal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/caesars-entertainment-czr-stock-looks-221036588.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785622236,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6b514a12-58c0-388d-985f-8ac9a0c83e20",
-      "title": "Is Virtus Investment Partners (VRTS) Undervalued On Its Latest Earnings?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/virtus-investment-partners-vrts-undervalued-221034032.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785622234,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "22f19781-c89e-3185-9ecf-8b42ff115b86",
-      "title": "Allient (ALNT) Stock Looks Stretched On Cash Flow And Rich On Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/allient-alnt-stock-looks-stretched-221029222.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785622229,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "b74634b0-8815-36f6-a14a-9cc88edf3096",
-      "title": "ESCO Technologies (ESE) Heads Into Earnings As Bullish Views Test Its Undervalued Narrative",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/esco-technologies-ese-heads-earnings-220937662.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785622177,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "3365d8e4-4089-3d9e-adef-b332a1ecf65b",
-      "title": "Warren Buffett's Berkshire Could Buy Almost Any S&P 500 Company With Its $397 Billion Cash Pile, but Keeps Waiting for a Better Price",
-      "link": "https://finance.yahoo.com/m/3365d8e4-4089-3d9e-adef-b332a1ecf65b/warren-buffett%27s-berkshire.html",
+      "id": "90aa7b8e-4af2-32c6-98b0-f881bf304106",
+      "title": "Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?",
+      "link": "https://finance.yahoo.com/m/90aa7b8e-4af2-32c6-98b0-f881bf304106/microsoft-stock-is-up-26%25.html",
       "publisher": "Motley Fool",
-      "time": 1785621900,
+      "time": 1785626400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5fe41fc1-e187-3a93-8bb3-d8a5a23f9824",
+      "title": "New High School Campus in West End Opelousas Brings State-of-the-Art Training for High-Demand Careers",
+      "link": "https://finance.yahoo.com/small-business/articles/high-school-campus-west-end-231600924.html",
+      "publisher": "PR Newswire",
+      "time": 1785626160,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d8631da7-a812-38c5-9ecc-2f05b746c1dc",
+      "title": "Lucid Group Reports Earnings on August 4. Here's What Investors Should Be Watching.",
+      "link": "https://finance.yahoo.com/m/d8631da7-a812-38c5-9ecc-2f05b746c1dc/lucid-group-reports-earnings.html",
+      "publisher": "Motley Fool",
+      "time": 1785626096,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "1e4a044b-8d09-3be6-92c6-047370504b21",
+      "title": "Did Strong Q2 Results and Tariff Windfall Just Shift Carter’s (CRI) Investment Narrative?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/did-strong-q2-results-tariff-231029865.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785625829,
       "impact": "high",
       "tags": [
         "geo",
@@ -174,29 +94,11 @@
       ]
     },
     {
-      "id": "f6ed689f-a7d3-3511-a87c-387f7e855c9a",
-      "title": "You Don't Have to Own a Single AI Stock to Get Hurt When This Bubble Pops.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dont-own-single-ai-stock-220000234.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785621600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "327d6dda-1100-382c-ae27-46e1caba6acd",
-      "title": "Eala stuns Osaka to book Washington final against Pegula",
-      "link": "https://finance.yahoo.com/m/327d6dda-1100-382c-ae27-46e1caba6acd/eala-stuns-osaka-to-book.html",
-      "publisher": "AFP",
-      "time": 1785621518,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a6fd7cc1-160f-33be-9c9b-10601e0fcebe",
-      "title": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
-      "link": "https://finance.yahoo.com/m/a6fd7cc1-160f-33be-9c9b-10601e0fcebe/dow-jones-futures%3A-market.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1785621500,
+      "id": "b2314584-5ab2-37b2-9736-49346d7b9bb7",
+      "title": "Is Scorpio Tankers (STNG) Undervalued After Record Q2 Earnings And A Dividend Confirmed?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/scorpio-tankers-stng-undervalued-record-231024119.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785625824,
       "impact": "medium",
       "tags": [
         "macro",
@@ -204,11 +106,53 @@
       ]
     },
     {
-      "id": "133b3223-06ac-3e94-86a0-22541f07ead5",
-      "title": "Middle East turmoil leaves gas prices exposed",
-      "link": "https://finance.yahoo.com/m/133b3223-06ac-3e94-86a0-22541f07ead5/middle-east-turmoil-leaves.html",
-      "publisher": "TheStreet",
-      "time": 1785620820,
+      "id": "17acc10a-2664-3f24-8a17-c0bc2edbcd5f",
+      "title": "NextDecade (NEXT) Gains Rio Grande LNG Momentum As Undervalued Narrative Holds",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nextdecade-next-gains-rio-grande-231020751.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785625820,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b63e0ce6-8be4-385d-b66e-1a689f4b4228",
+      "title": "Expro (XPRO) Could Be 11% Undervalued As 2026 Revenue Guidance Rises",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/expro-xpro-could-11-undervalued-231011384.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785625811,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "977ab476-deba-37bd-b48f-a88cc8331700",
+      "title": "Venezuela transition talks to start in person next week: govt",
+      "link": "https://finance.yahoo.com/m/977ab476-deba-37bd-b48f-a88cc8331700/venezuela-transition-talks-to.html",
+      "publisher": "AFP",
+      "time": 1785625786,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f5448681-c946-3ba2-b76f-e977b91ca824",
+      "title": "Williams Sonoma (WSM) Stock May Be A Bargain On Cash Flow But Rich On Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/williams-sonoma-wsm-stock-may-230946716.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785625786,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "2d326a1c-b813-3472-8661-b202878bbdc0",
+      "title": "L'Oréal (ENXTPA:OR) Stock Looks About Right With Cash Flow Support And Richer Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lor-al-enxtpa-stock-looks-230944904.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785625784,
       "impact": "medium",
       "tags": [
         "macro",
