@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T05:40:56.907779+00:00",
+  "updatedAt": "2026-08-01T08:10:05.031471+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,22 +52,49 @@
   ],
   "news": [
     {
-      "id": "904e929b-9cb0-3d22-a48d-794462c7ece0",
-      "title": "Why Are SPX Technologies (SPXC) Shares Soaring Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-spx-technologies-spxc-shares-052357456.html",
+      "id": "441ce767-5b40-3e4b-8078-4aecd2e1b732",
+      "title": "Macy's has a $675 Citizen luxury automatic watch with 21 miniature rubies inside for 40% off",
+      "link": "https://finance.yahoo.com/m/441ce767-5b40-3e4b-8078-4aecd2e1b732/macy%27s-has-a-%24675-citizen.html",
+      "publisher": "TheStreet",
+      "time": 1785571200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ace83b7b-ce3e-3029-823f-ca90d3a47c98",
+      "title": "The RipTide Car Wash Honors Teachers and School Staff with 2nd Annual Free Car Washes Throughout August",
+      "link": "https://finance.yahoo.com/small-business/articles/riptide-car-wash-honors-teachers-080000488.html",
+      "publisher": "PR Newswire",
+      "time": 1785571200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0c9ef913-421d-3757-8a15-9ece4a5c2f27",
+      "title": "FCN Q2 Deep Dive: Margin Pressures and Geopolitical Headwinds Shape Outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fcn-q2-deep-dive-margin-075557015.html",
       "publisher": "StockStory",
-      "time": 1785561837,
+      "time": 1785570957,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "cdef922d-234b-3f42-b932-4f893f86b011",
-      "title": "If a Recession Is Coming, Here's How I'm Preparing My Portfolio",
-      "link": "https://finance.yahoo.com/m/cdef922d-234b-3f42-b932-4f893f86b011/if-a-recession-is-coming%2C.html",
+      "id": "5ab3919e-81db-30b8-8a47-b080f8c45ae5",
+      "title": "182 Chandigarh University Animation & Multimedia Students Secure Jobs in Top Animation, VFX, Gaming, Digital Media & Filmmaking Studios",
+      "link": "https://finance.yahoo.com/media-advertising/articles/182-chandigarh-university-animation-multimedia-075300053.html",
+      "publisher": "PR Newswire",
+      "time": 1785570780,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "97ae9d29-f35e-339d-9e98-a6420010643d",
+      "title": "Kevin Warsh Did Not Impress the Bond Market -- 30-Year Yields Are Up to 5.2%. Here's What This Might Mean for Investors in These 2 ETFs.",
+      "link": "https://finance.yahoo.com/m/97ae9d29-f35e-339d-9e98-a6420010643d/kevin-warsh-did-not-impress.html",
       "publisher": "Motley Fool",
-      "time": 1785561600,
+      "time": 1785570600,
       "impact": "high",
       "tags": [
         "geo",
@@ -75,86 +102,54 @@
       ]
     },
     {
-      "id": "40f62421-41a1-3de8-95c7-4111fad34796",
-      "title": "Warsaw and Kyiv exhume Volyn victims at centre of diplomatic quarrel",
-      "link": "https://finance.yahoo.com/m/40f62421-41a1-3de8-95c7-4111fad34796/warsaw-and-kyiv-exhume-volyn.html",
-      "publisher": "AFP",
-      "time": 1785561442,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "ca1de2dd-855b-32ba-a69e-28e90f93c04f",
-      "title": "Why Myriad Genetics (MYGN) Shares Are Falling Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-myriad-genetics-mygn-shares-051557143.html",
-      "publisher": "StockStory",
-      "time": 1785561357,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "049de035-9244-3e2b-b642-9b9a674b667f",
-      "title": "UFP Industries (UFPI) Could Be 55% Below Fair Value Following Margin Pressured Q2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ufp-industries-ufpi-could-55-050846751.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785560926,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "201c8534-de7a-327a-89d2-174ee45481ba",
-      "title": "Excelerate Energy (EE) Lifts Its Dividend, Is The Stock Fully Valued?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/excelerate-energy-ee-lifts-dividend-050846986.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785560926,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ec7e00bc-de7c-3fed-b9e0-222795f41f34",
-      "title": "Amneal (AMRX) Stock Looks About Fair Value On Current Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amneal-amrx-stock-looks-fair-050839284.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785560919,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "ba77499e-060b-39da-a67e-8dd32bdef788",
-      "title": "Roblox (RBLX) Is Reworking Recommendations And Safety, And Bookings Are Feeling It",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/roblox-rblx-reworking-recommendations-safety-050833600.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785560913,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3f9bf020-eca0-3282-9b9d-0ec814f38fce",
-      "title": "Why did the Japanese yen collapse in 2026?",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/why-did-japanese-yen-collapse-050827534.html",
+      "id": "fbc99cb7-7d61-3d2c-abe0-dabdc6b12867",
+      "title": "US and allies display growing naval cooperation in Pacific drills",
+      "link": "https://finance.yahoo.com/m/fbc99cb7-7d61-3d2c-abe0-dabdc6b12867/us-and-allies-display-growing.html",
       "publisher": "Investing.com",
-      "time": 1785560907,
+      "time": 1785570588,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d1166500-814d-34c3-b591-ef47e91854e7",
-      "title": "TJX Companies (TJX) Slips Before Earnings, Is The Stock Cheap Or Expensive?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tjx-companies-tjx-slips-earnings-050811143.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785560891,
-      "impact": "medium",
+      "id": "b7ed71c7-5cf4-3715-a5e9-f7db4d9ac2da",
+      "title": "GDYN Q2 Deep Dive: AI Acceleration and Strategic Partnerships Shape Outlook",
+      "link": "https://finance.yahoo.com/technology/ai/articles/gdyn-q2-deep-dive-ai-074757986.html",
+      "publisher": "StockStory",
+      "time": 1785570477,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
+      ]
+    },
+    {
+      "id": "cef28f8c-0c20-33e5-b7a0-97535b7296c9",
+      "title": "BFAM Q2 Deep Dive: Back-up Care Drives Growth Amid Full Service Headwinds",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bfam-q2-deep-dive-back-073957433.html",
+      "publisher": "StockStory",
+      "time": 1785569997,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "edc99169-c1f5-310b-83ca-182a0308a108",
+      "title": "South Korea baseball league cancels two games over heatwave",
+      "link": "https://finance.yahoo.com/m/edc99169-c1f5-310b-83ca-182a0308a108/south-korea-baseball-league.html",
+      "publisher": "AFP",
+      "time": 1785569610,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3166d86e-4d10-3dfd-8cb9-27013bc28d65",
+      "title": "BWIN Q2 Deep Dive: Integration Progress and AI Initiatives Offset Mixed Organic Growth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bwin-q2-deep-dive-integration-073157749.html",
+      "publisher": "StockStory",
+      "time": 1785569517,
+      "impact": "low",
+      "tags": [
+        "macro"
       ]
     }
   ],
