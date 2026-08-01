@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T10:14:38.273734+00:00",
+  "updatedAt": "2026-08-01T11:40:14.313228+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,29 @@
   ],
   "news": [
     {
-      "id": "01d9abe2-84f1-38f3-999e-dd9fac82bb52",
-      "title": "August forecast calls for more record heat. When will it stop?",
-      "link": "https://finance.yahoo.com/m/01d9abe2-84f1-38f3-999e-dd9fac82bb52/august-forecast-calls-for.html",
-      "publisher": "USA TODAY",
-      "time": 1785578651,
+      "id": "1660f3e4-23a3-3291-b87d-68141588e5a3",
+      "title": "Bristol Myers Squibb Isn't Nearly as Cheap as It Looks -- Here's the 1 Thing That Could Change That",
+      "link": "https://finance.yahoo.com/m/1660f3e4-23a3-3291-b87d-68141588e5a3/bristol-myers-squibb-isn%27t.html",
+      "publisher": "Motley Fool",
+      "time": 1785584100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "60e4a7c3-6993-3292-abd1-14c1b37f874c",
+      "title": "COLUMN: What to know about the latest trend in prenuptial agreements",
+      "link": "https://finance.yahoo.com/m/60e4a7c3-6993-3292-abd1-14c1b37f874c/column%3A-what-to-know-about.html",
+      "publisher": "Press-Republican, Plattsburgh, N.Y.",
+      "time": 1785583980,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "92c82d3e-1f19-3e53-99e6-ec64a3d1b260",
+      "title": "The Top 5 Analyst Questions From First Interstate BancSystem’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-first-113157984.html",
+      "publisher": "StockStory",
+      "time": 1785583917,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,11 +82,41 @@
       ]
     },
     {
-      "id": "7681ad28-42f6-3f04-b06c-b046fd3e43dc",
-      "title": "IGM Financial Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/7681ad28-42f6-3f04-b06c-b046fd3e43dc/igm-financial-q2-earnings.html",
-      "publisher": "MarketBeat",
-      "time": 1785578625,
+      "id": "195eaba4-53b0-3115-9bc2-afd95022100c",
+      "title": "Bitcoin's August curse: analyst says history points to another painful month",
+      "link": "https://finance.yahoo.com/m/195eaba4-53b0-3115-9bc2-afd95022100c/bitcoin%27s-august-curse%3A.html",
+      "publisher": "TheStreet",
+      "time": 1785583800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0a8778b2-eaf5-3dcb-b694-d3da676fb415",
+      "title": "A 72-year-old retiree inherited $40,000 from her sister — here's what financial experts say to do first",
+      "link": "https://finance.yahoo.com/markets/articles/72-old-retiree-inherited-40-113000725.html",
+      "publisher": "Moneywise",
+      "time": 1785583800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "db26c547-0f4a-33d4-87d7-0ae99eb7ebd1",
+      "title": "Mark Cuban, Michael Burry raise the same red flag warning over giant US sector — is your nest egg at risk?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mark-cuban-michael-burry-raise-113000465.html",
+      "publisher": "Moneywise",
+      "time": 1785583800,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "35bc8f46-c028-3b37-915f-6775743483cb",
+      "title": "A SpaceX Earnings Preview: Starlink Growth, AI Costs, Starship Roadmap",
+      "link": "https://finance.yahoo.com/m/35bc8f46-c028-3b37-915f-6775743483cb/a-spacex-earnings-preview%3A.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1785583702,
       "impact": "medium",
       "tags": [
         "macro",
@@ -76,11 +124,38 @@
       ]
     },
     {
-      "id": "84cac764-5c13-3d48-a9de-a2b253a552fd",
-      "title": "Ivanhoe Mines Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/84cac764-5c13-3d48-a9de-a2b253a552fd/ivanhoe-mines-q2-earnings.html",
-      "publisher": "MarketBeat",
-      "time": 1785578625,
+      "id": "eb099fde-d32e-3e56-8bb1-8e4ac059cd73",
+      "title": "NASA Searches Couch Cushions, Finds Another $600 Million for Moon Missions",
+      "link": "https://finance.yahoo.com/m/eb099fde-d32e-3e56-8bb1-8e4ac059cd73/nasa-searches-couch-cushions%2C.html",
+      "publisher": "Motley Fool",
+      "time": 1785583620,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a5246073-9236-3dd2-85ab-d043b343d3ff",
+      "title": "Established Experts Are Racing to Clone Their Knowledge Before AI Leaves Them Behind",
+      "link": "https://finance.yahoo.com/technology/ai/articles/established-experts-racing-clone-knowledge-112500919.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1785583500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e35704d7-8ec1-3e7d-acff-acbe8b149ee5",
+      "title": "Munch Studio Reviewed: Why AI-Powered Content Repurposing Is Becoming Every Creator's Secret Weapon",
+      "link": "https://finance.yahoo.com/technology/ai/articles/munch-studio-reviewed-why-ai-112500885.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1785583500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "df5cecf1-4c2e-3896-bb69-ab2d9da6669d",
+      "title": "PRG Q2 Deep Dive: Margin Compression Despite Broad-Based Growth and Guidance Lift",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/prg-q2-deep-dive-margin-112357845.html",
+      "publisher": "StockStory",
+      "time": 1785583437,
       "impact": "medium",
       "tags": [
         "macro",
@@ -88,88 +163,31 @@
       ]
     },
     {
-      "id": "9118edb3-cc73-33cd-ae46-31c08e489c79",
-      "title": "Intact Financial Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/9118edb3-cc73-33cd-ae46-31c08e489c79/intact-financial-q2-earnings.html",
-      "publisher": "MarketBeat",
-      "time": 1785578625,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "a55aa44c-2005-31e1-b699-7e7a675aab49",
+      "title": "XRP Price Prediction: What Price Will XRP Hit in August?",
+      "link": "https://finance.yahoo.com/m/a55aa44c-2005-31e1-b699-7e7a675aab49/xrp-price-prediction%3A-what.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785583323,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "52fa4f77-f14a-3e07-b4b4-85d4037bf4d0",
-      "title": "Great-West Lifeco Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/52fa4f77-f14a-3e07-b4b4-85d4037bf4d0/great-west-lifeco-q2-earnings.html",
-      "publisher": "MarketBeat",
-      "time": 1785578624,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "8d361d86-14ff-387e-9213-2c1c9dde536d",
+      "title": "1 Incredible Stock-Split Stock to Buy With $200 Right Now",
+      "link": "https://finance.yahoo.com/m/8d361d86-14ff-387e-9213-2c1c9dde536d/1-incredible-stock-split.html",
+      "publisher": "Motley Fool",
+      "time": 1785583200,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "63ffd78d-4993-32d6-95c2-c5d901c415bf",
-      "title": "First Quantum Minerals Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/63ffd78d-4993-32d6-95c2-c5d901c415bf/first-quantum-minerals-q2.html",
-      "publisher": "MarketBeat",
-      "time": 1785578624,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c9a7e882-367b-3d09-a555-94dffff5bb80",
-      "title": "Hammond Power Solutions Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/c9a7e882-367b-3d09-a555-94dffff5bb80/hammond-power-solutions-q2.html",
-      "publisher": "MarketBeat",
-      "time": 1785578624,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "ccaa6b82-e625-38f7-a330-3be3bcd3fc21",
-      "title": "Freehold Royalties Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/ccaa6b82-e625-38f7-a330-3be3bcd3fc21/freehold-royalties-q2.html",
-      "publisher": "MarketBeat",
-      "time": 1785578624,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "317571d7-8159-373b-9b6e-35d97e475ec1",
-      "title": "EcoSynthetix Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/317571d7-8159-373b-9b6e-35d97e475ec1/ecosynthetix-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1785578623,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "81a2d33c-d80e-3f17-a019-79a8fae42469",
-      "title": "Foraco International Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/81a2d33c-d80e-3f17-a019-79a8fae42469/foraco-international-q2.html",
-      "publisher": "MarketBeat",
-      "time": 1785578623,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "d29ebcb9-e80e-3d4d-83e9-5551e10985fa",
+      "title": "Stronger Q2 Results and R2 Ramp-Up Plans Could Be A Game Changer For Rivian (RIVN)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stronger-q2-results-r2-ramp-111708762.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785583028,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
