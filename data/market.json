@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T20:24:54.950836+00:00",
+  "updatedAt": "2026-08-01T21:23:07.948909+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,49 @@
   ],
   "news": [
     {
-      "id": "483f5447-40dc-32b0-a4da-a0adbda9be0f",
-      "title": "Federal Signal (FSS) Is Up 5.1% After Record Q2 2026 And Raised Sales Outlook - What's Changed",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/federal-signal-fss-5-1-201211183.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785615131,
+      "id": "5449c0fc-befc-3d7a-8b00-b90ef4a0e129",
+      "title": "Dollar General copies Costco with a discount twist",
+      "link": "https://finance.yahoo.com/m/5449c0fc-befc-3d7a-8b00-b90ef4a0e129/dollar-general-copies-costco.html",
+      "publisher": "TheStreet",
+      "time": 1785618344,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "aad0d887-390f-3546-98e5-f4b4672301a8",
+      "title": "Mitt Romney’s IRA Was Worth Up to $100 Million When He Ran for President but The Annual Limit Was $6,000. The Rules He Used Are Still Legal",
+      "link": "https://finance.yahoo.com/m/aad0d887-390f-3546-98e5-f4b4672301a8/mitt-romney%E2%80%99s-ira-was-worth.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785618216,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7b391b35-e595-3f65-8c18-06f13d7018fb",
+      "title": "CeeDee Lamb on Cowboys' defensive front: 'I don't know if you can double-team everybody' 'Back Together Weekend'",
+      "link": "https://finance.yahoo.com/m/7b391b35-e595-3f65-8c18-06f13d7018fb/ceedee-lamb-on-cowboys%27.html",
+      "publisher": "NFL Highlights",
+      "time": 1785618122,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8e58d168-fd2d-3016-8477-9171e7142c50",
+      "title": "'Wing Chun' Opens to Standing Ovation in South Korea, Dance as a Bridge: A New Chapter for China-Korea Cultural Exchange.",
+      "link": "https://finance.yahoo.com/media-advertising/articles/wing-chun-opens-standing-ovation-210000120.html",
+      "publisher": "PR Newswire",
+      "time": 1785618000,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "11ec99c8-051c-34dd-b32b-a39aaeff1ec8",
+      "title": "49ers LB Fred Warner on providing veteran leadership to defense 'Back Together Weekend'",
+      "link": "https://finance.yahoo.com/m/11ec99c8-051c-34dd-b32b-a39aaeff1ec8/49ers-lb-fred-warner-on.html",
+      "publisher": "NFL Highlights",
+      "time": 1785617885,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,41 +102,20 @@
       ]
     },
     {
-      "id": "20bce99f-44d0-3470-a586-9d51f609fdb3",
-      "title": "Is General Motors (GM) Undervalued Or Already Priced For EV Charges?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/general-motors-gm-undervalued-already-201150291.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785615110,
+      "id": "5f1cd7be-7ad3-31f9-be3e-a3a4830b4128",
+      "title": "McDonald's Sits 21% Below Its High and 4% Above Its 52-Week Low. The Dividend Yields 2.7%.",
+      "link": "https://finance.yahoo.com/m/5f1cd7be-7ad3-31f9-be3e-a3a4830b4128/mcdonald%27s-sits-21%25-below-its.html",
+      "publisher": "Motley Fool",
+      "time": 1785617880,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "28aad7a1-ee9b-302e-ba30-4ea3da1fc537",
-      "title": "Why Morningstar (MORN) Is Up 11.6% After Earnings Beat And Major Index Rebrand",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-morningstar-morn-11-6-201126799.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785615086,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e2f662b4-2748-313b-b134-94a78939b071",
-      "title": "Korn Ferry (KFY) Is Up 5.1% After Fifth Straight Quarter Of Revenue Growth And Analyst Praise – Has The Bull Case Changed?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/korn-ferry-kfy-5-1-201120521.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785615080,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2625c19e-6d51-3ba4-9053-f86c93573123",
-      "title": "Chevron (CVX) Warns Fuel Prices Could Stay High As Refining Capacity Stays Tight",
-      "link": "https://finance.yahoo.com/energy/articles/chevron-cvx-warns-fuel-prices-201107675.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785615067,
+      "id": "ce1b3053-d846-3af2-bd30-cd734cd67f9f",
+      "title": "Inflation Could Wreck Your Retirement. Here's How to Avoid Letting That Happen.",
+      "link": "https://finance.yahoo.com/m/ce1b3053-d846-3af2-bd30-cd734cd67f9f/inflation-could-wreck-your.html",
+      "publisher": "Motley Fool",
+      "time": 1785617760,
       "impact": "high",
       "tags": [
         "geo",
@@ -106,58 +123,33 @@
       ]
     },
     {
-      "id": "f44b16bb-5b0c-35a7-86e5-4958fd0a5129",
-      "title": "Markel Group (MKL) Earnings Put Its Underwriting Narrative And Valuation In Focus",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/markel-group-mkl-earnings-put-201049025.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785615049,
+      "id": "359a1e2f-8f5d-3b44-ab2a-9bcf077c5430",
+      "title": "What does the China reset mean for the Nike business?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/does-china-reset-mean-nike-205251600.html",
+      "publisher": "Investing.com",
+      "time": 1785617571,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
     },
     {
-      "id": "a491c9dc-1116-3d9f-862b-d4dd1a14ac4b",
-      "title": "Should Rising EPS Estimates And Forecast Beats Require Action From Curtiss-Wright (CW) Investors?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rising-eps-estimates-forecast-beats-201045747.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785615045,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "3fc61ab0-971b-3af1-880f-c8a9b2ce9d86",
-      "title": "How a US$23 Billion Buyback Authorization at Phillips 66 (PSX) Has Changed Its Investment Story",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-23-billion-buyback-authorization-201038430.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785615038,
+      "id": "5901ce39-3883-3ec1-a575-f83ed297312e",
+      "title": "29-year-old fast-casual chain closes final location",
+      "link": "https://finance.yahoo.com/m/5901ce39-3883-3ec1-a575-f83ed297312e/29-year-old-fast-casual-chain.html",
+      "publisher": "TheStreet",
+      "time": 1785617460,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ffeab00d-3b1e-3ef3-bed5-e129c9bfb32f",
-      "title": "Will HubSpot’s Breeze AI Push Reshape Its Unified Platform Narrative for Investors in HUBS?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/hubspot-breeze-ai-push-reshape-201038919.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785615038,
+      "id": "d2b5e8d8-f77a-3563-9873-c16e1df4c379",
+      "title": "Nick Westbrook-Ikhine outleaps Colts DB for deep-ball catch at training camp 'Back Together Weekend'",
+      "link": "https://finance.yahoo.com/m/d2b5e8d8-f77a-3563-9873-c16e1df4c379/nick-westbrook-ikhine.html",
+      "publisher": "NFL Highlights",
+      "time": 1785617380,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "8c73fa99-dcf2-3163-8bcf-a3c9980318bc",
-      "title": "Why Enova International (ENVA) Is Up 7.1% After Strong Q2 Earnings And Buybacks Reported",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-enova-international-enva-7-201009740.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785615009,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
     }
   ],
   "errors": {
