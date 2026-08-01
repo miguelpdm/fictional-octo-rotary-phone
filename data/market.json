@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T19:07:36.814049+00:00",
+  "updatedAt": "2026-08-01T20:24:54.950836+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,49 +52,32 @@
   ],
   "news": [
     {
-      "id": "a3a08f2a-361d-3756-895d-62bcdd6dddd9",
-      "title": "History Says That Bitcoin Is an Unbelievable Bargain Right Now",
-      "link": "https://finance.yahoo.com/m/a3a08f2a-361d-3756-895d-62bcdd6dddd9/history-says-that-bitcoin-is.html",
-      "publisher": "Motley Fool",
-      "time": 1785610980,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c82f8152-32c5-3227-9892-f6919daa4897",
-      "title": "Employment lawyers share why your boss can legally fire you for dyeing your hair — and the exception that changes it all",
-      "link": "https://finance.yahoo.com/small-business/articles/employment-lawyers-share-why-boss-190000103.html",
-      "publisher": "Moneywise",
-      "time": 1785610800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a968d460-be61-3a9c-9f52-f3c3d3ba9ab5",
-      "title": "ODFL Q2 Deep Dive: Yield Discipline and Margin Gains Amid Volume Headwinds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/odfl-q2-deep-dive-yield-185100933.html",
-      "publisher": "StockStory",
-      "time": 1785610260,
-      "impact": "low",
+      "id": "483f5447-40dc-32b0-a4da-a0adbda9be0f",
+      "title": "Federal Signal (FSS) Is Up 5.1% After Record Q2 2026 And Raised Sales Outlook - What's Changed",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/federal-signal-fss-5-1-201211183.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785615131,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "07f0cc54-acaf-3e77-85c9-181ab1e41e97",
-      "title": "Vanguard VONG vs VBK: Is a Small Cap ETF the Better Buy Over a Large Cap Fund in 2026?",
-      "link": "https://finance.yahoo.com/m/07f0cc54-acaf-3e77-85c9-181ab1e41e97/vanguard-vong-vs-vbk%3A-is-a.html",
-      "publisher": "Motley Fool",
-      "time": 1785610081,
+      "id": "20bce99f-44d0-3470-a586-9d51f609fdb3",
+      "title": "Is General Motors (GM) Undervalued Or Already Priced For EV Charges?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/general-motors-gm-undervalued-already-201150291.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785615110,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7595eada-1090-3512-82a4-e4d3921991c4",
-      "title": "PSN Q2 Deep Dive: Portfolio Reshaping and Delays Drive Guidance Cuts Amid Mixed Demand Signals",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/psn-q2-deep-dive-portfolio-184300804.html",
-      "publisher": "StockStory",
-      "time": 1785609780,
+      "id": "28aad7a1-ee9b-302e-ba30-4ea3da1fc537",
+      "title": "Why Morningstar (MORN) Is Up 11.6% After Earnings Beat And Major Index Rebrand",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-morningstar-morn-11-6-201126799.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785615086,
       "impact": "medium",
       "tags": [
         "macro",
@@ -102,20 +85,32 @@
       ]
     },
     {
-      "id": "05483a34-d884-3a7c-b688-5a45080ef9b8",
-      "title": "BCAS Calls for National Commission on the Legacy of Slavery and Anti-Black Racism in Canada",
-      "link": "https://finance.yahoo.com/economy/policy/articles/bcas-calls-national-commission-legacy-184200264.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785609720,
+      "id": "e2f662b4-2748-313b-b134-94a78939b071",
+      "title": "Korn Ferry (KFY) Is Up 5.1% After Fifth Straight Quarter Of Revenue Growth And Analyst Praise – Has The Bull Case Changed?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/korn-ferry-kfy-5-1-201120521.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785615080,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "afbd9be7-85c4-36e4-8763-51ef94f82c7d",
-      "title": "Oil leak spreads from a sanctioned tanker grounded off Oman, images show",
-      "link": "https://finance.yahoo.com/m/afbd9be7-85c4-36e4-8763-51ef94f82c7d/oil-leak-spreads-from-a.html",
-      "publisher": "Associated Press",
-      "time": 1785609568,
+      "id": "2625c19e-6d51-3ba4-9053-f86c93573123",
+      "title": "Chevron (CVX) Warns Fuel Prices Could Stay High As Refining Capacity Stays Tight",
+      "link": "https://finance.yahoo.com/energy/articles/chevron-cvx-warns-fuel-prices-201107675.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785615067,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "f44b16bb-5b0c-35a7-86e5-4958fd0a5129",
+      "title": "Markel Group (MKL) Earnings Put Its Underwriting Narrative And Valuation In Focus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/markel-group-mkl-earnings-put-201049025.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785615049,
       "impact": "medium",
       "tags": [
         "macro",
@@ -123,20 +118,11 @@
       ]
     },
     {
-      "id": "5616e225-00bb-3c96-96c5-3aedd59b4b08",
-      "title": "These 8 States Tax Social Security Benefits. Is Your State One of Them?",
-      "link": "https://finance.yahoo.com/m/5616e225-00bb-3c96-96c5-3aedd59b4b08/these-8-states-tax-social.html",
-      "publisher": "Motley Fool",
-      "time": 1785609300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c63fd952-0adf-309e-8313-a7ceb3d381e3",
-      "title": "The Top 5 Analyst Questions From Hilltop Holdings’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-hilltop-183500323.html",
-      "publisher": "StockStory",
-      "time": 1785609300,
+      "id": "a491c9dc-1116-3d9f-862b-d4dd1a14ac4b",
+      "title": "Should Rising EPS Estimates And Forecast Beats Require Action From Curtiss-Wright (CW) Investors?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rising-eps-estimates-forecast-beats-201045747.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785615045,
       "impact": "medium",
       "tags": [
         "macro",
@@ -144,13 +130,34 @@
       ]
     },
     {
-      "id": "2cacdffc-93f6-4493-9193-663fe96ca3ea",
-      "title": "GM leans into electrification with the Grand Sport X: Review",
-      "link": "https://finance.yahoo.com/markets/stocks/article/gm-leans-into-electrification-with-the-grand-sport-x-review-183452634.html",
-      "publisher": "Yahoo Finance",
-      "time": 1785609292,
+      "id": "3fc61ab0-971b-3af1-880f-c8a9b2ce9d86",
+      "title": "How a US$23 Billion Buyback Authorization at Phillips 66 (PSX) Has Changed Its Investment Story",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-23-billion-buyback-authorization-201038430.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785615038,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "ffeab00d-3b1e-3ef3-bed5-e129c9bfb32f",
+      "title": "Will HubSpot’s Breeze AI Push Reshape Its Unified Platform Narrative for Investors in HUBS?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/hubspot-breeze-ai-push-reshape-201038919.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785615038,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8c73fa99-dcf2-3163-8bcf-a3c9980318bc",
+      "title": "Why Enova International (ENVA) Is Up 7.1% After Strong Q2 Earnings And Buybacks Reported",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-enova-international-enva-7-201009740.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785615009,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
