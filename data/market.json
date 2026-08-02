@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T07:29:02.654134+00:00",
+  "updatedAt": "2026-08-02T09:34:20.686327+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,60 +52,83 @@
   ],
   "news": [
     {
-      "id": "9566994e-111b-3359-8320-137e98b9232b",
-      "title": "Guangdong Museum shows China's floral patterns that predate luxury monograms by centuries",
-      "link": "https://finance.yahoo.com/media-advertising/articles/guangdong-museum-shows-chinas-floral-072400939.html",
-      "publisher": "PR Newswire",
-      "time": 1785655440,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "3defe706-23ae-3727-821b-5c0dd95b26ce",
-      "title": "Hungarian companies pivot after Orban’s allies lose political influence",
-      "link": "https://finance.yahoo.com/economy/policy/articles/hungarian-companies-pivot-orban-allies-071558894.html",
-      "publisher": "Investing.com",
-      "time": 1785654958,
+      "id": "442dacbb-e822-305c-92bf-3d8665c32e18",
+      "title": "LeBron James took a 92% pay cut to chase a title — here's how regular workers can survive a pay cut too",
+      "link": "https://finance.yahoo.com/small-business/articles/lebron-james-took-92-pay-093000216.html",
+      "publisher": "Moneywise",
+      "time": 1785663000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ce74a02e-730d-3149-8eb5-63c94baf37b4",
-      "title": "Why Now Is Finally the Time to Buy the Big Three Cloud Computing Stocks Before It's Too Late",
-      "link": "https://finance.yahoo.com/m/ce74a02e-730d-3149-8eb5-63c94baf37b4/why-now-is-finally-the-time.html",
+      "id": "d8cca36c-623a-3842-b23b-dea106c4fc90",
+      "title": "Dan Ives Says Nvidia Demand Is Outpacing Supply \"12 to 1.\" Here's What That Means for the Stock's Next Move.",
+      "link": "https://finance.yahoo.com/m/d8cca36c-623a-3842-b23b-dea106c4fc90/dan-ives-says-nvidia-demand.html",
       "publisher": "Motley Fool",
-      "time": 1785654900,
+      "time": 1785662820,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "faef5dd8-69d6-3fc8-86fa-4640a0846bac",
+      "title": "U.S. Air Force Taps Rocket Lab to Sell It 12 Hypersonic Missiles for $266 Million. Here's What Investors Need to Know.",
+      "link": "https://finance.yahoo.com/m/faef5dd8-69d6-3fc8-86fa-4640a0846bac/u.s.-air-force-taps-rocket.html",
+      "publisher": "Motley Fool",
+      "time": 1785662700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "54b8c9d6-f374-3c6b-9ba8-6c12275ac94c",
+      "title": "How Investors Are Reacting To Ameren (AEE) Reaffirming Earnings Outlook And Massive Data Center Investment Plans",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-ameren-aee-reaffirming-091157484.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785661917,
+      "impact": "medium",
       "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "ee219145-7ac5-37df-8c1f-0c249517208c",
+      "title": "Wyndham Hotels & Resorts (WH) Lifts Outlook As Expansion Story Keeps Fair Value In Focus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wyndham-hotels-resorts-wh-lifts-091132100.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785661892,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1e43dd1b-8fdd-35ad-8622-9d430fc5168e",
+      "title": "Is Siemens Healthineers (XTRA:SHL) Undervalued Following Its Earnings And Guidance Update?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/siemens-healthineers-xtra-shl-undervalued-091115678.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785661875,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "4b5f5c9f-7558-33c1-bce4-2ae4c4159edd",
+      "title": "Do Rising Earnings and Pressured Free Cash Flow Margins Reshape Woodward’s Efficiency Story (WWD)?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rising-earnings-pressured-free-cash-091112517.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785661872,
+      "impact": "high",
+      "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "30557c84-c422-3217-9ab7-17635182bd5d",
-      "title": "REI has a highly rated $3,199 electric bike for 50% off that offers a '5-star experience'",
-      "link": "https://finance.yahoo.com/m/30557c84-c422-3217-9ab7-17635182bd5d/rei-has-a-highly-rated-%243%2C199.html",
-      "publisher": "TheStreet",
-      "time": 1785654900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b16f21a8-1099-31cc-b5cd-62411462177b",
-      "title": "Sri Lanka deploys troops after prison riot",
-      "link": "https://finance.yahoo.com/m/b16f21a8-1099-31cc-b5cd-62411462177b/sri-lanka-deploys-troops.html",
-      "publisher": "AFP",
-      "time": 1785654857,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7c76b020-dff6-3ea8-9c13-9321731522d0",
-      "title": "Whirlpool (WHR) Reports Earnings Tomorrow: What To Expect",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/whirlpool-whr-reports-earnings-tomorrow-070857072.html",
-      "publisher": "StockStory",
-      "time": 1785654537,
+      "id": "739491f9-6d4d-37f8-b5b2-5cc74c1fefd0",
+      "title": "Griffon (GFF) Falls Ahead Of Earnings, Is The Discount Enough To Tempt Buyers?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/griffon-gff-falls-ahead-earnings-091108040.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785661868,
       "impact": "medium",
       "tags": [
         "macro",
@@ -113,79 +136,22 @@
       ]
     },
     {
-      "id": "a061bc1b-5b24-3630-b465-0c491857d1e9",
-      "title": "Don't Buy Strategy Stock When You Can Just Buy Bitcoin",
-      "link": "https://finance.yahoo.com/m/a061bc1b-5b24-3630-b465-0c491857d1e9/don%27t-buy-strategy-stock-when.html",
-      "publisher": "Motley Fool",
-      "time": 1785654300,
+      "id": "2455929f-cad1-3ad6-9d07-f8a2b30abe50",
+      "title": "Black Stone Minerals (BSM) Stock Looks Reasonable, Not Like A Bargain",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/black-stone-minerals-bsm-stock-091051632.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785661851,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "93f8c733-eeda-3a01-b87c-a5a8ed6a1e3e",
-      "title": "What To Expect From Diamondback Energy’s (FANG) Q2 Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/expect-diamondback-energy-fang-q2-070057566.html",
-      "publisher": "StockStory",
-      "time": 1785654057,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "f20a1949-c178-3a4f-a2ce-26130f42ef6e",
-      "title": "Democratic Socialists of America propose radical overhaul of US govt",
-      "link": "https://finance.yahoo.com/m/f20a1949-c178-3a4f-a2ce-26130f42ef6e/democratic-socialists-of.html",
-      "publisher": "USA TODAY",
-      "time": 1785654029,
+      "id": "42c45614-37fe-37d0-ab66-65c05e8669f6",
+      "title": "Pinterest (PINS) Stock Looks Rich Relative To Fair Value",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pinterest-pins-stock-looks-rich-091032550.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785661832,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "7881a176-1f2e-3ac9-a317-b9db69bf77d0",
-      "title": "Gen Z Loves the Hinge Dating App. Why Match Earnings Are All About Tinder.",
-      "link": "https://finance.yahoo.com/m/7881a176-1f2e-3ac9-a317-b9db69bf77d0/gen-z-loves-the-hinge-dating.html",
-      "publisher": "Barrons.com",
-      "time": 1785654000,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e3de1d8b-864c-3895-a7db-4a2d3e8de263",
-      "title": "OpenAI president confirms a family of ChatGPT devices is coming soon",
-      "link": "https://finance.yahoo.com/m/e3de1d8b-864c-3895-a7db-4a2d3e8de263/openai-president-confirms-a.html",
-      "publisher": "Digital Trends",
-      "time": 1785653651,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6d311d58-011f-39e3-89b8-b2d64013c55f",
-      "title": "Earnings To Watch: BWX (BWXT) Reports Q2 Results Tomorrow",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-bwx-bwxt-reports-065257479.html",
-      "publisher": "StockStory",
-      "time": 1785653577,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "83c7d7be-9c3d-3efa-8249-43954a713b15",
-      "title": "Vitesse Energy Earnings: What To Look For From VTS",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vitesse-energy-earnings-look-vts-064457805.html",
-      "publisher": "StockStory",
-      "time": 1785653097,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
     }
   ],
   "errors": {
