@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T01:06:29.135179+00:00",
+  "updatedAt": "2026-08-02T04:50:21.614653+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,20 +52,11 @@
   ],
   "news": [
     {
-      "id": "31183c58-d184-308a-9c31-f4781300c41d",
-      "title": "Apple’s record iPhone boom just became a Wall Street trap",
-      "link": "https://finance.yahoo.com/m/31183c58-d184-308a-9c31-f4781300c41d/apple%E2%80%99s-record-iphone-boom.html",
-      "publisher": "TheStreet",
-      "time": 1785632580,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1c4ebd50-8350-3961-8c68-ac8b5eaf6770",
-      "title": "Multiplan Empreendimentos Imobiliarios SA (MLTTY) (Q2 2026) Earnings Call Highlights: Strategic ...",
-      "link": "https://finance.yahoo.com/real-estate/articles/multiplan-empreendimentos-imobiliarios-sa-mltty-010127824.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785632487,
+      "id": "133801bb-b0c8-3d92-a293-613751498812",
+      "title": "Crescent Energy (CRGY) To Report Earnings Tomorrow: Here Is What To Expect",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/crescent-energy-crgy-report-earnings-044457690.html",
+      "publisher": "StockStory",
+      "time": 1785645897,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,11 +64,11 @@
       ]
     },
     {
-      "id": "e7283575-b8fb-3d34-888b-d29d1104bafc",
-      "title": "Alpha Services and Holdings SA (ALBKY) (Q2 2026) Earnings Call Highlights: Strong Profit Growth ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alpha-services-holdings-sa-albky-010126620.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785632486,
+      "id": "6fc892ac-0065-3853-98bf-bd77c15e5ca9",
+      "title": "Earnings To Watch: UFP Technologies (UFPT) Reports Q2 Results Tomorrow",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-ufp-technologies-ufpt-043657393.html",
+      "publisher": "StockStory",
+      "time": 1785645417,
       "impact": "medium",
       "tags": [
         "macro",
@@ -85,67 +76,95 @@
       ]
     },
     {
-      "id": "f6d3b976-773d-3ddb-9449-e76bb9365079",
-      "title": "Alonso welcomes Mudryk's Chelsea return after doping ban",
-      "link": "https://finance.yahoo.com/m/f6d3b976-773d-3ddb-9449-e76bb9365079/alonso-welcomes-mudryk%27s.html",
-      "publisher": "AFP",
-      "time": 1785631758,
-      "impact": "low",
-      "tags": []
+      "id": "c10be50c-a9a9-3a1a-9c3e-4c32c87f55fc",
+      "title": "Vertex Pharmaceuticals (VRTX) Q2 Earnings Report Preview: What To Look For",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vertex-pharmaceuticals-vrtx-q2-earnings-043657260.html",
+      "publisher": "StockStory",
+      "time": 1785645417,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "ce3db064-fe64-39fd-bbfe-8b09f1374ae6",
-      "title": "Why Trump's Nuclear Deal With Saudi Arabia Could Be Good News for These 2 Uranium ETFs",
-      "link": "https://finance.yahoo.com/m/ce3db064-fe64-39fd-bbfe-8b09f1374ae6/why-trump%27s-nuclear-deal-with.html",
+      "id": "3580387a-e0d4-3d2c-b50b-6ef4dda3f8aa",
+      "title": "Dry, hot summers are putting Dutch dikes at risk and threatening German river trade",
+      "link": "https://finance.yahoo.com/m/3580387a-e0d4-3d2c-b50b-6ef4dda3f8aa/dry%2C-hot-summers-are-putting.html",
+      "publisher": "Associated Press",
+      "time": 1785645363,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "0a2e5702-ff4a-31eb-95db-5a64907aacdb",
+      "title": "Is Ferrari a Buy After Its Latest Earnings Report?",
+      "link": "https://finance.yahoo.com/m/0a2e5702-ff4a-31eb-95db-5a64907aacdb/is-ferrari-a-buy-after-its.html",
       "publisher": "Motley Fool",
-      "time": 1785630840,
-      "impact": "low",
-      "tags": []
+      "time": 1785645175,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "7fc0aa8f-c8a7-30d1-9e7c-32e1d010586e",
-      "title": "Here’s How Much $5,000 Earns in a HYSA vs. a Regular Savings Account After 1 Year",
-      "link": "https://finance.yahoo.com/m/7fc0aa8f-c8a7-30d1-9e7c-32e1d010586e/here%E2%80%99s-how-much-%245%2C000-earns.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1785630803,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "42693b01-88a5-32a2-9859-1e14778a1b63",
-      "title": "Macy's is selling a floral 8-piece comforter set for just $35",
-      "link": "https://finance.yahoo.com/m/42693b01-88a5-32a2-9859-1e14778a1b63/macy%27s-is-selling-a-floral.html",
-      "publisher": "TheStreet",
-      "time": 1785630600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7bf183a9-42f3-3735-9839-4aea19b7595a",
-      "title": "‘How Can Someone Vanish Without a Trace?’",
-      "link": "https://finance.yahoo.com/m/7bf183a9-42f3-3735-9839-4aea19b7595a/%E2%80%98how-can-someone-vanish.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1785630600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6db3dfca-7872-348f-bd07-f605902cbd89",
-      "title": "Shooting near In-N-Out in Idaho leaves multiple fatalities, including suspect, police say",
-      "link": "https://finance.yahoo.com/m/6db3dfca-7872-348f-bd07-f605902cbd89/shooting-near-in-n-out-in.html",
-      "publisher": "USA TODAY",
-      "time": 1785630569,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "66ea89af-b286-3504-bb7b-1b6c7c9216bb",
-      "title": "Iran threatens regional energy fields if the U.S. launches fresh attacks",
-      "link": "https://finance.yahoo.com/m/66ea89af-b286-3504-bb7b-1b6c7c9216bb/iran-threatens-regional.html",
+      "id": "763050a7-f4e2-3cb6-a8b8-6ff04c7cc8b5",
+      "title": "South Korean retail investors retreat after Kospi’s record volatility",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/south-korean-retail-investors-retreat-042953669.html",
       "publisher": "Investing.com",
-      "time": 1785630429,
+      "time": 1785644993,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "df50a960-69ab-3203-8ed0-063dc3e5fb56",
+      "title": "What To Expect From TETRA Technologies’s (TTI) Q2 Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/expect-tetra-technologies-tti-q2-042857990.html",
+      "publisher": "StockStory",
+      "time": 1785644937,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "3d748248-7724-363e-8504-637fd6df0326",
+      "title": "Allison Transmission (ALSN) To Report Earnings Tomorrow: Here Is What To Expect",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/allison-transmission-alsn-report-earnings-042057406.html",
+      "publisher": "StockStory",
+      "time": 1785644457,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "ec8f4e8c-7ca7-3210-bc59-539360c53139",
+      "title": "3 Brilliant Artificial Intelligence (AI) Stocks Billionaire Bill Ackman Owns That You Should Too",
+      "link": "https://finance.yahoo.com/m/ec8f4e8c-7ca7-3210-bc59-539360c53139/3-brilliant-artificial.html",
+      "publisher": "Motley Fool",
+      "time": 1785644400,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "20cda970-031a-3fd3-9c97-cc83178881ba",
+      "title": "Archer-Daniels-Midland (ADM) Is Down 7.7% After Major Oilseed Crush Expansion And New COO Hire – Has The Bull Case Changed?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/archer-daniels-midland-adm-down-041612242.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785644172,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
