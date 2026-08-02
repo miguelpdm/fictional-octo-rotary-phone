@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T22:25:50.875652+00:00",
+  "updatedAt": "2026-08-02T23:28:16.906090+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,68 @@
   ],
   "news": [
     {
-      "id": "008d53bc-49a5-35d8-a0ab-2624dee973aa",
-      "title": "Japan to vow coordination with US on weak yen in historic battle",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/japan-vow-coordination-us-weak-210127634.html",
-      "publisher": "Reuters",
-      "time": 1785709211,
+      "id": "f6a669a4-0851-31ff-b598-7a7f2fc5c358",
+      "title": "Consumer goods giant quietly wows investors after terrible streak",
+      "link": "https://finance.yahoo.com/m/f6a669a4-0851-31ff-b598-7a7f2fc5c358/consumer-goods-giant-quietly.html",
+      "publisher": "TheStreet",
+      "time": 1785712620,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "73c4bb19-d358-3195-83fb-1e8ab96a72d7",
+      "title": "XRP ETFs Keep Drawing Cash, So Why Is the Price Down 40%?",
+      "link": "https://finance.yahoo.com/m/73c4bb19-d358-3195-83fb-1e8ab96a72d7/xrp-etfs-keep-drawing-cash%2C.html",
+      "publisher": "BeInCrypto",
+      "time": 1785712429,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b763d768-2c67-3878-8ff1-a6e23e837c8c",
+      "title": "Standex International (SXI) Could Be 2% Overvalued As Record Results Lift Expectations",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/standex-international-sxi-could-2-231230932.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785712350,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c84141ce-c7f2-3d93-b514-99eda91194af",
+      "title": "Verra Mobility (VRRM) Could Be 46% Undervalued Following Avis Contract And Lawsuit Risk",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/verra-mobility-vrrm-could-46-231229535.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785712349,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3ee9b49c-f667-3712-809b-4c92273c1eb2",
+      "title": "Jersey Mike's (JMKE) Stock May Be 28% Undervalued Following Its IPO Debut",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jersey-mikes-jmke-stock-may-231222770.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785712342,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "f387cfff-3e2f-326a-b881-60db0bf10afe",
+      "title": "Select Water Solutions (WTTR) Declares Quarterly Dividend, Is It A Bargain Or Fully Priced?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/select-water-solutions-wttr-declares-231201294.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785712321,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f4ab1096-3e29-3c34-b06e-73ad84cae4ea",
+      "title": "Amundi (ENXTPA:AMUN) After Record Inflows And Results Still Looks Slightly Pricey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amundi-enxtpa-amun-record-inflows-231156826.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785712316,
       "impact": "low",
       "tags": []
     },
@@ -65,7 +122,7 @@
       "title": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
       "link": "https://finance.yahoo.com/m/a6fd7cc1-160f-33be-9c9b-10601e0fcebe/dow-jones-futures-rise%2C-oil.html",
       "publisher": "Investor's Business Daily",
-      "time": 1785709053,
+      "time": 1785712291,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,11 +130,11 @@
       ]
     },
     {
-      "id": "838a72ca-a2e2-321a-95ec-962804ce2ac5",
-      "title": "Clorox (CLX) Q2 Earnings Report Preview: What To Look For",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/clorox-clx-q2-earnings-report-221533813.html",
-      "publisher": "StockStory",
-      "time": 1785708933,
+      "id": "0c12b8ea-254e-33f0-ae82-3b1f7742dc3e",
+      "title": "Perella Weinberg Partners (PWP) Stock Could Be 20% Undervalued As Earnings Look Pricey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/perella-weinberg-partners-pwp-stock-231122910.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785712282,
       "impact": "medium",
       "tags": [
         "macro",
@@ -85,76 +142,13 @@
       ]
     },
     {
-      "id": "1e38ade2-40ef-3b3b-8fcf-1537834e2176",
-      "title": "Three Dead, Seven Injured in Idaho Shooting at In-N-Out Restaurant",
-      "link": "https://finance.yahoo.com/m/1e38ade2-40ef-3b3b-8fcf-1537834e2176/three-dead%2C-seven-injured-in.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1785708480,
+      "id": "1cc33ef5-41a2-3f87-b726-646eab11b17d",
+      "title": "TriNet (TNET) Stock Looks Overvalued Following Its 34% Three Year Fall",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trinet-tnet-stock-looks-overvalued-231121181.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785712281,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "f0f21349-80cb-35c0-a556-58a52468286f",
-      "title": "What To Expect From Paymentus’s (PAY) Q2 Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/expect-paymentus-pay-q2-earnings-220733215.html",
-      "publisher": "StockStory",
-      "time": 1785708453,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "148749f5-ba66-3b72-89a2-e7ba5a92fb47",
-      "title": "Fuse Deepens Partnership Across U.S. Nuclear Security Enterprise with Five-Year Cooperative Research and Development Agreement (CRADA) with Nevada National Security Sites (NNSS)",
-      "link": "https://finance.yahoo.com/energy/articles/fuse-deepens-partnership-across-u-220000463.html",
-      "publisher": "PR Newswire",
-      "time": 1785708000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d5bec348-8dc8-30d4-ba29-9ec243a061fc",
-      "title": "JELD-WEN (JELD) To Report Earnings Tomorrow: Here Is What To Expect",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jeld-wen-jeld-report-earnings-215933676.html",
-      "publisher": "StockStory",
-      "time": 1785707973,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "dc04f042-2d01-31b1-9bd7-8ba6deefce93",
-      "title": "Three SkyWest Executives Sold Stock in Three Days. Here's What Long-Term Investors Should Know",
-      "link": "https://finance.yahoo.com/m/dc04f042-2d01-31b1-9bd7-8ba6deefce93/three-skywest-executives-sold.html",
-      "publisher": "Motley Fool",
-      "time": 1785707592,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4a92d4ff-3baa-3115-806c-e3d007036764",
-      "title": "White Sox acquire veteran pitcher Luis Castillo in deal with Mariners",
-      "link": "https://finance.yahoo.com/m/4a92d4ff-3baa-3115-806c-e3d007036764/white-sox-acquire-veteran.html",
-      "publisher": "Chicago Tribune",
-      "time": 1785707520,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7ac1aa78-154b-3820-a43a-1dbc8fe379f5",
-      "title": "What To Expect From Inspire Medical Systems’s (INSP) Q2 Earnings",
-      "link": "https://finance.yahoo.com/healthcare/articles/expect-inspire-medical-systems-insp-215133389.html",
-      "publisher": "StockStory",
-      "time": 1785707493,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
     }
   ],
   "errors": {
