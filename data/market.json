@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T15:36:43.322104+00:00",
+  "updatedAt": "2026-08-02T16:52:47.167939+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,94 +52,105 @@
   ],
   "news": [
     {
-      "id": "9e628f33-3f4a-32f7-aadc-42ef63ebd8cf",
-      "title": "Powerball hits $748M. Next drawing Is Monday, Aug. 3",
-      "link": "https://finance.yahoo.com/m/9e628f33-3f4a-32f7-aadc-42ef63ebd8cf/powerball-hits-%24748m.-next.html",
-      "publisher": "USA TODAY",
-      "time": 1785684801,
-      "impact": "low",
-      "tags": []
+      "id": "b4eceed6-c614-3293-8777-f5b81e5be692",
+      "title": "Trump's on-again-off-again war against Iran: in his own words",
+      "link": "https://finance.yahoo.com/m/b4eceed6-c614-3293-8777-f5b81e5be692/trump%27s-on-again-off-again.html",
+      "publisher": "AFP",
+      "time": 1785688579,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "482ebe9c-f013-38bf-95b3-9ebf1f22a8e6",
-      "title": "Shoppers made 158 million chargeback disputes in 2025 as 'friendly fraud' surged 29% — and businesses pay the price",
-      "link": "https://finance.yahoo.com/small-business/articles/shoppers-made-158-million-chargeback-153000950.html",
-      "publisher": "Moneywise",
-      "time": 1785684600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "83485f88-85ef-3ddc-a639-0e65f78221b3",
-      "title": "Walmart has a 2-in-1 tablet and laptop on sale for only $86",
-      "link": "https://finance.yahoo.com/m/83485f88-85ef-3ddc-a639-0e65f78221b3/walmart-has-a-2-in-1-tablet.html",
-      "publisher": "TheStreet",
-      "time": 1785684600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d79b8a83-cd09-32fa-ae3e-8b90dab94695",
-      "title": "AI-assisted staging draws boos at the Richard Wagner festival in Germany",
-      "link": "https://finance.yahoo.com/m/d79b8a83-cd09-32fa-ae3e-8b90dab94695/ai-assisted-staging-draws.html",
-      "publisher": "Associated Press",
-      "time": 1785684259,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "82a834c9-9b4d-33d4-b6cd-367904943a44",
-      "title": "Is It Too Late to Buy Bloom Energy? My Honest Take.",
-      "link": "https://finance.yahoo.com/m/82a834c9-9b4d-33d4-b6cd-367904943a44/is-it-too-late-to-buy-bloom.html",
+      "id": "4c7d90be-8a07-3bc1-b0e2-695a5c15ca13",
+      "title": "As Cloud Revenue Soars, Is It Time to Buy Microsoft Stock?",
+      "link": "https://finance.yahoo.com/m/4c7d90be-8a07-3bc1-b0e2-695a5c15ca13/as-cloud-revenue-soars%2C-is-it.html",
       "publisher": "Motley Fool",
-      "time": 1785684000,
+      "time": 1785688500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f951be20-d2c1-3726-a10d-9835cc676410",
-      "title": "Amazon and Walmart’s AI can spot fake ‘Made in USA’ labels but won’t tell you, says study",
-      "link": "https://finance.yahoo.com/m/f951be20-d2c1-3726-a10d-9835cc676410/amazon-and-walmart%E2%80%99s-ai-can.html",
+      "id": "b81209a3-8a89-3a0a-a48c-4b8ff97a097d",
+      "title": "Cathie Wood sells $5.5 million of surging tech stock",
+      "link": "https://finance.yahoo.com/m/b81209a3-8a89-3a0a-a48c-4b8ff97a097d/cathie-wood-sells-%245.5.html",
+      "publisher": "TheStreet",
+      "time": 1785688380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1614535d-bf67-3df8-b027-d498812bcff6",
+      "title": "The DJI Osmo Pocket 4P goes global while American vloggers watch from the sidelines",
+      "link": "https://finance.yahoo.com/m/1614535d-bf67-3df8-b027-d498812bcff6/the-dji-osmo-pocket-4p-goes.html",
       "publisher": "Digital Trends",
-      "time": 1785683681,
+      "time": 1785688290,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "059cd5ab-ff77-312d-b3b5-660e022d7094",
-      "title": "Mezzion Reports Positive In Vivo Results for Udenafil in ADPKD",
-      "link": "https://finance.yahoo.com/healthcare/articles/mezzion-reports-positive-vivo-results-151300716.html",
-      "publisher": "PR Newswire",
-      "time": 1785683580,
+      "id": "6b745a30-a1b7-3495-b4d7-7204acd42be1",
+      "title": "Prediction: Salesforce Will End The Year At This Price",
+      "link": "https://finance.yahoo.com/m/6b745a30-a1b7-3495-b4d7-7204acd42be1/prediction%3A-salesforce-will.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785688234,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b37ac038-b202-3a81-9048-27ee6e960f0a",
-      "title": "Cirrus Logic (CRUS) Stock Still Looks Below Fair Value After A 63% Gain",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cirrus-logic-crus-stock-still-151000594.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785683400,
+      "id": "3504c810-fcab-3946-a3a6-6bc21309675c",
+      "title": "Your Bank Insures $250,000. A Married Couple Can Insure $1 Million at the Same Bank Without Opening an Account Anywhere Else",
+      "link": "https://finance.yahoo.com/m/3504c810-fcab-3946-a3a6-6bc21309675c/your-bank-insures-%24250%2C000.-a.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785688166,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "4341336c-1167-38ca-8960-0f1238c0007e",
+      "title": "Chinese Government Approves Eight New Nuclear Units as Major Reactor Buildout Continues",
+      "link": "https://finance.yahoo.com/m/4341336c-1167-38ca-8960-0f1238c0007e/chinese-government-approves.html",
+      "publisher": "POWER Magazine",
+      "time": 1785688113,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d093c1a4-ed59-367d-941b-bf0480e79f96",
-      "title": "Vornado (VNO) Stock Could Be Below Fair Value On Studio Building Deal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vornado-vno-stock-could-below-151000590.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785683400,
+      "id": "2a84e733-3be4-3f04-9e7e-094ce1558853",
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+      "link": "https://finance.yahoo.com/m/2a84e733-3be4-3f04-9e7e-094ce1558853/asml-vs.-tsmc%3A-which.html",
+      "publisher": "Motley Fool",
+      "time": 1785687840,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "aeee791c-e421-3d3b-97e9-b2d0ab817c40",
+      "title": "Spitting Attacks Show Rise of Anti-Christian Hate in Israel",
+      "link": "https://finance.yahoo.com/m/aeee791c-e421-3d3b-97e9-b2d0ab817c40/spitting-attacks-show-rise-of.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1785687840,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e80348b5-6815-393b-9bb6-fd68e40e1fe5",
-      "title": "Viking Holdings (VIK) Adds A New Ship, Does It Look Fully Valued?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/viking-holdings-vik-adds-ship-150957925.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785683397,
-      "impact": "low",
-      "tags": []
+      "id": "dbb8abcc-0828-3193-b925-48890e1937c7",
+      "title": "Dodgers land Tigers pitching ace Skubal in MLB trade deadline blockbuster",
+      "link": "https://finance.yahoo.com/m/dbb8abcc-0828-3193-b925-48890e1937c7/dodgers-land-tigers-pitching.html",
+      "publisher": "AFP",
+      "time": 1785687802,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
     }
   ],
   "errors": {
