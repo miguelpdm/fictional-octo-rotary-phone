@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T20:27:11.181892+00:00",
+  "updatedAt": "2026-08-02T21:24:32.632972+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,101 +52,100 @@
   ],
   "news": [
     {
-      "id": "dd72a0e3-9c97-3417-83ac-ec35f20833ee",
-      "title": "What Nvidia Could Be Worth on a $1,000 Investment if History Repeats Itself",
-      "link": "https://finance.yahoo.com/m/dd72a0e3-9c97-3417-83ac-ec35f20833ee/what-nvidia-could-be-worth-on.html",
+      "id": "35e91ae7-c08c-3cd0-a021-fcb44bfba5ec",
+      "title": "NuScale Power's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Here's Why.",
+      "link": "https://finance.yahoo.com/m/35e91ae7-c08c-3cd0-a021-fcb44bfba5ec/nuscale-power%27s-next-earnings.html",
       "publisher": "Motley Fool",
-      "time": 1785702000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4ef9a8f1-6b29-3aff-88e2-a4ab3690bdca",
-      "title": "An IQVIA Insider Sold Just Before the Stock Slipped. Here's What Long-Term Investors Should Know",
-      "link": "https://finance.yahoo.com/m/4ef9a8f1-6b29-3aff-88e2-a4ab3690bdca/an-iqvia-insider-sold-just.html",
-      "publisher": "Motley Fool",
-      "time": 1785701528,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4c9d008c-0c01-3a40-bf38-01cd0c756428",
-      "title": "Stellantis worker dies in undisclosed accident at Center Line facility",
-      "link": "https://finance.yahoo.com/m/4c9d008c-0c01-3a40-bf38-01cd0c756428/stellantis-worker-dies-in.html",
-      "publisher": "Detroit Free Press",
-      "time": 1785701523,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6e8ef8c6-5152-35b0-8884-1ccf1c92c3c4",
-      "title": "New ‘Spider-Man’ Movie Scores Hollywood’s Second-Biggest Debut Ever",
-      "link": "https://finance.yahoo.com/m/6e8ef8c6-5152-35b0-8884-1ccf1c92c3c4/new-%E2%80%98spider-man%E2%80%99-movie-scores.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1785701340,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "17a8f14a-4f12-3698-be7b-08e4c81822bc",
-      "title": "$2 Million 401(k) Inheritance Could Cost Your Kids $600,000 More Than a Roth Conversion",
-      "link": "https://finance.yahoo.com/m/17a8f14a-4f12-3698-be7b-08e4c81822bc/%242-million-401%28k%29-inheritance.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1785701296,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "31fb46be-826a-3b0b-b26b-0f1b40f09543",
-      "title": "A 63-Year-Old Couple With $1.5 Million in a 401(k) Just Discovered They’re Doing Retirement Backwards",
-      "link": "https://finance.yahoo.com/m/31fb46be-826a-3b0b-b26b-0f1b40f09543/a-63-year-old-couple-with.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1785701289,
-      "impact": "high",
+      "time": 1785704941,
+      "impact": "medium",
       "tags": [
-        "geo",
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "be643db7-7b43-3d70-adf4-48ca23a38b5b",
+      "title": "Could You Retire With Less Than $1 Million? Millions of People Do.",
+      "link": "https://finance.yahoo.com/m/be643db7-7b43-3d70-adf4-48ca23a38b5b/could-you-retire-with-less.html",
+      "publisher": "Motley Fool",
+      "time": 1785704700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9cbdabb5-a7d0-35f2-9038-7ebabf9c5480",
+      "title": "Original Medicare Has No Out-of-Pocket Maximum. In a Cancer Year, That 20% Can Become Almost Any Number.",
+      "link": "https://finance.yahoo.com/m/9cbdabb5-a7d0-35f2-9038-7ebabf9c5480/original-medicare-has-no.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785704465,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "10589dfd-d0c3-3f70-b45e-870f07e3b549",
+      "title": "Cboe Completes Sale of Cboe Australia to TMX Group",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cboe-completes-sale-cboe-australia-210000929.html",
+      "publisher": "PR Newswire",
+      "time": 1785704400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "43c92d47-16ad-3bcd-b016-4216caeab560",
+      "title": "TMX Group Completes Acquisition of Cboe Australia",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tmx-group-completes-acquisition-cboe-210000872.html",
+      "publisher": "TMX Newsfile",
+      "time": 1785704400,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a4aeb8e9-c578-3b20-974a-d5bf398b2fbe",
+      "title": "AI's Hidden Problem Isn't Chips. It's Electricity.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ais-hidden-problem-isnt-chips-210000070.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785704400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e32260e4-ce88-3228-ba62-a03ff0e47ef1",
+      "title": "Australia's home price retreat gathers pace in July, Cotality data shows",
+      "link": "https://finance.yahoo.com/real-estate/articles/australias-home-price-retreat-gathers-205951809.html",
+      "publisher": "Reuters",
+      "time": 1785704391,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a2c6ddf5-9796-3fa8-8f22-8fa328c899ac",
+      "title": "Sam Altman and AI’s decel debate",
+      "link": "https://finance.yahoo.com/technology/ai/articles/sam-altman-ai-decel-debate-205422916.html",
+      "publisher": "TechCrunch",
+      "time": 1785704062,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a05d1a89-4d77-337f-be8e-e2b3c41e5a32",
+      "title": "If I Could Tell Every Investor 1 Thing About Building Lasting Wealth in the Stock Market, It's This",
+      "link": "https://finance.yahoo.com/m/a05d1a89-4d77-337f-be8e-e2b3c41e5a32/if-i-could-tell-every.html",
+      "publisher": "Motley Fool",
+      "time": 1785703800,
+      "impact": "low",
+      "tags": [
         "macro"
       ]
     },
     {
-      "id": "cb2a8369-d218-32b6-9d1c-55c4a04db6b1",
-      "title": "Can Illumina (ILMN) Hold Its Price As Cash Flow And Earnings Clash?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/illumina-ilmn-hold-price-cash-200759129.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785701279,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "bea73c05-1a7f-3b76-9d87-b83a882b9b4b",
-      "title": "Is Loblaw Companies (TSX:L) Fairly Valued On Its Q2 Results And Buybacks?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/loblaw-companies-tsx-l-fairly-200736315.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785701256,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0bd9d806-d0b1-383d-8c6a-9774baee9345",
-      "title": "Does Landstar System’s (LSTR) Earnings Beat, Dividend Hike and New CCO Reframe Its Risk Profile?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/does-landstar-system-lstr-earnings-200735525.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785701255,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "ca1ff990-d687-3a4d-b005-b20bf2b9092a",
-      "title": "Blackstone (BX) Buys HSBC’s Australian Loan Book And DarkVision Technologies",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/blackstone-bx-buys-hsbc-australian-200717418.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785701237,
+      "id": "56c0a37d-9396-3d84-af50-6c2112069cdf",
+      "title": "Three GlobalFoundries Directors Posted Insider Transactions on the Same Day. Here's What It Actually Means",
+      "link": "https://finance.yahoo.com/m/56c0a37d-9396-3d84-af50-6c2112069cdf/three-globalfoundries.html",
+      "publisher": "Motley Fool",
+      "time": 1785703528,
       "impact": "low",
       "tags": []
     }
