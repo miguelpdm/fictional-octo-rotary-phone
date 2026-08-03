@@ -1,80 +1,98 @@
 {
-  "updatedAt": "2026-08-03T15:23:47.980878+00:00",
+  "updatedAt": "2026-08-03T17:23:26.449221+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19957.5,
-      "change": 174.59999999999854,
-      "changePct": 0.8825804103543895,
+      "price": 19982.6,
+      "change": 199.6999999999971,
+      "changePct": 1.0094576629311025,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7580.52,
-      "change": 142.89000000000033,
-      "changePct": 1.9211765038056523,
+      "price": 7594.19,
+      "change": 156.5599999999995,
+      "changePct": 2.1049716105802454,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25844.094,
-      "change": 721.9140000000007,
-      "changePct": 2.873612083027829,
+      "price": 25919.793,
+      "change": 797.6130000000012,
+      "changePct": 3.1749354554421676,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26036.8,
-      "change": 424.77000000000044,
-      "changePct": 1.6584784571937503,
+      "price": 26001.31,
+      "change": 389.2800000000025,
+      "changePct": 1.5199107606855158,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6431.53,
-      "change": 73.51999999999953,
-      "changePct": 1.156336652506044,
+      "price": 6426.5,
+      "change": 68.48999999999978,
+      "changePct": 1.077223848342481,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.71,
-      "change": -0.27999999999999936,
-      "changePct": -1.751094434021259,
+      "price": 15.57,
+      "change": -0.41999999999999993,
+      "changePct": -2.6266416510318944,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "c1681e29-d18a-3f56-8f9a-06e0db5ef772",
-      "title": "B. Riley lifts CleanSpark price target to $26 on HPC valuation",
-      "link": "https://finance.yahoo.com/m/c1681e29-d18a-3f56-8f9a-06e0db5ef772/b.-riley-lifts-cleanspark.html",
-      "publisher": "Blockspace",
-      "time": 1785770407,
+      "id": "0fdb6914-c5ce-3001-8902-ad20d9c3579d",
+      "title": "The Dow and S&P 500 Flirt With Record Highs",
+      "link": "https://finance.yahoo.com/m/0fdb6914-c5ce-3001-8902-ad20d9c3579d/the-dow-and-s%26p-500-flirt.html",
+      "publisher": "Barrons.com",
+      "time": 1785777456,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "68158eb5-1a9f-3d5e-84c8-768aee77df06",
-      "title": "GoDaddy to See Higher Risk in Transition to Agentic Web Building, Vibe Coding, Wedbush Says",
-      "link": "https://finance.yahoo.com/technology/ai/articles/godaddy-see-higher-risk-transition-151754262.html",
+      "id": "1b53ab24-74bc-39b5-81a3-6b4c0626482e",
+      "title": "Sector Update: Tech",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-171709446.html",
       "publisher": "MT Newswires",
-      "time": 1785770274,
+      "time": 1785777429,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "735b9c91-7475-348b-b2b5-8a15c260c375",
-      "title": "Lattice Semiconductor Earnings: What To Look For From LSCC",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-earnings-look-lscc-151722141.html",
-      "publisher": "StockStory",
-      "time": 1785770242,
+      "id": "f3a859e4-8eb5-3ab1-b579-5258ed2d95b5",
+      "title": "Valuations Are Falling While the S&P 500 is Flat. That Could Be Great News for the Bulls.",
+      "link": "https://finance.yahoo.com/m/f3a859e4-8eb5-3ab1-b579-5258ed2d95b5/valuations-are-falling-while.html",
+      "publisher": "Barrons.com",
+      "time": 1785777420,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "714a33dd-7efd-36a8-b2fc-fab03d3ac0b5",
+      "title": "US regulators grant long-awaited Boeing 737 MAX 7 certificate",
+      "link": "https://finance.yahoo.com/technology/articles/us-regulators-grant-long-awaited-171655533.html",
+      "publisher": "AFP",
+      "time": 1785777415,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4831a032-69a1-35be-9da1-1699fdd13d01",
+      "title": "Robinhood Ventures Fund II targets $200 million IPO",
+      "link": "https://finance.yahoo.com/m/4831a032-69a1-35be-9da1-1699fdd13d01/robinhood-ventures-fund-ii.html",
+      "publisher": "Quartz",
+      "time": 1785777361,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,11 +100,31 @@
       ]
     },
     {
-      "id": "e94d08d1-cdd0-3d03-8ad8-a4d5c1363833",
-      "title": "Tower Semiconductor Positioned to Beat, Raise in Q2, Wedbush Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tower-semiconductor-positioned-beat-raise-151704539.html",
+      "id": "06889838-ee4c-3d71-85c0-00910632c82a",
+      "title": "Israel objects to US-backed Gaza plan, defiant on pullout",
+      "link": "https://finance.yahoo.com/m/06889838-ee4c-3d71-85c0-00910632c82a/israel-objects-to-us-backed.html",
+      "publisher": "AFP",
+      "time": 1785777195,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a39b2cec-9b78-3f7a-a8d9-55d6269452c4",
+      "title": "Exchange-Traded Funds Higher as US Equities Advance After Midday",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-171304196.html",
       "publisher": "MT Newswires",
-      "time": 1785770224,
+      "time": 1785777184,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "a4ea2508-8e9a-3f9a-87d4-4c04b1ad9992",
+      "title": "AKVA group ASA: Approval of intragroup merger with Submerged AS",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/akva-group-asa-approval-intragroup-171300842.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785777180,
       "impact": "medium",
       "tags": [
         "macro",
@@ -94,70 +132,22 @@
       ]
     },
     {
-      "id": "52e0c415-5f62-3fcc-97f5-8fd72c186d07",
-      "title": "IBM’s Quantum Bet Just Got Bigger—What the HRL Deal Means for Investors",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ibm-quantum-bet-just-got-151648951.html",
-      "publisher": "Insider Monkey",
-      "time": 1785770208,
+      "id": "c56001ac-3ab1-3916-8d74-1839c5341dbd",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-171300725.html",
+      "publisher": "Business Wire",
+      "time": 1785777180,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "fb259287-7c4b-384b-908e-e3b11626b7f3",
-      "title": "Average car payments in 2026: What to expect",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/average-auto-loan-payments-expect-174817148.html",
-      "publisher": "Bankrate",
-      "time": 1785770192,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "016bc54e-5edd-38de-9974-df9856f8debf",
-      "title": "Top 10 Real Estate News: July's Most Interesting Real Estate & Home News",
-      "link": "https://finance.yahoo.com/real-estate/articles/top-10-real-estate-news-151500967.html",
-      "publisher": "PR Newswire",
-      "time": 1785770100,
+      "id": "52e27c07-f1a8-3a1b-87fc-ad8ae110d965",
+      "title": "Southwest flight faces nose gear issue after landing at Midway Airport",
+      "link": "https://finance.yahoo.com/m/52e27c07-f1a8-3a1b-87fc-ad8ae110d965/southwest-flight-faces-nose.html",
+      "publisher": "USA TODAY",
+      "time": 1785777172,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "089ffcf2-fa2a-30df-8155-7365e00b4f88",
-      "title": "OXFORD BANK CORPORATION ANNOUNCES SECOND QUARTER 2026 OPERATING RESULTS",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oxford-bank-corporation-announces-second-151500664.html",
-      "publisher": "PR Newswire",
-      "time": 1785770100,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "63112abb-17c5-4b1b-9baf-cd28e0ad3079",
-      "title": "Earnings: Beef prices weigh on Tyson Foods, McDonald's Q2 results on deck",
-      "link": "https://finance.yahoo.com/video/earnings-beef-prices-weigh-tyson-151500273.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1785770100,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "7173a485-27e4-3683-b567-e399b163a55a",
-      "title": "Huntington Bank Names Blake Absher Central Texas Division President",
-      "link": "https://finance.yahoo.com/small-business/articles/huntington-bank-names-blake-absher-151500082.html",
-      "publisher": "PR Newswire",
-      "time": 1785770100,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
     }
   ],
   "errors": {
