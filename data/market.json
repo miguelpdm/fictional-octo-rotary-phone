@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-03T04:59:32.852315+00:00",
+  "updatedAt": "2026-08-03T08:33:35.343604+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19782.9,
-      "change": 25.200000000000728,
-      "changePct": 0.12754521022184123,
+      "price": 19876.0,
+      "change": 93.09999999999854,
+      "changePct": 0.4706084547765926,
       "currency": "EUR"
     },
     {
@@ -28,35 +28,47 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25629.24,
-      "change": 168.76000000000204,
-      "changePct": 0.6628311799306299,
+      "price": 25961.9,
+      "change": 349.8700000000026,
+      "changePct": 1.3660377564761663,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6358.01,
-      "change": 13.610000000000582,
-      "changePct": 0.21451989155791854,
+      "price": 6406.07,
+      "change": 48.05999999999949,
+      "changePct": 0.7558968922665974,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.99,
-      "change": -1.0999999999999996,
-      "changePct": -6.436512580456405,
+      "price": 16.17,
+      "change": 0.1800000000000015,
+      "changePct": 1.1257035647279643,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "f24710c2-457c-3d4d-aa58-2a477887f278",
-      "title": "Azenta (AZTA) Reports Q2: Everything You Need To Know Ahead Of Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/azenta-azta-reports-q2-everything-045322032.html",
-      "publisher": "StockStory",
-      "time": 1785732802,
+      "id": "7491bde8-0cdf-3a5f-89ce-c5e1cecda8ac",
+      "title": "Canada Nickel’s Crawford project gains federal approval",
+      "link": "https://finance.yahoo.com/m/7491bde8-0cdf-3a5f-89ce-c5e1cecda8ac/canada-nickel%E2%80%99s-crawford.html",
+      "publisher": "Mining Technology",
+      "time": 1785745679,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "d39736f2-58bf-3362-b4e7-56f053d24bfe",
+      "title": "Oil prices sink on Iran hopes, yen gains after joint intervention",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-sink-middle-east-034305350.html",
+      "publisher": "AFP",
+      "time": 1785745589,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,98 +76,87 @@
       ]
     },
     {
-      "id": "2f41307b-e257-3cb2-a16a-0587de90b0a9",
-      "title": "Yen's to-do list gets harder from here",
-      "link": "https://finance.yahoo.com/news/yens-list-gets-harder-044843217.html",
-      "publisher": "Reuters",
-      "time": 1785732523,
+      "id": "313478f6-f200-36fc-9c48-21fdc2e764ae",
+      "title": "Isee Hair Advances Glueless Wig Design with New Cap and Lace Technology",
+      "link": "https://finance.yahoo.com/technology/articles/isee-hair-advances-glueless-wig-082500398.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1785745500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "640d8b36-1231-32ee-be6d-e123d0156ec1",
-      "title": "What To Expect From Callaway Golf Company’s (CALY) Q2 Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/expect-callaway-golf-company-caly-044522097.html",
-      "publisher": "StockStory",
-      "time": 1785732322,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "0dff712a-e232-3092-bfe3-5233c0600bff",
-      "title": "Ageas sells its stake in Maybank Ageas Holdings Berhad to its JV partner Maybank for EUR 1.1 billion",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ageas-sells-stake-maybank-ageas-044500103.html",
+      "id": "5cd93d28-21bb-37e5-bfbd-18075513f0d8",
+      "title": "Capital Regency Achieves Significant User Growth Milestone",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/capital-regency-achieves-significant-user-082500000.html",
       "publisher": "GlobeNewswire",
-      "time": 1785732300,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c217d50d-ed0f-384c-811f-ba81800b5f75",
-      "title": "TCL CSOT and MSI Join Forces to Launch World's First 27\" 4K 120Hz IJP OLED High-End Professional Monitor at ChinaJoy 2026",
-      "link": "https://finance.yahoo.com/technology/articles/tcl-csot-msi-join-forces-044100013.html",
-      "publisher": "CNW Group",
-      "time": 1785732060,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "32729ddc-4a17-3855-aa54-62612d14d253",
-      "title": "Weak June Jobs Data Lifted Bitcoin to $62,000. Will Friday Send BTC Tumbling?",
-      "link": "https://finance.yahoo.com/m/32729ddc-4a17-3855-aa54-62612d14d253/weak-june-jobs-data-lifted.html",
-      "publisher": "BeInCrypto",
-      "time": 1785731966,
+      "time": 1785745500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "95eea251-fd2c-3f4e-9d62-c5badfaa467d",
-      "title": "What To Expect From ePlus’s (PLUS) Q2 Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/expect-eplus-plus-q2-earnings-043722789.html",
-      "publisher": "StockStory",
-      "time": 1785731842,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "c2ed64c0-d98f-3f8c-a20b-7e43dab92212",
+      "title": "Up Just 2% and Still Dominant: Is Amazon the 1 Growth Stock Worth Buying Right Now?",
+      "link": "https://finance.yahoo.com/m/c2ed64c0-d98f-3f8c-a20b-7e43dab92212/up-just-2%25-and-still.html",
+      "publisher": "Motley Fool",
+      "time": 1785745320,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "dff99bc6-7448-3875-ae0f-ac7371414ef7",
-      "title": "Morgan Stanley Upgrades South Korea Stocks After 30% KOSPI Crash",
-      "link": "https://finance.yahoo.com/m/dff99bc6-7448-3875-ae0f-ac7371414ef7/morgan-stanley-upgrades-south.html",
-      "publisher": "BeInCrypto",
-      "time": 1785731802,
+      "id": "831b10e1-2bdd-3d97-bbc4-339f666103ad",
+      "title": "Meta's New Cloud Ambitions: How Big Could This Business Actually Get?",
+      "link": "https://finance.yahoo.com/m/831b10e1-2bdd-3d97-bbc4-339f666103ad/meta%27s-new-cloud-ambitions%3A.html",
+      "publisher": "Motley Fool",
+      "time": 1785745200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5cb6a99c-8559-34b9-bc06-d5aa2498c97f",
+      "title": "Market Chatter: AstraZeneca Weighs $400 Billion Combination With Bristol Myers Squibb",
+      "link": "https://finance.yahoo.com/healthcare/articles/market-chatter-astrazeneca-weighs-400-081648191.html",
+      "publisher": "MT Newswires",
+      "time": 1785745008,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "808bf3bc-9737-3255-a452-9f7ceed7ccb5",
-      "title": "Envision Energy Secures Its Largest 200 MW Nearshore Wind Project in Vietnam with REE Energy, Strengthening Future Energy System Across Southeast Asia",
-      "link": "https://finance.yahoo.com/energy/articles/envision-energy-secures-largest-200-043600861.html",
-      "publisher": "PR Newswire",
-      "time": 1785731760,
-      "impact": "low",
-      "tags": []
+      "id": "4fb72e74-0be0-382b-8771-131d285dd702",
+      "title": "Update: Kosmos Energy Swings to Q2 Adjusted Earnings, Revenue Rises",
+      "link": "https://finance.yahoo.com/energy/articles/kosmos-energy-swings-q2-adjusted-081605634.html",
+      "publisher": "MT Newswires",
+      "time": 1785744965,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "3682b7c4-e673-3415-bc1f-d6516fb37c54",
-      "title": "AMC Global Media (AMCX) Stock Gets Fair Value Boost After Netflix Licensing Deal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amc-global-media-amcx-stock-043250708.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785731570,
-      "impact": "low",
-      "tags": []
+      "id": "6c9b13cd-115a-3361-9448-7e2fd03e5ae9",
+      "title": "BUYBACK OF RIKSBANK CERTIFICATES",
+      "link": "https://finance.yahoo.com/economy/policy/articles/buyback-riksbank-certificates-081500193.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785744900,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "30842913-5a0a-3595-85ff-63c2f6705556",
+      "title": "Graphic Packaging Holding (GPK) Reports Q2: Everything You Need To Know Ahead Of Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/graphic-packaging-holding-gpk-reports-081322862.html",
+      "publisher": "StockStory",
+      "time": 1785744802,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
