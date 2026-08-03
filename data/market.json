@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T17:23:26.449221+00:00",
+  "updatedAt": "2026-08-03T19:03:53.869905+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7594.19,
-      "change": 156.5599999999995,
-      "changePct": 2.1049716105802454,
+      "price": 7609.35,
+      "change": 171.72000000000025,
+      "changePct": 2.308799980638997,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25919.793,
-      "change": 797.6130000000012,
-      "changePct": 3.1749354554421676,
+      "price": 25962.865,
+      "change": 840.6850000000013,
+      "changePct": 3.346385544566599,
       "currency": "USD"
     },
     {
@@ -44,55 +44,48 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.57,
-      "change": -0.41999999999999993,
-      "changePct": -2.6266416510318944,
+      "price": 15.75,
+      "change": -0.2400000000000002,
+      "changePct": -1.5009380863039414,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "0fdb6914-c5ce-3001-8902-ad20d9c3579d",
-      "title": "The Dow and S&P 500 Flirt With Record Highs",
-      "link": "https://finance.yahoo.com/m/0fdb6914-c5ce-3001-8902-ad20d9c3579d/the-dow-and-s%26p-500-flirt.html",
-      "publisher": "Barrons.com",
-      "time": 1785777456,
+      "id": "c3668462-2e63-3fd7-897b-0dd24a0f42ea",
+      "title": "Apple Makes Surprise Manufacturing Power Play",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-makes-surprise-manufacturing-power-190220762.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785783740,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1b53ab24-74bc-39b5-81a3-6b4c0626482e",
-      "title": "Sector Update: Tech",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-171709446.html",
-      "publisher": "MT Newswires",
-      "time": 1785777429,
+      "id": "c9c13b97-ae6f-4618-91d1-cf37183a7741",
+      "title": "Tyson CEO: Reopening the Mexican border won't fully solve the US beef shortage",
+      "link": "https://finance.yahoo.com/markets/stocks/article/tyson-ceo-reopening-the-mexican-border-wont-fully-solve-the-us-beef-shortage-190115305.html",
+      "publisher": "Yahoo Finance",
+      "time": 1785783675,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f3a859e4-8eb5-3ab1-b579-5258ed2d95b5",
-      "title": "Valuations Are Falling While the S&P 500 is Flat. That Could Be Great News for the Bulls.",
-      "link": "https://finance.yahoo.com/m/f3a859e4-8eb5-3ab1-b579-5258ed2d95b5/valuations-are-falling-while.html",
-      "publisher": "Barrons.com",
-      "time": 1785777420,
+      "id": "83623bdc-6c9b-320f-8b0f-60a1c534b20f",
+      "title": "DeepSeek Drops New Bombshell on AI Stocks",
+      "link": "https://finance.yahoo.com/technology/ai/articles/deepseek-drops-bombshell-ai-stocks-190053199.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785783653,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     },
     {
-      "id": "714a33dd-7efd-36a8-b2fc-fab03d3ac0b5",
-      "title": "US regulators grant long-awaited Boeing 737 MAX 7 certificate",
-      "link": "https://finance.yahoo.com/technology/articles/us-regulators-grant-long-awaited-171655533.html",
-      "publisher": "AFP",
-      "time": 1785777415,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4831a032-69a1-35be-9da1-1699fdd13d01",
-      "title": "Robinhood Ventures Fund II targets $200 million IPO",
-      "link": "https://finance.yahoo.com/m/4831a032-69a1-35be-9da1-1699fdd13d01/robinhood-ventures-fund-ii.html",
-      "publisher": "Quartz",
-      "time": 1785777361,
+      "id": "1ffb8f91-31b4-3f9b-a393-1815fd7d5039",
+      "title": "Escorts Kubota Ltd (BOM:500495) (Q1 2027) Earnings Call Highlights: Record Tractor Sales and ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/escorts-kubota-ltd-bom-500495-190051737.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785783651,
       "impact": "medium",
       "tags": [
         "macro",
@@ -100,31 +93,11 @@
       ]
     },
     {
-      "id": "06889838-ee4c-3d71-85c0-00910632c82a",
-      "title": "Israel objects to US-backed Gaza plan, defiant on pullout",
-      "link": "https://finance.yahoo.com/m/06889838-ee4c-3d71-85c0-00910632c82a/israel-objects-to-us-backed.html",
-      "publisher": "AFP",
-      "time": 1785777195,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a39b2cec-9b78-3f7a-a8d9-55d6269452c4",
-      "title": "Exchange-Traded Funds Higher as US Equities Advance After Midday",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-171304196.html",
-      "publisher": "MT Newswires",
-      "time": 1785777184,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "a4ea2508-8e9a-3f9a-87d4-4c04b1ad9992",
-      "title": "AKVA group ASA: Approval of intragroup merger with Submerged AS",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/akva-group-asa-approval-intragroup-171300842.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785777180,
+      "id": "41aadeb7-b65d-369d-be1d-a2ee6ff97658",
+      "title": "Kansai Nerolac Paints Ltd (BOM:500165) (Q1 2027) Earnings Call Highlights: Double-Digit Growth ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kansai-nerolac-paints-ltd-bom-190050416.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785783650,
       "impact": "medium",
       "tags": [
         "macro",
@@ -132,22 +105,64 @@
       ]
     },
     {
-      "id": "c56001ac-3ab1-3916-8d74-1839c5341dbd",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-171300725.html",
-      "publisher": "Business Wire",
-      "time": 1785777180,
-      "impact": "low",
-      "tags": []
+      "id": "681d67fe-fc72-37af-b68e-d17bc26e343d",
+      "title": "Twist Bioscience Corp (TWST) (Q3 2026) Earnings Call Highlights: Record Revenue and AI-Driven ...",
+      "link": "https://finance.yahoo.com/healthcare/articles/twist-bioscience-corp-twst-q3-190050269.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785783650,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "52e27c07-f1a8-3a1b-87fc-ad8ae110d965",
-      "title": "Southwest flight faces nose gear issue after landing at Midway Airport",
-      "link": "https://finance.yahoo.com/m/52e27c07-f1a8-3a1b-87fc-ad8ae110d965/southwest-flight-faces-nose.html",
-      "publisher": "USA TODAY",
-      "time": 1785777172,
-      "impact": "low",
-      "tags": []
+      "id": "88e19c72-1589-3b8e-9884-b47ac27e012f",
+      "title": "Ooredoo QPSC (DSMD:ORDS) (Q2 2026) Earnings Call Highlights: Resilient Growth Amid Regional ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ooredoo-qpsc-dsmd-ords-q2-190029959.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785783629,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "81b62906-31c4-3250-af47-09671ac6162f",
+      "title": "UPL Ltd (LSE:UPLL) (Q1 2027) Earnings Call Highlights: 7th Consecutive Quarter of Growth, ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/upl-ltd-lse-upll-q1-190027039.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785783627,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "87b273c1-e666-3c29-884d-ced5c33b9c76",
+      "title": "Restaurant Brands Asia Ltd (BOM:543248) (Q1 2027) Earnings Call Highlights: India's SSSG Surges ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/restaurant-brands-asia-ltd-bom-190027894.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785783627,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "78532a00-bfa8-3356-8f17-96a8aee1ebcd",
+      "title": "Luckin Coffee Inc (LKNCY) (Q2 2026) Earnings Call Highlights: Revenue Surges 29% to RMB15. ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/luckin-coffee-inc-lkncy-q2-190026109.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785783626,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
