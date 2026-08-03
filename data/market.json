@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T19:03:53.869905+00:00",
+  "updatedAt": "2026-08-03T20:42:15.717879+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7609.35,
-      "change": 171.72000000000025,
-      "changePct": 2.308799980638997,
+      "price": 7600.5,
+      "change": 162.8699999999999,
+      "changePct": 2.189810463817101,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25962.865,
-      "change": 840.6850000000013,
-      "changePct": 3.346385544566599,
+      "price": 25913.896,
+      "change": 791.7160000000003,
+      "changePct": 3.151462174062921,
       "currency": "USD"
     },
     {
@@ -44,48 +44,67 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.75,
-      "change": -0.2400000000000002,
-      "changePct": -1.5009380863039414,
+      "price": 15.86,
+      "change": -0.13000000000000078,
+      "changePct": -0.8130081300813058,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "c3668462-2e63-3fd7-897b-0dd24a0f42ea",
-      "title": "Apple Makes Surprise Manufacturing Power Play",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-makes-surprise-manufacturing-power-190220762.html",
+      "id": "5d64404c-9ca3-3fa8-a2a6-ba65e0ce6006",
+      "title": "Ferguson Stock Jumps 8% on Surprise S&P 500 Entry",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ferguson-stock-jumps-8-surprise-204030630.html",
       "publisher": "GuruFocus.com",
-      "time": 1785783740,
+      "time": 1785789630,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c9c13b97-ae6f-4618-91d1-cf37183a7741",
-      "title": "Tyson CEO: Reopening the Mexican border won't fully solve the US beef shortage",
-      "link": "https://finance.yahoo.com/markets/stocks/article/tyson-ceo-reopening-the-mexican-border-wont-fully-solve-the-us-beef-shortage-190115305.html",
-      "publisher": "Yahoo Finance",
-      "time": 1785783675,
+      "id": "2ff6789c-95dd-3bb2-ba95-61f5d9eb5b4f",
+      "title": "Citi Has a Bullish Message for AMD Stock Investors",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/citi-bullish-message-amd-stock-203924815.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785789564,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "83623bdc-6c9b-320f-8b0f-60a1c534b20f",
-      "title": "DeepSeek Drops New Bombshell on AI Stocks",
-      "link": "https://finance.yahoo.com/technology/ai/articles/deepseek-drops-bombshell-ai-stocks-190053199.html",
+      "id": "7dbb31d2-bae6-3d6d-a35f-071aa27ad298",
+      "title": "SpaceX's First Earnings Report Has More to Prove Than Most",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spacexs-first-earnings-report-more-203806104.html",
       "publisher": "GuruFocus.com",
-      "time": 1785783653,
+      "time": 1785789486,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b68eb8ad-5140-3e60-b02a-7003b32e07f8",
+      "title": "GoDaddy 2025 Global Stakeholder Impact Report: People & Culture | A Message From Our Chief People Officer",
+      "link": "https://finance.yahoo.com/small-business/articles/godaddy-2025-global-stakeholder-impact-203700072.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1785789420,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "1ffb8f91-31b4-3f9b-a393-1815fd7d5039",
-      "title": "Escorts Kubota Ltd (BOM:500495) (Q1 2027) Earnings Call Highlights: Record Tractor Sales and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/escorts-kubota-ltd-bom-500495-190051737.html",
+      "id": "87fe11c8-38a3-3d42-86fd-534913426a62",
+      "title": "Tesla Stock Rises Despite 1.2 Million-Vehicle Safety Probe",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-rises-despite-1-203652674.html",
       "publisher": "GuruFocus.com",
-      "time": 1785783651,
+      "time": 1785789412,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2bd50f8b-c85d-33ef-83d2-31d236c7be85",
+      "title": "Vertex: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vertex-q2-earnings-snapshot-203610109.html",
+      "publisher": "Associated Press",
+      "time": 1785789370,
       "impact": "medium",
       "tags": [
         "macro",
@@ -93,11 +112,29 @@
       ]
     },
     {
-      "id": "41aadeb7-b65d-369d-be1d-a2ee6ff97658",
-      "title": "Kansai Nerolac Paints Ltd (BOM:500165) (Q1 2027) Earnings Call Highlights: Double-Digit Growth ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kansai-nerolac-paints-ltd-bom-190050416.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785783650,
+      "id": "33e6fb39-ea22-3e0d-94bf-58eeb201ba2e",
+      "title": "Apnimed Announces Closing of Upsized Initial Public Offering, Including Full Exercise of Underwriters’ Option to Purchase Additional Shares",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apnimed-announces-closing-upsized-initial-203500078.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785789300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3b6c2b4a-ac60-3d6f-90bc-040127a56571",
+      "title": "Pinnacle Food Group Limited Appoints Mr. Martin Ngai Lam Cheung as Independent Director",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pinnacle-food-group-limited-appoints-203500609.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1785789300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "10ad0be4-0ed6-37fb-8ee6-ab0cc7c5cd58",
+      "title": "Addus HomeCare: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/addus-homecare-q2-earnings-snapshot-203455136.html",
+      "publisher": "Associated Press",
+      "time": 1785789295,
       "impact": "medium",
       "tags": [
         "macro",
@@ -105,64 +142,13 @@
       ]
     },
     {
-      "id": "681d67fe-fc72-37af-b68e-d17bc26e343d",
-      "title": "Twist Bioscience Corp (TWST) (Q3 2026) Earnings Call Highlights: Record Revenue and AI-Driven ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/twist-bioscience-corp-twst-q3-190050269.html",
+      "id": "9da2e6f4-d1a6-329e-b31c-2fa65109f9c5",
+      "title": "JPMorgan Stock Rises as $750 Billion Housing Plan Unfolds",
+      "link": "https://finance.yahoo.com/real-estate/articles/jpmorgan-stock-rises-750-billion-203455477.html",
       "publisher": "GuruFocus.com",
-      "time": 1785783650,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "88e19c72-1589-3b8e-9884-b47ac27e012f",
-      "title": "Ooredoo QPSC (DSMD:ORDS) (Q2 2026) Earnings Call Highlights: Resilient Growth Amid Regional ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ooredoo-qpsc-dsmd-ords-q2-190029959.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785783629,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "81b62906-31c4-3250-af47-09671ac6162f",
-      "title": "UPL Ltd (LSE:UPLL) (Q1 2027) Earnings Call Highlights: 7th Consecutive Quarter of Growth, ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/upl-ltd-lse-upll-q1-190027039.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785783627,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "87b273c1-e666-3c29-884d-ced5c33b9c76",
-      "title": "Restaurant Brands Asia Ltd (BOM:543248) (Q1 2027) Earnings Call Highlights: India's SSSG Surges ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/restaurant-brands-asia-ltd-bom-190027894.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785783627,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "78532a00-bfa8-3356-8f17-96a8aee1ebcd",
-      "title": "Luckin Coffee Inc (LKNCY) (Q2 2026) Earnings Call Highlights: Revenue Surges 29% to RMB15. ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/luckin-coffee-inc-lkncy-q2-190026109.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785783626,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "time": 1785789295,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
