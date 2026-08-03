@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-03T08:33:35.343604+00:00",
+  "updatedAt": "2026-08-03T12:16:11.710472+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19876.0,
-      "change": 93.09999999999854,
-      "changePct": 0.4706084547765926,
+      "price": 19924.1,
+      "change": 141.1999999999971,
+      "changePct": 0.7137477316267942,
       "currency": "EUR"
     },
     {
@@ -28,135 +28,118 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25961.9,
-      "change": 349.8700000000026,
-      "changePct": 1.3660377564761663,
+      "price": 25995.66,
+      "change": 383.630000000001,
+      "changePct": 1.4978508146367198,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6406.07,
-      "change": 48.05999999999949,
-      "changePct": 0.7558968922665974,
+      "price": 6414.24,
+      "change": 56.22999999999956,
+      "changePct": 0.8843962183135848,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.17,
-      "change": 0.1800000000000015,
-      "changePct": 1.1257035647279643,
+      "price": 16.1,
+      "change": 0.11000000000000121,
+      "changePct": 0.6879299562226467,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "7491bde8-0cdf-3a5f-89ce-c5e1cecda8ac",
-      "title": "Canada Nickel’s Crawford project gains federal approval",
-      "link": "https://finance.yahoo.com/m/7491bde8-0cdf-3a5f-89ce-c5e1cecda8ac/canada-nickel%E2%80%99s-crawford.html",
-      "publisher": "Mining Technology",
-      "time": 1785745679,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "d39736f2-58bf-3362-b4e7-56f053d24bfe",
-      "title": "Oil prices sink on Iran hopes, yen gains after joint intervention",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-sink-middle-east-034305350.html",
-      "publisher": "AFP",
-      "time": 1785745589,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "313478f6-f200-36fc-9c48-21fdc2e764ae",
-      "title": "Isee Hair Advances Glueless Wig Design with New Cap and Lace Technology",
-      "link": "https://finance.yahoo.com/technology/articles/isee-hair-advances-glueless-wig-082500398.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1785745500,
+      "id": "807bb875-4b3b-3b05-9443-21a115d29f56",
+      "title": "‘Absolutely the right time’ for geothermal – Q&A with Baker Hughes Geothermal VP",
+      "link": "https://finance.yahoo.com/m/807bb875-4b3b-3b05-9443-21a115d29f56/%E2%80%98absolutely-the-right-time%E2%80%99.html",
+      "publisher": "Offshore Technology",
+      "time": 1785759170,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5cd93d28-21bb-37e5-bfbd-18075513f0d8",
-      "title": "Capital Regency Achieves Significant User Growth Milestone",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/capital-regency-achieves-significant-user-082500000.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785745500,
+      "id": "1491fdf4-e357-3162-a661-335693b5b359",
+      "title": "STRONG Pilates Accelerates Global Momentum With Expansion Into Central and Eastern Europe; Announces Master Franchise Partnership With Xtreme Brands",
+      "link": "https://finance.yahoo.com/small-business/articles/strong-pilates-accelerates-global-momentum-121200689.html",
+      "publisher": "Business Wire",
+      "time": 1785759120,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c2ed64c0-d98f-3f8c-a20b-7e43dab92212",
-      "title": "Up Just 2% and Still Dominant: Is Amazon the 1 Growth Stock Worth Buying Right Now?",
-      "link": "https://finance.yahoo.com/m/c2ed64c0-d98f-3f8c-a20b-7e43dab92212/up-just-2%25-and-still.html",
-      "publisher": "Motley Fool",
-      "time": 1785745320,
+      "id": "b26505ce-9144-3700-89b9-5cf3b0d6288c",
+      "title": "Alibaba Stock Soars After Unveiling New Qwen AI Model",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-stock-soars-unveiling-qwen-121120900.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785759080,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "831b10e1-2bdd-3d97-bbc4-339f666103ad",
-      "title": "Meta's New Cloud Ambitions: How Big Could This Business Actually Get?",
-      "link": "https://finance.yahoo.com/m/831b10e1-2bdd-3d97-bbc4-339f666103ad/meta%27s-new-cloud-ambitions%3A.html",
-      "publisher": "Motley Fool",
-      "time": 1785745200,
+      "id": "0a60153c-8811-4804-bce1-dacd45755690",
+      "title": "Tech stock investors have a $1 trillion problem that won't improve until at least 2028",
+      "link": "https://finance.yahoo.com/markets/article/tech-stock-investors-have-a-1-trillion-problem-that-wont-improve-until-at-least-2028-120918848.html",
+      "publisher": "Yahoo Finance",
+      "time": 1785758958,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5cb6a99c-8559-34b9-bc06-d5aa2498c97f",
-      "title": "Market Chatter: AstraZeneca Weighs $400 Billion Combination With Bristol Myers Squibb",
-      "link": "https://finance.yahoo.com/healthcare/articles/market-chatter-astrazeneca-weighs-400-081648191.html",
+      "id": "f192f3fa-d584-37db-94ff-9ba16e48c2c6",
+      "title": "QSR 50 2026: Top Fast-Food Burger Chains, Ranked by Sales",
+      "link": "https://finance.yahoo.com/m/f192f3fa-d584-37db-94ff-9ba16e48c2c6/qsr-50-2026%3A-top-fast-food.html",
+      "publisher": "QSR",
+      "time": 1785758955,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b274beb4-e853-39fc-8b68-7fe286cd6805",
+      "title": "QSR 50 2026: Top Fast-Food Pizza Chains, Ranked by Sales",
+      "link": "https://finance.yahoo.com/m/b274beb4-e853-39fc-8b68-7fe286cd6805/qsr-50-2026%3A-top-fast-food.html",
+      "publisher": "QSR",
+      "time": 1785758932,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "611e8aee-b339-3fdb-b4f6-26c87f1134ad",
+      "title": "QSR 50 2026: Top Global Fast-Food Chains, Ranked by Sales",
+      "link": "https://finance.yahoo.com/m/611e8aee-b339-3fdb-b4f6-26c87f1134ad/qsr-50-2026%3A-top-global.html",
+      "publisher": "QSR",
+      "time": 1785758911,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "173ff9cb-9995-379e-a33a-343093da227a",
+      "title": "Digital Brands Group Announces Review of Strategic Alternatives to Maximize Shareholder Value",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/digital-brands-group-announces-review-120800490.html",
+      "publisher": "Business Wire",
+      "time": 1785758880,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5ee4dc31-261f-32fe-a0ab-5fe66acd288a",
+      "title": "QSR 50 2026: Top Fast-Food Snack Chains, Ranked by Sales",
+      "link": "https://finance.yahoo.com/m/5ee4dc31-261f-32fe-a0ab-5fe66acd288a/qsr-50-2026%3A-top-fast-food.html",
+      "publisher": "QSR",
+      "time": 1785758854,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a3095dab-afcb-3565-9f4f-b6af4f730fe3",
+      "title": "RBC Capital Adjusts American Homes 4 Rent Price Target to $37 From $36, Maintains Outperform Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-adjusts-american-homes-120717779.html",
       "publisher": "MT Newswires",
-      "time": 1785745008,
+      "time": 1785758837,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "4fb72e74-0be0-382b-8771-131d285dd702",
-      "title": "Update: Kosmos Energy Swings to Q2 Adjusted Earnings, Revenue Rises",
-      "link": "https://finance.yahoo.com/energy/articles/kosmos-energy-swings-q2-adjusted-081605634.html",
-      "publisher": "MT Newswires",
-      "time": 1785744965,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "6c9b13cd-115a-3361-9448-7e2fd03e5ae9",
-      "title": "BUYBACK OF RIKSBANK CERTIFICATES",
-      "link": "https://finance.yahoo.com/economy/policy/articles/buyback-riksbank-certificates-081500193.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785744900,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "30842913-5a0a-3595-85ff-63c2f6705556",
-      "title": "Graphic Packaging Holding (GPK) Reports Q2: Everything You Need To Know Ahead Of Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/graphic-packaging-holding-gpk-reports-081322862.html",
-      "publisher": "StockStory",
-      "time": 1785744802,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "tags": []
     }
   ],
   "errors": {
