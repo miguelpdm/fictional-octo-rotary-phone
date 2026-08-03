@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T22:01:59.244848+00:00",
+  "updatedAt": "2026-08-03T23:33:29.563826+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,20 +52,11 @@
   ],
   "news": [
     {
-      "id": "5fba7b5f-b6da-3996-8f2e-efc33c21c071",
-      "title": "US northwest battles wildfires after Spokane neighborhoods scorched",
-      "link": "https://finance.yahoo.com/m/5fba7b5f-b6da-3996-8f2e-efc33c21c071/us-northwest-battles.html",
-      "publisher": "AFP",
-      "time": 1785794280,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5ad32e72-4738-332a-b0d4-e6876f8174e0",
-      "title": "Onsemi forecasts upbeat revenue on surging AI data center chip demand",
-      "link": "https://finance.yahoo.com/technology/ai/articles/onsemi-forecasts-upbeat-revenue-surging-215745624.html",
-      "publisher": "Reuters",
-      "time": 1785794265,
+      "id": "7d13c9cd-d8b9-379f-91ca-c6b5ed3870ba",
+      "title": "Giant satellite internet company files for Chapter 11 bankruptcy",
+      "link": "https://finance.yahoo.com/m/7d13c9cd-d8b9-379f-91ca-c6b5ed3870ba/giant-satellite-internet.html",
+      "publisher": "TheStreet",
+      "time": 1785799680,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,85 +64,87 @@
       ]
     },
     {
-      "id": "5c00d9ca-70eb-3741-9af8-dc282a9b6279",
-      "title": "Lost Soldier Oil and Gas Selects EquiDeFi for Accredited Investor Offering",
-      "link": "https://finance.yahoo.com/energy/articles/lost-soldier-oil-gas-selects-215500041.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1785794100,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "7eddfee8-b3e6-3862-ae9e-d09b5dab9b5f",
-      "title": "Custom Truck One Source Swings to Q2 Profit, Revenue Rises; Shares Gain After Hours",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/custom-truck-one-source-swings-215019975.html",
-      "publisher": "MT Newswires",
-      "time": 1785793819,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "5ac414fa-12de-3c65-97bf-37896dac38e9",
-      "title": "3 Cash-Producing Stocks with Open Questions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-cash-producing-stocks-open-214922201.html",
+      "id": "1493388f-edab-36f2-962b-30873fccc995",
+      "title": "3 Unpopular Stocks We Approach with Caution",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-unpopular-stocks-approach-caution-232522973.html",
       "publisher": "StockStory",
-      "time": 1785793762,
+      "time": 1785799522,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "99bbf77d-2778-3ff0-8315-72424c1f9e1c",
-      "title": "Freeport-Mcmoran Insider Sold Shares Worth $475,650, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/freeport-mcmoran-insider-sold-shares-214808924.html",
-      "publisher": "MT Newswires",
-      "time": 1785793688,
+      "id": "63c4be5a-b034-3b72-9598-2230ee7611f3",
+      "title": "Spirit Halloween opening stores, signaling start of 'spooky season'",
+      "link": "https://finance.yahoo.com/m/63c4be5a-b034-3b72-9598-2230ee7611f3/spirit-halloween-opening.html",
+      "publisher": "USA TODAY",
+      "time": 1785799233,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "96b299fb-6efa-3119-a914-711e3116fe59",
-      "title": "Standlee Launches Forage Foundation™ to Advance the Role of Forage in Equine Nutrition",
-      "link": "https://finance.yahoo.com/healthcare/articles/standlee-launches-forage-foundation-advance-214800297.html",
-      "publisher": "PR Newswire",
-      "time": 1785793680,
+      "id": "27b81ff3-f9a5-3336-b367-1b356ef9d241",
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "link": "https://finance.yahoo.com/technology/ai/articles/killer-quarter-palantir-ceo-alex-231950817.html",
+      "publisher": "TechCrunch",
+      "time": 1785799190,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "fc6e2163-4b6f-311f-bf9a-2df52bfe5b79",
-      "title": "Deep Fission: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/deep-fission-q2-earnings-snapshot-214728529.html",
-      "publisher": "Associated Press",
-      "time": 1785793648,
-      "impact": "medium",
+      "id": "0c3d77c2-71a7-3491-8c1d-7cf9b90504f0",
+      "title": "1 Russell 2000 Stock with Solid Fundamentals and 2 We Brush Off",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-russell-2000-stock-solid-231722984.html",
+      "publisher": "StockStory",
+      "time": 1785799042,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "dfcd0ed6-6011-3303-a964-1280dd1a9b4e",
-      "title": "Behind the Ticker: How BSVO Screens Out Value Traps",
-      "link": "https://finance.yahoo.com/m/dfcd0ed6-6011-3303-a964-1280dd1a9b4e/behind-the-ticker%3A-how-bsvo.html",
-      "publisher": "etf.com",
-      "time": 1785793641,
+      "id": "1ed34956-d1c9-3b48-94a6-49666613689d",
+      "title": "Cult-favorite restaurant announces big new update for customers",
+      "link": "https://finance.yahoo.com/m/1ed34956-d1c9-3b48-94a6-49666613689d/cult-favorite-restaurant.html",
+      "publisher": "TheStreet",
+      "time": 1785799020,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "00cee621-839f-375a-af32-23a6dbf71d66",
-      "title": "Williams to Acquire Momentum Midstream",
-      "link": "https://finance.yahoo.com/energy/articles/williams-acquire-momentum-midstream-214633702.html",
-      "publisher": "MT Newswires",
-      "time": 1785793593,
+      "id": "266e6c73-34c0-3cc8-a36f-25f629ca82f9",
+      "title": "Electronic Arts misses quarterly bookings estimates ahead of Saudi-backed buyout",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/electronic-arts-misses-quarterly-bookings-231630049.html",
+      "publisher": "Reuters",
+      "time": 1785798990,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "58a44f9d-db02-3a6f-8250-358a68e34e5f",
+      "title": "Honduran ex-leader pardoned by Trump to remain free amid corruption trial",
+      "link": "https://finance.yahoo.com/m/58a44f9d-db02-3a6f-8250-358a68e34e5f/honduran-ex-leader-pardoned.html",
+      "publisher": "AFP",
+      "time": 1785798914,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "72127412-b191-3f35-a688-67224b6f41cc",
+      "title": "APA (APA) Draws Fresh Valuation Attention, Is The 11% Discount Enough?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apa-apa-draws-fresh-valuation-231437348.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785798877,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "687724c4-5fea-3f38-915f-607d69acf41a",
+      "title": "IonQ (IONQ) Stock Looks Fully Priced As It Closes The SkyWater Deal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-ionq-stock-looks-fully-231416506.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785798856,
       "impact": "low",
       "tags": []
     }
