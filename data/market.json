@@ -1,145 +1,163 @@
 {
-  "updatedAt": "2026-08-03T12:16:11.710472+00:00",
+  "updatedAt": "2026-08-03T15:23:47.980878+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19924.1,
-      "change": 141.1999999999971,
-      "changePct": 0.7137477316267942,
+      "price": 19957.5,
+      "change": 174.59999999999854,
+      "changePct": 0.8825804103543895,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7489.72,
-      "change": 173.57000000000062,
-      "changePct": 2.3724226539915203,
+      "price": 7580.52,
+      "change": 142.89000000000033,
+      "changePct": 1.9211765038056523,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25373.854,
-      "change": 930.9140000000007,
-      "changePct": 3.8085189424840085,
+      "price": 25844.094,
+      "change": 721.9140000000007,
+      "changePct": 2.873612083027829,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25995.66,
-      "change": 383.630000000001,
-      "changePct": 1.4978508146367198,
+      "price": 26036.8,
+      "change": 424.77000000000044,
+      "changePct": 1.6584784571937503,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6414.24,
-      "change": 56.22999999999956,
-      "changePct": 0.8843962183135848,
+      "price": 6431.53,
+      "change": 73.51999999999953,
+      "changePct": 1.156336652506044,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.1,
-      "change": 0.11000000000000121,
-      "changePct": 0.6879299562226467,
+      "price": 15.71,
+      "change": -0.27999999999999936,
+      "changePct": -1.751094434021259,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "807bb875-4b3b-3b05-9443-21a115d29f56",
-      "title": "‘Absolutely the right time’ for geothermal – Q&A with Baker Hughes Geothermal VP",
-      "link": "https://finance.yahoo.com/m/807bb875-4b3b-3b05-9443-21a115d29f56/%E2%80%98absolutely-the-right-time%E2%80%99.html",
-      "publisher": "Offshore Technology",
-      "time": 1785759170,
+      "id": "c1681e29-d18a-3f56-8f9a-06e0db5ef772",
+      "title": "B. Riley lifts CleanSpark price target to $26 on HPC valuation",
+      "link": "https://finance.yahoo.com/m/c1681e29-d18a-3f56-8f9a-06e0db5ef772/b.-riley-lifts-cleanspark.html",
+      "publisher": "Blockspace",
+      "time": 1785770407,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1491fdf4-e357-3162-a661-335693b5b359",
-      "title": "STRONG Pilates Accelerates Global Momentum With Expansion Into Central and Eastern Europe; Announces Master Franchise Partnership With Xtreme Brands",
-      "link": "https://finance.yahoo.com/small-business/articles/strong-pilates-accelerates-global-momentum-121200689.html",
-      "publisher": "Business Wire",
-      "time": 1785759120,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b26505ce-9144-3700-89b9-5cf3b0d6288c",
-      "title": "Alibaba Stock Soars After Unveiling New Qwen AI Model",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-stock-soars-unveiling-qwen-121120900.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785759080,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0a60153c-8811-4804-bce1-dacd45755690",
-      "title": "Tech stock investors have a $1 trillion problem that won't improve until at least 2028",
-      "link": "https://finance.yahoo.com/markets/article/tech-stock-investors-have-a-1-trillion-problem-that-wont-improve-until-at-least-2028-120918848.html",
-      "publisher": "Yahoo Finance",
-      "time": 1785758958,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f192f3fa-d584-37db-94ff-9ba16e48c2c6",
-      "title": "QSR 50 2026: Top Fast-Food Burger Chains, Ranked by Sales",
-      "link": "https://finance.yahoo.com/m/f192f3fa-d584-37db-94ff-9ba16e48c2c6/qsr-50-2026%3A-top-fast-food.html",
-      "publisher": "QSR",
-      "time": 1785758955,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b274beb4-e853-39fc-8b68-7fe286cd6805",
-      "title": "QSR 50 2026: Top Fast-Food Pizza Chains, Ranked by Sales",
-      "link": "https://finance.yahoo.com/m/b274beb4-e853-39fc-8b68-7fe286cd6805/qsr-50-2026%3A-top-fast-food.html",
-      "publisher": "QSR",
-      "time": 1785758932,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "611e8aee-b339-3fdb-b4f6-26c87f1134ad",
-      "title": "QSR 50 2026: Top Global Fast-Food Chains, Ranked by Sales",
-      "link": "https://finance.yahoo.com/m/611e8aee-b339-3fdb-b4f6-26c87f1134ad/qsr-50-2026%3A-top-global.html",
-      "publisher": "QSR",
-      "time": 1785758911,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "173ff9cb-9995-379e-a33a-343093da227a",
-      "title": "Digital Brands Group Announces Review of Strategic Alternatives to Maximize Shareholder Value",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/digital-brands-group-announces-review-120800490.html",
-      "publisher": "Business Wire",
-      "time": 1785758880,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5ee4dc31-261f-32fe-a0ab-5fe66acd288a",
-      "title": "QSR 50 2026: Top Fast-Food Snack Chains, Ranked by Sales",
-      "link": "https://finance.yahoo.com/m/5ee4dc31-261f-32fe-a0ab-5fe66acd288a/qsr-50-2026%3A-top-fast-food.html",
-      "publisher": "QSR",
-      "time": 1785758854,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a3095dab-afcb-3565-9f4f-b6af4f730fe3",
-      "title": "RBC Capital Adjusts American Homes 4 Rent Price Target to $37 From $36, Maintains Outperform Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-adjusts-american-homes-120717779.html",
+      "id": "68158eb5-1a9f-3d5e-84c8-768aee77df06",
+      "title": "GoDaddy to See Higher Risk in Transition to Agentic Web Building, Vibe Coding, Wedbush Says",
+      "link": "https://finance.yahoo.com/technology/ai/articles/godaddy-see-higher-risk-transition-151754262.html",
       "publisher": "MT Newswires",
-      "time": 1785758837,
+      "time": 1785770274,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "735b9c91-7475-348b-b2b5-8a15c260c375",
+      "title": "Lattice Semiconductor Earnings: What To Look For From LSCC",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-earnings-look-lscc-151722141.html",
+      "publisher": "StockStory",
+      "time": 1785770242,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "e94d08d1-cdd0-3d03-8ad8-a4d5c1363833",
+      "title": "Tower Semiconductor Positioned to Beat, Raise in Q2, Wedbush Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tower-semiconductor-positioned-beat-raise-151704539.html",
+      "publisher": "MT Newswires",
+      "time": 1785770224,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "52e0c415-5f62-3fcc-97f5-8fd72c186d07",
+      "title": "IBM’s Quantum Bet Just Got Bigger—What the HRL Deal Means for Investors",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ibm-quantum-bet-just-got-151648951.html",
+      "publisher": "Insider Monkey",
+      "time": 1785770208,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fb259287-7c4b-384b-908e-e3b11626b7f3",
+      "title": "Average car payments in 2026: What to expect",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/average-auto-loan-payments-expect-174817148.html",
+      "publisher": "Bankrate",
+      "time": 1785770192,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "016bc54e-5edd-38de-9974-df9856f8debf",
+      "title": "Top 10 Real Estate News: July's Most Interesting Real Estate & Home News",
+      "link": "https://finance.yahoo.com/real-estate/articles/top-10-real-estate-news-151500967.html",
+      "publisher": "PR Newswire",
+      "time": 1785770100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "089ffcf2-fa2a-30df-8155-7365e00b4f88",
+      "title": "OXFORD BANK CORPORATION ANNOUNCES SECOND QUARTER 2026 OPERATING RESULTS",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oxford-bank-corporation-announces-second-151500664.html",
+      "publisher": "PR Newswire",
+      "time": 1785770100,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "63112abb-17c5-4b1b-9baf-cd28e0ad3079",
+      "title": "Earnings: Beef prices weigh on Tyson Foods, McDonald's Q2 results on deck",
+      "link": "https://finance.yahoo.com/video/earnings-beef-prices-weigh-tyson-151500273.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1785770100,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "7173a485-27e4-3683-b567-e399b163a55a",
+      "title": "Huntington Bank Names Blake Absher Central Texas Division President",
+      "link": "https://finance.yahoo.com/small-business/articles/huntington-bank-names-blake-absher-151500082.html",
+      "publisher": "PR Newswire",
+      "time": 1785770100,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
