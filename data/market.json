@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T23:28:16.906090+00:00",
+  "updatedAt": "2026-08-03T01:06:58.896151+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,47 +52,11 @@
   ],
   "news": [
     {
-      "id": "f6a669a4-0851-31ff-b598-7a7f2fc5c358",
-      "title": "Consumer goods giant quietly wows investors after terrible streak",
-      "link": "https://finance.yahoo.com/m/f6a669a4-0851-31ff-b598-7a7f2fc5c358/consumer-goods-giant-quietly.html",
-      "publisher": "TheStreet",
-      "time": 1785712620,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "73c4bb19-d358-3195-83fb-1e8ab96a72d7",
-      "title": "XRP ETFs Keep Drawing Cash, So Why Is the Price Down 40%?",
-      "link": "https://finance.yahoo.com/m/73c4bb19-d358-3195-83fb-1e8ab96a72d7/xrp-etfs-keep-drawing-cash%2C.html",
-      "publisher": "BeInCrypto",
-      "time": 1785712429,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b763d768-2c67-3878-8ff1-a6e23e837c8c",
-      "title": "Standex International (SXI) Could Be 2% Overvalued As Record Results Lift Expectations",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/standex-international-sxi-could-2-231230932.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785712350,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c84141ce-c7f2-3d93-b514-99eda91194af",
-      "title": "Verra Mobility (VRRM) Could Be 46% Undervalued Following Avis Contract And Lawsuit Risk",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/verra-mobility-vrrm-could-46-231229535.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785712349,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3ee9b49c-f667-3712-809b-4c92273c1eb2",
-      "title": "Jersey Mike's (JMKE) Stock May Be 28% Undervalued Following Its IPO Debut",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jersey-mikes-jmke-stock-may-231222770.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785712342,
+      "id": "c262b5c7-6c2e-32ad-aed8-d621ab0cecae",
+      "title": "Oil slumps on hopes of Iran deal, yen spikes suddenly after intervention",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/oil-slumps-hopes-iran-deal-010323774.html",
+      "publisher": "Reuters",
+      "time": 1785719151,
       "impact": "medium",
       "tags": [
         "macro",
@@ -100,20 +64,38 @@
       ]
     },
     {
-      "id": "f387cfff-3e2f-326a-b881-60db0bf10afe",
-      "title": "Select Water Solutions (WTTR) Declares Quarterly Dividend, Is It A Bargain Or Fully Priced?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/select-water-solutions-wttr-declares-231201294.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785712321,
+      "id": "5c0b6613-1151-33bc-a0cc-2c7be2ca6e25",
+      "title": "First Plus Expands Relationship with SS&C to Support Cross-Border Operations in APAC",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/first-plus-expands-relationship-ss-010000997.html",
+      "publisher": "Business Wire",
+      "time": 1785718800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f4ab1096-3e29-3c34-b06e-73ad84cae4ea",
-      "title": "Amundi (ENXTPA:AMUN) After Record Inflows And Results Still Looks Slightly Pricey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amundi-enxtpa-amun-record-inflows-231156826.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785712316,
+      "id": "0368e737-f3f2-3669-8c04-6fb2cf4467ba",
+      "title": "ebm-papst and Inovance Deepen Technical Exchange to Drive Industrial Innovation",
+      "link": "https://finance.yahoo.com/technology/articles/ebm-papst-inovance-deepen-technical-010000554.html",
+      "publisher": "PR Newswire",
+      "time": 1785718800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4048e7d1-751a-389c-94fc-3794724223e1",
+      "title": "Shui On Land Named Among TIME's World's Most Impactful Companies 2026",
+      "link": "https://finance.yahoo.com/real-estate/articles/shui-land-named-among-times-010000409.html",
+      "publisher": "PR Newswire",
+      "time": 1785718800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5ecd2363-96b5-3c68-8754-2af0189af74a",
+      "title": "Coway Releases 21st Sustainability Report for FY2025",
+      "link": "https://finance.yahoo.com/technology/articles/coway-releases-21st-sustainability-report-010000858.html",
+      "publisher": "PR Newswire",
+      "time": 1785718800,
       "impact": "low",
       "tags": []
     },
@@ -122,7 +104,7 @@
       "title": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
       "link": "https://finance.yahoo.com/m/a6fd7cc1-160f-33be-9c9b-10601e0fcebe/dow-jones-futures-rise%2C-oil.html",
       "publisher": "Investor's Business Daily",
-      "time": 1785712291,
+      "time": 1785718511,
       "impact": "medium",
       "tags": [
         "macro",
@@ -130,11 +112,20 @@
       ]
     },
     {
-      "id": "0c12b8ea-254e-33f0-ae82-3b1f7742dc3e",
-      "title": "Perella Weinberg Partners (PWP) Stock Could Be 20% Undervalued As Earnings Look Pricey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/perella-weinberg-partners-pwp-stock-231122910.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785712282,
+      "id": "cc1d0c1d-56b3-3d24-ae4d-c1ee09b12737",
+      "title": "Starbucks CEO says your local store may not survive",
+      "link": "https://finance.yahoo.com/m/cc1d0c1d-56b3-3d24-ae4d-c1ee09b12737/starbucks-ceo-says-your-local.html",
+      "publisher": "TheStreet",
+      "time": 1785717420,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cab50242-66a7-3023-a3bc-64bb67ab7041",
+      "title": "Here’s The Real Cost of Keeping $20,000 at a Big Bank in 2026",
+      "link": "https://finance.yahoo.com/m/cab50242-66a7-3023-a3bc-64bb67ab7041/here%E2%80%99s-the-real-cost-of.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785717357,
       "impact": "medium",
       "tags": [
         "macro",
@@ -142,11 +133,59 @@
       ]
     },
     {
-      "id": "1cc33ef5-41a2-3f87-b726-646eab11b17d",
-      "title": "TriNet (TNET) Stock Looks Overvalued Following Its 34% Three Year Fall",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/trinet-tnet-stock-looks-overvalued-231121181.html",
+      "id": "6e50b3d6-4e2b-3dfd-a003-29950df3dfce",
+      "title": "Credo Technology's Co-Founder and CTO Sold Nearly 30,000 Shares Worth $6.1 Million. What Does That Mean for Investors?",
+      "link": "https://finance.yahoo.com/m/6e50b3d6-4e2b-3dfd-a003-29950df3dfce/credo-technology%27s-co-founder.html",
+      "publisher": "Motley Fool",
+      "time": 1785716941,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "65c02dd3-142c-3da3-be01-59aa03b53073",
+      "title": "Watch video: Armed citizen confronts Idaho In-N-Out suspected gunman",
+      "link": "https://finance.yahoo.com/m/65c02dd3-142c-3da3-be01-59aa03b53073/watch-video%3A-armed-citizen.html",
+      "publisher": "USA TODAY",
+      "time": 1785716638,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3a6764dc-36be-3e84-9415-5dfbe43dc199",
+      "title": "Is Amazon Stock a Buy After CEO Andy Jassy's $1 Trillion AWS Revenue Prediction?",
+      "link": "https://finance.yahoo.com/m/3a6764dc-36be-3e84-9415-5dfbe43dc199/is-amazon-stock-a-buy-after.html",
+      "publisher": "Motley Fool",
+      "time": 1785716400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7bbf2188-4517-3604-ae3b-bfd6574e1a91",
+      "title": "Faraday Future Global CEO YT Jia Shares Weekly Investor Update: Sets Another Monthly Robotics Sales Record, Launches the EAI Robotics \"Built in USA\" Acceleration Program, Previews the FF \"Built in USA\" Industry Chain Partner Recruitment Conference",
+      "link": "https://finance.yahoo.com/technology/ai/articles/faraday-future-global-ceo-yt-001900897.html",
+      "publisher": "Business Wire",
+      "time": 1785716340,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d83b67fe-0f4c-346e-b0be-80b3fb734221",
+      "title": "What Ingevity (NGVT)'s Profit Rebound and Major Buyback Mean For Shareholders",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ingevity-ngvt-profit-rebound-major-001650713.html",
       "publisher": "Simply Wall St.",
-      "time": 1785712281,
+      "time": 1785716210,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "c2c9edbf-3a49-3f69-99e7-ea2fb4d3b92c",
+      "title": "NOV (NOV) Stock Still Looks Undervalued Despite Its 64% Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nov-nov-stock-still-looks-001630252.html",
+      "publisher": "Simply Wall St.",
+      "time": 1785716190,
       "impact": "low",
       "tags": []
     }
