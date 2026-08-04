@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T20:49:32.589566+00:00",
+  "updatedAt": "2026-08-04T22:06:26.031290+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,11 @@
   ],
   "news": [
     {
-      "id": "2d41051a-ce2c-3eb0-a168-e93b38db7bf9",
-      "title": "Qualys Earnings, Revenue Top Estimates. Cybersecurity Stock Climbs.",
-      "link": "https://finance.yahoo.com/m/2d41051a-ce2c-3eb0-a168-e93b38db7bf9/qualys-earnings%2C-revenue-top.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1785876373,
+      "id": "f6a551a8-d384-4ca9-9dcb-63e228e3c2e0",
+      "title": "Sandisk bulls are probably eyeing this number on earnings day: AlphaSpace stat of the evening",
+      "link": "https://finance.yahoo.com/markets/article/sandisk-bulls-are-probably-eyeing-this-number-on-earnings-day-alphaspace-stat-of-the-evening-220000368.html",
+      "publisher": "Yahoo Finance",
+      "time": 1785880800,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,11 +64,11 @@
       ]
     },
     {
-      "id": "30b0639a-a51d-338b-bfb4-53ff99db2f43",
-      "title": "AI Cloud Networking Growth Drives Arista Earnings Beat",
-      "link": "https://finance.yahoo.com/m/30b0639a-a51d-338b-bfb4-53ff99db2f43/ai-cloud-networking-growth.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1785876370,
+      "id": "e331ba80-05cb-3b2c-bf29-223acf3e1d48",
+      "title": "Workiva Q2 Adjusted Earnings, Revenue Rise; Guides Q3",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/workiva-q2-adjusted-earnings-revenue-215950280.html",
+      "publisher": "MT Newswires",
+      "time": 1785880790,
       "impact": "medium",
       "tags": [
         "macro",
@@ -76,53 +76,86 @@
       ]
     },
     {
-      "id": "f7d1b9d7-d060-3cc7-bf3f-bf0bd77c2915",
-      "title": "Arista Networks soars 13% on strong Q2 beat and raised outlook",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-soars-13-strong-204329421.html",
-      "publisher": "Investing.com",
-      "time": 1785876209,
+      "id": "38eb9eec-1cb0-3db0-b993-2e1e4264cdb8",
+      "title": "Talos Energy Swings to Q2 Adjusted Earnings, Revenue Rises",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/talos-energy-swings-q2-adjusted-215916744.html",
+      "publisher": "MT Newswires",
+      "time": 1785880756,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "1ecf2fe8-04ee-3a90-8156-5592bb0c86b6",
+      "title": "Hecla Mining Q2 Earnings, Revenue Rise",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hecla-mining-q2-earnings-revenue-215909686.html",
+      "publisher": "MT Newswires",
+      "time": 1785880749,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "998d5c45-050b-336b-a9fa-ec64356e260a",
+      "title": "Callaway Golf Q2 Adjusted Earnings, Net Sales Rise; Lifts 2026 Net Sales Outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/callaway-golf-q2-adjusted-earnings-215829010.html",
+      "publisher": "MT Newswires",
+      "time": 1785880709,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "ff0706c8-e890-3a13-89ed-dfc857b6dbb1",
+      "title": "Hyatt Hotels Insider Sold Shares Worth $310,925, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hyatt-hotels-insider-sold-shares-215728793.html",
+      "publisher": "MT Newswires",
+      "time": 1785880648,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9c58b997-cef1-3008-b020-3d2c87986398",
-      "title": "IYF vs EUFN: U.S. and European Financial Giants Face Off in this ETF Comparison",
-      "link": "https://finance.yahoo.com/m/9c58b997-cef1-3008-b020-3d2c87986398/iyf-vs-eufn%3A-u.s.-and.html",
-      "publisher": "Motley Fool",
-      "time": 1785876181,
+      "id": "4804a229-d9a1-36f0-ad5e-1993431c4e81",
+      "title": "DoveRunner Strengthens Forensic Watermarking Leadership Ahead of IBC 2026 with Independent Validation and New Sports Customer",
+      "link": "https://finance.yahoo.com/media-advertising/articles/doverunner-strengthens-forensic-watermarking-leadership-215600217.html",
+      "publisher": "Business Wire",
+      "time": 1785880560,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0a03b310-0333-3421-87ee-d743972b8447",
-      "title": "MasterBrand: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/masterbrand-q2-earnings-snapshot-204258639.html",
-      "publisher": "Associated Press",
-      "time": 1785876178,
-      "impact": "medium",
+      "id": "c61bbdd0-45e0-36a1-bd0c-af4dbd4f99a8",
+      "title": "Skyward Specialty Insurance Q2 Adjusted Earnings, Revenue Rise",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/skyward-specialty-insurance-q2-adjusted-215439472.html",
+      "publisher": "MT Newswires",
+      "time": 1785880479,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "16253b1b-0c49-371a-8205-c97f851df1ef",
-      "title": "OrthoPediatrics: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/orthopediatrics-q2-earnings-snapshot-204257791.html",
-      "publisher": "Associated Press",
-      "time": 1785876177,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "0a0ab6da-4707-4b4e-b167-53a0f7966e25",
+      "title": "Sweep accounts explained: An easy way to put idle cash to work",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/what-is-a-sweep-account-215353293.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1785880433,
+      "impact": "low",
+      "tags": []
     },
     {
       "id": "be960fbd-4368-34a9-b03b-3f3453f261ac",
       "title": "SpaceX shows strong growth in its first earnings report since IPO",
       "link": "https://finance.yahoo.com/m/be960fbd-4368-34a9-b03b-3f3453f261ac/spacex-shows-strong-growth-in.html",
       "publisher": "CBS News",
-      "time": 1785876168,
+      "time": 1785880350,
       "impact": "medium",
       "tags": [
         "macro",
@@ -130,34 +163,16 @@
       ]
     },
     {
-      "id": "9baa5aee-beab-3f9c-acb0-61cd69751b8d",
-      "title": "SLR Investment: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/slr-investment-q2-earnings-snapshot-204108533.html",
-      "publisher": "Associated Press",
-      "time": 1785876068,
+      "id": "9c8535cb-e845-3be5-a07b-05a06a175427",
+      "title": "Suncor Energy Q2 Adjusted Earnings, Revenue Rise",
+      "link": "https://finance.yahoo.com/energy/articles/suncor-energy-q2-adjusted-earnings-215228399.html",
+      "publisher": "MT Newswires",
+      "time": 1785880348,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
-    },
-    {
-      "id": "80eecfdd-f029-3b8e-bc7b-c537c88d5ef4",
-      "title": "Jeff Bezos Is Pushing Amazon's Prime Video Into an AI Showcase, a Sign of How the Company Plans to Justify Its AI Spending",
-      "link": "https://finance.yahoo.com/m/80eecfdd-f029-3b8e-bc7b-c537c88d5ef4/jeff-bezos-is-pushing.html",
-      "publisher": "Motley Fool",
-      "time": 1785876060,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "af381684-5e97-373c-91bd-76e3a3eff6c4",
-      "title": "Why Charles Schwab Stock Jumped in July",
-      "link": "https://finance.yahoo.com/m/af381684-5e97-373c-91bd-76e3a3eff6c4/why-charles-schwab-stock.html",
-      "publisher": "Motley Fool",
-      "time": 1785876059,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
