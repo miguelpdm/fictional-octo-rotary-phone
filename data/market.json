@@ -1,200 +1,152 @@
 {
-  "updatedAt": "2026-08-04T12:55:01.385910+00:00",
+  "updatedAt": "2026-08-04T15:21:01.064337+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20009.4,
-      "change": 26.80000000000291,
-      "changePct": 0.13411668151293082,
+      "price": 20063.9,
+      "change": 81.30000000000291,
+      "changePct": 0.40685396294777915,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7600.5,
-      "change": 162.8699999999999,
-      "changePct": 2.189810463817101,
+      "price": 7698.63,
+      "change": 208.90999999999985,
+      "changePct": 2.7892898532922437,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25913.896,
-      "change": 791.7160000000003,
-      "changePct": 3.151462174062921,
+      "price": 26391.047,
+      "change": 1017.1970000000001,
+      "changePct": 4.0088398094889035,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26193.0,
-      "change": 563.7599999999984,
-      "changePct": 2.1996750586439484,
+      "price": 26204.83,
+      "change": 575.5900000000001,
+      "changePct": 2.2458332748064325,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6476.24,
-      "change": 49.73999999999978,
-      "changePct": 0.773982727767833,
+      "price": 6486.88,
+      "change": 60.38000000000011,
+      "changePct": 0.9395471874270614,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.61,
-      "change": -0.25,
-      "changePct": -1.5762925598991173,
+      "price": 15.97,
+      "change": 0.11000000000000121,
+      "changePct": 0.6935687263556193,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "418fad7c-7c71-313d-a565-246b4279d722",
-      "title": "Akari Therapeutics Releases CEO Corner Highlighting Strategic WhiteHawk Collaboration and the Expanding Opportunity for Dual-Payload ADC Innovation",
-      "link": "https://finance.yahoo.com/healthcare/articles/akari-therapeutics-releases-ceo-corner-125000602.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785847800,
+      "id": "2df15660-9dd2-3de3-b151-3fe5dd95b8c2",
+      "title": "Otsuka’s Voyxact stabilised kidney function at two years in Phase III IgAN trial",
+      "link": "https://finance.yahoo.com/m/2df15660-9dd2-3de3-b151-3fe5dd95b8c2/otsuka%E2%80%99s-voyxact-stabilised.html",
+      "publisher": "Clinical Trials Arena",
+      "time": 1785856770,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f0662abf-7f23-397c-b1d0-0e813aab6ea0",
-      "title": "AAMI Announces neXus 2027 Advisory Council and Location",
-      "link": "https://finance.yahoo.com/healthcare/articles/aami-announces-nexus-2027-advisory-125000880.html",
-      "publisher": "TMX Newsfile",
-      "time": 1785847800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "93786e1b-a95c-366c-9820-d784dfc1a674",
-      "title": "Volatus, Singular Aircraft to Deploy Autonomous Aircraft for Canadian Wildfire Response",
-      "link": "https://finance.yahoo.com/technology/articles/volatus-singular-aircraft-deploy-autonomous-124857196.html",
-      "publisher": "MT Newswires",
-      "time": 1785847737,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5f3d91d0-5cb2-36ff-af73-8d0674b5b87c",
-      "title": "Preferred Hotels & Resorts Highlights Business with Balance Through Curated Hotel Pairings for the Modern Bleisure Traveler",
-      "link": "https://finance.yahoo.com/small-business/articles/preferred-hotels-resorts-highlights-business-124800660.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785847680,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "457207c6-7fcd-3c56-84eb-1e963b69b3e6",
-      "title": "Wayfair Q2 2026 earnings: best U.S. growth since pandemic",
-      "link": "https://finance.yahoo.com/m/457207c6-7fcd-3c56-84eb-1e963b69b3e6/wayfair-q2-2026-earnings%3A.html",
-      "publisher": "Quartz",
-      "time": 1785847678,
+      "id": "501361ad-096b-37ab-aa73-8be26e065275",
+      "title": "Tesla's China Business Could Complicate Musk's Biggest Deal Yet",
+      "link": "https://finance.yahoo.com/technology/articles/teslas-china-business-could-complicate-151829941.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785856709,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
     },
     {
-      "id": "bda519bc-94b9-4ec8-8f9f-31914aad6b72",
-      "title": "Silver prices today, Tuesday, August 4, 2026: Silver holds above $58 with Iran escalation still on pause",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-august-4-2026-silver-holds-above-58-with-iran-escalation-still-on-pause-124749922.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1785847669,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "49f35d61-bf97-3c7e-8877-22c953e0c382",
-      "title": "WeRide enters Nordic region via GreenMobility partnership",
-      "link": "https://finance.yahoo.com/m/49f35d61-bf97-3c7e-8877-22c953e0c382/weride-enters-nordic-region.html",
-      "publisher": "Just Auto",
-      "time": 1785847661,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ff3acb5d-4218-381a-83b4-7347e2599bff",
-      "title": "Here's Why SpaceX Earnings Could Affect Tesla Stock",
-      "link": "https://finance.yahoo.com/m/ff3acb5d-4218-381a-83b4-7347e2599bff/here%27s-why-spacex-earnings.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1785847657,
-      "impact": "medium",
+      "id": "843036fb-38e6-397c-b903-154cb36e40c5",
+      "title": "Early voting dates, locations in Miami-Dade, Broward, Monroe counties",
+      "link": "https://finance.yahoo.com/m/843036fb-38e6-397c-b903-154cb36e40c5/early-voting-dates%2C-locations.html",
+      "publisher": "USA TODAY",
+      "time": 1785856642,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "37d83394-584b-35c3-b47a-4ad62681f131",
-      "title": "Greg Abel Hasn't Touched Berkshire's Energy Holdings. Is That a Signal?",
-      "link": "https://finance.yahoo.com/m/37d83394-584b-35c3-b47a-4ad62681f131/greg-abel-hasn%27t-touched.html",
+      "id": "672bd161-e155-398a-868a-f138b4d4f452",
+      "title": "I Ranked Big Tech's AI Spending Four Ways. The Order Never Changed.",
+      "link": "https://finance.yahoo.com/m/672bd161-e155-398a-868a-f138b4d4f452/i-ranked-big-tech%27s-ai.html",
       "publisher": "Motley Fool",
-      "time": 1785847620,
+      "time": 1785856620,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "32daa100-757f-3e39-8893-e37b2eed4638",
-      "title": "Expeditors International of Washington Q2 Net Earnings, Revenue Rise",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/expeditors-international-washington-q2-net-124641704.html",
-      "publisher": "MT Newswires",
-      "time": 1785847601,
-      "impact": "medium",
+      "id": "0c0dbace-af56-3b7b-b9be-4b96d9e5810a",
+      "title": "Is Eli Lilly (LLY) Still the Undisputed Leader in the $150 Billion Obesity Drug Market?",
+      "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-still-undisputed-151506170.html",
+      "publisher": "Insider Monkey",
+      "time": 1785856506,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "b797074c-46a1-3e1e-98b0-7f83eef47a3a",
-      "title": "Xometry Q2 Non-GAAP Earnings, Revenue Increase; 2026 Revenue Growth Outlook Lifted",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/xometry-q2-non-gaap-earnings-124614978.html",
-      "publisher": "MT Newswires",
-      "time": 1785847574,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "38a0eb36-6177-3633-bfc1-21ca2a62bd6e",
-      "title": "72% of Americans Prioritize Reducing Pressure on Local Resources Over Faster AI-Powered Digital Services, Reach3 Insights Study Finds",
-      "link": "https://finance.yahoo.com/technology/ai/articles/72-americans-prioritize-reducing-pressure-124600774.html",
-      "publisher": "PR Newswire",
-      "time": 1785847560,
+      "id": "e64fb22a-219d-388c-a40e-ca10381f5c37",
+      "title": "Google Earth’s AI misadventure lasted only a day. It was a tale of dangerous ignorance.",
+      "link": "https://finance.yahoo.com/m/e64fb22a-219d-388c-a40e-ca10381f5c37/google-earth%E2%80%99s-ai.html",
+      "publisher": "Digital Trends",
+      "time": 1785856501,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5158e464-69d1-39fa-9cac-6dca8dd0e703",
-      "title": "ABnet Launches Commercial Accelerator - GTM-as-a-Service - to Bridge Startups' \"Valley of Death\" Through Rapid Enterprise Deployment",
-      "link": "https://finance.yahoo.com/small-business/articles/abnet-launches-commercial-accelerator-gtm-124600995.html",
-      "publisher": "PR Newswire",
-      "time": 1785847560,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "79ccf54c-0de5-3bb6-81e1-5c1b57530153",
-      "title": "Innesto Partners Announces Sweden's First Traditional Search Fund",
-      "link": "https://finance.yahoo.com/small-business/articles/innesto-partners-announces-swedens-first-124600291.html",
-      "publisher": "PR Newswire",
-      "time": 1785847560,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a422c15d-71ea-364c-b073-4ddd8485317f",
-      "title": "Independent Health Economic Study Recently Published in Journal of Vascular Surgery Reports Economic Dominance of enVVeno Medical's Replacement Venous Valve Therapy Compared to Standard of Care Treatments",
-      "link": "https://finance.yahoo.com/healthcare/articles/independent-health-economic-study-recently-124600791.html",
+      "id": "3a14d20e-f00c-3b3d-9fbb-ec2c3a064e09",
+      "title": "BREAKING NEWS: ELEKTROS Advances Lithium and EV Technology Strategy as Investor Interest Builds",
+      "link": "https://finance.yahoo.com/energy/articles/breaking-news-elektros-advances-lithium-151500961.html",
       "publisher": "ACCESS Newswire",
-      "time": 1785847560,
+      "time": 1785856500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4d3047ed-6cbb-34b7-ada0-7d30f840425b",
+      "title": "Advancing into High-Altitude Ecological Zones - Intelligent Robots Assist in Scientific Observation of Tibetan Antelopes",
+      "link": "https://finance.yahoo.com/technology/ai/articles/advancing-high-altitude-ecological-zones-151500563.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1785856500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fd2b64ec-7e4c-37b5-ab44-276a0255a46f",
+      "title": "Oracle's AI Bet Is Starting to Alarm the Credit Market",
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracles-ai-bet-starting-alarm-151458351.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785856498,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "eda7d990-c336-3e85-ba57-a657a530ed87",
+      "title": "Why Sandisk Stock Soared Today",
+      "link": "https://finance.yahoo.com/m/eda7d990-c336-3e85-ba57-a657a530ed87/why-sandisk-stock-soared-today.html",
+      "publisher": "Motley Fool",
+      "time": 1785856436,
       "impact": "low",
       "tags": []
     }
