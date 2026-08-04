@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-04T10:43:38.986397+00:00",
+  "updatedAt": "2026-08-04T12:55:01.385910+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19941.5,
-      "change": -41.099999999998545,
-      "changePct": -0.2056789406783829,
+      "price": 20009.4,
+      "change": 26.80000000000291,
+      "changePct": 0.13411668151293082,
       "currency": "EUR"
     },
     {
@@ -28,125 +28,173 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26105.55,
-      "change": 476.3099999999977,
-      "changePct": 1.8584632240362868,
+      "price": 26193.0,
+      "change": 563.7599999999984,
+      "changePct": 2.1996750586439484,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6455.46,
-      "change": 28.960000000000036,
-      "changePct": 0.45063409320781195,
+      "price": 6476.24,
+      "change": 49.73999999999978,
+      "changePct": 0.773982727767833,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.71,
-      "change": -0.14999999999999858,
-      "changePct": -0.9457755359394615,
+      "price": 15.61,
+      "change": -0.25,
+      "changePct": -1.5762925598991173,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "d872e473-5a2b-3db9-bd1c-5793cd2c20f4",
-      "title": "“This Is Unprecedented”: Goldman Sachs Sees 3 Simultaneous Crises Pushing Oil as High as $120 a Barrel",
-      "link": "https://finance.yahoo.com/m/d872e473-5a2b-3db9-bd1c-5793cd2c20f4/%E2%80%9Cthis-is-unprecedented%E2%80%9D%3A.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1785839918,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "84151f5b-6ce3-3547-9290-8a82026ce4a6",
-      "title": "NASBA puts forward new leadership nominees ahead of October meeting",
-      "link": "https://finance.yahoo.com/m/84151f5b-6ce3-3547-9290-8a82026ce4a6/nasba-puts-forward-new.html",
-      "publisher": "The Accountant",
-      "time": 1785839863,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "a53f707f-e17c-386d-b21c-2283cd9d5bca",
-      "title": "Enrolment concludes in 4Moving Biotech’s Phase IIa trial of 4P004",
-      "link": "https://finance.yahoo.com/m/a53f707f-e17c-386d-b21c-2283cd9d5bca/enrolment-concludes-in.html",
-      "publisher": "Clinical Trials Arena",
-      "time": 1785839762,
+      "id": "418fad7c-7c71-313d-a565-246b4279d722",
+      "title": "Akari Therapeutics Releases CEO Corner Highlighting Strategic WhiteHawk Collaboration and the Expanding Opportunity for Dual-Payload ADC Innovation",
+      "link": "https://finance.yahoo.com/healthcare/articles/akari-therapeutics-releases-ceo-corner-125000602.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785847800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ecb76073-6ade-3265-a1c9-f60a7de701ac",
-      "title": "Jones Soda Sets Second Quarter 2026 Conference Call for Thursday, August 13, 2026, at 8:30 a.m. ET",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jones-soda-sets-second-quarter-103500356.html",
-      "publisher": "CNW Group",
-      "time": 1785839700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "892967be-f4d6-3b67-92e8-9236bc0aad19",
-      "title": "‘We’re Still Not Getting Anywhere on the Debt’: $100K-a-Year Man Working 4 Jobs Calls the Ramsey Show",
-      "link": "https://finance.yahoo.com/m/892967be-f4d6-3b67-92e8-9236bc0aad19/%E2%80%98we%E2%80%99re-still-not-getting.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1785839618,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "917b7041-4dc8-3e3b-9f72-3e021ece6970",
-      "title": "Spotify Technology Q2 Swings to Profit, Revenue Rises",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spotify-technology-q2-swings-profit-103318168.html",
-      "publisher": "MT Newswires",
-      "time": 1785839598,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a70e7329-6198-3ddd-b658-dc4a6aab7cd8",
-      "title": "PE sponsors retreat from Southern Europe",
-      "link": "https://finance.yahoo.com/m/a70e7329-6198-3ddd-b658-dc4a6aab7cd8/pe-sponsors-retreat-from.html",
-      "publisher": "Pitchbook",
-      "time": 1785839562,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8f06442b-7a01-3c0c-b1b4-acc68c1d2d85",
-      "title": "Wenger says scrapping Infantino's World Cup plan was \"absolutely necessary\"",
-      "link": "https://finance.yahoo.com/m/8f06442b-7a01-3c0c-b1b4-acc68c1d2d85/wenger-says-scrapping.html",
-      "publisher": "AFP",
-      "time": 1785839524,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4c756e68-c52f-3d06-ba2c-59ffa01a44e1",
-      "title": "International Influencers Gather in the Ancient Silk Road City of Kuqa",
-      "link": "https://finance.yahoo.com/media-advertising/articles/international-influencers-gather-ancient-silk-103200801.html",
+      "id": "f0662abf-7f23-397c-b1d0-0e813aab6ea0",
+      "title": "AAMI Announces neXus 2027 Advisory Council and Location",
+      "link": "https://finance.yahoo.com/healthcare/articles/aami-announces-nexus-2027-advisory-125000880.html",
       "publisher": "TMX Newsfile",
-      "time": 1785839520,
+      "time": 1785847800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e5e52abd-4a27-3aec-aefe-67f0e6129561",
-      "title": "My old job had a pension and they offered me to cash out for $24k or get $100 per month for life — which should I choose?",
-      "link": "https://finance.yahoo.com/m/e5e52abd-4a27-3aec-aefe-67f0e6129561/my-old-job-had-a-pension-and.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1785839497,
+      "id": "93786e1b-a95c-366c-9820-d784dfc1a674",
+      "title": "Volatus, Singular Aircraft to Deploy Autonomous Aircraft for Canadian Wildfire Response",
+      "link": "https://finance.yahoo.com/technology/articles/volatus-singular-aircraft-deploy-autonomous-124857196.html",
+      "publisher": "MT Newswires",
+      "time": 1785847737,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5f3d91d0-5cb2-36ff-af73-8d0674b5b87c",
+      "title": "Preferred Hotels & Resorts Highlights Business with Balance Through Curated Hotel Pairings for the Modern Bleisure Traveler",
+      "link": "https://finance.yahoo.com/small-business/articles/preferred-hotels-resorts-highlights-business-124800660.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785847680,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "457207c6-7fcd-3c56-84eb-1e963b69b3e6",
+      "title": "Wayfair Q2 2026 earnings: best U.S. growth since pandemic",
+      "link": "https://finance.yahoo.com/m/457207c6-7fcd-3c56-84eb-1e963b69b3e6/wayfair-q2-2026-earnings%3A.html",
+      "publisher": "Quartz",
+      "time": 1785847678,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "bda519bc-94b9-4ec8-8f9f-31914aad6b72",
+      "title": "Silver prices today, Tuesday, August 4, 2026: Silver holds above $58 with Iran escalation still on pause",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-august-4-2026-silver-holds-above-58-with-iran-escalation-still-on-pause-124749922.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1785847669,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "49f35d61-bf97-3c7e-8877-22c953e0c382",
+      "title": "WeRide enters Nordic region via GreenMobility partnership",
+      "link": "https://finance.yahoo.com/m/49f35d61-bf97-3c7e-8877-22c953e0c382/weride-enters-nordic-region.html",
+      "publisher": "Just Auto",
+      "time": 1785847661,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ff3acb5d-4218-381a-83b4-7347e2599bff",
+      "title": "Here's Why SpaceX Earnings Could Affect Tesla Stock",
+      "link": "https://finance.yahoo.com/m/ff3acb5d-4218-381a-83b4-7347e2599bff/here%27s-why-spacex-earnings.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1785847657,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "37d83394-584b-35c3-b47a-4ad62681f131",
+      "title": "Greg Abel Hasn't Touched Berkshire's Energy Holdings. Is That a Signal?",
+      "link": "https://finance.yahoo.com/m/37d83394-584b-35c3-b47a-4ad62681f131/greg-abel-hasn%27t-touched.html",
+      "publisher": "Motley Fool",
+      "time": 1785847620,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "32daa100-757f-3e39-8893-e37b2eed4638",
+      "title": "Expeditors International of Washington Q2 Net Earnings, Revenue Rise",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/expeditors-international-washington-q2-net-124641704.html",
+      "publisher": "MT Newswires",
+      "time": 1785847601,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b797074c-46a1-3e1e-98b0-7f83eef47a3a",
+      "title": "Xometry Q2 Non-GAAP Earnings, Revenue Increase; 2026 Revenue Growth Outlook Lifted",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/xometry-q2-non-gaap-earnings-124614978.html",
+      "publisher": "MT Newswires",
+      "time": 1785847574,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "38a0eb36-6177-3633-bfc1-21ca2a62bd6e",
+      "title": "72% of Americans Prioritize Reducing Pressure on Local Resources Over Faster AI-Powered Digital Services, Reach3 Insights Study Finds",
+      "link": "https://finance.yahoo.com/technology/ai/articles/72-americans-prioritize-reducing-pressure-124600774.html",
+      "publisher": "PR Newswire",
+      "time": 1785847560,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5158e464-69d1-39fa-9cac-6dca8dd0e703",
+      "title": "ABnet Launches Commercial Accelerator - GTM-as-a-Service - to Bridge Startups' \"Valley of Death\" Through Rapid Enterprise Deployment",
+      "link": "https://finance.yahoo.com/small-business/articles/abnet-launches-commercial-accelerator-gtm-124600995.html",
+      "publisher": "PR Newswire",
+      "time": 1785847560,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "79ccf54c-0de5-3bb6-81e1-5c1b57530153",
+      "title": "Innesto Partners Announces Sweden's First Traditional Search Fund",
+      "link": "https://finance.yahoo.com/small-business/articles/innesto-partners-announces-swedens-first-124600291.html",
+      "publisher": "PR Newswire",
+      "time": 1785847560,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a422c15d-71ea-364c-b073-4ddd8485317f",
+      "title": "Independent Health Economic Study Recently Published in Journal of Vascular Surgery Reports Economic Dominance of enVVeno Medical's Replacement Venous Valve Therapy Compared to Standard of Care Treatments",
+      "link": "https://finance.yahoo.com/healthcare/articles/independent-health-economic-study-recently-124600791.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1785847560,
       "impact": "low",
       "tags": []
     }
