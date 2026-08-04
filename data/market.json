@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-04T07:59:02.276047+00:00",
+  "updatedAt": "2026-08-04T10:43:38.986397+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19974.6,
-      "change": -8.0,
-      "changePct": -0.04003483030236306,
+      "price": 19941.5,
+      "change": -41.099999999998545,
+      "changePct": -0.2056789406783829,
       "currency": "EUR"
     },
     {
@@ -28,89 +28,35 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26223.95,
-      "change": 594.7099999999991,
-      "changePct": 2.3204355650030943,
+      "price": 26105.55,
+      "change": 476.3099999999977,
+      "changePct": 1.8584632240362868,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6467.43,
-      "change": 40.93000000000029,
-      "changePct": 0.6368941103244424,
+      "price": 6455.46,
+      "change": 28.960000000000036,
+      "changePct": 0.45063409320781195,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.7,
-      "change": -0.16000000000000014,
-      "changePct": -1.008827238335436,
+      "price": 15.71,
+      "change": -0.14999999999999858,
+      "changePct": -0.9457755359394615,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "0ac6b91d-39d4-3aad-b80a-35b88a4f701e",
-      "title": "Butterfly Network Insider Sold Shares Worth $13,981,724, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/butterfly-network-insider-sold-shares-075004142.html",
-      "publisher": "MT Newswires",
-      "time": 1785829804,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "67470d5a-0f16-3127-9824-893cfdd7b213",
-      "title": "IQM Quantum Computers' Q2 Loss Widens, Revenue Rises",
-      "link": "https://finance.yahoo.com/technology/articles/iqm-quantum-computers-apos-q2-074917867.html",
-      "publisher": "MT Newswires",
-      "time": 1785829757,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "85158131-fed7-3d14-b735-318bb02a413e",
-      "title": "Equinix Insider Sold Shares Worth $4,077,120, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equinix-insider-sold-shares-worth-074910446.html",
-      "publisher": "MT Newswires",
-      "time": 1785829750,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4f989011-0e9f-3e58-9047-7573ab355f26",
-      "title": "Bending Spoons to Acquire Airtable in $1.29 Billion All-Cash Deal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bending-spoons-acquire-airtable-1-074830134.html",
-      "publisher": "MT Newswires",
-      "time": 1785829710,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f5022675-9c6e-3281-bb76-d3b6eec66546",
-      "title": "Alkermes Insider Sold Shares Worth $2,239,076, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alkermes-insider-sold-shares-worth-074702102.html",
-      "publisher": "MT Newswires",
-      "time": 1785829622,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7e2568ee-a12f-397d-8929-3e04765684d5",
-      "title": "Cactus Insider Sold Shares Worth $4,995,481, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cactus-insider-sold-shares-worth-074603733.html",
-      "publisher": "MT Newswires",
-      "time": 1785829563,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e6e569c7-99a9-3e7a-ab30-68ba995b40b9",
-      "title": "Vitesse: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vitesse-q2-earnings-snapshot-074446321.html",
-      "publisher": "Associated Press",
-      "time": 1785829486,
+      "id": "d872e473-5a2b-3db9-bd1c-5793cd2c20f4",
+      "title": "“This Is Unprecedented”: Goldman Sachs Sees 3 Simultaneous Crises Pushing Oil as High as $120 a Barrel",
+      "link": "https://finance.yahoo.com/m/d872e473-5a2b-3db9-bd1c-5793cd2c20f4/%E2%80%9Cthis-is-unprecedented%E2%80%9D%3A.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785839918,
       "impact": "medium",
       "tags": [
         "macro",
@@ -118,29 +64,89 @@
       ]
     },
     {
-      "id": "bb593684-a461-39d7-8ddf-ba6e25512474",
-      "title": "Kioxia Showcases Flash Storage Innovations for the AI Era at FMS 2026",
-      "link": "https://finance.yahoo.com/technology/ai/articles/kioxia-showcases-flash-storage-innovations-074400740.html",
-      "publisher": "Business Wire",
-      "time": 1785829440,
+      "id": "84151f5b-6ce3-3547-9290-8a82026ce4a6",
+      "title": "NASBA puts forward new leadership nominees ahead of October meeting",
+      "link": "https://finance.yahoo.com/m/84151f5b-6ce3-3547-9290-8a82026ce4a6/nasba-puts-forward-new.html",
+      "publisher": "The Accountant",
+      "time": 1785839863,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "a53f707f-e17c-386d-b21c-2283cd9d5bca",
+      "title": "Enrolment concludes in 4Moving Biotech’s Phase IIa trial of 4P004",
+      "link": "https://finance.yahoo.com/m/a53f707f-e17c-386d-b21c-2283cd9d5bca/enrolment-concludes-in.html",
+      "publisher": "Clinical Trials Arena",
+      "time": 1785839762,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8987d7e3-c843-3744-9cb9-96b116453225",
-      "title": "AptarGroup Insider Sold Shares Worth $1,195,290, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aptargroup-insider-sold-shares-worth-074316485.html",
-      "publisher": "MT Newswires",
-      "time": 1785829396,
+      "id": "ecb76073-6ade-3265-a1c9-f60a7de701ac",
+      "title": "Jones Soda Sets Second Quarter 2026 Conference Call for Thursday, August 13, 2026, at 8:30 a.m. ET",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jones-soda-sets-second-quarter-103500356.html",
+      "publisher": "CNW Group",
+      "time": 1785839700,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "874e3b29-07bd-34bc-b489-813e5cce0c00",
-      "title": "CrowdStrike Holdings Insider Sold Shares Worth $3,710,729, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-holdings-insider-sold-shares-074218792.html",
+      "id": "892967be-f4d6-3b67-92e8-9236bc0aad19",
+      "title": "‘We’re Still Not Getting Anywhere on the Debt’: $100K-a-Year Man Working 4 Jobs Calls the Ramsey Show",
+      "link": "https://finance.yahoo.com/m/892967be-f4d6-3b67-92e8-9236bc0aad19/%E2%80%98we%E2%80%99re-still-not-getting.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785839618,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "917b7041-4dc8-3e3b-9f72-3e021ece6970",
+      "title": "Spotify Technology Q2 Swings to Profit, Revenue Rises",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spotify-technology-q2-swings-profit-103318168.html",
       "publisher": "MT Newswires",
-      "time": 1785829338,
+      "time": 1785839598,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a70e7329-6198-3ddd-b658-dc4a6aab7cd8",
+      "title": "PE sponsors retreat from Southern Europe",
+      "link": "https://finance.yahoo.com/m/a70e7329-6198-3ddd-b658-dc4a6aab7cd8/pe-sponsors-retreat-from.html",
+      "publisher": "Pitchbook",
+      "time": 1785839562,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8f06442b-7a01-3c0c-b1b4-acc68c1d2d85",
+      "title": "Wenger says scrapping Infantino's World Cup plan was \"absolutely necessary\"",
+      "link": "https://finance.yahoo.com/m/8f06442b-7a01-3c0c-b1b4-acc68c1d2d85/wenger-says-scrapping.html",
+      "publisher": "AFP",
+      "time": 1785839524,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4c756e68-c52f-3d06-ba2c-59ffa01a44e1",
+      "title": "International Influencers Gather in the Ancient Silk Road City of Kuqa",
+      "link": "https://finance.yahoo.com/media-advertising/articles/international-influencers-gather-ancient-silk-103200801.html",
+      "publisher": "TMX Newsfile",
+      "time": 1785839520,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e5e52abd-4a27-3aec-aefe-67f0e6129561",
+      "title": "My old job had a pension and they offered me to cash out for $24k or get $100 per month for life — which should I choose?",
+      "link": "https://finance.yahoo.com/m/e5e52abd-4a27-3aec-aefe-67f0e6129561/my-old-job-had-a-pension-and.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785839497,
       "impact": "low",
       "tags": []
     }
