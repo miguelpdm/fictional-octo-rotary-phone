@@ -1,82 +1,100 @@
 {
-  "updatedAt": "2026-08-04T15:21:01.064337+00:00",
+  "updatedAt": "2026-08-04T17:11:06.747444+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20063.9,
-      "change": 81.30000000000291,
-      "changePct": 0.40685396294777915,
+      "price": 20023.6,
+      "change": 41.0,
+      "changePct": 0.20517850529961065,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7698.63,
-      "change": 208.90999999999985,
-      "changePct": 2.7892898532922437,
+      "price": 7733.51,
+      "change": 243.78999999999996,
+      "changePct": 3.2549948462692857,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26391.047,
-      "change": 1017.1970000000001,
-      "changePct": 4.0088398094889035,
+      "price": 26534.156,
+      "change": 1160.3060000000005,
+      "changePct": 4.572841724846645,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26204.83,
-      "change": 575.5900000000001,
-      "changePct": 2.2458332748064325,
+      "price": 26202.35,
+      "change": 573.109999999997,
+      "changePct": 2.2361568271240073,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6486.88,
-      "change": 60.38000000000011,
-      "changePct": 0.9395471874270614,
+      "price": 6486.7,
+      "change": 60.19999999999982,
+      "changePct": 0.9367462849140249,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.97,
-      "change": 0.11000000000000121,
-      "changePct": 0.6935687263556193,
+      "price": 16.25,
+      "change": 0.39000000000000057,
+      "changePct": 2.4590163934426266,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "2df15660-9dd2-3de3-b151-3fe5dd95b8c2",
-      "title": "Otsuka’s Voyxact stabilised kidney function at two years in Phase III IgAN trial",
-      "link": "https://finance.yahoo.com/m/2df15660-9dd2-3de3-b151-3fe5dd95b8c2/otsuka%E2%80%99s-voyxact-stabilised.html",
-      "publisher": "Clinical Trials Arena",
-      "time": 1785856770,
+      "id": "fdf374c2-3d7d-3961-bbdd-d5ca246e3755",
+      "title": "Palantir Stock Surges Nearly 30%. Did Q2 Beat Slay Worries Over OpenAI, Anthropic?",
+      "link": "https://finance.yahoo.com/m/fdf374c2-3d7d-3961-bbdd-d5ca246e3755/palantir-stock-surges-nearly.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1785863218,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "501361ad-096b-37ab-aa73-8be26e065275",
-      "title": "Tesla's China Business Could Complicate Musk's Biggest Deal Yet",
-      "link": "https://finance.yahoo.com/technology/articles/teslas-china-business-could-complicate-151829941.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785856709,
-      "impact": "medium",
+      "id": "c3bf99b5-3938-3a77-a871-34dd93c61f2a",
+      "title": "Octo Capital, Audrose Capital Partners, and Affiliates of Antarctica Capital Close Investment in DYCM Solar Modules Holdings",
+      "link": "https://finance.yahoo.com/energy/articles/octo-capital-audrose-capital-partners-170300642.html",
+      "publisher": "PR Newswire",
+      "time": 1785862980,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3ef09afe-e9b8-3e80-9834-b7c8c8387da6",
+      "title": "Sector Update: Healthcare",
+      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-170127966.html",
+      "publisher": "MT Newswires",
+      "time": 1785862887,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "00922037-33c3-37f9-abb0-ed6d34082392",
+      "title": "MMSI Q2 Deep Dive: Balanced Growth Across Platforms and Strategic Portfolio Expansion",
+      "link": "https://finance.yahoo.com/healthcare/articles/mmsi-q2-deep-dive-balanced-170122162.html",
+      "publisher": "StockStory",
+      "time": 1785862882,
+      "impact": "low",
       "tags": [
-        "geo"
+        "macro"
       ]
     },
     {
-      "id": "843036fb-38e6-397c-b903-154cb36e40c5",
-      "title": "Early voting dates, locations in Miami-Dade, Broward, Monroe counties",
-      "link": "https://finance.yahoo.com/m/843036fb-38e6-397c-b903-154cb36e40c5/early-voting-dates%2C-locations.html",
-      "publisher": "USA TODAY",
-      "time": 1785856642,
+      "id": "4af230c5-8b75-3750-bf83-82c3416ce72d",
+      "title": "MEDIA ADVISORY - More wildfires. Fewer experts: PIPSC brings \"Summer Then, Summer Now\" warning",
+      "link": "https://finance.yahoo.com/media-advertising/articles/media-advisory-more-wildfires-fewer-170100173.html",
+      "publisher": "CNW Group",
+      "time": 1785862860,
       "impact": "high",
       "tags": [
         "geo",
@@ -84,71 +102,73 @@
       ]
     },
     {
-      "id": "672bd161-e155-398a-868a-f138b4d4f452",
-      "title": "I Ranked Big Tech's AI Spending Four Ways. The Order Never Changed.",
-      "link": "https://finance.yahoo.com/m/672bd161-e155-398a-868a-f138b4d4f452/i-ranked-big-tech%27s-ai.html",
-      "publisher": "Motley Fool",
-      "time": 1785856620,
+      "id": "7701ebde-edf1-364a-a20f-6967f4ebcce7",
+      "title": "FRN Variable Rate Fix",
+      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-170100407.html",
+      "publisher": "Business Wire",
+      "time": 1785862860,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0c0dbace-af56-3b7b-b9be-4b96d9e5810a",
-      "title": "Is Eli Lilly (LLY) Still the Undisputed Leader in the $150 Billion Obesity Drug Market?",
-      "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-still-undisputed-151506170.html",
-      "publisher": "Insider Monkey",
-      "time": 1785856506,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "e64fb22a-219d-388c-a40e-ca10381f5c37",
-      "title": "Google Earth’s AI misadventure lasted only a day. It was a tale of dangerous ignorance.",
-      "link": "https://finance.yahoo.com/m/e64fb22a-219d-388c-a40e-ca10381f5c37/google-earth%E2%80%99s-ai.html",
-      "publisher": "Digital Trends",
-      "time": 1785856501,
+      "id": "791774a0-04c8-39ce-aa1d-0d4d50fab29b",
+      "title": "Important Notice of Dividend Announcement to shareholder of Xtrackers (IE) PLC - Replacement",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/important-notice-dividend-announcement-shareholder-170100539.html",
+      "publisher": "Business Wire",
+      "time": 1785862860,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3a14d20e-f00c-3b3d-9fbb-ec2c3a064e09",
-      "title": "BREAKING NEWS: ELEKTROS Advances Lithium and EV Technology Strategy as Investor Interest Builds",
-      "link": "https://finance.yahoo.com/energy/articles/breaking-news-elektros-advances-lithium-151500961.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1785856500,
+      "id": "8780d495-0d79-3457-b1ad-7a20fb16d43e",
+      "title": "Kelley Blue Book Brand Watch: Hybrid and SUV Interest Reaches New Highs as Audi, Kia and Subaru Gain Shopper Consideration in First Half of 2026",
+      "link": "https://finance.yahoo.com/real-estate/articles/kelley-blue-book-brand-watch-170100958.html",
+      "publisher": "PR Newswire",
+      "time": 1785862860,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4d3047ed-6cbb-34b7-ada0-7d30f840425b",
-      "title": "Advancing into High-Altitude Ecological Zones - Intelligent Robots Assist in Scientific Observation of Tibetan Antelopes",
-      "link": "https://finance.yahoo.com/technology/ai/articles/advancing-high-altitude-ecological-zones-151500563.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1785856500,
+      "id": "052ebf91-66f4-32c9-9247-4874ca78ac3b",
+      "title": "Bryan Kohberger gets new attorney in bid to withdraw guilty plea",
+      "link": "https://finance.yahoo.com/m/052ebf91-66f4-32c9-9247-4874ca78ac3b/bryan-kohberger-gets-new.html",
+      "publisher": "USA TODAY",
+      "time": 1785862850,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "fd2b64ec-7e4c-37b5-ab44-276a0255a46f",
-      "title": "Oracle's AI Bet Is Starting to Alarm the Credit Market",
-      "link": "https://finance.yahoo.com/technology/ai/articles/oracles-ai-bet-starting-alarm-151458351.html",
+      "id": "baf7afcf-cb4e-3190-8dfa-32b742a9ebf9",
+      "title": "Swig Inks 38-Unit Deal to Grow in Kansas City Metro Area",
+      "link": "https://finance.yahoo.com/m/baf7afcf-cb4e-3190-8dfa-32b742a9ebf9/swig-inks-38-unit-deal-to.html",
+      "publisher": "QSR",
+      "time": 1785862846,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a805869b-f6e5-3244-a41f-7dd8a38e197a",
+      "title": "Deutsche Lufthansa AG (DLAKF) (Q2 2026) Earnings Call Highlights: Record Revenue Amid Fuel Cost ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-lufthansa-ag-dlakf-q2-170029858.html",
       "publisher": "GuruFocus.com",
-      "time": 1785856498,
-      "impact": "low",
+      "time": 1785862829,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "eda7d990-c336-3e85-ba57-a657a530ed87",
-      "title": "Why Sandisk Stock Soared Today",
-      "link": "https://finance.yahoo.com/m/eda7d990-c336-3e85-ba57-a657a530ed87/why-sandisk-stock-soared-today.html",
-      "publisher": "Motley Fool",
-      "time": 1785856436,
-      "impact": "low",
-      "tags": []
+      "id": "cfaa6165-edcb-3b10-9507-6fcec2d3d102",
+      "title": "Hugo Boss AG (BOSSY) (Q2 2026) Earnings Call Highlights: Strategic Realignment Drives Margin ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hugo-boss-ag-bossy-q2-170024634.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785862824,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
