@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T17:11:06.747444+00:00",
+  "updatedAt": "2026-08-04T19:05:37.727002+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7733.51,
-      "change": 243.78999999999996,
-      "changePct": 3.2549948462692857,
+      "price": 7751.47,
+      "change": 261.75,
+      "changePct": 3.494790192423749,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26534.156,
-      "change": 1160.3060000000005,
-      "changePct": 4.572841724846645,
+      "price": 26643.162,
+      "change": 1269.3120000000017,
+      "changePct": 5.002441489959158,
       "currency": "USD"
     },
     {
@@ -44,114 +44,19 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.25,
-      "change": 0.39000000000000057,
-      "changePct": 2.4590163934426266,
+      "price": 16.35,
+      "change": 0.490000000000002,
+      "changePct": 3.0895334174022824,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "fdf374c2-3d7d-3961-bbdd-d5ca246e3755",
-      "title": "Palantir Stock Surges Nearly 30%. Did Q2 Beat Slay Worries Over OpenAI, Anthropic?",
-      "link": "https://finance.yahoo.com/m/fdf374c2-3d7d-3961-bbdd-d5ca246e3755/palantir-stock-surges-nearly.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1785863218,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c3bf99b5-3938-3a77-a871-34dd93c61f2a",
-      "title": "Octo Capital, Audrose Capital Partners, and Affiliates of Antarctica Capital Close Investment in DYCM Solar Modules Holdings",
-      "link": "https://finance.yahoo.com/energy/articles/octo-capital-audrose-capital-partners-170300642.html",
-      "publisher": "PR Newswire",
-      "time": 1785862980,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3ef09afe-e9b8-3e80-9834-b7c8c8387da6",
-      "title": "Sector Update: Healthcare",
-      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-170127966.html",
-      "publisher": "MT Newswires",
-      "time": 1785862887,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "00922037-33c3-37f9-abb0-ed6d34082392",
-      "title": "MMSI Q2 Deep Dive: Balanced Growth Across Platforms and Strategic Portfolio Expansion",
-      "link": "https://finance.yahoo.com/healthcare/articles/mmsi-q2-deep-dive-balanced-170122162.html",
-      "publisher": "StockStory",
-      "time": 1785862882,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "4af230c5-8b75-3750-bf83-82c3416ce72d",
-      "title": "MEDIA ADVISORY - More wildfires. Fewer experts: PIPSC brings \"Summer Then, Summer Now\" warning",
-      "link": "https://finance.yahoo.com/media-advertising/articles/media-advisory-more-wildfires-fewer-170100173.html",
-      "publisher": "CNW Group",
-      "time": 1785862860,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "7701ebde-edf1-364a-a20f-6967f4ebcce7",
-      "title": "FRN Variable Rate Fix",
-      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-170100407.html",
-      "publisher": "Business Wire",
-      "time": 1785862860,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "791774a0-04c8-39ce-aa1d-0d4d50fab29b",
-      "title": "Important Notice of Dividend Announcement to shareholder of Xtrackers (IE) PLC - Replacement",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/important-notice-dividend-announcement-shareholder-170100539.html",
-      "publisher": "Business Wire",
-      "time": 1785862860,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8780d495-0d79-3457-b1ad-7a20fb16d43e",
-      "title": "Kelley Blue Book Brand Watch: Hybrid and SUV Interest Reaches New Highs as Audi, Kia and Subaru Gain Shopper Consideration in First Half of 2026",
-      "link": "https://finance.yahoo.com/real-estate/articles/kelley-blue-book-brand-watch-170100958.html",
-      "publisher": "PR Newswire",
-      "time": 1785862860,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "052ebf91-66f4-32c9-9247-4874ca78ac3b",
-      "title": "Bryan Kohberger gets new attorney in bid to withdraw guilty plea",
-      "link": "https://finance.yahoo.com/m/052ebf91-66f4-32c9-9247-4874ca78ac3b/bryan-kohberger-gets-new.html",
-      "publisher": "USA TODAY",
-      "time": 1785862850,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "baf7afcf-cb4e-3190-8dfa-32b742a9ebf9",
-      "title": "Swig Inks 38-Unit Deal to Grow in Kansas City Metro Area",
-      "link": "https://finance.yahoo.com/m/baf7afcf-cb4e-3190-8dfa-32b742a9ebf9/swig-inks-38-unit-deal-to.html",
-      "publisher": "QSR",
-      "time": 1785862846,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a805869b-f6e5-3244-a41f-7dd8a38e197a",
-      "title": "Deutsche Lufthansa AG (DLAKF) (Q2 2026) Earnings Call Highlights: Record Revenue Amid Fuel Cost ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-lufthansa-ag-dlakf-q2-170029858.html",
+      "id": "058669ff-96b3-3082-b087-ea920a40e333",
+      "title": "Waters Corp (WAT) (Q2 2026) Earnings Call Highlights: Strong Organic Growth and Raised Guidance ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/waters-corp-wat-q2-2026-190335219.html",
       "publisher": "GuruFocus.com",
-      "time": 1785862829,
+      "time": 1785870215,
       "impact": "medium",
       "tags": [
         "macro",
@@ -159,11 +64,107 @@
       ]
     },
     {
-      "id": "cfaa6165-edcb-3b10-9507-6fcec2d3d102",
-      "title": "Hugo Boss AG (BOSSY) (Q2 2026) Earnings Call Highlights: Strategic Realignment Drives Margin ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hugo-boss-ag-bossy-q2-170024634.html",
+      "id": "260d8f2e-047b-31bd-a93b-684821324a7d",
+      "title": "FSN E-Commerce Ventures Ltd (BOM:543384) (Q1 2027) Earnings Call Highlights: GMV Surges 34% and ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fsn-e-commerce-ventures-ltd-190330181.html",
       "publisher": "GuruFocus.com",
-      "time": 1785862824,
+      "time": 1785870210,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9cae1777-1661-3e6e-8fea-19c050829e89",
+      "title": "Revvity Inc (RVTY) (Q2 2026) Earnings Call Highlights: Strong Diagnostics Growth and Raised ...",
+      "link": "https://finance.yahoo.com/healthcare/articles/revvity-inc-rvty-q2-2026-190323257.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785870203,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "cc018495-911d-3e8d-8b2d-34fa9d3a2986",
+      "title": "Cabot Corp (CBT) (Q3 2026) Earnings Call Highlights: Strong Performance Chemicals Growth and ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cabot-corp-cbt-q3-2026-190323614.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785870203,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "59f8ec21-f322-3489-a1c0-966c8a650245",
+      "title": "BP PLC (BP) (Q2 2026) Earnings Call Highlights: Strong Profit Surge and Strategic Portfolio Overhaul",
+      "link": "https://finance.yahoo.com/energy/articles/bp-plc-bp-q2-2026-190321653.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785870201,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "246673b6-a81b-3b46-b09f-426d3702b11d",
+      "title": "Whirlpool Corp (WHR) (Q2 2026) Earnings Call Highlights: Strategic Pricing and Cost Actions ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/whirlpool-corp-whr-q2-2026-190308677.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785870188,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "da2b78da-27bb-3c87-9b5d-69a2739dabc9",
+      "title": "Trex Co Inc (TREX) (Q2 2026) Earnings Call Highlights: Strong Demand Drives 8% Sales Growth and ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trex-co-inc-trex-q2-190305369.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785870185,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "77b86173-8154-3169-b848-5862db356c3d",
+      "title": "Superior Group Of Companies Inc (SGC) (Q2 2026) Earnings Call Highlights: Revenue Growth and ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/superior-group-companies-inc-sgc-190302365.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785870182,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "53f411c7-b230-32a6-8bdd-e746597786bc",
+      "title": "Dorman Products Inc (DORM) (Q2 2026) Earnings Call Highlights: Record Sales and EPS Fueled by ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dorman-products-inc-dorm-q2-190259396.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785870179,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "085bc613-5187-3d53-8421-2a7881a9189e",
+      "title": "Kimberly-Clark Corp (KMB) (Q2 2026) Earnings Call Highlights: Navigating China Disruption and ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kimberly-clark-corp-kmb-q2-190254838.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785870174,
       "impact": "medium",
       "tags": [
         "macro",
