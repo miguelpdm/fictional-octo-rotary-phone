@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T19:05:37.727002+00:00",
+  "updatedAt": "2026-08-04T20:49:32.589566+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7751.47,
-      "change": 261.75,
-      "changePct": 3.494790192423749,
+      "price": 7736.52,
+      "change": 246.80000000000018,
+      "changePct": 3.295183264527915,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26643.162,
-      "change": 1269.3120000000017,
-      "changePct": 5.002441489959158,
+      "price": 26584.992,
+      "change": 1211.1419999999998,
+      "changePct": 4.773189720913459,
       "currency": "USD"
     },
     {
@@ -44,19 +44,19 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.35,
-      "change": 0.490000000000002,
-      "changePct": 3.0895334174022824,
+      "price": 16.5,
+      "change": 0.6400000000000006,
+      "changePct": 4.035308953341744,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "058669ff-96b3-3082-b087-ea920a40e333",
-      "title": "Waters Corp (WAT) (Q2 2026) Earnings Call Highlights: Strong Organic Growth and Raised Guidance ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/waters-corp-wat-q2-2026-190335219.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785870215,
+      "id": "2d41051a-ce2c-3eb0-a168-e93b38db7bf9",
+      "title": "Qualys Earnings, Revenue Top Estimates. Cybersecurity Stock Climbs.",
+      "link": "https://finance.yahoo.com/m/2d41051a-ce2c-3eb0-a168-e93b38db7bf9/qualys-earnings%2C-revenue-top.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1785876373,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,11 +64,11 @@
       ]
     },
     {
-      "id": "260d8f2e-047b-31bd-a93b-684821324a7d",
-      "title": "FSN E-Commerce Ventures Ltd (BOM:543384) (Q1 2027) Earnings Call Highlights: GMV Surges 34% and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fsn-e-commerce-ventures-ltd-190330181.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785870210,
+      "id": "30b0639a-a51d-338b-bfb4-53ff99db2f43",
+      "title": "AI Cloud Networking Growth Drives Arista Earnings Beat",
+      "link": "https://finance.yahoo.com/m/30b0639a-a51d-338b-bfb4-53ff99db2f43/ai-cloud-networking-growth.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1785876370,
       "impact": "medium",
       "tags": [
         "macro",
@@ -76,11 +76,29 @@
       ]
     },
     {
-      "id": "9cae1777-1661-3e6e-8fea-19c050829e89",
-      "title": "Revvity Inc (RVTY) (Q2 2026) Earnings Call Highlights: Strong Diagnostics Growth and Raised ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/revvity-inc-rvty-q2-2026-190323257.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785870203,
+      "id": "f7d1b9d7-d060-3cc7-bf3f-bf0bd77c2915",
+      "title": "Arista Networks soars 13% on strong Q2 beat and raised outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-soars-13-strong-204329421.html",
+      "publisher": "Investing.com",
+      "time": 1785876209,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9c58b997-cef1-3008-b020-3d2c87986398",
+      "title": "IYF vs EUFN: U.S. and European Financial Giants Face Off in this ETF Comparison",
+      "link": "https://finance.yahoo.com/m/9c58b997-cef1-3008-b020-3d2c87986398/iyf-vs-eufn%3A-u.s.-and.html",
+      "publisher": "Motley Fool",
+      "time": 1785876181,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0a03b310-0333-3421-87ee-d743972b8447",
+      "title": "MasterBrand: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/masterbrand-q2-earnings-snapshot-204258639.html",
+      "publisher": "Associated Press",
+      "time": 1785876178,
       "impact": "medium",
       "tags": [
         "macro",
@@ -88,11 +106,11 @@
       ]
     },
     {
-      "id": "cc018495-911d-3e8d-8b2d-34fa9d3a2986",
-      "title": "Cabot Corp (CBT) (Q3 2026) Earnings Call Highlights: Strong Performance Chemicals Growth and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cabot-corp-cbt-q3-2026-190323614.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785870203,
+      "id": "16253b1b-0c49-371a-8205-c97f851df1ef",
+      "title": "OrthoPediatrics: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/orthopediatrics-q2-earnings-snapshot-204257791.html",
+      "publisher": "Associated Press",
+      "time": 1785876177,
       "impact": "medium",
       "tags": [
         "macro",
@@ -100,11 +118,11 @@
       ]
     },
     {
-      "id": "59f8ec21-f322-3489-a1c0-966c8a650245",
-      "title": "BP PLC (BP) (Q2 2026) Earnings Call Highlights: Strong Profit Surge and Strategic Portfolio Overhaul",
-      "link": "https://finance.yahoo.com/energy/articles/bp-plc-bp-q2-2026-190321653.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785870201,
+      "id": "be960fbd-4368-34a9-b03b-3f3453f261ac",
+      "title": "SpaceX shows strong growth in its first earnings report since IPO",
+      "link": "https://finance.yahoo.com/m/be960fbd-4368-34a9-b03b-3f3453f261ac/spacex-shows-strong-growth-in.html",
+      "publisher": "CBS News",
+      "time": 1785876168,
       "impact": "medium",
       "tags": [
         "macro",
@@ -112,11 +130,11 @@
       ]
     },
     {
-      "id": "246673b6-a81b-3b46-b09f-426d3702b11d",
-      "title": "Whirlpool Corp (WHR) (Q2 2026) Earnings Call Highlights: Strategic Pricing and Cost Actions ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/whirlpool-corp-whr-q2-2026-190308677.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785870188,
+      "id": "9baa5aee-beab-3f9c-acb0-61cd69751b8d",
+      "title": "SLR Investment: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/slr-investment-q2-earnings-snapshot-204108533.html",
+      "publisher": "Associated Press",
+      "time": 1785876068,
       "impact": "medium",
       "tags": [
         "macro",
@@ -124,52 +142,22 @@
       ]
     },
     {
-      "id": "da2b78da-27bb-3c87-9b5d-69a2739dabc9",
-      "title": "Trex Co Inc (TREX) (Q2 2026) Earnings Call Highlights: Strong Demand Drives 8% Sales Growth and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/trex-co-inc-trex-q2-190305369.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785870185,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "80eecfdd-f029-3b8e-bc7b-c537c88d5ef4",
+      "title": "Jeff Bezos Is Pushing Amazon's Prime Video Into an AI Showcase, a Sign of How the Company Plans to Justify Its AI Spending",
+      "link": "https://finance.yahoo.com/m/80eecfdd-f029-3b8e-bc7b-c537c88d5ef4/jeff-bezos-is-pushing.html",
+      "publisher": "Motley Fool",
+      "time": 1785876060,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "77b86173-8154-3169-b848-5862db356c3d",
-      "title": "Superior Group Of Companies Inc (SGC) (Q2 2026) Earnings Call Highlights: Revenue Growth and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/superior-group-companies-inc-sgc-190302365.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785870182,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "53f411c7-b230-32a6-8bdd-e746597786bc",
-      "title": "Dorman Products Inc (DORM) (Q2 2026) Earnings Call Highlights: Record Sales and EPS Fueled by ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dorman-products-inc-dorm-q2-190259396.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785870179,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "085bc613-5187-3d53-8421-2a7881a9189e",
-      "title": "Kimberly-Clark Corp (KMB) (Q2 2026) Earnings Call Highlights: Navigating China Disruption and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kimberly-clark-corp-kmb-q2-190254838.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785870174,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "af381684-5e97-373c-91bd-76e3a3eff6c4",
+      "title": "Why Charles Schwab Stock Jumped in July",
+      "link": "https://finance.yahoo.com/m/af381684-5e97-373c-91bd-76e3a3eff6c4/why-charles-schwab-stock.html",
+      "publisher": "Motley Fool",
+      "time": 1785876059,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
