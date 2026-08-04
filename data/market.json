@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T23:33:29.563826+00:00",
+  "updatedAt": "2026-08-04T01:56:22.506941+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,20 @@
   ],
   "news": [
     {
-      "id": "7d13c9cd-d8b9-379f-91ca-c6b5ed3870ba",
-      "title": "Giant satellite internet company files for Chapter 11 bankruptcy",
-      "link": "https://finance.yahoo.com/m/7d13c9cd-d8b9-379f-91ca-c6b5ed3870ba/giant-satellite-internet.html",
-      "publisher": "TheStreet",
-      "time": 1785799680,
+      "id": "73a8ee47-441c-3ac3-84ac-c06d65cc43bb",
+      "title": "GOLD STRATEGY ANNOUNCES OPTION GRANT",
+      "link": "https://finance.yahoo.com/markets/options/articles/gold-strategy-announces-option-grant-015300395.html",
+      "publisher": "CNW Group",
+      "time": 1785808380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "003349ef-9860-36ef-90ad-04e455753a58",
+      "title": "Phinia (PHIN) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/003349ef-9860-36ef-90ad-04e455753a58/phinia-%28phin%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1785808276,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,87 +73,88 @@
       ]
     },
     {
-      "id": "1493388f-edab-36f2-962b-30873fccc995",
-      "title": "3 Unpopular Stocks We Approach with Caution",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-unpopular-stocks-approach-caution-232522973.html",
+      "id": "c6852131-f362-3925-8e35-806f924a21d9",
+      "title": "Apple Just Reported Earnings. With Tim Cook's Era Ending, Is the Stock a Buy for the Next Decade?",
+      "link": "https://finance.yahoo.com/m/c6852131-f362-3925-8e35-806f924a21d9/apple-just-reported-earnings..html",
+      "publisher": "Motley Fool",
+      "time": 1785808200,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b7eecb48-219f-3a77-b32e-053694a4d3fd",
+      "title": "Ares (ARES) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/b7eecb48-219f-3a77-b32e-053694a4d3fd/ares-%28ares%29-q2-2026-earnings.html",
+      "publisher": "Motley Fool",
+      "time": 1785807937,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "01c479d0-839d-3b30-8916-dc8f8cfe8223",
+      "title": "The Hidden Costs of Retiring in Florida Nobody Mentions Until You Move There",
+      "link": "https://finance.yahoo.com/m/01c479d0-839d-3b30-8916-dc8f8cfe8223/the-hidden-costs-of-retiring.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785807907,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4480610d-483b-32fe-9845-fcb022401be1",
+      "title": "Wall Street Splits on Circle: $38 Bear vs. $140 Bull Two Days Before Q2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-splits-circle-38-014339025.html",
+      "publisher": "Forkast News",
+      "time": 1785807819,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6b019064-16aa-3d9a-9960-c3bbe9effa9c",
+      "title": "3 Big Reasons to Love Netflix (NFLX)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-big-reasons-love-netflix-014122548.html",
       "publisher": "StockStory",
-      "time": 1785799522,
+      "time": 1785807682,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "63c4be5a-b034-3b72-9598-2230ee7611f3",
-      "title": "Spirit Halloween opening stores, signaling start of 'spooky season'",
-      "link": "https://finance.yahoo.com/m/63c4be5a-b034-3b72-9598-2230ee7611f3/spirit-halloween-opening.html",
-      "publisher": "USA TODAY",
-      "time": 1785799233,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "27b81ff3-f9a5-3336-b367-1b356ef9d241",
-      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-      "link": "https://finance.yahoo.com/technology/ai/articles/killer-quarter-palantir-ceo-alex-231950817.html",
-      "publisher": "TechCrunch",
-      "time": 1785799190,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0c3d77c2-71a7-3491-8c1d-7cf9b90504f0",
-      "title": "1 Russell 2000 Stock with Solid Fundamentals and 2 We Brush Off",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-russell-2000-stock-solid-231722984.html",
-      "publisher": "StockStory",
-      "time": 1785799042,
-      "impact": "low",
+      "id": "764bfc71-c792-373f-917a-803b29307a49",
+      "title": "Trane Technologies (TT) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/764bfc71-c792-373f-917a-803b29307a49/trane-technologies-%28tt%29-q2.html",
+      "publisher": "Motley Fool",
+      "time": 1785807633,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "1ed34956-d1c9-3b48-94a6-49666613689d",
-      "title": "Cult-favorite restaurant announces big new update for customers",
-      "link": "https://finance.yahoo.com/m/1ed34956-d1c9-3b48-94a6-49666613689d/cult-favorite-restaurant.html",
-      "publisher": "TheStreet",
-      "time": 1785799020,
-      "impact": "low",
-      "tags": []
+      "id": "dd99cd60-ea5a-318a-86fc-848dadcde39f",
+      "title": "Shell to Sell European Onshore Renewables Portfolio to TotalEnergies",
+      "link": "https://finance.yahoo.com/energy/articles/shell-sell-european-onshore-renewables-014000999.html",
+      "publisher": "Oilprice.com",
+      "time": 1785807600,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "266e6c73-34c0-3cc8-a36f-25f629ca82f9",
-      "title": "Electronic Arts misses quarterly bookings estimates ahead of Saudi-backed buyout",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/electronic-arts-misses-quarterly-bookings-231630049.html",
-      "publisher": "Reuters",
-      "time": 1785798990,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "58a44f9d-db02-3a6f-8250-358a68e34e5f",
-      "title": "Honduran ex-leader pardoned by Trump to remain free amid corruption trial",
-      "link": "https://finance.yahoo.com/m/58a44f9d-db02-3a6f-8250-358a68e34e5f/honduran-ex-leader-pardoned.html",
-      "publisher": "AFP",
-      "time": 1785798914,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "72127412-b191-3f35-a688-67224b6f41cc",
-      "title": "APA (APA) Draws Fresh Valuation Attention, Is The 11% Discount Enough?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apa-apa-draws-fresh-valuation-231437348.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785798877,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "687724c4-5fea-3f38-915f-607d69acf41a",
-      "title": "IonQ (IONQ) Stock Looks Fully Priced As It Closes The SkyWater Deal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-ionq-stock-looks-fully-231416506.html",
-      "publisher": "Simply Wall St.",
-      "time": 1785798856,
+      "id": "468a8b2e-1fae-35ce-af92-761c2b984543",
+      "title": "How a 63-Year-Old Turned $800,000 Into a $5,500 Monthly Paycheck With SCHD, JEPI, and O",
+      "link": "https://finance.yahoo.com/m/468a8b2e-1fae-35ce-af92-761c2b984543/how-a-63-year-old-turned.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785807574,
       "impact": "low",
       "tags": []
     }
