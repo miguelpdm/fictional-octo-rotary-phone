@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-05T10:43:38.860543+00:00",
+  "updatedAt": "2026-08-05T12:48:58.927111+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20117.8,
-      "change": 94.20000000000073,
-      "changePct": 0.4704448750474477,
+      "price": 20119.6,
+      "change": 96.0,
+      "changePct": 0.4794342675642742,
       "currency": "EUR"
     },
     {
@@ -28,67 +28,53 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26200.84,
-      "change": 199.52999999999884,
-      "changePct": 0.7673844125545938,
+      "price": 26256.55,
+      "change": 255.23999999999796,
+      "changePct": 0.9816428479949586,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6482.84,
-      "change": -3.8599999999996726,
-      "changePct": -0.05950637458183163,
+      "price": 6495.38,
+      "change": 8.680000000000291,
+      "changePct": 0.13381226201304655,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.36,
-      "change": -0.14000000000000057,
-      "changePct": -0.8484848484848518,
+      "price": 16.79,
+      "change": 0.28999999999999915,
+      "changePct": 1.7575757575757522,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "290a7812-ea95-3b38-baf7-2ad0449400ab",
-      "title": "EV Composites Market worth $5.45 billion by 2031 - Exclusive Report by MarketsandMarkets™",
-      "link": "https://finance.yahoo.com/technology/articles/ev-composites-market-worth-5-104000907.html",
-      "publisher": "PR Newswire",
-      "time": 1785926400,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "a3977041-85f7-39c6-a73f-6a8b18a6a86e",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-104000894.html",
-      "publisher": "Business Wire",
-      "time": 1785926400,
+      "id": "2bfa9602-2e2a-3806-a162-6de9ea82d171",
+      "title": "SpaceX Could Attempt Historic Catch This Month",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-could-attempt-historic-catch-124754857.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785934074,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "20682e4f-e1be-3d36-86f2-540d4f7ef9c9",
-      "title": "ExxonMobil selects Sercel’s Marlin software suite for Whiptail project",
-      "link": "https://finance.yahoo.com/m/20682e4f-e1be-3d36-86f2-540d4f7ef9c9/exxonmobil-selects-sercel%E2%80%99s.html",
-      "publisher": "Offshore Technology",
-      "time": 1785926358,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
+      "id": "a20013c8-4f41-3a93-afed-e703a42edf79",
+      "title": "AMD AI Boom Just Got Bigger -- Data Center Revenue Soars 107% in Second Quarter",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amd-ai-boom-just-got-124722305.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785934042,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "4bd74170-7f90-3341-83a5-1cf73b210611",
-      "title": "Why Nvidia Stock Is the Big Winner From SpaceX Earnings",
-      "link": "https://finance.yahoo.com/m/4bd74170-7f90-3341-83a5-1cf73b210611/why-nvidia-stock-is-the-big.html",
-      "publisher": "Barrons.com",
-      "time": 1785926340,
+      "id": "b1d9869c-2c6b-4862-aaea-594332004efc",
+      "title": "Bitcoin and ethereum prices today, Wednesday, August 5, 2026:  Crypto prices rise as investors watch Hormuz negotiations and jobs report closely",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-5-2026-crypto-prices-rise-as-investors-watch-hormuz-negotiations-and-jobs-report-closely-124640660.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1785934000,
       "impact": "medium",
       "tags": [
         "macro",
@@ -96,22 +82,60 @@
       ]
     },
     {
-      "id": "99d37e05-d488-3ee7-9aa5-369d745463bf",
-      "title": "Leading the Future of Oral Delivery, Lonza Capsugel brings breakthrough Capsule Technologies to the Korean Market at CPHI Korea",
-      "link": "https://finance.yahoo.com/healthcare/articles/leading-future-oral-delivery-lonza-103900711.html",
-      "publisher": "PR Newswire",
-      "time": 1785926340,
+      "id": "cf4df2eb-b7c7-3b53-9e0f-f434e3c6250b",
+      "title": "Palantir's 30% Surge Just Crushed the Short Trade",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantirs-30-surge-just-crushed-124604027.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785933964,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "a34da638-40cb-37fa-aceb-5c09e9f07914",
+      "title": "Rocket Lab Shares Rise After $397 Million Space Force Contract",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-shares-rise-397-124516516.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785933916,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4d146982-0477-3ef9-80f4-ac14696443cf",
+      "title": "Update: Market Chatter: JPMorgan Said to Near Deal to Acquire Idex for About $4.4 billion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-jpmorgan-said-near-124423239.html",
+      "publisher": "MT Newswires",
+      "time": 1785933863,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "15ac3a25-7aed-3a82-936d-c5f3f199bc23",
-      "title": "United Therapeutics: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/healthcare/articles/united-therapeutics-q2-earnings-snapshot-103844083.html",
+      "id": "3f2cc41d-b87f-3337-a24f-a3c8f2fb0a61",
+      "title": "Franklin Resources, Inc. Announces Preliminary Month-End Assets Under Management",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/franklin-resources-inc-announces-preliminary-124400033.html",
+      "publisher": "Business Wire",
+      "time": 1785933840,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e69ba2c5-7d07-3c6b-917b-a99d51fd95c6",
+      "title": "Wall St set to open higher as Mideast hopes offset SpaceX, AMD drag",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-inch-113116518.html",
+      "publisher": "Reuters",
+      "time": 1785933788,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6d29d51f-2efe-3bae-96a7-c3570ca5aaaa",
+      "title": "MFA Financial: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mfa-financial-q2-earnings-snapshot-124217818.html",
       "publisher": "Associated Press",
-      "time": 1785926324,
+      "time": 1785933737,
       "impact": "medium",
       "tags": [
         "macro",
@@ -119,52 +143,13 @@
       ]
     },
     {
-      "id": "3fab9d5a-5cad-374e-96f7-0c8f9854ab14",
-      "title": "CVS Health: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/healthcare/articles/cvs-health-q2-earnings-snapshot-103843108.html",
-      "publisher": "Associated Press",
-      "time": 1785926323,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "8ff52212-5f2a-36f5-944c-ce5f133099b3",
-      "title": "Choice Hotels: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/choice-hotels-q2-earnings-snapshot-103843235.html",
-      "publisher": "Associated Press",
-      "time": 1785926323,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a83454cf-d2de-35e3-a032-37730ef7ae4f",
-      "title": "Bloomin' Brands: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bloomin-brands-q2-earnings-snapshot-103842527.html",
-      "publisher": "Associated Press",
-      "time": 1785926322,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "bf133f04-15f9-4908-a0c2-14d0c5d164a3",
-      "title": "Disney's Q3 earnings top estimates on demand for experiences, company exits A+E Media stake",
-      "link": "https://finance.yahoo.com/markets/stocks/article/disneys-q3-earnings-top-estimates-on-demand-for-experiences-company-exits-ae-media-stake-103619379.html",
-      "publisher": "Yahoo Finance",
-      "time": 1785926179,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "97b8f026-a54e-3819-a31c-99f4c2581028",
+      "title": "Oppenheimer Adjusts Price Target on Amgen to $450 From $400, Maintains Outperform Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-adjusts-price-target-amgen-124208688.html",
+      "publisher": "MT Newswires",
+      "time": 1785933728,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
