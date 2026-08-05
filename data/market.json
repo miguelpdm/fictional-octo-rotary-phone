@@ -1,107 +1,82 @@
 {
-  "updatedAt": "2026-08-05T15:10:14.091142+00:00",
+  "updatedAt": "2026-08-05T16:59:02.636895+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20062.6,
-      "change": 39.0,
-      "changePct": 0.1947701711979864,
+      "price": 20057.0,
+      "change": 33.400000000001455,
+      "changePct": 0.16680317225674432,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7759.56,
-      "change": 159.0600000000004,
-      "changePct": 2.0927570554568833,
+      "price": 7742.33,
+      "change": 141.82999999999993,
+      "changePct": 1.866061443326096,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26623.19,
-      "change": 709.2899999999972,
-      "changePct": 2.7371024816797056,
+      "price": 26501.695,
+      "change": 587.7949999999983,
+      "changePct": 2.268261434982763,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26183.22,
-      "change": 181.90999999999985,
-      "changePct": 0.6996185961399631,
+      "price": 26126.3,
+      "change": 124.98999999999796,
+      "changePct": 0.48070654901617627,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6480.24,
-      "change": -6.460000000000036,
-      "changePct": -0.09958838854887749,
+      "price": 6476.98,
+      "change": -9.720000000000255,
+      "changePct": -0.1498450675998621,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 18.43,
-      "change": 1.9299999999999997,
-      "changePct": 11.696969696969695,
+      "price": 16.01,
+      "change": -0.48999999999999844,
+      "changePct": -2.9696969696969604,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "0ce4684a-259d-30b5-813c-24f5796504f5",
-      "title": "Nike Stock Falls 3.6% After JPMorgan Warns of $1 Billion Hit",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nike-stock-falls-3-6-150800037.html",
+      "id": "e6a3c32a-d985-3971-95e7-f59cd8a7158a",
+      "title": "Michael Burry Drops Shocking Take on AI Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-drops-shocking-ai-165752178.html",
       "publisher": "GuruFocus.com",
-      "time": 1785942480,
-      "impact": "high",
+      "time": 1785949072,
+      "impact": "low",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "e53d5273-f1a3-4ce6-9892-bb077b0cfce6",
-      "title": "Uber stock drops as bookings guidance disappoints; CEO bets on robotaxi push to grow overall business",
-      "link": "https://finance.yahoo.com/markets/stocks/article/uber-stock-drops-as-bookings-guidance-disappoints-ceo-bets-on-robotaxi-push-to-grow-overall-business-150729446.html",
-      "publisher": "Yahoo Finance",
-      "time": 1785942449,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "d8eefcd8-8c02-32fa-9d56-ded069c27abd",
-      "title": "Pfizer Stock Slips Despite Earnings Beat and $2.5 Billion Cuts",
-      "link": "https://finance.yahoo.com/healthcare/articles/pfizer-stock-slips-despite-earnings-150456157.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785942296,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "7c3da8db-5f51-353f-9468-63525300fd69",
-      "title": "McDonald's Stock Rises Despite Troubling U.S. Sales Miss",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-stock-rises-despite-troubling-150322473.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785942202,
+      "id": "deda1e6e-9e91-3231-8173-f89fea0366d4",
+      "title": "Mitsubishi to launch midsize, compact Pajero models by 2028",
+      "link": "https://finance.yahoo.com/m/deda1e6e-9e91-3231-8173-f89fea0366d4/mitsubishi-to-launch-midsize%2C.html",
+      "publisher": "Just Auto",
+      "time": 1785949010,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0c4aa541-a83b-3650-b683-8236160b58b6",
-      "title": "Palantir Stock Jumps 30% as AI Revenue Forecast Soars",
-      "link": "https://finance.yahoo.com/technology/ai/articles/palantir-stock-jumps-30-ai-150200662.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785942120,
+      "id": "66485bee-1824-3939-aaed-d338b28ae93c",
+      "title": "Disney profits top estimates on strength in theme park business",
+      "link": "https://finance.yahoo.com/media-advertising/articles/disney-profits-top-estimates-strength-165647580.html",
+      "publisher": "AFP",
+      "time": 1785949007,
       "impact": "medium",
       "tags": [
         "macro",
@@ -109,11 +84,42 @@
       ]
     },
     {
-      "id": "29b3418b-af1b-3ff0-8990-763b2df6114c",
-      "title": "Infineon Technologies AG (IFNNF) (Q3 2026) Earnings Call Highlights: Record Revenue and AI ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/infineon-technologies-ag-ifnnf-q3-150136516.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785942096,
+      "id": "2021f3e2-158d-34f1-8a38-0a0f01c0417a",
+      "title": "Last Chance – 5 Dividend Stocks You Must Buy This Week to Get Paid in August",
+      "link": "https://finance.yahoo.com/m/2021f3e2-158d-34f1-8a38-0a0f01c0417a/last-chance-%E2%80%93-5-dividend.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785948931,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "7b1a0814-e4b6-3c96-bf36-670317ca4b80",
+      "title": "The Real Reason Berkshire Sold Every Amazon Share Has Nothing to Do With Amazon",
+      "link": "https://finance.yahoo.com/m/7b1a0814-e4b6-3c96-bf36-670317ca4b80/the-real-reason-berkshire.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1785948906,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "14b0b693-49ed-3713-b640-e041829626ae",
+      "title": "GM, SAIC extend China joint venture through to 2047",
+      "link": "https://finance.yahoo.com/m/14b0b693-49ed-3713-b640-e041829626ae/gm%2C-saic-extend-china-joint.html",
+      "publisher": "Just Auto",
+      "time": 1785948873,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "638dd002-8779-383f-bbb6-7ecfb2ca6b35",
+      "title": "SolarEdge forecasts weaker Q3 as US residential market remains challenging",
+      "link": "https://finance.yahoo.com/m/638dd002-8779-383f-bbb6-7ecfb2ca6b35/solaredge-forecasts-weaker-q3.html",
+      "publisher": "Proactive",
+      "time": 1785948780,
       "impact": "medium",
       "tags": [
         "macro",
@@ -121,52 +127,31 @@
       ]
     },
     {
-      "id": "c6c074bf-9743-31b1-91b9-7225cd2b5a36",
-      "title": "Sandoz Group AG (SDZNY) (H1 2026) Earnings Call Highlights: Biosimilar Growth Drives 5% Sales ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/sandoz-group-ag-sdzny-h1-150124814.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785942084,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "6acb6c70-2455-39ea-b922-789166880d7e",
+      "title": "Airline stops selling tickets, all flights canceled",
+      "link": "https://finance.yahoo.com/m/6acb6c70-2455-39ea-b922-789166880d7e/airline-stops-selling.html",
+      "publisher": "TheStreet",
+      "time": 1785948708,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "66099f29-a845-3cd0-9042-8dbe6b939669",
-      "title": "SK Telecom Co Ltd (SKM) (Q2 2026) Earnings Call Highlights: AIDC Expansion Drives 67. ...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/sk-telecom-co-ltd-skm-150123521.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785942083,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "25e8f82e-2a25-317b-8b18-8106808ebe32",
+      "title": "Major Wall Street hedge funds targeted in attempted cyberattacks, Bloomberg News reports",
+      "link": "https://finance.yahoo.com/technology/ai/articles/major-wall-street-hedge-funds-165040922.html",
+      "publisher": "Reuters",
+      "time": 1785948640,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "9e5960c0-cf87-3df9-a513-dd87b4116362",
-      "title": "Ibstock PLC (LSE:IBST) (H1 2026) Earnings Call Highlights: Market Share Gains Amidst Revenue Decline",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ibstock-plc-lse-ibst-h1-150110586.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785942070,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "04ee565c-97d4-3115-b338-9fc827b3ce73",
-      "title": "Heineken Holding NV (HKHHF) (H1 2026) Earnings Call Highlights: Strong Profit Growth and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/heineken-holding-nv-hkhhf-h1-150107331.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785942067,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "7147599a-b900-363b-a027-9e5a31a25dbf",
+      "title": "Alphabet's Google Must Face UK Advertising Class Action, Tribunal Rules",
+      "link": "https://finance.yahoo.com/media-advertising/articles/alphabet-apos-google-must-face-165013367.html",
+      "publisher": "MT Newswires",
+      "time": 1785948613,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
