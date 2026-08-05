@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-05T05:10:54.104604+00:00",
+  "updatedAt": "2026-08-05T08:00:04.342414+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20023.6,
-      "change": 41.0,
-      "changePct": 0.20517850529961065,
+      "price": 20107.4,
+      "change": 83.80000000000291,
+      "changePct": 0.41850616272799557,
       "currency": "EUR"
     },
     {
@@ -28,35 +28,35 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26202.35,
-      "change": 573.109999999997,
-      "changePct": 2.2361568271240073,
+      "price": 26296.91,
+      "change": 295.59999999999854,
+      "changePct": 1.1368657963771769,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6486.7,
-      "change": 60.19999999999982,
-      "changePct": 0.9367462849140249,
+      "price": 6498.19,
+      "change": 11.489999999999782,
+      "changePct": 0.17713166941587835,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.5,
-      "change": 0.6400000000000006,
-      "changePct": 4.035308953341744,
+      "price": 16.0,
+      "change": -0.5,
+      "changePct": -3.0303030303030303,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "7435bf1e-131a-3599-9263-1cf2a00dc49b",
-      "title": "TransMedics Group Inc (TMDX) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/transmedics-group-inc-tmdx-q2-050711635.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785906431,
+      "id": "79afa8a8-be3c-317a-83d0-8ee72c409eb2",
+      "title": "LATAM Airlines Q2 Earnings Fall, Revenue Rises",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/latam-airlines-q2-earnings-fall-075708154.html",
+      "publisher": "MT Newswires",
+      "time": 1785916628,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,111 +64,87 @@
       ]
     },
     {
-      "id": "833343d9-19c5-3464-84ed-26a7330c4336",
-      "title": "Martinrea International Inc (MRETF) (Q2 2026) Earnings Call Highlights: Margin Resilience Amid ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/martinrea-international-inc-mretf-q2-050656798.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785906416,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "7be99949-3818-3a44-b1ef-c99847c77a90",
+      "title": "Silicon Motion Showcases Next-Generation Storage Solutions for Agentic AI Applications at FMS 2026",
+      "link": "https://finance.yahoo.com/technology/ai/articles/silicon-motion-showcases-next-generation-075500608.html",
+      "publisher": "Business Wire",
+      "time": 1785916500,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "a498df27-f980-3605-aa3a-b4da9b6990dd",
-      "title": "Viasat Inc (VSAT) (Q1 2027) Earnings Call Highlights: Record Defense Awards and Positive Free ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/viasat-inc-vsat-q1-2027-050654085.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785906414,
+      "id": "694be690-7440-3327-addb-942b475ba1a6",
+      "title": "Flights at German airport disrupted after suspect objects sighted",
+      "link": "https://finance.yahoo.com/m/694be690-7440-3327-addb-942b475ba1a6/flights-at-german-airport.html",
+      "publisher": "Associated Press",
+      "time": 1785916250,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1d852843-fd1a-3ca4-b3db-ea1159befa71",
+      "title": "HSBC Launches Tender Offers for 4 Note Series",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-launches-tender-offers-4-075027153.html",
+      "publisher": "MT Newswires",
+      "time": 1785916227,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "faec2a9d-d97c-3b6d-b5f2-b07e5acb2426",
+      "title": "Form 8.5 (EPT/RI) - Alternative Income REIT plc",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-5-ept-ri-074800806.html",
+      "publisher": "GlobeNewswire",
+      "time": 1785916080,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "802622f5-a65f-35f0-8c00-8fbab8c5e2b6",
+      "title": "Fetterman, McCormick team up on bill for spotted lanternfly research",
+      "link": "https://finance.yahoo.com/m/802622f5-a65f-35f0-8c00-8fbab8c5e2b6/fetterman%2C-mccormick-team-up.html",
+      "publisher": "USA TODAY",
+      "time": 1785915987,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bd421101-870e-3a3f-b3da-10bcf957f201",
+      "title": "Foxconn's monthly revenue hits record in July on AI demand",
+      "link": "https://finance.yahoo.com/technology/ai/articles/foxconns-monthly-revenue-hits-record-074534993.html",
+      "publisher": "Reuters",
+      "time": 1785915934,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "615dad6c-9596-3f29-9cc7-daf551b03071",
+      "title": "General Motors, SAIC Extend Chinese Automotive Joint Venture Through 2047",
+      "link": "https://finance.yahoo.com/energy/articles/general-motors-saic-extend-chinese-074331185.html",
+      "publisher": "MT Newswires",
+      "time": 1785915811,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "de118328-8e61-39fa-9780-45821dcb4a03",
+      "title": "SpaceX posts smaller-than-expected loss despite scrutiny over AI spending",
+      "link": "https://finance.yahoo.com/m/de118328-8e61-39fa-9780-45821dcb4a03/spacex-posts.html",
+      "publisher": "Euronews",
+      "time": 1785915762,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "82f8cd34-c8ec-39bd-9c35-d5ac1b8d786f",
+      "title": "White House AI Framework Excludes Open-Weight Models From Federal Security Review, Creating Structural Competitive Asymmetry",
+      "link": "https://finance.yahoo.com/m/82f8cd34-c8ec-39bd-9c35-d5ac1b8d786f/white-house-ai-framework.html",
+      "publisher": "Forkast News",
+      "time": 1785915560,
       "impact": "high",
       "tags": [
         "geo",
         "macro"
-      ]
-    },
-    {
-      "id": "5eaefc24-c0d9-3623-aceb-501488118e61",
-      "title": "Accel Entertainment Inc (ACEL) (Q2 2026) Earnings Call Highlights: Record Revenue and Chicago ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/accel-entertainment-inc-acel-q2-050648153.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785906408,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "4effb078-2f12-3000-8410-7a4891103fd8",
-      "title": "Transcat Inc (TRNS) (Q1 2027) Earnings Call Highlights: Strong Service Growth and Strategic ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/transcat-inc-trns-q1-2027-050636024.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785906396,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "3e98888c-c39a-35bb-b7b7-89318f7eb528",
-      "title": "Amgen Inc (AMGN) (Q2 2026) Earnings Call Highlights: Revenue Surges Past $10 Billion, Guidance ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/amgen-inc-amgn-q2-2026-050629576.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785906389,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "60fff882-c912-3727-b9ae-71a07fbc5d71",
-      "title": "OneSpan Inc (OSPN) (Q2 2026) Earnings Call Highlights: Subscription Growth and DigipassONE ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/onespan-inc-ospn-q2-2026-050629625.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785906389,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "72351ea6-cb57-302b-b8f2-75a1a3b4a330",
-      "title": "Booking Holdings Inc (BKNG) (Q2 2026) Earnings Call Highlights: Strong Beat Across All Metrics, ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/booking-holdings-inc-bkng-q2-050626472.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785906386,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "8d745d80-1e4a-3d93-b31b-cd0f82b2e310",
-      "title": "Emerson Electric Co (EMR) (Q3 2026) Earnings Call Highlights: Strong Growth and Raised Guidance ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/emerson-electric-co-emr-q3-050620952.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785906380,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "49eb7831-db16-3d4a-a1ad-5e1a385f8971",
-      "title": "ACADIA Pharmaceuticals Inc (ACAD) (Q2 2026) Earnings Call Highlights: Strong Revenue Growth and ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/acadia-pharmaceuticals-inc-acad-q2-050608193.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785906368,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
       ]
     }
   ],
