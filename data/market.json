@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T20:05:22.534642+00:00",
+  "updatedAt": "2026-08-05T21:42:41.484503+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -44,19 +44,37 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.5,
-      "change": -1.0,
-      "changePct": -6.0606060606060606,
+      "price": 15.81,
+      "change": -0.6899999999999995,
+      "changePct": -4.181818181818179,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "98f56af1-f011-3d7a-b8d3-086dd0d98011",
-      "title": "Walmart's $50 woven raffia sandals with gold hardware go with everything",
-      "link": "https://finance.yahoo.com/m/98f56af1-f011-3d7a-b8d3-086dd0d98011/walmart%27s-%2450-woven-raffia.html",
-      "publisher": "TheStreet",
-      "time": 1785960180,
+      "id": "f12e46b5-bf66-37a0-9e20-d34e8c2ab30c",
+      "title": "Artemis Gold Reports AGM Voting Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/artemis-gold-reports-agm-voting-213700948.html",
+      "publisher": "CNW Group",
+      "time": 1785965820,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "41d89a66-737c-3a8e-a865-b613c1029809",
+      "title": "The Canadian Society for Exercise Physiology (CSEP) Joins Global Call to Recognize Clinical Exercise Physiologists as a Core Part of Obesity Care Alongside GLP-1 Medications",
+      "link": "https://finance.yahoo.com/healthcare/articles/canadian-society-exercise-physiology-csep-213600057.html",
+      "publisher": "CNW Group",
+      "time": 1785965760,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "82241f01-c062-3034-b4ea-004bc1aaad2b",
+      "title": "Korea Tourism Organization Canada Launches \"Hello Korea\" Promotion and K-Travel Fest, Rewarding Travelers with Exclusive Perks in Toronto",
+      "link": "https://finance.yahoo.com/small-business/articles/korea-tourism-organization-canada-launches-213600931.html",
+      "publisher": "CNW Group",
+      "time": 1785965760,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,31 +82,11 @@
       ]
     },
     {
-      "id": "25e1d360-5807-3565-9643-46207929434f",
-      "title": "Sector Update: Energy Stocks Fall Late Afternoon",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-200104295.html",
+      "id": "2bfae2aa-fc8f-391d-907c-83523087346f",
+      "title": "Coeur Mining Q2 Adjusted Earnings Fall, Revenue Rises",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coeur-mining-q2-adjusted-earnings-213532527.html",
       "publisher": "MT Newswires",
-      "time": 1785960064,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "8425519f-bd62-39f7-b375-21bc4e4ecb07",
-      "title": "Vanda Pharmaceuticals Reports Second Quarter 2026 Financial Results",
-      "link": "https://finance.yahoo.com/healthcare/articles/vanda-pharmaceuticals-reports-second-quarter-200100143.html",
-      "publisher": "PR Newswire",
-      "time": 1785960060,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ca0a62bb-5c9c-36a5-880f-6ea0add29541",
-      "title": "Curaleaf Reports Second Quarter 2026 Results: Continued Growth, Margin Strength, and Profitability",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/curaleaf-reports-second-quarter-2026-200100537.html",
-      "publisher": "CNW Group",
-      "time": 1785960060,
+      "time": 1785965732,
       "impact": "medium",
       "tags": [
         "macro",
@@ -96,20 +94,11 @@
       ]
     },
     {
-      "id": "abfc46dd-d5d4-3d4e-a723-90167ecaef33",
-      "title": "AMD Stock Drops 6.9% Despite Record $11.5 Billion Revenue",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-drops-6-9-200011059.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785960011,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "76636d53-9c54-310f-8a38-31fa9b655c14",
-      "title": "First Horizon Bank Promotes Michael Doerr to Senior Vice President, Senior Commercial Banking Sales Manager",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/first-horizon-bank-promotes-michael-200000084.html",
-      "publisher": "PR Newswire",
-      "time": 1785960000,
+      "id": "af60d86f-4ba6-3751-a0be-f37cb3abd56e",
+      "title": "Nutrien Q2 Adjusted Earnings Fall, Revenue Rises",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nutrien-q2-adjusted-earnings-fall-213522990.html",
+      "publisher": "MT Newswires",
+      "time": 1785965722,
       "impact": "medium",
       "tags": [
         "macro",
@@ -117,11 +106,11 @@
       ]
     },
     {
-      "id": "af8d61b1-5050-340c-8eaa-77d137bf09cd",
-      "title": "BOA Acquisition Corp. II Announces Closing of $143.75 Million Initial Public Offering",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/boa-acquisition-corp-ii-announces-200000909.html",
-      "publisher": "PR Newswire",
-      "time": 1785960000,
+      "id": "1a46bf70-be93-36ce-b4f7-82e97594c5ee",
+      "title": "Japan's mega bank sends harsh August outlook on Clarity Act",
+      "link": "https://finance.yahoo.com/m/1a46bf70-be93-36ce-b4f7-82e97594c5ee/japan%27s-mega-bank-sends-harsh.html",
+      "publisher": "TheStreet",
+      "time": 1785965694,
       "impact": "medium",
       "tags": [
         "macro",
@@ -129,32 +118,42 @@
       ]
     },
     {
-      "id": "8b99514f-545a-3628-a296-013613d0a266",
-      "title": "Top Cryptocurrencies Mixed; Bitcoin Holds Above $64,000 Level",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/top-cryptocurrencies-mixed-bitcoin-holds-195715318.html",
+      "id": "4c436f6b-5a2f-3772-8950-b3559bc0b763",
+      "title": "Amazon.com Insider Sold Shares Worth $346,453,514, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-insider-sold-shares-213438867.html",
       "publisher": "MT Newswires",
-      "time": 1785959835,
+      "time": 1785965678,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "294ebf2a-3ac1-3922-b084-dc60ede1600f",
-      "title": "Empire Life announces 2026 second quarter dividends",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/empire-life-announces-2026-second-195700951.html",
-      "publisher": "CNW Group",
-      "time": 1785959820,
+      "id": "91acfd12-577f-3f27-921d-37d4997d3d2b",
+      "title": "The ONE Group 2Q Operating Income Jumps on Vibe Dining Strength",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/one-group-2q-operating-income-213356043.html",
+      "publisher": "Exec Edge",
+      "time": 1785965636,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "176069a5-84d8-36bf-a7f3-bc135e8a1feb",
-      "title": "Update: US Equity Indexes Mixed as Communication Services Sector Hits Nasdaq, Proposed Hormuz Route Reportedly Agreed",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-communication-195644907.html",
-      "publisher": "MT Newswires",
-      "time": 1785959804,
+      "id": "1187b263-1b9c-41f6-9d78-744e8fd434b6",
+      "title": "Meta debuts Muse Spark 1.2  and first coding agent, as it ramps up competition with OpenAI, Anthropic",
+      "link": "https://finance.yahoo.com/technology/article/meta-debuts-muse-spark-12-and-first-coding-agent-as-it-ramps-up-competition-with-openai-anthropic-213338398.html",
+      "publisher": "Yahoo Finance",
+      "time": 1785965618,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ec9ddd08-d855-31b1-8f03-8c109154cfdb",
+      "title": "Overlooked tech stock delivers 45% earnings surprise",
+      "link": "https://finance.yahoo.com/m/ec9ddd08-d855-31b1-8f03-8c109154cfdb/overlooked-tech-stock.html",
+      "publisher": "TheStreet",
+      "time": 1785965580,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     }
   ],
