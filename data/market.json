@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T22:52:11.322367+00:00",
+  "updatedAt": "2026-08-05T23:54:27.991713+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,11 @@
   ],
   "news": [
     {
-      "id": "fbb7de39-8625-3051-a80b-3ff3ef1a1eab",
-      "title": "Stocks mixed with Nasdaq down; US oil eases on Iran talks",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-shares-surge-tech-mood-014132859.html",
-      "publisher": "Reuters",
-      "time": 1785970012,
+      "id": "65265246-9416-3528-a36f-3aecebb10cd5",
+      "title": "Disney Reaffirms Double-Digit Earnings Growth, Targets $9 Billion in Buybacks. Here’s What Investors Need to Know.",
+      "link": "https://finance.yahoo.com/m/65265246-9416-3528-a36f-3aecebb10cd5/disney-reaffirms-double-digit.html",
+      "publisher": "Motley Fool",
+      "time": 1785973830,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,20 +64,50 @@
       ]
     },
     {
-      "id": "a4dcb419-1c7f-3223-a137-e20f9ba9f217",
-      "title": "First Canadian Team Wins Flagship Competition at Prestigious MIT Summer Institute: South Alberta Prairie Rose Students Claim International Title in Autonomous RACECAR Grand Prix",
-      "link": "https://finance.yahoo.com/technology/ai/articles/first-canadian-team-wins-flagship-224200775.html",
-      "publisher": "CNW Group",
-      "time": 1785969720,
+      "id": "5f2e817a-455c-32dc-ae3d-ec3eeb00997f",
+      "title": "Meta Platforms Launches Muse Code AI Coding Tool Powered by Muse Spark 1.2",
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-launches-muse-code-235028991.html",
+      "publisher": "MT Newswires",
+      "time": 1785973828,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5cb46dd4-c62a-34b0-aa13-d410a3bdb2da",
-      "title": "Hudson Technologies Re-Awarded Defense Logistics Agency Contract",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hudson-technologies-awarded-defense-logistics-224100466.html",
+      "id": "23f39a0c-7e02-33c1-8c52-010f887f1807",
+      "title": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
+      "link": "https://finance.yahoo.com/m/23f39a0c-7e02-33c1-8c52-010f887f1807/dow-jones-futures%3A-nvidia.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1785973784,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "f159d42c-486e-36de-abc4-7ae7dcc977c6",
+      "title": "A Life360 Director Sold Stock at Exactly $60. Here's What Long-Term Investors Should Know",
+      "link": "https://finance.yahoo.com/m/f159d42c-486e-36de-abc4-7ae7dcc977c6/a-life360-director-sold-stock.html",
+      "publisher": "Motley Fool",
+      "time": 1785973733,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c5b56f55-7514-3427-9485-6ad1b3bfee9b",
+      "title": "UPDATE - LifeMD Reports Second Quarter 2026 Results",
+      "link": "https://finance.yahoo.com/healthcare/articles/lifemd-reports-second-quarter-2026-234500491.html",
       "publisher": "GlobeNewswire",
-      "time": 1785969660,
+      "time": 1785973500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0035b4a2-1e5b-39ae-8fdf-bc1ff2c492f8",
+      "title": "Market Chatter: Chinese Spyware Tool LightSpy Now Active in 13-Plus Countries",
+      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-chinese-spyware-tool-234258104.html",
+      "publisher": "MT Newswires",
+      "time": 1785973378,
       "impact": "high",
       "tags": [
         "geo",
@@ -85,11 +115,11 @@
       ]
     },
     {
-      "id": "638ba457-58a3-3ea5-873d-c96a56b509ee",
-      "title": "Dorel Industries: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dorel-industries-q2-earnings-snapshot-223853494.html",
+      "id": "2afcafb4-1ebf-3882-b317-5d4f8891c2f8",
+      "title": "Manulife: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/manulife-q2-earnings-snapshot-234254208.html",
       "publisher": "Associated Press",
-      "time": 1785969533,
+      "time": 1785973374,
       "impact": "medium",
       "tags": [
         "macro",
@@ -97,64 +127,33 @@
       ]
     },
     {
-      "id": "54374f41-ed21-3e1c-ad98-cbda5c5b1159",
-      "title": "Trekor Announces $125 Million of Adjusted EBITDA in Second Quarter",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/trekor-announces-125-million-adjusted-223700033.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785969420,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5c28cb64-379f-3df6-85fb-27b5a9bb8bfd",
-      "title": "KBRA Assigns Preliminary Ratings to OneMain Financial Issuance Trust 2026-2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kbra-assigns-preliminary-ratings-onemain-223600293.html",
-      "publisher": "Business Wire",
-      "time": 1785969360,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "50e80b82-8086-38b7-8d01-bf12377b2c15",
-      "title": "News Corp (NASDAQ:NWSA) Reports Bullish Q2 CY2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/news-corp-nasdaq-nwsa-reports-223531933.html",
-      "publisher": "StockStory",
-      "time": 1785969331,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "2cc6c366-646f-3ffc-9b93-f28e325de781",
-      "title": "FTAI Infrastructure (NASDAQ:FIP) Misses Q2 CY2026 Revenue Estimates",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ftai-infrastructure-nasdaq-fip-misses-223503209.html",
-      "publisher": "StockStory",
-      "time": 1785969303,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "a32d172e-a9dc-3d6d-a045-869dccc1e793",
-      "title": "Should You Forget Tesla Stock Near a 52-Week Low?",
-      "link": "https://finance.yahoo.com/m/a32d172e-a9dc-3d6d-a045-869dccc1e793/should-you-forget-tesla-stock.html",
+      "id": "fffa2c0d-1f97-3aae-976d-2e88dddb6958",
+      "title": "A Life360 Founder Sold $1.7 Million in Stock. Here's What Long-Term Investors Should Know",
+      "link": "https://finance.yahoo.com/m/fffa2c0d-1f97-3aae-976d-2e88dddb6958/a-life360-founder-sold-%241.7.html",
       "publisher": "Motley Fool",
-      "time": 1785969300,
+      "time": 1785973327,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c3d71985-aa14-30cb-b4fc-0ac9b62a67d3",
-      "title": "Motorola Solutions lifts annual guidance on resilient public safety demand",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/motorola-solutions-lifts-annual-guidance-223344995.html",
-      "publisher": "Reuters",
-      "time": 1785969224,
-      "impact": "medium",
+      "id": "72235828-ab67-39a2-8cd5-f33cdf5dfa5f",
+      "title": "Taranis Identifies a Hydrothermally Altered, Sulfide-Bearing Intrusive Stock Associated with Historic Gold-Silver Occurrence and Connected to Thor",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/taranis-identifies-hydrothermally-altered-sulfide-234000247.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1785973200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1e9f197e-55cc-365a-aded-c2665cc6bfeb",
+      "title": "Shipowners Warn Hormuz Tolls Could Spur Charges at Other Maritime Chokepoints",
+      "link": "https://finance.yahoo.com/energy/articles/shipowners-warn-hormuz-tolls-could-233800235.html",
+      "publisher": "MT Newswires",
+      "time": 1785973080,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     }
   ],
