@@ -1,141 +1,74 @@
 {
-  "updatedAt": "2026-08-05T12:48:58.927111+00:00",
+  "updatedAt": "2026-08-05T15:10:14.091142+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20119.6,
-      "change": 96.0,
-      "changePct": 0.4794342675642742,
+      "price": 20062.6,
+      "change": 39.0,
+      "changePct": 0.1947701711979864,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7736.52,
-      "change": 246.80000000000018,
-      "changePct": 3.295183264527915,
+      "price": 7759.56,
+      "change": 159.0600000000004,
+      "changePct": 2.0927570554568833,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26584.992,
-      "change": 1211.1419999999998,
-      "changePct": 4.773189720913459,
+      "price": 26623.19,
+      "change": 709.2899999999972,
+      "changePct": 2.7371024816797056,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26256.55,
-      "change": 255.23999999999796,
-      "changePct": 0.9816428479949586,
+      "price": 26183.22,
+      "change": 181.90999999999985,
+      "changePct": 0.6996185961399631,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6495.38,
-      "change": 8.680000000000291,
-      "changePct": 0.13381226201304655,
+      "price": 6480.24,
+      "change": -6.460000000000036,
+      "changePct": -0.09958838854887749,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.79,
-      "change": 0.28999999999999915,
-      "changePct": 1.7575757575757522,
+      "price": 18.43,
+      "change": 1.9299999999999997,
+      "changePct": 11.696969696969695,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "2bfa9602-2e2a-3806-a162-6de9ea82d171",
-      "title": "SpaceX Could Attempt Historic Catch This Month",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-could-attempt-historic-catch-124754857.html",
+      "id": "0ce4684a-259d-30b5-813c-24f5796504f5",
+      "title": "Nike Stock Falls 3.6% After JPMorgan Warns of $1 Billion Hit",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nike-stock-falls-3-6-150800037.html",
       "publisher": "GuruFocus.com",
-      "time": 1785934074,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a20013c8-4f41-3a93-afed-e703a42edf79",
-      "title": "AMD AI Boom Just Got Bigger -- Data Center Revenue Soars 107% in Second Quarter",
-      "link": "https://finance.yahoo.com/technology/ai/articles/amd-ai-boom-just-got-124722305.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785934042,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b1d9869c-2c6b-4862-aaea-594332004efc",
-      "title": "Bitcoin and ethereum prices today, Wednesday, August 5, 2026:  Crypto prices rise as investors watch Hormuz negotiations and jobs report closely",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-5-2026-crypto-prices-rise-as-investors-watch-hormuz-negotiations-and-jobs-report-closely-124640660.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1785934000,
-      "impact": "medium",
+      "time": 1785942480,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "cf4df2eb-b7c7-3b53-9e0f-f434e3c6250b",
-      "title": "Palantir's 30% Surge Just Crushed the Short Trade",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/palantirs-30-surge-just-crushed-124604027.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785933964,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "a34da638-40cb-37fa-aceb-5c09e9f07914",
-      "title": "Rocket Lab Shares Rise After $397 Million Space Force Contract",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-shares-rise-397-124516516.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785933916,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4d146982-0477-3ef9-80f4-ac14696443cf",
-      "title": "Update: Market Chatter: JPMorgan Said to Near Deal to Acquire Idex for About $4.4 billion",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-jpmorgan-said-near-124423239.html",
-      "publisher": "MT Newswires",
-      "time": 1785933863,
-      "impact": "low",
-      "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "3f2cc41d-b87f-3337-a24f-a3c8f2fb0a61",
-      "title": "Franklin Resources, Inc. Announces Preliminary Month-End Assets Under Management",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/franklin-resources-inc-announces-preliminary-124400033.html",
-      "publisher": "Business Wire",
-      "time": 1785933840,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e69ba2c5-7d07-3c6b-917b-a99d51fd95c6",
-      "title": "Wall St set to open higher as Mideast hopes offset SpaceX, AMD drag",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-inch-113116518.html",
-      "publisher": "Reuters",
-      "time": 1785933788,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6d29d51f-2efe-3bae-96a7-c3570ca5aaaa",
-      "title": "MFA Financial: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mfa-financial-q2-earnings-snapshot-124217818.html",
-      "publisher": "Associated Press",
-      "time": 1785933737,
+      "id": "e53d5273-f1a3-4ce6-9892-bb077b0cfce6",
+      "title": "Uber stock drops as bookings guidance disappoints; CEO bets on robotaxi push to grow overall business",
+      "link": "https://finance.yahoo.com/markets/stocks/article/uber-stock-drops-as-bookings-guidance-disappoints-ceo-bets-on-robotaxi-push-to-grow-overall-business-150729446.html",
+      "publisher": "Yahoo Finance",
+      "time": 1785942449,
       "impact": "medium",
       "tags": [
         "macro",
@@ -143,13 +76,97 @@
       ]
     },
     {
-      "id": "97b8f026-a54e-3819-a31c-99f4c2581028",
-      "title": "Oppenheimer Adjusts Price Target on Amgen to $450 From $400, Maintains Outperform Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-adjusts-price-target-amgen-124208688.html",
-      "publisher": "MT Newswires",
-      "time": 1785933728,
+      "id": "d8eefcd8-8c02-32fa-9d56-ded069c27abd",
+      "title": "Pfizer Stock Slips Despite Earnings Beat and $2.5 Billion Cuts",
+      "link": "https://finance.yahoo.com/healthcare/articles/pfizer-stock-slips-despite-earnings-150456157.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785942296,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "7c3da8db-5f51-353f-9468-63525300fd69",
+      "title": "McDonald's Stock Rises Despite Troubling U.S. Sales Miss",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-stock-rises-despite-troubling-150322473.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785942202,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "0c4aa541-a83b-3650-b683-8236160b58b6",
+      "title": "Palantir Stock Jumps 30% as AI Revenue Forecast Soars",
+      "link": "https://finance.yahoo.com/technology/ai/articles/palantir-stock-jumps-30-ai-150200662.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785942120,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "29b3418b-af1b-3ff0-8990-763b2df6114c",
+      "title": "Infineon Technologies AG (IFNNF) (Q3 2026) Earnings Call Highlights: Record Revenue and AI ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/infineon-technologies-ag-ifnnf-q3-150136516.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785942096,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "c6c074bf-9743-31b1-91b9-7225cd2b5a36",
+      "title": "Sandoz Group AG (SDZNY) (H1 2026) Earnings Call Highlights: Biosimilar Growth Drives 5% Sales ...",
+      "link": "https://finance.yahoo.com/healthcare/articles/sandoz-group-ag-sdzny-h1-150124814.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785942084,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "66099f29-a845-3cd0-9042-8dbe6b939669",
+      "title": "SK Telecom Co Ltd (SKM) (Q2 2026) Earnings Call Highlights: AIDC Expansion Drives 67. ...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/sk-telecom-co-ltd-skm-150123521.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785942083,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9e5960c0-cf87-3df9-a513-dd87b4116362",
+      "title": "Ibstock PLC (LSE:IBST) (H1 2026) Earnings Call Highlights: Market Share Gains Amidst Revenue Decline",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ibstock-plc-lse-ibst-h1-150110586.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785942070,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "04ee565c-97d4-3115-b338-9fc827b3ce73",
+      "title": "Heineken Holding NV (HKHHF) (H1 2026) Earnings Call Highlights: Strong Profit Growth and ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heineken-holding-nv-hkhhf-h1-150107331.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785942067,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
