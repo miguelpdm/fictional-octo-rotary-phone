@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-05T08:00:04.342414+00:00",
+  "updatedAt": "2026-08-05T10:43:38.860543+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20107.4,
-      "change": 83.80000000000291,
-      "changePct": 0.41850616272799557,
+      "price": 20117.8,
+      "change": 94.20000000000073,
+      "changePct": 0.4704448750474477,
       "currency": "EUR"
     },
     {
@@ -28,35 +28,67 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26296.91,
-      "change": 295.59999999999854,
-      "changePct": 1.1368657963771769,
+      "price": 26200.84,
+      "change": 199.52999999999884,
+      "changePct": 0.7673844125545938,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6498.19,
-      "change": 11.489999999999782,
-      "changePct": 0.17713166941587835,
+      "price": 6482.84,
+      "change": -3.8599999999996726,
+      "changePct": -0.05950637458183163,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.0,
-      "change": -0.5,
-      "changePct": -3.0303030303030303,
+      "price": 16.36,
+      "change": -0.14000000000000057,
+      "changePct": -0.8484848484848518,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "79afa8a8-be3c-317a-83d0-8ee72c409eb2",
-      "title": "LATAM Airlines Q2 Earnings Fall, Revenue Rises",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/latam-airlines-q2-earnings-fall-075708154.html",
-      "publisher": "MT Newswires",
-      "time": 1785916628,
+      "id": "290a7812-ea95-3b38-baf7-2ad0449400ab",
+      "title": "EV Composites Market worth $5.45 billion by 2031 - Exclusive Report by MarketsandMarkets™",
+      "link": "https://finance.yahoo.com/technology/articles/ev-composites-market-worth-5-104000907.html",
+      "publisher": "PR Newswire",
+      "time": 1785926400,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "a3977041-85f7-39c6-a73f-6a8b18a6a86e",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-104000894.html",
+      "publisher": "Business Wire",
+      "time": 1785926400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "20682e4f-e1be-3d36-86f2-540d4f7ef9c9",
+      "title": "ExxonMobil selects Sercel’s Marlin software suite for Whiptail project",
+      "link": "https://finance.yahoo.com/m/20682e4f-e1be-3d36-86f2-540d4f7ef9c9/exxonmobil-selects-sercel%E2%80%99s.html",
+      "publisher": "Offshore Technology",
+      "time": 1785926358,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "4bd74170-7f90-3341-83a5-1cf73b210611",
+      "title": "Why Nvidia Stock Is the Big Winner From SpaceX Earnings",
+      "link": "https://finance.yahoo.com/m/4bd74170-7f90-3341-83a5-1cf73b210611/why-nvidia-stock-is-the-big.html",
+      "publisher": "Barrons.com",
+      "time": 1785926340,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,87 +96,74 @@
       ]
     },
     {
-      "id": "7be99949-3818-3a44-b1ef-c99847c77a90",
-      "title": "Silicon Motion Showcases Next-Generation Storage Solutions for Agentic AI Applications at FMS 2026",
-      "link": "https://finance.yahoo.com/technology/ai/articles/silicon-motion-showcases-next-generation-075500608.html",
-      "publisher": "Business Wire",
-      "time": 1785916500,
+      "id": "99d37e05-d488-3ee7-9aa5-369d745463bf",
+      "title": "Leading the Future of Oral Delivery, Lonza Capsugel brings breakthrough Capsule Technologies to the Korean Market at CPHI Korea",
+      "link": "https://finance.yahoo.com/healthcare/articles/leading-future-oral-delivery-lonza-103900711.html",
+      "publisher": "PR Newswire",
+      "time": 1785926340,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "694be690-7440-3327-addb-942b475ba1a6",
-      "title": "Flights at German airport disrupted after suspect objects sighted",
-      "link": "https://finance.yahoo.com/m/694be690-7440-3327-addb-942b475ba1a6/flights-at-german-airport.html",
-      "publisher": "Associated Press",
-      "time": 1785916250,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1d852843-fd1a-3ca4-b3db-ea1159befa71",
-      "title": "HSBC Launches Tender Offers for 4 Note Series",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-launches-tender-offers-4-075027153.html",
-      "publisher": "MT Newswires",
-      "time": 1785916227,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "faec2a9d-d97c-3b6d-b5f2-b07e5acb2426",
-      "title": "Form 8.5 (EPT/RI) - Alternative Income REIT plc",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-5-ept-ri-074800806.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785916080,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "802622f5-a65f-35f0-8c00-8fbab8c5e2b6",
-      "title": "Fetterman, McCormick team up on bill for spotted lanternfly research",
-      "link": "https://finance.yahoo.com/m/802622f5-a65f-35f0-8c00-8fbab8c5e2b6/fetterman%2C-mccormick-team-up.html",
-      "publisher": "USA TODAY",
-      "time": 1785915987,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bd421101-870e-3a3f-b3da-10bcf957f201",
-      "title": "Foxconn's monthly revenue hits record in July on AI demand",
-      "link": "https://finance.yahoo.com/technology/ai/articles/foxconns-monthly-revenue-hits-record-074534993.html",
-      "publisher": "Reuters",
-      "time": 1785915934,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "615dad6c-9596-3f29-9cc7-daf551b03071",
-      "title": "General Motors, SAIC Extend Chinese Automotive Joint Venture Through 2047",
-      "link": "https://finance.yahoo.com/energy/articles/general-motors-saic-extend-chinese-074331185.html",
-      "publisher": "MT Newswires",
-      "time": 1785915811,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "de118328-8e61-39fa-9780-45821dcb4a03",
-      "title": "SpaceX posts smaller-than-expected loss despite scrutiny over AI spending",
-      "link": "https://finance.yahoo.com/m/de118328-8e61-39fa-9780-45821dcb4a03/spacex-posts.html",
-      "publisher": "Euronews",
-      "time": 1785915762,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "82f8cd34-c8ec-39bd-9c35-d5ac1b8d786f",
-      "title": "White House AI Framework Excludes Open-Weight Models From Federal Security Review, Creating Structural Competitive Asymmetry",
-      "link": "https://finance.yahoo.com/m/82f8cd34-c8ec-39bd-9c35-d5ac1b8d786f/white-house-ai-framework.html",
-      "publisher": "Forkast News",
-      "time": 1785915560,
-      "impact": "high",
       "tags": [
-        "geo",
         "macro"
+      ]
+    },
+    {
+      "id": "15ac3a25-7aed-3a82-936d-c5f3f199bc23",
+      "title": "United Therapeutics: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/healthcare/articles/united-therapeutics-q2-earnings-snapshot-103844083.html",
+      "publisher": "Associated Press",
+      "time": 1785926324,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "3fab9d5a-5cad-374e-96f7-0c8f9854ab14",
+      "title": "CVS Health: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/healthcare/articles/cvs-health-q2-earnings-snapshot-103843108.html",
+      "publisher": "Associated Press",
+      "time": 1785926323,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "8ff52212-5f2a-36f5-944c-ce5f133099b3",
+      "title": "Choice Hotels: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/choice-hotels-q2-earnings-snapshot-103843235.html",
+      "publisher": "Associated Press",
+      "time": 1785926323,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a83454cf-d2de-35e3-a032-37730ef7ae4f",
+      "title": "Bloomin' Brands: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bloomin-brands-q2-earnings-snapshot-103842527.html",
+      "publisher": "Associated Press",
+      "time": 1785926322,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "bf133f04-15f9-4908-a0c2-14d0c5d164a3",
+      "title": "Disney's Q3 earnings top estimates on demand for experiences, company exits A+E Media stake",
+      "link": "https://finance.yahoo.com/markets/stocks/article/disneys-q3-earnings-top-estimates-on-demand-for-experiences-company-exits-ae-media-stake-103619379.html",
+      "publisher": "Yahoo Finance",
+      "time": 1785926179,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
       ]
     }
   ],
