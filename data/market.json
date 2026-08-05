@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T16:59:02.636895+00:00",
+  "updatedAt": "2026-08-05T18:23:59.372788+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7742.33,
-      "change": 141.82999999999993,
-      "changePct": 1.866061443326096,
+      "price": 7741.92,
+      "change": 141.42000000000007,
+      "changePct": 1.8606670613775418,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26501.695,
-      "change": 587.7949999999983,
-      "changePct": 2.268261434982763,
+      "price": 26455.805,
+      "change": 541.9049999999988,
+      "changePct": 2.091175006463708,
       "currency": "USD"
     },
     {
@@ -44,114 +44,104 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.01,
-      "change": -0.48999999999999844,
-      "changePct": -2.9696969696969604,
+      "price": 15.78,
+      "change": -0.7200000000000006,
+      "changePct": -4.363636363636368,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "e6a3c32a-d985-3971-95e7-f59cd8a7158a",
-      "title": "Michael Burry Drops Shocking Take on AI Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-drops-shocking-ai-165752178.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785949072,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "deda1e6e-9e91-3231-8173-f89fea0366d4",
-      "title": "Mitsubishi to launch midsize, compact Pajero models by 2028",
-      "link": "https://finance.yahoo.com/m/deda1e6e-9e91-3231-8173-f89fea0366d4/mitsubishi-to-launch-midsize%2C.html",
-      "publisher": "Just Auto",
-      "time": 1785949010,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "66485bee-1824-3939-aaed-d338b28ae93c",
-      "title": "Disney profits top estimates on strength in theme park business",
-      "link": "https://finance.yahoo.com/media-advertising/articles/disney-profits-top-estimates-strength-165647580.html",
+      "id": "b6984e31-cd7c-3b02-8007-566e72eb8642",
+      "title": "Man arrested at Trump's LA golf course faces firearms charge",
+      "link": "https://finance.yahoo.com/m/b6984e31-cd7c-3b02-8007-566e72eb8642/man-arrested-at-trump%27s-la.html",
       "publisher": "AFP",
-      "time": 1785949007,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "time": 1785953877,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "2021f3e2-158d-34f1-8a38-0a0f01c0417a",
-      "title": "Last Chance – 5 Dividend Stocks You Must Buy This Week to Get Paid in August",
-      "link": "https://finance.yahoo.com/m/2021f3e2-158d-34f1-8a38-0a0f01c0417a/last-chance-%E2%80%93-5-dividend.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1785948931,
+      "id": "0a1f6272-50e6-31e6-83a3-72a3367ce8cf",
+      "title": "New York Times Stock Sinks 13% as Subscriber Growth Slows",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/york-times-stock-sinks-13-181741335.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785953861,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "abb8dc38-3c19-3ab6-9173-8cad0cc12fcb",
+      "title": "Need a drink at the happiest place on earth? Disneyland is raising cocktail prices to $20 (or more)",
+      "link": "https://finance.yahoo.com/economy/articles/drink-happiest-place-earth-disneyland-181500019.html",
+      "publisher": "Moneywise",
+      "time": 1785953700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1fef48ee-5748-3de0-bf30-104412a740fb",
+      "title": "Wall Street Doubles Down on AMD After Selloff",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-doubles-down-amd-181434747.html",
+      "publisher": "GuruFocus.com",
+      "time": 1785953674,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "95a636a4-4801-3f8a-b6d8-e5269c1575e9",
+      "title": "3-year-old dies after getting head stuck in kitchen playset",
+      "link": "https://finance.yahoo.com/m/95a636a4-4801-3f8a-b6d8-e5269c1575e9/3-year-old-dies-after-getting.html",
+      "publisher": "USA TODAY",
+      "time": 1785953633,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a260f999-46f5-37c4-86aa-14845570d06b",
+      "title": "Crews remove the granite seal on the White House helipad, signaling potential project delays",
+      "link": "https://finance.yahoo.com/m/a260f999-46f5-37c4-86aa-14845570d06b/crews-remove-the-granite-seal.html",
+      "publisher": "Associated Press",
+      "time": 1785953611,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "64db8cfa-9ca8-3632-87f3-dfdee4deee0c",
+      "title": "BNP Paribas Lowers Uber Technologies Price Target to $106 From $108",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-lowers-uber-technologies-181329260.html",
+      "publisher": "MT Newswires",
+      "time": 1785953609,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b00d274f-1623-3365-8243-6b6006555145",
+      "title": "Multiple dead in shooting at North Carolina home, officials say",
+      "link": "https://finance.yahoo.com/m/b00d274f-1623-3365-8243-6b6006555145/multiple-dead-in-shooting-at.html",
+      "publisher": "USA TODAY",
+      "time": 1785953609,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "62ab275f-cee4-31c6-9695-ac1baf452066",
+      "title": "Embattled FIFA chief Infantino in emergency talks, suffers Figo blow",
+      "link": "https://finance.yahoo.com/m/62ab275f-cee4-31c6-9695-ac1baf452066/embattled-fifa-chief.html",
+      "publisher": "AFP",
+      "time": 1785953596,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7275240b-0d73-3bfb-9ca7-1aaae03daaca",
+      "title": "Market Chatter: Boeing, Lockheed JV Seeking $500 Million via Private Bond Placement",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-boeing-lockheed-jv-181314682.html",
+      "publisher": "MT Newswires",
+      "time": 1785953594,
       "impact": "low",
       "tags": [
         "macro"
       ]
-    },
-    {
-      "id": "7b1a0814-e4b6-3c96-bf36-670317ca4b80",
-      "title": "The Real Reason Berkshire Sold Every Amazon Share Has Nothing to Do With Amazon",
-      "link": "https://finance.yahoo.com/m/7b1a0814-e4b6-3c96-bf36-670317ca4b80/the-real-reason-berkshire.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1785948906,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "14b0b693-49ed-3713-b640-e041829626ae",
-      "title": "GM, SAIC extend China joint venture through to 2047",
-      "link": "https://finance.yahoo.com/m/14b0b693-49ed-3713-b640-e041829626ae/gm%2C-saic-extend-china-joint.html",
-      "publisher": "Just Auto",
-      "time": 1785948873,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "638dd002-8779-383f-bbb6-7ecfb2ca6b35",
-      "title": "SolarEdge forecasts weaker Q3 as US residential market remains challenging",
-      "link": "https://finance.yahoo.com/m/638dd002-8779-383f-bbb6-7ecfb2ca6b35/solaredge-forecasts-weaker-q3.html",
-      "publisher": "Proactive",
-      "time": 1785948780,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "6acb6c70-2455-39ea-b922-789166880d7e",
-      "title": "Airline stops selling tickets, all flights canceled",
-      "link": "https://finance.yahoo.com/m/6acb6c70-2455-39ea-b922-789166880d7e/airline-stops-selling.html",
-      "publisher": "TheStreet",
-      "time": 1785948708,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "25e8f82e-2a25-317b-8b18-8106808ebe32",
-      "title": "Major Wall Street hedge funds targeted in attempted cyberattacks, Bloomberg News reports",
-      "link": "https://finance.yahoo.com/technology/ai/articles/major-wall-street-hedge-funds-165040922.html",
-      "publisher": "Reuters",
-      "time": 1785948640,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7147599a-b900-363b-a027-9e5a31a25dbf",
-      "title": "Alphabet's Google Must Face UK Advertising Class Action, Tribunal Rules",
-      "link": "https://finance.yahoo.com/media-advertising/articles/alphabet-apos-google-must-face-165013367.html",
-      "publisher": "MT Newswires",
-      "time": 1785948613,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
