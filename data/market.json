@@ -1,71 +1,107 @@
 {
-  "updatedAt": "2026-08-06T12:53:14.311475+00:00",
+  "updatedAt": "2026-08-06T15:09:39.107988+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20263.2,
-      "change": 206.20000000000073,
-      "changePct": 1.0280700004985825,
+      "price": 20279.1,
+      "change": 222.09999999999854,
+      "changePct": 1.1073440694021965,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7723.55,
-      "change": 123.05000000000018,
-      "changePct": 1.6189724360239484,
+      "price": 7728.97,
+      "change": -7.550000000000182,
+      "changePct": -0.09758909690662186,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26363.44,
-      "change": 449.53999999999724,
-      "changePct": 1.734744673707922,
+      "price": 26443.705,
+      "change": -141.28499999999985,
+      "changePct": -0.5314465042115865,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26169.89,
-      "change": -32.45999999999913,
-      "changePct": -0.12388201821592006,
+      "price": 26196.67,
+      "change": -5.680000000000291,
+      "changePct": -0.021677444961998794,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6508.58,
-      "change": 31.600000000000364,
-      "changePct": 0.4878816979518289,
+      "price": 6521.83,
+      "change": 44.850000000000364,
+      "changePct": 0.6924523466183371,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.85,
-      "change": 0.03999999999999915,
-      "changePct": 0.2530044275774772,
+      "price": 15.41,
+      "change": -0.40000000000000036,
+      "changePct": -2.5300442757748285,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "2ffe5b7e-4a31-3a78-8dfc-2067a5729b20",
-      "title": "SanDisk Shares Plunge After Q1 Outlook Disappoints",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-shares-plunge-q1-outlook-124704368.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786020424,
+      "id": "498d347a-1bce-32ab-b2cc-119753019eac",
+      "title": "Medtronic’s ablation system lands ventricular arrhythmia indication expansion in Europe",
+      "link": "https://finance.yahoo.com/m/498d347a-1bce-32ab-b2cc-119753019eac/medtronic%E2%80%99s-ablation-system.html",
+      "publisher": "Medical Device Network",
+      "time": 1786028696,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bf7fd6f7-36d8-3e25-829a-1542947af5ec",
-      "title": "SpaceX Unlocks Massive Wave of Shares After Post-IPO Lockup Expires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-unlocks-massive-wave-shares-124615460.html",
+      "id": "cb90b7fe-f02e-3b6e-b4b3-cc35b002e0d4",
+      "title": "Allianz to buy UOB’s asset management arm for $432.8m",
+      "link": "https://finance.yahoo.com/m/cb90b7fe-f02e-3b6e-b4b3-cc35b002e0d4/allianz-to-buy-uob%E2%80%99s-asset.html",
+      "publisher": "Life Insurance International",
+      "time": 1786028585,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e014d7e7-ca9e-34ae-9ca2-90b6f7dbbdaf",
+      "title": "PACHA Makes Back-to-School Easier for Gluten-Free Families with New Foods, Free Resources and Breakfast Inspiration",
+      "link": "https://finance.yahoo.com/healthcare/articles/pacha-makes-back-school-easier-150300695.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786028580,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ec716601-181c-3a75-9511-4b9d4a3ce64f",
+      "title": "SCWorx Announces New Two-Year Agreement with One of Massachusetts’ Largest Integrated Delivery Networks",
+      "link": "https://finance.yahoo.com/healthcare/articles/scworx-announces-two-agreement-one-150300855.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786028580,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fb1745fc-a398-34a5-8fb8-0c4b66c4f5c9",
+      "title": "Informa's Waste Group Continues to Lead Global Waste and Recycling Industry with Comprehensive Platform",
+      "link": "https://finance.yahoo.com/energy/articles/informas-waste-group-continues-lead-150300345.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786028580,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ddccb633-bf89-3ff3-bd4b-9a391242c934",
+      "title": "Adecco Group AG (AHEXY) (Q2 2026) Earnings Call Highlights: Strong Revenue Growth and AI-Driven ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adecco-group-ag-ahexy-q2-150219524.html",
       "publisher": "GuruFocus.com",
-      "time": 1786020375,
+      "time": 1786028539,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,11 +109,11 @@
       ]
     },
     {
-      "id": "fa72c1a3-84b7-3884-bde6-982e20960555",
-      "title": "Axon Beat Estimates and Raised Guidance, Shares Dropped",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/axon-beat-estimates-raised-guidance-124507717.html",
+      "id": "73604a2a-60ce-3cbd-b990-7e78d3338281",
+      "title": "Siemens AG (SIEGY) (Q3 2026) Earnings Call Highlights: Record Orders and Raised Guidance Signal ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/siemens-ag-siegy-q3-2026-150204809.html",
       "publisher": "GuruFocus.com",
-      "time": 1786020307,
+      "time": 1786028524,
       "impact": "medium",
       "tags": [
         "macro",
@@ -85,70 +121,32 @@
       ]
     },
     {
-      "id": "71a9a991-ba33-3185-bcfd-de8709e410a1",
-      "title": "BTB Announces its Distribution for the Month of August 2026",
-      "link": "https://finance.yahoo.com/real-estate/articles/btb-announces-distribution-month-august-124500737.html",
-      "publisher": "CNW Group",
-      "time": 1786020300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d54f7828-8f4e-3cf4-a55d-a97df437461c",
-      "title": "Cathie Wood Makes $17.6 Million Bet on Red-Hot AI Chip Stock",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-makes-17-6-124347156.html",
+      "id": "acc1070b-7be4-3697-8f55-0e3cbaaa3ef3",
+      "title": "KBC Groupe NV (KBCSF) (Q2 2026) Earnings Call Highlights: Record Profit and Raised Guidance ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kbc-groupe-nv-kbcsf-q2-150204667.html",
       "publisher": "GuruFocus.com",
-      "time": 1786020227,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8b7568e4-50f5-33bf-89a6-0041a845547c",
-      "title": "Canadian Investment Regulatory Organization Trading Halt - AITT",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-investment-regulatory-organization-trading-124300588.html",
-      "publisher": "CNW Group",
-      "time": 1786020180,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c0112cc2-09d0-372a-ab34-7a1d2f309ea1",
-      "title": "Pusan National University Introduces ASTRA-Net for Improved Lung Airway Mapping",
-      "link": "https://finance.yahoo.com/healthcare/articles/pusan-national-university-introduces-astra-124300289.html",
-      "publisher": "PR Newswire",
-      "time": 1786020180,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d410489d-e520-31f6-95ae-b04f5cabc8ba",
-      "title": "OpenAI moves to dismiss Apple trade secrets lawsuit",
-      "link": "https://finance.yahoo.com/m/d410489d-e520-31f6-95ae-b04f5cabc8ba/openai-moves-to-dismiss-apple.html",
-      "publisher": "Quartz",
-      "time": 1786020170,
+      "time": 1786028524,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "d38b2e5e-81a3-382a-8011-3e310c0f1f8b",
-      "title": "UK clears Paramount's takeover of Warner Bros",
-      "link": "https://finance.yahoo.com/media-advertising/articles/uk-clears-paramounts-takeover-warner-124247243.html",
-      "publisher": "AFP",
-      "time": 1786020167,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
+      "id": "df98e5a9-e81d-3c69-a256-c5944f3e2033",
+      "title": "Genmab Announces Financial Results for the First Half of 2026",
+      "link": "https://finance.yahoo.com/healthcare/articles/genmab-announces-financial-results-first-150200291.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786028520,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "786ee4d7-d4c1-31a2-876f-42e58d681c63",
-      "title": "Stock Market Today: Dow Rises, Nasdaq Falls As AI Stocks Sandisk, Western Digital Plunge On Earnings (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/786ee4d7-d4c1-31a2-876f-42e58d681c63/stock-market-today%3A-dow.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1786020154,
+      "id": "7f91b735-c020-36aa-b44c-cc21f09efa0b",
+      "title": "OC Oerlikon Corp AG, Pfaffikon (OERLY) (H1 2026) Earnings Call Highlights: Strong Order Growth ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oc-oerlikon-corp-ag-pfaffikon-150151443.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786028511,
       "impact": "medium",
       "tags": [
         "macro",
