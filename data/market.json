@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-06T07:59:24.577183+00:00",
+  "updatedAt": "2026-08-06T10:44:40.341020+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20250.3,
-      "change": 193.29999999999927,
-      "changePct": 0.9637533030862008,
+      "price": 20263.2,
+      "change": 206.20000000000073,
+      "changePct": 1.0280700004985825,
       "currency": "EUR"
     },
     {
@@ -28,53 +28,53 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26141.35,
-      "change": -61.0,
-      "changePct": -0.23280354624680613,
+      "price": 26169.89,
+      "change": -32.45999999999913,
+      "changePct": -0.12388201821592006,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6502.87,
-      "change": 25.890000000000327,
-      "changePct": 0.3997233278472425,
+      "price": 6508.58,
+      "change": 31.600000000000364,
+      "changePct": 0.4878816979518289,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.9,
-      "change": 0.08999999999999986,
-      "changePct": 0.5692599620493349,
+      "price": 15.85,
+      "change": 0.03999999999999915,
+      "changePct": 0.2530044275774772,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "481c4861-be99-3e8b-bdcc-ded73213ca05",
-      "title": "Rubrik Insider Sold Shares Worth $3,045,575, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rubrik-insider-sold-shares-worth-075458589.html",
-      "publisher": "MT Newswires",
-      "time": 1786002898,
+      "id": "e667c997-81f3-3a17-8881-2c904d2850ae",
+      "title": "ECOnnect Energy to supply FLNG terminal for Bahamas project",
+      "link": "https://finance.yahoo.com/m/e667c997-81f3-3a17-8881-2c904d2850ae/econnect-energy-to-supply.html",
+      "publisher": "Offshore Technology",
+      "time": 1786012809,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7e75db5e-d378-3509-b66a-e1666d0d7eb2",
-      "title": "Cloudflare Insider Sold Shares Worth $14,846,244, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-insider-sold-shares-worth-075407890.html",
-      "publisher": "MT Newswires",
-      "time": 1786002847,
+      "id": "9ee166ba-28e5-3b96-a23e-21bf1c420b8e",
+      "title": "Physitrack PLC - Notification of Managers' Transactions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/physitrack-plc-notification-managers-transactions-104000574.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786012800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e78ecdbc-2dba-353b-a2ad-5063c01b5bf5",
-      "title": "Arcosa Q2 Adjusted Earnings, Revenue Rise",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/arcosa-q2-adjusted-earnings-revenue-075324613.html",
-      "publisher": "MT Newswires",
-      "time": 1786002804,
+      "id": "d1f0b214-9d9c-3a84-98e8-beb424d3f560",
+      "title": "Restaurant Brands: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/restaurant-brands-q2-earnings-snapshot-103959792.html",
+      "publisher": "Associated Press",
+      "time": 1786012799,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,67 +82,68 @@
       ]
     },
     {
-      "id": "4c7d48d0-c2ac-30bf-9cad-09e8af3b66e8",
-      "title": "Roku Insider Sold Shares Worth $2,997,026, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/roku-insider-sold-shares-worth-075059944.html",
-      "publisher": "MT Newswires",
-      "time": 1786002659,
+      "id": "64d0136a-a3e2-3146-acb0-1032140ef3e3",
+      "title": "Form 8.3",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-103800539.html",
+      "publisher": "Business Wire",
+      "time": 1786012680,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4fb92e3b-1cfc-351f-8141-c5f87516986d",
-      "title": "Schwab Charles Insider Sold Shares Worth $2,408,036, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/schwab-charles-insider-sold-shares-074955477.html",
-      "publisher": "MT Newswires",
-      "time": 1786002595,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e243bdcb-606c-33bd-bf86-9e0fa8a9e2da",
-      "title": "DEMIRE Deutsche Mittelstand Real Estate AG: Preliminary announcement of the publication of financial reports according to Articles 114, 115, 117 of the WpHG [the German Securities Act]",
-      "link": "https://finance.yahoo.com/real-estate/articles/demire-deutsche-mittelstand-real-estate-074800818.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786002480,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c8079237-b025-3924-b010-2db47ae99d69",
-      "title": "Sprouts Farmers Market Insider Sold Shares Worth $1,900,121, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sprouts-farmers-market-insider-sold-074558873.html",
-      "publisher": "MT Newswires",
-      "time": 1786002358,
-      "impact": "low",
+      "id": "6a6395eb-2f3f-3f9d-b872-78fad1a9e03f",
+      "title": "Legget & Platt: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/legget-platt-q2-earnings-snapshot-103759447.html",
+      "publisher": "Associated Press",
+      "time": 1786012679,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "2076ab77-a8e3-3579-8d86-7ee93acc30df",
-      "title": "Cloudflare Insider Sold Shares Worth $9,958,254, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-insider-sold-shares-worth-074432271.html",
+      "id": "d221ef27-0424-3cc7-80ec-0a77e7f1a425",
+      "title": "Daiwa Securities Adjusts Price Target on Mastercard to $650 From $580, Maintains Outperform Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/daiwa-securities-adjusts-price-target-103759661.html",
       "publisher": "MT Newswires",
-      "time": 1786002272,
+      "time": 1786012679,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b1de06c0-c4fe-314f-9ce9-409779cde579",
-      "title": "Procore Technologies Insider Sold Shares Worth $1,267,983, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/procore-technologies-insider-sold-shares-074037305.html",
+      "id": "3b5c218f-567a-3db3-bb0d-62653747fd89",
+      "title": "Morgan Stanley Adjusts Price Target on Ashland to $78 From $58, Maintains Equalweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-103737745.html",
       "publisher": "MT Newswires",
-      "time": 1786002037,
+      "time": 1786012657,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7330a14b-c6bc-3574-8476-72ec0e0fd804",
-      "title": "Duolingo Q2 Net Income Fall, Revenue Rises",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/duolingo-q2-net-income-fall-074032788.html",
+      "id": "b30821af-74af-3c9d-8455-b5e4cc038690",
+      "title": "Morgan Stanley Adjusts Price Target on GlobalFoundries to $60 From $57, Maintains Equalweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-103722344.html",
       "publisher": "MT Newswires",
-      "time": 1786002032,
+      "time": 1786012642,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "14ccffe9-83f3-3a5f-b32a-7a5e700bbd1a",
+      "title": "Morgan Stanley Adjusts Price Target on Figma to $33 From $38, Maintains Equalweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-103709554.html",
+      "publisher": "MT Newswires",
+      "time": 1786012629,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7826a77d-8570-39a3-971d-cd9349c9c109",
+      "title": "Morgan Stanley Adjusts Price Target on Dynatrace to $58 From $40, Maintains Equalweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-103656553.html",
+      "publisher": "MT Newswires",
+      "time": 1786012616,
       "impact": "low",
       "tags": []
     }
