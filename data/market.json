@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T23:54:27.991713+00:00",
+  "updatedAt": "2026-08-06T01:59:04.154400+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,32 +52,11 @@
   ],
   "news": [
     {
-      "id": "65265246-9416-3528-a36f-3aecebb10cd5",
-      "title": "Disney Reaffirms Double-Digit Earnings Growth, Targets $9 Billion in Buybacks. Here’s What Investors Need to Know.",
-      "link": "https://finance.yahoo.com/m/65265246-9416-3528-a36f-3aecebb10cd5/disney-reaffirms-double-digit.html",
-      "publisher": "Motley Fool",
-      "time": 1785973830,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "5f2e817a-455c-32dc-ae3d-ec3eeb00997f",
-      "title": "Meta Platforms Launches Muse Code AI Coding Tool Powered by Muse Spark 1.2",
-      "link": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-launches-muse-code-235028991.html",
-      "publisher": "MT Newswires",
-      "time": 1785973828,
-      "impact": "low",
-      "tags": []
-    },
-    {
       "id": "23f39a0c-7e02-33c1-8c52-010f887f1807",
       "title": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
       "link": "https://finance.yahoo.com/m/23f39a0c-7e02-33c1-8c52-010f887f1807/dow-jones-futures%3A-nvidia.html",
       "publisher": "Investor's Business Daily",
-      "time": 1785973784,
+      "time": 1785981023,
       "impact": "medium",
       "tags": [
         "macro",
@@ -85,29 +64,29 @@
       ]
     },
     {
-      "id": "f159d42c-486e-36de-abc4-7ae7dcc977c6",
-      "title": "A Life360 Director Sold Stock at Exactly $60. Here's What Long-Term Investors Should Know",
-      "link": "https://finance.yahoo.com/m/f159d42c-486e-36de-abc4-7ae7dcc977c6/a-life360-director-sold-stock.html",
-      "publisher": "Motley Fool",
-      "time": 1785973733,
+      "id": "872a3d4b-c77f-3d1d-b07a-3f98dc30ef74",
+      "title": "Asia multi-strategy hedge funds see big monthly drawdowns",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asia-multi-strategy-hedge-funds-105811980.html",
+      "publisher": "Reuters",
+      "time": 1785980844,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c5b56f55-7514-3427-9485-6ad1b3bfee9b",
-      "title": "UPDATE - LifeMD Reports Second Quarter 2026 Results",
-      "link": "https://finance.yahoo.com/healthcare/articles/lifemd-reports-second-quarter-2026-234500491.html",
-      "publisher": "GlobeNewswire",
-      "time": 1785973500,
+      "id": "09e0401a-ac5d-353e-bb64-1edc0212bc05",
+      "title": "New luxury hotel hopes to become gateway to Antarctica",
+      "link": "https://finance.yahoo.com/m/09e0401a-ac5d-353e-bb64-1edc0212bc05/new-luxury-hotel-hopes-to.html",
+      "publisher": "TheStreet",
+      "time": 1785980820,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0035b4a2-1e5b-39ae-8fdf-bc1ff2c492f8",
-      "title": "Market Chatter: Chinese Spyware Tool LightSpy Now Active in 13-Plus Countries",
-      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-chinese-spyware-tool-234258104.html",
-      "publisher": "MT Newswires",
-      "time": 1785973378,
+      "id": "63971369-49ea-345d-9aa6-5e319d10b804",
+      "title": "Fed's Daly says central bank was right to hold rates steady at July policy meeting",
+      "link": "https://finance.yahoo.com/economy/policy/articles/feds-daly-says-central-bank-011816940.html",
+      "publisher": "Reuters",
+      "time": 1785980752,
       "impact": "high",
       "tags": [
         "geo",
@@ -115,46 +94,58 @@
       ]
     },
     {
-      "id": "2afcafb4-1ebf-3882-b317-5d4f8891c2f8",
-      "title": "Manulife: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/manulife-q2-earnings-snapshot-234254208.html",
-      "publisher": "Associated Press",
-      "time": 1785973374,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "fffa2c0d-1f97-3aae-976d-2e88dddb6958",
-      "title": "A Life360 Founder Sold $1.7 Million in Stock. Here's What Long-Term Investors Should Know",
-      "link": "https://finance.yahoo.com/m/fffa2c0d-1f97-3aae-976d-2e88dddb6958/a-life360-founder-sold-%241.7.html",
-      "publisher": "Motley Fool",
-      "time": 1785973327,
+      "id": "3fb63007-b7bb-30b4-a5d7-5426941330c2",
+      "title": "India youth protests highlight mistrust in 'lapdog' media",
+      "link": "https://finance.yahoo.com/m/3fb63007-b7bb-30b4-a5d7-5426941330c2/india-youth-protests.html",
+      "publisher": "AFP",
+      "time": 1785980614,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "72235828-ab67-39a2-8cd5-f33cdf5dfa5f",
-      "title": "Taranis Identifies a Hydrothermally Altered, Sulfide-Bearing Intrusive Stock Associated with Historic Gold-Silver Occurrence and Connected to Thor",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/taranis-identifies-hydrothermally-altered-sulfide-234000247.html",
+      "id": "73ecf326-aecf-38e8-b46c-0dde9285d84e",
+      "title": "Circle’s USDC volume jumps 151%, but revenue tells different story",
+      "link": "https://finance.yahoo.com/m/73ecf326-aecf-38e8-b46c-0dde9285d84e/circle%E2%80%99s-usdc-volume-jumps.html",
+      "publisher": "TheStreet",
+      "time": 1785980220,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4b84777d-196f-3317-b0b6-f8c3208f2664",
+      "title": "Infor Appoints Yuka Kanemitsu as President and Representative Director of Infor Japan to Accelerate Industry Cloud Growth and AI-Driven Business Transformation",
+      "link": "https://finance.yahoo.com/technology/ai/articles/infor-appoints-yuka-kanemitsu-president-013600060.html",
+      "publisher": "PR Newswire",
+      "time": 1785980160,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6c3bd345-8540-3b39-93c0-ee7fc84c8fad",
+      "title": "Tunkillia Upgrade Drilling – 39,000m Phase 2 Complete Targeting JORC Resource Classification Upgrades; PFS Underway",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/tunkillia-upgrade-drilling-39-000m-013500861.html",
       "publisher": "ACCESS Newswire",
-      "time": 1785973200,
+      "time": 1785980100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1e9f197e-55cc-365a-aded-c2665cc6bfeb",
-      "title": "Shipowners Warn Hormuz Tolls Could Spur Charges at Other Maritime Chokepoints",
-      "link": "https://finance.yahoo.com/energy/articles/shipowners-warn-hormuz-tolls-could-233800235.html",
-      "publisher": "MT Newswires",
-      "time": 1785973080,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
+      "id": "27ef4a3c-fba9-362e-a970-3965371105d3",
+      "title": "What to know about the suspect in Spokane wildfires",
+      "link": "https://finance.yahoo.com/m/27ef4a3c-fba9-362e-a970-3965371105d3/what-to-know-about-the.html",
+      "publisher": "USA TODAY",
+      "time": 1785979966,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "afc98ba5-5e0c-34b8-9a34-bced374bcaa4",
+      "title": "Rising Kenyan lakes push crocodiles closer to homes",
+      "link": "https://finance.yahoo.com/m/afc98ba5-5e0c-34b8-9a34-bced374bcaa4/rising-kenyan-lakes-push.html",
+      "publisher": "AFP",
+      "time": 1785979785,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
