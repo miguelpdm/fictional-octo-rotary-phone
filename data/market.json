@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-06T05:21:24.811309+00:00",
+  "updatedAt": "2026-08-06T07:59:24.577183+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20057.0,
-      "change": 33.400000000001455,
-      "changePct": 0.16680317225674432,
+      "price": 20250.3,
+      "change": 193.29999999999927,
+      "changePct": 0.9637533030862008,
       "currency": "EUR"
     },
     {
@@ -28,35 +28,53 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26126.3,
-      "change": 124.98999999999796,
-      "changePct": 0.48070654901617627,
+      "price": 26141.35,
+      "change": -61.0,
+      "changePct": -0.23280354624680613,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6476.98,
-      "change": -9.720000000000255,
-      "changePct": -0.1498450675998621,
+      "price": 6502.87,
+      "change": 25.890000000000327,
+      "changePct": 0.3997233278472425,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.81,
-      "change": -0.6899999999999995,
-      "changePct": -4.181818181818179,
+      "price": 15.9,
+      "change": 0.08999999999999986,
+      "changePct": 0.5692599620493349,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "36da7f1c-6577-3189-8340-76a4d625cf3c",
-      "title": "Herbalife Ltd (HLF) (Q2 2026) Earnings Call Highlights: Fourth Consecutive Quarter of Net Sales ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/herbalife-ltd-hlf-q2-2026-051552388.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785993352,
+      "id": "481c4861-be99-3e8b-bdcc-ded73213ca05",
+      "title": "Rubrik Insider Sold Shares Worth $3,045,575, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rubrik-insider-sold-shares-worth-075458589.html",
+      "publisher": "MT Newswires",
+      "time": 1786002898,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7e75db5e-d378-3509-b66a-e1666d0d7eb2",
+      "title": "Cloudflare Insider Sold Shares Worth $14,846,244, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-insider-sold-shares-worth-075407890.html",
+      "publisher": "MT Newswires",
+      "time": 1786002847,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e78ecdbc-2dba-353b-a2ad-5063c01b5bf5",
+      "title": "Arcosa Q2 Adjusted Earnings, Revenue Rise",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arcosa-q2-adjusted-earnings-revenue-075324613.html",
+      "publisher": "MT Newswires",
+      "time": 1786002804,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,112 +82,69 @@
       ]
     },
     {
-      "id": "eac56c41-4c47-38e8-9c04-0c0999ba4fda",
-      "title": "Western Digital Corp (WDC) (Q4 2026) Earnings Call Highlights: Record Revenue and EPS Soar on ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-corp-wdc-q4-051531706.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785993331,
-      "impact": "medium",
+      "id": "4c7d48d0-c2ac-30bf-9cad-09e8af3b66e8",
+      "title": "Roku Insider Sold Shares Worth $2,997,026, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/roku-insider-sold-shares-worth-075059944.html",
+      "publisher": "MT Newswires",
+      "time": 1786002659,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4fb92e3b-1cfc-351f-8141-c5f87516986d",
+      "title": "Schwab Charles Insider Sold Shares Worth $2,408,036, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/schwab-charles-insider-sold-shares-074955477.html",
+      "publisher": "MT Newswires",
+      "time": 1786002595,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e243bdcb-606c-33bd-bf86-9e0fa8a9e2da",
+      "title": "DEMIRE Deutsche Mittelstand Real Estate AG: Preliminary announcement of the publication of financial reports according to Articles 114, 115, 117 of the WpHG [the German Securities Act]",
+      "link": "https://finance.yahoo.com/real-estate/articles/demire-deutsche-mittelstand-real-estate-074800818.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786002480,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c8079237-b025-3924-b010-2db47ae99d69",
+      "title": "Sprouts Farmers Market Insider Sold Shares Worth $1,900,121, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sprouts-farmers-market-insider-sold-074558873.html",
+      "publisher": "MT Newswires",
+      "time": 1786002358,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "aa6a8fc5-6819-3e56-8ea4-b568f6be1b0b",
-      "title": "McKesson Corp (MCK) (Q1 2027) Earnings Call Highlights: Robust Revenue Growth and Raised ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/mckesson-corp-mck-q1-2027-051456563.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785993296,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "2076ab77-a8e3-3579-8d86-7ee93acc30df",
+      "title": "Cloudflare Insider Sold Shares Worth $9,958,254, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-insider-sold-shares-worth-074432271.html",
+      "publisher": "MT Newswires",
+      "time": 1786002272,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "e510b634-54c4-3f81-800f-0543d3ac0dc2",
-      "title": "Expedia Group Inc (EXPE) (Q2 2026) Earnings Call Highlights: Record Growth and Strategic Expansion",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/expedia-group-inc-expe-q2-051329986.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785993209,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "b1de06c0-c4fe-314f-9ce9-409779cde579",
+      "title": "Procore Technologies Insider Sold Shares Worth $1,267,983, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/procore-technologies-insider-sold-shares-074037305.html",
+      "publisher": "MT Newswires",
+      "time": 1786002037,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "058524f1-3022-3c26-87b4-70e26325a445",
-      "title": "Magnite Inc (MGNI) (Q2 2026) Earnings Call Highlights: CTV Surges 36% as Company Raises ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/magnite-inc-mgni-q2-2026-051258557.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785993178,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "7db85d61-9b8d-3649-b359-fc9e59529f8f",
-      "title": "HubSpot Inc (HUBS) (Q2 2026) Earnings Call Highlights: AI Adoption Surges Amidst Cautious ...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/hubspot-inc-hubs-q2-2026-051232063.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785993152,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "09aece27-f301-35c4-8f3a-bc8af357c148",
-      "title": "Sunrun Inc (RUN) (Q2 2026) Earnings Call Highlights: Record Storage Attachment Rate and ...",
-      "link": "https://finance.yahoo.com/energy/articles/sunrun-inc-run-q2-2026-051202928.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785993122,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "50cbbe03-0e50-344c-8554-353759592dcb",
-      "title": "Onterris Inc (ONT) (Q2 2026) Earnings Call Highlights: Margin Expansion Offsets Revenue Headwinds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/onterris-inc-ont-q2-2026-051157139.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785993117,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "ef3bc3a0-d40d-3e72-9844-8e59d94f2385",
-      "title": "eBay Inc (EBAY) (Q2 2026) Earnings Call Highlights: GMV and Revenue Surge 14% as Strategic ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ebay-inc-ebay-q2-2026-051149469.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785993109,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "5b744070-c64e-35b9-b5c9-e215aabb66ba",
-      "title": "Power Integrations Inc (POWI) (Q2 2026) Earnings Call Highlights: Revenue Growth and Margin ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/power-integrations-inc-powi-q2-051141986.html",
-      "publisher": "GuruFocus.com",
-      "time": 1785993101,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "7330a14b-c6bc-3574-8476-72ec0e0fd804",
+      "title": "Duolingo Q2 Net Income Fall, Revenue Rises",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/duolingo-q2-net-income-fall-074032788.html",
+      "publisher": "MT Newswires",
+      "time": 1786002032,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
