@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-07T08:33:12.970855+00:00",
+  "updatedAt": "2026-08-07T09:55:12.152674+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20060.2,
-      "change": -120.20000000000073,
-      "changePct": -0.5956274404868125,
+      "price": 20173.3,
+      "change": -7.100000000002183,
+      "changePct": -0.03518265247468921,
       "currency": "EUR"
     },
     {
@@ -28,53 +28,91 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26249.83,
-      "change": 123.53000000000247,
-      "changePct": 0.47281857744878714,
+      "price": 26300.4,
+      "change": 174.10000000000218,
+      "changePct": 0.6663783237580606,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6514.69,
-      "change": 12.1299999999992,
-      "changePct": 0.18654191579930365,
+      "price": 6531.72,
+      "change": 29.159999999999854,
+      "changePct": 0.4484387687310821,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.26,
-      "change": 0.10999999999999943,
-      "changePct": 0.7260726072607223,
+      "price": 15.29,
+      "change": 0.1399999999999988,
+      "changePct": 0.9240924092409162,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "2694f9d4-30f1-3d11-b4a0-cbcf6c0a8ff1",
-      "title": "BP agrees to buy Woodside’s 70% stake in Calypso gas project",
-      "link": "https://finance.yahoo.com/m/2694f9d4-30f1-3d11-b4a0-cbcf6c0a8ff1/bp-agrees-to-buy-woodside%E2%80%99s.html",
-      "publisher": "Offshore Technology",
-      "time": 1786091446,
+      "id": "e88d5bab-674b-358c-995b-7296735c7b74",
+      "title": "Health Canada approves Kardium’s Globe pulsed field system",
+      "link": "https://finance.yahoo.com/m/e88d5bab-674b-358c-995b-7296735c7b74/health-canada-approves.html",
+      "publisher": "Medical Device Network",
+      "time": 1786096353,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b174ef52-7478-310c-a6ae-022ec25d0b08",
-      "title": "Thrupp & Maberly: Historic British Coachbuilder Enters a New Era of Bespoke Motor Cars",
-      "link": "https://finance.yahoo.com/small-business/articles/thrupp-maberly-historic-british-coachbuilder-082800840.html",
-      "publisher": "CNW Group",
-      "time": 1786091280,
+      "id": "56b412c2-b3f6-3321-8d66-5716dc6910ea",
+      "title": "Toyota Hilux available in UK with two-seat conversion",
+      "link": "https://finance.yahoo.com/m/56b412c2-b3f6-3321-8d66-5716dc6910ea/toyota-hilux-available-in-uk.html",
+      "publisher": "Just Auto",
+      "time": 1786096104,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8f61f904-4dc8-334d-8482-99e53aaed67c",
-      "title": "DoubleVerify Holdings Shares Rise Amid Higher Q2 Non-GAAP Earnings, Revenue",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/doubleverify-holdings-shares-rise-amid-082401492.html",
+      "id": "bfea9841-4579-3848-b29c-22904d42a5a2",
+      "title": "First patient dosed with DISP-10 in Dispatch Bio’s cancer trial",
+      "link": "https://finance.yahoo.com/m/bfea9841-4579-3848-b29c-22904d42a5a2/first-patient-dosed-with.html",
+      "publisher": "Clinical Trials Arena",
+      "time": 1786096063,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5db988a0-41d2-3c80-872b-68864b118250",
+      "title": "Mediar and Ono Pharmaceutical to develop fibro-inflammatory treatments",
+      "link": "https://finance.yahoo.com/m/5db988a0-41d2-3c80-872b-68864b118250/mediar-and-ono-pharmaceutical.html",
+      "publisher": "Pharmaceutical Technology",
+      "time": 1786095802,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7c82a048-983f-3e5f-8c10-5fd1b0f287d6",
+      "title": "ACM Research Receives Advanced Packaging Tool Orders; Shares Up Pre-Bell",
+      "link": "https://finance.yahoo.com/technology/articles/acm-research-receives-advanced-packaging-094259550.html",
       "publisher": "MT Newswires",
-      "time": 1786091041,
+      "time": 1786095779,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "86b5854a-f36f-3e95-bbab-d293c021dfc5",
+      "title": "Yum China Acquires Ownership of Pizza Hut Brand in Mainland for $1.2 Billion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/yum-china-acquires-ownership-pizza-094235757.html",
+      "publisher": "MT Newswires",
+      "time": 1786095755,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "b6903f8f-49b0-33ea-81b9-93474a73d2fb",
+      "title": "BlossomHill Therapeutics Prices Upsized Nasdaq IPO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/blossomhill-therapeutics-prices-upsized-nasdaq-094027243.html",
+      "publisher": "MT Newswires",
+      "time": 1786095627,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,73 +120,36 @@
       ]
     },
     {
-      "id": "cd2405f4-809a-3031-a750-21793e43d49b",
-      "title": "Boeing Faces New FAA Inspection Requirements for Certain 737 MAX Aircraft",
-      "link": "https://finance.yahoo.com/healthcare/articles/boeing-faces-faa-inspection-requirements-082355411.html",
-      "publisher": "MT Newswires",
-      "time": 1786091035,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f48b720b-7b49-3006-bbaf-82ca38ac8e7b",
-      "title": "CPNG Q2 Deep Dive: Margin Pressures Persist Amid Customer Recovery and Taiwan Expansion",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cpng-q2-deep-dive-margin-082122515.html",
-      "publisher": "StockStory",
-      "time": 1786090882,
-      "impact": "low",
+      "id": "6867eaf4-3cfe-3118-a7e7-f7055c930183",
+      "title": "Danish Robotics Startup Wins IFOY Award with Its First Product",
+      "link": "https://finance.yahoo.com/technology/articles/danish-robotics-startup-wins-ifoy-093900523.html",
+      "publisher": "TMX Newsfile",
+      "time": 1786095540,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "82691498-2ee7-3ef4-af92-1b19c852991d",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-082100317.html",
-      "publisher": "Business Wire",
-      "time": 1786090860,
+      "id": "a818c2f6-3213-35bc-aa05-ccdb49688a42",
+      "title": "KANEBO to use Eastman resin for lotion overcap",
+      "link": "https://finance.yahoo.com/m/a818c2f6-3213-35bc-aa05-ccdb49688a42/kanebo-to-use-eastman-resin.html",
+      "publisher": "Packaging Gateway",
+      "time": 1786095508,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5a646aa8-eb3f-3bc2-8ad7-a8415ea66ae2",
-      "title": "Oil extends gains and stocks mostly down on fresh Hormuz worries",
-      "link": "https://finance.yahoo.com/energy/articles/oil-extends-gains-stocks-fall-024841858.html",
-      "publisher": "AFP",
-      "time": 1786090852,
+      "id": "e52f7f4b-bda2-3ce9-9f12-103b21e61a9e",
+      "title": "Interface: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/interface-q2-earnings-snapshot-093644766.html",
+      "publisher": "Associated Press",
+      "time": 1786095404,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
-      ]
-    },
-    {
-      "id": "b26b2f06-68fc-34e5-b9bb-25d920845cbe",
-      "title": "ImagineArt Moves from Generative AI to Agentic AI with Imagine Computer",
-      "link": "https://finance.yahoo.com/technology/ai/articles/imagineart-moves-generative-ai-agentic-082000182.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786090800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1d2ccef6-46cf-3847-898c-d801b0731d34",
-      "title": "SK Hynix to Invest $38.29 Billion in new AI Memory Chip Fabs in South Korea",
-      "link": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-invest-38-29-081919060.html",
-      "publisher": "MT Newswires",
-      "time": 1786090759,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5b87cc9a-19c2-3d86-84fc-d6c8c7ab0e17",
-      "title": "Market Chatter: KKR-Backed Executive Centre Looking for $500 Million Loan",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-kkr-backed-executive-081908303.html",
-      "publisher": "MT Newswires",
-      "time": 1786090748,
-      "impact": "low",
-      "tags": [
-        "macro"
       ]
     }
   ],
