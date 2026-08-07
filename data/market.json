@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T20:04:49.858219+00:00",
+  "updatedAt": "2026-08-07T21:07:49.468717+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -44,91 +44,19 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.86,
-      "change": -0.2900000000000009,
-      "changePct": -1.9141914191419203,
+      "price": 14.9,
+      "change": -0.25,
+      "changePct": -1.65016501650165,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "3c4f4e1c-d34a-3cb1-8caa-e0c94e8740a4",
-      "title": "How Trump's birthright orders could put 'question mark' on citizenship",
-      "link": "https://finance.yahoo.com/m/3c4f4e1c-d34a-3cb1-8caa-e0c94e8740a4/how-trump%27s-birthright-orders.html",
-      "publisher": "USA TODAY",
-      "time": 1786132840,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1a9c870b-0338-33db-b7c0-4d46b24c6c58",
-      "title": "Vadzo Imaging Positions Falcon-258CRA 13MP Sony IMX258 Based Color Autofocus USB Camera for Medical and Industrial Imaging",
-      "link": "https://finance.yahoo.com/healthcare/articles/vadzo-imaging-positions-falcon-258cra-200000864.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786132800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "316661b2-b378-3b5d-bc7e-366a169acbee",
-      "title": "Top Analyst Drops Sharp Take on SpaceX Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-drops-sharp-spacex-195739278.html",
+      "id": "dfb64b73-91d2-32b3-92b4-133257873d0a",
+      "title": "Reinsurance Group of America Inc (RGA) (Q2 2026) Earnings Call Highlights: Record Operating ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/reinsurance-group-america-inc-rga-210634962.html",
       "publisher": "GuruFocus.com",
-      "time": 1786132659,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a14c34eb-04bb-48e0-be20-507e0acb18a5",
-      "title": "Under Armour stock drops: AlphaSpace chart breakdown",
-      "link": "https://finance.yahoo.com/video/under-armour-stock-drops-alphaspace-195724541.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1786132644,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5dbfc319-71d0-3ef9-92c0-f03eee6c9fbe",
-      "title": "Solana wants to be the Netflix of finance",
-      "link": "https://finance.yahoo.com/m/5dbfc319-71d0-3ef9-92c0-f03eee6c9fbe/solana-wants-to-be-the.html",
-      "publisher": "TheStreet",
-      "time": 1786132639,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ca7bca09-12f8-326c-9854-672efce6797f",
-      "title": "Investors haven't been this bullish since 2021, according to BofA's sentiment gauge.\n\nSo much so, strategists say it's time to reduce exposure to riskier assets.",
-      "link": "https://finance.yahoo.com/photos/investors-havent-bullish-since-2021-195641135/",
-      "publisher": "Yahoo Finance",
-      "time": 1786132601,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "97955721-cb25-37fa-9a1b-764e0d1addfd",
-      "title": "Meta Faces New Risk After Major Court Ruling",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-faces-risk-major-court-195614005.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786132574,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7c968de9-4d4f-3bee-a61d-bdf8b69f882c",
-      "title": "Connecticut picked a pizza fight with New York — and won",
-      "link": "https://finance.yahoo.com/m/7c968de9-4d4f-3bee-a61d-bdf8b69f882c/connecticut-picked-a-pizza.html",
-      "publisher": "The Hustle",
-      "time": 1786132548,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c85d14a2-4a73-37c6-9558-b0a171ae2256",
-      "title": "Evolving Lighter's Technical Architecture, Together",
-      "link": "https://finance.yahoo.com/m/c85d14a2-4a73-37c6-9558-b0a171ae2256/evolving-lighter%27s-technical.html",
-      "publisher": "Bankless",
-      "time": 1786132502,
+      "time": 1786136794,
       "impact": "medium",
       "tags": [
         "macro",
@@ -136,43 +64,112 @@
       ]
     },
     {
-      "id": "63b8b25f-266a-3267-875e-f3c238fc7b62",
-      "title": "Trump Revives Attempt to Fire Fed Governor Lisa Cook",
-      "link": "https://finance.yahoo.com/m/63b8b25f-266a-3267-875e-f3c238fc7b62/trump-revives-attempt-to-fire.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1786132440,
-      "impact": "high",
+      "id": "24cf4119-6ea1-333d-9837-fb8f57abf91d",
+      "title": "Hamilton Insurance Group Ltd (HG) (Q2 2026) Earnings Call Highlights: Strong Returns Amid ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hamilton-insurance-group-ltd-hg-210624293.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786136784,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "43f0b03f-6b61-32a1-87dc-44fb911f7380",
-      "title": "Senate Just Punted Crypto’s Big Bill Again",
-      "link": "https://finance.yahoo.com/m/43f0b03f-6b61-32a1-87dc-44fb911f7380/senate-just-punted-crypto%E2%80%99s.html",
-      "publisher": "Moby",
-      "time": 1786132437,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6a909a6a-a7fe-35a1-985f-7e41df0ce9bc",
-      "title": "Spain imposes border checks on Italy as migrant showdown grows",
-      "link": "https://finance.yahoo.com/m/6a909a6a-a7fe-35a1-985f-7e41df0ce9bc/spain-imposes-border-checks.html",
-      "publisher": "AFP",
-      "time": 1786132408,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2bf9e770-c1f4-3a1b-bd48-d0b132278554",
-      "title": "Meta Stock Rises 1.2% Despite $942 Million Child-Safety Judgment",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-rises-1-2-195317524.html",
+      "id": "1bd82b4d-214c-380b-b266-7725e2c0f2bf",
+      "title": "The E W Scripps Co (SSP) (Q2 2026) Earnings Call Highlights: Record Political Revenue and ...",
+      "link": "https://finance.yahoo.com/media-advertising/articles/e-w-scripps-co-ssp-210623511.html",
       "publisher": "GuruFocus.com",
-      "time": 1786132397,
-      "impact": "low",
-      "tags": []
+      "time": 1786136783,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "8fa3b968-f9e3-31fc-986a-8b27c809aad5",
+      "title": "Century Casinos Inc (CNTY) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/century-casinos-inc-cnty-q2-210612125.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786136772,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "28238a27-e7e4-33a0-9257-cb790d19e9ee",
+      "title": "Dauch Corp (DCH) (Q2 2026) Earnings Call Highlights: Strong Sales and Synergy Progress Drive ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dauch-corp-dch-q2-2026-210611998.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786136771,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "8f3290c3-acc2-3aea-9f25-529c9f8dde25",
+      "title": "Telephone and Data Systems Inc (TDS) (Q2 2026) Earnings Call Highlights: Fiber Growth and ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/telephone-data-systems-inc-tds-210602973.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786136762,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "552c90da-6e21-39c0-953d-57ab6d6fdbba",
+      "title": "Ryman Hospitality Properties Inc (RHP) (Q2 2026) Earnings Call Highlights: Record Group ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ryman-hospitality-properties-inc-rhp-210601546.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786136761,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b35ff28e-86be-332b-846a-6ab9121af576",
+      "title": "goeasy Ltd (EHMEF) (Q2 2026) Earnings Call Highlights: Strategic Pivot to Core Franchise Drives ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/goeasy-ltd-ehmef-q2-2026-210551502.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786136751,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "7001f3e3-3850-38cd-b8aa-846895827a37",
+      "title": "Bimini Capital Management Inc (BMNM) (Q2 2026) Earnings Call Highlights: Strategic Acquisition ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bimini-capital-management-inc-bmnm-210550351.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786136750,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "77b2cc4c-a747-39f5-b281-74a05f2fa889",
+      "title": "Manitowoc Co Inc (MTW) (Q2 2026) Earnings Call Highlights: Record Orders and Raised Guidance ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/manitowoc-co-inc-mtw-q2-210544337.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786136744,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
