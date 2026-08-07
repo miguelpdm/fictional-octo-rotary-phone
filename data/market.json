@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-07T07:04:32.313856+00:00",
+  "updatedAt": "2026-08-07T08:33:12.970855+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20180.4,
-      "change": 0.0,
-      "changePct": 0.0,
+      "price": 20060.2,
+      "change": -120.20000000000073,
+      "changePct": -0.5956274404868125,
       "currency": "EUR"
     },
     {
@@ -28,135 +28,128 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26140.13,
-      "change": 13.830000000001746,
-      "changePct": 0.05293516494873651,
+      "price": 26249.83,
+      "change": 123.53000000000247,
+      "changePct": 0.47281857744878714,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6502.56,
-      "change": 0.0,
-      "changePct": 0.0,
+      "price": 6514.69,
+      "change": 12.1299999999992,
+      "changePct": 0.18654191579930365,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.15,
-      "change": 0.0,
-      "changePct": 0.0,
+      "price": 15.26,
+      "change": 0.10999999999999943,
+      "changePct": 0.7260726072607223,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "a5057a11-1777-32c9-998b-d2e9a0d761fb",
-      "title": "Charter Hall Retail REIT (ASX:CQR) (FY 2026) Earnings Call Highlights: Record Occupancy and 4% ...",
-      "link": "https://finance.yahoo.com/real-estate/articles/charter-hall-retail-reit-asx-070026235.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786086026,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "fb8b25ca-03d1-397d-be48-817493b88187",
-      "title": "Nick Scali Ltd (ASX:NCK) (FY 2026) Earnings Call Highlights: NPAT Surges 22% Amidst Tough ANZ Market",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nick-scali-ltd-asx-nck-070020055.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786086020,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "d1812fd4-740a-3b19-96b3-e5249af18a9b",
-      "title": "Mitsubishi Electric to Wholly Acquire Polish-based MEDCOM, Manufacturer of Electrical Equipment for Railcars",
-      "link": "https://finance.yahoo.com/technology/articles/mitsubishi-electric-wholly-acquire-polish-070000579.html",
-      "publisher": "Business Wire",
-      "time": 1786086000,
+      "id": "2694f9d4-30f1-3d11-b4a0-cbcf6c0a8ff1",
+      "title": "BP agrees to buy Woodside’s 70% stake in Calypso gas project",
+      "link": "https://finance.yahoo.com/m/2694f9d4-30f1-3d11-b4a0-cbcf6c0a8ff1/bp-agrees-to-buy-woodside%E2%80%99s.html",
+      "publisher": "Offshore Technology",
+      "time": 1786091446,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cb74ba9f-95bc-337c-b5c3-22e7aa107a5f",
-      "title": "Indonesia traps monkey to end rampage that wounded 18 people",
-      "link": "https://finance.yahoo.com/m/cb74ba9f-95bc-337c-b5c3-22e7aa107a5f/indonesia-traps-monkey-to-end.html",
+      "id": "b174ef52-7478-310c-a6ae-022ec25d0b08",
+      "title": "Thrupp & Maberly: Historic British Coachbuilder Enters a New Era of Bespoke Motor Cars",
+      "link": "https://finance.yahoo.com/small-business/articles/thrupp-maberly-historic-british-coachbuilder-082800840.html",
+      "publisher": "CNW Group",
+      "time": 1786091280,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8f61f904-4dc8-334d-8482-99e53aaed67c",
+      "title": "DoubleVerify Holdings Shares Rise Amid Higher Q2 Non-GAAP Earnings, Revenue",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/doubleverify-holdings-shares-rise-amid-082401492.html",
+      "publisher": "MT Newswires",
+      "time": 1786091041,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "cd2405f4-809a-3031-a750-21793e43d49b",
+      "title": "Boeing Faces New FAA Inspection Requirements for Certain 737 MAX Aircraft",
+      "link": "https://finance.yahoo.com/healthcare/articles/boeing-faces-faa-inspection-requirements-082355411.html",
+      "publisher": "MT Newswires",
+      "time": 1786091035,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f48b720b-7b49-3006-bbaf-82ca38ac8e7b",
+      "title": "CPNG Q2 Deep Dive: Margin Pressures Persist Amid Customer Recovery and Taiwan Expansion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cpng-q2-deep-dive-margin-082122515.html",
+      "publisher": "StockStory",
+      "time": 1786090882,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "82691498-2ee7-3ef4-af92-1b19c852991d",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-082100317.html",
+      "publisher": "Business Wire",
+      "time": 1786090860,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5a646aa8-eb3f-3bc2-8ad7-a8415ea66ae2",
+      "title": "Oil extends gains and stocks mostly down on fresh Hormuz worries",
+      "link": "https://finance.yahoo.com/energy/articles/oil-extends-gains-stocks-fall-024841858.html",
       "publisher": "AFP",
-      "time": 1786085486,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c4717e5e-55a6-30ce-9e92-931ceb125486",
-      "title": "Yochanra®, the World's First Innovative Drug to Overcome FGFR Inhibitor Resistance, Makes Its Global Debut in China",
-      "link": "https://finance.yahoo.com/healthcare/articles/yochanra-worlds-first-innovative-drug-064400694.html",
-      "publisher": "PR Newswire",
-      "time": 1786085040,
+      "time": 1786090852,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "e49ffbe2-1873-3133-bab6-7cfd90b35765",
-      "title": "PU Prime Expands Gold Trading with the Launch of XAUUSD247",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/pu-prime-expands-gold-trading-064100669.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786084860,
+      "id": "b26b2f06-68fc-34e5-b9bb-25d920845cbe",
+      "title": "ImagineArt Moves from Generative AI to Agentic AI with Imagine Computer",
+      "link": "https://finance.yahoo.com/technology/ai/articles/imagineart-moves-generative-ai-agentic-082000182.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786090800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bb6483fb-8e1c-37fd-b167-075f8e357c6b",
-      "title": "OpenAI’s Evaluation Agents Built a Secret Message Board, Exploited Zero-Days, and Breached Hugging Face — From the Inside",
-      "link": "https://finance.yahoo.com/m/bb6483fb-8e1c-37fd-b167-075f8e357c6b/openai%E2%80%99s-evaluation-agents.html",
-      "publisher": "Forkast News",
-      "time": 1786084650,
+      "id": "1d2ccef6-46cf-3847-898c-d801b0731d34",
+      "title": "SK Hynix to Invest $38.29 Billion in new AI Memory Chip Fabs in South Korea",
+      "link": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-invest-38-29-081919060.html",
+      "publisher": "MT Newswires",
+      "time": 1786090759,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e83cd11f-db97-316f-bd2f-e11599535cc0",
-      "title": "EXERCISE OF MAKE-WHOLE REDEMPTION OPTION",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exercise-whole-redemption-option-063200304.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786084320,
+      "id": "5b87cc9a-19c2-3d86-84fc-d6c8c7ab0e17",
+      "title": "Market Chatter: KKR-Backed Executive Centre Looking for $500 Million Loan",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-kkr-backed-executive-081908303.html",
+      "publisher": "MT Newswires",
+      "time": 1786090748,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "12f3f8f8-63b1-31ad-a92e-5c5cf2d97ce5",
-      "title": "Nxera Pharma Operational Highlights and Consolidated Results for the Second Quarter 2026",
-      "link": "https://finance.yahoo.com/healthcare/articles/nxera-pharma-operational-highlights-consolidated-063000901.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786084200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "35ee0362-2e72-35a7-83da-7a8cf2dc3ca4",
-      "title": "Hurricane Electric Expands Network in Manila With New Point of Presence at STT Makati",
-      "link": "https://finance.yahoo.com/technology/articles/hurricane-electric-expands-network-manila-063000204.html",
-      "publisher": "Business Wire",
-      "time": 1786084200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4aaefab7-1d7c-398f-b8fa-9bbe73148377",
-      "title": "German exports, industrial production rise more than expected",
-      "link": "https://finance.yahoo.com/news/german-exports-rise-more-expected-060651983.html",
-      "publisher": "Reuters",
-      "time": 1786084169,
-      "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
