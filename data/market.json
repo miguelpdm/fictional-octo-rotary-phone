@@ -1,107 +1,74 @@
 {
-  "updatedAt": "2026-08-06T15:09:39.107988+00:00",
+  "updatedAt": "2026-08-07T00:37:38.279726+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20279.1,
-      "change": 222.09999999999854,
-      "changePct": 1.1073440694021965,
+      "price": 20180.4,
+      "change": 123.40000000000146,
+      "changePct": 0.615246547340088,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7728.97,
-      "change": -7.550000000000182,
-      "changePct": -0.09758909690662186,
+      "price": 7709.96,
+      "change": -26.5600000000004,
+      "changePct": -0.343306809780113,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26443.705,
-      "change": -141.28499999999985,
-      "changePct": -0.5314465042115865,
+      "price": 26348.352,
+      "change": -236.63800000000265,
+      "changePct": -0.8901188226890536,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26196.67,
-      "change": -5.680000000000291,
-      "changePct": -0.021677444961998794,
+      "price": 26140.13,
+      "change": -62.219999999997526,
+      "changePct": -0.2374596171717328,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6521.83,
-      "change": 44.850000000000364,
-      "changePct": 0.6924523466183371,
+      "price": 6502.56,
+      "change": 25.580000000000837,
+      "changePct": 0.3949371466331661,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.41,
-      "change": -0.40000000000000036,
-      "changePct": -2.5300442757748285,
+      "price": 15.15,
+      "change": -0.6600000000000001,
+      "changePct": -4.174573055028464,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "498d347a-1bce-32ab-b2cc-119753019eac",
-      "title": "Medtronic’s ablation system lands ventricular arrhythmia indication expansion in Europe",
-      "link": "https://finance.yahoo.com/m/498d347a-1bce-32ab-b2cc-119753019eac/medtronic%E2%80%99s-ablation-system.html",
-      "publisher": "Medical Device Network",
-      "time": 1786028696,
-      "impact": "low",
-      "tags": []
+      "id": "316189c0-0208-3a52-907e-8f1448ccd2e8",
+      "title": "Dow Jones Futures: Cloudflare Leads 5 Software Earnings Winners Late; Jobs Report On Tap",
+      "link": "https://finance.yahoo.com/m/316189c0-0208-3a52-907e-8f1448ccd2e8/dow-jones-futures%3A-cloudflare.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786062461,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "cb90b7fe-f02e-3b6e-b4b3-cc35b002e0d4",
-      "title": "Allianz to buy UOB’s asset management arm for $432.8m",
-      "link": "https://finance.yahoo.com/m/cb90b7fe-f02e-3b6e-b4b3-cc35b002e0d4/allianz-to-buy-uob%E2%80%99s-asset.html",
-      "publisher": "Life Insurance International",
-      "time": 1786028585,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e014d7e7-ca9e-34ae-9ca2-90b6f7dbbdaf",
-      "title": "PACHA Makes Back-to-School Easier for Gluten-Free Families with New Foods, Free Resources and Breakfast Inspiration",
-      "link": "https://finance.yahoo.com/healthcare/articles/pacha-makes-back-school-easier-150300695.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786028580,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ec716601-181c-3a75-9511-4b9d4a3ce64f",
-      "title": "SCWorx Announces New Two-Year Agreement with One of Massachusetts’ Largest Integrated Delivery Networks",
-      "link": "https://finance.yahoo.com/healthcare/articles/scworx-announces-two-agreement-one-150300855.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786028580,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fb1745fc-a398-34a5-8fb8-0c4b66c4f5c9",
-      "title": "Informa's Waste Group Continues to Lead Global Waste and Recycling Industry with Comprehensive Platform",
-      "link": "https://finance.yahoo.com/energy/articles/informas-waste-group-continues-lead-150300345.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786028580,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ddccb633-bf89-3ff3-bd4b-9a391242c934",
-      "title": "Adecco Group AG (AHEXY) (Q2 2026) Earnings Call Highlights: Strong Revenue Growth and AI-Driven ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/adecco-group-ag-ahexy-q2-150219524.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786028539,
+      "id": "440749b7-151c-363a-9a45-9580732730ff",
+      "title": "CNQ (CNQ) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/440749b7-151c-363a-9a45-9580732730ff/cnq-%28cnq%29-q2-2026-earnings.html",
+      "publisher": "Motley Fool",
+      "time": 1786062446,
       "impact": "medium",
       "tags": [
         "macro",
@@ -109,11 +76,11 @@
       ]
     },
     {
-      "id": "73604a2a-60ce-3cbd-b990-7e78d3338281",
-      "title": "Siemens AG (SIEGY) (Q3 2026) Earnings Call Highlights: Record Orders and Raised Guidance Signal ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/siemens-ag-siegy-q3-2026-150204809.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786028524,
+      "id": "6533aaea-6fcf-34e2-ae21-10e90a6a37ca",
+      "title": "ConocoPhillips Names Andy O’Brien CEO as Ryan Lance Steps Down",
+      "link": "https://finance.yahoo.com/energy/articles/conocophillips-names-andy-o-brien-002718626.html",
+      "publisher": "Oilprice.com",
+      "time": 1786062438,
       "impact": "medium",
       "tags": [
         "macro",
@@ -121,37 +88,72 @@
       ]
     },
     {
-      "id": "acc1070b-7be4-3697-8f55-0e3cbaaa3ef3",
-      "title": "KBC Groupe NV (KBCSF) (Q2 2026) Earnings Call Highlights: Record Profit and Raised Guidance ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kbc-groupe-nv-kbcsf-q2-150204667.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786028524,
-      "impact": "medium",
+      "id": "66eadab8-f25f-3aad-8a29-d160a50c13ba",
+      "title": "2 Energy Stocks With More Hype Than Fundamentals Right Now",
+      "link": "https://finance.yahoo.com/m/66eadab8-f25f-3aad-8a29-d160a50c13ba/2-energy-stocks-with-more.html",
+      "publisher": "Motley Fool",
+      "time": 1786062300,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "df98e5a9-e81d-3c69-a256-c5944f3e2033",
-      "title": "Genmab Announces Financial Results for the First Half of 2026",
-      "link": "https://finance.yahoo.com/healthcare/articles/genmab-announces-financial-results-first-150200291.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786028520,
+      "id": "06f6abe2-4bbf-3c5a-8353-83246d667e44",
+      "title": "Suspect in US Northwest fire confessed to plotting actions: police",
+      "link": "https://finance.yahoo.com/m/06f6abe2-4bbf-3c5a-8353-83246d667e44/suspect-in-us-northwest-fire.html",
+      "publisher": "AFP",
+      "time": 1786062286,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7f91b735-c020-36aa-b44c-cc21f09efa0b",
-      "title": "OC Oerlikon Corp AG, Pfaffikon (OERLY) (H1 2026) Earnings Call Highlights: Strong Order Growth ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oc-oerlikon-corp-ag-pfaffikon-150151443.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786028511,
-      "impact": "medium",
+      "id": "1696502f-29a4-327b-bbe1-d5f0a579d2ce",
+      "title": "A Travel + Leisure Insider Sold $2.6 Million in Stock. Here's What to Make of It",
+      "link": "https://finance.yahoo.com/m/1696502f-29a4-327b-bbe1-d5f0a579d2ce/a-travel-%2B-leisure-insider.html",
+      "publisher": "Motley Fool",
+      "time": 1786062210,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b3c1c05c-1735-3b0a-90fd-d7df3dd1ac43",
+      "title": "Migrant children risk abuse on streets of Ceuta, aid groups warn",
+      "link": "https://finance.yahoo.com/m/b3c1c05c-1735-3b0a-90fd-d7df3dd1ac43/migrant-children-risk-abuse.html",
+      "publisher": "AFP",
+      "time": 1786062005,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
+    },
+    {
+      "id": "c3b4d905-00c1-3624-9d74-3183bb2f8c52",
+      "title": "Card Network or Card Lender: Which Business Model Is the Better Long-Term Buy?",
+      "link": "https://finance.yahoo.com/m/c3b4d905-00c1-3624-9d74-3183bb2f8c52/card-network-or-card-lender%3A.html",
+      "publisher": "Motley Fool",
+      "time": 1786062000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6800ac5d-b1c1-3d3a-a5c4-1c62fc666b10",
+      "title": "More kids ditching their phones to find summer jobs",
+      "link": "https://finance.yahoo.com/m/6800ac5d-b1c1-3d3a-a5c4-1c62fc666b10/more-kids-ditching-their.html",
+      "publisher": "CBS News Videos",
+      "time": 1786061920,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bf0beb78-d3b0-311f-946e-d40c2a5f166e",
+      "title": "Figma (FIG) Beats On AI Revenue, Is The Stock A Bargain?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/figma-fig-beats-ai-revenue-001659630.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786061819,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
