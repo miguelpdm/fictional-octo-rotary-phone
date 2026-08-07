@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T16:14:16.785582+00:00",
+  "updatedAt": "2026-08-07T17:15:00.715434+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7755.48,
-      "change": 31.92999999999938,
-      "changePct": 0.41341093150169783,
+      "price": 7744.14,
+      "change": 20.590000000000146,
+      "changePct": 0.26658725586032517,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26671.791,
-      "change": 308.3510000000024,
-      "changePct": 1.16961595300159,
+      "price": 26593.086,
+      "change": 229.64600000000064,
+      "changePct": 0.8710775225084461,
       "currency": "USD"
     },
     {
@@ -44,19 +44,19 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.94,
-      "change": -0.21000000000000085,
-      "changePct": -1.3861386138613918,
+      "price": 14.99,
+      "change": -0.16000000000000014,
+      "changePct": -1.056105610561057,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "938045aa-a0bc-3fbf-b386-401d9570ec5b",
-      "title": "US stocks, bonds rally after soft jobs report; yen bounces back",
-      "link": "https://finance.yahoo.com/news/asian-shares-pause-us-jobs-021601155.html",
-      "publisher": "Reuters",
-      "time": 1786118872,
+      "id": "c013b530-6d45-3ec3-a0d3-1c99e7752065",
+      "title": "Sabine Royalty: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sabine-royalty-q2-earnings-snapshot-171153053.html",
+      "publisher": "Associated Press",
+      "time": 1786122713,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,102 +64,125 @@
       ]
     },
     {
-      "id": "e6343c6b-5367-3b49-8d47-a55dde0b363b",
-      "title": "WHO urges Ervebo vaccine trial in DR Congo Ebola outbreak",
-      "link": "https://finance.yahoo.com/m/e6343c6b-5367-3b49-8d47-a55dde0b363b/who-urges-ervebo-vaccine.html",
-      "publisher": "AFP",
-      "time": 1786118838,
+      "id": "aa12d15f-7ca3-360a-896b-0b30b0b5a64c",
+      "title": "JDM Web Technologies Publishes SEO Case Study for Apex Locksmith Denver",
+      "link": "https://finance.yahoo.com/small-business/articles/jdm-technologies-publishes-seo-case-171000060.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786122600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "81a8e1db-1a47-3d36-9e8d-909c195b4c3c",
-      "title": "Bitcoin Still in Death Cross as Jobs Miss Cuts Rate-Hike Odds",
-      "link": "https://finance.yahoo.com/m/81a8e1db-1a47-3d36-9e8d-909c195b4c3c/bitcoin-still-in-death-cross.html",
-      "publisher": "decrypt",
-      "time": 1786118832,
+      "id": "ebd2d709-7130-3746-ae5a-247288e0b662",
+      "title": "UNITE HERE Local 8: Are Hilton Hotels nICE Hotels? Seattle Embassy Suites Workers Call Out Company’s Insufficient Protections for Immigrants as Strike Passes 50 Days",
+      "link": "https://finance.yahoo.com/small-business/articles/unite-local-8-hilton-hotels-170900874.html",
+      "publisher": "Business Wire",
+      "time": 1786122540,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "971e4194-b0aa-33b8-8f86-b5eb0e631c92",
-      "title": "Celsius jumps 12% as Rockstar founder builds 4.7% stake, demands CEO ouster",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/celsius-jumps-12-rockstar-founder-160429410.html",
-      "publisher": "Investing.com",
-      "time": 1786118669,
+      "id": "9cdff24b-1c5d-3cd4-a4ad-434e57770392",
+      "title": "Munchener Ruckversicherungs-Gesellschaft AG (MURGF) (Q2 2026) Earnings Call Highlights: Strong ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/munchener-ruckversicherungs-gesellschaft-ag-murgf-170727186.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786122447,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "f994708f-825e-30b1-93bd-763a24cead75",
+      "title": "Trump warns Congress wants to regulate AI out of business",
+      "link": "https://finance.yahoo.com/m/f994708f-825e-30b1-93bd-763a24cead75/trump-warns-congress-wants-to.html",
+      "publisher": "Quartz",
+      "time": 1786122447,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "f1302bf1-60d9-3a43-9478-d8f42ff7c8a9",
+      "title": "Renewables Infrastructure Group (The) Ltd (LSE:TRIG) (H1 2026) Earnings Call Highlights: NAV ...",
+      "link": "https://finance.yahoo.com/energy/articles/renewables-infrastructure-group-ltd-lse-170719297.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786122439,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "0cef735d-7596-31dd-8543-0b6c0c569942",
+      "title": "Fiserv's Operating Leverage Can Re-Emerge in 2027, RBC Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fiserv-apos-operating-leverage-emerge-170626002.html",
+      "publisher": "MT Newswires",
+      "time": 1786122386,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "15b16179-3fd2-3bc5-9810-f7389d6dd82c",
-      "title": "Anterix Shareholders Approve Board, Pay and Expanded 2023 Stock Plan",
-      "link": "https://finance.yahoo.com/m/15b16179-3fd2-3bc5-9810-f7389d6dd82c/anterix-shareholders-approve.html",
-      "publisher": "MarketBeat",
-      "time": 1786118664,
+      "id": "74a30020-ee20-35ec-9c63-8a4e58b99de8",
+      "title": "Winter is coming, will Europe run out of gas?",
+      "link": "https://finance.yahoo.com/video/winter-coming-europe-run-gas-170501168.html",
+      "publisher": "Reuters Videos",
+      "time": 1786122301,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "37a9cd61-4cd5-3c38-92db-fd9beaa8ff8c",
+      "title": "Planet Fitness Faces H2 Deceleration, Marketing, Pricing Uncertainty, RBC Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/planet-fitness-faces-h2-deceleration-170454316.html",
+      "publisher": "MT Newswires",
+      "time": 1786122294,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "38416b47-ade6-3d4f-b158-d6a33a09c644",
-      "title": "Runway Growth Finance Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/38416b47-ade6-3d4f-b158-d6a33a09c644/runway-growth-finance-q2.html",
-      "publisher": "MarketBeat",
-      "time": 1786118664,
-      "impact": "medium",
+      "id": "f31b7dd5-5905-3ff6-bb6f-3918f4e33295",
+      "title": "Stock Market Today: Nasdaq Pops As July Jobs Miss Dampens Rates View; Gold Stocks Shine (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/f31b7dd5-5905-3ff6-bb6f-3918f4e33295/stock-market-today%3A-nasdaq.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786122277,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "076973d0-4c64-356b-a05f-7ea9ddb78207",
-      "title": "Nutex Health Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/076973d0-4c64-356b-a05f-7ea9ddb78207/nutex-health-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1786118663,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "48978fb6-2e7f-3a27-88da-9d4f443dd081",
+      "title": "Cytokinetics' Q2 Beat Highlights Myqorzo Launch Strength, RBC Says",
+      "link": "https://finance.yahoo.com/healthcare/articles/cytokinetics-apos-q2-beat-highlights-170406009.html",
+      "publisher": "MT Newswires",
+      "time": 1786122246,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "8d358b47-8de4-3ecd-aa7d-78b5c2ae1083",
-      "title": "Portman Ridge Finance Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/8d358b47-8de4-3ecd-aa7d-78b5c2ae1083/portman-ridge-finance-q2.html",
-      "publisher": "MarketBeat",
-      "time": 1786118663,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "49047d88-9a99-3f31-9b60-961f5e96112b",
+      "title": "Primo Brands Shares Still Undervalued Even After Q2 Revenue Beat, RBC Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/primo-brands-shares-still-undervalued-170356443.html",
+      "publisher": "MT Newswires",
+      "time": 1786122236,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "9c41585b-0074-3422-ad48-eb2e2f5a23bd",
-      "title": "Plains All American Pipeline Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/9c41585b-0074-3422-ad48-eb2e2f5a23bd/plains-all-american-pipeline.html",
-      "publisher": "MarketBeat",
-      "time": 1786118663,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c50212b7-9f29-3172-b8eb-456b6b50d88f",
-      "title": "Construction Partners Q3 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/c50212b7-9f29-3172-b8eb-456b6b50d88f/construction-partners-q3.html",
-      "publisher": "MarketBeat",
-      "time": 1786118663,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "a187c9b2-946d-336d-81ee-e09a46dc472d",
+      "title": "Sector Update: Tech",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-170315373.html",
+      "publisher": "MT Newswires",
+      "time": 1786122195,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
