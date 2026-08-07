@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-07T09:55:12.152674+00:00",
+  "updatedAt": "2026-08-07T10:46:31.392145+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20173.3,
-      "change": -7.100000000002183,
-      "changePct": -0.03518265247468921,
+      "price": 20226.6,
+      "change": 46.19999999999709,
+      "changePct": 0.22893500624366755,
       "currency": "EUR"
     },
     {
@@ -28,91 +28,53 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26300.4,
-      "change": 174.10000000000218,
-      "changePct": 0.6663783237580606,
+      "price": 26338.47,
+      "change": 212.1700000000019,
+      "changePct": 0.8120935608945847,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6531.72,
-      "change": 29.159999999999854,
-      "changePct": 0.4484387687310821,
+      "price": 6540.47,
+      "change": 37.909999999999854,
+      "changePct": 0.5830011564676043,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.29,
-      "change": 0.1399999999999988,
-      "changePct": 0.9240924092409162,
+      "price": 15.27,
+      "change": 0.11999999999999922,
+      "changePct": 0.7920792079207869,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "e88d5bab-674b-358c-995b-7296735c7b74",
-      "title": "Health Canada approves Kardium’s Globe pulsed field system",
-      "link": "https://finance.yahoo.com/m/e88d5bab-674b-358c-995b-7296735c7b74/health-canada-approves.html",
-      "publisher": "Medical Device Network",
-      "time": 1786096353,
+      "id": "a4a4372e-0822-3c9a-94dc-37a8e266cfd3",
+      "title": "Indonesia defers tax plan for e-commerce sellers until November",
+      "link": "https://finance.yahoo.com/m/a4a4372e-0822-3c9a-94dc-37a8e266cfd3/indonesia-defers-tax-plan-for.html",
+      "publisher": "Retail Insight Network",
+      "time": 1786099415,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "56b412c2-b3f6-3321-8d66-5716dc6910ea",
-      "title": "Toyota Hilux available in UK with two-seat conversion",
-      "link": "https://finance.yahoo.com/m/56b412c2-b3f6-3321-8d66-5716dc6910ea/toyota-hilux-available-in-uk.html",
-      "publisher": "Just Auto",
-      "time": 1786096104,
+      "id": "2f2526b1-4fb0-3113-9801-fc327a0c1163",
+      "title": "McDermott wins ExxonMobil LoI for Rovuma LNG engineering work",
+      "link": "https://finance.yahoo.com/m/2f2526b1-4fb0-3113-9801-fc327a0c1163/mcdermott-wins-exxonmobil-loi.html",
+      "publisher": "Offshore Technology",
+      "time": 1786099395,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bfea9841-4579-3848-b29c-22904d42a5a2",
-      "title": "First patient dosed with DISP-10 in Dispatch Bio’s cancer trial",
-      "link": "https://finance.yahoo.com/m/bfea9841-4579-3848-b29c-22904d42a5a2/first-patient-dosed-with.html",
-      "publisher": "Clinical Trials Arena",
-      "time": 1786096063,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5db988a0-41d2-3c80-872b-68864b118250",
-      "title": "Mediar and Ono Pharmaceutical to develop fibro-inflammatory treatments",
-      "link": "https://finance.yahoo.com/m/5db988a0-41d2-3c80-872b-68864b118250/mediar-and-ono-pharmaceutical.html",
-      "publisher": "Pharmaceutical Technology",
-      "time": 1786095802,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7c82a048-983f-3e5f-8c10-5fd1b0f287d6",
-      "title": "ACM Research Receives Advanced Packaging Tool Orders; Shares Up Pre-Bell",
-      "link": "https://finance.yahoo.com/technology/articles/acm-research-receives-advanced-packaging-094259550.html",
-      "publisher": "MT Newswires",
-      "time": 1786095779,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "86b5854a-f36f-3e95-bbab-d293c021dfc5",
-      "title": "Yum China Acquires Ownership of Pizza Hut Brand in Mainland for $1.2 Billion",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/yum-china-acquires-ownership-pizza-094235757.html",
-      "publisher": "MT Newswires",
-      "time": 1786095755,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "b6903f8f-49b0-33ea-81b9-93474a73d2fb",
-      "title": "BlossomHill Therapeutics Prices Upsized Nasdaq IPO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/blossomhill-therapeutics-prices-upsized-nasdaq-094027243.html",
-      "publisher": "MT Newswires",
-      "time": 1786095627,
+      "id": "99b132ee-7990-396f-853f-8e34d4da1bd1",
+      "title": "Essent Group: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/essent-group-q2-earnings-snapshot-103941217.html",
+      "publisher": "Associated Press",
+      "time": 1786099181,
       "impact": "medium",
       "tags": [
         "macro",
@@ -120,11 +82,20 @@
       ]
     },
     {
-      "id": "6867eaf4-3cfe-3118-a7e7-f7055c930183",
-      "title": "Danish Robotics Startup Wins IFOY Award with Its First Product",
-      "link": "https://finance.yahoo.com/technology/articles/danish-robotics-startup-wins-ifoy-093900523.html",
-      "publisher": "TMX Newsfile",
-      "time": 1786095540,
+      "id": "af97f15f-48de-3300-bc9a-0cd4f45dbee6",
+      "title": "DSMB approves dose escalation in PepGen’s FREEDOM2-DM1 study",
+      "link": "https://finance.yahoo.com/m/af97f15f-48de-3300-bc9a-0cd4f45dbee6/dsmb-approves-dose-escalation.html",
+      "publisher": "Clinical Trials Arena",
+      "time": 1786099091,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "316189c0-0208-3a52-907e-8f1448ccd2e8",
+      "title": "Dow Jones Futures: Cloudflare Leads 5 Software Earnings Winners Late; Jobs Report On Tap",
+      "link": "https://finance.yahoo.com/m/316189c0-0208-3a52-907e-8f1448ccd2e8/dow-jones-futures%3A-cloudflare.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786099009,
       "impact": "high",
       "tags": [
         "geo",
@@ -132,25 +103,52 @@
       ]
     },
     {
-      "id": "a818c2f6-3213-35bc-aa05-ccdb49688a42",
-      "title": "KANEBO to use Eastman resin for lotion overcap",
-      "link": "https://finance.yahoo.com/m/a818c2f6-3213-35bc-aa05-ccdb49688a42/kanebo-to-use-eastman-resin.html",
-      "publisher": "Packaging Gateway",
-      "time": 1786095508,
+      "id": "1b9e2703-e086-3541-8b3a-23b40aac7feb",
+      "title": "/C O R R E C T I O N -- Trip.com Group/",
+      "link": "https://finance.yahoo.com/small-business/articles/c-o-r-r-e-103500099.html",
+      "publisher": "CNW Group",
+      "time": 1786098900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e52f7f4b-bda2-3ce9-9f12-103b21e61a9e",
-      "title": "Interface: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/interface-q2-earnings-snapshot-093644766.html",
-      "publisher": "Associated Press",
-      "time": 1786095404,
-      "impact": "medium",
+      "id": "2eb7a85f-1e0c-313c-9561-d59f7236a1c9",
+      "title": "SpaceX Stock Is Down 50% From Its Peak. Here's 1 Reason to Buy the Dip, and 1 Reason to Run for the Hills.",
+      "link": "https://finance.yahoo.com/m/2eb7a85f-1e0c-313c-9561-d59f7236a1c9/spacex-stock-is-down-50%25-from.html",
+      "publisher": "Motley Fool",
+      "time": 1786098900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "93355511-eaf5-369a-8502-1b324e7e87b4",
+      "title": "Warren Buffett shares the ‘secret sauce’ to Berkshire Hathaway's dominance. Use his strategy to grow your own wealth now",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-shares-secret-sauce-103500180.html",
+      "publisher": "Moneywise",
+      "time": 1786098900,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
+    },
+    {
+      "id": "01afd229-d126-3af2-b9c7-33ba5df0c0da",
+      "title": "Popeyes Continues Work to Break Sales Slump",
+      "link": "https://finance.yahoo.com/m/01afd229-d126-3af2-b9c7-33ba5df0c0da/popeyes-continues-work-to.html",
+      "publisher": "QSR",
+      "time": 1786098869,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "47663681-47b7-36d2-959e-c19c894b5f1c",
+      "title": "MDA Space Posts Increase in Adjusted Net Income YoY",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mda-space-posts-increase-adjusted-103400220.html",
+      "publisher": "MT Newswires",
+      "time": 1786098840,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
