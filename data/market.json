@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T23:03:24.743808+00:00",
+  "updatedAt": "2026-08-07T23:56:33.009917+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,29 @@
   ],
   "news": [
     {
-      "id": "ad42d2e3-ef28-3ce6-8548-1aa6a43fb174",
-      "title": "RLJ Lodging Trust (RLJ) (Q2 2026) Earnings Call Highlights: RevPAR Surges 6. ...",
-      "link": "https://finance.yahoo.com/real-estate/articles/rlj-lodging-trust-rlj-q2-230203132.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786143723,
+      "id": "c85c599c-2ea7-3f68-bbeb-55b1965de47f",
+      "title": "Momchipz brand Veggie Chips (Broccoli Florets & Cauliflower) recalled due to undeclared gluten",
+      "link": "https://finance.yahoo.com/healthcare/articles/momchipz-brand-veggie-chips-broccoli-235100039.html",
+      "publisher": "CNW Group",
+      "time": 1786146660,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bb48c3f3-98cd-30e1-bb9c-90e1efbbfdf1",
+      "title": "FIELDS OF GOLD ANNOUNCES THE FILING OF ITS FINAL NON-OFFERING PROSPECTUS",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/fields-gold-announces-filing-final-234700569.html",
+      "publisher": "CNW Group",
+      "time": 1786146420,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1fc41e92-243d-3cb1-af70-1c42c0541858",
+      "title": "July jobs report reveals unexpected loss of 23,000 jobs",
+      "link": "https://finance.yahoo.com/m/1fc41e92-243d-3cb1-af70-1c42c0541858/july-jobs-report-reveals.html",
+      "publisher": "CBS News",
+      "time": 1786146415,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,112 +82,69 @@
       ]
     },
     {
-      "id": "95dba768-65ac-3d45-8804-3f93f5f7260e",
-      "title": "Strawberry Fields REIT Inc (STRW) (Q2 2026) Earnings Call Highlights: Strategic Growth Amidst ...",
-      "link": "https://finance.yahoo.com/real-estate/articles/strawberry-fields-reit-inc-strw-230159726.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786143719,
-      "impact": "medium",
+      "id": "0ab7727f-dd3c-3b49-8f88-fecf0d56ac1d",
+      "title": "Matt Damon’s net worth: How the ‘Odyssey’ star built his wealth",
+      "link": "https://finance.yahoo.com/m/0ab7727f-dd3c-3b49-8f88-fecf0d56ac1d/matt-damon%E2%80%99s-net-worth%3A-how.html",
+      "publisher": "TheStreet",
+      "time": 1786146365,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9d5c4848-2d5f-36d3-a470-b35c1a94a469",
+      "title": "Walmart has patio sets for under $150 that transform your outdoor space on a budget",
+      "link": "https://finance.yahoo.com/m/9d5c4848-2d5f-36d3-a470-b35c1a94a469/walmart-has-patio-sets-for.html",
+      "publisher": "TheStreet",
+      "time": 1786146300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9b4ea9b9-b435-32aa-87ad-175c0dabc33d",
+      "title": "Why QuinStreet Stock Crushed it on Friday",
+      "link": "https://finance.yahoo.com/m/9b4ea9b9-b435-32aa-87ad-175c0dabc33d/why-quinstreet-stock-crushed.html",
+      "publisher": "Motley Fool",
+      "time": 1786146238,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e2ff1fa8-dc9a-35d4-959e-e60c88c531ef",
+      "title": "Carson Beck reacts to preseason debut 'The Insiders'",
+      "link": "https://finance.yahoo.com/m/e2ff1fa8-dc9a-35d4-959e-e60c88c531ef/carson-beck-reacts-to.html",
+      "publisher": "NFL Highlights",
+      "time": 1786145877,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f63e79eb-486b-32c4-ac01-b74a71164d0b",
+      "title": "Applied Materials stock splits: History & prospects explained",
+      "link": "https://finance.yahoo.com/m/f63e79eb-486b-32c4-ac01-b74a71164d0b/applied-materials-stock.html",
+      "publisher": "TheStreet",
+      "time": 1786145728,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0a9c6b70-fc89-31f7-b618-b7eefc27c027",
+      "title": "Gold Royalty and 4 More Stocks See Action From Activist Investors",
+      "link": "https://finance.yahoo.com/m/0a9c6b70-fc89-31f7-b618-b7eefc27c027/gold-royalty-and-4-more.html",
+      "publisher": "Barrons.com",
+      "time": 1786145700,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "478ec216-057d-3bd0-be77-0f1d106b5806",
-      "title": "Extendicare Inc (EXETF) (Q2 2026) Earnings Call Highlights: Record EBITDA Growth and Strategic ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/extendicare-inc-exetf-q2-2026-230148966.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786143708,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "96aa38f5-5029-3f66-9fe7-96a433e009a8",
-      "title": "Petroleo Brasileiro SA Petrobras (PBR) (Q2 2026) Earnings Call Highlights: Record Profit and ...",
-      "link": "https://finance.yahoo.com/energy/articles/petroleo-brasileiro-sa-petrobras-pbr-230138168.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786143698,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "25ed4960-6bc1-39a7-bbce-c0a5cb2acb06",
-      "title": "Wheaton Precious Metals Corp (WPM) (Q2 2026) Earnings Call Highlights: Record Revenue and ...",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/wheaton-precious-metals-corp-wpm-230137326.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786143697,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "528ff720-e068-32d8-98ae-2742aee70056",
-      "title": "PPL Corp (PPL) (Q2 2026) Earnings Call Highlights: Reaffirms Guidance, Advances Data Center ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ppl-corp-ppl-q2-2026-230137070.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786143697,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "ea40b4d3-b4f0-3ab1-90f7-f6a3ab1eb714",
-      "title": "Gray Media Inc (GTN) (Q2 2026) Earnings Call Highlights: Political Revenue Surge and Strategic ...",
-      "link": "https://finance.yahoo.com/media-advertising/articles/gray-media-inc-gtn-q2-230136268.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786143696,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "64afa5fb-b22b-3014-b294-5ecc37d77ca1",
-      "title": "Galiano Gold Inc (GAU) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/galiano-gold-inc-gau-q2-230127689.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786143687,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "35058cf6-3ff3-3d1d-b662-63af71500e1c",
-      "title": "Park Hotels & Resorts Inc (PK) (Q2 2026) Earnings Call Highlights: Strong RevPAR Growth and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/park-hotels-resorts-inc-pk-230116684.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786143676,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "311124b4-cae6-3da5-a248-d20bba860595",
-      "title": "B2Gold Corp (BTG) (Q2 2026) Earnings Call Highlights: Fekola Regional Permit Secured, Guidance ...",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/b2gold-corp-btg-q2-2026-230115309.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786143675,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "56241adf-3327-3e56-bd06-14d88c0ab645",
+      "title": "Bitcoin price today: August 7, 2026",
+      "link": "https://finance.yahoo.com/m/56241adf-3327-3e56-bd06-14d88c0ab645/bitcoin-price-today%3A-august.html",
+      "publisher": "TheStreet",
+      "time": 1786145676,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
