@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T19:26:43.309621+00:00",
+  "updatedAt": "2026-08-07T20:04:49.858219+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7754.54,
-      "change": 30.98999999999978,
-      "changePct": 0.40124036226864307,
+      "price": 7757.64,
+      "change": 34.090000000000146,
+      "changePct": 0.4413773459095901,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26664.133,
-      "change": 300.69300000000294,
-      "changePct": 1.140568150438649,
+      "price": 26690.615,
+      "change": 327.1750000000029,
+      "changePct": 1.241017864133068,
       "currency": "USD"
     },
     {
@@ -44,73 +44,103 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.84,
-      "change": -0.3100000000000005,
-      "changePct": -2.0462046204620497,
+      "price": 14.86,
+      "change": -0.2900000000000009,
+      "changePct": -1.9141914191419203,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "ea337e77-bc68-3c73-be3a-9ce6231f3820",
-      "title": "Coca Cola Insider Sold Shares Worth $4,827,894, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-insider-sold-shares-192310680.html",
-      "publisher": "MT Newswires",
-      "time": 1786130590,
+      "id": "3c4f4e1c-d34a-3cb1-8caa-e0c94e8740a4",
+      "title": "How Trump's birthright orders could put 'question mark' on citizenship",
+      "link": "https://finance.yahoo.com/m/3c4f4e1c-d34a-3cb1-8caa-e0c94e8740a4/how-trump%27s-birthright-orders.html",
+      "publisher": "USA TODAY",
+      "time": 1786132840,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "27dc37c1-c4e3-36cd-b98a-a768f7f3274d",
-      "title": "Viking Takes Delivery of River Ship, Expanding Nile Fleet",
-      "link": "https://finance.yahoo.com/small-business/articles/viking-takes-delivery-river-ship-192301829.html",
-      "publisher": "MT Newswires",
-      "time": 1786130581,
+      "id": "1a9c870b-0338-33db-b7c0-4d46b24c6c58",
+      "title": "Vadzo Imaging Positions Falcon-258CRA 13MP Sony IMX258 Based Color Autofocus USB Camera for Medical and Industrial Imaging",
+      "link": "https://finance.yahoo.com/healthcare/articles/vadzo-imaging-positions-falcon-258cra-200000864.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786132800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9917b204-a4f3-3884-82d0-9661f4661f4e",
-      "title": "Atlassian Stock Soars 32.8% as AI Users Cross One Million",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/atlassian-stock-soars-32-8-192233398.html",
+      "id": "316661b2-b378-3b5d-bc7e-366a169acbee",
+      "title": "Top Analyst Drops Sharp Take on SpaceX Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-drops-sharp-spacex-195739278.html",
       "publisher": "GuruFocus.com",
-      "time": 1786130553,
+      "time": 1786132659,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "da6c551c-a63b-3191-90da-b734f927c73c",
-      "title": "Sector Update: Tech",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-192214692.html",
-      "publisher": "MT Newswires",
-      "time": 1786130534,
+      "id": "a14c34eb-04bb-48e0-be20-507e0acb18a5",
+      "title": "Under Armour stock drops: AlphaSpace chart breakdown",
+      "link": "https://finance.yahoo.com/video/under-armour-stock-drops-alphaspace-195724541.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1786132644,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d3023955-339d-3447-b91f-545fe8622e76",
-      "title": "Nvidia Stock Rises 2.2% as SpaceX Commits to Its Chips",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-rises-2-2-192151950.html",
+      "id": "5dbfc319-71d0-3ef9-92c0-f03eee6c9fbe",
+      "title": "Solana wants to be the Netflix of finance",
+      "link": "https://finance.yahoo.com/m/5dbfc319-71d0-3ef9-92c0-f03eee6c9fbe/solana-wants-to-be-the.html",
+      "publisher": "TheStreet",
+      "time": 1786132639,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ca7bca09-12f8-326c-9854-672efce6797f",
+      "title": "Investors haven't been this bullish since 2021, according to BofA's sentiment gauge.\n\nSo much so, strategists say it's time to reduce exposure to riskier assets.",
+      "link": "https://finance.yahoo.com/photos/investors-havent-bullish-since-2021-195641135/",
+      "publisher": "Yahoo Finance",
+      "time": 1786132601,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "97955721-cb25-37fa-9a1b-764e0d1addfd",
+      "title": "Meta Faces New Risk After Major Court Ruling",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-faces-risk-major-court-195614005.html",
       "publisher": "GuruFocus.com",
-      "time": 1786130511,
+      "time": 1786132574,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bf19da46-513b-3064-af54-accf121fb3ac",
-      "title": "Ufp Technologies Insider Sold Shares Worth $348,700, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ufp-technologies-insider-sold-shares-192121500.html",
-      "publisher": "MT Newswires",
-      "time": 1786130481,
+      "id": "7c968de9-4d4f-3bee-a61d-bdf8b69f882c",
+      "title": "Connecticut picked a pizza fight with New York — and won",
+      "link": "https://finance.yahoo.com/m/7c968de9-4d4f-3bee-a61d-bdf8b69f882c/connecticut-picked-a-pizza.html",
+      "publisher": "The Hustle",
+      "time": 1786132548,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5e886a1f-94d4-3473-a6b1-05880c1de5d7",
-      "title": "Trump renews effort to remove US Fed Governor Lisa Cook",
-      "link": "https://finance.yahoo.com/m/5e886a1f-94d4-3473-a6b1-05880c1de5d7/trump-renews-effort-to-remove.html",
-      "publisher": "AFP",
-      "time": 1786130458,
+      "id": "c85d14a2-4a73-37c6-9558-b0a171ae2256",
+      "title": "Evolving Lighter's Technical Architecture, Together",
+      "link": "https://finance.yahoo.com/m/c85d14a2-4a73-37c6-9558-b0a171ae2256/evolving-lighter%27s-technical.html",
+      "publisher": "Bankless",
+      "time": 1786132502,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "63b8b25f-266a-3267-875e-f3c238fc7b62",
+      "title": "Trump Revives Attempt to Fire Fed Governor Lisa Cook",
+      "link": "https://finance.yahoo.com/m/63b8b25f-266a-3267-875e-f3c238fc7b62/trump-revives-attempt-to-fire.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1786132440,
       "impact": "high",
       "tags": [
         "geo",
@@ -118,29 +148,29 @@
       ]
     },
     {
-      "id": "60c9488a-32e5-3abf-b1b6-0a6265f9b3c2",
-      "title": "Costco Stock Slips Despite 10.7% July Sales Jump",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-stock-slips-despite-10-192016370.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786130416,
+      "id": "43f0b03f-6b61-32a1-87dc-44fb911f7380",
+      "title": "Senate Just Punted Crypto’s Big Bill Again",
+      "link": "https://finance.yahoo.com/m/43f0b03f-6b61-32a1-87dc-44fb911f7380/senate-just-punted-crypto%E2%80%99s.html",
+      "publisher": "Moby",
+      "time": 1786132437,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ca905185-cf24-3c56-9fa8-18f54a97ae8d",
-      "title": "BitFuFu July Bitcoin Production Falls Sequentially",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitfufu-july-bitcoin-production-falls-191928605.html",
-      "publisher": "MT Newswires",
-      "time": 1786130368,
+      "id": "6a909a6a-a7fe-35a1-985f-7e41df0ce9bc",
+      "title": "Spain imposes border checks on Italy as migrant showdown grows",
+      "link": "https://finance.yahoo.com/m/6a909a6a-a7fe-35a1-985f-7e41df0ce9bc/spain-imposes-border-checks.html",
+      "publisher": "AFP",
+      "time": 1786132408,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "03aef13f-a81a-30d9-a557-9a3abe9584bc",
-      "title": "Samsung Stock Edges Higher as Investors Demand $32 Billion Buyback",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-stock-edges-higher-investors-191912588.html",
+      "id": "2bf9e770-c1f4-3a1b-bd48-d0b132278554",
+      "title": "Meta Stock Rises 1.2% Despite $942 Million Child-Safety Judgment",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-rises-1-2-195317524.html",
       "publisher": "GuruFocus.com",
-      "time": 1786130352,
+      "time": 1786132397,
       "impact": "low",
       "tags": []
     }
