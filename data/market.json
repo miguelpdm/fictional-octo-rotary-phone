@@ -1,148 +1,147 @@
 {
-  "updatedAt": "2026-08-07T14:07:53.473630+00:00",
+  "updatedAt": "2026-08-07T15:22:51.866952+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20206.7,
-      "change": 26.299999999999272,
-      "changePct": 0.1303244732512699,
+      "price": 20204.9,
+      "change": 24.5,
+      "changePct": 0.12140492755346771,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7731.09,
-      "change": 7.539999999999964,
-      "changePct": 0.09762350214603341,
+      "price": 7756.73,
+      "change": 33.17999999999938,
+      "changePct": 0.42959519909885197,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26540.05,
-      "change": 176.61000000000058,
-      "changePct": 0.6699049896371665,
+      "price": 26659.225,
+      "change": 295.78499999999985,
+      "changePct": 1.1219514600522535,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26369.22,
-      "change": 242.9200000000019,
-      "changePct": 0.929791053459548,
+      "price": 26373.18,
+      "change": 246.88000000000102,
+      "changePct": 0.9449481939654716,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6535.84,
-      "change": 33.279999999999745,
-      "changePct": 0.5117984301567343,
+      "price": 6535.99,
+      "change": 33.42999999999938,
+      "changePct": 0.5141052139464977,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.08,
-      "change": -0.07000000000000028,
-      "changePct": -0.46204620462046386,
+      "price": 14.96,
+      "change": -0.1899999999999995,
+      "changePct": -1.2541254125412509,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "883476de-62d7-35ec-802c-c46fac33fdfb",
-      "title": "Clive Owen bolsters consulting services with new hire",
-      "link": "https://finance.yahoo.com/m/883476de-62d7-35ec-802c-c46fac33fdfb/clive-owen-bolsters.html",
-      "publisher": "International Accounting Bulletin",
-      "time": 1786111545,
+      "id": "ac675bac-c737-3e5a-8d4d-d22c4273534a",
+      "title": "Citigroup Adjusts Price Target on Datadog to $305 From $300",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-adjusts-price-target-datadog-151839314.html",
+      "publisher": "MT Newswires",
+      "time": 1786115919,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9a147fad-81bf-4c88-bb5f-fb3bb8575f0a",
-      "title": "What we know about OpenAI's upcoming handheld device: Bloomberg",
-      "link": "https://finance.yahoo.com/video/know-openais-upcoming-handheld-device-140247594.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1786111367,
+      "id": "e0a690a1-d5bd-3f28-a133-41ece0e588ef",
+      "title": "Japan defender Tomiyasu joins Crystal Palace",
+      "link": "https://finance.yahoo.com/m/e0a690a1-d5bd-3f28-a133-41ece0e588ef/japan-defender-tomiyasu-joins.html",
+      "publisher": "AFP",
+      "time": 1786115788,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7b165d37-9ea7-3a31-aa1d-74bbbdb6e480",
-      "title": "Telecom Argentina: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/telecom-argentina-q2-earnings-snapshot-140129104.html",
-      "publisher": "Associated Press",
-      "time": 1786111289,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "5686c867-8d05-3688-bd2e-7d4cb858417d",
+      "title": "Benchmark Adjusts Airbnb Price Target to $180 From $160",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/benchmark-adjusts-airbnb-price-target-151526597.html",
+      "publisher": "MT Newswires",
+      "time": 1786115726,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "0d6c0cad-80ad-3b3d-9eb6-5fccba0251e2",
-      "title": "China’s growth continues as country becomes clinical trial powerhouse",
-      "link": "https://finance.yahoo.com/m/0d6c0cad-80ad-3b3d-9eb6-5fccba0251e2/china%E2%80%99s-growth-continues-as.html",
-      "publisher": "Clinical Trials Arena",
-      "time": 1786111279,
+      "id": "2247538d-9315-30bd-ae87-474f4b367536",
+      "title": "Susquehanna Adjusts Airbnb Price Target to $200 From $170",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/susquehanna-adjusts-airbnb-price-target-151509918.html",
+      "publisher": "MT Newswires",
+      "time": 1786115709,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "26ce66d8-ce14-3115-823f-9c3d8260e7d1",
+      "title": "House Buyers of America Identifies the U.S. Cities Where Owning an Older Home Is Most Expensive",
+      "link": "https://finance.yahoo.com/real-estate/articles/house-buyers-america-identifies-u-151500969.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786115700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e7600914-1525-3279-bfd1-052a1d982143",
+      "title": "European Equities Traded in the US as American Depositary Receipts Rise in Friday Trading",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151404603.html",
+      "publisher": "MT Newswires",
+      "time": 1786115644,
       "impact": "medium",
       "tags": [
         "geo"
       ]
     },
     {
-      "id": "e54c48fb-5439-3f9b-b06f-b2e94780d937",
-      "title": "BC-Merc Table",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/bc-merc-table-140035951.html",
-      "publisher": "Associated Press",
-      "time": 1786111235,
+      "id": "0a7e5c3e-9157-3cfc-a7d8-876e12ff7a4d",
+      "title": "Clarity Act Hopes Dive As Senate Delays Vote Until After Summer Recess",
+      "link": "https://finance.yahoo.com/m/0a7e5c3e-9157-3cfc-a7d8-876e12ff7a4d/clarity-act-hopes-dive-as.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786115599,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b9665650-5688-3a60-a5e3-1c7743af2cb1",
-      "title": "BC-Sugar Futures",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/bc-sugar-futures-140033881.html",
-      "publisher": "Associated Press",
-      "time": 1786111233,
+      "id": "b6fa54da-9504-3178-aa3b-d5c28a557e84",
+      "title": "NYC officials see increase in West Nile virus mosquitoes. What to know",
+      "link": "https://finance.yahoo.com/m/b6fa54da-9504-3178-aa3b-d5c28a557e84/nyc-officials-see-increase-in.html",
+      "publisher": "USA TODAY",
+      "time": 1786115599,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "77f17900-8401-3379-8b60-83dca6011015",
-      "title": "BC-BOT-Table",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/bc-bot-table-140032581.html",
-      "publisher": "Associated Press",
-      "time": 1786111232,
+      "id": "176621c6-efab-35c5-9f55-ccd836c421a3",
+      "title": "Two AI Names Bounce From Chip Sell-Off; Three More IBD 50 Stocks On Watch",
+      "link": "https://finance.yahoo.com/m/176621c6-efab-35c5-9f55-ccd836c421a3/two-ai-names-bounce-from-chip.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786115515,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     },
     {
-      "id": "21659019-444e-3b61-bd4e-e4b726e11f6b",
-      "title": "BC-US-Foreign Exchange",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/bc-us-foreign-exchange-140028779.html",
-      "publisher": "Associated Press",
-      "time": 1786111228,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8a0fe980-d14e-3755-88c0-01dd5c72e9df",
-      "title": "BC-Gold Futures",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/bc-gold-futures-140025023.html",
-      "publisher": "Associated Press",
-      "time": 1786111225,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b8ae50a3-f404-37db-9a23-fc274e6e00d6",
-      "title": "BC-Corn Futures",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/bc-corn-futures-140024510.html",
-      "publisher": "Associated Press",
-      "time": 1786111224,
+      "id": "8209625e-b787-3723-96c3-d1e96c84f28c",
+      "title": "Canopy Growth reports fiscal first quarter revenue growth, improved margins",
+      "link": "https://finance.yahoo.com/m/8209625e-b787-3723-96c3-d1e96c84f28c/canopy-growth-reports-fiscal.html",
+      "publisher": "Proactive",
+      "time": 1786115460,
       "impact": "low",
       "tags": []
     }
