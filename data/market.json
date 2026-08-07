@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T03:45:09.147306+00:00",
+  "updatedAt": "2026-08-07T05:30:10.137192+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,102 +52,106 @@
   ],
   "news": [
     {
-      "id": "827c30f0-03a2-325c-bc53-6b77978c3498",
-      "title": "You Keep $100K in Cash Just in Case. These 3 ETFs Pay You While It Waits",
-      "link": "https://finance.yahoo.com/m/827c30f0-03a2-325c-bc53-6b77978c3498/you-keep-%24100k-in-cash-just.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786073715,
+      "id": "e27cfeb6-2f7c-3af1-9c78-fe68152928a5",
+      "title": "Stepan (SCL) Posts Stronger Q2 Results And Affirms Dividend, Does The Stock Still Look Cheap?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stepan-scl-posts-stronger-q2-051612117.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786079772,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "658c4525-b2a7-31eb-9eb1-8f496df1184c",
-      "title": "Oklo Reports Friday Morning With Virtually No Revenue to Report. The Stock Trades 78% Below Its High.",
-      "link": "https://finance.yahoo.com/m/658c4525-b2a7-31eb-9eb1-8f496df1184c/oklo-reports-friday-morning.html",
-      "publisher": "Motley Fool",
-      "time": 1786073640,
+      "id": "afa1a78b-b0e5-394e-8313-e0c25d37b8a9",
+      "title": "What Block (SQ)'s Buyback Completion And Google AI Tie-Up Means For Shareholders",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/block-sq-buyback-completion-google-051603681.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786079763,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "eddbe498-cdf7-31cc-8b6d-b30e0229c368",
+      "title": "Is MEGMILK SNOW BRANDLtd (TSE:2270) Undervalued Ahead Of Its Q1 2027 Earnings Call?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/megmilk-snow-brandltd-tse-2270-051554064.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786079754,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "ba4e2cb6-4802-3381-a509-83ff5263ae98",
-      "title": "UPDATED: DARPA Selects IonQ to Produce Next-Generation Atomic Clocks",
-      "link": "https://finance.yahoo.com/technology/ai/articles/updated-darpa-selects-ionq-produce-033400776.html",
-      "publisher": "Business Wire",
-      "time": 1786073640,
+      "id": "43c450c9-e33e-3a8f-82b9-02caa30c4d75",
+      "title": "United Parks & Resorts (PRKS) Stock Sees Fair Value Lift After Mixed Analyst Revisions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/united-parks-resorts-prks-stock-051551157.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786079751,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6b674405-5b32-3fec-a774-eb04d3b10c43",
-      "title": "Panthers edge Cardinals in NFL pre-season opener",
-      "link": "https://finance.yahoo.com/m/6b674405-5b32-3fec-a774-eb04d3b10c43/panthers-edge-cardinals-in.html",
-      "publisher": "AFP",
-      "time": 1786073490,
+      "id": "9f7b29eb-ecb9-303d-a6f5-efdd4fdfc5fb",
+      "title": "BioMarin (BMRN) Stock May Be Above Fair Value After ReNU Therapy Deal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/biomarin-bmrn-stock-may-above-051513019.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786079713,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1e0f1bce-e1da-3bab-90dc-79d1e2455637",
-      "title": "Exclusive-Hackers targeted US private equity, other firms including Blackstone, CME, data shows",
-      "link": "https://finance.yahoo.com/m/1e0f1bce-e1da-3bab-90dc-79d1e2455637/exclusive-hackers-targeted-us.html",
-      "publisher": "Reuters",
-      "time": 1786073110,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "61275ce3-b74b-3ded-ba2b-b5b5702b58be",
-      "title": "Can't-Miss Play: Walk-off TD! Panthers prevail thanks to Haynes King's goal-line reach vs. Cards",
-      "link": "https://finance.yahoo.com/m/61275ce3-b74b-3ded-ba2b-b5b5702b58be/can%27t-miss-play%3A-walk-off-td%21.html",
-      "publisher": "NFL Highlights",
-      "time": 1786072850,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5e2abf78-c7b2-3dfc-bab3-512246860209",
-      "title": "3 Overlooked Stocks Poised to Follow Nebius Higher",
-      "link": "https://finance.yahoo.com/m/5e2abf78-c7b2-3dfc-bab3-512246860209/3-overlooked-stocks-poised-to.html",
-      "publisher": "Motley Fool",
-      "time": 1786072800,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "a84dad78-4222-33b9-a0c8-c65db59a0c6e",
-      "title": "China's July exports beat expectations on robust high-tech demand",
-      "link": "https://finance.yahoo.com/economy/articles/chinas-july-exports-climb-23-024150342.html",
-      "publisher": "Reuters",
-      "time": 1786072790,
+      "id": "f4110dde-6768-3beb-ac94-932eece8a3b7",
+      "title": "IPG Photonics (IPGP) Earnings Put Its Recovery Story And Valuation Back In Focus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ipg-photonics-ipgp-earnings-put-051509879.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786079709,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "acf920c2-aa4a-32e6-8992-0d6d98dce5ff",
-      "title": "Japan's April yen intervention set daily record as pressure persists",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/japans-april-yen-intervention-set-031548687.html",
-      "publisher": "Reuters",
-      "time": 1786072548,
+      "id": "5ff5ffc8-fabb-3113-92a5-377870be35b3",
+      "title": "Zimmer Biomet Holdings (ZBH) Following Its Beat And Guidance Lift, Is The Valuation Catching Up?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zimmer-biomet-holdings-zbh-following-051502115.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786079702,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "5652fd7d-123e-34aa-96d5-e6c2160a0220",
+      "title": "Motorola Solutions (MSI) Is Up 10.0% After Raising 2026 Guidance On Record Backlog And Buybacks – Has The Bull Case Changed?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/motorola-solutions-msi-10-0-051459976.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786079699,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "785730ae-17fd-31de-af7e-5a22d819a895",
+      "title": "SpaceX (SPCX) Unveils Orbital AI Network And $16.8 Billion Chip Factory Plans",
+      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-spcx-unveils-orbital-ai-051429949.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786079669,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ffa63184-ef50-3e14-8952-4355b77d12c1",
-      "title": "You Thought You Owned 3,600 Stocks—You Actually Own a $1.2 Trillion Tech Bet",
-      "link": "https://finance.yahoo.com/m/ffa63184-ef50-3e14-8952-4355b77d12c1/you-thought-you-owned-3%2C600.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786072501,
+      "id": "24adae10-62ab-3fa5-8085-a7f48be1c28d",
+      "title": "Newmont (NEM) Stock Stays Reasonable Following Its 183% Three Year Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/newmont-nem-stock-stays-reasonable-051420877.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786079660,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     }
   ],
   "errors": {
