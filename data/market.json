@@ -1,122 +1,80 @@
 {
-  "updatedAt": "2026-08-07T12:48:08.663909+00:00",
+  "updatedAt": "2026-08-07T14:07:53.473630+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20271.5,
-      "change": 91.09999999999854,
-      "changePct": 0.4514281183722748,
+      "price": 20206.7,
+      "change": 26.299999999999272,
+      "changePct": 0.1303244732512699,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7709.96,
-      "change": -26.5600000000004,
-      "changePct": -0.343306809780113,
+      "price": 7731.09,
+      "change": 7.539999999999964,
+      "changePct": 0.09762350214603341,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26348.352,
-      "change": -236.63800000000265,
-      "changePct": -0.8901188226890536,
+      "price": 26540.05,
+      "change": 176.61000000000058,
+      "changePct": 0.6699049896371665,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26398.45,
-      "change": 272.15000000000146,
-      "changePct": 1.0416706537091032,
+      "price": 26369.22,
+      "change": 242.9200000000019,
+      "changePct": 0.929791053459548,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6552.6,
-      "change": 50.039999999999964,
-      "changePct": 0.7695430722669219,
+      "price": 6535.84,
+      "change": 33.279999999999745,
+      "changePct": 0.5117984301567343,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.1,
-      "change": -0.05000000000000071,
-      "changePct": -0.3300330033003347,
+      "price": 15.08,
+      "change": -0.07000000000000028,
+      "changePct": -0.46204620462046386,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "194cab7c-a7e9-4ff5-a70f-95670c01f1d3",
-      "title": "Silver prices today, Friday, August 7, 2026: Silver surge continues as jobs report disappoints",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-august-7-2026-silver-surge-continues-as-jobs-report-disappoints-124342659.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1786106622,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "dec48c54-2300-36d1-92a3-938fa0b4eeeb",
-      "title": "U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower",
-      "link": "https://finance.yahoo.com/m/dec48c54-2300-36d1-92a3-938fa0b4eeeb/u.s.-lost-23%2C000-jobs-in.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1786106580,
+      "id": "883476de-62d7-35ec-802c-c46fac33fdfb",
+      "title": "Clive Owen bolsters consulting services with new hire",
+      "link": "https://finance.yahoo.com/m/883476de-62d7-35ec-802c-c46fac33fdfb/clive-owen-bolsters.html",
+      "publisher": "International Accounting Bulletin",
+      "time": 1786111545,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a2a88970-663a-3018-84f6-8e1dfc089f0b",
-      "title": "Treasury Yields Fall After Jobs Miss",
-      "link": "https://finance.yahoo.com/m/a2a88970-663a-3018-84f6-8e1dfc089f0b/treasury-yields-fall-after.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1786106518,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9790d98a-80f7-33b7-8a2d-fa1c20431fe7",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-124000471.html",
-      "publisher": "Business Wire",
-      "time": 1786106400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ea7fdb5d-d518-32f4-b5a1-88597086d120",
-      "title": "Take-Two Logs Higher Sales but Loss Widens",
-      "link": "https://finance.yahoo.com/m/ea7fdb5d-d518-32f4-b5a1-88597086d120/take-two-logs-higher-sales.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1786106400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3c9a5163-5a64-4cf2-bd40-191b8e0f29af",
-      "title": "US economy shed 23,000 jobs in July, economists forecasted gain of 80K",
-      "link": "https://finance.yahoo.com/video/us-economy-shed-23-000-123956175.html",
+      "id": "9a147fad-81bf-4c88-bb5f-fb3bb8575f0a",
+      "title": "What we know about OpenAI's upcoming handheld device: Bloomberg",
+      "link": "https://finance.yahoo.com/video/know-openais-upcoming-handheld-device-140247594.html",
       "publisher": "Yahoo Finance Video",
-      "time": 1786106396,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "time": 1786111367,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "2eabe10b-c898-360c-9f02-755d49cedf6f",
-      "title": "Maiden Holdings: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/maiden-holdings-q2-earnings-snapshot-123948975.html",
+      "id": "7b165d37-9ea7-3a31-aa1d-74bbbdb6e480",
+      "title": "Telecom Argentina: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/telecom-argentina-q2-earnings-snapshot-140129104.html",
       "publisher": "Associated Press",
-      "time": 1786106388,
+      "time": 1786111289,
       "impact": "medium",
       "tags": [
         "macro",
@@ -124,34 +82,69 @@
       ]
     },
     {
-      "id": "d4a7f241-a44b-3d84-b35b-6c02a6ab337a",
-      "title": "UBS sees gold rising to $5,000/oz by first half of 2027",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/ubs-sees-gold-rising-5-123943338.html",
-      "publisher": "Investing.com",
-      "time": 1786106383,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8fb3c7b2-7aa2-3e95-aa31-d4c940c24fca",
-      "title": "BMW starts series production of BMW i3",
-      "link": "https://finance.yahoo.com/m/8fb3c7b2-7aa2-3e95-aa31-d4c940c24fca/bmw-starts-series-production.html",
-      "publisher": "Just Auto",
-      "time": 1786106365,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fef6e33a-27eb-309b-9b52-dc4fb710d408",
-      "title": "Trade Desk Stock Crashes After Earnings Miss Shocks Wall Street",
-      "link": "https://finance.yahoo.com/media-advertising/articles/trade-desk-stock-crashes-earnings-123858832.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786106338,
+      "id": "0d6c0cad-80ad-3b3d-9eb6-5fccba0251e2",
+      "title": "China’s growth continues as country becomes clinical trial powerhouse",
+      "link": "https://finance.yahoo.com/m/0d6c0cad-80ad-3b3d-9eb6-5fccba0251e2/china%E2%80%99s-growth-continues-as.html",
+      "publisher": "Clinical Trials Arena",
+      "time": 1786111279,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
+    },
+    {
+      "id": "e54c48fb-5439-3f9b-b06f-b2e94780d937",
+      "title": "BC-Merc Table",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/bc-merc-table-140035951.html",
+      "publisher": "Associated Press",
+      "time": 1786111235,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b9665650-5688-3a60-a5e3-1c7743af2cb1",
+      "title": "BC-Sugar Futures",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/bc-sugar-futures-140033881.html",
+      "publisher": "Associated Press",
+      "time": 1786111233,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "77f17900-8401-3379-8b60-83dca6011015",
+      "title": "BC-BOT-Table",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/bc-bot-table-140032581.html",
+      "publisher": "Associated Press",
+      "time": 1786111232,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "21659019-444e-3b61-bd4e-e4b726e11f6b",
+      "title": "BC-US-Foreign Exchange",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/bc-us-foreign-exchange-140028779.html",
+      "publisher": "Associated Press",
+      "time": 1786111228,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8a0fe980-d14e-3755-88c0-01dd5c72e9df",
+      "title": "BC-Gold Futures",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/bc-gold-futures-140025023.html",
+      "publisher": "Associated Press",
+      "time": 1786111225,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b8ae50a3-f404-37db-9a23-fc274e6e00d6",
+      "title": "BC-Corn Futures",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/bc-corn-futures-140024510.html",
+      "publisher": "Associated Press",
+      "time": 1786111224,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
