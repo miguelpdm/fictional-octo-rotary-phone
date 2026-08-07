@@ -1,149 +1,165 @@
 {
-  "updatedAt": "2026-08-07T15:22:51.866952+00:00",
+  "updatedAt": "2026-08-07T16:14:16.785582+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20204.9,
-      "change": 24.5,
-      "changePct": 0.12140492755346771,
+      "price": 20176.0,
+      "change": -4.400000000001455,
+      "changePct": -0.021803333927976922,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7756.73,
-      "change": 33.17999999999938,
-      "changePct": 0.42959519909885197,
+      "price": 7755.48,
+      "change": 31.92999999999938,
+      "changePct": 0.41341093150169783,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26659.225,
-      "change": 295.78499999999985,
-      "changePct": 1.1219514600522535,
+      "price": 26671.791,
+      "change": 308.3510000000024,
+      "changePct": 1.16961595300159,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26373.18,
-      "change": 246.88000000000102,
-      "changePct": 0.9449481939654716,
+      "price": 26319.45,
+      "change": 193.15000000000146,
+      "changePct": 0.7392933557373278,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6535.99,
-      "change": 33.42999999999938,
-      "changePct": 0.5141052139464977,
+      "price": 6523.86,
+      "change": 21.299999999999272,
+      "changePct": 0.32756329814718005,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.96,
-      "change": -0.1899999999999995,
-      "changePct": -1.2541254125412509,
+      "price": 14.94,
+      "change": -0.21000000000000085,
+      "changePct": -1.3861386138613918,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "ac675bac-c737-3e5a-8d4d-d22c4273534a",
-      "title": "Citigroup Adjusts Price Target on Datadog to $305 From $300",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-adjusts-price-target-datadog-151839314.html",
-      "publisher": "MT Newswires",
-      "time": 1786115919,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e0a690a1-d5bd-3f28-a133-41ece0e588ef",
-      "title": "Japan defender Tomiyasu joins Crystal Palace",
-      "link": "https://finance.yahoo.com/m/e0a690a1-d5bd-3f28-a133-41ece0e588ef/japan-defender-tomiyasu-joins.html",
-      "publisher": "AFP",
-      "time": 1786115788,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5686c867-8d05-3688-bd2e-7d4cb858417d",
-      "title": "Benchmark Adjusts Airbnb Price Target to $180 From $160",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/benchmark-adjusts-airbnb-price-target-151526597.html",
-      "publisher": "MT Newswires",
-      "time": 1786115726,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2247538d-9315-30bd-ae87-474f4b367536",
-      "title": "Susquehanna Adjusts Airbnb Price Target to $200 From $170",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/susquehanna-adjusts-airbnb-price-target-151509918.html",
-      "publisher": "MT Newswires",
-      "time": 1786115709,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "26ce66d8-ce14-3115-823f-9c3d8260e7d1",
-      "title": "House Buyers of America Identifies the U.S. Cities Where Owning an Older Home Is Most Expensive",
-      "link": "https://finance.yahoo.com/real-estate/articles/house-buyers-america-identifies-u-151500969.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786115700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e7600914-1525-3279-bfd1-052a1d982143",
-      "title": "European Equities Traded in the US as American Depositary Receipts Rise in Friday Trading",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151404603.html",
-      "publisher": "MT Newswires",
-      "time": 1786115644,
+      "id": "938045aa-a0bc-3fbf-b386-401d9570ec5b",
+      "title": "US stocks, bonds rally after soft jobs report; yen bounces back",
+      "link": "https://finance.yahoo.com/news/asian-shares-pause-us-jobs-021601155.html",
+      "publisher": "Reuters",
+      "time": 1786118872,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "0a7e5c3e-9157-3cfc-a7d8-876e12ff7a4d",
-      "title": "Clarity Act Hopes Dive As Senate Delays Vote Until After Summer Recess",
-      "link": "https://finance.yahoo.com/m/0a7e5c3e-9157-3cfc-a7d8-876e12ff7a4d/clarity-act-hopes-dive-as.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1786115599,
+      "id": "e6343c6b-5367-3b49-8d47-a55dde0b363b",
+      "title": "WHO urges Ervebo vaccine trial in DR Congo Ebola outbreak",
+      "link": "https://finance.yahoo.com/m/e6343c6b-5367-3b49-8d47-a55dde0b363b/who-urges-ervebo-vaccine.html",
+      "publisher": "AFP",
+      "time": 1786118838,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b6fa54da-9504-3178-aa3b-d5c28a557e84",
-      "title": "NYC officials see increase in West Nile virus mosquitoes. What to know",
-      "link": "https://finance.yahoo.com/m/b6fa54da-9504-3178-aa3b-d5c28a557e84/nyc-officials-see-increase-in.html",
-      "publisher": "USA TODAY",
-      "time": 1786115599,
+      "id": "81a8e1db-1a47-3d36-9e8d-909c195b4c3c",
+      "title": "Bitcoin Still in Death Cross as Jobs Miss Cuts Rate-Hike Odds",
+      "link": "https://finance.yahoo.com/m/81a8e1db-1a47-3d36-9e8d-909c195b4c3c/bitcoin-still-in-death-cross.html",
+      "publisher": "decrypt",
+      "time": 1786118832,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "176621c6-efab-35c5-9f55-ccd836c421a3",
-      "title": "Two AI Names Bounce From Chip Sell-Off; Three More IBD 50 Stocks On Watch",
-      "link": "https://finance.yahoo.com/m/176621c6-efab-35c5-9f55-ccd836c421a3/two-ai-names-bounce-from-chip.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1786115515,
+      "id": "971e4194-b0aa-33b8-8f86-b5eb0e631c92",
+      "title": "Celsius jumps 12% as Rockstar founder builds 4.7% stake, demands CEO ouster",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/celsius-jumps-12-rockstar-founder-160429410.html",
+      "publisher": "Investing.com",
+      "time": 1786118669,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "15b16179-3fd2-3bc5-9810-f7389d6dd82c",
+      "title": "Anterix Shareholders Approve Board, Pay and Expanded 2023 Stock Plan",
+      "link": "https://finance.yahoo.com/m/15b16179-3fd2-3bc5-9810-f7389d6dd82c/anterix-shareholders-approve.html",
+      "publisher": "MarketBeat",
+      "time": 1786118664,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "8209625e-b787-3723-96c3-d1e96c84f28c",
-      "title": "Canopy Growth reports fiscal first quarter revenue growth, improved margins",
-      "link": "https://finance.yahoo.com/m/8209625e-b787-3723-96c3-d1e96c84f28c/canopy-growth-reports-fiscal.html",
-      "publisher": "Proactive",
-      "time": 1786115460,
-      "impact": "low",
-      "tags": []
+      "id": "38416b47-ade6-3d4f-b158-d6a33a09c644",
+      "title": "Runway Growth Finance Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/38416b47-ade6-3d4f-b158-d6a33a09c644/runway-growth-finance-q2.html",
+      "publisher": "MarketBeat",
+      "time": 1786118664,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "076973d0-4c64-356b-a05f-7ea9ddb78207",
+      "title": "Nutex Health Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/076973d0-4c64-356b-a05f-7ea9ddb78207/nutex-health-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1786118663,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "8d358b47-8de4-3ecd-aa7d-78b5c2ae1083",
+      "title": "Portman Ridge Finance Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/8d358b47-8de4-3ecd-aa7d-78b5c2ae1083/portman-ridge-finance-q2.html",
+      "publisher": "MarketBeat",
+      "time": 1786118663,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9c41585b-0074-3422-ad48-eb2e2f5a23bd",
+      "title": "Plains All American Pipeline Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/9c41585b-0074-3422-ad48-eb2e2f5a23bd/plains-all-american-pipeline.html",
+      "publisher": "MarketBeat",
+      "time": 1786118663,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "c50212b7-9f29-3172-b8eb-456b6b50d88f",
+      "title": "Construction Partners Q3 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/c50212b7-9f29-3172-b8eb-456b6b50d88f/construction-partners-q3.html",
+      "publisher": "MarketBeat",
+      "time": 1786118663,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
