@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-07T10:46:31.392145+00:00",
+  "updatedAt": "2026-08-07T11:39:57.375990+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20226.6,
-      "change": 46.19999999999709,
-      "changePct": 0.22893500624366755,
+      "price": 20230.5,
+      "change": 50.099999999998545,
+      "changePct": 0.2482606885889206,
       "currency": "EUR"
     },
     {
@@ -28,53 +28,35 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26338.47,
-      "change": 212.1700000000019,
-      "changePct": 0.8120935608945847,
+      "price": 26374.26,
+      "change": 247.95999999999913,
+      "changePct": 0.9490819595579899,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6540.47,
-      "change": 37.909999999999854,
-      "changePct": 0.5830011564676043,
+      "price": 6546.71,
+      "change": 44.149999999999636,
+      "changePct": 0.6789633621219894,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.27,
-      "change": 0.11999999999999922,
-      "changePct": 0.7920792079207869,
+      "price": 15.22,
+      "change": 0.07000000000000028,
+      "changePct": 0.46204620462046386,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "a4a4372e-0822-3c9a-94dc-37a8e266cfd3",
-      "title": "Indonesia defers tax plan for e-commerce sellers until November",
-      "link": "https://finance.yahoo.com/m/a4a4372e-0822-3c9a-94dc-37a8e266cfd3/indonesia-defers-tax-plan-for.html",
-      "publisher": "Retail Insight Network",
-      "time": 1786099415,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2f2526b1-4fb0-3113-9801-fc327a0c1163",
-      "title": "McDermott wins ExxonMobil LoI for Rovuma LNG engineering work",
-      "link": "https://finance.yahoo.com/m/2f2526b1-4fb0-3113-9801-fc327a0c1163/mcdermott-wins-exxonmobil-loi.html",
-      "publisher": "Offshore Technology",
-      "time": 1786099395,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "99b132ee-7990-396f-853f-8e34d4da1bd1",
-      "title": "Essent Group: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/essent-group-q2-earnings-snapshot-103941217.html",
-      "publisher": "Associated Press",
-      "time": 1786099181,
+      "id": "e8971970-b5f8-3365-8f34-4d3309fcac5b",
+      "title": "Lyft Q2 2026 earnings: record bookings, profit miss",
+      "link": "https://finance.yahoo.com/m/e8971970-b5f8-3365-8f34-4d3309fcac5b/lyft-q2-2026-earnings%3A-record.html",
+      "publisher": "Quartz",
+      "time": 1786102352,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,71 +64,91 @@
       ]
     },
     {
-      "id": "af97f15f-48de-3300-bc9a-0cd4f45dbee6",
-      "title": "DSMB approves dose escalation in PepGen’s FREEDOM2-DM1 study",
-      "link": "https://finance.yahoo.com/m/af97f15f-48de-3300-bc9a-0cd4f45dbee6/dsmb-approves-dose-escalation.html",
-      "publisher": "Clinical Trials Arena",
-      "time": 1786099091,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "316189c0-0208-3a52-907e-8f1448ccd2e8",
-      "title": "Dow Jones Futures: Cloudflare Leads 5 Software Earnings Winners Late; Jobs Report On Tap",
-      "link": "https://finance.yahoo.com/m/316189c0-0208-3a52-907e-8f1448ccd2e8/dow-jones-futures%3A-cloudflare.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1786099009,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "1b9e2703-e086-3541-8b3a-23b40aac7feb",
-      "title": "/C O R R E C T I O N -- Trip.com Group/",
-      "link": "https://finance.yahoo.com/small-business/articles/c-o-r-r-e-103500099.html",
-      "publisher": "CNW Group",
-      "time": 1786098900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2eb7a85f-1e0c-313c-9561-d59f7236a1c9",
-      "title": "SpaceX Stock Is Down 50% From Its Peak. Here's 1 Reason to Buy the Dip, and 1 Reason to Run for the Hills.",
-      "link": "https://finance.yahoo.com/m/2eb7a85f-1e0c-313c-9561-d59f7236a1c9/spacex-stock-is-down-50%25-from.html",
-      "publisher": "Motley Fool",
-      "time": 1786098900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "93355511-eaf5-369a-8502-1b324e7e87b4",
-      "title": "Warren Buffett shares the ‘secret sauce’ to Berkshire Hathaway's dominance. Use his strategy to grow your own wealth now",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-shares-secret-sauce-103500180.html",
-      "publisher": "Moneywise",
-      "time": 1786098900,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "01afd229-d126-3af2-b9c7-33ba5df0c0da",
-      "title": "Popeyes Continues Work to Break Sales Slump",
-      "link": "https://finance.yahoo.com/m/01afd229-d126-3af2-b9c7-33ba5df0c0da/popeyes-continues-work-to.html",
-      "publisher": "QSR",
-      "time": 1786098869,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "47663681-47b7-36d2-959e-c19c894b5f1c",
-      "title": "MDA Space Posts Increase in Adjusted Net Income YoY",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mda-space-posts-increase-adjusted-103400220.html",
+      "id": "2b78fcbb-80c7-3fc5-97fb-89c2ba74c500",
+      "title": "Construction Partners Fiscal Q3 Adjusted Earnings, Revenue Rise; Raises Fiscal 2026 Revenue Guidance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/construction-partners-fiscal-q3-adjusted-113117056.html",
       "publisher": "MT Newswires",
-      "time": 1786098840,
+      "time": 1786102277,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "dcf9c5ff-2257-3435-a402-613dbe04f159",
+      "title": "Form 8.3",
+      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-113100625.html",
+      "publisher": "Business Wire",
+      "time": 1786102260,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e3acbbee-2a8a-338d-87a9-465560374a02",
+      "title": "Canada's Real Estate Outlook Shaped by Uneven Housing Trends, RBC Says",
+      "link": "https://finance.yahoo.com/real-estate/articles/canada-apos-real-estate-outlook-113027082.html",
+      "publisher": "MT Newswires",
+      "time": 1786102227,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "12331d0a-3530-3f12-9bbc-c465bd02be6f",
+      "title": "Take-Two Interactive Software, Inc. Reports Results for Fiscal First Quarter 2027",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-inc-reports-113000487.html",
+      "publisher": "Business Wire",
+      "time": 1786102200,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "283e77f0-eb7a-3af7-9efe-92b12f20ae64",
+      "title": "2 Space Stocks to Buy in August",
+      "link": "https://finance.yahoo.com/m/283e77f0-eb7a-3af7-9efe-92b12f20ae64/2-space-stocks-to-buy-in.html",
+      "publisher": "Motley Fool",
+      "time": 1786102200,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "36884d11-d1f5-3ccf-b02d-127fde694a65",
+      "title": "Lomiko Metals Provides Update on Arrangement With Global Battery Materials, Loan Facility and Funding of the Yellow Fox Project",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lomiko-metals-provides-arrangement-global-113000293.html",
+      "publisher": "Business Wire",
+      "time": 1786102200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5491b444-e5be-3672-81f5-e3aa26e304e2",
+      "title": "Standard Uranium Reaches Agreement for $3 Million Strategic Investment",
+      "link": "https://finance.yahoo.com/energy/articles/standard-uranium-reaches-agreement-3-113000170.html",
+      "publisher": "TMX Newsfile",
+      "time": 1786102200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8a21bcd2-8067-3a48-89c5-a30e19fca974",
+      "title": "Faeth Therapeutics to Present PK/PD Modeling That Informed PIKTOR Dose Selection in Ongoing FTH-PIK-201 Trial at Upcoming Scientific Conference",
+      "link": "https://finance.yahoo.com/healthcare/articles/faeth-therapeutics-present-pk-pd-113000188.html",
+      "publisher": "Business Wire",
+      "time": 1786102200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c886d0f6-38bb-34d4-8d67-3fd84fa1163b",
+      "title": "Firy to Report 2026 Second Quarter Results on August 13, 2026 and Host a Conference Call and Webcast on August 14, 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/firy-report-2026-second-quarter-113000299.html",
+      "publisher": "Business Wire",
+      "time": 1786102200,
       "impact": "low",
       "tags": []
     }
