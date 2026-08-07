@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T18:09:01.738359+00:00",
+  "updatedAt": "2026-08-07T19:26:43.309621+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7744.9,
-      "change": 21.349999999999454,
-      "changePct": 0.2764272905593859,
+      "price": 7754.54,
+      "change": 30.98999999999978,
+      "changePct": 0.40124036226864307,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26608.023,
-      "change": 244.58300000000236,
-      "changePct": 0.9277355307198241,
+      "price": 26664.133,
+      "change": 300.69300000000294,
+      "changePct": 1.140568150438649,
       "currency": "USD"
     },
     {
@@ -44,109 +44,103 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.95,
-      "change": -0.20000000000000107,
-      "changePct": -1.320132013201327,
+      "price": 14.84,
+      "change": -0.3100000000000005,
+      "changePct": -2.0462046204620497,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "2dbb7f85-1c85-3746-947c-99054b52533b",
-      "title": "Media Advisory: Major Infrastructure Announcement in Inkerman",
-      "link": "https://finance.yahoo.com/real-estate/articles/media-advisory-major-infrastructure-announcement-180300507.html",
-      "publisher": "CNW Group",
-      "time": 1786125780,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2c5ad9e0-b51f-3cd7-a216-adc1b20b6370",
-      "title": "Xenon Pharmaceuticals' Azetukalner NDA Filing Remains on Track After FDA Meeting, RBC Says",
-      "link": "https://finance.yahoo.com/healthcare/articles/xenon-pharmaceuticals-apos-azetukalner-nda-180212752.html",
+      "id": "ea337e77-bc68-3c73-be3a-9ce6231f3820",
+      "title": "Coca Cola Insider Sold Shares Worth $4,827,894, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-insider-sold-shares-192310680.html",
       "publisher": "MT Newswires",
-      "time": 1786125732,
+      "time": 1786130590,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4fa87019-76ee-365b-94e0-35939261f0dd",
-      "title": "Amazon vs MercadoLibre: Two E-Commerce Titans, Only One is The Smarter Buy Now",
-      "link": "https://finance.yahoo.com/m/4fa87019-76ee-365b-94e0-35939261f0dd/amazon-vs-mercadolibre%3A-two.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786125633,
+      "id": "27dc37c1-c4e3-36cd-b98a-a768f7f3274d",
+      "title": "Viking Takes Delivery of River Ship, Expanding Nile Fleet",
+      "link": "https://finance.yahoo.com/small-business/articles/viking-takes-delivery-river-ship-192301829.html",
+      "publisher": "MT Newswires",
+      "time": 1786130581,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9917b204-a4f3-3884-82d0-9661f4661f4e",
+      "title": "Atlassian Stock Soars 32.8% as AI Users Cross One Million",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/atlassian-stock-soars-32-8-192233398.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786130553,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "da6c551c-a63b-3191-90da-b734f927c73c",
+      "title": "Sector Update: Tech",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-192214692.html",
+      "publisher": "MT Newswires",
+      "time": 1786130534,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d3023955-339d-3447-b91f-545fe8622e76",
+      "title": "Nvidia Stock Rises 2.2% as SpaceX Commits to Its Chips",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-rises-2-2-192151950.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786130511,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bf19da46-513b-3064-af54-accf121fb3ac",
+      "title": "Ufp Technologies Insider Sold Shares Worth $348,700, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ufp-technologies-insider-sold-shares-192121500.html",
+      "publisher": "MT Newswires",
+      "time": 1786130481,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5e886a1f-94d4-3473-a6b1-05880c1de5d7",
+      "title": "Trump renews effort to remove US Fed Governor Lisa Cook",
+      "link": "https://finance.yahoo.com/m/5e886a1f-94d4-3473-a6b1-05880c1de5d7/trump-renews-effort-to-remove.html",
+      "publisher": "AFP",
+      "time": 1786130458,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "cb138d54-e5a2-3304-b5a9-8a992f95dc1a",
-      "title": "Sportico Transactions: Moves and Mergers Roundup for Aug. 7",
-      "link": "https://finance.yahoo.com/m/cb138d54-e5a2-3304-b5a9-8a992f95dc1a/sportico-transactions%3A-moves.html",
-      "publisher": "Sportico",
-      "time": 1786125600,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "fc3d8c2b-2471-3ead-92ba-f72ea740e85b",
-      "title": "Media advisory - Minister MacKinnon to announce measures to strengthen interprovincial trade of Canadian steel",
-      "link": "https://finance.yahoo.com/economy/policy/articles/media-advisory-minister-mackinnon-announce-180000139.html",
-      "publisher": "CNW Group",
-      "time": 1786125600,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "f368471e-063b-3dc3-b2d1-c87fa4996320",
-      "title": "Will drones make schools safer? Anti-shooter tech coming to GA schools",
-      "link": "https://finance.yahoo.com/m/f368471e-063b-3dc3-b2d1-c87fa4996320/will-drones-make-schools.html",
-      "publisher": "USA TODAY",
-      "time": 1786125565,
+      "id": "60c9488a-32e5-3abf-b1b6-0a6265f9b3c2",
+      "title": "Costco Stock Slips Despite 10.7% July Sales Jump",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-stock-slips-despite-10-192016370.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786130416,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "83be38a0-c777-343f-9c45-e1f0ad1284c3",
-      "title": "Watts Water Seen Benefiting From Data-Center Boom, Europe Recovery, RBC Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/watts-water-seen-benefiting-data-175923363.html",
+      "id": "ca905185-cf24-3c56-9fa8-18f54a97ae8d",
+      "title": "BitFuFu July Bitcoin Production Falls Sequentially",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitfufu-july-bitcoin-production-falls-191928605.html",
       "publisher": "MT Newswires",
-      "time": 1786125563,
+      "time": 1786130368,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "118c42ce-2f57-3fea-a817-94383538b622",
-      "title": "Update: Market Chatter: OpenAI Slows Release of Astra Model Over Cyber Concerns",
-      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-openai-slows-release-175907290.html",
-      "publisher": "MT Newswires",
-      "time": 1786125547,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "c7536f61-fce8-31e7-8b4f-d99b3f627a6e",
-      "title": "Top Midday Decliners",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-175846982.html",
-      "publisher": "MT Newswires",
-      "time": 1786125526,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7e34bc35-5443-332a-8a68-3d3bc3b76b2b",
-      "title": "Why Dutch Bros Stock Is Plummeting Lower This Week",
-      "link": "https://finance.yahoo.com/m/7e34bc35-5443-332a-8a68-3d3bc3b76b2b/why-dutch-bros-stock-is.html",
-      "publisher": "Motley Fool",
-      "time": 1786125456,
+      "id": "03aef13f-a81a-30d9-a557-9a3abe9584bc",
+      "title": "Samsung Stock Edges Higher as Investors Demand $32 Billion Buyback",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-stock-edges-higher-investors-191912588.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786130352,
       "impact": "low",
       "tags": []
     }
