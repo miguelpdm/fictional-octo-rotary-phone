@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T08:32:58.275802+00:00",
+  "updatedAt": "2026-08-08T09:30:48.655824+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,99 +52,103 @@
   ],
   "news": [
     {
-      "id": "c153af11-22b6-3446-8e4f-539957fd8562",
-      "title": "JPMorgan's $1.5 Trillion Initiative to Finance U.S. Shipbuilding and Defense Could Be a Tailwind for Industrial and Defense Stocks",
-      "link": "https://finance.yahoo.com/m/c153af11-22b6-3446-8e4f-539957fd8562/jpmorgan%27s-%241.5-trillion.html",
+      "id": "acc3e9e3-6a5b-3fcb-9a4c-4ef853051275",
+      "title": "Bitcoin rises toward $65,000 as fresh security risks hit infrastructure",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rises-toward-65-000-092116909.html",
+      "publisher": "Investing.com",
+      "time": 1786180876,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "00362cfb-a09f-3fa3-a786-aa5e4b17f5a4",
+      "title": "Amazon's Stock Just Soared 15%. Here's Why Now Is Just the Beginning.",
+      "link": "https://finance.yahoo.com/m/00362cfb-a09f-3fa3-a786-aa5e4b17f5a4/amazon%27s-stock-just-soared.html",
       "publisher": "Motley Fool",
-      "time": 1786177500,
+      "time": 1786180800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "15aa5737-33ef-3e17-a3e4-4bbf88287f34",
+      "title": "Jim Cramer Names 5 Investing Themes and 13 Stocks to Buy for 2026",
+      "link": "https://finance.yahoo.com/m/15aa5737-33ef-3e17-a3e4-4bbf88287f34/jim-cramer-names-5-investing.html",
+      "publisher": "BeInCrypto",
+      "time": 1786180793,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "9ba5f091-02f2-3e3f-9f1a-b4a82a88d36e",
-      "title": "Uber Technologies (UBER) Lands Licensed Autonomous Rides In London With 100,000 Sign Ups",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-uber-lands-licensed-081440726.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786176880,
+      "id": "6dba939a-7626-3f43-9647-d128f157978d",
+      "title": "US Senate confirms Trump's ex-lawyer as attorney general",
+      "link": "https://finance.yahoo.com/m/6dba939a-7626-3f43-9647-d128f157978d/us-senate-confirms-trump%27s.html",
+      "publisher": "AFP",
+      "time": 1786180699,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e87ab059-a304-3eb5-92ef-908e56895f5b",
-      "title": "Core Natural Resources (CNR) Is Up 12.2% After Leer South Insurance Boost Drives Q2 Profitability - What's Changed",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/core-natural-resources-cnr-12-081440179.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786176880,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "6e17dff8-96b6-3609-a77d-182d67c8e5bd",
-      "title": "Gold Royalty (GROY) Posts Record First Half Results, Is The Valuation Gap Too Wide?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gold-royalty-groy-posts-record-081433541.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786176873,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b92813c1-e6f7-32ae-a74d-cacf541effd8",
-      "title": "Watts Water Technologies (WTS) Delivered $763.2 Million In Q2 Sales",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/watts-water-technologies-wts-delivered-081411456.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786176851,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "337868ec-2906-3781-8fa3-994ea49eb69b",
-      "title": "Duolingo (DUOL) Launched A Gen Z Focused Coffee Partnership",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/duolingo-duol-launched-gen-z-081405403.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786176845,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "668d7a2b-ee0e-3c70-900e-e98f06e4c96a",
-      "title": "The AI Trade Rotation: Money Is Moving Out of Chips and Into This",
-      "link": "https://finance.yahoo.com/m/668d7a2b-ee0e-3c70-900e-e98f06e4c96a/the-ai-trade-rotation%3A-money.html",
+      "id": "5db4cd06-1ff1-3870-8c76-4af250a64a25",
+      "title": "The White House Continues to Promote the Strategic Bitcoin Reserve. Here's What It Means for Bitcoin.",
+      "link": "https://finance.yahoo.com/m/5db4cd06-1ff1-3870-8c76-4af250a64a25/the-white-house-continues-to.html",
       "publisher": "Motley Fool",
-      "time": 1786176840,
-      "impact": "medium",
+      "time": 1786180680,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e2171423-4169-38ff-902e-63adfe1a2041",
+      "title": "Mahamandleshwar Gita Manishi Swami Shri Gyananand Ji Maharaj Enlightens Chandigarh University Students with Timeless Teachings of Bhagavad Gita",
+      "link": "https://finance.yahoo.com/media-advertising/articles/mahamandleshwar-gita-manishi-swami-shri-091600689.html",
+      "publisher": "PR Newswire",
+      "time": 1786180560,
+      "impact": "high",
       "tags": [
-        "geo"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "98d64eef-94fe-386a-9d18-c997fb7c95ac",
-      "title": "Is Concentrix’s (CNXC) Generative AI Playbook Reframing Its Core Enterprise Value Proposition?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/concentrix-cnxc-generative-ai-playbook-081343276.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786176823,
+      "id": "ae203f8e-3828-374c-b3c5-a71d2ef02396",
+      "title": "Situational Awareness Reportedly Bet $400 Million on a $5 Billion Stealth Chip Startup— Weeks After the 'Most Catastrophic Hedge Fund Blowup' of the Year",
+      "link": "https://finance.yahoo.com/m/ae203f8e-3828-374c-b3c5-a71d2ef02396/situational-awareness.html",
+      "publisher": "Benzinga Private Markets",
+      "time": 1786180457,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "01a02f88-f0c7-3492-a3a8-042491c01c6e",
+      "title": "A $1.8 Million Portfolio, Two Withdrawal Plans: One Triggers IRMAA and RMD Taxes, One Never Does",
+      "link": "https://finance.yahoo.com/m/01a02f88-f0c7-3492-a3a8-042491c01c6e/a-%241.8-million-portfolio%2C-two.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786180189,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e9458723-9aa6-308e-9f7e-82da73c5db87",
-      "title": "NadMesh Didn’t Come for Your Model. It Came for Everything Around It.",
-      "link": "https://finance.yahoo.com/m/e9458723-9aa6-308e-9f7e-82da73c5db87/nadmesh-didn%E2%80%99t-come-for-your.html",
-      "publisher": "Forkast News",
-      "time": 1786176817,
+      "id": "40b6766d-e69c-3457-adb3-7b41c14b3049",
+      "title": "Unemployment rate is falling, but for 'the wrong reason,’ experts say",
+      "link": "https://finance.yahoo.com/m/40b6766d-e69c-3457-adb3-7b41c14b3049/unemployment-rate-is-falling%2C.html",
+      "publisher": "USA TODAY",
+      "time": 1786179971,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "97efccb9-6164-3730-ab55-aa2755cd39cb",
-      "title": "Inter & Co (INTR) Could Be 84% Undervalued On Its 60 30 30 Narrative",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/inter-co-intr-could-84-081332539.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786176812,
+      "id": "d9d06ff3-15d0-3d3c-88e4-474ef57c8042",
+      "title": "Dan Ives Says We're in the \"3rd Inning\" of the AI Revolution. Is Nvidia Stock Still a Buy After the Pullback?",
+      "link": "https://finance.yahoo.com/m/d9d06ff3-15d0-3d3c-88e4-474ef57c8042/dan-ives-says-we%27re-in-the.html",
+      "publisher": "Motley Fool",
+      "time": 1786179840,
       "impact": "low",
       "tags": []
     }
