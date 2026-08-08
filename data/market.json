@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T05:37:09.212126+00:00",
+  "updatedAt": "2026-08-08T06:40:23.490932+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,76 @@
   ],
   "news": [
     {
-      "id": "cc598d3a-20a6-3c76-a4b5-89d6722026ad",
-      "title": "Alphabet Just Posted a Jaw-Dropping $112 Billion Profit. Here's the Catch.",
-      "link": "https://finance.yahoo.com/m/cc598d3a-20a6-3c76-a4b5-89d6722026ad/alphabet-just-posted-a.html",
-      "publisher": "Motley Fool",
-      "time": 1786166400,
+      "id": "902d2c54-ca2f-3ef9-b7a5-ababfaaa2da2",
+      "title": "Ukraine's Zelensky visits Russian ally Serbia for talks",
+      "link": "https://finance.yahoo.com/m/902d2c54-ca2f-3ef9-b7a5-ababfaaa2da2/ukraine%27s-zelensky-visits.html",
+      "publisher": "AFP",
+      "time": 1786170785,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c61e8974-c230-39da-ba6a-5f7804684a9d",
+      "title": "Furniture and Appliance Rentals Gain Ground Across Delhi, Noida, Pune, Mumbai, Hyderabad, Bangalore and Chennai in 2026 as ₹3 Lakh–₹4 Lakh Setup Costs Face ₹2,699/Month Plans Including Rentomojo",
+      "link": "https://finance.yahoo.com/real-estate/articles/furniture-appliance-rentals-gain-ground-063300949.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786170780,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c05e8483-5ded-36f0-97e6-7a8160f68b95",
+      "title": "Reps. Lee, Deluzio, Dean demand overhaul at PA ICE detention facility",
+      "link": "https://finance.yahoo.com/m/c05e8483-5ded-36f0-97e6-7a8160f68b95/reps.-lee%2C-deluzio%2C-dean.html",
+      "publisher": "USA TODAY",
+      "time": 1786169905,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bf9008d6-265c-3099-bb35-bd43d05259d2",
+      "title": "Puzzle solutions for Saturday, Aug. 08, 2026",
+      "link": "https://finance.yahoo.com/m/bf9008d6-265c-3099-bb35-bd43d05259d2/puzzle-solutions-for.html",
+      "publisher": "USA TODAY",
+      "time": 1786169896,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0e4d5756-f40d-39dd-b974-7db5cbdaf4fc",
+      "title": "Deeper Private Markets Integration And Stronger 2026 Outlook Might Change The Case For Investing In S&P Global (SPGI)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/deeper-private-markets-integration-stronger-061424748.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786169664,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "5c022acf-ab64-3d4d-bd2c-1f900881c547",
+      "title": "Is Goldman Sachs Group (GS) Still Below Fair Value On Its New Senior Notes?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-group-gs-still-061403295.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786169643,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "080cd21e-8a5c-3e16-8ca3-aece6751c6f1",
+      "title": "Urban Outfitters (URBN) Stock Looks Reasonable On Its 111% Three Year Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/urban-outfitters-urbn-stock-looks-061345385.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786169625,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "65e3655e-4e07-39a8-99a4-07fb53951e2c",
+      "title": "Acushnet Holdings (GOLF) Is Down 7.9% After Earnings Beat And Guidance Raise - What's Changed",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/acushnet-holdings-golf-down-7-061342964.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786169622,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,89 +129,20 @@
       ]
     },
     {
-      "id": "1f8f1733-bf02-3269-af88-c1c4836885ab",
-      "title": "Why Is Tetra Tech (TTEK) Filing A $350.3 Million ESOP Shelf?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-tetra-tech-ttek-filing-051316675.html",
+      "id": "455665ef-ea1a-3dfe-93bb-341a18a18a3f",
+      "title": "Is SK Hynix (SKHY) Undervalued On Its $38b Fab Expansion Plan?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-skhy-undervalued-38b-061335703.html",
       "publisher": "Simply Wall St.",
-      "time": 1786165996,
+      "time": 1786169615,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4fcee102-95bf-3368-a649-f9776850be79",
-      "title": "Coeur Mining (CDE) Is Up 16.6% After Record Output And New Payout Plan Has The Bull Case Changed?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coeur-mining-cde-16-6-051310889.html",
+      "id": "3857cdfb-0a6e-3f4f-857c-908f157e96e4",
+      "title": "Northern Oil And Gas (NOG) Beat Q2 Estimates With Record Gas Production",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/northern-oil-gas-nog-beat-061259260.html",
       "publisher": "Simply Wall St.",
-      "time": 1786165990,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2fabf7c4-4a74-31e7-b45b-3ebfdd5574fb",
-      "title": "Tower Semiconductor (TSEM) Is Up 14.9% After Record Q3 Revenue Guidance And Profitability Gains - What's Changed",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tower-semiconductor-tsem-14-9-051253323.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786165973,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "27731e97-39e8-308f-ae20-b1477f212dc0",
-      "title": "BILL Holdings (BILL) Stock Looks Like A Bargain Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bill-holdings-bill-stock-looks-051251296.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786165971,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "77505376-3f6d-343c-9bf3-e72157feb509",
-      "title": "Pan American Silver (TSX:PAAS) Gains On Safe Haven Demand, Is It Still 33% Undervalued?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pan-american-silver-tsx-paas-051234857.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786165954,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ca7da65c-e841-301d-80f9-0043c643e7d4",
-      "title": "Is GRAIL (GRAL) Fairly Valued Following Galleri Adoption Growth And The FDA Panel Date?",
-      "link": "https://finance.yahoo.com/healthcare/articles/grail-gral-fairly-valued-following-051229636.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786165949,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f347d0a4-3ecd-3b7b-99a3-ba0c1d694225",
-      "title": "Ericsson (OM:ERIC B) Stock Looks Like A Bargain On Cash Flow And Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ericsson-om-eric-b-stock-051213101.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786165933,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "132c6de8-e71e-3085-b7b3-577a96d490e9",
-      "title": "Why Microchip Technology (MCHP) Is Up 14.0% After Strong Q1 Results And New PCIe Gen 6 Push",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-microchip-technology-mchp-14-051208881.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786165928,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "800de79e-40e2-3a12-8301-4c9ead104f32",
-      "title": "Does Tighter 2026 Guidance And AI Adoption Change The Bull Case For Yelp (YELP)?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/does-tighter-2026-guidance-ai-051148810.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786165908,
+      "time": 1786169579,
       "impact": "medium",
       "tags": [
         "macro",
