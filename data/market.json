@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T19:51:27.555725+00:00",
+  "updatedAt": "2026-08-08T20:20:54.591297+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,74 +52,23 @@
   ],
   "news": [
     {
-      "id": "9d57939d-b015-3f57-a928-ee687f55a343",
-      "title": "Nokia’s (NOK) AI Network Bet Gets A Taiwan Proving Ground",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nokia-nok-ai-network-bet-193932563.html",
-      "publisher": "Insider Monkey",
-      "time": 1786217972,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cdee9af7-5848-3d05-a57c-a3dd8997d637",
-      "title": "Here's the Best Way to Make the 4% Rule Work for You in Retirement",
-      "link": "https://finance.yahoo.com/m/cdee9af7-5848-3d05-a57c-a3dd8997d637/here%27s-the-best-way-to-make.html",
-      "publisher": "Motley Fool",
-      "time": 1786217880,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "016ef188-4bec-32b6-a570-f3b186d9601b",
-      "title": "Is Dutch Bros a Buy After Crashing 19% in 1 Day?",
-      "link": "https://finance.yahoo.com/m/016ef188-4bec-32b6-a570-f3b186d9601b/is-dutch-bros-a-buy-after.html",
-      "publisher": "Motley Fool",
-      "time": 1786217100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ae693055-db0c-3357-ad2e-d505430ddd43",
-      "title": "US Senate advances landmark crypto bill before heading on August recess",
-      "link": "https://finance.yahoo.com/news/us-senate-advances-landmark-crypto-185923051.html",
-      "publisher": "Reuters",
-      "time": 1786216571,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3b703806-1ea0-39e5-9295-6bada6b1c5ff",
-      "title": "Macy's slashed the price of a $450 luxury Bulova dive watch to $270",
-      "link": "https://finance.yahoo.com/m/3b703806-1ea0-39e5-9295-6bada6b1c5ff/macy%27s-slashed-the-price-of-a.html",
+      "id": "69b99e75-e4da-3798-92e1-c0ffad9d2917",
+      "title": "Caterpillar tariffs send major signal on margins",
+      "link": "https://finance.yahoo.com/m/69b99e75-e4da-3798-92e1-c0ffad9d2917/caterpillar-tariffs-send.html",
       "publisher": "TheStreet",
-      "time": 1786216500,
-      "impact": "low",
-      "tags": []
+      "time": 1786219620,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "aa3088e4-bca0-34bf-b55a-e1084d549329",
-      "title": "Cisco Is Deploying AI Agents to All 90,000 Employees. Here’s What the Economics Look Like.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cisco-deploying-ai-agents-90-191138601.html",
-      "publisher": "Forkast News",
-      "time": 1786216298,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c54b57e6-88f6-3a4c-9cbd-77dbba0fc30d",
-      "title": "The Junior-Gap Paradox: Stanford Data Shows AI Is Hollowing Out Entry-Level Knowledge Work",
-      "link": "https://finance.yahoo.com/technology/ai/articles/junior-gap-paradox-stanford-data-191136757.html",
-      "publisher": "Forkast News",
-      "time": 1786216296,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3caea2a0-768f-3f12-abbe-124640e8813b",
-      "title": "Duolingo (DUOL) Following Fresh Earnings And Guidance Through A Valuation Lens",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/duolingo-duol-following-fresh-earnings-191026971.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786216226,
+      "id": "baafe6ed-695b-33c8-b4c4-1cfd380366ea",
+      "title": "Minnesota woman sues Chipotle after salmonella hospitalization",
+      "link": "https://finance.yahoo.com/m/baafe6ed-695b-33c8-b4c4-1cfd380366ea/minnesota-woman-sues-chipotle.html",
+      "publisher": "USA TODAY",
+      "time": 1786219502,
       "impact": "medium",
       "tags": [
         "macro",
@@ -127,22 +76,100 @@
       ]
     },
     {
-      "id": "3f2de1c2-936c-3bf7-a815-987445d5f9eb",
-      "title": "Southern (SO) Completes Multiple Large Convertible Debt Offerings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/southern-completes-multiple-large-convertible-191019211.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786216219,
-      "impact": "low",
-      "tags": []
+      "id": "0ec4db2f-2285-358f-a270-771366995e81",
+      "title": "Natural Grocers by Vitamin Cottage Q3 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/0ec4db2f-2285-358f-a270-771366995e81/natural-grocers-by-vitamin.html",
+      "publisher": "MarketBeat",
+      "time": 1786219435,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "d6030966-e266-39f3-9eff-af82a4a53598",
-      "title": "Comfort Systems USA (FIX) Could Be 21% Undervalued Following Record Backlog Narrative",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/comfort-systems-usa-fix-could-191002968.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786216202,
-      "impact": "low",
-      "tags": []
+      "id": "917f1339-5c28-33bb-a60a-bd556693deeb",
+      "title": "Nexa Resources Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/917f1339-5c28-33bb-a60a-bd556693deeb/nexa-resources-q2-earnings.html",
+      "publisher": "MarketBeat",
+      "time": 1786219435,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "3874f774-e1e7-3596-8fb5-5112f64b21d0",
+      "title": "Cloudflare Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/3874f774-e1e7-3596-8fb5-5112f64b21d0/cloudflare-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1786219434,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "e0d4708e-f83e-37e7-9bd8-870aad74c6b7",
+      "title": "Nuveen Churchill Direct Lending Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/e0d4708e-f83e-37e7-9bd8-870aad74c6b7/nuveen-churchill-direct.html",
+      "publisher": "MarketBeat",
+      "time": 1786219434,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "c411fc0a-5395-3e08-ac59-67a9a52c93f4",
+      "title": "NACCO Industries Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/c411fc0a-5395-3e08-ac59-67a9a52c93f4/nacco-industries-q2-earnings.html",
+      "publisher": "MarketBeat",
+      "time": 1786219433,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "06e54832-88a3-303c-ba46-116f5ef5a183",
+      "title": "McEwen Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/06e54832-88a3-303c-ba46-116f5ef5a183/mcewen-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1786219432,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "389202f8-1fc5-30e7-b016-7b1867e6a003",
+      "title": "Murphy USA Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/389202f8-1fc5-30e7-b016-7b1867e6a003/murphy-usa-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1786219432,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "8989608e-9e0e-3303-965a-7793196388f4",
+      "title": "Mueller Water Products Q3 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/8989608e-9e0e-3303-965a-7793196388f4/mueller-water-products-q3.html",
+      "publisher": "MarketBeat",
+      "time": 1786219432,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
