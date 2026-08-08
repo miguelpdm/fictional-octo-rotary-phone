@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T16:30:08.718261+00:00",
+  "updatedAt": "2026-08-08T17:23:20.932595+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,107 +52,104 @@
   ],
   "news": [
     {
-      "id": "177dd46a-f08b-3fbe-b20c-195cb5f3afd7",
-      "title": "A Live Nation Insider's Latest Transaction With Shares Up 22%: Here's What to Know",
-      "link": "https://finance.yahoo.com/m/177dd46a-f08b-3fbe-b20c-195cb5f3afd7/a-live-nation-insider%27s.html",
+      "id": "b78d122b-1a03-3a9b-9d99-6e614fba71ee",
+      "title": "What Does Red Cat Holdings (RCAT) Need To Prove After Its Latest Advances?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/does-red-cat-holdings-rcat-171426830.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786209266,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d2923264-c172-3934-bae5-09dc45a45856",
+      "title": "Kroger (KR) Could Be 20% Undervalued After AI Shopping Assistant Rollout",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kroger-kr-could-20-undervalued-171411798.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786209251,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "15080f2a-d59d-3f5e-91f7-4790531e9690",
+      "title": "Where Does Algonquin Power & Utilities (TSX:AQN) Valuation Sit Following Earnings And Dividend News?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/where-does-algonquin-power-utilities-171334552.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786209214,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "443004b7-efb1-3ea7-a3e9-c5d5355a2a45",
+      "title": "Nebius Is Worth 55 Times Its Revenue. What Does That Price Assume?",
+      "link": "https://finance.yahoo.com/m/443004b7-efb1-3ea7-a3e9-c5d5355a2a45/nebius-is-worth-55-times-its.html",
       "publisher": "Motley Fool",
-      "time": 1786205779,
+      "time": 1786209120,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8f10ea47-d9c6-3dcf-a63b-4e77a050d13d",
-      "title": "113-year-old discount grocery chain closes more stores",
-      "link": "https://finance.yahoo.com/m/8f10ea47-d9c6-3dcf-a63b-4e77a050d13d/113-year-old-discount-grocery.html",
+      "id": "30db6c8b-6e3f-37f4-a62d-c46995ece15c",
+      "title": "Warren Buffett's Successor, Greg Abel, Just Ended Berkshire Hathaway's 14-Quarter Selling Streak. Is This the Screaming Buy Signal Investors Have Been Waiting For?",
+      "link": "https://finance.yahoo.com/m/30db6c8b-6e3f-37f4-a62d-c46995ece15c/warren-buffett%27s-successor%2C.html",
+      "publisher": "Motley Fool",
+      "time": 1786209001,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "87d5fe9c-d2be-3c26-b7b5-a9653d938e86",
+      "title": "Ukraine denies targeting Bulgaria as drone explodes near pipeline",
+      "link": "https://finance.yahoo.com/m/87d5fe9c-d2be-3c26-b7b5-a9653d938e86/ukraine-denies-targeting.html",
+      "publisher": "AFP",
+      "time": 1786208883,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "32d1e741-caf4-3bbd-94a8-ea20e90fea79",
+      "title": "Warren Buffett agrees with Mark Cuban on defying the market",
+      "link": "https://finance.yahoo.com/m/32d1e741-caf4-3bbd-94a8-ea20e90fea79/warren-buffett-agrees-with.html",
       "publisher": "TheStreet",
-      "time": 1786205730,
+      "time": 1786208820,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "19ab4c73-745d-3f40-bbb8-4cda353ff5a9",
+      "title": "Colts Owner, CEO Carlie Irsay-Gordon presents Adam Vinatieri 2026 Hall of Fame",
+      "link": "https://finance.yahoo.com/m/19ab4c73-745d-3f40-bbb8-4cda353ff5a9/colts-owner%2C-ceo-carlie.html",
+      "publisher": "NFL Highlights",
+      "time": 1786208769,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "32a37b70-490c-33dc-9364-8494d6dc1a7b",
-      "title": "Why Inter & Co (INTR) Is Down 5.9% After Record Q2 Profitability And Capital Neutrality Milestones",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-inter-co-intr-down-161322619.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786205602,
-      "impact": "medium",
+      "id": "42c9d9fe-a5d4-3d3a-8153-4d205bf50e83",
+      "title": "RESECURITY Joins Association of Old Crows (AOC) to Advance Electromagnetic Warfare (EW) and Spectrum Operations",
+      "link": "https://finance.yahoo.com/technology/ai/articles/resecurity-joins-association-old-crows-170600971.html",
+      "publisher": "Business Wire",
+      "time": 1786208760,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "ba72e334-89a5-37f4-8800-1c4a2d7eebd8",
-      "title": "Sunrun (RUN) Stock Fair Value Falls As Analysts Weigh Growth Projects And Cash Risks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-stock-fair-value-161314040.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786205594,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0abe75c4-47e1-3823-8790-7f0d91e780c7",
-      "title": "Hilton Worldwide Holdings (HLT) Could Be 9% Undervalued On Earnings And Buybacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hilton-worldwide-holdings-hlt-could-161300167.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786205580,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "cc3cf64f-403f-3cf4-bb16-e8a618edc9a1",
-      "title": "PROCEPT BioRobotics (PRCT) Stock Sees Fair Value Falls As Analysts Cut Growth Views",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/procept-biorobotics-prct-stock-sees-161239945.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786205559,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d6ff3a91-304c-3c98-975b-74d4ddebbd3a",
-      "title": "Prestige Consumer Healthcare (PBH) Is Up 9.2% After Raising 2027 Outlook On Recent Acquisitions",
-      "link": "https://finance.yahoo.com/healthcare/articles/prestige-consumer-healthcare-pbh-9-161237786.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786205557,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a3e6e2b2-f71f-3ac5-80e2-f9c21cd6de93",
-      "title": "Is WELL Health Technologies (TSX:WELL) Undervalued Following Mixed Q2 Earnings?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/well-health-technologies-tsx-well-161234843.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786205554,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e052d18d-077e-352a-b1c8-b49d40a48318",
-      "title": "How Strong 2026 Guidance and MX3 Progress Will Impact Northwest Natural Holding (NWN) Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/strong-2026-guidance-mx3-progress-161159256.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786205519,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "33ee61aa-2788-3f84-bc10-20d7df633d08",
-      "title": "Abbott Laboratories (ABT) Could Be 10% Undervalued On Its $1.35b Buyback Update",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/abbott-laboratories-abt-could-10-161147968.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786205507,
+      "id": "59e15243-4535-39b3-82f5-563cc390b4f4",
+      "title": "Live Nation Drew 49 Million Fans Last Quarter. Its General Counsel's Stock Just Vested",
+      "link": "https://finance.yahoo.com/m/59e15243-4535-39b3-82f5-563cc390b4f4/live-nation-drew-49-million.html",
+      "publisher": "Motley Fool",
+      "time": 1786208735,
       "impact": "low",
       "tags": []
     }
