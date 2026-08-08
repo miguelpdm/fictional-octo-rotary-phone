@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T20:20:54.591297+00:00",
+  "updatedAt": "2026-08-08T20:57:06.621133+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,29 @@
   ],
   "news": [
     {
-      "id": "69b99e75-e4da-3798-92e1-c0ffad9d2917",
-      "title": "Caterpillar tariffs send major signal on margins",
-      "link": "https://finance.yahoo.com/m/69b99e75-e4da-3798-92e1-c0ffad9d2917/caterpillar-tariffs-send.html",
+      "id": "aecf17c6-f75b-39c2-a062-4344307bc5d6",
+      "title": "Amazon has utility-conserving solar panels marked down to $160",
+      "link": "https://finance.yahoo.com/m/aecf17c6-f75b-39c2-a062-4344307bc5d6/amazon-has-utility-conserving.html",
       "publisher": "TheStreet",
-      "time": 1786219620,
+      "time": 1786221900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5100cadd-a3f7-3dae-92ff-68c0b75c80f2",
+      "title": "ThinkCareBelieve:  Week 81 of the Trump Administration: Welcome to The Golden Age",
+      "link": "https://finance.yahoo.com/economy/policy/articles/thinkcarebelieve-week-81-trump-administration-204400706.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786221840,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ccff0a43-1ba2-3659-bca6-bf1f40dd729e",
+      "title": "Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push",
+      "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-pairs-ai-chip-204234966.html",
+      "publisher": "Insider Monkey",
+      "time": 1786221754,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,11 +82,38 @@
       ]
     },
     {
-      "id": "baafe6ed-695b-33c8-b4c4-1cfd380366ea",
-      "title": "Minnesota woman sues Chipotle after salmonella hospitalization",
-      "link": "https://finance.yahoo.com/m/baafe6ed-695b-33c8-b4c4-1cfd380366ea/minnesota-woman-sues-chipotle.html",
+      "id": "ecc87f16-7a56-3a72-90aa-ff0c35f1d13f",
+      "title": "Trump promised the largest fireworks display ever. It did set a record",
+      "link": "https://finance.yahoo.com/m/ecc87f16-7a56-3a72-90aa-ff0c35f1d13f/trump-promised-the-largest.html",
       "publisher": "USA TODAY",
-      "time": 1786219502,
+      "time": 1786221700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "af1af2b9-195a-3b52-82d8-9f38f02ba24a",
+      "title": "Hunter Biden says Joe Biden's cancer has spread more and is 'very painful'",
+      "link": "https://finance.yahoo.com/m/af1af2b9-195a-3b52-82d8-9f38f02ba24a/hunter-biden-says-joe-biden%27s.html",
+      "publisher": "USA TODAY",
+      "time": 1786221694,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e71d824f-7858-39f5-8005-9f888c814c79",
+      "title": "SentinelOne's Chief Accountant Sold Shares. Here's What Investors Should Know",
+      "link": "https://finance.yahoo.com/m/e71d824f-7858-39f5-8005-9f888c814c79/sentinelone%27s-chief.html",
+      "publisher": "Motley Fool",
+      "time": 1786221523,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9d34d63c-1ff7-392e-8f2b-6feeb495c859",
+      "title": "Popular sports bar chain closes all locations, no bankruptcy",
+      "link": "https://finance.yahoo.com/m/9d34d63c-1ff7-392e-8f2b-6feeb495c859/popular-sports-bar-chain.html",
+      "publisher": "TheStreet",
+      "time": 1786221449,
       "impact": "medium",
       "tags": [
         "macro",
@@ -76,100 +121,31 @@
       ]
     },
     {
-      "id": "0ec4db2f-2285-358f-a270-771366995e81",
-      "title": "Natural Grocers by Vitamin Cottage Q3 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/0ec4db2f-2285-358f-a270-771366995e81/natural-grocers-by-vitamin.html",
-      "publisher": "MarketBeat",
-      "time": 1786219435,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "43258e90-1f36-31b6-958e-bdf37ac00ab4",
+      "title": "U.S. Senate advances crypto bill setting up post-recess vote",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/u-senate-advances-crypto-bill-203715468.html",
+      "publisher": "Investing.com",
+      "time": 1786221435,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "917f1339-5c28-33bb-a60a-bd556693deeb",
-      "title": "Nexa Resources Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/917f1339-5c28-33bb-a60a-bd556693deeb/nexa-resources-q2-earnings.html",
-      "publisher": "MarketBeat",
-      "time": 1786219435,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "10cd64aa-40c9-30c1-928e-9f1799fb6a77",
+      "title": "Man Utd boss Carrick being 'careful' with Mount as Man Utd draw with PSG",
+      "link": "https://finance.yahoo.com/m/10cd64aa-40c9-30c1-928e-9f1799fb6a77/man-utd-boss-carrick-being.html",
+      "publisher": "AFP",
+      "time": 1786221303,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "3874f774-e1e7-3596-8fb5-5112f64b21d0",
-      "title": "Cloudflare Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/3874f774-e1e7-3596-8fb5-5112f64b21d0/cloudflare-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1786219434,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e0d4708e-f83e-37e7-9bd8-870aad74c6b7",
-      "title": "Nuveen Churchill Direct Lending Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/e0d4708e-f83e-37e7-9bd8-870aad74c6b7/nuveen-churchill-direct.html",
-      "publisher": "MarketBeat",
-      "time": 1786219434,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c411fc0a-5395-3e08-ac59-67a9a52c93f4",
-      "title": "NACCO Industries Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/c411fc0a-5395-3e08-ac59-67a9a52c93f4/nacco-industries-q2-earnings.html",
-      "publisher": "MarketBeat",
-      "time": 1786219433,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "06e54832-88a3-303c-ba46-116f5ef5a183",
-      "title": "McEwen Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/06e54832-88a3-303c-ba46-116f5ef5a183/mcewen-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1786219432,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "389202f8-1fc5-30e7-b016-7b1867e6a003",
-      "title": "Murphy USA Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/389202f8-1fc5-30e7-b016-7b1867e6a003/murphy-usa-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1786219432,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "8989608e-9e0e-3303-965a-7793196388f4",
-      "title": "Mueller Water Products Q3 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/8989608e-9e0e-3303-965a-7793196388f4/mueller-water-products-q3.html",
-      "publisher": "MarketBeat",
-      "time": 1786219432,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "04d99163-53e3-3859-8721-4122e38da018",
+      "title": "TTW Unveils the Top 50 Best Solo Travel Destinations in the World for 2026",
+      "link": "https://finance.yahoo.com/media-advertising/articles/ttw-unveils-top-50-best-203300224.html",
+      "publisher": "PR Newswire",
+      "time": 1786221180,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
