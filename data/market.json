@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T14:25:37.128611+00:00",
+  "updatedAt": "2026-08-08T14:57:13.968754+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,106 +52,97 @@
   ],
   "news": [
     {
-      "id": "fc2215b5-0209-33a1-bdc4-51686343788d",
-      "title": "McDonald's says it alienated its most loyal customers",
-      "link": "https://finance.yahoo.com/m/fc2215b5-0209-33a1-bdc4-51686343788d/mcdonald%27s-says-it-alienated.html",
-      "publisher": "TheStreet",
-      "time": 1786198620,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9ce40d5e-5916-382e-9ec5-4c8ca19abbc1",
-      "title": "Walmart's portable smokeless fire pit is easy to use for just $59",
-      "link": "https://finance.yahoo.com/m/9ce40d5e-5916-382e-9ec5-4c8ca19abbc1/walmart%27s-portable-smokeless.html",
-      "publisher": "TheStreet",
-      "time": 1786198500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0549bab4-fc54-3c51-aef6-a904c0aa9f3e",
-      "title": "First Internet Bancorp (INBK) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/0549bab4-fc54-3c51-aef6-a904c0aa9f3e/first-internet-bancorp-%28inbk%29.html",
-      "publisher": "Motley Fool",
-      "time": 1786198130,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "b043a138-cbc7-3772-9c0b-f7dd98d53920",
-      "title": "Key HIV stat over 70% leaves BofA siding with Gilead",
-      "link": "https://finance.yahoo.com/m/b043a138-cbc7-3772-9c0b-f7dd98d53920/key-hiv-stat-over-70%25-leaves.html",
-      "publisher": "TheStreet",
-      "time": 1786198020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a4c31229-9660-3109-b173-05dfa8c4001d",
-      "title": "Lionel Messi's father Jorge dies aged 68",
-      "link": "https://finance.yahoo.com/m/a4c31229-9660-3109-b173-05dfa8c4001d/lionel-messi%27s-father-jorge.html",
-      "publisher": "AFP",
-      "time": 1786198004,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f0bce059-d8fd-3237-a93e-53cd5cec4302",
-      "title": "Industry Shipped Agent Plugins 1.0 While the Standards Body Debated",
-      "link": "https://finance.yahoo.com/m/f0bce059-d8fd-3237-a93e-53cd5cec4302/industry-shipped-agent.html",
+      "id": "3372c31b-a9df-3bd4-8b77-3afe95d0ffe8",
+      "title": "The $1.87 Billion Blind Spot in Your Nursery",
+      "link": "https://finance.yahoo.com/m/3372c31b-a9df-3bd4-8b77-3afe95d0ffe8/the-%241.87-billion-blind-spot.html",
       "publisher": "Forkast News",
-      "time": 1786197920,
+      "time": 1786200528,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2b24de10-607a-3112-9e34-21a442840235",
-      "title": "He Needs $30,000 for a Roof and Furnace at 69. A New Maine Law Could Help Him Borrow Without Making More of His Social Security Taxable.",
-      "link": "https://finance.yahoo.com/m/2b24de10-607a-3112-9e34-21a442840235/he-needs-%2430%2C000-for-a-roof.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786197844,
+      "id": "a9ed8870-f6c7-3401-a9c7-006a45870484",
+      "title": "Wells Fargo Launches Tokenized Deposits on a Dual Track — and the Gap Between the Two Halves Reveals the Real Stakes",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/wells-fargo-launches-tokenized-deposits-144846036.html",
+      "publisher": "Forkast News",
+      "time": 1786200526,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5de2bc2c-f567-3554-8d28-67ab1d13aa02",
-      "title": "Joby Aviation Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/5de2bc2c-f567-3554-8d28-67ab1d13aa02/joby-aviation-q2-earnings.html",
-      "publisher": "MarketBeat",
-      "time": 1786197843,
-      "impact": "medium",
+      "id": "4b2cc765-6536-374f-900c-65ddefdbfb79",
+      "title": "The Architecture of Failure: Why DEF CON 34 Shattered the AI Agent Security Narrative",
+      "link": "https://finance.yahoo.com/m/4b2cc765-6536-374f-900c-65ddefdbfb79/the-architecture-of-failure%3A.html",
+      "publisher": "Forkast News",
+      "time": 1786200476,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "902d2c54-ca2f-3ef9-b7a5-ababfaaa2da2",
+      "title": "Ukraine warns of tough winter as Russia strikes kill 4 in Kyiv region",
+      "link": "https://finance.yahoo.com/m/902d2c54-ca2f-3ef9-b7a5-ababfaaa2da2/ukraine-warns-of-tough-winter.html",
+      "publisher": "AFP",
+      "time": 1786200053,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "5267b41c-e9ca-354b-9d56-3c097068fa38",
-      "title": "James Hardie Industries Q1 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/5267b41c-e9ca-354b-9d56-3c097068fa38/james-hardie-industries-q1.html",
-      "publisher": "MarketBeat",
-      "time": 1786197842,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "7dad1d1a-496e-378a-a12c-fa55f19d44ee",
+      "title": "A fast-moving wildfire forces more than 20,000 people to evacuate in western Canada",
+      "link": "https://finance.yahoo.com/m/7dad1d1a-496e-378a-a12c-fa55f19d44ee/a-fast-moving-wildfire-forces.html",
+      "publisher": "Associated Press",
+      "time": 1786199996,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "e0c9b973-2bef-31e8-90e2-d5cbf89e920e",
-      "title": "Orix Corp Ads Q1 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/e0c9b973-2bef-31e8-90e2-d5cbf89e920e/orix-corp-ads-q1-earnings.html",
-      "publisher": "MarketBeat",
-      "time": 1786197842,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "9b2cd855-a4cf-33f9-b8ad-89025c3d4700",
+      "title": "Walmart, Costco, and CVS have a new way to bring you back",
+      "link": "https://finance.yahoo.com/m/9b2cd855-a4cf-33f9-b8ad-89025c3d4700/walmart%2C-costco%2C-and-cvs-have.html",
+      "publisher": "TheStreet",
+      "time": 1786199820,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "65fbd3bc-18b2-3ccd-9c96-f7c7fdae6add",
+      "title": "2 drones spotted flying over German military base after drone with explosives found at cargo airport",
+      "link": "https://finance.yahoo.com/m/65fbd3bc-18b2-3ccd-9c96-f7c7fdae6add/2-drones-spotted-flying-over.html",
+      "publisher": "Associated Press",
+      "time": 1786199819,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "80d81d16-e42c-3265-87de-ec3aebcd1602",
+      "title": "Firebird opens region’s largest AI Factory in Armenia, backed by Nvidia chipsets",
+      "link": "https://finance.yahoo.com/technology/ai/articles/firebird-opens-region-largest-ai-143555418.html",
+      "publisher": "Investing.com",
+      "time": 1786199755,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "325fa4d6-496c-32ba-8768-a5dbe0071c26",
+      "title": "Jeff Bezos' Amazon Just Raised Its AI Spending to $220 Billion for 2026. Here's What That Capex Hike Means for Investors.",
+      "link": "https://finance.yahoo.com/m/325fa4d6-496c-32ba-8768-a5dbe0071c26/jeff-bezos%27-amazon-just.html",
+      "publisher": "Motley Fool",
+      "time": 1786199700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "95146a8c-d6c0-3702-b0d5-1f3b629d58f6",
+      "title": "Target-ed growth: Assessing the store’s possible impact on Lima’s westside",
+      "link": "https://finance.yahoo.com/m/95146a8c-d6c0-3702-b0d5-1f3b629d58f6/target-ed-growth%3A-assessing.html",
+      "publisher": "The Lima News, Ohio",
+      "time": 1786199520,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
