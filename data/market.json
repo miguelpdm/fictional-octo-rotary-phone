@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T13:40:16.854448+00:00",
+  "updatedAt": "2026-08-08T14:25:37.128611+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,99 +52,106 @@
   ],
   "news": [
     {
-      "id": "5f40a95f-3772-3550-9f0a-1e0350c7d1e2",
-      "title": "Americans face a painful hit to retirement in their 30s",
-      "link": "https://finance.yahoo.com/m/5f40a95f-3772-3550-9f0a-1e0350c7d1e2/americans-face-a-painful-hit.html",
+      "id": "fc2215b5-0209-33a1-bdc4-51686343788d",
+      "title": "McDonald's says it alienated its most loyal customers",
+      "link": "https://finance.yahoo.com/m/fc2215b5-0209-33a1-bdc4-51686343788d/mcdonald%27s-says-it-alienated.html",
       "publisher": "TheStreet",
-      "time": 1786195980,
+      "time": 1786198620,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "128e79a0-b107-3062-8ec9-92259a7ffff1",
-      "title": "Johnson reveals 'stress' of Grand Slam Track collapse, clarifies payment",
-      "link": "https://finance.yahoo.com/m/128e79a0-b107-3062-8ec9-92259a7ffff1/johnson-reveals-%27stress%27-of.html",
+      "id": "9ce40d5e-5916-382e-9ec5-4c8ca19abbc1",
+      "title": "Walmart's portable smokeless fire pit is easy to use for just $59",
+      "link": "https://finance.yahoo.com/m/9ce40d5e-5916-382e-9ec5-4c8ca19abbc1/walmart%27s-portable-smokeless.html",
+      "publisher": "TheStreet",
+      "time": 1786198500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0549bab4-fc54-3c51-aef6-a904c0aa9f3e",
+      "title": "First Internet Bancorp (INBK) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/0549bab4-fc54-3c51-aef6-a904c0aa9f3e/first-internet-bancorp-%28inbk%29.html",
+      "publisher": "Motley Fool",
+      "time": 1786198130,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b043a138-cbc7-3772-9c0b-f7dd98d53920",
+      "title": "Key HIV stat over 70% leaves BofA siding with Gilead",
+      "link": "https://finance.yahoo.com/m/b043a138-cbc7-3772-9c0b-f7dd98d53920/key-hiv-stat-over-70%25-leaves.html",
+      "publisher": "TheStreet",
+      "time": 1786198020,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a4c31229-9660-3109-b173-05dfa8c4001d",
+      "title": "Lionel Messi's father Jorge dies aged 68",
+      "link": "https://finance.yahoo.com/m/a4c31229-9660-3109-b173-05dfa8c4001d/lionel-messi%27s-father-jorge.html",
       "publisher": "AFP",
-      "time": 1786195801,
+      "time": 1786198004,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e440a726-b778-3176-beb0-f504438e74c7",
-      "title": "Elon Musk says SpaceX will hit $1 trillion in revenue by 2030 and build factories on the moon",
-      "link": "https://finance.yahoo.com/technology/articles/elon-musk-says-spacex-hit-133000151.html",
-      "publisher": "Moneywise",
-      "time": 1786195800,
+      "id": "f0bce059-d8fd-3237-a93e-53cd5cec4302",
+      "title": "Industry Shipped Agent Plugins 1.0 While the Standards Body Debated",
+      "link": "https://finance.yahoo.com/m/f0bce059-d8fd-3237-a93e-53cd5cec4302/industry-shipped-agent.html",
+      "publisher": "Forkast News",
+      "time": 1786197920,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "69a96f2d-5b4a-37e9-9cb7-f02dd14511aa",
-      "title": "Berkshire Hathaway's new CEO Greg Abel spends a chunk of the company's massive cashpile",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaways-ceo-greg-abel-132932802.html",
-      "publisher": "Associated Press",
-      "time": 1786195772,
+      "id": "2b24de10-607a-3112-9e34-21a442840235",
+      "title": "He Needs $30,000 for a Roof and Furnace at 69. A New Maine Law Could Help Him Borrow Without Making More of His Social Security Taxable.",
+      "link": "https://finance.yahoo.com/m/2b24de10-607a-3112-9e34-21a442840235/he-needs-%2430%2C000-for-a-roof.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786197844,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0af30026-23d8-3673-9fd0-e18ce6fef681",
-      "title": "President Donald Trump Expected the Iran War to Drive the Stock Market \"Down 20% to 25%\" -- His Prophecy May Still Come True",
-      "link": "https://finance.yahoo.com/m/0af30026-23d8-3673-9fd0-e18ce6fef681/president-donald-trump.html",
-      "publisher": "Motley Fool",
-      "time": 1786195560,
-      "impact": "high",
+      "id": "5de2bc2c-f567-3554-8d28-67ab1d13aa02",
+      "title": "Joby Aviation Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/5de2bc2c-f567-3554-8d28-67ab1d13aa02/joby-aviation-q2-earnings.html",
+      "publisher": "MarketBeat",
+      "time": 1786197843,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "007a952f-b5ba-35b1-842a-4013fd2234da",
-      "title": "Nike (NKE) Is Betting Big on Basketball’s Next Generation. Will It Pay Off?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-betting-big-basketball-132534474.html",
-      "publisher": "Insider Monkey",
-      "time": 1786195534,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "52fe2468-7ff1-3fd5-a195-5268d45db8ae",
-      "title": "Wall Street Sees a Multitrillion-Dollar Humanoid Robot Market. These 2 Industrial Stocks Sell the Parts.",
-      "link": "https://finance.yahoo.com/m/52fe2468-7ff1-3fd5-a195-5268d45db8ae/wall-street-sees-a.html",
-      "publisher": "Motley Fool",
-      "time": 1786195500,
-      "impact": "low",
+      "id": "5267b41c-e9ca-354b-9d56-3c097068fa38",
+      "title": "James Hardie Industries Q1 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/5267b41c-e9ca-354b-9d56-3c097068fa38/james-hardie-industries-q1.html",
+      "publisher": "MarketBeat",
+      "time": 1786197842,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "8e46bbff-db09-34a3-be59-52c2c89fe7fb",
-      "title": "Alamo Drafthouse is renaming Texas theater after Matthew McConaughey",
-      "link": "https://finance.yahoo.com/m/8e46bbff-db09-34a3-be59-52c2c89fe7fb/alamo-drafthouse-is-renaming.html",
-      "publisher": "USA TODAY",
-      "time": 1786195266,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c9309a6a-317b-3ea1-a5b5-e7971c77091a",
-      "title": "Reddit CEO Steve Huffman Sells 18,000 Shares for $2.9 Million",
-      "link": "https://finance.yahoo.com/m/c9309a6a-317b-3ea1-a5b5-e7971c77091a/reddit-ceo-steve-huffman.html",
-      "publisher": "Motley Fool",
-      "time": 1786195201,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "78125c1c-554b-3aed-ac5a-aae4aadcc768",
-      "title": "Should You Buy SpaceX Stock Below $125 per Share? Here's What History Says.",
-      "link": "https://finance.yahoo.com/m/78125c1c-554b-3aed-ac5a-aae4aadcc768/should-you-buy-spacex-stock.html",
-      "publisher": "Motley Fool",
-      "time": 1786195200,
-      "impact": "low",
-      "tags": []
+      "id": "e0c9b973-2bef-31e8-90e2-d5cbf89e920e",
+      "title": "Orix Corp Ads Q1 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/e0c9b973-2bef-31e8-90e2-d5cbf89e920e/orix-corp-ads-q1-earnings.html",
+      "publisher": "MarketBeat",
+      "time": 1786197842,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
