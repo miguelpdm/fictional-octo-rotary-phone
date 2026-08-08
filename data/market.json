@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T21:28:39.760965+00:00",
+  "updatedAt": "2026-08-08T21:56:26.922856+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,11 @@
   ],
   "news": [
     {
-      "id": "be892e1c-d5c4-35ab-8aae-9d09acf13a0c",
-      "title": "PPL (PPL) Could Be 14% Undervalued Following Reaffirmed 2026 Guidance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ppl-ppl-could-14-undervalued-211614380.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786223774,
+      "id": "af675c70-5a67-33f8-9f8b-118697c73604",
+      "title": "How Qorvo's $22 Billion Merger Changes What Its Insider Filings Mean",
+      "link": "https://finance.yahoo.com/m/af675c70-5a67-33f8-9f8b-118697c73604/how-qorvo%27s-%2422-billion.html",
+      "publisher": "Motley Fool",
+      "time": 1786225327,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,20 +64,20 @@
       ]
     },
     {
-      "id": "6e15f393-fb73-380a-98d7-51ba0f94662e",
-      "title": "Eli Lilly (LLY) Gains FDA Breakthrough Nod As Olomorasib Cancer Trial Broadens",
-      "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-gains-fda-211612038.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786223772,
+      "id": "d4196f80-8578-32bc-a81c-946d6fc1ebda",
+      "title": "‘Your Anxiety Comes From Your Mother Being a Twerp’: Dave Ramsey to Caller Who Paid Off $12K But Can’t Shake Family Pressure",
+      "link": "https://finance.yahoo.com/m/d4196f80-8578-32bc-a81c-946d6fc1ebda/%E2%80%98your-anxiety-comes-from-your.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786225312,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a5e104c6-1a93-3a20-8267-5885c4d7d2f2",
-      "title": "Bloomin' Brands (BLMN) Is Up 26.4% After Raising 2026 EPS Guidance Amid Turnaround Progress",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bloomin-brands-blmn-26-4-211601122.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786223761,
+      "id": "c2353ca9-6033-305d-b778-a066c1c874e3",
+      "title": "Home Depot Has Raised Its Dividend for 17 Consecutive Years and Reports Earnings Aug. 18. Is It the Smarter Dow Stock to Buy Over Walmart?",
+      "link": "https://finance.yahoo.com/m/c2353ca9-6033-305d-b778-a066c1c874e3/home-depot-has-raised-its.html",
+      "publisher": "Motley Fool",
+      "time": 1786225200,
       "impact": "medium",
       "tags": [
         "macro",
@@ -85,11 +85,20 @@
       ]
     },
     {
-      "id": "1b35608e-2c00-316a-80a9-a051ca07eb25",
-      "title": "Kodiak Gas Services (KGS) Stock May Be Above Fair Value After Q2 Earnings Miss",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kodiak-gas-services-kgs-stock-211559141.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786223759,
+      "id": "1bc6464f-d680-354d-a5f2-d7632d904ee9",
+      "title": "How Much Do You Need Invested to Out-Earn the Average Social Security Check With Dividends?",
+      "link": "https://finance.yahoo.com/m/1bc6464f-d680-354d-a5f2-d7632d904ee9/how-much-do-you-need-invested.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786225028,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "38ec558c-2a05-331d-ad8a-0a32384b6821",
+      "title": "Accounting twist for Maui wildfire expense helps HEI profit soar",
+      "link": "https://finance.yahoo.com/m/38ec558c-2a05-331d-ad8a-0a32384b6821/accounting-twist-for-maui.html",
+      "publisher": "The Honolulu Star-Advertiser",
+      "time": 1786224960,
       "impact": "medium",
       "tags": [
         "macro",
@@ -97,64 +106,51 @@
       ]
     },
     {
-      "id": "63669412-c70f-3a44-b1f4-2f1d0e3ae8bb",
-      "title": "Why Watts Water Technologies (WTS) Is Up 13.4% After Raising 2026 Guidance On Data Center Strength",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-watts-water-technologies-wts-211530755.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786223730,
-      "impact": "medium",
+      "id": "e5224bac-51bf-377b-87d8-0946b0463818",
+      "title": "Tommy Waters dispute clouds East Honolulu Council race",
+      "link": "https://finance.yahoo.com/m/e5224bac-51bf-377b-87d8-0946b0463818/tommy-waters-dispute-clouds.html",
+      "publisher": "The Honolulu Star-Advertiser",
+      "time": 1786224960,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f0146e91-f262-3911-b19e-af38aa26170d",
+      "title": "Elections test rookie candidates’ use of social media",
+      "link": "https://finance.yahoo.com/m/f0146e91-f262-3911-b19e-af38aa26170d/elections-test-rookie.html",
+      "publisher": "The Honolulu Star-Advertiser",
+      "time": 1786224960,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8e178b22-f487-37af-91dc-8ba2541e4c95",
+      "title": "Should You Worry About This Qorvo Insider Activity During the Skyworks Deal? Here's What to Know",
+      "link": "https://finance.yahoo.com/m/8e178b22-f487-37af-91dc-8ba2541e4c95/should-you-worry-about-this.html",
+      "publisher": "Motley Fool",
+      "time": 1786224807,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6998ff01-975e-3e69-960e-b60aaeca3931",
+      "title": "Ondo's USDY crosses $2.1B market cap in 3 years",
+      "link": "https://finance.yahoo.com/m/6998ff01-975e-3e69-960e-b60aaeca3931/ondo%27s-usdy-crosses-%242.1b.html",
+      "publisher": "TheStreet",
+      "time": 1786224600,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "4d9b82d2-4819-362d-8b94-0ec60540a1c4",
-      "title": "What Is Celldex Therapeutics (CLDX) Signaling With Its Mixed Pipeline Update?",
-      "link": "https://finance.yahoo.com/healthcare/articles/celldex-therapeutics-cldx-signaling-mixed-211524068.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786223724,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "af9fbf8d-0efc-3593-89a8-aae79acd91f3",
-      "title": "Doximity (DOCS) Is Up 31.0% After Raising Revenue Outlook On Clinical AI Adoption - Has The Bull Case Changed?",
-      "link": "https://finance.yahoo.com/healthcare/articles/doximity-docs-31-0-raising-211518315.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786223718,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "25a21f94-b19a-3cfb-b374-21bee9bf2be7",
-      "title": "Does AirJoule Technologies (AIRJ) Using GE Vernova’s Campus Showcase Reframe Its Industrial Water Strategy?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/does-airjoule-technologies-airj-using-211508911.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786223708,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "02f2f1bf-7184-3250-b227-084a0f5076b8",
-      "title": "PTC (PTC) Rolls Out AI Tools Across ALM And PLM Workflows",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ptc-ptc-rolls-ai-tools-211449872.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786223689,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "06c350e3-40d6-3bce-9b45-4065588cf1b9",
-      "title": "First Solar (FSLR) After Tariffs And Guidance, Buying Opportunity Or Fairly Valued?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/first-solar-fslr-tariffs-guidance-211445769.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786223685,
-      "impact": "high",
-      "tags": [
-        "geo",
         "macro"
       ]
+    },
+    {
+      "id": "7b59c0e6-4b8d-37e2-a866-0f4f972004b1",
+      "title": "Here’s How You Can Retire to the Beaches of Florida’s Gulf Coast at 59",
+      "link": "https://finance.yahoo.com/m/7b59c0e6-4b8d-37e2-a866-0f4f972004b1/here%E2%80%99s-how-you-can-retire-to.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786224572,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
