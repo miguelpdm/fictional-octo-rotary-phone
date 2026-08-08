@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T07:43:06.236044+00:00",
+  "updatedAt": "2026-08-08T08:32:58.275802+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,20 +52,31 @@
   ],
   "news": [
     {
-      "id": "a0e51d43-7bd3-3792-b276-e2087b68d6a4",
-      "title": "CEO Elon Musk Says This Is the Most Underappreciated Part of SpaceX's Business",
-      "link": "https://finance.yahoo.com/m/a0e51d43-7bd3-3792-b276-e2087b68d6a4/ceo-elon-musk-says-this-is.html",
+      "id": "c153af11-22b6-3446-8e4f-539957fd8562",
+      "title": "JPMorgan's $1.5 Trillion Initiative to Finance U.S. Shipbuilding and Defense Could Be a Tailwind for Industrial and Defense Stocks",
+      "link": "https://finance.yahoo.com/m/c153af11-22b6-3446-8e4f-539957fd8562/jpmorgan%27s-%241.5-trillion.html",
       "publisher": "Motley Fool",
-      "time": 1786173900,
+      "time": 1786177500,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "9ba5f091-02f2-3e3f-9f1a-b4a82a88d36e",
+      "title": "Uber Technologies (UBER) Lands Licensed Autonomous Rides In London With 100,000 Sign Ups",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-uber-lands-licensed-081440726.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786176880,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0fc117e6-11ac-3830-83ee-2726178f5037",
-      "title": "Klesch becomes Germany’s second-largest oil refiner after BP deal",
-      "link": "https://finance.yahoo.com/energy/articles/klesch-becomes-germany-second-largest-072146991.html",
-      "publisher": "Investing.com",
-      "time": 1786173706,
+      "id": "e87ab059-a304-3eb5-92ef-908e56895f5b",
+      "title": "Core Natural Resources (CNR) Is Up 12.2% After Leer South Insurance Boost Drives Q2 Profitability - What's Changed",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/core-natural-resources-cnr-12-081440179.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786176880,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,80 +84,67 @@
       ]
     },
     {
-      "id": "c68d7fc4-cd45-30e7-a4af-f503fa604d12",
-      "title": "Do Compliance Risks and Rising Health Costs Signal a Strategic Turning Point for Bank of America (BAC)?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/compliance-risks-rising-health-costs-071502298.html",
+      "id": "6e17dff8-96b6-3609-a77d-182d67c8e5bd",
+      "title": "Gold Royalty (GROY) Posts Record First Half Results, Is The Valuation Gap Too Wide?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gold-royalty-groy-posts-record-081433541.html",
       "publisher": "Simply Wall St.",
-      "time": 1786173302,
+      "time": 1786176873,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b92813c1-e6f7-32ae-a74d-cacf541effd8",
+      "title": "Watts Water Technologies (WTS) Delivered $763.2 Million In Q2 Sales",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/watts-water-technologies-wts-delivered-081411456.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786176851,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "337868ec-2906-3781-8fa3-994ea49eb69b",
+      "title": "Duolingo (DUOL) Launched A Gen Z Focused Coffee Partnership",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/duolingo-duol-launched-gen-z-081405403.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786176845,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "668d7a2b-ee0e-3c70-900e-e98f06e4c96a",
+      "title": "The AI Trade Rotation: Money Is Moving Out of Chips and Into This",
+      "link": "https://finance.yahoo.com/m/668d7a2b-ee0e-3c70-900e-e98f06e4c96a/the-ai-trade-rotation%3A-money.html",
+      "publisher": "Motley Fool",
+      "time": 1786176840,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
     },
     {
-      "id": "8be58cbb-f703-36e8-b729-ed2373514969",
-      "title": "Walmart’s top-pick storage shed with lockable doors is only $95",
-      "link": "https://finance.yahoo.com/m/8be58cbb-f703-36e8-b729-ed2373514969/walmart%E2%80%99s-top-pick-storage.html",
-      "publisher": "TheStreet",
-      "time": 1786173300,
+      "id": "98d64eef-94fe-386a-9d18-c997fb7c95ac",
+      "title": "Is Concentrix’s (CNXC) Generative AI Playbook Reframing Its Core Enterprise Value Proposition?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/concentrix-cnxc-generative-ai-playbook-081343276.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786176823,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7773cb9e-5761-3a9a-bc03-686c2a186b58",
-      "title": "Signet Jewelers (SIG) Ahead Of Earnings With An Undervalued Narrative In Focus",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/signet-jewelers-sig-ahead-earnings-071454120.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786173294,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "7b387f96-0a19-3cff-b916-5c4aba2c584b",
-      "title": "Darling Ingredients (DAR) Stock Could Stay Cheap Following $1b Buyback",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/darling-ingredients-dar-stock-could-071440707.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786173280,
+      "id": "e9458723-9aa6-308e-9f7e-82da73c5db87",
+      "title": "NadMesh Didn’t Come for Your Model. It Came for Everything Around It.",
+      "link": "https://finance.yahoo.com/m/e9458723-9aa6-308e-9f7e-82da73c5db87/nadmesh-didn%E2%80%99t-come-for-your.html",
+      "publisher": "Forkast News",
+      "time": 1786176817,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "24865e1c-53e1-3400-b969-16d5edeb3055",
-      "title": "MasTec (MTZ) Board Expands To 10 With Alexander Benjamin Spiro",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mastec-mtz-board-expands-10-071423637.html",
+      "id": "97efccb9-6164-3730-ab55-aa2755cd39cb",
+      "title": "Inter & Co (INTR) Could Be 84% Undervalued On Its 60 30 30 Narrative",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/inter-co-intr-could-84-081332539.html",
       "publisher": "Simply Wall St.",
-      "time": 1786173263,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0e559ab3-85c0-3091-a79f-f1e86afebea4",
-      "title": "Is Applied Industrial Technologies (AIT) Fully Valued On Its Recent Share Price Run?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/applied-industrial-technologies-ait-fully-071419948.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786173259,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "63bf2061-874d-3f34-bcf4-26f2a722ddcd",
-      "title": "Why Is Kimco Realty (KIM) Raising Its Dividend While Issuing $600 Million In Notes?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-kimco-realty-kim-raising-071419685.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786173259,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e3184d1e-9e40-3e0c-9d0d-06d0783cf010",
-      "title": "Tripadvisor (TRIP) Is Down 23.9% After Weaker Q2 And $700 Million TheFork Sale Plan - What's Changed",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tripadvisor-trip-down-23-9-071408264.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786173248,
+      "time": 1786176812,
       "impact": "low",
       "tags": []
     }
