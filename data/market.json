@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T11:33:35.567360+00:00",
+  "updatedAt": "2026-08-08T12:34:10.685254+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,20 @@
   ],
   "news": [
     {
-      "id": "bf7ee4e2-db02-3821-8d96-a755b42f34a7",
-      "title": "Robert Kiyosaki warned Americans who own 401(k)s that the US could be on the brink of ‘Great Depression.’ Prepare now",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/robert-kiyosaki-warned-americans-own-113000295.html",
-      "publisher": "Moneywise",
-      "time": 1786188600,
+      "id": "455c7977-12cb-390d-aba7-cc24ca4bf064",
+      "title": "Government of Canada provides funding for the AfroMonde Festival",
+      "link": "https://finance.yahoo.com/small-business/articles/government-canada-provides-funding-afromonde-123000852.html",
+      "publisher": "CNW Group",
+      "time": 1786192200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6bf0da8a-faae-33c1-af5a-bcc389ef390c",
+      "title": "Dow Jones Futures: What To Do As Stock Market Revs Up; Warren Buffett's Berkshire Beats Views",
+      "link": "https://finance.yahoo.com/m/6bf0da8a-faae-33c1-af5a-bcc389ef390c/dow-jones-futures%3A-what-to-do.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786192091,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,11 +73,38 @@
       ]
     },
     {
-      "id": "0a3fbb37-17ee-4f01-b118-635c236d5b62",
-      "title": "The AI boom ripples into regional banks as lending picks up",
-      "link": "https://finance.yahoo.com/markets/article/the-ai-boom-ripples-into-regional-banks-as-lending-picks-up-112917906.html",
-      "publisher": "Yahoo Finance",
-      "time": 1786188557,
+      "id": "818df977-143e-3994-97fd-00aa8aa564a0",
+      "title": "Rocket Lab Just Unveiled a Game-Changing Technology Worth Watching",
+      "link": "https://finance.yahoo.com/m/818df977-143e-3994-97fd-00aa8aa564a0/rocket-lab-just-unveiled-a.html",
+      "publisher": "Motley Fool",
+      "time": 1786191900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d5d3666c-8289-395b-bfe2-e663cf4e7fb7",
+      "title": "Zoom Director Santiago Subotovsky Sells 7,911 Shares for $802,000",
+      "link": "https://finance.yahoo.com/m/d5d3666c-8289-395b-bfe2-e663cf4e7fb7/zoom-director-santiago.html",
+      "publisher": "Motley Fool",
+      "time": 1786191601,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f224d564-01ab-37bc-8db8-38dadc6981c2",
+      "title": "The Surprising Way Taking a Job in Retirement Could Cost You Social Security Benefits",
+      "link": "https://finance.yahoo.com/m/f224d564-01ab-37bc-8db8-38dadc6981c2/the-surprising-way-taking-a.html",
+      "publisher": "Motley Fool",
+      "time": 1786191600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8e87b20a-dfbd-3fee-91c0-d41b91d2a27f",
+      "title": "Global Payments (GPN) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/8e87b20a-dfbd-3fee-91c0-d41b91d2a27f/global-payments-%28gpn%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1786191241,
       "impact": "medium",
       "tags": [
         "macro",
@@ -76,68 +112,29 @@
       ]
     },
     {
-      "id": "fb4a03da-33b7-4fff-9eca-3cb84c4aa0b3",
-      "title": "The AI boom is creating jobs far from Silicon Valley: Chart of the Day",
-      "link": "https://finance.yahoo.com/markets/article/the-ai-boom-is-creating-jobs-far-from-silicon-valley-chart-of-the-day-112914747.html",
-      "publisher": "Yahoo Finance",
-      "time": 1786188554,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "66e30b4f-56de-3746-844b-771c23252caf",
-      "title": "Atletico will not sell Alvarez, says Simeone",
-      "link": "https://finance.yahoo.com/m/66e30b4f-56de-3746-844b-771c23252caf/atletico-will-not-sell.html",
-      "publisher": "AFP",
-      "time": 1786187789,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "eba7d0e4-2d95-3d44-a8f8-1aa7df0a7c1d",
-      "title": "Elon Musk issues red flag warning to group of SpaceX traders — but they keep doubling down. Are you making the same bet?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-issues-red-flag-111500261.html",
-      "publisher": "Moneywise",
-      "time": 1786187700,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "b083e9ed-8f35-3842-a13a-dfdd453305e9",
-      "title": "University of Utah and U.S. Army Reserve complete historic land transfer and relocation",
-      "link": "https://finance.yahoo.com/real-estate/articles/university-utah-u-army-complete-111400241.html",
+      "id": "9a97c180-73be-3dbc-8aab-5ef751df1c0d",
+      "title": "12 Value-Added Courses at Chandigarh University Uttar Pradesh, AI, Business Analytics & More to Boost Student Skills",
+      "link": "https://finance.yahoo.com/technology/ai/articles/12-value-added-courses-chandigarh-121300045.html",
       "publisher": "PR Newswire",
-      "time": 1786187640,
+      "time": 1786191180,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c5ed060a-8424-3e65-861b-bbb89983f9c9",
-      "title": "MDA Space (TSX:MDA) Adds Blue Canyon And CLS As Defense Satellite Work Builds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mda-space-tsx-mda-adds-111214697.html",
+      "id": "9a79421e-73d9-33e3-b58c-ca6dcb6a7e7a",
+      "title": "NextEra Energy (NEE) Draws Governor Scrutiny In $67 Billion Utility Deal Review",
+      "link": "https://finance.yahoo.com/energy/articles/nextera-energy-nee-draws-governor-121203730.html",
       "publisher": "Simply Wall St.",
-      "time": 1786187534,
+      "time": 1786191123,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3d3bb975-58c3-3c10-83b9-988b580033c6",
-      "title": "Sibanye Stillwater (JSE:SSW) Stock Fair Value Falls After Mixed Analyst Revisions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sibanye-stillwater-jse-ssw-stock-111203270.html",
+      "id": "13b20cdf-af55-3142-a03d-f53370454952",
+      "title": "Mueller Water Products (MWA) Lifts Guidance Again On Record Quarter But Is The Valuation Priced In",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mueller-water-products-mwa-lifts-121157610.html",
       "publisher": "Simply Wall St.",
-      "time": 1786187523,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8928ae36-e092-3f93-bfc9-f5013d977918",
-      "title": "Flywire (FLYW) Posted Stronger Earnings And Buybacks, Is The Stock Still Cheap?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/flywire-flyw-posted-stronger-earnings-111145480.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786187505,
+      "time": 1786191117,
       "impact": "medium",
       "tags": [
         "macro",
@@ -145,11 +142,11 @@
       ]
     },
     {
-      "id": "78e700a4-2803-3603-a2be-e0939b6fb8a0",
-      "title": "Ecolab (ECL) Stock Looks Overvalued As Its 60% Three Year Run Continues",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ecolab-ecl-stock-looks-overvalued-111140448.html",
+      "id": "28b2cfa4-e14d-3e71-8324-c08df71f413a",
+      "title": "Is DAIHEN (TSE:6622) Expensive On Its Share Split And Dividend Reset?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/daihen-tse-6622-expensive-share-121129082.html",
       "publisher": "Simply Wall St.",
-      "time": 1786187500,
+      "time": 1786191089,
       "impact": "low",
       "tags": []
     }
