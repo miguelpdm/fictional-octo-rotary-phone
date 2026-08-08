@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T09:30:48.655824+00:00",
+  "updatedAt": "2026-08-08T10:24:39.500101+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,20 @@
   ],
   "news": [
     {
-      "id": "acc3e9e3-6a5b-3fcb-9a4c-4ef853051275",
-      "title": "Bitcoin rises toward $65,000 as fresh security risks hit infrastructure",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rises-toward-65-000-092116909.html",
-      "publisher": "Investing.com",
-      "time": 1786180876,
+      "id": "5366bd76-247d-3683-a85a-41579184188b",
+      "title": "STAX AI Announces Expansion of Its AI Stock Analysis and Investment Research Platform",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stax-ai-announces-expansion-ai-101700403.html",
+      "publisher": "TMX Newsfile",
+      "time": 1786184220,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c411904a-ee68-30ab-a7a7-422b6d284db6",
+      "title": "‘Tariffs have been incredible’: Trump says America’s ‘rocking’ as Toyota, giants pour billions into US. Was he right?",
+      "link": "https://finance.yahoo.com/economy/policy/articles/tariffs-incredible-trump-says-america-101500758.html",
+      "publisher": "Moneywise",
+      "time": 1786184100,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,49 +73,11 @@
       ]
     },
     {
-      "id": "00362cfb-a09f-3fa3-a786-aa5e4b17f5a4",
-      "title": "Amazon's Stock Just Soared 15%. Here's Why Now Is Just the Beginning.",
-      "link": "https://finance.yahoo.com/m/00362cfb-a09f-3fa3-a786-aa5e4b17f5a4/amazon%27s-stock-just-soared.html",
-      "publisher": "Motley Fool",
-      "time": 1786180800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "15aa5737-33ef-3e17-a3e4-4bbf88287f34",
-      "title": "Jim Cramer Names 5 Investing Themes and 13 Stocks to Buy for 2026",
-      "link": "https://finance.yahoo.com/m/15aa5737-33ef-3e17-a3e4-4bbf88287f34/jim-cramer-names-5-investing.html",
-      "publisher": "BeInCrypto",
-      "time": 1786180793,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "6dba939a-7626-3f43-9647-d128f157978d",
-      "title": "US Senate confirms Trump's ex-lawyer as attorney general",
-      "link": "https://finance.yahoo.com/m/6dba939a-7626-3f43-9647-d128f157978d/us-senate-confirms-trump%27s.html",
-      "publisher": "AFP",
-      "time": 1786180699,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5db4cd06-1ff1-3870-8c76-4af250a64a25",
-      "title": "The White House Continues to Promote the Strategic Bitcoin Reserve. Here's What It Means for Bitcoin.",
-      "link": "https://finance.yahoo.com/m/5db4cd06-1ff1-3870-8c76-4af250a64a25/the-white-house-continues-to.html",
-      "publisher": "Motley Fool",
-      "time": 1786180680,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e2171423-4169-38ff-902e-63adfe1a2041",
-      "title": "Mahamandleshwar Gita Manishi Swami Shri Gyananand Ji Maharaj Enlightens Chandigarh University Students with Timeless Teachings of Bhagavad Gita",
-      "link": "https://finance.yahoo.com/media-advertising/articles/mahamandleshwar-gita-manishi-swami-shri-091600689.html",
-      "publisher": "PR Newswire",
-      "time": 1786180560,
+      "id": "91bc9703-4c69-3780-ba49-f23c1228b36c",
+      "title": "AgentBaiting: How 800+ Fake AI Skills Deliver Malware at Scale",
+      "link": "https://finance.yahoo.com/m/91bc9703-4c69-3780-ba49-f23c1228b36c/agentbaiting%3A-how-800%2B-fake.html",
+      "publisher": "Forkast News",
+      "time": 1786183802,
       "impact": "high",
       "tags": [
         "geo",
@@ -114,43 +85,97 @@
       ]
     },
     {
-      "id": "ae203f8e-3828-374c-b3c5-a71d2ef02396",
-      "title": "Situational Awareness Reportedly Bet $400 Million on a $5 Billion Stealth Chip Startup— Weeks After the 'Most Catastrophic Hedge Fund Blowup' of the Year",
-      "link": "https://finance.yahoo.com/m/ae203f8e-3828-374c-b3c5-a71d2ef02396/situational-awareness.html",
-      "publisher": "Benzinga Private Markets",
-      "time": 1786180457,
-      "impact": "high",
+      "id": "e0924084-2ad5-3c01-b3ab-6b1feb191cb6",
+      "title": "AI and the Blurring of Reality",
+      "link": "https://finance.yahoo.com/m/e0924084-2ad5-3c01-b3ab-6b1feb191cb6/ai-and-the-blurring-of-reality.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1786183800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "252a9973-7843-3ab0-a69d-fc7088f6e510",
+      "title": "Geopark Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/252a9973-7843-3ab0-a69d-fc7088f6e510/geopark-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1786183429,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "01a02f88-f0c7-3492-a3a8-042491c01c6e",
-      "title": "A $1.8 Million Portfolio, Two Withdrawal Plans: One Triggers IRMAA and RMD Taxes, One Never Does",
-      "link": "https://finance.yahoo.com/m/01a02f88-f0c7-3492-a3a8-042491c01c6e/a-%241.8-million-portfolio%2C-two.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786180189,
-      "impact": "low",
-      "tags": []
+      "id": "a4580dd5-23e5-31f9-a48e-5d34d144791a",
+      "title": "Guardian Pharmacy Services Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/a4580dd5-23e5-31f9-a48e-5d34d144791a/guardian-pharmacy-services-q2.html",
+      "publisher": "MarketBeat",
+      "time": 1786183429,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "40b6766d-e69c-3457-adb3-7b41c14b3049",
-      "title": "Unemployment rate is falling, but for 'the wrong reason,’ experts say",
-      "link": "https://finance.yahoo.com/m/40b6766d-e69c-3457-adb3-7b41c14b3049/unemployment-rate-is-falling%2C.html",
-      "publisher": "USA TODAY",
-      "time": 1786179971,
-      "impact": "low",
-      "tags": []
+      "id": "e7da7803-503b-3351-9043-6e1e67c624d2",
+      "title": "Global Payments Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/e7da7803-503b-3351-9043-6e1e67c624d2/global-payments-q2-earnings.html",
+      "publisher": "MarketBeat",
+      "time": 1786183429,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "d9d06ff3-15d0-3d3c-88e4-474ef57c8042",
-      "title": "Dan Ives Says We're in the \"3rd Inning\" of the AI Revolution. Is Nvidia Stock Still a Buy After the Pullback?",
-      "link": "https://finance.yahoo.com/m/d9d06ff3-15d0-3d3c-88e4-474ef57c8042/dan-ives-says-we%27re-in-the.html",
-      "publisher": "Motley Fool",
-      "time": 1786179840,
-      "impact": "low",
-      "tags": []
+      "id": "21d81fdc-393e-3826-bc0e-b28ff9a20cdc",
+      "title": "Granite Point Mortgage Trust Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/21d81fdc-393e-3826-bc0e-b28ff9a20cdc/granite-point-mortgage-trust.html",
+      "publisher": "MarketBeat",
+      "time": 1786183428,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9e24d370-8ab4-3a40-98bc-332effe600f0",
+      "title": "Genworth Financial Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/9e24d370-8ab4-3a40-98bc-332effe600f0/genworth-financial-q2.html",
+      "publisher": "MarketBeat",
+      "time": 1786183428,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "f738aa89-2dec-3bba-8c69-d38e49adbb5d",
+      "title": "Acushnet Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/f738aa89-2dec-3bba-8c69-d38e49adbb5d/acushnet-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1786183428,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "5d8d0746-e2c6-3ed7-860a-f8500a55f17b",
+      "title": "Genco Shipping & Trading Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/5d8d0746-e2c6-3ed7-860a-f8500a55f17b/genco-shipping-%26-trading-q2.html",
+      "publisher": "MarketBeat",
+      "time": 1786183427,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
