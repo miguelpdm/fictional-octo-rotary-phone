@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T22:25:49.670760+00:00",
+  "updatedAt": "2026-08-08T22:56:33.100873+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,40 +52,70 @@
   ],
   "news": [
     {
-      "id": "a29deef1-a9a2-3fdf-a16f-01bf78ebbd62",
-      "title": "Bitcoin ETFs Are Having Their Best Week Since April. Did the Coldcard Hack Push $853M Into Bitcoin ETFs?",
-      "link": "https://finance.yahoo.com/m/a29deef1-a9a2-3fdf-a16f-01bf78ebbd62/bitcoin-etfs-are-having-their.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786227057,
+      "id": "6009b139-db86-3205-a57b-c858e7d7089f",
+      "title": "Snap's CTO Sells Over 5 Million Shares for $28.2 Million. Here's a Deeper Look at the Transaction.",
+      "link": "https://finance.yahoo.com/m/6009b139-db86-3205-a57b-c858e7d7089f/snap%27s-cto-sells-over-5.html",
+      "publisher": "Motley Fool",
+      "time": 1786229161,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0fb97d55-b311-34f8-917e-1f00645111c6",
-      "title": "Only 2 of These 5 Nuclear Stocks Sell Fuel Today. Here's What the Market Pays for the Other 3.",
-      "link": "https://finance.yahoo.com/m/0fb97d55-b311-34f8-917e-1f00645111c6/only-2-of-these-5-nuclear.html",
+      "id": "5314ae0e-4762-3855-84f0-c8acb774b517",
+      "title": "Forget SMH. The Chip Fund That Owns Less Nvidia Is Beating It by 20 Points",
+      "link": "https://finance.yahoo.com/m/5314ae0e-4762-3855-84f0-c8acb774b517/forget-smh.-the-chip-fund.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786228866,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c83da820-4f16-3c66-97ae-7c4380a234f2",
+      "title": "Why the Market Continues to Sleep on Micron's Growth Potential",
+      "link": "https://finance.yahoo.com/m/c83da820-4f16-3c66-97ae-7c4380a234f2/why-the-market-continues-to.html",
       "publisher": "Motley Fool",
-      "time": 1786226820,
+      "time": 1786228500,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "ad7c7189-0f5c-3c3c-b4e1-d45e5729134a",
-      "title": "AMD just made bold move to challenge Nvidia",
-      "link": "https://finance.yahoo.com/m/ad7c7189-0f5c-3c3c-b4e1-d45e5729134a/amd-just-made-bold-move-to.html",
-      "publisher": "TheStreet",
-      "time": 1786226820,
+      "id": "19d5bb1b-4797-31da-9084-d6e27a1ae0b0",
+      "title": "FIFA condemns 'concerted and ongoing effort' to weaken Infantino",
+      "link": "https://finance.yahoo.com/m/19d5bb1b-4797-31da-9084-d6e27a1ae0b0/fifa-condemns-%27concerted-and.html",
+      "publisher": "AFP",
+      "time": 1786228172,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6abb1a6d-c622-3e05-8f43-d88a3638dd4d",
-      "title": "Orion Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/6abb1a6d-c622-3e05-8f43-d88a3638dd4d/orion-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1786226633,
+      "id": "59fd4180-076c-3733-87b8-4c95a1ffb02d",
+      "title": "Warren Buffett Warned About the Dot-Com Bubble. Now, the Stock Market Is Flashing the Same Warning Signal.",
+      "link": "https://finance.yahoo.com/m/59fd4180-076c-3733-87b8-4c95a1ffb02d/warren-buffett-warned-about.html",
+      "publisher": "Motley Fool",
+      "time": 1786227600,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "309247d2-6f6f-3dfa-8081-b72bb16f93b6",
+      "title": "Espresso power fires Darderi past Borges in Montreal",
+      "link": "https://finance.yahoo.com/m/309247d2-6f6f-3dfa-8081-b72bb16f93b6/espresso-power-fires-darderi.html",
+      "publisher": "AFP",
+      "time": 1786227306,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "edae20b0-f8ea-3da2-a907-939175fd495a",
+      "title": "Qorvo Insiders Keep Filing. But the Merger Is the Main Thing That Matters",
+      "link": "https://finance.yahoo.com/m/edae20b0-f8ea-3da2-a907-939175fd495a/qorvo-insiders-keep-filing..html",
+      "publisher": "Motley Fool",
+      "time": 1786227279,
       "impact": "medium",
       "tags": [
         "macro",
@@ -93,11 +123,11 @@
       ]
     },
     {
-      "id": "e81e88b6-5119-3c98-b981-2799470a212e",
-      "title": "Owens Corning Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/e81e88b6-5119-3c98-b981-2799470a212e/owens-corning-q2-earnings.html",
-      "publisher": "MarketBeat",
-      "time": 1786226633,
+      "id": "d1ba2ac0-81b9-3bbe-8e3c-83a675d42803",
+      "title": "Jackson Financial (JXN) Stock Looks Fully Priced With Strong Returns But Rich Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jackson-financial-jxn-stock-looks-221320523.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786227200,
       "impact": "medium",
       "tags": [
         "macro",
@@ -105,59 +135,20 @@
       ]
     },
     {
-      "id": "f13359f3-87a4-37a8-bb88-53e2ed15d472",
-      "title": "Once Upon A Farm Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/f13359f3-87a4-37a8-bb88-53e2ed15d472/once-upon-a-farm-q2-earnings.html",
-      "publisher": "MarketBeat",
-      "time": 1786226633,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "12d40108-5698-3020-9268-9ebc56ba7244",
+      "title": "Innodata (INOD) Stock Looks Fully Valued With AI Hopes Priced In",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/innodata-inod-stock-looks-fully-221311772.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786227191,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "76929445-52ec-39ec-a2fe-acb8cc1aaefd",
-      "title": "Blue Owl Capital Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/76929445-52ec-39ec-a2fe-acb8cc1aaefd/blue-owl-capital-q2-earnings.html",
-      "publisher": "MarketBeat",
-      "time": 1786226632,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "d7b095a1-7d98-383c-b034-cb8bfddb0a66",
-      "title": "New York Times Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/d7b095a1-7d98-383c-b034-cb8bfddb0a66/new-york-times-q2-earnings.html",
-      "publisher": "MarketBeat",
-      "time": 1786226632,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "f9f795a6-f2b8-3af4-87d9-870a33cfa8eb",
-      "title": "Realty Income Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/f9f795a6-f2b8-3af4-87d9-870a33cfa8eb/realty-income-q2-earnings.html",
-      "publisher": "MarketBeat",
-      "time": 1786226632,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "06722332-1ef4-3ed2-a1de-df5f38676c3e",
-      "title": "Envista Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/06722332-1ef4-3ed2-a1de-df5f38676c3e/envista-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1786226631,
+      "id": "9d2c8bb4-bc2a-3362-bff6-9a7099109355",
+      "title": "Red Cat Holdings (RCAT) Reaffirms Guidance As Strong Growth Puts Valuation Back In Focus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-rcat-reaffirms-221253293.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786227173,
       "impact": "medium",
       "tags": [
         "macro",
