@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T18:37:38.298737+00:00",
+  "updatedAt": "2026-08-09T19:27:26.017901+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,50 +52,76 @@
   ],
   "news": [
     {
-      "id": "f84c083d-e280-39d1-bae3-527dc12c6c7a",
-      "title": "Five dead in new Russia, Ukraine strikes",
-      "link": "https://finance.yahoo.com/m/f84c083d-e280-39d1-bae3-527dc12c6c7a/five-dead-in-new-russia%2C.html",
-      "publisher": "AFP",
-      "time": 1786299951,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "77135615-328d-3070-b9bb-760d61df4d52",
-      "title": "IREN (IREN) vs. CORZ and APLD: Can Its AI Cloud Buildout Turn Contracted Demand Into Profits?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/iren-iren-vs-corz-apld-182431338.html",
-      "publisher": "Insider Monkey",
-      "time": 1786299871,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "56804b99-b431-3f98-9465-14b0b095002e",
-      "title": "Social Security Benefits Have Lost 14% of Their Buying Power Since 2016. Will the 2027 COLA Reverse That Trend?",
-      "link": "https://finance.yahoo.com/m/56804b99-b431-3f98-9465-14b0b095002e/social-security-benefits-have.html",
+      "id": "d5b6b5d5-cbea-382e-a47b-3354686ecdfb",
+      "title": "Here's Why Iren Has an Edge in the Neocloud Market, According to Meta's Mark Zuckerberg",
+      "link": "https://finance.yahoo.com/m/d5b6b5d5-cbea-382e-a47b-3354686ecdfb/here%27s-why-iren-has-an-edge.html",
       "publisher": "Motley Fool",
-      "time": 1786299600,
+      "time": 1786303200,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "564c2567-1c43-3049-b5a7-fb804ea583ad",
+      "title": "She Returned to a Classroom at 64. Her Wages Earned No Social Security Credit, but Every Dollar Counted Against Her.",
+      "link": "https://finance.yahoo.com/m/564c2567-1c43-3049-b5a7-fb804ea583ad/she-returned-to-a-classroom.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786302943,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a467b3c0-f921-36a0-9501-7fd50ab62b86",
-      "title": "Como sign England defender Chalobah from Chelsea",
-      "link": "https://finance.yahoo.com/m/a467b3c0-f921-36a0-9501-7fd50ab62b86/como-sign-england-defender.html",
-      "publisher": "AFP",
-      "time": 1786299590,
+      "id": "14f51520-d154-3ba1-b26b-a14906fdfd18",
+      "title": "Amazon's $86 2-in-1 laptop and tablet has fully-integrated AI features",
+      "link": "https://finance.yahoo.com/m/14f51520-d154-3ba1-b26b-a14906fdfd18/amazon%27s-%2486-2-in-1-laptop.html",
+      "publisher": "TheStreet",
+      "time": 1786302900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "128d423d-4793-3c16-9478-70d048230086",
-      "title": "Marvell (MRVL) vs. AVGO and NVDA: Can AI Interconnect Growth Deliver the Earnings Its Premium Valuation Demands?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-vs-avgo-nvda-181931790.html",
+      "id": "ead6e7a7-7b37-39bd-8117-638507920519",
+      "title": "Walmart's $999 sofa set that comes with an armchair and ottoman is 49% off",
+      "link": "https://finance.yahoo.com/m/ead6e7a7-7b37-39bd-8117-638507920519/walmart%27s-%24999-sofa-set-that.html",
+      "publisher": "TheStreet",
+      "time": 1786302900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "789030c7-c278-37ae-a676-b5a794fc80e7",
+      "title": "Sundar Pichai's Alphabet Has Grown Google Cloud Revenue 82% Year Over Year. Here's Why That Growth Rate Justifies the Company's Capex Bet.",
+      "link": "https://finance.yahoo.com/m/789030c7-c278-37ae-a676-b5a794fc80e7/sundar-pichai%27s-alphabet-has.html",
+      "publisher": "Motley Fool",
+      "time": 1786302840,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "277f7352-e0ae-361c-b482-9d9762fc5972",
+      "title": "SpaceX set to challenge Verizon, AT&T and T-Mobile with new plans",
+      "link": "https://finance.yahoo.com/m/277f7352-e0ae-361c-b482-9d9762fc5972/spacex-set-to-challenge.html",
+      "publisher": "TheStreet",
+      "time": 1786302780,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bf6ffaa6-8139-3f5f-88e1-ad65e04c1000",
+      "title": "ServiceNow (NOW) Unveils Autonomous Security to Accelerate Growth",
+      "link": "https://finance.yahoo.com/technology/ai/articles/servicenow-now-unveils-autonomous-security-191105328.html",
       "publisher": "Insider Monkey",
-      "time": 1786299571,
+      "time": 1786302665,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bc60b1f3-7611-3e22-9e06-9dee6d772bee",
+      "title": "Ring Energy Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/bc60b1f3-7611-3e22-9e06-9dee6d772bee/ring-energy-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1786302243,
       "impact": "medium",
       "tags": [
         "macro",
@@ -103,49 +129,28 @@
       ]
     },
     {
-      "id": "a04df736-d06a-3b97-a3e6-e3551bd71240",
-      "title": "Alleged Irish Crime Boss Extradited From U.A.E., Ending Yearslong Hunt",
-      "link": "https://finance.yahoo.com/m/a04df736-d06a-3b97-a3e6-e3551bd71240/alleged-irish-crime-boss.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1786299240,
-      "impact": "low",
-      "tags": []
+      "id": "12481fee-88e6-39c6-9d1a-8fce13f4e373",
+      "title": "Nine Energy Service Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/12481fee-88e6-39c6-9d1a-8fce13f4e373/nine-energy-service-q2.html",
+      "publisher": "MarketBeat",
+      "time": 1786302242,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "713009a4-9cf2-3921-91b1-c0f39ea8988d",
-      "title": "UnitedHealth (UNH) Commits $4M to Tennessee Health Hub Expansion",
-      "link": "https://finance.yahoo.com/healthcare/articles/unitedhealth-unh-commits-4m-tennessee-181302253.html",
-      "publisher": "Insider Monkey",
-      "time": 1786299182,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a3c594cd-0f49-36b4-a45a-ed6a26418e91",
-      "title": "Abdul El-Sayed reveals Obama call as Michigan Democrats seek unity",
-      "link": "https://finance.yahoo.com/m/a3c594cd-0f49-36b4-a45a-ed6a26418e91/abdul-el-sayed-reveals-obama.html",
-      "publisher": "USA TODAY",
-      "time": 1786299127,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e9ba66b0-658a-3f47-a055-62059e95df18",
-      "title": "CenterPoint Energy (CNP) Reports Strong Q2 And Completes $700 Million Debt Offering",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/centerpoint-energy-cnp-reports-strong-181021512.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786299021,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f239cac9-9854-3ebd-b93f-7f37bcda1595",
-      "title": "Tanger (SKT) Stock Gets Fair Value Bump As Analysts Lift Targets After Q2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tanger-skt-stock-gets-fair-181019805.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786299019,
-      "impact": "low",
-      "tags": []
+      "id": "8686b75f-b868-37f3-ab7b-bd7d888af764",
+      "title": "Myomo Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/8686b75f-b868-37f3-ab7b-bd7d888af764/myomo-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1786302242,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
