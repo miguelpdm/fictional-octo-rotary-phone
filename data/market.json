@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T13:43:39.514592+00:00",
+  "updatedAt": "2026-08-09T14:27:54.024367+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,38 +52,20 @@
   ],
   "news": [
     {
-      "id": "e03a44f8-6cae-3329-9d33-08f5c8e6173e",
-      "title": "Cloudflare’s Kitesurf Is the First Agent-Native Browser Runtime — and a Bet on Owning the Distribution Layer",
-      "link": "https://finance.yahoo.com/m/e03a44f8-6cae-3329-9d33-08f5c8e6173e/cloudflare%E2%80%99s-kitesurf-is-the.html",
-      "publisher": "Forkast News",
-      "time": 1786282364,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1c2d4478-0b5e-3e53-b469-b015f7d6e26b",
-      "title": "Walmart’s AI-enabled 2-in-1 laptop and tablet is now $90",
-      "link": "https://finance.yahoo.com/m/1c2d4478-0b5e-3e53-b469-b015f7d6e26b/walmart%E2%80%99s-ai-enabled-2-in-1.html",
-      "publisher": "TheStreet",
-      "time": 1786282200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bfbce04e-c196-3d02-8d4f-88af031ddea8",
-      "title": "25.2 million adults now live with their parents — experts say rent should be 'non-negotiable' even for family",
-      "link": "https://finance.yahoo.com/real-estate/articles/25-2-million-adults-now-133000080.html",
-      "publisher": "Moneywise",
-      "time": 1786282200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "baacaa4f-0b8d-3c0d-a559-981378fb436f",
-      "title": "Uh-Oh! The Inflationary Effects of the Donald Trump-Led Iran War Now Extend Well Beyond the Energy Sector.",
-      "link": "https://finance.yahoo.com/m/baacaa4f-0b8d-3c0d-a559-981378fb436f/uh-oh%21-the-inflationary.html",
+      "id": "934e15f3-d6ae-3879-807b-c07e32b3bd50",
+      "title": "Why Vertiv Is 1 of the Best-Kept Secrets of the AI Data Center Boom",
+      "link": "https://finance.yahoo.com/m/934e15f3-d6ae-3879-807b-c07e32b3bd50/why-vertiv-is-1-of-the.html",
       "publisher": "Motley Fool",
-      "time": 1786281960,
+      "time": 1786285200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "df3947d2-ef16-3768-9c17-821dfe858b98",
+      "title": "Bank of America issues stark warning on Fed and economy",
+      "link": "https://finance.yahoo.com/m/df3947d2-ef16-3768-9c17-821dfe858b98/bank-of-america-issues-stark.html",
+      "publisher": "TheStreet",
+      "time": 1786285020,
       "impact": "high",
       "tags": [
         "geo",
@@ -91,20 +73,11 @@
       ]
     },
     {
-      "id": "4b22cce0-b2d4-3d52-9960-4f82983f7b6d",
-      "title": "'Improving' O'Neill misses Kilmarnock match after hospital stay",
-      "link": "https://finance.yahoo.com/m/4b22cce0-b2d4-3d52-9960-4f82983f7b6d/%27improving%27-o%27neill-misses.html",
-      "publisher": "AFP",
-      "time": 1786281791,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "eef3c30b-f7cb-300a-8e8b-bb6e35afaddf",
-      "title": "Top Semiconductor Stock Outpacing Nvidia With a 36% Gain Over 6 Months",
-      "link": "https://finance.yahoo.com/m/eef3c30b-f7cb-300a-8e8b-bb6e35afaddf/top-semiconductor-stock.html",
-      "publisher": "Motley Fool",
-      "time": 1786281600,
+      "id": "1caa1187-a371-3e51-90f2-096c55100219",
+      "title": "Crocs (CROX) Is Up 6.7% After Earnings Beat And Larger Buybacks Authorization Has The Bull Case Changed?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/crocs-crox-6-7-earnings-141103105.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786284663,
       "impact": "medium",
       "tags": [
         "macro",
@@ -112,45 +85,76 @@
       ]
     },
     {
-      "id": "1fea69c8-835a-3662-abec-16832a63abb5",
-      "title": "Memory Sector Stocks Are Down 30% or More From Their Highs, But These 2 Are Worth Buying Now",
-      "link": "https://finance.yahoo.com/m/1fea69c8-835a-3662-abec-16832a63abb5/memory-sector-stocks-are-down.html",
-      "publisher": "Motley Fool",
-      "time": 1786281300,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "008306dc-9d6e-3336-9978-251c01e4de05",
-      "title": "The Cost Paradox: Why Companies Are Freezing Entry-Level Hiring Before AI Actually Works",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cost-paradox-why-companies-freezing-131317693.html",
-      "publisher": "Forkast News",
-      "time": 1786281197,
+      "id": "7ff59ea8-a691-36b4-b559-e1955dd3c9da",
+      "title": "AMC Entertainment Holdings (AMC) Has Rallied, Is The Stock 20% Overvalued?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amc-entertainment-holdings-amc-rallied-141100290.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786284660,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f1cdc8a1-d336-3645-aded-be190107dd32",
-      "title": "El Pollo Loco (LOCO) Stock Sees Fair Value Lift As Analysts Weigh Turnaround Plan",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/el-pollo-loco-loco-stock-131120034.html",
+      "id": "6693218e-e1b8-3982-8051-a468e0fadde0",
+      "title": "Is Ormat Technologies (ORA) Undervalued Following Its Raised 2026 Outlook And Earnings Beat?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ormat-technologies-ora-undervalued-following-141054016.html",
       "publisher": "Simply Wall St.",
-      "time": 1786281080,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3d2eb5b8-21cd-31c8-87de-8be664dd4ff1",
-      "title": "Should Upgraded Momentum Scores and Earnings Estimates Require Action From TJX Companies (TJX) Investors?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/upgraded-momentum-scores-earnings-estimates-131051961.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786281051,
+      "time": 1786284654,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
+    },
+    {
+      "id": "ef1d865f-e7e7-303a-a61e-492020d45ac5",
+      "title": "DorianG (LPG) Posted Record Quarterly Earnings, Is The Stock Still Below Fair Value?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/doriang-lpg-posted-record-quarterly-141047197.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786284647,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "f6cf5ede-fce3-358d-ad31-bab2b3c22fc5",
+      "title": "EPAM Systems (EPAM) Stock Fair Value Moves Lower After Cautious Analyst Target Cuts",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/epam-systems-epam-stock-fair-141018445.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786284618,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f7b294fd-dc40-3db9-903b-805ce98876a0",
+      "title": "Viatris (VTRS) Raises 2026 Guidance, Is The 11% Gap Below Fair Value Enough?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/viatris-vtrs-raises-2026-guidance-141018376.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786284618,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "798fb5c4-a0f6-3594-bcdd-25b84f8eeaf9",
+      "title": "Angi (ANGI) Stock Fair Value Moves Lower As Analysts Weigh Execution Risks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/angi-angi-stock-fair-value-141009937.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786284609,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1fa6dd8e-c1d5-35a7-82e6-018a194d6c4e",
+      "title": "Super Group (SGHC) Stock Sees Modest Fair Value Lift As Analysts Raise Targets",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/super-group-sghc-stock-sees-140953678.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786284593,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
