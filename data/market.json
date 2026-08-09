@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T21:24:49.033867+00:00",
+  "updatedAt": "2026-08-09T21:56:33.724447+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,116 +52,102 @@
   ],
   "news": [
     {
-      "id": "60840f1d-a599-3a4e-b85a-198f5b27c243",
-      "title": "1 Value Stock to Research Further and 2 We Question",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-value-stock-research-further-210922819.html",
+      "id": "d6a81c6b-ceeb-36cd-86d6-d4dd7d13b117",
+      "title": "3 Mega-Cap Stocks to Research Further",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-mega-cap-stocks-research-214922807.html",
       "publisher": "StockStory",
-      "time": 1786309762,
+      "time": 1786312162,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "1c01d697-2ae8-3aa3-bce0-8aa57239eb96",
-      "title": "Alphabet's Cloud Computing Business Just Posted 82% Revenue Growth. Next Quarter Could Be Even Better.",
-      "link": "https://finance.yahoo.com/m/1c01d697-2ae8-3aa3-bce0-8aa57239eb96/alphabet%27s-cloud-computing.html",
+      "id": "f656af4e-ee00-3d50-8847-ef893c9cab02",
+      "title": "Berkshire's Operating Earnings Rose $1.8 Billion Last Quarter. A Currency Swing Was $1.2 Billion of It.",
+      "link": "https://finance.yahoo.com/m/f656af4e-ee00-3d50-8847-ef893c9cab02/berkshire%27s-operating.html",
       "publisher": "Motley Fool",
-      "time": 1786309500,
+      "time": 1786312140,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "83fbe81d-ad99-3791-8dfb-b8572f163e6c",
+      "title": "\"Sincerity in Seasons\" -- Special Exhibition of Song Dynasty Paintings (Canada) Successfully Held in Montreal, Canada",
+      "link": "https://finance.yahoo.com/media-advertising/articles/sincerity-seasons-special-exhibition-song-214600316.html",
+      "publisher": "CNW Group",
+      "time": 1786311960,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9c5d8964-f40d-3fe2-a5d8-e3361088f63b",
-      "title": "A collector turned down $100,000 for a piece of paper LeBron James used to practice autographs in high school",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/collector-turned-down-100-000-210500251.html",
-      "publisher": "Moneywise",
-      "time": 1786309500,
+      "id": "b563f528-b188-3121-bef6-fc8a6934ad88",
+      "title": "‘Your Knowledge of Money and How It Works Is Nil’: Suze Orman to 62-Year-Old Who Nearly Locked His Wife Into $605 a Month",
+      "link": "https://finance.yahoo.com/m/b563f528-b188-3121-bef6-fc8a6934ad88/%E2%80%98your-knowledge-of-money-and.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786311897,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c06c992e-b289-3d30-b1f3-5d5fb334a000",
-      "title": "CES Energy Solutions Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/c06c992e-b289-3d30-b1f3-5d5fb334a000/ces-energy-solutions-q2.html",
-      "publisher": "MarketBeat",
-      "time": 1786309432,
-      "impact": "medium",
+      "id": "d802cac7-e891-38c5-a09d-5f93fceb254c",
+      "title": "3 Small-Cap Stocks Walking a Fine Line",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-walking-214122468.html",
+      "publisher": "StockStory",
+      "time": 1786311682,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "1ff76463-a477-34e2-92d6-409db1518834",
-      "title": "Baylin Technologies Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/1ff76463-a477-34e2-92d6-409db1518834/baylin-technologies-q2.html",
-      "publisher": "MarketBeat",
-      "time": 1786309431,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "d1179cc0-1d95-3350-8e0e-32d88d1fbae0",
+      "title": "Why Shopify Stock Soared This Week",
+      "link": "https://finance.yahoo.com/m/d1179cc0-1d95-3350-8e0e-32d88d1fbae0/why-shopify-stock-soared-this.html",
+      "publisher": "Motley Fool",
+      "time": 1786311679,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "3509ac4c-58f8-399c-b44e-fcb7f7ec52ec",
-      "title": "Cascades Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/3509ac4c-58f8-399c-b44e-fcb7f7ec52ec/cascades-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1786309431,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "111ab311-bd3e-3477-8b11-60a322d0792d",
+      "title": "Rybakina, Gauff advance to Toronto quarter-finals",
+      "link": "https://finance.yahoo.com/m/111ab311-bd3e-3477-8b11-60a322d0792d/rybakina%2C-gauff-advance-to.html",
+      "publisher": "AFP",
+      "time": 1786311532,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "80bb73b2-2f7a-3f33-8666-ec145836be3e",
-      "title": "AirBoss of America Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/80bb73b2-2f7a-3f33-8666-ec145836be3e/airboss-of-america-q2.html",
-      "publisher": "MarketBeat",
-      "time": 1786309431,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "7011131a-28d5-3e24-8fa8-012f3da798ae",
+      "title": "3 Big Mistakes IRA Savers Make -- and How to Fix Them",
+      "link": "https://finance.yahoo.com/m/7011131a-28d5-3e24-8fa8-012f3da798ae/3-big-mistakes-ira-savers.html",
+      "publisher": "Motley Fool",
+      "time": 1786311480,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "8b06bf7d-0b8e-39ba-a6ed-f9cbccf04806",
-      "title": "Canadian Apartment Properties REIT Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/8b06bf7d-0b8e-39ba-a6ed-f9cbccf04806/canadian-apartment-properties.html",
-      "publisher": "MarketBeat",
-      "time": 1786309431,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "0762a6ee-aa5b-3070-b32f-deedd108b921",
+      "title": "\"Picturesque Zhejiang\" Themed Exchange and Promotion Event Opens a New Chapter in Zhejiang-Canada Cultural and Tourism Cooperation",
+      "link": "https://finance.yahoo.com/media-advertising/articles/picturesque-zhejiang-themed-exchange-promotion-213700625.html",
+      "publisher": "CNW Group",
+      "time": 1786311420,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "914cf807-1873-33e9-9e9d-e28701695560",
-      "title": "Altus Group Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/914cf807-1873-33e9-9e9d-e28701695560/altus-group-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1786309431,
-      "impact": "medium",
+      "id": "06b1f750-ffbb-35da-80e1-eefa42f1ba58",
+      "title": "1 Stock Under $50 to Consider Right Now and 2 We Turn Down",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-stock-under-50-consider-213322880.html",
+      "publisher": "StockStory",
+      "time": 1786311202,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "6ba786f4-0ed3-3666-bcf8-4dff7c1bd382",
-      "title": "Atrium Mortgage Investment Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/6ba786f4-0ed3-3666-bcf8-4dff7c1bd382/atrium-mortgage-investment-q2.html",
-      "publisher": "MarketBeat",
-      "time": 1786309430,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     }
   ],
