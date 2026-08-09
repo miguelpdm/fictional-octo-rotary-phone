@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T12:37:05.275490+00:00",
+  "updatedAt": "2026-08-09T13:43:39.514592+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,47 +52,59 @@
   ],
   "news": [
     {
-      "id": "4428b54d-94bd-4802-a53c-e5f0e8b6dfe9",
-      "title": "How AI agents can power the S&P 500 higher",
-      "link": "https://finance.yahoo.com/markets/article/how-ai-agents-can-power-the-sp-500-higher-123000201.html",
-      "publisher": "Yahoo Finance",
-      "time": 1786278600,
+      "id": "e03a44f8-6cae-3329-9d33-08f5c8e6173e",
+      "title": "Cloudflare’s Kitesurf Is the First Agent-Native Browser Runtime — and a Bet on Owning the Distribution Layer",
+      "link": "https://finance.yahoo.com/m/e03a44f8-6cae-3329-9d33-08f5c8e6173e/cloudflare%E2%80%99s-kitesurf-is-the.html",
+      "publisher": "Forkast News",
+      "time": 1786282364,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ea1a96ad-e016-3a27-bde7-fe33a27304e9",
-      "title": "Action Energy Company Reports H1 2026 Financial Results",
-      "link": "https://finance.yahoo.com/energy/articles/action-energy-company-reports-h1-122600145.html",
-      "publisher": "PR Newswire",
-      "time": 1786278360,
+      "id": "1c2d4478-0b5e-3e53-b469-b015f7d6e26b",
+      "title": "Walmart’s AI-enabled 2-in-1 laptop and tablet is now $90",
+      "link": "https://finance.yahoo.com/m/1c2d4478-0b5e-3e53-b469-b015f7d6e26b/walmart%E2%80%99s-ai-enabled-2-in-1.html",
+      "publisher": "TheStreet",
+      "time": 1786282200,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4e1fef12-b067-3207-b62c-448a6672427c",
-      "title": "Students, teachers mourn girl killed in Thailand school shooting",
-      "link": "https://finance.yahoo.com/m/4e1fef12-b067-3207-b62c-448a6672427c/students%2C-teachers-mourn-girl.html",
+      "id": "bfbce04e-c196-3d02-8d4f-88af031ddea8",
+      "title": "25.2 million adults now live with their parents — experts say rent should be 'non-negotiable' even for family",
+      "link": "https://finance.yahoo.com/real-estate/articles/25-2-million-adults-now-133000080.html",
+      "publisher": "Moneywise",
+      "time": 1786282200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "baacaa4f-0b8d-3c0d-a559-981378fb436f",
+      "title": "Uh-Oh! The Inflationary Effects of the Donald Trump-Led Iran War Now Extend Well Beyond the Energy Sector.",
+      "link": "https://finance.yahoo.com/m/baacaa4f-0b8d-3c0d-a559-981378fb436f/uh-oh%21-the-inflationary.html",
+      "publisher": "Motley Fool",
+      "time": 1786281960,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "4b22cce0-b2d4-3d52-9960-4f82983f7b6d",
+      "title": "'Improving' O'Neill misses Kilmarnock match after hospital stay",
+      "link": "https://finance.yahoo.com/m/4b22cce0-b2d4-3d52-9960-4f82983f7b6d/%27improving%27-o%27neill-misses.html",
       "publisher": "AFP",
-      "time": 1786278186,
+      "time": 1786281791,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "04dfcabd-7128-3724-9672-8752209f20a8",
-      "title": "SpaceX vs. Meta Platforms: Which Will Reach the $2 Trillion Club First?",
-      "link": "https://finance.yahoo.com/m/04dfcabd-7128-3724-9672-8752209f20a8/spacex-vs.-meta-platforms%3A.html",
+      "id": "eef3c30b-f7cb-300a-8e8b-bb6e35afaddf",
+      "title": "Top Semiconductor Stock Outpacing Nvidia With a 36% Gain Over 6 Months",
+      "link": "https://finance.yahoo.com/m/eef3c30b-f7cb-300a-8e8b-bb6e35afaddf/top-semiconductor-stock.html",
       "publisher": "Motley Fool",
-      "time": 1786278000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6bf0da8a-faae-33c1-af5a-bcc389ef390c",
-      "title": "Dow Jones Futures Loom As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
-      "link": "https://finance.yahoo.com/m/6bf0da8a-faae-33c1-af5a-bcc389ef390c/dow-jones-futures-loom-as.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1786277855,
+      "time": 1786281600,
       "impact": "medium",
       "tags": [
         "macro",
@@ -100,50 +112,40 @@
       ]
     },
     {
-      "id": "d11ca9e1-e4be-35c1-8c1c-f00d81932df8",
-      "title": "Schweitzer Engineering Laboratories employees earn patent for invention that improves safety",
-      "link": "https://finance.yahoo.com/m/d11ca9e1-e4be-35c1-8c1c-f00d81932df8/schweitzer-engineering.html",
-      "publisher": "Lewiston Tribune, Idaho",
-      "time": 1786277760,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d5033c90-5d95-3659-9342-ef032824c627",
-      "title": "Oklo’s (OKLO) Groves Reactor Hits Criticality In Under A Year",
-      "link": "https://finance.yahoo.com/energy/articles/oklo-oklo-groves-reactor-hits-121315063.html",
-      "publisher": "Insider Monkey",
-      "time": 1786277595,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "71175552-77ba-3a3d-9a7b-f1a615ab809c",
-      "title": "1 Popular Cryptocurrency Cathie Wood's Ark Invest Sees Surging 1,823%",
-      "link": "https://finance.yahoo.com/m/71175552-77ba-3a3d-9a7b-f1a615ab809c/1-popular-cryptocurrency.html",
+      "id": "1fea69c8-835a-3662-abec-16832a63abb5",
+      "title": "Memory Sector Stocks Are Down 30% or More From Their Highs, But These 2 Are Worth Buying Now",
+      "link": "https://finance.yahoo.com/m/1fea69c8-835a-3662-abec-16832a63abb5/memory-sector-stocks-are-down.html",
       "publisher": "Motley Fool",
-      "time": 1786277580,
+      "time": 1786281300,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3ffb3260-ca0b-38e3-9ec4-83227f5330c1",
-      "title": "Privia Health Group (PRVA) Is Down 5.2% After Raising 2026 Revenue Guidance And Expanding Footprint",
-      "link": "https://finance.yahoo.com/healthcare/articles/privia-health-group-prva-down-121134081.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786277494,
-      "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "812dc2ee-574e-3f37-b0f6-da0a2a3cbf5f",
-      "title": "Central Garden & Pet (CENT) Signals More Acquisitions After Majority Interest Deal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/central-garden-pet-cent-signals-121133487.html",
+      "id": "008306dc-9d6e-3336-9978-251c01e4de05",
+      "title": "The Cost Paradox: Why Companies Are Freezing Entry-Level Hiring Before AI Actually Works",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cost-paradox-why-companies-freezing-131317693.html",
+      "publisher": "Forkast News",
+      "time": 1786281197,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f1cdc8a1-d336-3645-aded-be190107dd32",
+      "title": "El Pollo Loco (LOCO) Stock Sees Fair Value Lift As Analysts Weigh Turnaround Plan",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/el-pollo-loco-loco-stock-131120034.html",
       "publisher": "Simply Wall St.",
-      "time": 1786277493,
+      "time": 1786281080,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3d2eb5b8-21cd-31c8-87de-8be664dd4ff1",
+      "title": "Should Upgraded Momentum Scores and Earnings Estimates Require Action From TJX Companies (TJX) Investors?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/upgraded-momentum-scores-earnings-estimates-131051961.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786281051,
       "impact": "medium",
       "tags": [
         "macro",
