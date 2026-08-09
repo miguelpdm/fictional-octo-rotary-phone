@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T07:48:31.799925+00:00",
+  "updatedAt": "2026-08-09T08:34:21.758584+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,53 +52,11 @@
   ],
   "news": [
     {
-      "id": "31bbcb96-b32b-3d0e-834b-d339a5afa359",
-      "title": "Why the 20% Sell-Off in Dutch Bros Stock Is a Massive Opportunity",
-      "link": "https://finance.yahoo.com/m/31bbcb96-b32b-3d0e-834b-d339a5afa359/why-the-20%25-sell-off-in-dutch.html",
+      "id": "91d0dc32-4b63-3e78-baae-ce6f7ea14265",
+      "title": "Fed Chair Kevin Warsh May Have Driven a Dagger Through Wall Street's Heart With This Candid 12-Word Statement",
+      "link": "https://finance.yahoo.com/m/91d0dc32-4b63-3e78-baae-ce6f7ea14265/fed-chair-kevin-warsh-may.html",
       "publisher": "Motley Fool",
-      "time": 1786260900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2adc8dac-8c66-32c6-a0e9-1e973b6eea9e",
-      "title": "Yemen’s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
-      "link": "https://finance.yahoo.com/m/2adc8dac-8c66-32c6-a0e9-1e973b6eea9e/yemen%E2%80%99s-houthis-claim-attack.html",
-      "publisher": "Associated Press",
-      "time": 1786260575,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "86d469cb-6c5f-3da0-87a3-8b680e4958c2",
-      "title": "Cathie Wood's Ark Piled Into Nvidia and Taiwan Semiconductor After Meta's Earnings Miss. Here's What It Signals for Artificial Intelligence (AI) Stocks.",
-      "link": "https://finance.yahoo.com/m/86d469cb-6c5f-3da0-87a3-8b680e4958c2/cathie-wood%27s-ark-piled-into.html",
-      "publisher": "Motley Fool",
-      "time": 1786260300,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "ecde6e75-526b-3a9f-8d3b-385ff2d2a745",
-      "title": "B2Gold (TSX:BTO) Could Be 30% Undervalued As Mali Permit Secures Growth",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/b2gold-tsx-bto-could-30-071736965.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786259856,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ef2b03b3-c7c6-388b-a962-f310094fbf2a",
-      "title": "Take Two Interactive Software (TTWO) Stock May Be 9% Stretched Following GTA VI Launch Confirmation",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-ttwo-stock-071734578.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786259854,
+      "time": 1786263960,
       "impact": "high",
       "tags": [
         "geo",
@@ -106,52 +64,94 @@
       ]
     },
     {
-      "id": "1b706afe-a31c-3b76-b544-34c4e94f7db7",
-      "title": "Meritage Homes (MTH) Could Be 7% Undervalued Following Softer Q2 And Lower Outlook",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meritage-homes-mth-could-7-071717399.html",
+      "id": "be08889e-5859-35f8-8d59-ac8dba1c1f20",
+      "title": "Brown Forman (BF.B) Rebounds, Is It Still Above Fair Value?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/brown-forman-bf-b-rebounds-081109440.html",
       "publisher": "Simply Wall St.",
-      "time": 1786259837,
+      "time": 1786263069,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2d22a461-2c73-3e46-9357-888499cbc827",
-      "title": "Cigna (CI) Stock Still Looks Cheap Following Raised 2026 Outlook",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cigna-ci-stock-still-looks-071657743.html",
+      "id": "caf8592d-3684-3e34-84d9-6afd59909e1f",
+      "title": "Geron (GERN) Back In Focus As Fresh Guidance And Earnings Test Its Undervalued Narrative",
+      "link": "https://finance.yahoo.com/healthcare/articles/geron-gern-back-focus-fresh-081109079.html",
       "publisher": "Simply Wall St.",
-      "time": 1786259817,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "15beae2b-2dec-3e5e-a448-4f594e1bd5c9",
-      "title": "Centrica (LSE:CNA) Stock Fair Value Edges Lower After Analyst Target Revisions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/centrica-lse-cna-stock-fair-071649113.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786259809,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "41e45fbb-9efe-38fb-af5b-66ca956acf1d",
-      "title": "Is ACV Auctions (ACVA) Still Cheap On Its Rebound Or Already Priced In?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/acv-auctions-acva-still-cheap-071648285.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786259808,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f65fb3d3-d5ca-351d-9215-286242bb246b",
-      "title": "How Investors May Respond To Prudential Financial (PRU) Earnings Beat And Nearly $500 Million Buyback",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-prudential-financial-071633099.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786259793,
+      "time": 1786263069,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
+    },
+    {
+      "id": "d522ec8e-d18a-3af5-a273-3154e1ea94c3",
+      "title": "National Energy Services Reunited (NESR) Lands Kuwait Contracts, Is The Stock Fully Priced?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/national-energy-services-reunited-nesr-081047787.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786263047,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4acb2778-82ea-3a1c-8736-506425f8eb30",
+      "title": "Why Tutor Perini (TPC) Is Up 18.3% After Dividend Hike, Buybacks And New Federal Contract",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-tutor-perini-tpc-18-081035728.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786263035,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "7324bf76-9828-3cd8-b616-511b939d1a20",
+      "title": "Imperial Metals (TSX:III) On Q2 Results As Investors Question Whether The Stock Looks Pricey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/imperial-metals-tsx-iii-q2-081035992.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786263035,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2c0334e9-00fe-36ce-b085-67045d7f2a56",
+      "title": "Travel + Leisure (TNL) Stock Looks Reasonable On Earnings But Cheap On Cash Flow",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/travel-leisure-tnl-stock-looks-081028030.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786263028,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "1b97b0e8-2576-3c11-9366-d494edd38066",
+      "title": "Shoals (SHLS) Stock Looks Fully Priced As Its 89% Run Continues",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/shoals-shls-stock-looks-fully-080954870.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786262994,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "409336d3-ac8d-3df9-9a43-7a82e957d832",
+      "title": "ADTRAN (ADTN) Stock Fair Value Moves Lower After Q2 Prompts Analyst Target Cuts",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adtran-adtn-stock-fair-value-080947578.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786262987,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8f532f26-84de-3082-a580-871f6b33dda2",
+      "title": "Solventum (SOLV) Stock Fair Value Rises After Q2 And HIS Separation Plans",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/solventum-solv-stock-fair-value-080943338.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786262983,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
