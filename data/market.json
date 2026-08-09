@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T11:53:33.474722+00:00",
+  "updatedAt": "2026-08-09T12:37:05.275490+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,20 +52,47 @@
   ],
   "news": [
     {
-      "id": "16c6a198-aa34-383a-b10c-e97387059540",
-      "title": "New cars just hit $52K and Social Security faces a 24% cut — 5 things to buy before you retire",
-      "link": "https://finance.yahoo.com/economy/policy/articles/cars-just-hit-52k-social-114500144.html",
-      "publisher": "Moneywise",
-      "time": 1786275900,
+      "id": "4428b54d-94bd-4802-a53c-e5f0e8b6dfe9",
+      "title": "How AI agents can power the S&P 500 higher",
+      "link": "https://finance.yahoo.com/markets/article/how-ai-agents-can-power-the-sp-500-higher-123000201.html",
+      "publisher": "Yahoo Finance",
+      "time": 1786278600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "084b4a84-90a5-4048-a133-f1491e945f56",
-      "title": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
-      "link": "https://finance.yahoo.com/markets/article/very-little-to-like-wall-street-assesses-surprise-july-jobs-report-as-stocks-jump-113529334.html",
-      "publisher": "Yahoo Finance",
-      "time": 1786275329,
+      "id": "ea1a96ad-e016-3a27-bde7-fe33a27304e9",
+      "title": "Action Energy Company Reports H1 2026 Financial Results",
+      "link": "https://finance.yahoo.com/energy/articles/action-energy-company-reports-h1-122600145.html",
+      "publisher": "PR Newswire",
+      "time": 1786278360,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4e1fef12-b067-3207-b62c-448a6672427c",
+      "title": "Students, teachers mourn girl killed in Thailand school shooting",
+      "link": "https://finance.yahoo.com/m/4e1fef12-b067-3207-b62c-448a6672427c/students%2C-teachers-mourn-girl.html",
+      "publisher": "AFP",
+      "time": 1786278186,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "04dfcabd-7128-3724-9672-8752209f20a8",
+      "title": "SpaceX vs. Meta Platforms: Which Will Reach the $2 Trillion Club First?",
+      "link": "https://finance.yahoo.com/m/04dfcabd-7128-3724-9672-8752209f20a8/spacex-vs.-meta-platforms%3A.html",
+      "publisher": "Motley Fool",
+      "time": 1786278000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6bf0da8a-faae-33c1-af5a-bcc389ef390c",
+      "title": "Dow Jones Futures Loom As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
+      "link": "https://finance.yahoo.com/m/6bf0da8a-faae-33c1-af5a-bcc389ef390c/dow-jones-futures-loom-as.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786277855,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,68 +100,38 @@
       ]
     },
     {
-      "id": "5bed1d57-19b2-31ce-9395-34451803533a",
-      "title": "Ares Capital Earned $0.50 a Share and Is Paying Out $0.48. How Thin Is That Dividend Cushion?",
-      "link": "https://finance.yahoo.com/m/5bed1d57-19b2-31ce-9395-34451803533a/ares-capital-earned-%240.50-a.html",
-      "publisher": "Motley Fool",
-      "time": 1786275300,
+      "id": "d11ca9e1-e4be-35c1-8c1c-f00d81932df8",
+      "title": "Schweitzer Engineering Laboratories employees earn patent for invention that improves safety",
+      "link": "https://finance.yahoo.com/m/d11ca9e1-e4be-35c1-8c1c-f00d81932df8/schweitzer-engineering.html",
+      "publisher": "Lewiston Tribune, Idaho",
+      "time": 1786277760,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9f345f7f-bb9d-48bf-be0d-adcd82ca65cd",
-      "title": "Gold's breakout could force investors back in: Chart of the Day",
-      "link": "https://finance.yahoo.com/markets/article/golds-breakout-could-force-investors-back-in-chart-of-the-day-113004349.html",
-      "publisher": "Yahoo Finance",
-      "time": 1786275004,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "969df617-0e75-343a-9170-aff0f73119a2",
-      "title": "IRS warns crypto investors of fake letters from fraudsters aimed at stealing wallet keys and passwords",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/irs-warns-crypto-investors-fake-113000642.html",
-      "publisher": "Moneywise",
-      "time": 1786275000,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "51ab5930-786d-36fc-bb3a-4384bea80f82",
-      "title": "Here's How Many Shares of Realty Income (O) Stock You'd Need for $1,000 in Monthly Dividends",
-      "link": "https://finance.yahoo.com/m/51ab5930-786d-36fc-bb3a-4384bea80f82/here%27s-how-many-shares-of.html",
-      "publisher": "Motley Fool",
-      "time": 1786274700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "28ae7125-3f1e-36d4-a044-d6b4285578a5",
-      "title": "Constellation (CEG) Locks In More Power Deals As Nuclear Output Slips",
-      "link": "https://finance.yahoo.com/energy/articles/constellation-ceg-locks-more-power-112156765.html",
+      "id": "d5033c90-5d95-3659-9342-ef032824c627",
+      "title": "Oklo’s (OKLO) Groves Reactor Hits Criticality In Under A Year",
+      "link": "https://finance.yahoo.com/energy/articles/oklo-oklo-groves-reactor-hits-121315063.html",
       "publisher": "Insider Monkey",
-      "time": 1786274516,
+      "time": 1786277595,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "91de9f92-b383-3aa4-92f6-47b1e96925aa",
-      "title": "The Hidden Cost of International ETFs: How Much Currency Risk Actually Ate Into Returns Over the Last Decade",
-      "link": "https://finance.yahoo.com/m/91de9f92-b383-3aa4-92f6-47b1e96925aa/the-hidden-cost-of.html",
+      "id": "71175552-77ba-3a3d-9a7b-f1a615ab809c",
+      "title": "1 Popular Cryptocurrency Cathie Wood's Ark Invest Sees Surging 1,823%",
+      "link": "https://finance.yahoo.com/m/71175552-77ba-3a3d-9a7b-f1a615ab809c/1-popular-cryptocurrency.html",
       "publisher": "Motley Fool",
-      "time": 1786274400,
+      "time": 1786277580,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "fae1ffbf-3f3c-3ad4-b4c6-88ef546c25db",
-      "title": "Installed Building Products (IBP) Could Be 5% Overvalued As Earnings Show Mixed Momentum",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/installed-building-products-ibp-could-111627275.html",
+      "id": "3ffb3260-ca0b-38e3-9ec4-83227f5330c1",
+      "title": "Privia Health Group (PRVA) Is Down 5.2% After Raising 2026 Revenue Guidance And Expanding Footprint",
+      "link": "https://finance.yahoo.com/healthcare/articles/privia-health-group-prva-down-121134081.html",
       "publisher": "Simply Wall St.",
-      "time": 1786274187,
+      "time": 1786277494,
       "impact": "medium",
       "tags": [
         "macro",
@@ -142,13 +139,16 @@
       ]
     },
     {
-      "id": "ffea8f37-1b1c-32b7-a63e-4166b20c40fa",
-      "title": "Is Essent Group (ESNT) Stock Trading At A Discount To Fair Value?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/essent-group-esnt-stock-trading-111624274.html",
+      "id": "812dc2ee-574e-3f37-b0f6-da0a2a3cbf5f",
+      "title": "Central Garden & Pet (CENT) Signals More Acquisitions After Majority Interest Deal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/central-garden-pet-cent-signals-121133487.html",
       "publisher": "Simply Wall St.",
-      "time": 1786274184,
-      "impact": "low",
-      "tags": []
+      "time": 1786277493,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
