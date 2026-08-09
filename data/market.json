@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T23:00:11.768563+00:00",
+  "updatedAt": "2026-08-09T23:56:20.016609+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,23 @@
   ],
   "news": [
     {
-      "id": "6bf0da8a-faae-33c1-af5a-bcc389ef390c",
-      "title": "Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
-      "link": "https://finance.yahoo.com/m/6bf0da8a-faae-33c1-af5a-bcc389ef390c/dow-jones-futures-fall-as.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1786315584,
+      "id": "fd5c3fff-c93f-3190-bc6a-55c6a7f54394",
+      "title": "SK Hynix and Samsung Just Sent a Major Warning to Micron Investors",
+      "link": "https://finance.yahoo.com/m/fd5c3fff-c93f-3190-bc6a-55c6a7f54394/sk-hynix-and-samsung-just.html",
+      "publisher": "Motley Fool",
+      "time": 1786319400,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "4e0dd3f9-1d4d-3f4e-8ab7-e1e961cc6d91",
+      "title": "The Top 5 Analyst Questions From Carter's’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-carters-234922417.html",
+      "publisher": "StockStory",
+      "time": 1786319362,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,93 +76,85 @@
       ]
     },
     {
-      "id": "638ed20f-44b8-3845-af59-2a60f84eb2ef",
-      "title": "Hannaford issues limited recall of some deli, produce products because of jalapeno problems",
-      "link": "https://finance.yahoo.com/m/638ed20f-44b8-3845-af59-2a60f84eb2ef/hannaford-issues-limited.html",
-      "publisher": "New Hampshire Union Leader, Manchester",
-      "time": 1786315560,
+      "id": "167dece6-031e-3944-a886-3b64e757ae99",
+      "title": "I Squared Capital to Acquire oOh!media, a Leading Out-of-Home Media Infrastructure Platform in Australia and New Zealand",
+      "link": "https://finance.yahoo.com/media-advertising/articles/squared-capital-acquire-ooh-media-234500497.html",
+      "publisher": "Business Wire",
+      "time": 1786319100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "eae6ee29-0aaa-399c-820e-8ec8ee662b4d",
-      "title": "1 Unpopular Stock That Deserves Some Love and 2 We Avoid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-unpopular-stock-deserves-love-224522117.html",
-      "publisher": "StockStory",
-      "time": 1786315522,
+      "id": "3f45c468-b892-3882-a080-4ddad42dc0ff",
+      "title": "Amazon is selling a retro-style DVD player for just $40 that'll help you avoid streaming fees",
+      "link": "https://finance.yahoo.com/m/3f45c468-b892-3882-a080-4ddad42dc0ff/amazon-is-selling-a.html",
+      "publisher": "TheStreet",
+      "time": 1786319100,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "24b1cc49-c29b-30c6-8728-1db164b5b255",
+      "title": "Cruise passengers need to know about a new Bahamas warning",
+      "link": "https://finance.yahoo.com/m/24b1cc49-c29b-30c6-8728-1db164b5b255/cruise-passengers-need-to.html",
+      "publisher": "TheStreet",
+      "time": 1786319047,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "215390c2-b911-3990-a1b5-68150c12e592",
-      "title": "1 S&P 500 Stock with Promising Prospects and 2 That Underwhelm",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-promising-223722554.html",
-      "publisher": "StockStory",
-      "time": 1786315042,
+      "id": "18a4f48d-12f5-36db-b9f7-021fcb10fca7",
+      "title": "Is Medtronic (MDT) Becoming a Turnaround Story?",
+      "link": "https://finance.yahoo.com/healthcare/articles/medtronic-mdt-becoming-turnaround-story-234359487.html",
+      "publisher": "Insider Monkey",
+      "time": 1786319039,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6bf0da8a-faae-33c1-af5a-bcc389ef390c",
+      "title": "Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
+      "link": "https://finance.yahoo.com/m/6bf0da8a-faae-33c1-af5a-bcc389ef390c/dow-jones-futures-fall-as.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786319010,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "df73bc69-a350-3a87-ae25-1d23fb323716",
-      "title": "How a 61-Year-Old Built a $3,500 Monthly Paycheck From Just Two Funds: SCHD and JEPQ",
-      "link": "https://finance.yahoo.com/m/df73bc69-a350-3a87-ae25-1d23fb323716/how-a-61-year-old-built-a.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786314760,
-      "impact": "low",
-      "tags": []
+      "id": "c17d141a-9f3b-3668-b41c-80b2680fd3a1",
+      "title": "5 Must-Read Analyst Questions From Church & Dwight’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-234122705.html",
+      "publisher": "StockStory",
+      "time": 1786318882,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "ecc4ff79-1cc2-3408-bc5c-b2e616debeb3",
-      "title": "Kurdish PKK criticises Turkey bill on fate of its fighters",
-      "link": "https://finance.yahoo.com/m/ecc4ff79-1cc2-3408-bc5c-b2e616debeb3/kurdish-pkk-criticises-turkey.html",
-      "publisher": "AFP",
-      "time": 1786314665,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "92b7c638-5c11-39dd-9a3a-548de10b1379",
-      "title": "JINRO Unveils Global Limited-Edition 'K-POP Star Toad' Green Grape",
-      "link": "https://finance.yahoo.com/media-advertising/articles/jinro-unveils-global-limited-edition-223000193.html",
+      "id": "f7a88431-324a-39eb-bd20-d9c51edbb238",
+      "title": "Element Submits Proposal to Acquire FleetPartners Group",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/element-submits-proposal-acquire-fleetpartners-234000320.html",
       "publisher": "PR Newswire",
-      "time": 1786314600,
+      "time": 1786318800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "743c7de4-2ee9-30b3-b903-10f9aa018a64",
-      "title": "3 Small-Cap Stocks with Open Questions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-open-222922372.html",
-      "publisher": "StockStory",
-      "time": 1786314562,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "2be3cf66-96c2-3260-8a43-786a06f5429a",
-      "title": "Tilley Harley-Davidson Hosts Freedom Revival 70's Classic Motorcycle Show in Statesville, NC on Aug 29, 2026",
-      "link": "https://finance.yahoo.com/media-advertising/articles/tilley-harley-davidson-hosts-freedom-222400906.html",
-      "publisher": "PR Newswire",
-      "time": 1786314240,
+      "id": "ccb54735-792c-3e93-b444-d9496fbec0f3",
+      "title": "McDonald's making some big changes to its menu",
+      "link": "https://finance.yahoo.com/m/ccb54735-792c-3e93-b444-d9496fbec0f3/mcdonald%27s-making-some-big.html",
+      "publisher": "TheStreet",
+      "time": 1786318620,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "5bee9a23-5e3a-3815-a357-fe99a6465f9e",
-      "title": "1 Internet Stock with Impressive Fundamentals and 2 We Question",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-internet-stock-impressive-fundamentals-222122758.html",
-      "publisher": "StockStory",
-      "time": 1786314082,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
     }
   ],
   "errors": {
