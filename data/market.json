@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T21:56:33.724447+00:00",
+  "updatedAt": "2026-08-09T22:28:01.302726+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,22 +52,11 @@
   ],
   "news": [
     {
-      "id": "d6a81c6b-ceeb-36cd-86d6-d4dd7d13b117",
-      "title": "3 Mega-Cap Stocks to Research Further",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-mega-cap-stocks-research-214922807.html",
-      "publisher": "StockStory",
-      "time": 1786312162,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "f656af4e-ee00-3d50-8847-ef893c9cab02",
-      "title": "Berkshire's Operating Earnings Rose $1.8 Billion Last Quarter. A Currency Swing Was $1.2 Billion of It.",
-      "link": "https://finance.yahoo.com/m/f656af4e-ee00-3d50-8847-ef893c9cab02/berkshire%27s-operating.html",
-      "publisher": "Motley Fool",
-      "time": 1786312140,
+      "id": "6bf0da8a-faae-33c1-af5a-bcc389ef390c",
+      "title": "Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
+      "link": "https://finance.yahoo.com/m/6bf0da8a-faae-33c1-af5a-bcc389ef390c/dow-jones-futures-fall-as.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786314294,
       "impact": "medium",
       "tags": [
         "macro",
@@ -75,80 +64,97 @@
       ]
     },
     {
-      "id": "83fbe81d-ad99-3791-8dfb-b8572f163e6c",
-      "title": "\"Sincerity in Seasons\" -- Special Exhibition of Song Dynasty Paintings (Canada) Successfully Held in Montreal, Canada",
-      "link": "https://finance.yahoo.com/media-advertising/articles/sincerity-seasons-special-exhibition-song-214600316.html",
-      "publisher": "CNW Group",
-      "time": 1786311960,
+      "id": "602c879a-bb4f-39ba-9096-83661b033d48",
+      "title": "The Bull Case For Kimbell Royalty Partners (KRP) Could Change Following Record Q2 2026 Results And 15% Distribution Hike",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bull-case-kimbell-royalty-partners-221655208.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786313815,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b563f528-b188-3121-bef6-fc8a6934ad88",
-      "title": "‘Your Knowledge of Money and How It Works Is Nil’: Suze Orman to 62-Year-Old Who Nearly Locked His Wife Into $605 a Month",
-      "link": "https://finance.yahoo.com/m/b563f528-b188-3121-bef6-fc8a6934ad88/%E2%80%98your-knowledge-of-money-and.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786311897,
+      "id": "adfd01bf-dee8-35ab-b089-bfb644f39c2b",
+      "title": "Is Q2 Revenue Growth And Narrower Loss Altering The Investment Case For Ultragenyx Pharmaceutical (RARE)?",
+      "link": "https://finance.yahoo.com/healthcare/articles/q2-revenue-growth-narrower-loss-221637227.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786313797,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d802cac7-e891-38c5-a09d-5f93fceb254c",
-      "title": "3 Small-Cap Stocks Walking a Fine Line",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-walking-214122468.html",
-      "publisher": "StockStory",
-      "time": 1786311682,
-      "impact": "low",
+      "id": "477fa99a-cdb4-313b-91fe-9f8cb96e6c98",
+      "title": "GVS (BIT:GVS) Reframes Its Valuation Story As Half Year Earnings Lift Profitability",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gvs-bit-gvs-reframes-valuation-221614032.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786313774,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "d1179cc0-1d95-3350-8e0e-32d88d1fbae0",
-      "title": "Why Shopify Stock Soared This Week",
-      "link": "https://finance.yahoo.com/m/d1179cc0-1d95-3350-8e0e-32d88d1fbae0/why-shopify-stock-soared-this.html",
-      "publisher": "Motley Fool",
-      "time": 1786311679,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "111ab311-bd3e-3477-8b11-60a322d0792d",
-      "title": "Rybakina, Gauff advance to Toronto quarter-finals",
-      "link": "https://finance.yahoo.com/m/111ab311-bd3e-3477-8b11-60a322d0792d/rybakina%2C-gauff-advance-to.html",
-      "publisher": "AFP",
-      "time": 1786311532,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7011131a-28d5-3e24-8fa8-012f3da798ae",
-      "title": "3 Big Mistakes IRA Savers Make -- and How to Fix Them",
-      "link": "https://finance.yahoo.com/m/7011131a-28d5-3e24-8fa8-012f3da798ae/3-big-mistakes-ira-savers.html",
-      "publisher": "Motley Fool",
-      "time": 1786311480,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0762a6ee-aa5b-3070-b32f-deedd108b921",
-      "title": "\"Picturesque Zhejiang\" Themed Exchange and Promotion Event Opens a New Chapter in Zhejiang-Canada Cultural and Tourism Cooperation",
-      "link": "https://finance.yahoo.com/media-advertising/articles/picturesque-zhejiang-themed-exchange-promotion-213700625.html",
-      "publisher": "CNW Group",
-      "time": 1786311420,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "06b1f750-ffbb-35da-80e1-eefa42f1ba58",
-      "title": "1 Stock Under $50 to Consider Right Now and 2 We Turn Down",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-stock-under-50-consider-213322880.html",
-      "publisher": "StockStory",
-      "time": 1786311202,
-      "impact": "low",
+      "id": "41e6e917-f002-3d70-bd75-efd9c01eb257",
+      "title": "Bio Rad Laboratories (BIO) Earnings And Guidance Put Fair Value Back In Focus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bio-rad-laboratories-bio-earnings-221611775.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786313771,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
+    },
+    {
+      "id": "18983bcf-3501-32cb-bafc-e5ed0a59ba13",
+      "title": "Will Narrower Net Loss Offset Weaker Revenue to Change Diversified Healthcare Trust's (DHC) Narrative?",
+      "link": "https://finance.yahoo.com/healthcare/articles/narrower-net-loss-offset-weaker-221608667.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786313768,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0f5b1be5-351c-32c3-8852-087ef88b25a7",
+      "title": "DAIHEN (TSE:6622) Stock Looks Fully Priced Despite Fair Earnings And Weak Cash Flow",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/daihen-tse-6622-stock-looks-221529871.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786313729,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "97226ee5-d119-36b7-8d31-ae64f88ad5fd",
+      "title": "Can Nakanishi (TSE:7716) Justify Its Valuation After A Proposed Two For One Stock Split?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nakanishi-tse-7716-justify-valuation-221527421.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786313727,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "894ec799-3ad7-3e77-9f6b-55e701ae1f35",
+      "title": "Pediatrix Medical Group (MD) Earnings Growth Puts Its Valuation Back In Focus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pediatrix-medical-group-md-earnings-221525357.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786313725,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "f3c01b1c-0d46-396e-9b66-7e89e9c24ace",
+      "title": "Plains All American Pipeline (PAA) Stock Looks Undervalued Despite Mixed Broader Checks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/plains-american-pipeline-paa-stock-221518502.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786313718,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
