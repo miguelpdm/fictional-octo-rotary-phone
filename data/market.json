@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T04:44:44.472937+00:00",
+  "updatedAt": "2026-08-09T05:42:37.045902+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,49 +52,40 @@
   ],
   "news": [
     {
-      "id": "f64a47ee-e405-39e9-b911-9752a0bb2f5e",
-      "title": "Fire at Saudi Aramco’s Jazan refinery extinguished, no injuries reported",
-      "link": "https://finance.yahoo.com/energy/articles/fire-saudi-aramco-jazan-refinery-043350430.html",
-      "publisher": "Investing.com",
-      "time": 1786250030,
+      "id": "ba8bf2d9-fa6c-3505-8753-be3078c5389f",
+      "title": "International Rights Groups Raise Alarm Over Freedom of Religion and Expression in South Korea",
+      "link": "https://finance.yahoo.com/healthcare/articles/international-rights-groups-raise-alarm-052500703.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786253100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e13ff1e7-6bd2-3f3f-a6c5-4c80dd99032d",
-      "title": "Macy's $675 vintage-style sapphire and white topaz earrings are 77% off",
-      "link": "https://finance.yahoo.com/m/e13ff1e7-6bd2-3f3f-a6c5-4c80dd99032d/macy%27s-%24675-vintage-style.html",
-      "publisher": "TheStreet",
-      "time": 1786249800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "309247d2-6f6f-3dfa-8081-b72bb16f93b6",
-      "title": "Spanish teen Jodar ousts eighth seed Lehecka at Montreal",
-      "link": "https://finance.yahoo.com/m/309247d2-6f6f-3dfa-8081-b72bb16f93b6/spanish-teen-jodar-ousts.html",
-      "publisher": "AFP",
-      "time": 1786249776,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "17e36ecc-9f23-38e7-9e64-dfcd4984f173",
-      "title": "Jensen Huang Says AI Will Kill Tasks, Not Jobs. Here's What That Means for Stocks Riding the AI Trade.",
-      "link": "https://finance.yahoo.com/m/17e36ecc-9f23-38e7-9e64-dfcd4984f173/jensen-huang-says-ai-will.html",
+      "id": "93659181-189b-3db7-8dd1-ff97c0f72945",
+      "title": "Moonshot AI's 2.8 Trillion Parameter Model Just Became the First From China to Top a Major Coding Benchmark",
+      "link": "https://finance.yahoo.com/m/93659181-189b-3db7-8dd1-ff97c0f72945/moonshot-ai%27s-2.8-trillion.html",
       "publisher": "Motley Fool",
-      "time": 1786249200,
+      "time": 1786252800,
       "impact": "medium",
       "tags": [
         "geo"
       ]
     },
     {
-      "id": "310cb07e-f0b9-3a8b-8e3a-c2eb036fa025",
-      "title": "Rayonier Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/310cb07e-f0b9-3a8b-8e3a-c2eb036fa025/rayonier-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1786248231,
+      "id": "0d9ee178-ca05-353f-9737-f891fa2231b2",
+      "title": "ICU Medical (ICUI) Stock Gets Fair Value Boost After Analysts Lift Targets",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/icu-medical-icui-stock-gets-051136194.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786252296,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bfacbbdb-705a-31b2-9ca9-370b5b5d10c3",
+      "title": "Is Realty Income (O) Below Fair Value Following Earnings And Its Equity Offering?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/realty-income-o-below-fair-051127579.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786252287,
       "impact": "medium",
       "tags": [
         "macro",
@@ -102,11 +93,11 @@
       ]
     },
     {
-      "id": "5dc8ce23-26ca-311e-bf60-52f6c6a372ba",
-      "title": "StandardAero Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/5dc8ce23-26ca-311e-bf60-52f6c6a372ba/standardaero-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1786248231,
+      "id": "5626401c-75d8-333d-99d2-1e7d1f04386b",
+      "title": "Should Healthpeak’s Raised 2026 EPS Guidance and Profitability Shift Require Action From Healthpeak Properties (DOC) Investors?",
+      "link": "https://finance.yahoo.com/real-estate/articles/healthpeak-raised-2026-eps-guidance-051124787.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786252284,
       "impact": "medium",
       "tags": [
         "macro",
@@ -114,11 +105,20 @@
       ]
     },
     {
-      "id": "b3e5e2eb-2933-355c-9a92-17a8da7a8a90",
-      "title": "RXO Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/b3e5e2eb-2933-355c-9a92-17a8da7a8a90/rxo-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1786248231,
+      "id": "265528cb-589c-3fb0-b1c8-6a94cafb2d84",
+      "title": "Is Stronger Q2 2026 EPS From Operations Altering The Investment Case For Pediatrix Medical Group (MD)?",
+      "link": "https://finance.yahoo.com/healthcare/articles/stronger-q2-2026-eps-operations-051106300.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786252266,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "17ba4aad-a699-3987-b238-2ae490b52287",
+      "title": "BellRing Brands (BRBR) Issues Flat Sales Guidance, Is The Stock Still 19% Undervalued?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bellring-brands-brbr-issues-flat-051103855.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786252263,
       "impact": "medium",
       "tags": [
         "macro",
@@ -126,40 +126,31 @@
       ]
     },
     {
-      "id": "e2c58a9b-033e-3c84-907c-73735a727129",
-      "title": "Rayonier Advanced Materials Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/e2c58a9b-033e-3c84-907c-73735a727129/rayonier-advanced-materials.html",
-      "publisher": "MarketBeat",
-      "time": 1786248231,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "fbfde1fd-4cdd-3475-aaf3-2fb0a3c21e64",
+      "title": "Arhaus (ARHS) Stock Sees Fair Value Lift After Analysts Rework Q2 Views",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arhaus-arhs-stock-sees-fair-051045956.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786252245,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "5619129d-f87c-3b05-b263-a9c1f1aa913a",
-      "title": "Revolve Group Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/5619129d-f87c-3b05-b263-a9c1f1aa913a/revolve-group-q2-earnings.html",
-      "publisher": "MarketBeat",
-      "time": 1786248230,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "2ba96f8c-026f-3f1d-9e40-8e2d04b5e675",
+      "title": "Becton Dickinson (BDX) Stock Sees Modest Fair Value Lift After Mixed Analyst Views",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/becton-dickinson-bdx-stock-sees-051039429.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786252239,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "80fe5b59-839c-35d1-addd-49439e277300",
-      "title": "Revvity Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/80fe5b59-839c-35d1-addd-49439e277300/revvity-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1786248230,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "1392a560-9db4-3c93-bf49-ca1165c644ab",
+      "title": "Brinker International (EAT) Is Up 5.4% After Chili’s Outperforms Despite Rising Costs Has The Bull Case Changed?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/brinker-international-eat-5-4-051025611.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786252225,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
