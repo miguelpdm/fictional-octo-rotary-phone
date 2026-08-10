@@ -1,128 +1,71 @@
 {
-  "updatedAt": "2026-08-10T13:52:27.130415+00:00",
+  "updatedAt": "2026-08-10T14:52:30.703775+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20183.5,
-      "change": 7.5,
-      "changePct": 0.03717287866772403,
+      "price": 20172.0,
+      "change": -4.0,
+      "changePct": -0.019825535289452814,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7749.98,
-      "change": 40.01999999999953,
-      "changePct": 0.5190688408240708,
+      "price": 7767.63,
+      "change": 57.67000000000007,
+      "changePct": 0.7479935045058609,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26625.775,
-      "change": 277.4250000000029,
-      "changePct": 1.052912231695734,
+      "price": 26679.041,
+      "change": 330.69100000000253,
+      "changePct": 1.2550728983029396,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26335.76,
-      "change": 195.62999999999738,
-      "changePct": 0.7483895451170188,
+      "price": 26347.66,
+      "change": 207.52999999999884,
+      "changePct": 0.7939134197113741,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6536.71,
-      "change": 12.850000000000364,
-      "changePct": 0.1969692789238329,
+      "price": 6537.29,
+      "change": 13.430000000000291,
+      "changePct": 0.20585972108537418,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.3,
-      "change": 0.40000000000000036,
-      "changePct": 2.684563758389264,
+      "price": 15.23,
+      "change": 0.33000000000000007,
+      "changePct": 2.2147651006711415,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "ef90c519-6cab-36da-9500-626121f242b6",
-      "title": "IMAX Reports Record Sales for 'The Odyssey'",
-      "link": "https://finance.yahoo.com/media-advertising/articles/imax-reports-record-sales-apos-134941198.html",
-      "publisher": "MT Newswires",
-      "time": 1786369781,
+      "id": "0819ff3a-3bf8-3f17-a5df-855e75803d6b",
+      "title": "Broadcom’s Brilliant Positioning is Why I Am Loading Up Over and Over",
+      "link": "https://finance.yahoo.com/m/0819ff3a-3bf8-3f17-a5df-855e75803d6b/broadcom%E2%80%99s-brilliant.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786373364,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e0b19b34-cc9e-31ec-974c-b14635e7433a",
-      "title": "Aether Subsidiary Acquires 60% Stake in Noviant for $3.6 Million",
-      "link": "https://finance.yahoo.com/technology/ai/articles/aether-subsidiary-acquires-60-stake-134923418.html",
-      "publisher": "MT Newswires",
-      "time": 1786369763,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5ca8c82d-7940-3f50-9bea-f76fb3a984a7",
-      "title": "DXPE Q2 Deep Dive: Acquisitions and Water Platform Propel Growth, Margins Hold Steady",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dxpe-q2-deep-dive-acquisitions-134922927.html",
-      "publisher": "StockStory",
-      "time": 1786369762,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "bc1217da-7716-3f52-badb-4c1c090dea89",
-      "title": "Ex-chief winemaker at Australia’s Chapel Hill takes Haselgrove CEO post",
-      "link": "https://finance.yahoo.com/m/bc1217da-7716-3f52-badb-4c1c090dea89/ex-chief-winemaker-at.html",
-      "publisher": "Just Drinks",
-      "time": 1786369709,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "14c082e9-ab0c-3f00-a4bc-02c0c35f61f7",
-      "title": "Replimune Prices $150 Million Offering",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/replimune-prices-150-million-offering-134808191.html",
-      "publisher": "MT Newswires",
-      "time": 1786369688,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "09ea7ddf-a2c8-3211-8235-00976952c4b7",
-      "title": "Navan Collaborates With DataVisor on Fraud Detection Technology",
-      "link": "https://finance.yahoo.com/technology/ai/articles/navan-collaborates-datavisor-fraud-detection-134726255.html",
-      "publisher": "MT Newswires",
-      "time": 1786369646,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c1bd583a-2044-4276-b6d9-5beeaf7185fc",
-      "title": "Airbnb CEO Brian Chesky on his AI lab, building a super app, and how travel will change forever",
-      "link": "https://finance.yahoo.com/markets/article/airbnb-ceo-brian-chesky-on-his-ai-lab-building-a-super-app-and-how-travel-will-change-forever-134708028.html",
+      "id": "7f080ae2-46a9-4b2e-9299-053175eb5e8e",
+      "title": "Retail investors end SpaceX buying spree as stock reclaims IPO price: AlphaCheck",
+      "link": "https://finance.yahoo.com/markets/article/retail-investors-end-spacex-buying-spree-as-stock-reclaims-ipo-price-alphacheck-144858062.html",
       "publisher": "Yahoo Finance",
-      "time": 1786369628,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "412dc62a-608b-3352-b091-faf0dec871a2",
-      "title": "Palantir (PLTR) Turning AI Demand into Profitable Growth",
-      "link": "https://finance.yahoo.com/technology/ai/articles/palantir-pltr-turning-ai-demand-134658026.html",
-      "publisher": "Insider Monkey",
-      "time": 1786369618,
+      "time": 1786373338,
       "impact": "medium",
       "tags": [
         "macro",
@@ -130,20 +73,76 @@
       ]
     },
     {
-      "id": "959efa30-6b02-379f-8f06-fc8abff3f790",
-      "title": "RTX's Raytheon Wins $745 Million Missile Defense Contract",
-      "link": "https://finance.yahoo.com/technology/articles/rtx-apos-raytheon-wins-745-134644752.html",
-      "publisher": "MT Newswires",
-      "time": 1786369604,
+      "id": "a2dd4d0c-1917-3fea-b153-185193d42bb1",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-144500521.html",
+      "publisher": "Business Wire",
+      "time": 1786373100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "feb1e0d6-126b-36c4-b97b-def31d5cf849",
-      "title": "ADNOC Gas reports net income of $665m in Q2 2026",
-      "link": "https://finance.yahoo.com/m/feb1e0d6-126b-36c4-b97b-def31d5cf849/adnoc-gas-reports-net-income.html",
-      "publisher": "Offshore Technology",
-      "time": 1786369585,
+      "id": "b977bedd-a312-34fa-9983-13d779db2f5a",
+      "title": "You might not need a Roth IRA for a secure retirement — despite what online ‘experts’ say. Here’s why",
+      "link": "https://finance.yahoo.com/markets/articles/might-not-roth-ira-secure-144500938.html",
+      "publisher": "Moneywise",
+      "time": 1786373100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9c1281f0-44f8-3019-b5db-368b3886533e",
+      "title": "ETL Global strengthens presence in Germany",
+      "link": "https://finance.yahoo.com/m/9c1281f0-44f8-3019-b5db-368b3886533e/etl-global-strengthens.html",
+      "publisher": "International Accounting Bulletin",
+      "time": 1786373059,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e0df8ea6-fa68-36ff-aa4b-fbe7683f3c50",
+      "title": "Asian Equities Traded in the US as American Depositary Receipts Decline in Monday Trading",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144228592.html",
+      "publisher": "MT Newswires",
+      "time": 1786372948,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "90f3a32e-bda6-315a-b1d8-3779bc9f53b6",
+      "title": "US left-wing star reveals decision to freeze her eggs",
+      "link": "https://finance.yahoo.com/m/90f3a32e-bda6-315a-b1d8-3779bc9f53b6/us-left-wing-star-reveals.html",
+      "publisher": "AFP",
+      "time": 1786372921,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d9b73957-9143-3f33-af55-5e9c57be4c76",
+      "title": "Sauce Gardner joins 'Inside Training Camp Live' breaking down QB Daniel Jones",
+      "link": "https://finance.yahoo.com/m/d9b73957-9143-3f33-af55-5e9c57be4c76/sauce-gardner-joins-%27inside.html",
+      "publisher": "NFL Highlights",
+      "time": 1786372920,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "54dca38f-1ffa-302d-afd6-30131ad42fc2",
+      "title": "MASB issues new accounting standard on regulatory assets and liabilities",
+      "link": "https://finance.yahoo.com/m/54dca38f-1ffa-302d-afd6-30131ad42fc2/masb-issues-new-accounting.html",
+      "publisher": "The Accountant",
+      "time": 1786372856,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "dc5c031b-bf2b-3862-b395-dc09ee10f0b8",
+      "title": "Do we have enough water to build homes and data centers?",
+      "link": "https://finance.yahoo.com/video/enough-water-build-homes-data-144037560.html",
+      "publisher": "Reuters Videos",
+      "time": 1786372837,
       "impact": "low",
       "tags": []
     }
