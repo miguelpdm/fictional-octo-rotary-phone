@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T21:35:01.626086+00:00",
+  "updatedAt": "2026-08-10T22:30:11.836928+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,47 +52,58 @@
   ],
   "news": [
     {
-      "id": "44a02b19-7941-3db1-9fa4-736662b213bb",
-      "title": "Walmart's portable $1,899 touchscreen laptop is 63% off and perfect for back-to-school season",
-      "link": "https://finance.yahoo.com/m/44a02b19-7941-3db1-9fa4-736662b213bb/walmart%27s-portable-%241%2C899.html",
-      "publisher": "TheStreet",
-      "time": 1786397400,
-      "impact": "low",
-      "tags": []
+      "id": "b668cd53-0881-33f0-86f0-a21a4080958b",
+      "title": "Meta pushes global AI vision amid race with OpenAI, Anthropic and China",
+      "link": "https://finance.yahoo.com/m/b668cd53-0881-33f0-86f0-a21a4080958b/meta-pushes-global-ai-vision.html",
+      "publisher": "AFP",
+      "time": 1786400657,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
     },
     {
-      "id": "b7a1f4ac-50fe-3808-8514-607494e4c1db",
-      "title": "Medexus Announces Fiscal Q1 2027 Results With Strongest Quarter of Product-Level Performance of GRAFAPEX (Treosulfan) to Date",
-      "link": "https://finance.yahoo.com/healthcare/articles/medexus-announces-fiscal-q1-2027-213000891.html",
+      "id": "98e393b5-df3a-305f-a493-6491d388695c",
+      "title": "Homeland Critical Minerals Provides Corporate Update",
+      "link": "https://finance.yahoo.com/energy/articles/homeland-critical-minerals-provides-corporate-222300036.html",
       "publisher": "TMX Newsfile",
-      "time": 1786397400,
+      "time": 1786400580,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d84f6de5-a229-3511-8cda-996c7bef33a3",
-      "title": "DATA Communications Management Corp. Declares Quarterly Dividend of $0.025 per Common Share",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/data-communications-management-corp-declares-213000971.html",
-      "publisher": "TMX Newsfile",
-      "time": 1786397400,
+      "id": "a693a6f8-ad5f-3cbe-936f-0d75115c7fbe",
+      "title": "SILVERCORP REPORTS ADJUSTED NET INCOME OF $53.9 MILLION, $0.24 PER SHARE, AND CASH FLOW FROM OPERATING ACTIVITIES OF $61.7 MILLION FOR Q1 FISCAL 2027",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/silvercorp-reports-adjusted-net-income-222200734.html",
+      "publisher": "PR Newswire",
+      "time": 1786400520,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f1bd697e-1198-3522-b675-3e0f3da51fa6",
-      "title": "Crypto investor found dead outside his apartment",
-      "link": "https://finance.yahoo.com/m/f1bd697e-1198-3522-b675-3e0f3da51fa6/crypto-investor-found-dead.html",
-      "publisher": "TheStreet",
-      "time": 1786397310,
+      "id": "6f2530ab-7f98-3d26-a38a-13e35de4bf75",
+      "title": "Trump order pushes for overhaul of childhood vaccine schedule",
+      "link": "https://finance.yahoo.com/m/6f2530ab-7f98-3d26-a38a-13e35de4bf75/trump-order-pushes-for.html",
+      "publisher": "AFP",
+      "time": 1786400365,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "fea9f194-334e-3cdd-a9e3-c682f84f3c3a",
-      "title": "Nu Skin Enterprises Q2 Adjusted Earnings, Revenue Fall; Lowers 2026 Guidance; Shares Down After-Hours",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-skin-enterprises-q2-adjusted-212807146.html",
-      "publisher": "MT Newswires",
-      "time": 1786397287,
+      "id": "e31e31ac-792f-30c9-93db-7119bc71d703",
+      "title": "Silvec Announces EPA Registration for its Novel Therapy Delivery Technology",
+      "link": "https://finance.yahoo.com/healthcare/articles/silvec-announces-epa-registration-novel-221900043.html",
+      "publisher": "Business Wire",
+      "time": 1786400340,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "182120f9-a430-3d9f-aa7e-57674da3d684",
+      "title": "i-80 Gold Reports Second Quarter 2026 Results; On Track to Achieve Full-Year Guidance as Granite Creek Ramps Up and Development Plan Advances",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/80-gold-reports-second-quarter-221600892.html",
+      "publisher": "CNW Group",
+      "time": 1786400160,
       "impact": "medium",
       "tags": [
         "macro",
@@ -100,38 +111,29 @@
       ]
     },
     {
-      "id": "ea037d36-4545-3370-a9e9-72496c687da3",
-      "title": "Nvidia Makes Massive Move to Fund AI Buildout",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-makes-massive-move-fund-212735051.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786397255,
+      "id": "1775013c-6cf5-3db3-b07a-64a2977076db",
+      "title": "Canadians made overnight drive to safety as fire spread",
+      "link": "https://finance.yahoo.com/m/1775013c-6cf5-3db3-b07a-64a2977076db/canadians-made-overnight.html",
+      "publisher": "AFP",
+      "time": 1786400139,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "dbefb963-5f36-35fd-9476-19132943a97b",
-      "title": "Vulcan Materials Insider Sold Shares Worth $570,200, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vulcan-materials-insider-sold-shares-212719987.html",
-      "publisher": "MT Newswires",
-      "time": 1786397239,
+      "id": "c4334cb1-0d39-3728-9dd0-68f5e236c1cf",
+      "title": "Your 2026 Social Security Raise Is About $56 a Month. These 3 ETFs Are the Raise You Actually Needed",
+      "link": "https://finance.yahoo.com/m/c4334cb1-0d39-3728-9dd0-68f5e236c1cf/your-2026-social-security.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786400106,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "267d8177-495a-3d21-9c2f-0bfb19ebe340",
-      "title": "Dynamic Aerospace Systems, Ticker BRQL, Reports Second Quarter 2026 Financial Results and Provides Shareholder Update",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dynamic-aerospace-systems-ticker-brql-212700864.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786397220,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c7dd727f-49e5-3d59-9fc2-5e065e7f77ec",
-      "title": "Bakkt Q2 Swings to Earnings, Revenue Declines",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bakkt-q2-swings-earnings-revenue-212653892.html",
-      "publisher": "MT Newswires",
-      "time": 1786397213,
+      "id": "ee127e6d-4c01-3ea8-9a3b-618da4b91dfb",
+      "title": "Rocket Pharmaceuticals: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-pharmaceuticals-q2-earnings-snapshot-221506643.html",
+      "publisher": "Associated Press",
+      "time": 1786400106,
       "impact": "medium",
       "tags": [
         "macro",
@@ -139,11 +141,11 @@
       ]
     },
     {
-      "id": "02e96b6e-f65b-34a7-83bd-55d664d48f0c",
-      "title": "Bridgewater Bancshares Insider Sold Shares Worth $850,284, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bridgewater-bancshares-insider-sold-shares-212641804.html",
-      "publisher": "MT Newswires",
-      "time": 1786397201,
+      "id": "00c42e27-b242-3d21-9c37-1b6ac458e2c1",
+      "title": "Solésence Reschedules Second Quarter 2026 Conference Call to August 19",
+      "link": "https://finance.yahoo.com/healthcare/articles/sol-sence-reschedules-second-quarter-221500001.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786400100,
       "impact": "low",
       "tags": []
     }
