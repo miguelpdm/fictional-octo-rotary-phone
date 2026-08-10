@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-10T09:55:41.628341+00:00",
+  "updatedAt": "2026-08-10T11:03:24.233623+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20174.0,
-      "change": -2.0,
-      "changePct": -0.009912767644726407,
+      "price": 20210.8,
+      "change": 34.79999999999927,
+      "changePct": 0.17248215701823588,
       "currency": "EUR"
     },
     {
@@ -28,142 +28,127 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26412.82,
-      "change": 272.6899999999987,
-      "changePct": 1.04318532463304,
+      "price": 26420.83,
+      "change": 280.7000000000007,
+      "changePct": 1.0738278654314295,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6541.45,
-      "change": 17.590000000000146,
-      "changePct": 0.2696256510716071,
+      "price": 6551.42,
+      "change": 27.5600000000004,
+      "changePct": 0.422449286158814,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.44,
-      "change": 0.5399999999999991,
-      "changePct": 3.6241610738254977,
+      "price": 15.45,
+      "change": 0.5499999999999989,
+      "changePct": 3.6912751677852276,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "4da27c82-e1ba-30e9-a5e2-c892890c1bd4",
-      "title": "‘I Don’t Think She’s Entitled to a Freaking Dime’: Dave Ramsey to Mom Debating Whether to Cut Estranged Daughter From Her Will",
-      "link": "https://finance.yahoo.com/m/4da27c82-e1ba-30e9-a5e2-c892890c1bd4/%E2%80%98i-don%E2%80%99t-think-she%E2%80%99s-entitled.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786355238,
+      "id": "a1f1ad45-d94a-37c4-aae3-e95f75226aca",
+      "title": "Standard Chartered PLC's Dividend Analysis",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/standard-chartered-plcs-dividend-analysis-110214810.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786359734,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "45069bf6-eaf3-3ff6-a050-1ec326fc30a6",
-      "title": "RenovoRx reports RenovoCath’s first clinical use in sarcoma",
-      "link": "https://finance.yahoo.com/m/45069bf6-eaf3-3ff6-a050-1ec326fc30a6/renovorx-reports-renovocath%E2%80%99s.html",
-      "publisher": "Medical Device Network",
-      "time": 1786355213,
+      "id": "a16f604a-e682-3de4-9204-82836772b4c3",
+      "title": "American Electric Power Co Inc's Dividend Analysis",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/american-electric-power-co-incs-110145019.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786359705,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ca3c61e4-e937-334c-b2a0-d81b4206114c",
-      "title": "Silicon Motion Unveils SSD Reference Design Kit for Agentic AI Infrastructure",
-      "link": "https://finance.yahoo.com/technology/ai/articles/silicon-motion-unveils-ssd-reference-094533388.html",
-      "publisher": "MT Newswires",
-      "time": 1786355133,
+      "id": "6adf7b5a-271e-3ca5-a3a6-f8f8a2e38d07",
+      "title": "Lloyds Banking Group PLC's Dividend Analysis",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lloyds-banking-group-plcs-dividend-110120623.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786359680,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "98040a87-24e5-35d8-a8fd-180e2f7ce24c",
+      "title": "ING Groep NV's Dividend Analysis",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ing-groep-nvs-dividend-analysis-110056252.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786359656,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "078c2ebf-accd-34e2-b665-b146ffd97d26",
-      "title": "KEO Capital Strengthens Leadership Team with New Appointments in Fintech and Energy",
-      "link": "https://finance.yahoo.com/technology/articles/keo-capital-strengthens-leadership-team-094500614.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786355100,
+      "id": "ea4910c8-08e0-3896-9ccb-fa2847bbd970",
+      "title": "US import cargo to slow past August as peak season winds down",
+      "link": "https://finance.yahoo.com/m/ea4910c8-08e0-3896-9ccb-fa2847bbd970/us-import-cargo-to-slow-past.html",
+      "publisher": "Just Style",
+      "time": 1786359648,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5de2616f-c68e-3d48-8c8a-35d39910ca82",
-      "title": "Neurocrine begins Phase I trial of NBIP-‘1968 triple agonist for obesity",
-      "link": "https://finance.yahoo.com/m/5de2616f-c68e-3d48-8c8a-35d39910ca82/neurocrine-begins-phase-i.html",
-      "publisher": "Clinical Trials Arena",
-      "time": 1786355061,
+      "id": "47bef64b-8f3f-3cf4-81a2-5e0e79fc8607",
+      "title": "International Business Machines Corp's Dividend Analysis",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/international-business-machines-corps-dividend-110030055.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786359630,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2d870a7f-368d-35f3-8168-e03b6b13b6b8",
-      "title": "Form 8.3 - [APTITUDE SOFTWARE GROUP PLC - 07 08 2026] - (CGAML)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-aptitude-software-094400456.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786355040,
+      "id": "7a8d8e6d-7292-3311-9451-9dbc3a3e3503",
+      "title": "Medi Assist Healthcare Services Ltd (NSE:MEDIASSIST) (Q1 2027) Earnings Call Highlights: ...",
+      "link": "https://finance.yahoo.com/healthcare/articles/medi-assist-healthcare-services-ltd-110028227.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786359628,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "1526cb19-7ebb-30b7-af76-a2f6880c1e47",
+      "title": "Palladyne AI Appoints Former MARSOC Commander and U.S. Special Operations Command Chief of Staff Maj. Gen. Mark A. \"Droopy\" Clark (Ret.) to Defense Advisory Board",
+      "link": "https://finance.yahoo.com/technology/ai/articles/palladyne-ai-appoints-former-marsoc-110000791.html",
+      "publisher": "Business Wire",
+      "time": 1786359600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2468253b-52a5-3393-82cc-bc39481555b6",
+      "title": "BrightView Returns to Field of Dreams as Iconic Ballpark Enters a New Era",
+      "link": "https://finance.yahoo.com/media-advertising/articles/brightview-returns-field-dreams-iconic-110000830.html",
+      "publisher": "Business Wire",
+      "time": 1786359600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "34f6eb70-a46f-371f-84ff-5cf0913e5776",
+      "title": "ICG Silver & Gold Announces U.S. Trading Milestones, Including FINRA Clearance of Form 211 and DTC Eligibility",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/icg-silver-gold-announces-u-110000262.html",
+      "publisher": "TMX Newsfile",
+      "time": 1786359600,
       "impact": "high",
       "tags": [
         "geo",
         "macro"
       ]
-    },
-    {
-      "id": "4d8b85d8-613a-395e-99b7-262dec397f8d",
-      "title": "Resolution Copper awards $110m contracts for Arizona mine",
-      "link": "https://finance.yahoo.com/m/4d8b85d8-613a-395e-99b7-262dec397f8d/resolution-copper-awards.html",
-      "publisher": "Mining Technology",
-      "time": 1786355030,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "b38cdda9-271a-3b2a-a056-e07f71ad3751",
-      "title": "Jefferies Adjusts Price Target on Blackstone to $166 From $145, Maintains Buy Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-adjusts-price-target-blackstone-094346449.html",
-      "publisher": "MT Newswires",
-      "time": 1786355026,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "66f59353-b1a9-3dcf-880a-405839cc0826",
-      "title": "Morgan Stanley Adjusts Price Target on 3M Company to $189 From $165, Keeps Equalweight Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-094333446.html",
-      "publisher": "MT Newswires",
-      "time": 1786355013,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2ee0c3bd-21ca-30c9-a4fb-b8a6d0c4e0b0",
-      "title": "Morgan Stanley Adjusts PT on Stanley Black & Decker to $96 From $84, Keeps Equalweight Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-pt-stanley-094318832.html",
-      "publisher": "MT Newswires",
-      "time": 1786354998,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f7bff5d7-89e1-3d9c-a13e-b10838d4e29e",
-      "title": "Morgan Stanley Adjusts Price Target on Starz Entertainment to $30 From $21, Keeps Equalweight Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-094302422.html",
-      "publisher": "MT Newswires",
-      "time": 1786354982,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "46288121-3937-3eb0-aab7-64bca00ecee6",
-      "title": "Berenberg Adjusts Price Target on Procter & Gamble to $143 From $146, Maintains Hold Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/berenberg-adjusts-price-target-procter-094241198.html",
-      "publisher": "MT Newswires",
-      "time": 1786354961,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
