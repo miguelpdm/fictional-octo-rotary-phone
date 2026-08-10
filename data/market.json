@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-10T08:23:06.406169+00:00",
+  "updatedAt": "2026-08-10T09:55:41.628341+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20129.7,
-      "change": -46.29999999999927,
-      "changePct": -0.22948057097541275,
+      "price": 20174.0,
+      "change": -2.0,
+      "changePct": -0.009912767644726407,
       "currency": "EUR"
     },
     {
@@ -28,111 +28,80 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26351.0,
-      "change": 210.86999999999898,
-      "changePct": 0.8066907088832342,
+      "price": 26412.82,
+      "change": 272.6899999999987,
+      "changePct": 1.04318532463304,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6531.02,
-      "change": 7.160000000000764,
-      "changePct": 0.1097509756493972,
+      "price": 6541.45,
+      "change": 17.590000000000146,
+      "changePct": 0.2696256510716071,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.47,
-      "change": 0.5700000000000003,
-      "changePct": 3.8255033557047,
+      "price": 15.44,
+      "change": 0.5399999999999991,
+      "changePct": 3.6241610738254977,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "8c734468-0488-34c6-9ff9-bddec4843fd4",
-      "title": "Cadeler Strengthens Future Installation Capacity With Firm Orders for Two New T-class Vessels",
-      "link": "https://finance.yahoo.com/energy/articles/cadeler-strengthens-future-installation-capacity-081600004.html",
-      "publisher": "Business Wire",
-      "time": 1786349760,
+      "id": "4da27c82-e1ba-30e9-a5e2-c892890c1bd4",
+      "title": "‘I Don’t Think She’s Entitled to a Freaking Dime’: Dave Ramsey to Mom Debating Whether to Cut Estranged Daughter From Her Will",
+      "link": "https://finance.yahoo.com/m/4da27c82-e1ba-30e9-a5e2-c892890c1bd4/%E2%80%98i-don%E2%80%99t-think-she%E2%80%99s-entitled.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786355238,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f8138215-47ff-35c9-b836-1d7447d84665",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-081600989.html",
-      "publisher": "Business Wire",
-      "time": 1786349760,
+      "id": "45069bf6-eaf3-3ff6-a050-1ec326fc30a6",
+      "title": "RenovoRx reports RenovoCath’s first clinical use in sarcoma",
+      "link": "https://finance.yahoo.com/m/45069bf6-eaf3-3ff6-a050-1ec326fc30a6/renovorx-reports-renovocath%E2%80%99s.html",
+      "publisher": "Medical Device Network",
+      "time": 1786355213,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3ae00e38-6515-3c33-ba7e-47d4f8fcfdc6",
-      "title": "Market Chatter: Nvidia to Invest Up to $3 Billion in Lancium for AI Data Center Power Infrastructure",
-      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-invest-3-080926686.html",
+      "id": "ca3c61e4-e937-334c-b2a0-d81b4206114c",
+      "title": "Silicon Motion Unveils SSD Reference Design Kit for Agentic AI Infrastructure",
+      "link": "https://finance.yahoo.com/technology/ai/articles/silicon-motion-unveils-ssd-reference-094533388.html",
       "publisher": "MT Newswires",
-      "time": 1786349366,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "5962db88-97dc-3db8-ad83-86bc60b9ca0d",
-      "title": "Innate Pharma, Sobi Partner on Late-Stage Study for Lacutamab",
-      "link": "https://finance.yahoo.com/healthcare/articles/innate-pharma-sobi-partner-stage-080900965.html",
-      "publisher": "MT Newswires",
-      "time": 1786349340,
+      "time": 1786355133,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "86157002-db14-373a-9bd8-aca5c113d8dd",
-      "title": "Wales grants Section 36 Consent for 200MW Llŷr Wind Farm",
-      "link": "https://finance.yahoo.com/m/86157002-db14-373a-9bd8-aca5c113d8dd/wales-grants-section-36.html",
-      "publisher": "Power Technology",
-      "time": 1786349226,
+      "id": "078c2ebf-accd-34e2-b665-b146ffd97d26",
+      "title": "KEO Capital Strengthens Leadership Team with New Appointments in Fintech and Energy",
+      "link": "https://finance.yahoo.com/technology/articles/keo-capital-strengthens-leadership-team-094500614.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786355100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3db7a0ca-91f9-3c03-b37e-68b31cf54c87",
-      "title": "'Difficult decision': Manufacturing company to close Illinois facility",
-      "link": "https://finance.yahoo.com/m/3db7a0ca-91f9-3c03-b37e-68b31cf54c87/%27difficult-decision%27%3A.html",
-      "publisher": "Journal Star",
-      "time": 1786349144,
+      "id": "5de2616f-c68e-3d48-8c8a-35d39910ca82",
+      "title": "Neurocrine begins Phase I trial of NBIP-‘1968 triple agonist for obesity",
+      "link": "https://finance.yahoo.com/m/5de2616f-c68e-3d48-8c8a-35d39910ca82/neurocrine-begins-phase-i.html",
+      "publisher": "Clinical Trials Arena",
+      "time": 1786355061,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f91eac04-e358-310c-b1c1-a91056bc70cc",
-      "title": "ARHS Q2 Deep Dive: Product Innovation and Strategic Investments Sustain Growth Momentum",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/arhs-q2-deep-dive-product-080522476.html",
-      "publisher": "StockStory",
-      "time": 1786349122,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "23c4d880-208f-31d7-9475-ce58e1f36005",
-      "title": "Why Is Disney So Much Cheaper Than Netflix? This Is the Only Answer I Can Think Of.",
-      "link": "https://finance.yahoo.com/m/23c4d880-208f-31d7-9475-ce58e1f36005/why-is-disney-so-much-cheaper.html",
-      "publisher": "Motley Fool",
-      "time": 1786349100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d7e55983-d521-3072-957e-e09ee94eed6e",
-      "title": "ONGC awards offshore contracts to L&T Energy Hydrocarbon Offshore",
-      "link": "https://finance.yahoo.com/m/d7e55983-d521-3072-957e-e09ee94eed6e/ongc-awards-offshore.html",
-      "publisher": "Offshore Technology",
-      "time": 1786349047,
+      "id": "2d870a7f-368d-35f3-8168-e03b6b13b6b8",
+      "title": "Form 8.3 - [APTITUDE SOFTWARE GROUP PLC - 07 08 2026] - (CGAML)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-aptitude-software-094400456.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786355040,
       "impact": "high",
       "tags": [
         "geo",
@@ -140,11 +109,59 @@
       ]
     },
     {
-      "id": "1e208325-9cf2-3cbd-9acf-7d0463986e89",
-      "title": "Thruvision shares surge 46% to 0.91p on £3m Asian airport contract",
-      "link": "https://finance.yahoo.com/m/1e208325-9cf2-3cbd-9acf-7d0463986e89/thruvision-shares-surge-46%25.html",
-      "publisher": "Proactive",
-      "time": 1786348860,
+      "id": "4d8b85d8-613a-395e-99b7-262dec397f8d",
+      "title": "Resolution Copper awards $110m contracts for Arizona mine",
+      "link": "https://finance.yahoo.com/m/4d8b85d8-613a-395e-99b7-262dec397f8d/resolution-copper-awards.html",
+      "publisher": "Mining Technology",
+      "time": 1786355030,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "b38cdda9-271a-3b2a-a056-e07f71ad3751",
+      "title": "Jefferies Adjusts Price Target on Blackstone to $166 From $145, Maintains Buy Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-adjusts-price-target-blackstone-094346449.html",
+      "publisher": "MT Newswires",
+      "time": 1786355026,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "66f59353-b1a9-3dcf-880a-405839cc0826",
+      "title": "Morgan Stanley Adjusts Price Target on 3M Company to $189 From $165, Keeps Equalweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-094333446.html",
+      "publisher": "MT Newswires",
+      "time": 1786355013,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2ee0c3bd-21ca-30c9-a4fb-b8a6d0c4e0b0",
+      "title": "Morgan Stanley Adjusts PT on Stanley Black & Decker to $96 From $84, Keeps Equalweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-pt-stanley-094318832.html",
+      "publisher": "MT Newswires",
+      "time": 1786354998,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f7bff5d7-89e1-3d9c-a13e-b10838d4e29e",
+      "title": "Morgan Stanley Adjusts Price Target on Starz Entertainment to $30 From $21, Keeps Equalweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-094302422.html",
+      "publisher": "MT Newswires",
+      "time": 1786354982,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "46288121-3937-3eb0-aab7-64bca00ecee6",
+      "title": "Berenberg Adjusts Price Target on Procter & Gamble to $143 From $146, Maintains Hold Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/berenberg-adjusts-price-target-procter-094241198.html",
+      "publisher": "MT Newswires",
+      "time": 1786354961,
       "impact": "low",
       "tags": []
     }
