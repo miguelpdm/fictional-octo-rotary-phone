@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T19:51:04.356877+00:00",
+  "updatedAt": "2026-08-10T20:34:42.774889+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7748.59,
-      "change": 38.63000000000011,
-      "changePct": 0.501040212919394,
+      "price": 7753.11,
+      "change": 43.149999999999636,
+      "changePct": 0.5596656791993685,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26597.223,
-      "change": 248.87300000000323,
-      "changePct": 0.9445487098812763,
+      "price": 26605.357,
+      "change": 257.0070000000014,
+      "changePct": 0.9754197131888768,
       "currency": "USD"
     },
     {
@@ -44,57 +44,100 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.45,
-      "change": 0.5499999999999989,
-      "changePct": 3.6912751677852276,
+      "price": 15.46,
+      "change": 0.5600000000000005,
+      "changePct": 3.7583892617449695,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "536e7ef2-0004-34f1-941c-dab8bd252f0c",
-      "title": "This Rare-Earth Stock Explodes on $400 Million U.S. Defense Funding",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rare-earth-stock-explodes-400-194822276.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786391302,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2bd95755-e013-3541-af95-305b6e18c3bf",
-      "title": "AMD Brings Meta's New AI Model to PCs",
-      "link": "https://finance.yahoo.com/technology/ai/articles/amd-brings-metas-ai-model-194558831.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786391158,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fcf202d5-39b9-3cc6-a3f9-abecb9e50ad4",
-      "title": "Berkshire’s Precision Castparts Unit a Big Winner on Aircraft Industry Boom",
-      "link": "https://finance.yahoo.com/m/fcf202d5-39b9-3cc6-a3f9-abecb9e50ad4/berkshire%E2%80%99s-precision.html",
-      "publisher": "Barrons.com",
-      "time": 1786391100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "53367999-7752-3ba9-bf86-1e3c1fb2ed10",
-      "title": "Airbnb Stock Jumps Despite BMO Target Trailing Market Price",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-stock-jumps-despite-bmo-194409112.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786391049,
+      "id": "5c500f47-16ae-3b2c-a1f8-427139c0966e",
+      "title": "1 Stock Under $10 to Target This Week and 2 We Ignore",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-stock-under-10-target-202922574.html",
+      "publisher": "StockStory",
+      "time": 1786393762,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "5a48fb66-bb53-319a-8205-3a75ef0a9e9d",
-      "title": "Stock Market Today: Dow Dips, Nvidia Falls On This Report; Energy Play Clears Entry As Oil Pops (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/5a48fb66-bb53-319a-8205-3a75ef0a9e9d/stock-market-today%3A-dow-dips%2C.html",
+      "id": "9187894c-fd46-49ae-8075-b35d7fd8854e",
+      "title": "Apple downgraded at Jefferies over iPhone yields and growth concerns",
+      "link": "https://finance.yahoo.com/video/apple-downgraded-jefferies-over-iphone-202918014.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1786393758,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4f00d2f9-d2a6-3448-9eb1-28659d35191e",
+      "title": "Johnson & Johnson to Participate in the Morgan Stanley 24th Annual Global Healthcare Conference",
+      "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-participate-morgan-stanley-202700734.html",
+      "publisher": "Business Wire",
+      "time": 1786393620,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9ecdcc21-6fe1-3c87-852a-15bb387ed94b",
+      "title": "Bocce, Italian food and community spirit fill Acrisure Stadium plaza",
+      "link": "https://finance.yahoo.com/m/9ecdcc21-6fe1-3c87-852a-15bb387ed94b/bocce%2C-italian-food-and.html",
+      "publisher": "USA TODAY",
+      "time": 1786393616,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "06f70d2b-dac7-432b-9d54-05f2210756d6",
+      "title": "China's slowing prices are a major red flag for the world's No. 2 economy",
+      "link": "https://finance.yahoo.com/video/chinas-slowing-prices-major-red-202600854.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1786393560,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "faf03b73-5314-36e6-a567-3aaec5005c50",
+      "title": "Getty Images (NYSE:GETY) Misses Q2 CY2026 Revenue Estimates, Stock Drops 15.2%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/getty-images-nyse-gety-misses-202441760.html",
+      "publisher": "StockStory",
+      "time": 1786393481,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "1fa66646-3bd3-3dff-944c-f8146ff11b47",
+      "title": "Life360 Stock Plunges On Mixed Second-Quarter Report",
+      "link": "https://finance.yahoo.com/m/1fa66646-3bd3-3dff-944c-f8146ff11b47/life360-stock-plunges-on.html",
       "publisher": "Investor's Business Daily",
-      "time": 1786391043,
+      "time": 1786393472,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8e812518-67fa-334b-a8d6-a5dfcd0f1b63",
+      "title": "AM Best Wins Platinum Pinnacle Award for ‘Our Purpose’ Video",
+      "link": "https://finance.yahoo.com/media-advertising/articles/am-best-wins-platinum-pinnacle-202400307.html",
+      "publisher": "Business Wire",
+      "time": 1786393440,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "88a6c94e-a382-41b6-ada5-671479b61755",
+      "title": "Earnings live updates: Plug Power stock jumps on improving margins, raised revenue guidance",
+      "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-plug-power-stock-jumps-on-improving-margins-raised-revenue-guidance-202302733.html",
+      "publisher": "Yahoo Finance",
+      "time": 1786393382,
       "impact": "medium",
       "tags": [
         "macro",
@@ -102,54 +145,25 @@
       ]
     },
     {
-      "id": "fe35405e-cb34-3ba0-b5e3-245be311207c",
-      "title": "Colombia declares state of emergency after quake kills 111",
-      "link": "https://finance.yahoo.com/m/fe35405e-cb34-3ba0-b5e3-245be311207c/colombia-declares-state-of.html",
-      "publisher": "AFP",
-      "time": 1786390954,
+      "id": "d8e01c51-d712-3b5b-a7fb-2a1d6e1d8843",
+      "title": "How major US stock indexes fared Monday 8/10/2026",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-202223243.html",
+      "publisher": "Associated Press",
+      "time": 1786393343,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7e60ef30-3eaf-3b6f-be39-879f2f1441b0",
-      "title": "BP Stock Jumps 2.1% as Oil Rally Strengthens Turnaround",
-      "link": "https://finance.yahoo.com/energy/articles/bp-stock-jumps-2-1-194225200.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786390945,
-      "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "4dc7a7af-10b2-3833-b4f1-9febcd352d7f",
-      "title": "CoreWeave's AI Boom Faces a Debt Test",
-      "link": "https://finance.yahoo.com/technology/ai/articles/coreweaves-ai-boom-faces-debt-194145399.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786390905,
+      "id": "0be9b51d-c0a3-3186-bd1f-7c7731844470",
+      "title": "Rapid7 (NASDAQ:RPD) Posts Better-Than-Expected Sales In Q2 CY2026, Stock Soars",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rapid7-nasdaq-rpd-posts-better-202205976.html",
+      "publisher": "StockStory",
+      "time": 1786393325,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2300fb4f-0362-3ca9-9c2b-924dcdeecbf2",
-      "title": "Nvidia Just Added $562 Billion in a Week",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-added-562-billion-194053370.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786390853,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a6ee1769-3e3a-3008-90d8-e4293f6abc49",
-      "title": "Braveheart Bio Chairman Chris Viehbacher Buys $1.5M Shares at IPO. What Does This Mean for Investors?",
-      "link": "https://finance.yahoo.com/m/a6ee1769-3e3a-3008-90d8-e4293f6abc49/braveheart-bio-chairman-chris.html",
-      "publisher": "Motley Fool",
-      "time": 1786390801,
-      "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     }
   ],
