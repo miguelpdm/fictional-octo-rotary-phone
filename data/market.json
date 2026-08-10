@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T23:56:20.016609+00:00",
+  "updatedAt": "2026-08-10T01:26:39.670403+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,109 +52,116 @@
   ],
   "news": [
     {
-      "id": "fd5c3fff-c93f-3190-bc6a-55c6a7f54394",
-      "title": "SK Hynix and Samsung Just Sent a Major Warning to Micron Investors",
-      "link": "https://finance.yahoo.com/m/fd5c3fff-c93f-3190-bc6a-55c6a7f54394/sk-hynix-and-samsung-just.html",
-      "publisher": "Motley Fool",
-      "time": 1786319400,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "4e0dd3f9-1d4d-3f4e-8ab7-e1e961cc6d91",
-      "title": "The Top 5 Analyst Questions From Carter's’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-carters-234922417.html",
-      "publisher": "StockStory",
-      "time": 1786319362,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "167dece6-031e-3944-a886-3b64e757ae99",
-      "title": "I Squared Capital to Acquire oOh!media, a Leading Out-of-Home Media Infrastructure Platform in Australia and New Zealand",
-      "link": "https://finance.yahoo.com/media-advertising/articles/squared-capital-acquire-ooh-media-234500497.html",
-      "publisher": "Business Wire",
-      "time": 1786319100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3f45c468-b892-3882-a080-4ddad42dc0ff",
-      "title": "Amazon is selling a retro-style DVD player for just $40 that'll help you avoid streaming fees",
-      "link": "https://finance.yahoo.com/m/3f45c468-b892-3882-a080-4ddad42dc0ff/amazon-is-selling-a.html",
+      "id": "c7604155-f903-3bd1-8063-843c4f98cd34",
+      "title": "Atlassian just flipped Wall Street’s AI fear on its head",
+      "link": "https://finance.yahoo.com/m/c7604155-f903-3bd1-8063-843c4f98cd34/atlassian-just-flipped-wall.html",
       "publisher": "TheStreet",
-      "time": 1786319100,
+      "time": 1786324620,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "24b1cc49-c29b-30c6-8728-1db164b5b255",
-      "title": "Cruise passengers need to know about a new Bahamas warning",
-      "link": "https://finance.yahoo.com/m/24b1cc49-c29b-30c6-8728-1db164b5b255/cruise-passengers-need-to.html",
-      "publisher": "TheStreet",
-      "time": 1786319047,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "18a4f48d-12f5-36db-b9f7-021fcb10fca7",
-      "title": "Is Medtronic (MDT) Becoming a Turnaround Story?",
-      "link": "https://finance.yahoo.com/healthcare/articles/medtronic-mdt-becoming-turnaround-story-234359487.html",
-      "publisher": "Insider Monkey",
-      "time": 1786319039,
+      "id": "3eaecdaf-1e16-3f56-ad77-dbfdc67c0b2b",
+      "title": "Thirty years on, a trial finally opens in Tupac Shakur's killing",
+      "link": "https://finance.yahoo.com/m/3eaecdaf-1e16-3f56-ad77-dbfdc67c0b2b/thirty-years-on%2C-a-trial.html",
+      "publisher": "AFP",
+      "time": 1786324357,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6bf0da8a-faae-33c1-af5a-bcc389ef390c",
-      "title": "Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
-      "link": "https://finance.yahoo.com/m/6bf0da8a-faae-33c1-af5a-bcc389ef390c/dow-jones-futures-fall-as.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1786319010,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c17d141a-9f3b-3668-b41c-80b2680fd3a1",
-      "title": "5 Must-Read Analyst Questions From Church & Dwight’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-234122705.html",
-      "publisher": "StockStory",
-      "time": 1786318882,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "f7a88431-324a-39eb-bd20-d9c51edbb238",
-      "title": "Element Submits Proposal to Acquire FleetPartners Group",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/element-submits-proposal-acquire-fleetpartners-234000320.html",
+      "id": "7aa74ed0-c34e-3346-b720-d71f46437e65",
+      "title": "Hainan Travel ---- Stepping Into a New Cultural‑Tourism Landmark of \"Surf‑Plus\" Concept Chasing Waves at Riyue Bay, Wanning, Hainan Province, China",
+      "link": "https://finance.yahoo.com/small-business/articles/hainan-travel-stepping-cultural-tourism-011000389.html",
       "publisher": "PR Newswire",
-      "time": 1786318800,
+      "time": 1786324200,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "faf5111c-b118-34d0-ac16-7ee410dd922b",
+      "title": "DDOG Q2 Deep Dive: Market Reacts Negatively Despite Accelerating Core Growth and AI Momentum",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ddog-q2-deep-dive-market-010922675.html",
+      "publisher": "StockStory",
+      "time": 1786324162,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "401f2e23-fceb-39fc-8fa0-7b938f8a648d",
+      "title": "North Korean hacking group builds AI tools for cyberattacks, report says",
+      "link": "https://finance.yahoo.com/m/401f2e23-fceb-39fc-8fa0-7b938f8a648d/north-korean-hacking-group.html",
+      "publisher": "Reuters",
+      "time": 1786324106,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ccb54735-792c-3e93-b444-d9496fbec0f3",
-      "title": "McDonald's making some big changes to its menu",
-      "link": "https://finance.yahoo.com/m/ccb54735-792c-3e93-b444-d9496fbec0f3/mcdonald%27s-making-some-big.html",
-      "publisher": "TheStreet",
-      "time": 1786318620,
+      "id": "3791d150-01a4-3143-a88c-0f91659ab8f0",
+      "title": "Exxon Handed Shareholders $9.4 Billion in One Quarter. Here's What It Earned to Cover It.",
+      "link": "https://finance.yahoo.com/m/3791d150-01a4-3143-a88c-0f91659ab8f0/exxon-handed-shareholders.html",
+      "publisher": "Motley Fool",
+      "time": 1786324020,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "2f3a4613-378a-3bca-ac9f-e10f3aaf05c0",
+      "title": "Prison inmates train service dogs, changing lives of people they've never met",
+      "link": "https://finance.yahoo.com/m/2f3a4613-378a-3bca-ac9f-e10f3aaf05c0/prison-inmates-train-service.html",
+      "publisher": "CBS News Videos",
+      "time": 1786324012,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "88dadf9b-e1d4-3db9-b77b-69f6eeebcab3",
+      "title": "Japan's executives call for FX stability as weak yen intensify import-cost pressure",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/japans-executives-call-fx-stability-010441771.html",
+      "publisher": "Reuters",
+      "time": 1786323881,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "13f66b7b-10ab-30d9-9fa6-6755ab239772",
+      "title": "NFI Group Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/13f66b7b-10ab-30d9-9fa6-6755ab239772/nfi-group-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1786323837,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b7fd879b-8f64-3621-b3c8-9e3159cbd2b9",
+      "title": "Martinrea International Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/b7fd879b-8f64-3621-b3c8-9e3159cbd2b9/martinrea-international-q2.html",
+      "publisher": "MarketBeat",
+      "time": 1786323837,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "dc15b59f-630d-3d91-921a-80064a4f38cb",
+      "title": "OceanaGold Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/dc15b59f-630d-3d91-921a-80064a4f38cb/oceanagold-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1786323837,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
