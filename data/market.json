@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T18:47:18.774698+00:00",
+  "updatedAt": "2026-08-10T19:51:04.356877+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7752.5,
-      "change": 42.539999999999964,
-      "changePct": 0.5517538352987559,
+      "price": 7748.59,
+      "change": 38.63000000000011,
+      "changePct": 0.501040212919394,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26598.385,
-      "change": 250.03499999999985,
-      "changePct": 0.9489588532109217,
+      "price": 26597.223,
+      "change": 248.87300000000323,
+      "changePct": 0.9445487098812763,
       "currency": "USD"
     },
     {
@@ -44,106 +44,112 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.4,
-      "change": 0.5,
-      "changePct": 3.3557046979865772,
+      "price": 15.45,
+      "change": 0.5499999999999989,
+      "changePct": 3.6912751677852276,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "b818ce79-a852-3b3d-82f1-6cec47e95276",
-      "title": "3 Stocks Under $50 with Warning Signs",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-under-50-warning-183722494.html",
-      "publisher": "StockStory",
-      "time": 1786387042,
-      "impact": "high",
+      "id": "536e7ef2-0004-34f1-941c-dab8bd252f0c",
+      "title": "This Rare-Earth Stock Explodes on $400 Million U.S. Defense Funding",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rare-earth-stock-explodes-400-194822276.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786391302,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2bd95755-e013-3541-af95-305b6e18c3bf",
+      "title": "AMD Brings Meta's New AI Model to PCs",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amd-brings-metas-ai-model-194558831.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786391158,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fcf202d5-39b9-3cc6-a3f9-abecb9e50ad4",
+      "title": "Berkshire’s Precision Castparts Unit a Big Winner on Aircraft Industry Boom",
+      "link": "https://finance.yahoo.com/m/fcf202d5-39b9-3cc6-a3f9-abecb9e50ad4/berkshire%E2%80%99s-precision.html",
+      "publisher": "Barrons.com",
+      "time": 1786391100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "53367999-7752-3ba9-bf86-1e3c1fb2ed10",
+      "title": "Airbnb Stock Jumps Despite BMO Target Trailing Market Price",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-stock-jumps-despite-bmo-194409112.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786391049,
+      "impact": "low",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "e8a16bef-db68-3625-8c16-bc52121b71da",
-      "title": "Trump extends Jones Act waiver 90 days for foreign ships moving energy, fertilizers",
-      "link": "https://finance.yahoo.com/m/e8a16bef-db68-3625-8c16-bc52121b71da/trump-extends-jones-act.html",
-      "publisher": "Associated Press",
-      "time": 1786386871,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c3276c8c-3502-31c9-ac96-3acfc7aaef20",
-      "title": "Morgan Stanley sends blunt SpaceX message to investors",
-      "link": "https://finance.yahoo.com/m/c3276c8c-3502-31c9-ac96-3acfc7aaef20/morgan-stanley-sends-blunt.html",
-      "publisher": "TheStreet",
-      "time": 1786386840,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e2b37c6f-daef-311a-9d88-7ee65410985a",
-      "title": "Beyoncé buys out LVMH's stake in SirDavis whisky brand",
-      "link": "https://finance.yahoo.com/m/e2b37c6f-daef-311a-9d88-7ee65410985a/beyonc%C3%A9-buys-out-lvmh%27s-stake.html",
-      "publisher": "Quartz",
-      "time": 1786386774,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "01061f65-c982-358f-9da9-1bde33a1afb6",
-      "title": "Developers, Advisors Position for Opportunity Zone 2.0 Investments",
-      "link": "https://finance.yahoo.com/m/01061f65-c982-358f-9da9-1bde33a1afb6/developers%2C-advisors-position.html",
-      "publisher": "Wealth Management",
-      "time": 1786386730,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fbfffa22-1be9-3a0a-95ba-845128179ac7",
-      "title": "Skycap Investment Holdings Inc. Announces Conversion of CLN Global Inc. Safe",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/skycap-investment-holdings-inc-announces-183200007.html",
-      "publisher": "TMX Newsfile",
-      "time": 1786386720,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3433d214-f960-382d-bfb8-e8e8ad2e9bb2",
-      "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
-      "link": "https://finance.yahoo.com/m/3433d214-f960-382d-bfb8-e8e8ad2e9bb2/aptoide-becomes-the-first.html",
-      "publisher": "TechCrunch",
-      "time": 1786386714,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ebf91c4a-4db2-3482-9251-e82790db7ded",
-      "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
-      "link": "https://finance.yahoo.com/media-advertising/articles/social-media-platforms-still-facing-183033581.html",
-      "publisher": "TechCrunch",
-      "time": 1786386633,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "17209c33-590d-4e27-bc58-38c550fc2934",
-      "title": "$116M stolen from crypto cold wallets in security breach",
-      "link": "https://finance.yahoo.com/video/116m-stolen-crypto-cold-wallets-183000900.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1786386600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "32423fcb-5160-301e-8826-05f66bfba691",
-      "title": "ASML Faces a Fresh Threat Out of China. Is the Dip in the Stock Worth Buying?",
-      "link": "https://finance.yahoo.com/m/32423fcb-5160-301e-8826-05f66bfba691/asml-faces-a-fresh-threat-out.html",
-      "publisher": "Motley Fool",
-      "time": 1786386600,
+      "id": "5a48fb66-bb53-319a-8205-3a75ef0a9e9d",
+      "title": "Stock Market Today: Dow Dips, Nvidia Falls On This Report; Energy Play Clears Entry As Oil Pops (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/5a48fb66-bb53-319a-8205-3a75ef0a9e9d/stock-market-today%3A-dow-dips%2C.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786391043,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "fe35405e-cb34-3ba0-b5e3-245be311207c",
+      "title": "Colombia declares state of emergency after quake kills 111",
+      "link": "https://finance.yahoo.com/m/fe35405e-cb34-3ba0-b5e3-245be311207c/colombia-declares-state-of.html",
+      "publisher": "AFP",
+      "time": 1786390954,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7e60ef30-3eaf-3b6f-be39-879f2f1441b0",
+      "title": "BP Stock Jumps 2.1% as Oil Rally Strengthens Turnaround",
+      "link": "https://finance.yahoo.com/energy/articles/bp-stock-jumps-2-1-194225200.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786390945,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "4dc7a7af-10b2-3833-b4f1-9febcd352d7f",
+      "title": "CoreWeave's AI Boom Faces a Debt Test",
+      "link": "https://finance.yahoo.com/technology/ai/articles/coreweaves-ai-boom-faces-debt-194145399.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786390905,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2300fb4f-0362-3ca9-9c2b-924dcdeecbf2",
+      "title": "Nvidia Just Added $562 Billion in a Week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-added-562-billion-194053370.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786390853,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a6ee1769-3e3a-3008-90d8-e4293f6abc49",
+      "title": "Braveheart Bio Chairman Chris Viehbacher Buys $1.5M Shares at IPO. What Does This Mean for Investors?",
+      "link": "https://finance.yahoo.com/m/a6ee1769-3e3a-3008-90d8-e4293f6abc49/braveheart-bio-chairman-chris.html",
+      "publisher": "Motley Fool",
+      "time": 1786390801,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
       ]
     }
   ],
