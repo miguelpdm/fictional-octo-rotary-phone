@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T05:04:19.561390+00:00",
+  "updatedAt": "2026-08-10T06:50:06.447521+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,22 +52,11 @@
   ],
   "news": [
     {
-      "id": "07b1c31a-53f2-30d2-ae84-63b5fd2e3aaa",
-      "title": "WRBY Q2 Deep Dive: Intelligent Eyewear Launch and Traffic Softness Shape Outlook",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wrby-q2-deep-dive-intelligent-044522066.html",
+      "id": "fc007926-2ba3-300a-bdb5-4f988f3db059",
+      "title": "QDEL Q2 Deep Dive: Guidance Reset Amid China Headwinds and Respiratory Uncertainty",
+      "link": "https://finance.yahoo.com/healthcare/articles/qdel-q2-deep-dive-guidance-063722185.html",
       "publisher": "StockStory",
-      "time": 1786337122,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "5e655aa9-b9a5-33d3-adc1-daf4605db16d",
-      "title": "Oil rises as Iran tempers hopes for swift Hormuz reopening",
-      "link": "https://finance.yahoo.com/energy/articles/oil-rises-uncertainty-over-reopening-005834869.html",
-      "publisher": "Reuters",
-      "time": 1786337110,
+      "time": 1786343842,
       "impact": "medium",
       "tags": [
         "macro",
@@ -75,78 +64,99 @@
       ]
     },
     {
-      "id": "ddfbc91c-2af9-3cb9-abc4-ef101f05f2e6",
-      "title": "Applications open for NMIMS MBA on 20th August 2026, across six campuses",
-      "link": "https://finance.yahoo.com/small-business/articles/applications-open-nmims-mba-20th-044300302.html",
-      "publisher": "PR Newswire",
-      "time": 1786336980,
+      "id": "813923bb-7a65-3430-baa0-9414ca5021bb",
+      "title": "Tech giants TSMC and Sony to invest billions in advanced chip sensor plant",
+      "link": "https://finance.yahoo.com/m/813923bb-7a65-3430-baa0-9414ca5021bb/tech-giants-tsmc-and-sony-to.html",
+      "publisher": "Euronews",
+      "time": 1786343654,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "241150ad-913b-3472-9c21-9ec21646fafd",
-      "title": "Self-taught Turkish 'linguist' keeps dead language alive",
-      "link": "https://finance.yahoo.com/m/241150ad-913b-3472-9c21-9ec21646fafd/self-taught-turkish.html",
-      "publisher": "AFP",
-      "time": 1786336918,
+      "id": "69cc71e3-5014-3bb7-83b6-b8c6b4c0fd90",
+      "title": "Share repurchase programme: Transactions of week 32 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/share-repurchase-programme-transactions-week-063100040.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786343460,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b8f38d19-57c9-301d-aa7f-e937cab13638",
-      "title": "ACDC Q2 Deep Dive: Strategic Upgrades and Market Discipline Amid Industry Volatility",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/acdc-q2-deep-dive-strategic-043722392.html",
+      "id": "83f080a3-294d-357d-899e-dc9afa8652a2",
+      "title": "Quadient Named Among Leading Providers of Accounts Payable Invoice Automation in Forrester Wave Evaluation",
+      "link": "https://finance.yahoo.com/technology/articles/quadient-named-among-leading-providers-063000210.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786343400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a671112b-133f-39ba-bab3-7065ab9a3d05",
+      "title": "Innate Pharma to Advance Lacutamab Towards Phase 3 Following Partnership With Sobi and Appoints New Chief Medical Officer",
+      "link": "https://finance.yahoo.com/healthcare/articles/innate-pharma-advance-lacutamab-towards-063000013.html",
+      "publisher": "Business Wire",
+      "time": 1786343400,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "f896dc3f-dd27-3ac7-95c2-fa902589245c",
+      "title": "TAP Q2 Deep Dive: Margin Pressures Persist as Molson Coors Leans on Brand and Portfolio Initiatives",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tap-q2-deep-dive-margin-062922212.html",
       "publisher": "StockStory",
-      "time": 1786336642,
+      "time": 1786343362,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "cce92bb2-a9ff-39d6-a7b2-a6ce1be7f104",
-      "title": "Morning Bid: Suddenly the Strait of Hormuz is 'irrelevant' to the US",
-      "link": "https://finance.yahoo.com/markets/articles/morning-bid-suddenly-strait-hormuz-043231428.html",
-      "publisher": "Reuters",
-      "time": 1786336351,
+      "id": "76b59078-e724-3dc2-8521-95bb09e79b49",
+      "title": "Seadrill raises 2026 guidance on stronger rig demand and contract coverage",
+      "link": "https://finance.yahoo.com/energy/articles/seadrill-raises-2026-guidance-stronger-062916825.html",
+      "publisher": "Investing.com",
+      "time": 1786343356,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "291812b5-4620-3f8e-bdfa-4862462bad10",
+      "title": "Asian shares are mixed after gains on Wall Street, while oil prices climb",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-gains-wall-062649152.html",
+      "publisher": "Associated Press",
+      "time": 1786343209,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "0e2707fc-ca0b-3415-b140-49a6219cb651",
+      "title": "Share Buy-back Programme – Transactions Week 32",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/share-buy-back-programme-transactions-062600825.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786343160,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "589a3dda-7b14-3a53-a6d3-92a1791c3dd3",
-      "title": "Why Micron is Decisively Better Positioned Than Intel Now",
-      "link": "https://finance.yahoo.com/m/589a3dda-7b14-3a53-a6d3-92a1791c3dd3/why-micron-is-decisively.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786336333,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d9109bf4-f0ef-3630-ae0d-1f3e2564618f",
-      "title": "Barrick (B) Stock Looks Fully Valued As Its 181% Run Continues",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/barrick-b-stock-looks-fully-043004015.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786336204,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2b428dc0-182f-3a36-81f2-f2e7a22b9e81",
-      "title": "Tencent Cloud Drives AI Adoption to Cultivate the Greater Bay Area's Next Generation of Digital Talent",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tencent-cloud-drives-ai-adoption-043000401.html",
-      "publisher": "PR Newswire",
-      "time": 1786336200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c7c4458d-1b02-3c9e-be5a-89d28c9c9a4e",
-      "title": "What Essent Group (ESNT)'s Q2 2026 Results and Dividend Hike Mean For Shareholders",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/essent-group-esnt-q2-2026-042952582.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786336192,
-      "impact": "low",
-      "tags": []
+      "id": "03f9e374-0c10-38b8-b5ef-7b92c5bcd08a",
+      "title": "ADNOC Gas Posts $665 Million Q2 Profit and Approves $8.2 Billion Gas Expansion",
+      "link": "https://finance.yahoo.com/energy/articles/adnoc-gas-posts-665-million-062500618.html",
+      "publisher": "Oilprice.com",
+      "time": 1786343100,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
