@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T17:45:47.197279+00:00",
+  "updatedAt": "2026-08-10T18:47:18.774698+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7749.44,
-      "change": 39.47999999999956,
-      "changePct": 0.51206491343664,
+      "price": 7752.5,
+      "change": 42.539999999999964,
+      "changePct": 0.5517538352987559,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26581.406,
-      "change": 233.0560000000005,
-      "changePct": 0.8845183854017443,
+      "price": 26598.385,
+      "change": 250.03499999999985,
+      "changePct": 0.9489588532109217,
       "currency": "USD"
     },
     {
@@ -44,19 +44,19 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.26,
-      "change": 0.35999999999999943,
-      "changePct": 2.4161073825503316,
+      "price": 15.4,
+      "change": 0.5,
+      "changePct": 3.3557046979865772,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "1f18954d-0a18-436b-bd0f-8b244120f059",
-      "title": "Cleveland Fed's Hammack: It will take more than one interest rate hike to bring down inflation",
-      "link": "https://finance.yahoo.com/economy/policy/article/cleveland-feds-hammack-it-will-take-more-than-one-interest-rate-hike-to-bring-down-inflation-173530729.html",
-      "publisher": "Yahoo Finance",
-      "time": 1786383330,
+      "id": "b818ce79-a852-3b3d-82f1-6cec47e95276",
+      "title": "3 Stocks Under $50 with Warning Signs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-under-50-warning-183722494.html",
+      "publisher": "StockStory",
+      "time": 1786387042,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,94 +64,86 @@
       ]
     },
     {
-      "id": "a18bc898-76db-3b82-a150-18b3621d178e",
-      "title": "Pacific storm nears Hawaii while Atlantic tropics awaken",
-      "link": "https://finance.yahoo.com/m/a18bc898-76db-3b82-a150-18b3621d178e/pacific-storm-nears-hawaii.html",
-      "publisher": "USA TODAY",
-      "time": 1786383309,
+      "id": "e8a16bef-db68-3625-8c16-bc52121b71da",
+      "title": "Trump extends Jones Act waiver 90 days for foreign ships moving energy, fertilizers",
+      "link": "https://finance.yahoo.com/m/e8a16bef-db68-3625-8c16-bc52121b71da/trump-extends-jones-act.html",
+      "publisher": "Associated Press",
+      "time": 1786386871,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "911edc51-75f2-4c69-9227-5d08fc61a0a3",
-      "title": "Corporate earnings soared in Q2, with AI as the 'growth engine': Chart of the Day",
-      "link": "https://finance.yahoo.com/markets/article/corporate-earnings-soared-in-q2-with-ai-as-the-growth-engine-chart-of-the-day-173507179.html",
-      "publisher": "Yahoo Finance",
-      "time": 1786383307,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "7aa34164-0250-3429-8c6a-086bab23b66d",
-      "title": "Michelin: Disclosure of trading in own shares - 06 AUGU 2026",
-      "link": "https://finance.yahoo.com/news/michelin-disclosure-trading-own-shares-173500053.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786383300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "dfc20215-0bc9-3a74-8422-4187e4779878",
-      "title": "End of Day Message",
-      "link": "https://finance.yahoo.com/media-advertising/articles/end-day-message-173500296.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786383300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5e655aa9-b9a5-33d3-adc1-daf4605db16d",
-      "title": "Oil rises 4% as Iran, US both demand compensation and Hormuz hopes fade",
-      "link": "https://finance.yahoo.com/energy/articles/oil-rises-uncertainty-over-reopening-005834869.html",
-      "publisher": "Reuters",
-      "time": 1786383273,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "9b4a021a-d85e-3645-9909-57393f3e4ddf",
-      "title": "188-year-old Dividend King just unlocked unexpected growth engine",
-      "link": "https://finance.yahoo.com/m/9b4a021a-d85e-3645-9909-57393f3e4ddf/188-year-old-dividend-king.html",
+      "id": "c3276c8c-3502-31c9-ac96-3acfc7aaef20",
+      "title": "Morgan Stanley sends blunt SpaceX message to investors",
+      "link": "https://finance.yahoo.com/m/c3276c8c-3502-31c9-ac96-3acfc7aaef20/morgan-stanley-sends-blunt.html",
       "publisher": "TheStreet",
-      "time": 1786383253,
+      "time": 1786386840,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bf705a9f-d711-3a57-abdd-d1cfecd46ca9",
-      "title": "False Amber Alert in Missouri leads to mom's arrest",
-      "link": "https://finance.yahoo.com/m/bf705a9f-d711-3a57-abdd-d1cfecd46ca9/false-amber-alert-in-missouri.html",
-      "publisher": "USA TODAY",
-      "time": 1786383240,
+      "id": "e2b37c6f-daef-311a-9d88-7ee65410985a",
+      "title": "Beyoncé buys out LVMH's stake in SirDavis whisky brand",
+      "link": "https://finance.yahoo.com/m/e2b37c6f-daef-311a-9d88-7ee65410985a/beyonc%C3%A9-buys-out-lvmh%27s-stake.html",
+      "publisher": "Quartz",
+      "time": 1786386774,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5c5c7319-5459-3b0e-8fa0-46103a045712",
-      "title": "1 Industrials Stock with Exciting Potential and 2 We Avoid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-exciting-potential-173322946.html",
-      "publisher": "StockStory",
-      "time": 1786383202,
+      "id": "01061f65-c982-358f-9da9-1bde33a1afb6",
+      "title": "Developers, Advisors Position for Opportunity Zone 2.0 Investments",
+      "link": "https://finance.yahoo.com/m/01061f65-c982-358f-9da9-1bde33a1afb6/developers%2C-advisors-position.html",
+      "publisher": "Wealth Management",
+      "time": 1786386730,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "d59af275-13bc-38c1-a8c9-ca4b3c489e59",
-      "title": "1 Small-Cap Stock to Keep an Eye On and 2 Facing Headwinds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-small-cap-stock-keep-173322817.html",
-      "publisher": "StockStory",
-      "time": 1786383202,
+      "id": "fbfffa22-1be9-3a0a-95ba-845128179ac7",
+      "title": "Skycap Investment Holdings Inc. Announces Conversion of CLN Global Inc. Safe",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/skycap-investment-holdings-inc-announces-183200007.html",
+      "publisher": "TMX Newsfile",
+      "time": 1786386720,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3433d214-f960-382d-bfb8-e8e8ad2e9bb2",
+      "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
+      "link": "https://finance.yahoo.com/m/3433d214-f960-382d-bfb8-e8e8ad2e9bb2/aptoide-becomes-the-first.html",
+      "publisher": "TechCrunch",
+      "time": 1786386714,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ebf91c4a-4db2-3482-9251-e82790db7ded",
+      "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+      "link": "https://finance.yahoo.com/media-advertising/articles/social-media-platforms-still-facing-183033581.html",
+      "publisher": "TechCrunch",
+      "time": 1786386633,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "17209c33-590d-4e27-bc58-38c550fc2934",
+      "title": "$116M stolen from crypto cold wallets in security breach",
+      "link": "https://finance.yahoo.com/video/116m-stolen-crypto-cold-wallets-183000900.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1786386600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "32423fcb-5160-301e-8826-05f66bfba691",
+      "title": "ASML Faces a Fresh Threat Out of China. Is the Dip in the Stock Worth Buying?",
+      "link": "https://finance.yahoo.com/m/32423fcb-5160-301e-8826-05f66bfba691/asml-faces-a-fresh-threat-out.html",
+      "publisher": "Motley Fool",
+      "time": 1786386600,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "geo"
       ]
     }
   ],
