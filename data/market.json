@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-10T06:50:06.447521+00:00",
+  "updatedAt": "2026-08-10T08:23:06.406169+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20176.0,
-      "change": -4.400000000001455,
-      "changePct": -0.021803333927976922,
+      "price": 20129.7,
+      "change": -46.29999999999927,
+      "changePct": -0.22948057097541275,
       "currency": "EUR"
     },
     {
@@ -28,74 +28,111 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26319.45,
-      "change": 193.15000000000146,
-      "changePct": 0.7392933557373278,
+      "price": 26351.0,
+      "change": 210.86999999999898,
+      "changePct": 0.8066907088832342,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6523.86,
-      "change": 21.299999999999272,
-      "changePct": 0.32756329814718005,
+      "price": 6531.02,
+      "change": 7.160000000000764,
+      "changePct": 0.1097509756493972,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.9,
-      "change": -0.25,
-      "changePct": -1.65016501650165,
+      "price": 15.47,
+      "change": 0.5700000000000003,
+      "changePct": 3.8255033557047,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "fc007926-2ba3-300a-bdb5-4f988f3db059",
-      "title": "QDEL Q2 Deep Dive: Guidance Reset Amid China Headwinds and Respiratory Uncertainty",
-      "link": "https://finance.yahoo.com/healthcare/articles/qdel-q2-deep-dive-guidance-063722185.html",
-      "publisher": "StockStory",
-      "time": 1786343842,
-      "impact": "medium",
+      "id": "8c734468-0488-34c6-9ff9-bddec4843fd4",
+      "title": "Cadeler Strengthens Future Installation Capacity With Firm Orders for Two New T-class Vessels",
+      "link": "https://finance.yahoo.com/energy/articles/cadeler-strengthens-future-installation-capacity-081600004.html",
+      "publisher": "Business Wire",
+      "time": 1786349760,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f8138215-47ff-35c9-b836-1d7447d84665",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-081600989.html",
+      "publisher": "Business Wire",
+      "time": 1786349760,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3ae00e38-6515-3c33-ba7e-47d4f8fcfdc6",
+      "title": "Market Chatter: Nvidia to Invest Up to $3 Billion in Lancium for AI Data Center Power Infrastructure",
+      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-invest-3-080926686.html",
+      "publisher": "MT Newswires",
+      "time": 1786349366,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "813923bb-7a65-3430-baa0-9414ca5021bb",
-      "title": "Tech giants TSMC and Sony to invest billions in advanced chip sensor plant",
-      "link": "https://finance.yahoo.com/m/813923bb-7a65-3430-baa0-9414ca5021bb/tech-giants-tsmc-and-sony-to.html",
-      "publisher": "Euronews",
-      "time": 1786343654,
+      "id": "5962db88-97dc-3db8-ad83-86bc60b9ca0d",
+      "title": "Innate Pharma, Sobi Partner on Late-Stage Study for Lacutamab",
+      "link": "https://finance.yahoo.com/healthcare/articles/innate-pharma-sobi-partner-stage-080900965.html",
+      "publisher": "MT Newswires",
+      "time": 1786349340,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "69cc71e3-5014-3bb7-83b6-b8c6b4c0fd90",
-      "title": "Share repurchase programme: Transactions of week 32 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/share-repurchase-programme-transactions-week-063100040.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786343460,
+      "id": "86157002-db14-373a-9bd8-aca5c113d8dd",
+      "title": "Wales grants Section 36 Consent for 200MW Llŷr Wind Farm",
+      "link": "https://finance.yahoo.com/m/86157002-db14-373a-9bd8-aca5c113d8dd/wales-grants-section-36.html",
+      "publisher": "Power Technology",
+      "time": 1786349226,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "83f080a3-294d-357d-899e-dc9afa8652a2",
-      "title": "Quadient Named Among Leading Providers of Accounts Payable Invoice Automation in Forrester Wave Evaluation",
-      "link": "https://finance.yahoo.com/technology/articles/quadient-named-among-leading-providers-063000210.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786343400,
+      "id": "3db7a0ca-91f9-3c03-b37e-68b31cf54c87",
+      "title": "'Difficult decision': Manufacturing company to close Illinois facility",
+      "link": "https://finance.yahoo.com/m/3db7a0ca-91f9-3c03-b37e-68b31cf54c87/%27difficult-decision%27%3A.html",
+      "publisher": "Journal Star",
+      "time": 1786349144,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a671112b-133f-39ba-bab3-7065ab9a3d05",
-      "title": "Innate Pharma to Advance Lacutamab Towards Phase 3 Following Partnership With Sobi and Appoints New Chief Medical Officer",
-      "link": "https://finance.yahoo.com/healthcare/articles/innate-pharma-advance-lacutamab-towards-063000013.html",
-      "publisher": "Business Wire",
-      "time": 1786343400,
+      "id": "f91eac04-e358-310c-b1c1-a91056bc70cc",
+      "title": "ARHS Q2 Deep Dive: Product Innovation and Strategic Investments Sustain Growth Momentum",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arhs-q2-deep-dive-product-080522476.html",
+      "publisher": "StockStory",
+      "time": 1786349122,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "23c4d880-208f-31d7-9475-ce58e1f36005",
+      "title": "Why Is Disney So Much Cheaper Than Netflix? This Is the Only Answer I Can Think Of.",
+      "link": "https://finance.yahoo.com/m/23c4d880-208f-31d7-9475-ce58e1f36005/why-is-disney-so-much-cheaper.html",
+      "publisher": "Motley Fool",
+      "time": 1786349100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d7e55983-d521-3072-957e-e09ee94eed6e",
+      "title": "ONGC awards offshore contracts to L&T Energy Hydrocarbon Offshore",
+      "link": "https://finance.yahoo.com/m/d7e55983-d521-3072-957e-e09ee94eed6e/ongc-awards-offshore.html",
+      "publisher": "Offshore Technology",
+      "time": 1786349047,
       "impact": "high",
       "tags": [
         "geo",
@@ -103,60 +140,13 @@
       ]
     },
     {
-      "id": "f896dc3f-dd27-3ac7-95c2-fa902589245c",
-      "title": "TAP Q2 Deep Dive: Margin Pressures Persist as Molson Coors Leans on Brand and Portfolio Initiatives",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tap-q2-deep-dive-margin-062922212.html",
-      "publisher": "StockStory",
-      "time": 1786343362,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "76b59078-e724-3dc2-8521-95bb09e79b49",
-      "title": "Seadrill raises 2026 guidance on stronger rig demand and contract coverage",
-      "link": "https://finance.yahoo.com/energy/articles/seadrill-raises-2026-guidance-stronger-062916825.html",
-      "publisher": "Investing.com",
-      "time": 1786343356,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "291812b5-4620-3f8e-bdfa-4862462bad10",
-      "title": "Asian shares are mixed after gains on Wall Street, while oil prices climb",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-gains-wall-062649152.html",
-      "publisher": "Associated Press",
-      "time": 1786343209,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "0e2707fc-ca0b-3415-b140-49a6219cb651",
-      "title": "Share Buy-back Programme – Transactions Week 32",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/share-buy-back-programme-transactions-062600825.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786343160,
+      "id": "1e208325-9cf2-3cbd-9acf-7d0463986e89",
+      "title": "Thruvision shares surge 46% to 0.91p on £3m Asian airport contract",
+      "link": "https://finance.yahoo.com/m/1e208325-9cf2-3cbd-9acf-7d0463986e89/thruvision-shares-surge-46%25.html",
+      "publisher": "Proactive",
+      "time": 1786348860,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "03f9e374-0c10-38b8-b5ef-7b92c5bcd08a",
-      "title": "ADNOC Gas Posts $665 Million Q2 Profit and Approves $8.2 Billion Gas Expansion",
-      "link": "https://finance.yahoo.com/energy/articles/adnoc-gas-posts-665-million-062500618.html",
-      "publisher": "Oilprice.com",
-      "time": 1786343100,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
     }
   ],
   "errors": {
