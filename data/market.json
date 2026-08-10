@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T15:54:23.721404+00:00",
+  "updatedAt": "2026-08-10T16:47:18.753577+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7765.34,
-      "change": 55.38000000000011,
-      "changePct": 0.7182916642887915,
+      "price": 7745.9,
+      "change": 35.9399999999996,
+      "changePct": 0.46615027834125733,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26661.354,
-      "change": 313.0040000000008,
-      "changePct": 1.1879453552119994,
+      "price": 26561.568,
+      "change": 213.21800000000076,
+      "changePct": 0.8092271432556527,
       "currency": "USD"
     },
     {
@@ -44,147 +44,104 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.24,
-      "change": 0.33999999999999986,
-      "changePct": 2.2818791946308714,
+      "price": 15.72,
+      "change": 0.8200000000000003,
+      "changePct": 5.503355704697988,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "84684dfa-ee7f-3814-80b5-75805c5d4718",
-      "title": "Apple Stock Falls on Downgrade -- Jefferies Warns of Major iPhone Setback",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-falls-downgrade-jefferies-155212368.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786377132,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "d239e166-9bd5-3847-ab65-cb3f60b11da7",
-      "title": "Goldman Sachs Adjusts PT on Essex Property Trust to $311 From $323, Maintains Neutral Rating",
-      "link": "https://finance.yahoo.com/real-estate/articles/goldman-sachs-adjusts-pt-essex-155133871.html",
-      "publisher": "MT Newswires",
-      "time": 1786377093,
+      "id": "1328ed5d-9aa2-34ff-ad30-2ce9f72ceeb2",
+      "title": "Destiny USA CMBS Debt Faces More Than $350M in Losses",
+      "link": "https://finance.yahoo.com/m/1328ed5d-9aa2-34ff-ad30-2ce9f72ceeb2/destiny-usa-cmbs-debt-faces.html",
+      "publisher": "CRE Daily",
+      "time": 1786380151,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a57239f9-3558-3b99-bcca-1e512fe012de",
-      "title": "Archer Aviation Stock Jumps 20% On Major Boeing Deal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-stock-jumps-20-155130110.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786377090,
+      "id": "6ec33110-6333-3f20-bbdc-1cbb9dcbcd63",
+      "title": "Anthropic Leads NYC Office Leases With 466K-SF Deal",
+      "link": "https://finance.yahoo.com/m/6ec33110-6333-3f20-bbdc-1cbb9dcbcd63/anthropic-leads-nyc-office.html",
+      "publisher": "CRE Daily",
+      "time": 1786380143,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "65b296b1-9188-3bda-9e46-2e5e4a8f2b9b",
-      "title": "Goldman Sachs Adjusts Mid-America Apartment Communities PT to $142 From $135, Maintains Neutral Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-mid-america-155105667.html",
-      "publisher": "MT Newswires",
-      "time": 1786377065,
+      "id": "b4b122e1-affd-31be-8c60-27d148886b0a",
+      "title": "SpaceX Stock Has Plunged 34%. Elon Musk's \"Secret Master Plan\" Points to What Could Come Next.",
+      "link": "https://finance.yahoo.com/m/b4b122e1-affd-31be-8c60-27d148886b0a/spacex-stock-has-plunged-34%25..html",
+      "publisher": "Motley Fool",
+      "time": 1786380000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9a5d7180-5f19-3a95-a416-be10698991e3",
-      "title": "Super Micro Faces a $60 Billion Earnings Test",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-faces-60-billion-154945891.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786376985,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "70cc1f24-0af7-4b11-bec7-3e9af4aadbc2",
+      "title": "Here's how SpaceX hits this $100 billion number in under 5 months",
+      "link": "https://finance.yahoo.com/markets/article/heres-how-spacex-hits-this-100-billion-number-in-under-5-months-163945554.html",
+      "publisher": "Yahoo Finance",
+      "time": 1786379985,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "5c2c07cc-3220-388e-bc66-b09aea70d7f4",
-      "title": "1 Unpopular Stock That Deserves Some Love and 2 That Underwhelm",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-unpopular-stock-deserves-love-154922652.html",
+      "id": "61aa8884-f5ce-33d3-90b7-4206aa972d55",
+      "title": "Labcorp’s advanced melanoma CDx secures FDA approval",
+      "link": "https://finance.yahoo.com/m/61aa8884-f5ce-33d3-90b7-4206aa972d55/labcorp%E2%80%99s-advanced-melanoma.html",
+      "publisher": "Medical Device Network",
+      "time": 1786379856,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e4395aa7-201b-303c-b6a2-e38047565c3d",
+      "title": "3 Value Stocks Walking a Fine Line",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-value-stocks-walking-fine-163722973.html",
       "publisher": "StockStory",
-      "time": 1786376962,
+      "time": 1786379842,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "93703dee-6897-32d2-8ec0-2e2e0cca716c",
-      "title": "Intel Stock Drops 4.5% as $15 Billion Share Sale Hits",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-drops-4-5-154759004.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786376879,
+      "id": "d233ae2b-530a-4e04-908c-5eb3a6686a81",
+      "title": "Tech stocks still have plenty of believers on Wall Street, inflow data shows",
+      "link": "https://finance.yahoo.com/technology/article/tech-stocks-still-have-plenty-of-believers-on-wall-street-inflow-data-shows-163544665.html",
+      "publisher": "Yahoo Finance",
+      "time": 1786379744,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "07b21a6b-890e-3201-9d37-0840e443d8d7",
-      "title": "Pro-Dex Inc (PDEX) Positioned to Strengthen with Zimmer’s mBos Robot Commercialization",
-      "link": "https://finance.yahoo.com/healthcare/articles/pro-dex-inc-pdex-positioned-154653895.html",
-      "publisher": "Insider Monkey",
-      "time": 1786376813,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7b3f6739-67d9-3bdf-aece-c8dc6d531177",
-      "title": "Apple Stock Falls 2.2% as Jefferies Turns Bearish",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-falls-2-2-154630911.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786376790,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d77b1d8b-0e30-39ac-8815-81fbd9de3efe",
-      "title": "Teledyne Technologies to Buy Varex Imaging in $1.1 Billion Deal",
-      "link": "https://finance.yahoo.com/healthcare/articles/teledyne-technologies-buy-varex-imaging-154522134.html",
-      "publisher": "MT Newswires",
-      "time": 1786376722,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "81c32402-46b4-343c-b5ec-2db48055b312",
-      "title": "Epique Realty Announces Board Member Sam Rodriguez as a Winner of the 2026 HousingWire Insiders Award",
-      "link": "https://finance.yahoo.com/real-estate/articles/epique-realty-announces-board-member-154500506.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786376700,
-      "impact": "high",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "4ec89d59-425d-399d-802c-04d1c56af84b",
-      "title": "Intel to Raise $15 Billion for Capital Spending, Stock Falls",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-raise-15-billion-capital-154448563.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786376688,
+      "id": "27917113-a60e-386c-8142-90e93f90b572",
+      "title": "Man arrested after speedboat flips near Statue of Liberty killing 2",
+      "link": "https://finance.yahoo.com/m/27917113-a60e-386c-8142-90e93f90b572/man-arrested-after-speedboat.html",
+      "publisher": "AFP",
+      "time": 1786379717,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "414bb461-71b7-4a3e-b852-b287ba506f2f",
-      "title": "Powerball jackpot climbs to $905 million. What you’d pocket after taxes, and what to do with the rest.",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/powerball-jackpot-climbs-to-905-million-what-youd-pocket-after-taxes-and-what-to-do-with-the-rest-154401967.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1786376641,
+      "id": "c62ebcd4-a9f7-3e0f-963d-3232130df292",
+      "title": "Netflix Is Down 42% From Its High. Here's Why I'm Buying More.",
+      "link": "https://finance.yahoo.com/m/c62ebcd4-a9f7-3e0f-963d-3232130df292/netflix-is-down-42%25-from-its.html",
+      "publisher": "Motley Fool",
+      "time": 1786379700,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7bb6c75a-23b3-3062-9fac-fd13fc584f7d",
-      "title": "FRN Variable Rate Fix",
-      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-154400541.html",
-      "publisher": "Business Wire",
-      "time": 1786376640,
+      "id": "feea1a66-d710-396c-8736-3293ee7f9d8d",
+      "title": "Wall Street giants partner with Nvidia on $500 billion AI financing deal, FT reports",
+      "link": "https://finance.yahoo.com/technology/ai/articles/wall-street-giants-partner-nvidia-163441421.html",
+      "publisher": "Reuters",
+      "time": 1786379681,
       "impact": "low",
       "tags": []
     }
