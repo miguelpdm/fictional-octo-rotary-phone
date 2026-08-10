@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T16:47:18.753577+00:00",
+  "updatedAt": "2026-08-10T17:45:47.197279+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7745.9,
-      "change": 35.9399999999996,
-      "changePct": 0.46615027834125733,
+      "price": 7749.44,
+      "change": 39.47999999999956,
+      "changePct": 0.51206491343664,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26561.568,
-      "change": 213.21800000000076,
-      "changePct": 0.8092271432556527,
+      "price": 26581.406,
+      "change": 233.0560000000005,
+      "changePct": 0.8845183854017443,
       "currency": "USD"
     },
     {
@@ -44,106 +44,115 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.72,
-      "change": 0.8200000000000003,
-      "changePct": 5.503355704697988,
+      "price": 15.26,
+      "change": 0.35999999999999943,
+      "changePct": 2.4161073825503316,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "1328ed5d-9aa2-34ff-ad30-2ce9f72ceeb2",
-      "title": "Destiny USA CMBS Debt Faces More Than $350M in Losses",
-      "link": "https://finance.yahoo.com/m/1328ed5d-9aa2-34ff-ad30-2ce9f72ceeb2/destiny-usa-cmbs-debt-faces.html",
-      "publisher": "CRE Daily",
-      "time": 1786380151,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6ec33110-6333-3f20-bbdc-1cbb9dcbcd63",
-      "title": "Anthropic Leads NYC Office Leases With 466K-SF Deal",
-      "link": "https://finance.yahoo.com/m/6ec33110-6333-3f20-bbdc-1cbb9dcbcd63/anthropic-leads-nyc-office.html",
-      "publisher": "CRE Daily",
-      "time": 1786380143,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b4b122e1-affd-31be-8c60-27d148886b0a",
-      "title": "SpaceX Stock Has Plunged 34%. Elon Musk's \"Secret Master Plan\" Points to What Could Come Next.",
-      "link": "https://finance.yahoo.com/m/b4b122e1-affd-31be-8c60-27d148886b0a/spacex-stock-has-plunged-34%25..html",
-      "publisher": "Motley Fool",
-      "time": 1786380000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "70cc1f24-0af7-4b11-bec7-3e9af4aadbc2",
-      "title": "Here's how SpaceX hits this $100 billion number in under 5 months",
-      "link": "https://finance.yahoo.com/markets/article/heres-how-spacex-hits-this-100-billion-number-in-under-5-months-163945554.html",
+      "id": "1f18954d-0a18-436b-bd0f-8b244120f059",
+      "title": "Cleveland Fed's Hammack: It will take more than one interest rate hike to bring down inflation",
+      "link": "https://finance.yahoo.com/economy/policy/article/cleveland-feds-hammack-it-will-take-more-than-one-interest-rate-hike-to-bring-down-inflation-173530729.html",
       "publisher": "Yahoo Finance",
-      "time": 1786379985,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "61aa8884-f5ce-33d3-90b7-4206aa972d55",
-      "title": "Labcorp’s advanced melanoma CDx secures FDA approval",
-      "link": "https://finance.yahoo.com/m/61aa8884-f5ce-33d3-90b7-4206aa972d55/labcorp%E2%80%99s-advanced-melanoma.html",
-      "publisher": "Medical Device Network",
-      "time": 1786379856,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e4395aa7-201b-303c-b6a2-e38047565c3d",
-      "title": "3 Value Stocks Walking a Fine Line",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-value-stocks-walking-fine-163722973.html",
-      "publisher": "StockStory",
-      "time": 1786379842,
-      "impact": "low",
+      "time": 1786383330,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "d233ae2b-530a-4e04-908c-5eb3a6686a81",
-      "title": "Tech stocks still have plenty of believers on Wall Street, inflow data shows",
-      "link": "https://finance.yahoo.com/technology/article/tech-stocks-still-have-plenty-of-believers-on-wall-street-inflow-data-shows-163544665.html",
-      "publisher": "Yahoo Finance",
-      "time": 1786379744,
+      "id": "a18bc898-76db-3b82-a150-18b3621d178e",
+      "title": "Pacific storm nears Hawaii while Atlantic tropics awaken",
+      "link": "https://finance.yahoo.com/m/a18bc898-76db-3b82-a150-18b3621d178e/pacific-storm-nears-hawaii.html",
+      "publisher": "USA TODAY",
+      "time": 1786383309,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "911edc51-75f2-4c69-9227-5d08fc61a0a3",
+      "title": "Corporate earnings soared in Q2, with AI as the 'growth engine': Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/article/corporate-earnings-soared-in-q2-with-ai-as-the-growth-engine-chart-of-the-day-173507179.html",
+      "publisher": "Yahoo Finance",
+      "time": 1786383307,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "27917113-a60e-386c-8142-90e93f90b572",
-      "title": "Man arrested after speedboat flips near Statue of Liberty killing 2",
-      "link": "https://finance.yahoo.com/m/27917113-a60e-386c-8142-90e93f90b572/man-arrested-after-speedboat.html",
-      "publisher": "AFP",
-      "time": 1786379717,
+      "id": "7aa34164-0250-3429-8c6a-086bab23b66d",
+      "title": "Michelin: Disclosure of trading in own shares - 06 AUGU 2026",
+      "link": "https://finance.yahoo.com/news/michelin-disclosure-trading-own-shares-173500053.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786383300,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c62ebcd4-a9f7-3e0f-963d-3232130df292",
-      "title": "Netflix Is Down 42% From Its High. Here's Why I'm Buying More.",
-      "link": "https://finance.yahoo.com/m/c62ebcd4-a9f7-3e0f-963d-3232130df292/netflix-is-down-42%25-from-its.html",
-      "publisher": "Motley Fool",
-      "time": 1786379700,
+      "id": "dfc20215-0bc9-3a74-8422-4187e4779878",
+      "title": "End of Day Message",
+      "link": "https://finance.yahoo.com/media-advertising/articles/end-day-message-173500296.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786383300,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "feea1a66-d710-396c-8736-3293ee7f9d8d",
-      "title": "Wall Street giants partner with Nvidia on $500 billion AI financing deal, FT reports",
-      "link": "https://finance.yahoo.com/technology/ai/articles/wall-street-giants-partner-nvidia-163441421.html",
+      "id": "5e655aa9-b9a5-33d3-adc1-daf4605db16d",
+      "title": "Oil rises 4% as Iran, US both demand compensation and Hormuz hopes fade",
+      "link": "https://finance.yahoo.com/energy/articles/oil-rises-uncertainty-over-reopening-005834869.html",
       "publisher": "Reuters",
-      "time": 1786379681,
+      "time": 1786383273,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9b4a021a-d85e-3645-9909-57393f3e4ddf",
+      "title": "188-year-old Dividend King just unlocked unexpected growth engine",
+      "link": "https://finance.yahoo.com/m/9b4a021a-d85e-3645-9909-57393f3e4ddf/188-year-old-dividend-king.html",
+      "publisher": "TheStreet",
+      "time": 1786383253,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "bf705a9f-d711-3a57-abdd-d1cfecd46ca9",
+      "title": "False Amber Alert in Missouri leads to mom's arrest",
+      "link": "https://finance.yahoo.com/m/bf705a9f-d711-3a57-abdd-d1cfecd46ca9/false-amber-alert-in-missouri.html",
+      "publisher": "USA TODAY",
+      "time": 1786383240,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5c5c7319-5459-3b0e-8fa0-46103a045712",
+      "title": "1 Industrials Stock with Exciting Potential and 2 We Avoid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-exciting-potential-173322946.html",
+      "publisher": "StockStory",
+      "time": 1786383202,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "d59af275-13bc-38c1-a8c9-ca4b3c489e59",
+      "title": "1 Small-Cap Stock to Keep an Eye On and 2 Facing Headwinds",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-small-cap-stock-keep-173322817.html",
+      "publisher": "StockStory",
+      "time": 1786383202,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
