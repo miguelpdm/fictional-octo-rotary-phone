@@ -1,98 +1,128 @@
 {
-  "updatedAt": "2026-08-10T12:06:58.738509+00:00",
+  "updatedAt": "2026-08-10T13:52:27.130415+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20248.8,
-      "change": 72.79999999999927,
-      "changePct": 0.3608247422680376,
+      "price": 20183.5,
+      "change": 7.5,
+      "changePct": 0.03717287866772403,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7757.64,
-      "change": 34.090000000000146,
-      "changePct": 0.4413773459095901,
+      "price": 7749.98,
+      "change": 40.01999999999953,
+      "changePct": 0.5190688408240708,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26690.615,
-      "change": 327.1750000000029,
-      "changePct": 1.241017864133068,
+      "price": 26625.775,
+      "change": 277.4250000000029,
+      "changePct": 1.052912231695734,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26408.81,
-      "change": 268.6800000000003,
-      "changePct": 1.0278449265554543,
+      "price": 26335.76,
+      "change": 195.62999999999738,
+      "changePct": 0.7483895451170188,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6555.44,
-      "change": 31.579999999999927,
-      "changePct": 0.48406924734742823,
+      "price": 6536.71,
+      "change": 12.850000000000364,
+      "changePct": 0.1969692789238329,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.45,
-      "change": 0.5499999999999989,
-      "changePct": 3.6912751677852276,
+      "price": 15.3,
+      "change": 0.40000000000000036,
+      "changePct": 2.684563758389264,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "fd8e1e33-3bce-41d7-9211-cf3bcfc46a99",
-      "title": "Why JPMorgan sees more big gains ahead for the S&P 500",
-      "link": "https://finance.yahoo.com/markets/article/why-jpmorgan-sees-more-big-gains-ahead-for-the-sp-500-120624177.html",
+      "id": "ef90c519-6cab-36da-9500-626121f242b6",
+      "title": "IMAX Reports Record Sales for 'The Odyssey'",
+      "link": "https://finance.yahoo.com/media-advertising/articles/imax-reports-record-sales-apos-134941198.html",
+      "publisher": "MT Newswires",
+      "time": 1786369781,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e0b19b34-cc9e-31ec-974c-b14635e7433a",
+      "title": "Aether Subsidiary Acquires 60% Stake in Noviant for $3.6 Million",
+      "link": "https://finance.yahoo.com/technology/ai/articles/aether-subsidiary-acquires-60-stake-134923418.html",
+      "publisher": "MT Newswires",
+      "time": 1786369763,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5ca8c82d-7940-3f50-9bea-f76fb3a984a7",
+      "title": "DXPE Q2 Deep Dive: Acquisitions and Water Platform Propel Growth, Margins Hold Steady",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dxpe-q2-deep-dive-acquisitions-134922927.html",
+      "publisher": "StockStory",
+      "time": 1786369762,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "bc1217da-7716-3f52-badb-4c1c090dea89",
+      "title": "Ex-chief winemaker at Australia’s Chapel Hill takes Haselgrove CEO post",
+      "link": "https://finance.yahoo.com/m/bc1217da-7716-3f52-badb-4c1c090dea89/ex-chief-winemaker-at.html",
+      "publisher": "Just Drinks",
+      "time": 1786369709,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "14c082e9-ab0c-3f00-a4bc-02c0c35f61f7",
+      "title": "Replimune Prices $150 Million Offering",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/replimune-prices-150-million-offering-134808191.html",
+      "publisher": "MT Newswires",
+      "time": 1786369688,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "09ea7ddf-a2c8-3211-8235-00976952c4b7",
+      "title": "Navan Collaborates With DataVisor on Fraud Detection Technology",
+      "link": "https://finance.yahoo.com/technology/ai/articles/navan-collaborates-datavisor-fraud-detection-134726255.html",
+      "publisher": "MT Newswires",
+      "time": 1786369646,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c1bd583a-2044-4276-b6d9-5beeaf7185fc",
+      "title": "Airbnb CEO Brian Chesky on his AI lab, building a super app, and how travel will change forever",
+      "link": "https://finance.yahoo.com/markets/article/airbnb-ceo-brian-chesky-on-his-ai-lab-building-a-super-app-and-how-travel-will-change-forever-134708028.html",
       "publisher": "Yahoo Finance",
-      "time": 1786363584,
+      "time": 1786369628,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0c0b86b4-56d3-38d3-96dd-6c7884b04ed7",
-      "title": "Kaspi.kz's Q2 Revenue Rises; Net Income Is Little Changed",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kaspi-kz-apos-q2-revenue-120204231.html",
-      "publisher": "MT Newswires",
-      "time": 1786363324,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3ad9ea52-9928-3ef7-b3be-5c6fd1561a36",
-      "title": "Sionna Therapeutics Won't Advance SION-719 as Add-on Therapy in Cystic Fibrosis",
-      "link": "https://finance.yahoo.com/healthcare/articles/sionna-therapeutics-won-apos-t-120139830.html",
-      "publisher": "MT Newswires",
-      "time": 1786363299,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7d4fd07c-6392-3d04-8590-94988e600ef7",
-      "title": "Intel Offers $15 Billion of Common Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-offers-15-billion-common-120037487.html",
-      "publisher": "MT Newswires",
-      "time": 1786363237,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "31cb5e88-632f-3ba7-b11d-8a963af3dc6a",
-      "title": "Nayax Swings to Q2 Loss, Revenue Rises; Reaffirms 2026 Revenue Guidance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nayax-swings-q2-loss-revenue-120010050.html",
-      "publisher": "MT Newswires",
-      "time": 1786363210,
+      "id": "412dc62a-608b-3352-b091-faf0dec871a2",
+      "title": "Palantir (PLTR) Turning AI Demand into Profitable Growth",
+      "link": "https://finance.yahoo.com/technology/ai/articles/palantir-pltr-turning-ai-demand-134658026.html",
+      "publisher": "Insider Monkey",
+      "time": 1786369618,
       "impact": "medium",
       "tags": [
         "macro",
@@ -100,63 +130,20 @@
       ]
     },
     {
-      "id": "5cb44c06-56e7-4dc0-b384-101b593514c2",
-      "title": "Why this is the 'most pernicious' impact of AI on the labor market",
-      "link": "https://finance.yahoo.com/video/why-most-pernicious-impact-ai-120000330.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1786363200,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "a92d0587-548e-38cb-9295-5cd00fc4df16",
-      "title": "Fred. Olsen Renewables submits wind farm proposal",
-      "link": "https://finance.yahoo.com/m/a92d0587-548e-38cb-9295-5cd00fc4df16/fred.-olsen-renewables.html",
-      "publisher": "Energy Global",
-      "time": 1786363200,
+      "id": "959efa30-6b02-379f-8f06-fc8abff3f790",
+      "title": "RTX's Raytheon Wins $745 Million Missile Defense Contract",
+      "link": "https://finance.yahoo.com/technology/articles/rtx-apos-raytheon-wins-745-134644752.html",
+      "publisher": "MT Newswires",
+      "time": 1786369604,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "145c365f-f341-3aae-a154-60ab7cd1c3d9",
-      "title": "Market Chatter: GameStop CEO Said to Consider Withdrawing $56 Billion eBay Offer",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-gamestop-ceo-said-115929593.html",
-      "publisher": "MT Newswires",
-      "time": 1786363169,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "0f9a13b5-c650-3b03-8ecb-c06497ae9437",
-      "title": "Cloudflare Plans $2.18 Billion Convertible Senior Notes Offering",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-plans-2-18-billion-115835119.html",
-      "publisher": "MT Newswires",
-      "time": 1786363115,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c5051add-58d0-3dee-bfb7-273fd785f996",
-      "title": "MakeMyTrip (MMYT) Q1 2027 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/c5051add-58d0-3dee-bfb7-273fd785f996/makemytrip-%28mmyt%29-q1-2027.html",
-      "publisher": "Motley Fool",
-      "time": 1786363101,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c6718d36-4124-31ae-b903-1e977dda357d",
-      "title": "US Equity Futures Mostly Flat Pre-Bell Amid Lack of Progress in Middle East Peace Negotiations",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mostly-flat-115753205.html",
-      "publisher": "MT Newswires",
-      "time": 1786363073,
+      "id": "feb1e0d6-126b-36c4-b97b-def31d5cf849",
+      "title": "ADNOC Gas reports net income of $665m in Q2 2026",
+      "link": "https://finance.yahoo.com/m/feb1e0d6-126b-36c4-b97b-def31d5cf849/adnoc-gas-reports-net-income.html",
+      "publisher": "Offshore Technology",
+      "time": 1786369585,
       "impact": "low",
       "tags": []
     }
