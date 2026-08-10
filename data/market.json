@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-10T11:03:24.233623+00:00",
+  "updatedAt": "2026-08-10T12:06:58.738509+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20210.8,
-      "change": 34.79999999999927,
-      "changePct": 0.17248215701823588,
+      "price": 20248.8,
+      "change": 72.79999999999927,
+      "changePct": 0.3608247422680376,
       "currency": "EUR"
     },
     {
@@ -28,17 +28,17 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26420.83,
-      "change": 280.7000000000007,
-      "changePct": 1.0738278654314295,
+      "price": 26408.81,
+      "change": 268.6800000000003,
+      "changePct": 1.0278449265554543,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6551.42,
-      "change": 27.5600000000004,
-      "changePct": 0.422449286158814,
+      "price": 6555.44,
+      "change": 31.579999999999927,
+      "changePct": 0.48406924734742823,
       "currency": "EUR"
     },
     {
@@ -52,29 +52,47 @@
   ],
   "news": [
     {
-      "id": "a1f1ad45-d94a-37c4-aae3-e95f75226aca",
-      "title": "Standard Chartered PLC's Dividend Analysis",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/standard-chartered-plcs-dividend-analysis-110214810.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786359734,
+      "id": "fd8e1e33-3bce-41d7-9211-cf3bcfc46a99",
+      "title": "Why JPMorgan sees more big gains ahead for the S&P 500",
+      "link": "https://finance.yahoo.com/markets/article/why-jpmorgan-sees-more-big-gains-ahead-for-the-sp-500-120624177.html",
+      "publisher": "Yahoo Finance",
+      "time": 1786363584,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a16f604a-e682-3de4-9204-82836772b4c3",
-      "title": "American Electric Power Co Inc's Dividend Analysis",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/american-electric-power-co-incs-110145019.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786359705,
+      "id": "0c0b86b4-56d3-38d3-96dd-6c7884b04ed7",
+      "title": "Kaspi.kz's Q2 Revenue Rises; Net Income Is Little Changed",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kaspi-kz-apos-q2-revenue-120204231.html",
+      "publisher": "MT Newswires",
+      "time": 1786363324,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6adf7b5a-271e-3ca5-a3a6-f8f8a2e38d07",
-      "title": "Lloyds Banking Group PLC's Dividend Analysis",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lloyds-banking-group-plcs-dividend-110120623.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786359680,
+      "id": "3ad9ea52-9928-3ef7-b3be-5c6fd1561a36",
+      "title": "Sionna Therapeutics Won't Advance SION-719 as Add-on Therapy in Cystic Fibrosis",
+      "link": "https://finance.yahoo.com/healthcare/articles/sionna-therapeutics-won-apos-t-120139830.html",
+      "publisher": "MT Newswires",
+      "time": 1786363299,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7d4fd07c-6392-3d04-8590-94988e600ef7",
+      "title": "Intel Offers $15 Billion of Common Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-offers-15-billion-common-120037487.html",
+      "publisher": "MT Newswires",
+      "time": 1786363237,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "31cb5e88-632f-3ba7-b11d-8a963af3dc6a",
+      "title": "Nayax Swings to Q2 Loss, Revenue Rises; Reaffirms 2026 Revenue Guidance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nayax-swings-q2-loss-revenue-120010050.html",
+      "publisher": "MT Newswires",
+      "time": 1786363210,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,73 +100,65 @@
       ]
     },
     {
-      "id": "98040a87-24e5-35d8-a8fd-180e2f7ce24c",
-      "title": "ING Groep NV's Dividend Analysis",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ing-groep-nvs-dividend-analysis-110056252.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786359656,
+      "id": "5cb44c06-56e7-4dc0-b384-101b593514c2",
+      "title": "Why this is the 'most pernicious' impact of AI on the labor market",
+      "link": "https://finance.yahoo.com/video/why-most-pernicious-impact-ai-120000330.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1786363200,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ea4910c8-08e0-3896-9ccb-fa2847bbd970",
-      "title": "US import cargo to slow past August as peak season winds down",
-      "link": "https://finance.yahoo.com/m/ea4910c8-08e0-3896-9ccb-fa2847bbd970/us-import-cargo-to-slow-past.html",
-      "publisher": "Just Style",
-      "time": 1786359648,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "47bef64b-8f3f-3cf4-81a2-5e0e79fc8607",
-      "title": "International Business Machines Corp's Dividend Analysis",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/international-business-machines-corps-dividend-110030055.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786359630,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7a8d8e6d-7292-3311-9451-9dbc3a3e3503",
-      "title": "Medi Assist Healthcare Services Ltd (NSE:MEDIASSIST) (Q1 2027) Earnings Call Highlights: ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/medi-assist-healthcare-services-ltd-110028227.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786359628,
-      "impact": "medium",
       "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "1526cb19-7ebb-30b7-af76-a2f6880c1e47",
-      "title": "Palladyne AI Appoints Former MARSOC Commander and U.S. Special Operations Command Chief of Staff Maj. Gen. Mark A. \"Droopy\" Clark (Ret.) to Defense Advisory Board",
-      "link": "https://finance.yahoo.com/technology/ai/articles/palladyne-ai-appoints-former-marsoc-110000791.html",
-      "publisher": "Business Wire",
-      "time": 1786359600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2468253b-52a5-3393-82cc-bc39481555b6",
-      "title": "BrightView Returns to Field of Dreams as Iconic Ballpark Enters a New Era",
-      "link": "https://finance.yahoo.com/media-advertising/articles/brightview-returns-field-dreams-iconic-110000830.html",
-      "publisher": "Business Wire",
-      "time": 1786359600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "34f6eb70-a46f-371f-84ff-5cf0913e5776",
-      "title": "ICG Silver & Gold Announces U.S. Trading Milestones, Including FINRA Clearance of Form 211 and DTC Eligibility",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/icg-silver-gold-announces-u-110000262.html",
-      "publisher": "TMX Newsfile",
-      "time": 1786359600,
-      "impact": "high",
-      "tags": [
-        "geo",
         "macro"
       ]
+    },
+    {
+      "id": "a92d0587-548e-38cb-9295-5cd00fc4df16",
+      "title": "Fred. Olsen Renewables submits wind farm proposal",
+      "link": "https://finance.yahoo.com/m/a92d0587-548e-38cb-9295-5cd00fc4df16/fred.-olsen-renewables.html",
+      "publisher": "Energy Global",
+      "time": 1786363200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "145c365f-f341-3aae-a154-60ab7cd1c3d9",
+      "title": "Market Chatter: GameStop CEO Said to Consider Withdrawing $56 Billion eBay Offer",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-gamestop-ceo-said-115929593.html",
+      "publisher": "MT Newswires",
+      "time": 1786363169,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "0f9a13b5-c650-3b03-8ecb-c06497ae9437",
+      "title": "Cloudflare Plans $2.18 Billion Convertible Senior Notes Offering",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-plans-2-18-billion-115835119.html",
+      "publisher": "MT Newswires",
+      "time": 1786363115,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c5051add-58d0-3dee-bfb7-273fd785f996",
+      "title": "MakeMyTrip (MMYT) Q1 2027 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/c5051add-58d0-3dee-bfb7-273fd785f996/makemytrip-%28mmyt%29-q1-2027.html",
+      "publisher": "Motley Fool",
+      "time": 1786363101,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "c6718d36-4124-31ae-b903-1e977dda357d",
+      "title": "US Equity Futures Mostly Flat Pre-Bell Amid Lack of Progress in Middle East Peace Negotiations",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mostly-flat-115753205.html",
+      "publisher": "MT Newswires",
+      "time": 1786363073,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
