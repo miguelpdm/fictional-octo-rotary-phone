@@ -1,71 +1,101 @@
 {
-  "updatedAt": "2026-08-10T14:52:30.703775+00:00",
+  "updatedAt": "2026-08-10T15:54:23.721404+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20172.0,
-      "change": -4.0,
-      "changePct": -0.019825535289452814,
+      "price": 20173.0,
+      "change": -3.0,
+      "changePct": -0.01486915146708961,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7767.63,
-      "change": 57.67000000000007,
-      "changePct": 0.7479935045058609,
+      "price": 7765.34,
+      "change": 55.38000000000011,
+      "changePct": 0.7182916642887915,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26679.041,
-      "change": 330.69100000000253,
-      "changePct": 1.2550728983029396,
+      "price": 26661.354,
+      "change": 313.0040000000008,
+      "changePct": 1.1879453552119994,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26347.66,
-      "change": 207.52999999999884,
-      "changePct": 0.7939134197113741,
+      "price": 26323.88,
+      "change": 183.75,
+      "changePct": 0.702942181236283,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6537.29,
-      "change": 13.430000000000291,
-      "changePct": 0.20585972108537418,
+      "price": 6535.62,
+      "change": 11.760000000000218,
+      "changePct": 0.18026137899955272,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.23,
-      "change": 0.33000000000000007,
-      "changePct": 2.2147651006711415,
+      "price": 15.24,
+      "change": 0.33999999999999986,
+      "changePct": 2.2818791946308714,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "0819ff3a-3bf8-3f17-a5df-855e75803d6b",
-      "title": "Broadcom’s Brilliant Positioning is Why I Am Loading Up Over and Over",
-      "link": "https://finance.yahoo.com/m/0819ff3a-3bf8-3f17-a5df-855e75803d6b/broadcom%E2%80%99s-brilliant.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786373364,
+      "id": "84684dfa-ee7f-3814-80b5-75805c5d4718",
+      "title": "Apple Stock Falls on Downgrade -- Jefferies Warns of Major iPhone Setback",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-falls-downgrade-jefferies-155212368.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786377132,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "d239e166-9bd5-3847-ab65-cb3f60b11da7",
+      "title": "Goldman Sachs Adjusts PT on Essex Property Trust to $311 From $323, Maintains Neutral Rating",
+      "link": "https://finance.yahoo.com/real-estate/articles/goldman-sachs-adjusts-pt-essex-155133871.html",
+      "publisher": "MT Newswires",
+      "time": 1786377093,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7f080ae2-46a9-4b2e-9299-053175eb5e8e",
-      "title": "Retail investors end SpaceX buying spree as stock reclaims IPO price: AlphaCheck",
-      "link": "https://finance.yahoo.com/markets/article/retail-investors-end-spacex-buying-spree-as-stock-reclaims-ipo-price-alphacheck-144858062.html",
-      "publisher": "Yahoo Finance",
-      "time": 1786373338,
+      "id": "a57239f9-3558-3b99-bcca-1e512fe012de",
+      "title": "Archer Aviation Stock Jumps 20% On Major Boeing Deal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-stock-jumps-20-155130110.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786377090,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "65b296b1-9188-3bda-9e46-2e5e4a8f2b9b",
+      "title": "Goldman Sachs Adjusts Mid-America Apartment Communities PT to $142 From $135, Maintains Neutral Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-mid-america-155105667.html",
+      "publisher": "MT Newswires",
+      "time": 1786377065,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9a5d7180-5f19-3a95-a416-be10698991e3",
+      "title": "Super Micro Faces a $60 Billion Earnings Test",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-faces-60-billion-154945891.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786376985,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,76 +103,88 @@
       ]
     },
     {
-      "id": "a2dd4d0c-1917-3fea-b153-185193d42bb1",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-144500521.html",
-      "publisher": "Business Wire",
-      "time": 1786373100,
+      "id": "5c2c07cc-3220-388e-bc66-b09aea70d7f4",
+      "title": "1 Unpopular Stock That Deserves Some Love and 2 That Underwhelm",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-unpopular-stock-deserves-love-154922652.html",
+      "publisher": "StockStory",
+      "time": 1786376962,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b977bedd-a312-34fa-9983-13d779db2f5a",
-      "title": "You might not need a Roth IRA for a secure retirement — despite what online ‘experts’ say. Here’s why",
-      "link": "https://finance.yahoo.com/markets/articles/might-not-roth-ira-secure-144500938.html",
-      "publisher": "Moneywise",
-      "time": 1786373100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9c1281f0-44f8-3019-b5db-368b3886533e",
-      "title": "ETL Global strengthens presence in Germany",
-      "link": "https://finance.yahoo.com/m/9c1281f0-44f8-3019-b5db-368b3886533e/etl-global-strengthens.html",
-      "publisher": "International Accounting Bulletin",
-      "time": 1786373059,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e0df8ea6-fa68-36ff-aa4b-fbe7683f3c50",
-      "title": "Asian Equities Traded in the US as American Depositary Receipts Decline in Monday Trading",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144228592.html",
-      "publisher": "MT Newswires",
-      "time": 1786372948,
-      "impact": "medium",
       "tags": [
-        "geo"
+        "macro"
       ]
     },
     {
-      "id": "90f3a32e-bda6-315a-b1d8-3779bc9f53b6",
-      "title": "US left-wing star reveals decision to freeze her eggs",
-      "link": "https://finance.yahoo.com/m/90f3a32e-bda6-315a-b1d8-3779bc9f53b6/us-left-wing-star-reveals.html",
-      "publisher": "AFP",
-      "time": 1786372921,
+      "id": "93703dee-6897-32d2-8ec0-2e2e0cca716c",
+      "title": "Intel Stock Drops 4.5% as $15 Billion Share Sale Hits",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-drops-4-5-154759004.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786376879,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d9b73957-9143-3f33-af55-5e9c57be4c76",
-      "title": "Sauce Gardner joins 'Inside Training Camp Live' breaking down QB Daniel Jones",
-      "link": "https://finance.yahoo.com/m/d9b73957-9143-3f33-af55-5e9c57be4c76/sauce-gardner-joins-%27inside.html",
-      "publisher": "NFL Highlights",
-      "time": 1786372920,
+      "id": "07b21a6b-890e-3201-9d37-0840e443d8d7",
+      "title": "Pro-Dex Inc (PDEX) Positioned to Strengthen with Zimmer’s mBos Robot Commercialization",
+      "link": "https://finance.yahoo.com/healthcare/articles/pro-dex-inc-pdex-positioned-154653895.html",
+      "publisher": "Insider Monkey",
+      "time": 1786376813,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "54dca38f-1ffa-302d-afd6-30131ad42fc2",
-      "title": "MASB issues new accounting standard on regulatory assets and liabilities",
-      "link": "https://finance.yahoo.com/m/54dca38f-1ffa-302d-afd6-30131ad42fc2/masb-issues-new-accounting.html",
-      "publisher": "The Accountant",
-      "time": 1786372856,
+      "id": "7b3f6739-67d9-3bdf-aece-c8dc6d531177",
+      "title": "Apple Stock Falls 2.2% as Jefferies Turns Bearish",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-falls-2-2-154630911.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786376790,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "dc5c031b-bf2b-3862-b395-dc09ee10f0b8",
-      "title": "Do we have enough water to build homes and data centers?",
-      "link": "https://finance.yahoo.com/video/enough-water-build-homes-data-144037560.html",
-      "publisher": "Reuters Videos",
-      "time": 1786372837,
+      "id": "d77b1d8b-0e30-39ac-8815-81fbd9de3efe",
+      "title": "Teledyne Technologies to Buy Varex Imaging in $1.1 Billion Deal",
+      "link": "https://finance.yahoo.com/healthcare/articles/teledyne-technologies-buy-varex-imaging-154522134.html",
+      "publisher": "MT Newswires",
+      "time": 1786376722,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "81c32402-46b4-343c-b5ec-2db48055b312",
+      "title": "Epique Realty Announces Board Member Sam Rodriguez as a Winner of the 2026 HousingWire Insiders Award",
+      "link": "https://finance.yahoo.com/real-estate/articles/epique-realty-announces-board-member-154500506.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786376700,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "4ec89d59-425d-399d-802c-04d1c56af84b",
+      "title": "Intel to Raise $15 Billion for Capital Spending, Stock Falls",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-raise-15-billion-capital-154448563.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786376688,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "414bb461-71b7-4a3e-b852-b287ba506f2f",
+      "title": "Powerball jackpot climbs to $905 million. What you’d pocket after taxes, and what to do with the rest.",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/powerball-jackpot-climbs-to-905-million-what-youd-pocket-after-taxes-and-what-to-do-with-the-rest-154401967.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1786376641,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7bb6c75a-23b3-3062-9fac-fd13fc584f7d",
+      "title": "FRN Variable Rate Fix",
+      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-154400541.html",
+      "publisher": "Business Wire",
+      "time": 1786376640,
       "impact": "low",
       "tags": []
     }
