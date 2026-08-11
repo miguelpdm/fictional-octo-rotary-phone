@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-11T06:55:20.320192+00:00",
+  "updatedAt": "2026-08-11T08:06:58.601451+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20173.0,
-      "change": -3.0,
-      "changePct": -0.01486915146708961,
+      "price": 20224.6,
+      "change": 51.599999999998545,
+      "changePct": 0.2557874386556216,
       "currency": "EUR"
     },
     {
@@ -28,129 +28,116 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26323.88,
-      "change": 183.75,
-      "changePct": 0.702942181236283,
+      "price": 26278.53,
+      "change": -40.92000000000189,
+      "changePct": -0.1554743735146513,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6535.62,
-      "change": 11.760000000000218,
-      "changePct": 0.18026137899955272,
+      "price": 6538.18,
+      "change": 2.5600000000004,
+      "changePct": 0.03916996398200018,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.46,
-      "change": 0.5600000000000005,
-      "changePct": 3.7583892617449695,
+      "price": 15.41,
+      "change": -0.05000000000000071,
+      "changePct": -0.32341526520052205,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "29dfab89-2234-3d25-811e-7d1dbbec789a",
-      "title": "Forget Oil Majors: This Midstream Stock Pays a Better Dividend",
-      "link": "https://finance.yahoo.com/m/29dfab89-2234-3d25-811e-7d1dbbec789a/forget-oil-majors%3A-this.html",
-      "publisher": "Motley Fool",
-      "time": 1786431000,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "2580185b-052d-3610-bbc2-0f73faebb907",
-      "title": "onSpark Named No. 14 Fastest-Growing AI & Data Company in the United States, No. 180 on the 2026 Inc. 5000 List",
-      "link": "https://finance.yahoo.com/technology/ai/articles/onspark-named-no-14-fastest-064600503.html",
-      "publisher": "TMX Newsfile",
-      "time": 1786430760,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "94ad3e9b-ede4-3f34-952f-5f1d2658b0f0",
-      "title": "NATR Q2 Deep Dive: Lower Guidance, Digital Gains, and Strategic Leadership Hires",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/natr-q2-deep-dive-lower-064522480.html",
-      "publisher": "StockStory",
-      "time": 1786430722,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "b2bb2ab2-fa15-342e-b904-9d364b7d3f95",
-      "title": "CLAR Q2 Deep Dive: Margin Recovery, Operational Simplification, and Strategic Review Shape Outlook",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/clar-q2-deep-dive-margin-063722261.html",
-      "publisher": "StockStory",
-      "time": 1786430242,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "15ac356b-17f6-3a6c-9d4f-aec54b8a807a",
-      "title": "Intel Announces Upsize and Pricing of $20 Billion Common Stock Offering",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-announces-upsize-pricing-20-063600058.html",
+      "id": "318ad572-8e02-3f6b-9f4c-7c6fcf075eaa",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-080400706.html",
       "publisher": "Business Wire",
-      "time": 1786430160,
+      "time": 1786435440,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3d49e628-3be2-310a-87dc-14db94d84ef2",
-      "title": "QUADIENT SA: Monthly information on number of shares and voting rights",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/quadient-sa-monthly-information-number-063000586.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786429800,
+      "id": "140a3fdb-4f8d-34cd-871a-da0f55683bf2",
+      "title": "Alignment Healthcare Insider Sold Shares Worth $4,136,776, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alignment-healthcare-insider-sold-shares-080319258.html",
+      "publisher": "MT Newswires",
+      "time": 1786435399,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a71963ac-bf30-3cbe-8b94-56b637876cbe",
-      "title": "XPOF Q2 Deep Dive: Revenue Tops Expectations, Execution and Guidance Under Pressure",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/xpof-q2-deep-dive-revenue-062922790.html",
-      "publisher": "StockStory",
-      "time": 1786429762,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "c7124e85-4596-3227-b3f0-d3084cdb1a6d",
+      "title": "BlossomHill Therapeutics Insider Bought Shares Worth $5,000,000, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/blossomhill-therapeutics-insider-bought-shares-080228029.html",
+      "publisher": "MT Newswires",
+      "time": 1786435348,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "733d3c06-a206-34b2-a048-c4caeb2e81c8",
-      "title": "Mercedes Loses Ground in China's Premium Auto Market",
-      "link": "https://finance.yahoo.com/video/mercedes-loses-ground-chinas-premium-062908560.html",
-      "publisher": "Bloomberg",
-      "time": 1786429748,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
+      "id": "6c8e15a7-1817-3dac-8ffa-a98d91b503ec",
+      "title": "Arista Networks Insider Sold Shares Worth $79,383,281, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-insider-sold-shares-080119156.html",
+      "publisher": "MT Newswires",
+      "time": 1786435279,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "bd772876-6893-39b9-9b56-5b09e1ab7dc9",
-      "title": "Form 8.3",
-      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-062600137.html",
+      "id": "6bb223c3-02f5-3a7e-b70c-dc72e4c7e36c",
+      "title": "UFP Technologies Insider Sold Shares Worth $4,997,051, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ufp-technologies-insider-sold-shares-080005772.html",
+      "publisher": "MT Newswires",
+      "time": 1786435205,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3cfaa2ca-6c76-3f9c-b9df-307656cebea1",
+      "title": "Swiss Firms Advance AI Governance in Work Strategies",
+      "link": "https://finance.yahoo.com/technology/ai/articles/swiss-firms-advance-ai-governance-080000201.html",
       "publisher": "Business Wire",
-      "time": 1786429560,
+      "time": 1786435200,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8736d6bc-b68b-3ee5-a980-e17e40e69c12",
-      "title": "Trump Media Books $190 Million Paper Loss Across Crypto and Equities",
-      "link": "https://finance.yahoo.com/m/8736d6bc-b68b-3ee5-a980-e17e40e69c12/trump-media-books-%24190.html",
-      "publisher": "BeInCrypto",
-      "time": 1786429531,
+      "id": "91ec4cdd-6a11-32c4-ac0d-d0a8d073b18e",
+      "title": "Omdia: iPhone Users Spend 40% More on Microdramas Than Android Users",
+      "link": "https://finance.yahoo.com/media-advertising/articles/omdia-iphone-users-spend-40-080000790.html",
+      "publisher": "Business Wire",
+      "time": 1786435200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a274b51b-a86a-30c8-87d4-4caf80b199c6",
+      "title": "Amazon's bestselling MP3 player is on sale for $34, and it's giving us major nostalgia",
+      "link": "https://finance.yahoo.com/m/a274b51b-a86a-30c8-87d4-4caf80b199c6/amazon%27s-bestselling-mp3.html",
+      "publisher": "TheStreet",
+      "time": 1786435200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c2f5d1ec-3694-3069-85de-7eef22bf1cc3",
+      "title": "PsiQuantum Appoints Niklas Zennström to Board of Directors",
+      "link": "https://finance.yahoo.com/technology/articles/psiquantum-appoints-niklas-zennstr-m-080000787.html",
+      "publisher": "Business Wire",
+      "time": 1786435200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d0557f8a-309d-3351-b95c-b08a36c33775",
+      "title": "Cloudflare, Inc. Announces Pricing of Offering of $2.175 Billion of 0% Convertible Senior Notes Due 2031",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-inc-announces-pricing-offering-080000397.html",
+      "publisher": "Business Wire",
+      "time": 1786435200,
       "impact": "low",
       "tags": []
     }
