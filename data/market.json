@@ -1,146 +1,145 @@
 {
-  "updatedAt": "2026-08-11T13:51:00.529450+00:00",
+  "updatedAt": "2026-08-11T14:52:11.046882+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20276.0,
-      "change": 103.0,
-      "changePct": 0.5105834531304219,
+      "price": 20227.3,
+      "change": 54.29999999999927,
+      "changePct": 0.2691716650969081,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7749.17,
-      "change": -8.470000000000255,
-      "changePct": -0.10918268958085518,
+      "price": 7761.65,
+      "change": 4.009999999999309,
+      "changePct": 0.051690978184078,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26505.967,
-      "change": -184.65299999999843,
-      "changePct": -0.6918273161132953,
+      "price": 26615.541,
+      "change": -75.0789999999979,
+      "changePct": -0.28129357804351457,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26409.39,
-      "change": 89.93999999999869,
-      "changePct": 0.3417244661267568,
+      "price": 26475.23,
+      "change": 155.77999999999884,
+      "changePct": 0.5918816692598015,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6562.1,
-      "change": 26.480000000000473,
-      "changePct": 0.40516431493875826,
+      "price": 6572.58,
+      "change": 36.960000000000036,
+      "changePct": 0.5655163549900397,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.52,
-      "change": 0.05999999999999872,
-      "changePct": 0.3880983182406127,
+      "price": 15.38,
+      "change": -0.08000000000000007,
+      "changePct": -0.5174644243208283,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "269859dc-8520-3238-b6f5-557d15fb2a2c",
-      "title": "Booking vs. Celsius: Which Consumer Stock Is a Better Buy in 2026?",
-      "link": "https://finance.yahoo.com/m/269859dc-8520-3238-b6f5-557d15fb2a2c/booking-vs.-celsius%3A-which.html",
-      "publisher": "Motley Fool",
-      "time": 1786455901,
+      "id": "a572990b-84ac-30af-84d9-464fee7549cb",
+      "title": "Consistent Results Restored Confidence in Forgent Power Solutions (FPS)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/consistent-results-restored-confidence-forgent-144635619.html",
+      "publisher": "Insider Monkey",
+      "time": 1786459595,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "89d3862f-0eff-3b18-a47b-12f788bf6d0e",
-      "title": "IBM and Together AI sign $240 million AI inference deal",
-      "link": "https://finance.yahoo.com/m/89d3862f-0eff-3b18-a47b-12f788bf6d0e/ibm-and-together-ai-sign-%24240.html",
-      "publisher": "Quartz",
-      "time": 1786455804,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "26f4e9a6-66ae-3b6f-974e-4515964f0482",
-      "title": "ROAD Q2 Deep Dive: Acquisition and Data Center Momentum Drives Guidance Upgrade",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/road-q2-deep-dive-acquisition-134122754.html",
+      "id": "85597769-4d21-3f3f-ad4c-03c9f96ef79a",
+      "title": "GRNT Q2 Deep Dive: Operated Partnerships and Inventory Growth Set Stage for 2027 Cash Flow",
+      "link": "https://finance.yahoo.com/energy/articles/grnt-q2-deep-dive-operated-144522850.html",
       "publisher": "StockStory",
-      "time": 1786455682,
-      "impact": "medium",
+      "time": 1786459522,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "5549f5fc-0d94-3814-9671-ab5e317944c3",
-      "title": "Form 8.3 -DCC plc",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-dcc-plc-134100723.html",
+      "id": "28829279-7865-33f7-be16-b16f14385e66",
+      "title": "Socure Q2 2026 Results: $364M Total ARR and 63% YoY Growth",
+      "link": "https://finance.yahoo.com/technology/ai/articles/socure-q2-2026-results-364m-144500638.html",
+      "publisher": "Business Wire",
+      "time": 1786459500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8aebda7e-b27f-332a-8bc6-d2a17f47f477",
+      "title": "Lemon Tree Hotels signs two new properties in India",
+      "link": "https://finance.yahoo.com/m/8aebda7e-b27f-332a-8bc6-d2a17f47f477/lemon-tree-hotels-signs-two.html",
+      "publisher": "Hotel Management Network",
+      "time": 1786459490,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "442057e6-5a3c-36c0-b9ed-3fefef16dca3",
+      "title": "Angry Orchard® Surprises One of New York's Worst Rec Softball Teams With Baseball Legend Nick Swisher",
+      "link": "https://finance.yahoo.com/media-advertising/articles/angry-orchard-surprises-one-yorks-144400531.html",
       "publisher": "GlobeNewswire",
-      "time": 1786455660,
+      "time": 1786459440,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "365be4fb-3177-390b-9152-18f238f8fa6e",
-      "title": "Intel’s stock rally paid off big. 🤑\n\nThe chipmaker raised $20 billion by selling 211 million shares at $95, requiring a fraction of the stock it would have taken at last year's prices.",
-      "link": "https://finance.yahoo.com/photos/intel-stock-rally-paid-off-134043862/",
-      "publisher": "Yahoo Finance",
-      "time": 1786455643,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "688592b8-fd3b-30cc-b077-b97f745aaf20",
-      "title": "Strategy Cratered 75% Over 12 Months: One Analyst Lodged a 350% Return Target Price",
-      "link": "https://finance.yahoo.com/m/688592b8-fd3b-30cc-b077-b97f745aaf20/strategy-cratered-75%25-over-12.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786455607,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0445e664-f205-3ffa-b73f-3c87aec9e9c8",
-      "title": "Dragos Teodor Discusses Why Leadership Begins With Developing People",
-      "link": "https://finance.yahoo.com/small-business/articles/dragos-teodor-discusses-why-leadership-134000792.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786455600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "65c70b14-2f28-312a-a235-419369efe5fd",
-      "title": "Timothy J. Davies Joins SEDA as a Global Equities and Investment Management Expert",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/timothy-j-davies-joins-seda-134000837.html",
+      "id": "a8651cab-e8d2-3bd9-85a3-83d0457666b8",
+      "title": "NAFA Opens Call for Presentations for 2027 Institute & Expo",
+      "link": "https://finance.yahoo.com/small-business/articles/nafa-opens-call-presentations-2027-144400144.html",
       "publisher": "GlobeNewswire",
-      "time": 1786455600,
+      "time": 1786459440,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "eb4edb02-25d5-3c77-99ff-c5c19b846554",
-      "title": "Solstice Health Revenue Grows 381% in Three Years, Propelling Company to No. 909 on Inc. 5000",
-      "link": "https://finance.yahoo.com/healthcare/articles/solstice-health-revenue-grows-381-134000308.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786455600,
+      "id": "ed5ebf62-b5cd-3673-b328-69ead18a361e",
+      "title": "New York Yankees, Apollo Agree on $2.6B Capital Injection, Investment",
+      "link": "https://finance.yahoo.com/m/ed5ebf62-b5cd-3673-b328-69ead18a361e/new-york-yankees%2C-apollo.html",
+      "publisher": "Sportico",
+      "time": 1786459431,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "306304c3-863f-3abf-8be8-c7d3917dd194",
-      "title": "Firstsource and Cresta Partner to Accelerate AI-Powered Customer Experience Transformation",
-      "link": "https://finance.yahoo.com/technology/ai/articles/firstsource-cresta-partner-accelerate-ai-133900500.html",
-      "publisher": "PR Newswire",
-      "time": 1786455540,
+      "id": "68d8f46f-3a39-3e71-ba44-f8191f6bfe19",
+      "title": "Ornate Home Named to the 2026 Inc.5000 List of Fastest-Growing Private Companies",
+      "link": "https://finance.yahoo.com/small-business/articles/ornate-home-named-2026-inc-144300529.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786459380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "940b5b92-510a-33c6-80c7-a6c629483bbb",
+      "title": "On Shares Fall Sharply After Wholesale Slowdown in Q2",
+      "link": "https://finance.yahoo.com/m/940b5b92-510a-33c6-80c7-a6c629483bbb/on-shares-fall-sharply-after.html",
+      "publisher": "Footwear News",
+      "time": 1786459378,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "07231a19-d990-3bdf-97ac-46be445719e1",
+      "title": "Nvidia Rises Amid Massive Wall Street Partnership; Is Nvidia A Buy Now?",
+      "link": "https://finance.yahoo.com/m/07231a19-d990-3bdf-97ac-46be445719e1/nvidia-rises-amid-massive.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786459370,
       "impact": "low",
       "tags": []
     }
