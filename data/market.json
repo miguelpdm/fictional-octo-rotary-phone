@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-11T11:12:53.586429+00:00",
+  "updatedAt": "2026-08-11T12:06:48.157704+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20250.0,
-      "change": 77.0,
-      "changePct": 0.3816983096217717,
+      "price": 20270.5,
+      "change": 97.5,
+      "changePct": 0.48331928815743813,
       "currency": "EUR"
     },
     {
@@ -28,80 +28,62 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26307.42,
-      "change": -12.030000000002474,
-      "changePct": -0.04570764206699788,
+      "price": 26352.66,
+      "change": 33.20999999999913,
+      "changePct": 0.1261804482996382,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6542.01,
-      "change": 6.390000000000327,
-      "changePct": 0.09777190228318548,
+      "price": 6553.46,
+      "change": 17.840000000000146,
+      "changePct": 0.2729656864995233,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.51,
-      "change": 0.049999999999998934,
-      "changePct": 0.32341526520051056,
+      "price": 15.45,
+      "change": -0.010000000000001563,
+      "changePct": -0.0646830530401136,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "ce04eddf-3a0d-3cab-85b1-993fd7556f1b",
-      "title": "Bernstein Initiates PDF Solutions at Outperform, With $65 Price Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bernstein-initiates-pdf-solutions-outperform-111021811.html",
+      "id": "7348f0b8-da78-3e70-97f0-ccb15cff642a",
+      "title": "Argus Research Upgrades Centene to Buy From Hold, $80 Price Target",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/argus-research-upgrades-centene-buy-120412954.html",
       "publisher": "MT Newswires",
-      "time": 1786446621,
+      "time": 1786449852,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "21c04ffc-f559-3f3b-b001-caf6c24c7219",
-      "title": "UBS Initiates Amcor at Buy With $56 Price Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-initiates-amcor-buy-56-111001761.html",
+      "id": "f69f5605-8ed4-3544-b174-a2e74b8735d9",
+      "title": "Sienna Senior Living Upgraded to Outperform at RBC",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sienna-senior-living-upgraded-outperform-120352257.html",
       "publisher": "MT Newswires",
-      "time": 1786446601,
+      "time": 1786449832,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "05bcc5e8-b10b-377e-b849-b444c8cc3779",
-      "title": "TD Cowen Initiates Valneva at Buy Rating, With $12 Price Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-initiates-valneva-buy-110943441.html",
+      "id": "64b0056b-0e5f-3ba4-aba5-640aa3f9e6bd",
+      "title": "US Equity Futures Mostly Flat Pre-Bell as US-Iran Stalemate Persists",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mostly-flat-120341717.html",
       "publisher": "MT Newswires",
-      "time": 1786446583,
+      "time": 1786449821,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f9d98987-37ac-38fa-9b1f-28639c9f7523",
-      "title": "Gap, Banana Republic, Athleta set for Middle East entry",
-      "link": "https://finance.yahoo.com/m/f9d98987-37ac-38fa-9b1f-28639c9f7523/gap%2C-banana-republic%2C-athleta.html",
-      "publisher": "Just Style",
-      "time": 1786446583,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3f8988d5-a5de-3b3d-9cb2-d647403f5e18",
-      "title": "Compass Point Initiates Sonida Senior Living at Buy, With $65 Price Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/compass-point-initiates-sonida-senior-110927680.html",
+      "id": "e3d88de9-e57c-3a34-b111-d371f3961707",
+      "title": "Altius Minerals Q2 Adjusted Net Earnings, Revenue Rise",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/altius-minerals-q2-adjusted-net-120330871.html",
       "publisher": "MT Newswires",
-      "time": 1786446567,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "14d851df-7004-3454-bb9c-b23d38002340",
-      "title": "Janus International Q2 Adjusted Earnings Decline, Revenue Rises; Cuts 2026 Revenue Guidance; Shares Fall Pre-Bell",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/janus-international-q2-adjusted-earnings-110919064.html",
-      "publisher": "MT Newswires",
-      "time": 1786446559,
+      "time": 1786449810,
       "impact": "medium",
       "tags": [
         "macro",
@@ -109,20 +91,38 @@
       ]
     },
     {
-      "id": "ad5dfb7b-4922-37c5-8067-aeb31183beb0",
-      "title": "Popular Insider Sold Shares Worth $6,140,155, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/popular-insider-sold-shares-worth-110851712.html",
+      "id": "b9efe4d0-b0b6-3872-a3a8-39c32822117e",
+      "title": "B. Riley Upgrades Compass Diversified to Buy From Neutral, Adjusts Price Target to $15 From $11",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/b-riley-upgrades-compass-diversified-120312198.html",
       "publisher": "MT Newswires",
-      "time": 1786446531,
+      "time": 1786449792,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "49e23bbd-204d-309e-9561-506cdce48bf2",
-      "title": "Oil prices jump as US-Iran deal hopes falter",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-rise-further-hopes-023238970.html",
-      "publisher": "AFP",
-      "time": 1786446508,
+      "id": "c6a8bf21-35bf-32af-bc6a-f37ecacf366d",
+      "title": "B. Riley Downgrades Varex Imaging to Neutral From Buy, Adjusts Price Target to $18.90 From $18",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/b-riley-downgrades-varex-imaging-120248389.html",
+      "publisher": "MT Newswires",
+      "time": 1786449768,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "89b2f4fa-d2bc-3ba5-968c-fb98c8718916",
+      "title": "Veradermics' Q2 Net Loss Widens",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/veradermics-apos-q2-net-loss-120141326.html",
+      "publisher": "MT Newswires",
+      "time": 1786449701,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "34d5889a-8953-4c9e-b069-632e4ec243b0",
+      "title": "CoreWeave, eToro earnings and key economic data: What to watch Tuesday",
+      "link": "https://finance.yahoo.com/video/coreweave-etoro-earnings-key-economic-120100040.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1786449660,
       "impact": "medium",
       "tags": [
         "macro",
@@ -130,24 +130,24 @@
       ]
     },
     {
-      "id": "7dc619a5-40cc-341e-b83b-23902f6b2f73",
-      "title": "Teledyne agrees to acquire Varex Imaging for $1.1bn",
-      "link": "https://finance.yahoo.com/m/7dc619a5-40cc-341e-b83b-23902f6b2f73/teledyne-agrees-to-acquire.html",
-      "publisher": "Medical Device Network",
-      "time": 1786446482,
+      "id": "20d4dbff-22a2-3de9-bf89-86849722960f",
+      "title": "David Nierenberg's Top Q2 2026 Move: FTI Consulting Inc at a 4.75% Portfolio Impact",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/david-nierenbergs-top-q2-2026-120053327.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786449653,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "fa342e72-63a3-3de3-b09d-63fc07ca8846",
-      "title": "Interest Rates, Oil Prices Limit Wall Street Pre-Bell; Asia Off, Europe Flat",
-      "link": "https://finance.yahoo.com/markets/articles/interest-rates-oil-prices-limit-110752366.html",
-      "publisher": "MT Newswires",
-      "time": 1786446472,
-      "impact": "high",
+      "id": "bb100942-faff-3424-b1f2-011f36e3629f",
+      "title": "True Potential, Origo collaborate to automate adviser valuation data",
+      "link": "https://finance.yahoo.com/m/bb100942-faff-3424-b1f2-011f36e3629f/true-potential%2C-origo.html",
+      "publisher": "Private Banker International",
+      "time": 1786449629,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
     }
   ],
