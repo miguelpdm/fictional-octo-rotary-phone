@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T18:53:24.160436+00:00",
+  "updatedAt": "2026-08-11T19:57:32.428520+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7726.89,
-      "change": -30.75,
-      "changePct": -0.396383436199669,
+      "price": 7724.28,
+      "change": -33.36000000000058,
+      "changePct": -0.4300276888332093,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26421.447,
-      "change": -269.17299999999886,
-      "changePct": -1.00849287127837,
+      "price": 26439.344,
+      "change": -251.27599999999802,
+      "changePct": -0.941439352101967,
       "currency": "USD"
     },
     {
@@ -44,109 +44,111 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.36,
-      "change": -0.10000000000000142,
-      "changePct": -0.6468305304010441,
+      "price": 15.25,
+      "change": -0.21000000000000085,
+      "changePct": -1.3583441138421788,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "9a37723d-1dda-347c-a2c7-3f199747d16d",
-      "title": "Berkshire Stock Jumps 3.1% as $4.5 Billion Buyback Returns",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-stock-jumps-3-1-184921621.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786474161,
+      "id": "93c3eb0f-bab8-3e2d-96eb-7b7b055437d7",
+      "title": "SEC to Unveil Alternative Crypto Plans to the CLARITY Act",
+      "link": "https://finance.yahoo.com/m/93c3eb0f-bab8-3e2d-96eb-7b7b055437d7/sec-to-unveil-alternative.html",
+      "publisher": "BeInCrypto",
+      "time": 1786477842,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e62806fd-a00d-3aab-8add-7a66bf40ad2a",
-      "title": "Intel Just Increased Its Stock Offering to $20B. Why That’s Good News for ASML.",
-      "link": "https://finance.yahoo.com/m/e62806fd-a00d-3aab-8add-7a66bf40ad2a/intel-just-increased-its.html",
-      "publisher": "Barrons.com",
-      "time": 1786474140,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "dd8b7dab-412b-4ee3-8152-dc6eea0bfa1d",
-      "title": "Are you saving enough for retirement? Here’s how to tell.",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/are-you-saving-enough-for-retirement-heres-how-to-tell-184639709.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1786473999,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4ee82c87-5efd-3b51-97cb-485bc29c7c8f",
-      "title": "Polymarket Loads Up on Robinhood, Coinbase, Nasdaq Veterans Ahead of Its Biggest US Test",
-      "link": "https://finance.yahoo.com/m/4ee82c87-5efd-3b51-97cb-485bc29c7c8f/polymarket-loads-up-on.html",
-      "publisher": "Benzinga Prediction Markets",
-      "time": 1786473997,
+      "id": "31f00164-3ec2-3b05-befc-b94cb499e64a",
+      "title": "Sector Update: Consumer Stocks Decline Late Afternoon",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-decline-afternoon-195018690.html",
+      "publisher": "MT Newswires",
+      "time": 1786477818,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "a9713fde-7eaf-38ea-b930-b637baa0d282",
-      "title": "IHG Stock Falls as Middle East Rooms Slide 19%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ihg-stock-falls-middle-east-184613754.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786473973,
+      "id": "353f99e5-5ed3-3255-ab8a-fa113fc2c279",
+      "title": "Is iShares US Consumer Staples ETF a Better Buy Than Invesco Food & Beverage?",
+      "link": "https://finance.yahoo.com/m/353f99e5-5ed3-3255-ab8a-fa113fc2c279/is-ishares-us-consumer.html",
+      "publisher": "Motley Fool",
+      "time": 1786477741,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "40d1b852-0576-33ab-9c45-74721be0b2e8",
-      "title": "RSG Q2 Deep Dive: Pricing, Digital, and Sustainability Initiatives Drive Results Amid Modest Volumes",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rsg-q2-deep-dive-pricing-184522040.html",
-      "publisher": "StockStory",
-      "time": 1786473922,
+      "id": "86098fa4-d94d-40a4-8898-54479ec693c6",
+      "title": "Home sales fell in July — and it might just get worse from here",
+      "link": "https://finance.yahoo.com/video/home-sales-fell-july-might-194738006.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1786477658,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c65bd93d-5f9f-3fa2-98d1-ff9f3441c1d6",
+      "title": "Dollar steady as traders await key US inflation data",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/yen-steadies-intervention-boost-fades-013355710.html",
+      "publisher": "Reuters",
+      "time": 1786477644,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "c1e1338c-730e-38cf-80bd-2f1236d2a317",
+      "title": "Rampart Withdraws Appeal of USPTO’s Invalidation Decision",
+      "link": "https://finance.yahoo.com/healthcare/articles/rampart-withdraws-appeal-uspto-invalidation-194700583.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786477620,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5de4ba54-639b-3bc4-85e0-6d9826fbb682",
+      "title": "Google shuts down service pretty much everyone uses",
+      "link": "https://finance.yahoo.com/m/5de4ba54-639b-3bc4-85e0-6d9826fbb682/google-shuts-down-service.html",
+      "publisher": "TheStreet",
+      "time": 1786477612,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "36e5a056-d4e3-3164-ae97-e9ec12fdf743",
+      "title": "Where Will Netflix Stock Be in 5 Years?",
+      "link": "https://finance.yahoo.com/m/36e5a056-d4e3-3164-ae97-e9ec12fdf743/where-will-netflix-stock-be.html",
+      "publisher": "Motley Fool",
+      "time": 1786477560,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7e6e11ef-362a-3875-8934-4da104939754",
+      "title": "Sector Update: Tech Stocks Mixed Late Afternoon",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-afternoon-194532324.html",
+      "publisher": "MT Newswires",
+      "time": 1786477532,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "8d680b3c-b1c9-305a-bbc0-ea0ea3ead0c3",
-      "title": "LEADING SYSTEM INTEGRATOR iBUYPOWER CONTINUES NORTH AMERICAN EXPANSION WITH NEW MARKHAM LOCATION IN ONTARIO, CANADA",
-      "link": "https://finance.yahoo.com/technology/articles/leading-system-integrator-ibuypower-continues-184500459.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786473900,
+      "id": "8424eda2-e9fd-3a8d-9c33-fb17fda406c6",
+      "title": "Market Chatter: Edison International's SCE Tentatively Not Held Liable for Eaton Fire",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-edison-international-apos-194526854.html",
+      "publisher": "MT Newswires",
+      "time": 1786477526,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9bfe79d2-4394-3526-81fd-cf3d125390ab",
-      "title": "SpaceX Stock Drops Below Offer Price Again. AST Earnings Is Just One Reason.",
-      "link": "https://finance.yahoo.com/m/9bfe79d2-4394-3526-81fd-cf3d125390ab/spacex-stock-drops-below.html",
-      "publisher": "Barrons.com",
-      "time": 1786473900,
-      "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
-    },
-    {
-      "id": "97511840-6984-3910-87eb-6225ee3c881b",
-      "title": "Intel Raises $20 Billion. Is It Enough?",
-      "link": "https://finance.yahoo.com/m/97511840-6984-3910-87eb-6225ee3c881b/intel-raises-%2420-billion.-is.html",
-      "publisher": "Moby",
-      "time": 1786473873,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4ec98fbb-bf7b-3dd0-a46b-91a9bf557202",
-      "title": "New Era Energy & Digital Announces Second Quarter 2026 Reporting Schedule",
-      "link": "https://finance.yahoo.com/energy/articles/era-energy-digital-announces-second-184400514.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786473840,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
