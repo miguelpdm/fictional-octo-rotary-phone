@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T21:39:10.124701+00:00",
+  "updatedAt": "2026-08-11T22:34:59.986597+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,47 +52,61 @@
   ],
   "news": [
     {
-      "id": "3a64ab21-4e07-3da5-b366-e00178c3bb9f",
-      "title": "Tutor Perini Insider Sold Shares Worth $17,877,571, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tutor-perini-insider-sold-shares-213538575.html",
-      "publisher": "MT Newswires",
-      "time": 1786484138,
+      "id": "f1195954-729f-3b8b-bee1-a06709befe21",
+      "title": "BC-Nikkei 225 Futures",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/bc-nikkei-225-futures-223013849.html",
+      "publisher": "Associated Press",
+      "time": 1786487413,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8b592757-512e-3ac2-97f2-e9bd0c37d358",
-      "title": "HelloNation Article Outlines How to Grow Your Small Business Featuring Insurance Expert Tony Pope",
-      "link": "https://finance.yahoo.com/small-business/articles/hellonation-article-outlines-grow-small-213500984.html",
-      "publisher": "PR Newswire",
-      "time": 1786484100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "02396fef-3a9e-3d9e-9035-fc81a2be33b6",
-      "title": "Ferguson Enterprises Prices $1.2 Billion Notes Offering",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ferguson-enterprises-prices-1-2-213447902.html",
-      "publisher": "MT Newswires",
-      "time": 1786484087,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f0bea575-6d04-3be0-ab62-7b689ecef045",
-      "title": "Tempus AI Insider Sold Shares Worth $1,000,800, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tempus-ai-insider-sold-shares-213327917.html",
-      "publisher": "MT Newswires",
-      "time": 1786484007,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8e712311-27ca-3f57-b91e-508b8b433693",
-      "title": "Bank of America Says AI Is Not Causing Widespread U.S. Job Losses",
-      "link": "https://finance.yahoo.com/m/8e712311-27ca-3f57-b91e-508b8b433693/bank-of-america-says-ai-is.html",
+      "id": "9dbe06f6-c81d-3718-89a8-bdceefa835c9",
+      "title": "Elon Musk's AI warning about the dollar is starting to come true",
+      "link": "https://finance.yahoo.com/m/9dbe06f6-c81d-3718-89a8-bdceefa835c9/elon-musk%27s-ai-warning-about.html",
       "publisher": "TheStreet",
-      "time": 1786483980,
+      "time": 1786487400,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "da506dee-3808-33c4-813d-f04a97a4572c",
+      "title": "Hungry Jack's Partners with Trintech to Modernize Financial Operations",
+      "link": "https://finance.yahoo.com/technology/ai/articles/hungry-jacks-partners-trintech-modernize-223000476.html",
+      "publisher": "PR Newswire",
+      "time": 1786487400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1391996e-6c11-3863-94f4-3d3d0620c736",
+      "title": "Car bomb kills Haftar intel chief in eastern Libya",
+      "link": "https://finance.yahoo.com/m/1391996e-6c11-3863-94f4-3d3d0620c736/car-bomb-kills-haftar-intel.html",
+      "publisher": "AFP",
+      "time": 1786487362,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "03b96840-e40d-39c8-995f-f38f9cdc4f73",
+      "title": "Croud Consumer Index Reveals 69% Of Americans Would Let AI Buy For Them Without Approval",
+      "link": "https://finance.yahoo.com/media-advertising/articles/croud-consumer-index-reveals-69-222800963.html",
+      "publisher": "PR Newswire",
+      "time": 1786487280,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "319807a1-7685-3061-ab43-a55350dc728a",
+      "title": "TherapeuticsMD: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/therapeuticsmd-q2-earnings-snapshot-222713338.html",
+      "publisher": "Associated Press",
+      "time": 1786487233,
       "impact": "medium",
       "tags": [
         "macro",
@@ -100,71 +114,40 @@
       ]
     },
     {
-      "id": "24272836-10a6-3cfb-a6b5-9c97f87c99ad",
-      "title": "AbCellera Biologics Launches $200 Million Public Offering",
-      "link": "https://finance.yahoo.com/healthcare/articles/abcellera-biologics-launches-200-million-213121989.html",
+      "id": "5fc353fe-e9b7-35f2-a8ab-9cf419a6f73e",
+      "title": "Update: Market Chatter: Edison International's SCE Tentatively Not Held Liable for Eaton Fire",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-edison-international-apos-222618702.html",
       "publisher": "MT Newswires",
-      "time": 1786483881,
-      "impact": "high",
+      "time": 1786487178,
+      "impact": "low",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "addee9a9-c7aa-3493-95d4-2e5cea11ea27",
-      "title": "New MedStar Health Urgent Care Location to Provide Expanded Services for Gallaudet University Students",
-      "link": "https://finance.yahoo.com/healthcare/articles/medstar-health-urgent-care-location-213100343.html",
+      "id": "ffac7668-d9c3-3bee-ad8f-cbd59dda9d9a",
+      "title": "Greenland Energy Company Provides Update on Greenland Permitting Process and Project Planning",
+      "link": "https://finance.yahoo.com/energy/articles/greenland-energy-company-provides-greenland-222500786.html",
       "publisher": "PR Newswire",
-      "time": 1786483860,
+      "time": 1786487100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "94e0fb8f-a03a-3e78-94dc-800e156faed2",
-      "title": "Major gold holder gives customers weeks before platform shutdown",
-      "link": "https://finance.yahoo.com/m/94e0fb8f-a03a-3e78-94dc-800e156faed2/major-gold-holder-gives.html",
-      "publisher": "TheStreet",
-      "time": 1786483813,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "ab43d352-28d7-3298-9bed-2705b4b846e2",
-      "title": "QuickLogic Q2 Adjusted Loss Narrows, Revenue Rises",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/quicklogic-q2-adjusted-loss-narrows-213002314.html",
-      "publisher": "MT Newswires",
-      "time": 1786483802,
+      "id": "9814d937-f1c3-3af0-8e7b-36f621a1fa20",
+      "title": "Cristiano Ronaldo marries long-term partner Georgina Rodriguez",
+      "link": "https://finance.yahoo.com/m/9814d937-f1c3-3af0-8e7b-36f621a1fa20/cristiano-ronaldo-marries.html",
+      "publisher": "AFP",
+      "time": 1786487091,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1aa25ec0-21c9-34f0-a892-8218a6ecca66",
-      "title": "Group Eleven Provides Results of Annual General Meeting",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/group-eleven-provides-results-annual-213000974.html",
-      "publisher": "TMX Newsfile",
-      "time": 1786483800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2d5b17f3-c475-320d-83e7-a64501ad5bb5",
-      "title": "Our People: Mia Lombardi's Passion for Service Grows Community From the Ground Up",
-      "link": "https://finance.yahoo.com/small-business/articles/people-mia-lombardis-passion-grows-213000861.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786483800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bc68f59a-1bb0-3489-bcf8-26d45766eead",
-      "title": "Comprehensive Healthcare Annual General and Special Meeting and Completion of 1st Tranche Debt Settlement",
-      "link": "https://finance.yahoo.com/healthcare/articles/comprehensive-healthcare-annual-general-special-213000469.html",
-      "publisher": "TMX Newsfile",
-      "time": 1786483800,
+      "id": "3e0d87d9-f1b3-3252-817f-273f60fd0c16",
+      "title": "The Inner Circle acknowledges Roberto Vida Obong as a Lifetime Member",
+      "link": "https://finance.yahoo.com/healthcare/articles/inner-circle-acknowledges-roberto-vida-222400750.html",
+      "publisher": "PR Newswire",
+      "time": 1786487040,
       "impact": "low",
       "tags": []
     }
