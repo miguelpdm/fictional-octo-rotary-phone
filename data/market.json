@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T15:54:51.840336+00:00",
+  "updatedAt": "2026-08-11T16:52:27.721741+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7741.68,
-      "change": -15.960000000000036,
-      "changePct": -0.20573267127631645,
+      "price": 7737.28,
+      "change": -20.360000000000582,
+      "changePct": -0.26245095157806475,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26506.893,
-      "change": -183.72699999999895,
-      "changePct": -0.6883579324871395,
+      "price": 26477.85,
+      "change": -212.77000000000044,
+      "changePct": -0.7971714407533449,
       "currency": "USD"
     },
     {
@@ -44,49 +44,39 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.37,
-      "change": -0.09000000000000163,
-      "changePct": -0.582147477360942,
+      "price": 15.42,
+      "change": -0.040000000000000924,
+      "changePct": -0.2587322121604199,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "713b1872-d4eb-3642-9248-1e223c906691",
-      "title": "Plug Power Stock Jumps After Earnings Beat and Higher 2026 Outlook",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/plug-power-stock-jumps-earnings-155320545.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786463600,
-      "impact": "medium",
+      "id": "363352c2-ed5c-3d13-82c5-aaa464b79cd4",
+      "title": "Flight-Tracking Platform Sues Kalshi Over Flight Cancellation Prediction Markets",
+      "link": "https://finance.yahoo.com/m/363352c2-ed5c-3d13-82c5-aaa464b79cd4/flight-tracking-platform-sues.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1786466880,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "ff9910e8-bb5c-385e-8213-de7a842db92c",
-      "title": "USA Rare Earth Burned $183 Million in Cash This Half",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/usa-rare-earth-burned-183-155224884.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786463544,
+      "id": "0026d80b-a9a6-32ad-bda8-d052ffc245d6",
+      "title": "/C O R R E C T I O N -- Monogram Capital Partners/",
+      "link": "https://finance.yahoo.com/small-business/articles/monogram-capital-partners-closes-apollo-104500582.html",
+      "publisher": "PR Newswire",
+      "time": 1786466820,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bd268e74-fdd7-3750-b431-322bd92bccff",
-      "title": "Cambridge academic in plagiarism row publishes memoir",
-      "link": "https://finance.yahoo.com/m/bd268e74-fdd7-3750-b431-322bd92bccff/cambridge-academic-in.html",
-      "publisher": "AFP",
-      "time": 1786463516,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "49e23bbd-204d-309e-9561-506cdce48bf2",
-      "title": "Oil prices higher, stocks flat ahead of inflation report",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-rise-further-hopes-023238970.html",
-      "publisher": "AFP",
-      "time": 1786463484,
+      "id": "0ea0bec9-951b-3d0f-a720-bb837dd90f76",
+      "title": "Crytica Security Launches RDAi™ - the First Deterministic Software That Sits Inside Critical Operational Technology Devices and Rapidly Detects Threats",
+      "link": "https://finance.yahoo.com/technology/ai/articles/crytica-security-launches-rdai-first-164700254.html",
+      "publisher": "Business Wire",
+      "time": 1786466820,
       "impact": "high",
       "tags": [
         "geo",
@@ -94,58 +84,87 @@
       ]
     },
     {
-      "id": "44e61101-c03f-3de5-8929-7a8f0fe11088",
-      "title": "Nvidia CEO Sends Stark Message: AI Chips Are Now an 'Investable Asset Class'",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-sends-stark-message-155112416.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786463472,
+      "id": "134fe125-b656-394d-9c65-0cff4675899e",
+      "title": "Government of Canada invests in major small craft harbours project at Red Head, PEI",
+      "link": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-major-small-164500118.html",
+      "publisher": "CNW Group",
+      "time": 1786466700,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d09d3bd8-6e14-30b7-9836-3cb8efc545ae",
-      "title": "MoonLake’s nanobody boosts PsA indication hopes after Phase III success",
-      "link": "https://finance.yahoo.com/m/d09d3bd8-6e14-30b7-9836-3cb8efc545ae/moonlake%E2%80%99s-nanobody-boosts.html",
-      "publisher": "Clinical Trials Arena",
-      "time": 1786463457,
+      "id": "2c8284a1-404f-32c5-9211-4f35c6d76559",
+      "title": "InventHelp Inventor Develops Autonomous Paint Spraying Apparatus (CTK-145)",
+      "link": "https://finance.yahoo.com/small-business/articles/inventhelp-inventor-develops-autonomous-paint-164500425.html",
+      "publisher": "PR Newswire",
+      "time": 1786466700,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "aeab792f-92b7-4959-80e8-e1c8fa09db5e",
-      "title": "Hims & Hers stock trims losses following quarterly results",
-      "link": "https://finance.yahoo.com/markets/stocks/article/hims--hers-stock-trims-losses-following-quarterly-results-155021166.html",
-      "publisher": "Yahoo Finance",
-      "time": 1786463421,
+      "id": "187fc72f-02ff-4a24-8b35-89145264bbe8",
+      "title": "OpenAI vs Anthropic IPOs: Why timing matters for AI investors",
+      "link": "https://finance.yahoo.com/video/openai-vs-anthropic-ipos-why-timing-matters-for-ai-investors-164422184.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1786466662,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "49f7b75b-efb1-3ea4-88ff-3c1b70e0dd73",
+      "title": "Is cyclosporiasis still in Philadelphia? Latest from Health Dept.",
+      "link": "https://finance.yahoo.com/m/49f7b75b-efb1-3ea4-88ff-3c1b70e0dd73/is-cyclosporiasis-still-in.html",
+      "publisher": "USA TODAY",
+      "time": 1786466642,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bdfeca83-fe83-3de6-a2ac-2ce5b6ac12f2",
-      "title": "NVIDIA Stock Rises as $500 Billion AI Financing Machine Takes Shape",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-rises-500-billion-155012658.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786463412,
+      "id": "95fe8ce1-a514-357b-b665-1383d47997aa",
+      "title": "Stan Ventures Founder & CEO Pradeep Kumaar Rajarathinam Donates ₹2 Crore to Tamil Nadu Chief Minister's Public Relief Fund",
+      "link": "https://finance.yahoo.com/small-business/articles/stan-ventures-founder-ceo-pradeep-164200066.html",
+      "publisher": "PR Newswire",
+      "time": 1786466520,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "51d048d8-cb44-3763-bba6-c421e7448de4",
-      "title": "Down 0.5% in 2026, Is Palantir Stock a Buy?",
-      "link": "https://finance.yahoo.com/m/51d048d8-cb44-3763-bba6-c421e7448de4/down-0.5%25-in-2026%2C-is.html",
-      "publisher": "Motley Fool",
-      "time": 1786463400,
+      "id": "9720e7c7-a619-47fa-852e-a3678c7d8648",
+      "title": "Here's exactly why small-cap stocks are outperforming the S&P 500",
+      "link": "https://finance.yahoo.com/video/heres-exactly-why-small-cap-164200976.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1786466520,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     },
     {
-      "id": "14fc6f73-db3a-374a-9dc6-31ec308b3487",
-      "title": "TSMC Stock Rises as Bernstein Spots Massive CPU Opportunity",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-rises-bernstein-spots-154920503.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786463360,
-      "impact": "low",
-      "tags": []
+      "id": "9b57caf6-9e3e-39db-a8f5-e2079a9b294a",
+      "title": "Oil Futures Gain As Market Looks for Hormuz Agreement",
+      "link": "https://finance.yahoo.com/m/9b57caf6-9e3e-39db-a8f5-e2079a9b294a/oil-futures-gain-as-market.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1786466460,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "733d0798-60b0-3b2e-ac7d-1446ac520a7f",
+      "title": "Hurricane forecasters expect Cristobal to form. Will it head for US?",
+      "link": "https://finance.yahoo.com/m/733d0798-60b0-3b2e-ac7d-1446ac520a7f/hurricane-forecasters-expect.html",
+      "publisher": "USA TODAY",
+      "time": 1786466457,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
