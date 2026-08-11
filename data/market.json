@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-11T10:25:36.164473+00:00",
+  "updatedAt": "2026-08-11T11:12:53.586429+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20230.2,
-      "change": 57.20000000000073,
-      "changePct": 0.283547315719034,
+      "price": 20250.0,
+      "change": 77.0,
+      "changePct": 0.3816983096217717,
       "currency": "EUR"
     },
     {
@@ -28,44 +28,80 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26289.3,
-      "change": -30.150000000001455,
-      "changePct": -0.11455406552949036,
+      "price": 26307.42,
+      "change": -12.030000000002474,
+      "changePct": -0.04570764206699788,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6536.19,
-      "change": 0.569999999999709,
-      "changePct": 0.008721437292861412,
+      "price": 6542.01,
+      "change": 6.390000000000327,
+      "changePct": 0.09777190228318548,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.53,
-      "change": 0.06999999999999851,
-      "changePct": 0.4527813712807148,
+      "price": 15.51,
+      "change": 0.049999999999998934,
+      "changePct": 0.32341526520051056,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "463247af-4621-37ba-87e4-d51196338a90",
-      "title": "Samsung SDI takes full control of GM’s Indiana battery plant",
-      "link": "https://finance.yahoo.com/m/463247af-4621-37ba-87e4-d51196338a90/samsung-sdi-takes-full.html",
-      "publisher": "Just Auto",
-      "time": 1786443794,
+      "id": "ce04eddf-3a0d-3cab-85b1-993fd7556f1b",
+      "title": "Bernstein Initiates PDF Solutions at Outperform, With $65 Price Target",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bernstein-initiates-pdf-solutions-outperform-111021811.html",
+      "publisher": "MT Newswires",
+      "time": 1786446621,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c5d23f88-89e4-3799-8fa9-62cb8dad378f",
-      "title": "Target Hospitality (TH) Q2 Earnings Report Preview: What To Look For",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/target-hospitality-th-q2-earnings-102122919.html",
-      "publisher": "StockStory",
-      "time": 1786443682,
+      "id": "21c04ffc-f559-3f3b-b001-caf6c24c7219",
+      "title": "UBS Initiates Amcor at Buy With $56 Price Target",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-initiates-amcor-buy-56-111001761.html",
+      "publisher": "MT Newswires",
+      "time": 1786446601,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "05bcc5e8-b10b-377e-b849-b444c8cc3779",
+      "title": "TD Cowen Initiates Valneva at Buy Rating, With $12 Price Target",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-initiates-valneva-buy-110943441.html",
+      "publisher": "MT Newswires",
+      "time": 1786446583,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f9d98987-37ac-38fa-9b1f-28639c9f7523",
+      "title": "Gap, Banana Republic, Athleta set for Middle East entry",
+      "link": "https://finance.yahoo.com/m/f9d98987-37ac-38fa-9b1f-28639c9f7523/gap%2C-banana-republic%2C-athleta.html",
+      "publisher": "Just Style",
+      "time": 1786446583,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3f8988d5-a5de-3b3d-9cb2-d647403f5e18",
+      "title": "Compass Point Initiates Sonida Senior Living at Buy, With $65 Price Target",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/compass-point-initiates-sonida-senior-110927680.html",
+      "publisher": "MT Newswires",
+      "time": 1786446567,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "14d851df-7004-3454-bb9c-b23d38002340",
+      "title": "Janus International Q2 Adjusted Earnings Decline, Revenue Rises; Cuts 2026 Revenue Guidance; Shares Fall Pre-Bell",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/janus-international-q2-adjusted-earnings-110919064.html",
+      "publisher": "MT Newswires",
+      "time": 1786446559,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,76 +109,46 @@
       ]
     },
     {
-      "id": "b76f20e3-1a18-323d-befc-efa8f79d9f24",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-101900492.html",
-      "publisher": "Business Wire",
-      "time": 1786443540,
+      "id": "ad5dfb7b-4922-37c5-8067-aeb31183beb0",
+      "title": "Popular Insider Sold Shares Worth $6,140,155, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/popular-insider-sold-shares-worth-110851712.html",
+      "publisher": "MT Newswires",
+      "time": 1786446531,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ac08c166-aedf-32fa-aecf-9a75e7857731",
-      "title": "US fuel sales to Cuban business bring a glimpse of capitalism to Havana",
-      "link": "https://finance.yahoo.com/news/us-fuel-sales-cuban-business-100512481.html",
-      "publisher": "Reuters",
-      "time": 1786443534,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d42e3bc7-6dbc-3578-8dcb-66f8691f476c",
-      "title": "Johnson signs for Everton in McNeil swap deal",
-      "link": "https://finance.yahoo.com/m/d42e3bc7-6dbc-3578-8dcb-66f8691f476c/johnson-signs-for-everton-in.html",
+      "id": "49e23bbd-204d-309e-9561-506cdce48bf2",
+      "title": "Oil prices jump as US-Iran deal hopes falter",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-rise-further-hopes-023238970.html",
       "publisher": "AFP",
-      "time": 1786443516,
+      "time": 1786446508,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "7dc619a5-40cc-341e-b83b-23902f6b2f73",
+      "title": "Teledyne agrees to acquire Varex Imaging for $1.1bn",
+      "link": "https://finance.yahoo.com/m/7dc619a5-40cc-341e-b83b-23902f6b2f73/teledyne-agrees-to-acquire.html",
+      "publisher": "Medical Device Network",
+      "time": 1786446482,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "78dc1648-8051-320c-95c3-3a0100fcf127",
-      "title": "Powerball jackpot now rises to $975 million after no winner",
-      "link": "https://finance.yahoo.com/m/78dc1648-8051-320c-95c3-3a0100fcf127/powerball-jackpot-now-rises.html",
-      "publisher": "USA TODAY",
-      "time": 1786443475,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "22a5a9cb-06a3-33f2-81fe-b499c9c5b147",
-      "title": "Arctech Strengthens Central Asia Presence with 425 MW of New Solar Projects",
-      "link": "https://finance.yahoo.com/energy/articles/arctech-strengthens-central-asia-presence-101600655.html",
-      "publisher": "PR Newswire",
-      "time": 1786443360,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "328e7157-377a-3f3b-b55f-86d867a84072",
-      "title": "Comstock Metals Brings Fully Integrated Industry-Scale Solar Recycling System Online",
-      "link": "https://finance.yahoo.com/energy/articles/comstock-metals-brings-fully-integrated-101500666.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786443300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "41cc8094-c3ac-3d33-a712-5ac898b39de6",
-      "title": "Jones Soda and Rap Snacks Join Forces to Launch a New Line of Hip Hop-Inspired Craft Sodas",
-      "link": "https://finance.yahoo.com/media-advertising/articles/jones-soda-rap-snacks-join-101500222.html",
-      "publisher": "PR Newswire",
-      "time": 1786443300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bb5b26db-1ca7-3098-9440-94bec7be4ba7",
-      "title": "Shattuck Labs Reports Second Quarter 2026 Financial Results and Recent Business Highlights",
-      "link": "https://finance.yahoo.com/healthcare/articles/shattuck-labs-reports-second-quarter-101500431.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786443300,
-      "impact": "low",
-      "tags": []
+      "id": "fa342e72-63a3-3de3-b09d-63fc07ca8846",
+      "title": "Interest Rates, Oil Prices Limit Wall Street Pre-Bell; Asia Off, Europe Flat",
+      "link": "https://finance.yahoo.com/markets/articles/interest-rates-oil-prices-limit-110752366.html",
+      "publisher": "MT Newswires",
+      "time": 1786446472,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     }
   ],
   "errors": {
