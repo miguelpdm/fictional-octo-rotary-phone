@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T19:57:32.428520+00:00",
+  "updatedAt": "2026-08-11T20:42:58.118636+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7724.28,
-      "change": -33.36000000000058,
-      "changePct": -0.4300276888332093,
+      "price": 7728.2,
+      "change": -29.44000000000051,
+      "changePct": -0.3794968572916571,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26439.344,
-      "change": -251.27599999999802,
-      "changePct": -0.941439352101967,
+      "price": 26445.445,
+      "change": -245.17499999999927,
+      "changePct": -0.9185811344959364,
       "currency": "USD"
     },
     {
@@ -44,111 +44,105 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.25,
-      "change": -0.21000000000000085,
-      "changePct": -1.3583441138421788,
+      "price": 15.28,
+      "change": -0.1800000000000015,
+      "changePct": -1.1642949547218724,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "93c3eb0f-bab8-3e2d-96eb-7b7b055437d7",
-      "title": "SEC to Unveil Alternative Crypto Plans to the CLARITY Act",
-      "link": "https://finance.yahoo.com/m/93c3eb0f-bab8-3e2d-96eb-7b7b055437d7/sec-to-unveil-alternative.html",
-      "publisher": "BeInCrypto",
-      "time": 1786477842,
+      "id": "8c8fb474-ba21-3535-b9ac-f89c21f51e85",
+      "title": "NAYA Sees Ranking in Inc. 5000 List",
+      "link": "https://finance.yahoo.com/m/8c8fb474-ba21-3535-b9ac-f89c21f51e85/naya-sees-ranking-in-inc..html",
+      "publisher": "QSR",
+      "time": 1786480634,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "31f00164-3ec2-3b05-befc-b94cb499e64a",
-      "title": "Sector Update: Consumer Stocks Decline Late Afternoon",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-decline-afternoon-195018690.html",
-      "publisher": "MT Newswires",
-      "time": 1786477818,
-      "impact": "low",
+      "id": "049d0384-7b3f-3116-990a-581b77fcd29f",
+      "title": "Super Micro Stock Climbs as Earnings Soar Past Expectations",
+      "link": "https://finance.yahoo.com/m/049d0384-7b3f-3116-990a-581b77fcd29f/super-micro-stock-climbs-as.html",
+      "publisher": "Barrons.com",
+      "time": 1786480560,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "353f99e5-5ed3-3255-ab8a-fa113fc2c279",
-      "title": "Is iShares US Consumer Staples ETF a Better Buy Than Invesco Food & Beverage?",
-      "link": "https://finance.yahoo.com/m/353f99e5-5ed3-3255-ab8a-fa113fc2c279/is-ishares-us-consumer.html",
-      "publisher": "Motley Fool",
-      "time": 1786477741,
+      "id": "05f069c7-ba03-3d7e-bbd9-7b905763c0a0",
+      "title": "STAMPEDE DRILLING INC. CONFIRMS IT HAS NO DRILLING RIG IN GREENLAND",
+      "link": "https://finance.yahoo.com/energy/articles/stampede-drilling-inc-confirms-no-203500104.html",
+      "publisher": "CNW Group",
+      "time": 1786480500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "86098fa4-d94d-40a4-8898-54479ec693c6",
-      "title": "Home sales fell in July — and it might just get worse from here",
-      "link": "https://finance.yahoo.com/video/home-sales-fell-july-might-194738006.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1786477658,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c65bd93d-5f9f-3fa2-98d1-ff9f3441c1d6",
-      "title": "Dollar steady as traders await key US inflation data",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/yen-steadies-intervention-boost-fades-013355710.html",
-      "publisher": "Reuters",
-      "time": 1786477644,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "c1e1338c-730e-38cf-80bd-2f1236d2a317",
-      "title": "Rampart Withdraws Appeal of USPTO’s Invalidation Decision",
-      "link": "https://finance.yahoo.com/healthcare/articles/rampart-withdraws-appeal-uspto-invalidation-194700583.html",
+      "id": "c1cad7a2-5739-39d5-94a3-8c3a592ad828",
+      "title": "Apollomics Announces $10 Million Private Placement Transaction",
+      "link": "https://finance.yahoo.com/healthcare/articles/apollomics-announces-10-million-private-203500552.html",
       "publisher": "GlobeNewswire",
-      "time": 1786477620,
+      "time": 1786480500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5de4ba54-639b-3bc4-85e0-6d9826fbb682",
-      "title": "Google shuts down service pretty much everyone uses",
-      "link": "https://finance.yahoo.com/m/5de4ba54-639b-3bc4-85e0-6d9826fbb682/google-shuts-down-service.html",
-      "publisher": "TheStreet",
-      "time": 1786477612,
+      "id": "efbeb882-40de-3f6e-9f95-1b266b9cec8c",
+      "title": "Arcus Biosciences Announces New Employment Inducement Grants",
+      "link": "https://finance.yahoo.com/healthcare/articles/arcus-biosciences-announces-employment-inducement-203500844.html",
+      "publisher": "Business Wire",
+      "time": 1786480500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "36e5a056-d4e3-3164-ae97-e9ec12fdf743",
-      "title": "Where Will Netflix Stock Be in 5 Years?",
-      "link": "https://finance.yahoo.com/m/36e5a056-d4e3-3164-ae97-e9ec12fdf743/where-will-netflix-stock-be.html",
-      "publisher": "Motley Fool",
-      "time": 1786477560,
+      "id": "a2ab9b5f-d983-4a64-a5f3-11648d31570d",
+      "title": "Bugatti & Lamborghini at Monterey Car Week: How luxury brands target ultra-rich",
+      "link": "https://finance.yahoo.com/video/bugatti--lamborghini-at-monterey-car-week-how-luxury-brands-target-ultra-rich-203306085.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1786480386,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7e6e11ef-362a-3875-8934-4da104939754",
-      "title": "Sector Update: Tech Stocks Mixed Late Afternoon",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-afternoon-194532324.html",
-      "publisher": "MT Newswires",
-      "time": 1786477532,
+      "id": "0ce8e52f-eb1c-3829-bc30-9a6a71f8efd6",
+      "title": "Porch Group Announces Attendance at Upcoming Investor Events",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/porch-group-announces-attendance-upcoming-203300030.html",
+      "publisher": "Business Wire",
+      "time": 1786480380,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "8424eda2-e9fd-3a8d-9c33-fb17fda406c6",
-      "title": "Market Chatter: Edison International's SCE Tentatively Not Held Liable for Eaton Fire",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-edison-international-apos-194526854.html",
-      "publisher": "MT Newswires",
-      "time": 1786477526,
+      "id": "b982f6e6-43c1-399d-aa31-7a89b082d149",
+      "title": "Logistic Properties of the Americas Stands with Colombia Following August 10 Earthquake",
+      "link": "https://finance.yahoo.com/real-estate/articles/logistic-properties-americas-stands-colombia-203300121.html",
+      "publisher": "Business Wire",
+      "time": 1786480380,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
+    },
+    {
+      "id": "daed247d-2a6c-3e03-a307-256ccaa2dafa",
+      "title": "In HelloNation, \"K.D. the Insurance Queen\" Sakraida of Centennial, CO, explains homeowners' insurance coverage for Colorado Storms.",
+      "link": "https://finance.yahoo.com/real-estate/articles/hellonation-k-d-insurance-queen-203300618.html",
+      "publisher": "PR Newswire",
+      "time": 1786480380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e4981666-de05-3164-b37d-16a09e80789f",
+      "title": "Pressed Juicery Names Tina Reejsinghani CMO and Chad Peffer Chief Sales Officer",
+      "link": "https://finance.yahoo.com/m/e4981666-de05-3164-b37d-16a09e80789f/pressed-juicery-names-tina.html",
+      "publisher": "QSR",
+      "time": 1786480315,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
