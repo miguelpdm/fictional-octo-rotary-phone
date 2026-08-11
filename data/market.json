@@ -1,89 +1,80 @@
 {
-  "updatedAt": "2026-08-11T12:06:48.157704+00:00",
+  "updatedAt": "2026-08-11T13:51:00.529450+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20270.5,
-      "change": 97.5,
-      "changePct": 0.48331928815743813,
+      "price": 20276.0,
+      "change": 103.0,
+      "changePct": 0.5105834531304219,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7753.11,
-      "change": 43.149999999999636,
-      "changePct": 0.5596656791993685,
+      "price": 7749.17,
+      "change": -8.470000000000255,
+      "changePct": -0.10918268958085518,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26605.357,
-      "change": 257.0070000000014,
-      "changePct": 0.9754197131888768,
+      "price": 26505.967,
+      "change": -184.65299999999843,
+      "changePct": -0.6918273161132953,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26352.66,
-      "change": 33.20999999999913,
-      "changePct": 0.1261804482996382,
+      "price": 26409.39,
+      "change": 89.93999999999869,
+      "changePct": 0.3417244661267568,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6553.46,
-      "change": 17.840000000000146,
-      "changePct": 0.2729656864995233,
+      "price": 6562.1,
+      "change": 26.480000000000473,
+      "changePct": 0.40516431493875826,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.45,
-      "change": -0.010000000000001563,
-      "changePct": -0.0646830530401136,
+      "price": 15.52,
+      "change": 0.05999999999999872,
+      "changePct": 0.3880983182406127,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "7348f0b8-da78-3e70-97f0-ccb15cff642a",
-      "title": "Argus Research Upgrades Centene to Buy From Hold, $80 Price Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/argus-research-upgrades-centene-buy-120412954.html",
-      "publisher": "MT Newswires",
-      "time": 1786449852,
+      "id": "269859dc-8520-3238-b6f5-557d15fb2a2c",
+      "title": "Booking vs. Celsius: Which Consumer Stock Is a Better Buy in 2026?",
+      "link": "https://finance.yahoo.com/m/269859dc-8520-3238-b6f5-557d15fb2a2c/booking-vs.-celsius%3A-which.html",
+      "publisher": "Motley Fool",
+      "time": 1786455901,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f69f5605-8ed4-3544-b174-a2e74b8735d9",
-      "title": "Sienna Senior Living Upgraded to Outperform at RBC",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sienna-senior-living-upgraded-outperform-120352257.html",
-      "publisher": "MT Newswires",
-      "time": 1786449832,
+      "id": "89d3862f-0eff-3b18-a47b-12f788bf6d0e",
+      "title": "IBM and Together AI sign $240 million AI inference deal",
+      "link": "https://finance.yahoo.com/m/89d3862f-0eff-3b18-a47b-12f788bf6d0e/ibm-and-together-ai-sign-%24240.html",
+      "publisher": "Quartz",
+      "time": 1786455804,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "64b0056b-0e5f-3ba4-aba5-640aa3f9e6bd",
-      "title": "US Equity Futures Mostly Flat Pre-Bell as US-Iran Stalemate Persists",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mostly-flat-120341717.html",
-      "publisher": "MT Newswires",
-      "time": 1786449821,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e3d88de9-e57c-3a34-b111-d371f3961707",
-      "title": "Altius Minerals Q2 Adjusted Net Earnings, Revenue Rise",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/altius-minerals-q2-adjusted-net-120330871.html",
-      "publisher": "MT Newswires",
-      "time": 1786449810,
+      "id": "26f4e9a6-66ae-3b6f-974e-4515964f0482",
+      "title": "ROAD Q2 Deep Dive: Acquisition and Data Center Momentum Drives Guidance Upgrade",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/road-q2-deep-dive-acquisition-134122754.html",
+      "publisher": "StockStory",
+      "time": 1786455682,
       "impact": "medium",
       "tags": [
         "macro",
@@ -91,64 +82,67 @@
       ]
     },
     {
-      "id": "b9efe4d0-b0b6-3872-a3a8-39c32822117e",
-      "title": "B. Riley Upgrades Compass Diversified to Buy From Neutral, Adjusts Price Target to $15 From $11",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/b-riley-upgrades-compass-diversified-120312198.html",
-      "publisher": "MT Newswires",
-      "time": 1786449792,
+      "id": "5549f5fc-0d94-3814-9671-ab5e317944c3",
+      "title": "Form 8.3 -DCC plc",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-dcc-plc-134100723.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786455660,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c6a8bf21-35bf-32af-bc6a-f37ecacf366d",
-      "title": "B. Riley Downgrades Varex Imaging to Neutral From Buy, Adjusts Price Target to $18.90 From $18",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/b-riley-downgrades-varex-imaging-120248389.html",
-      "publisher": "MT Newswires",
-      "time": 1786449768,
+      "id": "365be4fb-3177-390b-9152-18f238f8fa6e",
+      "title": "Intel’s stock rally paid off big. 🤑\n\nThe chipmaker raised $20 billion by selling 211 million shares at $95, requiring a fraction of the stock it would have taken at last year's prices.",
+      "link": "https://finance.yahoo.com/photos/intel-stock-rally-paid-off-134043862/",
+      "publisher": "Yahoo Finance",
+      "time": 1786455643,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "89b2f4fa-d2bc-3ba5-968c-fb98c8718916",
-      "title": "Veradermics' Q2 Net Loss Widens",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/veradermics-apos-q2-net-loss-120141326.html",
-      "publisher": "MT Newswires",
-      "time": 1786449701,
+      "id": "688592b8-fd3b-30cc-b077-b97f745aaf20",
+      "title": "Strategy Cratered 75% Over 12 Months: One Analyst Lodged a 350% Return Target Price",
+      "link": "https://finance.yahoo.com/m/688592b8-fd3b-30cc-b077-b97f745aaf20/strategy-cratered-75%25-over-12.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786455607,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "34d5889a-8953-4c9e-b069-632e4ec243b0",
-      "title": "CoreWeave, eToro earnings and key economic data: What to watch Tuesday",
-      "link": "https://finance.yahoo.com/video/coreweave-etoro-earnings-key-economic-120100040.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1786449660,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "20d4dbff-22a2-3de9-bf89-86849722960f",
-      "title": "David Nierenberg's Top Q2 2026 Move: FTI Consulting Inc at a 4.75% Portfolio Impact",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/david-nierenbergs-top-q2-2026-120053327.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786449653,
+      "id": "0445e664-f205-3ffa-b73f-3c87aec9e9c8",
+      "title": "Dragos Teodor Discusses Why Leadership Begins With Developing People",
+      "link": "https://finance.yahoo.com/small-business/articles/dragos-teodor-discusses-why-leadership-134000792.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786455600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bb100942-faff-3424-b1f2-011f36e3629f",
-      "title": "True Potential, Origo collaborate to automate adviser valuation data",
-      "link": "https://finance.yahoo.com/m/bb100942-faff-3424-b1f2-011f36e3629f/true-potential%2C-origo.html",
-      "publisher": "Private Banker International",
-      "time": 1786449629,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "65c70b14-2f28-312a-a235-419369efe5fd",
+      "title": "Timothy J. Davies Joins SEDA as a Global Equities and Investment Management Expert",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/timothy-j-davies-joins-seda-134000837.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786455600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "eb4edb02-25d5-3c77-99ff-c5c19b846554",
+      "title": "Solstice Health Revenue Grows 381% in Three Years, Propelling Company to No. 909 on Inc. 5000",
+      "link": "https://finance.yahoo.com/healthcare/articles/solstice-health-revenue-grows-381-134000308.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786455600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "306304c3-863f-3abf-8be8-c7d3917dd194",
+      "title": "Firstsource and Cresta Partner to Accelerate AI-Powered Customer Experience Transformation",
+      "link": "https://finance.yahoo.com/technology/ai/articles/firstsource-cresta-partner-accelerate-ai-133900500.html",
+      "publisher": "PR Newswire",
+      "time": 1786455540,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
