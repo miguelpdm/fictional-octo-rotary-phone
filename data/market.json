@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-11T08:06:58.601451+00:00",
+  "updatedAt": "2026-08-11T09:28:48.615992+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20224.6,
-      "change": 51.599999999998545,
-      "changePct": 0.2557874386556216,
+      "price": 20226.1,
+      "change": 53.099999999998545,
+      "changePct": 0.2632231200118899,
       "currency": "EUR"
     },
     {
@@ -28,118 +28,141 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26278.53,
-      "change": -40.92000000000189,
-      "changePct": -0.1554743735146513,
+      "price": 26253.0,
+      "change": -66.45000000000073,
+      "changePct": -0.25247488074409125,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6538.18,
-      "change": 2.5600000000004,
-      "changePct": 0.03916996398200018,
+      "price": 6531.69,
+      "change": -3.930000000000291,
+      "changePct": -0.06013201501923752,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.41,
-      "change": -0.05000000000000071,
-      "changePct": -0.32341526520052205,
+      "price": 15.52,
+      "change": 0.05999999999999872,
+      "changePct": 0.3880983182406127,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "318ad572-8e02-3f6b-9f4c-7c6fcf075eaa",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-080400706.html",
-      "publisher": "Business Wire",
-      "time": 1786435440,
+      "id": "257497aa-79e6-3604-a09b-083e66e01663",
+      "title": "California Will Never Tax a Dime of Shohei Ohtani’s $680 Million. The Federal Law He’s Counting On Also Protects Your 401(k) the Day You Retire Across State Lines",
+      "link": "https://finance.yahoo.com/m/257497aa-79e6-3604-a09b-083e66e01663/california-will-never-tax-a.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786440323,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "94b62f4b-bbf9-38f7-b812-4676e60ec287",
+      "title": "UNICO opens reservations for resort in Montego Bay, Jamaica",
+      "link": "https://finance.yahoo.com/m/94b62f4b-bbf9-38f7-b812-4676e60ec287/unico-opens-reservations-for.html",
+      "publisher": "Hotel Management Network",
+      "time": 1786440321,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "140a3fdb-4f8d-34cd-871a-da0f55683bf2",
-      "title": "Alignment Healthcare Insider Sold Shares Worth $4,136,776, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alignment-healthcare-insider-sold-shares-080319258.html",
+      "id": "7c358186-d3fd-3288-b9b4-3b067407ee8c",
+      "title": "SAIHEAT agrees merger with Canopy Wave in AI inference pivot",
+      "link": "https://finance.yahoo.com/m/7c358186-d3fd-3288-b9b4-3b067407ee8c/saiheat-agrees-merger-with.html",
+      "publisher": "Verdict",
+      "time": 1786440282,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "3cbc496f-a0e2-34df-9bd7-bc0bd5c49340",
+      "title": "Huntington Initiates CTO Realty Growth at Outperform, With $24 Price Target",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/huntington-initiates-cto-realty-growth-092133392.html",
       "publisher": "MT Newswires",
-      "time": 1786435399,
+      "time": 1786440093,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c7124e85-4596-3227-b3f0-d3084cdb1a6d",
-      "title": "BlossomHill Therapeutics Insider Bought Shares Worth $5,000,000, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/blossomhill-therapeutics-insider-bought-shares-080228029.html",
+      "id": "d17f1144-76d7-3292-847a-111ec459eb61",
+      "title": "Citigroup Downgrades Allstate to Sell From Neutral, Adjusts Price Target to $240 From $226",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-downgrades-allstate-sell-neutral-092109833.html",
       "publisher": "MT Newswires",
-      "time": 1786435348,
+      "time": 1786440069,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6c8e15a7-1817-3dac-8ffa-a98d91b503ec",
-      "title": "Arista Networks Insider Sold Shares Worth $79,383,281, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-insider-sold-shares-080119156.html",
+      "id": "69435972-5805-3553-a60b-2b8caf9aad5a",
+      "title": "Alo Yoga opens Tmall flagship, eyes China retail push",
+      "link": "https://finance.yahoo.com/m/69435972-5805-3553-a60b-2b8caf9aad5a/alo-yoga-opens-tmall.html",
+      "publisher": "Retail Insight Network",
+      "time": 1786440062,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "aabff03f-8630-3678-93b4-cda05eeb2fba",
+      "title": "Canopy Growth: Penny Stock Purgatory -- or Cannabis Rebound in the Making?",
+      "link": "https://finance.yahoo.com/m/aabff03f-8630-3678-93b4-cda05eeb2fba/canopy-growth%3A-penny-stock.html",
+      "publisher": "Motley Fool",
+      "time": 1786440000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c03c7807-8f8e-35e6-bccb-6bd42636ef36",
+      "title": "AISIX Solutions Launches Fire Alerts for WildfireScore Retail Application",
+      "link": "https://finance.yahoo.com/technology/articles/aisix-solutions-launches-fire-alerts-091900502.html",
+      "publisher": "TMX Newsfile",
+      "time": 1786439940,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "db8a1d66-6f14-3549-831e-f93c7affec72",
+      "title": "OpenAI Concludes $7 Billion Share Buyback Ahead of Potential IPO: Report",
+      "link": "https://finance.yahoo.com/m/db8a1d66-6f14-3549-831e-f93c7affec72/openai-concludes-%247-billion.html",
+      "publisher": "Benzinga Private Markets",
+      "time": 1786439932,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "2e99459b-1138-3f38-a3f4-fe75f1feb737",
+      "title": "UBS Upgrades Jabil to Buy From Neutral, Price Target is $430",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-upgrades-jabil-buy-neutral-091759991.html",
       "publisher": "MT Newswires",
-      "time": 1786435279,
+      "time": 1786439879,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6bb223c3-02f5-3a7e-b70c-dc72e4c7e36c",
-      "title": "UFP Technologies Insider Sold Shares Worth $4,997,051, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ufp-technologies-insider-sold-shares-080005772.html",
+      "id": "6fef2514-13ae-3280-b554-49cf4dcd96c7",
+      "title": "Babcock & Wilcox Swings to Q2 Earnings, Revenue Rises; Shares Up Pre-Bell",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/babcock-wilcox-swings-q2-earnings-091729079.html",
       "publisher": "MT Newswires",
-      "time": 1786435205,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3cfaa2ca-6c76-3f9c-b9df-307656cebea1",
-      "title": "Swiss Firms Advance AI Governance in Work Strategies",
-      "link": "https://finance.yahoo.com/technology/ai/articles/swiss-firms-advance-ai-governance-080000201.html",
-      "publisher": "Business Wire",
-      "time": 1786435200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "91ec4cdd-6a11-32c4-ac0d-d0a8d073b18e",
-      "title": "Omdia: iPhone Users Spend 40% More on Microdramas Than Android Users",
-      "link": "https://finance.yahoo.com/media-advertising/articles/omdia-iphone-users-spend-40-080000790.html",
-      "publisher": "Business Wire",
-      "time": 1786435200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a274b51b-a86a-30c8-87d4-4caf80b199c6",
-      "title": "Amazon's bestselling MP3 player is on sale for $34, and it's giving us major nostalgia",
-      "link": "https://finance.yahoo.com/m/a274b51b-a86a-30c8-87d4-4caf80b199c6/amazon%27s-bestselling-mp3.html",
-      "publisher": "TheStreet",
-      "time": 1786435200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c2f5d1ec-3694-3069-85de-7eef22bf1cc3",
-      "title": "PsiQuantum Appoints Niklas Zennström to Board of Directors",
-      "link": "https://finance.yahoo.com/technology/articles/psiquantum-appoints-niklas-zennstr-m-080000787.html",
-      "publisher": "Business Wire",
-      "time": 1786435200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d0557f8a-309d-3351-b95c-b08a36c33775",
-      "title": "Cloudflare, Inc. Announces Pricing of Offering of $2.175 Billion of 0% Convertible Senior Notes Due 2031",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-inc-announces-pricing-offering-080000397.html",
-      "publisher": "Business Wire",
-      "time": 1786435200,
-      "impact": "low",
-      "tags": []
+      "time": 1786439849,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
