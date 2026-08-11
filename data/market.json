@@ -1,145 +1,149 @@
 {
-  "updatedAt": "2026-08-11T14:52:11.046882+00:00",
+  "updatedAt": "2026-08-11T15:54:51.840336+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20227.3,
-      "change": 54.29999999999927,
-      "changePct": 0.2691716650969081,
+      "price": 20213.6,
+      "change": 40.599999999998545,
+      "changePct": 0.2012591087096542,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7761.65,
-      "change": 4.009999999999309,
-      "changePct": 0.051690978184078,
+      "price": 7741.68,
+      "change": -15.960000000000036,
+      "changePct": -0.20573267127631645,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26615.541,
-      "change": -75.0789999999979,
-      "changePct": -0.28129357804351457,
+      "price": 26506.893,
+      "change": -183.72699999999895,
+      "changePct": -0.6883579324871395,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26475.23,
-      "change": 155.77999999999884,
-      "changePct": 0.5918816692598015,
+      "price": 26391.42,
+      "change": 71.96999999999753,
+      "changePct": 0.27344796338828325,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6572.58,
-      "change": 36.960000000000036,
-      "changePct": 0.5655163549900397,
+      "price": 6551.22,
+      "change": 15.600000000000364,
+      "changePct": 0.23869196801528186,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.38,
-      "change": -0.08000000000000007,
-      "changePct": -0.5174644243208283,
+      "price": 15.37,
+      "change": -0.09000000000000163,
+      "changePct": -0.582147477360942,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "a572990b-84ac-30af-84d9-464fee7549cb",
-      "title": "Consistent Results Restored Confidence in Forgent Power Solutions (FPS)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/consistent-results-restored-confidence-forgent-144635619.html",
-      "publisher": "Insider Monkey",
-      "time": 1786459595,
+      "id": "713b1872-d4eb-3642-9248-1e223c906691",
+      "title": "Plug Power Stock Jumps After Earnings Beat and Higher 2026 Outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/plug-power-stock-jumps-earnings-155320545.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786463600,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "ff9910e8-bb5c-385e-8213-de7a842db92c",
+      "title": "USA Rare Earth Burned $183 Million in Cash This Half",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/usa-rare-earth-burned-183-155224884.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786463544,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "85597769-4d21-3f3f-ad4c-03c9f96ef79a",
-      "title": "GRNT Q2 Deep Dive: Operated Partnerships and Inventory Growth Set Stage for 2027 Cash Flow",
-      "link": "https://finance.yahoo.com/energy/articles/grnt-q2-deep-dive-operated-144522850.html",
-      "publisher": "StockStory",
-      "time": 1786459522,
+      "id": "bd268e74-fdd7-3750-b431-322bd92bccff",
+      "title": "Cambridge academic in plagiarism row publishes memoir",
+      "link": "https://finance.yahoo.com/m/bd268e74-fdd7-3750-b431-322bd92bccff/cambridge-academic-in.html",
+      "publisher": "AFP",
+      "time": 1786463516,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "49e23bbd-204d-309e-9561-506cdce48bf2",
+      "title": "Oil prices higher, stocks flat ahead of inflation report",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-rise-further-hopes-023238970.html",
+      "publisher": "AFP",
+      "time": 1786463484,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "28829279-7865-33f7-be16-b16f14385e66",
-      "title": "Socure Q2 2026 Results: $364M Total ARR and 63% YoY Growth",
-      "link": "https://finance.yahoo.com/technology/ai/articles/socure-q2-2026-results-364m-144500638.html",
-      "publisher": "Business Wire",
-      "time": 1786459500,
+      "id": "44e61101-c03f-3de5-8929-7a8f0fe11088",
+      "title": "Nvidia CEO Sends Stark Message: AI Chips Are Now an 'Investable Asset Class'",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-sends-stark-message-155112416.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786463472,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8aebda7e-b27f-332a-8bc6-d2a17f47f477",
-      "title": "Lemon Tree Hotels signs two new properties in India",
-      "link": "https://finance.yahoo.com/m/8aebda7e-b27f-332a-8bc6-d2a17f47f477/lemon-tree-hotels-signs-two.html",
-      "publisher": "Hotel Management Network",
-      "time": 1786459490,
+      "id": "d09d3bd8-6e14-30b7-9836-3cb8efc545ae",
+      "title": "MoonLake’s nanobody boosts PsA indication hopes after Phase III success",
+      "link": "https://finance.yahoo.com/m/d09d3bd8-6e14-30b7-9836-3cb8efc545ae/moonlake%E2%80%99s-nanobody-boosts.html",
+      "publisher": "Clinical Trials Arena",
+      "time": 1786463457,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "442057e6-5a3c-36c0-b9ed-3fefef16dca3",
-      "title": "Angry Orchard® Surprises One of New York's Worst Rec Softball Teams With Baseball Legend Nick Swisher",
-      "link": "https://finance.yahoo.com/media-advertising/articles/angry-orchard-surprises-one-yorks-144400531.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786459440,
+      "id": "aeab792f-92b7-4959-80e8-e1c8fa09db5e",
+      "title": "Hims & Hers stock trims losses following quarterly results",
+      "link": "https://finance.yahoo.com/markets/stocks/article/hims--hers-stock-trims-losses-following-quarterly-results-155021166.html",
+      "publisher": "Yahoo Finance",
+      "time": 1786463421,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a8651cab-e8d2-3bd9-85a3-83d0457666b8",
-      "title": "NAFA Opens Call for Presentations for 2027 Institute & Expo",
-      "link": "https://finance.yahoo.com/small-business/articles/nafa-opens-call-presentations-2027-144400144.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786459440,
+      "id": "bdfeca83-fe83-3de6-a2ac-2ce5b6ac12f2",
+      "title": "NVIDIA Stock Rises as $500 Billion AI Financing Machine Takes Shape",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-rises-500-billion-155012658.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786463412,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ed5ebf62-b5cd-3673-b328-69ead18a361e",
-      "title": "New York Yankees, Apollo Agree on $2.6B Capital Injection, Investment",
-      "link": "https://finance.yahoo.com/m/ed5ebf62-b5cd-3673-b328-69ead18a361e/new-york-yankees%2C-apollo.html",
-      "publisher": "Sportico",
-      "time": 1786459431,
+      "id": "51d048d8-cb44-3763-bba6-c421e7448de4",
+      "title": "Down 0.5% in 2026, Is Palantir Stock a Buy?",
+      "link": "https://finance.yahoo.com/m/51d048d8-cb44-3763-bba6-c421e7448de4/down-0.5%25-in-2026%2C-is.html",
+      "publisher": "Motley Fool",
+      "time": 1786463400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "68d8f46f-3a39-3e71-ba44-f8191f6bfe19",
-      "title": "Ornate Home Named to the 2026 Inc.5000 List of Fastest-Growing Private Companies",
-      "link": "https://finance.yahoo.com/small-business/articles/ornate-home-named-2026-inc-144300529.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786459380,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "940b5b92-510a-33c6-80c7-a6c629483bbb",
-      "title": "On Shares Fall Sharply After Wholesale Slowdown in Q2",
-      "link": "https://finance.yahoo.com/m/940b5b92-510a-33c6-80c7-a6c629483bbb/on-shares-fall-sharply-after.html",
-      "publisher": "Footwear News",
-      "time": 1786459378,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "07231a19-d990-3bdf-97ac-46be445719e1",
-      "title": "Nvidia Rises Amid Massive Wall Street Partnership; Is Nvidia A Buy Now?",
-      "link": "https://finance.yahoo.com/m/07231a19-d990-3bdf-97ac-46be445719e1/nvidia-rises-amid-massive.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1786459370,
+      "id": "14fc6f73-db3a-374a-9dc6-31ec308b3487",
+      "title": "TSMC Stock Rises as Bernstein Spots Massive CPU Opportunity",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-rises-bernstein-spots-154920503.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786463360,
       "impact": "low",
       "tags": []
     }
