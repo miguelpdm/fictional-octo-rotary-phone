@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-11T09:28:48.615992+00:00",
+  "updatedAt": "2026-08-11T10:25:36.164473+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20226.1,
-      "change": 53.099999999998545,
-      "changePct": 0.2632231200118899,
+      "price": 20230.2,
+      "change": 57.20000000000073,
+      "changePct": 0.283547315719034,
       "currency": "EUR"
     },
     {
@@ -28,56 +28,44 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26253.0,
-      "change": -66.45000000000073,
-      "changePct": -0.25247488074409125,
+      "price": 26289.3,
+      "change": -30.150000000001455,
+      "changePct": -0.11455406552949036,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6531.69,
-      "change": -3.930000000000291,
-      "changePct": -0.06013201501923752,
+      "price": 6536.19,
+      "change": 0.569999999999709,
+      "changePct": 0.008721437292861412,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.52,
-      "change": 0.05999999999999872,
-      "changePct": 0.3880983182406127,
+      "price": 15.53,
+      "change": 0.06999999999999851,
+      "changePct": 0.4527813712807148,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "257497aa-79e6-3604-a09b-083e66e01663",
-      "title": "California Will Never Tax a Dime of Shohei Ohtani’s $680 Million. The Federal Law He’s Counting On Also Protects Your 401(k) the Day You Retire Across State Lines",
-      "link": "https://finance.yahoo.com/m/257497aa-79e6-3604-a09b-083e66e01663/california-will-never-tax-a.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786440323,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "94b62f4b-bbf9-38f7-b812-4676e60ec287",
-      "title": "UNICO opens reservations for resort in Montego Bay, Jamaica",
-      "link": "https://finance.yahoo.com/m/94b62f4b-bbf9-38f7-b812-4676e60ec287/unico-opens-reservations-for.html",
-      "publisher": "Hotel Management Network",
-      "time": 1786440321,
+      "id": "463247af-4621-37ba-87e4-d51196338a90",
+      "title": "Samsung SDI takes full control of GM’s Indiana battery plant",
+      "link": "https://finance.yahoo.com/m/463247af-4621-37ba-87e4-d51196338a90/samsung-sdi-takes-full.html",
+      "publisher": "Just Auto",
+      "time": 1786443794,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7c358186-d3fd-3288-b9b4-3b067407ee8c",
-      "title": "SAIHEAT agrees merger with Canopy Wave in AI inference pivot",
-      "link": "https://finance.yahoo.com/m/7c358186-d3fd-3288-b9b4-3b067407ee8c/saiheat-agrees-merger-with.html",
-      "publisher": "Verdict",
-      "time": 1786440282,
+      "id": "c5d23f88-89e4-3799-8fa9-62cb8dad378f",
+      "title": "Target Hospitality (TH) Q2 Earnings Report Preview: What To Look For",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/target-hospitality-th-q2-earnings-102122919.html",
+      "publisher": "StockStory",
+      "time": 1786443682,
       "impact": "medium",
       "tags": [
         "macro",
@@ -85,84 +73,76 @@
       ]
     },
     {
-      "id": "3cbc496f-a0e2-34df-9bd7-bc0bd5c49340",
-      "title": "Huntington Initiates CTO Realty Growth at Outperform, With $24 Price Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/huntington-initiates-cto-realty-growth-092133392.html",
-      "publisher": "MT Newswires",
-      "time": 1786440093,
+      "id": "b76f20e3-1a18-323d-befc-efa8f79d9f24",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-101900492.html",
+      "publisher": "Business Wire",
+      "time": 1786443540,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d17f1144-76d7-3292-847a-111ec459eb61",
-      "title": "Citigroup Downgrades Allstate to Sell From Neutral, Adjusts Price Target to $240 From $226",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-downgrades-allstate-sell-neutral-092109833.html",
-      "publisher": "MT Newswires",
-      "time": 1786440069,
+      "id": "ac08c166-aedf-32fa-aecf-9a75e7857731",
+      "title": "US fuel sales to Cuban business bring a glimpse of capitalism to Havana",
+      "link": "https://finance.yahoo.com/news/us-fuel-sales-cuban-business-100512481.html",
+      "publisher": "Reuters",
+      "time": 1786443534,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "69435972-5805-3553-a60b-2b8caf9aad5a",
-      "title": "Alo Yoga opens Tmall flagship, eyes China retail push",
-      "link": "https://finance.yahoo.com/m/69435972-5805-3553-a60b-2b8caf9aad5a/alo-yoga-opens-tmall.html",
-      "publisher": "Retail Insight Network",
-      "time": 1786440062,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "aabff03f-8630-3678-93b4-cda05eeb2fba",
-      "title": "Canopy Growth: Penny Stock Purgatory -- or Cannabis Rebound in the Making?",
-      "link": "https://finance.yahoo.com/m/aabff03f-8630-3678-93b4-cda05eeb2fba/canopy-growth%3A-penny-stock.html",
-      "publisher": "Motley Fool",
-      "time": 1786440000,
+      "id": "d42e3bc7-6dbc-3578-8dcb-66f8691f476c",
+      "title": "Johnson signs for Everton in McNeil swap deal",
+      "link": "https://finance.yahoo.com/m/d42e3bc7-6dbc-3578-8dcb-66f8691f476c/johnson-signs-for-everton-in.html",
+      "publisher": "AFP",
+      "time": 1786443516,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c03c7807-8f8e-35e6-bccb-6bd42636ef36",
-      "title": "AISIX Solutions Launches Fire Alerts for WildfireScore Retail Application",
-      "link": "https://finance.yahoo.com/technology/articles/aisix-solutions-launches-fire-alerts-091900502.html",
-      "publisher": "TMX Newsfile",
-      "time": 1786439940,
+      "id": "78dc1648-8051-320c-95c3-3a0100fcf127",
+      "title": "Powerball jackpot now rises to $975 million after no winner",
+      "link": "https://finance.yahoo.com/m/78dc1648-8051-320c-95c3-3a0100fcf127/powerball-jackpot-now-rises.html",
+      "publisher": "USA TODAY",
+      "time": 1786443475,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "db8a1d66-6f14-3549-831e-f93c7affec72",
-      "title": "OpenAI Concludes $7 Billion Share Buyback Ahead of Potential IPO: Report",
-      "link": "https://finance.yahoo.com/m/db8a1d66-6f14-3549-831e-f93c7affec72/openai-concludes-%247-billion.html",
-      "publisher": "Benzinga Private Markets",
-      "time": 1786439932,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "2e99459b-1138-3f38-a3f4-fe75f1feb737",
-      "title": "UBS Upgrades Jabil to Buy From Neutral, Price Target is $430",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-upgrades-jabil-buy-neutral-091759991.html",
-      "publisher": "MT Newswires",
-      "time": 1786439879,
+      "id": "22a5a9cb-06a3-33f2-81fe-b499c9c5b147",
+      "title": "Arctech Strengthens Central Asia Presence with 425 MW of New Solar Projects",
+      "link": "https://finance.yahoo.com/energy/articles/arctech-strengthens-central-asia-presence-101600655.html",
+      "publisher": "PR Newswire",
+      "time": 1786443360,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6fef2514-13ae-3280-b554-49cf4dcd96c7",
-      "title": "Babcock & Wilcox Swings to Q2 Earnings, Revenue Rises; Shares Up Pre-Bell",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/babcock-wilcox-swings-q2-earnings-091729079.html",
-      "publisher": "MT Newswires",
-      "time": 1786439849,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "328e7157-377a-3f3b-b55f-86d867a84072",
+      "title": "Comstock Metals Brings Fully Integrated Industry-Scale Solar Recycling System Online",
+      "link": "https://finance.yahoo.com/energy/articles/comstock-metals-brings-fully-integrated-101500666.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786443300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "41cc8094-c3ac-3d33-a712-5ac898b39de6",
+      "title": "Jones Soda and Rap Snacks Join Forces to Launch a New Line of Hip Hop-Inspired Craft Sodas",
+      "link": "https://finance.yahoo.com/media-advertising/articles/jones-soda-rap-snacks-join-101500222.html",
+      "publisher": "PR Newswire",
+      "time": 1786443300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bb5b26db-1ca7-3098-9440-94bec7be4ba7",
+      "title": "Shattuck Labs Reports Second Quarter 2026 Financial Results and Recent Business Highlights",
+      "link": "https://finance.yahoo.com/healthcare/articles/shattuck-labs-reports-second-quarter-101500431.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786443300,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
