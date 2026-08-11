@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T16:52:27.721741+00:00",
+  "updatedAt": "2026-08-11T17:53:18.229587+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7737.28,
-      "change": -20.360000000000582,
-      "changePct": -0.26245095157806475,
+      "price": 7735.44,
+      "change": -22.200000000000728,
+      "changePct": -0.28616950515879475,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26477.85,
-      "change": -212.77000000000044,
-      "changePct": -0.7971714407533449,
+      "price": 26467.738,
+      "change": -222.8819999999978,
+      "changePct": -0.8350574096817451,
       "currency": "USD"
     },
     {
@@ -44,69 +44,55 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.42,
-      "change": -0.040000000000000924,
-      "changePct": -0.2587322121604199,
+      "price": 15.34,
+      "change": -0.120000000000001,
+      "changePct": -0.7761966364812483,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "363352c2-ed5c-3d13-82c5-aaa464b79cd4",
-      "title": "Flight-Tracking Platform Sues Kalshi Over Flight Cancellation Prediction Markets",
-      "link": "https://finance.yahoo.com/m/363352c2-ed5c-3d13-82c5-aaa464b79cd4/flight-tracking-platform-sues.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1786466880,
+      "id": "db361e2a-03ba-3213-93da-20aadc50b027",
+      "title": "A SpaceX-Tesla Deal Could Unlock Musk's $824 Billion Payday",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-deal-could-unlock-175005575.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786470605,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "0026d80b-a9a6-32ad-bda8-d052ffc245d6",
-      "title": "/C O R R E C T I O N -- Monogram Capital Partners/",
-      "link": "https://finance.yahoo.com/small-business/articles/monogram-capital-partners-closes-apollo-104500582.html",
+      "id": "3df8df52-0173-3ba4-a73e-7faed12f7dbc",
+      "title": "Nvidia Is Building a Bigger Open-Source AI Bet",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-building-bigger-open-source-174918012.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786470558,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0ed23756-4961-396d-853b-9f6b15fb95fb",
+      "title": "Rocket Lab Falls 7% as Neutron Launch Window Narrows",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-falls-7-neutron-174808691.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786470488,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1a0cf82f-513b-3fb7-82bc-ce2b9fbb88fe",
+      "title": "Thunderly Earns Spot on the 2026 Inc. 5000 List of America's Fastest-Growing Private Companies For Second Year in a Row",
+      "link": "https://finance.yahoo.com/small-business/articles/thunderly-earns-spot-2026-inc-174800622.html",
       "publisher": "PR Newswire",
-      "time": 1786466820,
+      "time": 1786470480,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0ea0bec9-951b-3d0f-a720-bb837dd90f76",
-      "title": "Crytica Security Launches RDAi™ - the First Deterministic Software That Sits Inside Critical Operational Technology Devices and Rapidly Detects Threats",
-      "link": "https://finance.yahoo.com/technology/ai/articles/crytica-security-launches-rdai-first-164700254.html",
-      "publisher": "Business Wire",
-      "time": 1786466820,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "134fe125-b656-394d-9c65-0cff4675899e",
-      "title": "Government of Canada invests in major small craft harbours project at Red Head, PEI",
-      "link": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-major-small-164500118.html",
-      "publisher": "CNW Group",
-      "time": 1786466700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2c8284a1-404f-32c5-9211-4f35c6d76559",
-      "title": "InventHelp Inventor Develops Autonomous Paint Spraying Apparatus (CTK-145)",
-      "link": "https://finance.yahoo.com/small-business/articles/inventhelp-inventor-develops-autonomous-paint-164500425.html",
-      "publisher": "PR Newswire",
-      "time": 1786466700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "187fc72f-02ff-4a24-8b35-89145264bbe8",
-      "title": "OpenAI vs Anthropic IPOs: Why timing matters for AI investors",
-      "link": "https://finance.yahoo.com/video/openai-vs-anthropic-ipos-why-timing-matters-for-ai-investors-164422184.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1786466662,
+      "id": "05255a19-8070-3790-8c0d-82e6f746c551",
+      "title": "US Dollar Weakens Slightly Against The Loonie as Strait of Hormuz Stays Closed, Oil Prices, Gold Climb",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-weakens-slightly-against-174704049.html",
+      "publisher": "MT Newswires",
+      "time": 1786470424,
       "impact": "medium",
       "tags": [
         "macro",
@@ -114,57 +100,52 @@
       ]
     },
     {
-      "id": "49f7b75b-efb1-3ea4-88ff-3c1b70e0dd73",
-      "title": "Is cyclosporiasis still in Philadelphia? Latest from Health Dept.",
-      "link": "https://finance.yahoo.com/m/49f7b75b-efb1-3ea4-88ff-3c1b70e0dd73/is-cyclosporiasis-still-in.html",
-      "publisher": "USA TODAY",
-      "time": 1786466642,
+      "id": "35ff83dc-c9fa-3f0d-9d08-89baae59e00c",
+      "title": "Michael Burry Doubles Down Again Against Major AI Stock",
+      "link": "https://finance.yahoo.com/markets/options/articles/michael-burry-doubles-down-again-174701348.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786470421,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "95fe8ce1-a514-357b-b665-1383d47997aa",
-      "title": "Stan Ventures Founder & CEO Pradeep Kumaar Rajarathinam Donates ₹2 Crore to Tamil Nadu Chief Minister's Public Relief Fund",
-      "link": "https://finance.yahoo.com/small-business/articles/stan-ventures-founder-ceo-pradeep-164200066.html",
+      "id": "9db19100-9bfc-341a-9f65-de6bb667a12e",
+      "title": "Elysee Development Swings to Q2 Loss",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/elysee-development-swings-q2-loss-174553790.html",
+      "publisher": "MT Newswires",
+      "time": 1786470353,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "44ee2ebc-f08f-3993-b268-463a7bb4f185",
+      "title": "TJX Poised for In-Line Second-Quarter Earnings Amid 'Ok' Sales Momentum, UBS Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tjx-poised-line-second-quarter-174528949.html",
+      "publisher": "MT Newswires",
+      "time": 1786470328,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "20f81ca9-ea08-3427-932a-cd6137e589b0",
+      "title": "HireQuotient's EasySource Delivers $60,000 Cost Savings for Stern at Home Therapy, US Healthcare Firm",
+      "link": "https://finance.yahoo.com/healthcare/articles/hirequotients-easysource-delivers-60-000-174500008.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786470300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "959661dd-f78d-36f1-88ef-b55ab78cf139",
+      "title": "Havis Expands Keyboard Portfolio Through Strategic Partnership with TG3 Electronics",
+      "link": "https://finance.yahoo.com/technology/articles/havis-expands-keyboard-portfolio-strategic-174500217.html",
       "publisher": "PR Newswire",
-      "time": 1786466520,
+      "time": 1786470300,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "9720e7c7-a619-47fa-852e-a3678c7d8648",
-      "title": "Here's exactly why small-cap stocks are outperforming the S&P 500",
-      "link": "https://finance.yahoo.com/video/heres-exactly-why-small-cap-164200976.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1786466520,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "9b57caf6-9e3e-39db-a8f5-e2079a9b294a",
-      "title": "Oil Futures Gain As Market Looks for Hormuz Agreement",
-      "link": "https://finance.yahoo.com/m/9b57caf6-9e3e-39db-a8f5-e2079a9b294a/oil-futures-gain-as-market.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1786466460,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "733d0798-60b0-3b2e-ac7d-1446ac520a7f",
-      "title": "Hurricane forecasters expect Cristobal to form. Will it head for US?",
-      "link": "https://finance.yahoo.com/m/733d0798-60b0-3b2e-ac7d-1446ac520a7f/hurricane-forecasters-expect.html",
-      "publisher": "USA TODAY",
-      "time": 1786466457,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
     }
   ],
   "errors": {
