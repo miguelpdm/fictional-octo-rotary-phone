@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T20:36:26.914580+00:00",
+  "updatedAt": "2026-08-12T21:38:20.736715+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6533.99,
       "change": -17.230000000000473,
       "changePct": -0.2630044480264817,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,103 +52,116 @@
   ],
   "news": [
     {
-      "id": "edbb0fbc-7cb2-4923-8ce3-b8af1f64072c",
-      "title": "Budget calculator",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/budget-calculator-203236180.html",
-      "publisher": "Personal Finance Embeddable Content",
-      "time": 1786566756,
+      "id": "39cfe1b7-daff-31a8-80d6-c89c09d05522",
+      "title": "Mark Zuckerberg sends controversial message on the future of jobs",
+      "link": "https://finance.yahoo.com/m/39cfe1b7-daff-31a8-80d6-c89c09d05522/mark-zuckerberg-sends.html",
+      "publisher": "TheStreet",
+      "time": 1786570380,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4cdfdf62-93f9-3aa0-bf4a-372d94c0fb17",
-      "title": "Linamar Second-Quarter Normalized Earnings Rise on Revenue Gains",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/linamar-second-quarter-normalized-earnings-203131143.html",
-      "publisher": "MT Newswires",
-      "time": 1786566691,
-      "impact": "medium",
+      "id": "a863dffe-51b2-3286-b582-20ba9e9c7db7",
+      "title": "FUCHS Announces Grand Opening of Americas Technology Center in Massachusetts",
+      "link": "https://finance.yahoo.com/technology/articles/fuchs-announces-grand-opening-americas-213043903.html",
+      "publisher": "NewMediaWire",
+      "time": 1786570243,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "097d9c33-39db-3999-b22f-5b63617b607d",
+      "title": "CCL Industries Announces Record Results for 2026 Second Quarter",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ccl-industries-announces-record-results-213000413.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786570200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4409fb4b-6596-3fbe-997a-08af0f104ee1",
+      "title": "Bolt Metals to Rebrand as 26 Metals Inc. and Adopt the Ticker \"IRON,\" Highlighting Its Focus on Flagship Florália Iron Project in Brazil's Iron Quadrangle",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/bolt-metals-rebrand-26-metals-213000449.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786570200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "44e887bd-a0db-3f90-b190-3d8045328c49",
+      "title": "Amazon's $18 solar string lights require minimal effort and elevate any outdoor space",
+      "link": "https://finance.yahoo.com/m/44e887bd-a0db-3f90-b190-3d8045328c49/amazon%27s-%2418-solar-string.html",
+      "publisher": "TheStreet",
+      "time": 1786570200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8dc1e919-05eb-3a34-9100-2bcc75142200",
+      "title": "CANTEX CLOSES FIRST TRANCHE OF A NON-BROKERED PRIVATE PLACEMENT",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cantex-closes-first-tranche-non-213000080.html",
+      "publisher": "CNW Group",
+      "time": 1786570200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7b012685-1709-3c66-85ff-780306ae9085",
+      "title": "Impact Development Group Inc. Announces Cancellation of Warrants and Restated Loan Agreement",
+      "link": "https://finance.yahoo.com/real-estate/articles/impact-development-group-inc-announces-213000037.html",
+      "publisher": "TMX Newsfile",
+      "time": 1786570200,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e8123c76-8eea-306f-9e5d-a246b2629556",
-      "title": "Bicara Therapeutics Insider Sold Shares Worth $524,533, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bicara-therapeutics-insider-sold-shares-203125422.html",
-      "publisher": "MT Newswires",
-      "time": 1786566685,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "19bc3c08-35c7-30ba-b5c6-380b75cf043d",
-      "title": "Bicara Therapeutics Insider Sold Shares Worth $279,750, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bicara-therapeutics-insider-sold-shares-203101397.html",
-      "publisher": "MT Newswires",
-      "time": 1786566661,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1ec6832b-3f2a-3fe1-ae81-bc4c30af2c79",
-      "title": "TSX Closer: Index Closes at Fresh Record High as Financials Gain, Air Canada Surges",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-closes-fresh-203059625.html",
-      "publisher": "MT Newswires",
-      "time": 1786566659,
-      "impact": "low",
-      "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "d95ab747-4146-3be3-a06d-4f8d37cd98cc",
-      "title": "Bicara Therapeutics Insider Sold Shares Worth $349,591, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bicara-therapeutics-insider-sold-shares-203036452.html",
-      "publisher": "MT Newswires",
-      "time": 1786566636,
+      "id": "ad960351-cfd9-331e-98d1-800be1cc6ea3",
+      "title": "No-stress Sabalenka won't fret over lackluster 2026 results",
+      "link": "https://finance.yahoo.com/m/ad960351-cfd9-331e-98d1-800be1cc6ea3/no-stress-sabalenka-won%27t.html",
+      "publisher": "AFP",
+      "time": 1786570188,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4017f6ef-4875-3c6b-9c6f-6772ed1dfa5a",
-      "title": "Merck & Co. Insider Sold Shares Worth $5,942,369, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/merck-co-insider-sold-shares-203009938.html",
-      "publisher": "MT Newswires",
-      "time": 1786566609,
+      "id": "9d0776a2-c6e7-382c-94cf-b987123690ee",
+      "title": "The 2 Factors That Will Decide GAIQ’s Next 12 Months as AI Capex Spending Slows",
+      "link": "https://finance.yahoo.com/m/9d0776a2-c6e7-382c-94cf-b987123690ee/the-2-factors-that-will.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786570178,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3d74b1df-2bb2-36f4-9c4b-b8265d3fbf7b",
-      "title": "Ellington Credit: Fiscal Q1 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ellington-credit-fiscal-q1-earnings-203007779.html",
-      "publisher": "Associated Press",
-      "time": 1786566607,
-      "impact": "medium",
+      "id": "b5a04648-ff38-368e-9eff-8aa8ece9c52a",
+      "title": "The Pudding journalists awarded 2026 Pamela Tobey Award for Excellence in Visual Storytelling",
+      "link": "https://finance.yahoo.com/media-advertising/articles/pudding-journalists-awarded-2026-pamela-212900442.html",
+      "publisher": "PR Newswire",
+      "time": 1786570140,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "6a0a6c6d-8e98-3cb0-8bea-967f5df604ba",
-      "title": "Grocery Outlet: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/grocery-outlet-q2-earnings-snapshot-203007002.html",
-      "publisher": "Associated Press",
-      "time": 1786566607,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "9e9a4f6c-39d3-3026-82f6-6294ca84f94f",
+      "title": "BP (BP) Has A New CEO And A Blunt Diagnosis. Will It Work?",
+      "link": "https://finance.yahoo.com/energy/articles/bp-bp-ceo-blunt-diagnosis-212838607.html",
+      "publisher": "Insider Monkey",
+      "time": 1786570118,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "102702a9-8fba-3a52-bf0a-1dc1d919e534",
-      "title": "How to Earn $500 a Month From Enbridge Stock",
-      "link": "https://finance.yahoo.com/m/102702a9-8fba-3a52-bf0a-1dc1d919e534/how-to-earn-%24500-a-month-from.html",
-      "publisher": "Motley Fool",
-      "time": 1786566600,
+      "id": "4545301d-1d8e-33f4-a7f3-39d65992d55b",
+      "title": "A Married Couple’s Tax Brackets Are Nearly Twice as Wide as a Widow’s. Couples Who Convert Their IRAs While Both Are Alive Keep That Discount Forever",
+      "link": "https://finance.yahoo.com/m/4545301d-1d8e-33f4-a7f3-39d65992d55b/a-married-couple%E2%80%99s-tax.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786569966,
       "impact": "low",
       "tags": []
     }
