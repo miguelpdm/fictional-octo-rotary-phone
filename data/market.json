@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T18:25:40.932130+00:00",
+  "updatedAt": "2026-08-12T19:35:41.813603+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7754.88,
-      "change": 1.7700000000004366,
-      "changePct": 0.02282954840058295,
+      "price": 7751.52,
+      "change": -1.589999999999236,
+      "changePct": -0.020507899410678244,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26620.549,
-      "change": 15.188999999998487,
-      "changePct": 0.05708999990978693,
+      "price": 26599.932,
+      "change": -5.427999999999884,
+      "changePct": -0.020401903977243244,
       "currency": "USD"
     },
     {
@@ -39,33 +39,98 @@
       "price": 6533.99,
       "change": -17.230000000000473,
       "changePct": -0.2630044480264817,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.57,
-      "change": -0.7099999999999991,
-      "changePct": -4.646596858638738,
+      "price": 14.47,
+      "change": -0.8099999999999987,
+      "changePct": -5.30104712041884,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "3e65bf91-07db-3311-9185-9f2020d5abde",
-      "title": "Make Sure You’re Using Your 401(k)’s After-Tax Bucket Before Maxing Out Pretax Contributions",
-      "link": "https://finance.yahoo.com/m/3e65bf91-07db-3311-9185-9f2020d5abde/make-sure-you%E2%80%99re-using-your.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786558946,
+      "id": "52d2bd7e-c7a2-3b55-8a96-5aa6d76097dc",
+      "title": "Cathie Wood Doubles Down on SpaceX Competitor After Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-doubles-down-spacex-193358148.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786563238,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a107577d-b2d2-4704-b2ad-b7121ddd6eb1",
+      "title": "7 best crypto wallets of 2026: The winners on fees, security, and chain coverage",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/best-crypto-wallets-193347097.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1786563227,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4f5e22b8-7c40-3eca-9672-38dbb9485c58",
-      "title": "CPI report shows inflation eased in July to a 3.4% annual pace",
-      "link": "https://finance.yahoo.com/m/4f5e22b8-7c40-3eca-9672-38dbb9485c58/cpi-report-shows-inflation.html",
-      "publisher": "CBS News",
-      "time": 1786558845,
+      "id": "4eaf697d-05c9-3951-a0c9-db6d84f8d48e",
+      "title": "These Are the Stocks Wall Street Is Betting Against the Most",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-wall-street-betting-against-193023310.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786563023,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "b548bae6-a2bd-322d-86f1-993a7f3ced05",
+      "title": "[Latest] Global Floating Dry Docks Market Size/Share Worth USD 10.41 Billion by 2034 at a 4.27% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)",
+      "link": "https://finance.yahoo.com/markets/articles/latest-global-floating-dry-docks-193000965.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786563000,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "1430879e-1e03-393e-941c-95f61a43ffe3",
+      "title": "What is the average personal loan rate for June 2026?",
+      "link": "https://finance.yahoo.com/markets/articles/average-personal-loan-interest-rate-005856676.html",
+      "publisher": "Bankrate",
+      "time": 1786562981,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b9efa405-456f-3aa2-95ac-3ba92dc258b8",
+      "title": "Google Raises Pixel 11 Prices by $100",
+      "link": "https://finance.yahoo.com/technology/articles/google-raises-pixel-11-prices-192832888.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786562912,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "182bbaf9-eed3-3db6-8c98-2753d31bcbb2",
+      "title": "SpaceX’s Starship Push Comes With a Rising Capital Bill",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-starship-push-comes-rising-192818402.html",
+      "publisher": "Insider Monkey",
+      "time": 1786562898,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e9f16678-a10b-37dd-96fb-354c33889658",
+      "title": "Gnosis Chain Just Made the First Move Toward the Ethereum Economic Zone",
+      "link": "https://finance.yahoo.com/m/e9f16678-a10b-37dd-96fb-354c33889658/gnosis-chain-just-made-the.html",
+      "publisher": "Bankless",
+      "time": 1786562844,
       "impact": "high",
       "tags": [
         "geo",
@@ -73,109 +138,40 @@
       ]
     },
     {
-      "id": "d7312e4b-26fb-36e8-b8c4-7eca6f008549",
-      "title": "United Solar Welcomes U.S. Section 232 Measures on Polysilicon",
-      "link": "https://finance.yahoo.com/energy/articles/united-solar-welcomes-u-section-181800745.html",
-      "publisher": "PR Newswire",
-      "time": 1786558680,
+      "id": "0285ce38-35b9-390f-8678-07b646f07d45",
+      "title": "Blank Rome Expands Houston Office with Addition of Business Litigation and Energy Industry Partner Daniel S. Mayerfeld",
+      "link": "https://finance.yahoo.com/energy/articles/blank-rome-expands-houston-office-192700749.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786562820,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "21bc7968-95d2-3464-a3df-34581879d43e",
-      "title": "Update: Quantinuum Shares Rise After Q2 Revenue Beat, Better-Than-Expected 2026 Revenue Guidance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/quantinuum-shares-rise-q2-revenue-181747662.html",
-      "publisher": "MT Newswires",
-      "time": 1786558667,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "dafce4da-274c-32d4-a032-3ac56f95daf8",
-      "title": "After Coldcard Was Hacked, $15 Billion in Bitcoin Moved to Safety",
-      "link": "https://finance.yahoo.com/m/dafce4da-274c-32d4-a032-3ac56f95daf8/after-coldcard-was-hacked%2C.html",
-      "publisher": "decrypt",
-      "time": 1786558564,
+      "id": "225b97d6-051e-38e0-ba52-697a55e9848d",
+      "title": "Can Ryanair’s (RYAAY) New AI Deal Offset Its Falling Fares?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ryanair-ryaay-ai-deal-offset-192620821.html",
+      "publisher": "Insider Monkey",
+      "time": 1786562780,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "675c7666-b055-3ea7-9865-4cc0dac5625f",
-      "title": "UroGen (URGN) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/675c7666-b055-3ea7-9865-4cc0dac5625f/urogen-%28urgn%29-q2-2026.html",
+      "id": "50b58e56-c1a5-32fb-a055-df3eb7c359c4",
+      "title": "DEKRA Expands Automotive EMC Testing Capabilities with General Motors GMW3097 Approval",
+      "link": "https://finance.yahoo.com/technology/articles/dekra-expands-automotive-emc-testing-192600836.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786562760,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "abb2f2e0-ae69-3ebf-a2bc-3dc91eb2fd4a",
+      "title": "Should You Buy Home Depot Stock Before Aug. 18?",
+      "link": "https://finance.yahoo.com/m/abb2f2e0-ae69-3ebf-a2bc-3dc91eb2fd4a/should-you-buy-home-depot.html",
       "publisher": "Motley Fool",
-      "time": 1786558544,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "09c60432-a033-3de7-84bb-d35d8a3dd087",
-      "title": "OtterBox Introduces Collection of Premium Protection Phone Cases for New Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL and Pixel 11 Pro Fold",
-      "link": "https://finance.yahoo.com/technology/articles/otterbox-introduces-collection-premium-protection-181500119.html",
-      "publisher": "PR Newswire",
-      "time": 1786558500,
+      "time": 1786562700,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "de986af6-c0f0-3daf-a2e4-51097285893d",
-      "title": "U.S. ETF Investors at Odds: Chasing Returns or Playing the Long Game?",
-      "link": "https://finance.yahoo.com/m/de986af6-c0f0-3daf-a2e4-51097285893d/u.s.-etf-investors-at-odds%3A.html",
-      "publisher": "etf.com",
-      "time": 1786558489,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f633e770-7dd5-36bc-bf72-24c7eb7ef8ce",
-      "title": "Top Midday Decliners",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-181438190.html",
-      "publisher": "MT Newswires",
-      "time": 1786558478,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2029e638-ada0-39c0-be15-49c4e865e8ee",
-      "title": "Sprott (SII) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/2029e638-ada0-39c0-be15-49c4e865e8ee/sprott-%28sii%29-q2-2026-earnings.html",
-      "publisher": "Motley Fool",
-      "time": 1786558455,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "65425530-aa85-3ad6-80ad-18c069f6f7f0",
-      "title": "XPEL (XPEL) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/65425530-aa85-3ad6-80ad-18c069f6f7f0/xpel-%28xpel%29-q2-2026-earnings.html",
-      "publisher": "Motley Fool",
-      "time": 1786558455,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "6fecf193-5576-3c6d-8a48-78319e8df0b3",
-      "title": "LCI Industries (LCII) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/6fecf193-5576-3c6d-8a48-78319e8df0b3/lci-industries-%28lcii%29-q2-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1786558455,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
     }
   ],
   "errors": {
