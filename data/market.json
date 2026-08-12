@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T21:38:20.736715+00:00",
+  "updatedAt": "2026-08-12T22:33:35.403373+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,116 +52,106 @@
   ],
   "news": [
     {
-      "id": "39cfe1b7-daff-31a8-80d6-c89c09d05522",
-      "title": "Mark Zuckerberg sends controversial message on the future of jobs",
-      "link": "https://finance.yahoo.com/m/39cfe1b7-daff-31a8-80d6-c89c09d05522/mark-zuckerberg-sends.html",
-      "publisher": "TheStreet",
-      "time": 1786570380,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a863dffe-51b2-3286-b582-20ba9e9c7db7",
-      "title": "FUCHS Announces Grand Opening of Americas Technology Center in Massachusetts",
-      "link": "https://finance.yahoo.com/technology/articles/fuchs-announces-grand-opening-americas-213043903.html",
-      "publisher": "NewMediaWire",
-      "time": 1786570243,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "097d9c33-39db-3999-b22f-5b63617b607d",
-      "title": "CCL Industries Announces Record Results for 2026 Second Quarter",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ccl-industries-announces-record-results-213000413.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786570200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4409fb4b-6596-3fbe-997a-08af0f104ee1",
-      "title": "Bolt Metals to Rebrand as 26 Metals Inc. and Adopt the Ticker \"IRON,\" Highlighting Its Focus on Flagship Florália Iron Project in Brazil's Iron Quadrangle",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/bolt-metals-rebrand-26-metals-213000449.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786570200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "44e887bd-a0db-3f90-b190-3d8045328c49",
-      "title": "Amazon's $18 solar string lights require minimal effort and elevate any outdoor space",
-      "link": "https://finance.yahoo.com/m/44e887bd-a0db-3f90-b190-3d8045328c49/amazon%27s-%2418-solar-string.html",
-      "publisher": "TheStreet",
-      "time": 1786570200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8dc1e919-05eb-3a34-9100-2bcc75142200",
-      "title": "CANTEX CLOSES FIRST TRANCHE OF A NON-BROKERED PRIVATE PLACEMENT",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cantex-closes-first-tranche-non-213000080.html",
-      "publisher": "CNW Group",
-      "time": 1786570200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7b012685-1709-3c66-85ff-780306ae9085",
-      "title": "Impact Development Group Inc. Announces Cancellation of Warrants and Restated Loan Agreement",
-      "link": "https://finance.yahoo.com/real-estate/articles/impact-development-group-inc-announces-213000037.html",
-      "publisher": "TMX Newsfile",
-      "time": 1786570200,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "ad960351-cfd9-331e-98d1-800be1cc6ea3",
-      "title": "No-stress Sabalenka won't fret over lackluster 2026 results",
-      "link": "https://finance.yahoo.com/m/ad960351-cfd9-331e-98d1-800be1cc6ea3/no-stress-sabalenka-won%27t.html",
-      "publisher": "AFP",
-      "time": 1786570188,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9d0776a2-c6e7-382c-94cf-b987123690ee",
-      "title": "The 2 Factors That Will Decide GAIQ’s Next 12 Months as AI Capex Spending Slows",
-      "link": "https://finance.yahoo.com/m/9d0776a2-c6e7-382c-94cf-b987123690ee/the-2-factors-that-will.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786570178,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b5a04648-ff38-368e-9eff-8aa8ece9c52a",
-      "title": "The Pudding journalists awarded 2026 Pamela Tobey Award for Excellence in Visual Storytelling",
-      "link": "https://finance.yahoo.com/media-advertising/articles/pudding-journalists-awarded-2026-pamela-212900442.html",
-      "publisher": "PR Newswire",
-      "time": 1786570140,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "9e9a4f6c-39d3-3026-82f6-6294ca84f94f",
-      "title": "BP (BP) Has A New CEO And A Blunt Diagnosis. Will It Work?",
-      "link": "https://finance.yahoo.com/energy/articles/bp-bp-ceo-blunt-diagnosis-212838607.html",
+      "id": "1e5e206c-7501-3ab5-9049-49a974df28b9",
+      "title": "Hinge Health (HNGE) Just Bought Its Way Into A New Market, So Now What?",
+      "link": "https://finance.yahoo.com/healthcare/articles/hinge-health-hnge-just-bought-222803049.html",
       "publisher": "Insider Monkey",
-      "time": 1786570118,
+      "time": 1786573683,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "ab6d17ab-bff4-3f35-987d-22c31f570da7",
+      "title": "Civil rights agency moves to drop subpoena action against Nike in DEI-related investigation",
+      "link": "https://finance.yahoo.com/m/ab6d17ab-bff4-3f35-987d-22c31f570da7/civil-rights-agency-moves-to.html",
+      "publisher": "Associated Press",
+      "time": 1786573648,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4545301d-1d8e-33f4-a7f3-39d65992d55b",
-      "title": "A Married Couple’s Tax Brackets Are Nearly Twice as Wide as a Widow’s. Couples Who Convert Their IRAs While Both Are Alive Keep That Discount Forever",
-      "link": "https://finance.yahoo.com/m/4545301d-1d8e-33f4-a7f3-39d65992d55b/a-married-couple%E2%80%99s-tax.html",
+      "id": "8628b98d-73ad-3814-9355-c29bccf76238",
+      "title": "AMD, Intel, and NVIDIA All Rally Wednesday After Series of Blockbuster AI Earnings Reports",
+      "link": "https://finance.yahoo.com/m/8628b98d-73ad-3814-9355-c29bccf76238/amd%2C-intel%2C-and-nvidia-all.html",
       "publisher": "24/7 Wall St.",
-      "time": 1786569966,
+      "time": 1786573287,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "12920c3a-88e6-340d-a51a-9959278aaaf8",
+      "title": "Trapped dog rescued after weeks missing",
+      "link": "https://finance.yahoo.com/m/12920c3a-88e6-340d-a51a-9959278aaaf8/trapped-dog-rescued-after.html",
+      "publisher": "USA TODAY",
+      "time": 1786573235,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "412e584d-4f34-3feb-8094-0c22dbf61572",
+      "title": "Mission Bank named in the top 20 performing banks under $2 billion for fourth year in a row",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mission-bank-named-top-20-222000242.html",
+      "publisher": "PR Newswire",
+      "time": 1786573200,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "5f5a455b-3b6c-334d-b672-1541b923b16a",
+      "title": "Alexandria Real Estate Equities, Inc. Announces Pricing of Public Offering of $1,000,000,000 of Series A Fixed-to-Fixed Reset Rate Junior Subordinated Notes due 2057",
+      "link": "https://finance.yahoo.com/real-estate/articles/alexandria-real-estate-equities-inc-222000090.html",
+      "publisher": "PR Newswire",
+      "time": 1786573200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "79d86b1b-4c96-324f-9e8f-f4679fcf631f",
+      "title": "Alight’s (ALIT) Earnings Beat Hides A Shrinking Core, So What Gives?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alight-alit-earnings-beat-hides-221834535.html",
+      "publisher": "Insider Monkey",
+      "time": 1786573114,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "5eba0e81-bd3a-35cd-aac6-d80754f71bbe",
+      "title": "AARP issues urgent call on Medicare drug costs",
+      "link": "https://finance.yahoo.com/m/5eba0e81-bd3a-35cd-aac6-d80754f71bbe/aarp-issues-urgent-call-on.html",
+      "publisher": "TheStreet",
+      "time": 1786573020,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c422946c-6ef5-38e6-a4e0-a289b188c9c7",
+      "title": "Crypto Market Today, Aug. 12: Bitcoin Slips Despite Cooling Inflation",
+      "link": "https://finance.yahoo.com/m/c422946c-6ef5-38e6-a4e0-a289b188c9c7/crypto-market-today%2C-aug.-12%3A.html",
+      "publisher": "Motley Fool",
+      "time": 1786573018,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "1a0d8646-653b-3bdc-b01b-751478711317",
+      "title": "Social Security’s Retirement Fund Runs Dry in 2032. The Fallback Plan Is a 22% Smaller Check. These 4 ETFs Are Your Insurance",
+      "link": "https://finance.yahoo.com/m/1a0d8646-653b-3bdc-b01b-751478711317/social-security%E2%80%99s-retirement.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786572952,
       "impact": "low",
       "tags": []
     }
