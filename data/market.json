@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-12T08:11:11.479210+00:00",
+  "updatedAt": "2026-08-12T09:38:37.407411+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20171.8,
-      "change": -41.79999999999927,
-      "changePct": -0.2067914671310369,
+      "price": 20226.0,
+      "change": 12.400000000001455,
+      "changePct": 0.06134483713935892,
       "currency": "EUR"
     },
     {
@@ -28,124 +28,119 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26420.48,
-      "change": 96.59999999999854,
-      "changePct": 0.36696717961029507,
+      "price": 26503.31,
+      "change": 179.4300000000003,
+      "changePct": 0.6816244413817426,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6549.24,
-      "change": -1.980000000000473,
-      "changePct": -0.030223378241006606,
+      "price": 6561.65,
+      "change": 10.429999999999382,
+      "changePct": 0.15920698740081055,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.35,
-      "change": 0.07000000000000028,
-      "changePct": 0.45811518324607514,
+      "price": 15.32,
+      "change": 0.040000000000000924,
+      "changePct": 0.26178010471204793,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "2aec3b1e-1ad5-3ac1-b6d9-8032f7cc2d96",
-      "title": "Composite Hydrogen Tanks Competitive Landscape Led by Hexagon Purus, FORVIA, ILJIN Hysolus and OPmobility",
-      "link": "https://finance.yahoo.com/energy/articles/composite-hydrogen-tanks-competitive-landscape-080300270.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786521780,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ceb898e4-f6a0-33bf-b5c9-1813e7ab3554",
-      "title": "Check Point Sees AI Security Spending Surge as 2027 Growth Setup Takes Shape",
-      "link": "https://finance.yahoo.com/m/ceb898e4-f6a0-33bf-b5c9-1813e7ab3554/check-point-sees-ai-security.html",
-      "publisher": "MarketBeat",
-      "time": 1786521734,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "0a49120a-5c60-36dd-8c95-4bed7fe0e02d",
-      "title": "Bechtle Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/0a49120a-5c60-36dd-8c95-4bed7fe0e02d/bechtle-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1786521733,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "56c59b87-6e08-3114-93f4-9f75f2d1c83e",
-      "title": "European stocks steady, oil rises before CPI",
-      "link": "https://finance.yahoo.com/news/oil-gold-prices-rise-geopolitical-021926510.html",
-      "publisher": "Reuters",
-      "time": 1786521720,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "57199a1f-a84b-3176-b55d-015d3840304f",
-      "title": "GCash Parent Mynt Cited as Sole Philippine Firm in World's Top Fintech Companies List",
-      "link": "https://finance.yahoo.com/technology/articles/gcash-parent-mynt-cited-sole-080200287.html",
-      "publisher": "PR Newswire",
-      "time": 1786521720,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b467ee4a-4476-35d0-910a-8b63ee4ce6cd",
-      "title": "Chinese Low-Speed Autonomous Driving Industry Development Report 2026 Now Available, Published as Report-Profiled Neolix Surpasses 25,000 RoboVans Across 300+ Cities",
-      "link": "https://finance.yahoo.com/technology/ai/articles/chinese-low-speed-autonomous-driving-080200509.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786521720,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "004095d6-19e9-33fd-b67e-d7544c52bac1",
-      "title": "Guangzhou Wondfo Biotech Co Ltd - Product Pipeline Analysis, 2026 Update Now Available — 143-Page Review of All Pipeline Products by Equipment Type, Indication, and Development Stage",
-      "link": "https://finance.yahoo.com/healthcare/articles/guangzhou-wondfo-biotech-co-ltd-080100073.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786521660,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "baf7292c-f897-35af-918c-b725b97abff2",
-      "title": "Beta Technologies Insider Sold Shares Worth $1,149,998, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/beta-technologies-insider-sold-shares-080020450.html",
+      "id": "38f17550-1c60-3174-b5ee-c4e68a699fa1",
+      "title": "Update: United States Antimony Shares Drop Pre-Bell as Q2 Revenue Declines, 2026 Outlook Cut",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/united-states-antimony-shares-drop-093408841.html",
       "publisher": "MT Newswires",
-      "time": 1786521620,
+      "time": 1786527248,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3ec12a91-c11c-34c3-a561-fd233a5a7f4d",
-      "title": "IPNation and Influence Media Partners Join Forces to Launch the First Investment Platform Dedicated to MENA Music and Entertainment IP",
-      "link": "https://finance.yahoo.com/media-advertising/articles/ipnation-influence-media-partners-join-080000797.html",
-      "publisher": "Business Wire",
-      "time": 1786521600,
+      "id": "c53beb1b-d877-3c74-9387-4b5499145b25",
+      "title": "Middleby (MIDD) To Report Earnings Tomorrow: Here Is What To Expect",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/middleby-midd-report-earnings-tomorrow-093322541.html",
+      "publisher": "StockStory",
+      "time": 1786527202,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "bc34a3a1-231e-3f16-a24d-7558a8efc663",
+      "title": "Truist Securities Adjusts Price Target on Evolent Health to $6 From $7, Keeps Hold Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/truist-securities-adjusts-price-target-093315787.html",
+      "publisher": "MT Newswires",
+      "time": 1786527195,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "95c62637-dfff-3006-9de0-929b1ca710d1",
-      "title": "Walmart is selling a $200 2-in-1 laptop and tablet for 45% off",
-      "link": "https://finance.yahoo.com/m/95c62637-dfff-3006-9de0-929b1ca710d1/walmart-is-selling-a-%24200.html",
-      "publisher": "TheStreet",
-      "time": 1786521600,
+      "id": "d5d3e4e3-fde1-3e82-94e5-aa28eee8815d",
+      "title": "Truist Securities Adjusts Price Target on AECOM to $85 From $102, Keeps Buy Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/truist-securities-adjusts-price-target-093258253.html",
+      "publisher": "MT Newswires",
+      "time": 1786527178,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f110e80e-8b9f-312a-bc27-214fbab52c5f",
+      "title": "Bracco’s VueJect contrast system secures FDA and Health Canada approvals",
+      "link": "https://finance.yahoo.com/m/f110e80e-8b9f-312a-bc27-214fbab52c5f/bracco%E2%80%99s-vueject-contrast.html",
+      "publisher": "Medical Device Network",
+      "time": 1786527167,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "34533c45-6fb9-31a9-8aea-26759fe3427b",
+      "title": "Goldman Sachs Adjusts PT on Hewlett Packard Enterprise to $75 From $79, Maintains Buy Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-pt-hewlett-093239875.html",
+      "publisher": "MT Newswires",
+      "time": 1786527159,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "89f01581-5079-386b-a351-1b2ea1f1588c",
+      "title": "Madden NYC partners with Reliance Brands to enter India",
+      "link": "https://finance.yahoo.com/m/89f01581-5079-386b-a351-1b2ea1f1588c/madden-nyc-partners-with.html",
+      "publisher": "Retail Insight Network",
+      "time": 1786527149,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d55d2249-0817-3d77-8759-07107b622479",
+      "title": "Wells Fargo Adjusts Price Target on Salesforce to $205 From $200, Keeps Equalweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-price-target-093216289.html",
+      "publisher": "MT Newswires",
+      "time": 1786527136,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "584e15a8-6241-3e67-b466-f99f5c8574c6",
+      "title": "Wells Fargo Adjusts Price Target on Workday to $215 From $185, Keeps Overweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-price-target-093202222.html",
+      "publisher": "MT Newswires",
+      "time": 1786527122,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "299e9184-0cc0-363f-85c4-a47783d6dac6",
+      "title": "Wells Fargo Adjusts Price Target on ServiceNow to $175 From $160, Keeps Overweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-price-target-093145870.html",
+      "publisher": "MT Newswires",
+      "time": 1786527105,
       "impact": "low",
       "tags": []
     }
