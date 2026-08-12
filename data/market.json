@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T03:34:40.856031+00:00",
+  "updatedAt": "2026-08-12T05:26:26.422326+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6551.22,
       "change": 15.600000000000364,
       "changePct": 0.23869196801528186,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,22 +52,53 @@
   ],
   "news": [
     {
-      "id": "d8c6bf8c-1c05-3835-9734-1381cad9ac3e",
-      "title": "1 Momentum  Stock with Competitive Advantages and 2 We Ignore",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-momentum-stock-competitive-advantages-032522006.html",
-      "publisher": "StockStory",
-      "time": 1786505122,
+      "id": "354960d4-ef0c-3dbb-937a-a63ed80ef82c",
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "link": "https://finance.yahoo.com/m/354960d4-ef0c-3dbb-937a-a63ed80ef82c/stock-market%3A-will-s%26p-500.html",
+      "publisher": "Benzinga Prediction Markets",
+      "time": 1786511873,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "6df02a2c-0961-3933-9547-2cecb70f1e7a",
-      "title": "DapuStor Showcases 512TB SSD and Named Device Engineering Award Finalist at FMS2026",
-      "link": "https://finance.yahoo.com/technology/articles/dapustor-showcases-512tb-ssd-named-032100354.html",
+      "id": "7cfccef4-8c44-3a6a-a422-ae911fbd46a7",
+      "title": "2 Russell 2000 Stocks to Target This Week and 1 We Turn Down",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-russell-2000-stocks-target-051722207.html",
+      "publisher": "StockStory",
+      "time": 1786511842,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "a2b7a1f6-8313-3f12-a4dc-97b5b777a9cd",
+      "title": "1 of Wall Street’s Favorite Stocks on Our Buy List and 2 Facing Challenges",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stocks-050922085.html",
+      "publisher": "StockStory",
+      "time": 1786511362,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "18565235-eaa0-3a97-833a-cfee3d3e40e7",
+      "title": "Argus launches first ship-to-ship Gulf of Oman prices for Abu Dhabi crude",
+      "link": "https://finance.yahoo.com/energy/articles/argus-launches-first-ship-ship-050800615.html",
       "publisher": "PR Newswire",
-      "time": 1786504860,
+      "time": 1786511280,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7170c7f6-3bd3-35bf-bee2-a691a7f3afbd",
+      "title": "Dow Jones Futures: 3 Nvidia Partners Lead Earnings Movers; CPI Inflation Data Due",
+      "link": "https://finance.yahoo.com/m/7170c7f6-3bd3-35bf-bee2-a691a7f3afbd/dow-jones-futures%3A-3-nvidia.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786511261,
       "impact": "high",
       "tags": [
         "geo",
@@ -75,60 +106,11 @@
       ]
     },
     {
-      "id": "fcda695f-f996-3088-affe-560aab33e3ba",
-      "title": "Silence Therapeutics Announces Pricing of Upsized $175 Million Underwritten Public Offering",
-      "link": "https://finance.yahoo.com/healthcare/articles/silence-therapeutics-announces-pricing-upsized-032000898.html",
-      "publisher": "Business Wire",
-      "time": 1786504800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "497179b9-0e07-388d-a540-3389e8105973",
-      "title": "Lewie Expands Retail Distribution Through Hen House Markets in Kansas City",
-      "link": "https://finance.yahoo.com/small-business/articles/lewie-expands-retail-distribution-hen-031900979.html",
-      "publisher": "PR Newswire",
-      "time": 1786504740,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "64fe9a18-a994-365c-96ac-5c9200c93b55",
-      "title": "Left-Wing Francesca Hong Locked in Tight Race for Democratic Nomination in Wisconsin",
-      "link": "https://finance.yahoo.com/m/64fe9a18-a994-365c-96ac-5c9200c93b55/left-wing-francesca-hong.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1786504680,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6f16dc9c-da55-3780-8095-df0ab820cebf",
-      "title": "1 Cash-Heavy Stock to Consider Right Now and 2 Facing Headwinds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-heavy-stock-consider-031722663.html",
-      "publisher": "StockStory",
-      "time": 1786504642,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "48848095-d596-3637-8515-2466de906c20",
-      "title": "U.S. Pentagon contract sends Australian miner's stock flying",
-      "link": "https://finance.yahoo.com/m/48848095-d596-3637-8515-2466de906c20/u.s.-pentagon-contract-sends.html",
-      "publisher": "TheStreet",
-      "time": 1786504620,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e1135f9f-152d-3673-a9c4-654862a7adb3",
-      "title": "3 Unprofitable Stocks That Concern Us",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-unprofitable-stocks-concern-us-030922483.html",
-      "publisher": "StockStory",
-      "time": 1786504162,
+      "id": "4ed443af-c066-3d62-bd53-a34fccb69528",
+      "title": "Inuvo Inc (INUV) (Q2 2026) Earnings Call Highlights: Strategic Pivot to IntentKey Drives 19% ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/inuvo-inc-inuv-q2-2026-050321704.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786511001,
       "impact": "medium",
       "tags": [
         "macro",
@@ -136,31 +118,52 @@
       ]
     },
     {
-      "id": "a5cc04ad-f501-3dbb-b41e-47610182eece",
-      "title": "Helfie AI Appoints Heavyweight Tech and Governance Leaders to its Board of Directors",
-      "link": "https://finance.yahoo.com/technology/ai/articles/helfie-ai-appoints-heavyweight-tech-030800358.html",
-      "publisher": "CNW Group",
-      "time": 1786504080,
-      "impact": "low",
-      "tags": []
+      "id": "220a30fc-27d1-368c-9104-3d4940077beb",
+      "title": "QuickLogic Corp (QUIK) (Q2 2026) Earnings Call Highlights: Revenue Surges 48. ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/quicklogic-corp-quik-q2-2026-050312363.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786510992,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "4ccd16e1-0058-3a0e-b33a-03784d42cb87",
-      "title": "BofA sends strong message on Nvidia's weak spot",
-      "link": "https://finance.yahoo.com/m/4ccd16e1-0058-3a0e-b33a-03784d42cb87/bofa-sends-strong-message-on.html",
-      "publisher": "TheStreet",
-      "time": 1786504020,
-      "impact": "low",
-      "tags": []
+      "id": "f489de7d-b911-3d6d-8ed7-3332df7a31b6",
+      "title": "United States Antimony Corp (UAMY) (Q2 2026) Earnings Call Highlights: Antimony Volumes Surge ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/united-states-antimony-corp-uamy-050302814.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786510982,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "dce0aae4-c870-300a-8fd4-abdde3e99a52",
-      "title": "Rybakina ousts Osaka to book Toronto semi-final against Gauff",
-      "link": "https://finance.yahoo.com/m/dce0aae4-c870-300a-8fd4-abdde3e99a52/rybakina-ousts-osaka-to-book.html",
-      "publisher": "AFP",
-      "time": 1786504003,
-      "impact": "low",
-      "tags": []
+      "id": "b210bba0-50b8-3ded-b148-86fb339e3145",
+      "title": "H&R Block Inc (HRB) (Q4 2026) Earnings Call Highlights: Record Performance and Strategic ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/h-r-block-inc-hrb-050258629.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786510978,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9be52942-d1a1-3bf8-9316-975c10e1aa7e",
+      "title": "Armanino Foods of Distinction Inc (AMNF) (Q2 2026) Earnings Call Highlights: Record Sales and ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/armanino-foods-distinction-inc-amnf-050248102.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786510968,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
