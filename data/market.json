@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-12T09:38:37.407411+00:00",
+  "updatedAt": "2026-08-12T10:55:41.710299+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20226.0,
-      "change": 12.400000000001455,
-      "changePct": 0.06134483713935892,
+      "price": 20253.8,
+      "change": 40.20000000000073,
+      "changePct": 0.19887600427435356,
       "currency": "EUR"
     },
     {
@@ -28,119 +28,122 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26503.31,
-      "change": 179.4300000000003,
-      "changePct": 0.6816244413817426,
+      "price": 26528.59,
+      "change": 204.70999999999913,
+      "changePct": 0.7776589165426948,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6561.65,
-      "change": 10.429999999999382,
-      "changePct": 0.15920698740081055,
+      "price": 6567.31,
+      "change": 16.090000000000146,
+      "changePct": 0.2456031090392346,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.32,
-      "change": 0.040000000000000924,
-      "changePct": 0.26178010471204793,
+      "price": 15.4,
+      "change": 0.120000000000001,
+      "changePct": 0.7853403141361323,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "38f17550-1c60-3174-b5ee-c4e68a699fa1",
-      "title": "Update: United States Antimony Shares Drop Pre-Bell as Q2 Revenue Declines, 2026 Outlook Cut",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/united-states-antimony-shares-drop-093408841.html",
-      "publisher": "MT Newswires",
-      "time": 1786527248,
+      "id": "18b46f59-62e5-391e-a96f-ad993fe7bbe1",
+      "title": "UK’s Halewood sells Crabbie’s to local group Brookfield Drinks",
+      "link": "https://finance.yahoo.com/m/18b46f59-62e5-391e-a96f-ad993fe7bbe1/uk%E2%80%99s-halewood-sells-crabbie%E2%80%99s.html",
+      "publisher": "Just Drinks",
+      "time": 1786532062,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c53beb1b-d877-3c74-9387-4b5499145b25",
-      "title": "Middleby (MIDD) To Report Earnings Tomorrow: Here Is What To Expect",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/middleby-midd-report-earnings-tomorrow-093322541.html",
-      "publisher": "StockStory",
-      "time": 1786527202,
-      "impact": "medium",
+      "id": "3437c0ef-1a11-3763-9f50-9e75394ac02b",
+      "title": "Abbott and Google Health partner for glucose monitoring solutions",
+      "link": "https://finance.yahoo.com/m/3437c0ef-1a11-3763-9f50-9e75394ac02b/abbott-and-google-health.html",
+      "publisher": "Medical Device Network",
+      "time": 1786532048,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "03dd72f8-3224-33e6-b297-8f431fc67125",
+      "title": "If a Stock Market Crash Is Coming, Warren Buffett Says Investors Should Make This 1 Move Right Now",
+      "link": "https://finance.yahoo.com/m/03dd72f8-3224-33e6-b297-8f431fc67125/if-a-stock-market-crash-is.html",
+      "publisher": "Motley Fool",
+      "time": 1786531800,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "bc34a3a1-231e-3f16-a24d-7558a8efc663",
-      "title": "Truist Securities Adjusts Price Target on Evolent Health to $6 From $7, Keeps Hold Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/truist-securities-adjusts-price-target-093315787.html",
-      "publisher": "MT Newswires",
-      "time": 1786527195,
+      "id": "b8766464-0e84-398a-b1db-3624bfd70fee",
+      "title": "Pharvaris Reports Second Quarter 2026 Financial Results and Provides Business Update",
+      "link": "https://finance.yahoo.com/healthcare/articles/pharvaris-reports-second-quarter-2026-105000678.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786531800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d5d3e4e3-fde1-3e82-94e5-aa28eee8815d",
-      "title": "Truist Securities Adjusts Price Target on AECOM to $85 From $102, Keeps Buy Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/truist-securities-adjusts-price-target-093258253.html",
-      "publisher": "MT Newswires",
-      "time": 1786527178,
+      "id": "ce259386-a81d-34e0-a405-85d10cac0381",
+      "title": "Protalix BioTherapeutics Reports Second Quarter 2026 Financial and Business Results",
+      "link": "https://finance.yahoo.com/healthcare/articles/protalix-biotherapeutics-reports-second-quarter-105000809.html",
+      "publisher": "PR Newswire",
+      "time": 1786531800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f110e80e-8b9f-312a-bc27-214fbab52c5f",
-      "title": "Bracco’s VueJect contrast system secures FDA and Health Canada approvals",
-      "link": "https://finance.yahoo.com/m/f110e80e-8b9f-312a-bc27-214fbab52c5f/bracco%E2%80%99s-vueject-contrast.html",
-      "publisher": "Medical Device Network",
-      "time": 1786527167,
+      "id": "ebd52a77-8f22-35aa-9439-26efd4621719",
+      "title": "BD Accelerates Advanced Tissue Regeneration Strategy with Landmark PREVENT Trial",
+      "link": "https://finance.yahoo.com/healthcare/articles/bd-accelerates-advanced-tissue-regeneration-105000449.html",
+      "publisher": "PR Newswire",
+      "time": 1786531800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "34533c45-6fb9-31a9-8aea-26759fe3427b",
-      "title": "Goldman Sachs Adjusts PT on Hewlett Packard Enterprise to $75 From $79, Maintains Buy Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-pt-hewlett-093239875.html",
-      "publisher": "MT Newswires",
-      "time": 1786527159,
+      "id": "29f0c54e-dd3a-3b6c-9c70-f0c955a2a400",
+      "title": "WHO says Trump vaccine shake-up goes against evidence",
+      "link": "https://finance.yahoo.com/m/29f0c54e-dd3a-3b6c-9c70-f0c955a2a400/who-says-trump-vaccine.html",
+      "publisher": "AFP",
+      "time": 1786531676,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "89f01581-5079-386b-a351-1b2ea1f1588c",
-      "title": "Madden NYC partners with Reliance Brands to enter India",
-      "link": "https://finance.yahoo.com/m/89f01581-5079-386b-a351-1b2ea1f1588c/madden-nyc-partners-with.html",
-      "publisher": "Retail Insight Network",
-      "time": 1786527149,
+      "id": "0957c426-867c-3d52-a91c-d80f0e63c772",
+      "title": "IBM and Together AI sign $240m multi-year cloud agreement",
+      "link": "https://finance.yahoo.com/m/0957c426-867c-3d52-a91c-d80f0e63c772/ibm-and-together-ai-sign.html",
+      "publisher": "Verdict",
+      "time": 1786531606,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d55d2249-0817-3d77-8759-07107b622479",
-      "title": "Wells Fargo Adjusts Price Target on Salesforce to $205 From $200, Keeps Equalweight Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-price-target-093216289.html",
-      "publisher": "MT Newswires",
-      "time": 1786527136,
-      "impact": "low",
-      "tags": []
+      "id": "84f81cb1-1dbe-34b5-b4b0-d86e3aafdcfd",
+      "title": "U.S. Inflation Data Could Have Limited Influence on Fed's September Rate Decision",
+      "link": "https://finance.yahoo.com/m/84f81cb1-1dbe-34b5-b4b0-d86e3aafdcfd/u.s.-inflation-data-could.html",
+      "publisher": "Barrons.com",
+      "time": 1786531592,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "584e15a8-6241-3e67-b466-f99f5c8574c6",
-      "title": "Wells Fargo Adjusts Price Target on Workday to $215 From $185, Keeps Overweight Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-price-target-093202222.html",
-      "publisher": "MT Newswires",
-      "time": 1786527122,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "299e9184-0cc0-363f-85c4-a47783d6dac6",
-      "title": "Wells Fargo Adjusts Price Target on ServiceNow to $175 From $160, Keeps Overweight Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-price-target-093145870.html",
-      "publisher": "MT Newswires",
-      "time": 1786527105,
+      "id": "8262443d-74fe-35ac-b3f5-76e4f62c159d",
+      "title": "AICPA seeks clearer CAMT rules from Treasury and IRS",
+      "link": "https://finance.yahoo.com/m/8262443d-74fe-35ac-b3f5-76e4f62c159d/aicpa-seeks-clearer-camt.html",
+      "publisher": "The Accountant",
+      "time": 1786531547,
       "impact": "low",
       "tags": []
     }
