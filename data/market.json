@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-12T06:52:58.896865+00:00",
+  "updatedAt": "2026-08-12T08:11:11.479210+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20213.6,
-      "change": 40.599999999998545,
-      "changePct": 0.2012591087096542,
+      "price": 20171.8,
+      "change": -41.79999999999927,
+      "changePct": -0.2067914671310369,
       "currency": "EUR"
     },
     {
@@ -28,44 +28,55 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26391.42,
-      "change": 71.96999999999753,
-      "changePct": 0.27344796338828325,
+      "price": 26420.48,
+      "change": 96.59999999999854,
+      "changePct": 0.36696717961029507,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6551.22,
-      "change": 15.600000000000364,
-      "changePct": 0.23869196801528186,
+      "price": 6549.24,
+      "change": -1.980000000000473,
+      "changePct": -0.030223378241006606,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.28,
-      "change": -0.1800000000000015,
-      "changePct": -1.1642949547218724,
+      "price": 15.35,
+      "change": 0.07000000000000028,
+      "changePct": 0.45811518324607514,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "fceab763-fc45-3c30-a02f-33f228a65e8a",
-      "title": "How Britain's mapmakers track climate change",
-      "link": "https://finance.yahoo.com/m/fceab763-fc45-3c30-a02f-33f228a65e8a/how-britain%27s-mapmakers-track.html",
-      "publisher": "AFP",
-      "time": 1786517218,
+      "id": "2aec3b1e-1ad5-3ac1-b6d9-8032f7cc2d96",
+      "title": "Composite Hydrogen Tanks Competitive Landscape Led by Hexagon Purus, FORVIA, ILJIN Hysolus and OPmobility",
+      "link": "https://finance.yahoo.com/energy/articles/composite-hydrogen-tanks-competitive-landscape-080300270.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786521780,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e9008f04-b6a9-32d9-b352-c7e55315b2e2",
-      "title": "Foxconn posts quarterly profit surge on AI server demand",
-      "link": "https://finance.yahoo.com/technology/ai/articles/foxconn-posts-quarterly-profit-surge-064534770.html",
-      "publisher": "AFP",
-      "time": 1786517134,
+      "id": "ceb898e4-f6a0-33bf-b5c9-1813e7ab3554",
+      "title": "Check Point Sees AI Security Spending Surge as 2027 Growth Setup Takes Shape",
+      "link": "https://finance.yahoo.com/m/ceb898e4-f6a0-33bf-b5c9-1813e7ab3554/check-point-sees-ai-security.html",
+      "publisher": "MarketBeat",
+      "time": 1786521734,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "0a49120a-5c60-36dd-8c95-4bed7fe0e02d",
+      "title": "Bechtle Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/0a49120a-5c60-36dd-8c95-4bed7fe0e02d/bechtle-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1786521733,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,29 +84,11 @@
       ]
     },
     {
-      "id": "ba5f8f95-e88e-3447-a739-1e1f3aed165b",
-      "title": "Bacardi and ecoSPIRITS Deepen Collaboration With New Global Agreement on Circular Packaging",
-      "link": "https://finance.yahoo.com/media-advertising/articles/bacardi-ecospirits-deepen-collaboration-global-064500963.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786517100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "aacad9f2-455a-3087-9c22-0eb74587d5ab",
-      "title": "India’s small steelmakers could save money and cut emissions with switch to renewable power",
-      "link": "https://finance.yahoo.com/energy/articles/india-small-steelmakers-could-save-063926683.html",
-      "publisher": "Associated Press",
-      "time": 1786516766,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c1001914-3e21-3835-aeb5-6aa8eb360728",
-      "title": "Strauss Group Reports Q2 & H1-2026 Financial Results:¹ Solid operating income growth to NIS 363 million, up 42%; Net profit doubled to NIS 195 million",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/strauss-group-reports-q2-h1-063900312.html",
-      "publisher": "PR Newswire",
-      "time": 1786516740,
+      "id": "56c59b87-6e08-3114-93f4-9f75f2d1c83e",
+      "title": "European stocks steady, oil rises before CPI",
+      "link": "https://finance.yahoo.com/news/oil-gold-prices-rise-geopolitical-021926510.html",
+      "publisher": "Reuters",
+      "time": 1786521720,
       "impact": "medium",
       "tags": [
         "macro",
@@ -103,53 +96,56 @@
       ]
     },
     {
-      "id": "feee4626-d37d-3383-8510-0659602b8e90",
-      "title": "Skanska signs additional contract for medical office building in Durham, NC, USA, for USD 68M, about SEK 630M",
-      "link": "https://finance.yahoo.com/healthcare/articles/skanska-signs-additional-contract-medical-063900312.html",
+      "id": "57199a1f-a84b-3176-b55d-015d3840304f",
+      "title": "GCash Parent Mynt Cited as Sole Philippine Firm in World's Top Fintech Companies List",
+      "link": "https://finance.yahoo.com/technology/articles/gcash-parent-mynt-cited-sole-080200287.html",
       "publisher": "PR Newswire",
-      "time": 1786516740,
+      "time": 1786521720,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ccd0978c-5d58-386f-9b3c-39f5c737e91d",
-      "title": "3 Profitable Stocks We Keep Off Our Radar",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-profitable-stocks-keep-off-063722309.html",
-      "publisher": "StockStory",
-      "time": 1786516642,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "7f70424e-941d-3479-8d8a-66c140064730",
-      "title": "Macerich (MAC) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/7f70424e-941d-3479-8d8a-66c140064730/macerich-%28mac%29-q2-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1786516580,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "ec5ef251-8681-3f81-8b51-694913c84247",
-      "title": "Metacon publishes interim report for Q2 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/metacon-publishes-interim-report-q2-063600167.html",
-      "publisher": "PR Newswire",
-      "time": 1786516560,
+      "id": "b467ee4a-4476-35d0-910a-8b63ee4ce6cd",
+      "title": "Chinese Low-Speed Autonomous Driving Industry Development Report 2026 Now Available, Published as Report-Profiled Neolix Surpasses 25,000 RoboVans Across 300+ Cities",
+      "link": "https://finance.yahoo.com/technology/ai/articles/chinese-low-speed-autonomous-driving-080200509.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786521720,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "09796d44-e535-3a87-a2a8-f571a0c70c8a",
-      "title": "HiTHIUM to Supply 421MWh Battery Energy Storage System for GPG's Fraser Coast Project in Australia",
-      "link": "https://finance.yahoo.com/energy/articles/hithium-supply-421mwh-battery-energy-063500914.html",
-      "publisher": "PR Newswire",
-      "time": 1786516500,
+      "id": "004095d6-19e9-33fd-b67e-d7544c52bac1",
+      "title": "Guangzhou Wondfo Biotech Co Ltd - Product Pipeline Analysis, 2026 Update Now Available — 143-Page Review of All Pipeline Products by Equipment Type, Indication, and Development Stage",
+      "link": "https://finance.yahoo.com/healthcare/articles/guangzhou-wondfo-biotech-co-ltd-080100073.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786521660,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "baf7292c-f897-35af-918c-b725b97abff2",
+      "title": "Beta Technologies Insider Sold Shares Worth $1,149,998, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/beta-technologies-insider-sold-shares-080020450.html",
+      "publisher": "MT Newswires",
+      "time": 1786521620,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3ec12a91-c11c-34c3-a561-fd233a5a7f4d",
+      "title": "IPNation and Influence Media Partners Join Forces to Launch the First Investment Platform Dedicated to MENA Music and Entertainment IP",
+      "link": "https://finance.yahoo.com/media-advertising/articles/ipnation-influence-media-partners-join-080000797.html",
+      "publisher": "Business Wire",
+      "time": 1786521600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "95c62637-dfff-3006-9de0-929b1ca710d1",
+      "title": "Walmart is selling a $200 2-in-1 laptop and tablet for 45% off",
+      "link": "https://finance.yahoo.com/m/95c62637-dfff-3006-9de0-929b1ca710d1/walmart-is-selling-a-%24200.html",
+      "publisher": "TheStreet",
+      "time": 1786521600,
       "impact": "low",
       "tags": []
     }
