@@ -1,74 +1,89 @@
 {
-  "updatedAt": "2026-08-12T14:17:22.739161+00:00",
+  "updatedAt": "2026-08-12T15:27:34.120284+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20236.2,
-      "change": 22.600000000002183,
-      "changePct": 0.11180591285076474,
+      "price": 20157.4,
+      "change": -56.19999999999709,
+      "changePct": -0.278030632841241,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7747.65,
-      "change": -5.460000000000036,
-      "changePct": -0.07042335269330677,
+      "price": 7742.11,
+      "change": -11.0,
+      "changePct": -0.14187854938211894,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26604.576,
-      "change": -0.7839999999996508,
-      "changePct": -0.002946774634884289,
+      "price": 26556.53,
+      "change": -48.830000000001746,
+      "changePct": -0.18353444569064933,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26425.63,
-      "change": 101.75,
-      "changePct": 0.38653116485867584,
+      "price": 26316.33,
+      "change": -7.549999999999272,
+      "changePct": -0.02868118225732404,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6550.41,
-      "change": -0.8100000000004002,
-      "changePct": -0.012364109280414948,
-      "currency": "EUR"
+      "price": 6528.51,
+      "change": -22.710000000000036,
+      "changePct": -0.34665298982479653,
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.85,
-      "change": -0.4299999999999997,
-      "changePct": -2.814136125654448,
+      "price": 14.82,
+      "change": -0.4599999999999991,
+      "changePct": -3.010471204188476,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "ee6cd5eb-b846-32df-b8c1-75e3a196c361",
-      "title": "Custody Bank Stocks Q2 Highlights: State Street (NYSE:STT)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/custody-bank-stocks-q2-highlights-141322625.html",
-      "publisher": "StockStory",
-      "time": 1786544002,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "d0778705-6008-3e67-ac14-0e6ffd5d847e",
+      "title": "HelloNation Features Hydraulic Systems Expert Mike Bonner on Common Signs of Hydraulic Hose Failure",
+      "link": "https://finance.yahoo.com/technology/articles/hellonation-features-hydraulic-systems-expert-152300702.html",
+      "publisher": "PR Newswire",
+      "time": 1786548180,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "aaf1368d-7666-3747-83e3-a9fd792c9ef3",
-      "title": "US inflation slows slightly in July despite elevated fuel prices",
-      "link": "https://finance.yahoo.com/economy/articles/us-consumer-inflation-slows-slightly-133214843.html",
-      "publisher": "AFP",
-      "time": 1786543979,
+      "id": "44d22183-ec6c-3510-bd99-3c684ce05915",
+      "title": "Adobe vs. AppLovin: Which Technology Stock Is a Better Buy in 2026?",
+      "link": "https://finance.yahoo.com/m/44d22183-ec6c-3510-bd99-3c684ce05915/adobe-vs.-applovin%3A-which.html",
+      "publisher": "Motley Fool",
+      "time": 1786548024,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ebffc1fa-8807-3f31-a03a-5bce13d91277",
+      "title": "Snowflake Core Consumption Seen Supporting Upcoming Fiscal Q2 Results, Oppenheimer Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-core-consumption-seen-supporting-152003351.html",
+      "publisher": "MT Newswires",
+      "time": 1786548003,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "36d06460-8f67-3402-b9b1-608c04154af0",
+      "title": "Jamie Dimon Just Issued a Warning About AI Stocks. History Says the Smartest Investors Are Making This 1 Move.",
+      "link": "https://finance.yahoo.com/m/36d06460-8f67-3402-b9b1-608c04154af0/jamie-dimon-just-issued-a.html",
+      "publisher": "Motley Fool",
+      "time": 1786548000,
       "impact": "high",
       "tags": [
         "geo",
@@ -76,102 +91,67 @@
       ]
     },
     {
-      "id": "30a9c79d-97fe-30c2-95a9-ca38c2ad91d2",
-      "title": "Google's Gemini Just Crossed 1 Billion Users",
-      "link": "https://finance.yahoo.com/technology/ai/articles/googles-gemini-just-crossed-1-141234498.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786543954,
+      "id": "bb62e225-65b7-3e25-9d65-609d80fae174",
+      "title": "Bank of America Enters into a Joint Venture Agreement with Jio Financial Services Limited to Acquire up to 49.9% in Jio Credit Limited",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-enters-joint-venture-152000516.html",
+      "publisher": "PR Newswire",
+      "time": 1786548000,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "4c28df79-a369-3f50-a7c9-b64f13e4d54e",
+      "title": "Titan Mining Q2 Earnings, Revenue, Advance, Beat Estimates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/titan-mining-q2-earnings-revenue-151923278.html",
+      "publisher": "MT Newswires",
+      "time": 1786547963,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "43e8a700-707f-3cb9-9bc0-f8ae22a9d55e",
+      "title": "Potomac Bank Voted 2026 Loudoun's Favorite in Multiple Categories",
+      "link": "https://finance.yahoo.com/small-business/articles/potomac-bank-voted-2026-loudouns-151900414.html",
+      "publisher": "PR Newswire",
+      "time": 1786547940,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b774bbdd-6e1e-33bd-9625-ed9c273b7d28",
+      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
+      "link": "https://finance.yahoo.com/m/b774bbdd-6e1e-33bd-9625-ed9c273b7d28/after-microsoft-threatened.html",
+      "publisher": "TechCrunch",
+      "time": 1786547935,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "84da58f3-a779-446e-a088-982c0a766cad",
-      "title": "CoreWeave, Nebius soar as AI spending powers growth",
-      "link": "https://finance.yahoo.com/video/coreweave-nebius-soar-ai-spending-141200933.html",
+      "id": "6b9607a9-d2f1-39b5-801d-4d093ab1ce81",
+      "title": "Google Pixel 11 Launch Disappoints as Alphabet Stock Falls",
+      "link": "https://finance.yahoo.com/m/6b9607a9-d2f1-39b5-801d-4d093ab1ce81/google-pixel-11-launch.html",
+      "publisher": "BeInCrypto",
+      "time": 1786547911,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a91fd269-7aef-470a-87cf-92fe7d4cfc97",
+      "title": "How Cava dodged cyclospora concerns and delivered huge revenue returns",
+      "link": "https://finance.yahoo.com/video/cava-dodged-cyclospora-concerns-delivered-151800463.html",
       "publisher": "Yahoo Finance Video",
-      "time": 1786543920,
+      "time": 1786547880,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "718cc2df-66b1-351d-8254-df44bbfe473e",
-      "title": "CoreWeave Signals Much Bigger Year Ahead",
-      "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-signals-much-bigger-ahead-141014910.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786543814,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c6b335ed-9d35-39a4-ba56-1bc3fd6bf057",
-      "title": "NovaRed Mining Inc. Announces Name Change to NRED Intelligent Mining Inc.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/novared-mining-inc-announces-name-141000239.html",
-      "publisher": "TMX Newsfile",
-      "time": 1786543800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "84fdafd7-4cac-36b9-a2e0-6f2ea45fc5db",
-      "title": "Google unveils finder tag, new AI smartphone features",
-      "link": "https://finance.yahoo.com/m/84fdafd7-4cac-36b9-a2e0-6f2ea45fc5db/google-unveils-finder-tag%2C.html",
-      "publisher": "AFP",
-      "time": 1786543782,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6a52cfee-9007-3b18-bf8c-b95af493cdf4",
-      "title": "Season Group Achieves EcoVadis Silver Medal, Ranking Among Top 15% of Companies Assessed Globally",
-      "link": "https://finance.yahoo.com/technology/articles/season-group-achieves-ecovadis-silver-140800388.html",
-      "publisher": "PR Newswire",
-      "time": 1786543680,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "95d98263-96dd-3dde-99e1-4c94f9240278",
-      "title": "Kuwait's Action Energy Company's Bourisli to Bloomberg: National Oil Companies Have Demonstrated Strong Capability in Navigating Regional Challenges and The Company Supports Kuwait's 2035 Production Growth Targets",
-      "link": "https://finance.yahoo.com/energy/articles/kuwaits-action-energy-companys-bourisli-140800808.html",
-      "publisher": "PR Newswire",
-      "time": 1786543680,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "d753973b-7fba-3999-b754-be5aab58b73d",
-      "title": "In HelloNation, Tree Care Expert Travis Corson Examines Tree Diseases and Early Detection",
-      "link": "https://finance.yahoo.com/healthcare/articles/hellonation-tree-care-expert-travis-140700301.html",
-      "publisher": "PR Newswire",
-      "time": 1786543620,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "87569979-0dc6-3f87-9de0-7084e0624be9",
-      "title": "Fidelity Drops Sharp Take On Stock Market",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fidelity-drops-sharp-stock-market-140634929.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786543594,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "f995bf94-2ceb-33c8-bab4-546add14610e",
-      "title": "Oil prices dip as investors weigh lower demand forecasts against US-Iran talks deadlock",
-      "link": "https://finance.yahoo.com/news/oil-rises-doubts-over-us-063114070.html",
-      "publisher": "Reuters",
-      "time": 1786543585,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
     }
   ],
   "errors": {
