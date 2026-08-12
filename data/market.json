@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-12T11:42:30.932765+00:00",
+  "updatedAt": "2026-08-12T12:54:20.456431+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20269.6,
-      "change": 56.0,
-      "changePct": 0.2770411999841691,
+      "price": 20272.4,
+      "change": 58.80000000000291,
+      "changePct": 0.29089325998339194,
       "currency": "EUR"
     },
     {
@@ -28,44 +28,92 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26537.04,
-      "change": 213.15999999999985,
-      "changePct": 0.8097590476783812,
+      "price": 26517.61,
+      "change": 193.72999999999956,
+      "changePct": 0.735947740226743,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6568.21,
-      "change": 16.98999999999978,
-      "changePct": 0.2593410082396833,
+      "price": 6563.82,
+      "change": 12.599999999999454,
+      "changePct": 0.1923305888063514,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.39,
-      "change": 0.11000000000000121,
-      "changePct": 0.7198952879581232,
+      "price": 15.16,
+      "change": -0.11999999999999922,
+      "changePct": -0.7853403141361206,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "751706fb-5a8b-3e0f-9f01-d048d7250667",
-      "title": "Extreme weather, jellyfish knock one-fifth of France's nuclear capacity offline",
-      "link": "https://finance.yahoo.com/m/751706fb-5a8b-3e0f-9f01-d048d7250667/extreme-weather%2C-jellyfish.html",
-      "publisher": "AFP",
-      "time": 1786534714,
+      "id": "82e90824-70e3-3fc4-a6d5-7670f4ed547a",
+      "title": "CoreWeave's Revenue Doubled, but Its Debt Keeps Climbing",
+      "link": "https://finance.yahoo.com/technology/ai/articles/coreweaves-revenue-doubled-debt-keeps-125217466.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786539137,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ef07731c-635e-3bf9-a55f-35011f505244",
-      "title": "India's inflation accelerates to 4.45%, but unlikely to shift RBI rate outlook",
-      "link": "https://finance.yahoo.com/news/indias-july-retail-inflation-4-104308940.html",
+      "id": "bfe7895f-9b91-3579-9a9e-6385fa4f3882",
+      "title": "Lumentum Stock Rises 8% Despite a $7 Billion Paper Loss",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lumentum-stock-rises-8-despite-124825722.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786538905,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8de05ab8-2c45-370d-9663-3c58a8023b7c",
+      "title": "Supermicro Stock Rises 9% on a Margin Recovery and Big Guidance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/supermicro-stock-rises-9-margin-124656420.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786538816,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b94872a0-0a42-3248-965a-8acf2f09a716",
+      "title": "Australia to make tech companies pay more outlets for content under reworked media law",
+      "link": "https://finance.yahoo.com/news/australia-tech-companies-pay-more-123630934.html",
       "publisher": "Reuters",
-      "time": 1786534703,
+      "time": 1786538811,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0fd3bdc3-ffd5-3792-816a-420170df8669",
+      "title": "PVFARM Commercially Launches Energy Storage Design Platform RE STACK",
+      "link": "https://finance.yahoo.com/energy/articles/pvfarm-commercially-launches-energy-storage-124600345.html",
+      "publisher": "PR Newswire",
+      "time": 1786538760,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4263628b-014c-3e9a-a3fc-c81238da8b2c",
+      "title": "Borr Drilling Limited - Filing of Interim Financial Report on Form 6-K",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/borr-drilling-limited-filing-interim-124600220.html",
+      "publisher": "PR Newswire",
+      "time": 1786538760,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "83f291a6-ebd0-3f74-a16e-8567c1d7c174",
+      "title": "Traders stick to narrow bets on September Fed hold after inflation data",
+      "link": "https://finance.yahoo.com/economy/policy/articles/traders-stick-narrow-bets-september-124548860.html",
+      "publisher": "Reuters",
+      "time": 1786538748,
       "impact": "high",
       "tags": [
         "geo",
@@ -73,78 +121,36 @@
       ]
     },
     {
-      "id": "e8d55f72-b18c-3390-a978-adfe460b6007",
-      "title": "Baird Adjusts Cardinal Health Price Target to $274 From $251, Maintains Outperform Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/baird-adjusts-cardinal-health-price-113653591.html",
-      "publisher": "MT Newswires",
-      "time": 1786534613,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "49c9103c-4c54-3a95-818c-e1ceda7b5791",
-      "title": "Oppenheimer Downgrades Legend Biotech to Perform From Outperform",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-downgrades-legend-biotech-perform-113639545.html",
-      "publisher": "MT Newswires",
-      "time": 1786534599,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2e06b4fc-5a3b-30e3-acda-aa4b39f6aada",
-      "title": "Goldman Sachs Adjusts Super Micro Computer PT to $34 From $30, Maintains Sell Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-super-micro-113615314.html",
-      "publisher": "MT Newswires",
-      "time": 1786534575,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "067ee83b-456b-3be2-aa25-eaca81402b65",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-113600109.html",
-      "publisher": "Business Wire",
-      "time": 1786534560,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c484344b-3999-3867-bf57-1134edbcc283",
-      "title": "Jefferies Downgrades Gap to Hold From Buy, Adjusts Price Target to $23 From $29",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-downgrades-gap-hold-buy-113546331.html",
-      "publisher": "MT Newswires",
-      "time": 1786534546,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "29f0c54e-dd3a-3b6c-9c70-f0c955a2a400",
-      "title": "WHO says Trump vaccine shake-up goes against evidence",
-      "link": "https://finance.yahoo.com/m/29f0c54e-dd3a-3b6c-9c70-f0c955a2a400/who-says-trump-vaccine.html",
-      "publisher": "AFP",
-      "time": 1786534531,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "233ec3fc-4632-3e88-a4f2-a1f9dc4d0d3d",
-      "title": "Citigroup Adjusts Expedia Price Target to $345 From $245, Maintains Neutral Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-adjusts-expedia-price-target-113529629.html",
-      "publisher": "MT Newswires",
-      "time": 1786534529,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "10045681-2118-3cc6-8cda-ef63145e39b9",
-      "title": "Metro Fiscal Q3 Adjusted Earnings Down",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/metro-fiscal-q3-adjusted-earnings-113523417.html",
-      "publisher": "MT Newswires",
-      "time": 1786534523,
+      "id": "ef949668-b050-3a59-b539-c2f507a1b28a",
+      "title": "Nebius Stock Braces for Earnings Shock as Options Price 12% Swing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-braces-earnings-shock-124544730.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786538744,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
+      ]
+    },
+    {
+      "id": "a606ff5c-7e0e-3db7-9158-55ef9453bf7b",
+      "title": "Here are the Compelling Reasons to Own Advanced Drainage Systems (WMS)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/compelling-reasons-own-advanced-drainage-124515515.html",
+      "publisher": "Insider Monkey",
+      "time": 1786538715,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fc381ce1-32d1-3e4b-b42f-7d39e2664a53",
+      "title": "CPI Inflation Data Cools As Expected, May Keep Fed Rate Hikes On Hold (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/fc381ce1-32d1-3e4b-b42f-7d39e2664a53/cpi-inflation-data-cools-as.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786538715,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
       ]
     }
   ],
