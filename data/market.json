@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T19:35:41.813603+00:00",
+  "updatedAt": "2026-08-12T20:36:26.914580+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7751.52,
-      "change": -1.589999999999236,
-      "changePct": -0.020507899410678244,
+      "price": 7748.5,
+      "change": -4.609999999999673,
+      "changePct": -0.05946001024104743,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26599.932,
-      "change": -5.427999999999884,
-      "changePct": -0.020401903977243244,
+      "price": 26588.488,
+      "change": -16.87199999999939,
+      "changePct": -0.06341579290789295,
       "currency": "USD"
     },
     {
@@ -39,24 +39,33 @@
       "price": 6533.99,
       "change": -17.230000000000473,
       "changePct": -0.2630044480264817,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.47,
-      "change": -0.8099999999999987,
-      "changePct": -5.30104712041884,
+      "price": 14.55,
+      "change": -0.7299999999999986,
+      "changePct": -4.777486910994756,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "52d2bd7e-c7a2-3b55-8a96-5aa6d76097dc",
-      "title": "Cathie Wood Doubles Down on SpaceX Competitor After Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-doubles-down-spacex-193358148.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786563238,
+      "id": "edbb0fbc-7cb2-4923-8ce3-b8af1f64072c",
+      "title": "Budget calculator",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/budget-calculator-203236180.html",
+      "publisher": "Personal Finance Embeddable Content",
+      "time": 1786566756,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4cdfdf62-93f9-3aa0-bf4a-372d94c0fb17",
+      "title": "Linamar Second-Quarter Normalized Earnings Rise on Revenue Gains",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/linamar-second-quarter-normalized-earnings-203131143.html",
+      "publisher": "MT Newswires",
+      "time": 1786566691,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,31 +73,58 @@
       ]
     },
     {
-      "id": "a107577d-b2d2-4704-b2ad-b7121ddd6eb1",
-      "title": "7 best crypto wallets of 2026: The winners on fees, security, and chain coverage",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/best-crypto-wallets-193347097.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1786563227,
+      "id": "e8123c76-8eea-306f-9e5d-a246b2629556",
+      "title": "Bicara Therapeutics Insider Sold Shares Worth $524,533, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bicara-therapeutics-insider-sold-shares-203125422.html",
+      "publisher": "MT Newswires",
+      "time": 1786566685,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4eaf697d-05c9-3951-a0c9-db6d84f8d48e",
-      "title": "These Are the Stocks Wall Street Is Betting Against the Most",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-wall-street-betting-against-193023310.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786563023,
+      "id": "19bc3c08-35c7-30ba-b5c6-380b75cf043d",
+      "title": "Bicara Therapeutics Insider Sold Shares Worth $279,750, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bicara-therapeutics-insider-sold-shares-203101397.html",
+      "publisher": "MT Newswires",
+      "time": 1786566661,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1ec6832b-3f2a-3fe1-ae81-bc4c30af2c79",
+      "title": "TSX Closer: Index Closes at Fresh Record High as Financials Gain, Air Canada Surges",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-closes-fresh-203059625.html",
+      "publisher": "MT Newswires",
+      "time": 1786566659,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "b548bae6-a2bd-322d-86f1-993a7f3ced05",
-      "title": "[Latest] Global Floating Dry Docks Market Size/Share Worth USD 10.41 Billion by 2034 at a 4.27% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)",
-      "link": "https://finance.yahoo.com/markets/articles/latest-global-floating-dry-docks-193000965.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786563000,
+      "id": "d95ab747-4146-3be3-a06d-4f8d37cd98cc",
+      "title": "Bicara Therapeutics Insider Sold Shares Worth $349,591, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bicara-therapeutics-insider-sold-shares-203036452.html",
+      "publisher": "MT Newswires",
+      "time": 1786566636,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4017f6ef-4875-3c6b-9c6f-6772ed1dfa5a",
+      "title": "Merck & Co. Insider Sold Shares Worth $5,942,369, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/merck-co-insider-sold-shares-203009938.html",
+      "publisher": "MT Newswires",
+      "time": 1786566609,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3d74b1df-2bb2-36f4-9c4b-b8265d3fbf7b",
+      "title": "Ellington Credit: Fiscal Q1 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ellington-credit-fiscal-q1-earnings-203007779.html",
+      "publisher": "Associated Press",
+      "time": 1786566607,
       "impact": "medium",
       "tags": [
         "macro",
@@ -96,11 +132,11 @@
       ]
     },
     {
-      "id": "1430879e-1e03-393e-941c-95f61a43ffe3",
-      "title": "What is the average personal loan rate for June 2026?",
-      "link": "https://finance.yahoo.com/markets/articles/average-personal-loan-interest-rate-005856676.html",
-      "publisher": "Bankrate",
-      "time": 1786562981,
+      "id": "6a0a6c6d-8e98-3cb0-8bea-967f5df604ba",
+      "title": "Grocery Outlet: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/grocery-outlet-q2-earnings-snapshot-203007002.html",
+      "publisher": "Associated Press",
+      "time": 1786566607,
       "impact": "medium",
       "tags": [
         "macro",
@@ -108,68 +144,11 @@
       ]
     },
     {
-      "id": "b9efa405-456f-3aa2-95ac-3ba92dc258b8",
-      "title": "Google Raises Pixel 11 Prices by $100",
-      "link": "https://finance.yahoo.com/technology/articles/google-raises-pixel-11-prices-192832888.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786562912,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "182bbaf9-eed3-3db6-8c98-2753d31bcbb2",
-      "title": "SpaceX’s Starship Push Comes With a Rising Capital Bill",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-starship-push-comes-rising-192818402.html",
-      "publisher": "Insider Monkey",
-      "time": 1786562898,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e9f16678-a10b-37dd-96fb-354c33889658",
-      "title": "Gnosis Chain Just Made the First Move Toward the Ethereum Economic Zone",
-      "link": "https://finance.yahoo.com/m/e9f16678-a10b-37dd-96fb-354c33889658/gnosis-chain-just-made-the.html",
-      "publisher": "Bankless",
-      "time": 1786562844,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "0285ce38-35b9-390f-8678-07b646f07d45",
-      "title": "Blank Rome Expands Houston Office with Addition of Business Litigation and Energy Industry Partner Daniel S. Mayerfeld",
-      "link": "https://finance.yahoo.com/energy/articles/blank-rome-expands-houston-office-192700749.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786562820,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "225b97d6-051e-38e0-ba52-697a55e9848d",
-      "title": "Can Ryanair’s (RYAAY) New AI Deal Offset Its Falling Fares?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ryanair-ryaay-ai-deal-offset-192620821.html",
-      "publisher": "Insider Monkey",
-      "time": 1786562780,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "50b58e56-c1a5-32fb-a055-df3eb7c359c4",
-      "title": "DEKRA Expands Automotive EMC Testing Capabilities with General Motors GMW3097 Approval",
-      "link": "https://finance.yahoo.com/technology/articles/dekra-expands-automotive-emc-testing-192600836.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786562760,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "abb2f2e0-ae69-3ebf-a2bc-3dc91eb2fd4a",
-      "title": "Should You Buy Home Depot Stock Before Aug. 18?",
-      "link": "https://finance.yahoo.com/m/abb2f2e0-ae69-3ebf-a2bc-3dc91eb2fd4a/should-you-buy-home-depot.html",
+      "id": "102702a9-8fba-3a52-bf0a-1dc1d919e534",
+      "title": "How to Earn $500 a Month From Enbridge Stock",
+      "link": "https://finance.yahoo.com/m/102702a9-8fba-3a52-bf0a-1dc1d919e534/how-to-earn-%24500-a-month-from.html",
       "publisher": "Motley Fool",
-      "time": 1786562700,
+      "time": 1786566600,
       "impact": "low",
       "tags": []
     }
