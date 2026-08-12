@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-12T10:55:41.710299+00:00",
+  "updatedAt": "2026-08-12T11:42:30.932765+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20253.8,
-      "change": 40.20000000000073,
-      "changePct": 0.19887600427435356,
+      "price": 20269.6,
+      "change": 56.0,
+      "changePct": 0.2770411999841691,
       "currency": "EUR"
     },
     {
@@ -28,53 +28,44 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26528.59,
-      "change": 204.70999999999913,
-      "changePct": 0.7776589165426948,
+      "price": 26537.04,
+      "change": 213.15999999999985,
+      "changePct": 0.8097590476783812,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6567.31,
-      "change": 16.090000000000146,
-      "changePct": 0.2456031090392346,
+      "price": 6568.21,
+      "change": 16.98999999999978,
+      "changePct": 0.2593410082396833,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.4,
-      "change": 0.120000000000001,
-      "changePct": 0.7853403141361323,
+      "price": 15.39,
+      "change": 0.11000000000000121,
+      "changePct": 0.7198952879581232,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "18b46f59-62e5-391e-a96f-ad993fe7bbe1",
-      "title": "UK’s Halewood sells Crabbie’s to local group Brookfield Drinks",
-      "link": "https://finance.yahoo.com/m/18b46f59-62e5-391e-a96f-ad993fe7bbe1/uk%E2%80%99s-halewood-sells-crabbie%E2%80%99s.html",
-      "publisher": "Just Drinks",
-      "time": 1786532062,
+      "id": "751706fb-5a8b-3e0f-9f01-d048d7250667",
+      "title": "Extreme weather, jellyfish knock one-fifth of France's nuclear capacity offline",
+      "link": "https://finance.yahoo.com/m/751706fb-5a8b-3e0f-9f01-d048d7250667/extreme-weather%2C-jellyfish.html",
+      "publisher": "AFP",
+      "time": 1786534714,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3437c0ef-1a11-3763-9f50-9e75394ac02b",
-      "title": "Abbott and Google Health partner for glucose monitoring solutions",
-      "link": "https://finance.yahoo.com/m/3437c0ef-1a11-3763-9f50-9e75394ac02b/abbott-and-google-health.html",
-      "publisher": "Medical Device Network",
-      "time": 1786532048,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "03dd72f8-3224-33e6-b297-8f431fc67125",
-      "title": "If a Stock Market Crash Is Coming, Warren Buffett Says Investors Should Make This 1 Move Right Now",
-      "link": "https://finance.yahoo.com/m/03dd72f8-3224-33e6-b297-8f431fc67125/if-a-stock-market-crash-is.html",
-      "publisher": "Motley Fool",
-      "time": 1786531800,
+      "id": "ef07731c-635e-3bf9-a55f-35011f505244",
+      "title": "India's inflation accelerates to 4.45%, but unlikely to shift RBI rate outlook",
+      "link": "https://finance.yahoo.com/news/indias-july-retail-inflation-4-104308940.html",
+      "publisher": "Reuters",
+      "time": 1786534703,
       "impact": "high",
       "tags": [
         "geo",
@@ -82,29 +73,47 @@
       ]
     },
     {
-      "id": "b8766464-0e84-398a-b1db-3624bfd70fee",
-      "title": "Pharvaris Reports Second Quarter 2026 Financial Results and Provides Business Update",
-      "link": "https://finance.yahoo.com/healthcare/articles/pharvaris-reports-second-quarter-2026-105000678.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786531800,
+      "id": "e8d55f72-b18c-3390-a978-adfe460b6007",
+      "title": "Baird Adjusts Cardinal Health Price Target to $274 From $251, Maintains Outperform Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/baird-adjusts-cardinal-health-price-113653591.html",
+      "publisher": "MT Newswires",
+      "time": 1786534613,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ce259386-a81d-34e0-a405-85d10cac0381",
-      "title": "Protalix BioTherapeutics Reports Second Quarter 2026 Financial and Business Results",
-      "link": "https://finance.yahoo.com/healthcare/articles/protalix-biotherapeutics-reports-second-quarter-105000809.html",
-      "publisher": "PR Newswire",
-      "time": 1786531800,
+      "id": "49c9103c-4c54-3a95-818c-e1ceda7b5791",
+      "title": "Oppenheimer Downgrades Legend Biotech to Perform From Outperform",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-downgrades-legend-biotech-perform-113639545.html",
+      "publisher": "MT Newswires",
+      "time": 1786534599,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ebd52a77-8f22-35aa-9439-26efd4621719",
-      "title": "BD Accelerates Advanced Tissue Regeneration Strategy with Landmark PREVENT Trial",
-      "link": "https://finance.yahoo.com/healthcare/articles/bd-accelerates-advanced-tissue-regeneration-105000449.html",
-      "publisher": "PR Newswire",
-      "time": 1786531800,
+      "id": "2e06b4fc-5a3b-30e3-acda-aa4b39f6aada",
+      "title": "Goldman Sachs Adjusts Super Micro Computer PT to $34 From $30, Maintains Sell Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-adjusts-super-micro-113615314.html",
+      "publisher": "MT Newswires",
+      "time": 1786534575,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "067ee83b-456b-3be2-aa25-eaca81402b65",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-113600109.html",
+      "publisher": "Business Wire",
+      "time": 1786534560,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c484344b-3999-3867-bf57-1134edbcc283",
+      "title": "Jefferies Downgrades Gap to Hold From Buy, Adjusts Price Target to $23 From $29",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-downgrades-gap-hold-buy-113546331.html",
+      "publisher": "MT Newswires",
+      "time": 1786534546,
       "impact": "low",
       "tags": []
     },
@@ -113,39 +122,30 @@
       "title": "WHO says Trump vaccine shake-up goes against evidence",
       "link": "https://finance.yahoo.com/m/29f0c54e-dd3a-3b6c-9c70-f0c955a2a400/who-says-trump-vaccine.html",
       "publisher": "AFP",
-      "time": 1786531676,
+      "time": 1786534531,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0957c426-867c-3d52-a91c-d80f0e63c772",
-      "title": "IBM and Together AI sign $240m multi-year cloud agreement",
-      "link": "https://finance.yahoo.com/m/0957c426-867c-3d52-a91c-d80f0e63c772/ibm-and-together-ai-sign.html",
-      "publisher": "Verdict",
-      "time": 1786531606,
+      "id": "233ec3fc-4632-3e88-a4f2-a1f9dc4d0d3d",
+      "title": "Citigroup Adjusts Expedia Price Target to $345 From $245, Maintains Neutral Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-adjusts-expedia-price-target-113529629.html",
+      "publisher": "MT Newswires",
+      "time": 1786534529,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "84f81cb1-1dbe-34b5-b4b0-d86e3aafdcfd",
-      "title": "U.S. Inflation Data Could Have Limited Influence on Fed's September Rate Decision",
-      "link": "https://finance.yahoo.com/m/84f81cb1-1dbe-34b5-b4b0-d86e3aafdcfd/u.s.-inflation-data-could.html",
-      "publisher": "Barrons.com",
-      "time": 1786531592,
-      "impact": "high",
+      "id": "10045681-2118-3cc6-8cda-ef63145e39b9",
+      "title": "Metro Fiscal Q3 Adjusted Earnings Down",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/metro-fiscal-q3-adjusted-earnings-113523417.html",
+      "publisher": "MT Newswires",
+      "time": 1786534523,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
-    },
-    {
-      "id": "8262443d-74fe-35ac-b3f5-76e4f62c159d",
-      "title": "AICPA seeks clearer CAMT rules from Treasury and IRS",
-      "link": "https://finance.yahoo.com/m/8262443d-74fe-35ac-b3f5-76e4f62c159d/aicpa-seeks-clearer-camt.html",
-      "publisher": "The Accountant",
-      "time": 1786531547,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
