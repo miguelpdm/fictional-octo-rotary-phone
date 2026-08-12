@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T16:25:38.713001+00:00",
+  "updatedAt": "2026-08-12T17:26:48.870228+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7748.24,
-      "change": -4.869999999999891,
-      "changePct": -0.06281350322644579,
+      "price": 7752.25,
+      "change": -0.8599999999996726,
+      "changePct": -0.01109232295168871,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26587.275,
-      "change": -18.084999999999127,
-      "changePct": -0.06797502458150961,
+      "price": 26623.922,
+      "change": 18.56199999999808,
+      "changePct": 0.06976789639380215,
       "currency": "USD"
     },
     {
@@ -44,117 +44,129 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.8,
-      "change": -0.47999999999999865,
-      "changePct": -3.141361256544494,
+      "price": 14.66,
+      "change": -0.6199999999999992,
+      "changePct": -4.057591623036645,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "7d6f681b-ce91-3f38-9ae3-695b9ea85d44",
-      "title": "FRN Variable Rate Fix",
-      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-162100316.html",
-      "publisher": "Business Wire",
-      "time": 1786551660,
+      "id": "ee69eeec-3995-3c92-9447-b042111d40b0",
+      "title": "TSMC Stock Rises 2.2% as $4.69 Billion Sony Venture Launches",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-rises-2-2-172557376.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786555557,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "703c496f-4527-432d-b7c7-83640a42bf95",
-      "title": "Will the Fed hike rates in Sept.? Here's what prediction markets are saying post-CPI data",
-      "link": "https://finance.yahoo.com/video/fed-hike-rates-sept-heres-162000485.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1786551600,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "65c24e3f-39e2-4716-95af-db8d855d1aff",
-      "title": "Gas prices have never been this high in mid-August",
-      "link": "https://finance.yahoo.com/markets/article/gas-prices-have-never-been-this-high-in-mid-august-161923583.html",
-      "publisher": "Yahoo Finance",
-      "time": 1786551563,
+      "id": "440c0b93-0726-35b6-84a6-62e4c873852f",
+      "title": "Meta Stock Drops While $1.4 Trillion Trial Opens",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-drops-while-1-172455887.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786555495,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "04680e68-400a-38a4-ae68-0e9796434d4f",
-      "title": "Why can't I see the solar eclipse in the western US? See explanation",
-      "link": "https://finance.yahoo.com/m/04680e68-400a-38a4-ae68-0e9796434d4f/why-can%27t-i-see-the-solar.html",
-      "publisher": "USA TODAY",
-      "time": 1786551487,
+      "id": "4a60b0e5-0928-31e0-b613-ca172dddf9d1",
+      "title": "Eli Lilly Stock Falls While Retatrutide Lawsuits Expand",
+      "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-stock-falls-while-172418737.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786555458,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8db1591a-bc20-36b4-b5fa-70cd5bbaabd3",
-      "title": "LendingPoint Announces Executive Leadership Team Led by CEO Mark Freeman, CFO Craig Shmoldas and CTO Roy Russo",
-      "link": "https://finance.yahoo.com/technology/ai/articles/lendingpoint-announces-executive-leadership-team-161800339.html",
-      "publisher": "Business Wire",
-      "time": 1786551480,
+      "id": "33b8e2c1-f51e-3e59-9ce4-27a3acb0b384",
+      "title": "BMW turns end-of-life vehicle materials into new car parts",
+      "link": "https://finance.yahoo.com/m/33b8e2c1-f51e-3e59-9ce4-27a3acb0b384/bmw-turns-end-of-life-vehicle.html",
+      "publisher": "Just Auto",
+      "time": 1786555438,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a387444e-c771-3117-bf4b-6dee35263436",
-      "title": "Canada's Five-Year Bond Auction Gets Offers for Almost Three Times The Amount on Offer",
-      "link": "https://finance.yahoo.com/economy/policy/articles/canada-apos-five-bond-auction-161754638.html",
+      "id": "88d92935-56a3-374a-bae1-bcadf98c9dd7",
+      "title": "Apple Stock Falls After Jefferies Slashes Price Target",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-falls-jefferies-slashes-172342023.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786555422,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5263ec1b-fcfb-365e-a4e8-06f13c0ab38f",
+      "title": "Sector Update: Energy",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-172342335.html",
       "publisher": "MT Newswires",
-      "time": 1786551474,
+      "time": 1786555422,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "74024cd6-0c70-3ccf-b11a-1ce4d128c294",
-      "title": "How Buying in Bulk Can Save You Money Right Now",
-      "link": "https://finance.yahoo.com/markets/articles/buying-bulk-save-money-now-161739124.html",
-      "publisher": "The Penny Hoarder",
-      "time": 1786551459,
+      "id": "cf39623f-90de-3609-8cda-033f22e5efdf",
+      "title": "Microsoft Stock Drops While Maia Chip Ambitions Expand",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-stock-drops-while-maia-172305223.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786555385,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ab870c36-5dd7-3316-ac34-db4186272893",
-      "title": "Micron Technology Faces New Legal Action Over Alleged Infringement of Netlist Patents",
-      "link": "https://finance.yahoo.com/technology/articles/micron-technology-faces-legal-action-161738411.html",
-      "publisher": "MT Newswires",
-      "time": 1786551458,
+      "id": "a1c5f974-b658-39f6-9fd5-6770ea187fa1",
+      "title": "Berkshire Hathaway Stock Drops as Buyback Rally Loses Steam",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-stock-drops-buyback-172217209.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786555337,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0a3cfa69-abd4-3764-9280-26a4732aea01",
-      "title": "Sasquatch Resources to Raise C$500,000 Via Non-Brokered Private Placement",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sasquatch-resources-raise-c-500-161708481.html",
-      "publisher": "MT Newswires",
-      "time": 1786551428,
+      "id": "b1036aa9-02b3-32a0-a487-6959ffe9ff3d",
+      "title": "Why Astronics Stock Popped Today",
+      "link": "https://finance.yahoo.com/m/b1036aa9-02b3-32a0-a487-6959ffe9ff3d/why-astronics-stock-popped.html",
+      "publisher": "Motley Fool",
+      "time": 1786555297,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cc9b1521-98ce-35a3-941e-9bf9d74dccf1",
-      "title": "InventHelp Inventor Develops Clean Water Supply for Icemakers (LJD-583)",
-      "link": "https://finance.yahoo.com/technology/articles/inventhelp-inventor-develops-clean-water-161500241.html",
-      "publisher": "PR Newswire",
-      "time": 1786551300,
+      "id": "51591078-9477-3079-acab-705aa4795209",
+      "title": "Prime Minister Carney announces the appointment of new Chief Justice of Québec",
+      "link": "https://finance.yahoo.com/economy/policy/articles/prime-minister-carney-announces-appointment-172100953.html",
+      "publisher": "CNW Group",
+      "time": 1786555260,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ee7eec47-af0c-385f-be4f-ed6fab57da47",
-      "title": "ACQUALINA RESORT & RESIDENCES NAMED #1 BEST DESTINATION RESORT FOR THE SIXTH TIME IN USA TODAY'S 2026 READERS' CHOICE AWARDS",
-      "link": "https://finance.yahoo.com/media-advertising/articles/acqualina-resort-residences-named-1-161500103.html",
-      "publisher": "PR Newswire",
-      "time": 1786551300,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
+      "id": "6cea1adf-6fab-3263-9ff8-67986fde4f8f",
+      "title": "Israeli settlers keep up siege of Palestinian homes despite army intervention",
+      "link": "https://finance.yahoo.com/m/6cea1adf-6fab-3263-9ff8-67986fde4f8f/israeli-settlers-keep-up.html",
+      "publisher": "AFP",
+      "time": 1786555223,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7f7cd011-ba5d-381b-be32-e6f442d54fee",
+      "title": "History Says the Most Successful Long-Term Investors All Have This 1 Simple Practice in Common",
+      "link": "https://finance.yahoo.com/m/7f7cd011-ba5d-381b-be32-e6f442d54fee/history-says-the-most.html",
+      "publisher": "Motley Fool",
+      "time": 1786555200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "eb9607f6-bb1e-3bd2-8770-abff3754ce17",
+      "title": "Tencent Stock Drops 4.3% as AI Capex Jumps 66%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tencent-stock-drops-4-3-171947375.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786555187,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
