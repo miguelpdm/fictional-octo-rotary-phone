@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T05:26:26.422326+00:00",
+  "updatedAt": "2026-08-12T06:52:58.896865+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,65 +52,20 @@
   ],
   "news": [
     {
-      "id": "354960d4-ef0c-3dbb-937a-a63ed80ef82c",
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "link": "https://finance.yahoo.com/m/354960d4-ef0c-3dbb-937a-a63ed80ef82c/stock-market%3A-will-s%26p-500.html",
-      "publisher": "Benzinga Prediction Markets",
-      "time": 1786511873,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "7cfccef4-8c44-3a6a-a422-ae911fbd46a7",
-      "title": "2 Russell 2000 Stocks to Target This Week and 1 We Turn Down",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-russell-2000-stocks-target-051722207.html",
-      "publisher": "StockStory",
-      "time": 1786511842,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "a2b7a1f6-8313-3f12-a4dc-97b5b777a9cd",
-      "title": "1 of Wall Street’s Favorite Stocks on Our Buy List and 2 Facing Challenges",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stocks-050922085.html",
-      "publisher": "StockStory",
-      "time": 1786511362,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "18565235-eaa0-3a97-833a-cfee3d3e40e7",
-      "title": "Argus launches first ship-to-ship Gulf of Oman prices for Abu Dhabi crude",
-      "link": "https://finance.yahoo.com/energy/articles/argus-launches-first-ship-ship-050800615.html",
-      "publisher": "PR Newswire",
-      "time": 1786511280,
+      "id": "fceab763-fc45-3c30-a02f-33f228a65e8a",
+      "title": "How Britain's mapmakers track climate change",
+      "link": "https://finance.yahoo.com/m/fceab763-fc45-3c30-a02f-33f228a65e8a/how-britain%27s-mapmakers-track.html",
+      "publisher": "AFP",
+      "time": 1786517218,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7170c7f6-3bd3-35bf-bee2-a691a7f3afbd",
-      "title": "Dow Jones Futures: 3 Nvidia Partners Lead Earnings Movers; CPI Inflation Data Due",
-      "link": "https://finance.yahoo.com/m/7170c7f6-3bd3-35bf-bee2-a691a7f3afbd/dow-jones-futures%3A-3-nvidia.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1786511261,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "4ed443af-c066-3d62-bd53-a34fccb69528",
-      "title": "Inuvo Inc (INUV) (Q2 2026) Earnings Call Highlights: Strategic Pivot to IntentKey Drives 19% ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/inuvo-inc-inuv-q2-2026-050321704.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786511001,
+      "id": "e9008f04-b6a9-32d9-b352-c7e55315b2e2",
+      "title": "Foxconn posts quarterly profit surge on AI server demand",
+      "link": "https://finance.yahoo.com/technology/ai/articles/foxconn-posts-quarterly-profit-surge-064534770.html",
+      "publisher": "AFP",
+      "time": 1786517134,
       "impact": "medium",
       "tags": [
         "macro",
@@ -118,11 +73,29 @@
       ]
     },
     {
-      "id": "220a30fc-27d1-368c-9104-3d4940077beb",
-      "title": "QuickLogic Corp (QUIK) (Q2 2026) Earnings Call Highlights: Revenue Surges 48. ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/quicklogic-corp-quik-q2-2026-050312363.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786510992,
+      "id": "ba5f8f95-e88e-3447-a739-1e1f3aed165b",
+      "title": "Bacardi and ecoSPIRITS Deepen Collaboration With New Global Agreement on Circular Packaging",
+      "link": "https://finance.yahoo.com/media-advertising/articles/bacardi-ecospirits-deepen-collaboration-global-064500963.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786517100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "aacad9f2-455a-3087-9c22-0eb74587d5ab",
+      "title": "India’s small steelmakers could save money and cut emissions with switch to renewable power",
+      "link": "https://finance.yahoo.com/energy/articles/india-small-steelmakers-could-save-063926683.html",
+      "publisher": "Associated Press",
+      "time": 1786516766,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c1001914-3e21-3835-aeb5-6aa8eb360728",
+      "title": "Strauss Group Reports Q2 & H1-2026 Financial Results:¹ Solid operating income growth to NIS 363 million, up 42%; Net profit doubled to NIS 195 million",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/strauss-group-reports-q2-h1-063900312.html",
+      "publisher": "PR Newswire",
+      "time": 1786516740,
       "impact": "medium",
       "tags": [
         "macro",
@@ -130,11 +103,20 @@
       ]
     },
     {
-      "id": "f489de7d-b911-3d6d-8ed7-3332df7a31b6",
-      "title": "United States Antimony Corp (UAMY) (Q2 2026) Earnings Call Highlights: Antimony Volumes Surge ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/united-states-antimony-corp-uamy-050302814.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786510982,
+      "id": "feee4626-d37d-3383-8510-0659602b8e90",
+      "title": "Skanska signs additional contract for medical office building in Durham, NC, USA, for USD 68M, about SEK 630M",
+      "link": "https://finance.yahoo.com/healthcare/articles/skanska-signs-additional-contract-medical-063900312.html",
+      "publisher": "PR Newswire",
+      "time": 1786516740,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ccd0978c-5d58-386f-9b3c-39f5c737e91d",
+      "title": "3 Profitable Stocks We Keep Off Our Radar",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-profitable-stocks-keep-off-063722309.html",
+      "publisher": "StockStory",
+      "time": 1786516642,
       "impact": "medium",
       "tags": [
         "macro",
@@ -142,11 +124,11 @@
       ]
     },
     {
-      "id": "b210bba0-50b8-3ded-b148-86fb339e3145",
-      "title": "H&R Block Inc (HRB) (Q4 2026) Earnings Call Highlights: Record Performance and Strategic ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/h-r-block-inc-hrb-050258629.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786510978,
+      "id": "7f70424e-941d-3479-8d8a-66c140064730",
+      "title": "Macerich (MAC) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/7f70424e-941d-3479-8d8a-66c140064730/macerich-%28mac%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1786516580,
       "impact": "medium",
       "tags": [
         "macro",
@@ -154,16 +136,22 @@
       ]
     },
     {
-      "id": "9be52942-d1a1-3bf8-9316-975c10e1aa7e",
-      "title": "Armanino Foods of Distinction Inc (AMNF) (Q2 2026) Earnings Call Highlights: Record Sales and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/armanino-foods-distinction-inc-amnf-050248102.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786510968,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "ec5ef251-8681-3f81-8b51-694913c84247",
+      "title": "Metacon publishes interim report for Q2 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/metacon-publishes-interim-report-q2-063600167.html",
+      "publisher": "PR Newswire",
+      "time": 1786516560,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "09796d44-e535-3a87-a2a8-f571a0c70c8a",
+      "title": "HiTHIUM to Supply 421MWh Battery Energy Storage System for GPG's Fraser Coast Project in Australia",
+      "link": "https://finance.yahoo.com/energy/articles/hithium-supply-421mwh-battery-energy-063500914.html",
+      "publisher": "PR Newswire",
+      "time": 1786516500,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
