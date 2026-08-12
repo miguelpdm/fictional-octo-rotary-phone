@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T17:26:48.870228+00:00",
+  "updatedAt": "2026-08-12T18:25:40.932130+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7752.25,
-      "change": -0.8599999999996726,
-      "changePct": -0.01109232295168871,
+      "price": 7754.88,
+      "change": 1.7700000000004366,
+      "changePct": 0.02282954840058295,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26623.922,
-      "change": 18.56199999999808,
-      "changePct": 0.06976789639380215,
+      "price": 26620.549,
+      "change": 15.188999999998487,
+      "changePct": 0.05708999990978693,
       "currency": "USD"
     },
     {
@@ -44,129 +44,138 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.66,
-      "change": -0.6199999999999992,
-      "changePct": -4.057591623036645,
+      "price": 14.57,
+      "change": -0.7099999999999991,
+      "changePct": -4.646596858638738,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "ee69eeec-3995-3c92-9447-b042111d40b0",
-      "title": "TSMC Stock Rises 2.2% as $4.69 Billion Sony Venture Launches",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-rises-2-2-172557376.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786555557,
+      "id": "3e65bf91-07db-3311-9185-9f2020d5abde",
+      "title": "Make Sure You’re Using Your 401(k)’s After-Tax Bucket Before Maxing Out Pretax Contributions",
+      "link": "https://finance.yahoo.com/m/3e65bf91-07db-3311-9185-9f2020d5abde/make-sure-you%E2%80%99re-using-your.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786558946,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "440c0b93-0726-35b6-84a6-62e4c873852f",
-      "title": "Meta Stock Drops While $1.4 Trillion Trial Opens",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-drops-while-1-172455887.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786555495,
+      "id": "4f5e22b8-7c40-3eca-9672-38dbb9485c58",
+      "title": "CPI report shows inflation eased in July to a 3.4% annual pace",
+      "link": "https://finance.yahoo.com/m/4f5e22b8-7c40-3eca-9672-38dbb9485c58/cpi-report-shows-inflation.html",
+      "publisher": "CBS News",
+      "time": 1786558845,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "d7312e4b-26fb-36e8-b8c4-7eca6f008549",
+      "title": "United Solar Welcomes U.S. Section 232 Measures on Polysilicon",
+      "link": "https://finance.yahoo.com/energy/articles/united-solar-welcomes-u-section-181800745.html",
+      "publisher": "PR Newswire",
+      "time": 1786558680,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4a60b0e5-0928-31e0-b613-ca172dddf9d1",
-      "title": "Eli Lilly Stock Falls While Retatrutide Lawsuits Expand",
-      "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-stock-falls-while-172418737.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786555458,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "33b8e2c1-f51e-3e59-9ce4-27a3acb0b384",
-      "title": "BMW turns end-of-life vehicle materials into new car parts",
-      "link": "https://finance.yahoo.com/m/33b8e2c1-f51e-3e59-9ce4-27a3acb0b384/bmw-turns-end-of-life-vehicle.html",
-      "publisher": "Just Auto",
-      "time": 1786555438,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "88d92935-56a3-374a-bae1-bcadf98c9dd7",
-      "title": "Apple Stock Falls After Jefferies Slashes Price Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-falls-jefferies-slashes-172342023.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786555422,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5263ec1b-fcfb-365e-a4e8-06f13c0ab38f",
-      "title": "Sector Update: Energy",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-172342335.html",
+      "id": "21bc7968-95d2-3464-a3df-34581879d43e",
+      "title": "Update: Quantinuum Shares Rise After Q2 Revenue Beat, Better-Than-Expected 2026 Revenue Guidance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/quantinuum-shares-rise-q2-revenue-181747662.html",
       "publisher": "MT Newswires",
-      "time": 1786555422,
+      "time": 1786558667,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "dafce4da-274c-32d4-a032-3ac56f95daf8",
+      "title": "After Coldcard Was Hacked, $15 Billion in Bitcoin Moved to Safety",
+      "link": "https://finance.yahoo.com/m/dafce4da-274c-32d4-a032-3ac56f95daf8/after-coldcard-was-hacked%2C.html",
+      "publisher": "decrypt",
+      "time": 1786558564,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cf39623f-90de-3609-8cda-033f22e5efdf",
-      "title": "Microsoft Stock Drops While Maia Chip Ambitions Expand",
-      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-stock-drops-while-maia-172305223.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786555385,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a1c5f974-b658-39f6-9fd5-6770ea187fa1",
-      "title": "Berkshire Hathaway Stock Drops as Buyback Rally Loses Steam",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-stock-drops-buyback-172217209.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786555337,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b1036aa9-02b3-32a0-a487-6959ffe9ff3d",
-      "title": "Why Astronics Stock Popped Today",
-      "link": "https://finance.yahoo.com/m/b1036aa9-02b3-32a0-a487-6959ffe9ff3d/why-astronics-stock-popped.html",
+      "id": "675c7666-b055-3ea7-9865-4cc0dac5625f",
+      "title": "UroGen (URGN) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/675c7666-b055-3ea7-9865-4cc0dac5625f/urogen-%28urgn%29-q2-2026.html",
       "publisher": "Motley Fool",
-      "time": 1786555297,
+      "time": 1786558544,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "09c60432-a033-3de7-84bb-d35d8a3dd087",
+      "title": "OtterBox Introduces Collection of Premium Protection Phone Cases for New Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL and Pixel 11 Pro Fold",
+      "link": "https://finance.yahoo.com/technology/articles/otterbox-introduces-collection-premium-protection-181500119.html",
+      "publisher": "PR Newswire",
+      "time": 1786558500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "51591078-9477-3079-acab-705aa4795209",
-      "title": "Prime Minister Carney announces the appointment of new Chief Justice of Québec",
-      "link": "https://finance.yahoo.com/economy/policy/articles/prime-minister-carney-announces-appointment-172100953.html",
-      "publisher": "CNW Group",
-      "time": 1786555260,
+      "id": "de986af6-c0f0-3daf-a2e4-51097285893d",
+      "title": "U.S. ETF Investors at Odds: Chasing Returns or Playing the Long Game?",
+      "link": "https://finance.yahoo.com/m/de986af6-c0f0-3daf-a2e4-51097285893d/u.s.-etf-investors-at-odds%3A.html",
+      "publisher": "etf.com",
+      "time": 1786558489,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6cea1adf-6fab-3263-9ff8-67986fde4f8f",
-      "title": "Israeli settlers keep up siege of Palestinian homes despite army intervention",
-      "link": "https://finance.yahoo.com/m/6cea1adf-6fab-3263-9ff8-67986fde4f8f/israeli-settlers-keep-up.html",
-      "publisher": "AFP",
-      "time": 1786555223,
+      "id": "f633e770-7dd5-36bc-bf72-24c7eb7ef8ce",
+      "title": "Top Midday Decliners",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-181438190.html",
+      "publisher": "MT Newswires",
+      "time": 1786558478,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7f7cd011-ba5d-381b-be32-e6f442d54fee",
-      "title": "History Says the Most Successful Long-Term Investors All Have This 1 Simple Practice in Common",
-      "link": "https://finance.yahoo.com/m/7f7cd011-ba5d-381b-be32-e6f442d54fee/history-says-the-most.html",
+      "id": "2029e638-ada0-39c0-be15-49c4e865e8ee",
+      "title": "Sprott (SII) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/2029e638-ada0-39c0-be15-49c4e865e8ee/sprott-%28sii%29-q2-2026-earnings.html",
       "publisher": "Motley Fool",
-      "time": 1786555200,
-      "impact": "low",
-      "tags": []
+      "time": 1786558455,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "eb9607f6-bb1e-3bd2-8770-abff3754ce17",
-      "title": "Tencent Stock Drops 4.3% as AI Capex Jumps 66%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tencent-stock-drops-4-3-171947375.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786555187,
-      "impact": "low",
-      "tags": []
+      "id": "65425530-aa85-3ad6-80ad-18c069f6f7f0",
+      "title": "XPEL (XPEL) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/65425530-aa85-3ad6-80ad-18c069f6f7f0/xpel-%28xpel%29-q2-2026-earnings.html",
+      "publisher": "Motley Fool",
+      "time": 1786558455,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "6fecf193-5576-3c6d-8a48-78319e8df0b3",
+      "title": "LCI Industries (LCII) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/6fecf193-5576-3c6d-8a48-78319e8df0b3/lci-industries-%28lcii%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1786558455,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
