@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-13T09:39:05.895078+00:00",
+  "updatedAt": "2026-08-13T10:56:36.418436+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20347.2,
-      "change": 142.79999999999927,
-      "changePct": 0.7067767416998242,
+      "price": 20333.1,
+      "change": 128.6999999999971,
+      "changePct": 0.6369899625823934,
       "currency": "EUR"
     },
     {
@@ -28,92 +28,62 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26472.4,
-      "change": 80.9800000000032,
-      "changePct": 0.30684214794051706,
+      "price": 26478.64,
+      "change": 87.22000000000116,
+      "changePct": 0.33048619589245737,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6573.53,
-      "change": 39.539999999999964,
-      "changePct": 0.605143258560236,
-      "currency": "EUR"
+      "price": 6569.49,
+      "change": 35.5,
+      "changePct": 0.5433127384645523,
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.67,
-      "change": 0.11999999999999922,
-      "changePct": 0.8247422680412317,
+      "price": 14.6,
+      "change": 0.049999999999998934,
+      "changePct": 0.34364261168384147,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "ab5a7303-d565-3954-b392-67991d75b85b",
-      "title": "Apetit issues profit warning as hot weather hits peas",
-      "link": "https://finance.yahoo.com/m/ab5a7303-d565-3954-b392-67991d75b85b/apetit%C2%A0issues-profit-warning.html",
-      "publisher": "Just Food",
-      "time": 1786613810,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "c1d0ad95-08ce-35ae-8cc1-780d58f4815c",
-      "title": "Morgan Stanley Adjusts Price Target on Amplitude to $16 From $12, Maintains Overweight Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-093647268.html",
-      "publisher": "MT Newswires",
-      "time": 1786613807,
+      "id": "f3fc24b3-03ee-3f1d-a716-7f28a9c8d2ed",
+      "title": "On Holding (ONON) Just Had Its Worst Trading Day Ever. Did Investors Overreact?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-just-had-worst-104756485.html",
+      "publisher": "Insider Monkey",
+      "time": 1786618076,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "29faacf7-fbb7-3416-bcb5-f8953fe6f16a",
-      "title": "Morgan Stanley Adjusts PT on Grocery Outlet to $11 From $7, Keeps Equalweight Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-pt-grocery-093629314.html",
-      "publisher": "MT Newswires",
-      "time": 1786613789,
+      "id": "05532fbe-cc25-35da-a2ab-c00aa03bbc66",
+      "title": "US distributor RNDC strikes new deal for Kentucky assets",
+      "link": "https://finance.yahoo.com/m/05532fbe-cc25-35da-a2ab-c00aa03bbc66/us-distributor-rndc-strikes.html",
+      "publisher": "Just Drinks",
+      "time": 1786618021,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3f0a0445-dc4f-3d0e-a283-1fd33147c3d8",
-      "title": "Morgan Stanley Adjusts Price Target on Sprout Social to $11 From $10, Keeps Equalweight Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-093610656.html",
-      "publisher": "MT Newswires",
-      "time": 1786613770,
+      "id": "556af8eb-5032-335a-bf71-9cfce5a9a888",
+      "title": "FRN Variable Rate Fix",
+      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-104700024.html",
+      "publisher": "Business Wire",
+      "time": 1786618020,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e0f7647a-4846-3752-b744-3da3307fec4d",
-      "title": "Morgan Stanley Initiates Achieve Life Sciences at Overweight, With $13 Price Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-initiates-achieve-life-093518885.html",
-      "publisher": "MT Newswires",
-      "time": 1786613718,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8f8233f4-e276-3ebb-a892-429179c9d0db",
-      "title": "Hilton expands Türkiye presence with new property near Istanbul Airport",
-      "link": "https://finance.yahoo.com/m/8f8233f4-e276-3ebb-a892-429179c9d0db/hilton-expands-t%C3%BCrkiye.html",
-      "publisher": "Hotel Management Network",
-      "time": 1786613599,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "22059944-1dfe-341c-99b9-c74212d82e2a",
-      "title": "Update: Cisco Fiscal Q4 Adjusted Earnings, Revenue Rise; Fiscal 2027, Q1 Guidance Updated",
-      "link": "https://finance.yahoo.com/news/cisco-fiscal-q4-adjusted-earnings-093209138.html",
-      "publisher": "MT Newswires",
-      "time": 1786613529,
+      "id": "7453a9d3-71e3-3763-a718-541f754b36e6",
+      "title": "Applied Industrial Technologies: Fiscal Q4 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/applied-industrial-technologies-fiscal-q4-104518870.html",
+      "publisher": "Associated Press",
+      "time": 1786617918,
       "impact": "medium",
       "tags": [
         "macro",
@@ -121,29 +91,61 @@
       ]
     },
     {
-      "id": "d1eac41c-a0a3-30fb-8f05-296d6e451edd",
-      "title": "West Red Lake Gold Completes Phase One Madsen Mine Shaft Refurbishment",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/west-red-lake-gold-completes-093000917.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786613400,
+      "id": "056947b3-d0b4-3766-a5d7-83cc77ed5108",
+      "title": "Tapestry, Inc. Reports Fiscal 2026 Fourth Quarter and Full Year Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tapestry-inc-reports-fiscal-2026-104500680.html",
+      "publisher": "Business Wire",
+      "time": 1786617900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f7c6bbaf-437d-32ff-9fe5-5eb7dafb8f39",
-      "title": "Best Branson Vacation Packages (2026): Westgate Resorts Recognized as Top Value Getaway for Families by Consumer365",
-      "link": "https://finance.yahoo.com/small-business/articles/best-branson-vacation-packages-2026-093000153.html",
+      "id": "105a9656-4a0a-30bb-8466-d819bd72295e",
+      "title": "2 Mid-Cap Stocks with Exciting Potential and 1 We Find Risky",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-mid-cap-stocks-exciting-104500654.html",
+      "publisher": "StockStory",
+      "time": 1786617900,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "276ca241-b38f-32e1-89dd-901eb2f8d600",
+      "title": "Materialise NV to Report Second Quarter and Half-Year 2026 Earnings on Thursday, August 27, 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/materialise-nv-report-second-quarter-104500848.html",
+      "publisher": "Business Wire",
+      "time": 1786617900,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "34d0a0ce-b406-3319-9ea7-96b4280b411b",
+      "title": "Nomad Foods Reports Second Quarter 2026 Financial Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nomad-foods-reports-second-quarter-104500051.html",
       "publisher": "PR Newswire",
-      "time": 1786613400,
+      "time": 1786617900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "fbb212f4-558c-351b-9c30-6c927aa2cf7a",
-      "title": "Form 8.5 (EPT/RI)-Gamma Communications Plc",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-5-ept-ri-092800682.html",
+      "id": "5495a708-dfcc-3814-93d7-2153b83cf73d",
+      "title": "Kolibri Global Energy Inc. Announces Another Record for Its Highest Quarterly Revenue of $22.5 Million With a 46% Production Increase and a 197% Net Income Increase for the Second Quarter of 2026",
+      "link": "https://finance.yahoo.com/energy/articles/kolibri-global-energy-inc-announces-104500741.html",
+      "publisher": "Business Wire",
+      "time": 1786617900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "770111f7-3a9e-300e-83ab-3d072fc968e2",
+      "title": "Titan Machinery Inc. to Report Fiscal Second Quarter Ended July 31, 2026 Results on Thursday, August 27, 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/titan-machinery-inc-report-fiscal-104500930.html",
       "publisher": "GlobeNewswire",
-      "time": 1786613280,
+      "time": 1786617900,
       "impact": "low",
       "tags": []
     }
