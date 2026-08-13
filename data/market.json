@@ -1,94 +1,62 @@
 {
-  "updatedAt": "2026-08-13T15:29:17.595182+00:00",
+  "updatedAt": "2026-08-13T16:26:13.032483+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20212.6,
-      "change": 8.19999999999709,
-      "changePct": 0.040585219061180185,
+      "price": 20168.6,
+      "change": -35.80000000000291,
+      "changePct": -0.17718912712083956,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7783.05,
-      "change": 54.850000000000364,
-      "changePct": 0.7097383608084724,
+      "price": 7786.4,
+      "change": 58.19999999999982,
+      "changePct": 0.7530861002562023,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26752.836,
-      "change": 307.3859999999986,
-      "changePct": 1.16233983539701,
+      "price": 26764.97,
+      "change": 319.52000000000044,
+      "changePct": 1.2082229646309683,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26330.23,
-      "change": -61.18999999999869,
-      "changePct": -0.23185565611853662,
+      "price": 26299.74,
+      "change": -91.67999999999665,
+      "changePct": -0.3473856276016852,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6551.24,
-      "change": 17.25,
-      "changePct": 0.2640040771412261,
+      "price": 6545.47,
+      "change": 11.480000000000473,
+      "changePct": 0.17569662641051598,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.58,
-      "change": 0.02999999999999936,
-      "changePct": 0.20618556701030485,
+      "price": 14.68,
+      "change": 0.129999999999999,
+      "changePct": 0.893470790378,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "7d0c8c79-d155-34d0-babc-c865c7c94308",
-      "title": "Tidewater Midstream and Infrastructure  up Near 6%, Swings to Q2 Profit",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tidewater-midstream-infrastructure-near-6-152549432.html",
-      "publisher": "MT Newswires",
-      "time": 1786634749,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "6ef9e5aa-0d49-3406-bec2-b91f08a28c82",
-      "title": "Advance Auto Parts' Q2 Print Seen In-Line as Comps Get Tougher, RBC Capital Markets Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/advance-auto-parts-apos-q2-152355882.html",
-      "publisher": "MT Newswires",
-      "time": 1786634635,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "4cb08d80-24b7-371b-b6b6-153c2c23e51c",
-      "title": "Lode Gold Appoints Qi Guo to Board of Directors",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/lode-gold-appoints-qi-guo-152300788.html",
-      "publisher": "TMX Newsfile",
-      "time": 1786634580,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "acbe66f5-a843-3c53-8bf4-a2bd202f2c62",
-      "title": "Yeti Raises Fiscal 2027 Earnings Outlook But Flags Weakness in US Drinkware Category",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/yeti-raises-fiscal-2027-earnings-152201642.html",
-      "publisher": "MT Newswires",
-      "time": 1786634521,
+      "id": "8c691efd-035f-349c-97a6-452790b5ef31",
+      "title": "Tech stocks power S&P 500 to record high as oil prices, producer inflation ease",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-tick-higher-102006057.html",
+      "publisher": "Reuters",
+      "time": 1786638235,
       "impact": "high",
       "tags": [
         "geo",
@@ -96,61 +64,86 @@
       ]
     },
     {
-      "id": "7142efd7-a1fc-3de3-998c-7f7b7b30be27",
-      "title": "MongoDB's Atlas Growth, AI-Native Customer Base in Focus Ahead of Q2 Results, RBC Says",
-      "link": "https://finance.yahoo.com/technology/ai/articles/mongodb-apos-atlas-growth-ai-152123127.html",
-      "publisher": "MT Newswires",
-      "time": 1786634483,
+      "id": "2191cb9d-4195-442b-8e30-b866ace1e9ed",
+      "title": "Goldman Sachs wants to turn bitcoin into a yield machine",
+      "link": "https://finance.yahoo.com/video/goldman-sachs-wants-turn-bitcoin-162000621.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1786638000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2d15c83e-733a-3340-9ffa-5505a9fa6ee7",
-      "title": "BGL Announces the Sale of Dumpsters.com to Blue Point Capital Partners",
-      "link": "https://finance.yahoo.com/small-business/articles/bgl-announces-sale-dumpsters-com-152100695.html",
-      "publisher": "PR Newswire",
-      "time": 1786634460,
+      "id": "1aa39f32-7440-3218-ae21-a0f7ca818d6a",
+      "title": "How To Give A Bull Wings While Trading This Hot Energy Stock",
+      "link": "https://finance.yahoo.com/m/1aa39f32-7440-3218-ae21-a0f7ca818d6a/how-to-give-a-bull-wings.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786637996,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a49dc298-ce6c-3cd7-8f77-1a4becf8d8ec",
-      "title": "Market Chatter: AMD Plans to Raise Up to $5 Billion From Investment-Grade Bond Sale",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-amd-plans-raise-152021180.html",
-      "publisher": "MT Newswires",
-      "time": 1786634421,
+      "id": "dfb33d58-b788-3a1d-a6ea-09366597550b",
+      "title": "The busiest day on death row in years sees 2 executions, with 1 remaining",
+      "link": "https://finance.yahoo.com/m/dfb33d58-b788-3a1d-a6ea-09366597550b/the-busiest-day-on-death-row.html",
+      "publisher": "USA TODAY",
+      "time": 1786637949,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "211dc290-b035-3691-b4e2-0a223f710b81",
+      "title": "Pharvaris Could See Significant Upside on Positive Phase 3 Data, RBC Says",
+      "link": "https://finance.yahoo.com/healthcare/articles/pharvaris-could-see-significant-upside-161807049.html",
+      "publisher": "MT Newswires",
+      "time": 1786637887,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8a09692a-f827-39ea-9c25-5b6943779335",
+      "title": "If You Have $750,000 Saved at 58, Here Is the Monthly Income You Can Actually Count On",
+      "link": "https://finance.yahoo.com/m/8a09692a-f827-39ea-9c25-5b6943779335/if-you-have-%24750%2C000-saved-at.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786637886,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "514671f5-a514-3df7-b4f3-5614ef6eca12",
+      "title": "USS George Washington heads to Middle East after record 265-day Lincoln deployment",
+      "link": "https://finance.yahoo.com/m/514671f5-a514-3df7-b4f3-5614ef6eca12/uss-george-washington-heads.html",
+      "publisher": "Investing.com",
+      "time": 1786637878,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7c440ce7-d13e-3cc9-8047-49e11ceed2f3",
+      "title": "Kontoor Brands Could Evolve as 'Growth Stock' After Lee Sale, UBS Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kontoor-brands-could-evolve-apos-161744203.html",
+      "publisher": "MT Newswires",
+      "time": 1786637864,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9e141662-1abd-3015-8b67-1f772a2c8bb8",
+      "title": "European shares subdued ahead of euro zone inflation data; focus on Middle East",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-inch-lower-crude-071956648.html",
+      "publisher": "Reuters",
+      "time": 1786637856,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "f5f8202f-d2bb-3db9-bd8a-088632968955",
-      "title": "Canadian Bond Trading Softens in July Amid Seasonal Slowdown, Liquidity Remains Solid, National Bank Says",
-      "link": "https://finance.yahoo.com/markets/articles/canadian-bond-trading-softens-july-152009981.html",
-      "publisher": "MT Newswires",
-      "time": 1786634409,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "4febea57-26f4-3ab9-adc3-e38931a714a4",
-      "title": "FRN Variable Rate Fix",
-      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-152000372.html",
-      "publisher": "Business Wire",
-      "time": 1786634400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b46804e6-7f79-35b1-807a-8282b2c588ed",
-      "title": "Trust Stamp posts 22% revenue growth in H1, expands African telecom work",
-      "link": "https://finance.yahoo.com/m/b46804e6-7f79-35b1-807a-8282b2c588ed/trust-stamp-posts-22%25-revenue.html",
-      "publisher": "Proactive",
-      "time": 1786634400,
+      "id": "121cec67-22f1-3cef-ad1d-1156d9a21a10",
+      "title": "A luxurious Canadian hotel brand is coming to snowy Japan",
+      "link": "https://finance.yahoo.com/m/121cec67-22f1-3cef-ad1d-1156d9a21a10/a-luxurious-canadian-hotel.html",
+      "publisher": "TheStreet",
+      "time": 1786637820,
       "impact": "low",
       "tags": []
     }
