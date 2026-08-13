@@ -1,137 +1,118 @@
 {
-  "updatedAt": "2026-08-13T12:55:31.311716+00:00",
+  "updatedAt": "2026-08-13T14:20:04.179336+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20319.2,
-      "change": 114.79999999999927,
-      "changePct": 0.5681930668567207,
+      "price": 20268.3,
+      "change": 63.89999999999782,
+      "changePct": 0.31626774365978605,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7748.5,
-      "change": -4.609999999999673,
-      "changePct": -0.05946001024104743,
+      "price": 7809.1,
+      "change": 80.90000000000055,
+      "changePct": 1.046815558603563,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26588.488,
-      "change": -16.87199999999939,
-      "changePct": -0.06341579290789295,
+      "price": 26838.773,
+      "change": 393.3230000000003,
+      "changePct": 1.487299327483557,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26421.76,
-      "change": 30.340000000000146,
-      "changePct": 0.11496160494585039,
+      "price": 26380.72,
+      "change": -10.69999999999709,
+      "changePct": -0.040543479661181894,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6558.73,
-      "change": 24.73999999999978,
-      "changePct": 0.37863541266515227,
-      "currency": null
+      "price": 6559.45,
+      "change": 25.460000000000036,
+      "changePct": 0.3896547132762682,
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.51,
-      "change": -0.040000000000000924,
-      "changePct": -0.2749140893470854,
+      "price": 14.67,
+      "change": 0.11999999999999922,
+      "changePct": 0.8247422680412317,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "241f49cb-3c50-366a-a1b8-63cdc544a72e",
-      "title": "Vafo notches up another acquisition with Pets Deli",
-      "link": "https://finance.yahoo.com/m/241f49cb-3c50-366a-a1b8-63cdc544a72e/vafo-notches-up-another.html",
-      "publisher": "Just Food",
-      "time": 1786625600,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "92f3e3e5-282d-33e8-92ed-5f54c9520d8f",
-      "title": "Coherent's Record Year Produced Almost No Cash",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coherents-record-produced-almost-no-125201119.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786625521,
+      "id": "a66a2d88-f40a-3631-bb81-c626c8b5e16f",
+      "title": "Beauty and cosmetics retailer Douglas’ stores “under review” after Q3 loss",
+      "link": "https://finance.yahoo.com/m/a66a2d88-f40a-3631-bb81-c626c8b5e16f/beauty-and-cosmetics-retailer.html",
+      "publisher": "Retail Insight Network",
+      "time": 1786630560,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7d0e39e0-ccca-3a7f-bc3a-d5fe03ead2f0",
-      "title": "Cisco Stock Fell 6% as Margins Slipped",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-fell-6-margins-125046656.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786625446,
+      "id": "2d43646f-b11a-4673-875c-deafbcc80860",
+      "title": "Robinhood's co-founder wants to build AI data centers in space, not in people's backyards",
+      "link": "https://finance.yahoo.com/markets/article/robinhoods-co-founder-wants-to-build-ai-data-centers-in-space-not-in-peoples-backyards-141530032.html",
+      "publisher": "Yahoo Finance",
+      "time": 1786630530,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "62730db7-e4ef-3081-b453-5cb71c04108a",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-125000802.html",
-      "publisher": "Business Wire",
-      "time": 1786625400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7689527b-8f18-34bf-9ec0-f4b1c99aff43",
-      "title": "Marc Benioff's Salesforce Spent a Record $27 Billion on Stock Buybacks in a Single Quarter to Fight What He Calls the \"SaaSpocalypse.\" Here's Why the Size of That Repurchase Matters.",
-      "link": "https://finance.yahoo.com/m/7689527b-8f18-34bf-9ec0-f4b1c99aff43/marc-benioff%27s-salesforce.html",
-      "publisher": "Motley Fool",
-      "time": 1786625400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "63ce4f84-b6e4-3dcd-96c3-b3a2e515322e",
-      "title": "What Makes Welltower (WELL) a Bullish Bet?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/makes-welltower-well-bullish-bet-124843214.html",
-      "publisher": "Insider Monkey",
-      "time": 1786625323,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ee32f843-5bce-34b6-bb37-adeea1072721",
-      "title": "Grant Thornton UK expands team with 11 new appointments",
-      "link": "https://finance.yahoo.com/m/ee32f843-5bce-34b6-bb37-adeea1072721/grant-thornton-uk-expands.html",
-      "publisher": "International Accounting Bulletin",
-      "time": 1786625308,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6b7aaa87-f681-3f81-b68b-d51e15409ea0",
+      "id": "84955a73-5489-37e8-8640-16c39fcb920a",
       "title": "FRN Variable Rate Fix",
-      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-124800368.html",
+      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-141300162.html",
       "publisher": "Business Wire",
-      "time": 1786625280,
+      "time": 1786630380,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f04e9e91-a97f-3f5c-8110-8cf42d4277cb",
-      "title": "Morgan Stanley Sees Sea's Spending Building Earnings Power",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sees-seas-spending-124759179.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786625279,
+      "id": "e7d5bab4-b900-302a-b8bc-30b749f0e785",
+      "title": "1 High-Flying Stock for Long-Term Investors and 2 That Underwhelm",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-high-flying-stock-long-141300245.html",
+      "publisher": "StockStory",
+      "time": 1786630380,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "8b2597bd-cb8c-37fb-aaf9-b90d3cf25a7b",
+      "title": "Encamp Waste Launches New On-Site Waste Management Capabilities to Become Only End-to-End Waste Compliance Management Solution",
+      "link": "https://finance.yahoo.com/technology/articles/encamp-waste-launches-waste-management-141200147.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786630320,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4d818fdb-60d0-3e6d-ba08-f60f6d94c564",
+      "title": "UK ad watchdog upholds complaint against Sazerac promotional event",
+      "link": "https://finance.yahoo.com/m/4d818fdb-60d0-3e6d-ba08-f60f6d94c564/uk-ad-watchdog-upholds.html",
+      "publisher": "Just Drinks",
+      "time": 1786630306,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ea9b4a0a-0825-3b53-b87c-25d7406238eb",
+      "title": "Albemarle (ALB) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/ea9b4a0a-0825-3b53-b87c-25d7406238eb/albemarle-%28alb%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1786630251,
       "impact": "medium",
       "tags": [
         "macro",
@@ -139,11 +120,32 @@
       ]
     },
     {
-      "id": "a7bb93e2-6f41-37a5-b463-ac648be7c6d6",
-      "title": "Is Fervo Energy Company (FRVO) the Future of Baseload Power?",
-      "link": "https://finance.yahoo.com/energy/articles/fervo-energy-company-frvo-future-124725246.html",
-      "publisher": "Insider Monkey",
-      "time": 1786625245,
+      "id": "8db92490-c4c1-43a7-a107-56ddae901512",
+      "title": "26% of Gen Z use sports betting as part of their investing strategy",
+      "link": "https://finance.yahoo.com/video/26-gen-z-sports-betting-140900986.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1786630140,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "15ab274a-b29d-3348-aecb-235f2f4040b6",
+      "title": "Frasers Group confirms acquisition of Harvey Nichols, warns of ‘significant restructuring’",
+      "link": "https://finance.yahoo.com/m/15ab274a-b29d-3348-aecb-235f2f4040b6/frasers-group-confirms.html",
+      "publisher": "Just Style",
+      "time": 1786630094,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "10f240a2-322e-387b-a3e2-5b57d89f6b7b",
+      "title": "Align Climbs to No. 1,572 on the 2026 Inc. 5000",
+      "link": "https://finance.yahoo.com/technology/articles/align-climbs-no-1-572-140800131.html",
+      "publisher": "Business Wire",
+      "time": 1786630080,
       "impact": "low",
       "tags": []
     }
