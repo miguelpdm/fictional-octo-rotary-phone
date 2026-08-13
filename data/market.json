@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-13T06:57:33.173461+00:00",
+  "updatedAt": "2026-08-13T08:21:05.828792+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20204.4,
-      "change": -9.19999999999709,
-      "changePct": -0.04551391142595624,
+      "price": 20345.9,
+      "change": 141.5,
+      "changePct": 0.7003424996535408,
       "currency": "EUR"
     },
     {
@@ -28,128 +28,122 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26331.07,
-      "change": 7.18999999999869,
-      "changePct": 0.027313602705979097,
+      "price": 26435.27,
+      "change": 43.85000000000218,
+      "changePct": 0.16615248440592506,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6533.99,
-      "change": -17.230000000000473,
-      "changePct": -0.2630044480264817,
+      "price": 6562.79,
+      "change": 28.800000000000182,
+      "changePct": 0.44077202444448466,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.55,
-      "change": -0.7299999999999986,
-      "changePct": -4.777486910994756,
+      "price": 14.69,
+      "change": 0.1399999999999988,
+      "changePct": 0.9621993127147683,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "1b227451-6674-3ccb-b54d-478e5addee64",
-      "title": "Syensqo - Participation notification by The Capital Group Companies, Inc.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/syensqo-participation-notification-capital-group-064500804.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786603500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "35de2589-649e-39a2-b77b-5784c32ad6b7",
-      "title": "5 Revealing Analyst Questions From Graphic Packaging Holding’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-graphic-064500495.html",
-      "publisher": "StockStory",
-      "time": 1786603500,
-      "impact": "medium",
+      "id": "07e84200-2a1a-3ee5-8d59-a0c243cdbd5d",
+      "title": "AbCellera Biologics Prices $200 Million Offering of Shares, Pre-Funded Warrants",
+      "link": "https://finance.yahoo.com/healthcare/articles/abcellera-biologics-prices-200-million-081500277.html",
+      "publisher": "MT Newswires",
+      "time": 1786608900,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "00147826-6f74-3a85-b5e2-23ee386f365a",
-      "title": "enParadigm set to extend one of the largest AI-powered capability interventions to more than 900 wealth advisers across APAC",
-      "link": "https://finance.yahoo.com/technology/ai/articles/enparadigm-set-extend-one-largest-064100322.html",
-      "publisher": "PR Newswire",
-      "time": 1786603260,
+      "id": "a01f540d-630c-3467-b13c-617cad310a4e",
+      "title": "Outlook Therapeutics Prices $55 Million Securities Offering; Shares Down Pre-Bell",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/outlook-therapeutics-prices-55-million-081239422.html",
+      "publisher": "MT Newswires",
+      "time": 1786608759,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c09c8055-f666-3628-9921-2ce0f799494e",
-      "title": "The 5 Most Interesting Analyst Questions From Viasat’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-063700558.html",
-      "publisher": "StockStory",
-      "time": 1786603020,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "76b2b2e4-eaab-3312-85b0-8e9d27afda75",
-      "title": "LigoLab and MarginLogic Health AI Bring AI-Powered Requisition Automation to Laboratory Workflows",
-      "link": "https://finance.yahoo.com/healthcare/articles/ligolab-marginlogic-health-ai-bring-063500053.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786602900,
+      "id": "2ae87b8e-24bd-33d8-91da-67d9cd2ab4f1",
+      "title": "Liberty Capital Insider Bought Shares Worth $13,557,480, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/liberty-capital-insider-bought-shares-081138977.html",
+      "publisher": "MT Newswires",
+      "time": 1786608698,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6f184d83-e519-370e-9b1e-5c1f05447302",
-      "title": "Farizon Hits 600,000 Production Milestone, Celebrates 10th Anniversary with Homtruck Rollout",
-      "link": "https://finance.yahoo.com/technology/articles/farizon-hits-600-000-production-063300914.html",
-      "publisher": "PR Newswire",
-      "time": 1786602780,
+      "id": "7643d038-ef2e-347e-b5d6-96efe0e9dad2",
+      "title": "Amazon, AutoStore Sign Strategic Supply Agreement",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-autostore-sign-strategic-supply-081123066.html",
+      "publisher": "MT Newswires",
+      "time": 1786608683,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "718c8526-f1fb-3d89-918b-95178b722014",
-      "title": "X Square Robot Demonstrates Embodied AI in Real-World Logistics Operations",
-      "link": "https://finance.yahoo.com/technology/ai/articles/x-square-robot-demonstrates-embodied-063200620.html",
-      "publisher": "PR Newswire",
-      "time": 1786602720,
+      "id": "f1fb653c-aafb-34d1-8dcb-0cb61735c415",
+      "title": "Delek Logistics Partners Prices $200 Million Public Offering",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/delek-logistics-partners-prices-200-081122221.html",
+      "publisher": "MT Newswires",
+      "time": 1786608682,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bca6e627-8222-3331-b5ab-a0ea06cf456c",
-      "title": "Allient (ALNT) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/bca6e627-8222-3331-b5ab-a0ea06cf456c/allient-%28alnt%29-q2-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1786602649,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "f7f37e07-22a5-322e-bc0e-9a5e4cca553a",
+      "title": "Cullinan Therapeutics Says Phase 3 Trial of Experimental Lung Cancer Drug Met Primary Endpoint",
+      "link": "https://finance.yahoo.com/healthcare/articles/cullinan-therapeutics-says-phase-3-081119034.html",
+      "publisher": "MT Newswires",
+      "time": 1786608679,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "1c653fda-a811-396a-a29b-6a2ff7792e96",
-      "title": "McEwen (MUX) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/1c653fda-a811-396a-a29b-6a2ff7792e96/mcewen-%28mux%29-q2-2026-earnings.html",
-      "publisher": "Motley Fool",
-      "time": 1786602648,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "cadcc040-4a0b-3725-aac0-2cf902c11aad",
-      "title": "UK GDP bounced in June, helped by Gulf ceasefire, World Cup and sunshine",
-      "link": "https://finance.yahoo.com/economy/articles/uk-economy-unexpectedly-grows-0-061256829.html",
+      "id": "f8f4a52a-7f4b-35b4-ab3c-fbcc8807d356",
+      "title": "Stocks edge up with oil price below $90, dollar at 2-week high, Iran in focus",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rise-us-inflation-010444910.html",
       "publisher": "Reuters",
-      "time": 1786602642,
+      "time": 1786608609,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "22b73336-f391-3991-ac39-49eb6d81a48b",
+      "title": "Allstate Insider Sold Shares Worth $14,870,514, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/allstate-insider-sold-shares-worth-080937635.html",
+      "publisher": "MT Newswires",
+      "time": 1786608577,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "59cdb3ea-9ffe-3207-be8c-05cd647ad188",
+      "title": "Pharming Launches Joenja in Japan for Adult, Pediatric APDS Patients",
+      "link": "https://finance.yahoo.com/healthcare/articles/pharming-launches-joenja-japan-adult-080619024.html",
+      "publisher": "MT Newswires",
+      "time": 1786608379,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "53dc3996-9ba6-3210-acf0-b5f7518bf4b5",
+      "title": "U.K. Economy Continues Robust Performance in Second Quarter",
+      "link": "https://finance.yahoo.com/m/53dc3996-9ba6-3210-acf0-b5f7518bf4b5/u.k.-economy-continues-robust.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1786608360,
       "impact": "low",
       "tags": []
     }
