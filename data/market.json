@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T19:33:43.890453+00:00",
+  "updatedAt": "2026-08-13T20:35:04.146248+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7803.48,
-      "change": 75.27999999999975,
-      "changePct": 0.9740948733210806,
+      "price": 7798.99,
+      "change": 70.78999999999996,
+      "changePct": 0.9159959628374003,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26834.873,
-      "change": 389.42299999999886,
-      "changePct": 1.472551989094528,
+      "price": 26803.025,
+      "change": 357.5750000000007,
+      "changePct": 1.352122954988479,
       "currency": "USD"
     },
     {
@@ -44,75 +44,28 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.75,
-      "change": 0.1999999999999993,
-      "changePct": 1.3745704467353903,
+      "price": 14.63,
+      "change": 0.08000000000000007,
+      "changePct": 0.5498281786941586,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "f017af59-a7e2-3987-a577-385603326240",
-      "title": "Analyst Sees Trouble Brewing for Hot Chip Stocks",
-      "link": "https://finance.yahoo.com/technology/articles/analyst-sees-trouble-brewing-hot-193124128.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786649484,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "0071154d-2fc7-363e-9923-93a84c32d5b5",
-      "title": "Robinhood Raises $225.5 Million to Put Retail Money Into Startups",
-      "link": "https://finance.yahoo.com/small-business/articles/robinhood-raises-225-5-million-193019381.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786649419,
+      "id": "b58edefe-a861-38d8-b714-0f1aa5070701",
+      "title": "Murphy USA Inc. Announces Dividend Increase",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/murphy-usa-inc-announces-dividend-203100225.html",
+      "publisher": "Business Wire",
+      "time": 1786653060,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "04baf0e9-a358-366f-a1dd-6a0efbdf8918",
-      "title": "Axos Target Rises to $120 on Growth Above Peers",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/axos-target-rises-120-growth-192918776.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786649358,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "982b6305-1ce1-3515-9b30-edf2976fdf75",
-      "title": "Sandisk Stock Soars 15% After Company Unveils Powerful FY2030 Targets",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stock-soars-15-company-192809365.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786649289,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4cbf6ac7-963a-3378-baca-1afae3b905d8",
-      "title": "Cisco CEO Rejects AI Bubble Concerns: The World’s Strongest Companies “View This Transition as Existential”",
-      "link": "https://finance.yahoo.com/m/4cbf6ac7-963a-3378-baca-1afae3b905d8/cisco-ceo-rejects-ai-bubble.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786649276,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7cd3d7fc-4395-3fa7-b232-7fedc4d616f7",
-      "title": "Why Netflix Stock Popped Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-netflix-stock-popped-today-192704519.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786649224,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1bade5be-279c-33e8-be94-b1cb3dcfe1d9",
-      "title": "Birkenstock Jumps 15% After Raising Sales Forecast",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/birkenstock-jumps-15-raising-sales-192608025.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786649168,
+      "id": "07190fbd-bfd2-306f-9e79-54f17e45558c",
+      "title": "CXAI Reports 79% Sequential Revenue Growth in Q2 2026 as EngineRoom Acquisition and CXAI 2.0 Accelerate Company Transformation",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cxai-reports-79-sequential-revenue-203000500.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786653000,
       "impact": "medium",
       "tags": [
         "macro",
@@ -120,31 +73,88 @@
       ]
     },
     {
-      "id": "77619da5-810b-3f34-8d10-2635cb74dd66",
-      "title": "Micron Stock Extends Winning Streak on Strong AI Memory Demand",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-extends-winning-streak-192459198.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786649099,
+      "id": "8f915135-08b5-38df-9f88-8f772ac45ae7",
+      "title": "Citi Expands Customer Engagement and Commerce Media Capabilities With Addition of Kard",
+      "link": "https://finance.yahoo.com/media-advertising/articles/citi-expands-customer-engagement-commerce-203000671.html",
+      "publisher": "Business Wire",
+      "time": 1786653000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "deb0805e-1efb-37db-a940-6f0b81139426",
-      "title": "Nearly 1 billion XRP just vanished from market, and Ripple had nothing to do with it",
-      "link": "https://finance.yahoo.com/m/deb0805e-1efb-37db-a940-6f0b81139426/nearly-1-billion-xrp-just.html",
-      "publisher": "TheStreet",
-      "time": 1786649068,
+      "id": "fc4ed4fe-8a92-30b8-8b6f-134aaafb0476",
+      "title": "Savers Value Village, Inc. Announces Closing of Upsized Secondary Public Offering of Common Stock and Concurrent Share Repurchase",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/savers-value-village-inc-announces-203000518.html",
+      "publisher": "Business Wire",
+      "time": 1786653000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "48605ffa-c3fe-3b12-aeb6-1dcbb99093e1",
+      "title": "Unpacking Q2 Earnings: WD-40 (NASDAQ:WDFC) In The Context Of Other Household Products Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/unpacking-q2-earnings-wd-40-202900833.html",
+      "publisher": "StockStory",
+      "time": 1786652940,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a5820ce3-f55c-31e2-a001-85cd30da0882",
+      "title": "HeartFlow: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/healthcare/articles/heartflow-q2-earnings-snapshot-202817914.html",
+      "publisher": "Associated Press",
+      "time": 1786652897,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a4f6e66e-283f-3b4b-9467-82581d3e0aa1",
+      "title": "AudioEye: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/audioeye-q2-earnings-snapshot-202815553.html",
+      "publisher": "Associated Press",
+      "time": 1786652895,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "7b216472-595c-36ed-8f81-67927085739c",
+      "title": "Applied Materials (NASDAQ:AMAT) Surprises With Q2 Sales But Stock Drops",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-nasdaq-amat-surprises-202811364.html",
+      "publisher": "StockStory",
+      "time": 1786652891,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "c267f63e-9e16-3513-ad72-5b3de93fd382",
-      "title": "SEPT. 8-10: Topical AI-Related Cyber Issues Explored by Top-Level Officials at 17th Annual Billington CyberSecurity Summit in DC",
-      "link": "https://finance.yahoo.com/technology/ai/articles/sept-8-10-topical-ai-192400338.html",
-      "publisher": "Business Wire",
-      "time": 1786649040,
+      "id": "e37eb580-6cf3-301e-bdd7-9c58651bcc97",
+      "title": "Elicio Therapeutics: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/healthcare/articles/elicio-therapeutics-q2-earnings-snapshot-202639167.html",
+      "publisher": "Associated Press",
+      "time": 1786652799,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "5f4078f0-21ff-3bb3-b49b-43a0010e8716",
+      "title": "Tempest Reports Second Quarter 2026 Financial Results and Provides Business Update",
+      "link": "https://finance.yahoo.com/healthcare/articles/tempest-reports-second-quarter-2026-202500294.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786652700,
       "impact": "low",
       "tags": []
     }
