@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T18:26:30.006629+00:00",
+  "updatedAt": "2026-08-13T19:33:43.890453+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7790.85,
-      "change": 62.650000000000546,
-      "changePct": 0.810667425791265,
+      "price": 7803.48,
+      "change": 75.27999999999975,
+      "changePct": 0.9740948733210806,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26778.432,
-      "change": 332.98199999999997,
-      "changePct": 1.2591277516548214,
+      "price": 26834.873,
+      "change": 389.42299999999886,
+      "changePct": 1.472551989094528,
       "currency": "USD"
     },
     {
@@ -44,76 +44,75 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.7,
-      "change": 0.14999999999999858,
-      "changePct": 1.0309278350515367,
+      "price": 14.75,
+      "change": 0.1999999999999993,
+      "changePct": 1.3745704467353903,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "f22166e3-2411-3eda-b2ce-4b0ca6646a80",
-      "title": "Keurig Dr Pepper Shares Rise After HSBC Upgrade",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/keurig-dr-pepper-shares-rise-182151128.html",
-      "publisher": "MT Newswires",
-      "time": 1786645311,
+      "id": "f017af59-a7e2-3987-a577-385603326240",
+      "title": "Analyst Sees Trouble Brewing for Hot Chip Stocks",
+      "link": "https://finance.yahoo.com/technology/articles/analyst-sees-trouble-brewing-hot-193124128.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786649484,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "92cbf51b-8ca5-36e3-bbdc-edac73a391f7",
-      "title": "DIAGNOS Receives Saudi FDA Medical Device License for CARA System, Bringing AI-Assisted Retinal Image Analysis to Saudi Arabia",
-      "link": "https://finance.yahoo.com/healthcare/articles/diagnos-receives-saudi-fda-medical-182100623.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786645260,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "617e9f5c-3ba2-3c2d-80aa-cca82157ce5f",
-      "title": "Global Physical Therapy Equipment Market Size/Share Worth USD 44.3 Billion by 2035 at a 7.5% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
-      "link": "https://finance.yahoo.com/healthcare/articles/global-physical-therapy-equipment-market-182000671.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786645200,
-      "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "0ca0d333-69e8-31bb-8784-896414acb6d6",
-      "title": "Lode Gold Resources Appoints Qi Guo to its Board",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lode-gold-resources-appoints-qi-181918974.html",
-      "publisher": "MT Newswires",
-      "time": 1786645158,
+      "id": "0071154d-2fc7-363e-9923-93a84c32d5b5",
+      "title": "Robinhood Raises $225.5 Million to Put Retail Money Into Startups",
+      "link": "https://finance.yahoo.com/small-business/articles/robinhood-raises-225-5-million-193019381.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786649419,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "260cd9bc-4000-364d-b088-9d62ab9a2527",
-      "title": "Wells Fargo resets Microsoft stock price target for 2026",
-      "link": "https://finance.yahoo.com/m/260cd9bc-4000-364d-b088-9d62ab9a2527/wells-fargo-resets-microsoft.html",
-      "publisher": "TheStreet",
-      "time": 1786645093,
+      "id": "04baf0e9-a358-366f-a1dd-6a0efbdf8918",
+      "title": "Axos Target Rises to $120 on Growth Above Peers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/axos-target-rises-120-growth-192918776.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786649358,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b7b5651b-201b-37e1-857f-73e0b3475e46",
-      "title": "Can Retirees Trust PDI’s 15.8% Monthly Payout? PIMCO’s Premium Problem, Explained",
-      "link": "https://finance.yahoo.com/m/b7b5651b-201b-37e1-857f-73e0b3475e46/can-retirees-trust-pdi%E2%80%99s.html",
+      "id": "982b6305-1ce1-3515-9b30-edf2976fdf75",
+      "title": "Sandisk Stock Soars 15% After Company Unveils Powerful FY2030 Targets",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stock-soars-15-company-192809365.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786649289,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4cbf6ac7-963a-3378-baca-1afae3b905d8",
+      "title": "Cisco CEO Rejects AI Bubble Concerns: The World’s Strongest Companies “View This Transition as Existential”",
+      "link": "https://finance.yahoo.com/m/4cbf6ac7-963a-3378-baca-1afae3b905d8/cisco-ceo-rejects-ai-bubble.html",
       "publisher": "24/7 Wall St.",
-      "time": 1786645054,
+      "time": 1786649276,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6649fdee-43c3-3fab-b01f-3f131745565c",
-      "title": "Intel Stock Jumps as Bank of America Sees Bigger CPU Market",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-jumps-bank-america-181723676.html",
+      "id": "7cd3d7fc-4395-3fa7-b232-7fedc4d616f7",
+      "title": "Why Netflix Stock Popped Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-netflix-stock-popped-today-192704519.html",
       "publisher": "GuruFocus.com",
-      "time": 1786645043,
+      "time": 1786649224,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1bade5be-279c-33e8-be94-b1cb3dcfe1d9",
+      "title": "Birkenstock Jumps 15% After Raising Sales Forecast",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/birkenstock-jumps-15-raising-sales-192608025.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786649168,
       "impact": "medium",
       "tags": [
         "macro",
@@ -121,29 +120,31 @@
       ]
     },
     {
-      "id": "613c1dec-9627-3b56-9b99-5b3ba0dad6e7",
-      "title": "PM Super Fund Reveals Marilia Bento, Chair of the Special Committee Refuses Cross Examination, Catherine Stretch Owned Shares in Parent Company of MGLIT, and Sets Record Straight on Matters in Emerita's August 12 News Release",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pm-super-fund-reveals-marilia-181700647.html",
-      "publisher": "TMX Newsfile",
-      "time": 1786645020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "885ea0b3-665b-309e-8d4a-f68599f0e161",
-      "title": "Bill Ackman Bets Big on Stock After 50% Collapse",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-bets-big-stock-181630697.html",
+      "id": "77619da5-810b-3f34-8d10-2635cb74dd66",
+      "title": "Micron Stock Extends Winning Streak on Strong AI Memory Demand",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-extends-winning-streak-192459198.html",
       "publisher": "GuruFocus.com",
-      "time": 1786644990,
+      "time": 1786649099,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e9c55786-6859-32db-ba0f-cc209ecac20a",
-      "title": "Sixty Compton, California Students to be Selected for Leadership and Health Advocacy Training, Powered by Health Net's $412,000 Investment",
-      "link": "https://finance.yahoo.com/healthcare/articles/sixty-compton-california-students-selected-181600514.html",
-      "publisher": "PR Newswire",
-      "time": 1786644960,
+      "id": "deb0805e-1efb-37db-a940-6f0b81139426",
+      "title": "Nearly 1 billion XRP just vanished from market, and Ripple had nothing to do with it",
+      "link": "https://finance.yahoo.com/m/deb0805e-1efb-37db-a940-6f0b81139426/nearly-1-billion-xrp-just.html",
+      "publisher": "TheStreet",
+      "time": 1786649068,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "c267f63e-9e16-3513-ad72-5b3de93fd382",
+      "title": "SEPT. 8-10: Topical AI-Related Cyber Issues Explored by Top-Level Officials at 17th Annual Billington CyberSecurity Summit in DC",
+      "link": "https://finance.yahoo.com/technology/ai/articles/sept-8-10-topical-ai-192400338.html",
+      "publisher": "Business Wire",
+      "time": 1786649040,
       "impact": "low",
       "tags": []
     }
