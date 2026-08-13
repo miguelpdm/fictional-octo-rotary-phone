@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T16:26:13.032483+00:00",
+  "updatedAt": "2026-08-13T17:27:19.194431+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7786.4,
-      "change": 58.19999999999982,
-      "changePct": 0.7530861002562023,
+      "price": 7794.63,
+      "change": 66.43000000000029,
+      "changePct": 0.8595792034367679,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26764.97,
-      "change": 319.52000000000044,
-      "changePct": 1.2082229646309683,
+      "price": 26798.816,
+      "change": 353.36599999999817,
+      "changePct": 1.3362071736347771,
       "currency": "USD"
     },
     {
@@ -44,19 +44,49 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.68,
-      "change": 0.129999999999999,
-      "changePct": 0.893470790378,
+      "price": 14.71,
+      "change": 0.16000000000000014,
+      "changePct": 1.0996563573883171,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "8c691efd-035f-349c-97a6-452790b5ef31",
-      "title": "Tech stocks power S&P 500 to record high as oil prices, producer inflation ease",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-tick-higher-102006057.html",
-      "publisher": "Reuters",
-      "time": 1786638235,
+      "id": "11342043-098b-3271-b54b-b481e259697c",
+      "title": "Why Arm Holdings Stock Popped Today",
+      "link": "https://finance.yahoo.com/m/11342043-098b-3271-b54b-b481e259697c/why-arm-holdings-stock-popped.html",
+      "publisher": "Motley Fool",
+      "time": 1786641801,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "46d7bda8-3c65-3800-a9ed-f9e075235137",
+      "title": "AM Best Places Credit Ratings of Compañía de Seguros Generales Everest Mexico, S.A. de C.V. Under Review With Negative Implications",
+      "link": "https://finance.yahoo.com/healthcare/articles/am-best-places-credit-ratings-172100551.html",
+      "publisher": "Business Wire",
+      "time": 1786641660,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "aede6493-426e-3675-9513-b155707031f8",
+      "title": "Bit Digital, Inc. Q2 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/m/aede6493-426e-3675-9513-b155707031f8/bit-digital%2C-inc.-q2-2026.html",
+      "publisher": "Moby",
+      "time": 1786641626,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "ce543909-5d3c-36e4-a885-f4325a2df381",
+      "title": "Warner Bros. Discovery President Sells $16 Million Stock After 146% Rally",
+      "link": "https://finance.yahoo.com/m/ce543909-5d3c-36e4-a885-f4325a2df381/warner-bros.-discovery.html",
+      "publisher": "Motley Fool",
+      "time": 1786641601,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,88 +94,64 @@
       ]
     },
     {
-      "id": "2191cb9d-4195-442b-8e30-b866ace1e9ed",
-      "title": "Goldman Sachs wants to turn bitcoin into a yield machine",
-      "link": "https://finance.yahoo.com/video/goldman-sachs-wants-turn-bitcoin-162000621.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1786638000,
+      "id": "27d8b4f9-67b9-3672-b89c-b41d85367aa4",
+      "title": "Is Novo Nordisk's Wegovy-Fueled Rebound Evaporating?",
+      "link": "https://finance.yahoo.com/m/27d8b4f9-67b9-3672-b89c-b41d85367aa4/is-novo-nordisk%27s.html",
+      "publisher": "Motley Fool",
+      "time": 1786641600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1aa39f32-7440-3218-ae21-a0f7ca818d6a",
-      "title": "How To Give A Bull Wings While Trading This Hot Energy Stock",
-      "link": "https://finance.yahoo.com/m/1aa39f32-7440-3218-ae21-a0f7ca818d6a/how-to-give-a-bull-wings.html",
+      "id": "759d1c2f-0489-3f07-8339-2b32a2bf7a6d",
+      "title": "Streamlined Media Management Meets a Fresh Look",
+      "link": "https://finance.yahoo.com/media-advertising/articles/streamlined-media-management-meets-fresh-172000085.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786641600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "792d8a80-3fad-36e0-81a6-7f3e9037e5c2",
+      "title": "Nexon Releases Earnings for Second Quarter 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nexon-releases-earnings-second-quarter-171900722.html",
+      "publisher": "Business Wire",
+      "time": 1786641540,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "7de6b2b2-9428-350a-893c-b7dbacbeea20",
+      "title": "American Building Development Celebrates 7 Years in Business as of July 18, 2026, Growing Its Reputation as the Best Deck Contractor For Sacramento Homeowners",
+      "link": "https://finance.yahoo.com/small-business/articles/american-building-development-celebrates-7-171900464.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786641540,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "09babbe7-a9cf-39f0-b44f-416f178c367d",
+      "title": "Archer Aviation Stock Has Surged 45% in the Past Month. Should You Buy Into the Rally?",
+      "link": "https://finance.yahoo.com/m/09babbe7-a9cf-39f0-b44f-416f178c367d/archer-aviation-stock-has.html",
+      "publisher": "Motley Fool",
+      "time": 1786641467,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "da7cd1f3-3163-3809-a38a-4b50066e02b8",
+      "title": "SEC May Advance Crypto Rules, 24/7 Trading Without Clarity Act. OCC Paves Way For Crypto Banks.",
+      "link": "https://finance.yahoo.com/m/da7cd1f3-3163-3809-a38a-4b50066e02b8/sec-may-advance-crypto-rules%2C.html",
       "publisher": "Investor's Business Daily",
-      "time": 1786637996,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "dfb33d58-b788-3a1d-a6ea-09366597550b",
-      "title": "The busiest day on death row in years sees 2 executions, with 1 remaining",
-      "link": "https://finance.yahoo.com/m/dfb33d58-b788-3a1d-a6ea-09366597550b/the-busiest-day-on-death-row.html",
-      "publisher": "USA TODAY",
-      "time": 1786637949,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "211dc290-b035-3691-b4e2-0a223f710b81",
-      "title": "Pharvaris Could See Significant Upside on Positive Phase 3 Data, RBC Says",
-      "link": "https://finance.yahoo.com/healthcare/articles/pharvaris-could-see-significant-upside-161807049.html",
-      "publisher": "MT Newswires",
-      "time": 1786637887,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8a09692a-f827-39ea-9c25-5b6943779335",
-      "title": "If You Have $750,000 Saved at 58, Here Is the Monthly Income You Can Actually Count On",
-      "link": "https://finance.yahoo.com/m/8a09692a-f827-39ea-9c25-5b6943779335/if-you-have-%24750%2C000-saved-at.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786637886,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "514671f5-a514-3df7-b4f3-5614ef6eca12",
-      "title": "USS George Washington heads to Middle East after record 265-day Lincoln deployment",
-      "link": "https://finance.yahoo.com/m/514671f5-a514-3df7-b4f3-5614ef6eca12/uss-george-washington-heads.html",
-      "publisher": "Investing.com",
-      "time": 1786637878,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7c440ce7-d13e-3cc9-8047-49e11ceed2f3",
-      "title": "Kontoor Brands Could Evolve as 'Growth Stock' After Lee Sale, UBS Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kontoor-brands-could-evolve-apos-161744203.html",
-      "publisher": "MT Newswires",
-      "time": 1786637864,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9e141662-1abd-3015-8b67-1f772a2c8bb8",
-      "title": "European shares subdued ahead of euro zone inflation data; focus on Middle East",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-inch-lower-crude-071956648.html",
-      "publisher": "Reuters",
-      "time": 1786637856,
-      "impact": "high",
+      "time": 1786641424,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
-    },
-    {
-      "id": "121cec67-22f1-3cef-ad1d-1156d9a21a10",
-      "title": "A luxurious Canadian hotel brand is coming to snowy Japan",
-      "link": "https://finance.yahoo.com/m/121cec67-22f1-3cef-ad1d-1156d9a21a10/a-luxurious-canadian-hotel.html",
-      "publisher": "TheStreet",
-      "time": 1786637820,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
