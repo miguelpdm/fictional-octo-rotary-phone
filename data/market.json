@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T20:35:04.146248+00:00",
+  "updatedAt": "2026-08-13T21:38:12.661221+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6545.47,
       "change": 11.480000000000473,
       "changePct": 0.17569662641051598,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,109 +52,95 @@
   ],
   "news": [
     {
-      "id": "b58edefe-a861-38d8-b714-0f1aa5070701",
-      "title": "Murphy USA Inc. Announces Dividend Increase",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/murphy-usa-inc-announces-dividend-203100225.html",
-      "publisher": "Business Wire",
-      "time": 1786653060,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "07190fbd-bfd2-306f-9e79-54f17e45558c",
-      "title": "CXAI Reports 79% Sequential Revenue Growth in Q2 2026 as EngineRoom Acquisition and CXAI 2.0 Accelerate Company Transformation",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cxai-reports-79-sequential-revenue-203000500.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786653000,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "8f915135-08b5-38df-9f88-8f772ac45ae7",
-      "title": "Citi Expands Customer Engagement and Commerce Media Capabilities With Addition of Kard",
-      "link": "https://finance.yahoo.com/media-advertising/articles/citi-expands-customer-engagement-commerce-203000671.html",
-      "publisher": "Business Wire",
-      "time": 1786653000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fc4ed4fe-8a92-30b8-8b6f-134aaafb0476",
-      "title": "Savers Value Village, Inc. Announces Closing of Upsized Secondary Public Offering of Common Stock and Concurrent Share Repurchase",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/savers-value-village-inc-announces-203000518.html",
-      "publisher": "Business Wire",
-      "time": 1786653000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "48605ffa-c3fe-3b12-aeb6-1dcbb99093e1",
-      "title": "Unpacking Q2 Earnings: WD-40 (NASDAQ:WDFC) In The Context Of Other Household Products Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/unpacking-q2-earnings-wd-40-202900833.html",
-      "publisher": "StockStory",
-      "time": 1786652940,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a5820ce3-f55c-31e2-a001-85cd30da0882",
-      "title": "HeartFlow: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/healthcare/articles/heartflow-q2-earnings-snapshot-202817914.html",
-      "publisher": "Associated Press",
-      "time": 1786652897,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a4f6e66e-283f-3b4b-9467-82581d3e0aa1",
-      "title": "AudioEye: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/audioeye-q2-earnings-snapshot-202815553.html",
-      "publisher": "Associated Press",
-      "time": 1786652895,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "7b216472-595c-36ed-8f81-67927085739c",
-      "title": "Applied Materials (NASDAQ:AMAT) Surprises With Q2 Sales But Stock Drops",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-nasdaq-amat-surprises-202811364.html",
-      "publisher": "StockStory",
-      "time": 1786652891,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "e37eb580-6cf3-301e-bdd7-9c58651bcc97",
-      "title": "Elicio Therapeutics: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/healthcare/articles/elicio-therapeutics-q2-earnings-snapshot-202639167.html",
-      "publisher": "Associated Press",
-      "time": 1786652799,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "5f4078f0-21ff-3bb3-b49b-43a0010e8716",
-      "title": "Tempest Reports Second Quarter 2026 Financial Results and Provides Business Update",
-      "link": "https://finance.yahoo.com/healthcare/articles/tempest-reports-second-quarter-2026-202500294.html",
+      "id": "66db3f24-66ef-3656-8ef6-ef28e15652b0",
+      "title": "Tree Island Steel Announces Second Quarter 2026 Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tree-island-steel-announces-second-213000672.html",
       "publisher": "GlobeNewswire",
-      "time": 1786652700,
+      "time": 1786656600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6bdc6115-9b1e-39b2-a7cd-5149497ab2a4",
+      "title": "REalloys Reports Second Quarter 2026 Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/realloys-reports-second-quarter-2026-213000788.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786656600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a73ab36c-8fe4-39bb-aa63-901fd39706e3",
+      "title": "Verde AgriTech Announces Q2 2026 Financial and Operating Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/verde-agritech-announces-q2-2026-213000171.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786656600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c3a742bd-2b15-31d1-8f35-7b63e5cb628a",
+      "title": "Melcor Developments announces second quarter results, declares quarterly dividend of $0.15 per share",
+      "link": "https://finance.yahoo.com/real-estate/articles/melcor-developments-announces-second-quarter-213000730.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786656600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f231c320-f774-3a63-9ff6-7783b60d28f8",
+      "title": "BioSyent Schedules Q2 and H1 2026 Earnings Release for August 20, 2026",
+      "link": "https://finance.yahoo.com/healthcare/articles/biosyent-schedules-q2-h1-2026-213000656.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786656600,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "88cd8686-92c5-369e-8cdf-35dfc023df0f",
+      "title": "Tyson Foods Shuts Illinois, Utah Plants Amid Beef Business Overhaul",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tyson-foods-shuts-illinois-utah-212912743.html",
+      "publisher": "MT Newswires",
+      "time": 1786656552,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8433fc3d-50a4-3d40-a976-ee8f58e624d8",
+      "title": "Red Cat Holdings Insider Sold Shares Worth $584,650, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-insider-sold-212855008.html",
+      "publisher": "MT Newswires",
+      "time": 1786656535,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ac011ccb-25b0-3bb8-bb20-f2bed6b5d99f",
+      "title": "Biodesix Insider Bought Shares Worth $366,992, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/biodesix-insider-bought-shares-worth-212809287.html",
+      "publisher": "MT Newswires",
+      "time": 1786656489,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b6064a1d-5f59-3f1d-9077-80581d769454",
+      "title": "US extends Jones Act waiver 90 days, revises compliance rules",
+      "link": "https://finance.yahoo.com/news/us-extends-jones-act-waiver-212802740.html",
+      "publisher": "Reuters",
+      "time": 1786656482,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4c96183e-7058-34ce-acd3-f70cda5d144a",
+      "title": "Constellation Energy Insider Bought Shares Worth $417,931, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-insider-bought-shares-212719002.html",
+      "publisher": "MT Newswires",
+      "time": 1786656439,
       "impact": "low",
       "tags": []
     }
