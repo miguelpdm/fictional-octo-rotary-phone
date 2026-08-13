@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-13T08:21:05.828792+00:00",
+  "updatedAt": "2026-08-13T09:39:05.895078+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20345.9,
-      "change": 141.5,
-      "changePct": 0.7003424996535408,
+      "price": 20347.2,
+      "change": 142.79999999999927,
+      "changePct": 0.7067767416998242,
       "currency": "EUR"
     },
     {
@@ -28,35 +28,35 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26435.27,
-      "change": 43.85000000000218,
-      "changePct": 0.16615248440592506,
+      "price": 26472.4,
+      "change": 80.9800000000032,
+      "changePct": 0.30684214794051706,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6562.79,
-      "change": 28.800000000000182,
-      "changePct": 0.44077202444448466,
+      "price": 6573.53,
+      "change": 39.539999999999964,
+      "changePct": 0.605143258560236,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.69,
-      "change": 0.1399999999999988,
-      "changePct": 0.9621993127147683,
+      "price": 14.67,
+      "change": 0.11999999999999922,
+      "changePct": 0.8247422680412317,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "07e84200-2a1a-3ee5-8d59-a0c243cdbd5d",
-      "title": "AbCellera Biologics Prices $200 Million Offering of Shares, Pre-Funded Warrants",
-      "link": "https://finance.yahoo.com/healthcare/articles/abcellera-biologics-prices-200-million-081500277.html",
-      "publisher": "MT Newswires",
-      "time": 1786608900,
+      "id": "ab5a7303-d565-3954-b392-67991d75b85b",
+      "title": "Apetit issues profit warning as hot weather hits peas",
+      "link": "https://finance.yahoo.com/m/ab5a7303-d565-3954-b392-67991d75b85b/apetit%C2%A0issues-profit-warning.html",
+      "publisher": "Just Food",
+      "time": 1786613810,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,56 +64,56 @@
       ]
     },
     {
-      "id": "a01f540d-630c-3467-b13c-617cad310a4e",
-      "title": "Outlook Therapeutics Prices $55 Million Securities Offering; Shares Down Pre-Bell",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/outlook-therapeutics-prices-55-million-081239422.html",
+      "id": "c1d0ad95-08ce-35ae-8cc1-780d58f4815c",
+      "title": "Morgan Stanley Adjusts Price Target on Amplitude to $16 From $12, Maintains Overweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-093647268.html",
       "publisher": "MT Newswires",
-      "time": 1786608759,
+      "time": 1786613807,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2ae87b8e-24bd-33d8-91da-67d9cd2ab4f1",
-      "title": "Liberty Capital Insider Bought Shares Worth $13,557,480, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/liberty-capital-insider-bought-shares-081138977.html",
+      "id": "29faacf7-fbb7-3416-bcb5-f8953fe6f16a",
+      "title": "Morgan Stanley Adjusts PT on Grocery Outlet to $11 From $7, Keeps Equalweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-pt-grocery-093629314.html",
       "publisher": "MT Newswires",
-      "time": 1786608698,
+      "time": 1786613789,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7643d038-ef2e-347e-b5d6-96efe0e9dad2",
-      "title": "Amazon, AutoStore Sign Strategic Supply Agreement",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-autostore-sign-strategic-supply-081123066.html",
+      "id": "3f0a0445-dc4f-3d0e-a283-1fd33147c3d8",
+      "title": "Morgan Stanley Adjusts Price Target on Sprout Social to $11 From $10, Keeps Equalweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-093610656.html",
       "publisher": "MT Newswires",
-      "time": 1786608683,
+      "time": 1786613770,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f1fb653c-aafb-34d1-8dcb-0cb61735c415",
-      "title": "Delek Logistics Partners Prices $200 Million Public Offering",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/delek-logistics-partners-prices-200-081122221.html",
+      "id": "e0f7647a-4846-3752-b744-3da3307fec4d",
+      "title": "Morgan Stanley Initiates Achieve Life Sciences at Overweight, With $13 Price Target",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-initiates-achieve-life-093518885.html",
       "publisher": "MT Newswires",
-      "time": 1786608682,
+      "time": 1786613718,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f7f37e07-22a5-322e-bc0e-9a5e4cca553a",
-      "title": "Cullinan Therapeutics Says Phase 3 Trial of Experimental Lung Cancer Drug Met Primary Endpoint",
-      "link": "https://finance.yahoo.com/healthcare/articles/cullinan-therapeutics-says-phase-3-081119034.html",
-      "publisher": "MT Newswires",
-      "time": 1786608679,
+      "id": "8f8233f4-e276-3ebb-a892-429179c9d0db",
+      "title": "Hilton expands Türkiye presence with new property near Istanbul Airport",
+      "link": "https://finance.yahoo.com/m/8f8233f4-e276-3ebb-a892-429179c9d0db/hilton-expands-t%C3%BCrkiye.html",
+      "publisher": "Hotel Management Network",
+      "time": 1786613599,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f8f4a52a-7f4b-35b4-ab3c-fbcc8807d356",
-      "title": "Stocks edge up with oil price below $90, dollar at 2-week high, Iran in focus",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rise-us-inflation-010444910.html",
-      "publisher": "Reuters",
-      "time": 1786608609,
+      "id": "22059944-1dfe-341c-99b9-c74212d82e2a",
+      "title": "Update: Cisco Fiscal Q4 Adjusted Earnings, Revenue Rise; Fiscal 2027, Q1 Guidance Updated",
+      "link": "https://finance.yahoo.com/news/cisco-fiscal-q4-adjusted-earnings-093209138.html",
+      "publisher": "MT Newswires",
+      "time": 1786613529,
       "impact": "medium",
       "tags": [
         "macro",
@@ -121,29 +121,29 @@
       ]
     },
     {
-      "id": "22b73336-f391-3991-ac39-49eb6d81a48b",
-      "title": "Allstate Insider Sold Shares Worth $14,870,514, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/allstate-insider-sold-shares-worth-080937635.html",
-      "publisher": "MT Newswires",
-      "time": 1786608577,
+      "id": "d1eac41c-a0a3-30fb-8f05-296d6e451edd",
+      "title": "West Red Lake Gold Completes Phase One Madsen Mine Shaft Refurbishment",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/west-red-lake-gold-completes-093000917.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786613400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "59cdb3ea-9ffe-3207-be8c-05cd647ad188",
-      "title": "Pharming Launches Joenja in Japan for Adult, Pediatric APDS Patients",
-      "link": "https://finance.yahoo.com/healthcare/articles/pharming-launches-joenja-japan-adult-080619024.html",
-      "publisher": "MT Newswires",
-      "time": 1786608379,
+      "id": "f7c6bbaf-437d-32ff-9fe5-5eb7dafb8f39",
+      "title": "Best Branson Vacation Packages (2026): Westgate Resorts Recognized as Top Value Getaway for Families by Consumer365",
+      "link": "https://finance.yahoo.com/small-business/articles/best-branson-vacation-packages-2026-093000153.html",
+      "publisher": "PR Newswire",
+      "time": 1786613400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "53dc3996-9ba6-3210-acf0-b5f7518bf4b5",
-      "title": "U.K. Economy Continues Robust Performance in Second Quarter",
-      "link": "https://finance.yahoo.com/m/53dc3996-9ba6-3210-acf0-b5f7518bf4b5/u.k.-economy-continues-robust.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1786608360,
+      "id": "fbb212f4-558c-351b-9c30-6c927aa2cf7a",
+      "title": "Form 8.5 (EPT/RI)-Gamma Communications Plc",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-5-ept-ri-092800682.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786613280,
       "impact": "low",
       "tags": []
     }
