@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-13T10:56:36.418436+00:00",
+  "updatedAt": "2026-08-13T11:43:18.268333+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20333.1,
-      "change": 128.6999999999971,
-      "changePct": 0.6369899625823934,
+      "price": 20344.8,
+      "change": 140.39999999999782,
+      "changePct": 0.6948981409989795,
       "currency": "EUR"
     },
     {
@@ -28,124 +28,134 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26478.64,
-      "change": 87.22000000000116,
-      "changePct": 0.33048619589245737,
+      "price": 26459.5,
+      "change": 68.08000000000175,
+      "changePct": 0.25796262573215745,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6569.49,
-      "change": 35.5,
-      "changePct": 0.5433127384645523,
-      "currency": null
+      "price": 6566.9,
+      "change": 32.909999999999854,
+      "changePct": 0.5036738654329109,
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.6,
-      "change": 0.049999999999998934,
-      "changePct": 0.34364261168384147,
+      "price": 14.57,
+      "change": 0.019999999999999574,
+      "changePct": 0.1374570446735366,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "f3fc24b3-03ee-3f1d-a716-7f28a9c8d2ed",
-      "title": "On Holding (ONON) Just Had Its Worst Trading Day Ever. Did Investors Overreact?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-just-had-worst-104756485.html",
-      "publisher": "Insider Monkey",
-      "time": 1786618076,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "05532fbe-cc25-35da-a2ab-c00aa03bbc66",
-      "title": "US distributor RNDC strikes new deal for Kentucky assets",
-      "link": "https://finance.yahoo.com/m/05532fbe-cc25-35da-a2ab-c00aa03bbc66/us-distributor-rndc-strikes.html",
-      "publisher": "Just Drinks",
-      "time": 1786618021,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "556af8eb-5032-335a-bf71-9cfce5a9a888",
-      "title": "FRN Variable Rate Fix",
-      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-104700024.html",
-      "publisher": "Business Wire",
-      "time": 1786618020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7453a9d3-71e3-3763-a718-541f754b36e6",
-      "title": "Applied Industrial Technologies: Fiscal Q4 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/applied-industrial-technologies-fiscal-q4-104518870.html",
-      "publisher": "Associated Press",
-      "time": 1786617918,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "056947b3-d0b4-3766-a5d7-83cc77ed5108",
-      "title": "Tapestry, Inc. Reports Fiscal 2026 Fourth Quarter and Full Year Results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tapestry-inc-reports-fiscal-2026-104500680.html",
-      "publisher": "Business Wire",
-      "time": 1786617900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "105a9656-4a0a-30bb-8466-d819bd72295e",
-      "title": "2 Mid-Cap Stocks with Exciting Potential and 1 We Find Risky",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-mid-cap-stocks-exciting-104500654.html",
-      "publisher": "StockStory",
-      "time": 1786617900,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "276ca241-b38f-32e1-89dd-901eb2f8d600",
-      "title": "Materialise NV to Report Second Quarter and Half-Year 2026 Earnings on Thursday, August 27, 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/materialise-nv-report-second-quarter-104500848.html",
-      "publisher": "Business Wire",
-      "time": 1786617900,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "34d0a0ce-b406-3319-9ea7-96b4280b411b",
-      "title": "Nomad Foods Reports Second Quarter 2026 Financial Results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nomad-foods-reports-second-quarter-104500051.html",
+      "id": "1091e2e8-2bfb-3ebb-93d9-ac9444d244d4",
+      "title": "Prosper Family Office Opens New Office in Tsim Sha Tsui",
+      "link": "https://finance.yahoo.com/small-business/articles/prosper-family-office-opens-office-114100724.html",
       "publisher": "PR Newswire",
-      "time": 1786617900,
+      "time": 1786621260,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5495a708-dfcc-3814-93d7-2153b83cf73d",
-      "title": "Kolibri Global Energy Inc. Announces Another Record for Its Highest Quarterly Revenue of $22.5 Million With a 46% Production Increase and a 197% Net Income Increase for the Second Quarter of 2026",
-      "link": "https://finance.yahoo.com/energy/articles/kolibri-global-energy-inc-announces-104500741.html",
-      "publisher": "Business Wire",
-      "time": 1786617900,
+      "id": "3cec2739-2d49-310e-b4f9-6fdd8997b6a2",
+      "title": "--Jefferies Upgrades Inovio Pharmaceuticals to Buy From Hold, Adjusts PT to $3 From $1.80",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-upgrades-inovio-pharmaceuticals-buy-113623746.html",
+      "publisher": "MT Newswires",
+      "time": 1786620983,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "770111f7-3a9e-300e-83ab-3d072fc968e2",
-      "title": "Titan Machinery Inc. to Report Fiscal Second Quarter Ended July 31, 2026 Results on Thursday, August 27, 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/titan-machinery-inc-report-fiscal-104500930.html",
+      "id": "b93b9aed-ce16-3773-9d0a-8ceeec155f51",
+      "title": "Sagicor Adjusted Q2 Earnings Drop",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sagicor-adjusted-q2-earnings-drop-113617081.html",
+      "publisher": "MT Newswires",
+      "time": 1786620977,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9315e842-52b3-3ed5-a0aa-d13bb74d80fc",
+      "title": "Cantor Fitzgerald Upgrades WhiteFiber to Overweight From Neutral, Adjusts PT to $36 From $27",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-upgrades-whitefiber-overweight-113603780.html",
+      "publisher": "MT Newswires",
+      "time": 1786620963,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "151f5430-441b-35ef-84d7-78a2304d8588",
+      "title": "Clearmind Advances CMND-100 to Alcohol Use Disorder Patients After Achieving Primary Safety Endpoint",
+      "link": "https://finance.yahoo.com/healthcare/articles/clearmind-advances-cmnd-100-alcohol-113600704.html",
       "publisher": "GlobeNewswire",
-      "time": 1786617900,
+      "time": 1786620960,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8482420c-a6d5-3a02-a295-67db1ec56e13",
+      "title": "Barclays Adjusts Price Target on Amgen to $380 From $360, Maintains Equalweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-adjusts-price-target-amgen-113541363.html",
+      "publisher": "MT Newswires",
+      "time": 1786620941,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9a0207fd-267b-35ae-94bc-571b070b3ad1",
+      "title": "Air India Partners with Volantio to Enhance Passenger Experience",
+      "link": "https://finance.yahoo.com/technology/articles/air-india-partners-volantio-enhance-113500689.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786620900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "57eaaae7-85f9-319f-88e4-553c0856b3f7",
+      "title": "Cerebras Q2 2026 earnings: stock falls after guidance raise",
+      "link": "https://finance.yahoo.com/m/57eaaae7-85f9-319f-88e4-553c0856b3f7/cerebras-q2-2026-earnings%3A.html",
+      "publisher": "Quartz",
+      "time": 1786620899,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9729725b-b79a-356f-8bd3-75bcbde49a7d",
+      "title": "SOLV Energy Q2 Net Income, Revenue Rise; Lifts 2026 Guidance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/solv-energy-q2-net-income-113436469.html",
+      "publisher": "MT Newswires",
+      "time": 1786620876,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "40af0118-c311-3e86-9ccb-9f61588b70a9",
+      "title": "Wells Fargo Upgrades SM Energy to Overweight From Equalweight, Adjusts PT to $47 From $32",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-upgrades-sm-energy-113421985.html",
+      "publisher": "MT Newswires",
+      "time": 1786620861,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "43db3159-6184-330c-a0bc-0ef6b13e7a0e",
+      "title": "Jefferies Upgrades Five Below to Buy From Hold, Adjusts PT to $350 From $210",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-upgrades-five-below-buy-113354334.html",
+      "publisher": "MT Newswires",
+      "time": 1786620834,
       "impact": "low",
       "tags": []
     }
