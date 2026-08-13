@@ -1,118 +1,62 @@
 {
-  "updatedAt": "2026-08-13T14:20:04.179336+00:00",
+  "updatedAt": "2026-08-13T15:29:17.595182+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20268.3,
-      "change": 63.89999999999782,
-      "changePct": 0.31626774365978605,
+      "price": 20212.6,
+      "change": 8.19999999999709,
+      "changePct": 0.040585219061180185,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7809.1,
-      "change": 80.90000000000055,
-      "changePct": 1.046815558603563,
+      "price": 7783.05,
+      "change": 54.850000000000364,
+      "changePct": 0.7097383608084724,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26838.773,
-      "change": 393.3230000000003,
-      "changePct": 1.487299327483557,
+      "price": 26752.836,
+      "change": 307.3859999999986,
+      "changePct": 1.16233983539701,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26380.72,
-      "change": -10.69999999999709,
-      "changePct": -0.040543479661181894,
+      "price": 26330.23,
+      "change": -61.18999999999869,
+      "changePct": -0.23185565611853662,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6559.45,
-      "change": 25.460000000000036,
-      "changePct": 0.3896547132762682,
+      "price": 6551.24,
+      "change": 17.25,
+      "changePct": 0.2640040771412261,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.67,
-      "change": 0.11999999999999922,
-      "changePct": 0.8247422680412317,
+      "price": 14.58,
+      "change": 0.02999999999999936,
+      "changePct": 0.20618556701030485,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "a66a2d88-f40a-3631-bb81-c626c8b5e16f",
-      "title": "Beauty and cosmetics retailer Douglas’ stores “under review” after Q3 loss",
-      "link": "https://finance.yahoo.com/m/a66a2d88-f40a-3631-bb81-c626c8b5e16f/beauty-and-cosmetics-retailer.html",
-      "publisher": "Retail Insight Network",
-      "time": 1786630560,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2d43646f-b11a-4673-875c-deafbcc80860",
-      "title": "Robinhood's co-founder wants to build AI data centers in space, not in people's backyards",
-      "link": "https://finance.yahoo.com/markets/article/robinhoods-co-founder-wants-to-build-ai-data-centers-in-space-not-in-peoples-backyards-141530032.html",
-      "publisher": "Yahoo Finance",
-      "time": 1786630530,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "84955a73-5489-37e8-8640-16c39fcb920a",
-      "title": "FRN Variable Rate Fix",
-      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-141300162.html",
-      "publisher": "Business Wire",
-      "time": 1786630380,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e7d5bab4-b900-302a-b8bc-30b749f0e785",
-      "title": "1 High-Flying Stock for Long-Term Investors and 2 That Underwhelm",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-high-flying-stock-long-141300245.html",
-      "publisher": "StockStory",
-      "time": 1786630380,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "8b2597bd-cb8c-37fb-aaf9-b90d3cf25a7b",
-      "title": "Encamp Waste Launches New On-Site Waste Management Capabilities to Become Only End-to-End Waste Compliance Management Solution",
-      "link": "https://finance.yahoo.com/technology/articles/encamp-waste-launches-waste-management-141200147.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786630320,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4d818fdb-60d0-3e6d-ba08-f60f6d94c564",
-      "title": "UK ad watchdog upholds complaint against Sazerac promotional event",
-      "link": "https://finance.yahoo.com/m/4d818fdb-60d0-3e6d-ba08-f60f6d94c564/uk-ad-watchdog-upholds.html",
-      "publisher": "Just Drinks",
-      "time": 1786630306,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ea9b4a0a-0825-3b53-b87c-25d7406238eb",
-      "title": "Albemarle (ALB) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/ea9b4a0a-0825-3b53-b87c-25d7406238eb/albemarle-%28alb%29-q2-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1786630251,
+      "id": "7d0c8c79-d155-34d0-babc-c865c7c94308",
+      "title": "Tidewater Midstream and Infrastructure  up Near 6%, Swings to Q2 Profit",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tidewater-midstream-infrastructure-near-6-152549432.html",
+      "publisher": "MT Newswires",
+      "time": 1786634749,
       "impact": "medium",
       "tags": [
         "macro",
@@ -120,20 +64,31 @@
       ]
     },
     {
-      "id": "8db92490-c4c1-43a7-a107-56ddae901512",
-      "title": "26% of Gen Z use sports betting as part of their investing strategy",
-      "link": "https://finance.yahoo.com/video/26-gen-z-sports-betting-140900986.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1786630140,
+      "id": "6ef9e5aa-0d49-3406-bec2-b91f08a28c82",
+      "title": "Advance Auto Parts' Q2 Print Seen In-Line as Comps Get Tougher, RBC Capital Markets Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/advance-auto-parts-apos-q2-152355882.html",
+      "publisher": "MT Newswires",
+      "time": 1786634635,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "4cb08d80-24b7-371b-b6b6-153c2c23e51c",
+      "title": "Lode Gold Appoints Qi Guo to Board of Directors",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/lode-gold-appoints-qi-guo-152300788.html",
+      "publisher": "TMX Newsfile",
+      "time": 1786634580,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "15ab274a-b29d-3348-aecb-235f2f4040b6",
-      "title": "Frasers Group confirms acquisition of Harvey Nichols, warns of ‘significant restructuring’",
-      "link": "https://finance.yahoo.com/m/15ab274a-b29d-3348-aecb-235f2f4040b6/frasers-group-confirms.html",
-      "publisher": "Just Style",
-      "time": 1786630094,
+      "id": "acbe66f5-a843-3c53-8bf4-a2bd202f2c62",
+      "title": "Yeti Raises Fiscal 2027 Earnings Outlook But Flags Weakness in US Drinkware Category",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/yeti-raises-fiscal-2027-earnings-152201642.html",
+      "publisher": "MT Newswires",
+      "time": 1786634521,
       "impact": "high",
       "tags": [
         "geo",
@@ -141,11 +96,61 @@
       ]
     },
     {
-      "id": "10f240a2-322e-387b-a3e2-5b57d89f6b7b",
-      "title": "Align Climbs to No. 1,572 on the 2026 Inc. 5000",
-      "link": "https://finance.yahoo.com/technology/articles/align-climbs-no-1-572-140800131.html",
+      "id": "7142efd7-a1fc-3de3-998c-7f7b7b30be27",
+      "title": "MongoDB's Atlas Growth, AI-Native Customer Base in Focus Ahead of Q2 Results, RBC Says",
+      "link": "https://finance.yahoo.com/technology/ai/articles/mongodb-apos-atlas-growth-ai-152123127.html",
+      "publisher": "MT Newswires",
+      "time": 1786634483,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2d15c83e-733a-3340-9ffa-5505a9fa6ee7",
+      "title": "BGL Announces the Sale of Dumpsters.com to Blue Point Capital Partners",
+      "link": "https://finance.yahoo.com/small-business/articles/bgl-announces-sale-dumpsters-com-152100695.html",
+      "publisher": "PR Newswire",
+      "time": 1786634460,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a49dc298-ce6c-3cd7-8f77-1a4becf8d8ec",
+      "title": "Market Chatter: AMD Plans to Raise Up to $5 Billion From Investment-Grade Bond Sale",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-amd-plans-raise-152021180.html",
+      "publisher": "MT Newswires",
+      "time": 1786634421,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "f5f8202f-d2bb-3db9-bd8a-088632968955",
+      "title": "Canadian Bond Trading Softens in July Amid Seasonal Slowdown, Liquidity Remains Solid, National Bank Says",
+      "link": "https://finance.yahoo.com/markets/articles/canadian-bond-trading-softens-july-152009981.html",
+      "publisher": "MT Newswires",
+      "time": 1786634409,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "4febea57-26f4-3ab9-adc3-e38931a714a4",
+      "title": "FRN Variable Rate Fix",
+      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-152000372.html",
       "publisher": "Business Wire",
-      "time": 1786630080,
+      "time": 1786634400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b46804e6-7f79-35b1-807a-8282b2c588ed",
+      "title": "Trust Stamp posts 22% revenue growth in H1, expands African telecom work",
+      "link": "https://finance.yahoo.com/m/b46804e6-7f79-35b1-807a-8282b2c588ed/trust-stamp-posts-22%25-revenue.html",
+      "publisher": "Proactive",
+      "time": 1786634400,
       "impact": "low",
       "tags": []
     }
