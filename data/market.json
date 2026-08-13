@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T22:34:41.038450+00:00",
+  "updatedAt": "2026-08-13T23:34:30.227866+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6545.47,
       "change": 11.480000000000473,
       "changePct": 0.17569662641051598,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,76 +52,91 @@
   ],
   "news": [
     {
-      "id": "20748d51-0d67-3119-a59c-98a4ee0c8783",
-      "title": "BC-Nikkei 225 Futures",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/bc-nikkei-225-futures-223014203.html",
-      "publisher": "Associated Press",
-      "time": 1786660214,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f2153e86-3afc-3b52-b4c9-0860cfac5c19",
-      "title": "Elliott Management Statement on Northern Star Resources Ltd",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/elliott-management-statement-northern-star-223000041.html",
-      "publisher": "PR Newswire",
-      "time": 1786660200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0cc91a6a-a6bf-36ef-a67a-a9aa804f66b4",
-      "title": "T. ROWE PRICE OHA SELECT PRIVATE CREDIT FUND ANNOUNCES JUNE 30, 2026 FINANCIAL RESULTS AND DECLARED TOTAL DISTRIBUTIONS OF $0.60 PER SHARE IN Q2 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-oha-select-222800116.html",
-      "publisher": "PR Newswire",
-      "time": 1786660080,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4757c918-aee3-34be-b5ca-c0c24ba3498b",
-      "title": "2027 Oscars Best Picture Predictions",
-      "link": "https://finance.yahoo.com/m/4757c918-aee3-34be-b5ca-c0c24ba3498b/2027-oscars-best-picture.html",
-      "publisher": "Variety",
-      "time": 1786660028,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "85c09c6a-23bb-3043-b734-f0a0a730e8ea",
-      "title": "Charter Gets Final State Approval for $21.9 Billion Cox Deal",
-      "link": "https://finance.yahoo.com/m/85c09c6a-23bb-3043-b734-f0a0a730e8ea/charter-gets-final-state.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1786660020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9213bc07-d825-3cd5-85c9-229121fab910",
-      "title": "NYPD Officer Found Guilty in Illegal Chokehold Case",
-      "link": "https://finance.yahoo.com/m/9213bc07-d825-3cd5-85c9-229121fab910/nypd-officer-found-guilty-in.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1786659900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1f01ac08-6a2d-391f-9b39-5d6155bdd782",
-      "title": "Why Rapid7 (RPD) Stock Is Trading Up Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-rapid7-rpd-stock-trading-222100202.html",
+      "id": "3507c54f-757b-352c-bad2-ca0414909de5",
+      "title": "HPK Q2 Deep Dive: Accelerated Completions, Cost Discipline Drive Outperformance",
+      "link": "https://finance.yahoo.com/energy/articles/hpk-q2-deep-dive-accelerated-232500805.html",
       "publisher": "StockStory",
-      "time": 1786659660,
+      "time": 1786663500,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "d77ca588-1019-36e1-8065-a36ae0ce7b6c",
-      "title": "Dow Jones Futures: S&P 500 Hits High On Workday, Sandisk, Oil Prices; Applied Materials Earnings Late",
-      "link": "https://finance.yahoo.com/m/d77ca588-1019-36e1-8065-a36ae0ce7b6c/dow-jones-futures%3A-s%26p-500.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1786659565,
+      "id": "3dafe7d3-df8e-375b-849a-91110f09be8e",
+      "title": "FBI Curaleaf Report Signals Federal Scrutiny Ahead for State Marijuana Operators Seeking DEA Registration",
+      "link": "https://finance.yahoo.com/healthcare/articles/fbi-curaleaf-report-signals-federal-232500318.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786663500,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "6fad6545-9f71-3b4e-8fe6-c470d85c6137",
+      "title": "US Slaps 100% Tariff on Certain Drones in Move Targeting China",
+      "link": "https://finance.yahoo.com/economy/policy/articles/us-slaps-100-tariff-certain-232453079.html",
+      "publisher": "MT Newswires",
+      "time": 1786663493,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "e2c7b81c-a63f-3998-a8eb-b8afc9ce97ef",
+      "title": "CBP Seizes 440 Pounds of Unprocessed Cotton at Virginia’s Dulles Airport",
+      "link": "https://finance.yahoo.com/m/e2c7b81c-a63f-3998-a8eb-b8afc9ce97ef/cbp-seizes-440-pounds-of.html",
+      "publisher": "Sourcing Journal",
+      "time": 1786663236,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c9e7b4b7-ced0-36d7-8af0-cce6de161e3b",
+      "title": "e.l.f Beauty, Inc. (ELF) Crushes Q1 2027 Estimates as Rhode Fuels a Major Growth Acceleration",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/e-l-f-beauty-inc-231932963.html",
+      "publisher": "Insider Monkey",
+      "time": 1786663172,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ee2d5f28-7219-3d6a-bfad-d1a4bbcb39bb",
+      "title": "Map: Tracking OpenAI's leadership exodus",
+      "link": "https://finance.yahoo.com/m/ee2d5f28-7219-3d6a-bfad-d1a4bbcb39bb/map%3A-tracking-openai%27s.html",
+      "publisher": "Pitchbook",
+      "time": 1786663048,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8649e4f4-434a-3096-8bcb-f8290459f62f",
+      "title": "US says Kushner may go to Israel for talks on Gaza plan",
+      "link": "https://finance.yahoo.com/m/8649e4f4-434a-3096-8bcb-f8290459f62f/us-says-kushner-may-go-to.html",
+      "publisher": "AFP",
+      "time": 1786663035,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2b173ce9-fc03-3bcf-9672-d1cf9352d5ac",
+      "title": "Delta Air Lines has a reliability problem that may get worse",
+      "link": "https://finance.yahoo.com/m/2b173ce9-fc03-3bcf-9672-d1cf9352d5ac/delta-air-lines-has-a.html",
+      "publisher": "TheStreet",
+      "time": 1786663020,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2bcd72c5-a278-39df-89b2-7abdb9de3125",
+      "title": "RKLB Q2 Deep Dive: Iridium Acquisition, Neutron Progress, and Margin Pressures Shape Outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-q2-deep-dive-iridium-231700845.html",
+      "publisher": "StockStory",
+      "time": 1786663020,
       "impact": "medium",
       "tags": [
         "macro",
@@ -129,20 +144,11 @@
       ]
     },
     {
-      "id": "3f5d4b5c-5844-3b4b-9add-88c0d3a6f611",
-      "title": "Tropical Storm Lala: U-Haul Offers 30 Days Free Storage Across Hawaii",
-      "link": "https://finance.yahoo.com/small-business/articles/tropical-storm-lala-u-haul-221800521.html",
-      "publisher": "Business Wire",
-      "time": 1786659480,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5a6e055d-6bf4-37b7-868f-d6cbbf677dfb",
-      "title": "Could HCA Healthcare, Inc. (HCA) Stock Rebound After Guidance Cuts and Payer Pressure?",
-      "link": "https://finance.yahoo.com/healthcare/articles/could-hca-healthcare-inc-hca-221733771.html",
-      "publisher": "Insider Monkey",
-      "time": 1786659453,
+      "id": "0db723a8-4505-3ebc-aa17-742206b5f8b4",
+      "title": "Nutex Health (NUTX) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/0db723a8-4505-3ebc-aa17-742206b5f8b4/nutex-health-%28nutx%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1786662891,
       "impact": "medium",
       "tags": [
         "macro",
