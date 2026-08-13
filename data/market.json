@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T17:27:19.194431+00:00",
+  "updatedAt": "2026-08-13T18:26:30.006629+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7794.63,
-      "change": 66.43000000000029,
-      "changePct": 0.8595792034367679,
+      "price": 7790.85,
+      "change": 62.650000000000546,
+      "changePct": 0.810667425791265,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26798.816,
-      "change": 353.36599999999817,
-      "changePct": 1.3362071736347771,
+      "price": 26778.432,
+      "change": 332.98199999999997,
+      "changePct": 1.2591277516548214,
       "currency": "USD"
     },
     {
@@ -39,119 +39,113 @@
       "price": 6545.47,
       "change": 11.480000000000473,
       "changePct": 0.17569662641051598,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.71,
-      "change": 0.16000000000000014,
-      "changePct": 1.0996563573883171,
+      "price": 14.7,
+      "change": 0.14999999999999858,
+      "changePct": 1.0309278350515367,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "11342043-098b-3271-b54b-b481e259697c",
-      "title": "Why Arm Holdings Stock Popped Today",
-      "link": "https://finance.yahoo.com/m/11342043-098b-3271-b54b-b481e259697c/why-arm-holdings-stock-popped.html",
-      "publisher": "Motley Fool",
-      "time": 1786641801,
+      "id": "f22166e3-2411-3eda-b2ce-4b0ca6646a80",
+      "title": "Keurig Dr Pepper Shares Rise After HSBC Upgrade",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/keurig-dr-pepper-shares-rise-182151128.html",
+      "publisher": "MT Newswires",
+      "time": 1786645311,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "46d7bda8-3c65-3800-a9ed-f9e075235137",
-      "title": "AM Best Places Credit Ratings of Compañía de Seguros Generales Everest Mexico, S.A. de C.V. Under Review With Negative Implications",
-      "link": "https://finance.yahoo.com/healthcare/articles/am-best-places-credit-ratings-172100551.html",
-      "publisher": "Business Wire",
-      "time": 1786641660,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "aede6493-426e-3675-9513-b155707031f8",
-      "title": "Bit Digital, Inc. Q2 2026 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/m/aede6493-426e-3675-9513-b155707031f8/bit-digital%2C-inc.-q2-2026.html",
-      "publisher": "Moby",
-      "time": 1786641626,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "ce543909-5d3c-36e4-a885-f4325a2df381",
-      "title": "Warner Bros. Discovery President Sells $16 Million Stock After 146% Rally",
-      "link": "https://finance.yahoo.com/m/ce543909-5d3c-36e4-a885-f4325a2df381/warner-bros.-discovery.html",
-      "publisher": "Motley Fool",
-      "time": 1786641601,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "27d8b4f9-67b9-3672-b89c-b41d85367aa4",
-      "title": "Is Novo Nordisk's Wegovy-Fueled Rebound Evaporating?",
-      "link": "https://finance.yahoo.com/m/27d8b4f9-67b9-3672-b89c-b41d85367aa4/is-novo-nordisk%27s.html",
-      "publisher": "Motley Fool",
-      "time": 1786641600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "759d1c2f-0489-3f07-8339-2b32a2bf7a6d",
-      "title": "Streamlined Media Management Meets a Fresh Look",
-      "link": "https://finance.yahoo.com/media-advertising/articles/streamlined-media-management-meets-fresh-172000085.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786641600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "792d8a80-3fad-36e0-81a6-7f3e9037e5c2",
-      "title": "Nexon Releases Earnings for Second Quarter 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nexon-releases-earnings-second-quarter-171900722.html",
-      "publisher": "Business Wire",
-      "time": 1786641540,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "7de6b2b2-9428-350a-893c-b7dbacbeea20",
-      "title": "American Building Development Celebrates 7 Years in Business as of July 18, 2026, Growing Its Reputation as the Best Deck Contractor For Sacramento Homeowners",
-      "link": "https://finance.yahoo.com/small-business/articles/american-building-development-celebrates-7-171900464.html",
+      "id": "92cbf51b-8ca5-36e3-bbdc-edac73a391f7",
+      "title": "DIAGNOS Receives Saudi FDA Medical Device License for CARA System, Bringing AI-Assisted Retinal Image Analysis to Saudi Arabia",
+      "link": "https://finance.yahoo.com/healthcare/articles/diagnos-receives-saudi-fda-medical-182100623.html",
       "publisher": "GlobeNewswire",
-      "time": 1786641540,
+      "time": 1786645260,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "09babbe7-a9cf-39f0-b44f-416f178c367d",
-      "title": "Archer Aviation Stock Has Surged 45% in the Past Month. Should You Buy Into the Rally?",
-      "link": "https://finance.yahoo.com/m/09babbe7-a9cf-39f0-b44f-416f178c367d/archer-aviation-stock-has.html",
-      "publisher": "Motley Fool",
-      "time": 1786641467,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "da7cd1f3-3163-3809-a38a-4b50066e02b8",
-      "title": "SEC May Advance Crypto Rules, 24/7 Trading Without Clarity Act. OCC Paves Way For Crypto Banks.",
-      "link": "https://finance.yahoo.com/m/da7cd1f3-3163-3809-a38a-4b50066e02b8/sec-may-advance-crypto-rules%2C.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1786641424,
+      "id": "617e9f5c-3ba2-3c2d-80aa-cca82157ce5f",
+      "title": "Global Physical Therapy Equipment Market Size/Share Worth USD 44.3 Billion by 2035 at a 7.5% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+      "link": "https://finance.yahoo.com/healthcare/articles/global-physical-therapy-equipment-market-182000671.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786645200,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
+    },
+    {
+      "id": "0ca0d333-69e8-31bb-8784-896414acb6d6",
+      "title": "Lode Gold Resources Appoints Qi Guo to its Board",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lode-gold-resources-appoints-qi-181918974.html",
+      "publisher": "MT Newswires",
+      "time": 1786645158,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "260cd9bc-4000-364d-b088-9d62ab9a2527",
+      "title": "Wells Fargo resets Microsoft stock price target for 2026",
+      "link": "https://finance.yahoo.com/m/260cd9bc-4000-364d-b088-9d62ab9a2527/wells-fargo-resets-microsoft.html",
+      "publisher": "TheStreet",
+      "time": 1786645093,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b7b5651b-201b-37e1-857f-73e0b3475e46",
+      "title": "Can Retirees Trust PDI’s 15.8% Monthly Payout? PIMCO’s Premium Problem, Explained",
+      "link": "https://finance.yahoo.com/m/b7b5651b-201b-37e1-857f-73e0b3475e46/can-retirees-trust-pdi%E2%80%99s.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786645054,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6649fdee-43c3-3fab-b01f-3f131745565c",
+      "title": "Intel Stock Jumps as Bank of America Sees Bigger CPU Market",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-jumps-bank-america-181723676.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786645043,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "613c1dec-9627-3b56-9b99-5b3ba0dad6e7",
+      "title": "PM Super Fund Reveals Marilia Bento, Chair of the Special Committee Refuses Cross Examination, Catherine Stretch Owned Shares in Parent Company of MGLIT, and Sets Record Straight on Matters in Emerita's August 12 News Release",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pm-super-fund-reveals-marilia-181700647.html",
+      "publisher": "TMX Newsfile",
+      "time": 1786645020,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "885ea0b3-665b-309e-8d4a-f68599f0e161",
+      "title": "Bill Ackman Bets Big on Stock After 50% Collapse",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-bets-big-stock-181630697.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786644990,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e9c55786-6859-32db-ba0f-cc209ecac20a",
+      "title": "Sixty Compton, California Students to be Selected for Leadership and Health Advocacy Training, Powered by Health Net's $412,000 Investment",
+      "link": "https://finance.yahoo.com/healthcare/articles/sixty-compton-california-students-selected-181600514.html",
+      "publisher": "PR Newswire",
+      "time": 1786644960,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
