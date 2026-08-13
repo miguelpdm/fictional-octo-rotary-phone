@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T21:38:12.661221+00:00",
+  "updatedAt": "2026-08-13T22:34:41.038450+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,47 +52,76 @@
   ],
   "news": [
     {
-      "id": "66db3f24-66ef-3656-8ef6-ef28e15652b0",
-      "title": "Tree Island Steel Announces Second Quarter 2026 Results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tree-island-steel-announces-second-213000672.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786656600,
+      "id": "20748d51-0d67-3119-a59c-98a4ee0c8783",
+      "title": "BC-Nikkei 225 Futures",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/bc-nikkei-225-futures-223014203.html",
+      "publisher": "Associated Press",
+      "time": 1786660214,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6bdc6115-9b1e-39b2-a7cd-5149497ab2a4",
-      "title": "REalloys Reports Second Quarter 2026 Results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/realloys-reports-second-quarter-2026-213000788.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786656600,
+      "id": "f2153e86-3afc-3b52-b4c9-0860cfac5c19",
+      "title": "Elliott Management Statement on Northern Star Resources Ltd",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/elliott-management-statement-northern-star-223000041.html",
+      "publisher": "PR Newswire",
+      "time": 1786660200,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a73ab36c-8fe4-39bb-aa63-901fd39706e3",
-      "title": "Verde AgriTech Announces Q2 2026 Financial and Operating Results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/verde-agritech-announces-q2-2026-213000171.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786656600,
+      "id": "0cc91a6a-a6bf-36ef-a67a-a9aa804f66b4",
+      "title": "T. ROWE PRICE OHA SELECT PRIVATE CREDIT FUND ANNOUNCES JUNE 30, 2026 FINANCIAL RESULTS AND DECLARED TOTAL DISTRIBUTIONS OF $0.60 PER SHARE IN Q2 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-oha-select-222800116.html",
+      "publisher": "PR Newswire",
+      "time": 1786660080,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c3a742bd-2b15-31d1-8f35-7b63e5cb628a",
-      "title": "Melcor Developments announces second quarter results, declares quarterly dividend of $0.15 per share",
-      "link": "https://finance.yahoo.com/real-estate/articles/melcor-developments-announces-second-quarter-213000730.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786656600,
+      "id": "4757c918-aee3-34be-b5ca-c0c24ba3498b",
+      "title": "2027 Oscars Best Picture Predictions",
+      "link": "https://finance.yahoo.com/m/4757c918-aee3-34be-b5ca-c0c24ba3498b/2027-oscars-best-picture.html",
+      "publisher": "Variety",
+      "time": 1786660028,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f231c320-f774-3a63-9ff6-7783b60d28f8",
-      "title": "BioSyent Schedules Q2 and H1 2026 Earnings Release for August 20, 2026",
-      "link": "https://finance.yahoo.com/healthcare/articles/biosyent-schedules-q2-h1-2026-213000656.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786656600,
+      "id": "85c09c6a-23bb-3043-b734-f0a0a730e8ea",
+      "title": "Charter Gets Final State Approval for $21.9 Billion Cox Deal",
+      "link": "https://finance.yahoo.com/m/85c09c6a-23bb-3043-b734-f0a0a730e8ea/charter-gets-final-state.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1786660020,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9213bc07-d825-3cd5-85c9-229121fab910",
+      "title": "NYPD Officer Found Guilty in Illegal Chokehold Case",
+      "link": "https://finance.yahoo.com/m/9213bc07-d825-3cd5-85c9-229121fab910/nypd-officer-found-guilty-in.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1786659900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1f01ac08-6a2d-391f-9b39-5d6155bdd782",
+      "title": "Why Rapid7 (RPD) Stock Is Trading Up Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-rapid7-rpd-stock-trading-222100202.html",
+      "publisher": "StockStory",
+      "time": 1786659660,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "d77ca588-1019-36e1-8065-a36ae0ce7b6c",
+      "title": "Dow Jones Futures: S&P 500 Hits High On Workday, Sandisk, Oil Prices; Applied Materials Earnings Late",
+      "link": "https://finance.yahoo.com/m/d77ca588-1019-36e1-8065-a36ae0ce7b6c/dow-jones-futures%3A-s%26p-500.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786659565,
       "impact": "medium",
       "tags": [
         "macro",
@@ -100,49 +129,25 @@
       ]
     },
     {
-      "id": "88cd8686-92c5-369e-8cdf-35dfc023df0f",
-      "title": "Tyson Foods Shuts Illinois, Utah Plants Amid Beef Business Overhaul",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tyson-foods-shuts-illinois-utah-212912743.html",
-      "publisher": "MT Newswires",
-      "time": 1786656552,
+      "id": "3f5d4b5c-5844-3b4b-9add-88c0d3a6f611",
+      "title": "Tropical Storm Lala: U-Haul Offers 30 Days Free Storage Across Hawaii",
+      "link": "https://finance.yahoo.com/small-business/articles/tropical-storm-lala-u-haul-221800521.html",
+      "publisher": "Business Wire",
+      "time": 1786659480,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8433fc3d-50a4-3d40-a976-ee8f58e624d8",
-      "title": "Red Cat Holdings Insider Sold Shares Worth $584,650, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-insider-sold-212855008.html",
-      "publisher": "MT Newswires",
-      "time": 1786656535,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ac011ccb-25b0-3bb8-bb20-f2bed6b5d99f",
-      "title": "Biodesix Insider Bought Shares Worth $366,992, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/biodesix-insider-bought-shares-worth-212809287.html",
-      "publisher": "MT Newswires",
-      "time": 1786656489,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b6064a1d-5f59-3f1d-9077-80581d769454",
-      "title": "US extends Jones Act waiver 90 days, revises compliance rules",
-      "link": "https://finance.yahoo.com/news/us-extends-jones-act-waiver-212802740.html",
-      "publisher": "Reuters",
-      "time": 1786656482,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4c96183e-7058-34ce-acd3-f70cda5d144a",
-      "title": "Constellation Energy Insider Bought Shares Worth $417,931, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-insider-bought-shares-212719002.html",
-      "publisher": "MT Newswires",
-      "time": 1786656439,
-      "impact": "low",
-      "tags": []
+      "id": "5a6e055d-6bf4-37b7-868f-d6cbbf677dfb",
+      "title": "Could HCA Healthcare, Inc. (HCA) Stock Rebound After Guidance Cuts and Payer Pressure?",
+      "link": "https://finance.yahoo.com/healthcare/articles/could-hca-healthcare-inc-hca-221733771.html",
+      "publisher": "Insider Monkey",
+      "time": 1786659453,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
