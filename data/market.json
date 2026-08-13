@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T01:22:16.386359+00:00",
+  "updatedAt": "2026-08-13T03:38:01.220096+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6533.99,
       "change": -17.230000000000473,
       "changePct": -0.2630044480264817,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,20 +52,11 @@
   ],
   "news": [
     {
-      "id": "2c1f5dfc-0fa3-34b5-be70-de00c525c37b",
-      "title": "Goldman Sachs Bets Again on Options ETFs With NEOS Deal",
-      "link": "https://finance.yahoo.com/m/2c1f5dfc-0fa3-34b5-be70-de00c525c37b/goldman-sachs-bets-again-on.html",
-      "publisher": "etf.com",
-      "time": 1786583907,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6ec5cf7e-576e-3448-ae1c-a8d54f17a2ac",
-      "title": "Clover Health (CLOV) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/6ec5cf7e-576e-3448-ae1c-a8d54f17a2ac/clover-health-%28clov%29-q2-2026.html",
+      "id": "926f05d4-998c-34ef-81ac-80a6cb70d9a4",
+      "title": "MercadoLibre (MELI) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/926f05d4-998c-34ef-81ac-80a6cb70d9a4/mercadolibre-%28meli%29-q2-2026.html",
       "publisher": "Motley Fool",
-      "time": 1786583662,
+      "time": 1786591911,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,11 +64,11 @@
       ]
     },
     {
-      "id": "3ce16b8e-b313-371b-8c0a-710a140c31b1",
-      "title": "HMH (HMH) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/3ce16b8e-b313-371b-8c0a-710a140c31b1/hmh-%28hmh%29-q2-2026-earnings.html",
+      "id": "3a36eb82-b61e-366a-ad90-a857a982c1f3",
+      "title": "Corpay (CPAY) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/3a36eb82-b61e-366a-ad90-a857a982c1f3/corpay-%28cpay%29-q2-2026.html",
       "publisher": "Motley Fool",
-      "time": 1786583660,
+      "time": 1786591779,
       "impact": "medium",
       "tags": [
         "macro",
@@ -85,11 +76,11 @@
       ]
     },
     {
-      "id": "527a5360-4fcf-367a-88a8-27b36518f482",
-      "title": "Riley Exploration Permian (REPX) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/527a5360-4fcf-367a-88a8-27b36518f482/riley-exploration-permian.html",
+      "id": "3b91132b-5bc4-3fe8-aad6-ac683166d254",
+      "title": "MKS (MKSI) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/3b91132b-5bc4-3fe8-aad6-ac683166d254/mks-%28mksi%29-q2-2026-earnings.html",
       "publisher": "Motley Fool",
-      "time": 1786583660,
+      "time": 1786591779,
       "impact": "medium",
       "tags": [
         "macro",
@@ -97,11 +88,11 @@
       ]
     },
     {
-      "id": "5e38822d-d90d-355f-a2fc-a1dc780adbf7",
-      "title": "NuScale Power (SMR) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/5e38822d-d90d-355f-a2fc-a1dc780adbf7/nuscale-power-%28smr%29-q2-2026.html",
+      "id": "447f9ff8-61e5-3729-a293-6d663849bea2",
+      "title": "DXP Enterprises (DXPE) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/447f9ff8-61e5-3729-a293-6d663849bea2/dxp-enterprises-%28dxpe%29-q2.html",
       "publisher": "Motley Fool",
-      "time": 1786583660,
+      "time": 1786591779,
       "impact": "medium",
       "tags": [
         "macro",
@@ -109,11 +100,11 @@
       ]
     },
     {
-      "id": "b8cc9ee8-d8d7-3e8a-bdee-2ede946f8639",
-      "title": "Arcus Biosciences (RCUS) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/b8cc9ee8-d8d7-3e8a-bdee-2ede946f8639/arcus-biosciences-%28rcus%29-q2.html",
+      "id": "9212e1ff-7263-3c33-81f6-21c677b36793",
+      "title": "Curtiss-Wright (CW) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/9212e1ff-7263-3c33-81f6-21c677b36793/curtiss-wright-%28cw%29-q2-2026.html",
       "publisher": "Motley Fool",
-      "time": 1786583660,
+      "time": 1786591779,
       "impact": "medium",
       "tags": [
         "macro",
@@ -121,11 +112,11 @@
       ]
     },
     {
-      "id": "bd4f56b4-f3e0-341f-a5cd-c360945b7312",
-      "title": "Veeco (VECO) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/bd4f56b4-f3e0-341f-a5cd-c360945b7312/veeco-%28veco%29-q2-2026-earnings.html",
+      "id": "cbf72b58-9dcd-3211-8769-d5e63ecd0c47",
+      "title": "Montauk Renewables (MNTK) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/cbf72b58-9dcd-3211-8769-d5e63ecd0c47/montauk-renewables-%28mntk%29-q2.html",
       "publisher": "Motley Fool",
-      "time": 1786583660,
+      "time": 1786591779,
       "impact": "medium",
       "tags": [
         "macro",
@@ -133,11 +124,11 @@
       ]
     },
     {
-      "id": "fbb7fbb4-3225-3ec9-ae06-2f9239c954ce",
-      "title": "Solaris Energy Infrastructure (SEI) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/fbb7fbb4-3225-3ec9-ae06-2f9239c954ce/solaris-energy-infrastructure.html",
+      "id": "a50ef4bc-3b18-318a-ae43-93648fd54481",
+      "title": "Westwood Holdings (WHG) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/a50ef4bc-3b18-318a-ae43-93648fd54481/westwood-holdings-%28whg%29-q2.html",
       "publisher": "Motley Fool",
-      "time": 1786583660,
+      "time": 1786591778,
       "impact": "medium",
       "tags": [
         "macro",
@@ -145,11 +136,11 @@
       ]
     },
     {
-      "id": "5ed5d09f-375a-3636-a349-9415e3b8ade2",
-      "title": "Jyothy Labs Ltd (BOM:532926) (Q1 2027) Earnings Call Highlights: Margin Squeeze Amidst Strong ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jyothy-labs-ltd-bom-532926-011239802.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786583559,
+      "id": "d001f65d-5ee3-31c7-a35a-c4d0b3349a4d",
+      "title": "Symbotic (SYM) Q3 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/d001f65d-5ee3-31c7-a35a-c4d0b3349a4d/symbotic-%28sym%29-q3-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1786591739,
       "impact": "medium",
       "tags": [
         "macro",
@@ -157,11 +148,23 @@
       ]
     },
     {
-      "id": "472aef53-18b6-3733-83c1-82f4ee565cd5",
-      "title": "Matthew McConaughey on his sweet return to the big screen",
-      "link": "https://finance.yahoo.com/m/472aef53-18b6-3733-83c1-82f4ee565cd5/matthew-mcconaughey-on-his.html",
+      "id": "bb9dbe9d-82ca-3396-9810-dfed1ed5def7",
+      "title": "5 Revealing Analyst Questions From Jacobs Solutions’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-jacobs-032500999.html",
+      "publisher": "StockStory",
+      "time": 1786591500,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "2a5dad6e-b758-3096-8026-4501eadc63c8",
+      "title": "Bloodied but unbowed, defending champ Shelton reaches Montreal final",
+      "link": "https://finance.yahoo.com/m/2a5dad6e-b758-3096-8026-4501eadc63c8/bloodied-but-unbowed%2C.html",
       "publisher": "AFP",
-      "time": 1786583557,
+      "time": 1786591491,
       "impact": "low",
       "tags": []
     }
