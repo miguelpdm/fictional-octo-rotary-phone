@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T21:47:57.641611+00:00",
+  "updatedAt": "2026-08-14T22:15:36.699383+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,59 +52,29 @@
   ],
   "news": [
     {
-      "id": "4d359397-1544-3eb0-8693-ca6b25faa92f",
-      "title": "Ojai Raptor Center warns fans about Jackie the bald eagle merch",
-      "link": "https://finance.yahoo.com/m/4d359397-1544-3eb0-8693-ca6b25faa92f/ojai-raptor-center-warns-fans.html",
-      "publisher": "USA TODAY",
-      "time": 1786743493,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "6b5035cf-687b-33f2-a2d1-7a2ff5bfb5a2",
-      "title": "Diana Shipping Drops Bid to Acquire Genco Shipping & Trading",
-      "link": "https://finance.yahoo.com/m/6b5035cf-687b-33f2-a2d1-7a2ff5bfb5a2/diana-shipping-drops-bid-to.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1786743480,
+      "id": "cea154ad-4b9f-3996-b5bb-cd6f68818c77",
+      "title": "Li Lu's Bold Q2 2026 Move: PDD Holdings Inc Surges to a 12.68% Portfolio Impact",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/li-lus-bold-q2-2026-221046431.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786745446,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e0f607fb-66f5-3a3e-a64a-d7775292e32b",
-      "title": "Brixton Metals Announces Closing of First Tranche of Private Placement",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/brixton-metals-announces-closing-first-213600587.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786743360,
+      "id": "87cdbfa8-2744-38e8-9c20-82e426f35ff4",
+      "title": "Catherine Wood's Top Second Quarter 2026 Move: Space Exploration Technologies Corp at a 4. ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/catherine-woods-top-second-quarter-221002380.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786745402,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "12499734-d34d-3dd5-bc44-7e003fc8f492",
-      "title": "Pbf Energy Insider Sold Shares Worth $9,963,222, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pbf-energy-insider-sold-shares-213541066.html",
-      "publisher": "MT Newswires",
-      "time": 1786743341,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ff06f4ab-7846-3961-85a7-0c7b47797988",
-      "title": "Two Funds Promise 20% Income From the S&P 500. One Caps Your Upside, One Doesn’t, and It Charges Less",
-      "link": "https://finance.yahoo.com/m/ff06f4ab-7846-3961-85a7-0c7b47797988/two-funds-promise-20%25-income.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786743308,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "884428c3-dcc3-3d70-8491-5e5d4fe755a9",
-      "title": "World Liberty Gets Conditional OCC Approval to Issue USD1 Through National Trust Bank",
-      "link": "https://finance.yahoo.com/m/884428c3-dcc3-3d70-8491-5e5d4fe755a9/world-liberty-gets.html",
-      "publisher": "CryptoProwl",
-      "time": 1786743300,
+      "id": "59d5d67c-421d-3814-8c3b-8310f227f69c",
+      "title": "Anthropic quarterly revenue eclipses $11.5 billion amid IPO prep - Bloomberg",
+      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-quarterly-revenue-eclipses-11-220938340.html",
+      "publisher": "Investing.com",
+      "time": 1786745378,
       "impact": "medium",
       "tags": [
         "macro",
@@ -112,44 +82,73 @@
       ]
     },
     {
-      "id": "e8d9ca40-de9a-3a5e-b101-6287d51bfb28",
-      "title": "Paul Mueller Company Announces Quarterly Cash Dividend",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/paul-mueller-company-announces-quarterly-213500120.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786743300,
+      "id": "e83b96b6-76c1-3e10-941d-219a4911a899",
+      "title": "Jana Partners's Top Q2 2026 Move: Trimming Fiserv Inc at a -2.59% Portfolio Impact",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jana-partnerss-top-q2-2026-220916217.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786745356,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1d8446d8-9516-343e-9f2f-99f44cebcaf3",
-      "title": "91-year-old supermarket chain closing more stores",
-      "link": "https://finance.yahoo.com/m/1d8446d8-9516-343e-9f2f-99f44cebcaf3/91-year-old-supermarket-chain.html",
+      "id": "d3c40924-cd72-3b5f-bc0c-1261ccd96438",
+      "title": "Alan Fournier's Bold Q2 2026 Move: Exiting Core Scientific Inc for a -4.6% Portfolio Impact",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alan-fourniers-bold-q2-2026-220829272.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786745309,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6e366be1-d1b4-30b3-bee5-4bee3a92b9dd",
+      "title": "David Rolfe's Bold Q2 2026 Move: Exits Tractor Supply Co Entirely, a -4.27% Portfolio Impact",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/david-rolfes-bold-q2-2026-220743989.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786745263,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "82bc84e9-0c36-3679-8c0c-e0d6c466a291",
+      "title": "SEC fraud case rattles SpaceX Klarna pre-IPO investors",
+      "link": "https://finance.yahoo.com/m/82bc84e9-0c36-3679-8c0c-e0d6c466a291/sec-fraud-case-rattles-spacex.html",
       "publisher": "TheStreet",
-      "time": 1786743239,
-      "impact": "low",
+      "time": 1786745220,
+      "impact": "medium",
       "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b286b289-ce3c-359d-9c81-3b7eb9c58b0c",
+      "title": "Howard Marks's Top Q2 2026 Move: SunOpta Inc at a -2.7% Portfolio Impact",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/howard-markss-top-q2-2026-220700836.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786745220,
+      "impact": "high",
+      "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "7e9b3eda-47d1-3373-b22e-d4d82d5494ba",
-      "title": "CircKit Brings AI-Powered Circular Design to Fashion Schools",
-      "link": "https://finance.yahoo.com/m/7e9b3eda-47d1-3373-b22e-d4d82d5494ba/circkit-brings-ai-powered.html",
-      "publisher": "Sourcing Journal",
-      "time": 1786743191,
+      "id": "8a8fab8c-aeef-342d-80b5-e7d92f584e94",
+      "title": "Larry Robbins's Top Q2 2026 Move: Trimming CVS Health Corp at a -6.08% Portfolio Impact",
+      "link": "https://finance.yahoo.com/healthcare/articles/larry-robbinss-top-q2-2026-220612180.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786745172,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ecddcf60-41c8-3b2c-ae11-826a0902c2f9",
-      "title": "3 Reasons to Sell NDSN and 1 Stock to Buy Instead",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-ndsn-1-213300929.html",
-      "publisher": "StockStory",
-      "time": 1786743180,
+      "id": "c6638567-7f73-3fe8-899a-0deaffaa4b57",
+      "title": "Three Months in Florida Every Winter, Paid for by Your Portfolio. These 3 ETFs Cover the Whole Season",
+      "link": "https://finance.yahoo.com/m/c6638567-7f73-3fe8-899a-0deaffaa4b57/three-months-in-florida-every.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786745136,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     }
   ],
   "errors": {
