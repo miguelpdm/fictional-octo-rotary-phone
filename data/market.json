@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T23:34:30.227866+00:00",
+  "updatedAt": "2026-08-14T01:21:20.633414+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6545.47,
       "change": 11.480000000000473,
       "changePct": 0.17569662641051598,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,91 +52,20 @@
   ],
   "news": [
     {
-      "id": "3507c54f-757b-352c-bad2-ca0414909de5",
-      "title": "HPK Q2 Deep Dive: Accelerated Completions, Cost Discipline Drive Outperformance",
-      "link": "https://finance.yahoo.com/energy/articles/hpk-q2-deep-dive-accelerated-232500805.html",
-      "publisher": "StockStory",
-      "time": 1786663500,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "3dafe7d3-df8e-375b-849a-91110f09be8e",
-      "title": "FBI Curaleaf Report Signals Federal Scrutiny Ahead for State Marijuana Operators Seeking DEA Registration",
-      "link": "https://finance.yahoo.com/healthcare/articles/fbi-curaleaf-report-signals-federal-232500318.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786663500,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "6fad6545-9f71-3b4e-8fe6-c470d85c6137",
-      "title": "US Slaps 100% Tariff on Certain Drones in Move Targeting China",
-      "link": "https://finance.yahoo.com/economy/policy/articles/us-slaps-100-tariff-certain-232453079.html",
-      "publisher": "MT Newswires",
-      "time": 1786663493,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "e2c7b81c-a63f-3998-a8eb-b8afc9ce97ef",
-      "title": "CBP Seizes 440 Pounds of Unprocessed Cotton at Virginia’s Dulles Airport",
-      "link": "https://finance.yahoo.com/m/e2c7b81c-a63f-3998-a8eb-b8afc9ce97ef/cbp-seizes-440-pounds-of.html",
-      "publisher": "Sourcing Journal",
-      "time": 1786663236,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c9e7b4b7-ced0-36d7-8af0-cce6de161e3b",
-      "title": "e.l.f Beauty, Inc. (ELF) Crushes Q1 2027 Estimates as Rhode Fuels a Major Growth Acceleration",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/e-l-f-beauty-inc-231932963.html",
-      "publisher": "Insider Monkey",
-      "time": 1786663172,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ee2d5f28-7219-3d6a-bfad-d1a4bbcb39bb",
-      "title": "Map: Tracking OpenAI's leadership exodus",
-      "link": "https://finance.yahoo.com/m/ee2d5f28-7219-3d6a-bfad-d1a4bbcb39bb/map%3A-tracking-openai%27s.html",
-      "publisher": "Pitchbook",
-      "time": 1786663048,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8649e4f4-434a-3096-8bcb-f8290459f62f",
-      "title": "US says Kushner may go to Israel for talks on Gaza plan",
-      "link": "https://finance.yahoo.com/m/8649e4f4-434a-3096-8bcb-f8290459f62f/us-says-kushner-may-go-to.html",
-      "publisher": "AFP",
-      "time": 1786663035,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2b173ce9-fc03-3bcf-9672-d1cf9352d5ac",
-      "title": "Delta Air Lines has a reliability problem that may get worse",
-      "link": "https://finance.yahoo.com/m/2b173ce9-fc03-3bcf-9672-d1cf9352d5ac/delta-air-lines-has-a.html",
+      "id": "104cdb02-0f56-3e0f-be8b-252f29a7ef9b",
+      "title": "Apple’s next iPhone battle just got more complicated",
+      "link": "https://finance.yahoo.com/m/104cdb02-0f56-3e0f-be8b-252f29a7ef9b/apple%E2%80%99s-next-iphone-battle.html",
       "publisher": "TheStreet",
-      "time": 1786663020,
+      "time": 1786670220,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2bcd72c5-a278-39df-89b2-7abdb9de3125",
-      "title": "RKLB Q2 Deep Dive: Iridium Acquisition, Neutron Progress, and Margin Pressures Shape Outlook",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-q2-deep-dive-iridium-231700845.html",
-      "publisher": "StockStory",
-      "time": 1786663020,
+      "id": "d77ca588-1019-36e1-8065-a36ae0ce7b6c",
+      "title": "Dow Jones Futures: S&P 500 Hits High On Workday, Sandisk, Oil Prices; Applied Materials Earnings Late",
+      "link": "https://finance.yahoo.com/m/d77ca588-1019-36e1-8065-a36ae0ce7b6c/dow-jones-futures%3A-s%26p-500.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786670201,
       "impact": "medium",
       "tags": [
         "macro",
@@ -144,11 +73,83 @@
       ]
     },
     {
-      "id": "0db723a8-4505-3ebc-aa17-742206b5f8b4",
-      "title": "Nutex Health (NUTX) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/0db723a8-4505-3ebc-aa17-742206b5f8b4/nutex-health-%28nutx%29-q2-2026.html",
+      "id": "da84c9b6-e37b-34ec-a46f-d4e977f37fc7",
+      "title": "Oil markets look calm on top, but underneath shows a big toll",
+      "link": "https://finance.yahoo.com/m/da84c9b6-e37b-34ec-a46f-d4e977f37fc7/oil-markets-look-calm-on-top%2C.html",
+      "publisher": "TheStreet",
+      "time": 1786670086,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "d2ebe43b-9bd9-337b-9ce2-5658fbb81b79",
+      "title": "Melco Resorts (MLCO) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/d2ebe43b-9bd9-337b-9ce2-5658fbb81b79/melco-resorts-%28mlco%29-q2-2026.html",
       "publisher": "Motley Fool",
-      "time": 1786662891,
+      "time": 1786669996,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "fc7cbd54-b0ae-3bca-9721-09a9f503c1f9",
+      "title": "ThredUp Inc. (TDUP)’s 80% Gross Margin Shines, But Can Promotions Delay Profitability?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/thredup-inc-tdup-80-gross-011242457.html",
+      "publisher": "Insider Monkey",
+      "time": 1786669962,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a8828e31-9b15-3f6d-9318-44ee6ab66253",
+      "title": "Details on University of Michigan plan to use pass/fail grading for first-semester freshmen",
+      "link": "https://finance.yahoo.com/m/a8828e31-9b15-3f6d-9318-44ee6ab66253/details-on-university-of.html",
+      "publisher": "CBS News Videos",
+      "time": 1786669947,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9c771e37-de67-363c-90c0-6f655d724b0d",
+      "title": "/C O R R E C T I O N -- Longitude Rx/",
+      "link": "https://finance.yahoo.com/healthcare/articles/longitude-rx-appoints-cora-beth-120000517.html",
+      "publisher": "PR Newswire",
+      "time": 1786669920,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "348af04b-3ed5-3924-944c-681d507d7947",
+      "title": "New Zealand Football withdraws support for Infantino, urges review",
+      "link": "https://finance.yahoo.com/m/348af04b-3ed5-3924-944c-681d507d7947/new-zealand-football.html",
+      "publisher": "AFP",
+      "time": 1786669828,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "aa4089ba-45ef-3f86-bc6f-5e9234cc76a3",
+      "title": "Three US inmates executed on same day for first time since 2010",
+      "link": "https://finance.yahoo.com/m/aa4089ba-45ef-3f86-bc6f-5e9234cc76a3/three-us-inmates-executed-on.html",
+      "publisher": "AFP",
+      "time": 1786669824,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6e3cc3df-108a-3bbe-a64c-342e04051e18",
+      "title": "5 Revealing Analyst Questions From Vishay Intertechnology’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-vishay-010900904.html",
+      "publisher": "StockStory",
+      "time": 1786669740,
       "impact": "medium",
       "tags": [
         "macro",
