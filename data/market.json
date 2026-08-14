@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T03:35:56.077589+00:00",
+  "updatedAt": "2026-08-14T05:27:00.260945+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6545.47,
       "change": 11.480000000000473,
       "changePct": 0.17569662641051598,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,20 +52,22 @@
   ],
   "news": [
     {
-      "id": "557cdb5d-c06a-34e3-b16a-5c4311ab8d0d",
-      "title": "SignalPGx Launches White-Label Pharmacogenomics Reporting Platform for CLIA Laboratories",
-      "link": "https://finance.yahoo.com/healthcare/articles/signalpgx-launches-white-label-pharmacogenomics-033000917.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786678200,
-      "impact": "low",
-      "tags": []
+      "id": "98ebeb6d-c7a1-3bcd-b7c5-446c7ad20f5d",
+      "title": "Global Times: China advances global AI governance on all fronts, turning principles into deeper, more concrete action",
+      "link": "https://finance.yahoo.com/technology/ai/articles/global-times-china-advances-global-051800421.html",
+      "publisher": "PR Newswire",
+      "time": 1786684680,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
     },
     {
-      "id": "ac105079-b913-3035-9558-608d8df914ba",
-      "title": "MiNK Therapeutics (INKT) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/ac105079-b913-3035-9558-608d8df914ba/mink-therapeutics-%28inkt%29-q2.html",
+      "id": "5d6f61e4-7c2e-325b-83e8-f7b610afe62b",
+      "title": "Scripps (SSP) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/5d6f61e4-7c2e-325b-83e8-f7b610afe62b/scripps-%28ssp%29-q2-2026.html",
       "publisher": "Motley Fool",
-      "time": 1786678093,
+      "time": 1786684648,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,11 +75,11 @@
       ]
     },
     {
-      "id": "56ef7df3-e733-37d1-8c25-9d9ab41ad334",
-      "title": "5 Insightful Analyst Questions From Astec’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-astec-032500676.html",
-      "publisher": "StockStory",
-      "time": 1786677900,
+      "id": "86e4d083-0997-3ede-9b06-3b378c73269a",
+      "title": "Relmada (RLMD) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/86e4d083-0997-3ede-9b06-3b378c73269a/relmada-%28rlmd%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1786684641,
       "impact": "medium",
       "tags": [
         "macro",
@@ -85,62 +87,22 @@
       ]
     },
     {
-      "id": "334e76c0-a466-314a-a7e0-35f75d022ec9",
-      "title": "Trump Media's CFO Sells Nearly 20,000 Shares After the Company's Crypto Business Combination Collapsed",
-      "link": "https://finance.yahoo.com/m/334e76c0-a466-314a-a7e0-35f75d022ec9/trump-media%27s-cfo-sells.html",
-      "publisher": "Motley Fool",
-      "time": 1786677757,
+      "id": "27830bc0-26b4-36b2-8861-87a1f7a47f29",
+      "title": "Asian stocks head for strong weekly gains as US rate hike bets fade",
+      "link": "https://finance.yahoo.com/news/asian-stocks-set-weekly-gain-023234921.html",
+      "publisher": "Reuters",
+      "time": 1786684534,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ed0b01ad-96c2-3528-9ae0-94c1d37575e7",
-      "title": "The Stock Market Just Made a Move That Warren Buffett Has Warned About. History Says Investors Should Make This 1 Move.",
-      "link": "https://finance.yahoo.com/m/ed0b01ad-96c2-3528-9ae0-94c1d37575e7/the-stock-market-just-made-a.html",
-      "publisher": "Motley Fool",
-      "time": 1786677600,
-      "impact": "high",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "6fe36f32-592a-31fa-b017-2d76ff30b37a",
-      "title": "An Al coding startup just can't stop raising money",
-      "link": "https://finance.yahoo.com/m/6fe36f32-592a-31fa-b017-2d76ff30b37a/an-al-coding-startup-just.html",
-      "publisher": "TheStreet",
-      "time": 1786677420,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8d9c108b-b05a-3d41-beef-05f519078736",
-      "title": "5 Must-Read Analyst Questions From Fidelity National Financial’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-031700134.html",
-      "publisher": "StockStory",
-      "time": 1786677420,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "372484bd-8970-379d-a2fc-2861d09d3194",
-      "title": "Chuck Robbins Says AI Is Fueling a \"Networking Supercycle.\" Cisco's Guide Puts a $7.5 Billion Number on It.",
-      "link": "https://finance.yahoo.com/m/372484bd-8970-379d-a2fc-2861d09d3194/chuck-robbins-says-ai-is.html",
+      "id": "065a44a2-4277-3e89-b011-af0e36088ea1",
+      "title": "Sun Life (SLF) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/065a44a2-4277-3e89-b011-af0e36088ea1/sun-life-%28slf%29-q2-2026.html",
       "publisher": "Motley Fool",
-      "time": 1786677180,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "13ebe563-0077-3617-9e4b-0bcb2a26f435",
-      "title": "Oil steadies after US threatens indefinite blockade of Iran",
-      "link": "https://finance.yahoo.com/energy/articles/oil-steadies-us-threatens-blockade-013600797.html",
-      "publisher": "Reuters",
-      "time": 1786677077,
+      "time": 1786684454,
       "impact": "medium",
       "tags": [
         "macro",
@@ -148,11 +110,53 @@
       ]
     },
     {
-      "id": "704144f8-e45b-3688-a1b1-76dc004fee55",
-      "title": "Chinese chipmaker SMIC increases prices on strong AI demand",
-      "link": "https://finance.yahoo.com/technology/ai/articles/chinese-chipmaker-smic-increases-prices-030934165.html",
-      "publisher": "Reuters",
-      "time": 1786676974,
+      "id": "073c6077-3d00-3a1d-a12a-aa3f577b8c8d",
+      "title": "Wheaton Precious Metals (WPM) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/073c6077-3d00-3a1d-a12a-aa3f577b8c8d/wheaton-precious-metals-%28wpm%29.html",
+      "publisher": "Motley Fool",
+      "time": 1786684454,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "31b43ef5-941b-33fb-a4d1-c03957850963",
+      "title": "JOURNEY Co-Presidents Named 2026 National Urban League Women of Power",
+      "link": "https://finance.yahoo.com/small-business/articles/journey-co-presidents-named-2026-051400923.html",
+      "publisher": "PR Newswire",
+      "time": 1786684440,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a9564c4c-1af7-30ed-9a5a-17cb25894188",
+      "title": "5 Must-Read Analyst Questions From Onterris’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-050900000.html",
+      "publisher": "StockStory",
+      "time": 1786684140,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "99ef8547-49b2-3028-bbfd-8ba1a9bca9dc",
+      "title": "Why Liquidia Stock Was Diving This Week",
+      "link": "https://finance.yahoo.com/m/99ef8547-49b2-3028-bbfd-8ba1a9bca9dc/why-liquidia-stock-was-diving.html",
+      "publisher": "Motley Fool",
+      "time": 1786684078,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "50d4327e-8b3b-3df9-86e8-8579fa167cab",
+      "title": "CoreWeave’s $39 billion AI bet says something bigger is happening",
+      "link": "https://finance.yahoo.com/m/50d4327e-8b3b-3df9-86e8-8579fa167cab/coreweave%E2%80%99s-%2439-billion-ai.html",
+      "publisher": "TheStreet",
+      "time": 1786684020,
       "impact": "low",
       "tags": []
     }
