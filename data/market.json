@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T19:26:46.458696+00:00",
+  "updatedAt": "2026-08-14T20:02:48.179435+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7784.05,
-      "change": 35.55000000000018,
-      "changePct": 0.45879847712460714,
+      "price": 7785.69,
+      "change": 37.1899999999996,
+      "changePct": 0.4799638639736672,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26697.002,
-      "change": 108.5119999999988,
-      "changePct": 0.4081164443712253,
+      "price": 26729.164,
+      "change": 140.67399999999907,
+      "changePct": 0.5290785599332608,
       "currency": "USD"
     },
     {
@@ -39,110 +39,110 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.4,
-      "change": -0.23000000000000043,
-      "changePct": -1.5721120984278907,
+      "price": 14.27,
+      "change": -0.3600000000000012,
+      "changePct": -2.460697197539311,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "014b787d-5c22-3b95-8c72-3214bc5bb72d",
-      "title": "HP Jumps 7% as Lenovo's AI Boom Lifts PC Makers",
-      "link": "https://finance.yahoo.com/technology/ai/articles/hp-jumps-7-lenovos-ai-192439501.html",
+      "id": "0eb3036e-ac9f-3f81-b9df-f6c4abb9c2f7",
+      "title": "First Pacific Advisors' Top Q2 2026 Move: Arthur J. Gallagher & Co at a 2.73% Portfolio Impact",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/first-pacific-advisors-top-q2-200134551.html",
       "publisher": "GuruFocus.com",
-      "time": 1786735479,
+      "time": 1786737694,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c1c6feb8-46e4-39c3-99de-b32fe8234a8d",
-      "title": "Alphabet Stock Rises as Investors Assess $78 Billion SpaceX Stake",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-rises-investors-assess-192252517.html",
+      "id": "972b13b7-c4cd-3ad4-be92-d558a84451cf",
+      "title": "Top Analyst Names Snowflake and CrowdStrike Among Top AI Software Picks",
+      "link": "https://finance.yahoo.com/technology/ai/articles/top-analyst-names-snowflake-crowdstrike-200115543.html",
       "publisher": "GuruFocus.com",
-      "time": 1786735372,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c3c5bb8f-1338-31a5-acd1-93fa55ecbc91",
-      "title": "Tesla Stock Jumps 2.7% After Fresh Roadster Reveal Signal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-jumps-2-7-192139233.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786735299,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "861ad0eb-6fe3-37cf-b3a7-ea43c43506c0",
-      "title": "Meta Stock Edges Higher as Australia Enforcement Risk Intensifies",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-edges-higher-australia-192037912.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786735237,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ba1d0bf8-cabe-3ad1-8e71-a3cf8dcf444d",
-      "title": "Match Group Director Schiffman Sells 20,030 Shares for $736,703",
-      "link": "https://finance.yahoo.com/m/ba1d0bf8-cabe-3ad1-8e71-a3cf8dcf444d/match-group-director.html",
-      "publisher": "Motley Fool",
-      "time": 1786735201,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9e032125-4815-332f-b8e0-0b74465d5681",
-      "title": "Tencent Stock Slips Again as AI Spending Outruns Profit Growth",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tencent-stock-slips-again-ai-191931585.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786735171,
-      "impact": "medium",
+      "time": 1786737675,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c35ba1a8-11ec-3504-aa5a-c7d0bd384bcf",
-      "title": "Argentina's Romero confirms Tottenham exit as Atletico move looms",
-      "link": "https://finance.yahoo.com/m/c35ba1a8-11ec-3504-aa5a-c7d0bd384bcf/argentina%27s-romero-confirms.html",
-      "publisher": "AFP",
-      "time": 1786735165,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3b1c91ae-f046-3143-8721-62ae7503466a",
-      "title": "Apple Stock Stalls as Jefferies Cuts Target to $263.66",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-stalls-jefferies-cuts-191714058.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786735034,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "501d259b-c986-3b9f-bd41-ee921d1f22cb",
-      "title": "Why Astronics (ATRO) Stock Is Up Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-astronics-atro-stock-today-191700619.html",
-      "publisher": "StockStory",
-      "time": 1786735020,
-      "impact": "low",
-      "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "5ceb351b-13c0-399e-a294-a331305a9915",
-      "title": "AMD Stock Jumps 5.6% While $4.75 Billion Debt Deal Lands",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-jumps-5-6-191626837.html",
+      "id": "a3e59fa7-e0f3-334f-b37b-a8d446869312",
+      "title": "Chase Coleman's Bold Q2 2026 Move: Trimming Alphabet Inc for a -6.07% Portfolio Impact",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/chase-colemans-bold-q2-2026-200050946.html",
       "publisher": "GuruFocus.com",
-      "time": 1786734986,
+      "time": 1786737650,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "335800ef-bc8d-3f09-8a3f-57fb8a77d066",
+      "title": "AmeriTrust Announces Resignation of Director",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ameritrust-announces-resignation-director-200000110.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786737600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "378df38c-dc34-39a5-ba2f-6cd8a9677b1e",
+      "title": "BrainStorm Cell Therapeutics Announces Second Quarter 2026 Financial Results and Provides Corporate Update",
+      "link": "https://finance.yahoo.com/healthcare/articles/brainstorm-cell-therapeutics-announces-second-200000830.html",
+      "publisher": "PR Newswire",
+      "time": 1786737600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "39b8e21a-b99d-48e1-b23e-3cee0f33ca74",
+      "title": "SEC delays crypto ruling due to ‘unforeseen’ scheduling issues",
+      "link": "https://finance.yahoo.com/video/sec-delays-crypto-ruling-due-200000244.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1786737600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ed1aaee6-7adc-320f-a214-c587e5cd00ae",
+      "title": "Advance Auto Parts vs. Joby Aviation: Which Stock Is a Better Buy in 2026?",
+      "link": "https://finance.yahoo.com/m/ed1aaee6-7adc-320f-a214-c587e5cd00ae/advance-auto-parts-vs.-joby.html",
+      "publisher": "Motley Fool",
+      "time": 1786737500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4a880dba-8ac8-30b8-a4ac-7060871868ee",
+      "title": "Broadcom Falls 6% as AI Trade Cools",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-falls-6-ai-trade-195640614.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786737400,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "6117113d-f905-3de3-bf0a-46de93be6aa4",
+      "title": "TruthScan Releases Detection Tool for AI-Generated and Fraudulent PDFs",
+      "link": "https://finance.yahoo.com/technology/ai/articles/truthscan-releases-detection-tool-ai-195600220.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786737360,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ac808131-7e49-387b-8229-3ffc91a30952",
+      "title": "CID HoldCo Plans to Appeal Nasdaq Delisting Notice",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cid-holdco-plans-appeal-nasdaq-195232666.html",
+      "publisher": "MT Newswires",
+      "time": 1786737152,
       "impact": "low",
       "tags": []
     }
