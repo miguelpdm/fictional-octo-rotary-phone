@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-14T09:33:35.334574+00:00",
+  "updatedAt": "2026-08-14T10:52:23.860532+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20139.6,
-      "change": -29.0,
-      "changePct": -0.14378786827047985,
+      "price": 20166.8,
+      "change": -1.7999999999992724,
+      "changePct": -0.008924764237474452,
       "currency": "EUR"
     },
     {
@@ -28,71 +28,71 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26428.3,
-      "change": 97.22999999999956,
-      "changePct": 0.36925958572894896,
+      "price": 26477.23,
+      "change": 146.15999999999985,
+      "changePct": 0.555085683946759,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6552.39,
-      "change": 6.920000000000073,
-      "changePct": 0.10572197260089913,
-      "currency": null
+      "price": 6560.82,
+      "change": 15.349999999999454,
+      "changePct": 0.23451333517683914,
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.55,
-      "change": -0.08000000000000007,
-      "changePct": -0.5468215994531789,
+      "price": 14.54,
+      "change": -0.09000000000000163,
+      "changePct": -0.6151742993848368,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "d95bc2d1-cd52-3342-bb3e-9ac91b13706a",
-      "title": "Ardagh Holdings pursues sale of metal packaging division",
-      "link": "https://finance.yahoo.com/m/d95bc2d1-cd52-3342-bb3e-9ac91b13706a/ardagh-holdings-pursues-sale.html",
-      "publisher": "Packaging Gateway",
-      "time": 1786699893,
+      "id": "b2da3981-6d83-348c-81d1-6e09051ab6da",
+      "title": "Google introduces Gemini 3.7 Flash with production-code focus",
+      "link": "https://finance.yahoo.com/m/b2da3981-6d83-348c-81d1-6e09051ab6da/google-introduces-gemini-3.7.html",
+      "publisher": "Verdict",
+      "time": 1786704496,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "791c6c28-00d4-3aaa-866a-cf82a4b14521",
-      "title": "MiniMax to Report 2026 Interim Financial Results on August 26, 2026",
-      "link": "https://finance.yahoo.com/technology/ai/articles/minimax-report-2026-interim-financial-093000017.html",
-      "publisher": "PR Newswire",
-      "time": 1786699800,
+      "id": "14533001-c9d2-30d9-8bcc-4fb96001c79d",
+      "title": "Following Syngenta and Bayer CropScience's Deployment of Targeted Insecticides for Specialty Crops, New Study Highlights 6.4% CAGR for Methoxyfenozide and Diamides",
+      "link": "https://finance.yahoo.com/healthcare/articles/following-syngenta-bayer-cropsciences-deployment-104500253.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786704300,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9a722ce0-5b7f-38c8-a3dc-5cb79281e983",
-      "title": "Best Florida Vacation Packages (2026): Westgate Resorts Named Leading Sunshine State Bundle by Expert Consumers",
-      "link": "https://finance.yahoo.com/media-advertising/articles/best-florida-vacation-packages-2026-093000147.html",
-      "publisher": "PR Newswire",
-      "time": 1786699800,
+      "id": "19662eee-aac6-3332-a81e-4427d3769b6c",
+      "title": "Cable One Strengthens Leadership Team to Support Long-Term Growth",
+      "link": "https://finance.yahoo.com/technology/articles/cable-one-strengthens-leadership-team-104500412.html",
+      "publisher": "Business Wire",
+      "time": 1786704300,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b81a4953-9afc-30ca-9c2b-41b403396045",
-      "title": "Shein loses UK copyright battle against rival Temu",
-      "link": "https://finance.yahoo.com/m/b81a4953-9afc-30ca-9c2b-41b403396045/shein-loses-uk-copyright.html",
-      "publisher": "Just Style",
-      "time": 1786699777,
+      "id": "271952e2-71a2-312a-a916-79a88d3a2f8b",
+      "title": "Brookfield Business Corporation Announces Renewal of Normal Course Issuer Bid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/brookfield-business-corporation-announces-renewal-104500883.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786704300,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0463af79-151a-314e-8c9c-c516e5d4c4bc",
-      "title": "UK retailers warn zero-hours reforms could hit jobs as costs reach £2.9bn",
-      "link": "https://finance.yahoo.com/m/0463af79-151a-314e-8c9c-c516e5d4c4bc/uk-retailers-warn-zero-hours.html",
-      "publisher": "Retail Insight Network",
-      "time": 1786699719,
+      "id": "7a2519a7-e73d-3fff-8f50-e63d33c42e7d",
+      "title": "Spire Global Awarded $3.7 Million NOAA Contract for Satellite Weather Data",
+      "link": "https://finance.yahoo.com/technology/articles/spire-global-awarded-3-7-104500773.html",
+      "publisher": "Business Wire",
+      "time": 1786704300,
       "impact": "high",
       "tags": [
         "geo",
@@ -100,58 +100,58 @@
       ]
     },
     {
-      "id": "e5736a22-0779-3ebc-8c3f-0062d984e61a",
-      "title": "Marriott launches Series brand in New Caledonia with three SHN resorts",
-      "link": "https://finance.yahoo.com/m/e5736a22-0779-3ebc-8c3f-0062d984e61a/marriott-launches-series.html",
-      "publisher": "Hotel Management Network",
-      "time": 1786699653,
+      "id": "8b7beb82-86ef-3459-88e7-2894cab71fb9",
+      "title": "Riley Exploration Permian’s Q2 Earnings Call: Our Top 5 Analyst Questions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/riley-exploration-permian-q2-earnings-104500417.html",
+      "publisher": "StockStory",
+      "time": 1786704300,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "90cad1f2-d1be-3965-8859-1a232f2fcfd7",
+      "title": "Jack Daniel’s sued dog toy company for trademark infringement, but a judge threw out the case",
+      "link": "https://finance.yahoo.com/media-advertising/articles/jack-daniel-sued-dog-toy-104500791.html",
+      "publisher": "Moneywise",
+      "time": 1786704300,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "07f18ee2-e59f-3b2b-8907-976ba26367fd",
+      "title": "Distalmotion receives FDA 510(k) clearance for Dexter robotic system",
+      "link": "https://finance.yahoo.com/m/07f18ee2-e59f-3b2b-8907-976ba26367fd/distalmotion-receives-fda.html",
+      "publisher": "Medical Device Network",
+      "time": 1786704293,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "dc1667ab-43c2-37e3-9c2d-e3e0b932cf49",
+      "title": "Spain extends largest nuclear plant in policy U-turn",
+      "link": "https://finance.yahoo.com/m/dc1667ab-43c2-37e3-9c2d-e3e0b932cf49/spain-extends-largest-nuclear.html",
+      "publisher": "AFP",
+      "time": 1786704263,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0b8f8862-bf9b-39d9-9911-3eb9b3c25cc3",
-      "title": "HD Hyundai, TerraPower and Hyundai E&C Set Out to Transform the Next-Generation Nuclear Market",
-      "link": "https://finance.yahoo.com/energy/articles/hd-hyundai-terrapower-hyundai-e-092700115.html",
-      "publisher": "PR Newswire",
-      "time": 1786699620,
+      "id": "2c9acfb6-8071-371f-a70c-7f66ded2a9c0",
+      "title": "Granular Stabilized Urea Captures 65.9% Market Share as Large-Scale Agricultural Demand Grows",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/granular-stabilized-urea-captures-65-104400920.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786704240,
       "impact": "low",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "id": "d1ae8bd5-ab73-3d24-bc4a-19098cdf1325",
-      "title": "The Top 5 Analyst Questions From Oaktree Specialty Lending’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-oaktree-092500573.html",
-      "publisher": "StockStory",
-      "time": 1786699500,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "95985183-6d14-3cac-a1db-1c1f69db6a6c",
-      "title": "Global Carbon-Negative Building Materials Market to Reach $1.62 Billion by 2040 - Analysis by Material Type, Application, End User, Region, and Key Players",
-      "link": "https://finance.yahoo.com/energy/articles/global-carbon-negative-building-materials-092400636.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786699440,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "3faf2471-d704-3a67-9cd3-2b5d56e9db30",
-      "title": "Global RFID Market Forecast to Reach $54.46 Billion by 2035: Analysis of Distribution by Type of Product, Type of Frequency, Type of System, Industries Served, and Region",
-      "link": "https://finance.yahoo.com/technology/articles/global-rfid-market-forecast-reach-092200096.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786699320,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
       ]
     }
   ],
