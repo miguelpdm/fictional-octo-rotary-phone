@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T23:15:46.799525+00:00",
+  "updatedAt": "2026-08-14T23:45:37.577161+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,20 +52,31 @@
   ],
   "news": [
     {
-      "id": "f398e201-15cd-31ac-a431-03cfdbd9c452",
-      "title": "Maryland tax court voids digital ad tax, orders refunds to Apple, Google and Peacock TV",
-      "link": "https://finance.yahoo.com/media-advertising/articles/maryland-tax-court-voids-digital-230625946.html",
-      "publisher": "Associated Press",
-      "time": 1786748785,
+      "id": "16885649-8600-34e6-b73c-a2d9164eed63",
+      "title": "2 Reasons to Watch DAR and 1 to Stay Cautious",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-watch-dar-1-234100931.html",
+      "publisher": "StockStory",
+      "time": 1786750860,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "181fd1e3-8329-3ed1-a58b-d7d5c87f0d0f",
+      "title": "Can Keros Therapeutics (KROS)’s $20M Takeda Pharmaceutical Company Limited (TAK) Milestone Unlock a Billion-Dollar Opportunity?",
+      "link": "https://finance.yahoo.com/healthcare/articles/keros-therapeutics-kros-20m-takeda-233712991.html",
+      "publisher": "Insider Monkey",
+      "time": 1786750632,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "dd1d8240-c597-3b4d-ab04-e6f601d1ebd4",
-      "title": "Aegis Logistics Ltd (BOM:500003) (Q1 2027) Earnings Call Highlights: Record PAT Surges 212% on ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aegis-logistics-ltd-bom-500003-230312356.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786748592,
+      "id": "5fc3ee61-e9ae-3efe-990e-2f59c8a66f9f",
+      "title": "Jim Cramer Weighs In on Lumentum (LITE) and Coherent (COHR) Post-Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-weighs-lumentum-lite-233522087.html",
+      "publisher": "Insider Monkey",
+      "time": 1786750522,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,100 +84,69 @@
       ]
     },
     {
-      "id": "db124652-e8d1-37fd-b463-fef2e94d4e45",
-      "title": "Ashok Leyland Ltd (BOM:500477) (Q1 2027) Earnings Call Highlights: Record Q1 Revenue and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ashok-leyland-ltd-bom-500477-230305245.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786748585,
+      "id": "9505d1f3-2b9d-373e-818b-672e83c95c24",
+      "title": "Earth Is Running Out of Power for AI. One Tech Expert Explains Why Musk's Answer Is to Put Data Centers in Space.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/earth-running-power-ai-one-233500900.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786750500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d6ed1dc0-e80b-3dee-9cc7-94a5d915df5f",
+      "title": "'Shadow's not alone': Bald eagle fans mourning Jackie find ray of hope",
+      "link": "https://finance.yahoo.com/m/d6ed1dc0-e80b-3dee-9cc7-94a5d915df5f/%27shadow%27s-not-alone%27%3A-bald.html",
+      "publisher": "USA TODAY",
+      "time": 1786750424,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "22ea4b9a-9a17-3501-9d7a-27448913832e",
+      "title": "SK Hynix vs. Monday.com: Which Technology Stock Is a Better Buy in 2026 Amid the Artificial Intelligence Boom?",
+      "link": "https://finance.yahoo.com/m/22ea4b9a-9a17-3501-9d7a-27448913832e/sk-hynix-vs.-monday.com%3A.html",
+      "publisher": "Motley Fool",
+      "time": 1786750409,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f86dc58f-a749-3904-89df-2720980ad26a",
+      "title": "H&R Block (HRB) Stock Trades Up, Here Is Why",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/h-r-block-hrb-stock-233300162.html",
+      "publisher": "StockStory",
+      "time": 1786750380,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
     },
     {
-      "id": "7fb81739-0f9a-3e2c-a3ec-0db6da3f795b",
-      "title": "Royal Orchid Hotels Ltd (BOM:532699) (Q1 2027) Earnings Call Highlights: Revenue Surges 36% But ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/royal-orchid-hotels-ltd-bom-230300803.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786748580,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "1887d771-34c9-3318-9593-51e07a2630a3",
+      "title": "Venezuela frees 131 prisoners amid post-Maduro transition talks",
+      "link": "https://finance.yahoo.com/m/1887d771-34c9-3318-9593-51e07a2630a3/venezuela-frees-131-prisoners.html",
+      "publisher": "AFP",
+      "time": 1786750257,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "c7df288d-9a73-3df1-a37c-2f58d539160b",
-      "title": "Creative Media & Community Trust Corp (CMCT) (Q2 2026) Earnings Call Highlights: ...",
-      "link": "https://finance.yahoo.com/real-estate/articles/creative-media-community-trust-corp-230253459.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786748573,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "5b9e1733-2188-3ae5-b102-bc120c5b256d",
+      "title": "Himplant® Global Surgeon Training Course: 18 Surgeons From Five Countries",
+      "link": "https://finance.yahoo.com/healthcare/articles/himplant-global-surgeon-training-course-233000453.html",
+      "publisher": "PR Newswire",
+      "time": 1786750200,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "0174d10e-4c2f-3cbf-8d67-a997769d0991",
-      "title": "Locaweb Servicos de Internet SA (BSP:LWSA3) (Q2 2026) Earnings Call Highlights: Record EBITDA ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/locaweb-servicos-internet-sa-bsp-230245177.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786748565,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "7a301b58-a6de-3051-a49e-d47297751fef",
-      "title": "VerticalScope Holdings Inc (VFORF) (Q2 2026) Earnings Call Highlights: AI-Driven Growth and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/verticalscope-holdings-inc-vforf-q2-230245463.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786748565,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "92d823c1-610c-3a49-9865-238bbce12427",
-      "title": "YDUQS Participacoes SA (BSP:YDUQ3) (Q2 2026) Earnings Call Highlights: Record IDOMED Intake and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/yduqs-participacoes-sa-bsp-yduq3-230241415.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786748561,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "dc5072eb-0a40-3cf0-ab2b-f68b3585d8eb",
-      "title": "Natco Pharma Ltd (BOM:524816) (Q1 2027) Earnings Call Highlights: Strategic Investments and ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/natco-pharma-ltd-bom-524816-230232179.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786748552,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "f189888c-82d4-3f74-9ead-979525a59000",
-      "title": "PAVmed Inc (PAVM) (Q2 2026) Earnings Call Highlights: Narrowing Losses and Strategic Progress ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/pavmed-inc-pavm-q2-2026-230221032.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786748541,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "938e51ab-7eea-3f1f-aa81-a03aa5f19864",
+      "title": "Healthy Extracts Q2 2026 Net Revenue Up 113% to Record $2.1 Million, Driving Adj. EBITDA of $290,000 or $0.02 per Share",
+      "link": "https://finance.yahoo.com/healthcare/articles/healthy-extracts-q2-2026-net-233000140.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786750200,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
