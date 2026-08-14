@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T18:23:21.577398+00:00",
+  "updatedAt": "2026-08-14T19:26:46.458696+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7783.79,
-      "change": 35.289999999999964,
-      "changePct": 0.45544298896560576,
+      "price": 7784.05,
+      "change": 35.55000000000018,
+      "changePct": 0.45879847712460714,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26698.305,
-      "change": 109.81499999999869,
-      "changePct": 0.4130170611418651,
+      "price": 26697.002,
+      "change": 108.5119999999988,
+      "changePct": 0.4081164443712253,
       "currency": "USD"
     },
     {
@@ -44,28 +44,64 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.32,
-      "change": -0.3100000000000005,
-      "changePct": -2.1189336978810696,
+      "price": 14.4,
+      "change": -0.23000000000000043,
+      "changePct": -1.5721120984278907,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "55b5ea10-01d1-3850-9133-b116dc1de97b",
-      "title": "In wildfire town, PM says UK must 'face up to climate change'",
-      "link": "https://finance.yahoo.com/m/55b5ea10-01d1-3850-9133-b116dc1de97b/in-wildfire-town%2C-pm-says-uk.html",
-      "publisher": "AFP",
-      "time": 1786731689,
+      "id": "014b787d-5c22-3b95-8c72-3214bc5bb72d",
+      "title": "HP Jumps 7% as Lenovo's AI Boom Lifts PC Makers",
+      "link": "https://finance.yahoo.com/technology/ai/articles/hp-jumps-7-lenovos-ai-192439501.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786735479,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8ef73bea-ce92-3f61-ace5-d2950413291e",
-      "title": "Exxon Stock Rises While Iran Threat Lifts Oil",
-      "link": "https://finance.yahoo.com/energy/articles/exxon-stock-rises-while-iran-182050758.html",
+      "id": "c1c6feb8-46e4-39c3-99de-b32fe8234a8d",
+      "title": "Alphabet Stock Rises as Investors Assess $78 Billion SpaceX Stake",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-rises-investors-assess-192252517.html",
       "publisher": "GuruFocus.com",
-      "time": 1786731650,
+      "time": 1786735372,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c3c5bb8f-1338-31a5-acd1-93fa55ecbc91",
+      "title": "Tesla Stock Jumps 2.7% After Fresh Roadster Reveal Signal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-jumps-2-7-192139233.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786735299,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "861ad0eb-6fe3-37cf-b3a7-ea43c43506c0",
+      "title": "Meta Stock Edges Higher as Australia Enforcement Risk Intensifies",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-edges-higher-australia-192037912.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786735237,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ba1d0bf8-cabe-3ad1-8e71-a3cf8dcf444d",
+      "title": "Match Group Director Schiffman Sells 20,030 Shares for $736,703",
+      "link": "https://finance.yahoo.com/m/ba1d0bf8-cabe-3ad1-8e71-a3cf8dcf444d/match-group-director.html",
+      "publisher": "Motley Fool",
+      "time": 1786735201,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9e032125-4815-332f-b8e0-0b74465d5681",
+      "title": "Tencent Stock Slips Again as AI Spending Outruns Profit Growth",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tencent-stock-slips-again-ai-191931585.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786735171,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,78 +109,40 @@
       ]
     },
     {
-      "id": "321c142c-8d5f-3949-bfaf-834b4deb00ec",
-      "title": "CBL Properties Closes $50.7 Million Sale of York Town Center",
-      "link": "https://finance.yahoo.com/real-estate/articles/cbl-properties-closes-50-7-181945108.html",
-      "publisher": "MT Newswires",
-      "time": 1786731585,
+      "id": "c35ba1a8-11ec-3504-aa5a-c7d0bd384bcf",
+      "title": "Argentina's Romero confirms Tottenham exit as Atletico move looms",
+      "link": "https://finance.yahoo.com/m/c35ba1a8-11ec-3504-aa5a-c7d0bd384bcf/argentina%27s-romero-confirms.html",
+      "publisher": "AFP",
+      "time": 1786735165,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f393cd5e-9f81-3108-8944-2579116390b7",
-      "title": "KeyBanc Has Message For Apple Stock Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/keybanc-message-apple-stock-investors-181942735.html",
+      "id": "3b1c91ae-f046-3143-8721-62ae7503466a",
+      "title": "Apple Stock Stalls as Jefferies Cuts Target to $263.66",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-stalls-jefferies-cuts-191714058.html",
       "publisher": "GuruFocus.com",
-      "time": 1786731582,
+      "time": 1786735034,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "303969e7-79c7-3578-93c3-65bbf5a09b20",
-      "title": "Gold Rally Is Missing One Key Ingredient",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-rally-missing-one-key-181859656.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786731539,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3d1b13d2-6ed1-34c7-a1aa-ee4216f1e7c5",
-      "title": "Aehr Test Systems Shares Rise After Jefferies Initiates Coverage",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aehr-test-systems-shares-rise-181723013.html",
-      "publisher": "MT Newswires",
-      "time": 1786731443,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6f4edfb3-de1a-35e0-a5dd-db50a8add2bd",
-      "title": "Vanguard Quietly Changed the Index Behind Your VUG ETF. Here’s What Happens to Your Portfolio",
-      "link": "https://finance.yahoo.com/m/6f4edfb3-de1a-35e0-a5dd-db50a8add2bd/vanguard-quietly-changed-the.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786731341,
+      "id": "501d259b-c986-3b9f-bd41-ee921d1f22cb",
+      "title": "Why Astronics (ATRO) Stock Is Up Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-astronics-atro-stock-today-191700619.html",
+      "publisher": "StockStory",
+      "time": 1786735020,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "369ad3ea-f832-3a03-9cd4-267253c6dfb0",
-      "title": "Keebler launches Chips Deluxe Crunch cookie with Crunch bar",
-      "link": "https://finance.yahoo.com/m/369ad3ea-f832-3a03-9cd4-267253c6dfb0/keebler-launches-chips-deluxe.html",
-      "publisher": "Quartz",
-      "time": 1786731283,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1409d3f3-ebd9-3071-85c7-9df78ee6f4e6",
-      "title": "Solar Is Now Half of All New Power on the Grid and This ETF Still Trades Like Nobody Noticed",
-      "link": "https://finance.yahoo.com/m/1409d3f3-ebd9-3071-85c7-9df78ee6f4e6/solar-is-now-half-of-all-new.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786731277,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "9921c5cc-02ce-3fbb-a391-7e0d980bae4c",
-      "title": "US Dollar Weakens Against The Loonie as US Retail Sales Drop Dims Rate Rise Expectations",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-weakens-against-loonie-181425060.html",
-      "publisher": "MT Newswires",
-      "time": 1786731265,
+      "id": "5ceb351b-13c0-399e-a294-a331305a9915",
+      "title": "AMD Stock Jumps 5.6% While $4.75 Billion Debt Deal Lands",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-jumps-5-6-191626837.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786734986,
       "impact": "low",
       "tags": []
     }
