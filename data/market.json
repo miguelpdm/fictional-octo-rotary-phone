@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T01:21:20.633414+00:00",
+  "updatedAt": "2026-08-14T03:35:56.077589+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6545.47,
       "change": 11.480000000000473,
       "changePct": 0.17569662641051598,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,44 +52,20 @@
   ],
   "news": [
     {
-      "id": "104cdb02-0f56-3e0f-be8b-252f29a7ef9b",
-      "title": "Apple’s next iPhone battle just got more complicated",
-      "link": "https://finance.yahoo.com/m/104cdb02-0f56-3e0f-be8b-252f29a7ef9b/apple%E2%80%99s-next-iphone-battle.html",
-      "publisher": "TheStreet",
-      "time": 1786670220,
+      "id": "557cdb5d-c06a-34e3-b16a-5c4311ab8d0d",
+      "title": "SignalPGx Launches White-Label Pharmacogenomics Reporting Platform for CLIA Laboratories",
+      "link": "https://finance.yahoo.com/healthcare/articles/signalpgx-launches-white-label-pharmacogenomics-033000917.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786678200,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d77ca588-1019-36e1-8065-a36ae0ce7b6c",
-      "title": "Dow Jones Futures: S&P 500 Hits High On Workday, Sandisk, Oil Prices; Applied Materials Earnings Late",
-      "link": "https://finance.yahoo.com/m/d77ca588-1019-36e1-8065-a36ae0ce7b6c/dow-jones-futures%3A-s%26p-500.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1786670201,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "da84c9b6-e37b-34ec-a46f-d4e977f37fc7",
-      "title": "Oil markets look calm on top, but underneath shows a big toll",
-      "link": "https://finance.yahoo.com/m/da84c9b6-e37b-34ec-a46f-d4e977f37fc7/oil-markets-look-calm-on-top%2C.html",
-      "publisher": "TheStreet",
-      "time": 1786670086,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "d2ebe43b-9bd9-337b-9ce2-5658fbb81b79",
-      "title": "Melco Resorts (MLCO) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/d2ebe43b-9bd9-337b-9ce2-5658fbb81b79/melco-resorts-%28mlco%29-q2-2026.html",
+      "id": "ac105079-b913-3035-9558-608d8df914ba",
+      "title": "MiNK Therapeutics (INKT) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/ac105079-b913-3035-9558-608d8df914ba/mink-therapeutics-%28inkt%29-q2.html",
       "publisher": "Motley Fool",
-      "time": 1786669996,
+      "time": 1786678093,
       "impact": "medium",
       "tags": [
         "macro",
@@ -97,64 +73,88 @@
       ]
     },
     {
-      "id": "fc7cbd54-b0ae-3bca-9721-09a9f503c1f9",
-      "title": "ThredUp Inc. (TDUP)’s 80% Gross Margin Shines, But Can Promotions Delay Profitability?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/thredup-inc-tdup-80-gross-011242457.html",
-      "publisher": "Insider Monkey",
-      "time": 1786669962,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a8828e31-9b15-3f6d-9318-44ee6ab66253",
-      "title": "Details on University of Michigan plan to use pass/fail grading for first-semester freshmen",
-      "link": "https://finance.yahoo.com/m/a8828e31-9b15-3f6d-9318-44ee6ab66253/details-on-university-of.html",
-      "publisher": "CBS News Videos",
-      "time": 1786669947,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9c771e37-de67-363c-90c0-6f655d724b0d",
-      "title": "/C O R R E C T I O N -- Longitude Rx/",
-      "link": "https://finance.yahoo.com/healthcare/articles/longitude-rx-appoints-cora-beth-120000517.html",
-      "publisher": "PR Newswire",
-      "time": 1786669920,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "348af04b-3ed5-3924-944c-681d507d7947",
-      "title": "New Zealand Football withdraws support for Infantino, urges review",
-      "link": "https://finance.yahoo.com/m/348af04b-3ed5-3924-944c-681d507d7947/new-zealand-football.html",
-      "publisher": "AFP",
-      "time": 1786669828,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "aa4089ba-45ef-3f86-bc6f-5e9234cc76a3",
-      "title": "Three US inmates executed on same day for first time since 2010",
-      "link": "https://finance.yahoo.com/m/aa4089ba-45ef-3f86-bc6f-5e9234cc76a3/three-us-inmates-executed-on.html",
-      "publisher": "AFP",
-      "time": 1786669824,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6e3cc3df-108a-3bbe-a64c-342e04051e18",
-      "title": "5 Revealing Analyst Questions From Vishay Intertechnology’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-vishay-010900904.html",
+      "id": "56ef7df3-e733-37d1-8c25-9d9ab41ad334",
+      "title": "5 Insightful Analyst Questions From Astec’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-astec-032500676.html",
       "publisher": "StockStory",
-      "time": 1786669740,
+      "time": 1786677900,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
+    },
+    {
+      "id": "334e76c0-a466-314a-a7e0-35f75d022ec9",
+      "title": "Trump Media's CFO Sells Nearly 20,000 Shares After the Company's Crypto Business Combination Collapsed",
+      "link": "https://finance.yahoo.com/m/334e76c0-a466-314a-a7e0-35f75d022ec9/trump-media%27s-cfo-sells.html",
+      "publisher": "Motley Fool",
+      "time": 1786677757,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ed0b01ad-96c2-3528-9ae0-94c1d37575e7",
+      "title": "The Stock Market Just Made a Move That Warren Buffett Has Warned About. History Says Investors Should Make This 1 Move.",
+      "link": "https://finance.yahoo.com/m/ed0b01ad-96c2-3528-9ae0-94c1d37575e7/the-stock-market-just-made-a.html",
+      "publisher": "Motley Fool",
+      "time": 1786677600,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "6fe36f32-592a-31fa-b017-2d76ff30b37a",
+      "title": "An Al coding startup just can't stop raising money",
+      "link": "https://finance.yahoo.com/m/6fe36f32-592a-31fa-b017-2d76ff30b37a/an-al-coding-startup-just.html",
+      "publisher": "TheStreet",
+      "time": 1786677420,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8d9c108b-b05a-3d41-beef-05f519078736",
+      "title": "5 Must-Read Analyst Questions From Fidelity National Financial’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-031700134.html",
+      "publisher": "StockStory",
+      "time": 1786677420,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "372484bd-8970-379d-a2fc-2861d09d3194",
+      "title": "Chuck Robbins Says AI Is Fueling a \"Networking Supercycle.\" Cisco's Guide Puts a $7.5 Billion Number on It.",
+      "link": "https://finance.yahoo.com/m/372484bd-8970-379d-a2fc-2861d09d3194/chuck-robbins-says-ai-is.html",
+      "publisher": "Motley Fool",
+      "time": 1786677180,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "13ebe563-0077-3617-9e4b-0bcb2a26f435",
+      "title": "Oil steadies after US threatens indefinite blockade of Iran",
+      "link": "https://finance.yahoo.com/energy/articles/oil-steadies-us-threatens-blockade-013600797.html",
+      "publisher": "Reuters",
+      "time": 1786677077,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "704144f8-e45b-3688-a1b1-76dc004fee55",
+      "title": "Chinese chipmaker SMIC increases prices on strong AI demand",
+      "link": "https://finance.yahoo.com/technology/ai/articles/chinese-chipmaker-smic-increases-prices-030934165.html",
+      "publisher": "Reuters",
+      "time": 1786676974,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
