@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T20:02:48.179435+00:00",
+  "updatedAt": "2026-08-14T20:53:59.933301+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,9 +12,9 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7785.69,
-      "change": 37.1899999999996,
-      "changePct": 0.4799638639736672,
+      "price": 7785.76,
+      "change": 37.26000000000022,
+      "changePct": 0.480867264631867,
       "currency": "USD"
     },
     {
@@ -44,28 +44,57 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.27,
-      "change": -0.3600000000000012,
-      "changePct": -2.460697197539311,
+      "price": 14.25,
+      "change": -0.3800000000000008,
+      "changePct": -2.5974025974026027,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "0eb3036e-ac9f-3f81-b9df-f6c4abb9c2f7",
-      "title": "First Pacific Advisors' Top Q2 2026 Move: Arthur J. Gallagher & Co at a 2.73% Portfolio Impact",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/first-pacific-advisors-top-q2-200134551.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786737694,
+      "id": "382185c8-494f-30f5-904d-ccb0882cd186",
+      "title": "Profound Medical Names Matthew Sobczyk Interim CFO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/profound-medical-names-matthew-sobczyk-204948366.html",
+      "publisher": "MT Newswires",
+      "time": 1786740588,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "972b13b7-c4cd-3ad4-be92-d558a84451cf",
-      "title": "Top Analyst Names Snowflake and CrowdStrike Among Top AI Software Picks",
-      "link": "https://finance.yahoo.com/technology/ai/articles/top-analyst-names-snowflake-crowdstrike-200115543.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786737675,
+      "id": "08dd240b-bd32-3bc7-83ec-2b05110fd248",
+      "title": "Elon Musk Reveals $900 Billion SpaceX Stake, Massive Voting Power",
+      "link": "https://finance.yahoo.com/m/08dd240b-bd32-3bc7-83ec-2b05110fd248/elon-musk-reveals-%24900.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786740551,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "79b73c1c-e364-315f-8433-18e9ae96269d",
+      "title": "Dow Jones Futures: Market Ready To Run? Sandisk Skyrockets, But Must Do This; Walmart, Target Due",
+      "link": "https://finance.yahoo.com/m/79b73c1c-e364-315f-8433-18e9ae96269d/dow-jones-futures%3A-market.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786740374,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "38b9d7f0-10de-30b6-baf9-21834a0673eb",
+      "title": "StrangerLine Expands Meaningful Conversations Initiative with Video Chat, Bringing Face-to-Face Connection to a Lonelier Internet",
+      "link": "https://finance.yahoo.com/technology/articles/strangerline-expands-meaningful-conversations-initiative-204600283.html",
+      "publisher": "TMX Newsfile",
+      "time": 1786740360,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e1613e58-bc36-310d-b98a-c6eba9fc2b94",
+      "title": "S&P 500 Ekes Out Weekly Gain Amid Growing Probability of Fed Pause Extension",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-ekes-weekly-gain-204531244.html",
+      "publisher": "MT Newswires",
+      "time": 1786740331,
       "impact": "high",
       "tags": [
         "geo",
@@ -73,78 +102,51 @@
       ]
     },
     {
-      "id": "a3e59fa7-e0f3-334f-b37b-a8d446869312",
-      "title": "Chase Coleman's Bold Q2 2026 Move: Trimming Alphabet Inc for a -6.07% Portfolio Impact",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/chase-colemans-bold-q2-2026-200050946.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786737650,
+      "id": "14f076dd-b30a-3467-9526-04f8482a6504",
+      "title": "Body found after wildfire hits Croatian coastal town",
+      "link": "https://finance.yahoo.com/m/14f076dd-b30a-3467-9526-04f8482a6504/body-found-after-wildfire.html",
+      "publisher": "AFP",
+      "time": 1786740286,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "335800ef-bc8d-3f09-8a3f-57fb8a77d066",
-      "title": "AmeriTrust Announces Resignation of Director",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ameritrust-announces-resignation-director-200000110.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786737600,
+      "id": "36b0dbd0-74af-3741-97c5-f634e06a6c22",
+      "title": "Profound Medical Names Matthew Sobczyk Interim CFO as Rashed Dewan Steps Down",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/profound-medical-names-matthew-sobczyk-204408746.html",
+      "publisher": "MT Newswires",
+      "time": 1786740248,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "378df38c-dc34-39a5-ba2f-6cd8a9677b1e",
-      "title": "BrainStorm Cell Therapeutics Announces Second Quarter 2026 Financial Results and Provides Corporate Update",
-      "link": "https://finance.yahoo.com/healthcare/articles/brainstorm-cell-therapeutics-announces-second-200000830.html",
-      "publisher": "PR Newswire",
-      "time": 1786737600,
+      "id": "43d9199c-cb43-333b-a098-48107d244acd",
+      "title": "Media Advisory: GlobalFest Celebrity Chefs & Champion Sumo Wrestlers Coming to Calgary",
+      "link": "https://finance.yahoo.com/media-advertising/articles/media-advisory-globalfest-celebrity-chefs-204400765.html",
+      "publisher": "CNW Group",
+      "time": 1786740240,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "39b8e21a-b99d-48e1-b23e-3cee0f33ca74",
-      "title": "SEC delays crypto ruling due to ‘unforeseen’ scheduling issues",
-      "link": "https://finance.yahoo.com/video/sec-delays-crypto-ruling-due-200000244.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1786737600,
+      "id": "8f294735-d586-35f5-a956-7093cd75c2a8",
+      "title": "Intercontinental Exchange Insider Sold Shares Worth $645,763, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-insider-sold-shares-204305416.html",
+      "publisher": "MT Newswires",
+      "time": 1786740185,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ed1aaee6-7adc-320f-a214-c587e5cd00ae",
-      "title": "Advance Auto Parts vs. Joby Aviation: Which Stock Is a Better Buy in 2026?",
-      "link": "https://finance.yahoo.com/m/ed1aaee6-7adc-320f-a214-c587e5cd00ae/advance-auto-parts-vs.-joby.html",
-      "publisher": "Motley Fool",
-      "time": 1786737500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4a880dba-8ac8-30b8-a4ac-7060871868ee",
-      "title": "Broadcom Falls 6% as AI Trade Cools",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-falls-6-ai-trade-195640614.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786737400,
+      "id": "7bea1d25-3833-3a3a-bfb7-69c9a55aa756",
+      "title": "Investors should diversify beyond AI trade, says CIO",
+      "link": "https://finance.yahoo.com/video/investors-diversify-beyond-ai-trade-203230934.html",
+      "publisher": "Reuters Videos",
+      "time": 1786740121,
       "impact": "medium",
       "tags": [
         "geo"
       ]
-    },
-    {
-      "id": "6117113d-f905-3de3-bf0a-46de93be6aa4",
-      "title": "TruthScan Releases Detection Tool for AI-Generated and Fraudulent PDFs",
-      "link": "https://finance.yahoo.com/technology/ai/articles/truthscan-releases-detection-tool-ai-195600220.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786737360,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ac808131-7e49-387b-8229-3ffc91a30952",
-      "title": "CID HoldCo Plans to Appeal Nasdaq Delisting Notice",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cid-holdco-plans-appeal-nasdaq-195232666.html",
-      "publisher": "MT Newswires",
-      "time": 1786737152,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
