@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-14T11:39:27.866982+00:00",
+  "updatedAt": "2026-08-14T12:51:32.064097+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20200.7,
-      "change": 32.10000000000218,
-      "changePct": 0.15915829556836955,
+      "price": 20188.8,
+      "change": 20.200000000000728,
+      "changePct": 0.10015568755392407,
       "currency": "EUR"
     },
     {
@@ -28,109 +28,53 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26495.88,
-      "change": 164.8100000000013,
-      "changePct": 0.6259145564536546,
+      "price": 26507.99,
+      "change": 176.9200000000019,
+      "changePct": 0.6719058511484793,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6563.93,
-      "change": 18.460000000000036,
-      "changePct": 0.28202711188043084,
+      "price": 6560.51,
+      "change": 15.039999999999964,
+      "changePct": 0.229777235248194,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.53,
-      "change": -0.10000000000000142,
-      "changePct": -0.6835269993164828,
+      "price": 14.51,
+      "change": -0.120000000000001,
+      "changePct": -0.8202323991797744,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "cfc3fe4e-0387-3883-99fb-8999d25a072e",
-      "title": "March to Abolish Animal Testing amplifies public call to end animal testing in the US",
-      "link": "https://finance.yahoo.com/healthcare/articles/march-abolish-animal-testing-amplifies-113600726.html",
+      "id": "068a78d0-019b-356e-8e72-b6725a4e277d",
+      "title": "Applied Materials Extends Margin Streak to 13 Quarters but Shares Fall",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-extends-margin-streak-124959525.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786711799,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "dea24b2c-b1ba-32f8-b581-40200ec8b5a7",
+      "title": "47 Compton High School Students Earn Unreal Engine Credentials as CTE Pathway Achieves 92% Pass Rate",
+      "link": "https://finance.yahoo.com/technology/articles/47-compton-high-school-students-124700527.html",
       "publisher": "PR Newswire",
-      "time": 1786707360,
+      "time": 1786711620,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "af1c47ea-4e37-3da3-8939-3ad75edbbd5b",
-      "title": "Tyson Foods consolidates beef plants",
-      "link": "https://finance.yahoo.com/m/af1c47ea-4e37-3da3-8939-3ad75edbbd5b/tyson-foods-consolidates-beef.html",
-      "publisher": "Just Food",
-      "time": 1786707357,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2c595cf9-8066-3d21-825e-99fff2198667",
-      "title": "XAU Resources Provides Corporate Update on Quartzstone Transaction, Fortuna Exploration Program and Noseno Project",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/xau-resources-provides-corporate-quartzstone-113500559.html",
-      "publisher": "TMX Newsfile",
-      "time": 1786707300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "af1f70cf-1f5f-3b42-adea-3e1134b39adc",
-      "title": "Vital Infrastructure Property Trust Announces August 2026 Distribution",
-      "link": "https://finance.yahoo.com/real-estate/articles/vital-infrastructure-property-trust-announces-113500692.html",
-      "publisher": "TMX Newsfile",
-      "time": 1786707300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d77ca588-1019-36e1-8065-a36ae0ce7b6c",
-      "title": "Dow Jones Futures: Sandisk, Memory Stocks Extend Gains; Applied Materials Tumbles",
-      "link": "https://finance.yahoo.com/m/d77ca588-1019-36e1-8065-a36ae0ce7b6c/dow-jones-futures%3A-sandisk%2C.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1786707097,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "361952e2-7d88-30af-882b-403e34c3a9ec",
-      "title": "In-N-Out is opening 4 locations in 2 states. See where",
-      "link": "https://finance.yahoo.com/m/361952e2-7d88-30af-882b-403e34c3a9ec/in-n-out-is-opening-4.html",
-      "publisher": "USA TODAY",
-      "time": 1786707090,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "181b661f-4d6f-3e71-a756-d0841efd8794",
-      "title": "H.B. Fuller Board Urged by Engine Capital to Engage With Ancora on Proposal for Adhesives Business",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/h-b-fuller-board-urged-113045076.html",
-      "publisher": "MT Newswires",
-      "time": 1786707045,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "75c4768d-124d-3de5-8d25-932d2ecab15c",
-      "title": "Cantor Fitzgerald Upgrades Capricor Therapeutics to Overweight From Neutral, Adjusts PT to $28 From $3.50",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-upgrades-capricor-therapeutics-113035804.html",
-      "publisher": "MT Newswires",
-      "time": 1786707035,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a97efe11-6c4b-3030-a915-a4f975df9622",
-      "title": "IQST - IQSTEL to Host Q2 2026 Earnings Call August 19 Following Record $207 Million First-Half Revenue as Company Enters EBITDA Expansion Phase",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/iqst-iqstel-host-q2-2026-113000602.html",
-      "publisher": "PR Newswire",
-      "time": 1786707000,
+      "id": "72fca814-f44b-3b0f-a3ec-160f85cc6dfd",
+      "title": "5 Must-Read Analyst Questions From Helmerich & Payne’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-124500557.html",
+      "publisher": "StockStory",
+      "time": 1786711500,
       "impact": "medium",
       "tags": [
         "macro",
@@ -138,13 +82,73 @@
       ]
     },
     {
-      "id": "d8e0954c-6bf5-3b55-b1be-8c49cc4680ca",
-      "title": "Kincora Reports June 2026 Quarterly Activities and Financial Results",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/kincora-reports-june-2026-quarterly-113000490.html",
-      "publisher": "TMX Newsfile",
-      "time": 1786707000,
+      "id": "8436ae64-1858-3170-8d3b-9bf9d9adff03",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-124500075.html",
+      "publisher": "Business Wire",
+      "time": 1786711500,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "a25669d9-3330-34da-b689-07bd089efd2a",
+      "title": "Amazon's $81 tablet includes Gemini AI and theft protection",
+      "link": "https://finance.yahoo.com/m/a25669d9-3330-34da-b689-07bd089efd2a/amazon%27s-%2481-tablet-includes.html",
+      "publisher": "TheStreet",
+      "time": 1786711500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e702efb4-8c7f-3a64-ade0-fe98b16b5bda",
+      "title": "Schwab Reports Monthly Activity Highlights",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/schwab-reports-monthly-activity-highlights-124500778.html",
+      "publisher": "Business Wire",
+      "time": 1786711500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "37cec219-ecbd-3b9e-9ca3-7acd4de2b99b",
+      "title": "TGS and GTI to team up on offshore seismic projects",
+      "link": "https://finance.yahoo.com/m/37cec219-ecbd-3b9e-9ca3-7acd4de2b99b/tgs-and-gti-to-team-up-on.html",
+      "publisher": "Offshore Technology",
+      "time": 1786711434,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3565c8fd-3d5a-3b34-928e-33cd46f85417",
+      "title": "The Week in Numbers: major oil loss, the future of ice cream",
+      "link": "https://finance.yahoo.com/video/week-numbers-major-oil-loss-124245423.html",
+      "publisher": "Reuters Videos",
+      "time": 1786711365,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "339c0e08-ac34-3776-a11d-8c9f737da326",
+      "title": "Oppenheimer Adjusts SentinelOne Price Target to $27 From $21, Maintains Outperform Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-adjusts-sentinelone-price-target-124153046.html",
+      "publisher": "MT Newswires",
+      "time": 1786711313,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2ff25903-8fe6-313e-a4ce-bc5865f78603",
+      "title": "Star Equity Holdings: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/star-equity-holdings-q2-earnings-124141611.html",
+      "publisher": "Associated Press",
+      "time": 1786711301,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
