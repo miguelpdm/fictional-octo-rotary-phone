@@ -1,153 +1,162 @@
 {
-  "updatedAt": "2026-08-14T15:13:55.040359+00:00",
+  "updatedAt": "2026-08-14T16:13:18.160055+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20175.3,
-      "change": 6.700000000000728,
-      "changePct": 0.033219955772838615,
+      "price": 20156.6,
+      "change": -12.0,
+      "changePct": -0.05949842824985374,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7788.49,
-      "change": 39.98999999999978,
-      "changePct": 0.5160998903013458,
+      "price": 7785.39,
+      "change": 36.89000000000033,
+      "changePct": 0.4760921468671398,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26704.088,
-      "change": 115.59799999999814,
-      "changePct": 0.4347670740233768,
+      "price": 26700.28,
+      "change": 111.78999999999724,
+      "changePct": 0.42044508732913083,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26448.72,
-      "change": 117.65000000000146,
-      "changePct": 0.44681055498314903,
+      "price": 26440.31,
+      "change": 109.2400000000016,
+      "changePct": 0.41487110094653046,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6546.23,
-      "change": 0.7599999999993088,
-      "changePct": 0.011611083696041823,
+      "price": 6539.59,
+      "change": -5.880000000000109,
+      "changePct": -0.08983312122735432,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.49,
-      "change": -0.14000000000000057,
-      "changePct": -0.956937799043066,
+      "price": 14.58,
+      "change": -0.05000000000000071,
+      "changePct": -0.3417634996582414,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "1725264e-0de9-3818-acc8-961c1da6f9ad",
-      "title": "Krystal Biotech Seen Positioned for Further Gains on Vyjuvek, Pipeline Readouts, RBC Says",
-      "link": "https://finance.yahoo.com/healthcare/articles/krystal-biotech-seen-positioned-further-151123149.html",
-      "publisher": "MT Newswires",
-      "time": 1786720283,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "200a8611-aa5f-373a-80f5-77bbe336a94e",
-      "title": "Decisive Dividend Declares September Dividend",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/decisive-dividend-declares-september-dividend-151116038.html",
-      "publisher": "MT Newswires",
-      "time": 1786720276,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d1782a8c-d844-362b-b9e4-962832bbb355",
-      "title": "European Equities Traded in the US as American Depositary Receipts Track Lower in Friday Trading",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150802661.html",
-      "publisher": "MT Newswires",
-      "time": 1786720082,
+      "id": "e8899c8e-2697-3478-84a6-9e0143be91f0",
+      "title": "Veteran Bank Gives Intel Foundry a Major Vote of Confidence",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-focus-23-billion-161053832.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786723853,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "16409233-f49c-3df1-9c0f-81f91ba6a92a",
-      "title": "SOUTHERN GLAZER'S WINE & SPIRITS TEAMSTERS WIN STRIKE IN NEW YORK",
-      "link": "https://finance.yahoo.com/economy/policy/articles/southern-glazers-wine-spirits-teamsters-150600098.html",
-      "publisher": "PR Newswire",
-      "time": 1786719960,
+      "id": "2fc8a348-9d20-322a-907d-c124188a04b5",
+      "title": "Berkshire Stock Slips Despite $1.75 Million Insider Buying Signal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-stock-slips-despite-1-160911733.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786723751,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "37711838-3eda-35b8-9c59-fa7fea8aae0c",
-      "title": "Viettel Named Top Winner Worldwide at the 2026 International Business Awards",
-      "link": "https://finance.yahoo.com/technology/articles/viettel-named-top-winner-worldwide-150500860.html",
-      "publisher": "PR Newswire",
-      "time": 1786719900,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "ca08a37b-d0a2-377f-97b5-503f62170c8c",
-      "title": "Workday, Silver Lake in discussions over potential $43B deal",
-      "link": "https://finance.yahoo.com/m/ca08a37b-d0a2-377f-97b5-503f62170c8c/workday%2C-silver-lake-in.html",
-      "publisher": "Proactive",
-      "time": 1786719840,
+      "id": "5b9c98b1-8a5f-358d-9e03-ef5c6b90a4d1",
+      "title": "Italian police recover stolen Renoir, Cezanne and Matisse worth 9 mn euros",
+      "link": "https://finance.yahoo.com/m/5b9c98b1-8a5f-358d-9e03-ef5c6b90a4d1/italian-police-recover-stolen.html",
+      "publisher": "AFP",
+      "time": 1786723694,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1bc18336-edbc-3034-94c5-0ec1ac53209d",
-      "title": "World War II Memorial vandalism suspect arrested, facing felony charges",
-      "link": "https://finance.yahoo.com/m/1bc18336-edbc-3034-94c5-0ec1ac53209d/world-war-ii-memorial.html",
-      "publisher": "USA TODAY",
-      "time": 1786719820,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "9b96cbcc-4a8e-3ab1-a378-50f14e8cbd89",
-      "title": "Rocket Lab (RKLB) Set a Revenue Record. Is Neutron Slipping Into 2027?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-set-revenue-150334121.html",
-      "publisher": "Insider Monkey",
-      "time": 1786719814,
+      "id": "503e4d2a-738f-3713-a170-94653d7e2401",
+      "title": "Samsung Stock Gains 2.4% as AI-Memory Momentum Holds",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-stock-gains-2-4-160719809.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786723639,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "644e3d87-620d-3e78-beb7-aa287de16129",
-      "title": "Pinnacle Financial Partners Renews 23XI Racing Sponsorship",
-      "link": "https://finance.yahoo.com/media-advertising/articles/pinnacle-financial-partners-renews-23xi-150254393.html",
+      "id": "cd14d2f6-b14c-3219-9b60-86ceb9bbfcc6",
+      "title": "Micron Upgraded to Buy on the Claim Memory Stopped Being Cyclical",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-upgraded-buy-claim-memory-160542422.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786723542,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ba76397d-d16d-360d-b066-0370caac7c29",
+      "title": "Applied Materials' Output Capacity Expansion Most Important Point in Earnings Call, UBS Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-apos-output-capacity-160507593.html",
       "publisher": "MT Newswires",
-      "time": 1786719774,
-      "impact": "low",
-      "tags": []
+      "time": 1786723507,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "ea87178b-8efe-3727-94ef-2298f44015e5",
-      "title": "MemoHoney Update 2026 Introduces a Ten-Ingredient Supplement Format as Part of Its Portfolio Expansion",
-      "link": "https://finance.yahoo.com/healthcare/articles/memohoney-2026-introduces-ten-ingredient-150200077.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786719720,
+      "id": "e8b5dfd9-ea8a-30b9-8bbc-438e08860d2e",
+      "title": "1 Large-Cap Stock with Impressive Fundamentals and 2 Facing Headwinds",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-large-cap-stock-impressive-160500630.html",
+      "publisher": "StockStory",
+      "time": 1786723500,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "076a9253-42c2-31d1-ae30-0c589c511841",
+      "title": "NET Power Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/076a9253-42c2-31d1-ae30-0c589c511841/net-power-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1786723473,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "3bc2c5c7-cdf1-3298-b044-91f85493c902",
+      "title": "ICF International Eyes Growth Rebound as Energy, AI and Federal Modernization Gain Traction",
+      "link": "https://finance.yahoo.com/m/3bc2c5c7-cdf1-3298-b044-91f85493c902/icf-international-eyes-growth.html",
+      "publisher": "MarketBeat",
+      "time": 1786723473,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "7c280435-3127-3e56-ac56-e2c98c7a8232",
+      "title": "Americas Gold and Silver Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/7c280435-3127-3e56-ac56-e2c98c7a8232/americas-gold-and-silver-q2.html",
+      "publisher": "MarketBeat",
+      "time": 1786723473,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
