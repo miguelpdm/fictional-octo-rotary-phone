@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T21:18:56.863014+00:00",
+  "updatedAt": "2026-08-14T21:47:57.641611+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,11 +52,11 @@
   ],
   "news": [
     {
-      "id": "27830bc0-26b4-36b2-8861-87a1f7a47f29",
-      "title": "Oil prices rally, US data dents chances of Fed rate hike",
-      "link": "https://finance.yahoo.com/news/asian-stocks-set-weekly-gain-023234921.html",
-      "publisher": "Reuters",
-      "time": 1786741935,
+      "id": "4d359397-1544-3eb0-8693-ca6b25faa92f",
+      "title": "Ojai Raptor Center warns fans about Jackie the bald eagle merch",
+      "link": "https://finance.yahoo.com/m/4d359397-1544-3eb0-8693-ca6b25faa92f/ojai-raptor-center-warns-fans.html",
+      "publisher": "USA TODAY",
+      "time": 1786743493,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,89 +64,92 @@
       ]
     },
     {
-      "id": "c0f47c43-e28d-4db5-b4ee-b7a0c665d7e3",
-      "title": "Humana, UnitedHealth trim Medicare Advantage on rising costs",
-      "link": "https://finance.yahoo.com/video/humana-unitedhealth-trim-medicare-advantage-211140219.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1786741900,
+      "id": "6b5035cf-687b-33f2-a2d1-7a2ff5bfb5a2",
+      "title": "Diana Shipping Drops Bid to Acquire Genco Shipping & Trading",
+      "link": "https://finance.yahoo.com/m/6b5035cf-687b-33f2-a2d1-7a2ff5bfb5a2/diana-shipping-drops-bid-to.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1786743480,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4b129d08-d73c-3416-9e0b-ddfb7c812164",
-      "title": "TerraForm Power Operating Second Quarter 2026 Results Webcast and Conference Call",
-      "link": "https://finance.yahoo.com/energy/articles/terraform-power-operating-second-quarter-211000844.html",
+      "id": "e0f607fb-66f5-3a3e-a64a-d7775292e32b",
+      "title": "Brixton Metals Announces Closing of First Tranche of Private Placement",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/brixton-metals-announces-closing-first-213600587.html",
       "publisher": "GlobeNewswire",
-      "time": 1786741800,
+      "time": 1786743360,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c701b435-bb2c-354d-943b-ebe9424ac418",
-      "title": "Exclusive-US to tell partners they must pick sides in AI race with China",
-      "link": "https://finance.yahoo.com/m/c701b435-bb2c-354d-943b-ebe9424ac418/exclusive-us-to-tell-partners.html",
-      "publisher": "Reuters",
-      "time": 1786741781,
+      "id": "12499734-d34d-3dd5-bc44-7e003fc8f492",
+      "title": "Pbf Energy Insider Sold Shares Worth $9,963,222, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pbf-energy-insider-sold-shares-213541066.html",
+      "publisher": "MT Newswires",
+      "time": 1786743341,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ff06f4ab-7846-3961-85a7-0c7b47797988",
+      "title": "Two Funds Promise 20% Income From the S&P 500. One Caps Your Upside, One Doesn’t, and It Charges Less",
+      "link": "https://finance.yahoo.com/m/ff06f4ab-7846-3961-85a7-0c7b47797988/two-funds-promise-20%25-income.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786743308,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "884428c3-dcc3-3d70-8491-5e5d4fe755a9",
+      "title": "World Liberty Gets Conditional OCC Approval to Issue USD1 Through National Trust Bank",
+      "link": "https://finance.yahoo.com/m/884428c3-dcc3-3d70-8491-5e5d4fe755a9/world-liberty-gets.html",
+      "publisher": "CryptoProwl",
+      "time": 1786743300,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "1e794dc0-0f22-396c-9789-2d68481431d6",
-      "title": "Jimenez rescues dramatic Wolves draw in Championship opener",
-      "link": "https://finance.yahoo.com/m/1e794dc0-0f22-396c-9789-2d68481431d6/jimenez-rescues-dramatic.html",
-      "publisher": "AFP",
-      "time": 1786741750,
+      "id": "e8d9ca40-de9a-3a5e-b101-6287d51bfb28",
+      "title": "Paul Mueller Company Announces Quarterly Cash Dividend",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/paul-mueller-company-announces-quarterly-213500120.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786743300,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "00c137b9-f7a5-3631-b8c9-3928f3dae364",
-      "title": "1 Stock Under $50 for Long-Term Investors and 2 We Find Risky",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-stock-under-50-long-210900908.html",
-      "publisher": "StockStory",
-      "time": 1786741740,
+      "id": "1d8446d8-9516-343e-9f2f-99f44cebcaf3",
+      "title": "91-year-old supermarket chain closing more stores",
+      "link": "https://finance.yahoo.com/m/1d8446d8-9516-343e-9f2f-99f44cebcaf3/91-year-old-supermarket-chain.html",
+      "publisher": "TheStreet",
+      "time": 1786743239,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "e3b1d3a8-0cb9-33eb-909e-a0eae9586e02",
-      "title": "Hurricane poised to hit Hawaii as El Nino stirs Pacific",
-      "link": "https://finance.yahoo.com/m/e3b1d3a8-0cb9-33eb-909e-a0eae9586e02/hurricane-poised-to-hit.html",
-      "publisher": "AFP",
-      "time": 1786741705,
+      "id": "7e9b3eda-47d1-3373-b22e-d4d82d5494ba",
+      "title": "CircKit Brings AI-Powered Circular Design to Fashion Schools",
+      "link": "https://finance.yahoo.com/m/7e9b3eda-47d1-3373-b22e-d4d82d5494ba/circkit-brings-ai-powered.html",
+      "publisher": "Sourcing Journal",
+      "time": 1786743191,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f379cc55-7867-3e18-acf8-e790eaa4554a",
-      "title": "Circle Internet Group Insider Sold Shares Worth $635,700, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/circle-internet-group-insider-sold-210726034.html",
-      "publisher": "MT Newswires",
-      "time": 1786741646,
+      "id": "ecddcf60-41c8-3b2c-ae11-826a0902c2f9",
+      "title": "3 Reasons to Sell NDSN and 1 Stock to Buy Instead",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-ndsn-1-213300929.html",
+      "publisher": "StockStory",
+      "time": 1786743180,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2ad4c88e-c025-3692-8e6e-7a213c5f448c",
-      "title": "Avologi Reviews 2026: Is Avologi Good? FDA Records, Customer Experiences, Technology and What Buyers Should Know",
-      "link": "https://finance.yahoo.com/healthcare/articles/avologi-reviews-2026-avologi-good-210700180.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786741620,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5a38cebd-afd7-304d-bee0-946e7c9aa5f0",
-      "title": "BigBear.ai vs. Texas Instruments: Which Technology Stock Is a Better Buy in 2026?",
-      "link": "https://finance.yahoo.com/m/5a38cebd-afd7-304d-bee0-946e7c9aa5f0/bigbear.ai-vs.-texas.html",
-      "publisher": "Motley Fool",
-      "time": 1786741610,
-      "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
