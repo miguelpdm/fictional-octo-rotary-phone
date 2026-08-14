@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-14T08:09:17.980635+00:00",
+  "updatedAt": "2026-08-14T09:33:35.334574+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20137.2,
-      "change": -31.399999999997817,
-      "changePct": -0.1556875539204398,
+      "price": 20139.6,
+      "change": -29.0,
+      "changePct": -0.14378786827047985,
       "currency": "EUR"
     },
     {
@@ -28,109 +28,103 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26479.59,
-      "change": 148.52000000000044,
-      "changePct": 0.5640484796098314,
+      "price": 26428.3,
+      "change": 97.22999999999956,
+      "changePct": 0.36925958572894896,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6555.29,
-      "change": 9.819999999999709,
-      "changePct": 0.15002742354635662,
+      "price": 6552.39,
+      "change": 6.920000000000073,
+      "changePct": 0.10572197260089913,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.64,
-      "change": 0.009999999999999787,
-      "changePct": 0.06835269993164585,
+      "price": 14.55,
+      "change": -0.08000000000000007,
+      "changePct": -0.5468215994531789,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "1ed55428-315c-331c-9643-cb284d862054",
-      "title": "CVC DIF acquires majority stake in firstcolo to support the development of a scalable high-performance data centre platform in Germany",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cvc-dif-acquires-majority-stake-080000644.html",
-      "publisher": "PR Newswire",
-      "time": 1786694400,
+      "id": "d95bc2d1-cd52-3342-bb3e-9ac91b13706a",
+      "title": "Ardagh Holdings pursues sale of metal packaging division",
+      "link": "https://finance.yahoo.com/m/d95bc2d1-cd52-3342-bb3e-9ac91b13706a/ardagh-holdings-pursues-sale.html",
+      "publisher": "Packaging Gateway",
+      "time": 1786699893,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2d4a3719-216f-3334-81c1-fc04e75fca07",
-      "title": "LOPAL Shines at Latin Tyre & Auto Parts Expo 2026 in Panama, Deepening Latin American Market Presence with Global-Quality Products",
-      "link": "https://finance.yahoo.com/markets/articles/lopal-shines-latin-tyre-auto-080000839.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786694400,
+      "id": "791c6c28-00d4-3aaa-866a-cf82a4b14521",
+      "title": "MiniMax to Report 2026 Interim Financial Results on August 26, 2026",
+      "link": "https://finance.yahoo.com/technology/ai/articles/minimax-report-2026-interim-financial-093000017.html",
+      "publisher": "PR Newswire",
+      "time": 1786699800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9a722ce0-5b7f-38c8-a3dc-5cb79281e983",
+      "title": "Best Florida Vacation Packages (2026): Westgate Resorts Named Leading Sunshine State Bundle by Expert Consumers",
+      "link": "https://finance.yahoo.com/media-advertising/articles/best-florida-vacation-packages-2026-093000147.html",
+      "publisher": "PR Newswire",
+      "time": 1786699800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b81a4953-9afc-30ca-9c2b-41b403396045",
+      "title": "Shein loses UK copyright battle against rival Temu",
+      "link": "https://finance.yahoo.com/m/b81a4953-9afc-30ca-9c2b-41b403396045/shein-loses-uk-copyright.html",
+      "publisher": "Just Style",
+      "time": 1786699777,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0463af79-151a-314e-8c9c-c516e5d4c4bc",
+      "title": "UK retailers warn zero-hours reforms could hit jobs as costs reach £2.9bn",
+      "link": "https://finance.yahoo.com/m/0463af79-151a-314e-8c9c-c516e5d4c4bc/uk-retailers-warn-zero-hours.html",
+      "publisher": "Retail Insight Network",
+      "time": 1786699719,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "e5736a22-0779-3ebc-8c3f-0062d984e61a",
+      "title": "Marriott launches Series brand in New Caledonia with three SHN resorts",
+      "link": "https://finance.yahoo.com/m/e5736a22-0779-3ebc-8c3f-0062d984e61a/marriott-launches-series.html",
+      "publisher": "Hotel Management Network",
+      "time": 1786699653,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0b8f8862-bf9b-39d9-9911-3eb9b3c25cc3",
+      "title": "HD Hyundai, TerraPower and Hyundai E&C Set Out to Transform the Next-Generation Nuclear Market",
+      "link": "https://finance.yahoo.com/energy/articles/hd-hyundai-terrapower-hyundai-e-092700115.html",
+      "publisher": "PR Newswire",
+      "time": 1786699620,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "3eb81fdd-3f65-3239-a326-840f01fec05a",
-      "title": "Macy's is selling a $140 bolo bracelet for 80% off",
-      "link": "https://finance.yahoo.com/m/3eb81fdd-3f65-3239-a326-840f01fec05a/macy%27s-is-selling-a-%24140-bolo.html",
-      "publisher": "TheStreet",
-      "time": 1786694400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bf468caa-7239-3c10-8cf0-a5a0ce80d737",
-      "title": "Penetron Expands West Coast Sales & Technical Support Team",
-      "link": "https://finance.yahoo.com/small-business/articles/penetron-expands-west-coast-sales-080000207.html",
-      "publisher": "PR Newswire",
-      "time": 1786694400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "49ba46ed-5f73-377a-83e1-5607416b75aa",
-      "title": "Update: Reddit to Replace AvalonBay in S&P 500, S&P Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-replace-avalonbay-p-500-075915186.html",
-      "publisher": "MT Newswires",
-      "time": 1786694355,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "aa94db27-87dd-3a8d-aee6-817ef2b8585c",
-      "title": "Paysafe Becomes Envision Racing Title Partner to Build the Future of Fan Engagement; Where Motorsport, Gaming and Payments Become One",
-      "link": "https://finance.yahoo.com/media-advertising/articles/paysafe-becomes-envision-racing-title-075900076.html",
-      "publisher": "Business Wire",
-      "time": 1786694340,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6b2e3286-0eda-332e-9851-e8dc64f30740",
-      "title": "Jim Cramer Said T-Mobile US Inc. (NASDAQ:TMUS)’s Shares Reflected A Fear Of The Future",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-t-mobile-075709120.html",
-      "publisher": "Insider Monkey",
-      "time": 1786694229,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4c85da2f-450a-3da4-921b-fdd63f1bed85",
-      "title": "Guardant Health Insider Sold Shares Worth $7,645,218, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/guardant-health-insider-sold-shares-075706853.html",
-      "publisher": "MT Newswires",
-      "time": 1786694226,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0bbc9d8a-9abe-36e0-8137-997bbc455daa",
-      "title": "The Top 5 Analyst Questions From TTM Technologies’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-ttm-075700426.html",
+      "id": "d1ae8bd5-ab73-3d24-bc4a-19098cdf1325",
+      "title": "The Top 5 Analyst Questions From Oaktree Specialty Lending’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-oaktree-092500573.html",
       "publisher": "StockStory",
-      "time": 1786694220,
+      "time": 1786699500,
       "impact": "medium",
       "tags": [
         "macro",
@@ -138,13 +132,27 @@
       ]
     },
     {
-      "id": "4b33e6dc-638b-3edb-b715-6f95501a1d84",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-075700836.html",
-      "publisher": "Business Wire",
-      "time": 1786694220,
+      "id": "95985183-6d14-3cac-a1db-1c1f69db6a6c",
+      "title": "Global Carbon-Negative Building Materials Market to Reach $1.62 Billion by 2040 - Analysis by Material Type, Application, End User, Region, and Key Players",
+      "link": "https://finance.yahoo.com/energy/articles/global-carbon-negative-building-materials-092400636.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786699440,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "3faf2471-d704-3a67-9cd3-2b5d56e9db30",
+      "title": "Global RFID Market Forecast to Reach $54.46 Billion by 2035: Analysis of Distribution by Type of Product, Type of Frequency, Type of System, Industries Served, and Region",
+      "link": "https://finance.yahoo.com/technology/articles/global-rfid-market-forecast-reach-092200096.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786699320,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
