@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-14T06:53:37.724570+00:00",
+  "updatedAt": "2026-08-14T08:09:17.980635+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20168.6,
-      "change": -35.80000000000291,
-      "changePct": -0.17718912712083956,
+      "price": 20137.2,
+      "change": -31.399999999997817,
+      "changePct": -0.1556875539204398,
       "currency": "EUR"
     },
     {
@@ -28,123 +28,109 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26299.74,
-      "change": -91.67999999999665,
-      "changePct": -0.3473856276016852,
+      "price": 26479.59,
+      "change": 148.52000000000044,
+      "changePct": 0.5640484796098314,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6545.47,
-      "change": 11.480000000000473,
-      "changePct": 0.17569662641051598,
-      "currency": "EUR"
+      "price": 6555.29,
+      "change": 9.819999999999709,
+      "changePct": 0.15002742354635662,
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.63,
-      "change": 0.08000000000000007,
-      "changePct": 0.5498281786941586,
+      "price": 14.64,
+      "change": 0.009999999999999787,
+      "changePct": 0.06835269993164585,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "9e388f08-cf38-3475-90f1-2f664eb92320",
-      "title": "Analysis-AI-driven surge in bond yields could be next risk for markets and growth",
-      "link": "https://finance.yahoo.com/markets/options/articles/analysis-ai-driven-surge-bond-064522616.html",
-      "publisher": "Reuters",
-      "time": 1786689922,
+      "id": "1ed55428-315c-331c-9643-cb284d862054",
+      "title": "CVC DIF acquires majority stake in firstcolo to support the development of a scalable high-performance data centre platform in Germany",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cvc-dif-acquires-majority-stake-080000644.html",
+      "publisher": "PR Newswire",
+      "time": 1786694400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2d4a3719-216f-3334-81c1-fc04e75fca07",
+      "title": "LOPAL Shines at Latin Tyre & Auto Parts Expo 2026 in Panama, Deepening Latin American Market Presence with Global-Quality Products",
+      "link": "https://finance.yahoo.com/markets/articles/lopal-shines-latin-tyre-auto-080000839.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786694400,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "4604252b-c383-3e38-ba09-a7a50d138461",
-      "title": "The Top 5 Analyst Questions From Remitly’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-remitly-064500681.html",
-      "publisher": "StockStory",
-      "time": 1786689900,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "6bdf06c2-55c0-331f-8dc1-670e2362e76e",
-      "title": "5 Must-Read Analyst Questions From Gibraltar’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-063700454.html",
-      "publisher": "StockStory",
-      "time": 1786689420,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a6900152-70f6-3e7a-9682-bb11459a0d2a",
-      "title": "Arrow Exploration buys into Canada with $8.9 million Alberta oil deal",
-      "link": "https://finance.yahoo.com/m/a6900152-70f6-3e7a-9682-bb11459a0d2a/arrow-exploration-buys-into.html",
-      "publisher": "Proactive",
-      "time": 1786689120,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "d7341c5c-7983-388b-845e-ca3755d03881",
-      "title": "The 5 Most Interesting Analyst Questions From Owens Corning’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-062900185.html",
-      "publisher": "StockStory",
-      "time": 1786688940,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a2819da5-e4ed-35d2-a833-da1b2a993d17",
-      "title": "Mr. John Borshoff Announces Grant of Performance Share Units of Asarian Energy Limited (Formerly Forsys Metals Corp.)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mr-john-borshoff-announces-grant-062800959.html",
-      "publisher": "TMX Newsfile",
-      "time": 1786688880,
+      "id": "3eb81fdd-3f65-3239-a326-840f01fec05a",
+      "title": "Macy's is selling a $140 bolo bracelet for 80% off",
+      "link": "https://finance.yahoo.com/m/3eb81fdd-3f65-3239-a326-840f01fec05a/macy%27s-is-selling-a-%24140-bolo.html",
+      "publisher": "TheStreet",
+      "time": 1786694400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5d8341f2-a17f-3d11-9e2f-e2ac57fc2405",
-      "title": "MP Materials vs. The Metals Company: Which Critical-Minerals Stock Is the Smarter Long-Term Buy?",
-      "link": "https://finance.yahoo.com/m/5d8341f2-a17f-3d11-9e2f-e2ac57fc2405/mp-materials-vs.-the-metals.html",
-      "publisher": "Motley Fool",
-      "time": 1786688700,
+      "id": "bf468caa-7239-3c10-8cf0-a5a0ce80d737",
+      "title": "Penetron Expands West Coast Sales & Technical Support Team",
+      "link": "https://finance.yahoo.com/small-business/articles/penetron-expands-west-coast-sales-080000207.html",
+      "publisher": "PR Newswire",
+      "time": 1786694400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4e71262f-eec2-39fc-ad77-a0bbdc304da3",
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "link": "https://finance.yahoo.com/m/4e71262f-eec2-39fc-ad77-a0bbdc304da3/stock-market%3A-will-s%26p-500.html",
-      "publisher": "Benzinga Prediction Markets",
-      "time": 1786688630,
+      "id": "49ba46ed-5f73-377a-83e1-5607416b75aa",
+      "title": "Update: Reddit to Replace AvalonBay in S&P 500, S&P Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-replace-avalonbay-p-500-075915186.html",
+      "publisher": "MT Newswires",
+      "time": 1786694355,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "30b9d009-ce16-3508-9598-84c4f67c8271",
-      "title": "5 Revealing Analyst Questions From Novanta’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-novanta-062100601.html",
+      "id": "aa94db27-87dd-3a8d-aee6-817ef2b8585c",
+      "title": "Paysafe Becomes Envision Racing Title Partner to Build the Future of Fan Engagement; Where Motorsport, Gaming and Payments Become One",
+      "link": "https://finance.yahoo.com/media-advertising/articles/paysafe-becomes-envision-racing-title-075900076.html",
+      "publisher": "Business Wire",
+      "time": 1786694340,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6b2e3286-0eda-332e-9851-e8dc64f30740",
+      "title": "Jim Cramer Said T-Mobile US Inc. (NASDAQ:TMUS)’s Shares Reflected A Fear Of The Future",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-t-mobile-075709120.html",
+      "publisher": "Insider Monkey",
+      "time": 1786694229,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4c85da2f-450a-3da4-921b-fdd63f1bed85",
+      "title": "Guardant Health Insider Sold Shares Worth $7,645,218, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/guardant-health-insider-sold-shares-075706853.html",
+      "publisher": "MT Newswires",
+      "time": 1786694226,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0bbc9d8a-9abe-36e0-8137-997bbc455daa",
+      "title": "The Top 5 Analyst Questions From TTM Technologies’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-ttm-075700426.html",
       "publisher": "StockStory",
-      "time": 1786688460,
+      "time": 1786694220,
       "impact": "medium",
       "tags": [
         "macro",
@@ -152,11 +138,11 @@
       ]
     },
     {
-      "id": "d7d4ce0a-8fd0-3f05-8976-b1c445e806bc",
-      "title": "Enlight Research updated equity research on EfTEN Real Estate Fund AS",
-      "link": "https://finance.yahoo.com/real-estate/articles/enlight-research-updated-equity-research-062100380.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786688460,
+      "id": "4b33e6dc-638b-3edb-b715-6f95501a1d84",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-075700836.html",
+      "publisher": "Business Wire",
+      "time": 1786694220,
       "impact": "low",
       "tags": []
     }
