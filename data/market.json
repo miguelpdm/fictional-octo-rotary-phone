@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-14T10:52:23.860532+00:00",
+  "updatedAt": "2026-08-14T11:39:27.866982+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20166.8,
-      "change": -1.7999999999992724,
-      "changePct": -0.008924764237474452,
+      "price": 20200.7,
+      "change": 32.10000000000218,
+      "changePct": 0.15915829556836955,
       "currency": "EUR"
     },
     {
@@ -28,83 +28,109 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26477.23,
-      "change": 146.15999999999985,
-      "changePct": 0.555085683946759,
+      "price": 26495.88,
+      "change": 164.8100000000013,
+      "changePct": 0.6259145564536546,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6560.82,
-      "change": 15.349999999999454,
-      "changePct": 0.23451333517683914,
+      "price": 6563.93,
+      "change": 18.460000000000036,
+      "changePct": 0.28202711188043084,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.54,
-      "change": -0.09000000000000163,
-      "changePct": -0.6151742993848368,
+      "price": 14.53,
+      "change": -0.10000000000000142,
+      "changePct": -0.6835269993164828,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "b2da3981-6d83-348c-81d1-6e09051ab6da",
-      "title": "Google introduces Gemini 3.7 Flash with production-code focus",
-      "link": "https://finance.yahoo.com/m/b2da3981-6d83-348c-81d1-6e09051ab6da/google-introduces-gemini-3.7.html",
-      "publisher": "Verdict",
-      "time": 1786704496,
+      "id": "cfc3fe4e-0387-3883-99fb-8999d25a072e",
+      "title": "March to Abolish Animal Testing amplifies public call to end animal testing in the US",
+      "link": "https://finance.yahoo.com/healthcare/articles/march-abolish-animal-testing-amplifies-113600726.html",
+      "publisher": "PR Newswire",
+      "time": 1786707360,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "14533001-c9d2-30d9-8bcc-4fb96001c79d",
-      "title": "Following Syngenta and Bayer CropScience's Deployment of Targeted Insecticides for Specialty Crops, New Study Highlights 6.4% CAGR for Methoxyfenozide and Diamides",
-      "link": "https://finance.yahoo.com/healthcare/articles/following-syngenta-bayer-cropsciences-deployment-104500253.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786704300,
+      "id": "af1c47ea-4e37-3da3-8939-3ad75edbbd5b",
+      "title": "Tyson Foods consolidates beef plants",
+      "link": "https://finance.yahoo.com/m/af1c47ea-4e37-3da3-8939-3ad75edbbd5b/tyson-foods-consolidates-beef.html",
+      "publisher": "Just Food",
+      "time": 1786707357,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "19662eee-aac6-3332-a81e-4427d3769b6c",
-      "title": "Cable One Strengthens Leadership Team to Support Long-Term Growth",
-      "link": "https://finance.yahoo.com/technology/articles/cable-one-strengthens-leadership-team-104500412.html",
-      "publisher": "Business Wire",
-      "time": 1786704300,
+      "id": "2c595cf9-8066-3d21-825e-99fff2198667",
+      "title": "XAU Resources Provides Corporate Update on Quartzstone Transaction, Fortuna Exploration Program and Noseno Project",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/xau-resources-provides-corporate-quartzstone-113500559.html",
+      "publisher": "TMX Newsfile",
+      "time": 1786707300,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "271952e2-71a2-312a-a916-79a88d3a2f8b",
-      "title": "Brookfield Business Corporation Announces Renewal of Normal Course Issuer Bid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/brookfield-business-corporation-announces-renewal-104500883.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786704300,
+      "id": "af1f70cf-1f5f-3b42-adea-3e1134b39adc",
+      "title": "Vital Infrastructure Property Trust Announces August 2026 Distribution",
+      "link": "https://finance.yahoo.com/real-estate/articles/vital-infrastructure-property-trust-announces-113500692.html",
+      "publisher": "TMX Newsfile",
+      "time": 1786707300,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7a2519a7-e73d-3fff-8f50-e63d33c42e7d",
-      "title": "Spire Global Awarded $3.7 Million NOAA Contract for Satellite Weather Data",
-      "link": "https://finance.yahoo.com/technology/articles/spire-global-awarded-3-7-104500773.html",
-      "publisher": "Business Wire",
-      "time": 1786704300,
-      "impact": "high",
+      "id": "d77ca588-1019-36e1-8065-a36ae0ce7b6c",
+      "title": "Dow Jones Futures: Sandisk, Memory Stocks Extend Gains; Applied Materials Tumbles",
+      "link": "https://finance.yahoo.com/m/d77ca588-1019-36e1-8065-a36ae0ce7b6c/dow-jones-futures%3A-sandisk%2C.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786707097,
+      "impact": "low",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "8b7beb82-86ef-3459-88e7-2894cab71fb9",
-      "title": "Riley Exploration Permian’s Q2 Earnings Call: Our Top 5 Analyst Questions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/riley-exploration-permian-q2-earnings-104500417.html",
-      "publisher": "StockStory",
-      "time": 1786704300,
+      "id": "361952e2-7d88-30af-882b-403e34c3a9ec",
+      "title": "In-N-Out is opening 4 locations in 2 states. See where",
+      "link": "https://finance.yahoo.com/m/361952e2-7d88-30af-882b-403e34c3a9ec/in-n-out-is-opening-4.html",
+      "publisher": "USA TODAY",
+      "time": 1786707090,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "181b661f-4d6f-3e71-a756-d0841efd8794",
+      "title": "H.B. Fuller Board Urged by Engine Capital to Engage With Ancora on Proposal for Adhesives Business",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/h-b-fuller-board-urged-113045076.html",
+      "publisher": "MT Newswires",
+      "time": 1786707045,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "75c4768d-124d-3de5-8d25-932d2ecab15c",
+      "title": "Cantor Fitzgerald Upgrades Capricor Therapeutics to Overweight From Neutral, Adjusts PT to $28 From $3.50",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-upgrades-capricor-therapeutics-113035804.html",
+      "publisher": "MT Newswires",
+      "time": 1786707035,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a97efe11-6c4b-3030-a915-a4f975df9622",
+      "title": "IQST - IQSTEL to Host Q2 2026 Earnings Call August 19 Following Record $207 Million First-Half Revenue as Company Enters EBITDA Expansion Phase",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iqst-iqstel-host-q2-2026-113000602.html",
+      "publisher": "PR Newswire",
+      "time": 1786707000,
       "impact": "medium",
       "tags": [
         "macro",
@@ -112,47 +138,13 @@
       ]
     },
     {
-      "id": "90cad1f2-d1be-3965-8859-1a232f2fcfd7",
-      "title": "Jack Daniel’s sued dog toy company for trademark infringement, but a judge threw out the case",
-      "link": "https://finance.yahoo.com/media-advertising/articles/jack-daniel-sued-dog-toy-104500791.html",
-      "publisher": "Moneywise",
-      "time": 1786704300,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "07f18ee2-e59f-3b2b-8907-976ba26367fd",
-      "title": "Distalmotion receives FDA 510(k) clearance for Dexter robotic system",
-      "link": "https://finance.yahoo.com/m/07f18ee2-e59f-3b2b-8907-976ba26367fd/distalmotion-receives-fda.html",
-      "publisher": "Medical Device Network",
-      "time": 1786704293,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "dc1667ab-43c2-37e3-9c2d-e3e0b932cf49",
-      "title": "Spain extends largest nuclear plant in policy U-turn",
-      "link": "https://finance.yahoo.com/m/dc1667ab-43c2-37e3-9c2d-e3e0b932cf49/spain-extends-largest-nuclear.html",
-      "publisher": "AFP",
-      "time": 1786704263,
+      "id": "d8e0954c-6bf5-3b55-b1be-8c49cc4680ca",
+      "title": "Kincora Reports June 2026 Quarterly Activities and Financial Results",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/kincora-reports-june-2026-quarterly-113000490.html",
+      "publisher": "TMX Newsfile",
+      "time": 1786707000,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "2c9acfb6-8071-371f-a70c-7f66ded2a9c0",
-      "title": "Granular Stabilized Urea Captures 65.9% Market Share as Large-Scale Agricultural Demand Grows",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/granular-stabilized-urea-captures-65-104400920.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786704240,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
     }
   ],
   "errors": {
