@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T16:13:18.160055+00:00",
+  "updatedAt": "2026-08-14T17:25:53.500557+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7785.39,
-      "change": 36.89000000000033,
-      "changePct": 0.4760921468671398,
+      "price": 7781.58,
+      "change": 33.07999999999993,
+      "changePct": 0.4269213396141179,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26700.28,
-      "change": 111.78999999999724,
-      "changePct": 0.42044508732913083,
+      "price": 26676.396,
+      "change": 87.90599999999904,
+      "changePct": 0.3306167443130431,
       "currency": "USD"
     },
     {
@@ -44,102 +44,19 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.58,
-      "change": -0.05000000000000071,
-      "changePct": -0.3417634996582414,
+      "price": 14.46,
+      "change": -0.16999999999999993,
+      "changePct": -1.1619958988380035,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "e8899c8e-2697-3478-84a6-9e0143be91f0",
-      "title": "Veteran Bank Gives Intel Foundry a Major Vote of Confidence",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-focus-23-billion-161053832.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786723853,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "2fc8a348-9d20-322a-907d-c124188a04b5",
-      "title": "Berkshire Stock Slips Despite $1.75 Million Insider Buying Signal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-stock-slips-despite-1-160911733.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786723751,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5b9c98b1-8a5f-358d-9e03-ef5c6b90a4d1",
-      "title": "Italian police recover stolen Renoir, Cezanne and Matisse worth 9 mn euros",
-      "link": "https://finance.yahoo.com/m/5b9c98b1-8a5f-358d-9e03-ef5c6b90a4d1/italian-police-recover-stolen.html",
-      "publisher": "AFP",
-      "time": 1786723694,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "503e4d2a-738f-3713-a170-94653d7e2401",
-      "title": "Samsung Stock Gains 2.4% as AI-Memory Momentum Holds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-stock-gains-2-4-160719809.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786723639,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cd14d2f6-b14c-3219-9b60-86ceb9bbfcc6",
-      "title": "Micron Upgraded to Buy on the Claim Memory Stopped Being Cyclical",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-upgraded-buy-claim-memory-160542422.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786723542,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ba76397d-d16d-360d-b066-0370caac7c29",
-      "title": "Applied Materials' Output Capacity Expansion Most Important Point in Earnings Call, UBS Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-apos-output-capacity-160507593.html",
-      "publisher": "MT Newswires",
-      "time": 1786723507,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e8b5dfd9-ea8a-30b9-8bbc-438e08860d2e",
-      "title": "1 Large-Cap Stock with Impressive Fundamentals and 2 Facing Headwinds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-large-cap-stock-impressive-160500630.html",
-      "publisher": "StockStory",
-      "time": 1786723500,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "076a9253-42c2-31d1-ae30-0c589c511841",
-      "title": "NET Power Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/076a9253-42c2-31d1-ae30-0c589c511841/net-power-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1786723473,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "3bc2c5c7-cdf1-3298-b044-91f85493c902",
-      "title": "ICF International Eyes Growth Rebound as Energy, AI and Federal Modernization Gain Traction",
-      "link": "https://finance.yahoo.com/m/3bc2c5c7-cdf1-3298-b044-91f85493c902/icf-international-eyes-growth.html",
-      "publisher": "MarketBeat",
-      "time": 1786723473,
+      "id": "8087ad39-3f0b-317d-bde9-5bd0962e47ed",
+      "title": "Unusual Machines Soars 22%, Red Cat Climbs 8%, Ondas Gains 4% on Trump’s 100% Drone Tariff",
+      "link": "https://finance.yahoo.com/m/8087ad39-3f0b-317d-bde9-5bd0962e47ed/unusual-machines-soars-22%25%2C.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786728122,
       "impact": "high",
       "tags": [
         "geo",
@@ -147,15 +64,94 @@
       ]
     },
     {
-      "id": "7c280435-3127-3e56-ac56-e2c98c7a8232",
-      "title": "Americas Gold and Silver Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/7c280435-3127-3e56-ac56-e2c98c7a8232/americas-gold-and-silver-q2.html",
-      "publisher": "MarketBeat",
-      "time": 1786723473,
+      "id": "29b80092-b6cb-3a1c-8cd6-83c00b34f14a",
+      "title": "Bezos and Saverin join a consortium buying a minority stake in Liverpool",
+      "link": "https://finance.yahoo.com/m/29b80092-b6cb-3a1c-8cd6-83c00b34f14a/bezos-and-saverin-join-a.html",
+      "publisher": "Associated Press",
+      "time": 1786727990,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "13e46178-ec4a-3187-ae00-56183ee59b38",
+      "title": "U.S. consumer sentiment falls in August 2026, ending recovery",
+      "link": "https://finance.yahoo.com/m/13e46178-ec4a-3187-ae00-56183ee59b38/u.s.-consumer-sentiment-falls.html",
+      "publisher": "Quartz",
+      "time": 1786727895,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b12105a2-6cdb-35a7-8e96-3f301f3576ed",
+      "title": "Tech stocks pull Wall Street lower as investors weigh data, Middle East tensions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-muted-higher-111429941.html",
+      "publisher": "Reuters",
+      "time": 1786727889,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "6cd9b56c-44e5-3a48-93dc-6fc6016f7ecd",
+      "title": "Bernstein upgrades Wayfair to Outperform, raises price target",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bernstein-upgrades-wayfair-outperform-raises-171807885.html",
+      "publisher": "Investing.com",
+      "time": 1786727887,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4dbfb2b8-6061-32f2-8cdf-3a1fba44d81f",
+      "title": "ATRO Q2 Deep Dive: Demand Strength, Margin Expansion, and Backlog Set Up Growth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/atro-q2-deep-dive-demand-171700143.html",
+      "publisher": "StockStory",
+      "time": 1786727820,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "87fa09ef-b40d-30d6-97e4-d8c2051f0dfb",
+      "title": "How Americans buy furniture is starting to change",
+      "link": "https://finance.yahoo.com/m/87fa09ef-b40d-30d6-97e4-d8c2051f0dfb/how-americans-buy-furniture.html",
+      "publisher": "TheStreet",
+      "time": 1786727820,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a15102e3-8d97-3c65-bdad-d3d0a0000121",
+      "title": "Shakespeare in the Park returns to Lewisburg, adds Milton performance",
+      "link": "https://finance.yahoo.com/m/a15102e3-8d97-3c65-bdad-d3d0a0000121/shakespeare-in-the-park.html",
+      "publisher": "The Daily Item, Sunbury, Pa.",
+      "time": 1786727760,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "911e89c7-904f-3daf-9d26-574a171cb391",
+      "title": "JPMorgan Dropped Polymarket Banking Over Regulatory Risk",
+      "link": "https://finance.yahoo.com/m/911e89c7-904f-3daf-9d26-574a171cb391/jpmorgan-dropped-polymarket.html",
+      "publisher": "Bankless",
+      "time": 1786727713,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
+      ]
+    },
+    {
+      "id": "ca9272c7-e4e9-338a-9e34-82a2a1f5e19a",
+      "title": "TEGNA Stations Receive Four National Edward R. Murrow Awards",
+      "link": "https://finance.yahoo.com/media-advertising/articles/tegna-stations-receive-four-national-171500018.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786727700,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
       ]
     }
   ],
