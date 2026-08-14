@@ -1,167 +1,153 @@
 {
-  "updatedAt": "2026-08-14T14:11:53.771038+00:00",
+  "updatedAt": "2026-08-14T15:13:55.040359+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20185.9,
-      "change": 17.30000000000291,
-      "changePct": 0.0857769007268869,
+      "price": 20175.3,
+      "change": 6.700000000000728,
+      "changePct": 0.033219955772838615,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7805.19,
-      "change": 56.6899999999996,
-      "changePct": 0.7316254758985559,
+      "price": 7788.49,
+      "change": 39.98999999999978,
+      "changePct": 0.5160998903013458,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26815.494,
-      "change": 227.00399999999718,
-      "changePct": 0.8537679274001538,
+      "price": 26704.088,
+      "change": 115.59799999999814,
+      "changePct": 0.4347670740233768,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26440.61,
-      "change": 109.54000000000087,
-      "changePct": 0.4160104393782739,
+      "price": 26448.72,
+      "change": 117.65000000000146,
+      "changePct": 0.44681055498314903,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6549.05,
-      "change": 3.5799999999999272,
-      "changePct": 0.05469431530508775,
-      "currency": null
+      "price": 6546.23,
+      "change": 0.7599999999993088,
+      "changePct": 0.011611083696041823,
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.6,
-      "change": -0.030000000000001137,
-      "changePct": -0.20505809979494966,
+      "price": 14.49,
+      "change": -0.14000000000000057,
+      "changePct": -0.956937799043066,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "1ed324ea-41fb-35f1-be61-52d1ca7834cc",
-      "title": "Strawberry Fields REIT (STRW) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/1ed324ea-41fb-35f1-be61-52d1ca7834cc/strawberry-fields-reit-%28strw%29.html",
-      "publisher": "Motley Fool",
-      "time": 1786716422,
+      "id": "1725264e-0de9-3818-acc8-961c1da6f9ad",
+      "title": "Krystal Biotech Seen Positioned for Further Gains on Vyjuvek, Pipeline Readouts, RBC Says",
+      "link": "https://finance.yahoo.com/healthcare/articles/krystal-biotech-seen-positioned-further-151123149.html",
+      "publisher": "MT Newswires",
+      "time": 1786720283,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "200a8611-aa5f-373a-80f5-77bbe336a94e",
+      "title": "Decisive Dividend Declares September Dividend",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/decisive-dividend-declares-september-dividend-151116038.html",
+      "publisher": "MT Newswires",
+      "time": 1786720276,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d1782a8c-d844-362b-b9e4-962832bbb355",
+      "title": "European Equities Traded in the US as American Depositary Receipts Track Lower in Friday Trading",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150802661.html",
+      "publisher": "MT Newswires",
+      "time": 1786720082,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
     },
     {
-      "id": "78f1364f-b8de-3a93-9f65-6e942395613e",
-      "title": "CERTIFIED Brand Debuts in Reynoldsburg, Expanding Access to East Columbus Communities",
-      "link": "https://finance.yahoo.com/small-business/articles/certified-brand-debuts-reynoldsburg-expanding-140700526.html",
+      "id": "16409233-f49c-3df1-9c0f-81f91ba6a92a",
+      "title": "SOUTHERN GLAZER'S WINE & SPIRITS TEAMSTERS WIN STRIKE IN NEW YORK",
+      "link": "https://finance.yahoo.com/economy/policy/articles/southern-glazers-wine-spirits-teamsters-150600098.html",
+      "publisher": "PR Newswire",
+      "time": 1786719960,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "37711838-3eda-35b8-9c59-fa7fea8aae0c",
+      "title": "Viettel Named Top Winner Worldwide at the 2026 International Business Awards",
+      "link": "https://finance.yahoo.com/technology/articles/viettel-named-top-winner-worldwide-150500860.html",
+      "publisher": "PR Newswire",
+      "time": 1786719900,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "ca08a37b-d0a2-377f-97b5-503f62170c8c",
+      "title": "Workday, Silver Lake in discussions over potential $43B deal",
+      "link": "https://finance.yahoo.com/m/ca08a37b-d0a2-377f-97b5-503f62170c8c/workday%2C-silver-lake-in.html",
+      "publisher": "Proactive",
+      "time": 1786719840,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1bc18336-edbc-3034-94c5-0ec1ac53209d",
+      "title": "World War II Memorial vandalism suspect arrested, facing felony charges",
+      "link": "https://finance.yahoo.com/m/1bc18336-edbc-3034-94c5-0ec1ac53209d/world-war-ii-memorial.html",
+      "publisher": "USA TODAY",
+      "time": 1786719820,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "9b96cbcc-4a8e-3ab1-a378-50f14e8cbd89",
+      "title": "Rocket Lab (RKLB) Set a Revenue Record. Is Neutron Slipping Into 2027?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-set-revenue-150334121.html",
+      "publisher": "Insider Monkey",
+      "time": 1786719814,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "644e3d87-620d-3e78-beb7-aa287de16129",
+      "title": "Pinnacle Financial Partners Renews 23XI Racing Sponsorship",
+      "link": "https://finance.yahoo.com/media-advertising/articles/pinnacle-financial-partners-renews-23xi-150254393.html",
+      "publisher": "MT Newswires",
+      "time": 1786719774,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ea87178b-8efe-3727-94ef-2298f44015e5",
+      "title": "MemoHoney Update 2026 Introduces a Ten-Ingredient Supplement Format as Part of Its Portfolio Expansion",
+      "link": "https://finance.yahoo.com/healthcare/articles/memohoney-2026-introduces-ten-ingredient-150200077.html",
       "publisher": "GlobeNewswire",
-      "time": 1786716420,
+      "time": 1786719720,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "621c5ad7-361f-39f3-b7b2-f3793fc249b6",
-      "title": "AM Best Affirms Credit Ratings of Northbridge Financial Corporation’s Members and Wentworth Insurance Company Limited",
-      "link": "https://finance.yahoo.com/healthcare/articles/am-best-affirms-credit-ratings-140500558.html",
-      "publisher": "Business Wire",
-      "time": 1786716300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "dcc6c4e9-84db-322a-b95b-30d0edea8402",
-      "title": "5 Insightful Analyst Questions From Kraft Heinz’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-kraft-140500842.html",
-      "publisher": "StockStory",
-      "time": 1786716300,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "ee36e81c-ce5e-3fdb-a402-695cb3254be4",
-      "title": "Where Will the Vanguard S&P 500 ETF (VOO) Be in 20 Years? Here's What Decades of Stock Market History Suggests.",
-      "link": "https://finance.yahoo.com/m/ee36e81c-ce5e-3fdb-a402-695cb3254be4/where-will-the-vanguard-s%26p.html",
-      "publisher": "Motley Fool",
-      "time": 1786716300,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "14383c3b-1230-356d-82bc-804863e3fe80",
-      "title": "LanzaTech Global Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/14383c3b-1230-356d-82bc-804863e3fe80/lanzatech-global-q2-earnings.html",
-      "publisher": "MarketBeat",
-      "time": 1786716269,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "75482fce-8016-360b-88f5-13572f4ed913",
-      "title": "Harmony Biosciences Highlights Record WAKIX Growth, Advances Orexin and Epilepsy Pipeline",
-      "link": "https://finance.yahoo.com/m/75482fce-8016-360b-88f5-13572f4ed913/harmony-biosciences.html",
-      "publisher": "MarketBeat",
-      "time": 1786716269,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "75654c18-ec7e-3bc1-85df-6c2d7140e70b",
-      "title": "Gemini Space Station Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/75654c18-ec7e-3bc1-85df-6c2d7140e70b/gemini-space-station-q2.html",
-      "publisher": "MarketBeat",
-      "time": 1786716268,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "ddf50143-8643-312e-8dcd-fbc91283e253",
-      "title": "ImmuCell Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/ddf50143-8643-312e-8dcd-fbc91283e253/immucell-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1786716268,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "50032c07-88d8-38eb-b9e5-8a392e31af27",
-      "title": "Digi Power X Q2 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/m/50032c07-88d8-38eb-b9e5-8a392e31af27/digi-power-x-q2-earnings-call.html",
-      "publisher": "MarketBeat",
-      "time": 1786716267,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
     }
   ],
   "errors": {
