@@ -1,80 +1,92 @@
 {
-  "updatedAt": "2026-08-14T12:51:32.064097+00:00",
+  "updatedAt": "2026-08-14T14:11:53.771038+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20188.8,
-      "change": 20.200000000000728,
-      "changePct": 0.10015568755392407,
+      "price": 20185.9,
+      "change": 17.30000000000291,
+      "changePct": 0.0857769007268869,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7798.99,
-      "change": 70.78999999999996,
-      "changePct": 0.9159959628374003,
+      "price": 7805.19,
+      "change": 56.6899999999996,
+      "changePct": 0.7316254758985559,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26803.025,
-      "change": 357.5750000000007,
-      "changePct": 1.352122954988479,
+      "price": 26815.494,
+      "change": 227.00399999999718,
+      "changePct": 0.8537679274001538,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26507.99,
-      "change": 176.9200000000019,
-      "changePct": 0.6719058511484793,
+      "price": 26440.61,
+      "change": 109.54000000000087,
+      "changePct": 0.4160104393782739,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6560.51,
-      "change": 15.039999999999964,
-      "changePct": 0.229777235248194,
-      "currency": "EUR"
+      "price": 6549.05,
+      "change": 3.5799999999999272,
+      "changePct": 0.05469431530508775,
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.51,
-      "change": -0.120000000000001,
-      "changePct": -0.8202323991797744,
+      "price": 14.6,
+      "change": -0.030000000000001137,
+      "changePct": -0.20505809979494966,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "068a78d0-019b-356e-8e72-b6725a4e277d",
-      "title": "Applied Materials Extends Margin Streak to 13 Quarters but Shares Fall",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-extends-margin-streak-124959525.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786711799,
+      "id": "1ed324ea-41fb-35f1-be61-52d1ca7834cc",
+      "title": "Strawberry Fields REIT (STRW) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/1ed324ea-41fb-35f1-be61-52d1ca7834cc/strawberry-fields-reit-%28strw%29.html",
+      "publisher": "Motley Fool",
+      "time": 1786716422,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "78f1364f-b8de-3a93-9f65-6e942395613e",
+      "title": "CERTIFIED Brand Debuts in Reynoldsburg, Expanding Access to East Columbus Communities",
+      "link": "https://finance.yahoo.com/small-business/articles/certified-brand-debuts-reynoldsburg-expanding-140700526.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786716420,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "dea24b2c-b1ba-32f8-b581-40200ec8b5a7",
-      "title": "47 Compton High School Students Earn Unreal Engine Credentials as CTE Pathway Achieves 92% Pass Rate",
-      "link": "https://finance.yahoo.com/technology/articles/47-compton-high-school-students-124700527.html",
-      "publisher": "PR Newswire",
-      "time": 1786711620,
+      "id": "621c5ad7-361f-39f3-b7b2-f3793fc249b6",
+      "title": "AM Best Affirms Credit Ratings of Northbridge Financial Corporation’s Members and Wentworth Insurance Company Limited",
+      "link": "https://finance.yahoo.com/healthcare/articles/am-best-affirms-credit-ratings-140500558.html",
+      "publisher": "Business Wire",
+      "time": 1786716300,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "72fca814-f44b-3b0f-a3ec-160f85cc6dfd",
-      "title": "5 Must-Read Analyst Questions From Helmerich & Payne’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-124500557.html",
+      "id": "dcc6c4e9-84db-322a-b95b-30d0edea8402",
+      "title": "5 Insightful Analyst Questions From Kraft Heinz’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-kraft-140500842.html",
       "publisher": "StockStory",
-      "time": 1786711500,
+      "time": 1786716300,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,47 +94,22 @@
       ]
     },
     {
-      "id": "8436ae64-1858-3170-8d3b-9bf9d9adff03",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-124500075.html",
-      "publisher": "Business Wire",
-      "time": 1786711500,
+      "id": "ee36e81c-ce5e-3fdb-a402-695cb3254be4",
+      "title": "Where Will the Vanguard S&P 500 ETF (VOO) Be in 20 Years? Here's What Decades of Stock Market History Suggests.",
+      "link": "https://finance.yahoo.com/m/ee36e81c-ce5e-3fdb-a402-695cb3254be4/where-will-the-vanguard-s%26p.html",
+      "publisher": "Motley Fool",
+      "time": 1786716300,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     },
     {
-      "id": "a25669d9-3330-34da-b689-07bd089efd2a",
-      "title": "Amazon's $81 tablet includes Gemini AI and theft protection",
-      "link": "https://finance.yahoo.com/m/a25669d9-3330-34da-b689-07bd089efd2a/amazon%27s-%2481-tablet-includes.html",
-      "publisher": "TheStreet",
-      "time": 1786711500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e702efb4-8c7f-3a64-ade0-fe98b16b5bda",
-      "title": "Schwab Reports Monthly Activity Highlights",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/schwab-reports-monthly-activity-highlights-124500778.html",
-      "publisher": "Business Wire",
-      "time": 1786711500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "37cec219-ecbd-3b9e-9ca3-7acd4de2b99b",
-      "title": "TGS and GTI to team up on offshore seismic projects",
-      "link": "https://finance.yahoo.com/m/37cec219-ecbd-3b9e-9ca3-7acd4de2b99b/tgs-and-gti-to-team-up-on.html",
-      "publisher": "Offshore Technology",
-      "time": 1786711434,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3565c8fd-3d5a-3b34-928e-33cd46f85417",
-      "title": "The Week in Numbers: major oil loss, the future of ice cream",
-      "link": "https://finance.yahoo.com/video/week-numbers-major-oil-loss-124245423.html",
-      "publisher": "Reuters Videos",
-      "time": 1786711365,
+      "id": "14383c3b-1230-356d-82bc-804863e3fe80",
+      "title": "LanzaTech Global Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/14383c3b-1230-356d-82bc-804863e3fe80/lanzatech-global-q2-earnings.html",
+      "publisher": "MarketBeat",
+      "time": 1786716269,
       "impact": "medium",
       "tags": [
         "macro",
@@ -130,20 +117,46 @@
       ]
     },
     {
-      "id": "339c0e08-ac34-3776-a11d-8c9f737da326",
-      "title": "Oppenheimer Adjusts SentinelOne Price Target to $27 From $21, Maintains Outperform Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-adjusts-sentinelone-price-target-124153046.html",
-      "publisher": "MT Newswires",
-      "time": 1786711313,
+      "id": "75482fce-8016-360b-88f5-13572f4ed913",
+      "title": "Harmony Biosciences Highlights Record WAKIX Growth, Advances Orexin and Epilepsy Pipeline",
+      "link": "https://finance.yahoo.com/m/75482fce-8016-360b-88f5-13572f4ed913/harmony-biosciences.html",
+      "publisher": "MarketBeat",
+      "time": 1786716269,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     },
     {
-      "id": "2ff25903-8fe6-313e-a4ce-bc5865f78603",
-      "title": "Star Equity Holdings: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/star-equity-holdings-q2-earnings-124141611.html",
-      "publisher": "Associated Press",
-      "time": 1786711301,
+      "id": "75654c18-ec7e-3bc1-85df-6c2d7140e70b",
+      "title": "Gemini Space Station Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/75654c18-ec7e-3bc1-85df-6c2d7140e70b/gemini-space-station-q2.html",
+      "publisher": "MarketBeat",
+      "time": 1786716268,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "ddf50143-8643-312e-8dcd-fbc91283e253",
+      "title": "ImmuCell Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/ddf50143-8643-312e-8dcd-fbc91283e253/immucell-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1786716268,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "50032c07-88d8-38eb-b9e5-8a392e31af27",
+      "title": "Digi Power X Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/50032c07-88d8-38eb-b9e5-8a392e31af27/digi-power-x-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1786716267,
       "impact": "medium",
       "tags": [
         "macro",
