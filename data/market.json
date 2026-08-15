@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T00:52:21.504771+00:00",
+  "updatedAt": "2026-08-15T02:10:42.587617+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,109 +52,99 @@
   ],
   "news": [
     {
-      "id": "35050d47-cbc1-338c-b3d3-8f867523445e",
-      "title": "Heavy Transportation Equipment Stocks Q2 Teardown: Oshkosh (NYSE:OSK) Vs The Rest",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/heavy-transportation-equipment-stocks-q2-004500270.html",
-      "publisher": "StockStory",
-      "time": 1786754700,
+      "id": "5232b2fe-37b0-3124-858e-3dff21689843",
+      "title": "Duan Yongping's Second Quarter 2026 13F: A Strategic Pivot Away from NVIDIA",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/duan-yongpings-second-quarter-2026-020905867.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786759745,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b67487cd-1012-3204-b9ee-2b3aacd6fd22",
+      "title": "Philippe Laffont's Bold Q2 2026 Move: Micron Technology Inc at a 7.07% Portfolio Impact",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/philippe-laffonts-bold-q2-2026-020822818.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786759702,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fa578a1d-3945-3229-b67f-7daef4042070",
+      "title": "ValueAct Capital's Top Q2 2026 Move: Rocket Companies Inc at a 3.76% Portfolio Impact",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/valueact-capitals-top-q2-2026-020731016.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786759651,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "38c8c750-bc08-30cb-a150-a648d41442a9",
+      "title": "Paul Singer's Bold Q2 2026 Move: Trimming Suncor Energy Inc by -7.64% Portfolio Impact",
+      "link": "https://finance.yahoo.com/energy/articles/paul-singers-bold-q2-2026-020643793.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786759603,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "042a337e-2f0b-3f62-80de-546843a3c486",
+      "title": "Ray Dalio's Top Q2 2026 Move: State Street SPDR S&P 500 ETF Trust at a 2.93% Portfolio Impact",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ray-dalios-top-q2-2026-020555830.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786759555,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6505eedd-594a-38b1-ac00-aefe36375e26",
+      "title": "Michael Dell's Top Second Quarter 2026 Move: Townsquare Media Inc at a -0.69% Portfolio Impact",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-dells-top-second-quarter-020508182.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786759508,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e9736d43-46d3-3d26-bf10-68038ce90914",
+      "title": "Advanced Drainage’s Q2 Earnings Call: Our Top 5 Analyst Questions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-drainage-q2-earnings-call-020500740.html",
+      "publisher": "StockStory",
+      "time": 1786759500,
+      "impact": "medium",
       "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "68625642-9e1a-3311-a4a5-de4fc02628d3",
+      "title": "Paul Tudor Jones's Top Q2 2026 Move: iShares Core S&P 500 ETF at a 1.5% Portfolio Impact",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/paul-tudor-joness-top-q2-020420947.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786759460,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f10220b4-d511-3760-89b2-8ed0ce648c1c",
+      "title": "Robert Karr's Second Quarter 2026 Move: Exiting Wix.com Ltd at a -6.67% Portfolio Impact",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/robert-karrs-second-quarter-2026-020310060.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786759390,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "92c5d27a-03f8-3904-844d-255352a5ef32",
+      "title": "‘Big Short’ investor warns AI boom has quiet weak spot",
+      "link": "https://finance.yahoo.com/m/92c5d27a-03f8-3904-844d-255352a5ef32/%E2%80%98big-short%E2%80%99-investor-warns-ai.html",
+      "publisher": "TheStreet",
+      "time": 1786759380,
+      "impact": "high",
+      "tags": [
+        "geo",
         "macro"
-      ]
-    },
-    {
-      "id": "1fbe5051-ec8a-34ff-aa77-7df525d037f0",
-      "title": "Digi Power X (DGXX) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/1fbe5051-ec8a-34ff-aa77-7df525d037f0/digi-power-x-%28dgxx%29-q2-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1786754603,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "7b7b954e-8f6d-39f6-8b27-da0d7abecdf5",
-      "title": "Jason Arday, Cambridge professor accused of plagiarism, found dead at 41",
-      "link": "https://finance.yahoo.com/m/7b7b954e-8f6d-39f6-8b27-da0d7abecdf5/jason-arday%2C-cambridge.html",
-      "publisher": "USA TODAY",
-      "time": 1786754425,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5e65b9ca-a8ef-310f-90e5-14716d07647e",
-      "title": "Insider Sheds $2.9 Million Worth of Stock Following Option Exercise",
-      "link": "https://finance.yahoo.com/m/5e65b9ca-a8ef-310f-90e5-14716d07647e/insider-sheds-%242.9-million.html",
-      "publisher": "Motley Fool",
-      "time": 1786754401,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d3750f91-793c-3aae-abee-7ceb29643db8",
-      "title": "Drug Development Inputs & Services Stocks Q2 In Review: Fortrea (NASDAQ:FTRE) Vs Peers",
-      "link": "https://finance.yahoo.com/healthcare/articles/drug-development-inputs-services-stocks-003700840.html",
-      "publisher": "StockStory",
-      "time": 1786754220,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "3bafc28a-d9eb-3b48-9c23-61ffe2656c79",
-      "title": "UK unveils £65 million drought support for farmers",
-      "link": "https://finance.yahoo.com/m/3bafc28a-d9eb-3b48-9c23-61ffe2656c79/uk-unveils-%C2%A365-million.html",
-      "publisher": "Investing.com",
-      "time": 1786753945,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "69289218-6917-3c03-815e-cab83e0603ef",
-      "title": "LA Olympics has to allow politicians on the bus, just not behind the wheel - Coe",
-      "link": "https://finance.yahoo.com/m/69289218-6917-3c03-815e-cab83e0603ef/la-olympics-has-to-allow.html",
-      "publisher": "AFP",
-      "time": 1786753870,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0e42a7b1-7641-3e29-9e0c-dfdb7bd84427",
-      "title": "Hawaiian Electric (HE) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/0e42a7b1-7641-3e29-9e0c-dfdb7bd84427/hawaiian-electric-%28he%29-q2.html",
-      "publisher": "Motley Fool",
-      "time": 1786753774,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a460ec59-f03a-300e-ba15-5c7652259bb4",
-      "title": "Analog Semiconductors Stocks Q2 Results: Benchmarking MACOM (NASDAQ:MTSI)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/analog-semiconductors-stocks-q2-results-002900636.html",
-      "publisher": "StockStory",
-      "time": 1786753740,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "586e9225-fc15-31ce-82ae-9e174d5ac669",
-      "title": "Americas Gold and Silver (USAS) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/586e9225-fc15-31ce-82ae-9e174d5ac669/americas-gold-and-silver.html",
-      "publisher": "Motley Fool",
-      "time": 1786753692,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
       ]
     }
   ],
