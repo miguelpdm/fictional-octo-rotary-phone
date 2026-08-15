@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T10:45:58.260420+00:00",
+  "updatedAt": "2026-08-15T11:13:50.461115+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,38 @@
   ],
   "news": [
     {
-      "id": "1b9c6ebb-8779-3c5c-95a8-449be298595d",
-      "title": "5 Revealing Analyst Questions From Assured Guaranty’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-assured-103700893.html",
+      "id": "785e4378-40b3-3fcd-bec4-2494302c1ded",
+      "title": "Sundar Pichai's Alphabet Reported Negative Free Cash Flow for the First Time Ever. Here's Why That Milestone Matters for Shareholders.",
+      "link": "https://finance.yahoo.com/m/785e4378-40b3-3fcd-bec4-2494302c1ded/sundar-pichai%27s-alphabet.html",
+      "publisher": "Motley Fool",
+      "time": 1786791900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b568d585-b717-3ef6-9e3c-31d8fc6f372d",
+      "title": "BofA points to crucial Walmart numbers most investors ignore",
+      "link": "https://finance.yahoo.com/m/b568d585-b717-3ef6-9e3c-31d8fc6f372d/bofa-points-to-crucial.html",
+      "publisher": "TheStreet",
+      "time": 1786791780,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ca6b5103-2804-36fa-b357-68a937aa260e",
+      "title": "He Bought a $50,000 Baseball Card Through His IRA. The IRS Called It a Withdrawal and Taxed More of His Social Security.",
+      "link": "https://finance.yahoo.com/m/ca6b5103-2804-36fa-b357-68a937aa260e/he-bought-a-%2450%2C000-baseball.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786791751,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "63e93cc5-676c-3f60-a545-9fd4298116e3",
+      "title": "The 5 Most Interesting Analyst Questions From Xponential Fitness’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-110100003.html",
       "publisher": "StockStory",
-      "time": 1786790220,
+      "time": 1786791660,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,92 +91,65 @@
       ]
     },
     {
-      "id": "3be6e0c3-48e2-361b-811e-b1c9afcce97f",
-      "title": "Larry Fink’s brutal warning to Americans: This everyday habit is ‘one of the worst financial decisions’ of your life",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/larry-fink-brutal-warning-americans-103500383.html",
-      "publisher": "Moneywise",
-      "time": 1786790100,
-      "impact": "high",
+      "id": "937892ea-0787-3208-9ba8-470167c729f1",
+      "title": "3 Cloud Computing Stocks to Buy in August",
+      "link": "https://finance.yahoo.com/m/937892ea-0787-3208-9ba8-470167c729f1/3-cloud-computing-stocks-to.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786791626,
+      "impact": "low",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "b21f9b65-cfb6-33ac-9ad5-eecd3c6e9af2",
-      "title": "Eli Lilly’s Weight-Loss Pill Just Got Its First Foothold in Europe",
-      "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-weight-loss-pill-103007818.html",
-      "publisher": "Insider Monkey",
-      "time": 1786789807,
+      "id": "e2376385-65bb-3964-babf-85ba7a79c4c5",
+      "title": "3 Under-the-Radar Chip Stocks Wall Street Is Sleeping On in August",
+      "link": "https://finance.yahoo.com/m/e2376385-65bb-3964-babf-85ba7a79c4c5/3-under-the-radar-chip-stocks.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786791626,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c5a5efc1-3cc8-33d7-be09-4921e35c5e27",
-      "title": "5 Must-Read Analyst Questions From Health Catalyst’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/healthcare/articles/5-must-read-analyst-questions-102900087.html",
-      "publisher": "StockStory",
-      "time": 1786789740,
-      "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "8c58d730-a640-3a47-bfb5-73763f50dedc",
-      "title": "How New Mexico’s $567 Million Ruling Could Change Meta",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mexico-567-million-ruling-could-102545540.html",
-      "publisher": "Insider Monkey",
-      "time": 1786789545,
+      "id": "c12df5ec-790e-388b-8d12-ea19c7232c21",
+      "title": "5 Safe High-Yield Stocks Boomers Should Own in August",
+      "link": "https://finance.yahoo.com/m/c12df5ec-790e-388b-8d12-ea19c7232c21/5-safe-high-yield-stocks.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786791625,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9e090de3-6cdc-3042-bec7-9a61f1a9510c",
-      "title": "Maersk brings back another shipping service through Suez, but wider return remains distant",
-      "link": "https://finance.yahoo.com/m/9e090de3-6cdc-3042-bec7-9a61f1a9510c/maersk-brings-back-another.html",
-      "publisher": "Euronews",
-      "time": 1786789428,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "893d274e-2dfd-39eb-a2df-ff7b128573da",
-      "title": "Celsius’s Q2 Earnings Call: Our Top 5 Analyst Questions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/celsius-q2-earnings-call-top-102100122.html",
-      "publisher": "StockStory",
-      "time": 1786789260,
-      "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "d5fb8f7a-e763-3e8d-9880-88ef3b444730",
-      "title": "My girlfriend is 67, and I’d like to marry her — but if I do, will she lose the divorced spousal benefits she gets now?",
-      "link": "https://finance.yahoo.com/healthcare/articles/girlfriend-67-d-marry-her-102000368.html",
-      "publisher": "Moneywise",
-      "time": 1786789200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a125d3c9-b283-3022-94c2-ad37ad5c976f",
-      "title": "Walmart's active noise-canceling headphones are only $16 and selling fast",
-      "link": "https://finance.yahoo.com/m/a125d3c9-b283-3022-94c2-ad37ad5c976f/walmart%27s-active.html",
+      "id": "8166e601-ee21-32cb-b7da-9da6b4027235",
+      "title": "Amazon has $70 leather sandals that 'feel like walking on clouds' for 64% off",
+      "link": "https://finance.yahoo.com/m/8166e601-ee21-32cb-b7da-9da6b4027235/amazon-has-%2470-leather.html",
       "publisher": "TheStreet",
-      "time": 1786788900,
+      "time": 1786791600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ffaa1a29-de35-35ad-840f-dc18b0f9ebcb",
-      "title": "Americans added $21B to credit cards — now 20%+ interest is crushing budgets. Time to use Dave Ramsey’s escape hatch?",
-      "link": "https://finance.yahoo.com/markets/articles/americans-added-21b-credit-cards-101500667.html",
+      "id": "f1f744b5-eb5e-352c-974f-78581a9117c6",
+      "title": "This $69 pair of toilet shoes is designed specifically for using the bathroom — and they're selling out",
+      "link": "https://finance.yahoo.com/small-business/articles/69-pair-toilet-shoes-designed-110000878.html",
       "publisher": "Moneywise",
-      "time": 1786788900,
+      "time": 1786791600,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "0c67557a-a34e-39f3-90e0-4dcac99842db",
+      "title": "Social Security Is in Dire Straits, Thanks in Part to President Donald Trump, but Taxing the Rich Won't Fix the Problem",
+      "link": "https://finance.yahoo.com/m/0c67557a-a34e-39f3-90e0-4dcac99842db/social-security-is-in-dire.html",
+      "publisher": "Motley Fool",
+      "time": 1786791360,
       "impact": "low",
       "tags": []
     }
