@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T16:48:31.316133+00:00",
+  "updatedAt": "2026-08-15T17:14:49.281986+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,20 +52,11 @@
   ],
   "news": [
     {
-      "id": "91e063a9-c371-34a2-856a-b37487e43e8a",
-      "title": "Fernandez booed by Chelsea fans in friendly win over Sociedad",
-      "link": "https://finance.yahoo.com/m/91e063a9-c371-34a2-856a-b37487e43e8a/fernandez-booed-by-chelsea.html",
-      "publisher": "AFP",
-      "time": 1786811997,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0e3ab7f8-5399-3919-9463-5563124cb693",
-      "title": "PAR Technology’s Q2 Earnings Call: Our Top 5 Analyst Questions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/par-technology-q2-earnings-call-163700635.html",
+      "id": "533f683d-6e87-389e-9fe8-61a61604e362",
+      "title": "The Top 5 Analyst Questions From QuinStreet’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-quinstreet-170900770.html",
       "publisher": "StockStory",
-      "time": 1786811820,
+      "time": 1786813740,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,49 +64,31 @@
       ]
     },
     {
-      "id": "0ebe8395-270f-3f7f-9503-f738040ff322",
-      "title": "Gold's wild 2026 ride might not be over yet",
-      "link": "https://finance.yahoo.com/m/0ebe8395-270f-3f7f-9503-f738040ff322/gold%27s-wild-2026-ride-might.html",
+      "id": "059d8c44-bb09-35cd-9773-beacd35aa146",
+      "title": "Jim Cramer reveals 6 AI stocks to watch in 2026",
+      "link": "https://finance.yahoo.com/m/059d8c44-bb09-35cd-9773-beacd35aa146/jim-cramer-reveals-6-ai.html",
       "publisher": "TheStreet",
-      "time": 1786811820,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "54a3275e-255b-3f9b-80b9-82ff079dc7a6",
-      "title": "Worried About an AI Bubble? These Tech Stocks Are Well-Suited to Survive an AI Bust.",
-      "link": "https://finance.yahoo.com/m/54a3275e-255b-3f9b-80b9-82ff079dc7a6/worried-about-an-ai-bubble%3F.html",
-      "publisher": "Motley Fool",
-      "time": 1786811700,
+      "time": 1786813620,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "55222a30-2ab6-3fdd-88ff-bdb8e328a753",
-      "title": "FDA inspects Taylor Farms Mexico plant linked to outbreak",
-      "link": "https://finance.yahoo.com/m/55222a30-2ab6-3fdd-88ff-bdb8e328a753/fda-inspects-taylor-farms.html",
-      "publisher": "USA TODAY",
-      "time": 1786811482,
+      "id": "259c5d58-0585-3cf9-bb8a-bf02b3aff28e",
+      "title": "UK PM urges 'reflection' after Cambridge professor's death",
+      "link": "https://finance.yahoo.com/m/259c5d58-0585-3cf9-bb8a-bf02b3aff28e/uk-pm-urges-%27reflection%27.html",
+      "publisher": "AFP",
+      "time": 1786813587,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0de93ecc-4eb7-3fea-85c5-2fd71277e40a",
-      "title": "FDA advisers vote to let 6 unproven peptides skip clinical trials — and half the panel has industry ties",
-      "link": "https://finance.yahoo.com/healthcare/articles/fda-advisers-vote-let-6-163000842.html",
-      "publisher": "Moneywise",
-      "time": 1786811400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f17a9765-77dc-32d9-8938-d29b915d8f0d",
-      "title": "5 Insightful Analyst Questions From FOX’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/media-advertising/articles/5-insightful-analyst-questions-fox-162900333.html",
+      "id": "1968f8b5-db3a-34ef-b08d-687abffb7bb0",
+      "title": "The 5 Most Interesting Analyst Questions From Cable One’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-170100560.html",
       "publisher": "StockStory",
-      "time": 1786811340,
+      "time": 1786813260,
       "impact": "medium",
       "tags": [
         "macro",
@@ -123,37 +96,61 @@
       ]
     },
     {
-      "id": "99a3bd34-ecdf-3658-a9ea-0ab3804eff9e",
-      "title": "Warren Buffett Wasn’t the Only Billionaire Buying Alphabet Stock in Q2",
-      "link": "https://finance.yahoo.com/m/99a3bd34-ecdf-3658-a9ea-0ab3804eff9e/warren-buffett-wasn%E2%80%99t-the.html",
+      "id": "19f1c8bd-150c-35c6-803a-fb3bb85989b1",
+      "title": "Mastercard vs. Visa: One Fintech Giant Has the Stronger Growth Story",
+      "link": "https://finance.yahoo.com/m/19f1c8bd-150c-35c6-803a-fb3bb85989b1/mastercard-vs.-visa%3A-one.html",
       "publisher": "24/7 Wall St.",
-      "time": 1786811153,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "975763f6-2b80-36dc-bf10-8d4eec64c873",
-      "title": "Josh D'Amaro pledges new stories and experiences in first address as CEO to Disney faithful",
-      "link": "https://finance.yahoo.com/m/975763f6-2b80-36dc-bf10-8d4eec64c873/josh-d%27amaro-pledges-new.html",
-      "publisher": "LA Times",
-      "time": 1786810909,
+      "time": 1786813229,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9f62573d-d9b5-368b-a06c-baa97aaaf1b0",
-      "title": "5 Must-Read Analyst Questions From US Foods’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-162100408.html",
+      "id": "c293d75d-fc35-3969-88d5-d0bc64a27c89",
+      "title": "Groupon's $199 mystery vacations give only 6 out of every 2,000 buyers a gold-tier trip — the rest get weekend getaways.",
+      "link": "https://finance.yahoo.com/small-business/articles/groupons-199-mystery-vacations-only-170000729.html",
+      "publisher": "Moneywise",
+      "time": 1786813200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1febee81-0d9c-37d6-abff-b8593fcca50e",
+      "title": "Which Is the Better Short-Term Bond ETF, Vanguard's VTES or VanEck's SMB?",
+      "link": "https://finance.yahoo.com/m/1febee81-0d9c-37d6-abff-b8593fcca50e/which-is-the-better.html",
+      "publisher": "Motley Fool",
+      "time": 1786812883,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "991704bf-e854-3555-86fd-38b49c56a165",
+      "title": "Sabre’s Q2 Earnings Call: Our Top 5 Analyst Questions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sabre-q2-earnings-call-top-165300837.html",
       "publisher": "StockStory",
-      "time": 1786810860,
+      "time": 1786812780,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
+    },
+    {
+      "id": "91881155-547f-3bbb-a982-72f3929ff1af",
+      "title": "Prediction: Costco Will Beat the S&P 500 Again",
+      "link": "https://finance.yahoo.com/m/91881155-547f-3bbb-a982-72f3929ff1af/prediction%3A-costco-will-beat.html",
+      "publisher": "Motley Fool",
+      "time": 1786812600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f0dfbbd0-a612-3a4e-b62e-41d884efa00c",
+      "title": "Ministry of Information & Broadcasting, Pakistan: The Morning After - An Independence Day Message",
+      "link": "https://finance.yahoo.com/economy/articles/ministry-information-broadcasting-pakistan-morning-164900900.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786812540,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
