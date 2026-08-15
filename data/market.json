@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T21:42:47.662730+00:00",
+  "updatedAt": "2026-08-15T22:13:46.002460+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,29 +52,60 @@
   ],
   "news": [
     {
-      "id": "9e4721df-c85d-3674-bf95-f083c755871e",
-      "title": "SpaceX Is Poised to Hit $220 by June 2027 (Hint: It's Not Too Late to Buy In)",
-      "link": "https://finance.yahoo.com/m/9e4721df-c85d-3674-bf95-f083c755871e/spacex-is-poised-to-hit-%24220.html",
-      "publisher": "Motley Fool",
-      "time": 1786829700,
+      "id": "f5c02315-435c-33f8-a948-71e02d93a3b5",
+      "title": "PFGC Q2 Deep Dive: Convenience and Procurement Initiatives Shape 2026 Results and Outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pfgc-q2-deep-dive-convenience-220500205.html",
+      "publisher": "StockStory",
+      "time": 1786831500,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     },
     {
-      "id": "dd9cc66a-bd97-326b-9db7-67bb6a49983b",
-      "title": "Berkshire Hathaway boosted stake in Alphabet, homebuilders in the second quarter",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-boosted-stake-alphabet-213123203.html",
-      "publisher": "Associated Press",
-      "time": 1786829483,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bf9debd9-ed94-3d86-9784-d71da8b6239c",
-      "title": "This ETF Got You Into SpaceX Before the IPO. Now That Anyone Can Buy the Stock, What’s It For?",
-      "link": "https://finance.yahoo.com/m/bf9debd9-ed94-3d86-9784-d71da8b6239c/this-etf-got-you-into-spacex.html",
+      "id": "ffb110cd-b3f9-3819-8395-75061df87146",
+      "title": "My mortgage payment is eating most of my paycheck – here’s what Dave Ramsey told me to do",
+      "link": "https://finance.yahoo.com/m/ffb110cd-b3f9-3819-8395-75061df87146/my-mortgage-payment-is-eating.html",
       "publisher": "24/7 Wall St.",
-      "time": 1786829434,
+      "time": 1786831273,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3a0be191-7a89-34e7-8a04-b31d0322c4ff",
+      "title": "TRMB Q2 Deep Dive: AI Momentum and Strategic Portfolio Review Shape Outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trmb-q2-deep-dive-ai-215700799.html",
+      "publisher": "StockStory",
+      "time": 1786831020,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "bd8e0806-a4f2-3235-a98d-7a68e1884c99",
+      "title": "Host Hotels (HST) Just Raised Its Outlook. Can Luxury Travel Keep Delivering?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/host-hotels-hst-just-raised-215502105.html",
+      "publisher": "Insider Monkey",
+      "time": 1786830902,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6b9e356e-3fd1-33c7-99f0-2f4bd39dc30a",
+      "title": "Palantir Makes Its Case Against Frontier AI",
+      "link": "https://finance.yahoo.com/m/6b9e356e-3fd1-33c7-99f0-2f4bd39dc30a/palantir-makes-its-case.html",
+      "publisher": "Motley Fool",
+      "time": 1786830619,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b47817f5-9e70-3a43-bc4d-7d0c5ee506d5",
+      "title": "5 Insightful Analyst Questions From EPAM’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-epam-214900917.html",
+      "publisher": "StockStory",
+      "time": 1786830540,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,75 +113,43 @@
       ]
     },
     {
-      "id": "1ee6930f-8a76-3f3d-88dc-d4736fd64cc9",
-      "title": "I’m 61 Years Old With $200,000 Saved for Retirement. What’s My Game Plan?",
-      "link": "https://finance.yahoo.com/m/1ee6930f-8a76-3f3d-88dc-d4736fd64cc9/i%E2%80%99m-61-years-old-with.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786829415,
+      "id": "8f7ab969-cf7a-369e-9c65-1a0f62c84ecd",
+      "title": "Palisades Village shopping center reopens, marking milestone for fire-weary community",
+      "link": "https://finance.yahoo.com/m/8f7ab969-cf7a-369e-9c65-1a0f62c84ecd/palisades-village-shopping.html",
+      "publisher": "LA Times",
+      "time": 1786830496,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0192cfe3-4634-3ba0-9716-175f8cb942ff",
-      "title": "Jim Cramer Said DoorDash, Inc. (NASDAQ:DASH) Was Shorted On Uber Which Was A Bad Trade",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-doordash-inc-212910159.html",
-      "publisher": "Insider Monkey",
-      "time": 1786829350,
+      "id": "3341f891-61c3-357e-8a2b-aa518fa72ac6",
+      "title": "The Top 5 Analyst Questions From ICF International’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-icf-214100182.html",
+      "publisher": "StockStory",
+      "time": 1786830060,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "98161309-7706-327e-88ae-40ea6187cb1d",
-      "title": "Breaking: PayPal Is “In Talks to Sell Itself” After Rejecting Stripe’s Initial $60.50 Bid in July",
-      "link": "https://finance.yahoo.com/m/98161309-7706-327e-88ae-40ea6187cb1d/breaking%3A-paypal-is-%E2%80%9Cin-talks.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786829325,
+      "id": "2ddc8c17-6126-35fc-b321-34d8ba4920ce",
+      "title": "PSG sign Belgian winger Godts from Ajax",
+      "link": "https://finance.yahoo.com/m/2ddc8c17-6126-35fc-b321-34d8ba4920ce/psg-sign-belgian-winger-godts.html",
+      "publisher": "AFP",
+      "time": 1786830006,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "53bd93ae-a555-3a3a-8188-e58b2b439548",
-      "title": "Jim Cramer Was Happy The Market “Cared” About D-Wave Quantum – But Not How You Think",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-happy-market-cared-212804288.html",
+      "id": "33916fbb-9f5b-390b-b165-51e38e24b544",
+      "title": "Jim Cramer Revealed What Went Wrong With Honeywell Aerospace Inc. (NASDAQ:HONA)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-revealed-went-wrong-213604620.html",
       "publisher": "Insider Monkey",
-      "time": 1786829284,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "77c77a90-0d52-3290-9ee2-de41bb72152b",
-      "title": "2 Reasons to Like CR and 1 to Stay Skeptical",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-cr-1-stay-212500219.html",
-      "publisher": "StockStory",
-      "time": 1786829100,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "f8a52e66-4456-3271-87e6-23a9a73e70f8",
-      "title": "Retiring Abroad? You May Not Be Able to Get Social Security Checks in These 9 Countries",
-      "link": "https://finance.yahoo.com/m/f8a52e66-4456-3271-87e6-23a9a73e70f8/retiring-abroad%3F-you-may-not.html",
-      "publisher": "Motley Fool",
-      "time": 1786828800,
+      "time": 1786829764,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "7b1b4074-ad01-38a1-8d69-39f450af8776",
-      "title": "3 Reasons to Sell PEBO and 1 Stock to Buy Instead",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-pebo-1-211700526.html",
-      "publisher": "StockStory",
-      "time": 1786828620,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
     }
   ],
   "errors": {
