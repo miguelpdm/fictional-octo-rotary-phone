@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T03:10:34.742733+00:00",
+  "updatedAt": "2026-08-15T04:02:10.726948+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -28,9 +28,9 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26440.3,
-      "change": 109.22999999999956,
-      "changePct": 0.4148331229987978,
+      "price": 26440.31,
+      "change": 109.2400000000016,
+      "changePct": 0.41487110094653046,
       "currency": "EUR"
     },
     {
@@ -52,11 +52,23 @@
   ],
   "news": [
     {
-      "id": "f4c814cb-9b5a-38a7-8c10-df55c5241120",
-      "title": "Eckert & Ziegler SE (XTER:EUZ) (Q2 2026) Earnings Call Highlights: Radiopharmaceuticals ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/eckert-ziegler-se-xter-euz-030341616.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786763021,
+      "id": "41ce8006-cb70-30cf-843c-4afc58070d59",
+      "title": "US, Canada face sticking points before 50% tariff deadline",
+      "link": "https://finance.yahoo.com/m/41ce8006-cb70-30cf-843c-4afc58070d59/us%2C-canada-face-sticking.html",
+      "publisher": "Investing.com",
+      "time": 1786765774,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "81b0a51a-659f-3b16-be30-c8a57b3cb837",
+      "title": "The 5 Most Interesting Analyst Questions From Progyny’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-034900087.html",
+      "publisher": "StockStory",
+      "time": 1786765740,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,11 +76,38 @@
       ]
     },
     {
-      "id": "7783c51c-41a8-3715-b8fa-75fa0c329330",
-      "title": "Dreamfolks Services Ltd (BOM:543591) (Q1 2027) Earnings Call Highlights: Revenue Plunges Amid ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dreamfolks-services-ltd-bom-543591-030320192.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786763000,
+      "id": "c7569cc1-9064-335d-9e03-229633d43e7a",
+      "title": "Taliban govt to mark five years ruling Afghanistan",
+      "link": "https://finance.yahoo.com/m/c7569cc1-9064-335d-9e03-229633d43e7a/taliban-govt-to-mark-five.html",
+      "publisher": "AFP",
+      "time": 1786765661,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "be7f99d5-65bb-3012-8056-349c108a62a1",
+      "title": "Berks food safety inspections found unclean vents, lacking sanitizer at restaurants",
+      "link": "https://finance.yahoo.com/m/be7f99d5-65bb-3012-8056-349c108a62a1/berks-food-safety-inspections.html",
+      "publisher": "Reading Eagle, Pa.",
+      "time": 1786765560,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "dc908f12-f320-3e49-8027-110aac7625d4",
+      "title": "Arista Networks vs. International Business Machines: Which Technology Stock Is a Better Buy in 2026?",
+      "link": "https://finance.yahoo.com/m/dc908f12-f320-3e49-8027-110aac7625d4/arista-networks-vs..html",
+      "publisher": "Motley Fool",
+      "time": 1786765502,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7d1b3950-5776-3085-b7d8-c5966034f899",
+      "title": "5 Insightful Analyst Questions From LifeStance Health Group’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/healthcare/articles/5-insightful-analyst-questions-lifestance-034100865.html",
+      "publisher": "StockStory",
+      "time": 1786765260,
       "impact": "medium",
       "tags": [
         "macro",
@@ -76,11 +115,20 @@
       ]
     },
     {
-      "id": "82f289bd-6623-3cfe-aa9e-b33ca64b23a3",
-      "title": "WidePoint Corp (WYY) (Q2 2026) Earnings Call Highlights: CWMS 3. ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/widepoint-corp-wyy-q2-2026-030319515.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786762999,
+      "id": "ef96b2bb-26d6-304d-b24e-8789c1fb4ce2",
+      "title": "Applied Optoelectronics (AAOI) Expected to Announce Business Updates Next Week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-expected-announce-033623370.html",
+      "publisher": "Insider Monkey",
+      "time": 1786764983,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b2b1ef78-461f-340f-8400-1227afbcc8f3",
+      "title": "5 Revealing Analyst Questions From AMN Healthcare Services’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-amn-033300547.html",
+      "publisher": "StockStory",
+      "time": 1786764780,
       "impact": "medium",
       "tags": [
         "macro",
@@ -88,11 +136,11 @@
       ]
     },
     {
-      "id": "99b4fe91-006d-34e0-9aa1-460ab3170475",
-      "title": "Foods & Inns Ltd (BOM:507552) (Q1 2027) Earnings Call Highlights: Navigating Export ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/foods-inns-ltd-bom-507552-030315725.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786762995,
+      "id": "4604c400-d75e-3f8f-91a5-434e1028531e",
+      "title": "The 5 Most Interesting Analyst Questions From ATI’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-032500574.html",
+      "publisher": "StockStory",
+      "time": 1786764300,
       "impact": "medium",
       "tags": [
         "macro",
@@ -100,76 +148,13 @@
       ]
     },
     {
-      "id": "073e6604-e25d-3fc2-a1d5-60e32c312817",
-      "title": "Greenpanel Industries Ltd (BOM:542857) (Q1 2027) Earnings Call Highlights: Margin Expansion and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/greenpanel-industries-ltd-bom-542857-030259479.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786762979,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e8c2776c-bbd2-360e-9b8f-af2dce2ef4fa",
-      "title": "Awfis Space Solutions Ltd (NSE:AWFIS) (Q1 2027) Earnings Call Highlights: Revenue Surges 27% to ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/awfis-space-solutions-ltd-nse-030257962.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786762977,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "3e1bf054-f8d8-3802-ab0c-fc70a9898baa",
-      "title": "Saga Communications Inc (SGA) (Q2 2026) Earnings Call Highlights: Digital Surge Offsets ...",
-      "link": "https://finance.yahoo.com/media-advertising/articles/saga-communications-inc-sga-q2-030255802.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786762975,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "8069d726-c8b6-3896-a2da-358cf16aeb79",
-      "title": "Himatsingka Seide Ltd (BOM:514043) (Q1 FY27) Earnings Call Highlights: Strategic Pivot to New ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/himatsingka-seide-ltd-bom-514043-030253985.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786762973,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a1e85806-e042-3734-bb9e-0c2ad590e1c9",
-      "title": "EQL Pharma AB (FRA:7JK) (Q1 2027) Earnings Call Highlights: Navigating Stockouts and Scrapping ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/eql-pharma-ab-fra-7jk-030237321.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786762957,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "871f6736-6b92-3817-920e-490aa25181f6",
-      "title": "Salzer Electronics Ltd (BOM:517059) (Q1 2027) Earnings Call Highlights: Revenue Climbs 13% but ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/salzer-electronics-ltd-bom-517059-030235486.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786762955,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "9f91d66a-092f-3f15-9baa-2cb7a3c5963d",
+      "title": "What Does Intuitive Machines (LUNR) Winning A Missile Defense Contract Mean?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/does-intuitive-machines-lunr-winning-031952277.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786763992,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
