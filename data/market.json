@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T06:26:11.048887+00:00",
+  "updatedAt": "2026-08-15T07:06:28.295875+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,11 +52,11 @@
   ],
   "news": [
     {
-      "id": "24694bbc-181c-339b-9aec-3c4606561ecd",
-      "title": "Clean Energy Fuels’s Q2 Earnings Call: Our Top 5 Analyst Questions",
-      "link": "https://finance.yahoo.com/energy/articles/clean-energy-fuels-q2-earnings-062100949.html",
+      "id": "a026a55c-f534-3e14-a4e6-e1782ad2b400",
+      "title": "The Top 5 Analyst Questions From AerSale’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-aersale-070100920.html",
       "publisher": "StockStory",
-      "time": 1786774860,
+      "time": 1786777260,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,11 +64,20 @@
       ]
     },
     {
-      "id": "6798e833-687d-3bad-b73c-a5383183ef7d",
-      "title": "The Top 5 Analyst Questions From Northern Oil and Gas’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-northern-061300597.html",
+      "id": "b6ae81d1-20a0-3c65-a927-533ab6f1ca9f",
+      "title": "Stolen Matisse works tied to infamous art thief in Brazil",
+      "link": "https://finance.yahoo.com/m/b6ae81d1-20a0-3c65-a927-533ab6f1ca9f/stolen-matisse-works-tied-to.html",
+      "publisher": "AFP",
+      "time": 1786777079,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2ae4ecda-52c4-39ca-ae04-832a1e10b931",
+      "title": "Krispy Kreme’s Q2 Earnings Call: Our Top 5 Analyst Questions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/krispy-kreme-q2-earnings-call-065300337.html",
       "publisher": "StockStory",
-      "time": 1786774380,
+      "time": 1786776780,
       "impact": "medium",
       "tags": [
         "macro",
@@ -76,11 +85,11 @@
       ]
     },
     {
-      "id": "b7661513-1069-32fa-9fa8-97ba8c284f54",
-      "title": "Why Xeris Biopharma Holdings (XERS) Is Up 8.4% After Tightening 2026 Revenue Guidance And Advancing XP-8121",
-      "link": "https://finance.yahoo.com/healthcare/articles/why-xeris-biopharma-holdings-xers-061158348.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786774318,
+      "id": "fc103e94-771e-3dca-9281-8b964217c80e",
+      "title": "Here's How Much Investing $10,000 in Oklo Stock at Its IPO Is Worth Today",
+      "link": "https://finance.yahoo.com/m/fc103e94-771e-3dca-9281-8b964217c80e/here%27s-how-much-investing.html",
+      "publisher": "Motley Fool",
+      "time": 1786776600,
       "impact": "medium",
       "tags": [
         "macro",
@@ -88,76 +97,66 @@
       ]
     },
     {
-      "id": "be4b1a64-035e-310e-94ad-0a37ac51b002",
-      "title": "Pfizer (PFE) Stock Looks Reasonable On Returns But Stretched On Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pfizer-pfe-stock-looks-reasonable-061157778.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786774317,
+      "id": "61d62936-5946-39de-a59a-8073a266a3e1",
+      "title": "China Is Moving Fast on AI. It’s Also Keeping It in Line.",
+      "link": "https://finance.yahoo.com/m/61d62936-5946-39de-a59a-8073a266a3e1/china-is-moving-fast-on-ai..html",
+      "publisher": "Barrons.com",
+      "time": 1786776300,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
     },
     {
-      "id": "59a39bc6-e8f5-373c-a037-9e213af2f87b",
-      "title": "EssilorLuxottica (ENXTPA:EL) Stock Could Be Trading At A Discount Following Its 39% Slump",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/essilorluxottica-enxtpa-el-stock-could-061156339.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786774316,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "370086e2-3fc3-3b3f-95ee-ba6fe46d5714",
-      "title": "MongoDB (MDB), What Is Behind The Latest Attention?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-behind-latest-attention-061137228.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786774297,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6317f8bc-e262-31b4-8bf8-9b2349127b94",
-      "title": "Kontoor Brands (KTB) Stock Sees Modest Fair Value Lift After Lee Sale And Q2 Update",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kontoor-brands-ktb-stock-sees-061123740.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786774283,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4c48c01f-d50d-3a84-be2a-58e8f1dd6533",
-      "title": "Guidewire’s New Qusar AI Agent Framework Might Change The Case For Investing In GWRE",
-      "link": "https://finance.yahoo.com/technology/ai/articles/guidewire-qusar-ai-agent-framework-061113843.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786774273,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4889f46d-4d18-3903-8039-ab6d85fe017a",
-      "title": "Hawaiian Electric Industries (HE) Earnings Put Its Undervalued Narrative Back In Focus",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hawaiian-electric-industries-earnings-put-061109618.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786774269,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "0782561a-8d0a-3230-a6f1-c56fbb805841",
-      "title": "The Top 5 Analyst Questions From Halozyme Therapeutics’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-halozyme-060500441.html",
+      "id": "aea83493-fd1b-3f39-9d80-f70c6d01f3b1",
+      "title": "5 Must-Read Analyst Questions From Unity’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-064500065.html",
       "publisher": "StockStory",
-      "time": 1786773900,
+      "time": 1786776300,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
+    },
+    {
+      "id": "10caf08e-a418-3050-96df-00d6192aa9f6",
+      "title": "5 Insightful Analyst Questions From Gevo’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-gevo-063700710.html",
+      "publisher": "StockStory",
+      "time": 1786775820,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b732d594-e8a2-3823-baec-27601b967ce7",
+      "title": "Cornell researchers found a way to spot future hits before they become popular",
+      "link": "https://finance.yahoo.com/m/b732d594-e8a2-3823-baec-27601b967ce7/cornell-researchers-found-a.html",
+      "publisher": "Digital Trends",
+      "time": 1786775579,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1003f774-be3c-3bc7-8c04-33fa537e84ab",
+      "title": "ADNOC vessel attacked in Hormuz as Trump defends extended carrier deployment",
+      "link": "https://finance.yahoo.com/m/1003f774-be3c-3bc7-8c04-33fa537e84ab/adnoc-vessel-attacked-in.html",
+      "publisher": "Investing.com",
+      "time": 1786775578,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9f4b7c5b-1246-38b7-b9b2-60c21360b6e3",
+      "title": "Inside Poland’s Push to Become Europe’s Next AI Powerhouse",
+      "link": "https://finance.yahoo.com/m/9f4b7c5b-1246-38b7-b9b2-60c21360b6e3/inside-poland%E2%80%99s-push-to.html",
+      "publisher": "Barrons.com",
+      "time": 1786775400,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
