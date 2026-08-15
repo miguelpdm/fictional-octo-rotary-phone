@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T19:42:59.794535+00:00",
+  "updatedAt": "2026-08-15T20:14:57.943883+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,56 +52,31 @@
   ],
   "news": [
     {
-      "id": "b19239b0-9b09-3ba0-be3f-a8327f5b279a",
-      "title": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-talks-invest-3-billion-193826586.html",
-      "publisher": "Reuters",
-      "time": 1786822706,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7cc165f8-8482-3f6f-b17e-612f20d6d410",
-      "title": "The Anti-AI ETF Is Here, and Its Biggest Holdings Are Engines, Trucks and Air Conditioners",
-      "link": "https://finance.yahoo.com/m/7cc165f8-8482-3f6f-b17e-612f20d6d410/the-anti-ai-etf-is-here%2C-and.html",
+      "id": "f9e60880-6bca-3392-9453-903621e1a3b2",
+      "title": "XMAG Is Outperforming the S&P 500 in 2026 as the Magnificent Seven Stall",
+      "link": "https://finance.yahoo.com/m/f9e60880-6bca-3392-9453-903621e1a3b2/xmag-is-outperforming-the-s%26p.html",
       "publisher": "24/7 Wall St.",
-      "time": 1786822556,
+      "time": 1786824304,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "622d3e69-1948-33ff-a25a-8dc53820e092",
-      "title": "Man Utd beaten by former boss Amorim's AC Milan in friendly finale",
-      "link": "https://finance.yahoo.com/m/622d3e69-1948-33ff-a25a-8dc53820e092/man-utd-beaten-by-former-boss.html",
-      "publisher": "AFP",
-      "time": 1786822263,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "91e063a9-c371-34a2-856a-b37487e43e8a",
-      "title": "Fernandez booed by Chelsea fans in friendly win over Sociedad",
-      "link": "https://finance.yahoo.com/m/91e063a9-c371-34a2-856a-b37487e43e8a/fernandez-booed-by-chelsea.html",
-      "publisher": "AFP",
-      "time": 1786821938,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d4f21396-05a4-326e-9ce7-a5ba2452d141",
-      "title": "A $500,000 IRA Went Through Probate Instead of to the Kids, Because of a Beneficiary Form From 1998.",
-      "link": "https://finance.yahoo.com/m/d4f21396-05a4-326e-9ce7-a5ba2452d141/a-%24500%2C000-ira-went-through.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786821934,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6d60b20f-3830-32c8-93f5-0df7c7ef8021",
-      "title": "Unpacking Q2 Earnings: Barrett (NASDAQ:BBSI) In The Context Of Other Professional Staffing & HR Solutions Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/unpacking-q2-earnings-barrett-nasdaq-192500873.html",
+      "id": "0371bc34-fb06-30b1-9803-807e044cbb47",
+      "title": "IT Services & Consulting Stocks Q2 In Review: Accenture (NYSE:ACN) Vs Peers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/services-consulting-stocks-q2-review-200500015.html",
       "publisher": "StockStory",
-      "time": 1786821900,
+      "time": 1786824300,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "723b3cd1-72ee-3bb3-b6a3-895971c6c09e",
+      "title": "Major ice cream brand files Chapter 11 bankruptcy after lawsuit",
+      "link": "https://finance.yahoo.com/m/723b3cd1-72ee-3bb3-b6a3-895971c6c09e/major-ice-cream-brand-files.html",
+      "publisher": "TheStreet",
+      "time": 1786824009,
       "impact": "medium",
       "tags": [
         "macro",
@@ -109,38 +84,72 @@
       ]
     },
     {
-      "id": "df86a486-4076-30d8-a2fc-926aa7cc58ab",
-      "title": "He Spent His 60s Quietly Moving His IRA Into a Roth. At 73, When the IRS Showed Up to Dictate His Withdrawals, There Was Nothing Left to Tax",
-      "link": "https://finance.yahoo.com/m/df86a486-4076-30d8-a2fc-926aa7cc58ab/he-spent-his-60s-quietly.html",
+      "id": "e4efb1b0-22cf-368d-9d21-54cf1b9bad06",
+      "title": "Spotting Winners: ESAB (NYSE:ESAB) And Professional Tools and Equipment Stocks In Q2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spotting-winners-esab-nyse-esab-195700278.html",
+      "publisher": "StockStory",
+      "time": 1786823820,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "27d86934-51a7-3bf8-8cdb-71db11b7250a",
+      "title": "Don’t Replace Your Bond Fund With SECU Until You Read This",
+      "link": "https://finance.yahoo.com/m/27d86934-51a7-3bf8-8cdb-71db11b7250a/don%E2%80%99t-replace-your-bond-fund.html",
       "publisher": "24/7 Wall St.",
-      "time": 1786821822,
+      "time": 1786823726,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3dcce541-3d2c-3b25-b82c-65b69c2d76be",
-      "title": "Delaying Social Security Until Age 70 Isn’t Always the Best Choice. Here’s When Claiming Early Wins",
-      "link": "https://finance.yahoo.com/m/3dcce541-3d2c-3b25-b82c-65b69c2d76be/delaying-social-security.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786821809,
+      "id": "60bca792-9e18-36f6-9f99-31b121b762bd",
+      "title": "Free-speech group pushes back against RTD board member's statement",
+      "link": "https://finance.yahoo.com/m/60bca792-9e18-36f6-9f99-31b121b762bd/free-speech-group-pushes-back.html",
+      "publisher": "Lodi News-Sentinel, Calif.",
+      "time": 1786823640,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4d0214a1-919a-3721-bf6c-5c910631cb3d",
-      "title": "Ocala Is Quietly Becoming Florida’s Retirement Capital and Homes Are Still Under $300,000",
-      "link": "https://finance.yahoo.com/m/4d0214a1-919a-3721-bf6c-5c910631cb3d/ocala-is-quietly-becoming.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786821791,
+      "id": "aca5b957-d4e2-370c-a0dc-45ddc9bc4207",
+      "title": "POLITICAL ROUNDUP: Congressional Republicans haul Fauci before HSGA panel",
+      "link": "https://finance.yahoo.com/m/aca5b957-d4e2-370c-a0dc-45ddc9bc4207/political-roundup%3A.html",
+      "publisher": "Tahlequah Daily Press, Okla.",
+      "time": 1786823520,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e1bceb7d-0c91-3467-972f-84383fd5192e",
-      "title": "Elon Musk Says SpaceX Has a Massive Competitive Advantage in AI That Amazon, Google, and Microsoft Can't Touch",
-      "link": "https://finance.yahoo.com/m/e1bceb7d-0c91-3467-972f-84383fd5192e/elon-musk-says-spacex-has-a.html",
-      "publisher": "Motley Fool",
-      "time": 1786821780,
+      "id": "518cc373-f597-37fe-80bf-ab5f05e2cef6",
+      "title": "Business Process Outsourcing & Consulting Stocks Q2 Teardown: Genpact (NYSE:G) Vs The Rest",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/business-process-outsourcing-consulting-stocks-194900014.html",
+      "publisher": "StockStory",
+      "time": 1786823340,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "b8924099-c6b2-3b8a-8c7b-c28bc9bb87cc",
+      "title": "Spotting Winners: BankUnited (NYSE:BKU) And Regional Banks Stocks In Q2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spotting-winners-bankunited-nyse-bku-194100748.html",
+      "publisher": "StockStory",
+      "time": 1786822860,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b19239b0-9b09-3ba0-be3f-a8327f5b279a",
+      "title": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-talks-invest-3-billion-193826586.html",
+      "publisher": "Reuters",
+      "time": 1786822706,
       "impact": "low",
       "tags": []
     }
