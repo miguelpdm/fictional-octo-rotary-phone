@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T11:13:50.461115+00:00",
+  "updatedAt": "2026-08-15T11:42:05.618047+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,38 +52,11 @@
   ],
   "news": [
     {
-      "id": "785e4378-40b3-3fcd-bec4-2494302c1ded",
-      "title": "Sundar Pichai's Alphabet Reported Negative Free Cash Flow for the First Time Ever. Here's Why That Milestone Matters for Shareholders.",
-      "link": "https://finance.yahoo.com/m/785e4378-40b3-3fcd-bec4-2494302c1ded/sundar-pichai%27s-alphabet.html",
-      "publisher": "Motley Fool",
-      "time": 1786791900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b568d585-b717-3ef6-9e3c-31d8fc6f372d",
-      "title": "BofA points to crucial Walmart numbers most investors ignore",
-      "link": "https://finance.yahoo.com/m/b568d585-b717-3ef6-9e3c-31d8fc6f372d/bofa-points-to-crucial.html",
-      "publisher": "TheStreet",
-      "time": 1786791780,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ca6b5103-2804-36fa-b357-68a937aa260e",
-      "title": "He Bought a $50,000 Baseball Card Through His IRA. The IRS Called It a Withdrawal and Taxed More of His Social Security.",
-      "link": "https://finance.yahoo.com/m/ca6b5103-2804-36fa-b357-68a937aa260e/he-bought-a-%2450%2C000-baseball.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786791751,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "63e93cc5-676c-3f60-a545-9fd4298116e3",
-      "title": "The 5 Most Interesting Analyst Questions From Xponential Fitness’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-110100003.html",
+      "id": "83115a0f-7d99-3bdd-8c8a-8cc3baca9685",
+      "title": "5 Insightful Analyst Questions From Frontdoor’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-frontdoor-113300605.html",
       "publisher": "StockStory",
-      "time": 1786791660,
+      "time": 1786793580,
       "impact": "medium",
       "tags": [
         "macro",
@@ -91,53 +64,38 @@
       ]
     },
     {
-      "id": "937892ea-0787-3208-9ba8-470167c729f1",
-      "title": "3 Cloud Computing Stocks to Buy in August",
-      "link": "https://finance.yahoo.com/m/937892ea-0787-3208-9ba8-470167c729f1/3-cloud-computing-stocks-to.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786791626,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "e2376385-65bb-3964-babf-85ba7a79c4c5",
-      "title": "3 Under-the-Radar Chip Stocks Wall Street Is Sleeping On in August",
-      "link": "https://finance.yahoo.com/m/e2376385-65bb-3964-babf-85ba7a79c4c5/3-under-the-radar-chip-stocks.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786791626,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "c12df5ec-790e-388b-8d12-ea19c7232c21",
-      "title": "5 Safe High-Yield Stocks Boomers Should Own in August",
-      "link": "https://finance.yahoo.com/m/c12df5ec-790e-388b-8d12-ea19c7232c21/5-safe-high-yield-stocks.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786791625,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "8166e601-ee21-32cb-b7da-9da6b4027235",
-      "title": "Amazon has $70 leather sandals that 'feel like walking on clouds' for 64% off",
-      "link": "https://finance.yahoo.com/m/8166e601-ee21-32cb-b7da-9da6b4027235/amazon-has-%2470-leather.html",
-      "publisher": "TheStreet",
-      "time": 1786791600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f1f744b5-eb5e-352c-974f-78581a9117c6",
-      "title": "This $69 pair of toilet shoes is designed specifically for using the bathroom — and they're selling out",
-      "link": "https://finance.yahoo.com/small-business/articles/69-pair-toilet-shoes-designed-110000878.html",
+      "id": "f99e0a2f-1c04-3b41-808c-669ea7c8f150",
+      "title": "Retirees with $2.5 million want to pay off their $200K mortgage — but a hidden tax hit could cost them $60K",
+      "link": "https://finance.yahoo.com/markets/articles/retirees-2-5-million-want-113000536.html",
       "publisher": "Moneywise",
-      "time": 1786791600,
+      "time": 1786793400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b6ff08a1-a52e-3258-adc9-17c392f3a1ad",
+      "title": "Hasbro Exec Rolled a \"1\" on Video Games -- and Lost His Job",
+      "link": "https://finance.yahoo.com/m/b6ff08a1-a52e-3258-adc9-17c392f3a1ad/hasbro-exec-rolled-a-%221%22-on.html",
+      "publisher": "Motley Fool",
+      "time": 1786793220,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1c618af0-07d6-3cc8-8d7a-93ea445cdb3e",
+      "title": "AppLovin’s Real Problem Isn’t Revenue – It’s How the Growth Engine Actually Works",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/applovin-real-problem-isn-t-112602774.html",
+      "publisher": "Insider Monkey",
+      "time": 1786793162,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "54a4220b-5de1-3845-b876-ad38a2a02785",
+      "title": "5 Revealing Analyst Questions From Collegium Pharmaceutical’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/healthcare/articles/5-revealing-analyst-questions-collegium-112500981.html",
+      "publisher": "StockStory",
+      "time": 1786793100,
       "impact": "medium",
       "tags": [
         "macro",
@@ -145,13 +103,52 @@
       ]
     },
     {
-      "id": "0c67557a-a34e-39f3-90e0-4dcac99842db",
-      "title": "Social Security Is in Dire Straits, Thanks in Part to President Donald Trump, but Taxing the Rich Won't Fix the Problem",
-      "link": "https://finance.yahoo.com/m/0c67557a-a34e-39f3-90e0-4dcac99842db/social-security-is-in-dire.html",
+      "id": "68452797-f976-32d5-80c3-511e4d8f3a44",
+      "title": "IYF vs. FNCL: Which Financials ETF Is the Better Buy?",
+      "link": "https://finance.yahoo.com/m/68452797-f976-32d5-80c3-511e4d8f3a44/iyf-vs.-fncl%3A-which.html",
       "publisher": "Motley Fool",
-      "time": 1786791360,
+      "time": 1786792862,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "22aaa35f-e1ab-31ec-9a82-6367f1980f52",
+      "title": "Aizen Enters into Collaboration with San Diego Biopharma to Advance Oral Biologics",
+      "link": "https://finance.yahoo.com/healthcare/articles/aizen-enters-collaboration-san-diego-112000794.html",
+      "publisher": "PR Newswire",
+      "time": 1786792800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f8a2c219-97d7-3466-a0c5-2eeb30d33e9c",
+      "title": "Will SpaceX Be the First Company to Hit $1 Trillion in Revenue? Here's What the Math Says.",
+      "link": "https://finance.yahoo.com/m/f8a2c219-97d7-3466-a0c5-2eeb30d33e9c/will-spacex-be-the-first.html",
+      "publisher": "Motley Fool",
+      "time": 1786792800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "42d8a563-67f6-3720-a347-aa9c2259382c",
+      "title": "Earthquake rocks Spain's tourist jewel Granada",
+      "link": "https://finance.yahoo.com/m/42d8a563-67f6-3720-a347-aa9c2259382c/earthquake-rocks-spain%27s.html",
+      "publisher": "AFP",
+      "time": 1786792652,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e038e834-c0de-3ad8-b344-0feb93c60aee",
+      "title": "5 Must-Read Analyst Questions From Instacart’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-111700862.html",
+      "publisher": "StockStory",
+      "time": 1786792620,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
