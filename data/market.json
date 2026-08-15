@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T17:14:49.281986+00:00",
+  "updatedAt": "2026-08-15T17:43:09.233730+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,82 +52,60 @@
   ],
   "news": [
     {
-      "id": "533f683d-6e87-389e-9fe8-61a61604e362",
-      "title": "The Top 5 Analyst Questions From QuinStreet’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-quinstreet-170900770.html",
-      "publisher": "StockStory",
-      "time": 1786813740,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "1c3d09af-eb27-39df-9348-1a35471fc64f",
+      "title": "Despite booming economy, young Moroccans still dream of Europe",
+      "link": "https://finance.yahoo.com/m/1c3d09af-eb27-39df-9348-1a35471fc64f/despite-booming-economy%2C.html",
+      "publisher": "AFP",
+      "time": 1786815313,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "059d8c44-bb09-35cd-9773-beacd35aa146",
-      "title": "Jim Cramer reveals 6 AI stocks to watch in 2026",
-      "link": "https://finance.yahoo.com/m/059d8c44-bb09-35cd-9773-beacd35aa146/jim-cramer-reveals-6-ai.html",
-      "publisher": "TheStreet",
-      "time": 1786813620,
+      "id": "a5689116-0b55-347b-860c-138e8190d012",
+      "title": "EAT Q2 Deep Dive: Menu Innovation and Operational Efficiency Drive Momentum",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/eat-q2-deep-dive-menu-173300658.html",
+      "publisher": "StockStory",
+      "time": 1786815180,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "259c5d58-0585-3cf9-bb8a-bf02b3aff28e",
-      "title": "UK PM urges 'reflection' after Cambridge professor's death",
-      "link": "https://finance.yahoo.com/m/259c5d58-0585-3cf9-bb8a-bf02b3aff28e/uk-pm-urges-%27reflection%27.html",
-      "publisher": "AFP",
-      "time": 1786813587,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1968f8b5-db3a-34ef-b08d-687abffb7bb0",
-      "title": "The 5 Most Interesting Analyst Questions From Cable One’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-170100560.html",
-      "publisher": "StockStory",
-      "time": 1786813260,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "19f1c8bd-150c-35c6-803a-fb3bb85989b1",
-      "title": "Mastercard vs. Visa: One Fintech Giant Has the Stronger Growth Story",
-      "link": "https://finance.yahoo.com/m/19f1c8bd-150c-35c6-803a-fb3bb85989b1/mastercard-vs.-visa%3A-one.html",
+      "id": "da53b8ef-d619-3b5f-8ef8-09f12ec94333",
+      "title": "Social Security Pays the Average Couple $3,120 a Month. Here’s the Portfolio It Takes to Match It.",
+      "link": "https://finance.yahoo.com/m/da53b8ef-d619-3b5f-8ef8-09f12ec94333/social-security-pays-the.html",
       "publisher": "24/7 Wall St.",
-      "time": 1786813229,
+      "time": 1786815161,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c293d75d-fc35-3969-88d5-d0bc64a27c89",
-      "title": "Groupon's $199 mystery vacations give only 6 out of every 2,000 buyers a gold-tier trip — the rest get weekend getaways.",
-      "link": "https://finance.yahoo.com/small-business/articles/groupons-199-mystery-vacations-only-170000729.html",
-      "publisher": "Moneywise",
-      "time": 1786813200,
+      "id": "fcb92756-5674-49cb-9bd4-ec356d2bf9fd",
+      "title": "The market for older condos is cratering as buyers shun rising HOA fees",
+      "link": "https://finance.yahoo.com/real-estate/article/the-market-for-older-condos-is-cratering-as-buyers-shun-rising-hoa-fees-172954085.html",
+      "publisher": "Yahoo Finance",
+      "time": 1786814994,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "f21d70e3-2070-3781-8446-129faeec50c1",
+      "title": "NCC's Executive Director and Psychometrician Bresney Fanning Assumes Presidency of the American Board of Nursing Specialties (ABNS)",
+      "link": "https://finance.yahoo.com/healthcare/articles/nccs-executive-director-psychometrician-bresney-172900745.html",
+      "publisher": "PR Newswire",
+      "time": 1786814940,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1febee81-0d9c-37d6-abff-b8593fcca50e",
-      "title": "Which Is the Better Short-Term Bond ETF, Vanguard's VTES or VanEck's SMB?",
-      "link": "https://finance.yahoo.com/m/1febee81-0d9c-37d6-abff-b8593fcca50e/which-is-the-better.html",
-      "publisher": "Motley Fool",
-      "time": 1786812883,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "991704bf-e854-3555-86fd-38b49c56a165",
-      "title": "Sabre’s Q2 Earnings Call: Our Top 5 Analyst Questions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sabre-q2-earnings-call-top-165300837.html",
+      "id": "83a87c3a-74a0-3a90-bba3-42463f15c7ee",
+      "title": "The Top 5 Analyst Questions From CRA’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-cra-172500726.html",
       "publisher": "StockStory",
-      "time": 1786812780,
+      "time": 1786814700,
       "impact": "medium",
       "tags": [
         "macro",
@@ -135,20 +113,44 @@
       ]
     },
     {
-      "id": "91881155-547f-3bbb-a982-72f3929ff1af",
-      "title": "Prediction: Costco Will Beat the S&P 500 Again",
-      "link": "https://finance.yahoo.com/m/91881155-547f-3bbb-a982-72f3929ff1af/prediction%3A-costco-will-beat.html",
-      "publisher": "Motley Fool",
-      "time": 1786812600,
+      "id": "ce88655b-0875-39e3-bf0c-0550a00ea834",
+      "title": "Lebanon reports 11 dead in strikes that Israel says targeted Hezbollah",
+      "link": "https://finance.yahoo.com/m/ce88655b-0875-39e3-bf0c-0550a00ea834/lebanon-reports-11-dead-in.html",
+      "publisher": "AFP",
+      "time": 1786814327,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f0dfbbd0-a612-3a4e-b62e-41d884efa00c",
-      "title": "Ministry of Information & Broadcasting, Pakistan: The Morning After - An Independence Day Message",
-      "link": "https://finance.yahoo.com/economy/articles/ministry-information-broadcasting-pakistan-morning-164900900.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786812540,
+      "id": "3b397958-c519-3d37-b895-b621d767b4b6",
+      "title": "5 Must-Read Analyst Questions From Cogent’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-171700606.html",
+      "publisher": "StockStory",
+      "time": 1786814220,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "ccab2ea6-d5a4-3233-92ba-0dc52a5f19ab",
+      "title": "Pace International's $120K tariff refund becomes bonuses for employees",
+      "link": "https://finance.yahoo.com/m/ccab2ea6-d5a4-3233-92ba-0dc52a5f19ab/pace-international%27s-%24120k.html",
+      "publisher": "Post-Bulletin, Rochester, Minn.",
+      "time": 1786814220,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "18a3b468-c17b-3497-af31-47ad57348928",
+      "title": "Is Bitcoin a Buy at $63,000? We Asked 3 AI Models",
+      "link": "https://finance.yahoo.com/m/18a3b468-c17b-3497-af31-47ad57348928/is-bitcoin-a-buy-at-%2463%2C000%3F.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786814065,
       "impact": "low",
       "tags": []
     }
