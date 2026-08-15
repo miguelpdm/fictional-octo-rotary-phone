@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T09:19:37.322898+00:00",
+  "updatedAt": "2026-08-15T09:48:17.760070+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,11 +52,20 @@
   ],
   "news": [
     {
-      "id": "70e90257-0b80-3a55-9a6a-50a9e7303ae6",
-      "title": "The Top 5 Analyst Questions From MACOM’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-macom-091700502.html",
+      "id": "f60473be-a98d-3ec6-a1c7-d0e46fb4b95a",
+      "title": "Disney reveals 'X-Men' cast, slate of sequels at D23 fan event",
+      "link": "https://finance.yahoo.com/m/f60473be-a98d-3ec6-a1c7-d0e46fb4b95a/disney-reveals-%27x-men%27-cast%2C.html",
+      "publisher": "AFP",
+      "time": 1786786962,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ee352ebd-5edd-3b9f-9df6-df428626ccc9",
+      "title": "5 Insightful Analyst Questions From Airbnb’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-airbnb-094100233.html",
       "publisher": "StockStory",
-      "time": 1786785420,
+      "time": 1786786860,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,11 +73,38 @@
       ]
     },
     {
-      "id": "bc26b548-d3ac-3ae5-a505-403302e4c114",
-      "title": "5 Revealing Analyst Questions From Artivion’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/healthcare/articles/5-revealing-analyst-questions-artivion-090900092.html",
+      "id": "6e0b1a83-60ec-3711-b672-6bc5395221e6",
+      "title": "Is It Too Late to Buy Ondas Stock?",
+      "link": "https://finance.yahoo.com/m/6e0b1a83-60ec-3711-b672-6bc5395221e6/is-it-too-late-to-buy-ondas.html",
+      "publisher": "Motley Fool",
+      "time": 1786786500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "32150dae-19ed-34c2-82ff-ec5092bf836e",
+      "title": "Jensen Huang Explained $500 Billion of Wall Street Money in Five Words",
+      "link": "https://finance.yahoo.com/m/32150dae-19ed-34c2-82ff-ec5092bf836e/jensen-huang-explained-%24500.html",
+      "publisher": "Motley Fool",
+      "time": 1786786440,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1748e365-6390-3e33-bc89-c8ed48ac7c1e",
+      "title": "Indonesia rescuers search for survivors as quake death toll rises to 38",
+      "link": "https://finance.yahoo.com/m/1748e365-6390-3e33-bc89-c8ed48ac7c1e/indonesia-rescuers-search-for.html",
+      "publisher": "AFP",
+      "time": 1786786382,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "17009f93-5ae3-31ee-a351-3d5405909b19",
+      "title": "5 Must-Read Analyst Questions From MDU Resources’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-093300761.html",
       "publisher": "StockStory",
-      "time": 1786784940,
+      "time": 1786786380,
       "impact": "medium",
       "tags": [
         "macro",
@@ -76,82 +112,60 @@
       ]
     },
     {
-      "id": "51758d4b-9c3f-3191-954f-0d824629ac1f",
-      "title": "Nvidia Stock Investors Just Got Good News From SpaceX. Wall Street Says It's Time to Buy.",
-      "link": "https://finance.yahoo.com/m/51758d4b-9c3f-3191-954f-0d824629ac1f/nvidia-stock-investors-just.html",
-      "publisher": "Motley Fool",
-      "time": 1786784880,
+      "id": "6cabc88f-5893-3e96-b911-45bcd85bd62f",
+      "title": "The toolbelt is becoming Gen Z's career flex",
+      "link": "https://finance.yahoo.com/m/6cabc88f-5893-3e96-b911-45bcd85bd62f/the-toolbelt-is-becoming-gen.html",
+      "publisher": "Axios",
+      "time": 1786786205,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "02b80d48-50f4-3ac9-a921-03ad97d32e82",
-      "title": "Puzzle solutions for Saturday, Aug. 15, 2026",
-      "link": "https://finance.yahoo.com/m/02b80d48-50f4-3ac9-a921-03ad97d32e82/puzzle-solutions-for.html",
-      "publisher": "USA TODAY",
-      "time": 1786784870,
+      "id": "3334864f-81c3-3ba2-9e7a-4d3c5d13efd3",
+      "title": "'You have absolutely no expenses': Suze Orman says the perks your job quietly covers could blow up your retirement math",
+      "link": "https://finance.yahoo.com/small-business/articles/absolutely-no-expenses-suze-orman-093000555.html",
+      "publisher": "Moneywise",
+      "time": 1786786200,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7c24f58a-ff1a-3fda-956f-66e25bd7509e",
-      "title": "Demand for Chips Shows No Signs of Slowing. Is Taiwan Semiconductor Too Expensive Now?",
-      "link": "https://finance.yahoo.com/m/7c24f58a-ff1a-3fda-956f-66e25bd7509e/demand-for-chips-shows-no.html",
+      "id": "55eef5bb-e02e-35e2-8121-3815ac42cb96",
+      "title": "Best Vacation Packages (2026): Westgate Resorts Ranked Top All-Inclusive Choice for Family Travel by Consumer365",
+      "link": "https://finance.yahoo.com/media-advertising/articles/best-vacation-packages-2026-westgate-093000014.html",
+      "publisher": "PR Newswire",
+      "time": 1786786200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7b963fbd-2e1e-3ea1-af73-52e14093fcd8",
+      "title": "AI in Dentistry: Will Robots Replace Your Dentist?",
+      "link": "https://finance.yahoo.com/m/7b963fbd-2e1e-3ea1-af73-52e14093fcd8/ai-in-dentistry%3A-will-robots.html",
+      "publisher": " TheStreet",
+      "time": 1786786180,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9098eee1-efee-3b7f-bc4c-758a5bd7315f",
+      "title": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
+      "link": "https://finance.yahoo.com/technology/ai/articles/us-presses-apple-avoid-chinese-092522511.html",
+      "publisher": "Investing.com",
+      "time": 1786785922,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "41e0da75-d490-3414-b1af-75f13792fda5",
+      "title": "2 Tech Dividend Stocks That Offer High Yields and Payout Growth",
+      "link": "https://finance.yahoo.com/m/41e0da75-d490-3414-b1af-75f13792fda5/2-tech-dividend-stocks-that.html",
       "publisher": "Motley Fool",
-      "time": 1786784760,
-      "impact": "medium",
+      "time": 1786785900,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "ae3be51f-0495-3c3c-b715-00291653746f",
-      "title": "Up Over 35% Since Aug. 3, Is it Too Late to Buy Palantir Stock?",
-      "link": "https://finance.yahoo.com/m/ae3be51f-0495-3c3c-b715-00291653746f/up-over-35%25-since-aug.-3%2C-is.html",
-      "publisher": "Motley Fool",
-      "time": 1786784700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5927ea80-a944-3553-80c4-7d501f72b970",
-      "title": "Trump faces mounting GOP pressure to exit Iran war as midterms near",
-      "link": "https://finance.yahoo.com/m/5927ea80-a944-3553-80c4-7d501f72b970/trump-faces-mounting-gop.html",
-      "publisher": "USA TODAY",
-      "time": 1786784639,
-      "impact": "high",
-      "tags": [
-        "geo",
         "macro"
       ]
-    },
-    {
-      "id": "a4362bd7-674e-3a6d-8622-a6351d8b3f6c",
-      "title": "Eclipse show, Amelia Earhart's plane, tears for Jackie: Week in review",
-      "link": "https://finance.yahoo.com/m/a4362bd7-674e-3a6d-8622-a6351d8b3f6c/eclipse-show%2C-amelia.html",
-      "publisher": "USA TODAY",
-      "time": 1786784582,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2b8acc80-0b3e-3cb3-8b17-1bda9e87420f",
-      "title": "Tesla recalls 20,000 vehicles over issue every driver hates",
-      "link": "https://finance.yahoo.com/m/2b8acc80-0b3e-3cb3-8b17-1bda9e87420f/tesla-recalls-20%2C000-vehicles.html",
-      "publisher": "TheStreet",
-      "time": 1786784580,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "630d06ec-9257-346f-898d-a087914e85cc",
-      "title": "Half of workers fear they will never fully retire",
-      "link": "https://finance.yahoo.com/m/630d06ec-9257-346f-898d-a087914e85cc/half-of-workers-fear-they.html",
-      "publisher": "USA TODAY",
-      "time": 1786784574,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
