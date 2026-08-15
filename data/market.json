@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T13:49:50.726925+00:00",
+  "updatedAt": "2026-08-15T14:15:39.804151+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,38 +52,29 @@
   ],
   "news": [
     {
-      "id": "1748e365-6390-3e33-bc89-c8ed48ac7c1e",
-      "title": "Rescuers search for survivors as Indonesian quake death toll rises to 47",
-      "link": "https://finance.yahoo.com/m/1748e365-6390-3e33-bc89-c8ed48ac7c1e/rescuers-search-for-survivors.html",
+      "id": "ce88655b-0875-39e3-bf0c-0550a00ea834",
+      "title": "Lebanon reports 11 dead in strikes that Israel says targeted Hezbollah",
+      "link": "https://finance.yahoo.com/m/ce88655b-0875-39e3-bf0c-0550a00ea834/lebanon-reports-11-dead-in.html",
       "publisher": "AFP",
-      "time": 1786801139,
+      "time": 1786802851,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5572c1b1-8265-3eb8-81af-3d9da0c086a4",
-      "title": "Prediction: Nvidia Stock Will Hit $300 Before 2026 Is Over",
-      "link": "https://finance.yahoo.com/m/5572c1b1-8265-3eb8-81af-3d9da0c086a4/prediction%3A-nvidia-stock-will.html",
-      "publisher": "Motley Fool",
-      "time": 1786800900,
+      "id": "39c26383-4713-3afa-9526-03bc1ccf1efd",
+      "title": "Insta360 just made its flagship 360 camera seriously hard to ignore",
+      "link": "https://finance.yahoo.com/m/39c26383-4713-3afa-9526-03bc1ccf1efd/insta360-just-made-its.html",
+      "publisher": "Digital Trends",
+      "time": 1786802678,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3b1c58cd-5a37-336b-afb5-d098321bbdce",
-      "title": "Discontinued Costco member favorite returns to shelves",
-      "link": "https://finance.yahoo.com/m/3b1c58cd-5a37-336b-afb5-d098321bbdce/discontinued-costco-member.html",
-      "publisher": "TheStreet",
-      "time": 1786800780,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4b47614d-4e24-3846-9e41-ad87137cecc8",
-      "title": "The Top 5 Analyst Questions From iRhythm’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-irhythm-133300160.html",
-      "publisher": "StockStory",
-      "time": 1786800780,
+      "id": "6565b8e8-2c85-3932-b981-90adc7a3eae4",
+      "title": "Larry Fink Says Oil Could Be Cut in Half. If So, This Tech Stock Could Explode Higher",
+      "link": "https://finance.yahoo.com/m/6565b8e8-2c85-3932-b981-90adc7a3eae4/larry-fink-says-oil-could-be.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786802451,
       "impact": "medium",
       "tags": [
         "macro",
@@ -91,60 +82,68 @@
       ]
     },
     {
-      "id": "7e07d09a-c0c5-36a7-9057-d2df7b37a39e",
-      "title": "Liechtenstein places gender equality on its throne",
-      "link": "https://finance.yahoo.com/m/7e07d09a-c0c5-36a7-9057-d2df7b37a39e/liechtenstein-places-gender.html",
-      "publisher": "AFP",
-      "time": 1786800728,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "041ce263-f7ab-341d-bb21-18c584c0db8d",
-      "title": "Why We’re Betting $10,000 on This Supplier Behind the SpaceX Data Center Boom",
-      "link": "https://finance.yahoo.com/m/041ce263-f7ab-341d-bb21-18c584c0db8d/why-we%E2%80%99re-betting-%2410%2C000-on.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786800694,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "87d97b3e-7621-3a53-98f2-f6a723090a64",
-      "title": "Rambus Stock Has Been on a Wild Ride. Here’s What Happens Next",
-      "link": "https://finance.yahoo.com/m/87d97b3e-7621-3a53-98f2-f6a723090a64/rambus-stock-has-been-on-a.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786800604,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "05167f81-46b7-3e8b-8338-c0521f91114d",
-      "title": "France hits telemarketers with $87,000 fines per unwanted call as Americans field 2.56 billion robocalls a month",
-      "link": "https://finance.yahoo.com/economy/policy/articles/france-hits-telemarketers-87-000-133000733.html",
-      "publisher": "Moneywise",
-      "time": 1786800600,
-      "impact": "low",
+      "id": "10f027d9-2fcc-3916-85bb-4cf1c1c6b5da",
+      "title": "The Countdown Is On: WhipNash Hummer EV Giveaway Charges Toward August 31 Finale",
+      "link": "https://finance.yahoo.com/media-advertising/articles/countdown-whipnash-hummer-ev-giveaway-140000394.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786802400,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "56d60d6c-bad4-3174-9f1f-b76f6dbecd4e",
-      "title": "Citi Sees Growing Short-Squeeze Risk as U.S. Market Positioning Improves",
-      "link": "https://finance.yahoo.com/m/56d60d6c-bad4-3174-9f1f-b76f6dbecd4e/citi-sees-growing.html",
-      "publisher": "InvestorsHub",
-      "time": 1786800600,
+      "id": "10f93135-7da4-3317-a89c-b4b0e44175e9",
+      "title": "Statement by Minister Miller on National Acadian Day",
+      "link": "https://finance.yahoo.com/economy/articles/statement-minister-miller-national-acadian-140000873.html",
+      "publisher": "CNW Group",
+      "time": 1786802400,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "85fbee9e-9fd5-3cda-b5f6-b83fb5856005",
-      "title": "Amazon’s highly rated $250 portable electric pressure washer is 40% off",
-      "link": "https://finance.yahoo.com/m/85fbee9e-9fd5-3cda-b5f6-b83fb5856005/amazon%E2%80%99s-highly-rated-%24250.html",
+      "id": "25a3671c-47d4-367e-bce3-f446983cd05c",
+      "title": "SoonLab Launches SoonLab 2.0, Bringing More Intelligent AI Agents to Game Creation",
+      "link": "https://finance.yahoo.com/technology/ai/articles/soonlab-launches-soonlab-2-0-140000780.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786802400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2f99dd35-e239-3e07-8be8-e25da05a111e",
+      "title": "Aartech Canada Named Canadian Distributor for TAKEX America Security Sensing Technologies",
+      "link": "https://finance.yahoo.com/technology/articles/aartech-canada-named-canadian-distributor-140000638.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786802400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "76311193-838f-37b4-acab-5cc37ce4add8",
+      "title": "American Gen Z takes radical path to wealth creation",
+      "link": "https://finance.yahoo.com/m/76311193-838f-37b4-acab-5cc37ce4add8/american-gen-z-takes-radical.html",
       "publisher": "TheStreet",
-      "time": 1786800600,
+      "time": 1786802400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d61aa1af-bde6-3f29-87e2-388222f17f0e",
+      "title": "Glitter Bug Gold Buyers Announces New Gold Seller Transparency Standard Across Orange County Locations",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/glitter-bug-gold-buyers-announces-140000902.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786802400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "db7d9d07-7129-3f84-ab67-3543708365ed",
+      "title": "Oxford, MI Author Reimagines Ancient Israel Through Christian Fantasy Lens",
+      "link": "https://finance.yahoo.com/media-advertising/articles/oxford-mi-author-reimagines-ancient-140000797.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786802400,
       "impact": "low",
       "tags": []
     }
