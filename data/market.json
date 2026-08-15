@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T13:06:40.569821+00:00",
+  "updatedAt": "2026-08-15T13:49:50.726925+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -45,27 +45,45 @@
       "name": "VIX (miedo)",
       "symbol": "^VIX",
       "price": 14.25,
-      "change": -0.3000000000000007,
-      "changePct": -2.0618556701030974,
+      "change": -0.3800000000000008,
+      "changePct": -2.5974025974026027,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "911d9bc7-12b8-30f6-a3cb-6f5b34d75ce6",
-      "title": "Inside the WWD Archive: Calvin Klein and the Evolution of Off-court Tennis Style",
-      "link": "https://finance.yahoo.com/m/911d9bc7-12b8-30f6-a3cb-6f5b34d75ce6/inside-the-wwd-archive%3A.html",
-      "publisher": "WWD",
-      "time": 1786798800,
+      "id": "1748e365-6390-3e33-bc89-c8ed48ac7c1e",
+      "title": "Rescuers search for survivors as Indonesian quake death toll rises to 47",
+      "link": "https://finance.yahoo.com/m/1748e365-6390-3e33-bc89-c8ed48ac7c1e/rescuers-search-for-survivors.html",
+      "publisher": "AFP",
+      "time": 1786801139,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0fc2f1b5-c86c-344a-8194-b3cd0274a602",
-      "title": "5 Revealing Analyst Questions From Navient’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-navient-125300442.html",
+      "id": "5572c1b1-8265-3eb8-81af-3d9da0c086a4",
+      "title": "Prediction: Nvidia Stock Will Hit $300 Before 2026 Is Over",
+      "link": "https://finance.yahoo.com/m/5572c1b1-8265-3eb8-81af-3d9da0c086a4/prediction%3A-nvidia-stock-will.html",
+      "publisher": "Motley Fool",
+      "time": 1786800900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3b1c58cd-5a37-336b-afb5-d098321bbdce",
+      "title": "Discontinued Costco member favorite returns to shelves",
+      "link": "https://finance.yahoo.com/m/3b1c58cd-5a37-336b-afb5-d098321bbdce/discontinued-costco-member.html",
+      "publisher": "TheStreet",
+      "time": 1786800780,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4b47614d-4e24-3846-9e41-ad87137cecc8",
+      "title": "The Top 5 Analyst Questions From iRhythm’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-irhythm-133300160.html",
       "publisher": "StockStory",
-      "time": 1786798380,
+      "time": 1786800780,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,86 +91,60 @@
       ]
     },
     {
-      "id": "c7569cc1-9064-335d-9e03-229633d43e7a",
-      "title": "Street rallies held as Taliban govt marks five years ruling Afghanistan",
-      "link": "https://finance.yahoo.com/m/c7569cc1-9064-335d-9e03-229633d43e7a/street-rallies-held-as.html",
+      "id": "7e07d09a-c0c5-36a7-9057-d2df7b37a39e",
+      "title": "Liechtenstein places gender equality on its throne",
+      "link": "https://finance.yahoo.com/m/7e07d09a-c0c5-36a7-9057-d2df7b37a39e/liechtenstein-places-gender.html",
       "publisher": "AFP",
-      "time": 1786798321,
+      "time": 1786800728,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "241d41c9-988a-39c2-8aaa-bdbf1a382af6",
-      "title": "CEO Lip Bu-Tan Just Gave Intel a $10 Million Vote of Confidence",
-      "link": "https://finance.yahoo.com/m/241d41c9-988a-39c2-8aaa-bdbf1a382af6/ceo-lip-bu-tan-just-gave.html",
+      "id": "041ce263-f7ab-341d-bb21-18c584c0db8d",
+      "title": "Why We’re Betting $10,000 on This Supplier Behind the SpaceX Data Center Boom",
+      "link": "https://finance.yahoo.com/m/041ce263-f7ab-341d-bb21-18c584c0db8d/why-we%E2%80%99re-betting-%2410%2C000-on.html",
       "publisher": "24/7 Wall St.",
-      "time": 1786798239,
+      "time": 1786800694,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ce0b93a6-4ec8-34f4-9785-5c99b874351f",
-      "title": "UK PM urges 'reflection' after Cambridge professor's death",
-      "link": "https://finance.yahoo.com/m/ce0b93a6-4ec8-34f4-9785-5c99b874351f/uk-pm-urges-%27reflection%27.html",
-      "publisher": "AFP",
-      "time": 1786798075,
+      "id": "87d97b3e-7621-3a53-98f2-f6a723090a64",
+      "title": "Rambus Stock Has Been on a Wild Ride. Here’s What Happens Next",
+      "link": "https://finance.yahoo.com/m/87d97b3e-7621-3a53-98f2-f6a723090a64/rambus-stock-has-been-on-a.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786800604,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "536c191a-2e49-3bb6-8823-b801bd1b74f5",
-      "title": "5 Revealing Analyst Questions From Casella Waste Systems’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-casella-124500485.html",
-      "publisher": "StockStory",
-      "time": 1786797900,
-      "impact": "medium",
+      "id": "05167f81-46b7-3e8b-8338-c0521f91114d",
+      "title": "France hits telemarketers with $87,000 fines per unwanted call as Americans field 2.56 billion robocalls a month",
+      "link": "https://finance.yahoo.com/economy/policy/articles/france-hits-telemarketers-87-000-133000733.html",
+      "publisher": "Moneywise",
+      "time": 1786800600,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "cea3b7f3-dd48-3fb6-8dae-e9b5c102df78",
-      "title": "Block Stock Slumps Despite Earnings Rising by 65%",
-      "link": "https://finance.yahoo.com/m/cea3b7f3-dd48-3fb6-8dae-e9b5c102df78/block-stock-slumps-despite.html",
-      "publisher": "Motley Fool",
-      "time": 1786797660,
-      "impact": "medium",
+      "id": "56d60d6c-bad4-3174-9f1f-b76f6dbecd4e",
+      "title": "Citi Sees Growing Short-Squeeze Risk as U.S. Market Positioning Improves",
+      "link": "https://finance.yahoo.com/m/56d60d6c-bad4-3174-9f1f-b76f6dbecd4e/citi-sees-growing.html",
+      "publisher": "InvestorsHub",
+      "time": 1786800600,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "21ba1472-60e5-3fc7-9d2c-d8e7b161ad8c",
-      "title": "The 5 Most Interesting Analyst Questions From ResMed’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-123700060.html",
-      "publisher": "StockStory",
-      "time": 1786797420,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "61c0df70-1df1-3aa0-9d10-e53c48f105ea",
-      "title": "Nu Holdings Banks More Than Half the Adults in Brazil",
-      "link": "https://finance.yahoo.com/m/61c0df70-1df1-3aa0-9d10-e53c48f105ea/nu-holdings-banks-more-than.html",
-      "publisher": "Motley Fool",
-      "time": 1786797420,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "42d8a563-67f6-3720-a347-aa9c2259382c",
-      "title": "Earthquake rocks Spain's tourist jewel Granada",
-      "link": "https://finance.yahoo.com/m/42d8a563-67f6-3720-a347-aa9c2259382c/earthquake-rocks-spain%27s.html",
-      "publisher": "AFP",
-      "time": 1786797361,
+      "id": "85fbee9e-9fd5-3cda-b5f6-b83fb5856005",
+      "title": "Amazon’s highly rated $250 portable electric pressure washer is 40% off",
+      "link": "https://finance.yahoo.com/m/85fbee9e-9fd5-3cda-b5f6-b83fb5856005/amazon%E2%80%99s-highly-rated-%24250.html",
+      "publisher": "TheStreet",
+      "time": 1786800600,
       "impact": "low",
       "tags": []
     }
