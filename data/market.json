@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T15:13:45.406816+00:00",
+  "updatedAt": "2026-08-15T15:43:05.098796+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,59 +52,29 @@
   ],
   "news": [
     {
-      "id": "a9c4aefc-5d74-38c4-866e-25fb088477b2",
-      "title": "The 5 Most Interesting Analyst Questions From Warner Bros. Discovery’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-150900666.html",
-      "publisher": "StockStory",
-      "time": 1786806540,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "622d5976-6a74-46b7-a0f0-495a60940382",
-      "title": "Why Medicare Advantage providers are cutting plans — and what to do if your coverage is affected",
-      "link": "https://finance.yahoo.com/healthcare/article/why-medicare-advantage-providers-are-cutting-plans--and-what-to-do-if-your-coverage-is-affected-150759090.html",
-      "publisher": "Yahoo Finance",
-      "time": 1786806479,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d09f9219-0721-3827-b3ee-d5dd0cbd0b61",
-      "title": "Cathie Wood sells $11.6 million of surging tech stock",
-      "link": "https://finance.yahoo.com/m/d09f9219-0721-3827-b3ee-d5dd0cbd0b61/cathie-wood-sells-%2411.6.html",
+      "id": "2721793a-1c9a-3c7e-b5c5-6fefbecb167c",
+      "title": "5-star analyst sets jaw-dropping Micron stock price target for 2026",
+      "link": "https://finance.yahoo.com/m/2721793a-1c9a-3c7e-b5c5-6fefbecb167c/5-star-analyst-sets.html",
       "publisher": "TheStreet",
-      "time": 1786806420,
+      "time": 1786807980,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9cab194c-bf62-39ad-8e54-c9e6033184c9",
-      "title": "Medicare Assumes You Still Earn Your Old Salary. Until One Form Says Otherwise, It Bills Accordingly.",
-      "link": "https://finance.yahoo.com/m/9cab194c-bf62-39ad-8e54-c9e6033184c9/medicare-assumes-you-still.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786806107,
+      "id": "2f0690f6-c275-3276-ad43-4a64ba484a1f",
+      "title": "53-year-old lawn and garden giant faces Chapter 11, liquidation",
+      "link": "https://finance.yahoo.com/m/2f0690f6-c275-3276-ad43-4a64ba484a1f/53-year-old-lawn-and-garden.html",
+      "publisher": "TheStreet",
+      "time": 1786807980,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "98c04243-4498-33d8-a0b4-6316a3833faa",
-      "title": "Meta Patents Cameras That Recognize Faces and Log Your Actions",
-      "link": "https://finance.yahoo.com/m/98c04243-4498-33d8-a0b4-6316a3833faa/meta-patents-cameras-that.html",
-      "publisher": "decrypt",
-      "time": 1786806065,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "80259abf-10bf-3266-b6d3-0d59cf1e34c4",
-      "title": "5 Revealing Analyst Questions From Marcus & Millichap’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-marcus-150100564.html",
+      "id": "96538320-66b9-32b4-aa00-104ed218be59",
+      "title": "5 Insightful Analyst Questions From PENN Entertainment’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-penn-153300745.html",
       "publisher": "StockStory",
-      "time": 1786806060,
+      "time": 1786807980,
       "impact": "medium",
       "tags": [
         "macro",
@@ -112,38 +82,65 @@
       ]
     },
     {
-      "id": "a19241a5-fcc3-329b-8ef9-f3af684eae9a",
-      "title": "Suze Orman says AI could force you out of your job before 65 — and retiring early costs you each year",
-      "link": "https://finance.yahoo.com/technology/ai/articles/suze-orman-says-ai-could-150000538.html",
+      "id": "ce0b93a6-4ec8-34f4-9785-5c99b874351f",
+      "title": "UK PM urges 'reflection' after Cambridge professor's death",
+      "link": "https://finance.yahoo.com/m/ce0b93a6-4ec8-34f4-9785-5c99b874351f/uk-pm-urges-%27reflection%27.html",
+      "publisher": "AFP",
+      "time": 1786807929,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b2b6860f-0323-32d9-bf1b-9dc0e4d1e1ec",
+      "title": "Cisco vs. Broadcom: One Stock Looks Like the Better AI Play",
+      "link": "https://finance.yahoo.com/m/b2b6860f-0323-32d9-bf1b-9dc0e4d1e1ec/cisco-vs.-broadcom%3A-one-stock.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786807840,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1f7b9392-2576-35ab-8879-a938483955db",
+      "title": "VEVOR Monthly Power 15 Returns August 15-18, Powering the Back-to-Project Season",
+      "link": "https://finance.yahoo.com/small-business/articles/vevor-monthly-power-15-returns-153000611.html",
+      "publisher": "PR Newswire",
+      "time": 1786807800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "25034dee-e70d-3147-bf9c-2532ac2b2cc9",
+      "title": "A 1-hour delay replying to a recruiter cuts your hiring chances by half. Here's why",
+      "link": "https://finance.yahoo.com/small-business/articles/1-hour-delay-replying-recruiter-153000153.html",
       "publisher": "Moneywise",
-      "time": 1786806000,
+      "time": 1786807800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "edfbfde2-163f-31ae-b947-59d8fa0bd9ee",
-      "title": "Meant Launches as LegitScript-Certified GLP-1 Telehealth Platform with Included Coaching and Supplement Kit",
-      "link": "https://finance.yahoo.com/healthcare/articles/meant-launches-legitscript-certified-glp-150000622.html",
-      "publisher": "PR Newswire",
-      "time": 1786806000,
+      "id": "2d89da5e-fd4f-3b04-8d71-eabc8b7c04ce",
+      "title": "Walmart's Emergency Prep hub has everything you need to prepare for severe weather ahead",
+      "link": "https://finance.yahoo.com/m/2d89da5e-fd4f-3b04-8d71-eabc8b7c04ce/walmart%27s-emergency-prep-hub.html",
+      "publisher": "TheStreet",
+      "time": 1786807800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f7bc3d63-09f9-39d7-93ec-af36a3924942",
-      "title": "PureHealth Research Explores Horse Chestnut and Butcher's Broom in Supplements for Vein Health",
-      "link": "https://finance.yahoo.com/healthcare/articles/purehealth-research-explores-horse-chestnut-150000410.html",
-      "publisher": "PR Newswire",
-      "time": 1786806000,
+      "id": "8c1a436a-e169-3c38-8b77-478c66028e65",
+      "title": "Macy’s is selling a $325 luxury Citizen Eco-Drive watch for 50% off",
+      "link": "https://finance.yahoo.com/m/8c1a436a-e169-3c38-8b77-478c66028e65/macy%E2%80%99s-is-selling-a-%24325.html",
+      "publisher": "TheStreet",
+      "time": 1786807800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1b64f7b1-f21f-3d29-8c82-65a0d01b38bb",
-      "title": "Reddit Joins the S&P 500 Tuesday. Here's What History Says Could Come Next -- and What Investors Should Know.",
-      "link": "https://finance.yahoo.com/m/1b64f7b1-f21f-3d29-8c82-65a0d01b38bb/reddit-joins-the-s%26p-500.html",
-      "publisher": "Motley Fool",
-      "time": 1786805640,
+      "id": "dc9566fb-0524-3f15-b2cf-351bd8486a7e",
+      "title": "Tropical Storm Lala lashes Hawaii with heavy rain",
+      "link": "https://finance.yahoo.com/m/dc9566fb-0524-3f15-b2cf-351bd8486a7e/tropical-storm-lala-lashes.html",
+      "publisher": "AFP",
+      "time": 1786807574,
       "impact": "low",
       "tags": []
     }
