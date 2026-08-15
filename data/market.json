@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T15:43:05.098796+00:00",
+  "updatedAt": "2026-08-15T16:16:27.873407+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,29 +52,41 @@
   ],
   "news": [
     {
-      "id": "2721793a-1c9a-3c7e-b5c5-6fefbecb167c",
-      "title": "5-star analyst sets jaw-dropping Micron stock price target for 2026",
-      "link": "https://finance.yahoo.com/m/2721793a-1c9a-3c7e-b5c5-6fefbecb167c/5-star-analyst-sets.html",
-      "publisher": "TheStreet",
-      "time": 1786807980,
+      "id": "7f4b8422-d7b1-3946-b013-a38a834839c7",
+      "title": "BLNR nixes long-term East Maui water license for Mahi Pono",
+      "link": "https://finance.yahoo.com/m/7f4b8422-d7b1-3946-b013-a38a834839c7/blnr-nixes-long-term-east.html",
+      "publisher": "The Honolulu Star-Advertiser",
+      "time": 1786809960,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2f0690f6-c275-3276-ad43-4a64ba484a1f",
-      "title": "53-year-old lawn and garden giant faces Chapter 11, liquidation",
-      "link": "https://finance.yahoo.com/m/2f0690f6-c275-3276-ad43-4a64ba484a1f/53-year-old-lawn-and-garden.html",
+      "id": "b7575585-0b07-383a-9c35-b31ee6dc5ce0",
+      "title": "FedEx closes more U.S. locations as it changes how packages move",
+      "link": "https://finance.yahoo.com/m/b7575585-0b07-383a-9c35-b31ee6dc5ce0/fedex-closes-more-u.s..html",
       "publisher": "TheStreet",
-      "time": 1786807980,
+      "time": 1786809780,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "25af129d-7755-3b68-8dc9-5689aadb7198",
+      "title": "JRM Construction Management Completes Relocation and Consolidation of the Corporate Headquarters for MJH Life Sciences(R) in Monroe Township, New Jersey",
+      "link": "https://finance.yahoo.com/healthcare/articles/jrm-construction-management-completes-relocation-160000208.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786809600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "96538320-66b9-32b4-aa00-104ed218be59",
-      "title": "5 Insightful Analyst Questions From PENN Entertainment’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-penn-153300745.html",
-      "publisher": "StockStory",
-      "time": 1786807980,
+      "id": "339ca821-d3e7-3376-97ab-d5a10b526c98",
+      "title": "209-year-old bank reveals XRP holdings",
+      "link": "https://finance.yahoo.com/m/339ca821-d3e7-3376-97ab-d5a10b526c98/209-year-old-bank-reveals-xrp.html",
+      "publisher": "TheStreet",
+      "time": 1786809600,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,65 +94,59 @@
       ]
     },
     {
-      "id": "ce0b93a6-4ec8-34f4-9785-5c99b874351f",
-      "title": "UK PM urges 'reflection' after Cambridge professor's death",
-      "link": "https://finance.yahoo.com/m/ce0b93a6-4ec8-34f4-9785-5c99b874351f/uk-pm-urges-%27reflection%27.html",
-      "publisher": "AFP",
-      "time": 1786807929,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b2b6860f-0323-32d9-bf1b-9dc0e4d1e1ec",
-      "title": "Cisco vs. Broadcom: One Stock Looks Like the Better AI Play",
-      "link": "https://finance.yahoo.com/m/b2b6860f-0323-32d9-bf1b-9dc0e4d1e1ec/cisco-vs.-broadcom%3A-one-stock.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786807840,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1f7b9392-2576-35ab-8879-a938483955db",
-      "title": "VEVOR Monthly Power 15 Returns August 15-18, Powering the Back-to-Project Season",
-      "link": "https://finance.yahoo.com/small-business/articles/vevor-monthly-power-15-returns-153000611.html",
-      "publisher": "PR Newswire",
-      "time": 1786807800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "25034dee-e70d-3147-bf9c-2532ac2b2cc9",
-      "title": "A 1-hour delay replying to a recruiter cuts your hiring chances by half. Here's why",
-      "link": "https://finance.yahoo.com/small-business/articles/1-hour-delay-replying-recruiter-153000153.html",
+      "id": "6f275813-1bfd-3931-a0dd-b9048ae5cf56",
+      "title": "An attorney explains what a restaurant actually owes you when a server spills food on your lap",
+      "link": "https://finance.yahoo.com/small-business/articles/attorney-explains-restaurant-actually-owes-160000478.html",
       "publisher": "Moneywise",
-      "time": 1786807800,
+      "time": 1786809600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2d89da5e-fd4f-3b04-8d71-eabc8b7c04ce",
-      "title": "Walmart's Emergency Prep hub has everything you need to prepare for severe weather ahead",
-      "link": "https://finance.yahoo.com/m/2d89da5e-fd4f-3b04-8d71-eabc8b7c04ce/walmart%27s-emergency-prep-hub.html",
-      "publisher": "TheStreet",
-      "time": 1786807800,
+      "id": "b35f5baf-15f3-3bc7-a7a1-7f47929aa1cd",
+      "title": "The Risk-Amplifying Strategy That Led to Big Losses at Situational Awareness",
+      "link": "https://finance.yahoo.com/video/risk-amplifying-strategy-led-big-160000069.html",
+      "publisher": "WSJ",
+      "time": 1786809600,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "d03ba560-c348-350d-bdcc-0285937c3365",
+      "title": "/R E P E A T -- North Edmonton Tooth Fairy Day August 15, 2026 @ 10am-2pm Aponia Dental/",
+      "link": "https://finance.yahoo.com/healthcare/articles/r-e-p-e-t-160000877.html",
+      "publisher": "CNW Group",
+      "time": 1786809600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8c1a436a-e169-3c38-8b77-478c66028e65",
-      "title": "Macy’s is selling a $325 luxury Citizen Eco-Drive watch for 50% off",
-      "link": "https://finance.yahoo.com/m/8c1a436a-e169-3c38-8b77-478c66028e65/macy%E2%80%99s-is-selling-a-%24325.html",
-      "publisher": "TheStreet",
-      "time": 1786807800,
+      "id": "c4dd0eea-5b89-30cd-908c-7c92a49307c1",
+      "title": "Prediction: This Is What a $1,000 Investment in Sandisk Will Be Worth by 2030",
+      "link": "https://finance.yahoo.com/m/c4dd0eea-5b89-30cd-908c-7c92a49307c1/prediction%3A-this-is-what-a.html",
+      "publisher": "Motley Fool",
+      "time": 1786809540,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "dc9566fb-0524-3f15-b2cf-351bd8486a7e",
-      "title": "Tropical Storm Lala lashes Hawaii with heavy rain",
-      "link": "https://finance.yahoo.com/m/dc9566fb-0524-3f15-b2cf-351bd8486a7e/tropical-storm-lala-lashes.html",
+      "id": "29b4339f-5299-3d20-b464-7456c700f397",
+      "title": "Mystery of the missing mini Mozarts",
+      "link": "https://finance.yahoo.com/m/29b4339f-5299-3d20-b464-7456c700f397/mystery-of-the-missing-mini.html",
+      "publisher": "CBS News Videos",
+      "time": 1786809477,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0d75e8e0-f219-3d6a-a60e-285048b63bf1",
+      "title": "Fans line Welsh streets as Bonnie Tyler body's returns for funeral",
+      "link": "https://finance.yahoo.com/m/0d75e8e0-f219-3d6a-a60e-285048b63bf1/fans-line-welsh-streets-as.html",
       "publisher": "AFP",
-      "time": 1786807574,
+      "time": 1786809476,
       "impact": "low",
       "tags": []
     }
