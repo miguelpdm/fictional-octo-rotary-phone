@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T09:48:17.760070+00:00",
+  "updatedAt": "2026-08-15T10:15:43.099245+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,20 +52,29 @@
   ],
   "news": [
     {
-      "id": "f60473be-a98d-3ec6-a1c7-d0e46fb4b95a",
-      "title": "Disney reveals 'X-Men' cast, slate of sequels at D23 fan event",
-      "link": "https://finance.yahoo.com/m/f60473be-a98d-3ec6-a1c7-d0e46fb4b95a/disney-reveals-%27x-men%27-cast%2C.html",
+      "id": "09665230-fe0e-371e-b47b-333784b0ce04",
+      "title": "UK-based Afghan writer pleads for country's 'abandoned' women",
+      "link": "https://finance.yahoo.com/m/09665230-fe0e-371e-b47b-333784b0ce04/uk-based-afghan-writer-pleads.html",
       "publisher": "AFP",
-      "time": 1786786962,
+      "time": 1786788639,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ee352ebd-5edd-3b9f-9df6-df428626ccc9",
-      "title": "5 Insightful Analyst Questions From Airbnb’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-airbnb-094100233.html",
+      "id": "ce88655b-0875-39e3-bf0c-0550a00ea834",
+      "title": "Lebanon says 9 dead in strikes as Israel says targeted Hezbollah",
+      "link": "https://finance.yahoo.com/m/ce88655b-0875-39e3-bf0c-0550a00ea834/lebanon-says-9-dead-in.html",
+      "publisher": "AFP",
+      "time": 1786788556,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "58d44943-0818-3596-8d40-8270551c8916",
+      "title": "5 Must-Read Analyst Questions From Viatris’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-100500134.html",
       "publisher": "StockStory",
-      "time": 1786786860,
+      "time": 1786788300,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,38 +82,29 @@
       ]
     },
     {
-      "id": "6e0b1a83-60ec-3711-b672-6bc5395221e6",
-      "title": "Is It Too Late to Buy Ondas Stock?",
-      "link": "https://finance.yahoo.com/m/6e0b1a83-60ec-3711-b672-6bc5395221e6/is-it-too-late-to-buy-ondas.html",
-      "publisher": "Motley Fool",
-      "time": 1786786500,
+      "id": "2def7698-fec5-3b8d-ac61-fbd58c7b1cd2",
+      "title": "U.S. Justice Department sues Uber over discrimination issues | Wydeven",
+      "link": "https://finance.yahoo.com/m/2def7698-fec5-3b8d-ac61-fbd58c7b1cd2/u.s.-justice-department-sues.html",
+      "publisher": "The Post-Crescent",
+      "time": 1786788130,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "32150dae-19ed-34c2-82ff-ec5092bf836e",
-      "title": "Jensen Huang Explained $500 Billion of Wall Street Money in Five Words",
-      "link": "https://finance.yahoo.com/m/32150dae-19ed-34c2-82ff-ec5092bf836e/jensen-huang-explained-%24500.html",
-      "publisher": "Motley Fool",
-      "time": 1786786440,
+      "id": "eed05c9b-5def-3819-9ea1-8f8a0168f255",
+      "title": "After losing TPS in United States, some Haitians seek Canadian refuge",
+      "link": "https://finance.yahoo.com/m/eed05c9b-5def-3819-9ea1-8f8a0168f255/after-losing-tps-in-united.html",
+      "publisher": "USA TODAY",
+      "time": 1786788123,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1748e365-6390-3e33-bc89-c8ed48ac7c1e",
-      "title": "Indonesia rescuers search for survivors as quake death toll rises to 38",
-      "link": "https://finance.yahoo.com/m/1748e365-6390-3e33-bc89-c8ed48ac7c1e/indonesia-rescuers-search-for.html",
-      "publisher": "AFP",
-      "time": 1786786382,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "17009f93-5ae3-31ee-a351-3d5405909b19",
-      "title": "5 Must-Read Analyst Questions From MDU Resources’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-093300761.html",
-      "publisher": "StockStory",
-      "time": 1786786380,
+      "id": "2a174e57-91a5-3f7b-afa1-28b5ea7981d5",
+      "title": "He Replaced Himself With a Delivery Robot at 63. Social Security Still Counted the Profit as Earnings.",
+      "link": "https://finance.yahoo.com/m/2a174e57-91a5-3f7b-afa1-28b5ea7981d5/he-replaced-himself-with-a.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786788068,
       "impact": "medium",
       "tags": [
         "macro",
@@ -112,60 +112,43 @@
       ]
     },
     {
-      "id": "6cabc88f-5893-3e96-b911-45bcd85bd62f",
-      "title": "The toolbelt is becoming Gen Z's career flex",
-      "link": "https://finance.yahoo.com/m/6cabc88f-5893-3e96-b911-45bcd85bd62f/the-toolbelt-is-becoming-gen.html",
-      "publisher": "Axios",
-      "time": 1786786205,
+      "id": "2cdbe7c7-d743-3fcb-907b-b56269710db7",
+      "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
+      "link": "https://finance.yahoo.com/economy/policy/articles/donald-trump-doesn-t-just-100054351.html",
+      "publisher": "The Guardian",
+      "time": 1786788054,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3334864f-81c3-3ba2-9e7a-4d3c5d13efd3",
-      "title": "'You have absolutely no expenses': Suze Orman says the perks your job quietly covers could blow up your retirement math",
-      "link": "https://finance.yahoo.com/small-business/articles/absolutely-no-expenses-suze-orman-093000555.html",
-      "publisher": "Moneywise",
-      "time": 1786786200,
+      "id": "d898c7cc-3c25-3470-84cd-f2aab242c699",
+      "title": "World Cup winner Ferran Torres signs for Paris Saint-Germain",
+      "link": "https://finance.yahoo.com/m/d898c7cc-3c25-3470-84cd-f2aab242c699/world-cup-winner-ferran.html",
+      "publisher": "AFP",
+      "time": 1786788050,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "55eef5bb-e02e-35e2-8121-3815ac42cb96",
-      "title": "Best Vacation Packages (2026): Westgate Resorts Ranked Top All-Inclusive Choice for Family Travel by Consumer365",
-      "link": "https://finance.yahoo.com/media-advertising/articles/best-vacation-packages-2026-westgate-093000014.html",
-      "publisher": "PR Newswire",
-      "time": 1786786200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7b963fbd-2e1e-3ea1-af73-52e14093fcd8",
-      "title": "AI in Dentistry: Will Robots Replace Your Dentist?",
-      "link": "https://finance.yahoo.com/m/7b963fbd-2e1e-3ea1-af73-52e14093fcd8/ai-in-dentistry%3A-will-robots.html",
-      "publisher": " TheStreet",
-      "time": 1786786180,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9098eee1-efee-3b7f-bc4c-758a5bd7315f",
-      "title": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
-      "link": "https://finance.yahoo.com/technology/ai/articles/us-presses-apple-avoid-chinese-092522511.html",
-      "publisher": "Investing.com",
-      "time": 1786785922,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "41e0da75-d490-3414-b1af-75f13792fda5",
-      "title": "2 Tech Dividend Stocks That Offer High Yields and Payout Growth",
-      "link": "https://finance.yahoo.com/m/41e0da75-d490-3414-b1af-75f13792fda5/2-tech-dividend-stocks-that.html",
-      "publisher": "Motley Fool",
-      "time": 1786785900,
-      "impact": "low",
+      "id": "01425f8b-f385-413f-8649-b974f7ad3f77",
+      "title": "Mortgage and refinance interest rates today, Saturday, August 15, 2026: Rates falling this weekend",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-15-2026-rates-falling-this-weekend-100000735.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1786788000,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
+    },
+    {
+      "id": "1e837b01-7239-3879-94a2-b9c380f9c41b",
+      "title": "Jeff Bezos Is Selling $4 Billion of His Amazon Stock. Should You Follow Suit?",
+      "link": "https://finance.yahoo.com/m/1e837b01-7239-3879-94a2-b9c380f9c41b/jeff-bezos-is-selling-%244.html",
+      "publisher": "Motley Fool",
+      "time": 1786788000,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
