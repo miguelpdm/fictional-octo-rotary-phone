@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T14:45:54.318947+00:00",
+  "updatedAt": "2026-08-15T15:13:45.406816+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,112 +52,100 @@
   ],
   "news": [
     {
-      "id": "ecb08ed6-e307-367a-b588-b1d35de9271d",
-      "title": "Granite Ridge Resources’s Q2 Earnings Call: Our Top 5 Analyst Questions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/granite-ridge-resources-q2-earnings-143700117.html",
+      "id": "a9c4aefc-5d74-38c4-866e-25fb088477b2",
+      "title": "The 5 Most Interesting Analyst Questions From Warner Bros. Discovery’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-150900666.html",
       "publisher": "StockStory",
-      "time": 1786804620,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "52daecb0-af0b-3ab1-a8d2-98a818521b67",
-      "title": "Nvidia Is Looking to Own Another Layer of the AI Ecosystem",
-      "link": "https://finance.yahoo.com/m/52daecb0-af0b-3ab1-a8d2-98a818521b67/nvidia-is-looking-to-own.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786804562,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "aeaa1d0a-2213-3cb0-9292-ba7dd2d1c875",
-      "title": "Elon Musk's 100M-sq-ft Terafab rises in Grimes County as neighbors struggle to sell their land",
-      "link": "https://finance.yahoo.com/real-estate/articles/elon-musks-100m-sq-ft-143000261.html",
-      "publisher": "Moneywise",
-      "time": 1786804200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b1f24429-09a2-307e-9eed-4d61092dbc7b",
-      "title": "CMCT (CMCT) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/b1f24429-09a2-307e-9eed-4d61092dbc7b/cmct-%28cmct%29-q2-2026-earnings.html",
-      "publisher": "Motley Fool",
-      "time": 1786804186,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "9da79b50-ed18-32e3-acc7-217ab057922d",
-      "title": "5 Must-Read Analyst Questions From Funko’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-142900277.html",
-      "publisher": "StockStory",
-      "time": 1786804140,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "d1102483-0091-3d94-b995-3f0a3edd6de2",
-      "title": "Media Advisory: Infrastructure Announcement in Ottawa",
-      "link": "https://finance.yahoo.com/real-estate/articles/media-advisory-infrastructure-announcement-ottawa-142900386.html",
-      "publisher": "CNW Group",
-      "time": 1786804140,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "363434de-d86b-3ad8-aed9-889cb56b1347",
-      "title": "CSP Inc. (CSPI) Q3 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/363434de-d86b-3ad8-aed9-889cb56b1347/csp-inc.-%28cspi%29-q3-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1786803976,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "6175a050-e2a7-3e6d-b9b7-36237bd5857e",
-      "title": "Teleflex’s Q2 Earnings Call: Our Top 5 Analyst Questions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/teleflex-q2-earnings-call-top-142100270.html",
-      "publisher": "StockStory",
-      "time": 1786803660,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "94b7e200-21c9-389f-b498-eeb125a0c4a8",
-      "title": "If You Want the Largest Lifetime Social Security Benefit, Claiming at This Age Is Probably Your Best Bet",
-      "link": "https://finance.yahoo.com/m/94b7e200-21c9-389f-b498-eeb125a0c4a8/if-you-want-the-largest.html",
-      "publisher": "Motley Fool",
-      "time": 1786803600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3a79850c-9e25-38ab-8cf3-c6ecff0dbfaa",
-      "title": "Leave the Kids the Roth, Spend the IRA Yourself: The Inheritance Order Most Families Get Backward.",
-      "link": "https://finance.yahoo.com/m/3a79850c-9e25-38ab-8cf3-c6ecff0dbfaa/leave-the-kids-the-roth%2C.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786803567,
+      "time": 1786806540,
       "impact": "high",
       "tags": [
         "geo",
         "macro"
       ]
+    },
+    {
+      "id": "622d5976-6a74-46b7-a0f0-495a60940382",
+      "title": "Why Medicare Advantage providers are cutting plans — and what to do if your coverage is affected",
+      "link": "https://finance.yahoo.com/healthcare/article/why-medicare-advantage-providers-are-cutting-plans--and-what-to-do-if-your-coverage-is-affected-150759090.html",
+      "publisher": "Yahoo Finance",
+      "time": 1786806479,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d09f9219-0721-3827-b3ee-d5dd0cbd0b61",
+      "title": "Cathie Wood sells $11.6 million of surging tech stock",
+      "link": "https://finance.yahoo.com/m/d09f9219-0721-3827-b3ee-d5dd0cbd0b61/cathie-wood-sells-%2411.6.html",
+      "publisher": "TheStreet",
+      "time": 1786806420,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9cab194c-bf62-39ad-8e54-c9e6033184c9",
+      "title": "Medicare Assumes You Still Earn Your Old Salary. Until One Form Says Otherwise, It Bills Accordingly.",
+      "link": "https://finance.yahoo.com/m/9cab194c-bf62-39ad-8e54-c9e6033184c9/medicare-assumes-you-still.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786806107,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "98c04243-4498-33d8-a0b4-6316a3833faa",
+      "title": "Meta Patents Cameras That Recognize Faces and Log Your Actions",
+      "link": "https://finance.yahoo.com/m/98c04243-4498-33d8-a0b4-6316a3833faa/meta-patents-cameras-that.html",
+      "publisher": "decrypt",
+      "time": 1786806065,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "80259abf-10bf-3266-b6d3-0d59cf1e34c4",
+      "title": "5 Revealing Analyst Questions From Marcus & Millichap’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-marcus-150100564.html",
+      "publisher": "StockStory",
+      "time": 1786806060,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a19241a5-fcc3-329b-8ef9-f3af684eae9a",
+      "title": "Suze Orman says AI could force you out of your job before 65 — and retiring early costs you each year",
+      "link": "https://finance.yahoo.com/technology/ai/articles/suze-orman-says-ai-could-150000538.html",
+      "publisher": "Moneywise",
+      "time": 1786806000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "edfbfde2-163f-31ae-b947-59d8fa0bd9ee",
+      "title": "Meant Launches as LegitScript-Certified GLP-1 Telehealth Platform with Included Coaching and Supplement Kit",
+      "link": "https://finance.yahoo.com/healthcare/articles/meant-launches-legitscript-certified-glp-150000622.html",
+      "publisher": "PR Newswire",
+      "time": 1786806000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f7bc3d63-09f9-39d7-93ec-af36a3924942",
+      "title": "PureHealth Research Explores Horse Chestnut and Butcher's Broom in Supplements for Vein Health",
+      "link": "https://finance.yahoo.com/healthcare/articles/purehealth-research-explores-horse-chestnut-150000410.html",
+      "publisher": "PR Newswire",
+      "time": 1786806000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1b64f7b1-f21f-3d29-8c82-65a0d01b38bb",
+      "title": "Reddit Joins the S&P 500 Tuesday. Here's What History Says Could Come Next -- and What Investors Should Know.",
+      "link": "https://finance.yahoo.com/m/1b64f7b1-f21f-3d29-8c82-65a0d01b38bb/reddit-joins-the-s%26p-500.html",
+      "publisher": "Motley Fool",
+      "time": 1786805640,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
