@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T12:24:15.702504+00:00",
+  "updatedAt": "2026-08-15T13:06:40.569821+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -45,65 +45,27 @@
       "name": "VIX (miedo)",
       "symbol": "^VIX",
       "price": 14.25,
-      "change": -0.3800000000000008,
-      "changePct": -2.5974025974026027,
+      "change": -0.3000000000000007,
+      "changePct": -2.0618556701030974,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "193ce092-8b77-3a23-a101-377538a22f86",
-      "title": "FNB Tech Unifies Indonesia's Coffee Value Chain Through Four Specialized Digital Brands",
-      "link": "https://finance.yahoo.com/small-business/articles/fnb-tech-unifies-indonesias-coffee-121000214.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786795800,
+      "id": "911d9bc7-12b8-30f6-a3cb-6f5b34d75ce6",
+      "title": "Inside the WWD Archive: Calvin Klein and the Evolution of Off-court Tennis Style",
+      "link": "https://finance.yahoo.com/m/911d9bc7-12b8-30f6-a3cb-6f5b34d75ce6/inside-the-wwd-archive%3A.html",
+      "publisher": "WWD",
+      "time": 1786798800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "40354939-4b38-3f88-9a9e-9a4f21440ac7",
-      "title": "How Low Can XRP Go? We Asked 3 AI Models Where XRP Bottoms",
-      "link": "https://finance.yahoo.com/m/40354939-4b38-3f88-9a9e-9a4f21440ac7/how-low-can-xrp-go%3F-we-asked.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786795749,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a42e77f0-609a-3cca-a90b-e1aae1f792a0",
-      "title": "Alphabet Is Berkshire Hathaway’s New Favorite Stock After Buying 48 Million Shares",
-      "link": "https://finance.yahoo.com/m/a42e77f0-609a-3cca-a90b-e1aae1f792a0/alphabet-is-berkshire.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786795551,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d898c7cc-3c25-3470-84cd-f2aab242c699",
-      "title": "World Cup winner Ferran Torres signs for PSG from Barcelona",
-      "link": "https://finance.yahoo.com/m/d898c7cc-3c25-3470-84cd-f2aab242c699/world-cup-winner-ferran.html",
-      "publisher": "AFP",
-      "time": 1786795527,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "26ded83a-8d91-3c24-89db-45344c057668",
-      "title": "Prediction: These 3 Artificial Intelligence (AI) Stocks Will Rise More than 30% Before 2026 Is Over",
-      "link": "https://finance.yahoo.com/m/26ded83a-8d91-3c24-89db-45344c057668/prediction%3A-these-3.html",
-      "publisher": "Motley Fool",
-      "time": 1786795500,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "8cd6249a-e8ca-37d5-be74-a81b11d903d9",
-      "title": "5 Revealing Analyst Questions From Marriott Vacations’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-marriott-120500801.html",
+      "id": "0fc2f1b5-c86c-344a-8194-b3cd0274a602",
+      "title": "5 Revealing Analyst Questions From Navient’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-navient-125300442.html",
       "publisher": "StockStory",
-      "time": 1786795500,
+      "time": 1786798380,
       "impact": "medium",
       "tags": [
         "macro",
@@ -111,45 +73,88 @@
       ]
     },
     {
-      "id": "2d2ce8c9-e37a-3819-86ed-8c17d6a17aa8",
-      "title": "A $72 billion forecast just raised the stakes for the AI trade",
-      "link": "https://finance.yahoo.com/m/2d2ce8c9-e37a-3819-86ed-8c17d6a17aa8/a-%2472-billion-forecast-just.html",
-      "publisher": "TheStreet",
-      "time": 1786795380,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "289084c0-917e-37b6-b7e0-c67300ef5113",
-      "title": "Cataract Surgery Is Covered Until the Surgeon Says “Premium Lens.” That One Word Costs About $3,000 an Eye.",
-      "link": "https://finance.yahoo.com/m/289084c0-917e-37b6-b7e0-c67300ef5113/cataract-surgery-is-covered.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786795341,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1748e365-6390-3e33-bc89-c8ed48ac7c1e",
-      "title": "Rescuers search for survivors as Indonesian quake death toll rises to 40",
-      "link": "https://finance.yahoo.com/m/1748e365-6390-3e33-bc89-c8ed48ac7c1e/rescuers-search-for-survivors.html",
+      "id": "c7569cc1-9064-335d-9e03-229633d43e7a",
+      "title": "Street rallies held as Taliban govt marks five years ruling Afghanistan",
+      "link": "https://finance.yahoo.com/m/c7569cc1-9064-335d-9e03-229633d43e7a/street-rallies-held-as.html",
       "publisher": "AFP",
-      "time": 1786795334,
+      "time": 1786798321,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "79b73c1c-e364-315f-8433-18e9ae96269d",
-      "title": "Dow Jones Futures: Market Ready To Run? Sandisk Soars, Nvidia In Buy Area; Walmart, Target Due",
-      "link": "https://finance.yahoo.com/m/79b73c1c-e364-315f-8433-18e9ae96269d/dow-jones-futures%3A-market.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1786795232,
+      "id": "241d41c9-988a-39c2-8aaa-bdbf1a382af6",
+      "title": "CEO Lip Bu-Tan Just Gave Intel a $10 Million Vote of Confidence",
+      "link": "https://finance.yahoo.com/m/241d41c9-988a-39c2-8aaa-bdbf1a382af6/ceo-lip-bu-tan-just-gave.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786798239,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ce0b93a6-4ec8-34f4-9785-5c99b874351f",
+      "title": "UK PM urges 'reflection' after Cambridge professor's death",
+      "link": "https://finance.yahoo.com/m/ce0b93a6-4ec8-34f4-9785-5c99b874351f/uk-pm-urges-%27reflection%27.html",
+      "publisher": "AFP",
+      "time": 1786798075,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "536c191a-2e49-3bb6-8823-b801bd1b74f5",
+      "title": "5 Revealing Analyst Questions From Casella Waste Systems’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-casella-124500485.html",
+      "publisher": "StockStory",
+      "time": 1786797900,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
+    },
+    {
+      "id": "cea3b7f3-dd48-3fb6-8dae-e9b5c102df78",
+      "title": "Block Stock Slumps Despite Earnings Rising by 65%",
+      "link": "https://finance.yahoo.com/m/cea3b7f3-dd48-3fb6-8dae-e9b5c102df78/block-stock-slumps-despite.html",
+      "publisher": "Motley Fool",
+      "time": 1786797660,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "21ba1472-60e5-3fc7-9d2c-d8e7b161ad8c",
+      "title": "The 5 Most Interesting Analyst Questions From ResMed’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-123700060.html",
+      "publisher": "StockStory",
+      "time": 1786797420,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "61c0df70-1df1-3aa0-9d10-e53c48f105ea",
+      "title": "Nu Holdings Banks More Than Half the Adults in Brazil",
+      "link": "https://finance.yahoo.com/m/61c0df70-1df1-3aa0-9d10-e53c48f105ea/nu-holdings-banks-more-than.html",
+      "publisher": "Motley Fool",
+      "time": 1786797420,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "42d8a563-67f6-3720-a347-aa9c2259382c",
+      "title": "Earthquake rocks Spain's tourist jewel Granada",
+      "link": "https://finance.yahoo.com/m/42d8a563-67f6-3720-a347-aa9c2259382c/earthquake-rocks-spain%27s.html",
+      "publisher": "AFP",
+      "time": 1786797361,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
