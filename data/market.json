@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T16:16:27.873407+00:00",
+  "updatedAt": "2026-08-15T16:48:31.316133+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,41 +52,20 @@
   ],
   "news": [
     {
-      "id": "7f4b8422-d7b1-3946-b013-a38a834839c7",
-      "title": "BLNR nixes long-term East Maui water license for Mahi Pono",
-      "link": "https://finance.yahoo.com/m/7f4b8422-d7b1-3946-b013-a38a834839c7/blnr-nixes-long-term-east.html",
-      "publisher": "The Honolulu Star-Advertiser",
-      "time": 1786809960,
+      "id": "91e063a9-c371-34a2-856a-b37487e43e8a",
+      "title": "Fernandez booed by Chelsea fans in friendly win over Sociedad",
+      "link": "https://finance.yahoo.com/m/91e063a9-c371-34a2-856a-b37487e43e8a/fernandez-booed-by-chelsea.html",
+      "publisher": "AFP",
+      "time": 1786811997,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b7575585-0b07-383a-9c35-b31ee6dc5ce0",
-      "title": "FedEx closes more U.S. locations as it changes how packages move",
-      "link": "https://finance.yahoo.com/m/b7575585-0b07-383a-9c35-b31ee6dc5ce0/fedex-closes-more-u.s..html",
-      "publisher": "TheStreet",
-      "time": 1786809780,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "25af129d-7755-3b68-8dc9-5689aadb7198",
-      "title": "JRM Construction Management Completes Relocation and Consolidation of the Corporate Headquarters for MJH Life Sciences(R) in Monroe Township, New Jersey",
-      "link": "https://finance.yahoo.com/healthcare/articles/jrm-construction-management-completes-relocation-160000208.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786809600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "339ca821-d3e7-3376-97ab-d5a10b526c98",
-      "title": "209-year-old bank reveals XRP holdings",
-      "link": "https://finance.yahoo.com/m/339ca821-d3e7-3376-97ab-d5a10b526c98/209-year-old-bank-reveals-xrp.html",
-      "publisher": "TheStreet",
-      "time": 1786809600,
+      "id": "0e3ab7f8-5399-3919-9463-5563124cb693",
+      "title": "PAR Technology’s Q2 Earnings Call: Our Top 5 Analyst Questions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/par-technology-q2-earnings-call-163700635.html",
+      "publisher": "StockStory",
+      "time": 1786811820,
       "impact": "medium",
       "tags": [
         "macro",
@@ -94,20 +73,61 @@
       ]
     },
     {
-      "id": "6f275813-1bfd-3931-a0dd-b9048ae5cf56",
-      "title": "An attorney explains what a restaurant actually owes you when a server spills food on your lap",
-      "link": "https://finance.yahoo.com/small-business/articles/attorney-explains-restaurant-actually-owes-160000478.html",
-      "publisher": "Moneywise",
-      "time": 1786809600,
+      "id": "0ebe8395-270f-3f7f-9503-f738040ff322",
+      "title": "Gold's wild 2026 ride might not be over yet",
+      "link": "https://finance.yahoo.com/m/0ebe8395-270f-3f7f-9503-f738040ff322/gold%27s-wild-2026-ride-might.html",
+      "publisher": "TheStreet",
+      "time": 1786811820,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b35f5baf-15f3-3bc7-a7a1-7f47929aa1cd",
-      "title": "The Risk-Amplifying Strategy That Led to Big Losses at Situational Awareness",
-      "link": "https://finance.yahoo.com/video/risk-amplifying-strategy-led-big-160000069.html",
-      "publisher": "WSJ",
-      "time": 1786809600,
+      "id": "54a3275e-255b-3f9b-80b9-82ff079dc7a6",
+      "title": "Worried About an AI Bubble? These Tech Stocks Are Well-Suited to Survive an AI Bust.",
+      "link": "https://finance.yahoo.com/m/54a3275e-255b-3f9b-80b9-82ff079dc7a6/worried-about-an-ai-bubble%3F.html",
+      "publisher": "Motley Fool",
+      "time": 1786811700,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "55222a30-2ab6-3fdd-88ff-bdb8e328a753",
+      "title": "FDA inspects Taylor Farms Mexico plant linked to outbreak",
+      "link": "https://finance.yahoo.com/m/55222a30-2ab6-3fdd-88ff-bdb8e328a753/fda-inspects-taylor-farms.html",
+      "publisher": "USA TODAY",
+      "time": 1786811482,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0de93ecc-4eb7-3fea-85c5-2fd71277e40a",
+      "title": "FDA advisers vote to let 6 unproven peptides skip clinical trials — and half the panel has industry ties",
+      "link": "https://finance.yahoo.com/healthcare/articles/fda-advisers-vote-let-6-163000842.html",
+      "publisher": "Moneywise",
+      "time": 1786811400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f17a9765-77dc-32d9-8938-d29b915d8f0d",
+      "title": "5 Insightful Analyst Questions From FOX’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/media-advertising/articles/5-insightful-analyst-questions-fox-162900333.html",
+      "publisher": "StockStory",
+      "time": 1786811340,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "99a3bd34-ecdf-3658-a9ea-0ab3804eff9e",
+      "title": "Warren Buffett Wasn’t the Only Billionaire Buying Alphabet Stock in Q2",
+      "link": "https://finance.yahoo.com/m/99a3bd34-ecdf-3658-a9ea-0ab3804eff9e/warren-buffett-wasn%E2%80%99t-the.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786811153,
       "impact": "high",
       "tags": [
         "geo",
@@ -115,40 +135,25 @@
       ]
     },
     {
-      "id": "d03ba560-c348-350d-bdcc-0285937c3365",
-      "title": "/R E P E A T -- North Edmonton Tooth Fairy Day August 15, 2026 @ 10am-2pm Aponia Dental/",
-      "link": "https://finance.yahoo.com/healthcare/articles/r-e-p-e-t-160000877.html",
-      "publisher": "CNW Group",
-      "time": 1786809600,
+      "id": "975763f6-2b80-36dc-bf10-8d4eec64c873",
+      "title": "Josh D'Amaro pledges new stories and experiences in first address as CEO to Disney faithful",
+      "link": "https://finance.yahoo.com/m/975763f6-2b80-36dc-bf10-8d4eec64c873/josh-d%27amaro-pledges-new.html",
+      "publisher": "LA Times",
+      "time": 1786810909,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c4dd0eea-5b89-30cd-908c-7c92a49307c1",
-      "title": "Prediction: This Is What a $1,000 Investment in Sandisk Will Be Worth by 2030",
-      "link": "https://finance.yahoo.com/m/c4dd0eea-5b89-30cd-908c-7c92a49307c1/prediction%3A-this-is-what-a.html",
-      "publisher": "Motley Fool",
-      "time": 1786809540,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "29b4339f-5299-3d20-b464-7456c700f397",
-      "title": "Mystery of the missing mini Mozarts",
-      "link": "https://finance.yahoo.com/m/29b4339f-5299-3d20-b464-7456c700f397/mystery-of-the-missing-mini.html",
-      "publisher": "CBS News Videos",
-      "time": 1786809477,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0d75e8e0-f219-3d6a-a60e-285048b63bf1",
-      "title": "Fans line Welsh streets as Bonnie Tyler body's returns for funeral",
-      "link": "https://finance.yahoo.com/m/0d75e8e0-f219-3d6a-a60e-285048b63bf1/fans-line-welsh-streets-as.html",
-      "publisher": "AFP",
-      "time": 1786809476,
-      "impact": "low",
-      "tags": []
+      "id": "9f62573d-d9b5-368b-a06c-baa97aaaf1b0",
+      "title": "5 Must-Read Analyst Questions From US Foods’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-162100408.html",
+      "publisher": "StockStory",
+      "time": 1786810860,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
