@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T07:50:38.089458+00:00",
+  "updatedAt": "2026-08-15T08:20:05.684877+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,32 +52,20 @@
   ],
   "news": [
     {
-      "id": "6bdd9c04-bdb3-3368-b151-9d65ca32534c",
-      "title": "5 Revealing Analyst Questions From 10x Genomics’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-10x-074100628.html",
-      "publisher": "StockStory",
-      "time": 1786779660,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "92e011d1-f045-31bc-b661-39b80efaecc7",
-      "title": "No monkey business: India 'whisperers' guard world championships",
-      "link": "https://finance.yahoo.com/m/92e011d1-f045-31bc-b661-39b80efaecc7/no-monkey-business%3A-india.html",
+      "id": "69289218-6917-3c03-815e-cab83e0603ef",
+      "title": "LA Olympics has to allow politicians on the bus, just not behind the wheel - Coe",
+      "link": "https://finance.yahoo.com/m/69289218-6917-3c03-815e-cab83e0603ef/la-olympics-has-to-allow.html",
       "publisher": "AFP",
-      "time": 1786779347,
+      "time": 1786781184,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "940d3a2c-7ec6-3076-9beb-172db10d2bd3",
-      "title": "The 5 Most Interesting Analyst Questions From Keurig Dr Pepper’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-073300035.html",
+      "id": "a938a971-340a-3b14-bc77-7a4ee9a99dd9",
+      "title": "The 5 Most Interesting Analyst Questions From Doximity’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-080500561.html",
       "publisher": "StockStory",
-      "time": 1786779180,
+      "time": 1786781100,
       "impact": "medium",
       "tags": [
         "macro",
@@ -85,71 +73,79 @@
       ]
     },
     {
-      "id": "f3d85355-ae78-33df-a481-8d04a5a69900",
-      "title": "If You'd Invested $10,000 in Oracle a Year Ago, Here's What It Would Be Worth Today",
-      "link": "https://finance.yahoo.com/m/f3d85355-ae78-33df-a481-8d04a5a69900/if-you%27d-invested-%2410%2C000-in.html",
-      "publisher": "Motley Fool",
-      "time": 1786779060,
+      "id": "c7569cc1-9064-335d-9e03-229633d43e7a",
+      "title": "Flags, music as Taliban authorities mark five years ruling Afghanistan",
+      "link": "https://finance.yahoo.com/m/c7569cc1-9064-335d-9e03-229633d43e7a/flags%2C-music-as-taliban.html",
+      "publisher": "AFP",
+      "time": 1786780986,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "fc2a5d99-0cd6-3f4e-80f1-df667afb2814",
-      "title": "The 5 Most Interesting Analyst Questions From Acushnet’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-072500604.html",
-      "publisher": "StockStory",
-      "time": 1786778700,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "bc615368-ded7-3fae-a870-d273ec72c3ce",
-      "title": "Lingnan University rises 300 places in the 2026 ShanghaiRanking's Academic Ranking of World Universities Achieves biggest improvement and ranks 6th among Hong Kong SAR's eight UGC-funded universities",
-      "link": "https://finance.yahoo.com/technology/ai/articles/lingnan-university-rises-300-places-071900102.html",
-      "publisher": "PR Newswire",
-      "time": 1786778340,
+      "id": "0b42624c-d6c6-3052-8799-e54bcc4559b8",
+      "title": "Georgia Square redevelopment hinges on key rezoning vote this fall",
+      "link": "https://finance.yahoo.com/m/0b42624c-d6c6-3052-8799-e54bcc4559b8/georgia-square-redevelopment.html",
+      "publisher": "Athens Banner-Herald",
+      "time": 1786780932,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3b09e0c4-dadc-30cd-b4f6-449787be0c76",
-      "title": "5 Must-Read Analyst Questions From StepStone Group’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-071700414.html",
-      "publisher": "StockStory",
-      "time": 1786778220,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "4a4bb49c-b455-37eb-a3ec-c342907101cb",
-      "title": "Amazon is selling a 2-in-1 laptop and tablet for just $75",
-      "link": "https://finance.yahoo.com/m/4a4bb49c-b455-37eb-a3ec-c342907101cb/amazon-is-selling-a-2-in-1.html",
+      "id": "bf12801b-0603-3da9-8006-0e6a16da4137",
+      "title": "Amazon is selling a space-saving farmhouse cabinet for just $70",
+      "link": "https://finance.yahoo.com/m/bf12801b-0603-3da9-8006-0e6a16da4137/amazon-is-selling-a.html",
       "publisher": "TheStreet",
-      "time": 1786778100,
+      "time": 1786780800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "22d10668-c9bd-3706-87e7-9d454d7ced2b",
-      "title": "Israeli strike kills 7 in Lebanon, 2 tankers attacked in Hormuz and other news from the Middle East",
-      "link": "https://finance.yahoo.com/m/22d10668-c9bd-3706-87e7-9d454d7ced2b/israeli-strike-kills-7-in.html",
-      "publisher": "Associated Press",
-      "time": 1786778004,
+      "id": "e134cbf7-1240-30aa-b956-8d1806b8e267",
+      "title": "U.K. steps up defense supply-chain checks after naval drones signal China",
+      "link": "https://finance.yahoo.com/m/e134cbf7-1240-30aa-b956-8d1806b8e267/u.k.-steps-up-defense.html",
+      "publisher": "Investing.com",
+      "time": 1786780776,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "4c30bccc-aed2-3150-9fd8-a450b2dc5d06",
+      "title": "Atletico sign veteran Argentinian defender Romero from Spurs",
+      "link": "https://finance.yahoo.com/m/4c30bccc-aed2-3150-9fd8-a450b2dc5d06/atletico-sign-veteran.html",
+      "publisher": "AFP",
+      "time": 1786780669,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7ad6f0bc-ed21-39bf-867a-cb8f4d49202f",
-      "title": "JD.com (JD) Posts First Quarterly Revenue Decline Since Listing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jd-com-jd-posts-first-071042543.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786777842,
+      "id": "88a01128-9f3b-3fb7-b6c2-41375d4d4584",
+      "title": "5 Must-Read Analyst Questions From Astrana Health’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/healthcare/articles/5-must-read-analyst-questions-075700764.html",
+      "publisher": "StockStory",
+      "time": 1786780620,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "da86fc01-1b6f-3a19-9066-e131db100512",
+      "title": "Iran fires back at Trump's threat to declare Hormuz a US territory",
+      "link": "https://finance.yahoo.com/m/da86fc01-1b6f-3a19-9066-e131db100512/iran-fires-back-at-trump%27s.html",
+      "publisher": "AFP",
+      "time": 1786780487,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1748e365-6390-3e33-bc89-c8ed48ac7c1e",
+      "title": "'Like we were on a trampoline': Indonesia quake kills 20, thousands flee",
+      "link": "https://finance.yahoo.com/m/1748e365-6390-3e33-bc89-c8ed48ac7c1e/%27like-we-were-on-a.html",
+      "publisher": "AFP",
+      "time": 1786780280,
       "impact": "low",
       "tags": []
     }
