@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T05:48:54.937371+00:00",
+  "updatedAt": "2026-08-15T06:26:11.048887+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,11 +52,11 @@
   ],
   "news": [
     {
-      "id": "612f7ec1-0fee-3e2e-9624-2623239e8e76",
-      "title": "Quest Resource’s Q2 Earnings Call: Our Top 5 Analyst Questions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/quest-q2-earnings-call-top-054100046.html",
+      "id": "24694bbc-181c-339b-9aec-3c4606561ecd",
+      "title": "Clean Energy Fuels’s Q2 Earnings Call: Our Top 5 Analyst Questions",
+      "link": "https://finance.yahoo.com/energy/articles/clean-energy-fuels-q2-earnings-062100949.html",
       "publisher": "StockStory",
-      "time": 1786772460,
+      "time": 1786774860,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,11 +64,11 @@
       ]
     },
     {
-      "id": "c66dcfca-40f5-34d8-89da-a62baf9c22c7",
-      "title": "The 5 Most Interesting Analyst Questions From Main Street Capital’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-053300751.html",
+      "id": "6798e833-687d-3bad-b73c-a5383183ef7d",
+      "title": "The Top 5 Analyst Questions From Northern Oil and Gas’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-northern-061300597.html",
       "publisher": "StockStory",
-      "time": 1786771980,
+      "time": 1786774380,
       "impact": "medium",
       "tags": [
         "macro",
@@ -76,11 +76,11 @@
       ]
     },
     {
-      "id": "0e776046-17b7-31df-b247-fc56659db0a1",
-      "title": "5 Insightful Analyst Questions From ESCO’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-esco-052500889.html",
-      "publisher": "StockStory",
-      "time": 1786771500,
+      "id": "b7661513-1069-32fa-9fa8-97ba8c284f54",
+      "title": "Why Xeris Biopharma Holdings (XERS) Is Up 8.4% After Tightening 2026 Revenue Guidance And Advancing XP-8121",
+      "link": "https://finance.yahoo.com/healthcare/articles/why-xeris-biopharma-holdings-xers-061158348.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786774318,
       "impact": "medium",
       "tags": [
         "macro",
@@ -88,20 +88,11 @@
       ]
     },
     {
-      "id": "a2580210-667b-387e-a6a1-6b73075ac275",
-      "title": "Elon Musk Admits He Underestimated Anthropic's AI -- Why Amazon Investors Should Care",
-      "link": "https://finance.yahoo.com/m/a2580210-667b-387e-a6a1-6b73075ac275/elon-musk-admits-he.html",
-      "publisher": "Motley Fool",
-      "time": 1786771200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "faabe581-18f5-300c-aca6-e369056beba9",
-      "title": "The 5 Most Interesting Analyst Questions From Post’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-051700569.html",
-      "publisher": "StockStory",
-      "time": 1786771020,
+      "id": "be4b1a64-035e-310e-94ad-0a37ac51b002",
+      "title": "Pfizer (PFE) Stock Looks Reasonable On Returns But Stretched On Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pfizer-pfe-stock-looks-reasonable-061157778.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786774317,
       "impact": "medium",
       "tags": [
         "macro",
@@ -109,51 +100,64 @@
       ]
     },
     {
-      "id": "49c257f1-9db8-32fa-a5cf-7f640e13d87d",
-      "title": "Murphy USA (MUSA) Is Up 9.4% After Dividend Hike And Strong Q2 Results - What's Changed",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/murphy-usa-musa-9-4-050957029.html",
+      "id": "59a39bc6-e8f5-373c-a037-9e213af2f87b",
+      "title": "EssilorLuxottica (ENXTPA:EL) Stock Could Be Trading At A Discount Following Its 39% Slump",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/essilorluxottica-enxtpa-el-stock-could-061156339.html",
       "publisher": "Simply Wall St.",
-      "time": 1786770597,
+      "time": 1786774316,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "252b1c92-ebd1-3e0e-a5d0-d5685f8b57e4",
-      "title": "Fortuna Mining (TSX:FVI) Stock Trades Below Fair Value On Its 285% Run",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fortuna-mining-tsx-fvi-stock-050950148.html",
+      "id": "370086e2-3fc3-3b3f-95ee-ba6fe46d5714",
+      "title": "MongoDB (MDB), What Is Behind The Latest Attention?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-behind-latest-attention-061137228.html",
       "publisher": "Simply Wall St.",
-      "time": 1786770590,
+      "time": 1786774297,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6317f8bc-e262-31b4-8bf8-9b2349127b94",
+      "title": "Kontoor Brands (KTB) Stock Sees Modest Fair Value Lift After Lee Sale And Q2 Update",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kontoor-brands-ktb-stock-sees-061123740.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786774283,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4c48c01f-d50d-3a84-be2a-58e8f1dd6533",
+      "title": "Guidewire’s New Qusar AI Agent Framework Might Change The Case For Investing In GWRE",
+      "link": "https://finance.yahoo.com/technology/ai/articles/guidewire-qusar-ai-agent-framework-061113843.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786774273,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4889f46d-4d18-3903-8039-ab6d85fe017a",
+      "title": "Hawaiian Electric Industries (HE) Earnings Put Its Undervalued Narrative Back In Focus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hawaiian-electric-industries-earnings-put-061109618.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786774269,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "fcdd86b0-ea02-3a2d-9e68-27ffd1cffb3c",
-      "title": "Is Cadence Design Systems (CDNS) Undervalued As It Raises Its 2026 Outlook?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-cdns-undervalued-050932460.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786770572,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1debc7b4-9034-3238-839e-1b2dcdc8dee4",
-      "title": "Why Did JetBlue Airways (JBLU) Move Today?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-jetblue-airways-jblu-050923516.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786770563,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d99c2a51-a553-3f4e-981c-bf543cecb7eb",
-      "title": "What Does American International Group (AIG) Gain From Its Cloud Outage Cover?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/does-american-international-group-aig-050918859.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786770558,
-      "impact": "low",
-      "tags": []
+      "id": "0782561a-8d0a-3230-a6f1-c56fbb805841",
+      "title": "The Top 5 Analyst Questions From Halozyme Therapeutics’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-halozyme-060500441.html",
+      "publisher": "StockStory",
+      "time": 1786773900,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
