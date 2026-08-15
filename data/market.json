@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T05:19:05.173233+00:00",
+  "updatedAt": "2026-08-15T05:48:54.937371+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,11 +52,11 @@
   ],
   "news": [
     {
-      "id": "436b6d80-f863-34ec-91c6-7ad9703ea291",
-      "title": "5 Insightful Analyst Questions From Natera’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-natera-050900049.html",
+      "id": "612f7ec1-0fee-3e2e-9624-2623239e8e76",
+      "title": "Quest Resource’s Q2 Earnings Call: Our Top 5 Analyst Questions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/quest-q2-earnings-call-top-054100046.html",
       "publisher": "StockStory",
-      "time": 1786770540,
+      "time": 1786772460,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,20 +64,44 @@
       ]
     },
     {
-      "id": "3c5b2440-218f-3bec-ade7-3d93463eedbe",
-      "title": "Pallister holds off Ledecky to win Pan Pacs 400m free title",
-      "link": "https://finance.yahoo.com/m/3c5b2440-218f-3bec-ade7-3d93463eedbe/pallister-holds-off-ledecky.html",
-      "publisher": "AFP",
-      "time": 1786770526,
+      "id": "c66dcfca-40f5-34d8-89da-a62baf9c22c7",
+      "title": "The 5 Most Interesting Analyst Questions From Main Street Capital’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-053300751.html",
+      "publisher": "StockStory",
+      "time": 1786771980,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "0e776046-17b7-31df-b247-fc56659db0a1",
+      "title": "5 Insightful Analyst Questions From ESCO’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-esco-052500889.html",
+      "publisher": "StockStory",
+      "time": 1786771500,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a2580210-667b-387e-a6a1-6b73075ac275",
+      "title": "Elon Musk Admits He Underestimated Anthropic's AI -- Why Amazon Investors Should Care",
+      "link": "https://finance.yahoo.com/m/a2580210-667b-387e-a6a1-6b73075ac275/elon-musk-admits-he.html",
+      "publisher": "Motley Fool",
+      "time": 1786771200,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a574cf2d-0c12-3d06-bca8-8918cb81c2b1",
-      "title": "5 Must-Read Analyst Questions From Fiserv’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-050100025.html",
+      "id": "faabe581-18f5-300c-aca6-e369056beba9",
+      "title": "The 5 Most Interesting Analyst Questions From Post’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-051700569.html",
       "publisher": "StockStory",
-      "time": 1786770060,
+      "time": 1786771020,
       "impact": "medium",
       "tags": [
         "macro",
@@ -85,85 +109,51 @@
       ]
     },
     {
-      "id": "6b0dad7f-a95d-3626-b872-b3fa4aba0077",
-      "title": "TOMI Environmental Solutions Inc (TOMZ) (Q2 2026) Earnings Call Highlights: Revenue Surges 118% ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tomi-environmental-solutions-inc-tomz-050050855.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786770050,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "1748e365-6390-3e33-bc89-c8ed48ac7c1e",
-      "title": "Powerful quake off Indonesia kills 20, sparks mass evacuations",
-      "link": "https://finance.yahoo.com/m/1748e365-6390-3e33-bc89-c8ed48ac7c1e/powerful-quake-off-indonesia.html",
-      "publisher": "AFP",
-      "time": 1786770042,
+      "id": "49c257f1-9db8-32fa-a5cf-7f640e13d87d",
+      "title": "Murphy USA (MUSA) Is Up 9.4% After Dividend Hike And Strong Q2 Results - What's Changed",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/murphy-usa-musa-9-4-050957029.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786770597,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "396cb7c0-4278-3f96-9cc1-ef198b86d3d4",
-      "title": "Corvex Inc (MOVE) (Q2 2026) Earnings Call Highlights: AI Infrastructure Growth and Strategic ...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/corvex-inc-move-q2-2026-050028268.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786770028,
+      "id": "252b1c92-ebd1-3e0e-a5d0-d5685f8b57e4",
+      "title": "Fortuna Mining (TSX:FVI) Stock Trades Below Fair Value On Its 285% Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fortuna-mining-tsx-fvi-stock-050950148.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786770590,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
     },
     {
-      "id": "c4a24593-4919-3d26-a87b-9b77e8bb05e6",
-      "title": "Solana Co (HSDT) (Q2 2026) Earnings Call Highlights: Staking Revenue Surges to $2. ...",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/solana-co-hsdt-q2-2026-050028590.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786770028,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "fcdd86b0-ea02-3a2d-9e68-27ffd1cffb3c",
+      "title": "Is Cadence Design Systems (CDNS) Undervalued As It Raises Its 2026 Outlook?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-cdns-undervalued-050932460.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786770572,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "be3716cd-7677-301f-ba27-576729015a0e",
-      "title": "Sidus Space Inc (SIDU) (Q2 2026) Earnings Call Highlights: $158. ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sidus-space-inc-sidu-q2-050027134.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786770027,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "1debc7b4-9034-3238-839e-1b2dcdc8dee4",
+      "title": "Why Did JetBlue Airways (JBLU) Move Today?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-jetblue-airways-jblu-050923516.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786770563,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "e1fa901c-a9b1-32af-b83a-bf9be567d08c",
-      "title": "Motorsport Games Inc (MSGM) (Q2 2026) Earnings Call Highlights: Revenue Surges 74% as ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/motorsport-games-inc-msgm-q2-050027956.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786770027,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "432c2c23-5fcb-37fb-8dae-fa55666322e5",
-      "title": "The 5 Most Interesting Analyst Questions From Dentsply Sirona’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-045300533.html",
-      "publisher": "StockStory",
-      "time": 1786769580,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "d99c2a51-a553-3f4e-981c-bf543cecb7eb",
+      "title": "What Does American International Group (AIG) Gain From Its Cloud Outage Cover?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/does-american-international-group-aig-050918859.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786770558,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
