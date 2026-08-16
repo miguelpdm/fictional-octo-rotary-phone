@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T13:08:32.363611+00:00",
+  "updatedAt": "2026-08-16T13:50:53.865572+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,108 +52,99 @@
   ],
   "news": [
     {
-      "id": "762c8506-1567-35fa-b285-4abbaabae784",
-      "title": "Vivian Tu says investors carrying credit card debt need to stop and pay it off first. The math says she's right",
-      "link": "https://finance.yahoo.com/markets/articles/vivian-tu-says-investors-carrying-130000844.html",
-      "publisher": "Moneywise",
-      "time": 1786885200,
+      "id": "a00ee2fa-977a-3f39-a0ee-8df8a01ab2aa",
+      "title": "In HelloNation, Insurance Expert Scott Hopson Shares Auto Insurance Advice for Tourist Season",
+      "link": "https://finance.yahoo.com/healthcare/articles/hellonation-insurance-expert-scott-hopson-134200954.html",
+      "publisher": "PR Newswire",
+      "time": 1786887720,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bf840be6-55af-30a6-9742-5689d5ae1507",
-      "title": "'A serious mistake': Moody's Analytics economist says the Fed is putting the economy at risk with its silence",
-      "link": "https://finance.yahoo.com/economy/policy/articles/serious-mistake-moodys-analytics-economist-125500943.html",
-      "publisher": "Moneywise",
-      "time": 1786884900,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "0594df0a-8183-36bc-9b90-19c35d8d655f",
-      "title": "Greg Abel Starts Spending: Berkshire’s Cash Hoard Finally Gets Put to Work",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/greg-abel-starts-spending-berkshire-125459967.html",
-      "publisher": "Insider Monkey",
-      "time": 1786884899,
+      "id": "c99c1ad9-0e43-31c8-896e-db497d4d492c",
+      "title": "Copper Is Rebounding. What's the Best Way to Invest?",
+      "link": "https://finance.yahoo.com/m/c99c1ad9-0e43-31c8-896e-db497d4d492c/copper-is-rebounding.-what%27s.html",
+      "publisher": "Motley Fool",
+      "time": 1786887420,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e7f58ffb-25e6-323a-88c5-b49702cd7a60",
-      "title": "1 Surging  Stock Worth Investigating and 2 Facing Challenges",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-surging-stock-worth-investigating-125300824.html",
+      "id": "1dc7ca73-db3c-306e-a145-7f72a54154f9",
+      "title": "Rahm Emanuel on Trump, the left, and what's right for America",
+      "link": "https://finance.yahoo.com/m/1dc7ca73-db3c-306e-a145-7f72a54154f9/rahm-emanuel-on-trump%2C-the.html",
+      "publisher": "CBS News Videos",
+      "time": 1786887366,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fee4d72e-af89-3d75-8d66-3c42851b3724",
+      "title": "There's No Denying Altria Group Has a High Yield, But This Stock Could Be an Even Better Buy for Dividend Investors Looking for Reliable Passive Income",
+      "link": "https://finance.yahoo.com/m/fee4d72e-af89-3d75-8d66-3c42851b3724/there%27s-no-denying-altria.html",
+      "publisher": "Motley Fool",
+      "time": 1786887300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "27c8480b-f0a6-30df-9962-4d37cac3ea67",
+      "title": "2 Unprofitable Stocks with Competitive Advantages and 1 Facing Challenges",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-unprofitable-stocks-competitive-advantages-133300631.html",
       "publisher": "StockStory",
-      "time": 1786884780,
-      "impact": "low",
+      "time": 1786887180,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "1f256aa2-b78e-3c13-a629-c9fcd6b93c99",
-      "title": "Michael Burry Warns of a Market Bubble. This Indicator Close to Breaking a 150-Year Record Says He May Be Right",
-      "link": "https://finance.yahoo.com/m/1f256aa2-b78e-3c13-a629-c9fcd6b93c99/michael-burry-warns-of-a.html",
+      "id": "ca41f793-ce40-388d-a916-920e4ca1f060",
+      "title": "SpaceX is Planning to Spend Up to $500 Billion on Data Centers. Here’s Why Elon Musk is Pushing All-In",
+      "link": "https://finance.yahoo.com/m/ca41f793-ce40-388d-a916-920e4ca1f060/spacex-is-planning-to-spend.html",
       "publisher": "24/7 Wall St.",
-      "time": 1786884476,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "dc3de440-699a-3dc4-9ac7-6a5fda42574d",
-      "title": "2 Cash-Producing Stocks Worth Investigating and 1 We Avoid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-cash-producing-stocks-worth-124500781.html",
-      "publisher": "StockStory",
-      "time": 1786884300,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "60a73048-52fd-3b3b-889e-bf4934725a7f",
-      "title": "3 Magnificent High-Yield Dividend Stocks to Buy That Are Near 52-Week Lows",
-      "link": "https://finance.yahoo.com/m/60a73048-52fd-3b3b-889e-bf4934725a7f/3-magnificent-high-yield.html",
-      "publisher": "Motley Fool",
-      "time": 1786884000,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "408b20f1-373e-3f85-bbe9-72409f3c904a",
-      "title": "2 of Wall Street’s Favorite Stocks for Long-Term Investors and 1 We Find Risky",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-wall-street-favorite-stocks-123700194.html",
-      "publisher": "StockStory",
-      "time": 1786883820,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "6cbae8b4-41a0-3eb6-adda-ddaa7ba48622",
-      "title": "Nintendo’s “Pokémon Pokopia” Farms 5 Million Copies",
-      "link": "https://finance.yahoo.com/m/6cbae8b4-41a0-3eb6-adda-ddaa7ba48622/nintendo%E2%80%99s-%E2%80%9Cpok%C3%A9mon-pokopia%E2%80%9D.html",
-      "publisher": "Moby",
-      "time": 1786883820,
+      "time": 1786887115,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1f7243f7-0d56-3d98-8222-f3271300295b",
-      "title": "Retirees Worried About Possible Social Security Cuts Risk Making Matters Worse if They Do This",
-      "link": "https://finance.yahoo.com/m/1f7243f7-0d56-3d98-8222-f3271300295b/retirees-worried-about.html",
-      "publisher": "Motley Fool",
-      "time": 1786883640,
+      "id": "28ed9676-f647-3a96-ad26-b940fca07806",
+      "title": "A $10,000 surgery could save a 12-year-old dog's life — but one spouse calls it a waste of money",
+      "link": "https://finance.yahoo.com/small-business/articles/10-000-surgery-could-save-133000158.html",
+      "publisher": "Moneywise",
+      "time": 1786887000,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "586cbed5-80f8-3fcd-a707-b810330d7b66",
+      "title": "Media Advisory - Closed-Door Briefing on an Announcement Concerning Québec's Energy Security",
+      "link": "https://finance.yahoo.com/energy/articles/media-advisory-closed-door-briefing-133000606.html",
+      "publisher": "CNW Group",
+      "time": 1786887000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d93d56b0-f2df-3e1b-a907-6891d3fba5c8",
+      "title": "Walmart has highly rated desktop drawers for just $10 that clear workspace clutter",
+      "link": "https://finance.yahoo.com/m/d93d56b0-f2df-3e1b-a907-6891d3fba5c8/walmart-has-highly-rated.html",
+      "publisher": "TheStreet",
+      "time": 1786887000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a9ad4fc7-57e2-3955-ae0e-ebddf5611339",
+      "title": "After Comparing Every Dividend ETF That Owns the Magnificent Seven, These 3 Pay You Without Giving Up the AI Trade",
+      "link": "https://finance.yahoo.com/m/a9ad4fc7-57e2-3955-ae0e-ebddf5611339/after-comparing-every.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786886846,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
     }
   ],
   "errors": {
