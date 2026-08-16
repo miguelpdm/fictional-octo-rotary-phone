@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T08:54:48.410604+00:00",
+  "updatedAt": "2026-08-16T09:20:27.151262+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,61 +52,59 @@
   ],
   "news": [
     {
-      "id": "41293ddc-92a0-3a2e-89f3-953aa6323aac",
-      "title": "Is CoreWeave Stock a Buy After a Co-Founder's Latest Insider Filing? Here's What to Know",
-      "link": "https://finance.yahoo.com/m/41293ddc-92a0-3a2e-89f3-953aa6323aac/is-coreweave-stock-a-buy.html",
-      "publisher": "Motley Fool",
-      "time": 1786869505,
+      "id": "43330ff8-7985-39c5-a4aa-b29f9b1fc189",
+      "title": "Puzzle solutions for Sunday, Aug. 16, 2026",
+      "link": "https://finance.yahoo.com/m/43330ff8-7985-39c5-a4aa-b29f9b1fc189/puzzle-solutions-for-sunday%2C.html",
+      "publisher": "USA TODAY",
+      "time": 1786871415,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "be3d494f-2edb-3129-a24c-60111efbb023",
-      "title": "5 Insightful Analyst Questions From Interface’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-interface-083700611.html",
-      "publisher": "StockStory",
-      "time": 1786869420,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "2323bd11-d880-3a28-9b50-5892d39b4d89",
+      "title": "Before death, ask yourself how much you trust your trustee",
+      "link": "https://finance.yahoo.com/m/2323bd11-d880-3a28-9b50-5892d39b4d89/before-death%2C-ask-yourself.html",
+      "publisher": "USA TODAY",
+      "time": 1786871369,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "ed5a3b8e-b186-3462-ad3b-018a9dea03f2",
-      "title": "These 5 AI Stocks Have Returned 300%-Plus Over the Past 3 Years -- and 1 Still Looks Dirt Cheap",
-      "link": "https://finance.yahoo.com/m/ed5a3b8e-b186-3462-ad3b-018a9dea03f2/these-5-ai-stocks-have.html",
-      "publisher": "Motley Fool",
-      "time": 1786869180,
+      "id": "d0a675d9-2e5f-3709-89ed-39ba58989104",
+      "title": "Gen Z is moving back home. They think it's a smart move",
+      "link": "https://finance.yahoo.com/m/d0a675d9-2e5f-3709-89ed-39ba58989104/gen-z-is-moving-back-home..html",
+      "publisher": "USA TODAY",
+      "time": 1786871049,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "41fd454a-24c3-3534-8b41-df5c373e6003",
+      "title": "The Market Is Flashing a Warning Sign -- and Savvy Investors Know It Points to an Opportunity to Buy These Stocks",
+      "link": "https://finance.yahoo.com/m/41fd454a-24c3-3534-8b41-df5c373e6003/the-market-is-flashing-a.html",
+      "publisher": "Motley Fool",
+      "time": 1786871040,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "3a7e8479-59ae-3189-b0f8-a59ab277e0e5",
-      "title": "Caterpillar named among top 100 companies in Illinois by Forbes",
-      "link": "https://finance.yahoo.com/m/3a7e8479-59ae-3189-b0f8-a59ab277e0e5/caterpillar-named-among-top.html",
-      "publisher": "Journal Star",
-      "time": 1786869026,
+      "id": "36382a65-b337-3213-bb48-6a73e9da3950",
+      "title": "LBI home originally built in 1851 as a life-saving station is for sale",
+      "link": "https://finance.yahoo.com/m/36382a65-b337-3213-bb48-6a73e9da3950/lbi-home-originally-built-in.html",
+      "publisher": "App.com | Asbury Park Press",
+      "time": 1786871027,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4f3a0d0d-af86-3286-85d2-07a30b9a5572",
-      "title": "Should You Worry That Another CoreWeave Insider Sold? Here's What to Know",
-      "link": "https://finance.yahoo.com/m/4f3a0d0d-af86-3286-85d2-07a30b9a5572/should-you-worry-that-another.html",
-      "publisher": "Motley Fool",
-      "time": 1786868966,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7cbaaafb-5e18-3cad-bab7-2c638805f886",
-      "title": "5 Insightful Analyst Questions From Essent Group’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-essent-082900422.html",
+      "id": "de5d8dae-de53-32dc-acf1-f10d449a4a0f",
+      "title": "WWW Q2 Deep Dive: Brand Momentum and Strategic Investments Lift Guidance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-deep-dive-brand-momentum-090100023.html",
       "publisher": "StockStory",
-      "time": 1786868940,
+      "time": 1786870860,
       "impact": "medium",
       "tags": [
         "macro",
@@ -114,44 +112,42 @@
       ]
     },
     {
-      "id": "88d146a8-e417-3d08-a914-34d769d10a0c",
-      "title": "President Donald Trump Claims Costs Are \"All Coming Down Now,\" but the Evolution of Trumpflation Appears to Be Having the Opposite Effect",
-      "link": "https://finance.yahoo.com/m/88d146a8-e417-3d08-a914-34d769d10a0c/president-donald-trump-claims.html",
-      "publisher": "Motley Fool",
-      "time": 1786868760,
+      "id": "152bf96a-b675-36ef-ba83-5c5d6e797c8d",
+      "title": "The health insurance 'death spiral' hitting more and more Americans",
+      "link": "https://finance.yahoo.com/m/152bf96a-b675-36ef-ba83-5c5d6e797c8d/the-health-insurance-%27death.html",
+      "publisher": "Quartz",
+      "time": 1786870800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2b90a87c-bc04-38dd-a76f-08caff4cb0ed",
-      "title": "What Other Restaurant Chains Should Learn From The Cheesecake Factory's Success",
-      "link": "https://finance.yahoo.com/m/2b90a87c-bc04-38dd-a76f-08caff4cb0ed/what-other-restaurant-chains.html",
-      "publisher": "Motley Fool",
-      "time": 1786868700,
+      "id": "5c5bc45f-a870-32f4-87c1-66e92529f448",
+      "title": "Growing threat to free speech: Bogus copyright claims making political stories disappear",
+      "link": "https://finance.yahoo.com/m/5c5bc45f-a870-32f4-87c1-66e92529f448/growing-threat-to-free.html",
+      "publisher": "South Florida Sun Sentinel",
+      "time": 1786870800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6e5fb53a-bfbd-3116-987c-83e4153043f7",
-      "title": "CoreWeave's Operating Chief Sold Before Earnings. Here's What to Know",
-      "link": "https://finance.yahoo.com/m/6e5fb53a-bfbd-3116-987c-83e4153043f7/coreweave%27s-operating-chief.html",
-      "publisher": "Motley Fool",
-      "time": 1786868560,
+      "id": "d2ee194d-483a-343b-a9a8-f4c4f4edbdd7",
+      "title": "I co-signed my brother's student loans over a decade ago — but he's suddenly stopped paying them. What can I do?",
+      "link": "https://finance.yahoo.com/small-business/articles/co-signed-brothers-student-loans-090000943.html",
+      "publisher": "Moneywise",
+      "time": 1786870800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cbac5639-fc11-3988-b0c3-130a9005c028",
+      "title": "The 5 Most Interesting Analyst Questions From Gray Television’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-085300856.html",
+      "publisher": "StockStory",
+      "time": 1786870380,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
-      ]
-    },
-    {
-      "id": "59d6885a-912c-3871-869c-580ca2434dfd",
-      "title": "AIT Q2 Deep Dive: Automation, Services, and M&A Pipeline Drive Growth Momentum",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ait-q2-deep-dive-automation-082100141.html",
-      "publisher": "StockStory",
-      "time": 1786868460,
-      "impact": "low",
-      "tags": [
-        "macro"
       ]
     }
   ],
