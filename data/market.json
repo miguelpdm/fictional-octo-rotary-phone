@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T07:09:07.487467+00:00",
+  "updatedAt": "2026-08-16T07:52:47.100485+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,106 +52,105 @@
   ],
   "news": [
     {
-      "id": "f05916df-692d-3dbd-8c36-2e2880d26bbf",
-      "title": "China plans faster rollout of renewable-energy recycling rules - CCTV",
-      "link": "https://finance.yahoo.com/energy/articles/china-plans-faster-rollout-renewable-065633535.html",
+      "id": "59d53320-c4be-30e6-b37f-715317b34abb",
+      "title": "Why Cisco (CSCO) Stock Is Down Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-cisco-csco-stock-down-074100939.html",
+      "publisher": "StockStory",
+      "time": 1786866060,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "64d56fd5-cf03-39a1-b891-e07eafade3ee",
+      "title": "Central bank market backstops risk fuelling leverage and future crises",
+      "link": "https://finance.yahoo.com/economy/policy/articles/central-bank-market-backstops-risk-073550702.html",
       "publisher": "Investing.com",
-      "time": 1786863393,
+      "time": 1786865750,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "47e605b3-f307-3712-b638-44195131923c",
-      "title": "Djokovic feels the heat in Cincinnati defeat, Zverev wins all-nighter",
-      "link": "https://finance.yahoo.com/m/47e605b3-f307-3712-b638-44195131923c/djokovic-feels-the-heat-in.html",
+      "id": "f7ca85f2-9a22-3275-9f90-da7852945902",
+      "title": "Why Dillard's (DDS) Shares Are Falling Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-dillards-dds-shares-falling-073300386.html",
+      "publisher": "StockStory",
+      "time": 1786865580,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "dc9566fb-0524-3f15-b2cf-351bd8486a7e",
+      "title": "Hurricane Lala brushes past Hawaii's Big Island, bringing heavy rain",
+      "link": "https://finance.yahoo.com/m/dc9566fb-0524-3f15-b2cf-351bd8486a7e/hurricane-lala-brushes-past.html",
       "publisher": "AFP",
-      "time": 1786863370,
+      "time": 1786865260,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a66d1c2d-61e5-3db8-9d22-35e7e5008375",
-      "title": "Perma-Fix (PESI) Stock Trades Down, Here Is Why",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/perma-fix-pesi-stock-trades-065300061.html",
+      "id": "bc4bf8bd-fcd7-3a8b-b008-8c7d0666bc52",
+      "title": "Netflix (NFLX) Stock Is Up, What You Need To Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-stock-know-072500706.html",
       "publisher": "StockStory",
-      "time": 1786863180,
-      "impact": "medium",
+      "time": 1786865100,
+      "impact": "low",
       "tags": [
-        "geo"
+        "macro"
       ]
     },
     {
-      "id": "47d65e14-9f25-3e45-932c-2ac7ac6bc513",
-      "title": "These 2 Potential Stock Splits Look Like Screaming Deals Right Now",
-      "link": "https://finance.yahoo.com/m/47d65e14-9f25-3e45-932c-2ac7ac6bc513/these-2-potential-stock.html",
+      "id": "3232b202-1469-351a-898c-cc812f752e69",
+      "title": "Mass drone attack on Moscow as Russian strikes kill three in Ukraine",
+      "link": "https://finance.yahoo.com/m/3232b202-1469-351a-898c-cc812f752e69/mass-drone-attack-on-moscow.html",
+      "publisher": "AFP",
+      "time": 1786864866,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9f324266-d565-3502-af2e-4f133ecb8402",
+      "title": "Here's What a $10,000 Palantir Investment Could Be Worth by 2028",
+      "link": "https://finance.yahoo.com/m/9f324266-d565-3502-af2e-4f133ecb8402/here%27s-what-a-%2410%2C000.html",
       "publisher": "Motley Fool",
-      "time": 1786863000,
+      "time": 1786864800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6b73164c-bcb9-3294-94ed-1268c201ad9f",
-      "title": "CAVA (CAVA) Stock Is Up, What You Need To Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cava-cava-stock-know-064500255.html",
+      "id": "41f91c9e-7ba7-367b-95c1-9e720a322c92",
+      "title": "Portillo's, Wingstop, Papa John's, and Sweetgreen Stocks Trade Up, What You Need To Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/portillos-wingstop-papa-johns-sweetgreen-071700306.html",
       "publisher": "StockStory",
-      "time": 1786862700,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "03b35975-4535-3365-b553-4fcf81c4d925",
-      "title": "Qualcomm reveals Snapdragon C specs for budget laptops, and Intel could have a serious headache",
-      "link": "https://finance.yahoo.com/m/03b35975-4535-3365-b553-4fcf81c4d925/qualcomm-reveals-snapdragon-c.html",
-      "publisher": "Digital Trends",
-      "time": 1786862334,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "72f48d71-43f8-3d3a-af32-93a96206af7d",
-      "title": "Wix, AppLovin, Manhattan Associates, Strategy, and Oracle Shares Skyrocket, What You Need To Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wix-applovin-manhattan-associates-strategy-063700901.html",
-      "publisher": "StockStory",
-      "time": 1786862220,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "00e5fb2f-dbf4-304f-8a42-e1eb0f901a5a",
-      "title": "German companies cut US investment to three-year low, data show",
-      "link": "https://finance.yahoo.com/news/german-companies-cut-us-investment-063427866.html",
-      "publisher": "Reuters",
-      "time": 1786862067,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "82a8d47a-9de6-333f-b108-23fad8da9fac",
-      "title": "Intuit, MongoDB, Cloudflare, Palantir Technologies, and The Trade Desk Shares Are Soaring, What You Need To Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intuit-mongodb-cloudflare-palantir-technologies-062900428.html",
-      "publisher": "StockStory",
-      "time": 1786861740,
+      "time": 1786864620,
       "impact": "medium",
       "tags": [
         "geo"
       ]
     },
     {
-      "id": "e95683d2-6a6a-3154-a1ef-5ce8ea005c9c",
-      "title": "Rapid7, 8x8, Doximity, Marqeta, and Tenable Shares Are Soaring, What You Need To Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rapid7-8x8-doximity-marqeta-tenable-062100356.html",
-      "publisher": "StockStory",
-      "time": 1786861260,
+      "id": "878cf831-330d-3820-af44-ce6944bea31f",
+      "title": "Ragnarok Zero: Global Set to Officially Launch on August 18",
+      "link": "https://finance.yahoo.com/media-advertising/articles/ragnarok-zero-global-set-officially-071600095.html",
+      "publisher": "PR Newswire",
+      "time": 1786864560,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
+    },
+    {
+      "id": "0e771009-1131-3192-9108-95cedf5e8ae3",
+      "title": "Walmart's $169 heavy-duty patio glider chairs are 46% off right now",
+      "link": "https://finance.yahoo.com/m/0e771009-1131-3192-9108-95cedf5e8ae3/walmart%27s-%24169-heavy-duty.html",
+      "publisher": "TheStreet",
+      "time": 1786864500,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
