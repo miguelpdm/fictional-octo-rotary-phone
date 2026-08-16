@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T12:25:43.184396+00:00",
+  "updatedAt": "2026-08-16T13:08:32.363611+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,99 +52,108 @@
   ],
   "news": [
     {
-      "id": "f8b14f2d-03af-373c-ba49-52c6bcedf9a7",
-      "title": "BUSINESS PROFILE: The Farm stays in the family",
-      "link": "https://finance.yahoo.com/m/f8b14f2d-03af-373c-ba49-52c6bcedf9a7/business-profile%3A-the-farm.html",
-      "publisher": "Lewiston Tribune, Idaho",
-      "time": 1786882680,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e87ed056-8794-37b9-a735-ca58f2f979b3",
-      "title": "Trump’s economic approval craters — and even Fox News allies are getting impatient. But this key figure could save him",
-      "link": "https://finance.yahoo.com/economy/articles/trump-economic-approval-craters-even-121500571.html",
+      "id": "762c8506-1567-35fa-b285-4abbaabae784",
+      "title": "Vivian Tu says investors carrying credit card debt need to stop and pay it off first. The math says she's right",
+      "link": "https://finance.yahoo.com/markets/articles/vivian-tu-says-investors-carrying-130000844.html",
       "publisher": "Moneywise",
-      "time": 1786882500,
+      "time": 1786885200,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e837bc6b-219a-3db9-ba99-43a0c4a823a9",
-      "title": "3 Services Stocks That Concern Us",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-services-stocks-concern-us-121300569.html",
+      "id": "bf840be6-55af-30a6-9742-5689d5ae1507",
+      "title": "'A serious mistake': Moody's Analytics economist says the Fed is putting the economy at risk with its silence",
+      "link": "https://finance.yahoo.com/economy/policy/articles/serious-mistake-moodys-analytics-economist-125500943.html",
+      "publisher": "Moneywise",
+      "time": 1786884900,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "0594df0a-8183-36bc-9b90-19c35d8d655f",
+      "title": "Greg Abel Starts Spending: Berkshire’s Cash Hoard Finally Gets Put to Work",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/greg-abel-starts-spending-berkshire-125459967.html",
+      "publisher": "Insider Monkey",
+      "time": 1786884899,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e7f58ffb-25e6-323a-88c5-b49702cd7a60",
+      "title": "1 Surging  Stock Worth Investigating and 2 Facing Challenges",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-surging-stock-worth-investigating-125300824.html",
       "publisher": "StockStory",
-      "time": 1786882380,
+      "time": 1786884780,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "e8e77feb-d3d6-3b75-befc-f4266b198026",
-      "title": "Nebius (NBIS) Soared 48% Last Week. Is It Time to Sell?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-nbis-soared-48-last-121036478.html",
-      "publisher": "Insider Monkey",
-      "time": 1786882236,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "89972a1c-a1de-318e-8a49-0de837a19726",
-      "title": "Is NextNav (NN) Turning Smaller Losses Into a Stronger Investment Story Despite Flat Revenue?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nextnav-nn-turning-smaller-losses-120917838.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786882157,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bf40f6ee-d1f8-36bd-8ec6-0de53c86459f",
-      "title": "Visa (V) Drew Fresh Interest From Bill Ackman’s Pershing Square",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/visa-v-drew-fresh-interest-120853703.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786882133,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1792c54f-3e1a-334d-aab7-357bdf7cf2a7",
-      "title": "10x Genomics (TXG) Could Be 35% Above Fair Value Following 2026 Outlook Lift",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/10x-genomics-txg-could-35-120852391.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786882132,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "07fa3310-c064-32cb-ac3f-ddcaece50683",
-      "title": "How Investors Are Reacting To Tyson Foods (TSN) Beef Plant Closures Amid Historic Cattle Shortages",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-tyson-foods-tsn-120831419.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786882111,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6167a115-ccff-3a79-9a13-4adb9ed04502",
-      "title": "Nitto Kogyo (TSE:6651) First Quarter Growth Puts Its Valuation Back In Focus",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nitto-kogyo-tse-6651-first-120827738.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786882107,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "76bcdd19-ea0e-3948-8378-a11d41a9b412",
-      "title": "Natera (NTRA) Stock May Be 49% Undervalued As Guidance Rises",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/natera-ntra-stock-may-49-120817122.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786882097,
-      "impact": "medium",
+      "id": "1f256aa2-b78e-3c13-a629-c9fcd6b93c99",
+      "title": "Michael Burry Warns of a Market Bubble. This Indicator Close to Breaking a 150-Year Record Says He May Be Right",
+      "link": "https://finance.yahoo.com/m/1f256aa2-b78e-3c13-a629-c9fcd6b93c99/michael-burry-warns-of-a.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786884476,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
+    },
+    {
+      "id": "dc3de440-699a-3dc4-9ac7-6a5fda42574d",
+      "title": "2 Cash-Producing Stocks Worth Investigating and 1 We Avoid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-cash-producing-stocks-worth-124500781.html",
+      "publisher": "StockStory",
+      "time": 1786884300,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "60a73048-52fd-3b3b-889e-bf4934725a7f",
+      "title": "3 Magnificent High-Yield Dividend Stocks to Buy That Are Near 52-Week Lows",
+      "link": "https://finance.yahoo.com/m/60a73048-52fd-3b3b-889e-bf4934725a7f/3-magnificent-high-yield.html",
+      "publisher": "Motley Fool",
+      "time": 1786884000,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "408b20f1-373e-3f85-bbe9-72409f3c904a",
+      "title": "2 of Wall Street’s Favorite Stocks for Long-Term Investors and 1 We Find Risky",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-wall-street-favorite-stocks-123700194.html",
+      "publisher": "StockStory",
+      "time": 1786883820,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "6cbae8b4-41a0-3eb6-adda-ddaa7ba48622",
+      "title": "Nintendo’s “Pokémon Pokopia” Farms 5 Million Copies",
+      "link": "https://finance.yahoo.com/m/6cbae8b4-41a0-3eb6-adda-ddaa7ba48622/nintendo%E2%80%99s-%E2%80%9Cpok%C3%A9mon-pokopia%E2%80%9D.html",
+      "publisher": "Moby",
+      "time": 1786883820,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1f7243f7-0d56-3d98-8222-f3271300295b",
+      "title": "Retirees Worried About Possible Social Security Cuts Risk Making Matters Worse if They Do This",
+      "link": "https://finance.yahoo.com/m/1f7243f7-0d56-3d98-8222-f3271300295b/retirees-worried-about.html",
+      "publisher": "Motley Fool",
+      "time": 1786883640,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
