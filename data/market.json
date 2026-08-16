@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T17:42:47.433200+00:00",
+  "updatedAt": "2026-08-16T18:19:01.486814+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,102 +52,108 @@
   ],
   "news": [
     {
-      "id": "3c9f9a5f-fa7a-3c51-a4f7-2f0ed9e0b1a4",
-      "title": "Satya Nadella's Microsoft Stock Jumped 18% in a Week After Azure's Annual Revenue Topped $100 Billion for the First Time. Is It Still a Buy?",
-      "link": "https://finance.yahoo.com/m/3c9f9a5f-fa7a-3c51-a4f7-2f0ed9e0b1a4/satya-nadella%27s-microsoft.html",
-      "publisher": "Motley Fool",
-      "time": 1786901820,
+      "id": "4ac37bac-5e52-3243-a8a9-0a26f825d1c2",
+      "title": "Gen Z New Yorker made $130,000 through 9 income streams — but the hustle nearly broke her",
+      "link": "https://finance.yahoo.com/small-business/articles/gen-z-yorker-made-130-181500090.html",
+      "publisher": "Moneywise",
+      "time": 1786904100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "135ad286-508b-3b0a-9ffa-f3540d31806e",
-      "title": "2 Small-Cap Stocks with Competitive Advantages and 1 We Ignore",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-small-cap-stocks-competitive-173300342.html",
-      "publisher": "StockStory",
-      "time": 1786901580,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "7ab8645c-2df6-3c7b-8edb-a32599a47543",
-      "title": "The Government of Canada and Ontario Investing $1 Billion to Help Non-Development Charge Municipalities Build More Homes",
-      "link": "https://finance.yahoo.com/real-estate/articles/government-canada-ontario-investing-1-173000779.html",
-      "publisher": "CNW Group",
-      "time": 1786901400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b787da2e-6502-3364-a44e-62ec12d9dcfb",
-      "title": "APIC delivers 55% EBITDA growth in the first half of 2026, reaching USD 44 million",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apic-delivers-55-ebitda-growth-172600763.html",
-      "publisher": "PR Newswire",
-      "time": 1786901160,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4e858ba0-cb17-37c3-94f0-bf3c3348cc34",
-      "title": "3 Russell 2000 Stocks We Steer Clear Of",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-russell-2000-stocks-steer-172500324.html",
-      "publisher": "StockStory",
-      "time": 1786901100,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "f35dfc8a-b2b8-37c7-a1c3-473cd09a4c15",
-      "title": "“Their Job Is to Screw You:” Dave Ramsey to Newlywed With $41K in Debt on a $95K Income",
-      "link": "https://finance.yahoo.com/m/f35dfc8a-b2b8-37c7-a1c3-473cd09a4c15/%E2%80%9Ctheir-job-is-to-screw-you%3A%E2%80%9D.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786900693,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e9f48a22-2eea-3e74-b35b-51ebd117518f",
-      "title": "1 Stock Under $50 to Own for Decades and 2 We Turn Down",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-stock-under-50-own-171700639.html",
-      "publisher": "StockStory",
-      "time": 1786900620,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "a9c33acf-179a-381a-ba5a-494de99130e1",
-      "title": "Villarreal battle back to earn draw at promoted Racing",
-      "link": "https://finance.yahoo.com/m/a9c33acf-179a-381a-ba5a-494de99130e1/villarreal-battle-back-to.html",
-      "publisher": "AFP",
-      "time": 1786900391,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f453c6a2-c9ec-31bb-9241-5d4e8bb1db65",
-      "title": "1 Small-Cap Stock with Exciting Potential and 2 We Brush Off",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-small-cap-stock-exciting-170900813.html",
-      "publisher": "StockStory",
-      "time": 1786900140,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "ff0b4685-2cc1-3392-b344-b67b8ae2234b",
-      "title": "Tyson Foods (TSN) Reshapes Its Beef Network, Is The Stock A Bargain?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tyson-foods-tsn-reshapes-beef-170834379.html",
+      "id": "d7f14e93-f923-3359-b94e-f9ce1a0c4aec",
+      "title": "Is Yamanashi Chuo BankLtd (TSE:8360) Fully Valued After Higher Profit Guidance And Stock Split?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/yamanashi-chuo-bankltd-tse-8360-180852796.html",
       "publisher": "Simply Wall St.",
-      "time": 1786900114,
+      "time": 1786903732,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "73ef5959-ea7d-3f7b-84b9-0bc89acadb83",
+      "title": "Duke Energy (DUK) Stock Could Be 27% Overvalued Following $10b Equity Plans",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-stock-could-180837611.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786903717,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "c8e6f0aa-63cf-354d-8093-de842df3eb8a",
+      "title": "Shake Shack (SHAK) Stock Looks Stretched On Cash Flow And Rich On Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/shake-shack-shak-stock-looks-180824386.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786903704,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "6419e15a-f3ac-310e-8073-80cbcf6fb0b7",
+      "title": "Alliance Laundry Holdings (ALH) After Strong Earnings Looks Slightly Pricey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alliance-laundry-holdings-alh-strong-180812559.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786903692,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "3160fce9-5002-32db-8a52-dda069e21109",
+      "title": "Is Mercury General (MCY) Fully Priced On Its Oklahoma Homeowners Product Update?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mercury-general-mcy-fully-priced-180811289.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786903691,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "25f2cf07-2c32-3f26-8854-a19fbbc725d9",
+      "title": "2 Reasons FTI is Risky and 1 Stock to Buy Instead",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-fti-risky-1-180500873.html",
+      "publisher": "StockStory",
+      "time": 1786903500,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "38d68d66-6f8d-3a59-8c73-91dec4e9020f",
+      "title": "He Sold $80,000 of Timber Off His Land. Social Security Wanted to Know: Investor, or Still a Logger?",
+      "link": "https://finance.yahoo.com/m/38d68d66-6f8d-3a59-8c73-91dec4e9020f/he-sold-%2480%2C000-of-timber-off.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786903400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2fafdefb-70a5-3de2-a90a-d4c1d2c40b7d",
+      "title": "The U.S. just turned the Al race into a loyalty test",
+      "link": "https://finance.yahoo.com/m/2fafdefb-70a5-3de2-a90a-d4c1d2c40b7d/the-u.s.-just-turned-the-al.html",
+      "publisher": "TheStreet",
+      "time": 1786903380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "06f9a5e2-375c-341b-80c1-3ab2e8b2f5c2",
+      "title": "XRP ETF Buying Has Dropped 96% Since Launch: Can Inflows Reach Standard Chartered’s $8 Billion Forecast?",
+      "link": "https://finance.yahoo.com/m/06f9a5e2-375c-341b-80c1-3ab2e8b2f5c2/xrp-etf-buying-has-dropped.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786903321,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
