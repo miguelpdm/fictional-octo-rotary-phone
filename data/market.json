@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T16:16:54.318422+00:00",
+  "updatedAt": "2026-08-16T16:48:41.470019+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,31 +52,43 @@
   ],
   "news": [
     {
-      "id": "cea312a4-77ab-35ad-92cc-25249f7a705d",
-      "title": "Qorvo (QRVO) Stock May Be 14% Overvalued As Cash Flow Carries The Case",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/qorvo-qrvo-stock-may-14-160934261.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786896574,
+      "id": "b6289b29-f237-327e-8b24-91cf063192d6",
+      "title": "2 Stocks Under $50 on Our Watchlist and 1 That Underwhelm",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-stocks-under-50-watchlist-164500238.html",
+      "publisher": "StockStory",
+      "time": 1786898700,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "8ec8bf20-d22e-3d7d-bd73-51d7c9df6621",
+      "title": "Todd Blanche pressed on Nancy Guthrie case, calls disappearance 'heartbreaking'",
+      "link": "https://finance.yahoo.com/m/8ec8bf20-d22e-3d7d-bd73-51d7c9df6621/todd-blanche-pressed-on-nancy.html",
+      "publisher": "USA TODAY",
+      "time": 1786898472,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "538369f6-29fd-3406-83ab-9dabe48ce169",
+      "title": "Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take",
+      "link": "https://finance.yahoo.com/m/538369f6-29fd-3406-83ab-9dabe48ce169/should-you-buy-meta-platforms.html",
+      "publisher": "Motley Fool",
+      "time": 1786898400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "518ed2de-91f6-37a0-958f-576a5b3faebc",
-      "title": "Colgate-Palmolive (CL) Stock Could Trade At A Discount After Its 32% Run",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/colgate-palmolive-cl-stock-could-160922812.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786896562,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "9d3c402c-a899-3db2-9b14-003213e90b15",
-      "title": "Is Sezzle (SEZL) Fairly Valued As It Raises 2026 Guidance And Secures $300 Million?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sezzle-sezl-fairly-valued-raises-160913269.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786896553,
+      "id": "6c6cd339-7f61-3a84-beda-5f2c630137c7",
+      "title": "3 Bank Stocks Walking a Fine Line",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-bank-stocks-walking-fine-163700759.html",
+      "publisher": "StockStory",
+      "time": 1786898220,
       "impact": "medium",
       "tags": [
         "macro",
@@ -84,71 +96,71 @@
       ]
     },
     {
-      "id": "ca0a4276-7c01-3b16-a5c8-d000d15dc2e8",
-      "title": "Golar LNG (GLNG) Stock Looks Below Fair Value After a Huge Run",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/golar-lng-glng-stock-looks-160911688.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786896551,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6177905e-d393-32e3-be6d-3d0859ef5933",
-      "title": "Pulse Biosciences (PLSE) Stock Looks Pricey On Book Value Yet Strong On Returns",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pulse-biosciences-plse-stock-looks-160853715.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786896533,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bdc024cf-fc35-39cc-924a-2473dfbc0b1f",
-      "title": "1 Cash-Producing Stock to Target This Week and 2 Facing Headwinds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-producing-stock-target-160500159.html",
-      "publisher": "StockStory",
-      "time": 1786896300,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "1d983ee1-8507-3a2a-b2e4-ce7529de5eb1",
-      "title": "Under Armour’s Turnaround Hits a Wall as North America Demand Craters",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/under-armour-turnaround-hits-wall-160449561.html",
-      "publisher": "Insider Monkey",
-      "time": 1786896289,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e918909b-99e3-327e-bceb-19a7c6e7bf77",
-      "title": "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users' order information",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-wallet-provider-safepal-discloses-160318391.html",
-      "publisher": "Reuters",
-      "time": 1786896198,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cea381bf-e229-321d-817c-6f39c1b2f844",
-      "title": "Reddit’s S&P 500 debut could unleash nearly $3 billion of index-fund buying",
-      "link": "https://finance.yahoo.com/m/cea381bf-e229-321d-817c-6f39c1b2f844/reddit%E2%80%99s-s%26p-500-debut-could.html",
+      "id": "53e44c5b-337d-3cab-b448-12b71fa706f2",
+      "title": "Workday’s $51 billion takeover talks could reset the software trade",
+      "link": "https://finance.yahoo.com/m/53e44c5b-337d-3cab-b448-12b71fa706f2/workday%E2%80%99s-%2451-billion.html",
       "publisher": "TheStreet",
-      "time": 1786896180,
+      "time": 1786897980,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "ef904299-d469-37e9-97bd-b6eccaa94388",
+      "title": "Maxing Out a Roth IRA Into These 3 ETFs Could Make You a Tax-Free Millionaire",
+      "link": "https://finance.yahoo.com/m/ef904299-d469-37e9-97bd-b6eccaa94388/maxing-out-a-roth-ira-into.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786897885,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1bd3ac7d-b1ab-352c-a8d3-809d4c96ec0a",
+      "title": "Waymo shipped 3,200 Chinese-built EVs to LA for its robotaxi fleet despite 127.5% tariffs Americans can't get around",
+      "link": "https://finance.yahoo.com/technology/articles/waymo-shipped-3-200-chinese-163000266.html",
+      "publisher": "Moneywise",
+      "time": 1786897800,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "3c4517c5-2831-33a7-9df0-b8871ac6cf0d",
+      "title": "3 Small-Cap Stocks That Concern Us",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-concern-162900861.html",
+      "publisher": "StockStory",
+      "time": 1786897740,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "decb7276-c545-3e5e-b1c9-fadaf0523762",
-      "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore",
-      "link": "https://finance.yahoo.com/m/decb7276-c545-3e5e-b1c9-fadaf0523762/gemini-3.7-flash-review%3A.html",
-      "publisher": "decrypt",
-      "time": 1786896005,
+      "id": "e31054d1-7896-38cc-ab9d-f26b4593da53",
+      "title": "Nebius' Contracted Power Guidance Continues to Surge. Here's What That Means for the Stock.",
+      "link": "https://finance.yahoo.com/m/e31054d1-7896-38cc-ab9d-f26b4593da53/nebius%27-contracted-power.html",
+      "publisher": "Motley Fool",
+      "time": 1786897620,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "0cdcf5f1-db99-320f-80f8-57c39a9b9a58",
+      "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
+      "link": "https://finance.yahoo.com/m/0cdcf5f1-db99-320f-80f8-57c39a9b9a58/i%E2%80%99m-63%2C-a-retired-cpa-with-a.html",
+      "publisher": "MarketWatch",
+      "time": 1786897320,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
