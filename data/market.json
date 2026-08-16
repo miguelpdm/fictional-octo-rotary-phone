@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T06:28:36.640044+00:00",
+  "updatedAt": "2026-08-16T07:09:07.487467+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,99 +52,106 @@
   ],
   "news": [
     {
-      "id": "8fb2232c-1856-32c1-983c-e3e6c7fdbcba",
-      "title": "Prediction: Nvidia Stock Will Fall After Aug. 26. Here Are 2 Reasons Why",
-      "link": "https://finance.yahoo.com/m/8fb2232c-1856-32c1-983c-e3e6c7fdbcba/prediction%3A-nvidia-stock-will.html",
-      "publisher": "Motley Fool",
-      "time": 1786861200,
+      "id": "f05916df-692d-3dbd-8c36-2e2880d26bbf",
+      "title": "China plans faster rollout of renewable-energy recycling rules - CCTV",
+      "link": "https://finance.yahoo.com/energy/articles/china-plans-faster-rollout-renewable-065633535.html",
+      "publisher": "Investing.com",
+      "time": 1786863393,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "47e605b3-f307-3712-b638-44195131923c",
+      "title": "Djokovic feels the heat in Cincinnati defeat, Zverev wins all-nighter",
+      "link": "https://finance.yahoo.com/m/47e605b3-f307-3712-b638-44195131923c/djokovic-feels-the-heat-in.html",
+      "publisher": "AFP",
+      "time": 1786863370,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "798ff012-a1c0-3ffc-b81a-d4999f781f8a",
-      "title": "Avocado pickers in Mexico welcome restart of exports to US, but security fears remain",
-      "link": "https://finance.yahoo.com/m/798ff012-a1c0-3ffc-b81a-d4999f781f8a/avocado-pickers-in-mexico.html",
-      "publisher": "Associated Press",
-      "time": 1786860807,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9784b23f-090f-364f-b934-ff485a59800e",
-      "title": "Why Leslie's (LESL) Stock Is Falling Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-leslies-lesl-stock-falling-061300446.html",
+      "id": "a66d1c2d-61e5-3db8-9d22-35e7e5008375",
+      "title": "Perma-Fix (PESI) Stock Trades Down, Here Is Why",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/perma-fix-pesi-stock-trades-065300061.html",
       "publisher": "StockStory",
-      "time": 1786860780,
+      "time": 1786863180,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "47d65e14-9f25-3e45-932c-2ac7ac6bc513",
+      "title": "These 2 Potential Stock Splits Look Like Screaming Deals Right Now",
+      "link": "https://finance.yahoo.com/m/47d65e14-9f25-3e45-932c-2ac7ac6bc513/these-2-potential-stock.html",
+      "publisher": "Motley Fool",
+      "time": 1786863000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6b73164c-bcb9-3294-94ed-1268c201ad9f",
+      "title": "CAVA (CAVA) Stock Is Up, What You Need To Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cava-cava-stock-know-064500255.html",
+      "publisher": "StockStory",
+      "time": 1786862700,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "90cc3385-5c2b-3b17-9da4-33b9e2cbb699",
-      "title": "Wesdome Gold Mines (TSX:WDO) Faces A 10% Fair Value Gap As Earnings Land",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wesdome-gold-mines-tsx-wdo-061139225.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786860699,
-      "impact": "medium",
+      "id": "03b35975-4535-3365-b553-4fcf81c4d925",
+      "title": "Qualcomm reveals Snapdragon C specs for budget laptops, and Intel could have a serious headache",
+      "link": "https://finance.yahoo.com/m/03b35975-4535-3365-b553-4fcf81c4d925/qualcomm-reveals-snapdragon-c.html",
+      "publisher": "Digital Trends",
+      "time": 1786862334,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "72f48d71-43f8-3d3a-af32-93a96206af7d",
+      "title": "Wix, AppLovin, Manhattan Associates, Strategy, and Oracle Shares Skyrocket, What You Need To Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wix-applovin-manhattan-associates-strategy-063700901.html",
+      "publisher": "StockStory",
+      "time": 1786862220,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "76cd3e11-4d67-3bbb-b3d8-400f591e05c3",
-      "title": "Is Celcuity (CELC) A Bargain As Losses Widen Ahead Of Its First Launch?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/celcuity-celc-bargain-losses-widen-061138171.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786860698,
+      "id": "00e5fb2f-dbf4-304f-8a42-e1eb0f901a5a",
+      "title": "German companies cut US investment to three-year low, data show",
+      "link": "https://finance.yahoo.com/news/german-companies-cut-us-investment-063427866.html",
+      "publisher": "Reuters",
+      "time": 1786862067,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "983f962b-4b17-3714-928c-62e043e2a43a",
-      "title": "Is GFL Environmental (TSX:GFL) Reasonable Or Stretched After Its 16% Revenue Jump?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gfl-environmental-tsx-gfl-reasonable-061128794.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786860688,
-      "impact": "low",
-      "tags": []
+      "id": "82a8d47a-9de6-333f-b108-23fad8da9fac",
+      "title": "Intuit, MongoDB, Cloudflare, Palantir Technologies, and The Trade Desk Shares Are Soaring, What You Need To Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intuit-mongodb-cloudflare-palantir-technologies-062900428.html",
+      "publisher": "StockStory",
+      "time": 1786861740,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
     },
     {
-      "id": "5e29be96-f763-3a3b-97a3-8b38567ba27c",
-      "title": "What Is Lion (TSE:4912) Signaling With Its Higher Dividend?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lion-tse-4912-signaling-higher-061117292.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786860677,
+      "id": "e95683d2-6a6a-3154-a1ef-5ce8ea005c9c",
+      "title": "Rapid7, 8x8, Doximity, Marqeta, and Tenable Shares Are Soaring, What You Need To Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rapid7-8x8-doximity-marqeta-tenable-062100356.html",
+      "publisher": "StockStory",
+      "time": 1786861260,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1e1bab92-c10c-3e07-bcf0-83547cfbabf9",
-      "title": "Tutor Perini (TPC) Stock May Be 34% Undervalued After Record Backlog News",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tutor-perini-tpc-stock-may-061058321.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786860658,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9cd4fc65-fe57-347a-b612-108c5df85c75",
-      "title": "Amazon (AMZN) Stock Gets Fair Value Bump As AWS AI Demand Lifts Analyst Views",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-stock-gets-fair-061049757.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786860649,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6dc72811-6593-35db-a96f-07bad4b3ea68",
-      "title": "DraftKings (DKNG) Is Up 8.8% After Q2 Loss But Surging Predictions Adoption - Has The Bull Case Changed?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/draftkings-dkng-8-8-q2-061047792.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786860647,
-      "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
