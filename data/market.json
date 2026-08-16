@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T00:55:09.061240+00:00",
+  "updatedAt": "2026-08-16T02:18:54.973402+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,105 +52,100 @@
   ],
   "news": [
     {
-      "id": "ac244141-82a2-3851-90f4-bc05f0e8af74",
-      "title": "1 Unprofitable Stock to Own for Decades and 2 We Question",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-unprofitable-stock-own-decades-004500396.html",
-      "publisher": "StockStory",
-      "time": 1786841100,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "4895966b-a7ca-3e6e-97ad-3609bd61e726",
-      "title": "Which Gold ETF Is the Better Buy: iShares' IAU or State Street's GLD?",
-      "link": "https://finance.yahoo.com/m/4895966b-a7ca-3e6e-97ad-3609bd61e726/which-gold-etf-is-the-better.html",
-      "publisher": "Motley Fool",
-      "time": 1786840741,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3ea6b5e0-d0a2-3531-9d58-f4babde84c0e",
-      "title": "2 Russell 2000 Stocks with Promising Prospects and 1 Facing Challenges",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-russell-2000-stocks-promising-003700766.html",
-      "publisher": "StockStory",
-      "time": 1786840620,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "1de3d27d-f58b-30c1-89e3-089de7398b0b",
-      "title": "Iran war commander visits USS Abraham Lincoln as carrier prepares to return home",
-      "link": "https://finance.yahoo.com/m/1de3d27d-f58b-30c1-89e3-089de7398b0b/iran-war-commander-visits-uss.html",
-      "publisher": "Investing.com",
-      "time": 1786840272,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "263cf30c-c05a-3e2d-b6a5-7097351e4e2d",
-      "title": "1 Profitable Stock to Consider Right Now and 2 We Find Risky",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-consider-now-002900773.html",
-      "publisher": "StockStory",
-      "time": 1786840140,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "9491597e-949b-3ba7-93cf-42ca191fa548",
-      "title": "If You'd Put $5,000 Into Rocket Lab 5 Years Ago, Here's How Much You'd Have Today",
-      "link": "https://finance.yahoo.com/m/9491597e-949b-3ba7-93cf-42ca191fa548/if-you%27d-put-%245%2C000-into.html",
-      "publisher": "Motley Fool",
-      "time": 1786839900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6492e7db-1ed6-34c6-9f51-8530692c8ea0",
-      "title": "Vanguard's VNQI or FlexShares' GQRE: Which Global Real Estate ETF Should Long-Term Investors Choose?",
-      "link": "https://finance.yahoo.com/m/6492e7db-1ed6-34c6-9f51-8530692c8ea0/vanguard%27s-vnqi-or.html",
-      "publisher": "Motley Fool",
-      "time": 1786839789,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "77393e61-5db9-38df-8023-e575670706a3",
-      "title": "Rivers among nine inducted into Basketball Hall of Fame",
-      "link": "https://finance.yahoo.com/m/77393e61-5db9-38df-8023-e575670706a3/rivers-among-nine-inducted.html",
+      "id": "a57fbcd4-8fef-33fd-94d5-2c1dccdf5748",
+      "title": "Japan aims for the moons of Mars",
+      "link": "https://finance.yahoo.com/m/a57fbcd4-8fef-33fd-94d5-2c1dccdf5748/japan-aims-for-the-moons-of.html",
       "publisher": "AFP",
-      "time": 1786839773,
+      "time": 1786846258,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e8633e9f-f22f-319f-a646-ba3704cee8f8",
-      "title": "2 Surging  Stocks with Solid Fundamentals and 1 We Question",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-surging-stocks-solid-fundamentals-002100256.html",
-      "publisher": "StockStory",
-      "time": 1786839660,
+      "id": "6fb09a1b-2469-33b4-b6a1-a5ebf04a5eff",
+      "title": "Just 13% of U.S. large-cap stock-picking funds beat benchmarks over decade",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/just-13-u-large-cap-020723631.html",
+      "publisher": "Investing.com",
+      "time": 1786846043,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "916b509b-c5b1-3749-99af-b1a7c1d88706",
+      "title": "Why Data Centers Are Turning Energy Stocks Into AI Plays",
+      "link": "https://finance.yahoo.com/m/916b509b-c5b1-3749-99af-b1a7c1d88706/why-data-centers-are-turning.html",
+      "publisher": "Motley Fool",
+      "time": 1786845900,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "9fbcf7bf-77aa-3843-a84f-83c477afeed7",
-      "title": "Delta Air Lines (DAL) Stock Looks Undervalued While Broader Checks Stay Mixed",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/delta-air-lines-dal-stock-001653983.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786839413,
+      "id": "c8d7cf9a-6b51-3bd9-9316-7ea5b0556886",
+      "title": "3 Inflated  Stocks with Questionable Fundamentals",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-inflated-stocks-questionable-fundamentals-020500854.html",
+      "publisher": "StockStory",
+      "time": 1786845900,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "4daaf8d9-ca63-38c2-9ada-bf9654b841ed",
+      "title": "Billionaire Bill Ackman doubles down on these stocks in Q2",
+      "link": "https://finance.yahoo.com/m/4daaf8d9-ca63-38c2-9ada-bf9654b841ed/billionaire-bill-ackman.html",
+      "publisher": "TheStreet",
+      "time": 1786845780,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "af76acc9-c2b4-394c-9aa3-3cb05a189a8e",
+      "title": "YADEA Expands Presence in the Philippines with Three New Flagship Stores in Cebu",
+      "link": "https://finance.yahoo.com/technology/articles/yadea-expands-presence-philippines-three-020000046.html",
+      "publisher": "PR Newswire",
+      "time": 1786845600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "dc9566fb-0524-3f15-b2cf-351bd8486a7e",
+      "title": "Hurricane Lala dumps heavy rain on Hawaii",
+      "link": "https://finance.yahoo.com/m/dc9566fb-0524-3f15-b2cf-351bd8486a7e/hurricane-lala-dumps-heavy.html",
+      "publisher": "AFP",
+      "time": 1786845537,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1ac1a5c9-e821-3d59-885e-061da45e3e07",
+      "title": "2 Cash-Heavy Stocks with Exciting Potential and 1 We Ignore",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-cash-heavy-stocks-exciting-015700647.html",
+      "publisher": "StockStory",
+      "time": 1786845420,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "2cfbc3be-07b0-3c55-abe3-e40e873e3158",
+      "title": "WYF Brings Together 700+ Students from Over 20 Countries and Regions for Future Economics Leadership Summit in Hong Kong",
+      "link": "https://finance.yahoo.com/economy/articles/wyf-brings-together-700-students-015500952.html",
+      "publisher": "PR Newswire",
+      "time": 1786845300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e423877b-7f9b-32b6-bbb8-c03fb0cef725",
+      "title": "'People could get hurt': Conservationists decry AI wildlife visuals",
+      "link": "https://finance.yahoo.com/m/e423877b-7f9b-32b6-bbb8-c03fb0cef725/%27people-could-get-hurt%27%3A.html",
+      "publisher": "AFP",
+      "time": 1786845212,
       "impact": "low",
       "tags": []
     }
