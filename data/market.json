@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T11:42:59.852176+00:00",
+  "updatedAt": "2026-08-16T12:25:43.184396+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,107 +52,99 @@
   ],
   "news": [
     {
-      "id": "f5a45072-a848-31f5-9199-9143ec6fa4ff",
-      "title": "2 Profitable Stocks Worth Investigating and 1 We Ignore",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-profitable-stocks-worth-investigating-113300703.html",
-      "publisher": "StockStory",
-      "time": 1786879980,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "450d45bc-801a-3aa2-a71a-af1abe54cb89",
-      "title": "XRP’s $1 Support Hangs By a Thread. Where Does XRP Go?",
-      "link": "https://finance.yahoo.com/m/450d45bc-801a-3aa2-a71a-af1abe54cb89/xrp%E2%80%99s-%241-support-hangs-by-a.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786879958,
+      "id": "f8b14f2d-03af-373c-ba49-52c6bcedf9a7",
+      "title": "BUSINESS PROFILE: The Farm stays in the family",
+      "link": "https://finance.yahoo.com/m/f8b14f2d-03af-373c-ba49-52c6bcedf9a7/business-profile%3A-the-farm.html",
+      "publisher": "Lewiston Tribune, Idaho",
+      "time": 1786882680,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ae8150ec-e329-30c3-8a85-a8f3f2a6333f",
-      "title": "Ajax says goodbye to Godts with a classy message in Paris: THE FUTURE BELONGS TO YOUNG GODTS",
-      "link": "https://finance.yahoo.com/media-advertising/articles/ajax-says-goodbye-godts-classy-113200719.html",
-      "publisher": "PR Newswire",
-      "time": 1786879920,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bfe57e47-5588-335a-b1a6-83f31bca1855",
-      "title": "Americans are now borrowing more to bet on stocks than they owe in credit card debt",
-      "link": "https://finance.yahoo.com/markets/options/articles/americans-now-borrowing-more-bet-113000989.html",
+      "id": "e87ed056-8794-37b9-a735-ca58f2f979b3",
+      "title": "Trump’s economic approval craters — and even Fox News allies are getting impatient. But this key figure could save him",
+      "link": "https://finance.yahoo.com/economy/articles/trump-economic-approval-craters-even-121500571.html",
       "publisher": "Moneywise",
-      "time": 1786879800,
+      "time": 1786882500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e837bc6b-219a-3db9-ba99-43a0c4a823a9",
+      "title": "3 Services Stocks That Concern Us",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-services-stocks-concern-us-121300569.html",
+      "publisher": "StockStory",
+      "time": 1786882380,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "4b7f38e5-b4b1-357a-8170-6a77c5df274c",
-      "title": "Netflix Stock Is Down Nearly 40%. What's Going On?",
-      "link": "https://finance.yahoo.com/m/4b7f38e5-b4b1-357a-8170-6a77c5df274c/netflix-stock-is-down-nearly.html",
-      "publisher": "Motley Fool",
-      "time": 1786879740,
+      "id": "e8e77feb-d3d6-3b75-befc-f4266b198026",
+      "title": "Nebius (NBIS) Soared 48% Last Week. Is It Time to Sell?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-nbis-soared-48-last-121036478.html",
+      "publisher": "Insider Monkey",
+      "time": 1786882236,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b0fcef53-ec31-3a44-8cfb-99375f3cfc5d",
-      "title": "3 Profitable Stocks That Fall Short",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-profitable-stocks-fall-short-112500365.html",
-      "publisher": "StockStory",
-      "time": 1786879500,
+      "id": "89972a1c-a1de-318e-8a49-0de837a19726",
+      "title": "Is NextNav (NN) Turning Smaller Losses Into a Stronger Investment Story Despite Flat Revenue?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nextnav-nn-turning-smaller-losses-120917838.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786882157,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bf40f6ee-d1f8-36bd-8ec6-0de53c86459f",
+      "title": "Visa (V) Drew Fresh Interest From Bill Ackman’s Pershing Square",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/visa-v-drew-fresh-interest-120853703.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786882133,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1792c54f-3e1a-334d-aab7-357bdf7cf2a7",
+      "title": "10x Genomics (TXG) Could Be 35% Above Fair Value Following 2026 Outlook Lift",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/10x-genomics-txg-could-35-120852391.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786882132,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "07fa3310-c064-32cb-ac3f-ddcaece50683",
+      "title": "How Investors Are Reacting To Tyson Foods (TSN) Beef Plant Closures Amid Historic Cattle Shortages",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-tyson-foods-tsn-120831419.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786882111,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6167a115-ccff-3a79-9a13-4adb9ed04502",
+      "title": "Nitto Kogyo (TSE:6651) First Quarter Growth Puts Its Valuation Back In Focus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nitto-kogyo-tse-6651-first-120827738.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786882107,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "76bcdd19-ea0e-3948-8378-a11d41a9b412",
+      "title": "Natera (NTRA) Stock May Be 49% Undervalued As Guidance Rises",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/natera-ntra-stock-may-49-120817122.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786882097,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
-    },
-    {
-      "id": "99f52879-a7ac-38c7-904a-35f2256f119e",
-      "title": "Hurricane Lala unleashes flooding rains, winds on Hawaii: Live updates",
-      "link": "https://finance.yahoo.com/m/99f52879-a7ac-38c7-904a-35f2256f119e/hurricane-lala-unleashes.html",
-      "publisher": "USA TODAY",
-      "time": 1786879323,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4066ab2e-fbce-3a9e-935d-27b54a96704d",
-      "title": "Happen Bank Is Crushing SoFi This Year. Here's the Reason Why It's Still the Better Buy.",
-      "link": "https://finance.yahoo.com/m/4066ab2e-fbce-3a9e-935d-27b54a96704d/happen-bank-is-crushing-sofi.html",
-      "publisher": "Motley Fool",
-      "time": 1786879200,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "f1076430-2da8-3c80-9e18-267eed82c49c",
-      "title": "1 Cash-Heavy Stock with Impressive Fundamentals and 2 We Turn Down",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-heavy-stock-impressive-111700532.html",
-      "publisher": "StockStory",
-      "time": 1786879020,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "3f6ffd6c-856a-33a0-86fd-ea74160d64df",
-      "title": "Robert Kiyosaki reveals 'the biggest liability' that puts you at Wall Street's mercy. Is your nest egg about to crack?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/robert-kiyosaki-reveals-biggest-liability-111500295.html",
-      "publisher": "Moneywise",
-      "time": 1786878900,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
