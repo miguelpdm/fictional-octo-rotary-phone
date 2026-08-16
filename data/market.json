@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T21:42:08.946336+00:00",
+  "updatedAt": "2026-08-16T22:13:55.383188+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,11 +52,40 @@
   ],
   "news": [
     {
-      "id": "6f7017b8-72bf-398e-b3fe-61fd7155643f",
-      "title": "Belgium races to tame huge wildfire creeping towards Germany",
-      "link": "https://finance.yahoo.com/m/6f7017b8-72bf-398e-b3fe-61fd7155643f/belgium-races-to-tame-huge.html",
+      "id": "79b73c1c-e364-315f-8433-18e9ae96269d",
+      "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Needs This; Walmart Looms",
+      "link": "https://finance.yahoo.com/m/79b73c1c-e364-315f-8433-18e9ae96269d/dow-jones-futures%3A-nvidia.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786917846,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "18fae8bd-2bbd-36e3-93b1-a0b1dddd400b",
+      "title": "Soterion's SAP License Manager Passes 100 FUE Assessments as Customers Confront the Cost of SAP's STAR Licensing",
+      "link": "https://finance.yahoo.com/technology/articles/soterions-sap-license-manager-passes-220000971.html",
+      "publisher": "PR Newswire",
+      "time": 1786917600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "dc9566fb-0524-3f15-b2cf-351bd8486a7e",
+      "title": "Hawaii's Big Island begins recovery efforts as Hurricane Lala downgrades, moves west",
+      "link": "https://finance.yahoo.com/m/dc9566fb-0524-3f15-b2cf-351bd8486a7e/hawaii%27s-big-island-begins.html",
       "publisher": "AFP",
-      "time": 1786915996,
+      "time": 1786917591,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a9ba9ca3-bc2d-33e2-bb2e-2724e02cfa14",
+      "title": "Q2 Earnings Outperformers: Procore Technologies (NYSE:PCOR) And The Rest Of The Design Software Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-outperformers-procore-technologies-215700740.html",
+      "publisher": "StockStory",
+      "time": 1786917420,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,40 +93,50 @@
       ]
     },
     {
-      "id": "797f33b9-2331-36bf-95d3-c9b1e7ce1f98",
-      "title": "SSMC Steel Expands Tub-Style Roll-Off Container Line With Four Construction Levels",
-      "link": "https://finance.yahoo.com/small-business/articles/ssmc-steel-expands-tub-style-213000336.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786915800,
+      "id": "91725a23-a88c-3873-9503-a6e6e83bc7e8",
+      "title": "Duplantis masterclass for fourth Euro pole vault title",
+      "link": "https://finance.yahoo.com/m/91725a23-a88c-3873-9503-a6e6e83bc7e8/duplantis-masterclass-for.html",
+      "publisher": "AFP",
+      "time": 1786917388,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "10f9c072-d535-3524-b053-f1808575ffd6",
-      "title": "1 Jaw-Dropping Metric That Makes Alphabet Stock a No-Brainer Buy.",
-      "link": "https://finance.yahoo.com/m/10f9c072-d535-3524-b053-f1808575ffd6/1-jaw-dropping-metric-that.html",
+      "id": "c189a975-0154-3c7b-a75d-5cd784cc1081",
+      "title": "CoreBreak Bypasses AI Agent Guardrails at the Plumbing Layer—and Model-Level Defenses Cannot Help",
+      "link": "https://finance.yahoo.com/m/c189a975-0154-3c7b-a75d-5cd784cc1081/corebreak-bypasses-ai-agent.html",
+      "publisher": "Forkast News",
+      "time": 1786917290,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "130c1ba2-572e-375d-abe2-3af9c8e07a78",
+      "title": "Micron Is Worth $1.1 Trillion and Sits 23% Below Its 52-Week High. Is the Stock a Buy?",
+      "link": "https://finance.yahoo.com/m/130c1ba2-572e-375d-abe2-3af9c8e07a78/micron-is-worth-%241.1-trillion.html",
       "publisher": "Motley Fool",
-      "time": 1786915560,
+      "time": 1786916940,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3cc73f33-b1c2-3dea-852d-5d5523b4f826",
-      "title": "Polymarket Launches Predictions Market for Pokémon Cards",
-      "link": "https://finance.yahoo.com/m/3cc73f33-b1c2-3dea-852d-5d5523b4f826/polymarket-launches.html",
-      "publisher": "BeInCrypto",
-      "time": 1786915512,
-      "impact": "low",
+      "id": "9b8a47de-24aa-375a-b729-301d237e3c0b",
+      "title": "Unpacking Q2 Earnings: Kinsale Capital Group (NYSE:KNSL) In The Context Of Other Property & Casualty Insurance Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/unpacking-q2-earnings-kinsale-capital-214900395.html",
+      "publisher": "StockStory",
+      "time": 1786916940,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "35b051c5-a48c-3195-9235-a37ab890b12b",
-      "title": "A Look Back at Design Software Stocks’ Q2 Earnings: Cadence Design Systems (NASDAQ:CDNS) Vs The Rest Of The Pack",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/look-back-design-software-stocks-212500931.html",
-      "publisher": "StockStory",
-      "time": 1786915500,
+      "id": "c20269df-7e97-357a-88b8-cdbf2f40aa81",
+      "title": "Warren Buffett's Berkshire raises stake in world's largest airline",
+      "link": "https://finance.yahoo.com/m/c20269df-7e97-357a-88b8-cdbf2f40aa81/warren-buffett%27s-berkshire.html",
+      "publisher": "TheStreet",
+      "time": 1786916820,
       "impact": "high",
       "tags": [
         "geo",
@@ -105,49 +144,11 @@
       ]
     },
     {
-      "id": "95bcb7a7-e427-3c78-801f-3bf6a9ceafb4",
-      "title": "Eagle and late birdie lift Jeeno to LPGA Portland Classic win",
-      "link": "https://finance.yahoo.com/m/95bcb7a7-e427-3c78-801f-3bf6a9ceafb4/eagle-and-late-birdie-lift.html",
-      "publisher": "AFP",
-      "time": 1786915432,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c18877df-0fc9-369f-b28f-1a6fb969e567",
-      "title": "Here's How the 2027 Social Security COLA Is Projected to Stack Up to the 2026 COLA",
-      "link": "https://finance.yahoo.com/m/c18877df-0fc9-369f-b28f-1a6fb969e567/here%27s-how-the-2027-social.html",
-      "publisher": "Motley Fool",
-      "time": 1786915200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a52e8114-998f-39b5-8439-fc3ec6c32929",
-      "title": "Shopify Shines and Uber Declines",
-      "link": "https://finance.yahoo.com/m/a52e8114-998f-39b5-8439-fc3ec6c32929/shopify-shines-and-uber.html",
-      "publisher": "Motley Fool",
-      "time": 1786915139,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "be5d5b8a-e928-3b7b-a6a2-c59649b54c20",
-      "title": "Q2 Rundown: Curtiss-Wright (NYSE:CW) Vs Other Aerospace Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-rundown-curtiss-wright-nyse-211700304.html",
-      "publisher": "StockStory",
-      "time": 1786915020,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "265804ce-5b39-3681-b640-117ffb60a0d4",
-      "title": "Insider Sale: Monolithic Power Systems Interim CFO Sells 105 Shares for $141,148",
-      "link": "https://finance.yahoo.com/m/265804ce-5b39-3681-b640-117ffb60a0d4/insider-sale%3A-monolithic.html",
-      "publisher": "Motley Fool",
-      "time": 1786914901,
+      "id": "1ead95cc-4d44-3bf5-a8c3-4ec5966ac32e",
+      "title": "Bitcoin, XRP, Ethereum, and Solana Drop. Will Crypto Recover by the End of 2026?",
+      "link": "https://finance.yahoo.com/m/1ead95cc-4d44-3bf5-a8c3-4ec5966ac32e/bitcoin%2C-xrp%2C-ethereum%2C-and.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786916747,
       "impact": "low",
       "tags": []
     }
