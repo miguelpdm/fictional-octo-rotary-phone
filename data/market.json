@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T09:49:21.320956+00:00",
+  "updatedAt": "2026-08-16T10:16:27.835537+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,97 +52,95 @@
   ],
   "news": [
     {
-      "id": "04e3b8a5-0679-37df-81e4-41877f7139db",
-      "title": "What’s Really Behind Symbotic’s (SYM) Big Quarter?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/really-behind-symbotic-sym-big-093702283.html",
-      "publisher": "Insider Monkey",
-      "time": 1786873022,
+      "id": "2faf67c4-17b9-35e5-aaef-4dd14b72a2fd",
+      "title": "$10,000 in NuScale at Its 52-Week High Is Worth About $1,650 Today",
+      "link": "https://finance.yahoo.com/m/2faf67c4-17b9-35e5-aaef-4dd14b72a2fd/%2410%2C000-in-nuscale-at-its.html",
+      "publisher": "Motley Fool",
+      "time": 1786875120,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "daa713cb-bef4-3f88-89ef-f59c21758efc",
-      "title": "Is It Smart to Buy Stocks Nearly 4 Years Into a Bull Market? History Offers a Clear Answer.",
-      "link": "https://finance.yahoo.com/m/daa713cb-bef4-3f88-89ef-f59c21758efc/is-it-smart-to-buy-stocks.html",
-      "publisher": "Motley Fool",
-      "time": 1786872900,
+      "id": "3e309196-9259-359d-b121-5d848748bf1a",
+      "title": "Microsoft wants you to ditch SMS passwords as AI makes phishing harder to stop",
+      "link": "https://finance.yahoo.com/m/3e309196-9259-359d-b121-5d848748bf1a/microsoft-wants-you-to-ditch.html",
+      "publisher": "Digital Trends",
+      "time": 1786874912,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a25f25a6-fae2-3380-8e3d-3ec7a7b347d5",
+      "title": "Elon Musk Has Said He Wants 25% Voting Control of Tesla to Feel Comfortable Leading Its AI Push. Here's What That Threshold Means for Shareholders.",
+      "link": "https://finance.yahoo.com/m/a25f25a6-fae2-3380-8e3d-3ec7a7b347d5/elon-musk-has-said-he-wants.html",
+      "publisher": "Motley Fool",
+      "time": 1786874700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "22ce6f1d-16d8-3614-ac85-f923265d173f",
+      "title": "Jim Cramer Advises Ditching Stellantis (STLA) for General Motors (GM)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-advises-ditching-stellantis-100432863.html",
+      "publisher": "Insider Monkey",
+      "time": 1786874672,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ecbcc8cd-a389-39a3-ba4d-e092710e09c8",
+      "title": "Is your 1982 penny worth $20,000? Probably not, here's why",
+      "link": "https://finance.yahoo.com/m/ecbcc8cd-a389-39a3-ba4d-e092710e09c8/is-your-1982-penny-worth.html",
+      "publisher": "USA TODAY",
+      "time": 1786874619,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c5151232-ab00-33f3-888f-553bd9bcef8b",
+      "title": "Feds use 'mega' court hearings to speed through immigration cases",
+      "link": "https://finance.yahoo.com/m/c5151232-ab00-33f3-888f-553bd9bcef8b/feds-use-%27mega%27-court.html",
+      "publisher": "USA TODAY",
+      "time": 1786874514,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "0a029b44-4482-3887-8837-6824e9662789",
-      "title": "AMAT Q2 Deep Dive: AI Demand and Advanced Packaging Drive Guidance Upside, Market Reacts Cautiously",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amat-q2-deep-dive-ai-093300961.html",
-      "publisher": "StockStory",
-      "time": 1786872780,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "9f58bfbe-f002-3949-b9e3-77c211db640d",
-      "title": "5 big analyst AI moves: Bullish on memory names; Apple and Cisco downgraded",
-      "link": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-093002869.html",
-      "publisher": "Investing.com",
-      "time": 1786872602,
+      "id": "3232b202-1469-351a-898c-cc812f752e69",
+      "title": "Strikes kill 12 in Russia and Ukraine",
+      "link": "https://finance.yahoo.com/m/3232b202-1469-351a-898c-cc812f752e69/strikes-kill-12-in-russia-and.html",
+      "publisher": "AFP",
+      "time": 1786874500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "01d98123-8ba9-3986-af52-fe8e79bac896",
-      "title": "Open-Weight AI Won’t Crimp Demand for Picks and Shovels",
-      "link": "https://finance.yahoo.com/m/01d98123-8ba9-3986-af52-fe8e79bac896/open-weight-ai-won%E2%80%99t-crimp.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1786872600,
+      "id": "c57e6fa9-d13b-334a-afdb-f70539f7cc83",
+      "title": "NiSource (NI): A Costly Quarter Masks A Bigger Bet",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nisource-ni-costly-quarter-masks-100126971.html",
+      "publisher": "Insider Monkey",
+      "time": 1786874486,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0d24c072-270c-3657-86ea-95ce01cb2a45",
-      "title": "I cared for my mom with dementia for years — now my brother says I misused her money and don't deserve my inheritance",
-      "link": "https://finance.yahoo.com/healthcare/articles/cared-mom-dementia-years-now-093000165.html",
-      "publisher": "Moneywise",
-      "time": 1786872600,
+      "id": "b9cb8216-bc0a-3215-9b9d-737962302998",
+      "title": "Why the Alnylam Sell-Off Looks Overdone -- and What Investors Are Missing",
+      "link": "https://finance.yahoo.com/m/b9cb8216-bc0a-3215-9b9d-737962302998/why-the-alnylam-sell-off.html",
+      "publisher": "Motley Fool",
+      "time": 1786874460,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "143974c7-863c-3042-a6e6-4b40875495c5",
-      "title": "Best Kid-Friendly Resorts (2026): Westgate Resorts Named Top Family Destination for All-Ages Fun by Expert Consumers",
-      "link": "https://finance.yahoo.com/media-advertising/articles/best-kid-friendly-resorts-2026-093000765.html",
-      "publisher": "PR Newswire",
-      "time": 1786872600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2c328dc5-ee50-3330-b649-241767ff48cb",
-      "title": "From ‘Piece of Junk’ to Prize Showpiece: The Rise of the Everyday Classic Car",
-      "link": "https://finance.yahoo.com/m/2c328dc5-ee50-3330-b649-241767ff48cb/from-%E2%80%98piece-of-junk%E2%80%99-to-prize.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1786872600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "49fd7312-854b-33e7-b89e-6a5580f8feca",
-      "title": "The Social Security bump for 3 million Americans you completely forgot about — do you still qualify?",
-      "link": "https://finance.yahoo.com/economy/policy/articles/social-security-bump-3-million-093000754.html",
-      "publisher": "Moneywise",
-      "time": 1786872600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "630739ef-ea66-3067-b603-63c1fe28fc63",
-      "title": "Two Guys Are Eating Their Way Around the World—Without Leaving New York",
-      "link": "https://finance.yahoo.com/m/630739ef-ea66-3067-b603-63c1fe28fc63/two-guys-are-eating-their-way.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1786872600,
+      "id": "044b962d-cde2-4dad-83bd-762aa1e138cc",
+      "title": "Best CD rates today, Sunday, August 16, 2026: Lock in up to 4.30% APY",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-august-16-2026-lock-in-up-to-430-apy-100000956.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1786874400,
       "impact": "low",
       "tags": []
     }
