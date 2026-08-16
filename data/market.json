@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T23:42:06.502911+00:00",
+  "updatedAt": "2026-08-16T00:55:09.061240+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,96 +52,105 @@
   ],
   "news": [
     {
-      "id": "3906ce77-7d30-3b7b-9ad8-725e36a138d6",
-      "title": "Layne’s Chicken Fingers holds grand opening",
-      "link": "https://finance.yahoo.com/m/3906ce77-7d30-3b7b-9ad8-725e36a138d6/layne%E2%80%99s-chicken-fingers-holds.html",
-      "publisher": "The Lima News, Ohio",
-      "time": 1786836660,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "77e39e92-bf28-3b55-aac4-194cf0e11bcf",
-      "title": "3 Reasons to Avoid CCL and 1 Stock to Buy Instead",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-ccl-1-232500231.html",
+      "id": "ac244141-82a2-3851-90f4-bc05f0e8af74",
+      "title": "1 Unprofitable Stock to Own for Decades and 2 We Question",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-unprofitable-stock-own-decades-004500396.html",
       "publisher": "StockStory",
-      "time": 1786836300,
-      "impact": "low",
+      "time": 1786841100,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "bd3da61a-5362-3987-b161-0760168f95be",
-      "title": "Rainforest summer retreat-- Discover a New Vacation Experience at Qixianling, Baoting, Hainan",
-      "link": "https://finance.yahoo.com/small-business/articles/rainforest-summer-retreat-discover-vacation-232200726.html",
-      "publisher": "PR Newswire",
-      "time": 1786836120,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bf7e98c4-ee55-371b-b6a7-f7ee2df1c195",
-      "title": "Cardinals' Baez bashes record three homers in MLB debut",
-      "link": "https://finance.yahoo.com/m/bf7e98c4-ee55-371b-b6a7-f7ee2df1c195/cardinals%27-baez-bashes-record.html",
-      "publisher": "AFP",
-      "time": 1786836008,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d161d530-f9e9-38c6-ab21-760fe510a5a3",
-      "title": "Vanguard's VGLT or Schwab's SCHQ: Which Long-Term Treasury ETF Is the Better Buy?",
-      "link": "https://finance.yahoo.com/m/d161d530-f9e9-38c6-ab21-760fe510a5a3/vanguard%27s-vglt-or-schwab%27s.html",
+      "id": "4895966b-a7ca-3e6e-97ad-3609bd61e726",
+      "title": "Which Gold ETF Is the Better Buy: iShares' IAU or State Street's GLD?",
+      "link": "https://finance.yahoo.com/m/4895966b-a7ca-3e6e-97ad-3609bd61e726/which-gold-etf-is-the-better.html",
       "publisher": "Motley Fool",
-      "time": 1786835940,
+      "time": 1786840741,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "65acb790-c4f3-37cc-8c21-085211b4a998",
-      "title": "Block’s (XYZ) EPS Surged 65%, So Why Did the Stock Drop?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/block-xyz-eps-surged-65-231807424.html",
-      "publisher": "Insider Monkey",
-      "time": 1786835887,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0e8b4f4d-c109-3ca5-9b2d-9b9ad3ddef03",
-      "title": "3 Reasons to Sell THG and 1 Stock to Buy Instead",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-thg-1-231700019.html",
+      "id": "3ea6b5e0-d0a2-3531-9d58-f4babde84c0e",
+      "title": "2 Russell 2000 Stocks with Promising Prospects and 1 Facing Challenges",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-russell-2000-stocks-promising-003700766.html",
       "publisher": "StockStory",
-      "time": 1786835820,
+      "time": 1786840620,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "9babdc49-d6f1-36b0-bacd-ca72c348c255",
-      "title": "Pandora opens unexpected box as silver price drops",
-      "link": "https://finance.yahoo.com/m/9babdc49-d6f1-36b0-bacd-ca72c348c255/pandora-opens-unexpected-box.html",
-      "publisher": "TheStreet",
-      "time": 1786835820,
+      "id": "1de3d27d-f58b-30c1-89e3-089de7398b0b",
+      "title": "Iran war commander visits USS Abraham Lincoln as carrier prepares to return home",
+      "link": "https://finance.yahoo.com/m/1de3d27d-f58b-30c1-89e3-089de7398b0b/iran-war-commander-visits-uss.html",
+      "publisher": "Investing.com",
+      "time": 1786840272,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "263cf30c-c05a-3e2d-b6a5-7097351e4e2d",
+      "title": "1 Profitable Stock to Consider Right Now and 2 We Find Risky",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-consider-now-002900773.html",
+      "publisher": "StockStory",
+      "time": 1786840140,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9491597e-949b-3ba7-93cf-42ca191fa548",
+      "title": "If You'd Put $5,000 Into Rocket Lab 5 Years Ago, Here's How Much You'd Have Today",
+      "link": "https://finance.yahoo.com/m/9491597e-949b-3ba7-93cf-42ca191fa548/if-you%27d-put-%245%2C000-into.html",
+      "publisher": "Motley Fool",
+      "time": 1786839900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "923f5ee6-21fe-3f89-a927-ab7f731eea8a",
-      "title": "Equity Residential (EQR) Stock Looks Reasonable Following Its 17% Three Year Return",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equity-residential-eqr-stock-looks-230941738.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786835381,
+      "id": "6492e7db-1ed6-34c6-9f51-8530692c8ea0",
+      "title": "Vanguard's VNQI or FlexShares' GQRE: Which Global Real Estate ETF Should Long-Term Investors Choose?",
+      "link": "https://finance.yahoo.com/m/6492e7db-1ed6-34c6-9f51-8530692c8ea0/vanguard%27s-vnqi-or.html",
+      "publisher": "Motley Fool",
+      "time": 1786839789,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d2a713e7-4c16-300e-add0-7096732f979e",
-      "title": "Novo Nordisk (CPSE:NOVO B) Could Be 65% Undervalued Following Its Interim Dividend",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-cpse-novo-b-230937606.html",
+      "id": "77393e61-5db9-38df-8023-e575670706a3",
+      "title": "Rivers among nine inducted into Basketball Hall of Fame",
+      "link": "https://finance.yahoo.com/m/77393e61-5db9-38df-8023-e575670706a3/rivers-among-nine-inducted.html",
+      "publisher": "AFP",
+      "time": 1786839773,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e8633e9f-f22f-319f-a646-ba3704cee8f8",
+      "title": "2 Surging  Stocks with Solid Fundamentals and 1 We Question",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-surging-stocks-solid-fundamentals-002100256.html",
+      "publisher": "StockStory",
+      "time": 1786839660,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "9fbcf7bf-77aa-3843-a84f-83c477afeed7",
+      "title": "Delta Air Lines (DAL) Stock Looks Undervalued While Broader Checks Stay Mixed",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/delta-air-lines-dal-stock-001653983.html",
       "publisher": "Simply Wall St.",
-      "time": 1786835377,
+      "time": 1786839413,
       "impact": "low",
       "tags": []
     }
