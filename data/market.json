@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T15:44:01.140043+00:00",
+  "updatedAt": "2026-08-16T16:16:54.318422+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,29 +52,31 @@
   ],
   "news": [
     {
-      "id": "09930c51-eca8-33eb-8928-cae0ec5d3fed",
-      "title": "Medicare Sent Him Home ‘With Services.’ His Wife Covered the Other 166 Hours.",
-      "link": "https://finance.yahoo.com/m/09930c51-eca8-33eb-8928-cae0ec5d3fed/medicare-sent-him-home-%E2%80%98with.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786894662,
+      "id": "cea312a4-77ab-35ad-92cc-25249f7a705d",
+      "title": "Qorvo (QRVO) Stock May Be 14% Overvalued As Cash Flow Carries The Case",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/qorvo-qrvo-stock-may-14-160934261.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786896574,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "fbe988df-e494-3c9a-830a-5e4688c3f088",
-      "title": "Southampton mocked over Spygate during Watford defeat",
-      "link": "https://finance.yahoo.com/m/fbe988df-e494-3c9a-830a-5e4688c3f088/southampton-mocked-over.html",
-      "publisher": "AFP",
-      "time": 1786894466,
-      "impact": "low",
-      "tags": []
+      "id": "518ed2de-91f6-37a0-958f-576a5b3faebc",
+      "title": "Colgate-Palmolive (CL) Stock Could Trade At A Discount After Its 32% Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/colgate-palmolive-cl-stock-could-160922812.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786896562,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
     },
     {
-      "id": "4ab48e8f-83ae-3316-a50f-ca4867262a61",
-      "title": "This Oil Dividend Just Got a Raise. Here's What It Means for Shareholders.",
-      "link": "https://finance.yahoo.com/m/4ab48e8f-83ae-3316-a50f-ca4867262a61/this-oil-dividend-just-got-a.html",
-      "publisher": "Motley Fool",
-      "time": 1786894440,
+      "id": "9d3c402c-a899-3db2-9b14-003213e90b15",
+      "title": "Is Sezzle (SEZL) Fairly Valued As It Raises 2026 Guidance And Secures $300 Million?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sezzle-sezl-fairly-valued-raises-160913269.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786896553,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,69 +84,69 @@
       ]
     },
     {
-      "id": "e6d8e4c8-33a1-35eb-a7d6-c248e99920e9",
-      "title": "1 Small-Cap Stock for Long-Term Investors and 2 We Ignore",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-small-cap-stock-long-153300217.html",
+      "id": "ca0a4276-7c01-3b16-a5c8-d000d15dc2e8",
+      "title": "Golar LNG (GLNG) Stock Looks Below Fair Value After a Huge Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/golar-lng-glng-stock-looks-160911688.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786896551,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6177905e-d393-32e3-be6d-3d0859ef5933",
+      "title": "Pulse Biosciences (PLSE) Stock Looks Pricey On Book Value Yet Strong On Returns",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pulse-biosciences-plse-stock-looks-160853715.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786896533,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bdc024cf-fc35-39cc-924a-2473dfbc0b1f",
+      "title": "1 Cash-Producing Stock to Target This Week and 2 Facing Headwinds",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-producing-stock-target-160500159.html",
       "publisher": "StockStory",
-      "time": 1786894380,
+      "time": 1786896300,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "8d5d9636-79af-3ae3-9b73-6f2ce512d911",
-      "title": "Amazon is selling a $39 multi-tool for $24 that’s easy to carry",
-      "link": "https://finance.yahoo.com/m/8d5d9636-79af-3ae3-9b73-6f2ce512d911/amazon-is-selling-a-%2439.html",
-      "publisher": "TheStreet",
-      "time": 1786894200,
+      "id": "1d983ee1-8507-3a2a-b2e4-ce7529de5eb1",
+      "title": "Under Armour’s Turnaround Hits a Wall as North America Demand Craters",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/under-armour-turnaround-hits-wall-160449561.html",
+      "publisher": "Insider Monkey",
+      "time": 1786896289,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7e34648c-3992-322e-8658-5294961d6696",
-      "title": "1 High-Flying Stock to Consider Right Now and 2 Facing Headwinds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-high-flying-stock-consider-152500030.html",
-      "publisher": "StockStory",
-      "time": 1786893900,
+      "id": "e918909b-99e3-327e-bceb-19a7c6e7bf77",
+      "title": "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users' order information",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-wallet-provider-safepal-discloses-160318391.html",
+      "publisher": "Reuters",
+      "time": 1786896198,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cea381bf-e229-321d-817c-6f39c1b2f844",
+      "title": "Reddit’s S&P 500 debut could unleash nearly $3 billion of index-fund buying",
+      "link": "https://finance.yahoo.com/m/cea381bf-e229-321d-817c-6f39c1b2f844/reddit%E2%80%99s-s%26p-500-debut-could.html",
+      "publisher": "TheStreet",
+      "time": 1786896180,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "e583d7c5-3b48-3cc1-a84e-a3cac982475b",
-      "title": "Open: This is \"Face the Nation with Margaret Brennan,\" Aug. 16, 2026",
-      "link": "https://finance.yahoo.com/m/e583d7c5-3b48-3cc1-a84e-a3cac982475b/open%3A-this-is-%22face-the.html",
-      "publisher": "CBS News Videos",
-      "time": 1786893658,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0788e568-7ab1-316c-a167-dd57c4969718",
-      "title": "He Bought a $300,000 Annuity Inside His IRA for the Tax Deferral. The IRA Was Already Tax-Deferred, but the Fees Were Real.",
-      "link": "https://finance.yahoo.com/m/0788e568-7ab1-316c-a167-dd57c4969718/he-bought-a-%24300%2C000-annuity.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786893634,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e4a17318-f0d1-30e0-a2ab-27aa2390c12a",
-      "title": "I Checked VIG's Top Holdings. They're Not What You'd Expect From a Dividend ETF.",
-      "link": "https://finance.yahoo.com/m/e4a17318-f0d1-30e0-a2ab-27aa2390c12a/i-checked-vig%27s-top-holdings..html",
-      "publisher": "Motley Fool",
-      "time": 1786893600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "20855af4-e292-3043-8e9d-091619cd1a44",
-      "title": "Peter Thiel invests $118 million in surging big tech stock",
-      "link": "https://finance.yahoo.com/m/20855af4-e292-3043-8e9d-091619cd1a44/peter-thiel-invests-%24118.html",
-      "publisher": "TheStreet",
-      "time": 1786893420,
+      "id": "decb7276-c545-3e5e-b1c9-fadaf0523762",
+      "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore",
+      "link": "https://finance.yahoo.com/m/decb7276-c545-3e5e-b1c9-fadaf0523762/gemini-3.7-flash-review%3A.html",
+      "publisher": "decrypt",
+      "time": 1786896005,
       "impact": "low",
       "tags": []
     }
