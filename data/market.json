@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T21:13:55.268314+00:00",
+  "updatedAt": "2026-08-16T21:42:08.946336+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,100 +52,102 @@
   ],
   "news": [
     {
-      "id": "91725a23-a88c-3873-9503-a6e6e83bc7e8",
-      "title": "Duplantis masterclass for fourth Euro pole vault title",
-      "link": "https://finance.yahoo.com/m/91725a23-a88c-3873-9503-a6e6e83bc7e8/duplantis-masterclass-for.html",
+      "id": "6f7017b8-72bf-398e-b3fe-61fd7155643f",
+      "title": "Belgium races to tame huge wildfire creeping towards Germany",
+      "link": "https://finance.yahoo.com/m/6f7017b8-72bf-398e-b3fe-61fd7155643f/belgium-races-to-tame-huge.html",
       "publisher": "AFP",
-      "time": 1786914375,
+      "time": 1786915996,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "797f33b9-2331-36bf-95d3-c9b1e7ce1f98",
+      "title": "SSMC Steel Expands Tub-Style Roll-Off Container Line With Four Construction Levels",
+      "link": "https://finance.yahoo.com/small-business/articles/ssmc-steel-expands-tub-style-213000336.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786915800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f4e5b914-cf3f-3f91-a02f-1b5fe3eab204",
-      "title": "Bank of America sees ‘great convergence’ across America’s two economies",
-      "link": "https://finance.yahoo.com/m/f4e5b914-cf3f-3f91-a02f-1b5fe3eab204/bank-of-america-sees-%E2%80%98great.html",
-      "publisher": "TheStreet",
-      "time": 1786914180,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "10f9c072-d535-3524-b053-f1808575ffd6",
+      "title": "1 Jaw-Dropping Metric That Makes Alphabet Stock a No-Brainer Buy.",
+      "link": "https://finance.yahoo.com/m/10f9c072-d535-3524-b053-f1808575ffd6/1-jaw-dropping-metric-that.html",
+      "publisher": "Motley Fool",
+      "time": 1786915560,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "962d9583-8681-38aa-82de-8b12e724c65f",
-      "title": "2 Reasons to Like BURL (and 1 Not So Much)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-burl-1-not-210100503.html",
-      "publisher": "StockStory",
-      "time": 1786914060,
+      "id": "3cc73f33-b1c2-3dea-852d-5d5523b4f826",
+      "title": "Polymarket Launches Predictions Market for Pokémon Cards",
+      "link": "https://finance.yahoo.com/m/3cc73f33-b1c2-3dea-852d-5d5523b4f826/polymarket-launches.html",
+      "publisher": "BeInCrypto",
+      "time": 1786915512,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "376a9591-5cb7-313a-bcf2-b45ddfbabd2f",
-      "title": "Media Advisory - Government of Canada officials to hold a media technical briefing on clean energy projects in Newfoundland and Labrador and Quebec",
-      "link": "https://finance.yahoo.com/energy/articles/media-advisory-government-canada-officials-210000375.html",
-      "publisher": "CNW Group",
-      "time": 1786914000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bed08994-faea-3ddf-99b7-8f46b737ec9a",
-      "title": "Government of Canada supports the SummerWorks Theatre Festival",
-      "link": "https://finance.yahoo.com/media-advertising/articles/government-canada-supports-summerworks-theatre-210000858.html",
-      "publisher": "CNW Group",
-      "time": 1786914000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d23ab52d-2ad5-34b6-8411-2ce46feb706f",
-      "title": "Monday, August 17, 2026",
-      "link": "https://finance.yahoo.com/energy/articles/monday-august-17-2026-210000743.html",
-      "publisher": "CNW Group",
-      "time": 1786914000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "db09a25f-99a2-3cae-ad32-f76187aaccf2",
-      "title": "/R E P E A T -- Media Advisory - Closed-Door Briefing on an Announcement Concerning Québec's Energy Security/",
-      "link": "https://finance.yahoo.com/energy/articles/r-e-p-e-t-210000402.html",
-      "publisher": "CNW Group",
-      "time": 1786914000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bb85e069-6fbf-3b10-8f14-572889d6b2f7",
-      "title": "Here's How to Read BBB Foods' Latest Insider Filings as Chain Grows 39% Despite Soft Economy",
-      "link": "https://finance.yahoo.com/m/bb85e069-6fbf-3b10-8f14-572889d6b2f7/here%27s-how-to-read-bbb-foods%27.html",
-      "publisher": "Motley Fool",
-      "time": 1786913980,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "626ca68e-c102-3f05-b2e6-29ba45b9228a",
-      "title": "SAIC (SAIC): Buy, Sell, or Hold Post Q1 Earnings?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/saic-saic-buy-sell-hold-205300538.html",
+      "id": "35b051c5-a48c-3195-9235-a37ab890b12b",
+      "title": "A Look Back at Design Software Stocks’ Q2 Earnings: Cadence Design Systems (NASDAQ:CDNS) Vs The Rest Of The Pack",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/look-back-design-software-stocks-212500931.html",
       "publisher": "StockStory",
-      "time": 1786913580,
-      "impact": "medium",
+      "time": 1786915500,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "99c0d272-c632-35b2-9348-f4bc096ed173",
-      "title": "PSG beaten by Lens in French Champions' Trophy",
-      "link": "https://finance.yahoo.com/m/99c0d272-c632-35b2-9348-f4bc096ed173/psg-beaten-by-lens-in-french.html",
+      "id": "95bcb7a7-e427-3c78-801f-3bf6a9ceafb4",
+      "title": "Eagle and late birdie lift Jeeno to LPGA Portland Classic win",
+      "link": "https://finance.yahoo.com/m/95bcb7a7-e427-3c78-801f-3bf6a9ceafb4/eagle-and-late-birdie-lift.html",
       "publisher": "AFP",
-      "time": 1786913426,
+      "time": 1786915432,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c18877df-0fc9-369f-b28f-1a6fb969e567",
+      "title": "Here's How the 2027 Social Security COLA Is Projected to Stack Up to the 2026 COLA",
+      "link": "https://finance.yahoo.com/m/c18877df-0fc9-369f-b28f-1a6fb969e567/here%27s-how-the-2027-social.html",
+      "publisher": "Motley Fool",
+      "time": 1786915200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a52e8114-998f-39b5-8439-fc3ec6c32929",
+      "title": "Shopify Shines and Uber Declines",
+      "link": "https://finance.yahoo.com/m/a52e8114-998f-39b5-8439-fc3ec6c32929/shopify-shines-and-uber.html",
+      "publisher": "Motley Fool",
+      "time": 1786915139,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "be5d5b8a-e928-3b7b-a6a2-c59649b54c20",
+      "title": "Q2 Rundown: Curtiss-Wright (NYSE:CW) Vs Other Aerospace Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-rundown-curtiss-wright-nyse-211700304.html",
+      "publisher": "StockStory",
+      "time": 1786915020,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "265804ce-5b39-3681-b640-117ffb60a0d4",
+      "title": "Insider Sale: Monolithic Power Systems Interim CFO Sells 105 Shares for $141,148",
+      "link": "https://finance.yahoo.com/m/265804ce-5b39-3681-b640-117ffb60a0d4/insider-sale%3A-monolithic.html",
+      "publisher": "Motley Fool",
+      "time": 1786914901,
       "impact": "low",
       "tags": []
     }
