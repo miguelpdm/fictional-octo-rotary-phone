@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T10:46:45.046359+00:00",
+  "updatedAt": "2026-08-16T11:14:35.548833+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,108 +52,104 @@
   ],
   "news": [
     {
-      "id": "0d59c096-27d2-3e13-888a-cf32948e9466",
-      "title": "1 Surging  Stock Worth Your Attention and 2 We Question",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-surging-stock-worth-attention-103700830.html",
+      "id": "28e06d75-5347-300b-aa97-69ecb5105503",
+      "title": "3 Value Stocks We Approach with Caution",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-value-stocks-approach-caution-110900875.html",
       "publisher": "StockStory",
-      "time": 1786876620,
+      "time": 1786878540,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "6a5c9cc0-38ad-38ad-aaa7-89140affebd9",
-      "title": "Rival Shows the Drawback in Tesla's Driverless Tech Strategy. Are They Right?",
-      "link": "https://finance.yahoo.com/m/6a5c9cc0-38ad-38ad-aaa7-89140affebd9/rival-shows-the-drawback-in.html",
-      "publisher": "Motley Fool",
-      "time": 1786876500,
+      "id": "3e2f1a25-b07e-37a1-a11d-c300d0c9bca7",
+      "title": "Firefighters battle second day of blaze on Greek island",
+      "link": "https://finance.yahoo.com/m/3e2f1a25-b07e-37a1-a11d-c300d0c9bca7/firefighters-battle-second.html",
+      "publisher": "AFP",
+      "time": 1786878390,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b230ec2a-3c82-3a70-8c17-50cc47424301",
-      "title": "The Trade Desk Stock Just Crashed. Should Investors Buy the Dip?",
-      "link": "https://finance.yahoo.com/m/b230ec2a-3c82-3a70-8c17-50cc47424301/the-trade-desk-stock-just.html",
-      "publisher": "Motley Fool",
-      "time": 1786876320,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "0348c422-f683-3850-b31b-d6c6aadfb30d",
-      "title": "Street Calls of the Week",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/street-calls-week-103003301.html",
-      "publisher": "Investing.com",
-      "time": 1786876203,
+      "id": "30264557-5bd3-3fdc-9edc-e203bace702d",
+      "title": "He Cut His Factory Hours at 63 to Protect Social Security. The Union’s “Lost-Time” Checks Put Him Over the Limit.",
+      "link": "https://finance.yahoo.com/m/30264557-5bd3-3fdc-9edc-e203bace702d/he-cut-his-factory-hours-at.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786878145,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "17800b1e-f6dd-34eb-af3b-3985fffbb83a",
-      "title": "/C O R R E C T I O N -- Noah Holdings Limited/",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/noah-report-second-quarter-half-103000298.html",
-      "publisher": "PR Newswire",
-      "time": 1786876200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fd5e1457-e5de-37b4-b60d-58a29b3bc216",
-      "title": "Gen X parents won’t leave their tweens alone — and the babysitting fees are adding up. What’s behind the ‘strange’ shift",
-      "link": "https://finance.yahoo.com/small-business/articles/gen-x-parents-won-t-103000270.html",
-      "publisher": "Moneywise",
-      "time": 1786876200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bc71d4f2-70dc-31fc-aca2-a11bb8e01418",
-      "title": "3 Financials Stocks We Steer Clear Of",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-financials-stocks-steer-clear-102900312.html",
+      "id": "fb4ecd5c-6091-3518-8da2-84b190cf16fc",
+      "title": "2 Value Stocks to Consider Right Now and 1 We Brush Off",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-value-stocks-consider-now-110100836.html",
       "publisher": "StockStory",
-      "time": 1786876140,
+      "time": 1786878060,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "c3ebf18d-eec2-371e-952e-a807e53c7df9",
-      "title": "Jim Cramer Breaks Down McDonald’s (MCD) Q2 Earnings and Execution Flaws",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-breaks-down-mcdonald-102722297.html",
-      "publisher": "Insider Monkey",
-      "time": 1786876042,
-      "impact": "medium",
+      "id": "94feb811-56d4-315b-8982-93c44f439089",
+      "title": "3 Nuclear Energy Stocks Riding the AI Power Surge in August",
+      "link": "https://finance.yahoo.com/m/94feb811-56d4-315b-8982-93c44f439089/3-nuclear-energy-stocks.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786878022,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "eb439604-5096-379e-a5fb-bb96f74ba698",
-      "title": "Warren Buffett's Successor, Greg Abel, Put Nearly $35 Billion of Cash to Work Last Quarter. Here's What He Bought.",
-      "link": "https://finance.yahoo.com/m/eb439604-5096-379e-a5fb-bb96f74ba698/warren-buffett%27s-successor%2C.html",
+      "id": "885e3ccf-c0b7-30b1-b973-2457d5e930ce",
+      "title": "5 Dividend Aristocrats to Buy for Lifelong Income in August",
+      "link": "https://finance.yahoo.com/m/885e3ccf-c0b7-30b1-b973-2457d5e930ce/5-dividend-aristocrats-to-buy.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786878021,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a4ba505d-3544-3828-a219-040b8faea622",
+      "title": "3 Quantum Computing Stocks for Aggressive Investors in August",
+      "link": "https://finance.yahoo.com/m/a4ba505d-3544-3828-a219-040b8faea622/3-quantum-computing-stocks.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786878021,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "d9d4e7bc-9e0a-3303-b837-5b83c45344c9",
+      "title": "Thousands await aid after deadly Indonesian quake",
+      "link": "https://finance.yahoo.com/m/d9d4e7bc-9e0a-3303-b837-5b83c45344c9/thousands-await-aid-after.html",
+      "publisher": "AFP",
+      "time": 1786878002,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e52eb381-683d-3c64-adbc-01d690f774e8",
+      "title": "Strategy CEO Phong Le Thinks MSTR Stock Will Outperform Bitcoin During the Next Bull Market. Here's Why He's Wrong.",
+      "link": "https://finance.yahoo.com/m/e52eb381-683d-3c64-adbc-01d690f774e8/strategy-ceo-phong-le-thinks.html",
       "publisher": "Motley Fool",
-      "time": 1786875720,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "a318388c-b119-31bd-a4c4-58c992eb527a",
-      "title": "1 Surging  Stock Worth Your Attention and 2 We Brush Off",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-surging-stock-worth-attention-102100442.html",
-      "publisher": "StockStory",
-      "time": 1786875660,
+      "time": 1786878000,
       "impact": "low",
       "tags": [
         "macro"
       ]
+    },
+    {
+      "id": "f5698e5f-54e3-325d-a6b6-e9a3badece7a",
+      "title": "Walmart's $56 farmhouse cabinet has 4 compartments and a sliding barn door",
+      "link": "https://finance.yahoo.com/m/f5698e5f-54e3-325d-a6b6-e9a3badece7a/walmart%27s-%2456-farmhouse.html",
+      "publisher": "TheStreet",
+      "time": 1786878000,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
