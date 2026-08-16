@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T04:06:52.752178+00:00",
+  "updatedAt": "2026-08-16T04:58:40.725491+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,109 +52,104 @@
   ],
   "news": [
     {
-      "id": "91610e8c-559f-391b-a074-2b5384aef300",
-      "title": "3 Cash-Producing Stocks We Find Risky",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-cash-producing-stocks-risky-035700920.html",
+      "id": "8f2fdcdc-07ef-3578-97b5-4e5b6117a72a",
+      "title": "1 Stock Under $50 on Our Watchlist and 2 We Question",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-stock-under-50-watchlist-045300194.html",
       "publisher": "StockStory",
-      "time": 1786852620,
+      "time": 1786855980,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "5852d2c0-697b-37cf-b43f-81ae81480ceb",
-      "title": "Chinese refiner Hengli accused of funding Iran through sanctioned oil purchases",
-      "link": "https://finance.yahoo.com/energy/articles/chinese-refiner-hengli-accused-funding-035225931.html",
+      "id": "3be99a3c-e2ea-3ebb-b4b8-f729775bdaa8",
+      "title": "Gay badminton star Gilmour urges progress on LGBTQ rights in Asia",
+      "link": "https://finance.yahoo.com/m/3be99a3c-e2ea-3ebb-b4b8-f729775bdaa8/gay-badminton-star-gilmour.html",
+      "publisher": "AFP",
+      "time": 1786855827,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9e53ae2b-53d0-30aa-b097-98300535cdd5",
+      "title": "Chinese ship sets off for Europe through Arctic, halving travel time",
+      "link": "https://finance.yahoo.com/m/9e53ae2b-53d0-30aa-b097-98300535cdd5/chinese-ship-sets-off-for.html",
+      "publisher": "AFP",
+      "time": 1786855752,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "464f98c8-577a-3ea0-a4ac-d1f5693f1e04",
+      "title": "Pallister takes down Ledecky in Pan Pacs 800m freestyle",
+      "link": "https://finance.yahoo.com/m/464f98c8-577a-3ea0-a4ac-d1f5693f1e04/pallister-takes-down-ledecky.html",
+      "publisher": "AFP",
+      "time": 1786855634,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "56990b3c-9e0d-388a-8b9f-51b0ad86b934",
+      "title": "1 Healthcare Stock Worth Your Attention and 2 We Brush Off",
+      "link": "https://finance.yahoo.com/healthcare/articles/1-healthcare-stock-worth-attention-044500644.html",
+      "publisher": "StockStory",
+      "time": 1786855500,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "2c452ad6-4de8-3ac4-b50a-c1f31c5304de",
+      "title": "Can SpaceX Leap to the AI Frontier?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-leap-ai-frontier-044116246.html",
       "publisher": "Investing.com",
-      "time": 1786852345,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "time": 1786855276,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "c2fc38cf-c284-3f80-9ab1-88cb2a937bdc",
-      "title": "1 Cash-Producing Stock with Impressive Fundamentals and 2 We Find Risky",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-producing-stock-impressive-034900628.html",
+      "id": "341129ff-c2fc-3f63-b2b9-f02f4d994bb9",
+      "title": "3 Stocks Under $50 That Fall Short",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-under-50-fall-043700113.html",
       "publisher": "StockStory",
-      "time": 1786852140,
+      "time": 1786855020,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "265b3a06-6e0a-3f93-9294-93a33c8e5a0a",
-      "title": "1 Momentum  Stock to Target This Week and 2 We Ignore",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-momentum-stock-target-week-034100074.html",
+      "id": "dafe4e9f-4f9b-30a1-baf4-396a4366ecbf",
+      "title": "1 Energy Stock with Exciting Potential and 2 Facing Headwinds",
+      "link": "https://finance.yahoo.com/energy/articles/1-energy-stock-exciting-potential-042900431.html",
       "publisher": "StockStory",
-      "time": 1786851660,
+      "time": 1786854540,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "ae155f21-c3aa-31eb-b1b9-5cc9861a0f5c",
-      "title": "Bill Ackman Put 4.9% of Pershing Square USA Into the Netflix Trade That Cost Him $400 Million in 2022",
-      "link": "https://finance.yahoo.com/m/ae155f21-c3aa-31eb-b1b9-5cc9861a0f5c/bill-ackman-put-4.9%25-of.html",
+      "id": "9ca9ce5a-7766-33b7-b5af-7728db46081c",
+      "title": "3 of Wall Street’s Favorite Stocks We Keep Off Our Radar",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-wall-street-favorite-stocks-042100756.html",
+      "publisher": "StockStory",
+      "time": 1786854060,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "54ed399c-8884-399d-a6e4-ba45d43e7d4f",
+      "title": "Amazon vs. Microsoft: Which Cloud Computing Behemoth Is the Better Artificial Intelligence (AI) Buy Today?",
+      "link": "https://finance.yahoo.com/m/54ed399c-8884-399d-a6e4-ba45d43e7d4f/amazon-vs.-microsoft%3A-which.html",
       "publisher": "Motley Fool",
-      "time": 1786851540,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "506aa9d4-d39e-36d2-8271-d71c690a5bb6",
-      "title": "Cowboys vs. Seahawks highlights Preseason Week 1",
-      "link": "https://finance.yahoo.com/m/506aa9d4-d39e-36d2-8271-d71c690a5bb6/cowboys-vs.-seahawks.html",
-      "publisher": "NFL Highlights",
-      "time": 1786851459,
+      "time": 1786854000,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "dc9566fb-0524-3f15-b2cf-351bd8486a7e",
-      "title": "Hurricane Lala dumps heavy rain on Hawaii",
-      "link": "https://finance.yahoo.com/m/dc9566fb-0524-3f15-b2cf-351bd8486a7e/hurricane-lala-dumps-heavy.html",
-      "publisher": "AFP",
-      "time": 1786851454,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9043bdeb-182c-3fa0-8fc2-e82381fd36bd",
-      "title": "Douglass breaks 50m free world record again to claim Pan Pacs gold",
-      "link": "https://finance.yahoo.com/m/9043bdeb-182c-3fa0-8fc2-e82381fd36bd/douglass-breaks-50m-free.html",
-      "publisher": "AFP",
-      "time": 1786851410,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "deeff36a-4f47-35cb-86dc-472bf86c9bc2",
-      "title": "1 Surging  Stock to Own for Decades and 2 We Brush Off",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-surging-stock-own-decades-033300074.html",
-      "publisher": "StockStory",
-      "time": 1786851180,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "bd551873-4a30-3575-a8d9-8362c451cf49",
-      "title": "1 Cash-Producing Stock with Competitive Advantages and 2 We Turn Down",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-producing-stock-competitive-032500681.html",
-      "publisher": "StockStory",
-      "time": 1786850700,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
     }
   ],
   "errors": {
