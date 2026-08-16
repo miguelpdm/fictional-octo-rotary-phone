@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T22:44:15.145499+00:00",
+  "updatedAt": "2026-08-16T23:13:31.322715+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,20 @@
   ],
   "news": [
     {
-      "id": "5e318eda-1c87-3c1f-929e-9df5d1d7b611",
-      "title": "HIVE reports 74% revenue jump in fiscal Q1 2027 earnings",
-      "link": "https://finance.yahoo.com/m/5e318eda-1c87-3c1f-929e-9df5d1d7b611/hive-reports-74%25-revenue-jump.html",
+      "id": "b3394b71-d9d3-3eca-ae68-1d174110c1b8",
+      "title": "Walmart's sleek $490 upright freezer with five shelves is 56% off",
+      "link": "https://finance.yahoo.com/m/b3394b71-d9d3-3eca-ae68-1d174110c1b8/walmart%27s-sleek-%24490-upright.html",
       "publisher": "TheStreet",
-      "time": 1786919893,
+      "time": 1786921380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2c3a90b1-bac3-34b7-8f3c-84e8e91ddb5e",
+      "title": "Q2 Earnings Roundup: Energizer (NYSE:ENR) And The Rest Of The Household Products Segment",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-roundup-energizer-nyse-230100686.html",
+      "publisher": "StockStory",
+      "time": 1786921260,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,78 +73,67 @@
       ]
     },
     {
-      "id": "eea02a14-828a-3387-8104-217d34c6f717",
-      "title": "Hong Kong’s Stablecoin Bifurcation: Two Paths for Tokenized Money",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/hong-kong-stablecoin-bifurcation-two-223713655.html",
-      "publisher": "Forkast News",
-      "time": 1786919833,
+      "id": "9ee337db-714b-3501-b0b7-b10412ddfb27",
+      "title": "LunR Royalties Establishes Credit Facility of up to $150 Million",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lunr-royalties-establishes-credit-facility-230000255.html",
+      "publisher": "CNW Group",
+      "time": 1786921200,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a5d617cd-d649-31ab-bf7b-ca965ea86edc",
-      "title": "Aerospace Stocks Q2 Results: Benchmarking Rocket Lab (NASDAQ:RKLB)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aerospace-stocks-q2-results-benchmarking-223700452.html",
-      "publisher": "StockStory",
-      "time": 1786919820,
+      "id": "b4dc5305-ff8e-3ecb-8ebb-30bf6bbd98c8",
+      "title": "Monster Energy's Mackenzie Dern Defends Women's UFC Strawweight Championship Title at UFC 330 in Philadelphia",
+      "link": "https://finance.yahoo.com/media-advertising/articles/monster-energys-mackenzie-dern-defends-230000176.html",
+      "publisher": "PR Newswire",
+      "time": 1786921200,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
+    },
+    {
+      "id": "b94480b0-a424-374d-8de4-cbe0d88d870e",
+      "title": "Elon Musk and Jensen Huang’s New Partnership Could Create the Next Era of Technology",
+      "link": "https://finance.yahoo.com/m/b94480b0-a424-374d-8de4-cbe0d88d870e/elon-musk-and-jensen-huang%E2%80%99s.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786921068,
+      "impact": "low",
+      "tags": []
     },
     {
       "id": "1d0d31f1-73c3-342e-8317-5183a5bdada5",
       "title": "Trump says US scaling back military drills with South Korea",
       "link": "https://finance.yahoo.com/m/1d0d31f1-73c3-342e-8317-5183a5bdada5/trump-says-us-scaling-back.html",
       "publisher": "AFP",
-      "time": 1786919779,
+      "time": 1786920792,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0a632a4a-e66b-3261-88be-49fb804d4a84",
-      "title": "Inaugural Grand Lake Fest set for Sept. 12",
-      "link": "https://finance.yahoo.com/m/0a632a4a-e66b-3261-88be-49fb804d4a84/inaugural-grand-lake-fest-set.html",
-      "publisher": "The Joplin Globe, Mo.",
-      "time": 1786919520,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4ddc7897-8870-3e5e-b603-dffa57109246",
-      "title": "Mercy recognized as one of top employers in Missouri, Arkansas",
-      "link": "https://finance.yahoo.com/m/4ddc7897-8870-3e5e-b603-dffa57109246/mercy-recognized-as-one-of.html",
-      "publisher": "The Joplin Globe, Mo.",
-      "time": 1786919460,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f1be1c29-1171-379d-97b0-2021df87e3ae",
-      "title": "Q2 Rundown: MSCI (NYSE:MSCI) Vs Other Financial Exchanges & Data Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-rundown-msci-nyse-msci-222900318.html",
+      "id": "2dbd1377-38a9-3a79-9d93-73c2de6bd129",
+      "title": "Stocks making big moves this week: Applied Digital, EnerSys, Sabre, Corning, and HighPeak Energy",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-week-225300033.html",
       "publisher": "StockStory",
-      "time": 1786919340,
+      "time": 1786920780,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "fbbefb37-3a82-34b7-b436-f497c1424cfc",
-      "title": "Amazon, Alphabet, and Microsoft Are Dropping Nearly $600 Billion on Capital Expenditures: 1 Clear Winner Emerges",
-      "link": "https://finance.yahoo.com/m/fbbefb37-3a82-34b7-b436-f497c1424cfc/amazon%2C-alphabet%2C-and.html",
-      "publisher": "Motley Fool",
-      "time": 1786919220,
+      "id": "0ee7f344-5405-3747-b235-b05f8b3760a5",
+      "title": "The Ramsey Show: “You’re Gonna Weep for Your Kids, for Yourself” to Single Mom After $1,350/Mo Cut in Child Support",
+      "link": "https://finance.yahoo.com/m/0ee7f344-5405-3747-b235-b05f8b3760a5/the-ramsey-show%3A-%E2%80%9Cyou%E2%80%99re.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786920476,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "295461e9-e340-3ab2-9e8c-2ab99caabc1c",
-      "title": "House Democrats Press Anthropic, OpenAI on Rogue Agents — Exposing the Federal Vacuum Beneath",
-      "link": "https://finance.yahoo.com/m/295461e9-e340-3ab2-9e8c-2ab99caabc1c/house-democrats-press.html",
-      "publisher": "Forkast News",
-      "time": 1786918880,
+      "id": "a38a43c2-d94e-3ce6-adc7-b799ce87aa75",
+      "title": "Custody Bank Stocks Q2 Recap: Benchmarking Federated Hermes (NYSE:FHI)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/custody-bank-stocks-q2-recap-224500973.html",
+      "publisher": "StockStory",
+      "time": 1786920300,
       "impact": "high",
       "tags": [
         "geo",
@@ -143,16 +141,13 @@
       ]
     },
     {
-      "id": "5fdbedd4-aafa-3ed5-85e3-c3578a0bc4cc",
-      "title": "A Look Back at Apparel Retailer Stocks’ Q1 Earnings: Lululemon (NASDAQ:LULU) Vs The Rest Of The Pack",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/look-back-apparel-retailer-stocks-222100204.html",
-      "publisher": "StockStory",
-      "time": 1786918860,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "301559eb-94b8-34b9-84ab-e83cad453c78",
+      "title": "Top-ranked Scheffler powers to PGA St. Jude Championship victory",
+      "link": "https://finance.yahoo.com/m/301559eb-94b8-34b9-84ab-e83cad453c78/top-ranked-scheffler-powers.html",
+      "publisher": "AFP",
+      "time": 1786920162,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
