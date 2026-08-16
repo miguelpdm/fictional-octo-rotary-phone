@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T15:14:39.914137+00:00",
+  "updatedAt": "2026-08-16T15:44:01.140043+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,90 +52,29 @@
   ],
   "news": [
     {
-      "id": "66bcd50d-00b3-38b0-8f79-3f605d75302c",
-      "title": "Europe wildfires: latest developments",
-      "link": "https://finance.yahoo.com/m/66bcd50d-00b3-38b0-8f79-3f605d75302c/europe-wildfires%3A-latest.html",
+      "id": "09930c51-eca8-33eb-8928-cae0ec5d3fed",
+      "title": "Medicare Sent Him Home ‘With Services.’ His Wife Covered the Other 166 Hours.",
+      "link": "https://finance.yahoo.com/m/09930c51-eca8-33eb-8928-cae0ec5d3fed/medicare-sent-him-home-%E2%80%98with.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786894662,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fbe988df-e494-3c9a-830a-5e4688c3f088",
+      "title": "Southampton mocked over Spygate during Watford defeat",
+      "link": "https://finance.yahoo.com/m/fbe988df-e494-3c9a-830a-5e4688c3f088/southampton-mocked-over.html",
       "publisher": "AFP",
-      "time": 1786892870,
+      "time": 1786894466,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "086a9839-96f4-325f-b859-1de0256788fa",
-      "title": "MMJ Federal Challenges Put Trump Administration's Marijuana Rescheduling Shortcut at Risk",
-      "link": "https://finance.yahoo.com/economy/policy/articles/mmj-federal-challenges-put-trump-150500714.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786892700,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "a749a821-3e9b-30b8-8eec-78335ef5036c",
-      "title": "Neuroscience Is Becoming AbbVie's Quiet Powerhouse -- and Management Now Sees $12.7 Billion in Sales This Year",
-      "link": "https://finance.yahoo.com/m/a749a821-3e9b-30b8-8eec-78335ef5036c/neuroscience-is-becoming.html",
+      "id": "4ab48e8f-83ae-3316-a50f-ca4867262a61",
+      "title": "This Oil Dividend Just Got a Raise. Here's What It Means for Shareholders.",
+      "link": "https://finance.yahoo.com/m/4ab48e8f-83ae-3316-a50f-ca4867262a61/this-oil-dividend-just-got-a.html",
       "publisher": "Motley Fool",
-      "time": 1786892580,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "85d7663f-d053-3877-beca-83d8cc756a6b",
-      "title": "Applied Materials Trades More Than 25% Below Its High With Revenue at a Record",
-      "link": "https://finance.yahoo.com/m/85d7663f-d053-3877-beca-83d8cc756a6b/applied-materials-trades-more.html",
-      "publisher": "Motley Fool",
-      "time": 1786892460,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "3e975e35-080e-3e26-bd22-80df2776f4d3",
-      "title": "Moneywise staff confesses worst money mistakes — from ignoring subscriptions to sacrificing first home 'must-haves'",
-      "link": "https://finance.yahoo.com/markets/articles/moneywise-staff-confesses-worst-money-150000883.html",
-      "publisher": "Moneywise",
-      "time": 1786892400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6e7019ff-87d5-3731-883a-43366d277b85",
-      "title": "Trump’s Ballroom Was His Dream of Beauty and Space. Now It’s a ‘Military Complex.’",
-      "link": "https://finance.yahoo.com/m/6e7019ff-87d5-3731-883a-43366d277b85/trump%E2%80%99s-ballroom-was-his.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1786892400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c9a26302-272c-3620-a1f6-4ec84fb1d72f",
-      "title": "1 Cash-Producing Stock Worth Your Attention and 2 We Find Risky",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-producing-stock-worth-145300631.html",
-      "publisher": "StockStory",
-      "time": 1786891980,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "08997418-7307-3428-9238-5864bb64ef7f",
-      "title": "Why SK Hynix Stock Skyrocketed This Week",
-      "link": "https://finance.yahoo.com/m/08997418-7307-3428-9238-5864bb64ef7f/why-sk-hynix-stock.html",
-      "publisher": "Motley Fool",
-      "time": 1786891974,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6ccf0fdb-4b30-3aef-80d7-c29e5c46dc0f",
-      "title": "The Bank of Nvidia",
-      "link": "https://finance.yahoo.com/m/6ccf0fdb-4b30-3aef-80d7-c29e5c46dc0f/the-bank-of-nvidia.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1786891680,
+      "time": 1786894440,
       "impact": "medium",
       "tags": [
         "macro",
@@ -143,11 +82,69 @@
       ]
     },
     {
-      "id": "67c33cf3-5837-35f9-bea2-bcb15c885a06",
-      "title": "High Dividend ETFs Are Beating the S&P 500 by 9 Points in 2026 and These 3 Pay Up to 4 Percent While Doing It",
-      "link": "https://finance.yahoo.com/m/67c33cf3-5837-35f9-bea2-bcb15c885a06/high-dividend-etfs-are.html",
+      "id": "e6d8e4c8-33a1-35eb-a7d6-c248e99920e9",
+      "title": "1 Small-Cap Stock for Long-Term Investors and 2 We Ignore",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-small-cap-stock-long-153300217.html",
+      "publisher": "StockStory",
+      "time": 1786894380,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "8d5d9636-79af-3ae3-9b73-6f2ce512d911",
+      "title": "Amazon is selling a $39 multi-tool for $24 that’s easy to carry",
+      "link": "https://finance.yahoo.com/m/8d5d9636-79af-3ae3-9b73-6f2ce512d911/amazon-is-selling-a-%2439.html",
+      "publisher": "TheStreet",
+      "time": 1786894200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7e34648c-3992-322e-8658-5294961d6696",
+      "title": "1 High-Flying Stock to Consider Right Now and 2 Facing Headwinds",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-high-flying-stock-consider-152500030.html",
+      "publisher": "StockStory",
+      "time": 1786893900,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "e583d7c5-3b48-3cc1-a84e-a3cac982475b",
+      "title": "Open: This is \"Face the Nation with Margaret Brennan,\" Aug. 16, 2026",
+      "link": "https://finance.yahoo.com/m/e583d7c5-3b48-3cc1-a84e-a3cac982475b/open%3A-this-is-%22face-the.html",
+      "publisher": "CBS News Videos",
+      "time": 1786893658,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0788e568-7ab1-316c-a167-dd57c4969718",
+      "title": "He Bought a $300,000 Annuity Inside His IRA for the Tax Deferral. The IRA Was Already Tax-Deferred, but the Fees Were Real.",
+      "link": "https://finance.yahoo.com/m/0788e568-7ab1-316c-a167-dd57c4969718/he-bought-a-%24300%2C000-annuity.html",
       "publisher": "24/7 Wall St.",
-      "time": 1786891607,
+      "time": 1786893634,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e4a17318-f0d1-30e0-a2ab-27aa2390c12a",
+      "title": "I Checked VIG's Top Holdings. They're Not What You'd Expect From a Dividend ETF.",
+      "link": "https://finance.yahoo.com/m/e4a17318-f0d1-30e0-a2ab-27aa2390c12a/i-checked-vig%27s-top-holdings..html",
+      "publisher": "Motley Fool",
+      "time": 1786893600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "20855af4-e292-3043-8e9d-091619cd1a44",
+      "title": "Peter Thiel invests $118 million in surging big tech stock",
+      "link": "https://finance.yahoo.com/m/20855af4-e292-3043-8e9d-091619cd1a44/peter-thiel-invests-%24118.html",
+      "publisher": "TheStreet",
+      "time": 1786893420,
       "impact": "low",
       "tags": []
     }
