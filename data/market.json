@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T09:20:27.151262+00:00",
+  "updatedAt": "2026-08-16T09:49:21.320956+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,59 +52,31 @@
   ],
   "news": [
     {
-      "id": "43330ff8-7985-39c5-a4aa-b29f9b1fc189",
-      "title": "Puzzle solutions for Sunday, Aug. 16, 2026",
-      "link": "https://finance.yahoo.com/m/43330ff8-7985-39c5-a4aa-b29f9b1fc189/puzzle-solutions-for-sunday%2C.html",
-      "publisher": "USA TODAY",
-      "time": 1786871415,
+      "id": "04e3b8a5-0679-37df-81e4-41877f7139db",
+      "title": "What’s Really Behind Symbotic’s (SYM) Big Quarter?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/really-behind-symbotic-sym-big-093702283.html",
+      "publisher": "Insider Monkey",
+      "time": 1786873022,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2323bd11-d880-3a28-9b50-5892d39b4d89",
-      "title": "Before death, ask yourself how much you trust your trustee",
-      "link": "https://finance.yahoo.com/m/2323bd11-d880-3a28-9b50-5892d39b4d89/before-death%2C-ask-yourself.html",
-      "publisher": "USA TODAY",
-      "time": 1786871369,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d0a675d9-2e5f-3709-89ed-39ba58989104",
-      "title": "Gen Z is moving back home. They think it's a smart move",
-      "link": "https://finance.yahoo.com/m/d0a675d9-2e5f-3709-89ed-39ba58989104/gen-z-is-moving-back-home..html",
-      "publisher": "USA TODAY",
-      "time": 1786871049,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "41fd454a-24c3-3534-8b41-df5c373e6003",
-      "title": "The Market Is Flashing a Warning Sign -- and Savvy Investors Know It Points to an Opportunity to Buy These Stocks",
-      "link": "https://finance.yahoo.com/m/41fd454a-24c3-3534-8b41-df5c373e6003/the-market-is-flashing-a.html",
+      "id": "daa713cb-bef4-3f88-89ef-f59c21758efc",
+      "title": "Is It Smart to Buy Stocks Nearly 4 Years Into a Bull Market? History Offers a Clear Answer.",
+      "link": "https://finance.yahoo.com/m/daa713cb-bef4-3f88-89ef-f59c21758efc/is-it-smart-to-buy-stocks.html",
       "publisher": "Motley Fool",
-      "time": 1786871040,
-      "impact": "high",
+      "time": 1786872900,
+      "impact": "low",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "36382a65-b337-3213-bb48-6a73e9da3950",
-      "title": "LBI home originally built in 1851 as a life-saving station is for sale",
-      "link": "https://finance.yahoo.com/m/36382a65-b337-3213-bb48-6a73e9da3950/lbi-home-originally-built-in.html",
-      "publisher": "App.com | Asbury Park Press",
-      "time": 1786871027,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "de5d8dae-de53-32dc-acf1-f10d449a4a0f",
-      "title": "WWW Q2 Deep Dive: Brand Momentum and Strategic Investments Lift Guidance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-deep-dive-brand-momentum-090100023.html",
+      "id": "0a029b44-4482-3887-8837-6824e9662789",
+      "title": "AMAT Q2 Deep Dive: AI Demand and Advanced Packaging Drive Guidance Upside, Market Reacts Cautiously",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amat-q2-deep-dive-ai-093300961.html",
       "publisher": "StockStory",
-      "time": 1786870860,
+      "time": 1786872780,
       "impact": "medium",
       "tags": [
         "macro",
@@ -112,43 +84,67 @@
       ]
     },
     {
-      "id": "152bf96a-b675-36ef-ba83-5c5d6e797c8d",
-      "title": "The health insurance 'death spiral' hitting more and more Americans",
-      "link": "https://finance.yahoo.com/m/152bf96a-b675-36ef-ba83-5c5d6e797c8d/the-health-insurance-%27death.html",
-      "publisher": "Quartz",
-      "time": 1786870800,
+      "id": "9f58bfbe-f002-3949-b9e3-77c211db640d",
+      "title": "5 big analyst AI moves: Bullish on memory names; Apple and Cisco downgraded",
+      "link": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-093002869.html",
+      "publisher": "Investing.com",
+      "time": 1786872602,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5c5bc45f-a870-32f4-87c1-66e92529f448",
-      "title": "Growing threat to free speech: Bogus copyright claims making political stories disappear",
-      "link": "https://finance.yahoo.com/m/5c5bc45f-a870-32f4-87c1-66e92529f448/growing-threat-to-free.html",
-      "publisher": "South Florida Sun Sentinel",
-      "time": 1786870800,
+      "id": "01d98123-8ba9-3986-af52-fe8e79bac896",
+      "title": "Open-Weight AI Won’t Crimp Demand for Picks and Shovels",
+      "link": "https://finance.yahoo.com/m/01d98123-8ba9-3986-af52-fe8e79bac896/open-weight-ai-won%E2%80%99t-crimp.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1786872600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d2ee194d-483a-343b-a9a8-f4c4f4edbdd7",
-      "title": "I co-signed my brother's student loans over a decade ago — but he's suddenly stopped paying them. What can I do?",
-      "link": "https://finance.yahoo.com/small-business/articles/co-signed-brothers-student-loans-090000943.html",
+      "id": "0d24c072-270c-3657-86ea-95ce01cb2a45",
+      "title": "I cared for my mom with dementia for years — now my brother says I misused her money and don't deserve my inheritance",
+      "link": "https://finance.yahoo.com/healthcare/articles/cared-mom-dementia-years-now-093000165.html",
       "publisher": "Moneywise",
-      "time": 1786870800,
+      "time": 1786872600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cbac5639-fc11-3988-b0c3-130a9005c028",
-      "title": "The 5 Most Interesting Analyst Questions From Gray Television’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-085300856.html",
-      "publisher": "StockStory",
-      "time": 1786870380,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "143974c7-863c-3042-a6e6-4b40875495c5",
+      "title": "Best Kid-Friendly Resorts (2026): Westgate Resorts Named Top Family Destination for All-Ages Fun by Expert Consumers",
+      "link": "https://finance.yahoo.com/media-advertising/articles/best-kid-friendly-resorts-2026-093000765.html",
+      "publisher": "PR Newswire",
+      "time": 1786872600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2c328dc5-ee50-3330-b649-241767ff48cb",
+      "title": "From ‘Piece of Junk’ to Prize Showpiece: The Rise of the Everyday Classic Car",
+      "link": "https://finance.yahoo.com/m/2c328dc5-ee50-3330-b649-241767ff48cb/from-%E2%80%98piece-of-junk%E2%80%99-to-prize.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1786872600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "49fd7312-854b-33e7-b89e-6a5580f8feca",
+      "title": "The Social Security bump for 3 million Americans you completely forgot about — do you still qualify?",
+      "link": "https://finance.yahoo.com/economy/policy/articles/social-security-bump-3-million-093000754.html",
+      "publisher": "Moneywise",
+      "time": 1786872600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "630739ef-ea66-3067-b603-63c1fe28fc63",
+      "title": "Two Guys Are Eating Their Way Around the World—Without Leaving New York",
+      "link": "https://finance.yahoo.com/m/630739ef-ea66-3067-b603-63c1fe28fc63/two-guys-are-eating-their-way.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1786872600,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
