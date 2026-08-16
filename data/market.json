@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T10:16:27.835537+00:00",
+  "updatedAt": "2026-08-16T10:46:45.046359+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,56 +52,92 @@
   ],
   "news": [
     {
-      "id": "2faf67c4-17b9-35e5-aaef-4dd14b72a2fd",
-      "title": "$10,000 in NuScale at Its 52-Week High Is Worth About $1,650 Today",
-      "link": "https://finance.yahoo.com/m/2faf67c4-17b9-35e5-aaef-4dd14b72a2fd/%2410%2C000-in-nuscale-at-its.html",
+      "id": "0d59c096-27d2-3e13-888a-cf32948e9466",
+      "title": "1 Surging  Stock Worth Your Attention and 2 We Question",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-surging-stock-worth-attention-103700830.html",
+      "publisher": "StockStory",
+      "time": 1786876620,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "6a5c9cc0-38ad-38ad-aaa7-89140affebd9",
+      "title": "Rival Shows the Drawback in Tesla's Driverless Tech Strategy. Are They Right?",
+      "link": "https://finance.yahoo.com/m/6a5c9cc0-38ad-38ad-aaa7-89140affebd9/rival-shows-the-drawback-in.html",
       "publisher": "Motley Fool",
-      "time": 1786875120,
+      "time": 1786876500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3e309196-9259-359d-b121-5d848748bf1a",
-      "title": "Microsoft wants you to ditch SMS passwords as AI makes phishing harder to stop",
-      "link": "https://finance.yahoo.com/m/3e309196-9259-359d-b121-5d848748bf1a/microsoft-wants-you-to-ditch.html",
-      "publisher": "Digital Trends",
-      "time": 1786874912,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a25f25a6-fae2-3380-8e3d-3ec7a7b347d5",
-      "title": "Elon Musk Has Said He Wants 25% Voting Control of Tesla to Feel Comfortable Leading Its AI Push. Here's What That Threshold Means for Shareholders.",
-      "link": "https://finance.yahoo.com/m/a25f25a6-fae2-3380-8e3d-3ec7a7b347d5/elon-musk-has-said-he-wants.html",
+      "id": "b230ec2a-3c82-3a70-8c17-50cc47424301",
+      "title": "The Trade Desk Stock Just Crashed. Should Investors Buy the Dip?",
+      "link": "https://finance.yahoo.com/m/b230ec2a-3c82-3a70-8c17-50cc47424301/the-trade-desk-stock-just.html",
       "publisher": "Motley Fool",
-      "time": 1786874700,
+      "time": 1786876320,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "0348c422-f683-3850-b31b-d6c6aadfb30d",
+      "title": "Street Calls of the Week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/street-calls-week-103003301.html",
+      "publisher": "Investing.com",
+      "time": 1786876203,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "22ce6f1d-16d8-3614-ac85-f923265d173f",
-      "title": "Jim Cramer Advises Ditching Stellantis (STLA) for General Motors (GM)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-advises-ditching-stellantis-100432863.html",
+      "id": "17800b1e-f6dd-34eb-af3b-3985fffbb83a",
+      "title": "/C O R R E C T I O N -- Noah Holdings Limited/",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/noah-report-second-quarter-half-103000298.html",
+      "publisher": "PR Newswire",
+      "time": 1786876200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fd5e1457-e5de-37b4-b60d-58a29b3bc216",
+      "title": "Gen X parents won’t leave their tweens alone — and the babysitting fees are adding up. What’s behind the ‘strange’ shift",
+      "link": "https://finance.yahoo.com/small-business/articles/gen-x-parents-won-t-103000270.html",
+      "publisher": "Moneywise",
+      "time": 1786876200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bc71d4f2-70dc-31fc-aca2-a11bb8e01418",
+      "title": "3 Financials Stocks We Steer Clear Of",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-financials-stocks-steer-clear-102900312.html",
+      "publisher": "StockStory",
+      "time": 1786876140,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "c3ebf18d-eec2-371e-952e-a807e53c7df9",
+      "title": "Jim Cramer Breaks Down McDonald’s (MCD) Q2 Earnings and Execution Flaws",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-breaks-down-mcdonald-102722297.html",
       "publisher": "Insider Monkey",
-      "time": 1786874672,
-      "impact": "low",
-      "tags": []
+      "time": 1786876042,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "ecbcc8cd-a389-39a3-ba4d-e092710e09c8",
-      "title": "Is your 1982 penny worth $20,000? Probably not, here's why",
-      "link": "https://finance.yahoo.com/m/ecbcc8cd-a389-39a3-ba4d-e092710e09c8/is-your-1982-penny-worth.html",
-      "publisher": "USA TODAY",
-      "time": 1786874619,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c5151232-ab00-33f3-888f-553bd9bcef8b",
-      "title": "Feds use 'mega' court hearings to speed through immigration cases",
-      "link": "https://finance.yahoo.com/m/c5151232-ab00-33f3-888f-553bd9bcef8b/feds-use-%27mega%27-court.html",
-      "publisher": "USA TODAY",
-      "time": 1786874514,
+      "id": "eb439604-5096-379e-a5fb-bb96f74ba698",
+      "title": "Warren Buffett's Successor, Greg Abel, Put Nearly $35 Billion of Cash to Work Last Quarter. Here's What He Bought.",
+      "link": "https://finance.yahoo.com/m/eb439604-5096-379e-a5fb-bb96f74ba698/warren-buffett%27s-successor%2C.html",
+      "publisher": "Motley Fool",
+      "time": 1786875720,
       "impact": "high",
       "tags": [
         "geo",
@@ -109,40 +145,15 @@
       ]
     },
     {
-      "id": "3232b202-1469-351a-898c-cc812f752e69",
-      "title": "Strikes kill 12 in Russia and Ukraine",
-      "link": "https://finance.yahoo.com/m/3232b202-1469-351a-898c-cc812f752e69/strikes-kill-12-in-russia-and.html",
-      "publisher": "AFP",
-      "time": 1786874500,
+      "id": "a318388c-b119-31bd-a4c4-58c992eb527a",
+      "title": "1 Surging  Stock Worth Your Attention and 2 We Brush Off",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-surging-stock-worth-attention-102100442.html",
+      "publisher": "StockStory",
+      "time": 1786875660,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c57e6fa9-d13b-334a-afdb-f70539f7cc83",
-      "title": "NiSource (NI): A Costly Quarter Masks A Bigger Bet",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nisource-ni-costly-quarter-masks-100126971.html",
-      "publisher": "Insider Monkey",
-      "time": 1786874486,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b9cb8216-bc0a-3215-9b9d-737962302998",
-      "title": "Why the Alnylam Sell-Off Looks Overdone -- and What Investors Are Missing",
-      "link": "https://finance.yahoo.com/m/b9cb8216-bc0a-3215-9b9d-737962302998/why-the-alnylam-sell-off.html",
-      "publisher": "Motley Fool",
-      "time": 1786874460,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "044b962d-cde2-4dad-83bd-762aa1e138cc",
-      "title": "Best CD rates today, Sunday, August 16, 2026: Lock in up to 4.30% APY",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-august-16-2026-lock-in-up-to-430-apy-100000956.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1786874400,
-      "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
