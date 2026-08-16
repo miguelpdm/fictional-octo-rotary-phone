@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T23:13:31.322715+00:00",
+  "updatedAt": "2026-08-16T23:41:59.905802+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,88 +52,78 @@
   ],
   "news": [
     {
-      "id": "b3394b71-d9d3-3eca-ae68-1d174110c1b8",
-      "title": "Walmart's sleek $490 upright freezer with five shelves is 56% off",
-      "link": "https://finance.yahoo.com/m/b3394b71-d9d3-3eca-ae68-1d174110c1b8/walmart%27s-sleek-%24490-upright.html",
-      "publisher": "TheStreet",
-      "time": 1786921380,
+      "id": "9eb0d868-4ce6-3229-9083-ba7b095b7a68",
+      "title": "Authors in August: Thi Nguyen’s “The Score”",
+      "link": "https://finance.yahoo.com/m/9eb0d868-4ce6-3229-9083-ba7b095b7a68/authors-in-august%3A-thi.html",
+      "publisher": "Motley Fool",
+      "time": 1786922979,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2c3a90b1-bac3-34b7-8f3c-84e8e91ddb5e",
-      "title": "Q2 Earnings Roundup: Energizer (NYSE:ENR) And The Rest Of The Household Products Segment",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-roundup-energizer-nyse-230100686.html",
+      "id": "0c26d310-c527-3d90-9167-cf7c578901e0",
+      "title": "Queensland’s largest overnight charity walk returns after $1 million first year",
+      "link": "https://finance.yahoo.com/healthcare/articles/queensland-largest-overnight-charity-walk-232700696.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786922820,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4321f35c-d1af-35fc-9629-999946160be9",
+      "title": "Mixed or Offshore Upstream E&P Stocks Q2 Teardown: Seadrill (NYSE:SDRL) Vs The Rest",
+      "link": "https://finance.yahoo.com/energy/articles/mixed-offshore-upstream-e-p-232500457.html",
       "publisher": "StockStory",
-      "time": 1786921260,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "9ee337db-714b-3501-b0b7-b10412ddfb27",
-      "title": "LunR Royalties Establishes Credit Facility of up to $150 Million",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lunr-royalties-establishes-credit-facility-230000255.html",
-      "publisher": "CNW Group",
-      "time": 1786921200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b4dc5305-ff8e-3ecb-8ebb-30bf6bbd98c8",
-      "title": "Monster Energy's Mackenzie Dern Defends Women's UFC Strawweight Championship Title at UFC 330 in Philadelphia",
-      "link": "https://finance.yahoo.com/media-advertising/articles/monster-energys-mackenzie-dern-defends-230000176.html",
-      "publisher": "PR Newswire",
-      "time": 1786921200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b94480b0-a424-374d-8de4-cbe0d88d870e",
-      "title": "Elon Musk and Jensen Huang’s New Partnership Could Create the Next Era of Technology",
-      "link": "https://finance.yahoo.com/m/b94480b0-a424-374d-8de4-cbe0d88d870e/elon-musk-and-jensen-huang%E2%80%99s.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786921068,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1d0d31f1-73c3-342e-8317-5183a5bdada5",
-      "title": "Trump says US scaling back military drills with South Korea",
-      "link": "https://finance.yahoo.com/m/1d0d31f1-73c3-342e-8317-5183a5bdada5/trump-says-us-scaling-back.html",
-      "publisher": "AFP",
-      "time": 1786920792,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2dbd1377-38a9-3a79-9d93-73c2de6bd129",
-      "title": "Stocks making big moves this week: Applied Digital, EnerSys, Sabre, Corning, and HighPeak Energy",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-week-225300033.html",
-      "publisher": "StockStory",
-      "time": 1786920780,
+      "time": 1786922700,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "0ee7f344-5405-3747-b235-b05f8b3760a5",
-      "title": "The Ramsey Show: “You’re Gonna Weep for Your Kids, for Yourself” to Single Mom After $1,350/Mo Cut in Child Support",
-      "link": "https://finance.yahoo.com/m/0ee7f344-5405-3747-b235-b05f8b3760a5/the-ramsey-show%3A-%E2%80%9Cyou%E2%80%99re.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786920476,
+      "id": "14217248-8a45-3bcf-bb30-cc845c74a503",
+      "title": "ChronoTech AI Inc. Launches Intelligent Robotics Platform",
+      "link": "https://finance.yahoo.com/technology/ai/articles/chronotech-ai-inc-launches-intelligent-232100339.html",
+      "publisher": "TMX Newsfile",
+      "time": 1786922460,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a38a43c2-d94e-3ce6-adc7-b799ce87aa75",
-      "title": "Custody Bank Stocks Q2 Recap: Benchmarking Federated Hermes (NYSE:FHI)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/custody-bank-stocks-q2-recap-224500973.html",
-      "publisher": "StockStory",
-      "time": 1786920300,
+      "id": "20948299-c82e-33d4-b738-3567422ed1e8",
+      "title": "Better Value ETF: Vanguard's Small Cap-Focused VBR vs. the iShares IJJ Targeting Mid-Cap Stocks",
+      "link": "https://finance.yahoo.com/m/20948299-c82e-33d4-b738-3567422ed1e8/better-value-etf%3A-vanguard%27s.html",
+      "publisher": "Motley Fool",
+      "time": 1786922401,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "3e4fda5b-12f3-3b29-9625-b31ba1b57c5c",
+      "title": "The 2027 Social Security COLA Will Push the Average Spousal Benefit to a Major Milestone",
+      "link": "https://finance.yahoo.com/m/3e4fda5b-12f3-3b29-9625-b31ba1b57c5c/the-2027-social-security-cola.html",
+      "publisher": "Motley Fool",
+      "time": 1786922400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7da3e9e2-f2a4-312c-ac61-efff8ebfe2bb",
+      "title": "Small Cap Watch: D3 Energy, Astral Resources, Surefire and Dalaroo advance company programs",
+      "link": "https://finance.yahoo.com/m/7da3e9e2-f2a4-312c-ac61-efff8ebfe2bb/small-cap-watch%3A-d3-energy%2C.html",
+      "publisher": "Proactive",
+      "time": 1786922340,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c7916942-40cc-307a-a935-ad7d8ad4f685",
+      "title": "Dave Ramsey: “He Doesn’t Get to Sit on His Butt” – Warehouse Worker Faces Layoff After 26 Years With Company",
+      "link": "https://finance.yahoo.com/m/c7916942-40cc-307a-a935-ad7d8ad4f685/dave-ramsey%3A-%E2%80%9Che-doesn%E2%80%99t-get.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786922257,
       "impact": "high",
       "tags": [
         "geo",
@@ -141,11 +131,22 @@
       ]
     },
     {
-      "id": "301559eb-94b8-34b9-84ab-e83cad453c78",
-      "title": "Top-ranked Scheffler powers to PGA St. Jude Championship victory",
-      "link": "https://finance.yahoo.com/m/301559eb-94b8-34b9-84ab-e83cad453c78/top-ranked-scheffler-powers.html",
-      "publisher": "AFP",
-      "time": 1786920162,
+      "id": "2f58254c-7a5b-3d69-aadc-29c41b606bbe",
+      "title": "Consumer Discretionary - Broadcasting Stocks Q2 Highlights: E.W. Scripps (NASDAQ:SSP)",
+      "link": "https://finance.yahoo.com/media-advertising/articles/consumer-discretionary-broadcasting-stocks-q2-231700774.html",
+      "publisher": "StockStory",
+      "time": 1786922220,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "3b1c0a54-ab6f-34d2-8f67-4f22d51f3efe",
+      "title": "Jeff Bezos just made his boldest move yet, into soccer",
+      "link": "https://finance.yahoo.com/m/3b1c0a54-ab6f-34d2-8f67-4f22d51f3efe/jeff-bezos-just-made-his.html",
+      "publisher": "TheStreet",
+      "time": 1786922220,
       "impact": "low",
       "tags": []
     }
