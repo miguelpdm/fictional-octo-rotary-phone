@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T18:19:01.486814+00:00",
+  "updatedAt": "2026-08-16T18:53:44.824772+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,108 +52,102 @@
   ],
   "news": [
     {
-      "id": "4ac37bac-5e52-3243-a8a9-0a26f825d1c2",
-      "title": "Gen Z New Yorker made $130,000 through 9 income streams — but the hustle nearly broke her",
-      "link": "https://finance.yahoo.com/small-business/articles/gen-z-yorker-made-130-181500090.html",
-      "publisher": "Moneywise",
-      "time": 1786904100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d7f14e93-f923-3359-b94e-f9ce1a0c4aec",
-      "title": "Is Yamanashi Chuo BankLtd (TSE:8360) Fully Valued After Higher Profit Guidance And Stock Split?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/yamanashi-chuo-bankltd-tse-8360-180852796.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786903732,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "73ef5959-ea7d-3f7b-84b9-0bc89acadb83",
-      "title": "Duke Energy (DUK) Stock Could Be 27% Overvalued Following $10b Equity Plans",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-stock-could-180837611.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786903717,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c8e6f0aa-63cf-354d-8093-de842df3eb8a",
-      "title": "Shake Shack (SHAK) Stock Looks Stretched On Cash Flow And Rich On Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/shake-shack-shak-stock-looks-180824386.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786903704,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "6419e15a-f3ac-310e-8073-80cbcf6fb0b7",
-      "title": "Alliance Laundry Holdings (ALH) After Strong Earnings Looks Slightly Pricey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alliance-laundry-holdings-alh-strong-180812559.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786903692,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "3160fce9-5002-32db-8a52-dda069e21109",
-      "title": "Is Mercury General (MCY) Fully Priced On Its Oklahoma Homeowners Product Update?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mercury-general-mcy-fully-priced-180811289.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786903691,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "25f2cf07-2c32-3f26-8854-a19fbbc725d9",
-      "title": "2 Reasons FTI is Risky and 1 Stock to Buy Instead",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-fti-risky-1-180500873.html",
+      "id": "1fc3db9f-ea36-3303-8485-0090edcfcb2c",
+      "title": "J. M. Smucker (SJM): Buy, Sell, or Hold Post Q1 Earnings?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/j-m-smucker-sjm-buy-184500036.html",
       "publisher": "StockStory",
-      "time": 1786903500,
+      "time": 1786905900,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "66eb1e28-b834-3f01-95bb-32a707851547",
+      "title": "AppFolio's AI Clears a Quarter of Maintenance Requests. Here's What an Insider Filing Shows",
+      "link": "https://finance.yahoo.com/m/66eb1e28-b834-3f01-95bb-32a707851547/appfolio%27s-ai-clears-a.html",
+      "publisher": "Motley Fool",
+      "time": 1786905745,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cfca9a0b-e2ca-3fa2-8468-e20a93c283cd",
+      "title": "Dave Ramsey: “You’re Spending Like You’re in Congress.” 19-Year-Old Makes $11K/Mo but Has $58K in Debt",
+      "link": "https://finance.yahoo.com/m/cfca9a0b-e2ca-3fa2-8468-e20a93c283cd/dave-ramsey%3A-%E2%80%9Cyou%E2%80%99re-spending.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786905679,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "84cd7909-acc2-3fcb-a9dc-30c2f40b845a",
+      "title": "The Newest Income ETFs ‘Target’ Fixed Payouts of 12 to 20 Percent a Year. Here’s How That Actually Works",
+      "link": "https://finance.yahoo.com/m/84cd7909-acc2-3fcb-a9dc-30c2f40b845a/the-newest-income-etfs.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786905644,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "312c94a2-cf67-3408-87ed-32f7e27daaca",
+      "title": "Casino operator liquidated as Chapter 11 bankruptcy ends",
+      "link": "https://finance.yahoo.com/m/312c94a2-cf67-3408-87ed-32f7e27daaca/casino-operator-liquidated-as.html",
+      "publisher": "TheStreet",
+      "time": 1786905582,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "1ace2b8f-b665-3cb1-996c-f95cb0e09920",
+      "title": "3 Reasons OXM is Risky and 1 Stock to Buy Instead",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-oxm-risky-1-183700040.html",
+      "publisher": "StockStory",
+      "time": 1786905420,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "38d68d66-6f8d-3a59-8c73-91dec4e9020f",
-      "title": "He Sold $80,000 of Timber Off His Land. Social Security Wanted to Know: Investor, or Still a Logger?",
-      "link": "https://finance.yahoo.com/m/38d68d66-6f8d-3a59-8c73-91dec4e9020f/he-sold-%2480%2C000-of-timber-off.html",
+      "id": "34d7326a-c8dc-3ac4-b138-5897b9dd7214",
+      "title": "New for 2026: Earn Over $150,000 and Your 401(k) Catch-Up Money Now Goes In as Roth, Whether You Like It or Not.",
+      "link": "https://finance.yahoo.com/m/34d7326a-c8dc-3ac4-b138-5897b9dd7214/new-for-2026%3A-earn-over.html",
       "publisher": "24/7 Wall St.",
-      "time": 1786903400,
+      "time": 1786905402,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2fafdefb-70a5-3de2-a90a-d4c1d2c40b7d",
-      "title": "The U.S. just turned the Al race into a loyalty test",
-      "link": "https://finance.yahoo.com/m/2fafdefb-70a5-3de2-a90a-d4c1d2c40b7d/the-u.s.-just-turned-the-al.html",
-      "publisher": "TheStreet",
-      "time": 1786903380,
+      "id": "1eac448e-1b6c-36e3-a9d7-a33f7e89242c",
+      "title": "Why Is Amazon Near a 52-Week High So Much Cheaper Than Walmart at Its Lowest Level This Year? This Is the Only Answer I Can Think Of.",
+      "link": "https://finance.yahoo.com/m/1eac448e-1b6c-36e3-a9d7-a33f7e89242c/why-is-amazon-near-a-52-week.html",
+      "publisher": "Motley Fool",
+      "time": 1786905300,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "06f9a5e2-375c-341b-80c1-3ab2e8b2f5c2",
-      "title": "XRP ETF Buying Has Dropped 96% Since Launch: Can Inflows Reach Standard Chartered’s $8 Billion Forecast?",
-      "link": "https://finance.yahoo.com/m/06f9a5e2-375c-341b-80c1-3ab2e8b2f5c2/xrp-etf-buying-has-dropped.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786903321,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "3c597637-af36-3ea1-8444-a243f13dc321",
+      "title": "Should You Read Anything Into AppFolio's CFO Parting With Stock? Here's What to Know",
+      "link": "https://finance.yahoo.com/m/3c597637-af36-3ea1-8444-a243f13dc321/should-you-read-anything-into.html",
+      "publisher": "Motley Fool",
+      "time": 1786905192,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c9c641b0-475d-3902-a127-762744474a42",
+      "title": "Rocket Lab Satellite Platforms Built for MDA Space Successfully Reach Orbit, Supporting Globalstar Direct-to-Device Communications Services",
+      "link": "https://finance.yahoo.com/technology/articles/rocket-lab-satellite-platforms-built-183100354.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786905060,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
