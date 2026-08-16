@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T04:58:40.725491+00:00",
+  "updatedAt": "2026-08-16T05:31:35.923060+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -51,6 +51,76 @@
     }
   ],
   "news": [
+    {
+      "id": "d9d4e7bc-9e0a-3303-b837-5b83c45344c9",
+      "title": "Thousands await aid after deadly Indonesian quake",
+      "link": "https://finance.yahoo.com/m/d9d4e7bc-9e0a-3303-b837-5b83c45344c9/thousands-await-aid-after.html",
+      "publisher": "AFP",
+      "time": 1786857694,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "40a17b5e-7f82-3588-92ba-e651b7e3a0d8",
+      "title": "Romania shoots down drone that breached its airspace",
+      "link": "https://finance.yahoo.com/m/40a17b5e-7f82-3588-92ba-e651b7e3a0d8/romania-shoots-down-drone.html",
+      "publisher": "Investing.com",
+      "time": 1786857546,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d0aa5826-09f3-3b16-9ce3-cdb342b8dbab",
+      "title": "Why Are Super Micro (SMCI) Shares Soaring Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-super-micro-smci-shares-051700299.html",
+      "publisher": "StockStory",
+      "time": 1786857420,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "8fc92750-66ad-314d-bbcf-b8b9eea50a4f",
+      "title": "Analysis-Europe's heatwaves expose insurance gap as business losses mount",
+      "link": "https://finance.yahoo.com/news/analysis-europes-heatwaves-expose-insurance-050608719.html",
+      "publisher": "Reuters",
+      "time": 1786857212,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "516b46a8-0171-3f4b-84ca-584626eaa5d7",
+      "title": "3 Profitable Stocks We Approach with Caution",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-profitable-stocks-approach-caution-050900647.html",
+      "publisher": "StockStory",
+      "time": 1786856940,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "af690b3a-1894-3b13-9744-e294d3b121a4",
+      "title": "2 of Wall Street’s Favorite Stocks on Our Watchlist and 1 That Underwhelm",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-wall-street-favorite-stocks-050100892.html",
+      "publisher": "StockStory",
+      "time": 1786856460,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "d33586f7-388d-34c2-bd05-694411b74132",
+      "title": "NUU Introduces the All-New X10 5G: Fully Unlocked. Nationwide 5G. Exceptional Value.",
+      "link": "https://finance.yahoo.com/technology/articles/nuu-introduces-x10-5g-fully-050000650.html",
+      "publisher": "PR Newswire",
+      "time": 1786856400,
+      "impact": "low",
+      "tags": []
+    },
     {
       "id": "8f2fdcdc-07ef-3578-97b5-4e5b6117a72a",
       "title": "1 Stock Under $50 on Our Watchlist and 2 We Question",
@@ -72,82 +142,11 @@
       "tags": []
     },
     {
-      "id": "9e53ae2b-53d0-30aa-b097-98300535cdd5",
-      "title": "Chinese ship sets off for Europe through Arctic, halving travel time",
-      "link": "https://finance.yahoo.com/m/9e53ae2b-53d0-30aa-b097-98300535cdd5/chinese-ship-sets-off-for.html",
-      "publisher": "AFP",
-      "time": 1786855752,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "464f98c8-577a-3ea0-a4ac-d1f5693f1e04",
-      "title": "Pallister takes down Ledecky in Pan Pacs 800m freestyle",
-      "link": "https://finance.yahoo.com/m/464f98c8-577a-3ea0-a4ac-d1f5693f1e04/pallister-takes-down-ledecky.html",
-      "publisher": "AFP",
-      "time": 1786855634,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "56990b3c-9e0d-388a-8b9f-51b0ad86b934",
-      "title": "1 Healthcare Stock Worth Your Attention and 2 We Brush Off",
-      "link": "https://finance.yahoo.com/healthcare/articles/1-healthcare-stock-worth-attention-044500644.html",
-      "publisher": "StockStory",
-      "time": 1786855500,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "2c452ad6-4de8-3ac4-b50a-c1f31c5304de",
-      "title": "Can SpaceX Leap to the AI Frontier?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-leap-ai-frontier-044116246.html",
-      "publisher": "Investing.com",
-      "time": 1786855276,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "341129ff-c2fc-3f63-b2b9-f02f4d994bb9",
-      "title": "3 Stocks Under $50 That Fall Short",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-under-50-fall-043700113.html",
-      "publisher": "StockStory",
-      "time": 1786855020,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "dafe4e9f-4f9b-30a1-baf4-396a4366ecbf",
-      "title": "1 Energy Stock with Exciting Potential and 2 Facing Headwinds",
-      "link": "https://finance.yahoo.com/energy/articles/1-energy-stock-exciting-potential-042900431.html",
-      "publisher": "StockStory",
-      "time": 1786854540,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "9ca9ce5a-7766-33b7-b5af-7728db46081c",
-      "title": "3 of Wall Street’s Favorite Stocks We Keep Off Our Radar",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-wall-street-favorite-stocks-042100756.html",
-      "publisher": "StockStory",
-      "time": 1786854060,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "54ed399c-8884-399d-a6e4-ba45d43e7d4f",
-      "title": "Amazon vs. Microsoft: Which Cloud Computing Behemoth Is the Better Artificial Intelligence (AI) Buy Today?",
-      "link": "https://finance.yahoo.com/m/54ed399c-8884-399d-a6e4-ba45d43e7d4f/amazon-vs.-microsoft%3A-which.html",
+      "id": "be52938d-03bd-3dee-a505-edd621272278",
+      "title": "Curaleaf Wants to Buy Aurora Cannabis for $272 Million. Is Canopy Growth the Next Marijuana Takeover Target?",
+      "link": "https://finance.yahoo.com/m/be52938d-03bd-3dee-a505-edd621272278/curaleaf-wants-to-buy-aurora.html",
       "publisher": "Motley Fool",
-      "time": 1786854000,
+      "time": 1786855800,
       "impact": "low",
       "tags": []
     }
