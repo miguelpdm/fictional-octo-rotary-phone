@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T22:48:10.384279+00:00",
+  "updatedAt": "2026-08-17T23:16:51.933462+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,94 +52,115 @@
   ],
   "news": [
     {
-      "id": "e1cfd152-8730-349a-a715-f26cba0f885b",
-      "title": "CARIBBEAN UTILITIES COMPANY, LTD ANNOUNCES INCREASE IN DIVIDEND ON CLASS A ORDINARY SHARES",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/caribbean-utilities-company-ltd-announces-224100403.html",
-      "publisher": "CNW Group",
-      "time": 1787006460,
+      "id": "7a7148eb-0324-32b3-b93c-0b53fa22a098",
+      "title": "Advanced Economies' Borrowing Costs Hit Highest Since 2008 Crisis",
+      "link": "https://finance.yahoo.com/economy/policy/articles/advanced-economies-apos-borrowing-costs-231023760.html",
+      "publisher": "MT Newswires",
+      "time": 1787008223,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "e37da1c5-b267-3f74-9558-3bc430dfceef",
+      "title": "An $18,000 Deposit Added 12 Air Force Years to His Civilian Pension. Social Security Had Already Counted Them.",
+      "link": "https://finance.yahoo.com/m/e37da1c5-b267-3f74-9558-3bc430dfceef/an-%2418%2C000-deposit-added-12.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787007818,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3f6e1417-e6cb-3b76-87c6-be7aff1901d7",
-      "title": "Ameren Illinois Announces Pricing of First Mortgage Bonds due 2036",
-      "link": "https://finance.yahoo.com/energy/articles/ameren-illinois-announces-pricing-first-223900007.html",
-      "publisher": "PR Newswire",
-      "time": 1787006340,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b4f16cb9-554b-3db0-9914-ab837df9bf70",
-      "title": "Dow’s 3-Year Winning Run Isn’t a Crash Signal, Still 49% Odds of Double-Digit Gains",
-      "link": "https://finance.yahoo.com/m/b4f16cb9-554b-3db0-9914-ab837df9bf70/dow%E2%80%99s-3-year-winning-run.html",
-      "publisher": "BeInCrypto",
-      "time": 1787006237,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "48dc3fb5-97da-38b3-a390-a6c053988255",
-      "title": "HydroGraph Announces C$50 Million Bought Deal Public Offering of Units",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hydrograph-announces-c-50-million-223500925.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787006100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "773920c0-6169-3f62-b233-da4555a7fa9f",
-      "title": "HelloNation Explains Collision Repair Choices With Insights From Auto Body Expert Carl Krause",
-      "link": "https://finance.yahoo.com/small-business/articles/hellonation-explains-collision-repair-choices-223400855.html",
-      "publisher": "PR Newswire",
-      "time": 1787006040,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b85fd781-46f6-3215-80ee-f3341df93a09",
-      "title": "Mesa Power Solutions Expands With $70 Million Wyoming Manufacturing Campus",
-      "link": "https://finance.yahoo.com/m/b85fd781-46f6-3215-80ee-f3341df93a09/mesa-power-solutions-expands.html",
-      "publisher": "POWER Magazine",
-      "time": 1787006004,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2f8b39b6-98e8-3f14-9719-bd47be60ffca",
-      "title": "3 Large-Cap Stocks to Target This Week",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-large-cap-stocks-target-223020386.html",
-      "publisher": "StockStory",
-      "time": 1787005820,
+      "id": "ff9e7635-08f8-38d1-8b8c-5af91176342a",
+      "title": "Scholar Rock Eyes Sept. 30 FDA Decision for SMA Drug Apitegromab",
+      "link": "https://finance.yahoo.com/m/ff9e7635-08f8-38d1-8b8c-5af91176342a/scholar-rock-eyes-sept.-30.html",
+      "publisher": "MarketBeat",
+      "time": 1787007809,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "e15f35f7-9f5f-3b1e-a62a-d3b1eb6cf2ed",
-      "title": "BC-Nikkei 225 Futures",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/bc-nikkei-225-futures-223013621.html",
-      "publisher": "Associated Press",
-      "time": 1787005813,
-      "impact": "low",
-      "tags": []
+      "id": "3744221f-aa30-3b4b-9d1d-aac0f8f1a80d",
+      "title": "BHP Group H2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/3744221f-aa30-3b4b-9d1d-aac0f8f1a80d/bhp-group-h2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1787007808,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "3c3cdfec-403d-3536-bc5f-bed7cd89e4c5",
-      "title": "Economic Mobility Center Names Megan Aghazadian Chief Executive Officer",
-      "link": "https://finance.yahoo.com/economy/policy/articles/economic-mobility-center-names-megan-223000301.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787005800,
-      "impact": "low",
-      "tags": []
+      "id": "47ec2340-ee86-306a-9744-6bf902c2d168",
+      "title": "XP Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/47ec2340-ee86-306a-9744-6bf902c2d168/xp-q2-earnings-call-highlights.html",
+      "publisher": "MarketBeat",
+      "time": 1787007808,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "7739975e-59cf-3da1-9c71-357e44481865",
-      "title": "First CVR Payment",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/first-cvr-payment-223000157.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787005800,
+      "id": "9ec0dadb-cd0a-3142-a532-b40e53090be4",
+      "title": "Rio2 Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/9ec0dadb-cd0a-3142-a532-b40e53090be4/rio2-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1787007808,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "f87ac8ae-e554-3ac4-bb43-a8441ccf8595",
+      "title": "Fabrinet Q4 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/f87ac8ae-e554-3ac4-bb43-a8441ccf8595/fabrinet-q4-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1787007808,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "2ce4a8ad-aed8-3b0f-922f-20a7dc2141f6",
+      "title": "DocGo Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/2ce4a8ad-aed8-3b0f-922f-20a7dc2141f6/docgo-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1787007807,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "68827996-6ad4-3985-836a-3b6f8d0422ba",
+      "title": "Duos Technologies Group Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/68827996-6ad4-3985-836a-3b6f8d0422ba/duos-technologies-group-q2.html",
+      "publisher": "MarketBeat",
+      "time": 1787007807,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "30c28d62-dad4-385f-aed8-c347357a08da",
+      "title": "Walmart's 'lightweight' 3-piece patchwork quilt set is now only $35, and it's 'perfect for summer'",
+      "link": "https://finance.yahoo.com/m/30c28d62-dad4-385f-aed8-c347357a08da/walmart%27s-%27lightweight%27.html",
+      "publisher": "TheStreet",
+      "time": 1787007780,
       "impact": "low",
       "tags": []
     }
