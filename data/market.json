@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T16:53:49.110913+00:00",
+  "updatedAt": "2026-08-17T17:21:35.627727+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7769.11,
-      "change": -29.88000000000011,
-      "changePct": -0.38312653305107597,
+      "price": 7763.48,
+      "change": -35.51000000000022,
+      "changePct": -0.45531536775916137,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26711.953,
-      "change": -91.0769999999975,
-      "changePct": -0.33980113442397186,
+      "price": 26674.723,
+      "change": -128.30699999999706,
+      "changePct": -0.47870334062976116,
       "currency": "USD"
     },
     {
@@ -44,100 +44,106 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.06,
-      "change": 0.8100000000000005,
-      "changePct": 5.684210526315793,
+      "price": 15.23,
+      "change": 0.9800000000000004,
+      "changePct": 6.877192982456143,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "65197b7f-1c51-3450-8795-c5abdddf906e",
-      "title": "PepsiCo Turkey, CEVA Logistics Enter New Contract Agreement for Cooler Management",
-      "link": "https://finance.yahoo.com/small-business/articles/pepsico-turkey-ceva-logistics-enter-165043342.html",
-      "publisher": "MT Newswires",
-      "time": 1786985443,
+      "id": "cb1c3bb0-b67a-3891-9248-1cb1060679d8",
+      "title": "Power Semis Soar Monday: Wolfspeed, STMicro and On Semiconductor Rally on Vera Rubin Ramp Signals",
+      "link": "https://finance.yahoo.com/m/cb1c3bb0-b67a-3891-9248-1cb1060679d8/power-semis-soar-monday%3A.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786987085,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "e455d6a9-d7e9-3a6e-ad77-8bb53d6b87fd",
+      "title": "RTX Stock Rises on Massive $22.9 Billion Tomahawk Contract",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-stock-rises-massive-22-171805645.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786987085,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "fcea2bf7-022d-38e7-b157-0727b1e50ad0",
-      "title": "Uber and Zipline partner on drone delivery for Uber Eats",
-      "link": "https://finance.yahoo.com/m/fcea2bf7-022d-38e7-b157-0727b1e50ad0/uber-and-zipline-partner-on.html",
-      "publisher": "Quartz",
-      "time": 1786985412,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8b71c25c-0bf7-37bf-ab4c-035a1d163131",
-      "title": "Nano Nuclear Is Still Under $20. Here's My Case for Why That Won't Last.",
-      "link": "https://finance.yahoo.com/m/8b71c25c-0bf7-37bf-ab4c-035a1d163131/nano-nuclear-is-still-under.html",
+      "id": "3f688256-5d50-3e8e-8c9f-77153e45e553",
+      "title": "Should You Buy Microsoft Stock Now or Wait for a Dip?",
+      "link": "https://finance.yahoo.com/m/3f688256-5d50-3e8e-8c9f-77153e45e553/should-you-buy-microsoft.html",
       "publisher": "Motley Fool",
-      "time": 1786985400,
+      "time": 1786987041,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ccf04e08-fda7-3263-b6a4-8a651a05b8b3",
-      "title": "CORRECTION: TDECU Board Elects Lavonne Burke as New Chair",
-      "link": "https://finance.yahoo.com/small-business/articles/correction-tdecu-board-elects-lavonne-164900323.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786985340,
+      "id": "083e50a2-8d3e-39c3-a1c3-92264220f232",
+      "title": "Suspect in vehicle break-ins at casino caught after eluding police in southern Berks",
+      "link": "https://finance.yahoo.com/m/083e50a2-8d3e-39c3-a1c3-92264220f232/suspect-in-vehicle-break-ins.html",
+      "publisher": "Reading Eagle, Pa.",
+      "time": 1786986960,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "908dd4cb-a919-3634-a246-f9820e3a02cf",
-      "title": "America’s Best Dividend Stock Has A Good Year",
-      "link": "https://finance.yahoo.com/m/908dd4cb-a919-3634-a246-f9820e3a02cf/america%E2%80%99s-best-dividend-stock.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786985335,
+      "id": "7a496309-7c6f-3ff0-b19e-e249d2a635fd",
+      "title": "Sector Update: Healthcare",
+      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-171559517.html",
+      "publisher": "MT Newswires",
+      "time": 1786986959,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "66bcd50d-00b3-38b0-8f79-3f605d75302c",
-      "title": "Europe wildfires: latest developments",
-      "link": "https://finance.yahoo.com/m/66bcd50d-00b3-38b0-8f79-3f605d75302c/europe-wildfires%3A-latest.html",
-      "publisher": "AFP",
-      "time": 1786985318,
+      "id": "58eedca5-1597-357b-807f-774c44190c8a",
+      "title": "Chevron Stock Rises After Major 600-Meter Angola Oil Discovery",
+      "link": "https://finance.yahoo.com/energy/articles/chevron-stock-rises-major-600-171545162.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786986945,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "bcb18f18-187f-4eee-9e8f-a0a6a000ae5e",
+      "title": "Anduril co-founder Palmer Luckey feuds with ex-Taco Bell CEO over McDonald's comments",
+      "link": "https://finance.yahoo.com/markets/article/anduril-co-founder-palmer-luckey-feuds-with-ex-taco-bell-ceo-over-mcdonalds-comments-171530414.html",
+      "publisher": "Yahoo Finance",
+      "time": 1786986930,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "69dac813-0e41-3a34-b9fc-f1a6a902f2a9",
-      "title": "Billionaires Stanley Druckenmiller, Seth Klarman, and David Tepper All Are Loading into Alphabet Stock. Buffett’s Berkshire Is Also Buying.",
-      "link": "https://finance.yahoo.com/m/69dac813-0e41-3a34-b9fc-f1a6a902f2a9/billionaires-stanley.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786985259,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b45cc552-4545-3dae-be16-31ea06931cbd",
-      "title": "OpenAI Paused Its Scary-Good Next-Gen Model Over Safety Fears—Has Sam Altman Finally Regained the Lead?",
-      "link": "https://finance.yahoo.com/m/b45cc552-4545-3dae-be16-31ea06931cbd/openai-paused-its-scary-good.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786985166,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0387a049-d7af-3576-add1-44f63c4cefc9",
-      "title": "InventHelp Inventor Develops New Shoe Horn for Walking Canes (TRO-1673)",
-      "link": "https://finance.yahoo.com/small-business/articles/inventhelp-inventor-develops-shoe-horn-164500889.html",
+      "id": "3cc28ee4-d925-375b-a715-7d30cbc7e553",
+      "title": "Nukleus Names Raiders Running Back Ashton Jeanty as Investor and Face of the Business of Sports Platform",
+      "link": "https://finance.yahoo.com/media-advertising/articles/nukleus-names-raiders-running-back-171500579.html",
       "publisher": "PR Newswire",
-      "time": 1786985100,
+      "time": 1786986900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0ddc1b80-6f3e-3f5b-8b94-0aef671e814d",
-      "title": "Best Realtor in Carmel Valley, CA: Amy Green",
-      "link": "https://finance.yahoo.com/real-estate/articles/best-realtor-carmel-valley-ca-164500205.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786985100,
+      "id": "c0c1b914-ca33-3038-913a-eadab27f8dec",
+      "title": "These 3 Dividend ETFs Quietly Pay You Every Month and Most Investors Have No Idea",
+      "link": "https://finance.yahoo.com/m/c0c1b914-ca33-3038-913a-eadab27f8dec/these-3-dividend-etfs-quietly.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786986881,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ecd96e40-cea4-3e18-8de0-d0ea69af6289",
+      "title": "Stellantis Stock Drops Nearly 4% on 955,000-Vehicle Recall",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-stock-drops-nearly-4-171407665.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786986847,
       "impact": "low",
       "tags": []
     }
