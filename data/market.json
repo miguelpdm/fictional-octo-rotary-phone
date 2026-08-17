@@ -1,62 +1,62 @@
 {
-  "updatedAt": "2026-08-17T15:47:49.510087+00:00",
+  "updatedAt": "2026-08-17T16:19:46.202637+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20013.8,
-      "change": -142.79999999999927,
-      "changePct": -0.7084528144627531,
+      "price": 19981.9,
+      "change": -174.6999999999971,
+      "changePct": -0.8667136322593946,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7772.11,
-      "change": -26.88000000000011,
-      "changePct": -0.34466001366843796,
+      "price": 7775.52,
+      "change": -23.469999999999345,
+      "changePct": -0.3009364033034963,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26754.057,
-      "change": -48.97299999999814,
-      "changePct": -0.18271441698941554,
+      "price": 26745.342,
+      "change": -57.68799999999828,
+      "changePct": -0.2152293975718353,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26369.66,
-      "change": 69.91999999999825,
-      "changePct": 0.26585814156337,
+      "price": 26338.61,
+      "change": 38.86999999999898,
+      "changePct": 0.1477961379085838,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6538.43,
-      "change": -1.1599999999998545,
-      "changePct": -0.017738115080606805,
+      "price": 6530.45,
+      "change": -9.140000000000327,
+      "changePct": -0.13976411365238994,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.97,
-      "change": 0.7200000000000006,
-      "changePct": 5.0526315789473735,
+      "price": 15.06,
+      "change": 0.8100000000000005,
+      "changePct": 5.684210526315793,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "7ef5d9db-f052-47ff-aaf3-f43b1b13f84e",
-      "title": "What luxury retail earnings signal about the state of the consumer",
-      "link": "https://finance.yahoo.com/video/luxury-retail-earnings-signal-state-154500438.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1786981500,
+      "id": "e78fdc72-a5a7-3d9e-955d-67ba509b3b1c",
+      "title": "Morgan Stanley's troubling housing forecast is playing out now",
+      "link": "https://finance.yahoo.com/m/e78fdc72-a5a7-3d9e-955d-67ba509b3b1c/morgan-stanley%27s-troubling.html",
+      "publisher": "TheStreet",
+      "time": 1786983420,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,87 +64,86 @@
       ]
     },
     {
-      "id": "deed42cb-0a1f-4213-8c5d-50e735d62d13",
-      "title": "Lakers $12.5B deal shows 'power of brand' in memorabilia",
-      "link": "https://finance.yahoo.com/video/lakers-12-5b-deal-shows-154500739.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1786981500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "87bb246e-b75f-3971-880d-7698af9ce9b7",
-      "title": "HIVE Digital Technologies Soars 11% on $350M GPU Cloud Contract, Cipher Mining Ticks Up",
-      "link": "https://finance.yahoo.com/m/87bb246e-b75f-3971-880d-7698af9ce9b7/hive-digital-technologies.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786981452,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6cda9030-688c-3537-bc43-81cca04ce5bb",
-      "title": "Capital One Securities Adjusts SLB Price Target to $63 From $64",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/capital-one-securities-adjusts-slb-154349315.html",
-      "publisher": "MT Newswires",
-      "time": 1786981429,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6338a0ca-fa2d-3200-829a-f5644bd23f4d",
-      "title": "Capital One Securities Adjusts Halliburton Price Target to $46 From $50",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/capital-one-securities-adjusts-halliburton-154341941.html",
-      "publisher": "MT Newswires",
-      "time": 1786981421,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e676d00b-c71f-3e3d-9dd9-08f025661050",
-      "title": "'Never seen one like it': German pensioners flee wildfire",
-      "link": "https://finance.yahoo.com/m/e676d00b-c71f-3e3d-9dd9-08f025661050/%27never-seen-one-like-it%27%3A.html",
-      "publisher": "AFP",
-      "time": 1786981406,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "96c78df5-2f51-3570-b62e-486d5981c305",
-      "title": "AXT Soars Again on Monday to Lead Optics Stocks. Coherent and Lumentum Rally on Indium Phosphide Price Hikes",
-      "link": "https://finance.yahoo.com/m/96c78df5-2f51-3570-b62e-486d5981c305/axt-soars-again-on-monday-to.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786981207,
-      "impact": "low",
+      "id": "80e797f7-5e16-3bae-84f8-5fc01dd5cbb3",
+      "title": "Morgan Stanley Drops Stark Stock Market Warning",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-drops-stark-stock-161452067.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786983292,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "6dffb9a6-6dc3-348d-94c6-94449a43662b",
-      "title": "SpaceX's Starlink Poised for Growth Inflection With V3 Satellites, UBS Securities Says",
-      "link": "https://finance.yahoo.com/technology/articles/spacex-apos-starlink-poised-growth-153948195.html",
-      "publisher": "MT Newswires",
-      "time": 1786981188,
+      "id": "97489cbc-20d3-3fb5-8329-eaa8e5d2d376",
+      "title": "Why is CZ burning so many tokens? The reason may surprise you",
+      "link": "https://finance.yahoo.com/m/97489cbc-20d3-3fb5-8329-eaa8e5d2d376/why-is-cz-burning-so-many.html",
+      "publisher": "TheStreet",
+      "time": 1786983288,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7654dd66-1194-303a-af9a-35b802d06b78",
-      "title": "Stock Market Today: Dow Falls After Trump Oman Threat; Homebuilders Decline Despite This Data (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/7654dd66-1194-303a-af9a-35b802d06b78/stock-market-today%3A-dow-falls.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1786981157,
+      "id": "091cb446-123a-32dd-8cd7-ce881fa608d3",
+      "title": "Deployable Energy and Hornbeck Offshore Partner to Advance Maritime Nuclear Power",
+      "link": "https://finance.yahoo.com/energy/articles/deployable-energy-hornbeck-offshore-partner-161300547.html",
+      "publisher": "PR Newswire",
+      "time": 1786983180,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "3b10eb15-6377-371f-a384-8970c938da8f",
-      "title": "Nexstar Media Group Insider Sold Shares Worth $751,352, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nexstar-media-group-insider-sold-153740207.html",
-      "publisher": "MT Newswires",
-      "time": 1786981060,
+      "id": "63227631-e90c-3112-abca-d160528ba5f5",
+      "title": "FRN Variable Rate Fix",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/frn-variable-rate-fix-161300861.html",
+      "publisher": "Business Wire",
+      "time": 1786983180,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7b335310-18cb-345a-9c6d-c35c5e98a765",
+      "title": "Thousands of San Jose City Workers Announce Strike Vote Results",
+      "link": "https://finance.yahoo.com/economy/policy/articles/thousands-san-jose-city-workers-161300853.html",
+      "publisher": "PR Newswire",
+      "time": 1786983180,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "255cd5d8-0cbb-3b6f-a7be-31cc85f3678f",
+      "title": "Two Positions Make Up 80% of Nvidia's $63.4 Billion Portfolio",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/two-positions-80-nvidias-63-161205999.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786983125,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fe14d350-9954-318c-9d70-a5bb37c0d630",
+      "title": "Hawkins Way Capital Joint Venture Acquires Union Square Property to Expand Student Housing Portfolio",
+      "link": "https://finance.yahoo.com/real-estate/articles/hawkins-way-capital-joint-venture-161200616.html",
+      "publisher": "PR Newswire",
+      "time": 1786983120,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d3d2288c-0a37-37a9-94dc-d92c9a2a2a10",
+      "title": "Fulcrum Therapeutics & Slate Medicines Merge for Next-Generation Migraine Therapies",
+      "link": "https://finance.yahoo.com/healthcare/articles/fulcrum-therapeutics-slate-medicines-merge-161113808.html",
+      "publisher": "Exec Edge",
+      "time": 1786983073,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "df52d4e5-92fb-3f3b-b37e-1de4138ae594",
+      "title": "Curative and Vytalize Health Finalize Network Agreement, Expanding Hassle-Free, $0-Copay Healthcare Access in the Northeast",
+      "link": "https://finance.yahoo.com/healthcare/articles/curative-vytalize-health-finalize-network-161100236.html",
+      "publisher": "PR Newswire",
+      "time": 1786983060,
       "impact": "low",
       "tags": []
     }
