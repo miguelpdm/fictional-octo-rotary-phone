@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T03:26:08.492861+00:00",
+  "updatedAt": "2026-08-17T04:10:29.590982+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,11 @@
   ],
   "news": [
     {
-      "id": "0d3e054b-206c-3fb4-ae79-547dc5327786",
-      "title": "Jensen Huang Doubled Nvidia's Own Sales Forecast to $1 Trillion Through 2027. Here's What That Guidance Means for the Stock's Valuation.",
-      "link": "https://finance.yahoo.com/m/0d3e054b-206c-3fb4-ae79-547dc5327786/jensen-huang-doubled-nvidia%27s.html",
-      "publisher": "Motley Fool",
-      "time": 1786936800,
+      "id": "f6553ed5-4712-3192-b036-11f223da960e",
+      "title": "Malaysia's July CPI rises 1.8% y/y, slightly less than forecast",
+      "link": "https://finance.yahoo.com/economy/articles/malaysias-july-cpi-rises-1-040643406.html",
+      "publisher": "Reuters",
+      "time": 1786939603,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,94 +64,99 @@
       ]
     },
     {
-      "id": "7b8cb276-777e-3795-b430-5938ec16ee65",
-      "title": "AMD (AMD) Stock Trades Up, Here Is Why",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-amd-stock-trades-why-031700093.html",
+      "id": "c6d521c5-f7bd-3a68-9eab-f00fcd4aa8f8",
+      "title": "Pied Piper Launches New Era of Continuous Retailer Performance Monitoring and Proactive Alerts",
+      "link": "https://finance.yahoo.com/small-business/articles/pied-piper-launches-era-continuous-040100688.html",
+      "publisher": "Business Wire",
+      "time": 1786939260,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "39a887f3-bcfd-3ecb-9a4d-3aaa95ed5fb0",
+      "title": "Mercury Systems (MRCY) Q2 Earnings Report Preview: What To Look For",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mercury-systems-mrcy-q2-earnings-035700720.html",
       "publisher": "StockStory",
-      "time": 1786936620,
+      "time": 1786939020,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "a0acdf98-746d-3988-ac0e-7affb06f61c8",
-      "title": "FISV Stock: Jana Partners Cuts Fiserv Stake Amid Push For More Board Changes",
-      "link": "https://finance.yahoo.com/m/a0acdf98-746d-3988-ac0e-7affb06f61c8/fisv-stock%3A-jana-partners.html",
-      "publisher": "Stocktwits",
-      "time": 1786936201,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "62bb6329-006b-3502-a5e1-c494ec7ad939",
-      "title": "DEEP Robotics Expands Quadruped and Wheeled-Legged Robot Deployments Across Firefighting and Emergency Response",
-      "link": "https://finance.yahoo.com/technology/ai/articles/deep-robotics-expands-quadruped-wheeled-031000633.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786936200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ad74eb1b-8986-361c-af9b-448fec6e4bf8",
-      "title": "Rednote Releases First Open-Weight Model in the dots3 Series, Exploring Long-Horizon Real-World Tasks",
-      "link": "https://finance.yahoo.com/technology/ai/articles/rednote-releases-first-open-weight-031000664.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786936200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5aec6efe-18f9-3438-b9e5-96111edc380d",
-      "title": "Why Did CRWD, S, AEHR Stocks Hit 52-Week Highs Last Week?",
-      "link": "https://finance.yahoo.com/m/5aec6efe-18f9-3438-b9e5-96111edc380d/why-did-crwd%2C-s%2C-aehr-stocks.html",
-      "publisher": "Stocktwits",
-      "time": 1786936163,
-      "impact": "low",
+      "id": "ae0dd43a-76f4-3ed8-af7a-a40ccffd61a8",
+      "title": "Dr. Gary Lawton Warns Plastic Surgery Patients: Audit the Operating Room",
+      "link": "https://finance.yahoo.com/healthcare/articles/dr-gary-lawton-warns-plastic-035500080.html",
+      "publisher": "PR Newswire",
+      "time": 1786938900,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "46d8672e-51bb-33b7-84ab-8d2cb1ef9ccc",
-      "title": "3 Reasons to Sell MSTR and 1 Stock to Buy Instead",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-mstr-1-030900476.html",
-      "publisher": "StockStory",
-      "time": 1786936140,
-      "impact": "low",
+      "id": "d65bb024-c5d7-3aae-84cb-138488d405aa",
+      "title": "The Iran war is forcing families to choose between school for their kids or survival",
+      "link": "https://finance.yahoo.com/m/d65bb024-c5d7-3aae-84cb-138488d405aa/the-iran-war-is-forcing.html",
+      "publisher": "Associated Press",
+      "time": 1786938735,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "dcaa22c0-3104-3b5f-889a-6f16624d92f6",
-      "title": "Nearly 13,000 displaced after deadly Indonesian quake",
-      "link": "https://finance.yahoo.com/m/dcaa22c0-3104-3b5f-889a-6f16624d92f6/nearly-13%2C000-displaced-after.html",
+      "id": "6932980b-54c2-3849-9373-c9960fae14ca",
+      "title": "Kushner to meet Netanyahu after talks with Hamas on Gaza plan",
+      "link": "https://finance.yahoo.com/m/6932980b-54c2-3849-9373-c9960fae14ca/kushner-to-meet-netanyahu.html",
       "publisher": "AFP",
-      "time": 1786936045,
+      "time": 1786938610,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "79b73c1c-e364-315f-8433-18e9ae96269d",
-      "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Nears Key Level; Walmart Looms",
-      "link": "https://finance.yahoo.com/m/79b73c1c-e364-315f-8433-18e9ae96269d/dow-jones-futures%3A-nvidia.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1786935962,
+      "id": "b237b798-d204-33ec-bb0d-52bd5a72299e",
+      "title": "Where Will Palantir Stock Be in 2030?",
+      "link": "https://finance.yahoo.com/m/b237b798-d204-33ec-bb0d-52bd5a72299e/where-will-palantir-stock-be.html",
+      "publisher": "Motley Fool",
+      "time": 1786938600,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c1e6b8da-fb01-38e3-aabb-2e17cdf70be4",
+      "title": "Digital Heroes Surpasses 2,000 Brand Clients and Publishes 1,073 Shopify Buyer Guides as Agency Expands Global Shopify Development Operations",
+      "link": "https://finance.yahoo.com/small-business/articles/digital-heroes-surpasses-2-000-035000492.html",
+      "publisher": "TMX Newsfile",
+      "time": 1786938600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "276884dd-0673-39d0-932a-eed065e20983",
+      "title": "Earnings To Watch: Keysight (KEYS) Reports Q2 Results Tomorrow",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-keysight-keys-reports-034900979.html",
+      "publisher": "StockStory",
+      "time": 1786938540,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "dd4f9440-3143-3612-99d9-28e8eaaa06d6",
-      "title": "Peabody Energy, Borr Drilling, Texas Pacific Land, Halliburton, and Transocean Stocks Trade Up, What You Need To Know",
-      "link": "https://finance.yahoo.com/energy/articles/peabody-energy-borr-drilling-texas-030100646.html",
-      "publisher": "StockStory",
-      "time": 1786935660,
-      "impact": "medium",
+      "id": "0309a8c3-c374-3db3-9eb2-9e7fa966b2b2",
+      "title": "New Study Confirms Capsugel® Enprotect® Capsules Deliver Robust Gastric Integrity Under Both Fasted and Fed Conditions",
+      "link": "https://finance.yahoo.com/healthcare/articles/study-confirms-capsugel-enprotect-capsules-034500634.html",
+      "publisher": "PR Newswire",
+      "time": 1786938300,
+      "impact": "high",
       "tags": [
-        "geo"
+        "geo",
+        "macro"
       ]
     }
   ],
