@@ -1,45 +1,45 @@
 {
-  "updatedAt": "2026-08-17T13:34:19.964826+00:00",
+  "updatedAt": "2026-08-17T14:20:46.592831+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20060.7,
-      "change": -95.89999999999782,
-      "changePct": -0.4757746842225267,
+      "price": 20074.3,
+      "change": -82.29999999999927,
+      "changePct": -0.4083029876070334,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7779.23,
-      "change": -19.76000000000022,
-      "changePct": -0.25336614100031185,
+      "price": 7772.56,
+      "change": -26.42999999999938,
+      "changePct": -0.33889003576103294,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26752.275,
-      "change": -50.75499999999738,
-      "changePct": -0.18936291904309843,
+      "price": 26719.121,
+      "change": -83.90899999999965,
+      "changePct": -0.3130578893505684,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26385.53,
-      "change": 85.78999999999724,
-      "changePct": 0.3262009434313694,
+      "price": 26409.43,
+      "change": 109.68999999999869,
+      "changePct": 0.41707636653441704,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6537.33,
-      "change": -2.2600000000002183,
-      "changePct": -0.03455874145015541,
-      "currency": null
+      "price": 6543.04,
+      "change": 3.449999999999818,
+      "changePct": 0.05275560088629131,
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,78 +52,29 @@
   ],
   "news": [
     {
-      "id": "bee82489-e541-4f24-a60c-b86270d442e6",
-      "title": "SpaceX bulls would be wise to remember one thing",
-      "link": "https://finance.yahoo.com/markets/stocks/article/spacex-bulls-would-be-wise-to-remember-one-thing-133018734.html",
-      "publisher": "Yahoo Finance",
-      "time": 1786973418,
+      "id": "989c16dd-69f0-352a-8ac8-19954b3e3fdd",
+      "title": "JAPEX begins drilling second exploratory CCS well in Tomakomai",
+      "link": "https://finance.yahoo.com/m/989c16dd-69f0-352a-8ac8-19954b3e3fdd/japex-begins-drilling-second.html",
+      "publisher": "Offshore Technology",
+      "time": 1786976157,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b55ced8e-733a-4440-a80d-adead8c248d9",
-      "title": "Tech stocks today: Anthropic's huge haul, Meta trial to kick off",
-      "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-anthropics-huge-haul-meta-trial-to-kick-off-132945569.html",
-      "publisher": "Yahoo Finance",
-      "time": 1786973385,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "eee6b5d3-eb1c-30af-a90a-eb8c1479d373",
-      "title": "Trinity Biotech's Trinovium, Echelon to Collaborate on Data Center Liquid Cooling",
-      "link": "https://finance.yahoo.com/technology/ai/articles/trinity-biotech-apos-trinovium-echelon-132931107.html",
-      "publisher": "MT Newswires",
-      "time": 1786973371,
+      "id": "e56e5728-2b74-388c-88b3-3f8f7e86b008",
+      "title": "Billionaire Stanley Druckenmiller Tripled His Stake in United Airlines (UAL). Should You Buy?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-tripled-stake-141505376.html",
+      "publisher": "Insider Monkey",
+      "time": 1786976105,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7ebf9df5-4c4e-33ac-bd90-046f21572864",
-      "title": "Gray Media to Launch $750 Million Senior Secured Notes Offering",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gray-media-launch-750-million-132822604.html",
-      "publisher": "MT Newswires",
-      "time": 1786973302,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "15411e67-f4be-362a-b1b6-aa00236ac340",
-      "title": "Sector Update: Energy Stocks Edge Higher Premarket Monday",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-edge-higher-132741328.html",
-      "publisher": "MT Newswires",
-      "time": 1786973261,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "e44fdf79-ebac-3b7f-9e2d-ec3fae2e2e33",
-      "title": "Smashburger Announces Back-to-School Promotion",
-      "link": "https://finance.yahoo.com/m/e44fdf79-ebac-3b7f-9e2d-ec3fae2e2e33/smashburger-announces.html",
-      "publisher": "QSR",
-      "time": 1786973228,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2406c731-bcc7-3663-8f1e-1eef9577a3d5",
-      "title": "Her Annuity Pays $1,580 a Month, Guaranteed for Life. At 73, It Pushed Her Medicare Premium Up Two Brackets.",
-      "link": "https://finance.yahoo.com/m/2406c731-bcc7-3663-8f1e-1eef9577a3d5/her-annuity-pays-%241%2C580-a.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786973106,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "20b0af1b-dfc7-3b60-bd92-2b1dd2ad6da8",
-      "title": "Canadian Banks' Law Enforcement Awards honour police officers protecting Canadians from financial crime",
-      "link": "https://finance.yahoo.com/economy/policy/articles/canadian-banks-law-enforcement-awards-132500704.html",
-      "publisher": "CNW Group",
-      "time": 1786973100,
+      "id": "494d93c8-8dc7-3ef3-b9fd-8e4f0610cb9b",
+      "title": "Arax Recognizes 2026 InvestmentNews Women to Watch Excellence Awardee",
+      "link": "https://finance.yahoo.com/small-business/articles/arax-recognizes-2026-investmentnews-women-141500451.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786976100,
       "impact": "high",
       "tags": [
         "geo",
@@ -131,11 +82,22 @@
       ]
     },
     {
-      "id": "a49396b5-fca2-3dc1-9223-d0253ad09bea",
-      "title": "Universal Health Services Closes Acquisition of Talkspace",
-      "link": "https://finance.yahoo.com/healthcare/articles/universal-health-services-closes-acquisition-132446666.html",
-      "publisher": "MT Newswires",
-      "time": 1786973086,
+      "id": "81119a35-130b-3412-87c2-8b9ccaadcd2f",
+      "title": "Agentic AI Market Surges to $93.20 billion at a CAGR 44.6% by 2032 | Report by MarketsandMarkets™",
+      "link": "https://finance.yahoo.com/technology/ai/articles/agentic-ai-market-surges-93-141500039.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786976100,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "90a7e5ea-3cad-30fe-a24c-7be780646459",
+      "title": "ICU Medical (ICUI): Buy, Sell, or Hold Post Q2 Earnings?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/icu-medical-icui-buy-sell-141420193.html",
+      "publisher": "StockStory",
+      "time": 1786976060,
       "impact": "medium",
       "tags": [
         "macro",
@@ -143,11 +105,53 @@
       ]
     },
     {
-      "id": "273587cd-1a7b-3b36-945c-3350e02cb7db",
-      "title": "Krispy Kreme Unveils New Pokémon-Themed Doughnuts",
-      "link": "https://finance.yahoo.com/m/273587cd-1a7b-3b36-945c-3350e02cb7db/krispy-kreme-unveils-new.html",
-      "publisher": "QSR",
-      "time": 1786973068,
+      "id": "0e6fcea3-50b5-325c-8fe0-f350d5287672",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-141400402.html",
+      "publisher": "Business Wire",
+      "time": 1786976040,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ca458411-c802-391f-8ea2-a5bd9c99f4b9",
+      "title": "Offer for Irish Continental Group plc - No Increase Statement and Leading Independent Proxy Advisory Firm Recommends Shareholders Vote in Favour of the Acquisition",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/offer-irish-continental-group-plc-141400641.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786976040,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a4dd50c9-1846-335a-888b-ae2fbcdd9448",
+      "title": "Thai gun sellers turn to baking bread as crackdown hinders business",
+      "link": "https://finance.yahoo.com/video/thai-gun-sellers-turn-baking-141356536.html",
+      "publisher": "Reuters Videos",
+      "time": 1786976036,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f1def891-7e25-3bd9-9814-c5c65a71cc46",
+      "title": "Tronox Holdings Plc (TROX) Pressured by Softer Guidance and Leverage Risks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tronox-holdings-plc-trox-pressured-141158294.html",
+      "publisher": "Insider Monkey",
+      "time": 1786975918,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9486798f-488e-439e-a7e2-0648ec940bfa",
+      "title": "It's a 'hot Luddite summer': Why consumers are so opposed to AI data centers",
+      "link": "https://finance.yahoo.com/video/hot-luddite-summer-why-consumers-141120986.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1786975880,
       "impact": "low",
       "tags": []
     }
