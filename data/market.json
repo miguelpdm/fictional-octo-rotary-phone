@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T00:53:42.722891+00:00",
+  "updatedAt": "2026-08-17T02:16:35.349809+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,102 +52,104 @@
   ],
   "news": [
     {
-      "id": "95340ac7-971b-3822-b5ea-d1593fef82ae",
-      "title": "This Software Stock Just Produced a Rule of 40 Score Nearly as High as Palantir's, and Its Valuation Is Much More Attractive",
-      "link": "https://finance.yahoo.com/m/95340ac7-971b-3822-b5ea-d1593fef82ae/this-software-stock-just.html",
-      "publisher": "Motley Fool",
-      "time": 1786927800,
+      "id": "190e2a08-2c26-317e-9254-3f0d3376b78f",
+      "title": "Mixed or Offshore Upstream E&P Stocks Q1 Recap: Benchmarking Magnolia Oil & Gas (NYSE:MGY)",
+      "link": "https://finance.yahoo.com/energy/articles/mixed-offshore-upstream-e-p-020500727.html",
+      "publisher": "StockStory",
+      "time": 1786932300,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "ab8d6208-9378-31fa-8aad-5b6d75bdf82d",
+      "title": "Is this cave in Turkey where Homer wrote 'The Odyssey'?",
+      "link": "https://finance.yahoo.com/m/ab8d6208-9378-31fa-8aad-5b6d75bdf82d/is-this-cave-in-turkey-where.html",
+      "publisher": "AFP",
+      "time": 1786932037,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2266ef3e-e1c1-3cd1-a3bc-1547bb1b217a",
+      "title": "Cognizant and Benchling Selected as Partners to Accelerate Kyowa Kirin's R&D",
+      "link": "https://finance.yahoo.com/healthcare/articles/cognizant-benchling-selected-partners-accelerate-020000746.html",
+      "publisher": "PR Newswire",
+      "time": 1786932000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5bb7da24-ee21-337a-8f9a-798aa596c161",
+      "title": "Mouser Expands Industrial Automation Portfolio with New Manufacturer Additions to Support Next-Gen Systems",
+      "link": "https://finance.yahoo.com/technology/articles/mouser-expands-industrial-automation-portfolio-020000513.html",
+      "publisher": "PR Newswire",
+      "time": 1786932000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d42e6b5a-badb-339f-9664-82fd831c7ce7",
+      "title": "DayOne Launches Singapore's First Biological Data Center Prototype with Cortical Labs and NUS Medicine",
+      "link": "https://finance.yahoo.com/technology/ai/articles/dayone-launches-singapores-first-biological-020000927.html",
+      "publisher": "PR Newswire",
+      "time": 1786932000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1fffc69a-7ea3-3c1e-866f-bdf1e2a0ca2d",
+      "title": "Argentina LNG Seeks RIGI Approval for $51 Billion Export Project",
+      "link": "https://finance.yahoo.com/energy/articles/argentina-lng-seeks-rigi-approval-015747805.html",
+      "publisher": "Oilprice.com",
+      "time": 1786931867,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9f9ea2ed-0006-3c52-8bbc-3d621ac84bc1",
+      "title": "Q2 Earnings Roundup: Monarch (NASDAQ:MCRI) And The Rest Of The Consumer Discretionary - Casino Operator Segment",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-roundup-monarch-nasdaq-015700289.html",
+      "publisher": "StockStory",
+      "time": 1786931820,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "07367a62-21d0-3814-a851-c34318785890",
+      "title": "From Solar to Smarter Energy: Sungrow Upgrades Warnertown Solar Farm for Greater Flexibility",
+      "link": "https://finance.yahoo.com/energy/articles/solar-smarter-energy-sungrow-upgrades-015600560.html",
+      "publisher": "PR Newswire",
+      "time": 1786931760,
       "impact": "high",
       "tags": [
         "geo",
         "macro"
       ]
+    },
+    {
+      "id": "1d0d31f1-73c3-342e-8317-5183a5bdada5",
+      "title": "Trump says US scaling back military drills with South Korea hours before start",
+      "link": "https://finance.yahoo.com/m/1d0d31f1-73c3-342e-8317-5183a5bdada5/trump-says-us-scaling-back.html",
+      "publisher": "AFP",
+      "time": 1786931704,
+      "impact": "low",
+      "tags": []
     },
     {
       "id": "79b73c1c-e364-315f-8433-18e9ae96269d",
-      "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Needs This; Walmart Looms",
+      "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Nears Key Level; Walmart Looms",
       "link": "https://finance.yahoo.com/m/79b73c1c-e364-315f-8433-18e9ae96269d/dow-jones-futures%3A-nvidia.html",
       "publisher": "Investor's Business Daily",
-      "time": 1786927676,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "9b976049-3a3a-3d2e-85ce-a9c62c7b4688",
-      "title": "Yen edges up as traders push back Fed rate hike bets",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/yen-edges-traders-push-back-004148952.html",
-      "publisher": "Reuters",
-      "time": 1786927308,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "2213d7b5-69f1-3921-a77b-034c113384f8",
-      "title": "Reddit just landed in the big leagues",
-      "link": "https://finance.yahoo.com/m/2213d7b5-69f1-3921-a77b-034c113384f8/reddit-just-landed-in-the-big.html",
-      "publisher": "TheStreet",
-      "time": 1786927020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7548617b-372c-3009-86bb-12a18e0741b3",
-      "title": "Fishing history delivers Schmitt's third Bassmaster Elite title at Lake Champlain",
-      "link": "https://finance.yahoo.com/media-advertising/articles/fishing-history-delivers-schmitts-third-003700923.html",
-      "publisher": "PR Newswire",
-      "time": 1786927020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d028ffd7-b2cc-3671-bdd8-6bdc8ec16064",
-      "title": "Drug Development Inputs & Services Stocks Q2 Recap: Benchmarking Medpace (NASDAQ:MEDP)",
-      "link": "https://finance.yahoo.com/healthcare/articles/drug-development-inputs-services-stocks-003700580.html",
-      "publisher": "StockStory",
-      "time": 1786927020,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "7efc6c43-d567-3369-b883-fe9b729afe6a",
-      "title": "Mesoblast Achieves Major Milestone Completing Patient Treatment in Pivotal Phase 3 Trial for Chronic Low Back Pain",
-      "link": "https://finance.yahoo.com/healthcare/articles/mesoblast-achieves-major-milestone-completing-003500682.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786926900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d8146598-66b2-3c46-8912-ef88a2c758a2",
-      "title": "Mastercard CEO: Cybersecurity Is Our Fastest-Growing Business",
-      "link": "https://finance.yahoo.com/m/d8146598-66b2-3c46-8912-ef88a2c758a2/mastercard-ceo%3A-cybersecurity.html",
-      "publisher": "Motley Fool",
-      "time": 1786926877,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2637bb02-107a-3c97-8b5c-21c859d59416",
-      "title": "Walmart's all-season $1,400 rustic wood gazebo is 54% off",
-      "link": "https://finance.yahoo.com/m/2637bb02-107a-3c97-8b5c-21c859d59416/walmart%27s-all-season-%241%2C400.html",
-      "publisher": "TheStreet",
-      "time": 1786926600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2d82ba26-dc23-3596-8e66-f398d1fb0a7d",
-      "title": "U.S. Shale E&P Stocks Q2 Results: Benchmarking Permian Resources (NYSE:PR)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/u-shale-e-p-stocks-002900661.html",
-      "publisher": "StockStory",
-      "time": 1786926540,
+      "time": 1786931476,
       "impact": "low",
       "tags": [
         "macro"
