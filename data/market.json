@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-17T11:21:49.191024+00:00",
+  "updatedAt": "2026-08-17T11:48:27.483260+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20118.0,
-      "change": -38.599999999998545,
-      "changePct": -0.1915005506881049,
+      "price": 20130.0,
+      "change": -26.599999999998545,
+      "changePct": -0.13196670073325137,
       "currency": "EUR"
     },
     {
@@ -28,17 +28,17 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26445.72,
-      "change": 145.97999999999956,
-      "changePct": 0.5550625215306294,
+      "price": 26452.19,
+      "change": 152.4499999999971,
+      "changePct": 0.5796635251907322,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6559.64,
-      "change": 20.050000000000182,
-      "changePct": 0.30659414428121917,
+      "price": 6559.45,
+      "change": 19.859999999999673,
+      "changePct": 0.3036887633628358,
       "currency": null
     },
     {
@@ -52,47 +52,29 @@
   ],
   "news": [
     {
-      "id": "f944f7bc-01bf-3f40-a5e9-bdfa64263533",
-      "title": "Mach Natural Resources LP's Dividend Analysis",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mach-natural-resources-lps-dividend-112021555.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786965621,
+      "id": "44aa1b30-e1e1-3571-9a48-ba9ae7c03d44",
+      "title": "Sandoz targets industry patent void with $322m Henlius deal",
+      "link": "https://finance.yahoo.com/m/44aa1b30-e1e1-3571-9a48-ba9ae7c03d44/sandoz-targets-industry.html",
+      "publisher": "Pharmaceutical Technology",
+      "time": 1786967258,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7fd5268f-3469-3960-a77c-80299162aa24",
-      "title": "Gabelli Dividend & Income Trust's Dividend Analysis",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gabelli-dividend-income-trusts-dividend-111956980.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786965596,
+      "id": "3ace3412-ba58-301b-9b39-2dce81c0278b",
+      "title": "Lantheus Holdings’ Alzheimer’s radiodiagnostic secures FDA approval",
+      "link": "https://finance.yahoo.com/m/3ace3412-ba58-301b-9b39-2dce81c0278b/lantheus-holdings%E2%80%99.html",
+      "publisher": "Pharmaceutical Technology",
+      "time": 1786967256,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9620927d-797c-3e96-8092-55e37fea660d",
-      "title": "Sprott Inc's Dividend Analysis",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sprott-incs-dividend-analysis-111928677.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786965568,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "887f896e-c253-3995-b513-c0fd30bafe56",
-      "title": "CitiusTech Appoints Dhaval Shah as Acting CEO and Shyam Karunakaran as President to Lead Next Phase of Growth and Transformation",
-      "link": "https://finance.yahoo.com/healthcare/articles/citiustech-appoints-dhaval-shah-acting-111900542.html",
-      "publisher": "PR Newswire",
-      "time": 1786965540,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "aa3c8547-42f0-3526-b6d2-a872172ea1cd",
-      "title": "Trump-linked crypto venture gets preliminary nod for bank charter",
-      "link": "https://finance.yahoo.com/m/aa3c8547-42f0-3526-b6d2-a872172ea1cd/trump-linked-crypto-venture.html",
-      "publisher": "Retail Banker International",
-      "time": 1786965534,
+      "id": "e47609e9-ddaa-366a-b285-68a654a057d9",
+      "title": "Citigroup names Adam Clark wealth planning head",
+      "link": "https://finance.yahoo.com/m/e47609e9-ddaa-366a-b285-68a654a057d9/citigroup-names-adam-clark.html",
+      "publisher": "Private Banker International",
+      "time": 1786967196,
       "impact": "medium",
       "tags": [
         "macro",
@@ -100,49 +82,70 @@
       ]
     },
     {
-      "id": "f16bc0df-2903-3cc2-92b9-7bdb106a8e1b",
-      "title": "Artisan Partners Asset Management Inc's Dividend Analysis",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/artisan-partners-asset-management-incs-111854115.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786965534,
+      "id": "816b1dc4-b120-31ac-a231-a85fa8192faa",
+      "title": "United Therapeutics Completes Enrollment in Phase 3 PPF Trial of Tyvaso",
+      "link": "https://finance.yahoo.com/healthcare/articles/united-therapeutics-completes-enrollment-phase-114116650.html",
+      "publisher": "MT Newswires",
+      "time": 1786966876,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bcd3bc1a-1960-3b60-8462-0120ec277562",
-      "title": "DHT Holdings Inc's Dividend Analysis",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dht-holdings-incs-dividend-analysis-111828802.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786965508,
+      "id": "894ccf9e-45f9-31be-aa70-b46ec75c9e2f",
+      "title": "UK launches consultation on ZEV Mandate review",
+      "link": "https://finance.yahoo.com/m/894ccf9e-45f9-31be-aa70-b46ec75c9e2f/uk-launches-consultation-on.html",
+      "publisher": "Just Auto",
+      "time": 1786966828,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "fca6440b-911a-32b1-9cdd-4b54a63fb02f",
-      "title": "Kesko July sales rise 5.9% to €1.11bn",
-      "link": "https://finance.yahoo.com/m/fca6440b-911a-32b1-9cdd-4b54a63fb02f/kesko-july-sales-rise-5.9%25-to.html",
-      "publisher": "Retail Insight Network",
-      "time": 1786965502,
+      "id": "360d41e3-8698-32bb-b45d-86c15e60d0ff",
+      "title": "Castle Biosciences Gets Approval for Dual Listing on Nasdaq Texas",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/castle-biosciences-gets-approval-dual-113835775.html",
+      "publisher": "MT Newswires",
+      "time": 1786966715,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7c036bf6-ddea-31bd-a293-d4740285f7cf",
-      "title": "SOCPA refers unlicensed services company to public prosecution",
-      "link": "https://finance.yahoo.com/m/7c036bf6-ddea-31bd-a293-d4740285f7cf/socpa-refers-unlicensed.html",
-      "publisher": "The Accountant",
-      "time": 1786965497,
+      "id": "1f42a139-b80c-32a2-821f-3c53419a3478",
+      "title": "Egypt gears up to tackle packaging waste via EPR – report",
+      "link": "https://finance.yahoo.com/m/1f42a139-b80c-32a2-821f-3c53419a3478/egypt-gears-up-to-tackle.html",
+      "publisher": "Packaging Gateway",
+      "time": 1786966693,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "131a70fc-a4a4-306a-90f2-fe793adff883",
-      "title": "Paramount Resources Ltd's Dividend Analysis",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/paramount-resources-ltds-dividend-analysis-111800787.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786965480,
+      "id": "95fee918-0c51-3467-85dd-e81398608e48",
+      "title": "American Red Cross launches multi-year fundraising campaign to strengthen nation's blood supply",
+      "link": "https://finance.yahoo.com/healthcare/articles/american-red-cross-launches-multi-113800400.html",
+      "publisher": "PR Newswire",
+      "time": 1786966680,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "841571e8-7da8-34f0-a001-786bb1d1c905",
+      "title": "B. Riley Raises Price Target on AirJoule Technologies to $8 From $6, Keeps Buy Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/b-riley-raises-price-target-113706333.html",
+      "publisher": "MT Newswires",
+      "time": 1786966626,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3b44c661-701f-380c-8c6a-5750a8356e5f",
+      "title": "AI Chips Today - Fort Technology Expands Amid Record Revenue and Strategic Acquisitions",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-chips-today-fort-technology-113704087.html",
+      "publisher": "Simply Wall St.",
+      "time": 1786966624,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
