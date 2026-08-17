@@ -1,157 +1,149 @@
 {
-  "updatedAt": "2026-08-17T14:20:46.592831+00:00",
+  "updatedAt": "2026-08-17T14:51:58.333706+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20074.3,
-      "change": -82.29999999999927,
-      "changePct": -0.4083029876070334,
+      "price": 20020.6,
+      "change": -136.0,
+      "changePct": -0.6747169661550064,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7772.56,
-      "change": -26.42999999999938,
-      "changePct": -0.33889003576103294,
+      "price": 7774.68,
+      "change": -24.30999999999949,
+      "changePct": -0.31170702873063677,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26719.121,
-      "change": -83.90899999999965,
-      "changePct": -0.3130578893505684,
+      "price": 26736.656,
+      "change": -66.3739999999998,
+      "changePct": -0.24763618143172544,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26409.43,
-      "change": 109.68999999999869,
-      "changePct": 0.41707636653441704,
+      "price": 26419.23,
+      "change": 119.48999999999796,
+      "changePct": 0.45433909232561975,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6543.04,
-      "change": 3.449999999999818,
-      "changePct": 0.05275560088629131,
+      "price": 6541.01,
+      "change": 1.4200000000000728,
+      "changePct": 0.021713899495229404,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.03,
-      "change": 0.7799999999999994,
-      "changePct": 5.4736842105263115,
+      "price": 14.98,
+      "change": 0.7300000000000004,
+      "changePct": 5.122807017543863,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "989c16dd-69f0-352a-8ac8-19954b3e3fdd",
-      "title": "JAPEX begins drilling second exploratory CCS well in Tomakomai",
-      "link": "https://finance.yahoo.com/m/989c16dd-69f0-352a-8ac8-19954b3e3fdd/japex-begins-drilling-second.html",
-      "publisher": "Offshore Technology",
-      "time": 1786976157,
+      "id": "42679bda-0f6f-313b-a17b-e8158e71dca6",
+      "title": "MindSeed Expands Access to Specialized Virtual Therapy Across Ontario",
+      "link": "https://finance.yahoo.com/healthcare/articles/mindseed-expands-access-specialized-virtual-144800814.html",
+      "publisher": "TMX Newsfile",
+      "time": 1786978080,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e56e5728-2b74-388c-88b3-3f8f7e86b008",
-      "title": "Billionaire Stanley Druckenmiller Tripled His Stake in United Airlines (UAL). Should You Buy?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-tripled-stake-141505376.html",
-      "publisher": "Insider Monkey",
-      "time": 1786976105,
+      "id": "07a31813-7ba5-372c-a4e9-f00d4a450ce9",
+      "title": "PwC predicts tax revamp will lure multinationals to Hong Kong – report",
+      "link": "https://finance.yahoo.com/m/07a31813-7ba5-372c-a4e9-f00d4a450ce9/pwc-predicts-tax-revamp-will.html",
+      "publisher": "International Accounting Bulletin",
+      "time": 1786977958,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "494d93c8-8dc7-3ef3-b9fd-8e4f0610cb9b",
-      "title": "Arax Recognizes 2026 InvestmentNews Women to Watch Excellence Awardee",
-      "link": "https://finance.yahoo.com/small-business/articles/arax-recognizes-2026-investmentnews-women-141500451.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786976100,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "81119a35-130b-3412-87c2-8b9ccaadcd2f",
-      "title": "Agentic AI Market Surges to $93.20 billion at a CAGR 44.6% by 2032 | Report by MarketsandMarkets™",
-      "link": "https://finance.yahoo.com/technology/ai/articles/agentic-ai-market-surges-93-141500039.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786976100,
+      "id": "ea44852a-04d8-3d3b-b150-136bf003e891",
+      "title": "Market Chatter: Supreme Court Rejects Verizon's Bid to Recover $47 Million FCC Fine",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-supreme-court-rejects-144524145.html",
+      "publisher": "MT Newswires",
+      "time": 1786977924,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "90a7e5ea-3cad-30fe-a24c-7be780646459",
-      "title": "ICU Medical (ICUI): Buy, Sell, or Hold Post Q2 Earnings?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/icu-medical-icui-buy-sell-141420193.html",
-      "publisher": "StockStory",
-      "time": 1786976060,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "0e6fcea3-50b5-325c-8fe0-f350d5287672",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-141400402.html",
-      "publisher": "Business Wire",
-      "time": 1786976040,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ca458411-c802-391f-8ea2-a5bd9c99f4b9",
-      "title": "Offer for Irish Continental Group plc - No Increase Statement and Leading Independent Proxy Advisory Firm Recommends Shareholders Vote in Favour of the Acquisition",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/offer-irish-continental-group-plc-141400641.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786976040,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a4dd50c9-1846-335a-888b-ae2fbcdd9448",
-      "title": "Thai gun sellers turn to baking bread as crackdown hinders business",
-      "link": "https://finance.yahoo.com/video/thai-gun-sellers-turn-baking-141356536.html",
-      "publisher": "Reuters Videos",
-      "time": 1786976036,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f1def891-7e25-3bd9-9814-c5c65a71cc46",
-      "title": "Tronox Holdings Plc (TROX) Pressured by Softer Guidance and Leverage Risks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tronox-holdings-plc-trox-pressured-141158294.html",
-      "publisher": "Insider Monkey",
-      "time": 1786975918,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "9486798f-488e-439e-a7e2-0648ec940bfa",
-      "title": "It's a 'hot Luddite summer': Why consumers are so opposed to AI data centers",
-      "link": "https://finance.yahoo.com/video/hot-luddite-summer-why-consumers-141120986.html",
+      "id": "435444e6-a034-4de4-bfac-a8ade3444f3a",
+      "title": "WSJ reports $3T in AI spending commitments is kept off balance sheets: A full breakdown",
+      "link": "https://finance.yahoo.com/video/wsj-reports-3t-ai-spending-144501122.html",
       "publisher": "Yahoo Finance Video",
-      "time": 1786975880,
+      "time": 1786977901,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0229d282-3664-322e-b680-807a9685ee01",
+      "title": "Surgical Imaging Market to Grow from USD 5.4 Billion in 2025 to USD 12.2 Billion by 2030, at a CAGR of 17.6% – MarketsandMarkets™",
+      "link": "https://finance.yahoo.com/healthcare/articles/surgical-imaging-market-grow-usd-144500265.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786977900,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "c3ad4ea3-1b09-3867-866c-65387df4b8c9",
+      "title": "Vight Unveils AI-Powered Level 2 Support for MSPs",
+      "link": "https://finance.yahoo.com/technology/ai/articles/vight-unveils-ai-powered-level-144500777.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786977900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8f03432b-8f91-3a8a-a3c4-3853a5b86832",
+      "title": "Americold Realty Trust Fundamentals Seem to Be Stabilizing, RBC Says",
+      "link": "https://finance.yahoo.com/real-estate/articles/americold-realty-trust-fundamentals-seem-144430186.html",
+      "publisher": "MT Newswires",
+      "time": 1786977870,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b9549b8c-7227-3d0b-8a5b-bc79e52e0ff6",
+      "title": "Saudi Arabia IoT Market to Reach USD 4.33 Billion by 2031 as Vision 2030 and 5G Accelerate Adoption",
+      "link": "https://finance.yahoo.com/technology/articles/saudi-arabia-iot-market-reach-144400398.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786977840,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "adca9c0e-9694-3728-939a-15f2bdc5d924",
+      "title": "Veralto’s (VLTO) Dual-Segment Advantage Fuels Long-Term Value",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/veralto-vlto-dual-segment-advantage-144304156.html",
+      "publisher": "Insider Monkey",
+      "time": 1786977784,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "92ad7fbf-32b6-30c6-9680-c552e080faa1",
+      "title": "Stonegate Capital Partners Updates Coverage on Alpha Cognition Inc. (ACOG) 2Q26",
+      "link": "https://finance.yahoo.com/healthcare/articles/stonegate-capital-partners-updates-coverage-144300785.html",
+      "publisher": "TMX Newsfile",
+      "time": 1786977780,
       "impact": "low",
       "tags": []
     }
