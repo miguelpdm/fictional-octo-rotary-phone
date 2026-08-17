@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T23:41:59.905802+00:00",
+  "updatedAt": "2026-08-17T00:53:42.722891+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6539.59,
       "change": -5.880000000000109,
       "changePct": -0.08983312122735432,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,78 +52,11 @@
   ],
   "news": [
     {
-      "id": "9eb0d868-4ce6-3229-9083-ba7b095b7a68",
-      "title": "Authors in August: Thi Nguyen’s “The Score”",
-      "link": "https://finance.yahoo.com/m/9eb0d868-4ce6-3229-9083-ba7b095b7a68/authors-in-august%3A-thi.html",
+      "id": "95340ac7-971b-3822-b5ea-d1593fef82ae",
+      "title": "This Software Stock Just Produced a Rule of 40 Score Nearly as High as Palantir's, and Its Valuation Is Much More Attractive",
+      "link": "https://finance.yahoo.com/m/95340ac7-971b-3822-b5ea-d1593fef82ae/this-software-stock-just.html",
       "publisher": "Motley Fool",
-      "time": 1786922979,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0c26d310-c527-3d90-9167-cf7c578901e0",
-      "title": "Queensland’s largest overnight charity walk returns after $1 million first year",
-      "link": "https://finance.yahoo.com/healthcare/articles/queensland-largest-overnight-charity-walk-232700696.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786922820,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4321f35c-d1af-35fc-9629-999946160be9",
-      "title": "Mixed or Offshore Upstream E&P Stocks Q2 Teardown: Seadrill (NYSE:SDRL) Vs The Rest",
-      "link": "https://finance.yahoo.com/energy/articles/mixed-offshore-upstream-e-p-232500457.html",
-      "publisher": "StockStory",
-      "time": 1786922700,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "14217248-8a45-3bcf-bb30-cc845c74a503",
-      "title": "ChronoTech AI Inc. Launches Intelligent Robotics Platform",
-      "link": "https://finance.yahoo.com/technology/ai/articles/chronotech-ai-inc-launches-intelligent-232100339.html",
-      "publisher": "TMX Newsfile",
-      "time": 1786922460,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "20948299-c82e-33d4-b738-3567422ed1e8",
-      "title": "Better Value ETF: Vanguard's Small Cap-Focused VBR vs. the iShares IJJ Targeting Mid-Cap Stocks",
-      "link": "https://finance.yahoo.com/m/20948299-c82e-33d4-b738-3567422ed1e8/better-value-etf%3A-vanguard%27s.html",
-      "publisher": "Motley Fool",
-      "time": 1786922401,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "3e4fda5b-12f3-3b29-9625-b31ba1b57c5c",
-      "title": "The 2027 Social Security COLA Will Push the Average Spousal Benefit to a Major Milestone",
-      "link": "https://finance.yahoo.com/m/3e4fda5b-12f3-3b29-9625-b31ba1b57c5c/the-2027-social-security-cola.html",
-      "publisher": "Motley Fool",
-      "time": 1786922400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7da3e9e2-f2a4-312c-ac61-efff8ebfe2bb",
-      "title": "Small Cap Watch: D3 Energy, Astral Resources, Surefire and Dalaroo advance company programs",
-      "link": "https://finance.yahoo.com/m/7da3e9e2-f2a4-312c-ac61-efff8ebfe2bb/small-cap-watch%3A-d3-energy%2C.html",
-      "publisher": "Proactive",
-      "time": 1786922340,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c7916942-40cc-307a-a935-ad7d8ad4f685",
-      "title": "Dave Ramsey: “He Doesn’t Get to Sit on His Butt” – Warehouse Worker Faces Layoff After 26 Years With Company",
-      "link": "https://finance.yahoo.com/m/c7916942-40cc-307a-a935-ad7d8ad4f685/dave-ramsey%3A-%E2%80%9Che-doesn%E2%80%99t-get.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786922257,
+      "time": 1786927800,
       "impact": "high",
       "tags": [
         "geo",
@@ -131,24 +64,94 @@
       ]
     },
     {
-      "id": "2f58254c-7a5b-3d69-aadc-29c41b606bbe",
-      "title": "Consumer Discretionary - Broadcasting Stocks Q2 Highlights: E.W. Scripps (NASDAQ:SSP)",
-      "link": "https://finance.yahoo.com/media-advertising/articles/consumer-discretionary-broadcasting-stocks-q2-231700774.html",
-      "publisher": "StockStory",
-      "time": 1786922220,
+      "id": "79b73c1c-e364-315f-8433-18e9ae96269d",
+      "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Needs This; Walmart Looms",
+      "link": "https://finance.yahoo.com/m/79b73c1c-e364-315f-8433-18e9ae96269d/dow-jones-futures%3A-nvidia.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786927676,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "3b1c0a54-ab6f-34d2-8f67-4f22d51f3efe",
-      "title": "Jeff Bezos just made his boldest move yet, into soccer",
-      "link": "https://finance.yahoo.com/m/3b1c0a54-ab6f-34d2-8f67-4f22d51f3efe/jeff-bezos-just-made-his.html",
+      "id": "9b976049-3a3a-3d2e-85ce-a9c62c7b4688",
+      "title": "Yen edges up as traders push back Fed rate hike bets",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/yen-edges-traders-push-back-004148952.html",
+      "publisher": "Reuters",
+      "time": 1786927308,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "2213d7b5-69f1-3921-a77b-034c113384f8",
+      "title": "Reddit just landed in the big leagues",
+      "link": "https://finance.yahoo.com/m/2213d7b5-69f1-3921-a77b-034c113384f8/reddit-just-landed-in-the-big.html",
       "publisher": "TheStreet",
-      "time": 1786922220,
+      "time": 1786927020,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "7548617b-372c-3009-86bb-12a18e0741b3",
+      "title": "Fishing history delivers Schmitt's third Bassmaster Elite title at Lake Champlain",
+      "link": "https://finance.yahoo.com/media-advertising/articles/fishing-history-delivers-schmitts-third-003700923.html",
+      "publisher": "PR Newswire",
+      "time": 1786927020,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d028ffd7-b2cc-3671-bdd8-6bdc8ec16064",
+      "title": "Drug Development Inputs & Services Stocks Q2 Recap: Benchmarking Medpace (NASDAQ:MEDP)",
+      "link": "https://finance.yahoo.com/healthcare/articles/drug-development-inputs-services-stocks-003700580.html",
+      "publisher": "StockStory",
+      "time": 1786927020,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "7efc6c43-d567-3369-b883-fe9b729afe6a",
+      "title": "Mesoblast Achieves Major Milestone Completing Patient Treatment in Pivotal Phase 3 Trial for Chronic Low Back Pain",
+      "link": "https://finance.yahoo.com/healthcare/articles/mesoblast-achieves-major-milestone-completing-003500682.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786926900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d8146598-66b2-3c46-8912-ef88a2c758a2",
+      "title": "Mastercard CEO: Cybersecurity Is Our Fastest-Growing Business",
+      "link": "https://finance.yahoo.com/m/d8146598-66b2-3c46-8912-ef88a2c758a2/mastercard-ceo%3A-cybersecurity.html",
+      "publisher": "Motley Fool",
+      "time": 1786926877,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2637bb02-107a-3c97-8b5c-21c859d59416",
+      "title": "Walmart's all-season $1,400 rustic wood gazebo is 54% off",
+      "link": "https://finance.yahoo.com/m/2637bb02-107a-3c97-8b5c-21c859d59416/walmart%27s-all-season-%241%2C400.html",
+      "publisher": "TheStreet",
+      "time": 1786926600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2d82ba26-dc23-3596-8e66-f398d1fb0a7d",
+      "title": "U.S. Shale E&P Stocks Q2 Results: Benchmarking Permian Resources (NYSE:PR)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/u-shale-e-p-stocks-002900661.html",
+      "publisher": "StockStory",
+      "time": 1786926540,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
