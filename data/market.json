@@ -1,149 +1,151 @@
 {
-  "updatedAt": "2026-08-17T14:51:58.333706+00:00",
+  "updatedAt": "2026-08-17T15:19:10.869360+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20020.6,
-      "change": -136.0,
-      "changePct": -0.6747169661550064,
+      "price": 20016.7,
+      "change": -139.89999999999782,
+      "changePct": -0.6940654673903229,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7774.68,
-      "change": -24.30999999999949,
-      "changePct": -0.31170702873063677,
+      "price": 7777.65,
+      "change": -21.340000000000146,
+      "changePct": -0.2736251745418336,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26736.656,
-      "change": -66.3739999999998,
-      "changePct": -0.24763618143172544,
+      "price": 26772.604,
+      "change": -30.425999999999476,
+      "changePct": -0.11351701654626167,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26419.23,
-      "change": 119.48999999999796,
-      "changePct": 0.45433909232561975,
+      "price": 26394.99,
+      "change": 95.25,
+      "changePct": 0.3621708807767681,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6541.01,
-      "change": 1.4200000000000728,
-      "changePct": 0.021713899495229404,
+      "price": 6540.36,
+      "change": 0.7699999999995271,
+      "changePct": 0.011774438458672898,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.98,
-      "change": 0.7300000000000004,
-      "changePct": 5.122807017543863,
+      "price": 14.97,
+      "change": 0.7200000000000006,
+      "changePct": 5.0526315789473735,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "42679bda-0f6f-313b-a17b-e8158e71dca6",
-      "title": "MindSeed Expands Access to Specialized Virtual Therapy Across Ontario",
-      "link": "https://finance.yahoo.com/healthcare/articles/mindseed-expands-access-specialized-virtual-144800814.html",
+      "id": "f27aa5bf-230b-32e9-96e9-b9b96e17192f",
+      "title": "Maxime Collins Inc. Opens Specialized Verification Branch for Recipe Magazines and Illustrated Publications",
+      "link": "https://finance.yahoo.com/media-advertising/articles/maxime-collins-inc-opens-specialized-151600247.html",
       "publisher": "TMX Newsfile",
-      "time": 1786978080,
+      "time": 1786979760,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "07a31813-7ba5-372c-a4e9-f00d4a450ce9",
-      "title": "PwC predicts tax revamp will lure multinationals to Hong Kong – report",
-      "link": "https://finance.yahoo.com/m/07a31813-7ba5-372c-a4e9-f00d4a450ce9/pwc-predicts-tax-revamp-will.html",
-      "publisher": "International Accounting Bulletin",
-      "time": 1786977958,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ea44852a-04d8-3d3b-b150-136bf003e891",
-      "title": "Market Chatter: Supreme Court Rejects Verizon's Bid to Recover $47 Million FCC Fine",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-supreme-court-rejects-144524145.html",
+      "id": "9b0887c7-2cb8-3e3a-9ce7-6f02d5a1d58c",
+      "title": "Archrock's Long-Term Compression Demand Strengthens on LNG, Power Trends, RBC Says",
+      "link": "https://finance.yahoo.com/energy/articles/archrock-apos-long-term-compression-151528052.html",
       "publisher": "MT Newswires",
-      "time": 1786977924,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "435444e6-a034-4de4-bfac-a8ade3444f3a",
-      "title": "WSJ reports $3T in AI spending commitments is kept off balance sheets: A full breakdown",
-      "link": "https://finance.yahoo.com/video/wsj-reports-3t-ai-spending-144501122.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1786977901,
+      "time": 1786979728,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0229d282-3664-322e-b680-807a9685ee01",
-      "title": "Surgical Imaging Market to Grow from USD 5.4 Billion in 2025 to USD 12.2 Billion by 2030, at a CAGR of 17.6% – MarketsandMarkets™",
-      "link": "https://finance.yahoo.com/healthcare/articles/surgical-imaging-market-grow-usd-144500265.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786977900,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "c3ad4ea3-1b09-3867-866c-65387df4b8c9",
-      "title": "Vight Unveils AI-Powered Level 2 Support for MSPs",
-      "link": "https://finance.yahoo.com/technology/ai/articles/vight-unveils-ai-powered-level-144500777.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786977900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8f03432b-8f91-3a8a-a3c4-3853a5b86832",
-      "title": "Americold Realty Trust Fundamentals Seem to Be Stabilizing, RBC Says",
-      "link": "https://finance.yahoo.com/real-estate/articles/americold-realty-trust-fundamentals-seem-144430186.html",
+      "id": "59cfbb4d-f420-3fd2-959c-43636c66f0ac",
+      "title": "ITG's Secular Growth Story Intact After Q2, Morgan Stanley Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/itg-apos-secular-growth-story-151403212.html",
       "publisher": "MT Newswires",
-      "time": 1786977870,
+      "time": 1786979643,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b9549b8c-7227-3d0b-8a5b-bc79e52e0ff6",
-      "title": "Saudi Arabia IoT Market to Reach USD 4.33 Billion by 2031 as Vision 2030 and 5G Accelerate Adoption",
-      "link": "https://finance.yahoo.com/technology/articles/saudi-arabia-iot-market-reach-144400398.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786977840,
+      "id": "2dd85efb-18fd-336c-9361-88835452c847",
+      "title": "Arrow Electronics Expands IBM Distribution Coverage to Seven Additional Countries",
+      "link": "https://finance.yahoo.com/technology/articles/arrow-electronics-expands-ibm-distribution-151245295.html",
+      "publisher": "MT Newswires",
+      "time": 1786979565,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c462b9c1-ab7a-3617-900c-01088ad7fa28",
+      "title": "European Equities Traded in the US as American Depositary Receipts Open Week Higher in Monday Trading",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151235800.html",
+      "publisher": "MT Newswires",
+      "time": 1786979555,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "geo"
       ]
     },
     {
-      "id": "adca9c0e-9694-3728-939a-15f2bdc5d924",
-      "title": "Veralto’s (VLTO) Dual-Segment Advantage Fuels Long-Term Value",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/veralto-vlto-dual-segment-advantage-144304156.html",
+      "id": "24c8c974-6e39-36d4-8515-096027355180",
+      "title": "5 Must-Read Analyst Questions From Target Hospitality’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-151020856.html",
+      "publisher": "StockStory",
+      "time": 1786979420,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9b91caf5-9ffd-367f-9a33-2596ffa461a8",
+      "title": "goeasy Appoints Mark Snyder as Chief Credit Risk Officer",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/goeasy-appoints-mark-snyder-chief-150937696.html",
+      "publisher": "MT Newswires",
+      "time": 1786979377,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5a9ca9b1-4c53-31ae-9e7f-ebdb6a966f13",
+      "title": "The Numbers Behind Assured Guaranty’s (AGO) Record-Setting Quarter",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/numbers-behind-assured-guaranty-ago-150922259.html",
       "publisher": "Insider Monkey",
-      "time": 1786977784,
+      "time": 1786979362,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "92ad7fbf-32b6-30c6-9680-c552e080faa1",
-      "title": "Stonegate Capital Partners Updates Coverage on Alpha Cognition Inc. (ACOG) 2Q26",
-      "link": "https://finance.yahoo.com/healthcare/articles/stonegate-capital-partners-updates-coverage-144300785.html",
-      "publisher": "TMX Newsfile",
-      "time": 1786977780,
+      "id": "188d0683-8aa7-38b8-b7de-0aaf93e012f1",
+      "title": "Afriex Strengthens Global Payments Infrastructure with Global Innovations Bank Partnership",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/afriex-strengthens-global-payments-infrastructure-150900057.html",
+      "publisher": "CNW Group",
+      "time": 1786979340,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "21a6e89a-8470-3492-af86-cf968136d361",
+      "title": "We Want You Back: Saladworks Launches $6.99 Tuesdays",
+      "link": "https://finance.yahoo.com/small-business/articles/want-back-saladworks-launches-6-150900289.html",
+      "publisher": "PR Newswire",
+      "time": 1786979340,
       "impact": "low",
       "tags": []
     }
