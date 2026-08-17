@@ -1,145 +1,153 @@
 {
-  "updatedAt": "2026-08-17T12:30:37.784805+00:00",
+  "updatedAt": "2026-08-17T13:34:19.964826+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20095.1,
-      "change": -61.5,
-      "changePct": -0.3051109810186242,
+      "price": 20060.7,
+      "change": -95.89999999999782,
+      "changePct": -0.4757746842225267,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7785.76,
-      "change": 37.26000000000022,
-      "changePct": 0.480867264631867,
+      "price": 7779.23,
+      "change": -19.76000000000022,
+      "changePct": -0.25336614100031185,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26729.164,
-      "change": 140.67399999999907,
-      "changePct": 0.5290785599332608,
+      "price": 26752.275,
+      "change": -50.75499999999738,
+      "changePct": -0.18936291904309843,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26438.09,
-      "change": 138.34999999999854,
-      "changePct": 0.5260508278789012,
+      "price": 26385.53,
+      "change": 85.78999999999724,
+      "changePct": 0.3262009434313694,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6551.26,
-      "change": 11.670000000000073,
-      "changePct": 0.17845155430233503,
+      "price": 6537.33,
+      "change": -2.2600000000002183,
+      "changePct": -0.03455874145015541,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.93,
-      "change": 0.6799999999999997,
-      "changePct": 4.7719298245614015,
+      "price": 15.03,
+      "change": 0.7799999999999994,
+      "changePct": 5.4736842105263115,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "021356c3-8d84-336b-aa2b-247175895f02",
-      "title": "Intel's $23 Billion Raise May Signal Foundry Progress",
-      "link": "https://finance.yahoo.com/technology/articles/intels-23-billion-raise-may-122658146.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786969618,
+      "id": "bee82489-e541-4f24-a60c-b86270d442e6",
+      "title": "SpaceX bulls would be wise to remember one thing",
+      "link": "https://finance.yahoo.com/markets/stocks/article/spacex-bulls-would-be-wise-to-remember-one-thing-133018734.html",
+      "publisher": "Yahoo Finance",
+      "time": 1786973418,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "57fb1bbf-9e03-39b6-8ee1-f4a6470885af",
-      "title": "Mahindra unveils Global Pik Up, confirms India and export plans",
-      "link": "https://finance.yahoo.com/m/57fb1bbf-9e03-39b6-8ee1-f4a6470885af/mahindra-unveils-global-pik.html",
-      "publisher": "Just Auto",
-      "time": 1786969617,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "157ecd82-ca0b-3ca8-8298-34a4442b97e4",
-      "title": "Canadian Investment Regulatory Organization Trading Halt - ASTL",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-investment-regulatory-organization-trading-122400556.html",
-      "publisher": "CNW Group",
-      "time": 1786969440,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "66be6114-136c-38cf-9d77-2a62c6c1bac3",
-      "title": "Reddit Jumps 11% on S&P 500 Inclusion",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-jumps-11-p-500-122330467.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786969410,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2808322c-cf6c-39d8-aeb9-c566f7549855",
-      "title": "Nebius, CoreWeave Get Major AI Boost as Data Center Prices Keep Rising",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nebius-coreweave-major-ai-boost-122221381.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786969341,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "31e00b63-6731-385d-b4d3-8b9cd4de5d5f",
-      "title": "EQT Real Estate completes sale of 4.4 million square foot logistics portfolio spanning six Midwest markets",
-      "link": "https://finance.yahoo.com/real-estate/articles/eqt-real-estate-completes-sale-122200447.html",
-      "publisher": "PR Newswire",
-      "time": 1786969320,
+      "id": "b55ced8e-733a-4440-a80d-adead8c248d9",
+      "title": "Tech stocks today: Anthropic's huge haul, Meta trial to kick off",
+      "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-anthropics-huge-haul-meta-trial-to-kick-off-132945569.html",
+      "publisher": "Yahoo Finance",
+      "time": 1786973385,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "1eb77f9d-ff68-327c-b0f6-d3f2098c6374",
-      "title": "Novo Nordisk A/S - share repurchase programme",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-share-repurchase-programme-122100324.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786969260,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0065ca6b-fa4a-3f8b-95fe-56890e8955e4",
-      "title": "Oracle Plans More Layoffs as AI Spending Surges",
-      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-plans-more-layoffs-ai-122051196.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786969251,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "87cf50d5-b49c-34d9-ae7c-db753d136a61",
-      "title": "DigitalOcean Unit Cloudways Launches Managed AI Agents Offering",
-      "link": "https://finance.yahoo.com/technology/ai/articles/digitalocean-unit-cloudways-launches-managed-122041257.html",
+      "id": "eee6b5d3-eb1c-30af-a90a-eb8c1479d373",
+      "title": "Trinity Biotech's Trinovium, Echelon to Collaborate on Data Center Liquid Cooling",
+      "link": "https://finance.yahoo.com/technology/ai/articles/trinity-biotech-apos-trinovium-echelon-132931107.html",
       "publisher": "MT Newswires",
-      "time": 1786969241,
+      "time": 1786973371,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bc4605a8-3fbf-3c28-a2c8-65cd6c9681bc",
-      "title": "XRP Negative Sentiment Hits a 3-Month High as Price Struggles Near $1",
-      "link": "https://finance.yahoo.com/m/bc4605a8-3fbf-3c28-a2c8-65cd6c9681bc/xrp-negative-sentiment-hits-a.html",
+      "id": "7ebf9df5-4c4e-33ac-bd90-046f21572864",
+      "title": "Gray Media to Launch $750 Million Senior Secured Notes Offering",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gray-media-launch-750-million-132822604.html",
+      "publisher": "MT Newswires",
+      "time": 1786973302,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "15411e67-f4be-362a-b1b6-aa00236ac340",
+      "title": "Sector Update: Energy Stocks Edge Higher Premarket Monday",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-edge-higher-132741328.html",
+      "publisher": "MT Newswires",
+      "time": 1786973261,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "e44fdf79-ebac-3b7f-9e2d-ec3fae2e2e33",
+      "title": "Smashburger Announces Back-to-School Promotion",
+      "link": "https://finance.yahoo.com/m/e44fdf79-ebac-3b7f-9e2d-ec3fae2e2e33/smashburger-announces.html",
+      "publisher": "QSR",
+      "time": 1786973228,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2406c731-bcc7-3663-8f1e-1eef9577a3d5",
+      "title": "Her Annuity Pays $1,580 a Month, Guaranteed for Life. At 73, It Pushed Her Medicare Premium Up Two Brackets.",
+      "link": "https://finance.yahoo.com/m/2406c731-bcc7-3663-8f1e-1eef9577a3d5/her-annuity-pays-%241%2C580-a.html",
       "publisher": "24/7 Wall St.",
-      "time": 1786969230,
+      "time": 1786973106,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "20b0af1b-dfc7-3b60-bd92-2b1dd2ad6da8",
+      "title": "Canadian Banks' Law Enforcement Awards honour police officers protecting Canadians from financial crime",
+      "link": "https://finance.yahoo.com/economy/policy/articles/canadian-banks-law-enforcement-awards-132500704.html",
+      "publisher": "CNW Group",
+      "time": 1786973100,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "a49396b5-fca2-3dc1-9223-d0253ad09bea",
+      "title": "Universal Health Services Closes Acquisition of Talkspace",
+      "link": "https://finance.yahoo.com/healthcare/articles/universal-health-services-closes-acquisition-132446666.html",
+      "publisher": "MT Newswires",
+      "time": 1786973086,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "273587cd-1a7b-3b36-945c-3350e02cb7db",
+      "title": "Krispy Kreme Unveils New Pokémon-Themed Doughnuts",
+      "link": "https://finance.yahoo.com/m/273587cd-1a7b-3b36-945c-3350e02cb7db/krispy-kreme-unveils-new.html",
+      "publisher": "QSR",
+      "time": 1786973068,
       "impact": "low",
       "tags": []
     }
