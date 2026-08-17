@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-17T09:34:14.380880+00:00",
+  "updatedAt": "2026-08-17T10:25:49.582064+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20135.6,
-      "change": -21.0,
-      "changePct": -0.10418423742099363,
+      "price": 20102.3,
+      "change": -54.29999999999927,
+      "changePct": -0.26939067104570846,
       "currency": "EUR"
     },
     {
@@ -28,125 +28,119 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26442.17,
-      "change": 142.42999999999665,
-      "changePct": 0.541564289228702,
+      "price": 26426.38,
+      "change": 126.63999999999942,
+      "changePct": 0.48152567287737225,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6555.65,
-      "change": 16.05999999999949,
-      "changePct": 0.24558114499532066,
-      "currency": null
+      "price": 6554.48,
+      "change": 14.889999999999418,
+      "changePct": 0.22769011512953288,
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.93,
-      "change": 0.6799999999999997,
-      "changePct": 4.7719298245614015,
+      "price": 14.97,
+      "change": 0.7200000000000006,
+      "changePct": 5.0526315789473735,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "b67c4141-cae5-3c03-98c0-58d343731488",
-      "title": "Amazon restores binding arbitration and blocks class-action suits",
-      "link": "https://finance.yahoo.com/m/b67c4141-cae5-3c03-98c0-58d343731488/amazon-restores-binding.html",
-      "publisher": "Retail Insight Network",
-      "time": 1786959155,
+      "id": "c93d4bf9-3f97-3daa-9ba6-b25d65053683",
+      "title": "Ferrero extends M&A spree with Purely Elizabeth",
+      "link": "https://finance.yahoo.com/m/c93d4bf9-3f97-3daa-9ba6-b25d65053683/ferrero-extends-m%26a-spree.html",
+      "publisher": "Just Food",
+      "time": 1786962122,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "02bd8c31-1005-3bb6-ae70-9a261fe52b0d",
-      "title": "Bryan Johnson doesn't share a bed with his girlfriend. Does science support building a second bedroom for better sleep?",
-      "link": "https://finance.yahoo.com/healthcare/articles/bryan-johnson-doesnt-share-bed-093000501.html",
-      "publisher": "Moneywise",
-      "time": 1786959000,
+      "id": "dee73186-0a69-388f-8d1f-90fc401c9f85",
+      "title": "EMA validates Pfizer and Valneva’s Lyme disease vaccine",
+      "link": "https://finance.yahoo.com/m/dee73186-0a69-388f-8d1f-90fc401c9f85/ema-validates-pfizer-and.html",
+      "publisher": "Pharmaceutical Technology",
+      "time": 1786962007,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cf831e99-990d-3531-a0eb-1324cdf5c4f8",
-      "title": "BIG W launches same-day delivery through DoorDash partnership",
-      "link": "https://finance.yahoo.com/m/cf831e99-990d-3531-a0eb-1324cdf5c4f8/big-w-launches-same-day.html",
-      "publisher": "Retail Insight Network",
-      "time": 1786958762,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f0e760ef-6be6-32db-9931-4ab6b1ddbbef",
-      "title": "Form 8.3",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-092600879.html",
-      "publisher": "Business Wire",
-      "time": 1786958760,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8acf89b3-22e8-3088-b519-380d2bf8e36a",
-      "title": "DA Davidson Adjusts Price Target on Target to $170 From $155, Keeps Buy Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/da-davidson-adjusts-price-target-092540170.html",
+      "id": "b7e7d0df-4fb0-3a78-8afd-499c80ca5aa0",
+      "title": "RBC Upgrades CAE to Outperform From Sector Perform, Raises Price Target to CA$46 From CA$36",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-upgrades-cae-outperform-sector-102005608.html",
       "publisher": "MT Newswires",
-      "time": 1786958740,
+      "time": 1786962005,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9b068432-6fb2-36fd-b7f0-96c55ae426e0",
-      "title": "Endeavour suspends Terronera mine operations after Ejido blockade",
-      "link": "https://finance.yahoo.com/m/9b068432-6fb2-36fd-b7f0-96c55ae426e0/endeavour-suspends-terronera.html",
-      "publisher": "Mining Technology",
-      "time": 1786958676,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b611560e-a19c-3b1f-b980-21f60327f4a3",
-      "title": "Baird Adjusts Price Target on Target to $150 From $135, Keeps Neutral Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/baird-adjusts-price-target-target-092412907.html",
+      "id": "c71a5bf0-b8a5-3456-8b2b-25e614d0b0dc",
+      "title": "Benchmark Adjusts Price Target on AppLovin to $440 From $500, Keeps Buy Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/benchmark-adjusts-price-target-applovin-102005916.html",
       "publisher": "MT Newswires",
-      "time": 1786958652,
+      "time": 1786962005,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "49498b97-3acb-3f60-babb-08861c948fdc",
-      "title": "JPMorgan Adjusts Price Target on Prudential Financial to $131 From $129, Keeps Neutral Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-prudential-092359820.html",
+      "id": "02392349-2a2e-3127-b766-d6b8ef90450b",
+      "title": "Wells Fargo Initiates Sunbelt Rentals at Overweight With $96 Price Target",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-initiates-sunbelt-rentals-101934499.html",
       "publisher": "MT Newswires",
-      "time": 1786958639,
+      "time": 1786961974,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "53ac9b53-6091-3011-8a44-57d358d8c54e",
-      "title": "President Capital Adjusts Price Target on Visa to $474 From $411, Maintains Buy Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/president-capital-adjusts-price-target-092342502.html",
-      "publisher": "MT Newswires",
-      "time": 1786958622,
+      "id": "4791f855-c20c-3f9d-a113-7585114d2b31",
+      "title": "Apple to change app data consent rules, German regulator says",
+      "link": "https://finance.yahoo.com/media-advertising/articles/apple-change-app-data-consent-101905201.html",
+      "publisher": "Reuters",
+      "time": 1786961945,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "caa83e09-2cba-39b5-ad73-ee1771ebb06c",
-      "title": "Guggenheim Adjusts Price Target on Walmart to $135 From $137, Maintains Buy Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/guggenheim-adjusts-price-target-walmart-092329260.html",
+      "id": "c58f8770-84f9-3bd9-9ed5-697893cff9b3",
+      "title": "Commerzbank Says Oil Prices Stable, Treasuries Recoup, Asian Stocks and US Equity Futures Higher",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/commerzbank-says-oil-prices-stable-101704187.html",
       "publisher": "MT Newswires",
-      "time": 1786958609,
+      "time": 1786961824,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "d2a053fa-4946-3d5a-b315-0a0aa08780cc",
+      "title": "How Much Do You Really Need Invested to Replace a $75,000 Salary With Dividends?",
+      "link": "https://finance.yahoo.com/m/d2a053fa-4946-3d5a-b315-0a0aa08780cc/how-much-do-you-really-need.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786961824,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "90c0b524-bcd1-346f-9890-2b147de76cf9",
-      "title": "President Capital Adjusts Price Target on Mastercard to $729 From $693, Maintains Buy Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/president-capital-adjusts-price-target-092312985.html",
+      "id": "b872ad6c-84a2-3caf-b8ff-113d92b6bf01",
+      "title": "ArcelorMittal Says 2 Employees Killed in Missile Strike on Ukraine Plant",
+      "link": "https://finance.yahoo.com/energy/articles/arcelormittal-says-2-employees-killed-101645185.html",
       "publisher": "MT Newswires",
-      "time": 1786958592,
+      "time": 1786961805,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d221ae45-fcd8-329c-9e6a-9c3a7d18e561",
+      "title": "Evolution Metals & Technologies Q2 Adjusted Loss Unchanged, Revenue Rises",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/evolution-metals-technologies-q2-adjusted-101547353.html",
+      "publisher": "MT Newswires",
+      "time": 1786961747,
       "impact": "low",
       "tags": []
     }
