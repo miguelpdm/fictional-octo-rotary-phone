@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-17T11:48:27.483260+00:00",
+  "updatedAt": "2026-08-17T12:30:37.784805+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20130.0,
-      "change": -26.599999999998545,
-      "changePct": -0.13196670073325137,
+      "price": 20095.1,
+      "change": -61.5,
+      "changePct": -0.3051109810186242,
       "currency": "EUR"
     },
     {
@@ -28,124 +28,120 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26452.19,
-      "change": 152.4499999999971,
-      "changePct": 0.5796635251907322,
+      "price": 26438.09,
+      "change": 138.34999999999854,
+      "changePct": 0.5260508278789012,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6559.45,
-      "change": 19.859999999999673,
-      "changePct": 0.3036887633628358,
+      "price": 6551.26,
+      "change": 11.670000000000073,
+      "changePct": 0.17845155430233503,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.91,
-      "change": 0.6600000000000001,
-      "changePct": 4.631578947368422,
+      "price": 14.93,
+      "change": 0.6799999999999997,
+      "changePct": 4.7719298245614015,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "44aa1b30-e1e1-3571-9a48-ba9ae7c03d44",
-      "title": "Sandoz targets industry patent void with $322m Henlius deal",
-      "link": "https://finance.yahoo.com/m/44aa1b30-e1e1-3571-9a48-ba9ae7c03d44/sandoz-targets-industry.html",
-      "publisher": "Pharmaceutical Technology",
-      "time": 1786967258,
+      "id": "021356c3-8d84-336b-aa2b-247175895f02",
+      "title": "Intel's $23 Billion Raise May Signal Foundry Progress",
+      "link": "https://finance.yahoo.com/technology/articles/intels-23-billion-raise-may-122658146.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786969618,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3ace3412-ba58-301b-9b39-2dce81c0278b",
-      "title": "Lantheus Holdings’ Alzheimer’s radiodiagnostic secures FDA approval",
-      "link": "https://finance.yahoo.com/m/3ace3412-ba58-301b-9b39-2dce81c0278b/lantheus-holdings%E2%80%99.html",
-      "publisher": "Pharmaceutical Technology",
-      "time": 1786967256,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e47609e9-ddaa-366a-b285-68a654a057d9",
-      "title": "Citigroup names Adam Clark wealth planning head",
-      "link": "https://finance.yahoo.com/m/e47609e9-ddaa-366a-b285-68a654a057d9/citigroup-names-adam-clark.html",
-      "publisher": "Private Banker International",
-      "time": 1786967196,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "816b1dc4-b120-31ac-a231-a85fa8192faa",
-      "title": "United Therapeutics Completes Enrollment in Phase 3 PPF Trial of Tyvaso",
-      "link": "https://finance.yahoo.com/healthcare/articles/united-therapeutics-completes-enrollment-phase-114116650.html",
-      "publisher": "MT Newswires",
-      "time": 1786966876,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "894ccf9e-45f9-31be-aa70-b46ec75c9e2f",
-      "title": "UK launches consultation on ZEV Mandate review",
-      "link": "https://finance.yahoo.com/m/894ccf9e-45f9-31be-aa70-b46ec75c9e2f/uk-launches-consultation-on.html",
+      "id": "57fb1bbf-9e03-39b6-8ee1-f4a6470885af",
+      "title": "Mahindra unveils Global Pik Up, confirms India and export plans",
+      "link": "https://finance.yahoo.com/m/57fb1bbf-9e03-39b6-8ee1-f4a6470885af/mahindra-unveils-global-pik.html",
       "publisher": "Just Auto",
-      "time": 1786966828,
+      "time": 1786969617,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "360d41e3-8698-32bb-b45d-86c15e60d0ff",
-      "title": "Castle Biosciences Gets Approval for Dual Listing on Nasdaq Texas",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/castle-biosciences-gets-approval-dual-113835775.html",
-      "publisher": "MT Newswires",
-      "time": 1786966715,
+      "id": "157ecd82-ca0b-3ca8-8298-34a4442b97e4",
+      "title": "Canadian Investment Regulatory Organization Trading Halt - ASTL",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-investment-regulatory-organization-trading-122400556.html",
+      "publisher": "CNW Group",
+      "time": 1786969440,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1f42a139-b80c-32a2-821f-3c53419a3478",
-      "title": "Egypt gears up to tackle packaging waste via EPR – report",
-      "link": "https://finance.yahoo.com/m/1f42a139-b80c-32a2-821f-3c53419a3478/egypt-gears-up-to-tackle.html",
-      "publisher": "Packaging Gateway",
-      "time": 1786966693,
+      "id": "66be6114-136c-38cf-9d77-2a62c6c1bac3",
+      "title": "Reddit Jumps 11% on S&P 500 Inclusion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-jumps-11-p-500-122330467.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786969410,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "95fee918-0c51-3467-85dd-e81398608e48",
-      "title": "American Red Cross launches multi-year fundraising campaign to strengthen nation's blood supply",
-      "link": "https://finance.yahoo.com/healthcare/articles/american-red-cross-launches-multi-113800400.html",
+      "id": "2808322c-cf6c-39d8-aeb9-c566f7549855",
+      "title": "Nebius, CoreWeave Get Major AI Boost as Data Center Prices Keep Rising",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nebius-coreweave-major-ai-boost-122221381.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786969341,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "31e00b63-6731-385d-b4d3-8b9cd4de5d5f",
+      "title": "EQT Real Estate completes sale of 4.4 million square foot logistics portfolio spanning six Midwest markets",
+      "link": "https://finance.yahoo.com/real-estate/articles/eqt-real-estate-completes-sale-122200447.html",
       "publisher": "PR Newswire",
-      "time": 1786966680,
+      "time": 1786969320,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "841571e8-7da8-34f0-a001-786bb1d1c905",
-      "title": "B. Riley Raises Price Target on AirJoule Technologies to $8 From $6, Keeps Buy Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/b-riley-raises-price-target-113706333.html",
-      "publisher": "MT Newswires",
-      "time": 1786966626,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3b44c661-701f-380c-8c6a-5750a8356e5f",
-      "title": "AI Chips Today - Fort Technology Expands Amid Record Revenue and Strategic Acquisitions",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-chips-today-fort-technology-113704087.html",
-      "publisher": "Simply Wall St.",
-      "time": 1786966624,
-      "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
+    },
+    {
+      "id": "1eb77f9d-ff68-327c-b0f6-d3f2098c6374",
+      "title": "Novo Nordisk A/S - share repurchase programme",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-share-repurchase-programme-122100324.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786969260,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0065ca6b-fa4a-3f8b-95fe-56890e8955e4",
+      "title": "Oracle Plans More Layoffs as AI Spending Surges",
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-plans-more-layoffs-ai-122051196.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786969251,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "87cf50d5-b49c-34d9-ae7c-db753d136a61",
+      "title": "DigitalOcean Unit Cloudways Launches Managed AI Agents Offering",
+      "link": "https://finance.yahoo.com/technology/ai/articles/digitalocean-unit-cloudways-launches-managed-122041257.html",
+      "publisher": "MT Newswires",
+      "time": 1786969241,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bc4605a8-3fbf-3c28-a2c8-65cd6c9681bc",
+      "title": "XRP Negative Sentiment Hits a 3-Month High as Price Struggles Near $1",
+      "link": "https://finance.yahoo.com/m/bc4605a8-3fbf-3c28-a2c8-65cd6c9681bc/xrp-negative-sentiment-hits-a.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786969230,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
