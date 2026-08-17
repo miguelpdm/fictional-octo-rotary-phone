@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-17T10:56:16.268895+00:00",
+  "updatedAt": "2026-08-17T11:21:49.191024+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20115.5,
-      "change": -41.099999999998545,
-      "changePct": -0.20390343609536601,
+      "price": 20118.0,
+      "change": -38.599999999998545,
+      "changePct": -0.1915005506881049,
       "currency": "EUR"
     },
     {
@@ -28,89 +28,71 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26465.76,
-      "change": 166.0199999999968,
-      "changePct": 0.631260993454676,
+      "price": 26445.72,
+      "change": 145.97999999999956,
+      "changePct": 0.5550625215306294,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6562.47,
-      "change": 22.88000000000011,
-      "changePct": 0.349869028486497,
-      "currency": "EUR"
+      "price": 6559.64,
+      "change": 20.050000000000182,
+      "changePct": 0.30659414428121917,
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.95,
-      "change": 0.6999999999999993,
-      "changePct": 4.912280701754381,
+      "price": 14.91,
+      "change": 0.6600000000000001,
+      "changePct": 4.631578947368422,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "39e53d5c-8010-381c-a546-123971d43fcc",
-      "title": "Fate Therapeutics begins Phase II trial of FT819 for lupus nephritis",
-      "link": "https://finance.yahoo.com/m/39e53d5c-8010-381c-a546-123971d43fcc/fate-therapeutics-begins.html",
-      "publisher": "Clinical Trials Arena",
-      "time": 1786964119,
+      "id": "f944f7bc-01bf-3f40-a5e9-bdfa64263533",
+      "title": "Mach Natural Resources LP's Dividend Analysis",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mach-natural-resources-lps-dividend-112021555.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786965621,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "67d42296-1730-32b7-836b-826deb1789b7",
-      "title": "Argentina LNG seeks RIGI approval for $51bn integrated LNG project",
-      "link": "https://finance.yahoo.com/m/67d42296-1730-32b7-836b-826deb1789b7/argentina-lng-seeks-rigi.html",
-      "publisher": "Offshore Technology",
-      "time": 1786964060,
+      "id": "7fd5268f-3469-3960-a77c-80299162aa24",
+      "title": "Gabelli Dividend & Income Trust's Dividend Analysis",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gabelli-dividend-income-trusts-dividend-111956980.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786965596,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "99082b92-4789-37df-8034-10e7d25ffdbf",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-105100327.html",
-      "publisher": "Business Wire",
-      "time": 1786963860,
+      "id": "9620927d-797c-3e96-8092-55e37fea660d",
+      "title": "Sprott Inc's Dividend Analysis",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sprott-incs-dividend-analysis-111928677.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786965568,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bcb2f894-4704-3219-bebe-79a9cf61dd8c",
-      "title": "Cooper & Oxley wins contract for $118m Bentley Health Service Surgicentre",
-      "link": "https://finance.yahoo.com/m/bcb2f894-4704-3219-bebe-79a9cf61dd8c/cooper-%26-oxley-wins-contract.html",
-      "publisher": "World Construction Network",
-      "time": 1786963856,
+      "id": "887f896e-c253-3995-b513-c0fd30bafe56",
+      "title": "CitiusTech Appoints Dhaval Shah as Acting CEO and Shyam Karunakaran as President to Lead Next Phase of Growth and Transformation",
+      "link": "https://finance.yahoo.com/healthcare/articles/citiustech-appoints-dhaval-shah-acting-111900542.html",
+      "publisher": "PR Newswire",
+      "time": 1786965540,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e0084349-329f-3ab8-92f3-3bfa943088cb",
-      "title": "AI Shopping Agents and Agentic Commerce 2026: Adoption Trends and Execution Limits",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-shopping-agents-agentic-commerce-104700451.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786963620,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6fb22761-e70f-3e24-896a-6052594d9845",
-      "title": "HIVE Stock Surges After $350M Nvidia AI Cloud Contract Puts $200M ARR Goal Within Reach",
-      "link": "https://finance.yahoo.com/m/6fb22761-e70f-3e24-896a-6052594d9845/hive-stock-surges-after-%24350m.html",
-      "publisher": "Stocktwits",
-      "time": 1786963593,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9b67cef2-58a7-3ac2-9771-2b17d913ea05",
-      "title": "H World Q2 Adjusted Earnings, Revenue Increase; Raises 2026 Revenue Growth Projection",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/h-world-q2-adjusted-earnings-104630573.html",
-      "publisher": "MT Newswires",
-      "time": 1786963590,
+      "id": "aa3c8547-42f0-3526-b6d2-a872172ea1cd",
+      "title": "Trump-linked crypto venture gets preliminary nod for bank charter",
+      "link": "https://finance.yahoo.com/m/aa3c8547-42f0-3526-b6d2-a872172ea1cd/trump-linked-crypto-venture.html",
+      "publisher": "Retail Banker International",
+      "time": 1786965534,
       "impact": "medium",
       "tags": [
         "macro",
@@ -118,33 +100,49 @@
       ]
     },
     {
-      "id": "c07bd6ae-bcd2-3659-9028-40b6682ae866",
-      "title": "Wison Engineering wins $4bn EPC contract for ADNOC Gas in Abu Dhabi",
-      "link": "https://finance.yahoo.com/m/c07bd6ae-bcd2-3659-9028-40b6682ae866/wison-engineering-wins-%244bn.html",
-      "publisher": "Offshore Technology",
-      "time": 1786963554,
+      "id": "f16bc0df-2903-3cc2-92b9-7bdb106a8e1b",
+      "title": "Artisan Partners Asset Management Inc's Dividend Analysis",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/artisan-partners-asset-management-incs-111854115.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786965534,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "366af0db-39a0-31d7-9d13-321ae2905202",
-      "title": "DPM Metals Announces Commercial Production at Vareš",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/dpm-metals-announces-commercial-production-104500506.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786963500,
+      "id": "bcd3bc1a-1960-3b60-8462-0120ec277562",
+      "title": "DHT Holdings Inc's Dividend Analysis",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dht-holdings-incs-dividend-analysis-111828802.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786965508,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5147a64c-fa0c-3f7b-8133-e086be672963",
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://finance.yahoo.com/m/5147a64c-fa0c-3f7b-8133-e086be672963/basic-materials-roundup%3A.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1786963500,
+      "id": "fca6440b-911a-32b1-9cdd-4b54a63fb02f",
+      "title": "Kesko July sales rise 5.9% to €1.11bn",
+      "link": "https://finance.yahoo.com/m/fca6440b-911a-32b1-9cdd-4b54a63fb02f/kesko-july-sales-rise-5.9%25-to.html",
+      "publisher": "Retail Insight Network",
+      "time": 1786965502,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
+    },
+    {
+      "id": "7c036bf6-ddea-31bd-a293-d4740285f7cf",
+      "title": "SOCPA refers unlicensed services company to public prosecution",
+      "link": "https://finance.yahoo.com/m/7c036bf6-ddea-31bd-a293-d4740285f7cf/socpa-refers-unlicensed.html",
+      "publisher": "The Accountant",
+      "time": 1786965497,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "131a70fc-a4a4-306a-90f2-fe793adff883",
+      "title": "Paramount Resources Ltd's Dividend Analysis",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/paramount-resources-ltds-dividend-analysis-111800787.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786965480,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
