@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T05:58:23.136430+00:00",
+  "updatedAt": "2026-08-17T06:59:39.297834+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,29 +52,11 @@
   ],
   "news": [
     {
-      "id": "a5b9a9f2-d958-3b6a-aaf5-85cf13d0edd7",
-      "title": "FLSmidth: Transactions under share buy-back programme",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/flsmidth-transactions-under-share-buy-055100615.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786945860,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "60a540a7-63ac-3d62-8a22-9477d7f805d3",
-      "title": "48/2026・Trifork Group: Weekly report on share buyback",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/48-2026-trifork-group-weekly-054500315.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786945500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8a29520a-449f-3b41-9d9c-3408ebd705a1",
-      "title": "5 Revealing Analyst Questions From Plug Power’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-plug-054220441.html",
+      "id": "e7a5a88e-8ddb-34d7-92c1-8253eece9fe5",
+      "title": "5 Revealing Analyst Questions From Rumble’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-rumble-065420837.html",
       "publisher": "StockStory",
-      "time": 1786945340,
+      "time": 1786949660,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,20 +64,11 @@
       ]
     },
     {
-      "id": "925d606e-2713-3132-a121-9077708997b0",
-      "title": "AB Science announces the successful settlement and delivery of securities issued as part of its €14.2 million private placement announced on August 10, 2026",
-      "link": "https://finance.yahoo.com/healthcare/articles/ab-science-announces-successful-settlement-053500720.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786944900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f3d79abd-00f3-38c7-8593-ee9a43736fd0",
-      "title": "5 Insightful Analyst Questions From Upwork’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-upwork-053420832.html",
+      "id": "9e8d7730-9326-371f-b470-f1c1d6457d93",
+      "title": "HighPeak Energy’s Q2 Earnings Call: Our Top 5 Analyst Questions",
+      "link": "https://finance.yahoo.com/energy/articles/highpeak-energy-q2-earnings-call-064620323.html",
       "publisher": "StockStory",
-      "time": 1786944860,
+      "time": 1786949180,
       "impact": "medium",
       "tags": [
         "macro",
@@ -103,52 +76,82 @@
       ]
     },
     {
-      "id": "073108b1-5cee-38f5-bd3e-b378f5be022b",
-      "title": "Transactions of week 33 2026Own Shares",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/transactions-week-33-2026own-shares-053100587.html",
+      "id": "b31719cc-1dff-3bfe-a3fd-afab0adaccce",
+      "title": "Share buyback programme – week 33",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/share-buyback-programme-week-33-064200678.html",
       "publisher": "GlobeNewswire",
-      "time": 1786944660,
+      "time": 1786948920,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "68d4477a-1598-3abb-9466-e5c5bc64d458",
-      "title": "Sampo plc’s share buybacks week 33/2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sampo-plc-share-buybacks-week-053000896.html",
+      "id": "1d0d31f1-73c3-342e-8317-5183a5bdada5",
+      "title": "Trump says US scaling back military drills with Seoul hours before start",
+      "link": "https://finance.yahoo.com/m/1d0d31f1-73c3-342e-8317-5183a5bdada5/trump-says-us-scaling-back.html",
+      "publisher": "AFP",
+      "time": 1786948888,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a43504bd-0e36-33f9-97c3-f7ac2223623e",
+      "title": "Uniform Bright Releases 161-Page Industry Insider Report Examining Regulatory and Transaction Risk in the Proposed Cintas-UniFirst Merger",
+      "link": "https://finance.yahoo.com/economy/policy/articles/uniform-bright-releases-161-page-064000382.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786948800,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "c8cd18aa-d27e-3932-8c22-3c6a197a2ab5",
+      "title": "The Rural Art Redefines Carbon-Conscious Living Through Timeless Solid Wood Craftsmanship",
+      "link": "https://finance.yahoo.com/small-business/articles/rural-art-redefines-carbon-conscious-064000797.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786948800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f800cbdc-cf19-3369-97ca-c8991bb7257a",
+      "title": "5 Revealing Analyst Questions From Hims & Hers Health’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/healthcare/articles/5-revealing-analyst-questions-hims-063820034.html",
+      "publisher": "StockStory",
+      "time": 1786948700,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "3743b40d-3aa6-3b65-b45b-de18b53a6f2d",
+      "title": "Casa Aire Wellness Expands Hyperpigmentation Correction Treatments in Dubai From AED 250 as Year-Round UV Makes Melasma One of the City's Most Treated Skin Concerns in 2026",
+      "link": "https://finance.yahoo.com/healthcare/articles/casa-aire-wellness-expands-hyperpigmentation-063800301.html",
       "publisher": "GlobeNewswire",
-      "time": 1786944600,
+      "time": 1786948680,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "83479b97-f256-3fb2-9626-6f7fc9023ea4",
-      "title": "BW Offshore: Invitation to Q2 2026 Presentation 24 August",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bw-offshore-invitation-q2-2026-053000252.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786944600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b060bc96-2e9e-3bac-b5ae-bae99a585059",
-      "title": "Persistent unmet need in women's reproductive health across APAC highlights need for cross-sector partnerships",
-      "link": "https://finance.yahoo.com/healthcare/articles/persistent-unmet-womens-reproductive-health-052900265.html",
-      "publisher": "PR Newswire",
-      "time": 1786944540,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "313fd7b6-e7b6-3d32-bfff-3cd438cb3ee6",
-      "title": "Asian shares rise, dollar slips as markets pare Fed rate risks",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/asian-shares-mark-time-gulf-011925462.html",
+      "id": "9a803998-5c81-303a-8dc3-3ad04f8351c9",
+      "title": "Take Five: The heat is on",
+      "link": "https://finance.yahoo.com/economy/articles/five-heat-063710657.html",
       "publisher": "Reuters",
-      "time": 1786944504,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
+      "time": 1786948630,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "588fcf10-3d00-36e3-b461-b3f86d979e43",
+      "title": "Total Graphite hits 18.62% TGC from initial drilling in Madagascar",
+      "link": "https://finance.yahoo.com/m/588fcf10-3d00-36e3-b461-b3f86d979e43/total-graphite-hits-18.62%25.html",
+      "publisher": "Proactive",
+      "time": 1786948560,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
