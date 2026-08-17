@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-17T10:25:49.582064+00:00",
+  "updatedAt": "2026-08-17T10:56:16.268895+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20102.3,
-      "change": -54.29999999999927,
-      "changePct": -0.26939067104570846,
+      "price": 20115.5,
+      "change": -41.099999999998545,
+      "changePct": -0.20390343609536601,
       "currency": "EUR"
     },
     {
@@ -28,89 +28,89 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26426.38,
-      "change": 126.63999999999942,
-      "changePct": 0.48152567287737225,
+      "price": 26465.76,
+      "change": 166.0199999999968,
+      "changePct": 0.631260993454676,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6554.48,
-      "change": 14.889999999999418,
-      "changePct": 0.22769011512953288,
+      "price": 6562.47,
+      "change": 22.88000000000011,
+      "changePct": 0.349869028486497,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.97,
-      "change": 0.7200000000000006,
-      "changePct": 5.0526315789473735,
+      "price": 14.95,
+      "change": 0.6999999999999993,
+      "changePct": 4.912280701754381,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "c93d4bf9-3f97-3daa-9ba6-b25d65053683",
-      "title": "Ferrero extends M&A spree with Purely Elizabeth",
-      "link": "https://finance.yahoo.com/m/c93d4bf9-3f97-3daa-9ba6-b25d65053683/ferrero-extends-m%26a-spree.html",
-      "publisher": "Just Food",
-      "time": 1786962122,
+      "id": "39e53d5c-8010-381c-a546-123971d43fcc",
+      "title": "Fate Therapeutics begins Phase II trial of FT819 for lupus nephritis",
+      "link": "https://finance.yahoo.com/m/39e53d5c-8010-381c-a546-123971d43fcc/fate-therapeutics-begins.html",
+      "publisher": "Clinical Trials Arena",
+      "time": 1786964119,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "dee73186-0a69-388f-8d1f-90fc401c9f85",
-      "title": "EMA validates Pfizer and Valneva’s Lyme disease vaccine",
-      "link": "https://finance.yahoo.com/m/dee73186-0a69-388f-8d1f-90fc401c9f85/ema-validates-pfizer-and.html",
-      "publisher": "Pharmaceutical Technology",
-      "time": 1786962007,
+      "id": "67d42296-1730-32b7-836b-826deb1789b7",
+      "title": "Argentina LNG seeks RIGI approval for $51bn integrated LNG project",
+      "link": "https://finance.yahoo.com/m/67d42296-1730-32b7-836b-826deb1789b7/argentina-lng-seeks-rigi.html",
+      "publisher": "Offshore Technology",
+      "time": 1786964060,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b7e7d0df-4fb0-3a78-8afd-499c80ca5aa0",
-      "title": "RBC Upgrades CAE to Outperform From Sector Perform, Raises Price Target to CA$46 From CA$36",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-upgrades-cae-outperform-sector-102005608.html",
+      "id": "99082b92-4789-37df-8034-10e7d25ffdbf",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-105100327.html",
+      "publisher": "Business Wire",
+      "time": 1786963860,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bcb2f894-4704-3219-bebe-79a9cf61dd8c",
+      "title": "Cooper & Oxley wins contract for $118m Bentley Health Service Surgicentre",
+      "link": "https://finance.yahoo.com/m/bcb2f894-4704-3219-bebe-79a9cf61dd8c/cooper-%26-oxley-wins-contract.html",
+      "publisher": "World Construction Network",
+      "time": 1786963856,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e0084349-329f-3ab8-92f3-3bfa943088cb",
+      "title": "AI Shopping Agents and Agentic Commerce 2026: Adoption Trends and Execution Limits",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-shopping-agents-agentic-commerce-104700451.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786963620,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6fb22761-e70f-3e24-896a-6052594d9845",
+      "title": "HIVE Stock Surges After $350M Nvidia AI Cloud Contract Puts $200M ARR Goal Within Reach",
+      "link": "https://finance.yahoo.com/m/6fb22761-e70f-3e24-896a-6052594d9845/hive-stock-surges-after-%24350m.html",
+      "publisher": "Stocktwits",
+      "time": 1786963593,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9b67cef2-58a7-3ac2-9771-2b17d913ea05",
+      "title": "H World Q2 Adjusted Earnings, Revenue Increase; Raises 2026 Revenue Growth Projection",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/h-world-q2-adjusted-earnings-104630573.html",
       "publisher": "MT Newswires",
-      "time": 1786962005,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c71a5bf0-b8a5-3456-8b2b-25e614d0b0dc",
-      "title": "Benchmark Adjusts Price Target on AppLovin to $440 From $500, Keeps Buy Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/benchmark-adjusts-price-target-applovin-102005916.html",
-      "publisher": "MT Newswires",
-      "time": 1786962005,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "02392349-2a2e-3127-b766-d6b8ef90450b",
-      "title": "Wells Fargo Initiates Sunbelt Rentals at Overweight With $96 Price Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-initiates-sunbelt-rentals-101934499.html",
-      "publisher": "MT Newswires",
-      "time": 1786961974,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4791f855-c20c-3f9d-a113-7585114d2b31",
-      "title": "Apple to change app data consent rules, German regulator says",
-      "link": "https://finance.yahoo.com/media-advertising/articles/apple-change-app-data-consent-101905201.html",
-      "publisher": "Reuters",
-      "time": 1786961945,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c58f8770-84f9-3bd9-9ed5-697893cff9b3",
-      "title": "Commerzbank Says Oil Prices Stable, Treasuries Recoup, Asian Stocks and US Equity Futures Higher",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/commerzbank-says-oil-prices-stable-101704187.html",
-      "publisher": "MT Newswires",
-      "time": 1786961824,
+      "time": 1786963590,
       "impact": "medium",
       "tags": [
         "macro",
@@ -118,31 +118,33 @@
       ]
     },
     {
-      "id": "d2a053fa-4946-3d5a-b315-0a0aa08780cc",
-      "title": "How Much Do You Really Need Invested to Replace a $75,000 Salary With Dividends?",
-      "link": "https://finance.yahoo.com/m/d2a053fa-4946-3d5a-b315-0a0aa08780cc/how-much-do-you-really-need.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786961824,
+      "id": "c07bd6ae-bcd2-3659-9028-40b6682ae866",
+      "title": "Wison Engineering wins $4bn EPC contract for ADNOC Gas in Abu Dhabi",
+      "link": "https://finance.yahoo.com/m/c07bd6ae-bcd2-3659-9028-40b6682ae866/wison-engineering-wins-%244bn.html",
+      "publisher": "Offshore Technology",
+      "time": 1786963554,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b872ad6c-84a2-3caf-b8ff-113d92b6bf01",
-      "title": "ArcelorMittal Says 2 Employees Killed in Missile Strike on Ukraine Plant",
-      "link": "https://finance.yahoo.com/energy/articles/arcelormittal-says-2-employees-killed-101645185.html",
-      "publisher": "MT Newswires",
-      "time": 1786961805,
+      "id": "366af0db-39a0-31d7-9d13-321ae2905202",
+      "title": "DPM Metals Announces Commercial Production at Vareš",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/dpm-metals-announces-commercial-production-104500506.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786963500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d221ae45-fcd8-329c-9e6a-9c3a7d18e561",
-      "title": "Evolution Metals & Technologies Q2 Adjusted Loss Unchanged, Revenue Rises",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/evolution-metals-technologies-q2-adjusted-101547353.html",
-      "publisher": "MT Newswires",
-      "time": 1786961747,
+      "id": "5147a64c-fa0c-3f7b-8133-e086be672963",
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://finance.yahoo.com/m/5147a64c-fa0c-3f7b-8133-e086be672963/basic-materials-roundup%3A.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1786963500,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
