@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T16:19:46.202637+00:00",
+  "updatedAt": "2026-08-17T16:53:49.110913+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7775.52,
-      "change": -23.469999999999345,
-      "changePct": -0.3009364033034963,
+      "price": 7769.11,
+      "change": -29.88000000000011,
+      "changePct": -0.38312653305107597,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26745.342,
-      "change": -57.68799999999828,
-      "changePct": -0.2152293975718353,
+      "price": 26711.953,
+      "change": -91.0769999999975,
+      "changePct": -0.33980113442397186,
       "currency": "USD"
     },
     {
@@ -52,98 +52,92 @@
   ],
   "news": [
     {
-      "id": "e78fdc72-a5a7-3d9e-955d-67ba509b3b1c",
-      "title": "Morgan Stanley's troubling housing forecast is playing out now",
-      "link": "https://finance.yahoo.com/m/e78fdc72-a5a7-3d9e-955d-67ba509b3b1c/morgan-stanley%27s-troubling.html",
-      "publisher": "TheStreet",
-      "time": 1786983420,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "80e797f7-5e16-3bae-84f8-5fc01dd5cbb3",
-      "title": "Morgan Stanley Drops Stark Stock Market Warning",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-drops-stark-stock-161452067.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786983292,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "97489cbc-20d3-3fb5-8329-eaa8e5d2d376",
-      "title": "Why is CZ burning so many tokens? The reason may surprise you",
-      "link": "https://finance.yahoo.com/m/97489cbc-20d3-3fb5-8329-eaa8e5d2d376/why-is-cz-burning-so-many.html",
-      "publisher": "TheStreet",
-      "time": 1786983288,
+      "id": "65197b7f-1c51-3450-8795-c5abdddf906e",
+      "title": "PepsiCo Turkey, CEVA Logistics Enter New Contract Agreement for Cooler Management",
+      "link": "https://finance.yahoo.com/small-business/articles/pepsico-turkey-ceva-logistics-enter-165043342.html",
+      "publisher": "MT Newswires",
+      "time": 1786985443,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "091cb446-123a-32dd-8cd7-ce881fa608d3",
-      "title": "Deployable Energy and Hornbeck Offshore Partner to Advance Maritime Nuclear Power",
-      "link": "https://finance.yahoo.com/energy/articles/deployable-energy-hornbeck-offshore-partner-161300547.html",
+      "id": "fcea2bf7-022d-38e7-b157-0727b1e50ad0",
+      "title": "Uber and Zipline partner on drone delivery for Uber Eats",
+      "link": "https://finance.yahoo.com/m/fcea2bf7-022d-38e7-b157-0727b1e50ad0/uber-and-zipline-partner-on.html",
+      "publisher": "Quartz",
+      "time": 1786985412,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8b71c25c-0bf7-37bf-ab4c-035a1d163131",
+      "title": "Nano Nuclear Is Still Under $20. Here's My Case for Why That Won't Last.",
+      "link": "https://finance.yahoo.com/m/8b71c25c-0bf7-37bf-ab4c-035a1d163131/nano-nuclear-is-still-under.html",
+      "publisher": "Motley Fool",
+      "time": 1786985400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ccf04e08-fda7-3263-b6a4-8a651a05b8b3",
+      "title": "CORRECTION: TDECU Board Elects Lavonne Burke as New Chair",
+      "link": "https://finance.yahoo.com/small-business/articles/correction-tdecu-board-elects-lavonne-164900323.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786985340,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "908dd4cb-a919-3634-a246-f9820e3a02cf",
+      "title": "America’s Best Dividend Stock Has A Good Year",
+      "link": "https://finance.yahoo.com/m/908dd4cb-a919-3634-a246-f9820e3a02cf/america%E2%80%99s-best-dividend-stock.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786985335,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "66bcd50d-00b3-38b0-8f79-3f605d75302c",
+      "title": "Europe wildfires: latest developments",
+      "link": "https://finance.yahoo.com/m/66bcd50d-00b3-38b0-8f79-3f605d75302c/europe-wildfires%3A-latest.html",
+      "publisher": "AFP",
+      "time": 1786985318,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "69dac813-0e41-3a34-b9fc-f1a6a902f2a9",
+      "title": "Billionaires Stanley Druckenmiller, Seth Klarman, and David Tepper All Are Loading into Alphabet Stock. Buffett’s Berkshire Is Also Buying.",
+      "link": "https://finance.yahoo.com/m/69dac813-0e41-3a34-b9fc-f1a6a902f2a9/billionaires-stanley.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786985259,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b45cc552-4545-3dae-be16-31ea06931cbd",
+      "title": "OpenAI Paused Its Scary-Good Next-Gen Model Over Safety Fears—Has Sam Altman Finally Regained the Lead?",
+      "link": "https://finance.yahoo.com/m/b45cc552-4545-3dae-be16-31ea06931cbd/openai-paused-its-scary-good.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786985166,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0387a049-d7af-3576-add1-44f63c4cefc9",
+      "title": "InventHelp Inventor Develops New Shoe Horn for Walking Canes (TRO-1673)",
+      "link": "https://finance.yahoo.com/small-business/articles/inventhelp-inventor-develops-shoe-horn-164500889.html",
       "publisher": "PR Newswire",
-      "time": 1786983180,
+      "time": 1786985100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "63227631-e90c-3112-abca-d160528ba5f5",
-      "title": "FRN Variable Rate Fix",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/frn-variable-rate-fix-161300861.html",
-      "publisher": "Business Wire",
-      "time": 1786983180,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7b335310-18cb-345a-9c6d-c35c5e98a765",
-      "title": "Thousands of San Jose City Workers Announce Strike Vote Results",
-      "link": "https://finance.yahoo.com/economy/policy/articles/thousands-san-jose-city-workers-161300853.html",
-      "publisher": "PR Newswire",
-      "time": 1786983180,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "255cd5d8-0cbb-3b6f-a7be-31cc85f3678f",
-      "title": "Two Positions Make Up 80% of Nvidia's $63.4 Billion Portfolio",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/two-positions-80-nvidias-63-161205999.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786983125,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fe14d350-9954-318c-9d70-a5bb37c0d630",
-      "title": "Hawkins Way Capital Joint Venture Acquires Union Square Property to Expand Student Housing Portfolio",
-      "link": "https://finance.yahoo.com/real-estate/articles/hawkins-way-capital-joint-venture-161200616.html",
-      "publisher": "PR Newswire",
-      "time": 1786983120,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d3d2288c-0a37-37a9-94dc-d92c9a2a2a10",
-      "title": "Fulcrum Therapeutics & Slate Medicines Merge for Next-Generation Migraine Therapies",
-      "link": "https://finance.yahoo.com/healthcare/articles/fulcrum-therapeutics-slate-medicines-merge-161113808.html",
-      "publisher": "Exec Edge",
-      "time": 1786983073,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "df52d4e5-92fb-3f3b-b37e-1de4138ae594",
-      "title": "Curative and Vytalize Health Finalize Network Agreement, Expanding Hassle-Free, $0-Copay Healthcare Access in the Northeast",
-      "link": "https://finance.yahoo.com/healthcare/articles/curative-vytalize-health-finalize-network-161100236.html",
-      "publisher": "PR Newswire",
-      "time": 1786983060,
+      "id": "0ddc1b80-6f3e-3f5b-8b94-0aef671e814d",
+      "title": "Best Realtor in Carmel Valley, CA: Amy Green",
+      "link": "https://finance.yahoo.com/real-estate/articles/best-realtor-carmel-valley-ca-164500205.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1786985100,
       "impact": "low",
       "tags": []
     }
