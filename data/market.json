@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-17T08:36:29.786152+00:00",
+  "updatedAt": "2026-08-17T09:34:14.380880+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20127.0,
-      "change": -29.599999999998545,
-      "changePct": -0.14685016322196476,
+      "price": 20135.6,
+      "change": -21.0,
+      "changePct": -0.10418423742099363,
       "currency": "EUR"
     },
     {
@@ -28,122 +28,125 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26414.09,
-      "change": 114.34999999999854,
-      "changePct": 0.4347951728800305,
+      "price": 26442.17,
+      "change": 142.42999999999665,
+      "changePct": 0.541564289228702,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6555.52,
-      "change": 15.930000000000291,
-      "changePct": 0.24359325278802327,
+      "price": 6555.65,
+      "change": 16.05999999999949,
+      "changePct": 0.24558114499532066,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.95,
-      "change": 0.6999999999999993,
-      "changePct": 4.912280701754381,
+      "price": 14.93,
+      "change": 0.6799999999999997,
+      "changePct": 4.7719298245614015,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "7ea048e2-ac8d-3d37-a957-ab7ae060afcd",
-      "title": "One of the Biggest Chip ETFs Has Averaged 14% a Year Since 2001 and Just Made 118% in Twelve Months",
-      "link": "https://finance.yahoo.com/m/7ea048e2-ac8d-3d37-a957-ab7ae060afcd/one-of-the-biggest-chip-etfs.html",
-      "publisher": "Motley Fool",
-      "time": 1786955460,
+      "id": "b67c4141-cae5-3c03-98c0-58d343731488",
+      "title": "Amazon restores binding arbitration and blocks class-action suits",
+      "link": "https://finance.yahoo.com/m/b67c4141-cae5-3c03-98c0-58d343731488/amazon-restores-binding.html",
+      "publisher": "Retail Insight Network",
+      "time": 1786959155,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "caaaa669-1bae-3e18-a36e-0cc90efae803",
-      "title": "Arista Networks Insider Sold Shares Worth $119,364,068, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-insider-sold-shares-082924635.html",
+      "id": "02bd8c31-1005-3bb6-ae70-9a261fe52b0d",
+      "title": "Bryan Johnson doesn't share a bed with his girlfriend. Does science support building a second bedroom for better sleep?",
+      "link": "https://finance.yahoo.com/healthcare/articles/bryan-johnson-doesnt-share-bed-093000501.html",
+      "publisher": "Moneywise",
+      "time": 1786959000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cf831e99-990d-3531-a0eb-1324cdf5c4f8",
+      "title": "BIG W launches same-day delivery through DoorDash partnership",
+      "link": "https://finance.yahoo.com/m/cf831e99-990d-3531-a0eb-1324cdf5c4f8/big-w-launches-same-day.html",
+      "publisher": "Retail Insight Network",
+      "time": 1786958762,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f0e760ef-6be6-32db-9931-4ab6b1ddbbef",
+      "title": "Form 8.3",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-092600879.html",
+      "publisher": "Business Wire",
+      "time": 1786958760,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8acf89b3-22e8-3088-b519-380d2bf8e36a",
+      "title": "DA Davidson Adjusts Price Target on Target to $170 From $155, Keeps Buy Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/da-davidson-adjusts-price-target-092540170.html",
       "publisher": "MT Newswires",
-      "time": 1786955364,
+      "time": 1786958740,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "71fc82de-156c-30f3-afbc-200b27d5b787",
-      "title": "HKSAR appoints new AFRC executive director",
-      "link": "https://finance.yahoo.com/m/71fc82de-156c-30f3-afbc-200b27d5b787/hksar-appoints-new-afrc.html",
-      "publisher": "The Accountant",
-      "time": 1786955268,
+      "id": "9b068432-6fb2-36fd-b7f0-96c55ae426e0",
+      "title": "Endeavour suspends Terronera mine operations after Ejido blockade",
+      "link": "https://finance.yahoo.com/m/9b068432-6fb2-36fd-b7f0-96c55ae426e0/endeavour-suspends-terronera.html",
+      "publisher": "Mining Technology",
+      "time": 1786958676,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3e731016-cc92-3ad8-b9dc-0949f9a662ef",
-      "title": "Appfolio Insider Sold Shares Worth $2,901,367, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/appfolio-insider-sold-shares-worth-082714103.html",
+      "id": "b611560e-a19c-3b1f-b980-21f60327f4a3",
+      "title": "Baird Adjusts Price Target on Target to $150 From $135, Keeps Neutral Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/baird-adjusts-price-target-target-092412907.html",
       "publisher": "MT Newswires",
-      "time": 1786955234,
+      "time": 1786958652,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "02eecf11-8f55-3b07-b832-6f6bda991342",
-      "title": "Market Chatter: Anthropic's IPO Valuation Relies on $190 Billion to $200 Billion 2028 Revenue Forecast",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-anthropic-apos-ipo-082650226.html",
+      "id": "49498b97-3acb-3f60-babb-08861c948fdc",
+      "title": "JPMorgan Adjusts Price Target on Prudential Financial to $131 From $129, Keeps Neutral Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-adjusts-price-target-prudential-092359820.html",
       "publisher": "MT Newswires",
-      "time": 1786955210,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "1702e24c-9830-3ad8-8880-585499ce91c2",
-      "title": "Headline Inflation Is Easing, but Trumpflation Isn't -- and That's a Recipe for Disaster on Wall Street",
-      "link": "https://finance.yahoo.com/m/1702e24c-9830-3ad8-8880-585499ce91c2/headline-inflation-is-easing%2C.html",
-      "publisher": "Motley Fool",
-      "time": 1786955160,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "edeccebb-94da-331c-a242-d6aacbcb3e46",
-      "title": "Appfolio Insider Sold Shares Worth $1,331,435, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/appfolio-insider-sold-shares-worth-082536606.html",
-      "publisher": "MT Newswires",
-      "time": 1786955136,
+      "time": 1786958639,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "61032232-0227-3871-a017-f8224c273d25",
-      "title": "argenx Says Autoimmune Myositis Drug Meets Main Goal in Phase 3 Study",
-      "link": "https://finance.yahoo.com/healthcare/articles/argenx-says-autoimmune-myositis-drug-082531397.html",
+      "id": "53ac9b53-6091-3011-8a44-57d358d8c54e",
+      "title": "President Capital Adjusts Price Target on Visa to $474 From $411, Maintains Buy Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/president-capital-adjusts-price-target-092342502.html",
       "publisher": "MT Newswires",
-      "time": 1786955131,
+      "time": 1786958622,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b2d576e6-e4d2-3dd2-9b69-1fca67ab4c0d",
-      "title": "Festi hf.: Transactions in relation to a share repurchase programme - week 33",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/festi-hf-transactions-relation-share-082500869.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786955100,
+      "id": "caa83e09-2cba-39b5-ad73-ee1771ebb06c",
+      "title": "Guggenheim Adjusts Price Target on Walmart to $135 From $137, Maintains Buy Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/guggenheim-adjusts-price-target-walmart-092329260.html",
+      "publisher": "MT Newswires",
+      "time": 1786958609,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "86a1597a-55c5-3a3e-9dec-736957c71606",
-      "title": "Snowflake Insider Sold Shares Worth $16,785,000, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-insider-sold-shares-worth-082404230.html",
+      "id": "90c0b524-bcd1-346f-9890-2b147de76cf9",
+      "title": "President Capital Adjusts Price Target on Mastercard to $729 From $693, Maintains Buy Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/president-capital-adjusts-price-target-092312985.html",
       "publisher": "MT Newswires",
-      "time": 1786955044,
+      "time": 1786958592,
       "impact": "low",
       "tags": []
     }
