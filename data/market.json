@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T19:49:22.007886+00:00",
+  "updatedAt": "2026-08-17T20:19:02.026828+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7752.67,
-      "change": -46.31999999999971,
-      "changePct": -0.5939230592679271,
+      "price": 7745.06,
+      "change": -53.92999999999938,
+      "changePct": -0.691499796768548,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26661.307,
-      "change": -141.72299999999814,
-      "changePct": -0.5287573830272105,
+      "price": 26644.91,
+      "change": -158.11999999999898,
+      "changePct": -0.5899333023169357,
       "currency": "USD"
     },
     {
@@ -44,112 +44,102 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.26,
-      "change": 1.0099999999999998,
-      "changePct": 7.087719298245612,
+      "price": 15.19,
+      "change": 0.9399999999999995,
+      "changePct": 6.596491228070173,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "66bcd50d-00b3-38b0-8f79-3f605d75302c",
-      "title": "Europe wildfires: latest developments",
-      "link": "https://finance.yahoo.com/m/66bcd50d-00b3-38b0-8f79-3f605d75302c/europe-wildfires%3A-latest.html",
-      "publisher": "AFP",
-      "time": 1786995929,
+      "id": "dcd6f9d0-cc02-3b4a-a9bb-7cbaef0021d4",
+      "title": "Uber Rises on Zipline Drone Delivery Deal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/uber-rises-zipline-drone-delivery-201725980.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786997845,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bdfd0483-b533-3a1a-82a7-957a75609183",
-      "title": "SuperOne Launches Next-Generation AI-Powered Fan Engagement Platform",
-      "link": "https://finance.yahoo.com/technology/ai/articles/superone-launches-next-generation-ai-194400675.html",
-      "publisher": "TMX Newsfile",
-      "time": 1786995840,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4febfaa8-afe6-30ea-916e-f48b28710271",
-      "title": "California American Water Completes $1 Million Water Main Upgrade to Strengthen Reliability in San Diego District",
-      "link": "https://finance.yahoo.com/energy/articles/california-american-water-completes-1-194100545.html",
-      "publisher": "PR Newswire",
-      "time": 1786995660,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9e1e8c8d-25fe-3f0f-a65f-2431d07d5296",
-      "title": "Discord suspends livestreams in Brazil after teen's suicide",
-      "link": "https://finance.yahoo.com/m/9e1e8c8d-25fe-3f0f-a65f-2431d07d5296/discord-suspends-livestreams.html",
-      "publisher": "AFP",
-      "time": 1786995651,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7c79ebe6-4234-3602-84ab-733908147d6a",
-      "title": "Education Expert Jamie Marquardt of Kearney, NE, Explains The Confidence That Comes From Character for HelloNation",
-      "link": "https://finance.yahoo.com/media-advertising/articles/education-expert-jamie-marquardt-kearney-194000138.html",
-      "publisher": "PR Newswire",
-      "time": 1786995600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "33b42bc0-2b18-3656-bcfa-49c2f36f76ad",
-      "title": "Inogen (INGN) Cuts Guidance Even As Profitability Climbs",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/inogen-ingn-cuts-guidance-even-193647453.html",
-      "publisher": "Insider Monkey",
-      "time": 1786995407,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "28492c13-c124-3dc7-abfe-41acec1bd45e",
-      "title": "Tupac Shakur's accused killer was out for 'revenge', jury hears",
-      "link": "https://finance.yahoo.com/m/28492c13-c124-3dc7-abfe-41acec1bd45e/tupac-shakur%27s-accused-killer.html",
-      "publisher": "AFP",
-      "time": 1786995365,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a53350b5-a6a6-3d18-87f0-af2255e26b2e",
-      "title": "Picton Mahoney Asset Management Announces Monthly Distribution for PICTON Long Short Income Alternative Fund Exchange Traded Fund Units, PICTON Credit Opportunities Alternative Fund Exchange Traded Fund Units, PICTON Core Bond Fund Exchange Traded Fund Units, PICTON Multi-Strategy Alpha Alternative Fund Exchange Traded Fund Units and PICTON Investment Grade Alternative Fund Exchange Traded Fund Units",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/picton-mahoney-asset-management-announces-193600382.html",
-      "publisher": "CNW Group",
-      "time": 1786995360,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "75e8f806-5e41-4b97-b487-b4428625a720",
-      "title": "Oil prices climb as US Strategic Petroleum Reserve sinks to 40-year low",
-      "link": "https://finance.yahoo.com/video/oil-prices-climb-as-us-strategic-petroleum-reserve-sinks-to-40-year-low-193500384.html",
+      "id": "5fc4027a-746d-4c9d-bb0d-0e8938f2cdff",
+      "title": "What AGs will be looking at in Meta's latest social media addiction trial",
+      "link": "https://finance.yahoo.com/video/ags-looking-metas-latest-social-201700367.html",
       "publisher": "Yahoo Finance Video",
-      "time": 1786995300,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "time": 1786997820,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "89bf34b5-b10c-388d-9e8b-c1da81b66a60",
-      "title": "3 of Wall Street’s Favorite Stocks We Steer Clear Of",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-wall-street-favorite-stocks-193420768.html",
-      "publisher": "StockStory",
-      "time": 1786995260,
+      "id": "2bed88b5-27e9-3e4e-9860-9c75302a4eae",
+      "title": "Marvell Stock Surges 6.1% as AI Memory Rally Spreads",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-surges-6-1-201639862.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786997799,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
+    },
+    {
+      "id": "a6d8cf89-bb26-3ec6-ae6a-93a1d1868b63",
+      "title": "Powell Industries Insider Sold Shares Worth $456,863, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/powell-industries-insider-sold-shares-201613755.html",
+      "publisher": "MT Newswires",
+      "time": 1786997773,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "855b3ac6-9b75-3693-9224-1d0bd83847e2",
+      "title": "Insight Enterprises Insider Sold Shares Worth $619,333, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/insight-enterprises-insider-sold-shares-201544314.html",
+      "publisher": "MT Newswires",
+      "time": 1786997744,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6dfe6d5a-04f5-3f94-bd71-378ec0ea2db8",
+      "title": "Seagate Stock Gains as AI Storage Demand Fuels Record Cash Flow",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-stock-gains-ai-storage-201535856.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786997735,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a80c34b8-74a8-3228-9aa0-dc2197b705f8",
+      "title": "Intapp Insider Sold Shares Worth $1,019,014, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intapp-insider-sold-shares-worth-201513904.html",
+      "publisher": "MT Newswires",
+      "time": 1786997713,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f0d25db1-332e-3907-b819-27e28bddd030",
+      "title": "Aon Announces CFO Transition",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aon-announces-cfo-transition-201500856.html",
+      "publisher": "CNW Group",
+      "time": 1786997700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "20bf077e-a8b3-3062-8473-81df740dc128",
+      "title": "Apple Changes App Tracking Rules in Europe",
+      "link": "https://finance.yahoo.com/technology/articles/apple-changes-app-tracking-rules-201438480.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786997678,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6634a703-3796-37fe-9ee2-61836f74b2b1",
+      "title": "CSW Industrials Insider Sold Shares Worth $517,736, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/csw-industrials-insider-sold-shares-201402737.html",
+      "publisher": "MT Newswires",
+      "time": 1786997642,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
