@@ -1,44 +1,44 @@
 {
-  "updatedAt": "2026-08-17T15:19:10.869360+00:00",
+  "updatedAt": "2026-08-17T15:47:49.510087+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20016.7,
-      "change": -139.89999999999782,
-      "changePct": -0.6940654673903229,
+      "price": 20013.8,
+      "change": -142.79999999999927,
+      "changePct": -0.7084528144627531,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7777.65,
-      "change": -21.340000000000146,
-      "changePct": -0.2736251745418336,
+      "price": 7772.11,
+      "change": -26.88000000000011,
+      "changePct": -0.34466001366843796,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26772.604,
-      "change": -30.425999999999476,
-      "changePct": -0.11351701654626167,
+      "price": 26754.057,
+      "change": -48.97299999999814,
+      "changePct": -0.18271441698941554,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26394.99,
-      "change": 95.25,
-      "changePct": 0.3621708807767681,
+      "price": 26369.66,
+      "change": 69.91999999999825,
+      "changePct": 0.26585814156337,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6540.36,
-      "change": 0.7699999999995271,
-      "changePct": 0.011774438458672898,
+      "price": 6538.43,
+      "change": -1.1599999999998545,
+      "changePct": -0.017738115080606805,
       "currency": "EUR"
     },
     {
@@ -52,58 +52,11 @@
   ],
   "news": [
     {
-      "id": "f27aa5bf-230b-32e9-96e9-b9b96e17192f",
-      "title": "Maxime Collins Inc. Opens Specialized Verification Branch for Recipe Magazines and Illustrated Publications",
-      "link": "https://finance.yahoo.com/media-advertising/articles/maxime-collins-inc-opens-specialized-151600247.html",
-      "publisher": "TMX Newsfile",
-      "time": 1786979760,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9b0887c7-2cb8-3e3a-9ce7-6f02d5a1d58c",
-      "title": "Archrock's Long-Term Compression Demand Strengthens on LNG, Power Trends, RBC Says",
-      "link": "https://finance.yahoo.com/energy/articles/archrock-apos-long-term-compression-151528052.html",
-      "publisher": "MT Newswires",
-      "time": 1786979728,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "59cfbb4d-f420-3fd2-959c-43636c66f0ac",
-      "title": "ITG's Secular Growth Story Intact After Q2, Morgan Stanley Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/itg-apos-secular-growth-story-151403212.html",
-      "publisher": "MT Newswires",
-      "time": 1786979643,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2dd85efb-18fd-336c-9361-88835452c847",
-      "title": "Arrow Electronics Expands IBM Distribution Coverage to Seven Additional Countries",
-      "link": "https://finance.yahoo.com/technology/articles/arrow-electronics-expands-ibm-distribution-151245295.html",
-      "publisher": "MT Newswires",
-      "time": 1786979565,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c462b9c1-ab7a-3617-900c-01088ad7fa28",
-      "title": "European Equities Traded in the US as American Depositary Receipts Open Week Higher in Monday Trading",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151235800.html",
-      "publisher": "MT Newswires",
-      "time": 1786979555,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "24c8c974-6e39-36d4-8515-096027355180",
-      "title": "5 Must-Read Analyst Questions From Target Hospitality’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-151020856.html",
-      "publisher": "StockStory",
-      "time": 1786979420,
+      "id": "7ef5d9db-f052-47ff-aaf3-f43b1b13f84e",
+      "title": "What luxury retail earnings signal about the state of the consumer",
+      "link": "https://finance.yahoo.com/video/luxury-retail-earnings-signal-state-154500438.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1786981500,
       "impact": "medium",
       "tags": [
         "macro",
@@ -111,41 +64,87 @@
       ]
     },
     {
-      "id": "9b91caf5-9ffd-367f-9a33-2596ffa461a8",
-      "title": "goeasy Appoints Mark Snyder as Chief Credit Risk Officer",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/goeasy-appoints-mark-snyder-chief-150937696.html",
+      "id": "deed42cb-0a1f-4213-8c5d-50e735d62d13",
+      "title": "Lakers $12.5B deal shows 'power of brand' in memorabilia",
+      "link": "https://finance.yahoo.com/video/lakers-12-5b-deal-shows-154500739.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1786981500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "87bb246e-b75f-3971-880d-7698af9ce9b7",
+      "title": "HIVE Digital Technologies Soars 11% on $350M GPU Cloud Contract, Cipher Mining Ticks Up",
+      "link": "https://finance.yahoo.com/m/87bb246e-b75f-3971-880d-7698af9ce9b7/hive-digital-technologies.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786981452,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6cda9030-688c-3537-bc43-81cca04ce5bb",
+      "title": "Capital One Securities Adjusts SLB Price Target to $63 From $64",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/capital-one-securities-adjusts-slb-154349315.html",
       "publisher": "MT Newswires",
-      "time": 1786979377,
+      "time": 1786981429,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5a9ca9b1-4c53-31ae-9e7f-ebdb6a966f13",
-      "title": "The Numbers Behind Assured Guaranty’s (AGO) Record-Setting Quarter",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/numbers-behind-assured-guaranty-ago-150922259.html",
-      "publisher": "Insider Monkey",
-      "time": 1786979362,
+      "id": "6338a0ca-fa2d-3200-829a-f5644bd23f4d",
+      "title": "Capital One Securities Adjusts Halliburton Price Target to $46 From $50",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/capital-one-securities-adjusts-halliburton-154341941.html",
+      "publisher": "MT Newswires",
+      "time": 1786981421,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "188d0683-8aa7-38b8-b7de-0aaf93e012f1",
-      "title": "Afriex Strengthens Global Payments Infrastructure with Global Innovations Bank Partnership",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/afriex-strengthens-global-payments-infrastructure-150900057.html",
-      "publisher": "CNW Group",
-      "time": 1786979340,
-      "impact": "medium",
+      "id": "e676d00b-c71f-3e3d-9dd9-08f025661050",
+      "title": "'Never seen one like it': German pensioners flee wildfire",
+      "link": "https://finance.yahoo.com/m/e676d00b-c71f-3e3d-9dd9-08f025661050/%27never-seen-one-like-it%27%3A.html",
+      "publisher": "AFP",
+      "time": 1786981406,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "96c78df5-2f51-3570-b62e-486d5981c305",
+      "title": "AXT Soars Again on Monday to Lead Optics Stocks. Coherent and Lumentum Rally on Indium Phosphide Price Hikes",
+      "link": "https://finance.yahoo.com/m/96c78df5-2f51-3570-b62e-486d5981c305/axt-soars-again-on-monday-to.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786981207,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "21a6e89a-8470-3492-af86-cf968136d361",
-      "title": "We Want You Back: Saladworks Launches $6.99 Tuesdays",
-      "link": "https://finance.yahoo.com/small-business/articles/want-back-saladworks-launches-6-150900289.html",
-      "publisher": "PR Newswire",
-      "time": 1786979340,
+      "id": "6dffb9a6-6dc3-348d-94c6-94449a43662b",
+      "title": "SpaceX's Starlink Poised for Growth Inflection With V3 Satellites, UBS Securities Says",
+      "link": "https://finance.yahoo.com/technology/articles/spacex-apos-starlink-poised-growth-153948195.html",
+      "publisher": "MT Newswires",
+      "time": 1786981188,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7654dd66-1194-303a-af9a-35b802d06b78",
+      "title": "Stock Market Today: Dow Falls After Trump Oman Threat; Homebuilders Decline Despite This Data (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/7654dd66-1194-303a-af9a-35b802d06b78/stock-market-today%3A-dow-falls.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1786981157,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "3b10eb15-6377-371f-a384-8970c938da8f",
+      "title": "Nexstar Media Group Insider Sold Shares Worth $751,352, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nexstar-media-group-insider-sold-153740207.html",
+      "publisher": "MT Newswires",
+      "time": 1786981060,
       "impact": "low",
       "tags": []
     }
