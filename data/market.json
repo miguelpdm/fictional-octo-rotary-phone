@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T17:53:01.619149+00:00",
+  "updatedAt": "2026-08-17T18:28:34.456479+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7754.88,
-      "change": -44.10999999999967,
-      "changePct": -0.56558605665605,
+      "price": 7755.37,
+      "change": -43.61999999999989,
+      "changePct": -0.5593031918235553,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26653.455,
-      "change": -149.5749999999971,
-      "changePct": -0.558052578383851,
+      "price": 26647.393,
+      "change": -155.6369999999988,
+      "changePct": -0.5806694243150824,
       "currency": "USD"
     },
     {
@@ -44,100 +44,106 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.38,
-      "change": 1.1300000000000008,
-      "changePct": 7.929824561403515,
+      "price": 15.12,
+      "change": 0.8699999999999992,
+      "changePct": 6.105263157894732,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "36cb8fc0-3241-3e61-ac5a-111e0acfc9f8",
-      "title": "Treasury Frames Stablecoins as Payment Infrastructure, Not Investments, in First GENIUS Act Rule",
-      "link": "https://finance.yahoo.com/m/36cb8fc0-3241-3e61-ac5a-111e0acfc9f8/treasury-frames-stablecoins.html",
-      "publisher": "Forkast News",
-      "time": 1786988892,
+      "id": "096a5810-5781-3f56-8f44-a78541144915",
+      "title": "Billionaire Bill Ackman Just Invested in Netflix Stock. Here's Why Investors Should Care.",
+      "link": "https://finance.yahoo.com/m/096a5810-5781-3f56-8f44-a78541144915/billionaire-bill-ackman-just.html",
+      "publisher": "Motley Fool",
+      "time": 1786991100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "41e9ea87-6b7e-3c7d-92f5-9234c6303e35",
-      "title": "Sandisk Stock Surges 8% as Analysts Chase $2,250 Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stock-surges-8-analysts-174725325.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786988845,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2eff66fb-7c2e-39c7-b48d-f4fcd5a6cb30",
-      "title": "Down 42%, is Netflix stock undervalued or a value trap?",
-      "link": "https://finance.yahoo.com/m/2eff66fb-7c2e-39c7-b48d-f4fcd5a6cb30/down-42%25%2C-is-netflix-stock.html",
-      "publisher": "TheStreet",
-      "time": 1786988820,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5c37f1e7-8786-36cb-b8f7-954e34fa1978",
-      "title": "POLLO CAMPERO TO HOST NATIONAL FUNDRAISING DAY TO SUPPORT EARTHQUAKE VICTIMS IN VENEZUELA AND COLOMBIA",
-      "link": "https://finance.yahoo.com/healthcare/articles/pollo-campero-host-national-fundraising-174700240.html",
-      "publisher": "PR Newswire",
-      "time": 1786988820,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4a358277-f138-3f23-abef-ce59f0cad495",
-      "title": "Billionaire Dylan Taylor agrees with the likes of Elon Musk, Jeff Bezos, and Sam Altman, who have all predicted a future where humans live and work in space.\n\nTaylor told Fortune that a tiny portion of humanity is already working in space at the International Space Station, which has had \"humans continuously up there for 26 years.\"",
-      "link": "https://finance.yahoo.com/photos/billionaire-dylan-taylor-agrees-likes-174622109/",
-      "publisher": "Yahoo Finance",
-      "time": 1786988782,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c0435d03-a3da-3f01-8d7b-67fd02b0df65",
-      "title": "Home sales pull back in July as California's median price slips below $900,000",
-      "link": "https://finance.yahoo.com/real-estate/articles/home-sales-pull-back-july-174600917.html",
-      "publisher": "PR Newswire",
-      "time": 1786988760,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2a4f158e-257d-3634-b97f-47ac0e4c339f",
-      "title": "Virexa Talent LLC Expands Global Online Talent Services and Accelerates Development of Its E-Commerce Workforce Ecosystem",
-      "link": "https://finance.yahoo.com/small-business/articles/virexa-talent-llc-expands-global-174500967.html",
+      "id": "4830f898-afd6-398a-9480-5d22aed0f3a9",
+      "title": "Brianna Morant, Top Real Estate Agent in Nashville, Named 2026 Titan 100 Recipient",
+      "link": "https://finance.yahoo.com/real-estate/articles/brianna-morant-top-real-estate-182500441.html",
       "publisher": "ACCESS Newswire",
-      "time": 1786988700,
+      "time": 1786991100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f9c64175-7316-3199-98e7-a229435b00e4",
-      "title": "Abbott and NACHC launch nationwide Food for Health initiative to make nutritious food a core part of healthcare",
-      "link": "https://finance.yahoo.com/healthcare/articles/abbott-nachc-launch-nationwide-food-174500580.html",
-      "publisher": "PR Newswire",
-      "time": 1786988700,
+      "id": "8eb609d6-7d8d-433c-aa6a-229dc0fe9ef9",
+      "title": "Nike's stock plunge is relentless",
+      "link": "https://finance.yahoo.com/markets/stocks/article/nikes-stock-plunge-is-relentless-182413545.html",
+      "publisher": "Yahoo Finance",
+      "time": 1786991053,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "44657c93-71cd-3a71-8c3d-b23e5afdb8a5",
-      "title": "Apple Wins Major Relief in Antitrust Battle",
-      "link": "https://finance.yahoo.com/technology/articles/apple-wins-major-relief-antitrust-174439477.html",
-      "publisher": "GuruFocus.com",
-      "time": 1786988679,
+      "id": "5e52f5f9-e32d-3639-b4cb-3ea7ca2b587a",
+      "title": "Strategy Sinks 39% in 2026, Trailing the Bitcoin ETF It Was Built to Beat",
+      "link": "https://finance.yahoo.com/m/5e52f5f9-e32d-3639-b4cb-3ea7ca2b587a/strategy-sinks-39%25-in-2026%2C.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1786991006,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bc3f99d4-f03f-311a-90f0-98465b6423ed",
-      "title": "Michael Saylor Says ‘Fixing The Credit’ Takes Priority Over MSTR Stock Buybacks",
-      "link": "https://finance.yahoo.com/m/bc3f99d4-f03f-311a-90f0-98465b6423ed/michael-saylor-says-%E2%80%98fixing.html",
-      "publisher": "Stocktwits",
-      "time": 1786988677,
+      "id": "d0ed63e6-019e-388d-81f4-211d247352e5",
+      "title": "Top Midday Decliners",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-182204757.html",
+      "publisher": "MT Newswires",
+      "time": 1786990924,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c5d23e22-c84e-3a43-ad6d-ba32b02cec3f",
+      "title": "NBME Selects Suzanne T. Anderson, MBA, as the Next President and Chief Executive Officer",
+      "link": "https://finance.yahoo.com/healthcare/articles/nbme-selects-suzanne-t-anderson-182200263.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786990920,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bd0c9389-9075-3adb-a210-269c3f5c5eee",
+      "title": "Update: Almonty Industries Shares Rise After Board Approves $300 Million Buyback Plan",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/almonty-industries-shares-rise-board-182144342.html",
+      "publisher": "MT Newswires",
+      "time": 1786990904,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "dc1d2391-ceae-3e40-ae78-3a0ebd8984a2",
+      "title": "Workday Shares Fall After Deutsche Bank, BTIG Downgrades",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/workday-shares-fall-deutsche-bank-182120466.html",
+      "publisher": "MT Newswires",
+      "time": 1786990880,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "74c97788-f98f-3f5e-81f9-48b044a43fad",
+      "title": "Netskope Shares Fall After Deutsche Bank Downgrade",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/netskope-shares-fall-deutsche-bank-182104525.html",
+      "publisher": "MT Newswires",
+      "time": 1786990864,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "87493620-e029-36af-9329-efbd859ee0f3",
+      "title": "Kung Fu Thai & Chinese Restaurant Reveals the Role of the Seasoned Wok in Preparing Chinese Food in Las Vegas",
+      "link": "https://finance.yahoo.com/small-business/articles/kung-fu-thai-chinese-restaurant-182100427.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786990860,
       "impact": "low",
       "tags": []
     }
