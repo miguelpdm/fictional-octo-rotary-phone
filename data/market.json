@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-17T07:55:32.193770+00:00",
+  "updatedAt": "2026-08-17T08:36:29.786152+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20157.6,
-      "change": 1.0,
-      "changePct": 0.004961154162904458,
+      "price": 20127.0,
+      "change": -29.599999999998545,
+      "changePct": -0.14685016322196476,
       "currency": "EUR"
     },
     {
@@ -28,46 +28,71 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26453.09,
-      "change": 153.34999999999854,
-      "changePct": 0.5830856122531954,
+      "price": 26414.09,
+      "change": 114.34999999999854,
+      "changePct": 0.4347951728800305,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6564.63,
-      "change": 25.039999999999964,
-      "changePct": 0.3828986220848702,
-      "currency": "EUR"
+      "price": 6555.52,
+      "change": 15.930000000000291,
+      "changePct": 0.24359325278802327,
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.94,
-      "change": 0.6899999999999995,
-      "changePct": 4.842105263157891,
+      "price": 14.95,
+      "change": 0.6999999999999993,
+      "changePct": 4.912280701754381,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "fbca3ad0-c9a7-38fb-a91a-548776db8fbe",
-      "title": "Market Chatter: Alibaba to Sell Lingxi Games to Trustar Capital for More Than $2 Billion",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-alibaba-sell-lingxi-075109078.html",
-      "publisher": "MT Newswires",
-      "time": 1786953069,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "6fc04381-f510-30d8-ad44-f6ae73a9b9d9",
-      "title": "Alphabet's Reported $112 Billion Profit Included a $94 Billion Paper Gain From SpaceX. Here's What the Company Actually Earned.",
-      "link": "https://finance.yahoo.com/m/6fc04381-f510-30d8-ad44-f6ae73a9b9d9/alphabet%27s-reported-%24112.html",
+      "id": "7ea048e2-ac8d-3d37-a957-ab7ae060afcd",
+      "title": "One of the Biggest Chip ETFs Has Averaged 14% a Year Since 2001 and Just Made 118% in Twelve Months",
+      "link": "https://finance.yahoo.com/m/7ea048e2-ac8d-3d37-a957-ab7ae060afcd/one-of-the-biggest-chip-etfs.html",
       "publisher": "Motley Fool",
-      "time": 1786953000,
+      "time": 1786955460,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "caaaa669-1bae-3e18-a36e-0cc90efae803",
+      "title": "Arista Networks Insider Sold Shares Worth $119,364,068, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-insider-sold-shares-082924635.html",
+      "publisher": "MT Newswires",
+      "time": 1786955364,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "71fc82de-156c-30f3-afbc-200b27d5b787",
+      "title": "HKSAR appoints new AFRC executive director",
+      "link": "https://finance.yahoo.com/m/71fc82de-156c-30f3-afbc-200b27d5b787/hksar-appoints-new-afrc.html",
+      "publisher": "The Accountant",
+      "time": 1786955268,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3e731016-cc92-3ad8-b9dc-0949f9a662ef",
+      "title": "Appfolio Insider Sold Shares Worth $2,901,367, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/appfolio-insider-sold-shares-worth-082714103.html",
+      "publisher": "MT Newswires",
+      "time": 1786955234,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "02eecf11-8f55-3b07-b832-6f6bda991342",
+      "title": "Market Chatter: Anthropic's IPO Valuation Relies on $190 Billion to $200 Billion 2028 Revenue Forecast",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-anthropic-apos-ipo-082650226.html",
+      "publisher": "MT Newswires",
+      "time": 1786955210,
       "impact": "medium",
       "tags": [
         "macro",
@@ -75,59 +100,11 @@
       ]
     },
     {
-      "id": "1da553b4-e243-32d4-8057-cee74f46a2e3",
-      "title": "Wayfair Insider Sold Shares Worth $7,132,112, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wayfair-insider-sold-shares-worth-074844587.html",
-      "publisher": "MT Newswires",
-      "time": 1786952924,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "77562842-6cae-3fba-8b7e-86b875c2609f",
-      "title": "Outlook Therapeutics Insider Bought Shares Worth $2,499,999, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/outlook-therapeutics-insider-bought-shares-074802911.html",
-      "publisher": "MT Newswires",
-      "time": 1786952882,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e579f53b-adcc-3750-a529-d5992244d3e8",
-      "title": "Kratos Defense & Security Solutions Insider Sold Shares Worth $19,300,305, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kratos-defense-security-solutions-insider-074725368.html",
-      "publisher": "MT Newswires",
-      "time": 1786952845,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e5012cc5-085c-3116-b102-10f68b3989ae",
-      "title": "TKO Group Holdings Insider Sold Shares Worth $1,890,631, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tko-group-holdings-insider-sold-074449230.html",
-      "publisher": "MT Newswires",
-      "time": 1786952689,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5463bd5e-3bd6-3e81-a275-bbee4c52a6bd",
-      "title": "The 5 Most Interesting Analyst Questions From Pangaea’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-074220077.html",
-      "publisher": "StockStory",
-      "time": 1786952540,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "8c2c41d3-a467-3d85-b5db-994ee0d6767d",
-      "title": "Water Purifier Rental in Pune Moves Toward Service Specialists like Rentomojo in 2026 - ₹417/Month In-House Units Backed by 1,688 Technicians and Six-Month Free Filter Replacement",
-      "link": "https://finance.yahoo.com/small-business/articles/water-purifier-rental-pune-moves-074200813.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786952520,
+      "id": "1702e24c-9830-3ad8-8880-585499ce91c2",
+      "title": "Headline Inflation Is Easing, but Trumpflation Isn't -- and That's a Recipe for Disaster on Wall Street",
+      "link": "https://finance.yahoo.com/m/1702e24c-9830-3ad8-8880-585499ce91c2/headline-inflation-is-easing%2C.html",
+      "publisher": "Motley Fool",
+      "time": 1786955160,
       "impact": "high",
       "tags": [
         "geo",
@@ -135,20 +112,38 @@
       ]
     },
     {
-      "id": "9cea9eb3-7e7b-3899-ba70-bdf01e929e8a",
-      "title": "Lifeway Foods Insider Sold Shares Worth $2,914,585, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lifeway-foods-insider-sold-shares-074131514.html",
+      "id": "edeccebb-94da-331c-a242-d6aacbcb3e46",
+      "title": "Appfolio Insider Sold Shares Worth $1,331,435, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/appfolio-insider-sold-shares-worth-082536606.html",
       "publisher": "MT Newswires",
-      "time": 1786952491,
+      "time": 1786955136,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d747f538-4eaa-3a34-a3d1-d11dca9c717b",
-      "title": "Q2 Holdings Insider Sold Shares Worth $5,071,498, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-holdings-insider-sold-shares-074042819.html",
+      "id": "61032232-0227-3871-a017-f8224c273d25",
+      "title": "argenx Says Autoimmune Myositis Drug Meets Main Goal in Phase 3 Study",
+      "link": "https://finance.yahoo.com/healthcare/articles/argenx-says-autoimmune-myositis-drug-082531397.html",
       "publisher": "MT Newswires",
-      "time": 1786952442,
+      "time": 1786955131,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b2d576e6-e4d2-3dd2-9b69-1fca67ab4c0d",
+      "title": "Festi hf.: Transactions in relation to a share repurchase programme - week 33",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/festi-hf-transactions-relation-share-082500869.html",
+      "publisher": "GlobeNewswire",
+      "time": 1786955100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "86a1597a-55c5-3a3e-9dec-736957c71606",
+      "title": "Snowflake Insider Sold Shares Worth $16,785,000, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-insider-sold-shares-worth-082404230.html",
+      "publisher": "MT Newswires",
+      "time": 1786955044,
       "impact": "low",
       "tags": []
     }
