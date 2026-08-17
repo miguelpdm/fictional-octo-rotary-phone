@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T18:28:34.456479+00:00",
+  "updatedAt": "2026-08-17T19:07:52.878771+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7755.37,
-      "change": -43.61999999999989,
-      "changePct": -0.5593031918235553,
+      "price": 7753.66,
+      "change": -45.32999999999993,
+      "changePct": -0.5812291078716594,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26647.393,
-      "change": -155.6369999999988,
-      "changePct": -0.5806694243150824,
+      "price": 26658.174,
+      "change": -144.85599999999977,
+      "changePct": -0.540446359982434,
       "currency": "USD"
     },
     {
@@ -44,82 +44,28 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.12,
-      "change": 0.8699999999999992,
-      "changePct": 6.105263157894732,
+      "price": 15.16,
+      "change": 0.9100000000000001,
+      "changePct": 6.385964912280703,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "096a5810-5781-3f56-8f44-a78541144915",
-      "title": "Billionaire Bill Ackman Just Invested in Netflix Stock. Here's Why Investors Should Care.",
-      "link": "https://finance.yahoo.com/m/096a5810-5781-3f56-8f44-a78541144915/billionaire-bill-ackman-just.html",
-      "publisher": "Motley Fool",
-      "time": 1786991100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4830f898-afd6-398a-9480-5d22aed0f3a9",
-      "title": "Brianna Morant, Top Real Estate Agent in Nashville, Named 2026 Titan 100 Recipient",
-      "link": "https://finance.yahoo.com/real-estate/articles/brianna-morant-top-real-estate-182500441.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1786991100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8eb609d6-7d8d-433c-aa6a-229dc0fe9ef9",
-      "title": "Nike's stock plunge is relentless",
-      "link": "https://finance.yahoo.com/markets/stocks/article/nikes-stock-plunge-is-relentless-182413545.html",
+      "id": "6a727046-5824-4eff-9dd8-172ba7aed050",
+      "title": "Nvidia inks $105 billion deal for OpenAI data center",
+      "link": "https://finance.yahoo.com/technology/article/nvidia-inks-105-billion-deal-for-openai-data-center-190524832.html",
       "publisher": "Yahoo Finance",
-      "time": 1786991053,
+      "time": 1786993524,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5e52f5f9-e32d-3639-b4cb-3ea7ca2b587a",
-      "title": "Strategy Sinks 39% in 2026, Trailing the Bitcoin ETF It Was Built to Beat",
-      "link": "https://finance.yahoo.com/m/5e52f5f9-e32d-3639-b4cb-3ea7ca2b587a/strategy-sinks-39%25-in-2026%2C.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1786991006,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d0ed63e6-019e-388d-81f4-211d247352e5",
-      "title": "Top Midday Decliners",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-182204757.html",
-      "publisher": "MT Newswires",
-      "time": 1786990924,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c5d23e22-c84e-3a43-ad6d-ba32b02cec3f",
-      "title": "NBME Selects Suzanne T. Anderson, MBA, as the Next President and Chief Executive Officer",
-      "link": "https://finance.yahoo.com/healthcare/articles/nbme-selects-suzanne-t-anderson-182200263.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786990920,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bd0c9389-9075-3adb-a210-269c3f5c5eee",
-      "title": "Update: Almonty Industries Shares Rise After Board Approves $300 Million Buyback Plan",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/almonty-industries-shares-rise-board-182144342.html",
-      "publisher": "MT Newswires",
-      "time": 1786990904,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "dc1d2391-ceae-3e40-ae78-3a0ebd8984a2",
-      "title": "Workday Shares Fall After Deutsche Bank, BTIG Downgrades",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/workday-shares-fall-deutsche-bank-182120466.html",
-      "publisher": "MT Newswires",
-      "time": 1786990880,
+      "id": "108c2989-3962-32d4-9f7e-11f03f154501",
+      "title": "Epsilon Energy Ltd (EPSN) (Q2 2026) Earnings Call Highlights: Production Trough Marks Turning ...",
+      "link": "https://finance.yahoo.com/energy/articles/epsilon-energy-ltd-epsn-q2-190435417.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786993475,
       "impact": "medium",
       "tags": [
         "macro",
@@ -127,11 +73,11 @@
       ]
     },
     {
-      "id": "74c97788-f98f-3f5e-81f9-48b044a43fad",
-      "title": "Netskope Shares Fall After Deutsche Bank Downgrade",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/netskope-shares-fall-deutsche-bank-182104525.html",
-      "publisher": "MT Newswires",
-      "time": 1786990864,
+      "id": "2eb7023a-72cd-306d-994e-e51df0dbaa4b",
+      "title": "Tecogen Inc (TGEN) (Q2 2026) Earnings Call Highlights: Data Center Momentum Offsets Revenue Dip",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tecogen-inc-tgen-q2-2026-190422083.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786993462,
       "impact": "medium",
       "tags": [
         "macro",
@@ -139,13 +85,88 @@
       ]
     },
     {
-      "id": "87493620-e029-36af-9329-efbd859ee0f3",
-      "title": "Kung Fu Thai & Chinese Restaurant Reveals the Role of the Seasoned Wok in Preparing Chinese Food in Las Vegas",
-      "link": "https://finance.yahoo.com/small-business/articles/kung-fu-thai-chinese-restaurant-182100427.html",
-      "publisher": "GlobeNewswire",
-      "time": 1786990860,
-      "impact": "low",
-      "tags": []
+      "id": "6a0ad3a3-71b5-3dba-b413-b029de4b227f",
+      "title": "NeuroOne Medical Technologies Corp (NMTC) (Q3 2026) Earnings Call Highlights: Revenue Grows 16% ...",
+      "link": "https://finance.yahoo.com/healthcare/articles/neuroone-medical-technologies-corp-nmtc-190354015.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786993434,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "e54ee851-3e67-35de-8a98-2a8a223945b1",
+      "title": "Melco Resorts and Entertainment Ltd (MLCO) (Q2 2026) Earnings Call Highlights: Navigating ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/melco-resorts-entertainment-ltd-mlco-190339617.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786993419,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "bd04702a-e94d-3fb4-ab05-eeb3d45f3a87",
+      "title": "Orsted AS (DNNGY) (Q2 2026) Earnings Call Highlights: Strong H1 EBITDA and Strategic Progress ...",
+      "link": "https://finance.yahoo.com/energy/articles/orsted-dnngy-q2-2026-earnings-190331183.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786993411,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "d0781346-f784-3d9f-a872-2eedde96c2f1",
+      "title": "Abeona Therapeutics Inc (ABEO) (Q2 2026) Earnings Call Highlights: ZEVASKYN Revenue Surges 31% ...",
+      "link": "https://finance.yahoo.com/healthcare/articles/abeona-therapeutics-inc-abeo-q2-190330753.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786993410,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "ce702ca2-5a5b-3660-b5c8-d209227051d1",
+      "title": "Israel Discount Bank Ltd (ISDAY) (Q2 2026) Earnings Call Highlights: Strong Profitability and ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/israel-discount-bank-ltd-isday-190314881.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786993394,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "aad85253-c7f9-3266-8bd4-d7ccdb02b0ad",
+      "title": "Canadian Tire Corp Ltd (CDNAF) (Q2 2026) Earnings Call Highlights: EPS Up 10% as SportChek and ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-tire-corp-ltd-cdnaf-190309461.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786993389,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "2aae13c7-bbfc-3504-ae4d-b9816074485e",
+      "title": "Tidewater Renewables Ltd (TDWRF) (Q2 2026) Earnings Call Highlights: Record EBITDA and ...",
+      "link": "https://finance.yahoo.com/energy/articles/tidewater-renewables-ltd-tdwrf-q2-190306798.html",
+      "publisher": "GuruFocus.com",
+      "time": 1786993386,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
