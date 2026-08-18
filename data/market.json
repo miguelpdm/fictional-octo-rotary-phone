@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-18T10:25:06.936503+00:00",
+  "updatedAt": "2026-08-18T10:54:26.843036+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20028.1,
-      "change": 46.19999999999709,
-      "changePct": 0.2312092443661368,
+      "price": 20015.7,
+      "change": 33.79999999999927,
+      "changePct": 0.1691530835406006,
       "currency": "EUR"
     },
     {
@@ -28,120 +28,134 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26266.01,
-      "change": -174.3000000000029,
-      "changePct": -0.6592207126164666,
+      "price": 26255.41,
+      "change": -184.90000000000146,
+      "changePct": -0.6993110141295675,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6500.17,
-      "change": -30.279999999999745,
-      "changePct": -0.46367401940141556,
+      "price": 6495.86,
+      "change": -34.590000000000146,
+      "changePct": -0.5296725340520201,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.92,
-      "change": 0.7300000000000004,
-      "changePct": 4.805793285055961,
+      "price": 15.86,
+      "change": 0.6699999999999999,
+      "changePct": 4.410796576695194,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "82e217aa-ad6e-3340-ba50-40d3bf835012",
-      "title": "Reddit Stock Falls Ahead of Joining the S&P 500",
-      "link": "https://finance.yahoo.com/m/82e217aa-ad6e-3340-ba50-40d3bf835012/reddit-stock-falls-ahead-of.html",
-      "publisher": "Barrons.com",
-      "time": 1787048220,
+      "id": "00ed2f22-04c5-3b67-ac59-ab65edf13cc7",
+      "title": "ExxonMobil awards $1.1bn pre-FID contracts for Rovuma LNG phase one",
+      "link": "https://finance.yahoo.com/m/00ed2f22-04c5-3b67-ac59-ab65edf13cc7/exxonmobil-awards-%241.1bn.html",
+      "publisher": "Offshore Technology",
+      "time": 1787050167,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "7794d773-85ce-3429-9d2e-46521e5e928c",
+      "title": "United Therapeutics completes enrolment for TETON-PPF trial",
+      "link": "https://finance.yahoo.com/m/7794d773-85ce-3429-9d2e-46521e5e928c/united-therapeutics-completes.html",
+      "publisher": "Clinical Trials Arena",
+      "time": 1787050121,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ffb4187c-e391-37f3-9290-902e5208c508",
-      "title": "Manipal Hospital Whitefield Marks Independence Day by Celebrating the Spirit of Life",
-      "link": "https://finance.yahoo.com/healthcare/articles/manipal-hospital-whitefield-marks-independence-101700328.html",
+      "id": "d76957f4-06ef-34e0-9d5f-333ff2aec0a7",
+      "title": "China's Baidu, betting on AI, posts fifth straight quarterly revenue drop",
+      "link": "https://finance.yahoo.com/technology/ai/articles/chinas-baidu-betting-ai-posts-104726223.html",
+      "publisher": "AFP",
+      "time": 1787050046,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "2ec73e83-930c-3fc7-9b43-95dc26120bf8",
+      "title": "China Unicom's Interim Net Profit Showed Short-Term Volatility. Full-Year Contraction Expected to Narrow Significantly",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/china-unicoms-interim-net-profit-104700080.html",
       "publisher": "PR Newswire",
-      "time": 1787048220,
-      "impact": "low",
-      "tags": []
+      "time": 1787050020,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "5c899370-b968-33f7-9351-8c8bda4a9710",
-      "title": "ICAC Commissioner concludes ASEAN anti-corruption meeting in Malaysia to spearhead regional graft-fighting alliance",
-      "link": "https://finance.yahoo.com/economy/policy/articles/icac-commissioner-concludes-asean-anti-101600376.html",
-      "publisher": "PR Newswire",
-      "time": 1787048160,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "780b8d4c-faf5-3576-b1e9-a96c7a767643",
-      "title": "Inside iconic pink home in Bay View listed at $469,000",
-      "link": "https://finance.yahoo.com/m/780b8d4c-faf5-3576-b1e9-a96c7a767643/inside-iconic-pink-home-in.html",
-      "publisher": "Milwaukee Journal Sentinel",
-      "time": 1787048160,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a5d82ac5-0e56-3691-b45e-9c2ce80b9b63",
-      "title": "Bay View's pink house is on the market for $469,000",
-      "link": "https://finance.yahoo.com/m/a5d82ac5-0e56-3691-b45e-9c2ce80b9b63/bay-view%27s-pink-house-is-on.html",
-      "publisher": "Milwaukee Journal Sentinel",
-      "time": 1787048153,
+      "id": "eb3bf18f-9588-36a1-a389-43c2b80f64b6",
+      "title": "2 Unpopular Stocks That Deserve Some Love and 1 That Underwhelm",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-unpopular-stocks-deserve-love-104533390.html",
+      "publisher": "StockStory",
+      "time": 1787049933,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "4d156f7b-b869-375e-be09-442c30441222",
-      "title": "JPMorgan Downgrades Millicom International Cellular to Neutral From Overweight, Adjusts PT to $105 From $100",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-downgrades-millicom-international-cellular-101529434.html",
-      "publisher": "MT Newswires",
-      "time": 1787048129,
+      "id": "f70aae35-1d3a-3ce5-818d-450643c7dc70",
+      "title": "CPB Contractors starts piling at $852m Bundaberg Hospital project",
+      "link": "https://finance.yahoo.com/m/f70aae35-1d3a-3ce5-818d-450643c7dc70/cpb-contractors-starts-piling.html",
+      "publisher": "World Construction Network",
+      "time": 1787049912,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "66c97d3a-4e16-3398-9cc8-aa4a57130f3f",
-      "title": "GE Vernova, SHINE Develop AI System To Track Spent Nuclear Fuel",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ge-vernova-shine-develop-ai-101524823.html",
-      "publisher": "MT Newswires",
-      "time": 1787048124,
+      "id": "0e225425-ecfc-3c1e-983c-b3d00f36d7d1",
+      "title": "AWS Places Mactores at Premier Tier: Forward-Deployed Engineers cut a Six-Month Claims Cycle to Twelve Weeks in Production",
+      "link": "https://finance.yahoo.com/technology/ai/articles/aws-places-mactores-premier-tier-104500449.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787049900,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "17c4d1ba-5ca3-3af9-a15a-8a10c5e5ec9b",
+      "title": "ZYRTEC® Launches New Drug-Free Allergen Shield Spray, a Breakthrough for Proactive Everyday* Allergen Defense",
+      "link": "https://finance.yahoo.com/healthcare/articles/zyrtec-launches-drug-free-allergen-104500923.html",
+      "publisher": "PR Newswire",
+      "time": 1787049900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6c3d0cc9-242e-3a60-b5e2-5de2e65c5e5a",
-      "title": "Why states fought to present a united case against Meta over youth social media harms",
-      "link": "https://finance.yahoo.com/m/6c3d0cc9-242e-3a60-b5e2-5de2e65c5e5a/why-states-fought-to-present.html",
-      "publisher": "Reuters",
-      "time": 1787048115,
+      "id": "6699f497-32e4-3ea6-b72e-7d2ee662b1fe",
+      "title": "Descartes Introduces AI-Powered Image Document Management to Help Accelerate Customs Entry and Shipment Processing",
+      "link": "https://finance.yahoo.com/technology/ai/articles/descartes-introduces-ai-powered-image-104500270.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787049900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a1be0a6c-ea2b-341c-b7d2-6aa87e357841",
-      "title": "Susquehanna Initiates Marriott Vacations Worldwide at Neutral With $110 Price Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/susquehanna-initiates-marriott-vacations-worldwide-101504977.html",
-      "publisher": "MT Newswires",
-      "time": 1787048104,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b454fc95-64bc-3d3a-b551-2bf7ec3ac4f4",
-      "title": "There’s a hidden Roth conversion window that shuts completely in 2028 — most US retirees don’t know it exists. Act now",
-      "link": "https://finance.yahoo.com/small-business/articles/hidden-roth-conversion-window-shuts-101500228.html",
-      "publisher": "Moneywise",
-      "time": 1787048100,
-      "impact": "low",
-      "tags": []
+      "id": "80fdfbbf-dacd-379d-92d7-17b2cbc6a00d",
+      "title": "LA MANCHA INVESTMENTS S. À R. L. TO FILE EARLY WARNING REPORT",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/la-mancha-investments-r-l-104500669.html",
+      "publisher": "CNW Group",
+      "time": 1787049900,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     }
   ],
   "errors": {
