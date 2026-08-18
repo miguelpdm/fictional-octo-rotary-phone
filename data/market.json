@@ -1,71 +1,71 @@
 {
-  "updatedAt": "2026-08-18T12:32:33.995729+00:00",
+  "updatedAt": "2026-08-18T13:37:04.971946+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20050.0,
-      "change": 68.09999999999854,
-      "changePct": 0.3408084316306184,
+      "price": 20038.7,
+      "change": 56.79999999999927,
+      "changePct": 0.2842572528137928,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7745.06,
-      "change": -53.92999999999938,
-      "changePct": -0.691499796768548,
+      "price": 7704.46,
+      "change": -81.30000000000018,
+      "changePct": -1.044214052321163,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26644.91,
-      "change": -158.11999999999898,
-      "changePct": -0.5899333023169357,
+      "price": 26355.523,
+      "change": -373.6369999999988,
+      "changePct": -1.3978628583913555,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26248.91,
-      "change": -191.40000000000146,
-      "changePct": -0.7238946895857177,
+      "price": 26230.98,
+      "change": -209.33000000000175,
+      "changePct": -0.7917078128055297,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6502.04,
-      "change": -28.409999999999854,
-      "changePct": -0.4350389329984895,
+      "price": 6497.45,
+      "change": -33.0,
+      "changePct": -0.5053250541693146,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.7,
-      "change": 0.5099999999999998,
-      "changePct": 3.35747202106649,
+      "price": 15.82,
+      "change": 0.6300000000000008,
+      "changePct": 4.147465437788023,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "654e403c-ed17-3d49-81c9-f57d98cb71ad",
-      "title": "US Equity Futures Lower Pre-Bell as Middle East Peace Prospects Dim",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-lower-pre-123001053.html",
-      "publisher": "MT Newswires",
-      "time": 1787056201,
+      "id": "a7e4cdef-1c13-3d1e-9f88-2de0428f45a1",
+      "title": "CEO.CA's Inside the Boardroom: Amex Gold Mining: Bulk Sample Covers \"Heavy Lifting\" of Infrastructure Capital",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ceo-cas-inside-boardroom-amex-133300505.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787059980,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6efa06d4-94f7-3ce3-b70c-1f843da1acb6",
-      "title": "Silvaco, Dassault Systemes to Jointly Develop Workflows for Semiconductor Manufacturing",
-      "link": "https://finance.yahoo.com/technology/articles/silvaco-dassault-systemes-jointly-develop-122733014.html",
-      "publisher": "MT Newswires",
-      "time": 1787056053,
+      "id": "998238af-ea74-3542-990e-c533e32bd1e0",
+      "title": "Canadian investor Northlight Wine Collective makes first winery acquisition",
+      "link": "https://finance.yahoo.com/m/998238af-ea74-3542-990e-c533e32bd1e0/canadian-investor-northlight.html",
+      "publisher": "Just Drinks",
+      "time": 1787059927,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,79 +73,77 @@
       ]
     },
     {
-      "id": "22b53102-1eb4-32fc-8630-6f312a0d8c69",
-      "title": "K2 Gold Provides Drill Results from Mojave Project in California",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/k2-gold-provides-drill-results-122722345.html",
-      "publisher": "MT Newswires",
-      "time": 1787056042,
+      "id": "a23d27e3-46c7-3e66-84d4-d226fd665dfd",
+      "title": "Applied Biologics Announces Acceptance of XWRAP® Translational Research for Presentation at SAWC Fall 2026",
+      "link": "https://finance.yahoo.com/healthcare/articles/applied-biologics-announces-acceptance-xwrap-133100205.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787059860,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3f853651-f618-4aba-a770-b8fca7a59fe9",
-      "title": "Anthropic could beat Elon Musk's SpaceX for largest 2026 IPO, prediction markets show",
-      "link": "https://finance.yahoo.com/markets/stocks/article/anthropic-could-beat-elon-musks-spacex-for-largest-2026-ipo-prediction-markets-show-122619825.html",
-      "publisher": "Yahoo Finance",
-      "time": 1787055979,
-      "impact": "medium",
+      "id": "56c77724-3c38-3fb5-93e3-009346c8e6b6",
+      "title": "Berkshire’s Biggest Second-Quarter Move Was This Stock. Should You Buy, Sell or Hold?",
+      "link": "https://finance.yahoo.com/m/56c77724-3c38-3fb5-93e3-009346c8e6b6/berkshire%E2%80%99s-biggest.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787059802,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5c065c3e-95c8-3ab9-acaf-425060d8e13d",
+      "title": "Shoppers Drug Mart Helps Canadians Access Personalized Weight Management Support, Developed in Collaboration with Launchit Solutions",
+      "link": "https://finance.yahoo.com/healthcare/articles/shoppers-drug-mart-helps-canadians-133000605.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787059800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0da5dade-88cc-3d74-81b3-3c92b993ba7e",
+      "title": "Taco House? Waffle House testing tacos in select locations",
+      "link": "https://finance.yahoo.com/m/0da5dade-88cc-3d74-81b3-3c92b993ba7e/taco-house%3F-waffle-house.html",
+      "publisher": "USA TODAY",
+      "time": 1787059773,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e9664153-d7c1-3f58-9e5a-c68fec893873",
+      "title": "Top Foreign Policy Analyst Warns China’s 20% Savings Rate Is Fueling “China Shock 2.0”",
+      "link": "https://finance.yahoo.com/m/e9664153-d7c1-3f58-9e5a-c68fec893873/top-foreign-policy-analyst.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787059727,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a5ccafbe-b571-3ae3-b0c8-5892cd873d3b",
-      "title": "Dutch seafood group Zalmhuys buys importer BML",
-      "link": "https://finance.yahoo.com/m/a5ccafbe-b571-3ae3-b0c8-5892cd873d3b/dutch-seafood-group-zalmhuys.html",
-      "publisher": "Just Food",
-      "time": 1787055834,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0332519d-43d5-3104-9273-4314d9043f5d",
-      "title": "State Farm sends $5 billion dividend to auto policyholders",
-      "link": "https://finance.yahoo.com/m/0332519d-43d5-3104-9273-4314d9043f5d/state-farm-sends-%245-billion.html",
-      "publisher": "Quartz",
-      "time": 1787055740,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "762f6d26-3cb7-38ee-a7cb-c3313e467dc4",
-      "title": "Margaritaville Invites Guests to \"Keep the Party Going\" During Third Annual Jimmy Buffett Day Celebration and Day of Service",
-      "link": "https://finance.yahoo.com/media-advertising/articles/margaritaville-invites-guests-keep-party-122200556.html",
-      "publisher": "PR Newswire",
-      "time": 1787055720,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2d2fdd37-6131-3d41-8ca2-d338c36584e3",
-      "title": "Saratoga Investment Starts Public Offering of Unsecured Notes",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/saratoga-investment-starts-public-offering-122153899.html",
-      "publisher": "MT Newswires",
-      "time": 1787055713,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5dfc78a8-eecc-33c4-9350-a0497db0fcc5",
-      "title": "3 S&P 500 Stocks with Open Questions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-open-122133477.html",
-      "publisher": "StockStory",
-      "time": 1787055693,
-      "impact": "low",
-      "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "ad722676-9ff7-3964-9f1f-529c9f1bfe58",
-      "title": "Maplebear Chief Accounting Officer Sells 6,103 Shares for Tax Withholding",
-      "link": "https://finance.yahoo.com/m/ad722676-9ff7-3964-9f1f-529c9f1bfe58/maplebear-chief-accounting.html",
-      "publisher": "Motley Fool",
-      "time": 1787055601,
+      "id": "35565963-3296-4b71-acd6-0b4f73b12a8b",
+      "title": "Why tech stock bulls may not shake this AI problem",
+      "link": "https://finance.yahoo.com/markets/article/why-tech-stock-bulls-may-not-shake-this-ai-problem-132840379.html",
+      "publisher": "Yahoo Finance",
+      "time": 1787059720,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9975fe9c-1f13-32b9-be4e-436a3ffe48a3",
+      "title": "GreenPower Announces Completion of Fourth Tranche of Preferred Share Financing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/greenpower-announces-completion-fourth-tranche-132800403.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787059680,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f4cc102e-e36c-3833-a2ef-ca6b0707173a",
+      "title": "Coloplast A/S - Interim Financial Report, 9M 2025/26",
+      "link": "https://finance.yahoo.com/healthcare/articles/coloplast-interim-financial-report-9m-132800002.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787059680,
       "impact": "low",
       "tags": []
     }
