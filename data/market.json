@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T03:21:11.575899+00:00",
+  "updatedAt": "2026-08-18T04:05:05.096592+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -28,9 +28,9 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26338.6,
-      "change": 38.859999999996944,
-      "changePct": 0.1477581147189932,
+      "price": 26338.61,
+      "change": 38.86999999999898,
+      "changePct": 0.1477961379085838,
       "currency": "EUR"
     },
     {
@@ -52,40 +52,56 @@
   ],
   "news": [
     {
-      "id": "56288345-1556-3e83-8956-091a493afae8",
-      "title": "What Does DigitalOcean Chief Accounting Officer's Sale of Over 4,000 Shares Mean for Investors?",
-      "link": "https://finance.yahoo.com/m/56288345-1556-3e83-8956-091a493afae8/what-does-digitalocean-chief.html",
+      "id": "4cf4cb04-3cff-3ff0-b311-a60eeb01a007",
+      "title": "What’s News: Business & Finance",
+      "link": "https://finance.yahoo.com/m/4cf4cb04-3cff-3ff0-b311-a60eeb01a007/what%E2%80%99s-news%3A-business-%26.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787025660,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7de6037e-54d5-3e55-8d06-39417c6364f8",
+      "title": "Apple vs. CoreWeave: Comparing Revenue Trends Between a Stable Tech Giant and a Rapidly Growing AI Neocloud",
+      "link": "https://finance.yahoo.com/m/7de6037e-54d5-3e55-8d06-39417c6364f8/apple-vs.-coreweave%3A.html",
       "publisher": "Motley Fool",
-      "time": 1787022829,
+      "time": 1787025317,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "37f06d8e-4e6b-3aea-83d5-2d9dec01d7b7",
-      "title": "M&G Backs Korean Bond Market Rally: Are Rate Hike Fears Overdone?",
-      "link": "https://finance.yahoo.com/m/37f06d8e-4e6b-3aea-83d5-2d9dec01d7b7/m%26g-backs-korean-bond-market.html",
-      "publisher": "BeInCrypto",
-      "time": 1787022708,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "5d935cf8-8ba7-35d3-aa5f-f44744ab8b4a",
-      "title": "5-star analyst sets alarming SpaceX stock price target",
-      "link": "https://finance.yahoo.com/m/5d935cf8-8ba7-35d3-aa5f-f44744ab8b4a/5-star-analyst-sets-alarming.html",
-      "publisher": "TheStreet",
-      "time": 1787022420,
+      "id": "aa92996f-e5cf-3daa-9f11-a431fc80b19d",
+      "title": "Trinasolar Retains Tier 1 Status for Both PV Modules and Energy Storage Systems on S&P Global Cleantech Companies List 2026",
+      "link": "https://finance.yahoo.com/energy/articles/trinasolar-retains-tier-1-status-034700365.html",
+      "publisher": "PR Newswire",
+      "time": 1787024820,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c2be6aa5-c11b-3051-bd74-7e46be1cda3c",
-      "title": "Rico Auto Industries Ltd (BOM:520008) (Q1 FY2027) Earnings Call Highlights: Record Revenue ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rico-auto-industries-ltd-bom-030416396.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787022256,
+      "id": "c85c12ea-d861-3790-bb4d-ab91faf026b0",
+      "title": "A look at major lawsuits against Meta and other social media companies over harms to kids",
+      "link": "https://finance.yahoo.com/m/c85c12ea-d861-3790-bb4d-ab91faf026b0/a-look-at-major-lawsuits.html",
+      "publisher": "Associated Press",
+      "time": 1787024804,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c17e133b-000c-372e-a415-56db2057c11e",
+      "title": "The Next Phase of Probiotics: What Will Drive Industry Growth and Consumer Value？",
+      "link": "https://finance.yahoo.com/healthcare/articles/next-phase-probiotics-drive-industry-034500942.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787024700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "32bb09dc-bc20-3d99-97d6-50fae22de809",
+      "title": "What To Expect From Viking’s (VIK) Q2 Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/expect-viking-vik-q2-earnings-034050817.html",
+      "publisher": "StockStory",
+      "time": 1787024450,
       "impact": "medium",
       "tags": [
         "macro",
@@ -93,59 +109,20 @@
       ]
     },
     {
-      "id": "b14efeb9-b14b-34b9-86fc-2ff5a23f4886",
-      "title": "Fino Payments Bank Ltd (BOM:543386) (Q1 2027) Earnings Call Highlights: Record Margins and 214% ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fino-payments-bank-ltd-bom-030402982.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787022242,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "32974cb8-f720-3735-a832-5b68d6191948",
+      "title": "NVTIA Expands Global Nutraceutical Ingredient Platform With 53 PCT Patent Filings",
+      "link": "https://finance.yahoo.com/healthcare/articles/nvtia-expands-global-nutraceutical-ingredient-033900272.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787024340,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "58be6fd2-9b70-3ae2-8313-a86a98e0fd71",
-      "title": "Anupam Rasayan India Ltd (BOM:543275) (Q1 FY27) Earnings Call Highlights: Record Revenue Growth ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/anupam-rasayan-india-ltd-bom-030340841.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787022220,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "b03d106c-e5b2-334c-bbfe-8f904bff3329",
-      "title": "Mega Lifesciences PCL (BKK:MEGA) (Q2 2026) Earnings Call Highlights: Record Margins and Robust ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/mega-lifesciences-pcl-bkk-mega-030339465.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787022219,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "fa152a3d-85dc-390a-8d64-a7b85508c791",
-      "title": "Stanley Lifestyles Ltd (NSE:STANLEY) (Q1 2027) Earnings Call Highlights: Strategic Expansion ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stanley-lifestyles-ltd-nse-stanley-030328553.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787022208,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "5511504a-73d0-3ccb-b759-d8f21be6a55a",
-      "title": "Nu Holdings Ltd (NU) (Q2 2026) Earnings Call Highlights: Record $1. ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-ltd-nu-q2-030318954.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787022198,
+      "id": "17a6441c-e552-366d-b7ad-d95f0a2e1ab2",
+      "title": "Analog Devices Earnings: What To Look For From ADI",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-earnings-look-adi-033250602.html",
+      "publisher": "StockStory",
+      "time": 1787023970,
       "impact": "medium",
       "tags": [
         "macro",
@@ -157,7 +134,16 @@
       "title": "Zverev advances at Cincinnati while Williams sisters fall",
       "link": "https://finance.yahoo.com/m/e353db7d-ffd4-3409-b40b-25e50c27897b/zverev-advances-at-cincinnati.html",
       "publisher": "AFP",
-      "time": 1787022198,
+      "time": 1787023903,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2a4ebe78-225f-32c9-b4d1-2b35a05a1aab",
+      "title": "Passport to Pueblo Country marks 15th anniversary with new partnership with La Fonda",
+      "link": "https://finance.yahoo.com/m/2a4ebe78-225f-32c9-b4d1-2b35a05a1aab/passport-to-pueblo-country.html",
+      "publisher": "The Santa Fe New Mexican",
+      "time": 1787023860,
       "impact": "low",
       "tags": []
     }
