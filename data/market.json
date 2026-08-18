@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-18T07:32:02.715535+00:00",
+  "updatedAt": "2026-08-18T08:27:56.291206+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19998.0,
-      "change": 16.099999999998545,
-      "changePct": 0.08057291849122727,
+      "price": 19984.9,
+      "change": 3.0,
+      "changePct": 0.015013587296503334,
       "currency": "EUR"
     },
     {
@@ -28,124 +28,125 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26230.46,
-      "change": -209.85000000000218,
-      "changePct": -0.7936745068420233,
+      "price": 26187.41,
+      "change": -252.90000000000146,
+      "changePct": -0.9564940804400608,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6507.05,
-      "change": -23.399999999999636,
-      "changePct": -0.35832140204732654,
-      "currency": null
+      "price": 6484.39,
+      "change": -46.05999999999949,
+      "changePct": -0.7053112725769203,
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.82,
-      "change": 0.6300000000000008,
-      "changePct": 4.147465437788023,
+      "price": 16.05,
+      "change": 0.8600000000000012,
+      "changePct": 5.6616194865042875,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "13cdc646-fa98-3e35-9654-89d1dcf8b609",
-      "title": "Smith & Nephew, Imperial College London Launch Robotic Surgery Partnership",
-      "link": "https://finance.yahoo.com/healthcare/articles/smith-nephew-imperial-college-london-072935593.html",
+      "id": "c4014798-d2cf-35bb-836b-34f7eaa67366",
+      "title": "H2O America's Subsidiaries Get Regulatory Approvals to Acquire Quadvest",
+      "link": "https://finance.yahoo.com/economy/policy/articles/h2o-america-apos-subsidiaries-regulatory-082441806.html",
       "publisher": "MT Newswires",
-      "time": 1787038175,
+      "time": 1787041481,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "35ca9196-4a16-3c15-bbe3-ad63da69ea4d",
-      "title": "MacGregor Secures Comprehensive Hatch Cover and Cargo Handling Order for Six LNG-Powered Containerships at Cochin Shipyard Limited",
-      "link": "https://finance.yahoo.com/energy/articles/macgregor-secures-comprehensive-hatch-cover-072300197.html",
-      "publisher": "PR Newswire",
-      "time": 1787037780,
+      "id": "5014a530-d973-35d8-b621-c176cc41af6f",
+      "title": "Ecopetrol Acquires 51% Stake in Brava Energia for About $1.2 Billion",
+      "link": "https://finance.yahoo.com/energy/articles/ecopetrol-acquires-51-stake-brava-082405615.html",
+      "publisher": "MT Newswires",
+      "time": 1787041445,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "58c8c978-70b9-34a5-bd4a-3885f994a4c4",
-      "title": "Resilient Asset Management to offload 4.98% stake in Paytm",
-      "link": "https://finance.yahoo.com/m/58c8c978-70b9-34a5-bd4a-3885f994a4c4/resilient-asset-management-to.html",
-      "publisher": "Electronic Payments",
-      "time": 1787037675,
+      "id": "4f8d636d-da8c-3de8-b3ac-149a75199107",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-082200743.html",
+      "publisher": "Business Wire",
+      "time": 1787041320,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c5b93f6d-cf39-3818-9071-cce318803c5e",
-      "title": "Philippine student killed in livestreamed school shooting",
-      "link": "https://finance.yahoo.com/m/c5b93f6d-cf39-3818-9071-cce318803c5e/philippine-student-killed-in.html",
-      "publisher": "AFP",
-      "time": 1787037622,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a52bff22-2458-379d-998e-9df5a5192fe5",
-      "title": "Himax WiseEye Palm Vein Biometric Authentication Technology Powers WAFERLOCK L322 Smart Lock",
-      "link": "https://finance.yahoo.com/technology/ai/articles/himax-wiseeye-palm-vein-biometric-072000181.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787037600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "58784928-3f82-3cd9-aa97-234d4bca6e37",
-      "title": "A BJ's Restaurants Director Sells Over 7,500 Company Shares. Here's a Closer Look at the Transaction.",
-      "link": "https://finance.yahoo.com/m/58784928-3f82-3cd9-aa97-234d4bca6e37/a-bj%27s-restaurants-director.html",
-      "publisher": "Motley Fool",
-      "time": 1787037559,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b824be2d-66ae-35dc-89a3-a7f9504d1f13",
-      "title": "cBrain awarded first contract with the State of California",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cbrain-awarded-first-contract-state-071800307.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787037480,
-      "impact": "high",
+      "id": "4a09a82d-e8b3-3c3e-a6ac-fe82e71e2c63",
+      "title": "Dollar feeble as rate hike bets dwindle, Iran conflict in focus",
+      "link": "https://finance.yahoo.com/news/dollar-feeble-rate-hike-bets-015445875.html",
+      "publisher": "Reuters",
+      "time": 1787041246,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "geo"
       ]
     },
     {
-      "id": "ac70e132-59e1-3047-9158-8350d8e90e05",
-      "title": "5 Must-Read Analyst Questions From Astronics’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-071733869.html",
-      "publisher": "StockStory",
-      "time": 1787037453,
+      "id": "4c8c5493-6613-3bd8-b85f-304698db713d",
+      "title": "ESCONDIDA VEIN RETURNS FIRST DRILL INTERCEPT OF 4.25 g/t Au OVER 1.85 m, INCLUDING 12.10 g/t Au OVER 0.65 m",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/escondida-vein-returns-first-drill-082000845.html",
+      "publisher": "CNW Group",
+      "time": 1787041200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e0eb925b-c228-3202-8ae4-c9ff96536512",
+      "title": "Frasers Group Increases Hugo Boss Stake to 48% After Offer Period",
+      "link": "https://finance.yahoo.com/m/e0eb925b-c228-3202-8ae4-c9ff96536512/frasers-group-increases-hugo.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787041020,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ef78edc2-30a7-31d8-9b69-708fa02ba26f",
+      "title": "Form 8.5 (EPT/RI) - AEW UK REIT Plc",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-5-ept-ri-081700791.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787041020,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ef9c14be-9e17-3f3f-8821-c3347c36f3fc",
+      "title": "Gray Media Prices $750 Million Senior Secured Notes Offering",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gray-media-prices-750-million-081621196.html",
+      "publisher": "MT Newswires",
+      "time": 1787040981,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "83770d4e-31dc-342f-a94f-dd3e09b6af69",
+      "title": "Market Chatter: Google Tells Suppliers it is Shifting Manufaturing Outside of China",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-google-tells-suppliers-081524161.html",
+      "publisher": "MT Newswires",
+      "time": 1787040924,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "12932ade-a38f-3645-9074-f34c652c9b53",
+      "title": "RESULT OF RIKSBANK CERTIFICATE SALE",
+      "link": "https://finance.yahoo.com/economy/policy/articles/result-riksbank-certificate-sale-081500235.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787040900,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
-    },
-    {
-      "id": "dc24428d-3da3-36b4-9764-a0b1460c6e18",
-      "title": "Hepsor AS to hold a webinar introducing the planned public offering of series II bonds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hepsor-hold-webinar-introducing-planned-071500400.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787037300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e6e728a8-897d-38d2-a5d4-385f99e496cf",
-      "title": "Macy's is selling $500 diamond earrings with 'brilliant sparkle' for 65% off",
-      "link": "https://finance.yahoo.com/m/e6e728a8-897d-38d2-a5d4-385f99e496cf/macy%27s-is-selling-%24500.html",
-      "publisher": "TheStreet",
-      "time": 1787037300,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
