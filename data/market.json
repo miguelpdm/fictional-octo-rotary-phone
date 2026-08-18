@@ -1,149 +1,145 @@
 {
-  "updatedAt": "2026-08-18T13:37:04.971946+00:00",
+  "updatedAt": "2026-08-18T14:26:14.272488+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20038.7,
-      "change": 56.79999999999927,
-      "changePct": 0.2842572528137928,
+      "price": 20012.3,
+      "change": 30.399999999997817,
+      "changePct": 0.1521376846045562,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7704.46,
-      "change": -81.30000000000018,
-      "changePct": -1.044214052321163,
+      "price": 7708.76,
+      "change": -77.0,
+      "changePct": -0.9889850188035593,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26355.523,
-      "change": -373.6369999999988,
-      "changePct": -1.3978628583913555,
+      "price": 26350.408,
+      "change": -378.7520000000004,
+      "changePct": -1.416999262228968,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26230.98,
-      "change": -209.33000000000175,
-      "changePct": -0.7917078128055297,
+      "price": 26182.26,
+      "change": -258.0500000000029,
+      "changePct": -0.9759719156091698,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6497.45,
-      "change": -33.0,
-      "changePct": -0.5053250541693146,
+      "price": 6484.97,
+      "change": -45.47999999999956,
+      "changePct": -0.696429801927885,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.82,
-      "change": 0.6300000000000008,
-      "changePct": 4.147465437788023,
+      "price": 15.8,
+      "change": 0.6100000000000012,
+      "changePct": 4.0157998683344385,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "a7e4cdef-1c13-3d1e-9f88-2de0428f45a1",
-      "title": "CEO.CA's Inside the Boardroom: Amex Gold Mining: Bulk Sample Covers \"Heavy Lifting\" of Infrastructure Capital",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ceo-cas-inside-boardroom-amex-133300505.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787059980,
+      "id": "441cc0c9-508d-3d4f-be3a-7e79d3e1749b",
+      "title": "1 Small-Cap Stock for Long-Term Investors and 2 We Question",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-small-cap-stock-long-142133387.html",
+      "publisher": "StockStory",
+      "time": 1787062893,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "998238af-ea74-3542-990e-c533e32bd1e0",
-      "title": "Canadian investor Northlight Wine Collective makes first winery acquisition",
-      "link": "https://finance.yahoo.com/m/998238af-ea74-3542-990e-c533e32bd1e0/canadian-investor-northlight.html",
-      "publisher": "Just Drinks",
-      "time": 1787059927,
-      "impact": "medium",
       "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a23d27e3-46c7-3e66-84d4-d226fd665dfd",
-      "title": "Applied Biologics Announces Acceptance of XWRAP® Translational Research for Presentation at SAWC Fall 2026",
-      "link": "https://finance.yahoo.com/healthcare/articles/applied-biologics-announces-acceptance-xwrap-133100205.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787059860,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "56c77724-3c38-3fb5-93e3-009346c8e6b6",
-      "title": "Berkshire’s Biggest Second-Quarter Move Was This Stock. Should You Buy, Sell or Hold?",
-      "link": "https://finance.yahoo.com/m/56c77724-3c38-3fb5-93e3-009346c8e6b6/berkshire%E2%80%99s-biggest.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787059802,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5c065c3e-95c8-3ab9-acaf-425060d8e13d",
-      "title": "Shoppers Drug Mart Helps Canadians Access Personalized Weight Management Support, Developed in Collaboration with Launchit Solutions",
-      "link": "https://finance.yahoo.com/healthcare/articles/shoppers-drug-mart-helps-canadians-133000605.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787059800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0da5dade-88cc-3d74-81b3-3c92b993ba7e",
-      "title": "Taco House? Waffle House testing tacos in select locations",
-      "link": "https://finance.yahoo.com/m/0da5dade-88cc-3d74-81b3-3c92b993ba7e/taco-house%3F-waffle-house.html",
-      "publisher": "USA TODAY",
-      "time": 1787059773,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e9664153-d7c1-3f58-9e5a-c68fec893873",
-      "title": "Top Foreign Policy Analyst Warns China’s 20% Savings Rate Is Fueling “China Shock 2.0”",
-      "link": "https://finance.yahoo.com/m/e9664153-d7c1-3f58-9e5a-c68fec893873/top-foreign-policy-analyst.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787059727,
-      "impact": "high",
-      "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "35565963-3296-4b71-acd6-0b4f73b12a8b",
-      "title": "Why tech stock bulls may not shake this AI problem",
-      "link": "https://finance.yahoo.com/markets/article/why-tech-stock-bulls-may-not-shake-this-ai-problem-132840379.html",
-      "publisher": "Yahoo Finance",
-      "time": 1787059720,
+      "id": "f3171417-387b-327a-b85f-249875d3f3ab",
+      "title": "The UK and Google are testing changes to flight paths to tackle aviation's climate impact",
+      "link": "https://finance.yahoo.com/m/f3171417-387b-327a-b85f-249875d3f3ab/the-uk-and-google-are-testing.html",
+      "publisher": "Associated Press",
+      "time": 1787062884,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9975fe9c-1f13-32b9-be4e-436a3ffe48a3",
-      "title": "GreenPower Announces Completion of Fourth Tranche of Preferred Share Financing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/greenpower-announces-completion-fourth-tranche-132800403.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787059680,
+      "id": "2fe2034e-428f-3799-8a1d-1d453451056f",
+      "title": "Will Micron Stock Jump Another 200% By 2027? History Has a Clear Answer",
+      "link": "https://finance.yahoo.com/m/2fe2034e-428f-3799-8a1d-1d453451056f/will-micron-stock-jump.html",
+      "publisher": "Motley Fool",
+      "time": 1787062801,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f4cc102e-e36c-3833-a2ef-ca6b0707173a",
-      "title": "Coloplast A/S - Interim Financial Report, 9M 2025/26",
-      "link": "https://finance.yahoo.com/healthcare/articles/coloplast-interim-financial-report-9m-132800002.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787059680,
+      "id": "98a83d0f-9dc9-3825-81fc-bce5b59501b8",
+      "title": "1 Number That Makes Nike's Turnaround Worth Watching This Month",
+      "link": "https://finance.yahoo.com/m/98a83d0f-9dc9-3825-81fc-bce5b59501b8/1-number-that-makes-nike%27s.html",
+      "publisher": "Motley Fool",
+      "time": 1787062800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fd3bb0ca-eca1-32c3-a70d-b2faa00cdf0a",
+      "title": "Vernier Science Education Adds Middle School Science Lessons to Vernier Connections® powered by Penda",
+      "link": "https://finance.yahoo.com/technology/articles/vernier-science-education-adds-middle-142000610.html",
+      "publisher": "PR Newswire",
+      "time": 1787062800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "03e83d2a-377b-37ff-b207-f6c11e871f07",
+      "title": "Michael Burry is Bullish on This Beaten-Down Healthcare Stock. Time to Buy?",
+      "link": "https://finance.yahoo.com/healthcare/articles/michael-burry-bullish-beaten-down-141932183.html",
+      "publisher": "Insider Monkey",
+      "time": 1787062772,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7e7ae183-e1cd-3785-bf6c-1646e9bf9626",
+      "title": "Interface (TILE) Posts Record Margins, But One Big Question Looms",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/interface-tile-posts-record-margins-141900350.html",
+      "publisher": "Insider Monkey",
+      "time": 1787062740,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ab317c9c-6043-399a-8a52-42f72be8d3eb",
+      "title": "Tiegen Boberg Sells Serrano's Most Iconic Modern Estate for $3,100,000",
+      "link": "https://finance.yahoo.com/real-estate/articles/tiegen-boberg-sells-serranos-most-141800483.html",
+      "publisher": "PR Newswire",
+      "time": 1787062680,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7adf7450-36fe-3a96-86c7-ff965c2a4450",
+      "title": "Swedish Trucking Company Jumps On Tesla Semi Truck Rollout",
+      "link": "https://finance.yahoo.com/m/7adf7450-36fe-3a96-86c7-ff965c2a4450/swedish-trucking-company.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787062676,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0fb16325-3d9b-33ab-99bb-ed368efb99c0",
+      "title": "Form 8.3",
+      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-141700520.html",
+      "publisher": "Business Wire",
+      "time": 1787062620,
       "impact": "low",
       "tags": []
     }
