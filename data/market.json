@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-18T06:32:08.176913+00:00",
+  "updatedAt": "2026-08-18T07:32:02.715535+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19981.9,
-      "change": -174.6999999999971,
-      "changePct": -0.8667136322593946,
+      "price": 19998.0,
+      "change": 16.099999999998545,
+      "changePct": 0.08057291849122727,
       "currency": "EUR"
     },
     {
@@ -28,85 +28,89 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26338.61,
-      "change": 38.86999999999898,
-      "changePct": 0.1477961379085838,
+      "price": 26230.46,
+      "change": -209.85000000000218,
+      "changePct": -0.7936745068420233,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6530.45,
-      "change": -9.140000000000327,
-      "changePct": -0.13976411365238994,
+      "price": 6507.05,
+      "change": -23.399999999999636,
+      "changePct": -0.35832140204732654,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.19,
-      "change": 0.9399999999999995,
-      "changePct": 6.596491228070173,
+      "price": 15.82,
+      "change": 0.6300000000000008,
+      "changePct": 4.147465437788023,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "5e2590f0-800d-36c3-97c8-15d78413d491",
-      "title": "ByteLens Turns Operator Data Into Compounding Knowledge",
-      "link": "https://finance.yahoo.com/technology/ai/articles/bytelens-turns-operator-data-compounding-062400385.html",
-      "publisher": "PR Newswire",
-      "time": 1787034240,
+      "id": "13cdc646-fa98-3e35-9654-89d1dcf8b609",
+      "title": "Smith & Nephew, Imperial College London Launch Robotic Surgery Partnership",
+      "link": "https://finance.yahoo.com/healthcare/articles/smith-nephew-imperial-college-london-072935593.html",
+      "publisher": "MT Newswires",
+      "time": 1787038175,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "30271ded-069d-34b0-b6a7-ebdb4f09197c",
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "link": "https://finance.yahoo.com/m/30271ded-069d-34b0-b6a7-ebdb4f09197c/stock-market%3A-will-s%26p-500.html",
-      "publisher": "Benzinga Prediction Markets",
-      "time": 1787034229,
+      "id": "35ca9196-4a16-3c15-bbe3-ad63da69ea4d",
+      "title": "MacGregor Secures Comprehensive Hatch Cover and Cargo Handling Order for Six LNG-Powered Containerships at Cochin Shipyard Limited",
+      "link": "https://finance.yahoo.com/energy/articles/macgregor-secures-comprehensive-hatch-cover-072300197.html",
+      "publisher": "PR Newswire",
+      "time": 1787037780,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "783de2cb-a025-320b-8665-782af2713d19",
-      "title": "Sandisk Stock Is Down 30% From Its Peak: Is the Memory Winner Still a Screaming Buy Before September?",
-      "link": "https://finance.yahoo.com/m/783de2cb-a025-320b-8665-782af2713d19/sandisk-stock-is-down-30%25.html",
+      "id": "58c8c978-70b9-34a5-bd4a-3885f994a4c4",
+      "title": "Resilient Asset Management to offload 4.98% stake in Paytm",
+      "link": "https://finance.yahoo.com/m/58c8c978-70b9-34a5-bd4a-3885f994a4c4/resilient-asset-management-to.html",
+      "publisher": "Electronic Payments",
+      "time": 1787037675,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c5b93f6d-cf39-3818-9071-cce318803c5e",
+      "title": "Philippine student killed in livestreamed school shooting",
+      "link": "https://finance.yahoo.com/m/c5b93f6d-cf39-3818-9071-cce318803c5e/philippine-student-killed-in.html",
+      "publisher": "AFP",
+      "time": 1787037622,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a52bff22-2458-379d-998e-9df5a5192fe5",
+      "title": "Himax WiseEye Palm Vein Biometric Authentication Technology Powers WAFERLOCK L322 Smart Lock",
+      "link": "https://finance.yahoo.com/technology/ai/articles/himax-wiseeye-palm-vein-biometric-072000181.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787037600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "58784928-3f82-3cd9-aa97-234d4bca6e37",
+      "title": "A BJ's Restaurants Director Sells Over 7,500 Company Shares. Here's a Closer Look at the Transaction.",
+      "link": "https://finance.yahoo.com/m/58784928-3f82-3cd9-aa97-234d4bca6e37/a-bj%27s-restaurants-director.html",
       "publisher": "Motley Fool",
-      "time": 1787034000,
+      "time": 1787037559,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5fd618cc-9790-3872-bab6-e7c1f2db0d89",
-      "title": "Hansa Biopharma announces first commercial kidney transplant patient treated with Idefirix in Australia",
-      "link": "https://finance.yahoo.com/healthcare/articles/hansa-biopharma-announces-first-commercial-061500185.html",
-      "publisher": "PR Newswire",
-      "time": 1787033700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7cfd3633-072a-33bd-ac43-7e3541f44432",
-      "title": "Lazard (LAZ) Names Dr. Marco Superina To Lead Investment Banking In Switzerland",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lazard-laz-names-dr-marco-061243106.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787033563,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "7f174efd-6396-320d-8a81-fa8da4e3458c",
-      "title": "ExxonMobil Holdings (XOM) Awards $1.1 Billion To Start Mozambique LNG Work",
-      "link": "https://finance.yahoo.com/energy/articles/exxonmobil-holdings-xom-awards-1-061235796.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787033555,
+      "id": "b824be2d-66ae-35dc-89a3-a7f9504d1f13",
+      "title": "cBrain awarded first contract with the State of California",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cbrain-awarded-first-contract-state-071800307.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787037480,
       "impact": "high",
       "tags": [
         "geo",
@@ -114,38 +118,32 @@
       ]
     },
     {
-      "id": "5b9f51f0-5ed3-3758-98c1-db2b2c9b6b7e",
-      "title": "Astera Labs (ALAB), What Is Behind The Fresh Attention?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-alab-behind-fresh-061231158.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787033551,
+      "id": "ac70e132-59e1-3047-9158-8350d8e90e05",
+      "title": "5 Must-Read Analyst Questions From Astronics’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-071733869.html",
+      "publisher": "StockStory",
+      "time": 1787037453,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "dc24428d-3da3-36b4-9764-a0b1460c6e18",
+      "title": "Hepsor AS to hold a webinar introducing the planned public offering of series II bonds",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hepsor-hold-webinar-introducing-planned-071500400.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787037300,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "eca9377c-0131-3c4a-80b8-71bc8df20dd0",
-      "title": "Adding Paychex CEO to Board Might Change The Case For Investing In ManpowerGroup (MAN)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/adding-paychex-ceo-board-might-061221280.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787033541,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6d4dc0f1-c929-3d70-985e-6baa7f774a4d",
-      "title": "EyePoint (EYPT) LUGANO Data Resets The Story, Is It A Bargain?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/eyepoint-eypt-lugano-data-resets-061206669.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787033526,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8d4b800f-8a9b-3a65-bfe7-d44ad3ba95e1",
-      "title": "Is L3Harris’ CEO Ouster And Governance Stance Altering The Investment Case For L3Harris Technologies (LHX)?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-ceo-ouster-governance-stance-061206465.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787033526,
+      "id": "e6e728a8-897d-38d2-a5d4-385f99e496cf",
+      "title": "Macy's is selling $500 diamond earrings with 'brilliant sparkle' for 65% off",
+      "link": "https://finance.yahoo.com/m/e6e728a8-897d-38d2-a5d4-385f99e496cf/macy%27s-is-selling-%24500.html",
+      "publisher": "TheStreet",
+      "time": 1787037300,
       "impact": "low",
       "tags": []
     }
