@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-18T08:27:56.291206+00:00",
+  "updatedAt": "2026-08-18T09:03:03.992048+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19984.9,
-      "change": 3.0,
-      "changePct": 0.015013587296503334,
+      "price": 20022.1,
+      "change": 40.19999999999709,
+      "changePct": 0.20118206977313013,
       "currency": "EUR"
     },
     {
@@ -28,125 +28,213 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26187.41,
-      "change": -252.90000000000146,
-      "changePct": -0.9564940804400608,
+      "price": 26229.42,
+      "change": -210.89000000000306,
+      "changePct": -0.7976078949150107,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6484.39,
-      "change": -46.05999999999949,
-      "changePct": -0.7053112725769203,
-      "currency": "EUR"
+      "price": 6494.08,
+      "change": -36.36999999999989,
+      "changePct": -0.5569294612163004,
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.05,
-      "change": 0.8600000000000012,
-      "changePct": 5.6616194865042875,
+      "price": 15.88,
+      "change": 0.6900000000000013,
+      "changePct": 4.542462146148791,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "c4014798-d2cf-35bb-836b-34f7eaa67366",
-      "title": "H2O America's Subsidiaries Get Regulatory Approvals to Acquire Quadvest",
-      "link": "https://finance.yahoo.com/economy/policy/articles/h2o-america-apos-subsidiaries-regulatory-082441806.html",
-      "publisher": "MT Newswires",
-      "time": 1787041481,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5014a530-d973-35d8-b621-c176cc41af6f",
-      "title": "Ecopetrol Acquires 51% Stake in Brava Energia for About $1.2 Billion",
-      "link": "https://finance.yahoo.com/energy/articles/ecopetrol-acquires-51-stake-brava-082405615.html",
-      "publisher": "MT Newswires",
-      "time": 1787041445,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4f8d636d-da8c-3de8-b3ac-149a75199107",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-082200743.html",
-      "publisher": "Business Wire",
-      "time": 1787041320,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4a09a82d-e8b3-3c3e-a6ac-fe82e71e2c63",
-      "title": "Dollar feeble as rate hike bets dwindle, Iran conflict in focus",
-      "link": "https://finance.yahoo.com/news/dollar-feeble-rate-hike-bets-015445875.html",
-      "publisher": "Reuters",
-      "time": 1787041246,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "4c8c5493-6613-3bd8-b85f-304698db713d",
-      "title": "ESCONDIDA VEIN RETURNS FIRST DRILL INTERCEPT OF 4.25 g/t Au OVER 1.85 m, INCLUDING 12.10 g/t Au OVER 0.65 m",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/escondida-vein-returns-first-drill-082000845.html",
-      "publisher": "CNW Group",
-      "time": 1787041200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e0eb925b-c228-3202-8ae4-c9ff96536512",
-      "title": "Frasers Group Increases Hugo Boss Stake to 48% After Offer Period",
-      "link": "https://finance.yahoo.com/m/e0eb925b-c228-3202-8ae4-c9ff96536512/frasers-group-increases-hugo.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787041020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ef78edc2-30a7-31d8-9b69-708fa02ba26f",
-      "title": "Form 8.5 (EPT/RI) - AEW UK REIT Plc",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-5-ept-ri-081700791.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787041020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ef9c14be-9e17-3f3f-8821-c3347c36f3fc",
-      "title": "Gray Media Prices $750 Million Senior Secured Notes Offering",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gray-media-prices-750-million-081621196.html",
-      "publisher": "MT Newswires",
-      "time": 1787040981,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "83770d4e-31dc-342f-a94f-dd3e09b6af69",
-      "title": "Market Chatter: Google Tells Suppliers it is Shifting Manufaturing Outside of China",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-google-tells-suppliers-081524161.html",
-      "publisher": "MT Newswires",
-      "time": 1787040924,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "12932ade-a38f-3645-9074-f34c652c9b53",
-      "title": "RESULT OF RIKSBANK CERTIFICATE SALE",
-      "link": "https://finance.yahoo.com/economy/policy/articles/result-riksbank-certificate-sale-081500235.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787040900,
+      "id": "1dadf369-5fde-34c6-8c87-eff023a04e8e",
+      "title": "Cochlear Ltd (CHEOF) (FY 2026) Earnings Call Highlights: Navigating Market Headwinds with Nexa ...",
+      "link": "https://finance.yahoo.com/healthcare/articles/cochlear-ltd-cheof-fy-2026-090235566.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787043755,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
+    },
+    {
+      "id": "505aa837-1256-3730-9360-a404919fafd8",
+      "title": "Challenger Ltd (ASX:CGF) (FY 2026) Earnings Call Highlights: Record Annuity Sales and Strategic ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/challenger-ltd-asx-cgf-fy-090220456.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787043740,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "d7f2f629-4bb0-3440-8029-e43e4ebd0307",
+      "title": "SKS Technologies Group Ltd (ASX:SKS) (FY 2026) Earnings Call Highlights: Record Revenue Surge ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sks-technologies-group-ltd-asx-090220487.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787043740,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "1ddadbb3-a51c-3d0b-bd33-08c5e136328e",
+      "title": "BHP Group Ltd (BHP) (FY 2026) Earnings Call Highlights: Record Copper Output and $33B EBITDA ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bhp-group-ltd-bhp-fy-090219046.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787043739,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b21cdebb-ea11-3b06-9f0e-eef185f213e6",
+      "title": "Macmahon Holdings Ltd (MCHHF) (FY 2026) Earnings Call Highlights: Record Revenue and Strategic ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/macmahon-holdings-ltd-mchhf-fy-090213022.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787043733,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "04b471ef-8db0-3957-9952-d03428cb9934",
+      "title": "Pro Medicus Ltd (PMCUF) (FY 2026) Earnings Call Highlights: Record Revenue and Strategic ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pro-medicus-ltd-pmcuf-fy-090156300.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787043716,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a2aeef07-8f4c-36c4-9812-281e476b0404",
+      "title": "SRG Global Ltd (ASX:SRG) (FY 2026) Earnings Call Highlights: Record EBITDA and Upgraded ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/srg-global-ltd-asx-srg-090151612.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787043711,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "2d1f7eac-0b42-304c-bcd7-868e71cf9bba",
+      "title": "Leal Therapeutics raises $30m to fund schizophrenia and ALS trials",
+      "link": "https://finance.yahoo.com/m/2d1f7eac-0b42-304c-bcd7-868e71cf9bba/leal-therapeutics-raises-%2430m.html",
+      "publisher": "Clinical Trials Arena",
+      "time": 1787043671,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2952c59b-2ae0-3ed1-858e-7ae95ab574eb",
+      "title": "Banco do Brasil SA BB Brasil (BDORY) (Q2 2026) Earnings Call Highlights: Strong Earnings Growth ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/banco-brasil-sa-bb-brasil-090110059.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787043670,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "aee31c53-17d7-360c-a613-0ebc3dae464d",
+      "title": "Fulcrum and Slate Medicines sign merger agreement",
+      "link": "https://finance.yahoo.com/m/aee31c53-17d7-360c-a613-0ebc3dae464d/fulcrum-and-slate-medicines.html",
+      "publisher": "Pharmaceutical Technology",
+      "time": 1787043407,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "c47e04b3-0886-39f7-afa2-978312b93498",
+      "title": "JBS-backed Pilgrim’s to buy UK pork firm Walkers from Samworth",
+      "link": "https://finance.yahoo.com/m/c47e04b3-0886-39f7-afa2-978312b93498/jbs-backed-pilgrim%E2%80%99s-to-buy.html",
+      "publisher": "Just Food",
+      "time": 1787043257,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d7897508-21eb-3638-a2ef-f680a18ea9e7",
+      "title": "3 Unpopular Stocks with Open Questions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-unpopular-stocks-open-questions-085333423.html",
+      "publisher": "StockStory",
+      "time": 1787043213,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "eee361d0-9309-3401-8c66-96ffff024815",
+      "title": "\"LIANGZHU CODE 5000\" Invites Global Explorers to Unlock an Ancient Civilization",
+      "link": "https://finance.yahoo.com/media-advertising/articles/liangzhu-code-5000-invites-global-085300381.html",
+      "publisher": "PR Newswire",
+      "time": 1787043180,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2478eb27-a457-3a95-8d0d-c2e93d04cf84",
+      "title": "Chemular launches child-resistant packaging for nicotine pouches",
+      "link": "https://finance.yahoo.com/m/2478eb27-a457-3a95-8d0d-c2e93d04cf84/chemular-launches.html",
+      "publisher": "Packaging Gateway",
+      "time": 1787043147,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "59b03065-a463-3a7b-8566-bb22e8830dde",
+      "title": "Hesai Group Q2 Non-GAAP Earnings, Revenue Rise; Shares Down Pre-Bell",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hesai-group-q2-non-gaap-085052062.html",
+      "publisher": "MT Newswires",
+      "time": 1787043052,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "957dbde2-19e9-3b74-bb71-15be65c03270",
+      "title": "Arc Minerals selects contractor for drilling at Virgo project",
+      "link": "https://finance.yahoo.com/m/957dbde2-19e9-3b74-bb71-15be65c03270/arc-minerals-selects.html",
+      "publisher": "Mining Technology",
+      "time": 1787043005,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9954a483-a3b2-36a6-86e0-5bec8c30e3e8",
+      "title": "SM Investments reports 8% growth in H1 net income to PHP45.9 billion on sustained consumer demand",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sm-investments-reports-8-growth-085000280.html",
+      "publisher": "PR Newswire",
+      "time": 1787043000,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
