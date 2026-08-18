@@ -1,62 +1,139 @@
 {
-  "updatedAt": "2026-08-18T15:01:10.336426+00:00",
+  "updatedAt": "2026-08-18T15:55:39.727989+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19980.3,
-      "change": -1.6000000000021828,
-      "changePct": -0.008007246558146035,
+      "price": 19934.9,
+      "change": -47.0,
+      "changePct": -0.23521286764521893,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7696.65,
-      "change": -89.11000000000058,
-      "changePct": -1.144525389942672,
+      "price": 7705.17,
+      "change": -80.59000000000015,
+      "changePct": -1.0350948398101167,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26278.459,
-      "change": -450.70100000000093,
-      "changePct": -1.6861771937464587,
+      "price": 26349.893,
+      "change": -379.2669999999998,
+      "changePct": -1.4189259969262027,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26163.17,
-      "change": -277.14000000000306,
-      "changePct": -1.048172279371925,
+      "price": 26128.36,
+      "change": -311.9500000000007,
+      "changePct": -1.179827316699391,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6478.85,
-      "change": -51.599999999999454,
-      "changePct": -0.7901446301556471,
+      "price": 6468.17,
+      "change": -62.279999999999745,
+      "changePct": -0.953686193141357,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.68,
-      "change": 0.4900000000000002,
-      "changePct": 3.2258064516129044,
+      "price": 15.91,
+      "change": 0.7200000000000006,
+      "changePct": 4.739960500329168,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "d4dbe218-12f8-371b-95dc-2dfd2959689e",
-      "title": "Bank-offered SME insurance sees low take up as HSBC UK teams with Gallagher",
-      "link": "https://finance.yahoo.com/m/d4dbe218-12f8-371b-95dc-2dfd2959689e/bank-offered-sme-insurance.html",
-      "publisher": "Life Insurance International",
-      "time": 1787065198,
+      "id": "bb2e4fee-5543-4c6e-b991-70dde13a9544",
+      "title": "Silver prices today, Tuesday, August 18, 2026: Silver price holds as investors weigh inflation and geopolitical risks",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-august-18-2026-silver-price-holds-as-investors-weigh-inflation-and-geopolitical-risks-155200076.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1787068320,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "814e7d58-5436-35d9-85ef-cbbd6d046e95",
+      "title": "Rep Com International Brings Its New Data Center Division to the Metro Connect Fall and Datacloud USA Conferences in Austin",
+      "link": "https://finance.yahoo.com/technology/ai/articles/rep-com-international-brings-data-155100869.html",
+      "publisher": "PR Newswire",
+      "time": 1787068260,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c0b28273-846a-3714-8bbf-75764d460e54",
+      "title": "Issue of Debt",
+      "link": "https://finance.yahoo.com/economy/policy/articles/issue-debt-155000988.html",
+      "publisher": "Business Wire",
+      "time": 1787068200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "509fed2f-737d-44e5-8094-e818d126edf8",
+      "title": "Gold prices today, Tuesday, August 18, 2026: Gold falters as U.S. Treasury yields rise",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-august-18-2026-gold-falters-as-us-treasury-yields-rise-154856224.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1787068136,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5c3761bc-162c-3781-b784-2e0e058ab003",
+      "title": "Fidium Earns More Than 370 Top Internet Performance Rankings in Latest Ookla® Speedtest® Analysis",
+      "link": "https://finance.yahoo.com/technology/articles/fidium-earns-more-370-top-154800539.html",
+      "publisher": "Business Wire",
+      "time": 1787068080,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b5c358e1-f726-3cb6-bad2-68598369af39",
+      "title": "What’s In Store for Macy’s 100th Thanksgiving Day Parade",
+      "link": "https://finance.yahoo.com/m/b5c358e1-f726-3cb6-bad2-68598369af39/what%E2%80%99s-in-store-for-macy%E2%80%99s.html",
+      "publisher": "WWD",
+      "time": 1787068065,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "48101352-5a69-3d43-a51a-d996bf4c7bb0",
+      "title": "Salesforce's and ServiceNow’s Business Models Are in Danger, Expert Cautions: What Does It Mean For CRM and NOW?",
+      "link": "https://finance.yahoo.com/m/48101352-5a69-3d43-a51a-d996bf4c7bb0/salesforce%27s-and-servicenow%E2%80%99s.html",
+      "publisher": "Benzinga Prediction Markets",
+      "time": 1787067982,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "f372a09e-a9e7-3a11-818c-a8b5f56b95bb",
+      "title": "Koozee Launches All-in-One AI Visual Production Platform for Apparel E-Commerce",
+      "link": "https://finance.yahoo.com/technology/ai/articles/koozee-launches-one-ai-visual-154600651.html",
+      "publisher": "PR Newswire",
+      "time": 1787067960,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c4f6a664-635b-3299-92db-b40e54713877",
+      "title": "Top Midday Stories: Home Depot Q2 EPS, Revenue Top Estimates; Klarna Cuts Guidance, Plans CFO, CMO Transitions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-home-depot-154557687.html",
+      "publisher": "MT Newswires",
+      "time": 1787067957,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,83 +141,11 @@
       ]
     },
     {
-      "id": "a9a62704-970b-34d5-b712-7823e2162dca",
-      "title": "Canadian Housing Starts Set to Grind Lower as Construction Headwinds Persist, TD Says",
-      "link": "https://finance.yahoo.com/real-estate/articles/canadian-housing-starts-set-grind-145818946.html",
-      "publisher": "MT Newswires",
-      "time": 1787065098,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7f5de1c5-a912-30e6-b1f5-0680b7ec7b9b",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-145700195.html",
-      "publisher": "Business Wire",
-      "time": 1787065020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fb4e758f-e2b7-3522-8088-c6af9e2f41b8",
-      "title": "UBS Adjusts Price Target on Cenovus Energy to CA$52 From CA$46, Keeps Buy Rating",
-      "link": "https://finance.yahoo.com/energy/articles/ubs-adjusts-price-target-cenovus-145543296.html",
-      "publisher": "MT Newswires",
-      "time": 1787064943,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ea616d31-d198-43af-a1c8-8934944f1de2",
-      "title": "Tesla's new partnership: Swedish company Einride to deploy 500 Tesla semi-truck EVs",
-      "link": "https://finance.yahoo.com/video/teslas-new-partnership-swedish-company-einride-to-deploy-500-tesla-semi-truck-evs-145522754.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1787064922,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "04b4ac58-d4f6-32ff-94dd-c7e2d17c2bd6",
-      "title": "Argenx's Myositis Data Strengthen Efgartigimod Outlook, Morgan Stanley Says",
-      "link": "https://finance.yahoo.com/healthcare/articles/argenx-apos-myositis-data-strengthen-145448606.html",
-      "publisher": "MT Newswires",
-      "time": 1787064888,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f4c342c0-6050-33c0-88bb-015a3a392638",
-      "title": "Marwest Apartment REIT Declares Monthly Distribution of C$0.001455",
-      "link": "https://finance.yahoo.com/real-estate/articles/marwest-apartment-reit-declares-monthly-145316304.html",
-      "publisher": "MT Newswires",
-      "time": 1787064796,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "37d424ed-fdb0-309b-a48d-a8ee2b96b2bb",
-      "title": "DR Congo Ebola outbreak 'far from being under control': WHO chief",
-      "link": "https://finance.yahoo.com/m/37d424ed-fdb0-309b-a48d-a8ee2b96b2bb/dr-congo-ebola-outbreak-%27far.html",
-      "publisher": "AFP",
-      "time": 1787064756,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c23f1bf0-a9e6-3620-ab9e-7deee1ecb808",
-      "title": "North America's largest clean energy investment will unlock new economic opportunities",
-      "link": "https://finance.yahoo.com/energy/articles/north-americas-largest-clean-energy-145200464.html",
-      "publisher": "CNW Group",
-      "time": 1787064720,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ded3cb02-2ed0-3549-a483-59d5f50957a6",
-      "title": "There Is Now a Way to Collect 6.25% From Google. It Stops Paying in 2029",
-      "link": "https://finance.yahoo.com/m/ded3cb02-2ed0-3549-a483-59d5f50957a6/there-is-now-a-way-to-collect.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787064616,
+      "id": "140ed619-d42f-31e2-8fa6-27f9d99e2cb1",
+      "title": "NFL rookie Barion Brown plans to ‘save every penny’ of his first paycheck: ‘I’m a sixth-round guy, man’",
+      "link": "https://finance.yahoo.com/markets/articles/nfl-rookie-barion-brown-plans-154500865.html",
+      "publisher": "Moneywise",
+      "time": 1787067900,
       "impact": "low",
       "tags": []
     }
