@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T02:12:13.191913+00:00",
+  "updatedAt": "2026-08-18T03:21:11.575899+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -28,9 +28,9 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26338.61,
-      "change": 38.86999999999898,
-      "changePct": 0.1477961379085838,
+      "price": 26338.6,
+      "change": 38.859999999996944,
+      "changePct": 0.1477581147189932,
       "currency": "EUR"
     },
     {
@@ -52,67 +52,40 @@
   ],
   "news": [
     {
-      "id": "36f981ff-17e0-3120-8fe5-ba9c3df8709f",
-      "title": "Biosolutions could help Japan become a global bioeconomy powerhouse, new report finds",
-      "link": "https://finance.yahoo.com/economy/policy/articles/biosolutions-could-help-japan-become-020000799.html",
-      "publisher": "PR Newswire",
-      "time": 1787018400,
+      "id": "56288345-1556-3e83-8956-091a493afae8",
+      "title": "What Does DigitalOcean Chief Accounting Officer's Sale of Over 4,000 Shares Mean for Investors?",
+      "link": "https://finance.yahoo.com/m/56288345-1556-3e83-8956-091a493afae8/what-does-digitalocean-chief.html",
+      "publisher": "Motley Fool",
+      "time": 1787022829,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a2d7363f-f44c-361c-a18d-e6a3d5538f25",
-      "title": "Coway Vina Installs 542 Water Purifiers Across All Guest Rooms at New World Saigon Hotel to Cut 285,000 Reusable Glass Bottles Annually",
-      "link": "https://finance.yahoo.com/technology/articles/coway-vina-installs-542-water-020000917.html",
-      "publisher": "PR Newswire",
-      "time": 1787018400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cd7a7678-6f2d-30ae-abff-4d889c14f8fb",
-      "title": "Prasad Corp Launches 8K/4K Film Preservation & Restoration Center of Excellence in Manila",
-      "link": "https://finance.yahoo.com/media-advertising/articles/prasad-corp-launches-8k-4k-020000227.html",
-      "publisher": "PR Newswire",
-      "time": 1787018400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "de0862c2-360f-3e0f-8d6e-e261cbb82cb4",
-      "title": "Designkit Launches AI Video Platform that Turns Product Photos Into E-Commerce Marketing Videos",
-      "link": "https://finance.yahoo.com/media-advertising/articles/designkit-launches-ai-video-platform-020000588.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787018400,
+      "id": "37f06d8e-4e6b-3aea-83d5-2d9dec01d7b7",
+      "title": "M&G Backs Korean Bond Market Rally: Are Rate Hike Fears Overdone?",
+      "link": "https://finance.yahoo.com/m/37f06d8e-4e6b-3aea-83d5-2d9dec01d7b7/m%26g-backs-korean-bond-market.html",
+      "publisher": "BeInCrypto",
+      "time": 1787022708,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "ffbcddbd-ca08-3d84-a8e6-8e374a800e5e",
-      "title": "LiberNovo Previews Support Week 2026, Putting Better Ergonomic Support Within Reach",
-      "link": "https://finance.yahoo.com/small-business/articles/libernovo-previews-support-week-2026-020000326.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787018400,
+      "id": "5d935cf8-8ba7-35d3-aa5f-f44744ab8b4a",
+      "title": "5-star analyst sets alarming SpaceX stock price target",
+      "link": "https://finance.yahoo.com/m/5d935cf8-8ba7-35d3-aa5f-f44744ab8b4a/5-star-analyst-sets-alarming.html",
+      "publisher": "TheStreet",
+      "time": 1787022420,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "596bc952-31bf-37de-b03c-558f5f100335",
-      "title": "AustraliaMigrate Examines Direction 119 Visa Processing Priorities",
-      "link": "https://finance.yahoo.com/small-business/articles/australiamigrate-examines-direction-119-visa-015900997.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787018340,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2eab62d1-d798-3961-ae7d-902c8d6245ac",
-      "title": "Draganfly (DPRO) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/2eab62d1-d798-3961-ae7d-902c8d6245ac/draganfly-%28dpro%29-q2-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1787018314,
+      "id": "c2be6aa5-c11b-3051-bd74-7e46be1cda3c",
+      "title": "Rico Auto Industries Ltd (BOM:520008) (Q1 FY2027) Earnings Call Highlights: Record Revenue ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rico-auto-industries-ltd-bom-030416396.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787022256,
       "impact": "medium",
       "tags": [
         "macro",
@@ -120,33 +93,73 @@
       ]
     },
     {
-      "id": "0b1bff19-1235-3e68-8fcf-6ed12370a757",
-      "title": "Shakira makes surprise visit to earthquake-damaged Colombian schools and says she will help rebuild",
-      "link": "https://finance.yahoo.com/m/0b1bff19-1235-3e68-8fcf-6ed12370a757/shakira-makes-surprise-visit.html",
-      "publisher": "Associated Press",
-      "time": 1787018113,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4a80c747-0bb9-31b2-bbc4-2bfc59b42c43",
-      "title": "First NATO, now South Korea. Trump hammers another US ally over Iran",
-      "link": "https://finance.yahoo.com/m/4a80c747-0bb9-31b2-bbc4-2bfc59b42c43/first-nato%2C-now-south-korea..html",
-      "publisher": "USA TODAY",
-      "time": 1787018030,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "61fbe317-96ae-3126-ad0a-2894c0d76f56",
-      "title": "Rapid7, ServiceNow, and monday.com Shares Are Falling, What You Need To Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rapid7-servicenow-monday-com-shares-015020414.html",
-      "publisher": "StockStory",
-      "time": 1787017820,
-      "impact": "low",
+      "id": "b14efeb9-b14b-34b9-86fc-2ff5a23f4886",
+      "title": "Fino Payments Bank Ltd (BOM:543386) (Q1 2027) Earnings Call Highlights: Record Margins and 214% ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fino-payments-bank-ltd-bom-030402982.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787022242,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
+    },
+    {
+      "id": "58be6fd2-9b70-3ae2-8313-a86a98e0fd71",
+      "title": "Anupam Rasayan India Ltd (BOM:543275) (Q1 FY27) Earnings Call Highlights: Record Revenue Growth ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/anupam-rasayan-india-ltd-bom-030340841.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787022220,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b03d106c-e5b2-334c-bbfe-8f904bff3329",
+      "title": "Mega Lifesciences PCL (BKK:MEGA) (Q2 2026) Earnings Call Highlights: Record Margins and Robust ...",
+      "link": "https://finance.yahoo.com/healthcare/articles/mega-lifesciences-pcl-bkk-mega-030339465.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787022219,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "fa152a3d-85dc-390a-8d64-a7b85508c791",
+      "title": "Stanley Lifestyles Ltd (NSE:STANLEY) (Q1 2027) Earnings Call Highlights: Strategic Expansion ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stanley-lifestyles-ltd-nse-stanley-030328553.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787022208,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "5511504a-73d0-3ccb-b759-d8f21be6a55a",
+      "title": "Nu Holdings Ltd (NU) (Q2 2026) Earnings Call Highlights: Record $1. ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-ltd-nu-q2-030318954.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787022198,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "e353db7d-ffd4-3409-b40b-25e50c27897b",
+      "title": "Zverev advances at Cincinnati while Williams sisters fall",
+      "link": "https://finance.yahoo.com/m/e353db7d-ffd4-3409-b40b-25e50c27897b/zverev-advances-at-cincinnati.html",
+      "publisher": "AFP",
+      "time": 1787022198,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
