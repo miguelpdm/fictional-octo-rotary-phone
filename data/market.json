@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T20:15:45.884223+00:00",
+  "updatedAt": "2026-08-18T20:47:14.564784+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,99 +39,44 @@
       "price": 6468.17,
       "change": -62.279999999999745,
       "changePct": -0.953686193141357,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.81,
-      "change": 0.620000000000001,
-      "changePct": 4.081632653061231,
+      "price": 15.84,
+      "change": 0.6500000000000004,
+      "changePct": 4.279131007241609,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "7b71538b-a3fd-3576-9efc-fe85bee1685f",
-      "title": "SK Hynix Stock Crashes 8.4% as AI Memory Euphoria Breaks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-stock-crashes-8-201415991.html",
+      "id": "810d6a02-957f-3c26-9109-0bdd41623ccd",
+      "title": "Big Investors Send Conflicting Signal on Meta Platforms Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/big-investors-send-conflicting-signal-204606493.html",
       "publisher": "GuruFocus.com",
-      "time": 1787084055,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ad46e086-8665-3103-a933-c24712839718",
-      "title": "Offerpad Announces Transfer of Stock Exchange Listing to Nasdaq",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/offerpad-announces-transfer-stock-exchange-201100192.html",
-      "publisher": "Business Wire",
-      "time": 1787083860,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "26cadd77-eccf-3f81-90aa-6850eb8bc4e8",
-      "title": "Via 313 Introduces New DLX 313 Four-Flavor Pizza",
-      "link": "https://finance.yahoo.com/m/26cadd77-eccf-3f81-90aa-6850eb8bc4e8/via-313-introduces-new-dlx.html",
-      "publisher": "FSR",
-      "time": 1787083806,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "55f9ba72-e060-310d-b181-9c0dfefc6d85",
-      "title": "Stacked Bobs and Silver Blends: The Biggest Fall Hair Trends for Women Over 50",
-      "link": "https://finance.yahoo.com/m/55f9ba72-e060-310d-b181-9c0dfefc6d85/stacked-bobs-and-silver.html",
-      "publisher": "WWD",
-      "time": 1787083800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6e0cd60d-f1a8-3a9e-a432-de2f5df7c12c",
-      "title": "Homes.com Report: U.S. Home Prices Rise 2.6% Despite Expanding Inventory as Sales Continue to Grow",
-      "link": "https://finance.yahoo.com/real-estate/articles/homes-com-report-u-home-201000484.html",
-      "publisher": "Business Wire",
-      "time": 1787083800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7eedd81a-bcdf-3188-8afb-c7f347377fa7",
-      "title": "Bitcoin selling pressure is mounting, analyst warns of $54,000 if key support breaks",
-      "link": "https://finance.yahoo.com/m/7eedd81a-bcdf-3188-8afb-c7f347377fa7/bitcoin-selling-pressure-is.html",
-      "publisher": "TheStreet",
-      "time": 1787083800,
-      "impact": "high",
+      "time": 1787085966,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "geo"
       ]
     },
     {
-      "id": "27c10b8e-cd61-3218-9931-702cdbec8446",
-      "title": "Royal Gold Announces Fourth Quarter Dividend",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/royal-gold-announces-fourth-quarter-200800966.html",
-      "publisher": "Business Wire",
-      "time": 1787083680,
+      "id": "b2b36e7e-c929-3c22-9496-f05a74134737",
+      "title": "Big Hedge Funds Cut Micron After Its 255% Rally",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/big-hedge-funds-cut-micron-204439263.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787085879,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "922838bc-0a6a-3a07-bb46-660b2a8b4579",
-      "title": "Umb Financial Insider Sold Shares Worth $303,220, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/umb-financial-insider-sold-shares-200703617.html",
-      "publisher": "MT Newswires",
-      "time": 1787083623,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "24bc6ace-1d35-33d2-87a0-6ba0a546e62f",
-      "title": "Mercury Systems Fiscal Q4 Adjusted Earnings Fall, Revenue Rises",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mercury-systems-fiscal-q4-adjusted-200558303.html",
-      "publisher": "MT Newswires",
-      "time": 1787083558,
+      "id": "6fd70b4e-f385-3021-92be-ae24be3bed2a",
+      "title": "Toll Brothers: Fiscal Q3 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-fiscal-q3-earnings-204009066.html",
+      "publisher": "Associated Press",
+      "time": 1787085609,
       "impact": "medium",
       "tags": [
         "macro",
@@ -139,11 +84,72 @@
       ]
     },
     {
-      "id": "34ce4c76-8401-354a-a954-0f6eb96e899d",
-      "title": "Chiron Real Estate Inc. Announces the Declaration of its October, November and December 2026 Common Dividends and Third Quarter Series A and Series B Preferred Dividends",
-      "link": "https://finance.yahoo.com/real-estate/articles/chiron-real-estate-inc-announces-200500269.html",
-      "publisher": "Business Wire",
-      "time": 1787083500,
+      "id": "f426ad8b-7fd6-3dfe-a376-87e3dfa36647",
+      "title": "Ex-Morgan Stanley Advisor Alleges Firm 'Circled The Wagons' After Misconduct Claims",
+      "link": "https://finance.yahoo.com/m/f426ad8b-7fd6-3dfe-a376-87e3dfa36647/ex-morgan-stanley-advisor.html",
+      "publisher": "Wealth Management",
+      "time": 1787085497,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "08c14c4f-0dd2-3feb-b2c2-d9f870bc8b92",
+      "title": "M&T Bank Corporation Announces Third Quarter Common Stock Dividend",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/m-t-bank-corporation-announces-203800554.html",
+      "publisher": "PR Newswire",
+      "time": 1787085480,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "54d8f8fd-6ccc-3c78-8aac-46169d628fa3",
+      "title": "Here's My Plan in Case Social Security Is Cut",
+      "link": "https://finance.yahoo.com/m/54d8f8fd-6ccc-3c78-8aac-46169d628fa3/here%27s-my-plan-in-case-social.html",
+      "publisher": "Motley Fool",
+      "time": 1787085480,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ec3b2ff6-dc00-3580-9c23-2fdc4e6dda80",
+      "title": "Toll Brothers’s (NYSE:TOL) Q2 CY2026: Beats On Revenue",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-nyse-tol-q2-203736840.html",
+      "publisher": "StockStory",
+      "time": 1787085456,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "12bf7585-eaf1-33b6-bb8b-ece9d2bce2a1",
+      "title": "Why Veeva Systems (VEEV) Stock Is Up Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-veeva-systems-veev-stock-203733857.html",
+      "publisher": "StockStory",
+      "time": 1787085453,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "513ea350-77bd-33fb-8fdd-eaea6659326a",
+      "title": "Gas prices are climbing. How it impacts your wallet",
+      "link": "https://finance.yahoo.com/m/513ea350-77bd-33fb-8fdd-eaea6659326a/gas-prices-are-climbing.-how.html",
+      "publisher": "USA TODAY",
+      "time": 1787085428,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b9b544ba-9036-3107-8c0b-6bca8f05804a",
+      "title": "Texas governor sued by Minnesota AG over extradition of ICE agent",
+      "link": "https://finance.yahoo.com/m/b9b544ba-9036-3107-8c0b-6bca8f05804a/texas-governor-sued-by.html",
+      "publisher": "USA TODAY",
+      "time": 1787085426,
       "impact": "low",
       "tags": []
     }
