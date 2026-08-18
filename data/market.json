@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-18T09:03:03.992048+00:00",
+  "updatedAt": "2026-08-18T09:56:27.813082+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20022.1,
-      "change": 40.19999999999709,
-      "changePct": 0.20118206977313013,
+      "price": 19992.4,
+      "change": 10.5,
+      "changePct": 0.05254755553776167,
       "currency": "EUR"
     },
     {
@@ -28,190 +28,62 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26229.42,
-      "change": -210.89000000000306,
-      "changePct": -0.7976078949150107,
+      "price": 26206.69,
+      "change": -233.62000000000262,
+      "changePct": -0.8835751169332077,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6494.08,
-      "change": -36.36999999999989,
-      "changePct": -0.5569294612163004,
-      "currency": null
+      "price": 6486.72,
+      "change": -43.72999999999956,
+      "changePct": -0.669632261176482,
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.88,
-      "change": 0.6900000000000013,
-      "changePct": 4.542462146148791,
+      "price": 16.01,
+      "change": 0.8200000000000021,
+      "changePct": 5.398288347597116,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "1dadf369-5fde-34c6-8c87-eff023a04e8e",
-      "title": "Cochlear Ltd (CHEOF) (FY 2026) Earnings Call Highlights: Navigating Market Headwinds with Nexa ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/cochlear-ltd-cheof-fy-2026-090235566.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787043755,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "505aa837-1256-3730-9360-a404919fafd8",
-      "title": "Challenger Ltd (ASX:CGF) (FY 2026) Earnings Call Highlights: Record Annuity Sales and Strategic ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/challenger-ltd-asx-cgf-fy-090220456.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787043740,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "d7f2f629-4bb0-3440-8029-e43e4ebd0307",
-      "title": "SKS Technologies Group Ltd (ASX:SKS) (FY 2026) Earnings Call Highlights: Record Revenue Surge ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sks-technologies-group-ltd-asx-090220487.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787043740,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "1ddadbb3-a51c-3d0b-bd33-08c5e136328e",
-      "title": "BHP Group Ltd (BHP) (FY 2026) Earnings Call Highlights: Record Copper Output and $33B EBITDA ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bhp-group-ltd-bhp-fy-090219046.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787043739,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "b21cdebb-ea11-3b06-9f0e-eef185f213e6",
-      "title": "Macmahon Holdings Ltd (MCHHF) (FY 2026) Earnings Call Highlights: Record Revenue and Strategic ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/macmahon-holdings-ltd-mchhf-fy-090213022.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787043733,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "04b471ef-8db0-3957-9952-d03428cb9934",
-      "title": "Pro Medicus Ltd (PMCUF) (FY 2026) Earnings Call Highlights: Record Revenue and Strategic ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pro-medicus-ltd-pmcuf-fy-090156300.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787043716,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a2aeef07-8f4c-36c4-9812-281e476b0404",
-      "title": "SRG Global Ltd (ASX:SRG) (FY 2026) Earnings Call Highlights: Record EBITDA and Upgraded ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/srg-global-ltd-asx-srg-090151612.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787043711,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "2d1f7eac-0b42-304c-bcd7-868e71cf9bba",
-      "title": "Leal Therapeutics raises $30m to fund schizophrenia and ALS trials",
-      "link": "https://finance.yahoo.com/m/2d1f7eac-0b42-304c-bcd7-868e71cf9bba/leal-therapeutics-raises-%2430m.html",
-      "publisher": "Clinical Trials Arena",
-      "time": 1787043671,
+      "id": "c5b93f6d-cf39-3818-9071-cce318803c5e",
+      "title": "Philippine student killed in livestreamed school shooting",
+      "link": "https://finance.yahoo.com/m/c5b93f6d-cf39-3818-9071-cce318803c5e/philippine-student-killed-in.html",
+      "publisher": "AFP",
+      "time": 1787046865,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2952c59b-2ae0-3ed1-858e-7ae95ab574eb",
-      "title": "Banco do Brasil SA BB Brasil (BDORY) (Q2 2026) Earnings Call Highlights: Strong Earnings Growth ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/banco-brasil-sa-bb-brasil-090110059.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787043670,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "aee31c53-17d7-360c-a613-0ebc3dae464d",
-      "title": "Fulcrum and Slate Medicines sign merger agreement",
-      "link": "https://finance.yahoo.com/m/aee31c53-17d7-360c-a613-0ebc3dae464d/fulcrum-and-slate-medicines.html",
-      "publisher": "Pharmaceutical Technology",
-      "time": 1787043407,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c47e04b3-0886-39f7-afa2-978312b93498",
-      "title": "JBS-backed Pilgrim’s to buy UK pork firm Walkers from Samworth",
-      "link": "https://finance.yahoo.com/m/c47e04b3-0886-39f7-afa2-978312b93498/jbs-backed-pilgrim%E2%80%99s-to-buy.html",
-      "publisher": "Just Food",
-      "time": 1787043257,
+      "id": "936ca9db-03ee-3bb6-bbee-f0c79a2ffa14",
+      "title": "VinFast to establish new partnership with Indonesia’s Gowa Motor Group",
+      "link": "https://finance.yahoo.com/m/936ca9db-03ee-3bb6-bbee-f0c79a2ffa14/vinfast-to-establish-new.html",
+      "publisher": "Just Auto",
+      "time": 1787046749,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d7897508-21eb-3638-a2ef-f680a18ea9e7",
-      "title": "3 Unpopular Stocks with Open Questions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-unpopular-stocks-open-questions-085333423.html",
+      "id": "ef4e8b91-b558-3090-a2ee-d364decd7952",
+      "title": "A Brinker Insider Ended the Day Owning More Stock. Here's What Long-Term Investors Should Know",
+      "link": "https://finance.yahoo.com/m/ef4e8b91-b558-3090-a2ee-d364decd7952/a-brinker-insider-ended-the.html",
+      "publisher": "Motley Fool",
+      "time": 1787046626,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c0c4d486-c1fb-374a-8248-e3c3c1ce352d",
+      "title": "1 Profitable Stock with Impressive Fundamentals and 2 We Question",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-impressive-fundamentals-094933173.html",
       "publisher": "StockStory",
-      "time": 1787043213,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "eee361d0-9309-3401-8c66-96ffff024815",
-      "title": "\"LIANGZHU CODE 5000\" Invites Global Explorers to Unlock an Ancient Civilization",
-      "link": "https://finance.yahoo.com/media-advertising/articles/liangzhu-code-5000-invites-global-085300381.html",
-      "publisher": "PR Newswire",
-      "time": 1787043180,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2478eb27-a457-3a95-8d0d-c2e93d04cf84",
-      "title": "Chemular launches child-resistant packaging for nicotine pouches",
-      "link": "https://finance.yahoo.com/m/2478eb27-a457-3a95-8d0d-c2e93d04cf84/chemular-launches.html",
-      "publisher": "Packaging Gateway",
-      "time": 1787043147,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "59b03065-a463-3a7b-8566-bb22e8830dde",
-      "title": "Hesai Group Q2 Non-GAAP Earnings, Revenue Rise; Shares Down Pre-Bell",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hesai-group-q2-non-gaap-085052062.html",
-      "publisher": "MT Newswires",
-      "time": 1787043052,
+      "time": 1787046573,
       "impact": "medium",
       "tags": [
         "macro",
@@ -219,20 +91,59 @@
       ]
     },
     {
-      "id": "957dbde2-19e9-3b74-bb71-15be65c03270",
-      "title": "Arc Minerals selects contractor for drilling at Virgo project",
-      "link": "https://finance.yahoo.com/m/957dbde2-19e9-3b74-bb71-15be65c03270/arc-minerals-selects.html",
-      "publisher": "Mining Technology",
-      "time": 1787043005,
+      "id": "5b564e0d-53bc-3868-8d2a-c9317495f57d",
+      "title": "If I Were in My 20s, I'd Buy This Unstoppable Vanguard ETF and Hold It Forever",
+      "link": "https://finance.yahoo.com/m/5b564e0d-53bc-3868-8d2a-c9317495f57d/if-i-were-in-my-20s%2C-i%27d-buy.html",
+      "publisher": "Motley Fool",
+      "time": 1787046420,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9954a483-a3b2-36a6-86e0-5bec8c30e3e8",
-      "title": "SM Investments reports 8% growth in H1 net income to PHP45.9 billion on sustained consumer demand",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sm-investments-reports-8-growth-085000280.html",
+      "id": "3bddde4a-6081-38f8-a046-a4091d2d6c56",
+      "title": "SHINE Joins GE Vernova-Led ARPA-E Project to Modernize Nuclear Material Accountability in Fuel Recycling",
+      "link": "https://finance.yahoo.com/energy/articles/shine-joins-ge-vernova-led-094500166.html",
       "publisher": "PR Newswire",
-      "time": 1787043000,
+      "time": 1787046300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "70968e93-7264-3cfc-8eb7-a62d9db5ab00",
+      "title": "Oregon man won $5K a week for life from PCH — they went bankrupt and his income vanished. How to hold onto your wealth",
+      "link": "https://finance.yahoo.com/markets/articles/oregon-man-won-5k-week-111100662.html",
+      "publisher": "Moneywise",
+      "time": 1787046300,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "754fed0e-af42-3603-a637-33f168d41d9c",
+      "title": "SHINE to Support Argonne National Lab and Case Western Reserve University on High-Throughput Separation Technology to Advance Nuclear Fuel Recycling",
+      "link": "https://finance.yahoo.com/energy/articles/shine-support-argonne-national-lab-094500364.html",
+      "publisher": "PR Newswire",
+      "time": 1787046300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e2c8a0da-de84-31bf-8bce-163aff797578",
+      "title": "Turner-Wohlsen JV selected for $100m Brandywine Museum campus revamp",
+      "link": "https://finance.yahoo.com/m/e2c8a0da-de84-31bf-8bce-163aff797578/turner-wohlsen-jv-selected.html",
+      "publisher": "World Construction Network",
+      "time": 1787046253,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a6be08ae-7643-33af-b50a-6bb22b4d1327",
+      "title": "Fractal Wins US$17M+ Multi-Year AI Deal with a Fortune 500® U.S. Healthcare Organization",
+      "link": "https://finance.yahoo.com/healthcare/articles/fractal-wins-us-17m-multi-094400303.html",
+      "publisher": "PR Newswire",
+      "time": 1787046240,
       "impact": "low",
       "tags": []
     }
