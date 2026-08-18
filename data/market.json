@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T16:57:10.879177+00:00",
+  "updatedAt": "2026-08-18T17:25:51.350027+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7706.61,
-      "change": -79.15000000000055,
-      "changePct": -1.016599535562367,
+      "price": 7701.0,
+      "change": -84.76000000000022,
+      "changePct": -1.0886541583609077,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26375.396,
-      "change": -353.7639999999992,
-      "changePct": -1.3235133464725386,
+      "price": 26326.486,
+      "change": -402.67399999999907,
+      "changePct": -1.5064970242237283,
       "currency": "USD"
     },
     {
@@ -44,60 +44,46 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.68,
-      "change": 0.4900000000000002,
-      "changePct": 3.2258064516129044,
+      "price": 15.66,
+      "change": 0.47000000000000064,
+      "changePct": 3.0941408821593197,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "67264a14-9537-3402-a013-564649edc6cf",
-      "title": "3 Reasons We’re Fans of Zscaler (ZS)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-fans-zscaler-zs-165333703.html",
-      "publisher": "StockStory",
-      "time": 1787072013,
+      "id": "b43322fe-4906-3626-8e73-bab56d960d92",
+      "title": "Google Is Paying $10 Million to Use Spirit Airlines Data to Train Its AI Models",
+      "link": "https://finance.yahoo.com/m/b43322fe-4906-3626-8e73-bab56d960d92/google-is-paying-%2410-million.html",
+      "publisher": "decrypt",
+      "time": 1787073584,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "ff2b8230-0cc9-3f82-9451-8af19d6bb240",
-      "title": "Meet the Super Semiconductor Stock Crushing Nvidia in 2026",
-      "link": "https://finance.yahoo.com/m/ff2b8230-0cc9-3f82-9451-8af19d6bb240/meet-the-super-semiconductor.html",
-      "publisher": "Motley Fool",
-      "time": 1787071800,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "23c7fef2-247d-3079-9e27-54e76b4ada1d",
-      "title": "The AI startup whose valuation exploded in a matter of months",
-      "link": "https://finance.yahoo.com/m/23c7fef2-247d-3079-9e27-54e76b4ada1d/the-ai-startup-whose.html",
+      "id": "e629cf5c-e225-35ea-b9f8-efd0e446a3f6",
+      "title": "Automakers are quietly changing what's in your engine",
+      "link": "https://finance.yahoo.com/m/e629cf5c-e225-35ea-b9f8-efd0e446a3f6/automakers-are-quietly.html",
       "publisher": "TheStreet",
-      "time": 1787071620,
+      "time": 1787073516,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a4da7e77-1906-333e-a56a-d3cad22de460",
-      "title": "FRN Variable Rate Fix",
-      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-164600984.html",
-      "publisher": "Business Wire",
-      "time": 1787071560,
+      "id": "1b70dce4-089d-37ab-ba7f-3ae80b23977b",
+      "title": "Fidelity's FNCL or State Street's KBE: Which Financial ETF Is the Better Long-Term Buy?",
+      "link": "https://finance.yahoo.com/m/1b70dce4-089d-37ab-ba7f-3ae80b23977b/fidelity%27s-fncl-or-state.html",
+      "publisher": "Motley Fool",
+      "time": 1787073491,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bff1a2d0-e39d-33e2-bbe2-1a3e182b610f",
-      "title": "StepStone Group (STEP): Buy, Sell, or Hold Post Q2 Earnings?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stepstone-group-step-buy-sell-164533583.html",
+      "id": "bd128294-2b76-3170-b2bf-7bf6fa2ae34e",
+      "title": "Q2 Earnings Outperformers: Selective Insurance Group (NASDAQ:SIGI) And The Rest Of The Property & Casualty Insurance Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-outperformers-selective-insurance-171733542.html",
       "publisher": "StockStory",
-      "time": 1787071533,
+      "time": 1787073453,
       "impact": "medium",
       "tags": [
         "macro",
@@ -105,50 +91,59 @@
       ]
     },
     {
-      "id": "d379ed00-210f-3ce2-a0b6-673bd75ff7c9",
-      "title": "Disney and ABC sue FCC over early license review, alleging retaliation",
-      "link": "https://finance.yahoo.com/m/d379ed00-210f-3ce2-a0b6-673bd75ff7c9/disney-and-abc-sue-fcc-over.html",
-      "publisher": "CBS News",
-      "time": 1787071518,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "dff7591b-4191-34e1-91db-62fbf3330bc2",
-      "title": "State Farm issues $5B dividend. Who's eligible in Illinois?",
-      "link": "https://finance.yahoo.com/m/dff7591b-4191-34e1-91db-62fbf3330bc2/state-farm-issues-%245b.html",
-      "publisher": "Journal Star",
-      "time": 1787071506,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f2f3bb9b-c75e-31da-86e6-8ae41acfd124",
-      "title": "Correction: BHP's Fiscal 2026 Earnings, Revenue Rise",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/correction-bhp-apos-fiscal-2026-164454860.html",
-      "publisher": "MT Newswires",
-      "time": 1787071494,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "0d49d4cc-79d9-3e8d-9349-0a20c24da5c2",
-      "title": "InfraTech Capital Advances $2.7 Billion Data Center Investment Initiative in Texas Panhandle",
-      "link": "https://finance.yahoo.com/technology/articles/infratech-capital-advances-2-7-164400730.html",
-      "publisher": "Business Wire",
-      "time": 1787071440,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6951f2b8-80d5-3597-a860-cb7b5108d6ff",
-      "title": "DDH Home Organizing and Move Management Joins Franchise FastLane to Accelerate National Growth",
-      "link": "https://finance.yahoo.com/small-business/articles/ddh-home-organizing-move-management-164400495.html",
+      "id": "70289967-2110-35c3-9697-50af514a1fc8",
+      "title": "Pei Wei Asian Kitchen Unveils Fresh New Location in Boynton Beach",
+      "link": "https://finance.yahoo.com/small-business/articles/pei-wei-asian-kitchen-unveils-171700712.html",
       "publisher": "PR Newswire",
-      "time": 1787071440,
+      "time": 1787073420,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9b8466cc-dbb7-3bdd-8ecb-2e48f5a12f0c",
+      "title": "Hims & Hers CEO Andrew Dudum pushes back on FTC lawsuit",
+      "link": "https://finance.yahoo.com/m/9b8466cc-dbb7-3bdd-8ecb-2e48f5a12f0c/hims-%26-hers-ceo-andrew-dudum.html",
+      "publisher": "Quartz",
+      "time": 1787073379,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0c1f16f3-f194-3c26-b4d5-05eeea6fc988",
+      "title": "Is This The Next CoreWeave Or Nebius Group? A Crusoe IPO Looms",
+      "link": "https://finance.yahoo.com/m/0c1f16f3-f194-3c26-b4d5-05eeea6fc988/is-this-the-next-coreweave-or.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787073347,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a12fa28e-9984-3229-a438-3620a540d664",
+      "title": "Sector Update: Energy",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-171332852.html",
+      "publisher": "MT Newswires",
+      "time": 1787073212,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ac1d80ac-478e-35c5-bc41-b43d5fbccae9",
+      "title": "Tour the Freedom 250 Grand Prix track through downtown Washington DC",
+      "link": "https://finance.yahoo.com/m/ac1d80ac-478e-35c5-bc41-b43d5fbccae9/tour-the-freedom-250-grand.html",
+      "publisher": "USA TODAY",
+      "time": 1787073123,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a9c40ed3-d7ca-3de3-8635-4312c4cc6a2a",
+      "title": "ProStar's PointMan Solution Adopted by Penhall Subsurface in the US",
+      "link": "https://finance.yahoo.com/technology/articles/prostar-apos-pointman-solution-adopted-171202530.html",
+      "publisher": "MT Newswires",
+      "time": 1787073122,
       "impact": "low",
       "tags": []
     }
