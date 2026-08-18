@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T19:07:11.685885+00:00",
+  "updatedAt": "2026-08-18T19:47:26.028308+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7697.38,
-      "change": -88.38000000000011,
-      "changePct": -1.1351492982059568,
+      "price": 7697.55,
+      "change": -88.21000000000004,
+      "changePct": -1.1329658247878183,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26294.438,
-      "change": -434.7220000000016,
-      "changePct": -1.6263960408782079,
+      "price": 26306.39,
+      "change": -422.77000000000044,
+      "changePct": -1.5816808309726174,
       "currency": "USD"
     },
     {
@@ -39,24 +39,24 @@
       "price": 6468.17,
       "change": -62.279999999999745,
       "changePct": -0.953686193141357,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.67,
-      "change": 0.4800000000000004,
-      "changePct": 3.1599736668861125,
+      "price": 15.64,
+      "change": 0.45000000000000107,
+      "changePct": 2.9624753127057346,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "69b09fa9-5864-3ffc-94fc-f0dc1caf04dd",
-      "title": "VNET Group Inc (VNET) (Q2 2026) Earnings Call Highlights: Surpasses 1 Gigawatt Wholesale ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vnet-group-inc-vnet-q2-190225605.html",
+      "id": "6b1e5109-c6db-36ce-9261-b73a39757dc6",
+      "title": "Duos Technologies Stock Jumps on Q2 Earnings Beat",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/duos-technologies-stock-jumps-q2-194346630.html",
       "publisher": "GuruFocus.com",
-      "time": 1787079745,
+      "time": 1787082226,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,80 +64,65 @@
       ]
     },
     {
-      "id": "dd392de5-37b9-3cf3-bcb1-bc4d6d670c32",
-      "title": "ReNew Energy Global PLC (RNW) (Q1 2027) Earnings Call Highlights: Strong Growth and Strategic ...",
-      "link": "https://finance.yahoo.com/energy/articles/renew-energy-global-plc-rnw-190215154.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787079735,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e66a4946-9293-3c8f-ba32-057868cd5b8a",
-      "title": "Baidu Inc (BIDU) (Q2 2026) Earnings Call Highlights: AI Cloud Infra Surges 50% as GPU Cloud ...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/baidu-inc-bidu-q2-2026-190215314.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787079735,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "faffd1cb-5e8f-333a-996e-a8a6f343993c",
-      "title": "Xiaomi Corp (XIACF) (Q2 2026) Earnings Call Highlights: Record Smartphone ASP and AI ...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/xiaomi-corp-xiacf-q2-2026-190209188.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787079729,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "2e66adcd-d7ef-39aa-a73e-e58aa5ab25bc",
-      "title": "Amer Sports Inc (AS) (Q2 2026) Earnings Call Highlights: Record DTC Growth and Margin Expansion ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amer-sports-inc-q2-2026-190204924.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787079724,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "8ebf07b0-21e6-3e44-af6b-20d10dc1cbca",
-      "title": "SKP Bearing Industries Ltd (NSE:SKP) (Q1 2027) Earnings Call Highlights: Strong Growth, ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/skp-bearing-industries-ltd-nse-190155858.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787079715,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "1ed3767f-6e64-3835-8d8b-315d658d8041",
-      "title": "US moves to open vast tracts of pristine forests to logging",
-      "link": "https://finance.yahoo.com/m/1ed3767f-6e64-3835-8d8b-315d658d8041/us-moves-to-open-vast-tracts.html",
-      "publisher": "AFP",
-      "time": 1787079711,
+      "id": "c9f395cc-a008-3129-b10c-36e58d4ced79",
+      "title": "Thousands Gather as Ashley for the Arts Delivers a Weekend of Music, Art and Meaningful Impact",
+      "link": "https://finance.yahoo.com/media-advertising/articles/thousands-gather-ashley-arts-delivers-194200977.html",
+      "publisher": "PR Newswire",
+      "time": 1787082120,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4b8ca921-68cf-3dac-85c1-e53a38638c47",
-      "title": "TH International Ltd (THCH) (Q2 2026) Earnings Call Highlights: Navigating Headwinds with ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/th-international-ltd-thch-q2-190150135.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787079710,
+      "id": "9b25fefa-65f7-3ae2-bb18-3b720900cd9c",
+      "title": "Update: Targa Resources Shares Rise on New Permian Agreements With ExxonMobil",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-shares-rise-permian-194032492.html",
+      "publisher": "MT Newswires",
+      "time": 1787082032,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5a8abb97-a583-34e7-a0db-575433c4ebf2",
+      "title": "Genentech Marks Topping out Milestone for New Holly Springs, North Carolina Manufacturing Facility",
+      "link": "https://finance.yahoo.com/healthcare/articles/genentech-marks-topping-milestone-holly-194000874.html",
+      "publisher": "Business Wire",
+      "time": 1787082000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "29d5e79c-7ea0-3b26-bf65-69598c11f523",
+      "title": "The Government of Canada provides an update regarding the 2026 wildfire season - August update",
+      "link": "https://finance.yahoo.com/economy/policy/articles/government-canada-provides-regarding-2026-193900827.html",
+      "publisher": "CNW Group",
+      "time": 1787081940,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c6a6cadd-8a70-373a-a10a-1d66bb134e75",
+      "title": "ISS hosts first spacewalk by a Frenchwoman",
+      "link": "https://finance.yahoo.com/m/c6a6cadd-8a70-373a-a10a-1d66bb134e75/iss-hosts-first-spacewalk-by.html",
+      "publisher": "AFP",
+      "time": 1787081899,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "624badcb-0b11-33ef-a6cf-7214919cea63",
+      "title": "Union to hold solidarity rally outside Villa Marconi to protest job cuts, employer intimidation",
+      "link": "https://finance.yahoo.com/healthcare/articles/union-hold-solidarity-rally-outside-193800443.html",
+      "publisher": "Business Wire",
+      "time": 1787081880,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "25a94ec9-20dc-30b2-a1db-c65f3b0d4966",
+      "title": "Piramal Pharma Limited Completes Acquisition of Controlling Stake in Yapan Bio Private Limited",
+      "link": "https://finance.yahoo.com/healthcare/articles/piramal-pharma-limited-completes-acquisition-193600518.html",
+      "publisher": "CNW Group",
+      "time": 1787081760,
       "impact": "medium",
       "tags": [
         "macro",
@@ -145,28 +130,24 @@
       ]
     },
     {
-      "id": "3d4619a8-1240-36dc-8840-2f8ce75b4aac",
-      "title": "Pony AI Inc (PONY) (Q2 2026) Earnings Call Highlights: Robotaxi Revenue Soars 691% as Operating ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-inc-pony-q2-190149060.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787079709,
-      "impact": "medium",
+      "id": "4a8e884e-0077-33c5-94a0-bbfa0df5041b",
+      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-193526211.html",
+      "publisher": "MT Newswires",
+      "time": 1787081726,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "6fd27fcf-9ba1-3948-ae22-c366c910e7f4",
-      "title": "Hesai Group (HSAI) (Q2 2026) Earnings Call Highlights: Record Revenue and Robotics Expansion ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hesai-group-hsai-q2-2026-190146772.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787079706,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "28cb2438-33fc-3871-a9a6-25d6856ce16f",
+      "title": "In HelloNation, Residential Real Estate Expert Deb Ambrosi Explains Why Online Home Value Estimates Only Tell Part of the Story",
+      "link": "https://finance.yahoo.com/real-estate/articles/hellonation-residential-real-estate-expert-193500175.html",
+      "publisher": "PR Newswire",
+      "time": 1787081700,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
