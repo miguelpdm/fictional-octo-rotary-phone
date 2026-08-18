@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T17:25:51.350027+00:00",
+  "updatedAt": "2026-08-18T17:52:56.932310+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7701.0,
-      "change": -84.76000000000022,
-      "changePct": -1.0886541583609077,
+      "price": 7700.72,
+      "change": -85.03999999999996,
+      "changePct": -1.0922504675201903,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26326.486,
-      "change": -402.67399999999907,
-      "changePct": -1.5064970242237283,
+      "price": 26326.584,
+      "change": -402.57600000000093,
+      "changePct": -1.5061303834463968,
       "currency": "USD"
     },
     {
@@ -44,108 +44,107 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.66,
-      "change": 0.47000000000000064,
-      "changePct": 3.0941408821593197,
+      "price": 15.73,
+      "change": 0.5400000000000009,
+      "changePct": 3.554970375246879,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "b43322fe-4906-3626-8e73-bab56d960d92",
-      "title": "Google Is Paying $10 Million to Use Spirit Airlines Data to Train Its AI Models",
-      "link": "https://finance.yahoo.com/m/b43322fe-4906-3626-8e73-bab56d960d92/google-is-paying-%2410-million.html",
-      "publisher": "decrypt",
-      "time": 1787073584,
+      "id": "2ef2c251-f5d4-32f3-9cdc-ce39f40cdac6",
+      "title": "Above Food Ingredients Inc. Announces Strategic Investment",
+      "link": "https://finance.yahoo.com/small-business/articles/above-food-ingredients-inc-announces-174800774.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787075280,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e629cf5c-e225-35ea-b9f8-efd0e446a3f6",
-      "title": "Automakers are quietly changing what's in your engine",
-      "link": "https://finance.yahoo.com/m/e629cf5c-e225-35ea-b9f8-efd0e446a3f6/automakers-are-quietly.html",
-      "publisher": "TheStreet",
-      "time": 1787073516,
+      "id": "3807c0a3-fd0e-3084-88f0-27237f1f51e5",
+      "title": "National Down Syndrome Society Launches MinDSet Down Syndrome",
+      "link": "https://finance.yahoo.com/healthcare/articles/national-down-syndrome-society-launches-174800493.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787075280,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1b70dce4-089d-37ab-ba7f-3ae80b23977b",
-      "title": "Fidelity's FNCL or State Street's KBE: Which Financial ETF Is the Better Long-Term Buy?",
-      "link": "https://finance.yahoo.com/m/1b70dce4-089d-37ab-ba7f-3ae80b23977b/fidelity%27s-fncl-or-state.html",
-      "publisher": "Motley Fool",
-      "time": 1787073491,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bd128294-2b76-3170-b2bf-7bf6fa2ae34e",
-      "title": "Q2 Earnings Outperformers: Selective Insurance Group (NASDAQ:SIGI) And The Rest Of The Property & Casualty Insurance Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-outperformers-selective-insurance-171733542.html",
-      "publisher": "StockStory",
-      "time": 1787073453,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "70289967-2110-35c3-9697-50af514a1fc8",
-      "title": "Pei Wei Asian Kitchen Unveils Fresh New Location in Boynton Beach",
-      "link": "https://finance.yahoo.com/small-business/articles/pei-wei-asian-kitchen-unveils-171700712.html",
-      "publisher": "PR Newswire",
-      "time": 1787073420,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9b8466cc-dbb7-3bdd-8ecb-2e48f5a12f0c",
-      "title": "Hims & Hers CEO Andrew Dudum pushes back on FTC lawsuit",
-      "link": "https://finance.yahoo.com/m/9b8466cc-dbb7-3bdd-8ecb-2e48f5a12f0c/hims-%26-hers-ceo-andrew-dudum.html",
+      "id": "bd358c62-2927-3be6-b99b-859a0d0a238f",
+      "title": "Google and U.K. launch AI trial to reduce aircraft contrails",
+      "link": "https://finance.yahoo.com/m/bd358c62-2927-3be6-b99b-859a0d0a238f/google-and-u.k.-launch-ai.html",
       "publisher": "Quartz",
-      "time": 1787073379,
+      "time": 1787075104,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0c1f16f3-f194-3c26-b4d5-05eeea6fc988",
-      "title": "Is This The Next CoreWeave Or Nebius Group? A Crusoe IPO Looms",
-      "link": "https://finance.yahoo.com/m/0c1f16f3-f194-3c26-b4d5-05eeea6fc988/is-this-the-next-coreweave-or.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787073347,
-      "impact": "medium",
+      "id": "2dcc4ab7-68a3-31e8-b086-2b204b7a5a59",
+      "title": "Elon Musk Says SpaceX Will Hit $1 Trillion in Revenue by 2030 -- 1 Year Faster Than the Original Timeline. Here's the Math Behind the New Number.",
+      "link": "https://finance.yahoo.com/m/2dcc4ab7-68a3-31e8-b086-2b204b7a5a59/elon-musk-says-spacex-will.html",
+      "publisher": "Motley Fool",
+      "time": 1787075100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "828c770e-192a-3794-aaa5-56b0522b6df5",
+      "title": "High Profile Cannabis Opens Second Kentucky Dispensary in Wilder, Bringing Medical Access to Northern Kentucky",
+      "link": "https://finance.yahoo.com/healthcare/articles/high-profile-cannabis-opens-second-174500269.html",
+      "publisher": "PR Newswire",
+      "time": 1787075100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bf433d71-5937-31cc-90b8-345978b3cad9",
+      "title": "In HelloNation, Insurance Expert Nathan Marcus of Huntsville, AL, Breaks Down How New Construction and Home Upgrades Affect Coverage",
+      "link": "https://finance.yahoo.com/real-estate/articles/hellonation-insurance-expert-nathan-marcus-174500801.html",
+      "publisher": "PR Newswire",
+      "time": 1787075100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "72665ba0-329d-38ef-8e46-3dd6a300dfe1",
+      "title": "LeBron James’ Golf YouTube Channel Reaches 450K Subscribers In One Day As He Takes Viewers Inside His Journey Learning The Sport",
+      "link": "https://finance.yahoo.com/m/72665ba0-329d-38ef-8e46-3dd6a300dfe1/lebron-james%E2%80%99-golf-youtube.html",
+      "publisher": "AfroTech",
+      "time": 1787075096,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "53079238-4b7b-3f52-8ada-9114a2e9c503",
+      "title": "JPK Capital Holdings (Barbados) Inc. Announces Filing of Early Warning Report in Respect of AmeriTrust Financial Technologies Inc.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jpk-capital-holdings-barbados-inc-174300771.html",
+      "publisher": "CNW Group",
+      "time": 1787074980,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "a12fa28e-9984-3229-a438-3620a540d664",
-      "title": "Sector Update: Energy",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-171332852.html",
-      "publisher": "MT Newswires",
-      "time": 1787073212,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ac1d80ac-478e-35c5-bc41-b43d5fbccae9",
-      "title": "Tour the Freedom 250 Grand Prix track through downtown Washington DC",
-      "link": "https://finance.yahoo.com/m/ac1d80ac-478e-35c5-bc41-b43d5fbccae9/tour-the-freedom-250-grand.html",
+      "id": "103376f8-2d42-3da8-bbec-f69abe54925d",
+      "title": "Paxton blocks 116 more Texas cities from raising property taxes in 2026",
+      "link": "https://finance.yahoo.com/m/103376f8-2d42-3da8-bbec-f69abe54925d/paxton-blocks-116-more-texas.html",
       "publisher": "USA TODAY",
-      "time": 1787073123,
+      "time": 1787074924,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a9c40ed3-d7ca-3de3-8635-4312c4cc6a2a",
-      "title": "ProStar's PointMan Solution Adopted by Penhall Subsurface in the US",
-      "link": "https://finance.yahoo.com/technology/articles/prostar-apos-pointman-solution-adopted-171202530.html",
-      "publisher": "MT Newswires",
-      "time": 1787073122,
+      "id": "61214f0f-6985-388f-ba2c-3dd5fdbabcdf",
+      "title": "Property & Casualty Insurance Stocks Q2 Recap: Benchmarking Travelers (NYSE:TRV)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/property-casualty-insurance-stocks-q2-174133735.html",
+      "publisher": "StockStory",
+      "time": 1787074893,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
