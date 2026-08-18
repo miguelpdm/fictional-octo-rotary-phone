@@ -1,145 +1,146 @@
 {
-  "updatedAt": "2026-08-18T14:26:14.272488+00:00",
+  "updatedAt": "2026-08-18T15:01:10.336426+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20012.3,
-      "change": 30.399999999997817,
-      "changePct": 0.1521376846045562,
+      "price": 19980.3,
+      "change": -1.6000000000021828,
+      "changePct": -0.008007246558146035,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7708.76,
-      "change": -77.0,
-      "changePct": -0.9889850188035593,
+      "price": 7696.65,
+      "change": -89.11000000000058,
+      "changePct": -1.144525389942672,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26350.408,
-      "change": -378.7520000000004,
-      "changePct": -1.416999262228968,
+      "price": 26278.459,
+      "change": -450.70100000000093,
+      "changePct": -1.6861771937464587,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26182.26,
-      "change": -258.0500000000029,
-      "changePct": -0.9759719156091698,
+      "price": 26163.17,
+      "change": -277.14000000000306,
+      "changePct": -1.048172279371925,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6484.97,
-      "change": -45.47999999999956,
-      "changePct": -0.696429801927885,
+      "price": 6478.85,
+      "change": -51.599999999999454,
+      "changePct": -0.7901446301556471,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.8,
-      "change": 0.6100000000000012,
-      "changePct": 4.0157998683344385,
+      "price": 15.68,
+      "change": 0.4900000000000002,
+      "changePct": 3.2258064516129044,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "441cc0c9-508d-3d4f-be3a-7e79d3e1749b",
-      "title": "1 Small-Cap Stock for Long-Term Investors and 2 We Question",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-small-cap-stock-long-142133387.html",
-      "publisher": "StockStory",
-      "time": 1787062893,
-      "impact": "low",
+      "id": "d4dbe218-12f8-371b-95dc-2dfd2959689e",
+      "title": "Bank-offered SME insurance sees low take up as HSBC UK teams with Gallagher",
+      "link": "https://finance.yahoo.com/m/d4dbe218-12f8-371b-95dc-2dfd2959689e/bank-offered-sme-insurance.html",
+      "publisher": "Life Insurance International",
+      "time": 1787065198,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "f3171417-387b-327a-b85f-249875d3f3ab",
-      "title": "The UK and Google are testing changes to flight paths to tackle aviation's climate impact",
-      "link": "https://finance.yahoo.com/m/f3171417-387b-327a-b85f-249875d3f3ab/the-uk-and-google-are-testing.html",
-      "publisher": "Associated Press",
-      "time": 1787062884,
+      "id": "a9a62704-970b-34d5-b712-7823e2162dca",
+      "title": "Canadian Housing Starts Set to Grind Lower as Construction Headwinds Persist, TD Says",
+      "link": "https://finance.yahoo.com/real-estate/articles/canadian-housing-starts-set-grind-145818946.html",
+      "publisher": "MT Newswires",
+      "time": 1787065098,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2fe2034e-428f-3799-8a1d-1d453451056f",
-      "title": "Will Micron Stock Jump Another 200% By 2027? History Has a Clear Answer",
-      "link": "https://finance.yahoo.com/m/2fe2034e-428f-3799-8a1d-1d453451056f/will-micron-stock-jump.html",
-      "publisher": "Motley Fool",
-      "time": 1787062801,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "98a83d0f-9dc9-3825-81fc-bce5b59501b8",
-      "title": "1 Number That Makes Nike's Turnaround Worth Watching This Month",
-      "link": "https://finance.yahoo.com/m/98a83d0f-9dc9-3825-81fc-bce5b59501b8/1-number-that-makes-nike%27s.html",
-      "publisher": "Motley Fool",
-      "time": 1787062800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fd3bb0ca-eca1-32c3-a70d-b2faa00cdf0a",
-      "title": "Vernier Science Education Adds Middle School Science Lessons to Vernier Connections® powered by Penda",
-      "link": "https://finance.yahoo.com/technology/articles/vernier-science-education-adds-middle-142000610.html",
-      "publisher": "PR Newswire",
-      "time": 1787062800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "03e83d2a-377b-37ff-b207-f6c11e871f07",
-      "title": "Michael Burry is Bullish on This Beaten-Down Healthcare Stock. Time to Buy?",
-      "link": "https://finance.yahoo.com/healthcare/articles/michael-burry-bullish-beaten-down-141932183.html",
-      "publisher": "Insider Monkey",
-      "time": 1787062772,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7e7ae183-e1cd-3785-bf6c-1646e9bf9626",
-      "title": "Interface (TILE) Posts Record Margins, But One Big Question Looms",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/interface-tile-posts-record-margins-141900350.html",
-      "publisher": "Insider Monkey",
-      "time": 1787062740,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ab317c9c-6043-399a-8a52-42f72be8d3eb",
-      "title": "Tiegen Boberg Sells Serrano's Most Iconic Modern Estate for $3,100,000",
-      "link": "https://finance.yahoo.com/real-estate/articles/tiegen-boberg-sells-serranos-most-141800483.html",
-      "publisher": "PR Newswire",
-      "time": 1787062680,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7adf7450-36fe-3a96-86c7-ff965c2a4450",
-      "title": "Swedish Trucking Company Jumps On Tesla Semi Truck Rollout",
-      "link": "https://finance.yahoo.com/m/7adf7450-36fe-3a96-86c7-ff965c2a4450/swedish-trucking-company.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787062676,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0fb16325-3d9b-33ab-99bb-ed368efb99c0",
-      "title": "Form 8.3",
-      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-141700520.html",
+      "id": "7f5de1c5-a912-30e6-b1f5-0680b7ec7b9b",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-145700195.html",
       "publisher": "Business Wire",
-      "time": 1787062620,
+      "time": 1787065020,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fb4e758f-e2b7-3522-8088-c6af9e2f41b8",
+      "title": "UBS Adjusts Price Target on Cenovus Energy to CA$52 From CA$46, Keeps Buy Rating",
+      "link": "https://finance.yahoo.com/energy/articles/ubs-adjusts-price-target-cenovus-145543296.html",
+      "publisher": "MT Newswires",
+      "time": 1787064943,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ea616d31-d198-43af-a1c8-8934944f1de2",
+      "title": "Tesla's new partnership: Swedish company Einride to deploy 500 Tesla semi-truck EVs",
+      "link": "https://finance.yahoo.com/video/teslas-new-partnership-swedish-company-einride-to-deploy-500-tesla-semi-truck-evs-145522754.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1787064922,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "04b4ac58-d4f6-32ff-94dd-c7e2d17c2bd6",
+      "title": "Argenx's Myositis Data Strengthen Efgartigimod Outlook, Morgan Stanley Says",
+      "link": "https://finance.yahoo.com/healthcare/articles/argenx-apos-myositis-data-strengthen-145448606.html",
+      "publisher": "MT Newswires",
+      "time": 1787064888,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f4c342c0-6050-33c0-88bb-015a3a392638",
+      "title": "Marwest Apartment REIT Declares Monthly Distribution of C$0.001455",
+      "link": "https://finance.yahoo.com/real-estate/articles/marwest-apartment-reit-declares-monthly-145316304.html",
+      "publisher": "MT Newswires",
+      "time": 1787064796,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "37d424ed-fdb0-309b-a48d-a8ee2b96b2bb",
+      "title": "DR Congo Ebola outbreak 'far from being under control': WHO chief",
+      "link": "https://finance.yahoo.com/m/37d424ed-fdb0-309b-a48d-a8ee2b96b2bb/dr-congo-ebola-outbreak-%27far.html",
+      "publisher": "AFP",
+      "time": 1787064756,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c23f1bf0-a9e6-3620-ab9e-7deee1ecb808",
+      "title": "North America's largest clean energy investment will unlock new economic opportunities",
+      "link": "https://finance.yahoo.com/energy/articles/north-americas-largest-clean-energy-145200464.html",
+      "publisher": "CNW Group",
+      "time": 1787064720,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ded3cb02-2ed0-3549-a483-59d5f50957a6",
+      "title": "There Is Now a Way to Collect 6.25% From Google. It Stops Paying in 2029",
+      "link": "https://finance.yahoo.com/m/ded3cb02-2ed0-3549-a483-59d5f50957a6/there-is-now-a-way-to-collect.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787064616,
       "impact": "low",
       "tags": []
     }
