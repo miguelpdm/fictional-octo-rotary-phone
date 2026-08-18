@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T16:24:40.887170+00:00",
+  "updatedAt": "2026-08-18T16:57:10.879177+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7705.85,
-      "change": -79.90999999999985,
-      "changePct": -1.026360946137562,
+      "price": 7706.61,
+      "change": -79.15000000000055,
+      "changePct": -1.016599535562367,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26357.701,
-      "change": -371.4589999999989,
-      "changePct": -1.389714454176633,
+      "price": 26375.396,
+      "change": -353.7639999999992,
+      "changePct": -1.3235133464725386,
       "currency": "USD"
     },
     {
@@ -39,42 +39,35 @@
       "price": 6468.17,
       "change": -62.279999999999745,
       "changePct": -0.953686193141357,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.69,
-      "change": 0.5,
-      "changePct": 3.2916392363396976,
+      "price": 15.68,
+      "change": 0.4900000000000002,
+      "changePct": 3.2258064516129044,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "cb9642ea-69db-45c8-8c2b-64a38ccacfec",
-      "title": "Nasdaq is set to begin 23-hour trading in December. You can thank crypto for that.",
-      "link": "https://finance.yahoo.com/video/nasdaq-set-begin-23-hour-162000492.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1787070000,
+      "id": "67264a14-9537-3402-a013-564649edc6cf",
+      "title": "3 Reasons We’re Fans of Zscaler (ZS)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-fans-zscaler-zs-165333703.html",
+      "publisher": "StockStory",
+      "time": 1787072013,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     },
     {
-      "id": "f156cbba-3ca1-3be5-bba0-ccb47a69c96c",
-      "title": "Gan Jia Yue named Geely CEO, founder Li Shu Fu resigns",
-      "link": "https://finance.yahoo.com/m/f156cbba-3ca1-3be5-bba0-ccb47a69c96c/gan-jia-yue-named-geely-ceo%2C.html",
-      "publisher": "Just Auto",
-      "time": 1787069891,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c284697c-3ef9-3d49-8ca2-3f3f5bb10cbb",
-      "title": "Home Depot's CFO just called it a \"frozen housing market\". 🧊\n\nHe implied in the company's earnings call that greater uncertainty in the market led the company to reaffirm rather than raise its guidance.",
-      "link": "https://finance.yahoo.com/photos/home-depots-cfo-just-called-161721115/",
-      "publisher": "Yahoo Finance",
-      "time": 1787069841,
+      "id": "ff2b8230-0cc9-3f82-9451-8af19d6bb240",
+      "title": "Meet the Super Semiconductor Stock Crushing Nvidia in 2026",
+      "link": "https://finance.yahoo.com/m/ff2b8230-0cc9-3f82-9451-8af19d6bb240/meet-the-super-semiconductor.html",
+      "publisher": "Motley Fool",
+      "time": 1787071800,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,71 +75,80 @@
       ]
     },
     {
-      "id": "2bc33930-781b-34b9-943e-39e0bbceea12",
-      "title": "Trump, Carney hold talks as new US tariffs on Canada loom",
-      "link": "https://finance.yahoo.com/economy/policy/articles/canada-seeks-avert-us-tariffs-152232618.html",
-      "publisher": "AFP",
-      "time": 1787069836,
-      "impact": "high",
+      "id": "23c7fef2-247d-3079-9e27-54e76b4ada1d",
+      "title": "The AI startup whose valuation exploded in a matter of months",
+      "link": "https://finance.yahoo.com/m/23c7fef2-247d-3079-9e27-54e76b4ada1d/the-ai-startup-whose.html",
+      "publisher": "TheStreet",
+      "time": 1787071620,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a4da7e77-1906-333e-a56a-d3cad22de460",
+      "title": "FRN Variable Rate Fix",
+      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-164600984.html",
+      "publisher": "Business Wire",
+      "time": 1787071560,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bff1a2d0-e39d-33e2-bbe2-1a3e182b610f",
+      "title": "StepStone Group (STEP): Buy, Sell, or Hold Post Q2 Earnings?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stepstone-group-step-buy-sell-164533583.html",
+      "publisher": "StockStory",
+      "time": 1787071533,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "49eb19b6-bc40-380e-a683-81a14bb58025",
-      "title": "AM Best Upgrades Issuer Credit Ratings of Kinsale Insurance Company and Kinsale Capital Group, Inc.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/am-best-upgrades-issuer-credit-161700645.html",
-      "publisher": "Business Wire",
-      "time": 1787069820,
+      "id": "d379ed00-210f-3ce2-a0b6-673bd75ff7c9",
+      "title": "Disney and ABC sue FCC over early license review, alleging retaliation",
+      "link": "https://finance.yahoo.com/m/d379ed00-210f-3ce2-a0b6-673bd75ff7c9/disney-and-abc-sue-fcc-over.html",
+      "publisher": "CBS News",
+      "time": 1787071518,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ec573853-5ea4-3cc2-aebf-9a7dc26f7b21",
-      "title": "The NNA Brings Policy Expertise to NASS Summer Conference",
-      "link": "https://finance.yahoo.com/economy/policy/articles/nna-brings-policy-expertise-nass-161700049.html",
-      "publisher": "Business Wire",
-      "time": 1787069820,
+      "id": "dff7591b-4191-34e1-91db-62fbf3330bc2",
+      "title": "State Farm issues $5B dividend. Who's eligible in Illinois?",
+      "link": "https://finance.yahoo.com/m/dff7591b-4191-34e1-91db-62fbf3330bc2/state-farm-issues-%245b.html",
+      "publisher": "Journal Star",
+      "time": 1787071506,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5adbe16c-fa22-3437-9d41-67bb2c544624",
-      "title": "Diageo Cuts Headcount by Almost 2,000 in Fiscal 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/diageo-cuts-headcount-almost-2-161640164.html",
+      "id": "f2f3bb9b-c75e-31da-86e6-8ae41acfd124",
+      "title": "Correction: BHP's Fiscal 2026 Earnings, Revenue Rise",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/correction-bhp-apos-fiscal-2026-164454860.html",
       "publisher": "MT Newswires",
-      "time": 1787069800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3fd923e9-8bc8-3db0-853a-31011aeed2e5",
-      "title": "SOZO® Digital Health Platform Receives FDA Clearance for Sarcopenia Risk Assessment",
-      "link": "https://finance.yahoo.com/healthcare/articles/sozo-digital-health-platform-receives-161500853.html",
-      "publisher": "PR Newswire",
-      "time": 1787069700,
-      "impact": "high",
+      "time": 1787071494,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "1e1c3b93-bfbd-3f33-bdb1-8872337696c6",
-      "title": "India’s Minda to invest Rs2.70bn for automotive TFT displays – report",
-      "link": "https://finance.yahoo.com/m/1e1c3b93-bfbd-3f33-bdb1-8872337696c6/india%E2%80%99s-minda-to-invest.html",
-      "publisher": "Just Auto",
-      "time": 1787069696,
+      "id": "0d49d4cc-79d9-3e8d-9349-0a20c24da5c2",
+      "title": "InfraTech Capital Advances $2.7 Billion Data Center Investment Initiative in Texas Panhandle",
+      "link": "https://finance.yahoo.com/technology/articles/infratech-capital-advances-2-7-164400730.html",
+      "publisher": "Business Wire",
+      "time": 1787071440,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "436ad313-01bf-3e6a-a9e1-0cf801f1d01c",
-      "title": "HelloNation Highlights the Importance of Radon Testing in Iowa Homes, Featuring Home Inspection Experts Logan Loftus & Nick Mullnix",
-      "link": "https://finance.yahoo.com/healthcare/articles/hellonation-highlights-importance-radon-testing-161400820.html",
+      "id": "6951f2b8-80d5-3597-a860-cb7b5108d6ff",
+      "title": "DDH Home Organizing and Move Management Joins Franchise FastLane to Accelerate National Growth",
+      "link": "https://finance.yahoo.com/small-business/articles/ddh-home-organizing-move-management-164400495.html",
       "publisher": "PR Newswire",
-      "time": 1787069640,
+      "time": 1787071440,
       "impact": "low",
       "tags": []
     }
