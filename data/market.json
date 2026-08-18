@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T19:47:26.028308+00:00",
+  "updatedAt": "2026-08-18T20:15:45.884223+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7697.55,
-      "change": -88.21000000000004,
-      "changePct": -1.1329658247878183,
+      "price": 7691.76,
+      "change": -94.0,
+      "changePct": -1.2073323606173323,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26306.39,
-      "change": -422.77000000000044,
-      "changePct": -1.5816808309726174,
+      "price": 26289.71,
+      "change": -439.4500000000007,
+      "changePct": -1.644084587768567,
       "currency": "USD"
     },
     {
@@ -39,113 +39,111 @@
       "price": 6468.17,
       "change": -62.279999999999745,
       "changePct": -0.953686193141357,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.64,
-      "change": 0.45000000000000107,
-      "changePct": 2.9624753127057346,
+      "price": 15.81,
+      "change": 0.620000000000001,
+      "changePct": 4.081632653061231,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "6b1e5109-c6db-36ce-9261-b73a39757dc6",
-      "title": "Duos Technologies Stock Jumps on Q2 Earnings Beat",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/duos-technologies-stock-jumps-q2-194346630.html",
+      "id": "7b71538b-a3fd-3576-9efc-fe85bee1685f",
+      "title": "SK Hynix Stock Crashes 8.4% as AI Memory Euphoria Breaks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-stock-crashes-8-201415991.html",
       "publisher": "GuruFocus.com",
-      "time": 1787082226,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c9f395cc-a008-3129-b10c-36e58d4ced79",
-      "title": "Thousands Gather as Ashley for the Arts Delivers a Weekend of Music, Art and Meaningful Impact",
-      "link": "https://finance.yahoo.com/media-advertising/articles/thousands-gather-ashley-arts-delivers-194200977.html",
-      "publisher": "PR Newswire",
-      "time": 1787082120,
+      "time": 1787084055,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9b25fefa-65f7-3ae2-bb18-3b720900cd9c",
-      "title": "Update: Targa Resources Shares Rise on New Permian Agreements With ExxonMobil",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-shares-rise-permian-194032492.html",
-      "publisher": "MT Newswires",
-      "time": 1787082032,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5a8abb97-a583-34e7-a0db-575433c4ebf2",
-      "title": "Genentech Marks Topping out Milestone for New Holly Springs, North Carolina Manufacturing Facility",
-      "link": "https://finance.yahoo.com/healthcare/articles/genentech-marks-topping-milestone-holly-194000874.html",
+      "id": "ad46e086-8665-3103-a933-c24712839718",
+      "title": "Offerpad Announces Transfer of Stock Exchange Listing to Nasdaq",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/offerpad-announces-transfer-stock-exchange-201100192.html",
       "publisher": "Business Wire",
-      "time": 1787082000,
+      "time": 1787083860,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "29d5e79c-7ea0-3b26-bf65-69598c11f523",
-      "title": "The Government of Canada provides an update regarding the 2026 wildfire season - August update",
-      "link": "https://finance.yahoo.com/economy/policy/articles/government-canada-provides-regarding-2026-193900827.html",
-      "publisher": "CNW Group",
-      "time": 1787081940,
+      "id": "26cadd77-eccf-3f81-90aa-6850eb8bc4e8",
+      "title": "Via 313 Introduces New DLX 313 Four-Flavor Pizza",
+      "link": "https://finance.yahoo.com/m/26cadd77-eccf-3f81-90aa-6850eb8bc4e8/via-313-introduces-new-dlx.html",
+      "publisher": "FSR",
+      "time": 1787083806,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c6a6cadd-8a70-373a-a10a-1d66bb134e75",
-      "title": "ISS hosts first spacewalk by a Frenchwoman",
-      "link": "https://finance.yahoo.com/m/c6a6cadd-8a70-373a-a10a-1d66bb134e75/iss-hosts-first-spacewalk-by.html",
-      "publisher": "AFP",
-      "time": 1787081899,
+      "id": "55f9ba72-e060-310d-b181-9c0dfefc6d85",
+      "title": "Stacked Bobs and Silver Blends: The Biggest Fall Hair Trends for Women Over 50",
+      "link": "https://finance.yahoo.com/m/55f9ba72-e060-310d-b181-9c0dfefc6d85/stacked-bobs-and-silver.html",
+      "publisher": "WWD",
+      "time": 1787083800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "624badcb-0b11-33ef-a6cf-7214919cea63",
-      "title": "Union to hold solidarity rally outside Villa Marconi to protest job cuts, employer intimidation",
-      "link": "https://finance.yahoo.com/healthcare/articles/union-hold-solidarity-rally-outside-193800443.html",
+      "id": "6e0cd60d-f1a8-3a9e-a432-de2f5df7c12c",
+      "title": "Homes.com Report: U.S. Home Prices Rise 2.6% Despite Expanding Inventory as Sales Continue to Grow",
+      "link": "https://finance.yahoo.com/real-estate/articles/homes-com-report-u-home-201000484.html",
       "publisher": "Business Wire",
-      "time": 1787081880,
+      "time": 1787083800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "25a94ec9-20dc-30b2-a1db-c65f3b0d4966",
-      "title": "Piramal Pharma Limited Completes Acquisition of Controlling Stake in Yapan Bio Private Limited",
-      "link": "https://finance.yahoo.com/healthcare/articles/piramal-pharma-limited-completes-acquisition-193600518.html",
-      "publisher": "CNW Group",
-      "time": 1787081760,
-      "impact": "medium",
+      "id": "7eedd81a-bcdf-3188-8afb-c7f347377fa7",
+      "title": "Bitcoin selling pressure is mounting, analyst warns of $54,000 if key support breaks",
+      "link": "https://finance.yahoo.com/m/7eedd81a-bcdf-3188-8afb-c7f347377fa7/bitcoin-selling-pressure-is.html",
+      "publisher": "TheStreet",
+      "time": 1787083800,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "4a8e884e-0077-33c5-94a0-bbfa0df5041b",
-      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-193526211.html",
-      "publisher": "MT Newswires",
-      "time": 1787081726,
-      "impact": "low",
-      "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "28cb2438-33fc-3871-a9a6-25d6856ce16f",
-      "title": "In HelloNation, Residential Real Estate Expert Deb Ambrosi Explains Why Online Home Value Estimates Only Tell Part of the Story",
-      "link": "https://finance.yahoo.com/real-estate/articles/hellonation-residential-real-estate-expert-193500175.html",
-      "publisher": "PR Newswire",
-      "time": 1787081700,
+      "id": "27c10b8e-cd61-3218-9931-702cdbec8446",
+      "title": "Royal Gold Announces Fourth Quarter Dividend",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/royal-gold-announces-fourth-quarter-200800966.html",
+      "publisher": "Business Wire",
+      "time": 1787083680,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "922838bc-0a6a-3a07-bb46-660b2a8b4579",
+      "title": "Umb Financial Insider Sold Shares Worth $303,220, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/umb-financial-insider-sold-shares-200703617.html",
+      "publisher": "MT Newswires",
+      "time": 1787083623,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "24bc6ace-1d35-33d2-87a0-6ba0a546e62f",
+      "title": "Mercury Systems Fiscal Q4 Adjusted Earnings Fall, Revenue Rises",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mercury-systems-fiscal-q4-adjusted-200558303.html",
+      "publisher": "MT Newswires",
+      "time": 1787083558,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "34ce4c76-8401-354a-a954-0f6eb96e899d",
+      "title": "Chiron Real Estate Inc. Announces the Declaration of its October, November and December 2026 Common Dividends and Third Quarter Series A and Series B Preferred Dividends",
+      "link": "https://finance.yahoo.com/real-estate/articles/chiron-real-estate-inc-announces-200500269.html",
+      "publisher": "Business Wire",
+      "time": 1787083500,
       "impact": "low",
       "tags": []
     }
