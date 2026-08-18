@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-18T09:56:27.813082+00:00",
+  "updatedAt": "2026-08-18T10:25:06.936503+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19992.4,
-      "change": 10.5,
-      "changePct": 0.05254755553776167,
+      "price": 20028.1,
+      "change": 46.19999999999709,
+      "changePct": 0.2312092443661368,
       "currency": "EUR"
     },
     {
@@ -28,122 +28,118 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26206.69,
-      "change": -233.62000000000262,
-      "changePct": -0.8835751169332077,
+      "price": 26266.01,
+      "change": -174.3000000000029,
+      "changePct": -0.6592207126164666,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6486.72,
-      "change": -43.72999999999956,
-      "changePct": -0.669632261176482,
+      "price": 6500.17,
+      "change": -30.279999999999745,
+      "changePct": -0.46367401940141556,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.01,
-      "change": 0.8200000000000021,
-      "changePct": 5.398288347597116,
+      "price": 15.92,
+      "change": 0.7300000000000004,
+      "changePct": 4.805793285055961,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "c5b93f6d-cf39-3818-9071-cce318803c5e",
-      "title": "Philippine student killed in livestreamed school shooting",
-      "link": "https://finance.yahoo.com/m/c5b93f6d-cf39-3818-9071-cce318803c5e/philippine-student-killed-in.html",
-      "publisher": "AFP",
-      "time": 1787046865,
+      "id": "82e217aa-ad6e-3340-ba50-40d3bf835012",
+      "title": "Reddit Stock Falls Ahead of Joining the S&P 500",
+      "link": "https://finance.yahoo.com/m/82e217aa-ad6e-3340-ba50-40d3bf835012/reddit-stock-falls-ahead-of.html",
+      "publisher": "Barrons.com",
+      "time": 1787048220,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "936ca9db-03ee-3bb6-bbee-f0c79a2ffa14",
-      "title": "VinFast to establish new partnership with Indonesia’s Gowa Motor Group",
-      "link": "https://finance.yahoo.com/m/936ca9db-03ee-3bb6-bbee-f0c79a2ffa14/vinfast-to-establish-new.html",
-      "publisher": "Just Auto",
-      "time": 1787046749,
+      "id": "ffb4187c-e391-37f3-9290-902e5208c508",
+      "title": "Manipal Hospital Whitefield Marks Independence Day by Celebrating the Spirit of Life",
+      "link": "https://finance.yahoo.com/healthcare/articles/manipal-hospital-whitefield-marks-independence-101700328.html",
+      "publisher": "PR Newswire",
+      "time": 1787048220,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ef4e8b91-b558-3090-a2ee-d364decd7952",
-      "title": "A Brinker Insider Ended the Day Owning More Stock. Here's What Long-Term Investors Should Know",
-      "link": "https://finance.yahoo.com/m/ef4e8b91-b558-3090-a2ee-d364decd7952/a-brinker-insider-ended-the.html",
-      "publisher": "Motley Fool",
-      "time": 1787046626,
+      "id": "5c899370-b968-33f7-9351-8c8bda4a9710",
+      "title": "ICAC Commissioner concludes ASEAN anti-corruption meeting in Malaysia to spearhead regional graft-fighting alliance",
+      "link": "https://finance.yahoo.com/economy/policy/articles/icac-commissioner-concludes-asean-anti-101600376.html",
+      "publisher": "PR Newswire",
+      "time": 1787048160,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c0c4d486-c1fb-374a-8248-e3c3c1ce352d",
-      "title": "1 Profitable Stock with Impressive Fundamentals and 2 We Question",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-impressive-fundamentals-094933173.html",
-      "publisher": "StockStory",
-      "time": 1787046573,
-      "impact": "medium",
+      "id": "780b8d4c-faf5-3576-b1e9-a96c7a767643",
+      "title": "Inside iconic pink home in Bay View listed at $469,000",
+      "link": "https://finance.yahoo.com/m/780b8d4c-faf5-3576-b1e9-a96c7a767643/inside-iconic-pink-home-in.html",
+      "publisher": "Milwaukee Journal Sentinel",
+      "time": 1787048160,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a5d82ac5-0e56-3691-b45e-9c2ce80b9b63",
+      "title": "Bay View's pink house is on the market for $469,000",
+      "link": "https://finance.yahoo.com/m/a5d82ac5-0e56-3691-b45e-9c2ce80b9b63/bay-view%27s-pink-house-is-on.html",
+      "publisher": "Milwaukee Journal Sentinel",
+      "time": 1787048153,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "5b564e0d-53bc-3868-8d2a-c9317495f57d",
-      "title": "If I Were in My 20s, I'd Buy This Unstoppable Vanguard ETF and Hold It Forever",
-      "link": "https://finance.yahoo.com/m/5b564e0d-53bc-3868-8d2a-c9317495f57d/if-i-were-in-my-20s%2C-i%27d-buy.html",
-      "publisher": "Motley Fool",
-      "time": 1787046420,
+      "id": "4d156f7b-b869-375e-be09-442c30441222",
+      "title": "JPMorgan Downgrades Millicom International Cellular to Neutral From Overweight, Adjusts PT to $105 From $100",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-downgrades-millicom-international-cellular-101529434.html",
+      "publisher": "MT Newswires",
+      "time": 1787048129,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3bddde4a-6081-38f8-a046-a4091d2d6c56",
-      "title": "SHINE Joins GE Vernova-Led ARPA-E Project to Modernize Nuclear Material Accountability in Fuel Recycling",
-      "link": "https://finance.yahoo.com/energy/articles/shine-joins-ge-vernova-led-094500166.html",
-      "publisher": "PR Newswire",
-      "time": 1787046300,
+      "id": "66c97d3a-4e16-3398-9cc8-aa4a57130f3f",
+      "title": "GE Vernova, SHINE Develop AI System To Track Spent Nuclear Fuel",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ge-vernova-shine-develop-ai-101524823.html",
+      "publisher": "MT Newswires",
+      "time": 1787048124,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "70968e93-7264-3cfc-8eb7-a62d9db5ab00",
-      "title": "Oregon man won $5K a week for life from PCH — they went bankrupt and his income vanished. How to hold onto your wealth",
-      "link": "https://finance.yahoo.com/markets/articles/oregon-man-won-5k-week-111100662.html",
+      "id": "6c3d0cc9-242e-3a60-b5e2-5de2e65c5e5a",
+      "title": "Why states fought to present a united case against Meta over youth social media harms",
+      "link": "https://finance.yahoo.com/m/6c3d0cc9-242e-3a60-b5e2-5de2e65c5e5a/why-states-fought-to-present.html",
+      "publisher": "Reuters",
+      "time": 1787048115,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a1be0a6c-ea2b-341c-b7d2-6aa87e357841",
+      "title": "Susquehanna Initiates Marriott Vacations Worldwide at Neutral With $110 Price Target",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/susquehanna-initiates-marriott-vacations-worldwide-101504977.html",
+      "publisher": "MT Newswires",
+      "time": 1787048104,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b454fc95-64bc-3d3a-b551-2bf7ec3ac4f4",
+      "title": "There’s a hidden Roth conversion window that shuts completely in 2028 — most US retirees don’t know it exists. Act now",
+      "link": "https://finance.yahoo.com/small-business/articles/hidden-roth-conversion-window-shuts-101500228.html",
       "publisher": "Moneywise",
-      "time": 1787046300,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "754fed0e-af42-3603-a637-33f168d41d9c",
-      "title": "SHINE to Support Argonne National Lab and Case Western Reserve University on High-Throughput Separation Technology to Advance Nuclear Fuel Recycling",
-      "link": "https://finance.yahoo.com/energy/articles/shine-support-argonne-national-lab-094500364.html",
-      "publisher": "PR Newswire",
-      "time": 1787046300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e2c8a0da-de84-31bf-8bce-163aff797578",
-      "title": "Turner-Wohlsen JV selected for $100m Brandywine Museum campus revamp",
-      "link": "https://finance.yahoo.com/m/e2c8a0da-de84-31bf-8bce-163aff797578/turner-wohlsen-jv-selected.html",
-      "publisher": "World Construction Network",
-      "time": 1787046253,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a6be08ae-7643-33af-b50a-6bb22b4d1327",
-      "title": "Fractal Wins US$17M+ Multi-Year AI Deal with a Fortune 500® U.S. Healthcare Organization",
-      "link": "https://finance.yahoo.com/healthcare/articles/fractal-wins-us-17m-multi-094400303.html",
-      "publisher": "PR Newswire",
-      "time": 1787046240,
+      "time": 1787048100,
       "impact": "low",
       "tags": []
     }
