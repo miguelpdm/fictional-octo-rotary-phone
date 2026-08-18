@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-18T11:49:17.894215+00:00",
+  "updatedAt": "2026-08-18T12:32:33.995729+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20023.2,
-      "change": 41.29999999999927,
-      "changePct": 0.20668705178185895,
+      "price": 20050.0,
+      "change": 68.09999999999854,
+      "changePct": 0.3408084316306184,
       "currency": "EUR"
     },
     {
@@ -28,35 +28,44 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26248.18,
-      "change": -192.13000000000102,
-      "changePct": -0.7266556254446375,
+      "price": 26248.91,
+      "change": -191.40000000000146,
+      "changePct": -0.7238946895857177,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6498.33,
-      "change": -32.11999999999989,
-      "changePct": -0.4918497193914645,
+      "price": 6502.04,
+      "change": -28.409999999999854,
+      "changePct": -0.4350389329984895,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.72,
-      "change": 0.5300000000000011,
-      "changePct": 3.489137590520087,
+      "price": 15.7,
+      "change": 0.5099999999999998,
+      "changePct": 3.35747202106649,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "0dc1193f-49c4-3132-9442-efcb7d6eb5e0",
-      "title": "JPMorgan chief cautions UK chancellor against tougher bank taxes – report",
-      "link": "https://finance.yahoo.com/m/0dc1193f-49c4-3132-9442-efcb7d6eb5e0/jpmorgan-chief-cautions-uk.html",
-      "publisher": "Retail Banker International",
-      "time": 1787053634,
+      "id": "654e403c-ed17-3d49-81c9-f57d98cb71ad",
+      "title": "US Equity Futures Lower Pre-Bell as Middle East Peace Prospects Dim",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-lower-pre-123001053.html",
+      "publisher": "MT Newswires",
+      "time": 1787056201,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6efa06d4-94f7-3ce3-b70c-1f843da1acb6",
+      "title": "Silvaco, Dassault Systemes to Jointly Develop Workflows for Semiconductor Manufacturing",
+      "link": "https://finance.yahoo.com/technology/articles/silvaco-dassault-systemes-jointly-develop-122733014.html",
+      "publisher": "MT Newswires",
+      "time": 1787056053,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,91 +73,79 @@
       ]
     },
     {
-      "id": "5dc6ddf6-2532-32b3-a91e-4cda2db6fd10",
-      "title": "La Vieille Ferme, Dash Water in rosé spritz tie-up",
-      "link": "https://finance.yahoo.com/m/5dc6ddf6-2532-32b3-a91e-4cda2db6fd10/la-vieille-ferme%2C-dash-water.html",
-      "publisher": "Just Drinks",
-      "time": 1787053588,
+      "id": "22b53102-1eb4-32fc-8630-6f312a0d8c69",
+      "title": "K2 Gold Provides Drill Results from Mojave Project in California",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/k2-gold-provides-drill-results-122722345.html",
+      "publisher": "MT Newswires",
+      "time": 1787056042,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9d62994d-7f36-3e99-be7e-91e991ea56e2",
-      "title": "UAE taps Ellen MacArthur Foundation for textiles circularity policy",
-      "link": "https://finance.yahoo.com/m/9d62994d-7f36-3e99-be7e-91e991ea56e2/uae-taps-ellen-macarthur.html",
-      "publisher": "Just Style",
-      "time": 1787053581,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cd5cc906-057b-34eb-b561-63d642505d0b",
-      "title": "Paramount seeks $1.88 billion bond in Warner Bros. merger antitrust case",
-      "link": "https://finance.yahoo.com/m/cd5cc906-057b-34eb-b561-63d642505d0b/paramount-seeks-%241.88-billion.html",
-      "publisher": "Quartz",
-      "time": 1787053529,
-      "impact": "high",
+      "id": "3f853651-f618-4aba-a770-b8fca7a59fe9",
+      "title": "Anthropic could beat Elon Musk's SpaceX for largest 2026 IPO, prediction markets show",
+      "link": "https://finance.yahoo.com/markets/stocks/article/anthropic-could-beat-elon-musks-spacex-for-largest-2026-ipo-prediction-markets-show-122619825.html",
+      "publisher": "Yahoo Finance",
+      "time": 1787055979,
+      "impact": "medium",
       "tags": [
-        "geo",
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a5ccafbe-b571-3ae3-b0c8-5892cd873d3b",
+      "title": "Dutch seafood group Zalmhuys buys importer BML",
+      "link": "https://finance.yahoo.com/m/a5ccafbe-b571-3ae3-b0c8-5892cd873d3b/dutch-seafood-group-zalmhuys.html",
+      "publisher": "Just Food",
+      "time": 1787055834,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0332519d-43d5-3104-9273-4314d9043f5d",
+      "title": "State Farm sends $5 billion dividend to auto policyholders",
+      "link": "https://finance.yahoo.com/m/0332519d-43d5-3104-9273-4314d9043f5d/state-farm-sends-%245-billion.html",
+      "publisher": "Quartz",
+      "time": 1787055740,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "762f6d26-3cb7-38ee-a7cb-c3313e467dc4",
+      "title": "Margaritaville Invites Guests to \"Keep the Party Going\" During Third Annual Jimmy Buffett Day Celebration and Day of Service",
+      "link": "https://finance.yahoo.com/media-advertising/articles/margaritaville-invites-guests-keep-party-122200556.html",
+      "publisher": "PR Newswire",
+      "time": 1787055720,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2d2fdd37-6131-3d41-8ca2-d338c36584e3",
+      "title": "Saratoga Investment Starts Public Offering of Unsecured Notes",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/saratoga-investment-starts-public-offering-122153899.html",
+      "publisher": "MT Newswires",
+      "time": 1787055713,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5dfc78a8-eecc-33c4-9350-a0497db0fcc5",
+      "title": "3 S&P 500 Stocks with Open Questions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-open-122133477.html",
+      "publisher": "StockStory",
+      "time": 1787055693,
+      "impact": "low",
+      "tags": [
         "macro"
       ]
     },
     {
-      "id": "e0adeaaa-2cf0-30b9-88f1-6bef609ddcbc",
-      "title": "How US military funding propelled China’s robot dogs",
-      "link": "https://finance.yahoo.com/video/us-military-funding-propelled-china-114256132.html",
-      "publisher": "Reuters Videos",
-      "time": 1787053376,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "b8f61fb8-d4db-3c6a-9b22-925c6fe9f8b5",
-      "title": "World Gym Launches Presales for Its First Thailand Club",
-      "link": "https://finance.yahoo.com/small-business/articles/world-gym-launches-presales-first-114100837.html",
-      "publisher": "PR Newswire",
-      "time": 1787053260,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8fbb0bd3-762b-340b-9f61-0e7d4779ab58",
-      "title": "Barclays names Mike Joo and Adeel Khan investment bank co-CEOs",
-      "link": "https://finance.yahoo.com/m/8fbb0bd3-762b-340b-9f61-0e7d4779ab58/barclays-names-mike-joo-and.html",
-      "publisher": "Private Banker International",
-      "time": 1787053186,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a31da2ce-8d53-358a-91a0-480ca3c61f96",
-      "title": "Caliber Public Safety Launches Caliber Insight LS, an AI-Powered Quality Assurance Tool for 911 Dispatch Centers",
-      "link": "https://finance.yahoo.com/technology/ai/articles/caliber-public-safety-launches-caliber-113900406.html",
-      "publisher": "PR Newswire",
-      "time": 1787053140,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "659adc75-91cb-35d0-896f-6fd3dc584a13",
-      "title": "Tenet Receives First Royalty Payment from Chinese Subsidiary",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tenet-receives-first-royalty-payment-113800947.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787053080,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a590b41d-0109-3c6c-9752-800b5a017c55",
-      "title": "Aviation Capital Group Delivers First of Four Airbus A321neo Aircraft to Wizz Air as part of a New SLB Mandate",
-      "link": "https://finance.yahoo.com/small-business/articles/aviation-capital-group-delivers-first-113800933.html",
-      "publisher": "PR Newswire",
-      "time": 1787053080,
+      "id": "ad722676-9ff7-3964-9f1f-529c9f1bfe58",
+      "title": "Maplebear Chief Accounting Officer Sells 6,103 Shares for Tax Withholding",
+      "link": "https://finance.yahoo.com/m/ad722676-9ff7-3964-9f1f-529c9f1bfe58/maplebear-chief-accounting.html",
+      "publisher": "Motley Fool",
+      "time": 1787055601,
       "impact": "low",
       "tags": []
     }
