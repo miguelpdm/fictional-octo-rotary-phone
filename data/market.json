@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T17:52:56.932310+00:00",
+  "updatedAt": "2026-08-18T18:27:51.181481+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7700.72,
-      "change": -85.03999999999996,
-      "changePct": -1.0922504675201903,
+      "price": 7702.17,
+      "change": -83.59000000000015,
+      "changePct": -1.0736267236596062,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26326.584,
-      "change": -402.57600000000093,
-      "changePct": -1.5061303834463968,
+      "price": 26317.955,
+      "change": -411.2049999999981,
+      "changePct": -1.5384134780142664,
       "currency": "USD"
     },
     {
@@ -44,107 +44,107 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.73,
-      "change": 0.5400000000000009,
-      "changePct": 3.554970375246879,
+      "price": 15.76,
+      "change": 0.5700000000000003,
+      "changePct": 3.7524687294272567,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "2ef2c251-f5d4-32f3-9cdc-ce39f40cdac6",
-      "title": "Above Food Ingredients Inc. Announces Strategic Investment",
-      "link": "https://finance.yahoo.com/small-business/articles/above-food-ingredients-inc-announces-174800774.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787075280,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3807c0a3-fd0e-3084-88f0-27237f1f51e5",
-      "title": "National Down Syndrome Society Launches MinDSet Down Syndrome",
-      "link": "https://finance.yahoo.com/healthcare/articles/national-down-syndrome-society-launches-174800493.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787075280,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bd358c62-2927-3be6-b99b-859a0d0a238f",
-      "title": "Google and U.K. launch AI trial to reduce aircraft contrails",
-      "link": "https://finance.yahoo.com/m/bd358c62-2927-3be6-b99b-859a0d0a238f/google-and-u.k.-launch-ai.html",
-      "publisher": "Quartz",
-      "time": 1787075104,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2dcc4ab7-68a3-31e8-b086-2b204b7a5a59",
-      "title": "Elon Musk Says SpaceX Will Hit $1 Trillion in Revenue by 2030 -- 1 Year Faster Than the Original Timeline. Here's the Math Behind the New Number.",
-      "link": "https://finance.yahoo.com/m/2dcc4ab7-68a3-31e8-b086-2b204b7a5a59/elon-musk-says-spacex-will.html",
-      "publisher": "Motley Fool",
-      "time": 1787075100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "828c770e-192a-3794-aaa5-56b0522b6df5",
-      "title": "High Profile Cannabis Opens Second Kentucky Dispensary in Wilder, Bringing Medical Access to Northern Kentucky",
-      "link": "https://finance.yahoo.com/healthcare/articles/high-profile-cannabis-opens-second-174500269.html",
+      "id": "0bef6290-99a9-327c-ad2c-e53efc721ef8",
+      "title": "Mercedes-Benz of Arrowhead Offers High-Performance Brake Calipers for Mercedes-Benz Vehicles",
+      "link": "https://finance.yahoo.com/technology/articles/mercedes-benz-arrowhead-offers-high-182100040.html",
       "publisher": "PR Newswire",
-      "time": 1787075100,
+      "time": 1787077260,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bf433d71-5937-31cc-90b8-345978b3cad9",
-      "title": "In HelloNation, Insurance Expert Nathan Marcus of Huntsville, AL, Breaks Down How New Construction and Home Upgrades Affect Coverage",
-      "link": "https://finance.yahoo.com/real-estate/articles/hellonation-insurance-expert-nathan-marcus-174500801.html",
-      "publisher": "PR Newswire",
-      "time": 1787075100,
+      "id": "df871db9-8cd6-3f58-9c68-7f9340400c8d",
+      "title": "Costco Stock Sets Up Amid Medicare Advantage News",
+      "link": "https://finance.yahoo.com/m/df871db9-8cd6-3f58-9c68-7f9340400c8d/costco-stock-sets-up-amid.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787077132,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "72665ba0-329d-38ef-8e46-3dd6a300dfe1",
-      "title": "LeBron James’ Golf YouTube Channel Reaches 450K Subscribers In One Day As He Takes Viewers Inside His Journey Learning The Sport",
-      "link": "https://finance.yahoo.com/m/72665ba0-329d-38ef-8e46-3dd6a300dfe1/lebron-james%E2%80%99-golf-youtube.html",
-      "publisher": "AfroTech",
-      "time": 1787075096,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "53079238-4b7b-3f52-8ada-9114a2e9c503",
-      "title": "JPK Capital Holdings (Barbados) Inc. Announces Filing of Early Warning Report in Respect of AmeriTrust Financial Technologies Inc.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jpk-capital-holdings-barbados-inc-174300771.html",
-      "publisher": "CNW Group",
-      "time": 1787074980,
-      "impact": "high",
+      "id": "35ffc542-088a-36d3-a987-6c0ce6df2008",
+      "title": "Klarna Stock Drops 19% After Cutting Full-Year Guidance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/klarna-stock-drops-19-cutting-181716144.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787077036,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "103376f8-2d42-3da8-bbec-f69abe54925d",
-      "title": "Paxton blocks 116 more Texas cities from raising property taxes in 2026",
-      "link": "https://finance.yahoo.com/m/103376f8-2d42-3da8-bbec-f69abe54925d/paxton-blocks-116-more-texas.html",
-      "publisher": "USA TODAY",
-      "time": 1787074924,
+      "id": "cd0115df-e260-3053-b30d-4a9560446f46",
+      "title": "Spain's Granada closes iconic Alhambra as new quake hits",
+      "link": "https://finance.yahoo.com/m/cd0115df-e260-3053-b30d-4a9560446f46/spain%27s-granada-closes-iconic.html",
+      "publisher": "AFP",
+      "time": 1787076978,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "61214f0f-6985-388f-ba2c-3dd5fdbabcdf",
-      "title": "Property & Casualty Insurance Stocks Q2 Recap: Benchmarking Travelers (NYSE:TRV)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/property-casualty-insurance-stocks-q2-174133735.html",
-      "publisher": "StockStory",
-      "time": 1787074893,
+      "id": "7382ce1f-e9d7-3b67-a1cd-15f2f95c5053",
+      "title": "Sam Altman dropped out of Stanford after 2 years, says finishing would have brought 'vastly diminishing returns'",
+      "link": "https://finance.yahoo.com/technology/ai/articles/sam-altman-dropped-stanford-2-181500595.html",
+      "publisher": "Moneywise",
+      "time": 1787076900,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8f0687a4-c3c1-38c7-9c5e-145cff0a6e03",
+      "title": "WyoTech's Female Enrollment Doubles as Women Redefine the Skilled Trades Workforce",
+      "link": "https://finance.yahoo.com/small-business/articles/wyotechs-female-enrollment-doubles-women-181500691.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787076900,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "geo"
       ]
+    },
+    {
+      "id": "977b5da6-29b6-3a65-8dda-d4ef24768f2c",
+      "title": "Clutch Report: Small Businesses Are Moving Beyond AI Experimentation",
+      "link": "https://finance.yahoo.com/small-business/articles/clutch-report-small-businesses-moving-181500876.html",
+      "publisher": "Business Wire",
+      "time": 1787076900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b5770be4-5236-3328-b98e-c04e3ae62179",
+      "title": "KBRA Assigns Preliminary Ratings to OBX 2026-NQM12 Trust",
+      "link": "https://finance.yahoo.com/real-estate/articles/kbra-assigns-preliminary-ratings-obx-181500465.html",
+      "publisher": "Business Wire",
+      "time": 1787076900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b5b6f952-f9ac-38d2-937e-19085c21763e",
+      "title": "In HelloNation, Collision Repair Expert Costa Tsiobanos Outlines When a Vehicle Is Safe to Drive After an Accident",
+      "link": "https://finance.yahoo.com/healthcare/articles/hellonation-collision-repair-expert-costa-181500662.html",
+      "publisher": "PR Newswire",
+      "time": 1787076900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d496752c-875e-3e1a-bc83-4afb1e91df28",
+      "title": "Alliant Insurance Services to Acquire Nava, Creating an AI-Native Model for the Future of Employee Benefits",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alliant-insurance-services-acquire-nava-181500392.html",
+      "publisher": "Business Wire",
+      "time": 1787076900,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
