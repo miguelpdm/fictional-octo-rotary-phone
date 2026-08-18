@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T18:27:51.181481+00:00",
+  "updatedAt": "2026-08-18T19:07:11.685885+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7702.17,
-      "change": -83.59000000000015,
-      "changePct": -1.0736267236596062,
+      "price": 7697.38,
+      "change": -88.38000000000011,
+      "changePct": -1.1351492982059568,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26317.955,
-      "change": -411.2049999999981,
-      "changePct": -1.5384134780142664,
+      "price": 26294.438,
+      "change": -434.7220000000016,
+      "changePct": -1.6263960408782079,
       "currency": "USD"
     },
     {
@@ -44,37 +44,19 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.76,
-      "change": 0.5700000000000003,
-      "changePct": 3.7524687294272567,
+      "price": 15.67,
+      "change": 0.4800000000000004,
+      "changePct": 3.1599736668861125,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "0bef6290-99a9-327c-ad2c-e53efc721ef8",
-      "title": "Mercedes-Benz of Arrowhead Offers High-Performance Brake Calipers for Mercedes-Benz Vehicles",
-      "link": "https://finance.yahoo.com/technology/articles/mercedes-benz-arrowhead-offers-high-182100040.html",
-      "publisher": "PR Newswire",
-      "time": 1787077260,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "df871db9-8cd6-3f58-9c68-7f9340400c8d",
-      "title": "Costco Stock Sets Up Amid Medicare Advantage News",
-      "link": "https://finance.yahoo.com/m/df871db9-8cd6-3f58-9c68-7f9340400c8d/costco-stock-sets-up-amid.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787077132,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "35ffc542-088a-36d3-a987-6c0ce6df2008",
-      "title": "Klarna Stock Drops 19% After Cutting Full-Year Guidance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/klarna-stock-drops-19-cutting-181716144.html",
+      "id": "69b09fa9-5864-3ffc-94fc-f0dc1caf04dd",
+      "title": "VNET Group Inc (VNET) (Q2 2026) Earnings Call Highlights: Surpasses 1 Gigawatt Wholesale ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vnet-group-inc-vnet-q2-190225605.html",
       "publisher": "GuruFocus.com",
-      "time": 1787077036,
+      "time": 1787079745,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,69 +64,109 @@
       ]
     },
     {
-      "id": "cd0115df-e260-3053-b30d-4a9560446f46",
-      "title": "Spain's Granada closes iconic Alhambra as new quake hits",
-      "link": "https://finance.yahoo.com/m/cd0115df-e260-3053-b30d-4a9560446f46/spain%27s-granada-closes-iconic.html",
-      "publisher": "AFP",
-      "time": 1787076978,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7382ce1f-e9d7-3b67-a1cd-15f2f95c5053",
-      "title": "Sam Altman dropped out of Stanford after 2 years, says finishing would have brought 'vastly diminishing returns'",
-      "link": "https://finance.yahoo.com/technology/ai/articles/sam-altman-dropped-stanford-2-181500595.html",
-      "publisher": "Moneywise",
-      "time": 1787076900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8f0687a4-c3c1-38c7-9c5e-145cff0a6e03",
-      "title": "WyoTech's Female Enrollment Doubles as Women Redefine the Skilled Trades Workforce",
-      "link": "https://finance.yahoo.com/small-business/articles/wyotechs-female-enrollment-doubles-women-181500691.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787076900,
+      "id": "dd392de5-37b9-3cf3-bcb1-bc4d6d670c32",
+      "title": "ReNew Energy Global PLC (RNW) (Q1 2027) Earnings Call Highlights: Strong Growth and Strategic ...",
+      "link": "https://finance.yahoo.com/energy/articles/renew-energy-global-plc-rnw-190215154.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787079735,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "977b5da6-29b6-3a65-8dda-d4ef24768f2c",
-      "title": "Clutch Report: Small Businesses Are Moving Beyond AI Experimentation",
-      "link": "https://finance.yahoo.com/small-business/articles/clutch-report-small-businesses-moving-181500876.html",
-      "publisher": "Business Wire",
-      "time": 1787076900,
+      "id": "e66a4946-9293-3c8f-ba32-057868cd5b8a",
+      "title": "Baidu Inc (BIDU) (Q2 2026) Earnings Call Highlights: AI Cloud Infra Surges 50% as GPU Cloud ...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/baidu-inc-bidu-q2-2026-190215314.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787079735,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "faffd1cb-5e8f-333a-996e-a8a6f343993c",
+      "title": "Xiaomi Corp (XIACF) (Q2 2026) Earnings Call Highlights: Record Smartphone ASP and AI ...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/xiaomi-corp-xiacf-q2-2026-190209188.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787079729,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "2e66adcd-d7ef-39aa-a73e-e58aa5ab25bc",
+      "title": "Amer Sports Inc (AS) (Q2 2026) Earnings Call Highlights: Record DTC Growth and Margin Expansion ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amer-sports-inc-q2-2026-190204924.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787079724,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "8ebf07b0-21e6-3e44-af6b-20d10dc1cbca",
+      "title": "SKP Bearing Industries Ltd (NSE:SKP) (Q1 2027) Earnings Call Highlights: Strong Growth, ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/skp-bearing-industries-ltd-nse-190155858.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787079715,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "1ed3767f-6e64-3835-8d8b-315d658d8041",
+      "title": "US moves to open vast tracts of pristine forests to logging",
+      "link": "https://finance.yahoo.com/m/1ed3767f-6e64-3835-8d8b-315d658d8041/us-moves-to-open-vast-tracts.html",
+      "publisher": "AFP",
+      "time": 1787079711,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b5770be4-5236-3328-b98e-c04e3ae62179",
-      "title": "KBRA Assigns Preliminary Ratings to OBX 2026-NQM12 Trust",
-      "link": "https://finance.yahoo.com/real-estate/articles/kbra-assigns-preliminary-ratings-obx-181500465.html",
-      "publisher": "Business Wire",
-      "time": 1787076900,
-      "impact": "low",
-      "tags": []
+      "id": "4b8ca921-68cf-3dac-85c1-e53a38638c47",
+      "title": "TH International Ltd (THCH) (Q2 2026) Earnings Call Highlights: Navigating Headwinds with ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/th-international-ltd-thch-q2-190150135.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787079710,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "b5b6f952-f9ac-38d2-937e-19085c21763e",
-      "title": "In HelloNation, Collision Repair Expert Costa Tsiobanos Outlines When a Vehicle Is Safe to Drive After an Accident",
-      "link": "https://finance.yahoo.com/healthcare/articles/hellonation-collision-repair-expert-costa-181500662.html",
-      "publisher": "PR Newswire",
-      "time": 1787076900,
-      "impact": "low",
-      "tags": []
+      "id": "3d4619a8-1240-36dc-8840-2f8ce75b4aac",
+      "title": "Pony AI Inc (PONY) (Q2 2026) Earnings Call Highlights: Robotaxi Revenue Soars 691% as Operating ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-inc-pony-q2-190149060.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787079709,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "d496752c-875e-3e1a-bc83-4afb1e91df28",
-      "title": "Alliant Insurance Services to Acquire Nava, Creating an AI-Native Model for the Future of Employee Benefits",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alliant-insurance-services-acquire-nava-181500392.html",
-      "publisher": "Business Wire",
-      "time": 1787076900,
-      "impact": "low",
-      "tags": []
+      "id": "6fd27fcf-9ba1-3948-ae22-c366c910e7f4",
+      "title": "Hesai Group (HSAI) (Q2 2026) Earnings Call Highlights: Record Revenue and Robotics Expansion ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hesai-group-hsai-q2-2026-190146772.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787079706,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
