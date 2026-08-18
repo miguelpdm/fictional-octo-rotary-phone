@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T20:47:14.564784+00:00",
+  "updatedAt": "2026-08-18T21:17:10.939795+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,104 +52,105 @@
   ],
   "news": [
     {
-      "id": "810d6a02-957f-3c26-9109-0bdd41623ccd",
-      "title": "Big Investors Send Conflicting Signal on Meta Platforms Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/big-investors-send-conflicting-signal-204606493.html",
+      "id": "0cc86d3a-7fb5-3d9b-b633-8f6fb576b848",
+      "title": "Home Depot Just Flashed a Housing Market Warning",
+      "link": "https://finance.yahoo.com/real-estate/articles/home-depot-just-flashed-housing-211516400.html",
       "publisher": "GuruFocus.com",
-      "time": 1787085966,
+      "time": 1787087716,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "fe48a789-3d37-3574-b9b7-85068f2f4599",
+      "title": "Tesla Stock Slips as 312-Times Valuation Faces Yield Shock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-slips-312-times-211213449.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787087533,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1db672f4-43ef-3e68-bac6-17d556e85a1d",
+      "title": "Latham Group Appoints Todd Antonelli as Chief Commercial Officer",
+      "link": "https://finance.yahoo.com/small-business/articles/latham-group-appoints-todd-antonelli-211200893.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787087520,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cf507403-f59a-3af5-8228-22b14f40bf13",
+      "title": "Martensen IP Offers Strategic Insights on Why Businesses Need IP Due Diligence, Common Issues to Watch For, a Practical Checklist, and Answers to Frequently Asked Questions",
+      "link": "https://finance.yahoo.com/small-business/articles/martensen-ip-offers-strategic-insights-211100867.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787087460,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "73816bc5-8771-3b37-88d3-3843f9b42e2e",
+      "title": "MACOM, Seagate, and Entegris Stocks Trade Down, What You Need To Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/macom-seagate-entegris-stocks-trade-210933006.html",
+      "publisher": "StockStory",
+      "time": 1787087373,
       "impact": "medium",
       "tags": [
         "geo"
       ]
     },
     {
-      "id": "b2b36e7e-c929-3c22-9496-f05a74134737",
-      "title": "Big Hedge Funds Cut Micron After Its 255% Rally",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/big-hedge-funds-cut-micron-204439263.html",
+      "id": "7605e028-01cf-4458-9243-7d295e166fd4",
+      "title": "This Miami Heat partner just IPO'ed: How they turn humidity into drinking water",
+      "link": "https://finance.yahoo.com/video/miami-heat-partner-just-ipoed-210929964.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1787087369,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "05585efe-0ecb-3200-80d9-ef8b2b7d27db",
+      "title": "Fintech Jack Henry beats quarterly estimates on strong demand",
+      "link": "https://finance.yahoo.com/technology/articles/fintech-jack-henry-beats-quarterly-210917747.html",
+      "publisher": "Reuters",
+      "time": 1787087357,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ca3b4a7d-c3cb-3fc8-b104-90f778483659",
+      "title": "Bank of America Has a Stark Warning on AI Spending",
+      "link": "https://finance.yahoo.com/technology/ai/articles/bank-america-stark-warning-ai-210907473.html",
       "publisher": "GuruFocus.com",
-      "time": 1787085879,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6fd70b4e-f385-3021-92be-ae24be3bed2a",
-      "title": "Toll Brothers: Fiscal Q3 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-fiscal-q3-earnings-204009066.html",
-      "publisher": "Associated Press",
-      "time": 1787085609,
-      "impact": "medium",
+      "time": 1787087347,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "f426ad8b-7fd6-3dfe-a376-87e3dfa36647",
-      "title": "Ex-Morgan Stanley Advisor Alleges Firm 'Circled The Wagons' After Misconduct Claims",
-      "link": "https://finance.yahoo.com/m/f426ad8b-7fd6-3dfe-a376-87e3dfa36647/ex-morgan-stanley-advisor.html",
-      "publisher": "Wealth Management",
-      "time": 1787085497,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "08c14c4f-0dd2-3feb-b2c2-d9f870bc8b92",
-      "title": "M&T Bank Corporation Announces Third Quarter Common Stock Dividend",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/m-t-bank-corporation-announces-203800554.html",
-      "publisher": "PR Newswire",
-      "time": 1787085480,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "54d8f8fd-6ccc-3c78-8aac-46169d628fa3",
-      "title": "Here's My Plan in Case Social Security Is Cut",
-      "link": "https://finance.yahoo.com/m/54d8f8fd-6ccc-3c78-8aac-46169d628fa3/here%27s-my-plan-in-case-social.html",
-      "publisher": "Motley Fool",
-      "time": 1787085480,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ec3b2ff6-dc00-3580-9c23-2fdc4e6dda80",
-      "title": "Toll Brothers’s (NYSE:TOL) Q2 CY2026: Beats On Revenue",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-nyse-tol-q2-203736840.html",
-      "publisher": "StockStory",
-      "time": 1787085456,
-      "impact": "low",
-      "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "12bf7585-eaf1-33b6-bb8b-ece9d2bce2a1",
-      "title": "Why Veeva Systems (VEEV) Stock Is Up Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-veeva-systems-veev-stock-203733857.html",
-      "publisher": "StockStory",
-      "time": 1787085453,
-      "impact": "low",
+      "id": "d6b5af3d-b415-37e5-858d-27554e6a3187",
+      "title": "Slate360 Provides Insights on Healthcare Events, Budgets, Strategies for Maximizing Your Impact, and Looking Beyond the Tradeshow Floor",
+      "link": "https://finance.yahoo.com/healthcare/articles/slate360-provides-insights-healthcare-events-210900807.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787087340,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "geo"
       ]
     },
     {
-      "id": "513ea350-77bd-33fb-8fdd-eaea6659326a",
-      "title": "Gas prices are climbing. How it impacts your wallet",
-      "link": "https://finance.yahoo.com/m/513ea350-77bd-33fb-8fdd-eaea6659326a/gas-prices-are-climbing.-how.html",
-      "publisher": "USA TODAY",
-      "time": 1787085428,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b9b544ba-9036-3107-8c0b-6bca8f05804a",
-      "title": "Texas governor sued by Minnesota AG over extradition of ICE agent",
-      "link": "https://finance.yahoo.com/m/b9b544ba-9036-3107-8c0b-6bca8f05804a/texas-governor-sued-by.html",
-      "publisher": "USA TODAY",
-      "time": 1787085426,
+      "id": "a6204b80-c12e-3846-a439-3757e64db7f1",
+      "title": "Analyst Drops Stark Tesla Stock Price Target",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-drops-stark-tesla-stock-210738265.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787087258,
       "impact": "low",
       "tags": []
     }
