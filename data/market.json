@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-18T11:19:04.446704+00:00",
+  "updatedAt": "2026-08-18T11:49:17.894215+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20018.9,
-      "change": 37.0,
-      "changePct": 0.18516757665687444,
+      "price": 20023.2,
+      "change": 41.29999999999927,
+      "changePct": 0.20668705178185895,
       "currency": "EUR"
     },
     {
@@ -28,44 +28,65 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26255.46,
-      "change": -184.85000000000218,
-      "changePct": -0.6991219089337537,
+      "price": 26248.18,
+      "change": -192.13000000000102,
+      "changePct": -0.7266556254446375,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6499.57,
-      "change": -30.88000000000011,
-      "changePct": -0.4728617476590451,
-      "currency": null
+      "price": 6498.33,
+      "change": -32.11999999999989,
+      "changePct": -0.4918497193914645,
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.74,
-      "change": 0.5500000000000007,
-      "changePct": 3.620803159973672,
+      "price": 15.72,
+      "change": 0.5300000000000011,
+      "changePct": 3.489137590520087,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "971ac53d-66c0-35a7-8a32-8ce6d6180a4f",
-      "title": "Peter Schiff says homes are 'a money pit’ which ‘depletes' your wealth. Is it still ‘crazy’ to invest in real estate?",
-      "link": "https://finance.yahoo.com/real-estate/articles/peter-schiff-says-homes-money-111500799.html",
-      "publisher": "Moneywise",
-      "time": 1787051700,
+      "id": "0dc1193f-49c4-3132-9442-efcb7d6eb5e0",
+      "title": "JPMorgan chief cautions UK chancellor against tougher bank taxes – report",
+      "link": "https://finance.yahoo.com/m/0dc1193f-49c4-3132-9442-efcb7d6eb5e0/jpmorgan-chief-cautions-uk.html",
+      "publisher": "Retail Banker International",
+      "time": 1787053634,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "5dc6ddf6-2532-32b3-a91e-4cda2db6fd10",
+      "title": "La Vieille Ferme, Dash Water in rosé spritz tie-up",
+      "link": "https://finance.yahoo.com/m/5dc6ddf6-2532-32b3-a91e-4cda2db6fd10/la-vieille-ferme%2C-dash-water.html",
+      "publisher": "Just Drinks",
+      "time": 1787053588,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9d391ff2-b77f-3a5d-9f4e-49dbc6154927",
-      "title": "Australian privacy regulator warns retailers on facial recognition – report",
-      "link": "https://finance.yahoo.com/m/9d391ff2-b77f-3a5d-9f4e-49dbc6154927/australian-privacy-regulator.html",
-      "publisher": "Retail Insight Network",
-      "time": 1787051639,
+      "id": "9d62994d-7f36-3e99-be7e-91e991ea56e2",
+      "title": "UAE taps Ellen MacArthur Foundation for textiles circularity policy",
+      "link": "https://finance.yahoo.com/m/9d62994d-7f36-3e99-be7e-91e991ea56e2/uae-taps-ellen-macarthur.html",
+      "publisher": "Just Style",
+      "time": 1787053581,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cd5cc906-057b-34eb-b561-63d642505d0b",
+      "title": "Paramount seeks $1.88 billion bond in Warner Bros. merger antitrust case",
+      "link": "https://finance.yahoo.com/m/cd5cc906-057b-34eb-b561-63d642505d0b/paramount-seeks-%241.88-billion.html",
+      "publisher": "Quartz",
+      "time": 1787053529,
       "impact": "high",
       "tags": [
         "geo",
@@ -73,86 +94,63 @@
       ]
     },
     {
-      "id": "a432cc88-2598-3fed-ab34-9bfb517b9b37",
-      "title": "AuKing Mining signs agreement to acquire Green Exploration",
-      "link": "https://finance.yahoo.com/m/a432cc88-2598-3fed-ab34-9bfb517b9b37/auking-mining-signs-agreement.html",
-      "publisher": "Mining Technology",
-      "time": 1787051572,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ee292d64-e3bb-3a1b-8472-7b6b90ffab0c",
-      "title": "Meet the Vanguard ETF That's Crushing the S&P 500 and Nasdaq-100 Despite Not Owning Micron, Sandisk, or Any of the \"Magnificent Seven\" Stocks",
-      "link": "https://finance.yahoo.com/m/ee292d64-e3bb-3a1b-8472-7b6b90ffab0c/meet-the-vanguard-etf-that%27s.html",
-      "publisher": "Motley Fool",
-      "time": 1787051400,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "55196969-e741-3669-b5a3-1d711aff2938",
-      "title": "1 Small-Cap Stock for Long-Term Investors and 2 We Find Risky",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-small-cap-stock-long-110933104.html",
-      "publisher": "StockStory",
-      "time": 1787051373,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "4829405b-c09e-3342-a841-b4de77dc0d83",
-      "title": "Deutsche Bank Adjusts Essex Property Trust Price Target to $325 From $330, Maintains Buy Rating",
-      "link": "https://finance.yahoo.com/real-estate/articles/deutsche-bank-adjusts-essex-property-110921083.html",
-      "publisher": "MT Newswires",
-      "time": 1787051361,
+      "id": "e0adeaaa-2cf0-30b9-88f1-6bef609ddcbc",
+      "title": "How US military funding propelled China’s robot dogs",
+      "link": "https://finance.yahoo.com/video/us-military-funding-propelled-china-114256132.html",
+      "publisher": "Reuters Videos",
+      "time": 1787053376,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
     },
     {
-      "id": "0a7283fc-7a75-32c8-9b76-ec7e729032a7",
-      "title": "Dynatrace Prices $1.25 Billion Private Debt Offering",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dynatrace-prices-1-25-billion-110915591.html",
-      "publisher": "MT Newswires",
-      "time": 1787051355,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fd17d476-690c-39f4-8f54-7d26c9559372",
-      "title": "Canaccord Genuity Downgrades York Space Systems to Hold From Buy, Cuts Price Target to $13.50 From $36",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/canaccord-genuity-downgrades-york-space-110910866.html",
-      "publisher": "MT Newswires",
-      "time": 1787051350,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1e0b9c36-6308-3268-b043-eac1f0217dd8",
-      "title": "Silver Palace Announces gamescom 2026 Participation Details as Global Pre-Registrations Surpass 10 Million",
-      "link": "https://finance.yahoo.com/media-advertising/articles/silver-palace-announces-gamescom-2026-110900936.html",
+      "id": "b8f61fb8-d4db-3c6a-9b22-925c6fe9f8b5",
+      "title": "World Gym Launches Presales for Its First Thailand Club",
+      "link": "https://finance.yahoo.com/small-business/articles/world-gym-launches-presales-first-114100837.html",
       "publisher": "PR Newswire",
-      "time": 1787051340,
+      "time": 1787053260,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9b408170-304e-372f-852b-616f072388b2",
-      "title": "Deutsche Bank Adjusts L3Harris Technologies Price Target to $269 From $285, Maintains Hold Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-adjusts-l3harris-technologies-110857858.html",
-      "publisher": "MT Newswires",
-      "time": 1787051337,
+      "id": "8fbb0bd3-762b-340b-9f61-0e7d4779ab58",
+      "title": "Barclays names Mike Joo and Adeel Khan investment bank co-CEOs",
+      "link": "https://finance.yahoo.com/m/8fbb0bd3-762b-340b-9f61-0e7d4779ab58/barclays-names-mike-joo-and.html",
+      "publisher": "Private Banker International",
+      "time": 1787053186,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
+    },
+    {
+      "id": "a31da2ce-8d53-358a-91a0-480ca3c61f96",
+      "title": "Caliber Public Safety Launches Caliber Insight LS, an AI-Powered Quality Assurance Tool for 911 Dispatch Centers",
+      "link": "https://finance.yahoo.com/technology/ai/articles/caliber-public-safety-launches-caliber-113900406.html",
+      "publisher": "PR Newswire",
+      "time": 1787053140,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "659adc75-91cb-35d0-896f-6fd3dc584a13",
+      "title": "Tenet Receives First Royalty Payment from Chinese Subsidiary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tenet-receives-first-royalty-payment-113800947.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787053080,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a590b41d-0109-3c6c-9752-800b5a017c55",
+      "title": "Aviation Capital Group Delivers First of Four Airbus A321neo Aircraft to Wizz Air as part of a New SLB Mandate",
+      "link": "https://finance.yahoo.com/small-business/articles/aviation-capital-group-delivers-first-113800933.html",
+      "publisher": "PR Newswire",
+      "time": 1787053080,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
