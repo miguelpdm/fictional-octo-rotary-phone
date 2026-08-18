@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T15:55:39.727989+00:00",
+  "updatedAt": "2026-08-18T16:24:40.887170+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7705.17,
-      "change": -80.59000000000015,
-      "changePct": -1.0350948398101167,
+      "price": 7705.85,
+      "change": -79.90999999999985,
+      "changePct": -1.026360946137562,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26349.893,
-      "change": -379.2669999999998,
-      "changePct": -1.4189259969262027,
+      "price": 26357.701,
+      "change": -371.4589999999989,
+      "changePct": -1.389714454176633,
       "currency": "USD"
     },
     {
@@ -44,96 +44,37 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.91,
-      "change": 0.7200000000000006,
-      "changePct": 4.739960500329168,
+      "price": 15.69,
+      "change": 0.5,
+      "changePct": 3.2916392363396976,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "bb2e4fee-5543-4c6e-b991-70dde13a9544",
-      "title": "Silver prices today, Tuesday, August 18, 2026: Silver price holds as investors weigh inflation and geopolitical risks",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-august-18-2026-silver-price-holds-as-investors-weigh-inflation-and-geopolitical-risks-155200076.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1787068320,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "814e7d58-5436-35d9-85ef-cbbd6d046e95",
-      "title": "Rep Com International Brings Its New Data Center Division to the Metro Connect Fall and Datacloud USA Conferences in Austin",
-      "link": "https://finance.yahoo.com/technology/ai/articles/rep-com-international-brings-data-155100869.html",
-      "publisher": "PR Newswire",
-      "time": 1787068260,
+      "id": "cb9642ea-69db-45c8-8c2b-64a38ccacfec",
+      "title": "Nasdaq is set to begin 23-hour trading in December. You can thank crypto for that.",
+      "link": "https://finance.yahoo.com/video/nasdaq-set-begin-23-hour-162000492.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1787070000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c0b28273-846a-3714-8bbf-75764d460e54",
-      "title": "Issue of Debt",
-      "link": "https://finance.yahoo.com/economy/policy/articles/issue-debt-155000988.html",
-      "publisher": "Business Wire",
-      "time": 1787068200,
+      "id": "f156cbba-3ca1-3be5-bba0-ccb47a69c96c",
+      "title": "Gan Jia Yue named Geely CEO, founder Li Shu Fu resigns",
+      "link": "https://finance.yahoo.com/m/f156cbba-3ca1-3be5-bba0-ccb47a69c96c/gan-jia-yue-named-geely-ceo%2C.html",
+      "publisher": "Just Auto",
+      "time": 1787069891,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "509fed2f-737d-44e5-8094-e818d126edf8",
-      "title": "Gold prices today, Tuesday, August 18, 2026: Gold falters as U.S. Treasury yields rise",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-august-18-2026-gold-falters-as-us-treasury-yields-rise-154856224.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1787068136,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5c3761bc-162c-3781-b784-2e0e058ab003",
-      "title": "Fidium Earns More Than 370 Top Internet Performance Rankings in Latest Ookla® Speedtest® Analysis",
-      "link": "https://finance.yahoo.com/technology/articles/fidium-earns-more-370-top-154800539.html",
-      "publisher": "Business Wire",
-      "time": 1787068080,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b5c358e1-f726-3cb6-bad2-68598369af39",
-      "title": "What’s In Store for Macy’s 100th Thanksgiving Day Parade",
-      "link": "https://finance.yahoo.com/m/b5c358e1-f726-3cb6-bad2-68598369af39/what%E2%80%99s-in-store-for-macy%E2%80%99s.html",
-      "publisher": "WWD",
-      "time": 1787068065,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "48101352-5a69-3d43-a51a-d996bf4c7bb0",
-      "title": "Salesforce's and ServiceNow’s Business Models Are in Danger, Expert Cautions: What Does It Mean For CRM and NOW?",
-      "link": "https://finance.yahoo.com/m/48101352-5a69-3d43-a51a-d996bf4c7bb0/salesforce%27s-and-servicenow%E2%80%99s.html",
-      "publisher": "Benzinga Prediction Markets",
-      "time": 1787067982,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "f372a09e-a9e7-3a11-818c-a8b5f56b95bb",
-      "title": "Koozee Launches All-in-One AI Visual Production Platform for Apparel E-Commerce",
-      "link": "https://finance.yahoo.com/technology/ai/articles/koozee-launches-one-ai-visual-154600651.html",
-      "publisher": "PR Newswire",
-      "time": 1787067960,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c4f6a664-635b-3299-92db-b40e54713877",
-      "title": "Top Midday Stories: Home Depot Q2 EPS, Revenue Top Estimates; Klarna Cuts Guidance, Plans CFO, CMO Transitions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-home-depot-154557687.html",
-      "publisher": "MT Newswires",
-      "time": 1787067957,
+      "id": "c284697c-3ef9-3d49-8ca2-3f3f5bb10cbb",
+      "title": "Home Depot's CFO just called it a \"frozen housing market\". 🧊\n\nHe implied in the company's earnings call that greater uncertainty in the market led the company to reaffirm rather than raise its guidance.",
+      "link": "https://finance.yahoo.com/photos/home-depots-cfo-just-called-161721115/",
+      "publisher": "Yahoo Finance",
+      "time": 1787069841,
       "impact": "medium",
       "tags": [
         "macro",
@@ -141,11 +82,71 @@
       ]
     },
     {
-      "id": "140ed619-d42f-31e2-8fa6-27f9d99e2cb1",
-      "title": "NFL rookie Barion Brown plans to ‘save every penny’ of his first paycheck: ‘I’m a sixth-round guy, man’",
-      "link": "https://finance.yahoo.com/markets/articles/nfl-rookie-barion-brown-plans-154500865.html",
-      "publisher": "Moneywise",
-      "time": 1787067900,
+      "id": "2bc33930-781b-34b9-943e-39e0bbceea12",
+      "title": "Trump, Carney hold talks as new US tariffs on Canada loom",
+      "link": "https://finance.yahoo.com/economy/policy/articles/canada-seeks-avert-us-tariffs-152232618.html",
+      "publisher": "AFP",
+      "time": 1787069836,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "49eb19b6-bc40-380e-a683-81a14bb58025",
+      "title": "AM Best Upgrades Issuer Credit Ratings of Kinsale Insurance Company and Kinsale Capital Group, Inc.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/am-best-upgrades-issuer-credit-161700645.html",
+      "publisher": "Business Wire",
+      "time": 1787069820,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ec573853-5ea4-3cc2-aebf-9a7dc26f7b21",
+      "title": "The NNA Brings Policy Expertise to NASS Summer Conference",
+      "link": "https://finance.yahoo.com/economy/policy/articles/nna-brings-policy-expertise-nass-161700049.html",
+      "publisher": "Business Wire",
+      "time": 1787069820,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5adbe16c-fa22-3437-9d41-67bb2c544624",
+      "title": "Diageo Cuts Headcount by Almost 2,000 in Fiscal 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/diageo-cuts-headcount-almost-2-161640164.html",
+      "publisher": "MT Newswires",
+      "time": 1787069800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3fd923e9-8bc8-3db0-853a-31011aeed2e5",
+      "title": "SOZO® Digital Health Platform Receives FDA Clearance for Sarcopenia Risk Assessment",
+      "link": "https://finance.yahoo.com/healthcare/articles/sozo-digital-health-platform-receives-161500853.html",
+      "publisher": "PR Newswire",
+      "time": 1787069700,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "1e1c3b93-bfbd-3f33-bdb1-8872337696c6",
+      "title": "India’s Minda to invest Rs2.70bn for automotive TFT displays – report",
+      "link": "https://finance.yahoo.com/m/1e1c3b93-bfbd-3f33-bdb1-8872337696c6/india%E2%80%99s-minda-to-invest.html",
+      "publisher": "Just Auto",
+      "time": 1787069696,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "436ad313-01bf-3e6a-a9e1-0cf801f1d01c",
+      "title": "HelloNation Highlights the Importance of Radon Testing in Iowa Homes, Featuring Home Inspection Experts Logan Loftus & Nick Mullnix",
+      "link": "https://finance.yahoo.com/healthcare/articles/hellonation-highlights-importance-radon-testing-161400820.html",
+      "publisher": "PR Newswire",
+      "time": 1787069640,
       "impact": "low",
       "tags": []
     }
