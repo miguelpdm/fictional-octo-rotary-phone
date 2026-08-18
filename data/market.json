@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T21:17:10.939795+00:00",
+  "updatedAt": "2026-08-18T21:45:46.408098+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,61 +52,92 @@
   ],
   "news": [
     {
-      "id": "0cc86d3a-7fb5-3d9b-b633-8f6fb576b848",
-      "title": "Home Depot Just Flashed a Housing Market Warning",
-      "link": "https://finance.yahoo.com/real-estate/articles/home-depot-just-flashed-housing-211516400.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787087716,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "fe48a789-3d37-3574-b9b7-85068f2f4599",
-      "title": "Tesla Stock Slips as 312-Times Valuation Faces Yield Shock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-slips-312-times-211213449.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787087533,
+      "id": "c555832f-c283-32b4-9f0b-615875efe4e6",
+      "title": "GROUPE DYNAMITE INC. APPOINTS DIGITAL LEADER HENRY SPEAR AS CHIEF CUSTOMER OFFICER",
+      "link": "https://finance.yahoo.com/media-advertising/articles/groupe-dynamite-inc-appoints-digital-214000454.html",
+      "publisher": "CNW Group",
+      "time": 1787089200,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1db672f4-43ef-3e68-bac6-17d556e85a1d",
-      "title": "Latham Group Appoints Todd Antonelli as Chief Commercial Officer",
-      "link": "https://finance.yahoo.com/small-business/articles/latham-group-appoints-todd-antonelli-211200893.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787087520,
+      "id": "b6e8ef97-ede7-31da-8579-e3430055985a",
+      "title": "PETFINDER MARKS 30TH ANNIVERSARY WITH RESCUE FLIGHTS FOR SHELTER PETS AND AN INVITATION FOR PEOPLE TO HELP FILL MILLIONS OF BOWLS",
+      "link": "https://finance.yahoo.com/small-business/articles/petfinder-marks-30th-anniversary-rescue-213900394.html",
+      "publisher": "PR Newswire",
+      "time": 1787089140,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cf507403-f59a-3af5-8228-22b14f40bf13",
-      "title": "Martensen IP Offers Strategic Insights on Why Businesses Need IP Due Diligence, Common Issues to Watch For, a Practical Checklist, and Answers to Frequently Asked Questions",
-      "link": "https://finance.yahoo.com/small-business/articles/martensen-ip-offers-strategic-insights-211100867.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787087460,
+      "id": "72aa2214-3544-3188-ab39-90657746e8eb",
+      "title": "AI-assisted tool helped secure satellite communication system after 2022 Russian hacking",
+      "link": "https://finance.yahoo.com/m/72aa2214-3544-3188-ab39-90657746e8eb/ai-assisted-tool-helped.html",
+      "publisher": "Associated Press",
+      "time": 1787089028,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "73816bc5-8771-3b37-88d3-3843f9b42e2e",
-      "title": "MACOM, Seagate, and Entegris Stocks Trade Down, What You Need To Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/macom-seagate-entegris-stocks-trade-210933006.html",
-      "publisher": "StockStory",
-      "time": 1787087373,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
+      "id": "40ce5753-a834-3993-a6f0-aa66c4201f5f",
+      "title": "Evolve Announces August 2026 Distributions for UltraYield ETFs and Certain Evolve Funds",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/evolve-announces-august-2026-distributions-213700151.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787089020,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "7605e028-01cf-4458-9243-7d295e166fd4",
-      "title": "This Miami Heat partner just IPO'ed: How they turn humidity into drinking water",
-      "link": "https://finance.yahoo.com/video/miami-heat-partner-just-ipoed-210929964.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1787087369,
+      "id": "a1eb71d2-a4fd-3dd5-b938-6c54639242da",
+      "title": "Australia's mushroom murderer appeals conviction",
+      "link": "https://finance.yahoo.com/m/a1eb71d2-a4fd-3dd5-b938-6c54639242da/australia%27s-mushroom-murderer.html",
+      "publisher": "AFP",
+      "time": 1787088934,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6914a68c-8fc4-31fa-ba9f-4f7705554594",
+      "title": "Medicare’s New Drug Cap Still Lets You Spend $2,100 Before It Kicks In. These 3 ETFs Cover Every Dollar of It",
+      "link": "https://finance.yahoo.com/m/6914a68c-8fc4-31fa-ba9f-4f7705554594/medicare%E2%80%99s-new-drug-cap-still.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787088910,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8dda1ba3-54d8-32ae-bf8f-26e06c37eddb",
+      "title": "EQB Inc. releases an abridged supplemental financial information package for third quarter 2026 results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/eqb-inc-releases-abridged-supplemental-213500123.html",
+      "publisher": "CNW Group",
+      "time": 1787088900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d88e05a0-9081-3760-9e41-bfdf0afe1b09",
+      "title": "Factbox-Authorities restricting data centres amid AI boom",
+      "link": "https://finance.yahoo.com/m/d88e05a0-9081-3760-9e41-bfdf0afe1b09/factbox-authorities.html",
+      "publisher": "Reuters",
+      "time": 1787088882,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4797bfee-ad3d-33a9-b7f6-227c9b4ba130",
+      "title": "ZeroStack Announces Completion of Continuance to Texas",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zerostack-announces-completion-continuance-texas-213400136.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787088840,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7cf964c5-78a1-3599-ac9f-7de4b01ca582",
+      "title": "XOP vs TAN: Will an Oil & Gas ETF Bring More Profits Than a Solar Fund in 2026?",
+      "link": "https://finance.yahoo.com/m/7cf964c5-78a1-3599-ac9f-7de4b01ca582/xop-vs-tan%3A-will-an-oil-%26-gas.html",
+      "publisher": "Motley Fool",
+      "time": 1787088833,
       "impact": "medium",
       "tags": [
         "macro",
@@ -114,45 +145,15 @@
       ]
     },
     {
-      "id": "05585efe-0ecb-3200-80d9-ef8b2b7d27db",
-      "title": "Fintech Jack Henry beats quarterly estimates on strong demand",
-      "link": "https://finance.yahoo.com/technology/articles/fintech-jack-henry-beats-quarterly-210917747.html",
-      "publisher": "Reuters",
-      "time": 1787087357,
+      "id": "cc4eeea0-9169-308e-a5f0-53e9bc045912",
+      "title": "Enpro, Valmont, Cummins, Regal Rexnord, and FTAI Infrastructure Shares Are Falling, What You Need To Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/enpro-valmont-cummins-regal-rexnord-213333850.html",
+      "publisher": "StockStory",
+      "time": 1787088813,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ca3b4a7d-c3cb-3fc8-b104-90f778483659",
-      "title": "Bank of America Has a Stark Warning on AI Spending",
-      "link": "https://finance.yahoo.com/technology/ai/articles/bank-america-stark-warning-ai-210907473.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787087347,
-      "impact": "high",
       "tags": [
-        "geo",
         "macro"
       ]
-    },
-    {
-      "id": "d6b5af3d-b415-37e5-858d-27554e6a3187",
-      "title": "Slate360 Provides Insights on Healthcare Events, Budgets, Strategies for Maximizing Your Impact, and Looking Beyond the Tradeshow Floor",
-      "link": "https://finance.yahoo.com/healthcare/articles/slate360-provides-insights-healthcare-events-210900807.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787087340,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "a6204b80-c12e-3846-a439-3757e64db7f1",
-      "title": "Analyst Drops Stark Tesla Stock Price Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-drops-stark-tesla-stock-210738265.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787087258,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
