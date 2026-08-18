@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T05:52:55.041213+00:00",
+  "updatedAt": "2026-08-18T06:32:08.176913+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6530.45,
       "change": -9.140000000000327,
       "changePct": -0.13976411365238994,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,71 +52,49 @@
   ],
   "news": [
     {
-      "id": "e83ad759-908b-3b1c-8cdf-20340a02b748",
-      "title": "Asian allies stress 'critical cooperation' as Trump slashes Korea drills",
-      "link": "https://finance.yahoo.com/m/e83ad759-908b-3b1c-8cdf-20340a02b748/asian-allies-stress-%27critical.html",
-      "publisher": "AFP",
-      "time": 1787031308,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "755cb667-8b21-3e28-a7bb-68b3dade1706",
-      "title": "Coloplast A/S - Interim Financial Report, 9M 2025/26",
-      "link": "https://finance.yahoo.com/healthcare/articles/coloplast-interim-financial-report-9m-053000774.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787031000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ba736df1-cf3c-3d10-9a2e-7ee98f2cc0a1",
-      "title": "Manulife Asia wins Best Overall AI Adoption: Life/Health at 2026 Asia Consumer Insurance Awards",
-      "link": "https://finance.yahoo.com/technology/ai/articles/manulife-asia-wins-best-overall-052600209.html",
+      "id": "5e2590f0-800d-36c3-97c8-15d78413d491",
+      "title": "ByteLens Turns Operator Data Into Compounding Knowledge",
+      "link": "https://finance.yahoo.com/technology/ai/articles/bytelens-turns-operator-data-compounding-062400385.html",
       "publisher": "PR Newswire",
-      "time": 1787030760,
-      "impact": "high",
+      "time": 1787034240,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "30271ded-069d-34b0-b6a7-ebdb4f09197c",
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "link": "https://finance.yahoo.com/m/30271ded-069d-34b0-b6a7-ebdb4f09197c/stock-market%3A-will-s%26p-500.html",
+      "publisher": "Benzinga Prediction Markets",
+      "time": 1787034229,
+      "impact": "low",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "fa27d1b5-f301-353c-ad27-3f26ad531dcc",
-      "title": "GLORIA MANOR Joins Marriott Bonvoy, Bringing Nature-Based Travel to Kenting National Park",
-      "link": "https://finance.yahoo.com/media-advertising/articles/gloria-manor-joins-marriott-bonvoy-052600668.html",
-      "publisher": "PR Newswire",
-      "time": 1787030760,
+      "id": "783de2cb-a025-320b-8665-782af2713d19",
+      "title": "Sandisk Stock Is Down 30% From Its Peak: Is the Memory Winner Still a Screaming Buy Before September?",
+      "link": "https://finance.yahoo.com/m/783de2cb-a025-320b-8665-782af2713d19/sandisk-stock-is-down-30%25.html",
+      "publisher": "Motley Fool",
+      "time": 1787034000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f957133f-2f4a-323f-be86-d6bab7b8e25c",
-      "title": "Major Meta trial begins as lawyers spar over witnesses, damages",
-      "link": "https://finance.yahoo.com/m/f957133f-2f4a-323f-be86-d6bab7b8e25c/major-meta-trial-begins-as.html",
-      "publisher": "AFP",
-      "time": 1787030741,
+      "id": "5fd618cc-9790-3872-bab6-e7c1f2db0d89",
+      "title": "Hansa Biopharma announces first commercial kidney transplant patient treated with Idefirix in Australia",
+      "link": "https://finance.yahoo.com/healthcare/articles/hansa-biopharma-announces-first-commercial-061500185.html",
+      "publisher": "PR Newswire",
+      "time": 1787033700,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "049106a0-55a4-3fe3-bfe1-4f8e14b7fa2b",
-      "title": "FTSE 100 Live:UK blue-chips set for flat open as rising oil and inflation jitters weigh",
-      "link": "https://finance.yahoo.com/m/049106a0-55a4-3fe3-bfe1-4f8e14b7fa2b/ftse-100-live%3Auk-blue-chips.html",
-      "publisher": "Proactive",
-      "time": 1787030700,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "4ae55422-6da5-3158-906a-5be27fbed077",
-      "title": "Multiconsult second quarter and first half 2026 - Improved reported profitability and good order intake",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/multiconsult-second-quarter-first-half-052500303.html",
-      "publisher": "PR Newswire",
-      "time": 1787030700,
+      "id": "7cfd3633-072a-33bd-ac43-7e3541f44432",
+      "title": "Lazard (LAZ) Names Dr. Marco Superina To Lead Investment Banking In Switzerland",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lazard-laz-names-dr-marco-061243106.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787033563,
       "impact": "medium",
       "tags": [
         "macro",
@@ -124,11 +102,11 @@
       ]
     },
     {
-      "id": "4a09a82d-e8b3-3c3e-a6ac-fe82e71e2c63",
-      "title": "Dollar feeble as rate hike bets dwindle, Iran war worries jolt bonds",
-      "link": "https://finance.yahoo.com/news/dollar-feeble-rate-hike-bets-015445875.html",
-      "publisher": "Reuters",
-      "time": 1787030638,
+      "id": "7f174efd-6396-320d-8a81-fa8da4e3458c",
+      "title": "ExxonMobil Holdings (XOM) Awards $1.1 Billion To Start Mozambique LNG Work",
+      "link": "https://finance.yahoo.com/energy/articles/exxonmobil-holdings-xom-awards-1-061235796.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787033555,
       "impact": "high",
       "tags": [
         "geo",
@@ -136,24 +114,40 @@
       ]
     },
     {
-      "id": "b932dce9-c224-32dc-9dae-d1a93ba1d60b",
-      "title": "Racist abuse spurred Suzuki as Japan goalkeeper set for Premier League",
-      "link": "https://finance.yahoo.com/m/b932dce9-c224-32dc-9dae-d1a93ba1d60b/racist-abuse-spurred-suzuki.html",
-      "publisher": "AFP",
-      "time": 1787030465,
+      "id": "5b9f51f0-5ed3-3758-98c1-db2b2c9b6b7e",
+      "title": "Astera Labs (ALAB), What Is Behind The Fresh Attention?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-alab-behind-fresh-061231158.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787033551,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "11a2aaa5-bb36-301e-9d15-79b6234ecc40",
-      "title": "2 Dividend Stocks That Are No-Brainer Buys in August",
-      "link": "https://finance.yahoo.com/m/11a2aaa5-bb36-301e-9d15-79b6234ecc40/2-dividend-stocks-that-are.html",
-      "publisher": "Motley Fool",
-      "time": 1787030400,
+      "id": "eca9377c-0131-3c4a-80b8-71bc8df20dd0",
+      "title": "Adding Paychex CEO to Board Might Change The Case For Investing In ManpowerGroup (MAN)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adding-paychex-ceo-board-might-061221280.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787033541,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
+    },
+    {
+      "id": "6d4dc0f1-c929-3d70-985e-6baa7f774a4d",
+      "title": "EyePoint (EYPT) LUGANO Data Resets The Story, Is It A Bargain?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/eyepoint-eypt-lugano-data-resets-061206669.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787033526,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8d4b800f-8a9b-3a65-bfe7-d44ad3ba95e1",
+      "title": "Is L3Harris’ CEO Ouster And Governance Stance Altering The Investment Case For L3Harris Technologies (LHX)?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-ceo-ouster-governance-stance-061206465.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787033526,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
