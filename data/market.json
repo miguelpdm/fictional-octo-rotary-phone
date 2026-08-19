@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T03:24:02.339398+00:00",
+  "updatedAt": "2026-08-19T04:05:55.324029+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6468.17,
       "change": -62.279999999999745,
       "changePct": -0.953686193141357,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,116 +52,101 @@
   ],
   "news": [
     {
-      "id": "7530780e-e32a-3f28-ab73-9948656dfc9f",
-      "title": "Dow, S&P 500, Nasdaq Futures Slip As Global Bond Rout Catches Up With Markets: LUNR, MSTR, WYFI, AMLX Stocks In Focus",
-      "link": "https://finance.yahoo.com/m/7530780e-e32a-3f28-ab73-9948656dfc9f/dow%2C-s%26p-500%2C-nasdaq-futures.html",
-      "publisher": "Stocktwits",
-      "time": 1787109452,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "159dd347-6671-3464-b33b-bd20f9d5d3e8",
-      "title": "Flowers Foods (FLO) To Report Earnings Tomorrow: Here Is What To Expect",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/flowers-foods-flo-report-earnings-031656376.html",
-      "publisher": "StockStory",
-      "time": 1787109416,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "2e708d7b-8293-38f1-abf2-ca8ec63fa425",
-      "title": "Elon Musk's SpaceX Stock Just Closed Above Its $135 IPO Price for the First Time in Weeks. Is the Rebound a Buy Signal?",
-      "link": "https://finance.yahoo.com/m/2e708d7b-8293-38f1-abf2-ca8ec63fa425/elon-musk%27s-spacex-stock-just.html",
-      "publisher": "Motley Fool",
-      "time": 1787109186,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "0bb67e29-247b-3a7d-91e9-ab4b5f4fc934",
-      "title": "Lumentum's CEO Sells 5,438 Shares for $5 Million. Here's What That Means for Investors.",
-      "link": "https://finance.yahoo.com/m/0bb67e29-247b-3a7d-91e9-ab4b5f4fc934/lumentum%27s-ceo-sells-5%2C438.html",
-      "publisher": "Motley Fool",
-      "time": 1787109167,
+      "id": "16f0ed83-5f44-33cf-8fdb-169db58664fd",
+      "title": "Primax Tymphany Group Advances Intelligent Robotics and Automation with AI Sensor Fusion at Automation Taipei 2026",
+      "link": "https://finance.yahoo.com/technology/ai/articles/primax-tymphany-group-advances-intelligent-040000645.html",
+      "publisher": "PR Newswire",
+      "time": 1787112000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c9333c57-7a15-3d04-95f2-9381bfa8955c",
-      "title": "Wayon Stone Named China's Top 10 Quartz Stone Brands in 2026, Expanding Architectural Surface Solutions for Global Projects",
-      "link": "https://finance.yahoo.com/real-estate/articles/wayon-stone-named-chinas-top-031200324.html",
+      "id": "999488c3-eece-3b4e-b10d-0ced9e810579",
+      "title": "Beyond Back-to-School, Canton Fair Helps Global Buyers Stay Ahead of Key Retail Seasons",
+      "link": "https://finance.yahoo.com/media-advertising/articles/beyond-back-school-canton-fair-035800065.html",
       "publisher": "PR Newswire",
-      "time": 1787109120,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
+      "time": 1787111880,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "02a8c82d-8cdf-3279-93a4-eb81603805d2",
-      "title": "China goes rural with data centres in quest to power AI",
-      "link": "https://finance.yahoo.com/m/02a8c82d-8cdf-3279-93a4-eb81603805d2/china-goes-rural-with-data.html",
-      "publisher": "AFP",
-      "time": 1787108948,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef",
-      "title": "Dow Jones Futures Fall; After Sandisk, Micron, Credo Lead AI Losses, Market Rally Nears Key Test",
-      "link": "https://finance.yahoo.com/m/ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef/dow-jones-futures-fall%3B-after.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787108948,
+      "id": "92565945-f147-3668-8ebc-0e69293ae751",
+      "title": "2 Stocks to Buy That Stanley Druckenmiller Added While Exiting 5 Chip and Photonics Stocks",
+      "link": "https://finance.yahoo.com/m/92565945-f147-3668-8ebc-0e69293ae751/2-stocks-to-buy-that-stanley.html",
+      "publisher": "Motley Fool",
+      "time": 1787111821,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "0f189979-9c6c-3334-894e-85ad7a11b7c9",
-      "title": "ScanSource Earnings: What To Look For From SCSC",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/scansource-earnings-look-scsc-030856649.html",
-      "publisher": "StockStory",
-      "time": 1787108936,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "a2a42fcb-b833-3f1c-bf84-dbedd4569ecc",
+      "title": "Arista Networks vs. Palantir Technologies: Which Technology Stock Is a Better Buy in 2026?",
+      "link": "https://finance.yahoo.com/m/a2a42fcb-b833-3f1c-bf84-dbedd4569ecc/arista-networks-vs.-palantir.html",
+      "publisher": "Motley Fool",
+      "time": 1787111461,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "1f825902-1bd8-370e-b986-8392da5494c4",
-      "title": "Anthropic speaks with investors ahead of potential record-setting IPO",
-      "link": "https://finance.yahoo.com/m/1f825902-1bd8-370e-b986-8392da5494c4/anthropic-speaks-with.html",
-      "publisher": "Proactive",
-      "time": 1787108880,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "551f1a00-2b33-3fc7-916c-017daa899573",
+      "title": "Harlingen proposing budget of about $71 million",
+      "link": "https://finance.yahoo.com/m/551f1a00-2b33-3fc7-916c-017daa899573/harlingen-proposing-budget-of.html",
+      "publisher": "Valley Morning Star, Harlingen, Texas",
+      "time": 1787111280,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "8d72965e-5f76-3d69-8e3a-cf72a86d2e72",
-      "title": "China's robots open to opportunities in search of commercial breakthrough",
-      "link": "https://finance.yahoo.com/technology/ai/articles/chinas-robots-open-opportunities-search-030728306.html",
-      "publisher": "AFP",
-      "time": 1787108848,
+      "id": "01cde948-f316-34b8-9146-f64b0da3f6f5",
+      "title": "Statement by Prime Minister Carney on ongoing Canada-U.S. trade negotiations",
+      "link": "https://finance.yahoo.com/economy/policy/articles/statement-prime-minister-carney-ongoing-034600325.html",
+      "publisher": "CNW Group",
+      "time": 1787111160,
       "impact": "medium",
       "tags": [
         "geo"
       ]
+    },
+    {
+      "id": "b6b7cb05-5b92-3f22-bf30-0e6992384f78",
+      "title": "12B SPORTS and VR46 Racing Team Bring Sung Kang into the World of MotoGP",
+      "link": "https://finance.yahoo.com/media-advertising/articles/12b-sports-vr46-racing-team-034500016.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787111100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d8907cf2-a2de-31a7-99d9-2771ba490bd3",
+      "title": "Who’s Buying NIO Stock? Morgan Stanley Leads As Existing Holders Turn Net Sellers",
+      "link": "https://finance.yahoo.com/m/d8907cf2-a2de-31a7-99d9-2771ba490bd3/who%E2%80%99s-buying-nio-stock%3F.html",
+      "publisher": "Stocktwits",
+      "time": 1787111093,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "36524c34-730c-3646-b824-1823075aecd2",
+      "title": "What To Expect From Ross Stores’s (ROST) Q2 Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/expect-ross-stores-rost-q2-034056122.html",
+      "publisher": "StockStory",
+      "time": 1787110856,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "3a0c773a-30f8-3b29-9ead-b7df5d14fbc4",
+      "title": "East Oak Introduces The Pitmate™ Tabletop 20-In Electric Smoker: Real Wood-Smoked Flavor For Every Outdoor Space",
+      "link": "https://finance.yahoo.com/small-business/articles/east-oak-introduces-pitmate-tabletop-034000260.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787110800,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
