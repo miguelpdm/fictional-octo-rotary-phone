@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T21:19:29.593591+00:00",
+  "updatedAt": "2026-08-19T21:48:46.482740+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,99 +52,100 @@
   ],
   "news": [
     {
-      "id": "e5e7ef1a-7507-3d09-99c0-1b1b3b655507",
-      "title": "VUG’s 0.03% Fee Hides the Real Cost: 63% of Your Money Sits in Just Ten Stocks",
-      "link": "https://finance.yahoo.com/m/e5e7ef1a-7507-3d09-99c0-1b1b3b655507/vug%E2%80%99s-0.03%25-fee-hides-the.html",
+      "id": "76f273fc-2a2f-3487-b18b-06bb267e483d",
+      "title": "BILL posts stronger Q4 revenue, profit growth but sees slower fiscal 2027",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bill-posts-stronger-q4-revenue-214344789.html",
+      "publisher": "Investing.com",
+      "time": 1787175824,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "67147279-2728-392d-a220-6183ec9503a1",
+      "title": "Trump Says AI Could Be 'Bigger Than the Internet' as He Pushes Light-Touch Regulation",
+      "link": "https://finance.yahoo.com/m/67147279-2728-392d-a220-6183ec9503a1/trump-says-ai-could-be.html",
+      "publisher": "decrypt",
+      "time": 1787175410,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ac28c608-4c45-3e7e-ac88-415f215716e3",
+      "title": "Medicare Covers Your Heart but Not Your Teeth, Eyes, or Ears. These 3 ETFs Pay for What It Skips",
+      "link": "https://finance.yahoo.com/m/ac28c608-4c45-3e7e-ac88-415f215716e3/medicare-covers-your-heart.html",
       "publisher": "24/7 Wall St.",
-      "time": 1787174128,
+      "time": 1787175323,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "169930c4-df4c-3774-889a-d6a583f51742",
+      "title": "Richtech: Fiscal Q3 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/richtech-fiscal-q3-earnings-snapshot-213500378.html",
+      "publisher": "Associated Press",
+      "time": 1787175300,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "c8c240b2-8fe8-3a28-b654-d676a18b3fd9",
-      "title": "Host Defense® Launches New Functional Mushroom Supplement for Pets",
-      "link": "https://finance.yahoo.com/healthcare/articles/host-defense-launches-functional-mushroom-211500577.html",
-      "publisher": "PR Newswire",
-      "time": 1787174100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "248efee8-7656-301a-9060-9619b9d62f06",
-      "title": "The US national debt now stands at $40 trillion",
-      "link": "https://finance.yahoo.com/economy/policy/articles/us-national-debt-now-stands-211440814.html",
-      "publisher": "Associated Press",
-      "time": 1787174080,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "558048cb-d9be-34ab-842e-538a7658e213",
-      "title": "US hits $40T national debt milestone, drawing new warnings that the pace of federal borrowing remains unsustainable",
-      "link": "https://finance.yahoo.com/economy/policy/articles/us-hits-40t-national-debt-211402243.html",
-      "publisher": "Associated Press",
-      "time": 1787174042,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "9658f137-572b-30cf-bad4-70d0eee98114",
-      "title": "Generational Group Advises Affinity Advisory Network, LLC in its Sale to Stark Novus Financial Inc.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/generational-group-advises-affinity-advisory-211400532.html",
-      "publisher": "Business Wire",
-      "time": 1787174040,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d201383b-5845-3516-ad7d-eecf1d27da51",
-      "title": "AVAX One Technology CFO Chris Polimeni Resigns",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/avax-one-technology-cfo-chris-211300233.html",
-      "publisher": "MT Newswires",
-      "time": 1787173980,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5cabc624-f496-3762-b456-ea2dae03c6b2",
-      "title": "Target Corporation (TGT) vs. Walmart (WMT): A Closer Look at Two Dividend Giants",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/target-corporation-tgt-vs-walmart-211223242.html",
-      "publisher": "Insider Monkey",
-      "time": 1787173943,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f5fb6e20-6e9d-39ec-9e4f-15416ce03171",
-      "title": "Agilysys Insider Sold Shares Worth $958,104, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/agilysys-insider-sold-shares-worth-211012865.html",
-      "publisher": "MT Newswires",
-      "time": 1787173812,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a9b2fada-490b-3ed1-9899-576f3206c4c7",
-      "title": "PulteGroup (PHM) Stock Is Up, What You Need To Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pultegroup-phm-stock-know-211002999.html",
+      "id": "bc7cec37-4194-3a0c-bee2-238900d95b33",
+      "title": "Why Is Moderna (MRNA) Stock Rocketing Higher Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-moderna-mrna-stock-rocketing-213402363.html",
       "publisher": "StockStory",
-      "time": 1787173802,
+      "time": 1787175242,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "a8560a24-e6e0-34b9-beaa-7fa37bf9e0ef",
-      "title": "Stripe’s $7B+ OpenRouter deal signals shift to AI plumbing",
-      "link": "https://finance.yahoo.com/m/a8560a24-e6e0-34b9-beaa-7fa37bf9e0ef/stripe%E2%80%99s-%247b%2B-openrouter-deal.html",
-      "publisher": "Pitchbook",
-      "time": 1787173734,
+      "id": "ac507e59-1f83-31aa-bdb5-95f1b272ca6b",
+      "title": "Virtuix Reports First Quarter Fiscal Year 2027 Results as Omni One Orders Increase 150% Following Meta Launch",
+      "link": "https://finance.yahoo.com/technology/ai/articles/virtuix-reports-first-quarter-fiscal-213400259.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787175240,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "24ff163a-0036-3db8-9623-b4ab42d96b04",
+      "title": "Pop-Tart-flavored BuzzBallz are here. How to get new beverage",
+      "link": "https://finance.yahoo.com/m/24ff163a-0036-3db8-9623-b4ab42d96b04/pop-tart-flavored-buzzballz.html",
+      "publisher": "USA TODAY",
+      "time": 1787175227,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "80633e20-fa93-31d1-bc8c-77f706345e20",
+      "title": "Apple's camera AirPods are closer than you think",
+      "link": "https://finance.yahoo.com/m/80633e20-fa93-31d1-bc8c-77f706345e20/apple%27s-camera-airpods-are.html",
+      "publisher": "TheStreet",
+      "time": 1787175180,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e74740ce-524c-397a-b674-03b68041f752",
+      "title": "Ocean Power Technologies Provides Update to Previously Announced Preliminary Fiscal 2026 Financial Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ocean-power-technologies-provides-previously-213300354.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787175180,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d50e0106-ab37-3ab4-9ae9-7a9133e310b2",
+      "title": "Extra Space Storage Inc. Announces 3rd Quarter 2025 Dividend",
+      "link": "https://finance.yahoo.com/real-estate/articles/extra-space-storage-inc-announces-201500114.html",
+      "publisher": "PR Newswire",
+      "time": 1787170500,
       "impact": "low",
       "tags": []
     }
