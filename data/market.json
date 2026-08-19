@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-19T11:48:52.300365+00:00",
+  "updatedAt": "2026-08-19T12:33:07.394410+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19937.2,
-      "change": 2.2999999999992724,
-      "changePct": 0.011537554740677266,
+      "price": 19915.9,
+      "change": -19.0,
+      "changePct": -0.0953102348143206,
       "currency": "EUR"
     },
     {
@@ -28,134 +28,123 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26110.64,
-      "change": -227.97000000000116,
-      "changePct": -0.8655354249901613,
+      "price": 26082.26,
+      "change": -256.3500000000022,
+      "changePct": -0.9732859858587912,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6477.26,
-      "change": 9.090000000000146,
-      "changePct": 0.14053433969732002,
-      "currency": null
+      "price": 6469.32,
+      "change": 1.1499999999996362,
+      "changePct": 0.017779371908895968,
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.77,
-      "change": -0.07000000000000028,
-      "changePct": -0.4419191919191937,
+      "price": 15.69,
+      "change": -0.15000000000000036,
+      "changePct": -0.9469696969696992,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "f030cd27-378d-3eb2-aa1e-3676f5e34be1",
-      "title": "Goldman Sachs enters $410m deal to buy LCN Capital Partners",
-      "link": "https://finance.yahoo.com/m/f030cd27-378d-3eb2-aa1e-3676f5e34be1/goldman-sachs-enters-%24410m.html",
-      "publisher": "Private Banker International",
-      "time": 1787140039,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "bb87c60b-0fee-3b66-8d77-8a464db1d93b",
-      "title": "Shein slashes IPO valuation target to about $25bn",
-      "link": "https://finance.yahoo.com/m/bb87c60b-0fee-3b66-8d77-8a464db1d93b/shein-slashes-ipo-valuation.html",
-      "publisher": "Just Style",
-      "time": 1787139935,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a82a33e1-018d-3e6a-98eb-de00ba0fcbc9",
-      "title": "Opera Q2 Adjusted Earnings, Revenue Rise; Shares Down Pre-Bell",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/opera-q2-adjusted-earnings-revenue-114438625.html",
-      "publisher": "MT Newswires",
-      "time": 1787139878,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "ad19dfa2-2985-3c1f-82e5-3e21f30e65eb",
-      "title": "K Wave Media Regains Compliance With Nasdaq's Minimum Bid Price Requirement",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/k-wave-media-regains-compliance-114225475.html",
-      "publisher": "MT Newswires",
-      "time": 1787139745,
+      "id": "cf202288-e9cb-3c32-9baa-757b73887bf8",
+      "title": "Cerebras Stock in Focus After New AI Chip Claims 30x Faster Inference Than GPUs",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-stock-focus-ai-chip-123151152.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787142711,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "35e28f5f-53d9-3745-9cec-8857d381e1d1",
-      "title": "US Dollar Falls Early Wednesday, FOMC Minutes in Afternoon",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-falls-early-wednesday-113904705.html",
-      "publisher": "MT Newswires",
-      "time": 1787139544,
+      "id": "e52fbbbf-31e6-3ba4-88e1-00644f2c57d6",
+      "title": "Meta Stock Stumbles as Child Safety Trial Opens With Billions at Stake",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-stumbles-child-safety-123027526.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787142627,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3604cde8-532b-327e-b18a-fb382b313b48",
-      "title": "TJX: Fiscal Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tjx-fiscal-q2-earnings-snapshot-113900632.html",
-      "publisher": "Associated Press",
-      "time": 1787139540,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "81c79537-dea0-31df-a797-d579c97afc1c",
-      "title": "Interim Report - RIAS A/S",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/interim-report-rias-113800156.html",
+      "id": "27a2614c-b7f2-30da-bd3e-b03b1735f27c",
+      "title": "U.S. FDA Accepts Teva’s New Drug Application (NDA) and Grants Priority Review for Ecopipam, a First-in-Class Investigational Therapy for Pediatric Patients with Tourette Syndrome",
+      "link": "https://finance.yahoo.com/healthcare/articles/u-fda-accepts-teva-drug-123000708.html",
       "publisher": "GlobeNewswire",
-      "time": 1787139480,
+      "time": 1787142600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3dfc97e0-c241-306b-ba32-5db4ffbf1bc9",
-      "title": "Jim Cramer says market pessimism is creating buying opportunities",
-      "link": "https://finance.yahoo.com/m/3dfc97e0-c241-306b-ba32-5db4ffbf1bc9/jim-cramer-says-market.html",
-      "publisher": "Quartz",
-      "time": 1787139445,
+      "id": "2bb7ddb5-afd2-3e75-858b-eb42a4c8f8b0",
+      "title": "Food Encapsulation Market to Reach USD 21.79 Billion by 2030, Growing at a CAGR of 8.5% — MarketsandMarkets™",
+      "link": "https://finance.yahoo.com/markets/articles/food-encapsulation-market-reach-usd-123000528.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787142600,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "b35849e2-706b-3fec-afc4-cd263fcbb792",
-      "title": "Moderna shares soar 60% on melanoma vaccine trial success",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/moderna-shares-soar-60-on-melanoma-vaccine-trial-success-113706098.html",
-      "publisher": "Financial Times",
-      "time": 1787139426,
+      "id": "68b2508d-8ba0-3cec-8d30-8a5120577cd4",
+      "title": "Winners Inc. Announces Approval of Gaming License For Its Prediction Markets Trading Platform Mevu.com",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/winners-inc-announces-approval-gaming-123000756.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787142600,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "81eb0245-23d7-311e-b696-e0ac69f5ad26",
+      "title": "Jet.AI Highlights Strategic Value of AI Data Center Portfolio Amid Surging Demand for Powered Land and Early-Stage Infrastructure Assets",
+      "link": "https://finance.yahoo.com/technology/ai/articles/jet-ai-highlights-strategic-value-123000278.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787142600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "252513ab-d273-368e-b02a-f37a7aba0faf",
-      "title": "Prospect Capital Schedules Fiscal Year Earnings Release and Conference Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prospect-capital-schedules-fiscal-earnings-113700711.html",
+      "id": "8c150044-9a24-35a3-ad05-e6de41138e00",
+      "title": "Biodexa announces major milestone for its Serenta registrational Phase 3 trial in FAP",
+      "link": "https://finance.yahoo.com/healthcare/articles/biodexa-announces-major-milestone-serenta-123000736.html",
       "publisher": "GlobeNewswire",
-      "time": 1787139420,
-      "impact": "medium",
+      "time": 1787142600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9d7730ee-08f5-35b2-9631-b499cb9c2443",
+      "title": "InterDigital to Present at 2026 Midwest IDEAS Conference",
+      "link": "https://finance.yahoo.com/technology/ai/articles/interdigital-present-2026-midwest-ideas-123000955.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787142600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c2f846cd-3bed-31a7-9d36-3704da673e3d",
+      "title": "NOMAD Achieves UL 9540 Certification for 1 MW Transportable Battery Energy Storage System",
+      "link": "https://finance.yahoo.com/energy/articles/nomad-achieves-ul-9540-certification-123000013.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787142600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d2284120-4603-3d0b-bbe4-04f601f6cc7b",
+      "title": "RF Switches Market Size, 2026-2035 | Grow at 5.88% CAGR to Reach USD 9.69 Billion by 2035 | SNS Insider",
+      "link": "https://finance.yahoo.com/technology/articles/rf-switches-market-size-2026-123000211.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787142600,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     }
   ],
