@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T16:23:37.438910+00:00",
+  "updatedAt": "2026-08-19T16:54:41.208917+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7734.86,
-      "change": -10.200000000000728,
-      "changePct": -0.1316968493465606,
+      "price": 7718.12,
+      "change": -26.94000000000051,
+      "changePct": -0.34783461974472124,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26440.516,
-      "change": -204.39400000000023,
-      "changePct": -0.7671033604542115,
+      "price": 26357.725,
+      "change": -287.1850000000013,
+      "changePct": -1.0778231189371676,
       "currency": "USD"
     },
     {
@@ -39,51 +39,33 @@
       "price": 6444.46,
       "change": -23.710000000000036,
       "changePct": -0.36656426779135426,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.08,
-      "change": -0.7599999999999998,
-      "changePct": -4.797979797979797,
+      "price": 15.16,
+      "change": -0.6799999999999997,
+      "changePct": -4.2929292929292915,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "a1b3def4-f25b-3720-a7bb-ed3668c9839d",
-      "title": "Why Broadcom Stock Crashed Today",
-      "link": "https://finance.yahoo.com/m/a1b3def4-f25b-3720-a7bb-ed3668c9839d/why-broadcom-stock-crashed.html",
-      "publisher": "Motley Fool",
-      "time": 1787156342,
+      "id": "cb04c131-0420-31e6-876d-b0de45702a31",
+      "title": "Intel GPU Prices Jump 48% as Memory Costs Surge",
+      "link": "https://finance.yahoo.com/technology/articles/intel-gpu-prices-jump-48-165415393.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787158455,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d08d86e6-86ed-45f3-bc0e-196213e73d93",
-      "title": "Bitcoin and ethereum prices today, Wednesday, August 19, 2026:  Crypto prices rise after SEC announces proposed regulation",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1787156253,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ca50c703-82fc-3115-b4a7-1fc53ab5b977",
-      "title": "Introducing the New Cobalt® Model R26 Luxury Sport Runabout, A Next-Generation Family-Size Day Boat",
-      "link": "https://finance.yahoo.com/technology/articles/introducing-cobalt-model-r26-luxury-161600319.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787156160,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "54d445e1-3a99-303d-88cd-1d30f545ca0e",
-      "title": "5 Energy Stocks Breaking Out As Iran Ceasefire Ends, Oil Prices Keep Rising",
-      "link": "https://finance.yahoo.com/m/54d445e1-3a99-303d-88cd-1d30f545ca0e/5-energy-stocks-breaking-out.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787156066,
+      "id": "08e5feaa-76e2-3fd8-9eac-8b41cbdd908e",
+      "title": "Cardinal Health’s (CAH) Big Earnings Beat Hides a More Complicated Story",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cardinal-health-cah-big-earnings-165020198.html",
+      "publisher": "Insider Monkey",
+      "time": 1787158220,
       "impact": "medium",
       "tags": [
         "macro",
@@ -91,56 +73,79 @@
       ]
     },
     {
-      "id": "2b4f1674-7819-41e8-b5ad-99af8c43ad66",
-      "title": "Silver prices today, Wednesday, August 19, 2026:  Silver rises in early trading on lower rate-hike expectations",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-august-19-2026-silver-rises-in-early-trading-on-lower-rate-hike-expectations-161336926.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1787156016,
+      "id": "8121ebd9-c029-353c-9112-467950ad64f7",
+      "title": "One Great Chart: Why Bond Yields Are Rising",
+      "link": "https://finance.yahoo.com/m/8121ebd9-c029-353c-9112-467950ad64f7/one-great-chart%3A-why-bond.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787158203,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1db3990d-8390-3d14-b0e7-5ea2e34706d7",
-      "title": "Why Is Sandisk Stock Still Dropping?",
-      "link": "https://finance.yahoo.com/m/1db3990d-8390-3d14-b0e7-5ea2e34706d7/why-is-sandisk-stock-still.html",
-      "publisher": "Motley Fool",
-      "time": 1787155991,
+      "id": "a25d7d83-5d8d-314d-a615-a3066b20c0f0",
+      "title": "Hertz Data Shows Road Trips Will Dominate Fall Travel as Millennials Fuel the Trend",
+      "link": "https://finance.yahoo.com/media-advertising/articles/hertz-data-shows-road-trips-164700888.html",
+      "publisher": "Business Wire",
+      "time": 1787158020,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "60aac0ce-60d2-3d22-9f70-88dbd300af5b",
-      "title": "Donks, muscle, flash all show up for Wet Paint Nation in Detroit",
-      "link": "https://finance.yahoo.com/m/60aac0ce-60d2-3d22-9f70-88dbd300af5b/donks%2C-muscle%2C-flash-all-show.html",
-      "publisher": "Detroit Free Press",
-      "time": 1787155973,
+      "id": "0329136e-58c8-352c-94d9-3f19bdd43163",
+      "title": "Nebius Dives 14% and CoreWeave Falls 4% Before Rebounding. Neocloud Stocks Face Volatility as the Nasdaq Whipsaws.",
+      "link": "https://finance.yahoo.com/m/0329136e-58c8-352c-94d9-3f19bdd43163/nebius-dives-14%25-and.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787157936,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "641fd413-c21d-31b7-87ad-f4fe1a4d8797",
+      "title": "Empathy Brings \"Legacies live on. Own yours. Honor theirs.\" to Grand Central Terminal With a Public Art Installation Honoring Memory and Legacy",
+      "link": "https://finance.yahoo.com/healthcare/articles/empathy-brings-legacies-live-own-164500127.html",
+      "publisher": "Business Wire",
+      "time": 1787157900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1880d501-3f71-39d4-bb53-4e54d9c4aebb",
-      "title": "Wet Paint Nation brings donks, muscle, flash to Detroit. See the cars",
-      "link": "https://finance.yahoo.com/m/1880d501-3f71-39d4-bb53-4e54d9c4aebb/wet-paint-nation-brings.html",
-      "publisher": "Detroit Free Press",
-      "time": 1787155966,
+      "id": "d37afda8-20dd-3a35-a3da-96c6435be3d8",
+      "title": "Equifax Board of Directors Declares Quarterly Dividend",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equifax-board-directors-declares-quarterly-164500608.html",
+      "publisher": "PR Newswire",
+      "time": 1787157900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4601763c-9655-3c74-addb-fbb2ca558e7e",
-      "title": "Crypto Shorts Lose $1.23 Billion in 1 Hour: 3 Bitcoin Whales Wiped Out",
-      "link": "https://finance.yahoo.com/m/4601763c-9655-3c74-addb-fbb2ca558e7e/crypto-shorts-lose-%241.23.html",
-      "publisher": "BeInCrypto",
-      "time": 1787155945,
+      "id": "7b1650b9-175b-3b0a-b24f-2c7a637df961",
+      "title": "LG Energy, once fixed on EV batteries, jumps to Plan B",
+      "link": "https://finance.yahoo.com/energy/articles/lg-energy-once-fixed-ev-164432841.html",
+      "publisher": "Reuters",
+      "time": 1787157872,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bd7dc40f-a5f7-3441-8fbc-4f2f6007f008",
-      "title": "Pomona College to Provide Free Course Materials to All Students Through New Initiative",
-      "link": "https://finance.yahoo.com/small-business/articles/pomona-college-free-course-materials-161200312.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787155920,
+      "id": "f328087d-c8c1-39d2-ac2e-b6acd8ff8aef",
+      "title": "CrowdStrike Stock Likely To Swing On Earnings. This Trade Generates A Return From The Moves.",
+      "link": "https://finance.yahoo.com/m/f328087d-c8c1-39d2-ac2e-b6acd8ff8aef/crowdstrike-stock-likely-to.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787157859,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "60c159cb-207c-3b4d-801f-5206cad807cb",
+      "title": "ProCare Injury Specialists Opens 14th Texas Clinic in Waco",
+      "link": "https://finance.yahoo.com/healthcare/articles/procare-injury-specialists-opens-14th-164400523.html",
+      "publisher": "Business Wire",
+      "time": 1787157840,
       "impact": "low",
       "tags": []
     }
