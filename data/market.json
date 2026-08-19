@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T20:52:10.139040+00:00",
+  "updatedAt": "2026-08-19T21:19:29.593591+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6444.46,
       "change": -23.710000000000036,
       "changePct": -0.36656426779135426,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,102 +52,101 @@
   ],
   "news": [
     {
-      "id": "f7591b75-7e35-3c54-b2a2-dc3eaa5c40f4",
-      "title": "First Capital, Inc. Announces Quarterly Dividend",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/first-capital-inc-announces-quarterly-204500060.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787172300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "637b48f1-6a6f-33d8-8df7-2e8c9a9ef050",
-      "title": "Grocery Outlet (GO) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/637b48f1-6a6f-33d8-8df7-2e8c9a9ef050/grocery-outlet-%28go%29-q2-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1787172246,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "1f599b8d-e642-31d3-a465-f3c9626e70a9",
-      "title": "Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial",
-      "link": "https://finance.yahoo.com/m/1f599b8d-e642-31d3-a465-f3c9626e70a9/zuckerberg-lied-about-concern.html",
-      "publisher": "The Guardian",
-      "time": 1787172189,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "557272e2-acc5-3b62-a530-043ac8e7cf86",
-      "title": "Kratos Defense vs. Nokia: Is Defense or Telecom a Better Stock Buy in 2026?",
-      "link": "https://finance.yahoo.com/m/557272e2-acc5-3b62-a530-043ac8e7cf86/kratos-defense-vs.-nokia%3A-is.html",
-      "publisher": "Motley Fool",
-      "time": 1787172181,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "694c340b-4efc-3504-97ff-c09a9a4867cc",
-      "title": "Ripple minted $30 million in RLUSD in a single day, here is what the supply data actually tells you",
-      "link": "https://finance.yahoo.com/m/694c340b-4efc-3504-97ff-c09a9a4867cc/ripple-minted-%2430-million-in.html",
-      "publisher": "TheStreet",
-      "time": 1787172180,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "24bbbfb3-dc77-3660-bbb9-9759db45d5ae",
-      "title": "Why Newmont Mining Rallied Today",
-      "link": "https://finance.yahoo.com/m/24bbbfb3-dc77-3660-bbb9-9759db45d5ae/why-newmont-mining-rallied.html",
-      "publisher": "Motley Fool",
-      "time": 1787172132,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2088b9f6-2a40-3e34-a16e-a7f8723a8dab",
-      "title": "Coty Fiscal Q4 Adjusted Loss Narrows, Revenue Rises; Soraya Benchikh Named CFO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coty-fiscal-q4-adjusted-loss-204132739.html",
-      "publisher": "MT Newswires",
-      "time": 1787172092,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c6281c14-1acb-3570-9da8-51fcd1296b6a",
-      "title": "Why I Wouldn't Bother With the Anthropic or OpenAI IPOs",
-      "link": "https://finance.yahoo.com/m/c6281c14-1acb-3570-9da8-51fcd1296b6a/why-i-wouldn%27t-bother-with.html",
-      "publisher": "Motley Fool",
-      "time": 1787172069,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "88481397-2748-3dc7-9f6d-f66e42f64813",
-      "title": "Logistics Expert and Scholar Michael Curtis Broughton Publishes New Book THE VERONIC INDUSTRIAL STANDARD",
-      "link": "https://finance.yahoo.com/small-business/articles/logistics-expert-scholar-michael-curtis-204100531.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787172060,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "32a89555-0be0-3541-841b-ea080d3bcb4d",
-      "title": "How major US stock indexes fared Wednesday 8/19/2026",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-204051533.html",
-      "publisher": "Associated Press",
-      "time": 1787172051,
+      "id": "e5e7ef1a-7507-3d09-99c0-1b1b3b655507",
+      "title": "VUG’s 0.03% Fee Hides the Real Cost: 63% of Your Money Sits in Just Ten Stocks",
+      "link": "https://finance.yahoo.com/m/e5e7ef1a-7507-3d09-99c0-1b1b3b655507/vug%E2%80%99s-0.03%25-fee-hides-the.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787174128,
       "impact": "low",
       "tags": [
         "macro"
       ]
+    },
+    {
+      "id": "c8c240b2-8fe8-3a28-b654-d676a18b3fd9",
+      "title": "Host Defense® Launches New Functional Mushroom Supplement for Pets",
+      "link": "https://finance.yahoo.com/healthcare/articles/host-defense-launches-functional-mushroom-211500577.html",
+      "publisher": "PR Newswire",
+      "time": 1787174100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "248efee8-7656-301a-9060-9619b9d62f06",
+      "title": "The US national debt now stands at $40 trillion",
+      "link": "https://finance.yahoo.com/economy/policy/articles/us-national-debt-now-stands-211440814.html",
+      "publisher": "Associated Press",
+      "time": 1787174080,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "558048cb-d9be-34ab-842e-538a7658e213",
+      "title": "US hits $40T national debt milestone, drawing new warnings that the pace of federal borrowing remains unsustainable",
+      "link": "https://finance.yahoo.com/economy/policy/articles/us-hits-40t-national-debt-211402243.html",
+      "publisher": "Associated Press",
+      "time": 1787174042,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "9658f137-572b-30cf-bad4-70d0eee98114",
+      "title": "Generational Group Advises Affinity Advisory Network, LLC in its Sale to Stark Novus Financial Inc.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/generational-group-advises-affinity-advisory-211400532.html",
+      "publisher": "Business Wire",
+      "time": 1787174040,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d201383b-5845-3516-ad7d-eecf1d27da51",
+      "title": "AVAX One Technology CFO Chris Polimeni Resigns",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/avax-one-technology-cfo-chris-211300233.html",
+      "publisher": "MT Newswires",
+      "time": 1787173980,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5cabc624-f496-3762-b456-ea2dae03c6b2",
+      "title": "Target Corporation (TGT) vs. Walmart (WMT): A Closer Look at Two Dividend Giants",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/target-corporation-tgt-vs-walmart-211223242.html",
+      "publisher": "Insider Monkey",
+      "time": 1787173943,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f5fb6e20-6e9d-39ec-9e4f-15416ce03171",
+      "title": "Agilysys Insider Sold Shares Worth $958,104, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/agilysys-insider-sold-shares-worth-211012865.html",
+      "publisher": "MT Newswires",
+      "time": 1787173812,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a9b2fada-490b-3ed1-9899-576f3206c4c7",
+      "title": "PulteGroup (PHM) Stock Is Up, What You Need To Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pultegroup-phm-stock-know-211002999.html",
+      "publisher": "StockStory",
+      "time": 1787173802,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "a8560a24-e6e0-34b9-beaa-7fa37bf9e0ef",
+      "title": "Stripe’s $7B+ OpenRouter deal signals shift to AI plumbing",
+      "link": "https://finance.yahoo.com/m/a8560a24-e6e0-34b9-beaa-7fa37bf9e0ef/stripe%E2%80%99s-%247b%2B-openrouter-deal.html",
+      "publisher": "Pitchbook",
+      "time": 1787173734,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
