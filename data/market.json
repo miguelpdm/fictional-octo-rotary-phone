@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T15:55:13.741191+00:00",
+  "updatedAt": "2026-08-19T16:23:37.438910+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7721.11,
-      "change": -23.950000000000728,
-      "changePct": -0.3092293668480389,
+      "price": 7734.86,
+      "change": -10.200000000000728,
+      "changePct": -0.1316968493465606,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26373.338,
-      "change": -271.5720000000001,
-      "changePct": -1.0192265614708405,
+      "price": 26440.516,
+      "change": -204.39400000000023,
+      "changePct": -0.7671033604542115,
       "currency": "USD"
     },
     {
@@ -39,113 +39,51 @@
       "price": 6444.46,
       "change": -23.710000000000036,
       "changePct": -0.36656426779135426,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.21,
-      "change": -0.629999999999999,
-      "changePct": -3.977272727272721,
+      "price": 15.08,
+      "change": -0.7599999999999998,
+      "changePct": -4.797979797979797,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "fe5ab231-7e71-3cd9-9917-a090ca9b009a",
-      "title": "Why Mercury Systems Stock Is Sinking Today",
-      "link": "https://finance.yahoo.com/m/fe5ab231-7e71-3cd9-9917-a090ca9b009a/why-mercury-systems-stock-is.html",
+      "id": "a1b3def4-f25b-3720-a7bb-ed3668c9839d",
+      "title": "Why Broadcom Stock Crashed Today",
+      "link": "https://finance.yahoo.com/m/a1b3def4-f25b-3720-a7bb-ed3668c9839d/why-broadcom-stock-crashed.html",
       "publisher": "Motley Fool",
-      "time": 1787154733,
+      "time": 1787156342,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f048c7f1-5642-467a-ac57-7b466482940c",
-      "title": "If Walmart doesn't raise its outlook, the stock will fall: CFRA Research",
-      "link": "https://finance.yahoo.com/video/if-walmart-doesnt-raise-its-outlook-the-stock-will-fall-cfra-research-155212028.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1787154732,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bef4227c-b565-4a54-be00-3d1e49ac5920",
-      "title": "Indexed universal life insurance (IUL): Risks, costs, and how it works",
-      "link": "https://finance.yahoo.com/personal-finance/insurance/article/indexed-universal-life-155053064.html",
+      "id": "d08d86e6-86ed-45f3-bc0e-196213e73d93",
+      "title": "Bitcoin and ethereum prices today, Wednesday, August 19, 2026:  Crypto prices rise after SEC announces proposed regulation",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html",
       "publisher": "Yahoo Personal Finance",
-      "time": 1787154653,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "75eaf232-0b32-4db4-b227-29851ee8aaef",
-      "title": "How the soaring federal debt affects you personally",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/how-the-soaring-federal-debt-affects-you-personally-155000383.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1787154600,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "cd0f34cb-f733-3584-a260-d98696b37197",
-      "title": "The Small-Cap Premium Was Supposed to Beat Large Caps Over Time. It Hasn't in 15 Years. Here's the Actual Gap.",
-      "link": "https://finance.yahoo.com/m/cd0f34cb-f733-3584-a260-d98696b37197/the-small-cap-premium-was.html",
-      "publisher": "Motley Fool",
-      "time": 1787154600,
+      "time": 1787156253,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e17ba4b7-dc8f-3e76-8ef9-0185e90f9ef2",
-      "title": "Altamira Gold Gets Land Access to High-Priority Gold Targets in Brazil",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/altamira-gold-gets-land-access-154810306.html",
-      "publisher": "MT Newswires",
-      "time": 1787154490,
+      "id": "ca50c703-82fc-3115-b4a7-1fc53ab5b977",
+      "title": "Introducing the New Cobalt® Model R26 Luxury Sport Runabout, A Next-Generation Family-Size Day Boat",
+      "link": "https://finance.yahoo.com/technology/articles/introducing-cobalt-model-r26-luxury-161600319.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787156160,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a45eda49-aac6-32d5-a703-d113961795dc",
-      "title": "Will Bitcoin Get Back to $100,000 in 2026? It Could All Hinge on This",
-      "link": "https://finance.yahoo.com/m/a45eda49-aac6-32d5-a703-d113961795dc/will-bitcoin-get-back-to.html",
-      "publisher": "Motley Fool",
-      "time": 1787154490,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4b006db6-6127-3595-b3f5-d3e62f7feb45",
-      "title": "Viking Positioned to Navigate Periods of Low Water in Europe, UBS Securities Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/viking-positioned-navigate-periods-low-154802597.html",
-      "publisher": "MT Newswires",
-      "time": 1787154482,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3fd7930a-535c-36da-af38-deea46b87f68",
-      "title": "Target Raises Full-Year Outlook as Tariff Refunds Boost Second-Quarter Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/target-raises-full-outlook-tariff-154520784.html",
-      "publisher": "MT Newswires",
-      "time": 1787154320,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "9fb08bb1-4bd2-33e6-9bad-28b871d6731b",
-      "title": "Core Natural Resources Seeing Improving Performance, Limited Earnings Leverage, UBS Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/core-natural-resources-seeing-improving-154506163.html",
-      "publisher": "MT Newswires",
-      "time": 1787154306,
+      "id": "54d445e1-3a99-303d-88cd-1d30f545ca0e",
+      "title": "5 Energy Stocks Breaking Out As Iran Ceasefire Ends, Oil Prices Keep Rising",
+      "link": "https://finance.yahoo.com/m/54d445e1-3a99-303d-88cd-1d30f545ca0e/5-energy-stocks-breaking-out.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787156066,
       "impact": "medium",
       "tags": [
         "macro",
@@ -153,41 +91,56 @@
       ]
     },
     {
-      "id": "599de245-de49-38e2-a285-7e90c4c3ce76",
-      "title": "Stock Market Today: S&P 500 Charges Up As Fed Minutes Loom; Moderna Soars On Cancer News (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/599de245-de49-38e2-a285-7e90c4c3ce76/stock-market-today%3A-s%26p-500.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787154176,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "b75d567c-09d4-3993-be02-a9688e7b8077",
-      "title": "Zscaler Likely to Deliver Slight Q4 Upside, Oppenheimer Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zscaler-likely-deliver-slight-q4-154256983.html",
-      "publisher": "MT Newswires",
-      "time": 1787154176,
+      "id": "2b4f1674-7819-41e8-b5ad-99af8c43ad66",
+      "title": "Silver prices today, Wednesday, August 19, 2026:  Silver rises in early trading on lower rate-hike expectations",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-august-19-2026-silver-rises-in-early-trading-on-lower-rate-hike-expectations-161336926.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1787156016,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8ff7c012-a898-3715-8117-2daee8d6b4ad",
-      "title": "Red Sea Global opens new resort on Saudi Arabian coast",
-      "link": "https://finance.yahoo.com/m/8ff7c012-a898-3715-8117-2daee8d6b4ad/red-sea-global-opens-new.html",
-      "publisher": "Hotel Management Network",
-      "time": 1787154139,
+      "id": "1db3990d-8390-3d14-b0e7-5ea2e34706d7",
+      "title": "Why Is Sandisk Stock Still Dropping?",
+      "link": "https://finance.yahoo.com/m/1db3990d-8390-3d14-b0e7-5ea2e34706d7/why-is-sandisk-stock-still.html",
+      "publisher": "Motley Fool",
+      "time": 1787155991,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b0accca9-3b0d-3fdc-8eb1-a52affa56e13",
-      "title": "Aktis Oncology Seen Advancing Targeted Radiation-Based Cancer Drugs, Wedbush Says",
-      "link": "https://finance.yahoo.com/healthcare/articles/aktis-oncology-seen-advancing-targeted-154202091.html",
-      "publisher": "MT Newswires",
-      "time": 1787154122,
+      "id": "60aac0ce-60d2-3d22-9f70-88dbd300af5b",
+      "title": "Donks, muscle, flash all show up for Wet Paint Nation in Detroit",
+      "link": "https://finance.yahoo.com/m/60aac0ce-60d2-3d22-9f70-88dbd300af5b/donks%2C-muscle%2C-flash-all-show.html",
+      "publisher": "Detroit Free Press",
+      "time": 1787155973,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1880d501-3f71-39d4-bb53-4e54d9c4aebb",
+      "title": "Wet Paint Nation brings donks, muscle, flash to Detroit. See the cars",
+      "link": "https://finance.yahoo.com/m/1880d501-3f71-39d4-bb53-4e54d9c4aebb/wet-paint-nation-brings.html",
+      "publisher": "Detroit Free Press",
+      "time": 1787155966,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4601763c-9655-3c74-addb-fbb2ca558e7e",
+      "title": "Crypto Shorts Lose $1.23 Billion in 1 Hour: 3 Bitcoin Whales Wiped Out",
+      "link": "https://finance.yahoo.com/m/4601763c-9655-3c74-addb-fbb2ca558e7e/crypto-shorts-lose-%241.23.html",
+      "publisher": "BeInCrypto",
+      "time": 1787155945,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bd7dc40f-a5f7-3441-8fbc-4f2f6007f008",
+      "title": "Pomona College to Provide Free Course Materials to All Students Through New Initiative",
+      "link": "https://finance.yahoo.com/small-business/articles/pomona-college-free-course-materials-161200312.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787155920,
       "impact": "low",
       "tags": []
     }
