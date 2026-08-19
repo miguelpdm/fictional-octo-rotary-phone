@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T16:54:41.208917+00:00",
+  "updatedAt": "2026-08-19T17:20:36.675131+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7718.12,
-      "change": -26.94000000000051,
-      "changePct": -0.34783461974472124,
+      "price": 7713.1,
+      "change": -31.960000000000036,
+      "changePct": -0.41265012795252765,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26357.725,
-      "change": -287.1850000000013,
-      "changePct": -1.0778231189371676,
+      "price": 26321.514,
+      "change": -323.39600000000064,
+      "changePct": -1.2137252480867853,
       "currency": "USD"
     },
     {
@@ -44,96 +44,93 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.16,
-      "change": -0.6799999999999997,
-      "changePct": -4.2929292929292915,
+      "price": 15.18,
+      "change": -0.6600000000000001,
+      "changePct": -4.166666666666668,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "cb04c131-0420-31e6-876d-b0de45702a31",
-      "title": "Intel GPU Prices Jump 48% as Memory Costs Surge",
-      "link": "https://finance.yahoo.com/technology/articles/intel-gpu-prices-jump-48-165415393.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787158455,
+      "id": "8c948c2f-468f-310e-9ea6-86c9259fa7f6",
+      "title": "Golden Shoe winner Kane hopes for Ballon d'Or after 'best season ever'",
+      "link": "https://finance.yahoo.com/m/8c948c2f-468f-310e-9ea6-86c9259fa7f6/golden-shoe-winner-kane-hopes.html",
+      "publisher": "AFP",
+      "time": 1787159508,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "08e5feaa-76e2-3fd8-9eac-8b41cbdd908e",
-      "title": "Cardinal Health’s (CAH) Big Earnings Beat Hides a More Complicated Story",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cardinal-health-cah-big-earnings-165020198.html",
-      "publisher": "Insider Monkey",
-      "time": 1787158220,
+      "id": "4b5aab15-ed4e-3156-aeca-ddfe7d9b984b",
+      "title": "Trump says will meet North Korea's Kim later this year",
+      "link": "https://finance.yahoo.com/m/4b5aab15-ed4e-3156-aeca-ddfe7d9b984b/trump-says-will-meet-north.html",
+      "publisher": "AFP",
+      "time": 1787159410,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6710cb6e-8a80-3e1d-abf8-f6b079425b84",
+      "title": "US 20-Year Auction High Yield Rises from Previous Month, Demand Lower",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/us-20-auction-high-yield-170730020.html",
+      "publisher": "MT Newswires",
+      "time": 1787159250,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0a16038d-15f2-38fa-a6f6-6b04a148a3eb",
+      "title": "Sector Update: Energy",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-170706339.html",
+      "publisher": "MT Newswires",
+      "time": 1787159226,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e6fecd2f-1492-362d-9205-5a1a19e61d09",
+      "title": "Chicken wing restaurants file Chapter 11 despite record demand",
+      "link": "https://finance.yahoo.com/m/e6fecd2f-1492-362d-9205-5a1a19e61d09/chicken-wing-restaurants-file.html",
+      "publisher": "TheStreet",
+      "time": 1787159220,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "adddab35-e9c1-3e14-8323-4048a3f4a289",
+      "title": "Trump says 'very fair' trade deal with Canada reached, needs to be finalized",
+      "link": "https://finance.yahoo.com/video/trump-says-very-fair-trade-170659049.html",
+      "publisher": "Reuters Videos",
+      "time": 1787159219,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
     },
     {
-      "id": "8121ebd9-c029-353c-9112-467950ad64f7",
-      "title": "One Great Chart: Why Bond Yields Are Rising",
-      "link": "https://finance.yahoo.com/m/8121ebd9-c029-353c-9112-467950ad64f7/one-great-chart%3A-why-bond.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787158203,
+      "id": "166ced6b-ee64-3250-b0bb-7011d644bd9a",
+      "title": "Marvel Biosciences Expands Private Placement to Quebec",
+      "link": "https://finance.yahoo.com/healthcare/articles/marvel-biosciences-expands-private-placement-170600354.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787159160,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a25d7d83-5d8d-314d-a615-a3066b20c0f0",
-      "title": "Hertz Data Shows Road Trips Will Dominate Fall Travel as Millennials Fuel the Trend",
-      "link": "https://finance.yahoo.com/media-advertising/articles/hertz-data-shows-road-trips-164700888.html",
-      "publisher": "Business Wire",
-      "time": 1787158020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0329136e-58c8-352c-94d9-3f19bdd43163",
-      "title": "Nebius Dives 14% and CoreWeave Falls 4% Before Rebounding. Neocloud Stocks Face Volatility as the Nasdaq Whipsaws.",
-      "link": "https://finance.yahoo.com/m/0329136e-58c8-352c-94d9-3f19bdd43163/nebius-dives-14%25-and.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787157936,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "641fd413-c21d-31b7-87ad-f4fe1a4d8797",
-      "title": "Empathy Brings \"Legacies live on. Own yours. Honor theirs.\" to Grand Central Terminal With a Public Art Installation Honoring Memory and Legacy",
-      "link": "https://finance.yahoo.com/healthcare/articles/empathy-brings-legacies-live-own-164500127.html",
-      "publisher": "Business Wire",
-      "time": 1787157900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d37afda8-20dd-3a35-a3da-96c6435be3d8",
-      "title": "Equifax Board of Directors Declares Quarterly Dividend",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equifax-board-directors-declares-quarterly-164500608.html",
+      "id": "e9cf46eb-e9c4-329a-9a91-4bb33127d130",
+      "title": "Texas Southern University Names Corey Lowery Men's Basketball Head Coach",
+      "link": "https://finance.yahoo.com/media-advertising/articles/texas-southern-university-names-corey-170600856.html",
       "publisher": "PR Newswire",
-      "time": 1787157900,
+      "time": 1787159160,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7b1650b9-175b-3b0a-b24f-2c7a637df961",
-      "title": "LG Energy, once fixed on EV batteries, jumps to Plan B",
-      "link": "https://finance.yahoo.com/energy/articles/lg-energy-once-fixed-ev-164432841.html",
-      "publisher": "Reuters",
-      "time": 1787157872,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f328087d-c8c1-39d2-ac2e-b6acd8ff8aef",
-      "title": "CrowdStrike Stock Likely To Swing On Earnings. This Trade Generates A Return From The Moves.",
-      "link": "https://finance.yahoo.com/m/f328087d-c8c1-39d2-ac2e-b6acd8ff8aef/crowdstrike-stock-likely-to.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787157859,
+      "id": "32d76c21-d36d-3c4d-a2df-5245b1a07cff",
+      "title": "Estee Lauder Shares Rally as Cosmetics Maker Upgrades Margin Guidance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/estee-lauder-shares-rally-cosmetics-170552415.html",
+      "publisher": "MT Newswires",
+      "time": 1787159152,
       "impact": "medium",
       "tags": [
         "macro",
@@ -141,11 +138,11 @@
       ]
     },
     {
-      "id": "60c159cb-207c-3b4d-801f-5206cad807cb",
-      "title": "ProCare Injury Specialists Opens 14th Texas Clinic in Waco",
-      "link": "https://finance.yahoo.com/healthcare/articles/procare-injury-specialists-opens-14th-164400523.html",
-      "publisher": "Business Wire",
-      "time": 1787157840,
+      "id": "ffa9f5f0-9056-32b0-85c8-b62474f8f6db",
+      "title": "Sentinel Net Lease Acquires Knight Energy Services Industrial Portfolio",
+      "link": "https://finance.yahoo.com/real-estate/articles/sentinel-net-lease-acquires-knight-170500835.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787159100,
       "impact": "low",
       "tags": []
     }
