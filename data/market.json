@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T20:19:09.748873+00:00",
+  "updatedAt": "2026-08-19T20:52:10.139040+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,107 +39,115 @@
       "price": 6444.46,
       "change": -23.710000000000036,
       "changePct": -0.36656426779135426,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.86,
-      "change": -0.9800000000000004,
-      "changePct": -6.1868686868686895,
+      "price": 14.89,
+      "change": -0.9499999999999993,
+      "changePct": -5.997474747474743,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "546f72ee-52a9-4964-b3da-6e6e53f66e8b",
-      "title": "Groupon's mystery vacations are going viral: CEO explains what's going on",
-      "link": "https://finance.yahoo.com/video/groupons-mystery-vacations-going-viral-201407131.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1787170447,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9d550618-2635-3e5b-b508-1086998cc2b5",
-      "title": "AppLovin vs. Kratos Defense: Which Technology Stock Is a Better Buy in 2026?",
-      "link": "https://finance.yahoo.com/m/9d550618-2635-3e5b-b508-1086998cc2b5/applovin-vs.-kratos-defense%3A.html",
-      "publisher": "Motley Fool",
-      "time": 1787170441,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "765807f3-857c-3661-a98f-522256a6fcbb",
-      "title": "Bojangles Signs Four-Unit Nontraditional Development Deal in Norfolk, Virginia",
-      "link": "https://finance.yahoo.com/m/765807f3-857c-3661-a98f-522256a6fcbb/bojangles-signs-four-unit.html",
-      "publisher": "QSR",
-      "time": 1787170357,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "45c0d547-9b0d-32c0-b928-25c93ea9020b",
-      "title": "Israel army admits firing on car in death of five-year-old Hind Rajab",
-      "link": "https://finance.yahoo.com/m/45c0d547-9b0d-32c0-b928-25c93ea9020b/israel-army-admits-firing-on.html",
-      "publisher": "AFP",
-      "time": 1787170352,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5d24c841-835b-477c-a6c2-a30d361d9240",
-      "title": "US national debt surpasses $40 trillion",
-      "link": "https://finance.yahoo.com/economy/article/us-national-debt-surpasses-40-trillion-201205840.html",
-      "publisher": "Yahoo Finance",
-      "time": 1787170325,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "40802982-6870-328a-ae81-5cf0e8791368",
-      "title": "Beam Global Reports Second Quarter 2026 Operating Results",
-      "link": "https://finance.yahoo.com/energy/articles/beam-global-reports-second-quarter-201200688.html",
+      "id": "f7591b75-7e35-3c54-b2a2-dc3eaa5c40f4",
+      "title": "First Capital, Inc. Announces Quarterly Dividend",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/first-capital-inc-announces-quarterly-204500060.html",
       "publisher": "GlobeNewswire",
-      "time": 1787170320,
+      "time": 1787172300,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ef8219cf-b455-3830-bcfb-bd01672d105c",
-      "title": "CO-OPERATORS GENERAL INSURANCE COMPANY DECLARES QUARTERLY DIVIDEND ON: CLASS E PREFERENCE SHARES SERIES C",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/co-operators-general-insurance-company-201000820.html",
-      "publisher": "CNW Group",
-      "time": 1787170200,
+      "id": "637b48f1-6a6f-33d8-8df7-2e8c9a9ef050",
+      "title": "Grocery Outlet (GO) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/637b48f1-6a6f-33d8-8df7-2e8c9a9ef050/grocery-outlet-%28go%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1787172246,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "1f599b8d-e642-31d3-a465-f3c9626e70a9",
+      "title": "Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial",
+      "link": "https://finance.yahoo.com/m/1f599b8d-e642-31d3-a465-f3c9626e70a9/zuckerberg-lied-about-concern.html",
+      "publisher": "The Guardian",
+      "time": 1787172189,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "75971e68-ed2f-38c8-b214-a00cd50d5161",
-      "title": "McIlroy questions LIV stars 'value' as talk of PGA return builds",
-      "link": "https://finance.yahoo.com/m/75971e68-ed2f-38c8-b214-a00cd50d5161/mcilroy-questions-liv-stars.html",
-      "publisher": "AFP",
-      "time": 1787170170,
+      "id": "557272e2-acc5-3b62-a530-043ac8e7cf86",
+      "title": "Kratos Defense vs. Nokia: Is Defense or Telecom a Better Stock Buy in 2026?",
+      "link": "https://finance.yahoo.com/m/557272e2-acc5-3b62-a530-043ac8e7cf86/kratos-defense-vs.-nokia%3A-is.html",
+      "publisher": "Motley Fool",
+      "time": 1787172181,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7d30b16a-f15a-3a11-b584-f2e531cca081",
-      "title": "Riskified Insider Sold Shares Worth $1,007,262, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/riskified-insider-sold-shares-worth-200929833.html",
+      "id": "694c340b-4efc-3504-97ff-c09a9a4867cc",
+      "title": "Ripple minted $30 million in RLUSD in a single day, here is what the supply data actually tells you",
+      "link": "https://finance.yahoo.com/m/694c340b-4efc-3504-97ff-c09a9a4867cc/ripple-minted-%2430-million-in.html",
+      "publisher": "TheStreet",
+      "time": 1787172180,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "24bbbfb3-dc77-3660-bbb9-9759db45d5ae",
+      "title": "Why Newmont Mining Rallied Today",
+      "link": "https://finance.yahoo.com/m/24bbbfb3-dc77-3660-bbb9-9759db45d5ae/why-newmont-mining-rallied.html",
+      "publisher": "Motley Fool",
+      "time": 1787172132,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2088b9f6-2a40-3e34-a16e-a7f8723a8dab",
+      "title": "Coty Fiscal Q4 Adjusted Loss Narrows, Revenue Rises; Soraya Benchikh Named CFO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coty-fiscal-q4-adjusted-loss-204132739.html",
       "publisher": "MT Newswires",
-      "time": 1787170169,
+      "time": 1787172092,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "385a15d0-7945-31a7-ad87-3a5752f6e471",
-      "title": "New Research Proposes a Unifying Theory for Alzheimer's and Other Neurodegenerative Diseases",
-      "link": "https://finance.yahoo.com/healthcare/articles/research-proposes-unifying-theory-alzheimers-200900313.html",
-      "publisher": "PR Newswire",
-      "time": 1787170140,
+      "id": "c6281c14-1acb-3570-9da8-51fcd1296b6a",
+      "title": "Why I Wouldn't Bother With the Anthropic or OpenAI IPOs",
+      "link": "https://finance.yahoo.com/m/c6281c14-1acb-3570-9da8-51fcd1296b6a/why-i-wouldn%27t-bother-with.html",
+      "publisher": "Motley Fool",
+      "time": 1787172069,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "88481397-2748-3dc7-9f6d-f66e42f64813",
+      "title": "Logistics Expert and Scholar Michael Curtis Broughton Publishes New Book THE VERONIC INDUSTRIAL STANDARD",
+      "link": "https://finance.yahoo.com/small-business/articles/logistics-expert-scholar-michael-curtis-204100531.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787172060,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "32a89555-0be0-3541-841b-ea080d3bcb4d",
+      "title": "How major US stock indexes fared Wednesday 8/19/2026",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-204051533.html",
+      "publisher": "Associated Press",
+      "time": 1787172051,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
