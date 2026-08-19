@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T22:17:52.602784+00:00",
+  "updatedAt": "2026-08-19T22:49:10.931513+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6444.46,
       "change": -23.710000000000036,
       "changePct": -0.36656426779135426,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,99 +52,106 @@
   ],
   "news": [
     {
-      "id": "0c767469-2cd7-3c56-889c-24cd4cfb7d38",
-      "title": "\"Call Her Daddy\" host shuts down new beverage brand",
-      "link": "https://finance.yahoo.com/m/0c767469-2cd7-3c56-889c-24cd4cfb7d38/%22call-her-daddy%22-host-shuts.html",
-      "publisher": "TheStreet",
-      "time": 1787177502,
+      "id": "68a3e9b8-8858-3a96-8c98-dd4126c44fbe",
+      "title": "Dow Jones Futures: S&P 500, Nasdaq Rise On Treasury Move; Moderna, Merck Spur Big Biopharma Gains",
+      "link": "https://finance.yahoo.com/m/68a3e9b8-8858-3a96-8c98-dd4126c44fbe/dow-jones-futures%3A-s%26p-500%2C.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787179345,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0c42b459-80dd-3926-912c-62ecd936fce2",
-      "title": "WADA pledges vigilance on Russian athletes ahead of 2028 Olympics",
-      "link": "https://finance.yahoo.com/m/0c42b459-80dd-3926-912c-62ecd936fce2/wada-pledges-vigilance-on.html",
-      "publisher": "AFP",
-      "time": 1787177494,
+      "id": "aa37dd51-957c-3aff-afce-1f4d8ff42608",
+      "title": "TOL Q2 2026 Deep Dive: Luxury Focus, Operational Efficiency, and Market Share Drive Performance",
+      "link": "https://finance.yahoo.com/real-estate/articles/tol-q2-2026-deep-dive-223802760.html",
+      "publisher": "StockStory",
+      "time": 1787179082,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "f1762eb1-dbe6-3881-9771-465b5a256790",
+      "title": "No reason given as Willmar Council OKs separation agreement with Valiant",
+      "link": "https://finance.yahoo.com/m/f1762eb1-dbe6-3881-9771-465b5a256790/no-reason-given-as-willmar.html",
+      "publisher": "West Central Tribune, Willmar, Minn.",
+      "time": 1787178960,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3157ae91-8321-39af-a441-eb2cac80d972",
-      "title": "Dividend ETFs paying 2% to 3.7% for your portfolio",
-      "link": "https://finance.yahoo.com/m/3157ae91-8321-39af-a441-eb2cac80d972/dividend-etfs-paying-2%25-to.html",
-      "publisher": "TheStreet",
-      "time": 1787177220,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ef79cb33-bbe3-3b2f-a594-4e7a53dab631",
-      "title": "Is Tractor Supply Company (TSCO) an Underrated Dividend Growth Opportunity?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tractor-supply-company-tsco-underrated-220643689.html",
-      "publisher": "Insider Monkey",
-      "time": 1787177203,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ad6227b9-a411-32dd-8579-59ed9e672027",
-      "title": "TSMC Trades 30.87% Above GF Value as Chip Capacity Tightens",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-trades-30-87-above-220612599.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787177172,
+      "id": "bad5e918-3c7c-353a-9ff4-b4f5eb44b2cd",
+      "title": "Oil Is Up 36% and the Strait of Hormuz Is Still Closed. The QQQI Family Runs a 14.75% Energy Fund",
+      "link": "https://finance.yahoo.com/m/bad5e918-3c7c-353a-9ff4-b4f5eb44b2cd/oil-is-up-36%25-and-the-strait.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787178911,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "839b6f9e-809b-32e9-be11-1757df57750d",
-      "title": "Why Broadcom (AVGO) Stock Is Trading Lower Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-avgo-stock-trading-220602333.html",
-      "publisher": "StockStory",
-      "time": 1787177162,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "cac84c1a-626b-36d9-ac07-9cf1ad952eaa",
-      "title": "Xsolla Announces Multi-Year Strategic Partnership With the Good Game Club Podcast to Amplify Positive Stories From the Global Games Industry",
-      "link": "https://finance.yahoo.com/media-advertising/articles/xsolla-announces-multi-strategic-partnership-161000234.html",
-      "publisher": "Business Wire",
-      "time": 1787177160,
+      "id": "7b14bb57-6085-3b8b-b567-388a3f971495",
+      "title": "Abbott vs. Intuitive Surgical: Is Consistent Growth Better Than Premium Growth?",
+      "link": "https://finance.yahoo.com/healthcare/articles/abbott-vs-intuitive-surgical-consistent-223312565.html",
+      "publisher": "Insider Monkey",
+      "time": 1787178792,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "296bd830-cf73-32cd-9225-f04c3f580bc5",
-      "title": "4 Monthly Dividend ETFs Paying 10 to 14 Percent to Close Out 2026",
-      "link": "https://finance.yahoo.com/m/296bd830-cf73-32cd-9225-f04c3f580bc5/4-monthly-dividend-etfs.html",
+      "id": "4d724206-24e8-3421-a981-171706322b8f",
+      "title": "Bank of America makes bullish call on 77-year-old healthcare stock",
+      "link": "https://finance.yahoo.com/m/4d724206-24e8-3421-a981-171706322b8f/bank-of-america-makes-bullish.html",
+      "publisher": "TheStreet",
+      "time": 1787178780,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "2b739fec-5566-34c9-82bf-ac33b4c0e441",
+      "title": "Still Working at 67? Every Year You Wait on Social Security Locks In a Guaranteed 8% Raise",
+      "link": "https://finance.yahoo.com/m/2b739fec-5566-34c9-82bf-ac33b4c0e441/still-working-at-67%3F-every.html",
       "publisher": "24/7 Wall St.",
-      "time": 1787177104,
+      "time": 1787178767,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "39b326df-d384-30bb-a97b-76b04a47476c",
-      "title": "Broadcom Gets Fresh Google Warning",
-      "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-gets-fresh-google-warning-220417060.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787177057,
-      "impact": "high",
+      "id": "8fd1ac70-d3d2-3664-bfed-2e2b7656d4fc",
+      "title": "Webull Corporation Q2 2026 Earnings: Recap of $BULL Earnings Call & Forecast",
+      "link": "https://finance.yahoo.com/m/8fd1ac70-d3d2-3664-bfed-2e2b7656d4fc/webull-corporation-q2-2026.html",
+      "publisher": "TheStreet",
+      "time": 1787178669,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "20044a18-9edd-36b8-91bf-84fd3b29a4b8",
-      "title": "Yorkton Equity Group Inc. Announces Financial Results for the Second Quarter Ended June 30, 2026",
-      "link": "https://finance.yahoo.com/real-estate/articles/yorkton-equity-group-inc-announces-220400960.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787177040,
+      "id": "ef13e04c-ff8f-320c-93c1-37f81e5f1aed",
+      "title": "BILL Holdings Inc. Q4 2026 Earnings: Recap of $BILL Earnings Call & Forecast",
+      "link": "https://finance.yahoo.com/m/ef13e04c-ff8f-320c-93c1-37f81e5f1aed/bill-holdings-inc.-q4-2026.html",
+      "publisher": "TheStreet",
+      "time": 1787178668,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a00301d5-5cd7-3fba-ab86-4bfb4943466d",
+      "title": "Vertex Resource Group Ltd. Reports Second Quarter 2026 Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vertex-group-ltd-reports-second-223100613.html",
+      "publisher": "CNW Group",
+      "time": 1787178660,
       "impact": "low",
       "tags": []
     }
