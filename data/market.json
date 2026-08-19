@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-19T06:32:59.449554+00:00",
+  "updatedAt": "2026-08-19T07:32:26.511111+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19934.9,
-      "change": -47.0,
-      "changePct": -0.23521286764521893,
+      "price": 19873.1,
+      "change": -61.80000000000291,
+      "changePct": -0.3100090795539627,
       "currency": "EUR"
     },
     {
@@ -28,126 +28,124 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26128.36,
-      "change": -311.9500000000007,
-      "changePct": -1.179827316699391,
+      "price": 26120.69,
+      "change": -217.9200000000019,
+      "changePct": -0.8273785139003231,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6468.17,
-      "change": -62.279999999999745,
-      "changePct": -0.953686193141357,
+      "price": 6471.49,
+      "change": 3.319999999999709,
+      "changePct": 0.05132827368482444,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.84,
-      "change": 0.6500000000000004,
-      "changePct": 4.279131007241609,
+      "price": 15.95,
+      "change": 0.10999999999999943,
+      "changePct": 0.6944444444444409,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "c128ce76-4b54-3b92-82e9-8b069fd27e2d",
-      "title": "AI-Driven Efficiency in Cross-Border Trade Payments: XTransfer Cracks the “Impossible Trinity”",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-driven-efficiency-cross-border-062200309.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787120520,
+      "id": "de70e1de-f73f-344a-b701-94c7cbfb2238",
+      "title": "ZTO Express Q2 Adjusted Net Earnings, Revenue Increase",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zto-express-q2-adjusted-net-072950352.html",
+      "publisher": "MT Newswires",
+      "time": 1787124590,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "14abdb60-2a64-39ad-a87b-181f23545b75",
-      "title": "Her childhood photo. Thousands of explicit images. One woman’s nightmare.",
-      "link": "https://finance.yahoo.com/m/14abdb60-2a64-39ad-a87b-181f23545b75/her-childhood-photo..html",
-      "publisher": "Washington Post",
-      "time": 1787120285,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1b48e2bf-401e-3bd6-b039-aca9eeec84d1",
-      "title": "Belgian wildfire 'encircled' but situation still 'complicated'",
-      "link": "https://finance.yahoo.com/m/1b48e2bf-401e-3bd6-b039-aca9eeec84d1/belgian-wildfire-%27encircled%27.html",
-      "publisher": "AFP",
-      "time": 1787120265,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "80f26b53-6c40-326a-bcd7-3e16de0aebc1",
-      "title": "Trump Delays 50% Tariffs on Canadian Products",
-      "link": "https://finance.yahoo.com/video/trump-delays-50-tariffs-canadian-061706265.html",
-      "publisher": "Bloomberg",
-      "time": 1787120226,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "4858dd5e-d9e0-3257-b1c0-c8254b7d7f79",
-      "title": "ZentrumHub Integrates Sabre to Expand Global Hotel Inventory Access for Travel Businesses",
-      "link": "https://finance.yahoo.com/technology/articles/zentrumhub-integrates-sabre-expand-global-061700617.html",
-      "publisher": "PR Newswire",
-      "time": 1787120220,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a2304e84-6398-3dd2-8a78-39e96516ca3e",
-      "title": "Plant Culture Systems Launches AGGI to Expand Access to AI-Powered Farm Intelligence",
-      "link": "https://finance.yahoo.com/technology/ai/articles/plant-culture-systems-launches-aggi-061700102.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787120220,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "52d67e85-da36-3eed-879c-4d2b12548713",
-      "title": "Puzzle solutions for Wednesday, Aug. 19, 2026",
-      "link": "https://finance.yahoo.com/m/52d67e85-da36-3eed-879c-4d2b12548713/puzzle-solutions-for.html",
-      "publisher": "USA TODAY",
-      "time": 1787120182,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3a067704-09ae-3336-9f73-22df59659ef2",
-      "title": "Ripple’s Brokerage Arm Raises $275 Million: Why Doesn’t XRP Care?",
-      "link": "https://finance.yahoo.com/m/3a067704-09ae-3336-9f73-22df59659ef2/ripple%E2%80%99s-brokerage-arm-raises.html",
-      "publisher": "BeInCrypto",
-      "time": 1787120159,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "151482f5-9a9f-3c73-a571-b710e69eb486",
-      "title": "Why Oncolytics Biotech Just Cleared A Hurdle That Stalls Most Cancer Trials",
-      "link": "https://finance.yahoo.com/healthcare/articles/why-oncolytics-biotech-just-cleared-061558518.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787120158,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f244f775-5b63-3f9a-ad24-26c832000562",
-      "title": "UK inflation picks up after July surge in household energy bills",
-      "link": "https://finance.yahoo.com/economy/articles/uk-inflation-picks-2-9-060406826.html",
+      "id": "d2ecb009-7e0f-3b50-97be-826d90b0b60e",
+      "title": "European shares muted as mining gains offset Middle East jitters ",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-muted-mining-gains-072828662.html",
       "publisher": "Reuters",
-      "time": 1787120149,
-      "impact": "high",
+      "time": 1787124508,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5951f601-ee57-3085-ae46-0042869212eb",
+      "title": "Lufax Q2 Loss Narrows, Total Income Declines",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lufax-q2-loss-narrows-total-072243651.html",
+      "publisher": "MT Newswires",
+      "time": 1787124163,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b11800f3-37e5-3fe9-b074-4caaac38b39b",
+      "title": "Where are Portugal's priciest homes? Cascais leads with prices of €4.35mn",
+      "link": "https://finance.yahoo.com/m/b11800f3-37e5-3fe9-b074-4caaac38b39b/where-are-portugal%27s-priciest.html",
+      "publisher": "Euronews",
+      "time": 1787124139,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7de7f269-44cf-3f9b-bdb1-e57943baaac5",
+      "title": "Biovica Receives New Extensive Pharma Services Work Order from Existing Customer",
+      "link": "https://finance.yahoo.com/healthcare/articles/biovica-receives-extensive-pharma-services-072000317.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787124000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ee4ddf25-6e41-3a36-963a-0d2c450de67a",
+      "title": "SQM Reports Earnings for the Six Months Ended June 30, 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sqm-reports-earnings-six-months-071900146.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787123940,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
+    },
+    {
+      "id": "bbdec195-8f76-3582-b7a6-7c41d7bfcb4e",
+      "title": "SK hynix Accelerates 40 Trillion won Share Repurchase and Cancellation Program, Pursues Shareholder Return Expansion to 'Over 50% of FCF'",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-accelerates-40-trillion-071600430.html",
+      "publisher": "PR Newswire",
+      "time": 1787123760,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "eb71245a-c2e8-3d3f-accc-ad244f78e9ea",
+      "title": "Humanoid-maker Unitree surges more than 600% on Shanghai debut",
+      "link": "https://finance.yahoo.com/technology/ai/articles/humanoid-maker-unitree-surges-more-071525970.html",
+      "publisher": "AFP",
+      "time": 1787123725,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f91bd2b7-f685-36ba-8c2c-672777b06035",
+      "title": "Citizen's luxury $350 Eco-Drive watch is on sale for 50% off at Amazon",
+      "link": "https://finance.yahoo.com/m/f91bd2b7-f685-36ba-8c2c-672777b06035/citizen%27s-luxury-%24350.html",
+      "publisher": "TheStreet",
+      "time": 1787123700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5a369a53-ded9-3173-8f65-b2eceb7e99ea",
+      "title": "Space-Station Chicken-Wing Roast: Simple Steps Behind Decades of Engineering Efforts",
+      "link": "https://finance.yahoo.com/technology/articles/space-station-chicken-wing-roast-071400730.html",
+      "publisher": "PR Newswire",
+      "time": 1787123640,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
