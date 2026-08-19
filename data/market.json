@@ -1,149 +1,151 @@
 {
-  "updatedAt": "2026-08-19T12:33:07.394410+00:00",
+  "updatedAt": "2026-08-19T13:38:39.197279+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19915.9,
-      "change": -19.0,
-      "changePct": -0.0953102348143206,
+      "price": 19925.5,
+      "change": -9.400000000001455,
+      "changePct": -0.04715348459235539,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7691.76,
-      "change": -94.0,
-      "changePct": -1.2073323606173323,
+      "price": 7719.5,
+      "change": -25.5600000000004,
+      "changePct": -0.33001681071548056,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26289.71,
-      "change": -439.4500000000007,
-      "changePct": -1.644084587768567,
+      "price": 26341.303,
+      "change": -303.60699999999997,
+      "changePct": -1.1394559035853375,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26082.26,
-      "change": -256.3500000000022,
-      "changePct": -0.9732859858587912,
+      "price": 26097.38,
+      "change": -241.22999999999956,
+      "changePct": -0.9158797673833189,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6469.32,
-      "change": 1.1499999999996362,
-      "changePct": 0.017779371908895968,
+      "price": 6473.71,
+      "change": 5.539999999999964,
+      "changePct": 0.08565019163070797,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.69,
-      "change": -0.15000000000000036,
-      "changePct": -0.9469696969696992,
+      "price": 15.15,
+      "change": -0.6899999999999995,
+      "changePct": -4.356060606060603,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "cf202288-e9cb-3c32-9baa-757b73887bf8",
-      "title": "Cerebras Stock in Focus After New AI Chip Claims 30x Faster Inference Than GPUs",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-stock-focus-ai-chip-123151152.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787142711,
+      "id": "f9204dc1-ba6f-36e4-9534-e4ef83ad1a14",
+      "title": "Memorial Brings the Future of Heart Imaging to South Florida",
+      "link": "https://finance.yahoo.com/healthcare/articles/memorial-brings-future-heart-imaging-133500508.html",
+      "publisher": "PR Newswire",
+      "time": 1787146500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e52fbbbf-31e6-3ba4-88e1-00644f2c57d6",
-      "title": "Meta Stock Stumbles as Child Safety Trial Opens With Billions at Stake",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-stumbles-child-safety-123027526.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787142627,
+      "id": "603df31a-b383-3a44-b776-715ecfe1960f",
+      "title": "In HelloNation, Roofing Expert Justin Bernard of Saylorsburg Shares How to Extend the Lifespan of a Roof in Northeastern Pennsylvania",
+      "link": "https://finance.yahoo.com/real-estate/articles/hellonation-roofing-expert-justin-bernard-133400047.html",
+      "publisher": "PR Newswire",
+      "time": 1787146440,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "27a2614c-b7f2-30da-bd3e-b03b1735f27c",
-      "title": "U.S. FDA Accepts Teva’s New Drug Application (NDA) and Grants Priority Review for Ecopipam, a First-in-Class Investigational Therapy for Pediatric Patients with Tourette Syndrome",
-      "link": "https://finance.yahoo.com/healthcare/articles/u-fda-accepts-teva-drug-123000708.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787142600,
+      "id": "e0106584-5e11-3949-8f6e-a3e018176356",
+      "title": "Senior FIFA official withdraws support from embattled Infantino",
+      "link": "https://finance.yahoo.com/m/e0106584-5e11-3949-8f6e-a3e018176356/senior-fifa-official.html",
+      "publisher": "AFP",
+      "time": 1787146404,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2bb7ddb5-afd2-3e75-858b-eb42a4c8f8b0",
-      "title": "Food Encapsulation Market to Reach USD 21.79 Billion by 2030, Growing at a CAGR of 8.5% — MarketsandMarkets™",
-      "link": "https://finance.yahoo.com/markets/articles/food-encapsulation-market-reach-usd-123000528.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787142600,
+      "id": "3c357dc2-72cf-33d6-833b-fb241a731183",
+      "title": "3 High-Yielding Dividend Stocks That Have Doubled Their Payouts in 5 Years",
+      "link": "https://finance.yahoo.com/m/3c357dc2-72cf-33d6-833b-fb241a731183/3-high-yielding-dividend.html",
+      "publisher": "Motley Fool",
+      "time": 1787146332,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "68b2508d-8ba0-3cec-8d30-8a5120577cd4",
-      "title": "Winners Inc. Announces Approval of Gaming License For Its Prediction Markets Trading Platform Mevu.com",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/winners-inc-announces-approval-gaming-123000756.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787142600,
-      "impact": "low",
+      "id": "732c19ab-4395-343a-94d6-5d64e3191541",
+      "title": "Personal bankruptcy filings are soaring in 2026, signaling growing economic distress",
+      "link": "https://finance.yahoo.com/m/732c19ab-4395-343a-94d6-5d64e3191541/personal-bankruptcy-filings.html",
+      "publisher": "The Conversation",
+      "time": 1787146324,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "81eb0245-23d7-311e-b696-e0ac69f5ad26",
-      "title": "Jet.AI Highlights Strategic Value of AI Data Center Portfolio Amid Surging Demand for Powered Land and Early-Stage Infrastructure Assets",
-      "link": "https://finance.yahoo.com/technology/ai/articles/jet-ai-highlights-strategic-value-123000278.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787142600,
+      "id": "020b5631-3962-3e50-8c4c-656dd2baaf55",
+      "title": "Arrive AI Resolves Streeterville Repayment Trigger, Strengthening Financial Flexibility and Focus on Execution",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arrive-ai-resolves-streeterville-repayment-133200397.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787146320,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8c150044-9a24-35a3-ad05-e6de41138e00",
-      "title": "Biodexa announces major milestone for its Serenta registrational Phase 3 trial in FAP",
-      "link": "https://finance.yahoo.com/healthcare/articles/biodexa-announces-major-milestone-serenta-123000736.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787142600,
+      "id": "d2f95746-c896-3204-b4a5-2e1fc982a9aa",
+      "title": "Arrive AI Streamlines Workforce, Citing AI, Team Leverage and Ahead-of-Schedule Evolution of its Operating Model",
+      "link": "https://finance.yahoo.com/technology/ai/articles/arrive-ai-streamlines-workforce-citing-133200762.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787146320,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9d7730ee-08f5-35b2-9631-b499cb9c2443",
-      "title": "InterDigital to Present at 2026 Midwest IDEAS Conference",
-      "link": "https://finance.yahoo.com/technology/ai/articles/interdigital-present-2026-midwest-ideas-123000955.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787142600,
+      "id": "b229b171-f60e-360b-a8c4-9cd110ec6e8a",
+      "title": "Chinese InsurTech Firm Zhibao Adds 2,380 Bitcoin in $154.7M Treasury Pivot",
+      "link": "https://finance.yahoo.com/m/b229b171-f60e-360b-a8c4-9cd110ec6e8a/chinese-insurtech-firm-zhibao.html",
+      "publisher": "decrypt",
+      "time": 1787146264,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c2f846cd-3bed-31a7-9d36-3704da673e3d",
-      "title": "NOMAD Achieves UL 9540 Certification for 1 MW Transportable Battery Energy Storage System",
-      "link": "https://finance.yahoo.com/energy/articles/nomad-achieves-ul-9540-certification-123000013.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787142600,
+      "id": "ebc2368c-f1cf-35d9-b879-0351edc83314",
+      "title": "Here’s How to Watch the 2026 Little League World Series Live Online",
+      "link": "https://finance.yahoo.com/m/ebc2368c-f1cf-35d9-b879-0351edc83314/here%E2%80%99s-how-to-watch-the-2026.html",
+      "publisher": "Variety",
+      "time": 1787146208,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d2284120-4603-3d0b-bbe4-04f601f6cc7b",
-      "title": "RF Switches Market Size, 2026-2035 | Grow at 5.88% CAGR to Reach USD 9.69 Billion by 2035 | SNS Insider",
-      "link": "https://finance.yahoo.com/technology/articles/rf-switches-market-size-2026-123000211.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787142600,
-      "impact": "low",
+      "id": "14f2ef9a-d158-3683-97c2-0e9a8d7d1708",
+      "title": "Louisiana Department of Education's Former Communications Chief Joins Award Winning Education PR Firm",
+      "link": "https://finance.yahoo.com/media-advertising/articles/louisiana-department-educations-former-communications-133000192.html",
+      "publisher": "PR Newswire",
+      "time": 1787146200,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     }
