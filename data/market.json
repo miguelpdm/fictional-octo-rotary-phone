@@ -1,134 +1,91 @@
 {
-  "updatedAt": "2026-08-19T15:00:53.593902+00:00",
+  "updatedAt": "2026-08-19T15:55:13.741191+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19846.4,
-      "change": -88.5,
-      "changePct": -0.44394504110880917,
+      "price": 19847.5,
+      "change": -87.40000000000146,
+      "changePct": -0.4384270801458821,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7740.54,
-      "change": -4.520000000000437,
-      "changePct": -0.05835978029867343,
+      "price": 7721.11,
+      "change": -23.950000000000728,
+      "changePct": -0.3092293668480389,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26408.627,
-      "change": -236.28299999999945,
-      "changePct": -0.8867847555124017,
+      "price": 26373.338,
+      "change": -271.5720000000001,
+      "changePct": -1.0192265614708405,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26119.52,
-      "change": -219.09000000000015,
-      "changePct": -0.8318206617585369,
+      "price": 26091.33,
+      "change": -247.27999999999884,
+      "changePct": -0.9388498481886434,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6454.21,
-      "change": -13.960000000000036,
-      "changePct": -0.2158261146506668,
+      "price": 6444.46,
+      "change": -23.710000000000036,
+      "changePct": -0.36656426779135426,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.2,
-      "change": -0.6400000000000006,
-      "changePct": -4.040404040404044,
+      "price": 15.21,
+      "change": -0.629999999999999,
+      "changePct": -3.977272727272721,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "20b6243b-0047-399f-94b2-816efaebaf9a",
-      "title": "Rox formalises Badimia Barna agreement for Youanmi operations",
-      "link": "https://finance.yahoo.com/m/20b6243b-0047-399f-94b2-816efaebaf9a/rox-formalises-badimia-barna.html",
-      "publisher": "Mining Technology",
-      "time": 1787151422,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9a76a29a-8916-3cc1-bcd5-afa72cbb15ef",
-      "title": "SK Hynix Makes a $28.6 Billion Move After AI Boom",
-      "link": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-makes-28-6-145612839.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787151372,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "14b307f3-a467-356e-a622-978e656b750e",
-      "title": "BioMarin spends up to $490m for Alesta’s bone disease candidate",
-      "link": "https://finance.yahoo.com/m/14b307f3-a467-356e-a622-978e656b750e/biomarin-spends-up-to-%24490m.html",
-      "publisher": "Pharmaceutical Technology",
-      "time": 1787151355,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0448020b-cb81-3103-b394-54743e832a5f",
-      "title": "Zoom's Growth Reacceleration Is Durable as It Moves Beyond Meetings, BofA Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zoom-apos-growth-reacceleration-durable-145508575.html",
-      "publisher": "MT Newswires",
-      "time": 1787151308,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "69f84deb-7b7b-3267-a44f-6232b3d97737",
-      "title": "Amazon's Drone Delivery Ambitions Are Getting Much Bigger",
-      "link": "https://finance.yahoo.com/technology/articles/amazons-drone-delivery-ambitions-getting-145452935.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787151292,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d20d05bf-1073-30e9-a499-32d57497ef49",
-      "title": "Canadian Dollar Is Undervalued, but A $ 0.60 Loonie Would Require Severe Shocks, TD Says",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/canadian-dollar-undervalued-0-60-145341505.html",
-      "publisher": "MT Newswires",
-      "time": 1787151221,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "909d71e8-b5d1-3f5e-a207-ebafa507c091",
-      "title": "Home Depot's Q2 Results Show Solid Execution Amid Tough Housing Backdrop, BofA Says",
-      "link": "https://finance.yahoo.com/real-estate/articles/home-depot-apos-q2-results-145340521.html",
-      "publisher": "MT Newswires",
-      "time": 1787151220,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "488a2713-f301-3a51-87d3-b787bfca2c1c",
-      "title": "Perimeter and Culturewell launch hospital infection surveillance programme",
-      "link": "https://finance.yahoo.com/m/488a2713-f301-3a51-87d3-b787bfca2c1c/perimeter-and-culturewell.html",
-      "publisher": "Medical Device Network",
-      "time": 1787151050,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "24f994f9-7eea-3c5c-9936-794f0ccec7d8",
-      "title": "Warren Buffett Thinks Investors Are \"Gambling\" and \"Playing With Fire\" Right Now. But Here Are 3 Safe Stocks Even the Oracle of Omaha Would Like.",
-      "link": "https://finance.yahoo.com/m/24f994f9-7eea-3c5c-9936-794f0ccec7d8/warren-buffett-thinks.html",
+      "id": "fe5ab231-7e71-3cd9-9917-a090ca9b009a",
+      "title": "Why Mercury Systems Stock Is Sinking Today",
+      "link": "https://finance.yahoo.com/m/fe5ab231-7e71-3cd9-9917-a090ca9b009a/why-mercury-systems-stock-is.html",
       "publisher": "Motley Fool",
-      "time": 1787151000,
+      "time": 1787154733,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f048c7f1-5642-467a-ac57-7b466482940c",
+      "title": "If Walmart doesn't raise its outlook, the stock will fall: CFRA Research",
+      "link": "https://finance.yahoo.com/video/if-walmart-doesnt-raise-its-outlook-the-stock-will-fall-cfra-research-155212028.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1787154732,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bef4227c-b565-4a54-be00-3d1e49ac5920",
+      "title": "Indexed universal life insurance (IUL): Risks, costs, and how it works",
+      "link": "https://finance.yahoo.com/personal-finance/insurance/article/indexed-universal-life-155053064.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1787154653,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "75eaf232-0b32-4db4-b227-29851ee8aaef",
+      "title": "How the soaring federal debt affects you personally",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/how-the-soaring-federal-debt-affects-you-personally-155000383.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1787154600,
       "impact": "high",
       "tags": [
         "geo",
@@ -136,11 +93,101 @@
       ]
     },
     {
-      "id": "5dacedd6-a313-3f46-917e-f601bb9757d8",
-      "title": "As Employers Cut Jobs, IW Technologies Marks 50 Years by Investing More in Its People",
-      "link": "https://finance.yahoo.com/technology/articles/employers-cut-jobs-iw-technologies-145000600.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787151000,
+      "id": "cd0f34cb-f733-3584-a260-d98696b37197",
+      "title": "The Small-Cap Premium Was Supposed to Beat Large Caps Over Time. It Hasn't in 15 Years. Here's the Actual Gap.",
+      "link": "https://finance.yahoo.com/m/cd0f34cb-f733-3584-a260-d98696b37197/the-small-cap-premium-was.html",
+      "publisher": "Motley Fool",
+      "time": 1787154600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e17ba4b7-dc8f-3e76-8ef9-0185e90f9ef2",
+      "title": "Altamira Gold Gets Land Access to High-Priority Gold Targets in Brazil",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/altamira-gold-gets-land-access-154810306.html",
+      "publisher": "MT Newswires",
+      "time": 1787154490,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a45eda49-aac6-32d5-a703-d113961795dc",
+      "title": "Will Bitcoin Get Back to $100,000 in 2026? It Could All Hinge on This",
+      "link": "https://finance.yahoo.com/m/a45eda49-aac6-32d5-a703-d113961795dc/will-bitcoin-get-back-to.html",
+      "publisher": "Motley Fool",
+      "time": 1787154490,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4b006db6-6127-3595-b3f5-d3e62f7feb45",
+      "title": "Viking Positioned to Navigate Periods of Low Water in Europe, UBS Securities Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/viking-positioned-navigate-periods-low-154802597.html",
+      "publisher": "MT Newswires",
+      "time": 1787154482,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3fd7930a-535c-36da-af38-deea46b87f68",
+      "title": "Target Raises Full-Year Outlook as Tariff Refunds Boost Second-Quarter Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/target-raises-full-outlook-tariff-154520784.html",
+      "publisher": "MT Newswires",
+      "time": 1787154320,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "9fb08bb1-4bd2-33e6-9bad-28b871d6731b",
+      "title": "Core Natural Resources Seeing Improving Performance, Limited Earnings Leverage, UBS Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/core-natural-resources-seeing-improving-154506163.html",
+      "publisher": "MT Newswires",
+      "time": 1787154306,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "599de245-de49-38e2-a285-7e90c4c3ce76",
+      "title": "Stock Market Today: S&P 500 Charges Up As Fed Minutes Loom; Moderna Soars On Cancer News (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/599de245-de49-38e2-a285-7e90c4c3ce76/stock-market-today%3A-s%26p-500.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787154176,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "b75d567c-09d4-3993-be02-a9688e7b8077",
+      "title": "Zscaler Likely to Deliver Slight Q4 Upside, Oppenheimer Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zscaler-likely-deliver-slight-q4-154256983.html",
+      "publisher": "MT Newswires",
+      "time": 1787154176,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8ff7c012-a898-3715-8117-2daee8d6b4ad",
+      "title": "Red Sea Global opens new resort on Saudi Arabian coast",
+      "link": "https://finance.yahoo.com/m/8ff7c012-a898-3715-8117-2daee8d6b4ad/red-sea-global-opens-new.html",
+      "publisher": "Hotel Management Network",
+      "time": 1787154139,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b0accca9-3b0d-3fdc-8eb1-a52affa56e13",
+      "title": "Aktis Oncology Seen Advancing Targeted Radiation-Based Cancer Drugs, Wedbush Says",
+      "link": "https://finance.yahoo.com/healthcare/articles/aktis-oncology-seen-advancing-targeted-154202091.html",
+      "publisher": "MT Newswires",
+      "time": 1787154122,
       "impact": "low",
       "tags": []
     }
