@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T22:49:10.931513+00:00",
+  "updatedAt": "2026-08-19T23:16:58.073626+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6444.46,
       "change": -23.710000000000036,
       "changePct": -0.36656426779135426,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,108 +52,107 @@
   ],
   "news": [
     {
-      "id": "68a3e9b8-8858-3a96-8c98-dd4126c44fbe",
-      "title": "Dow Jones Futures: S&P 500, Nasdaq Rise On Treasury Move; Moderna, Merck Spur Big Biopharma Gains",
-      "link": "https://finance.yahoo.com/m/68a3e9b8-8858-3a96-8c98-dd4126c44fbe/dow-jones-futures%3A-s%26p-500%2C.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787179345,
+      "id": "295334c3-583e-37b2-a61f-46e8b2672984",
+      "title": "Whistleblower Says Meta Ignored Warnings on Child Harm",
+      "link": "https://finance.yahoo.com/media-advertising/articles/whistleblower-says-meta-ignored-warnings-231442692.html",
+      "publisher": "MT Newswires",
+      "time": 1787181282,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "6a36bab8-ddb7-33cd-954a-d0f3176a660c",
+      "title": "Trump hosts crypto executives at the White House — and one token surges 19% on his remarks",
+      "link": "https://finance.yahoo.com/m/6a36bab8-ddb7-33cd-954a-d0f3176a660c/trump-hosts-crypto-executives.html",
+      "publisher": "TheStreet",
+      "time": 1787181056,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "aa37dd51-957c-3aff-afce-1f4d8ff42608",
-      "title": "TOL Q2 2026 Deep Dive: Luxury Focus, Operational Efficiency, and Market Share Drive Performance",
-      "link": "https://finance.yahoo.com/real-estate/articles/tol-q2-2026-deep-dive-223802760.html",
+      "id": "711b33b2-f8b1-33bd-bd8c-aa2a503baa4e",
+      "title": "Tesla (TSLA) Stock Is Up, What You Need To Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-know-231002862.html",
       "publisher": "StockStory",
-      "time": 1787179082,
+      "time": 1787181002,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "f1762eb1-dbe6-3881-9771-465b5a256790",
-      "title": "No reason given as Willmar Council OKs separation agreement with Valiant",
-      "link": "https://finance.yahoo.com/m/f1762eb1-dbe6-3881-9771-465b5a256790/no-reason-given-as-willmar.html",
-      "publisher": "West Central Tribune, Willmar, Minn.",
-      "time": 1787178960,
+      "id": "68a3e9b8-8858-3a96-8c98-dd4126c44fbe",
+      "title": "Dow Jones Futures: S&P 500, Nasdaq Rise On Treasury Move; Moderna, Merck Spur Big Biopharma Gains",
+      "link": "https://finance.yahoo.com/m/68a3e9b8-8858-3a96-8c98-dd4126c44fbe/dow-jones-futures%3A-s%26p-500%2C.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787180884,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bad5e918-3c7c-353a-9ff4-b4f5eb44b2cd",
-      "title": "Oil Is Up 36% and the Strait of Hormuz Is Still Closed. The QQQI Family Runs a 14.75% Energy Fund",
-      "link": "https://finance.yahoo.com/m/bad5e918-3c7c-353a-9ff4-b4f5eb44b2cd/oil-is-up-36%25-and-the-strait.html",
+      "id": "9559c993-524a-3a0e-9177-be3202f144b2",
+      "title": "Vanguard Announces Termination of Vanguard Global Minimum Volatility ETF",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vanguard-announces-termination-vanguard-global-230800802.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787180880,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5edac899-8e84-3d42-9bb8-cc3bbb6d1bc5",
+      "title": "Trump Warns Iran Of 'Draconian Sanctions' After Deal Fails",
+      "link": "https://finance.yahoo.com/energy/articles/trump-warns-iran-apos-draconian-230539453.html",
+      "publisher": "MT Newswires",
+      "time": 1787180739,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "5580d77f-816b-383a-94df-e9e619f8a8fd",
+      "title": "Nortech Systems (NSYS) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/5580d77f-816b-383a-94df-e9e619f8a8fd/nortech-systems-%28nsys%29-q2.html",
+      "publisher": "Motley Fool",
+      "time": 1787180671,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "6bc6f937-caf2-3d71-a349-0552cc71827c",
+      "title": "Your 2028 Medicare Premium Is Being Written Now by the Income You Create Before December 31.",
+      "link": "https://finance.yahoo.com/m/6bc6f937-caf2-3d71-a349-0552cc71827c/your-2028-medicare-premium-is.html",
       "publisher": "24/7 Wall St.",
-      "time": 1787178911,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "7b14bb57-6085-3b8b-b567-388a3f971495",
-      "title": "Abbott vs. Intuitive Surgical: Is Consistent Growth Better Than Premium Growth?",
-      "link": "https://finance.yahoo.com/healthcare/articles/abbott-vs-intuitive-surgical-consistent-223312565.html",
-      "publisher": "Insider Monkey",
-      "time": 1787178792,
+      "time": 1787180619,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4d724206-24e8-3421-a981-171706322b8f",
-      "title": "Bank of America makes bullish call on 77-year-old healthcare stock",
-      "link": "https://finance.yahoo.com/m/4d724206-24e8-3421-a981-171706322b8f/bank-of-america-makes-bullish.html",
-      "publisher": "TheStreet",
-      "time": 1787178780,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "2b739fec-5566-34c9-82bf-ac33b4c0e441",
-      "title": "Still Working at 67? Every Year You Wait on Social Security Locks In a Guaranteed 8% Raise",
-      "link": "https://finance.yahoo.com/m/2b739fec-5566-34c9-82bf-ac33b4c0e441/still-working-at-67%3F-every.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787178767,
+      "id": "e4978c57-14fb-30c5-a617-3226c2096dd5",
+      "title": "Top seed Zverev bundled out by Paul in rain-hit Cincinnati upset",
+      "link": "https://finance.yahoo.com/m/e4978c57-14fb-30c5-a617-3226c2096dd5/top-seed-zverev-bundled-out.html",
+      "publisher": "AFP",
+      "time": 1787180618,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8fd1ac70-d3d2-3664-bfed-2e2b7656d4fc",
-      "title": "Webull Corporation Q2 2026 Earnings: Recap of $BULL Earnings Call & Forecast",
-      "link": "https://finance.yahoo.com/m/8fd1ac70-d3d2-3664-bfed-2e2b7656d4fc/webull-corporation-q2-2026.html",
-      "publisher": "TheStreet",
-      "time": 1787178669,
+      "id": "5ffbe77e-8862-3062-a57b-8ee97b640fe2",
+      "title": "Analysis-China tax crackdown forces wealthy investors to assess their offshore trusts",
+      "link": "https://finance.yahoo.com/economy/policy/articles/analysis-china-tax-crackdown-forces-230316010.html",
+      "publisher": "Reuters",
+      "time": 1787180596,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
-    },
-    {
-      "id": "ef13e04c-ff8f-320c-93c1-37f81e5f1aed",
-      "title": "BILL Holdings Inc. Q4 2026 Earnings: Recap of $BILL Earnings Call & Forecast",
-      "link": "https://finance.yahoo.com/m/ef13e04c-ff8f-320c-93c1-37f81e5f1aed/bill-holdings-inc.-q4-2026.html",
-      "publisher": "TheStreet",
-      "time": 1787178668,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a00301d5-5cd7-3fba-ab86-4bfb4943466d",
-      "title": "Vertex Resource Group Ltd. Reports Second Quarter 2026 Results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vertex-group-ltd-reports-second-223100613.html",
-      "publisher": "CNW Group",
-      "time": 1787178660,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
