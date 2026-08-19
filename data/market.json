@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T00:52:40.793899+00:00",
+  "updatedAt": "2026-08-19T02:14:50.883800+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,11 @@
   ],
   "news": [
     {
-      "id": "325268c2-0fc4-3aa7-964a-d1affc765469",
-      "title": "THCH (THCH) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/325268c2-0fc4-3aa7-964a-d1affc765469/thch-%28thch%29-q2-2026-earnings.html",
-      "publisher": "Motley Fool",
-      "time": 1787100201,
+      "id": "406024cd-ce0c-3c4c-98df-7a17b31c6357",
+      "title": "Santos Profit Falls by Less Than Expected as Barossa and Pikka Ramp Up",
+      "link": "https://finance.yahoo.com/energy/articles/santos-profit-falls-less-expected-020936903.html",
+      "publisher": "Oilprice.com",
+      "time": 1787105376,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,93 +64,91 @@
       ]
     },
     {
-      "id": "9f9fe7b3-3aad-3e7e-b90f-e84346927160",
-      "title": "Elauwit Connection (ELWT) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/9f9fe7b3-3aad-3e7e-b90f-e84346927160/elauwit-connection-%28elwt%29-q2.html",
-      "publisher": "Motley Fool",
-      "time": 1787100201,
+      "id": "8812b3ed-2783-3a48-a85f-70b2d6408389",
+      "title": "Country shuts down its 106-year-old air mail service",
+      "link": "https://finance.yahoo.com/m/8812b3ed-2783-3a48-a85f-70b2d6408389/country-shuts-down-its.html",
+      "publisher": "TheStreet",
+      "time": 1787104980,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "13516a45-d61d-3293-a6d4-034576db69fe",
+      "title": "As Cyber Risks Grow, Malaysia's Key Industries Turn Their Attention to CyberDSA 2026",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cyber-risks-grow-malaysias-key-020000246.html",
+      "publisher": "PR Newswire",
+      "time": 1787104800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2982dca6-8fbc-3e61-a0d7-47d2cf891e3b",
+      "title": "Trinasolar Powers 10MWh Solar and Storage Project in Phu Quoc, Vietnam",
+      "link": "https://finance.yahoo.com/energy/articles/trinasolar-powers-10mwh-solar-storage-020000331.html",
+      "publisher": "PR Newswire",
+      "time": 1787104800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3a040c03-ce2f-3b20-bb00-f0a3dbfd9fc7",
+      "title": "Hi & Fi Asia-China 2026 Concludes in Shanghai with Record Numbers, Handing the Baton to Hi & Fi Shenzhen This Autumn",
+      "link": "https://finance.yahoo.com/healthcare/articles/hi-fi-asia-china-2026-020000911.html",
+      "publisher": "PR Newswire",
+      "time": 1787104800,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
     },
     {
-      "id": "6e5b0cd0-6b0f-3723-9ef3-74a5dbdc716d",
-      "title": "Quantum Stocks Fall Tuesday as Rates Force Rotation: IonQ Down 6%, D-Wave Drops 6%, Rigetti Falls 5%",
-      "link": "https://finance.yahoo.com/m/6e5b0cd0-6b0f-3723-9ef3-74a5dbdc716d/quantum-stocks-fall-tuesday.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787099961,
+      "id": "8d8e2fa5-610d-3ad0-96a8-c2932f166da1",
+      "title": "GSK's Blenrep (belantamab mafodotin) combinations approved in Singapore for treatment of relapsed/refractory multiple myeloma",
+      "link": "https://finance.yahoo.com/healthcare/articles/gsks-blenrep-belantamab-mafodotin-combinations-020000929.html",
+      "publisher": "PR Newswire",
+      "time": 1787104800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "dc3ce947-e32f-3901-850a-812e80448c81",
+      "title": "Momenta, XHEART, and QNX Build an Autonomous Driving Platform Certified to Global Safety Standards",
+      "link": "https://finance.yahoo.com/technology/ai/articles/momenta-xheart-qnx-build-autonomous-020000169.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787104800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6ca7b56f-b513-37ea-acc4-d348d3914036",
+      "title": "Aurentis Capital Group Announces Technology-Driven Trading Platform for Global Markets",
+      "link": "https://finance.yahoo.com/markets/articles/aurentis-capital-group-announces-technology-015900686.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787104740,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "72c0c8fd-6520-3db8-942b-e03b7681d2aa",
-      "title": "Oil edges up on uncertainty over exports through Hormuz",
-      "link": "https://finance.yahoo.com/news/oil-edges-uncertainty-over-exports-003901978.html",
-      "publisher": "Reuters",
-      "time": 1787099941,
-      "impact": "medium",
+      "id": "fbff4f5e-18f8-3a26-b28d-696bbba97d95",
+      "title": "Geospace Supports Faraday’s Rapid Seismic Fleet Expansion With 4,000-Node Pioneer Order",
+      "link": "https://finance.yahoo.com/energy/articles/geospace-supports-faraday-rapid-seismic-015900053.html",
+      "publisher": "Business Wire",
+      "time": 1787104740,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "01a3b669-1ced-3903-b9c1-01470e4ea283",
+      "title": "Why Did AMLX, IOVA, OKE Stocks Hit 52-Week Highs Today?",
+      "link": "https://finance.yahoo.com/m/01a3b669-1ced-3903-b9c1-01470e4ea283/why-did-amlx%2C-iova%2C-oke.html",
+      "publisher": "Stocktwits",
+      "time": 1787104440,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
-    },
-    {
-      "id": "e54ed465-30bf-3e64-84b0-cecf663c38d6",
-      "title": "Elon Musk’s $900 billion SpaceX stake is built on more than rockets",
-      "link": "https://finance.yahoo.com/m/e54ed465-30bf-3e64-84b0-cecf663c38d6/elon-musk%E2%80%99s-%24900-billion.html",
-      "publisher": "TheStreet",
-      "time": 1787099820,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f9c788a6-5e7e-3f43-ab7f-9c1fa7cbfbbd",
-      "title": "Billionaire's dig at millionaires earns brickbats",
-      "link": "https://finance.yahoo.com/m/f9c788a6-5e7e-3f43-ab7f-9c1fa7cbfbbd/billionaire%27s-dig-at.html",
-      "publisher": "TheStreet",
-      "time": 1787099717,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e5c11fbe-e23b-3bd2-a91a-41f3da3745ad",
-      "title": "No.1 Sabalenka slams Wang to power ahead in Cincinnati",
-      "link": "https://finance.yahoo.com/m/e5c11fbe-e23b-3bd2-a91a-41f3da3745ad/no.1-sabalenka-slams-wang-to.html",
-      "publisher": "AFP",
-      "time": 1787099618,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "291ecaae-92db-3460-a81d-3e55282b8c88",
-      "title": "Trump Ally Byron Donalds Wins GOP Governor Race in Florida",
-      "link": "https://finance.yahoo.com/m/291ecaae-92db-3460-a81d-3e55282b8c88/trump-ally-byron-donalds-wins.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787099400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9f2dbb83-c829-3a6b-860c-7059e4a5023d",
-      "title": "Walmart is selling a 3-seat patio swing glider with a canopy for only $94",
-      "link": "https://finance.yahoo.com/m/9f2dbb83-c829-3a6b-860c-7059e4a5023d/walmart-is-selling-a-3-seat.html",
-      "publisher": "TheStreet",
-      "time": 1787099400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a1eb71d2-a4fd-3dd5-b938-6c54639242da",
-      "title": "Australian court begins appeal hearing for mushroom murderer Erin Patterson",
-      "link": "https://finance.yahoo.com/m/a1eb71d2-a4fd-3dd5-b938-6c54639242da/australian-court-begins.html",
-      "publisher": "AFP",
-      "time": 1787099358,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
