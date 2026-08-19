@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T02:14:50.883800+00:00",
+  "updatedAt": "2026-08-19T03:24:02.339398+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6468.17,
       "change": -62.279999999999745,
       "changePct": -0.953686193141357,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,11 +52,22 @@
   ],
   "news": [
     {
-      "id": "406024cd-ce0c-3c4c-98df-7a17b31c6357",
-      "title": "Santos Profit Falls by Less Than Expected as Barossa and Pikka Ramp Up",
-      "link": "https://finance.yahoo.com/energy/articles/santos-profit-falls-less-expected-020936903.html",
-      "publisher": "Oilprice.com",
-      "time": 1787105376,
+      "id": "7530780e-e32a-3f28-ab73-9948656dfc9f",
+      "title": "Dow, S&P 500, Nasdaq Futures Slip As Global Bond Rout Catches Up With Markets: LUNR, MSTR, WYFI, AMLX Stocks In Focus",
+      "link": "https://finance.yahoo.com/m/7530780e-e32a-3f28-ab73-9948656dfc9f/dow%2C-s%26p-500%2C-nasdaq-futures.html",
+      "publisher": "Stocktwits",
+      "time": 1787109452,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "159dd347-6671-3464-b33b-bd20f9d5d3e8",
+      "title": "Flowers Foods (FLO) To Report Earnings Tomorrow: Here Is What To Expect",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/flowers-foods-flo-report-earnings-031656376.html",
+      "publisher": "StockStory",
+      "time": 1787109416,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,90 +75,92 @@
       ]
     },
     {
-      "id": "8812b3ed-2783-3a48-a85f-70b2d6408389",
-      "title": "Country shuts down its 106-year-old air mail service",
-      "link": "https://finance.yahoo.com/m/8812b3ed-2783-3a48-a85f-70b2d6408389/country-shuts-down-its.html",
-      "publisher": "TheStreet",
-      "time": 1787104980,
+      "id": "2e708d7b-8293-38f1-abf2-ca8ec63fa425",
+      "title": "Elon Musk's SpaceX Stock Just Closed Above Its $135 IPO Price for the First Time in Weeks. Is the Rebound a Buy Signal?",
+      "link": "https://finance.yahoo.com/m/2e708d7b-8293-38f1-abf2-ca8ec63fa425/elon-musk%27s-spacex-stock-just.html",
+      "publisher": "Motley Fool",
+      "time": 1787109186,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "0bb67e29-247b-3a7d-91e9-ab4b5f4fc934",
+      "title": "Lumentum's CEO Sells 5,438 Shares for $5 Million. Here's What That Means for Investors.",
+      "link": "https://finance.yahoo.com/m/0bb67e29-247b-3a7d-91e9-ab4b5f4fc934/lumentum%27s-ceo-sells-5%2C438.html",
+      "publisher": "Motley Fool",
+      "time": 1787109167,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "13516a45-d61d-3293-a6d4-034576db69fe",
-      "title": "As Cyber Risks Grow, Malaysia's Key Industries Turn Their Attention to CyberDSA 2026",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cyber-risks-grow-malaysias-key-020000246.html",
+      "id": "c9333c57-7a15-3d04-95f2-9381bfa8955c",
+      "title": "Wayon Stone Named China's Top 10 Quartz Stone Brands in 2026, Expanding Architectural Surface Solutions for Global Projects",
+      "link": "https://finance.yahoo.com/real-estate/articles/wayon-stone-named-chinas-top-031200324.html",
       "publisher": "PR Newswire",
-      "time": 1787104800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2982dca6-8fbc-3e61-a0d7-47d2cf891e3b",
-      "title": "Trinasolar Powers 10MWh Solar and Storage Project in Phu Quoc, Vietnam",
-      "link": "https://finance.yahoo.com/energy/articles/trinasolar-powers-10mwh-solar-storage-020000331.html",
-      "publisher": "PR Newswire",
-      "time": 1787104800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3a040c03-ce2f-3b20-bb00-f0a3dbfd9fc7",
-      "title": "Hi & Fi Asia-China 2026 Concludes in Shanghai with Record Numbers, Handing the Baton to Hi & Fi Shenzhen This Autumn",
-      "link": "https://finance.yahoo.com/healthcare/articles/hi-fi-asia-china-2026-020000911.html",
-      "publisher": "PR Newswire",
-      "time": 1787104800,
+      "time": 1787109120,
       "impact": "medium",
       "tags": [
         "geo"
       ]
     },
     {
-      "id": "8d8e2fa5-610d-3ad0-96a8-c2932f166da1",
-      "title": "GSK's Blenrep (belantamab mafodotin) combinations approved in Singapore for treatment of relapsed/refractory multiple myeloma",
-      "link": "https://finance.yahoo.com/healthcare/articles/gsks-blenrep-belantamab-mafodotin-combinations-020000929.html",
-      "publisher": "PR Newswire",
-      "time": 1787104800,
-      "impact": "low",
-      "tags": []
+      "id": "02a8c82d-8cdf-3279-93a4-eb81603805d2",
+      "title": "China goes rural with data centres in quest to power AI",
+      "link": "https://finance.yahoo.com/m/02a8c82d-8cdf-3279-93a4-eb81603805d2/china-goes-rural-with-data.html",
+      "publisher": "AFP",
+      "time": 1787108948,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
     },
     {
-      "id": "dc3ce947-e32f-3901-850a-812e80448c81",
-      "title": "Momenta, XHEART, and QNX Build an Autonomous Driving Platform Certified to Global Safety Standards",
-      "link": "https://finance.yahoo.com/technology/ai/articles/momenta-xheart-qnx-build-autonomous-020000169.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787104800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6ca7b56f-b513-37ea-acc4-d348d3914036",
-      "title": "Aurentis Capital Group Announces Technology-Driven Trading Platform for Global Markets",
-      "link": "https://finance.yahoo.com/markets/articles/aurentis-capital-group-announces-technology-015900686.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787104740,
+      "id": "ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef",
+      "title": "Dow Jones Futures Fall; After Sandisk, Micron, Credo Lead AI Losses, Market Rally Nears Key Test",
+      "link": "https://finance.yahoo.com/m/ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef/dow-jones-futures-fall%3B-after.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787108948,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "fbff4f5e-18f8-3a26-b28d-696bbba97d95",
-      "title": "Geospace Supports Faraday’s Rapid Seismic Fleet Expansion With 4,000-Node Pioneer Order",
-      "link": "https://finance.yahoo.com/energy/articles/geospace-supports-faraday-rapid-seismic-015900053.html",
-      "publisher": "Business Wire",
-      "time": 1787104740,
-      "impact": "low",
-      "tags": []
+      "id": "0f189979-9c6c-3334-894e-85ad7a11b7c9",
+      "title": "ScanSource Earnings: What To Look For From SCSC",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/scansource-earnings-look-scsc-030856649.html",
+      "publisher": "StockStory",
+      "time": 1787108936,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "01a3b669-1ced-3903-b9c1-01470e4ea283",
-      "title": "Why Did AMLX, IOVA, OKE Stocks Hit 52-Week Highs Today?",
-      "link": "https://finance.yahoo.com/m/01a3b669-1ced-3903-b9c1-01470e4ea283/why-did-amlx%2C-iova%2C-oke.html",
-      "publisher": "Stocktwits",
-      "time": 1787104440,
-      "impact": "low",
+      "id": "1f825902-1bd8-370e-b986-8392da5494c4",
+      "title": "Anthropic speaks with investors ahead of potential record-setting IPO",
+      "link": "https://finance.yahoo.com/m/1f825902-1bd8-370e-b986-8392da5494c4/anthropic-speaks-with.html",
+      "publisher": "Proactive",
+      "time": 1787108880,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "8d72965e-5f76-3d69-8e3a-cf72a86d2e72",
+      "title": "China's robots open to opportunities in search of commercial breakthrough",
+      "link": "https://finance.yahoo.com/technology/ai/articles/chinas-robots-open-opportunities-search-030728306.html",
+      "publisher": "AFP",
+      "time": 1787108848,
+      "impact": "medium",
+      "tags": [
+        "geo"
       ]
     }
   ],
