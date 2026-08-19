@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T19:01:28.482145+00:00",
+  "updatedAt": "2026-08-19T19:47:46.861482+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7717.37,
-      "change": -27.69000000000051,
-      "changePct": -0.3575182116084383,
+      "price": 7706.36,
+      "change": -38.70000000000073,
+      "changePct": -0.4996733401678066,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26347.191,
-      "change": -297.71900000000096,
-      "changePct": -1.1173578743557435,
+      "price": 26313.453,
+      "change": -331.4569999999985,
+      "changePct": -1.2439786811064422,
       "currency": "USD"
     },
     {
@@ -39,110 +39,111 @@
       "price": 6444.46,
       "change": -23.710000000000036,
       "changePct": -0.36656426779135426,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.05,
-      "change": -0.7899999999999991,
-      "changePct": -4.987373737373732,
+      "price": 14.95,
+      "change": -0.8900000000000006,
+      "changePct": -5.618686868686872,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "5e7e1a78-3acc-35a2-bbc7-ffef4782d2be",
-      "title": "Basilic Fly Studio Ltd (NSE:BASILIC) (Q1 2027) Earnings Call Highlights: Record Order Book and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/basilic-fly-studio-ltd-nse-190052974.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787166052,
-      "impact": "medium",
+      "id": "15b5c7a6-d656-352b-a9f5-ab4692d55efe",
+      "title": "OSR Health Receives Nasdaq Staff Delisting Determination and Intends to Request Hearings Panel Appeal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/osr-health-receives-nasdaq-staff-194500270.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787168700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "24e3ca01-7b4a-3123-9ab3-231ed45fd00a",
+      "title": "This Billionaire Tech Investor Is Betting Big on SpaceX and Chip Stocks",
+      "link": "https://finance.yahoo.com/m/24e3ca01-7b4a-3123-9ab3-231ed45fd00a/this-billionaire-tech.html",
+      "publisher": "Motley Fool",
+      "time": 1787168460,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "9d66bcce-d1bb-3700-b57d-9be1dbd73c65",
-      "title": "Kerry Vitolano joins AXA XL as Head of East USRM and Head of USRM",
-      "link": "https://finance.yahoo.com/healthcare/articles/kerry-vitolano-joins-axa-xl-190000645.html",
+      "id": "19c80f6f-4db5-3e87-94e5-f6ffddfadbfa",
+      "title": "Drive Wise Innovations Launches 37 New EV Chargers Across Florida",
+      "link": "https://finance.yahoo.com/energy/articles/drive-wise-innovations-launches-37-194000794.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787168400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "18f58aeb-3991-380c-8e5e-85d664ab684e",
+      "title": "Asian Hall of Fame Amplifies Impact at Founders Gala",
+      "link": "https://finance.yahoo.com/small-business/articles/asian-hall-fame-amplifies-impact-193700678.html",
       "publisher": "PR Newswire",
-      "time": 1787166000,
+      "time": 1787168220,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c8137334-3b2f-4504-a28e-f86156737e40",
-      "title": "Citi enters the crypto arena: What to expect from its bitcoin custody launch",
-      "link": "https://finance.yahoo.com/video/citi-enters-crypto-arena-expect-190000880.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1787166000,
+      "id": "f2ac5d10-51cf-373e-a89b-8e9632c0edf8",
+      "title": "Quimbaya Gold Grants Option to Sell Non-Core Berrio Project for Up to US$3.75 Million in Cash and Shares",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/quimbaya-gold-grants-option-sell-193700360.html",
+      "publisher": "CNW Group",
+      "time": 1787168220,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8f641ff0-ac29-390f-9fbd-d1191f68f86f",
-      "title": "Cathie Wood Cuts AMD Again, Adds Rocket Lab",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-cuts-amd-again-185919295.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787165959,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3876d41c-734f-32e5-b7f0-bfc00f325f88",
-      "title": "National Aviation Day: The Sky Has No Age Limit",
-      "link": "https://finance.yahoo.com/small-business/articles/national-aviation-day-sky-no-185900864.html",
-      "publisher": "PR Newswire",
-      "time": 1787165940,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bb573761-20e9-35e8-ae71-c1581fe16b13",
-      "title": "Salad, lettuce-linked outbreak is making greens shoppers see red",
-      "link": "https://finance.yahoo.com/m/bb573761-20e9-35e8-ae71-c1581fe16b13/salad%2C-lettuce-linked.html",
-      "publisher": "USA TODAY",
-      "time": 1787165939,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4e1e58da-1795-39e2-a586-9c1c127d0d12",
-      "title": "Evercore Revamps S&P 500 Price Target for 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-revamps-p-500-price-185649786.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787165809,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b5205bd5-dacf-398a-ba61-b39702b5dbed",
-      "title": "Barclays Cuts Price Target on Lowe's to $260 From $285",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-cuts-price-target-lowe-185408749.html",
-      "publisher": "MT Newswires",
-      "time": 1787165648,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cdfade70-7322-3946-b064-82f7612f4832",
-      "title": "Wells Fargo Lowers Price Target on Analog Devices to $500 From $515",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-lowers-price-target-185323434.html",
-      "publisher": "MT Newswires",
-      "time": 1787165603,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "18d735af-51c0-3316-8906-4a655394a504",
-      "title": "Prediction: This Will Be Amazon's Stock Price by the End of 2026",
-      "link": "https://finance.yahoo.com/m/18d735af-51c0-3316-8906-4a655394a504/prediction%3A-this-will-be.html",
+      "id": "544fe569-9ddb-3b57-9039-3bfb5734d6d7",
+      "title": "Why Estée Lauder Stock Jumped Today",
+      "link": "https://finance.yahoo.com/m/544fe569-9ddb-3b57-9039-3bfb5734d6d7/why-est%C3%A9e-lauder-stock-jumped.html",
       "publisher": "Motley Fool",
-      "time": 1787165580,
+      "time": 1787168126,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "5ac37cc4-6507-348b-b58f-4b74b7504e0e",
+      "title": "Sector Update: Healthcare",
+      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-193511254.html",
+      "publisher": "MT Newswires",
+      "time": 1787168111,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "23598a68-ec3d-308b-babd-3e65a5f60e81",
+      "title": "Volvo Construction Equipment Rolls Out First U.S.-Built Excavators and Large Loaders",
+      "link": "https://finance.yahoo.com/economy/articles/volvo-construction-equipment-rolls-first-193500137.html",
+      "publisher": "Business Wire",
+      "time": 1787168100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d4feac36-82dd-382b-83ea-0bc74b7be9d7",
+      "title": "Pilot-Era Agentic AI Stacks Expose Enterprises to Integration and Governance Risks, Finds Info-Tech Research Group",
+      "link": "https://finance.yahoo.com/technology/ai/articles/pilot-era-agentic-ai-stacks-193500583.html",
+      "publisher": "PR Newswire",
+      "time": 1787168100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "767eb0e5-1303-310e-8995-00e482f83820",
+      "title": "Market Chatter: Sable Offshore's California Pipeline Restart to Continue, Court Rules",
+      "link": "https://finance.yahoo.com/energy/articles/market-chatter-sable-offshore-apos-193454984.html",
+      "publisher": "MT Newswires",
+      "time": 1787168094,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
