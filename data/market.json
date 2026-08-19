@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-19T10:54:30.504501+00:00",
+  "updatedAt": "2026-08-19T11:19:11.364054+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19905.8,
-      "change": -29.100000000002183,
-      "changePct": -0.14597514911036516,
+      "price": 19929.8,
+      "change": -5.100000000002183,
+      "changePct": -0.02558327355543385,
       "currency": "EUR"
     },
     {
@@ -28,35 +28,80 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26098.59,
-      "change": -240.02000000000044,
-      "changePct": -0.9112857512222566,
+      "price": 26120.15,
+      "change": -218.45999999999913,
+      "changePct": -0.829428735988722,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6471.86,
-      "change": 3.6899999999996,
-      "changePct": 0.057048593342469346,
+      "price": 6477.58,
+      "change": 9.409999999999854,
+      "changePct": 0.1454816431850099,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.82,
-      "change": -0.019999999999999574,
-      "changePct": -0.12626262626262355,
+      "price": 15.76,
+      "change": -0.08000000000000007,
+      "changePct": -0.5050505050505055,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "be3b620a-5f0b-3864-9bf0-2b73a5c0d33c",
-      "title": "US Pauses 50% Tariffs on Certain Canadian Goods for Three Days, While Carney Says \"Important Work\" Remains Amid \"Progress\"",
-      "link": "https://finance.yahoo.com/economy/policy/articles/us-pauses-50-tariffs-certain-105140420.html",
-      "publisher": "MT Newswires",
-      "time": 1787136700,
+      "id": "2986e80a-2c0d-3a91-bc6b-565459bb05b4",
+      "title": "Trace Advisory Joins Carr, Riggs & Ingram, Launching CRI Government Solutions",
+      "link": "https://finance.yahoo.com/small-business/articles/trace-advisory-joins-carr-riggs-111700668.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787138220,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3a75454d-5afd-3faa-b486-e62666643c2e",
+      "title": "Amylyx’s $35m-acquired PBH drug meets endpoints in Phase III trial",
+      "link": "https://finance.yahoo.com/m/3a75454d-5afd-3faa-b486-e62666643c2e/amylyx%E2%80%99s-%2435m-acquired-pbh.html",
+      "publisher": "Clinical Trials Arena",
+      "time": 1787137975,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "36e03a9b-bc26-3271-b90b-3e49dc22b8ad",
+      "title": "EDF power solutions signs 25-year solar and storage deal with NV Energy",
+      "link": "https://finance.yahoo.com/m/36e03a9b-bc26-3271-b90b-3e49dc22b8ad/edf-power-solutions-signs.html",
+      "publisher": "Power Technology",
+      "time": 1787137963,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f4685806-02ce-3f33-9d2e-65a2962b3cf6",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-111100094.html",
+      "publisher": "Business Wire",
+      "time": 1787137860,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6cc1ce5f-31a3-3e9a-a7c2-2896c759f13c",
+      "title": "FDA seeks input on proposed regulatory approach to GenAI-based medtech",
+      "link": "https://finance.yahoo.com/m/6cc1ce5f-31a3-3e9a-a7c2-2896c759f13c/fda-seeks-input-on-proposed.html",
+      "publisher": "Medical Device Network",
+      "time": 1787137822,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "82d02378-c6a2-35a5-8730-3de987f5bbd8",
+      "title": "3 Small-Cap Stocks with Warning Signs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-warning-111002576.html",
+      "publisher": "StockStory",
+      "time": 1787137802,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,11 +109,11 @@
       ]
     },
     {
-      "id": "f2793bf9-c186-3fda-851c-a5092f3f241c",
-      "title": "Amer Sports Q2 sales, profit surge on Arc’teryx, Salomon growth",
-      "link": "https://finance.yahoo.com/m/f2793bf9-c186-3fda-851c-a5092f3f241c/amer-sports-q2-sales%2C-profit.html",
-      "publisher": "Just Style",
-      "time": 1787136669,
+      "id": "0e01a429-7da9-3a6d-b553-5a1176c13bf5",
+      "title": "Target Q2 2026 earnings beat: sales up 5.3%, guidance raised",
+      "link": "https://finance.yahoo.com/m/0e01a429-7da9-3a6d-b553-5a1176c13bf5/target-q2-2026-earnings-beat%3A.html",
+      "publisher": "Quartz",
+      "time": 1787137774,
       "impact": "medium",
       "tags": [
         "macro",
@@ -76,80 +121,34 @@
       ]
     },
     {
-      "id": "51cee001-d8f4-3cd7-94b1-d0b64806a2ed",
-      "title": "SpaceX Is Back Trading Near Its Opening-Day Price. History Says Shares Will Be Worth This Much in 1 Year.",
-      "link": "https://finance.yahoo.com/m/51cee001-d8f4-3cd7-94b1-d0b64806a2ed/spacex-is-back-trading-near.html",
-      "publisher": "Motley Fool",
-      "time": 1787136600,
+      "id": "924f8eb7-502d-3e52-b1ff-4987c2a073c9",
+      "title": "Scott Galloway Blasts SpaceX as “Crazy Overvalued.” Says the Stock Could Fall 90% From Here",
+      "link": "https://finance.yahoo.com/m/924f8eb7-502d-3e52-b1ff-4987c2a073c9/scott-galloway-blasts-spacex.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787137742,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "aa9a33eb-bbdc-34a7-a1d6-5dc64577cdd1",
-      "title": "Morgan Stanley Adjusts Price Target on Amgen to $362 From $351, Keeps Equalweight Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-104840969.html",
-      "publisher": "MT Newswires",
-      "time": 1787136520,
+      "id": "70f9ec8b-385e-34c7-bbac-707655905090",
+      "title": "Walgreens, US Foods, Petco and More Recognized in the Inaugural Class of Top Supply Chain Leaders by SPS Commerce",
+      "link": "https://finance.yahoo.com/small-business/articles/walgreens-us-foods-petco-more-110900224.html",
+      "publisher": "Business Wire",
+      "time": 1787137740,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "88abdcc8-bc9d-3f4d-b2e3-9f05971b7b11",
-      "title": "President Capital Adjusts Price Target on Constellation Energy to $342 From $352, Keeps Buy Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/president-capital-adjusts-price-target-104715889.html",
-      "publisher": "MT Newswires",
-      "time": 1787136435,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "afbd4848-6109-302c-9182-a5a2df03f418",
-      "title": "China Renaissance Adjusts Price Target on Sandisk to $2,250 From $2,000, Maintains Buy Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/china-renaissance-adjusts-price-target-104642072.html",
-      "publisher": "MT Newswires",
-      "time": 1787136402,
+      "id": "3af1d334-1dbf-3f55-987a-dd2922d7cc0e",
+      "title": "Analog Devices: Fiscal Q3 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-fiscal-q3-earnings-110855598.html",
+      "publisher": "Associated Press",
+      "time": 1787137735,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
-    },
-    {
-      "id": "e6f0019e-a4a6-3d15-84c5-060efba4dd79",
-      "title": "CIL-SIML JV secures road contracts worth $224m in India",
-      "link": "https://finance.yahoo.com/m/e6f0019e-a4a6-3d15-84c5-060efba4dd79/cil-siml-jv-secures-road.html",
-      "publisher": "World Construction Network",
-      "time": 1787136365,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "affe9d16-d2db-3136-bbdd-373dfca7709a",
-      "title": "2 Financials Stocks on Our Watchlist and 1 We Ignore",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-financials-stocks-watchlist-1-104602274.html",
-      "publisher": "StockStory",
-      "time": 1787136362,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "702f6653-0cfe-3f35-b360-47185da9d102",
-      "title": "AI in smart grids: how grid tech is navigating challenges and opportunities",
-      "link": "https://finance.yahoo.com/m/702f6653-0cfe-3f35-b360-47185da9d102/ai-in-smart-grids%3A-how-grid.html",
-      "publisher": "Power Technology",
-      "time": 1787136346,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4025549d-f596-3a2d-a843-b0d6d940cdba",
-      "title": "TELUS Digital Named a Leader in the 2026 NelsonHall NEAT Evaluation for AI Enablement Services",
-      "link": "https://finance.yahoo.com/technology/ai/articles/telus-digital-named-leader-2026-104500682.html",
-      "publisher": "CNW Group",
-      "time": 1787136300,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
