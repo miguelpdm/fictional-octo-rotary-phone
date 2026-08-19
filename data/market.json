@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T05:00:34.435921+00:00",
+  "updatedAt": "2026-08-19T05:54:10.510194+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6468.17,
       "change": -62.279999999999745,
       "changePct": -0.953686193141357,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,96 +52,108 @@
   ],
   "news": [
     {
-      "id": "b56be4a2-654b-3f0b-933f-d20aa7357a27",
-      "title": "Palestinian-American hoists US flag on home besieged by settlers",
-      "link": "https://finance.yahoo.com/m/b56be4a2-654b-3f0b-933f-d20aa7357a27/palestinian-american-hoists.html",
-      "publisher": "AFP",
-      "time": 1787115097,
+      "id": "0c899232-92ff-3292-bd6f-ea9b4b8eac40",
+      "title": "FoodRGB Launches Full-Spectrum Natural Color Line to Help Manufacturers Move Beyond Synthetic Dyes",
+      "link": "https://finance.yahoo.com/small-business/articles/foodrgb-launches-full-spectrum-natural-055000584.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787118600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d3012e35-f953-3a8a-99da-70c9c358a59e",
-      "title": "Prediction: 3 Unstoppable Artificial Intelligence Stocks That Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club by 2028",
-      "link": "https://finance.yahoo.com/m/d3012e35-f953-3a8a-99da-70c9c358a59e/prediction%3A-3-unstoppable.html",
-      "publisher": "Motley Fool",
-      "time": 1787115000,
+      "id": "e94fd8ce-2fec-3fc6-bf9d-d414fea8e81b",
+      "title": "Lundbeckfond Invest A/S launches voluntary exchange offer for A-shares in H. Lundbeck A/S",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lundbeckfond-invest-launches-voluntary-exchange-053800979.html",
+      "publisher": "PR Newswire",
+      "time": 1787117880,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1cc22b7a-7e1d-3011-a1e6-263179eecbef",
+      "title": "Southern African mothers plead for sons lured to Russia's war",
+      "link": "https://finance.yahoo.com/m/1cc22b7a-7e1d-3011-a1e6-263179eecbef/southern-african-mothers.html",
+      "publisher": "AFP",
+      "time": 1787117797,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "bc3b98b2-2864-3203-b8c5-48c8c5cb77c1",
+      "title": "Campaigns kick off in Nigerian presidential race",
+      "link": "https://finance.yahoo.com/m/bc3b98b2-2864-3203-b8c5-48c8c5cb77c1/campaigns-kick-off-in.html",
+      "publisher": "AFP",
+      "time": 1787117771,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "72743261-34ef-363e-9a7f-6e72b67e7fea",
+      "title": "Flex LNG - Second Quarter 2026 Presentation",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/flex-lng-second-quarter-2026-053200098.html",
+      "publisher": "PR Newswire",
+      "time": 1787117520,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2bc33930-781b-34b9-943e-39e0bbceea12",
+      "title": "Trump pauses 50% tariffs on Canadian goods for three days",
+      "link": "https://finance.yahoo.com/economy/policy/articles/canada-seeks-avert-us-tariffs-152232618.html",
+      "publisher": "AFP",
+      "time": 1787117438,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "13e4f46f-c5ca-3f3c-a907-2906f575f02c",
+      "title": "Interim Financial Report H1 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/interim-financial-report-h1-2026-053000908.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787117400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4fe8a0f0-16d1-339b-b198-3b72fee0634a",
+      "title": "STARPRIME Completes Beta Testing of Market-Maker Model for Retail Brokers",
+      "link": "https://finance.yahoo.com/markets/options/articles/starprime-completes-beta-testing-market-053000226.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787117400,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "8d924c37-9b6d-3a48-918b-c4e9793324ed",
-      "title": "Freedom Holding Marks New Türkiye Milestone as Freedom Yatırım Secures Brokerage License",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/freedom-holding-marks-t-rkiye-044000405.html",
+      "id": "6330d048-2aef-3f61-8355-9fddc7928385",
+      "title": "The Bank of Lithuania’s Financial Market Supervision Committee has granted Modestas Sutkaitis permission to serve as a member of the Management Board of UAB Urbo bankas",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-lithuania-financial-market-supervision-053000253.html",
       "publisher": "GlobeNewswire",
-      "time": 1787114400,
-      "impact": "low",
-      "tags": []
+      "time": 1787117400,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "a9011b3c-665a-35a5-b2a0-3f9505c8f603",
-      "title": "Fastenal (FAST) Rallies On Second Quarter Update, Is The Stock Now Pricey?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fastenal-fast-rallies-second-quarter-043606931.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787114166,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ec505ae8-17c5-3274-8ffd-4db074603c20",
-      "title": "Travelers Companies (TRV) Adds Anthony Jabbour To Its Board And Key Committees",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/travelers-companies-trv-adds-anthony-043602792.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787114162,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "955b67be-df49-31c9-9bde-3c0dd9ee2d0e",
-      "title": "Is PBF Energy’s (PBF) Insider Option Exercise Highlighting a Deeper Shift in Its Efficiency Story?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pbf-energy-pbf-insider-option-043546398.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787114146,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "46ae5243-5a0f-36cd-a8f6-57c8e63af6a7",
-      "title": "Darden Restaurants (DRI) Faces 80% Director Vote Disclosure Proposal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/darden-restaurants-dri-faces-80-043526639.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787114126,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "47ad48e9-7145-37ac-91cb-cd59d69cc402",
-      "title": "Willis Towers Watson (WTW) Could Be 13% Below Fair Value After Leadership Change",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/willis-towers-watson-wtw-could-043504978.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787114104,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b6785300-4baa-3c6b-ac16-b0e887314e43",
-      "title": "Steel Dynamics (STLD) Stock Could Be 30% Undervalued As Cash Flow Drives The Case",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/steel-dynamics-stld-stock-could-043453603.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787114093,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "47ef5e36-1edd-32ce-ad57-e1a7524bfc46",
-      "title": "Copart (CPRT) Stock Looks Reasonable With 37% Upside To Fair Value",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/copart-cprt-stock-looks-reasonable-043451286.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787114091,
-      "impact": "low",
-      "tags": []
+      "id": "f81b92fd-6ea6-3f5e-9be0-58cf56ee5d86",
+      "title": "Cedar Electronics selects TomTom Orbis Maps to enhance speed awareness across the United States",
+      "link": "https://finance.yahoo.com/technology/articles/cedar-electronics-selects-tomtom-orbis-053000582.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787117400,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     }
   ],
   "errors": {
