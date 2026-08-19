@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-19T09:05:19.096880+00:00",
+  "updatedAt": "2026-08-19T09:56:56.087292+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19887.5,
-      "change": -47.400000000001455,
-      "changePct": -0.2377739542209966,
+      "price": 19886.4,
+      "change": -48.5,
+      "changePct": -0.24329191518392365,
       "currency": "EUR"
     },
     {
@@ -28,145 +28,128 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26135.53,
-      "change": -203.08000000000175,
-      "changePct": -0.771035373544776,
+      "price": 26087.78,
+      "change": -250.83000000000175,
+      "changePct": -0.9523281600661604,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6478.03,
-      "change": 9.859999999999673,
-      "changePct": 0.15243878871457728,
-      "currency": "EUR"
+      "price": 6470.15,
+      "change": 1.9799999999995634,
+      "changePct": 0.030611440330102074,
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.8,
-      "change": -0.03999999999999915,
-      "changePct": -0.2525252525252471,
+      "price": 15.85,
+      "change": 0.009999999999999787,
+      "changePct": 0.06313131313131178,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "1d8d7f2f-a3de-32a5-9135-00b074daf1aa",
-      "title": "First patient treated in FDA IDE study of Aqua Medical’s PIMA device",
-      "link": "https://finance.yahoo.com/m/1d8d7f2f-a3de-32a5-9135-00b074daf1aa/first-patient-treated-in-fda.html",
-      "publisher": "Medical Device Network",
-      "time": 1787130135,
+      "id": "bedc5efe-c94a-32aa-baad-c4a4a1b4539d",
+      "title": "5 Revealing Analyst Questions From Coherent’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-coherent-095002093.html",
+      "publisher": "StockStory",
+      "time": 1787133002,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "dcf24210-ea09-3031-8aa6-6654cd7d1f14",
+      "title": "Diamond Consulate to Open Private Fine Jewelry and Custom Engagement Ring Showroom in Oklahoma City",
+      "link": "https://finance.yahoo.com/small-business/articles/diamond-consulate-open-private-fine-095000980.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787133000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "52b9f7ca-728c-3dcc-b268-bb24597d0d32",
-      "title": "Healius Ltd (ASX:HLS) (FY 2026) Earnings Call Highlights: EBIT Surges 76% to A$30. ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/healius-ltd-asx-hls-fy-090151162.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787130111,
-      "impact": "medium",
+      "id": "ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef",
+      "title": "Dow Jones Futures Fall; After Sandisk, Micron, Credo Lead AI Losses, Market Rally Nears Key Test",
+      "link": "https://finance.yahoo.com/m/ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef/dow-jones-futures-fall%3B-after.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787132878,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "ec315eb4-072c-31c6-83b3-b753b60a042d",
-      "title": "Mirvac Group (ASX:MGR) (FY 2026) Earnings Call Highlights: Record Operating Profit and ...",
-      "link": "https://finance.yahoo.com/news/mirvac-group-asx-mgr-fy-090146189.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787130106,
-      "impact": "medium",
+      "id": "732ca9f1-6e80-3b07-adf2-f858244f23e2",
+      "title": "Form 8.3 - Brave Bison Group Plc",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-brave-bison-094600690.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787132760,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e6e9d080-1cf8-370a-a080-629d919ceb84",
+      "title": "/R E P E A T -- MEDIA ADVISORY - FEDERAL GOVERNMENT TO MAKE HOUSING ANNOUNCEMENT IN SAINT JOHN/",
+      "link": "https://finance.yahoo.com/real-estate/articles/r-e-p-e-t-094500316.html",
+      "publisher": "CNW Group",
+      "time": 1787132700,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "eae5dc67-b0a4-3611-9f83-8fb1ddbf8e9b",
-      "title": "BWP Group (ASX:BWP) (FY 2026) Earnings Call Highlights: FFO Up 4.5%, Gearing Drops to 18.5%",
-      "link": "https://finance.yahoo.com/news/bwp-group-asx-bwp-fy-090138411.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787130098,
-      "impact": "medium",
+      "id": "502dbba1-e557-3520-9c5e-5af54252d0d3",
+      "title": "MRCY Q2 Deep Dive: Strong Backlog and Revenue Growth Offset by Margin Pressures",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mrcy-q2-deep-dive-strong-094202931.html",
+      "publisher": "StockStory",
+      "time": 1787132522,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "3574db8c-2a62-3454-823d-a5a6aa31e1c7",
-      "title": "Santos Ltd (SSLZY) (H1 2026) Earnings Call Highlights: Record Production and Strategic Progress ...",
-      "link": "https://finance.yahoo.com/energy/articles/santos-ltd-sslzy-h1-2026-090127399.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787130087,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "dc99b324-5946-33db-9e7d-944e4e1933e4",
+      "title": "Kyrgios admits 'huge mistake' after failing test for cocaine",
+      "link": "https://finance.yahoo.com/m/dc99b324-5946-33db-9e7d-944e4e1933e4/kyrgios-admits-%27huge-mistake%27.html",
+      "publisher": "AFP",
+      "time": 1787132517,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "1e5e7598-31f7-3ca9-9d09-c5658cd37158",
-      "title": "Boom Logistics Ltd (ASX:BOL) (FY 2026) Earnings Call Highlights: NPAT Surges 37. ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/boom-logistics-ltd-asx-bol-090125304.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787130085,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "d62a1376-4112-3f7e-8e3d-0d40a9906708",
+      "title": "What Long-Term Investors Should Know About This Hims Insider Filing",
+      "link": "https://finance.yahoo.com/m/d62a1376-4112-3f7e-8e3d-0d40a9906708/what-long-term-investors.html",
+      "publisher": "Motley Fool",
+      "time": 1787132480,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "7efb2105-14c8-3ebc-9d48-677f5bdb37ef",
-      "title": "The Lottery Corp Ltd (ASX:TLC) (FY 2026) Earnings Call Highlights: Resilient Results Amid ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lottery-corp-ltd-asx-tlc-090121223.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787130081,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "06b72037-ef0f-3d9a-91f5-2477a5b6d491",
+      "title": "Etched raises $700m at $21bn valuation, ships first rack to Jane Street",
+      "link": "https://finance.yahoo.com/m/06b72037-ef0f-3d9a-91f5-2477a5b6d491/etched-raises-%24700m-at-%2421bn.html",
+      "publisher": "Verdict",
+      "time": 1787132479,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "50e37b53-2e5f-3f5a-a08b-b6efabe5d28a",
-      "title": "Superloop Ltd (ASX:SLC) (FY 2026) Earnings Call Highlights: Record Growth and Strategic Milestones",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/superloop-ltd-asx-slc-fy-090117810.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787130077,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "90bd43cf-be63-3716-808d-9597cc831063",
-      "title": "ZTO Express (Cayman) Inc (ZTO) (Q2 2026) Earnings Call Highlights: Record Profit Surge and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zto-express-cayman-inc-zto-090109707.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787130069,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "b27acffb-e75e-3cc1-9bd2-16f5f4595475",
-      "title": "Viva Leisure Ltd (ASX:VVA) (FY 2026) Earnings Call Highlights: Record Growth, Maiden Dividend, ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/viva-leisure-ltd-asx-vva-090050477.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787130050,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "86e58b96-9fba-3a2e-9cf7-c7c56084caf5",
+      "title": "Form 8.3 - Ramsdens Holdings Plc",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-ramsdens-holdings-094000365.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787132400,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
