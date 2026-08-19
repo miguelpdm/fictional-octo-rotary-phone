@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T17:48:21.515630+00:00",
+  "updatedAt": "2026-08-19T18:24:10.175175+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7715.2,
-      "change": -29.860000000000582,
-      "changePct": -0.38553607073412705,
+      "price": 7713.6,
+      "change": -31.460000000000036,
+      "changePct": -0.406194400043383,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26335.848,
-      "change": -309.0619999999981,
-      "changePct": -1.1599288569561619,
+      "price": 26321.295,
+      "change": -323.6150000000016,
+      "changePct": -1.2145471686712457,
       "currency": "USD"
     },
     {
@@ -39,33 +39,51 @@
       "price": 6444.46,
       "change": -23.710000000000036,
       "changePct": -0.36656426779135426,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.25,
-      "change": -0.5899999999999999,
-      "changePct": -3.7247474747474736,
+      "price": 15.18,
+      "change": -0.6600000000000001,
+      "changePct": -4.166666666666668,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "b3b7cf12-ec4e-3519-990e-fa99e349a6cb",
-      "title": "Amazon Stock Rises as AWS Growth Reclaims Attention",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-rises-aws-growth-174624803.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787161584,
+      "id": "1a5b9ce5-4150-349f-91de-ac51465207dd",
+      "title": "Weekly share repurchase program transaction details",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/weekly-share-repurchase-program-transaction-182000893.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787163600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ab066ef2-ed19-4edc-838c-85ea725e8795",
-      "title": "The Treasury Department just pushed down long-term US bond yields. That could make Kevin Warsh's job harder.",
-      "link": "https://finance.yahoo.com/economy/policy/article/the-treasury-department-just-pushed-down-long-term-us-bond-yields-that-could-make-kevin-warshs-job-harder-174238269.html",
-      "publisher": "Yahoo Finance",
-      "time": 1787161358,
+      "id": "38e78115-b561-366c-9658-1928144da17e",
+      "title": "Vascarta Announces NIH Phase I clinical study of VAS-101 in sickle cell disease begins",
+      "link": "https://finance.yahoo.com/healthcare/articles/vascarta-announces-nih-phase-clinical-181800174.html",
+      "publisher": "PR Newswire",
+      "time": 1787163480,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "47a10dd1-5cd2-3c41-9b88-0043de3a75d0",
+      "title": "/C O R R E C T I O N -- Hopscotch Primary Care/",
+      "link": "https://finance.yahoo.com/healthcare/articles/c-o-r-r-e-181700024.html",
+      "publisher": "PR Newswire",
+      "time": 1787163420,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a064bff2-fb5b-382b-8d0e-bbe4c881664c",
+      "title": "Dividend Aristocrat pays Warren Buffett's Berkshire $601M annually",
+      "link": "https://finance.yahoo.com/m/a064bff2-fb5b-382b-8d0e-bbe4c881664c/dividend-aristocrat-pays.html",
+      "publisher": "TheStreet",
+      "time": 1787163420,
       "impact": "high",
       "tags": [
         "geo",
@@ -73,77 +91,61 @@
       ]
     },
     {
-      "id": "e26aa9b7-a544-342d-8e0b-4738b872ca6e",
-      "title": "Q2 Earnings Highs And Lows: Nabors Industries (NYSE:NBR) Vs The Rest Of The Oilfield Services Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-highs-lows-nabors-174202134.html",
-      "publisher": "StockStory",
-      "time": 1787161322,
-      "impact": "medium",
+      "id": "d71d2128-d0fc-3b00-beae-3918e21f2179",
+      "title": "Enzymedica Launches Phytosome® Formulas for Sleep, Stress and Whole-Body Comfort*",
+      "link": "https://finance.yahoo.com/healthcare/articles/enzymedica-launches-phytosome-formulas-sleep-181700977.html",
+      "publisher": "PR Newswire",
+      "time": 1787163420,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "06a5235f-50b8-336c-bba4-cc79d9074827",
+      "title": "Libra Congratulates Athena Gold on New Discovery in Red Lake",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/libra-congratulates-athena-gold-discovery-181600495.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787163360,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "24bb39b7-31d3-3ba1-84bc-b82c4007b2c1",
+      "title": "Fed July 2026 FOMC minutes: rate hike debate details",
+      "link": "https://finance.yahoo.com/m/24bb39b7-31d3-3ba1-84bc-b82c4007b2c1/fed-july-2026-fomc-minutes%3A.html",
+      "publisher": "Quartz",
+      "time": 1787163329,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "f5172fdb-f1e3-367b-84af-daf3b4b0ca6c",
-      "title": "NASA LRO images show SpaceX Falcon 9 crater on the Moon",
-      "link": "https://finance.yahoo.com/m/f5172fdb-f1e3-367b-84af-daf3b4b0ca6c/nasa-lro-images-show-spacex.html",
-      "publisher": "Quartz",
-      "time": 1787161311,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "499cef96-292f-3672-b125-f79cfde9c1df",
-      "title": "Meta Stock Rebounds as Investors Revisit 28% Revenue Growth",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-rebounds-investors-revisit-174136583.html",
+      "id": "f6e09a3c-c61b-3696-a9c1-169ffbbe0369",
+      "title": "Nebius Stock Falls 14% on $4.5 Billion Convertible Offering",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-falls-14-4-181506505.html",
       "publisher": "GuruFocus.com",
-      "time": 1787161296,
+      "time": 1787163306,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ec83194d-d3b3-373c-a524-6c338f016213",
-      "title": "Microsoft Stock Rises as $678 Billion Backlog Supports AI Spending",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-rises-678-billion-174044835.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787161244,
+      "id": "7a7d77d9-eaa3-38d0-b56c-9da6314e024b",
+      "title": "Q2 Rundown: PROG (NYSE:PRG) Vs Other Specialty Finance Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-rundown-prog-nyse-prg-181402195.html",
+      "publisher": "StockStory",
+      "time": 1787163242,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     },
     {
-      "id": "02160c87-d498-3a8a-b339-33d35077d07a",
-      "title": "Purina Veterinarian Explains Why Senior Dog Nutrition Needs to Start Earlier Than Owners Expect",
-      "link": "https://finance.yahoo.com/healthcare/articles/purina-veterinarian-explains-why-senior-174000218.html",
-      "publisher": "PR Newswire",
-      "time": 1787161200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "75f71261-2bd6-37b5-ad70-f8c729d8ee11",
-      "title": "US CFTC seeks comment on compute derivatives as AI demand grows",
-      "link": "https://finance.yahoo.com/markets/options/articles/us-cftc-seeks-compute-derivatives-173923161.html",
-      "publisher": "Reuters",
-      "time": 1787161163,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0bf0e56c-2a70-3104-8e31-b59a22f21974",
-      "title": "New Meijer Grocery Store Opens in Livonia Today",
-      "link": "https://finance.yahoo.com/small-business/articles/meijer-grocery-store-opens-livonia-173700628.html",
-      "publisher": "PR Newswire",
-      "time": 1787161020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6ca12dc0-0ba0-3153-aa3c-52ec92aa9ab8",
-      "title": "In HelloNation, Dermatology Expert Dr. Jeannine Hoang Explains Initial Dermatology Appointment Process",
-      "link": "https://finance.yahoo.com/healthcare/articles/hellonation-dermatology-expert-dr-jeannine-173700136.html",
-      "publisher": "PR Newswire",
-      "time": 1787161020,
+      "id": "bd6742b9-5aaf-3d11-82ba-2958c0f86314",
+      "title": "Uber Launches Autonomous Rides in Europe",
+      "link": "https://finance.yahoo.com/technology/ai/articles/uber-launches-autonomous-rides-europe-181400060.html",
+      "publisher": "Business Wire",
+      "time": 1787163240,
       "impact": "low",
       "tags": []
     }
