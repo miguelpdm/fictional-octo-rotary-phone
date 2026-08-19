@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-19T08:28:54.498808+00:00",
+  "updatedAt": "2026-08-19T09:05:19.096880+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19879.5,
-      "change": -55.400000000001455,
-      "changePct": -0.27790457940597374,
+      "price": 19887.5,
+      "change": -47.400000000001455,
+      "changePct": -0.2377739542209966,
       "currency": "EUR"
     },
     {
@@ -28,80 +28,44 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26111.35,
-      "change": -227.26000000000204,
-      "changePct": -0.8628397626146636,
+      "price": 26135.53,
+      "change": -203.08000000000175,
+      "changePct": -0.771035373544776,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6473.99,
-      "change": 5.819999999999709,
-      "changePct": 0.0899790821824366,
+      "price": 6478.03,
+      "change": 9.859999999999673,
+      "changePct": 0.15243878871457728,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.82,
-      "change": -0.019999999999999574,
-      "changePct": -0.12626262626262355,
+      "price": 15.8,
+      "change": -0.03999999999999915,
+      "changePct": -0.2525252525252471,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "2f447cd3-b15e-3ee4-865a-3d009f64d7b9",
-      "title": "Equinor to acquire 17.4% interest in Namibia’s Orange Basin block",
-      "link": "https://finance.yahoo.com/m/2f447cd3-b15e-3ee4-865a-3d009f64d7b9/equinor-to-acquire-17.4%25.html",
-      "publisher": "Offshore Technology",
-      "time": 1787128107,
+      "id": "1d8d7f2f-a3de-32a5-9135-00b074daf1aa",
+      "title": "First patient treated in FDA IDE study of Aqua Medical’s PIMA device",
+      "link": "https://finance.yahoo.com/m/1d8d7f2f-a3de-32a5-9135-00b074daf1aa/first-patient-treated-in-fda.html",
+      "publisher": "Medical Device Network",
+      "time": 1787130135,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d5e2232c-09dd-3a40-b033-28595b5228fc",
-      "title": "Paul Pogba to be released by Monaco: club",
-      "link": "https://finance.yahoo.com/m/d5e2232c-09dd-3a40-b033-28595b5228fc/paul-pogba-to-be-released-by.html",
-      "publisher": "AFP",
-      "time": 1787127743,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ef9821f2-cf37-38c1-9e15-04ed07d54859",
-      "title": "Inox Clean Energy acquires Vena Energy India for $627m",
-      "link": "https://finance.yahoo.com/m/ef9821f2-cf37-38c1-9e15-04ed07d54859/inox-clean-energy-acquires.html",
-      "publisher": "Power Technology",
-      "time": 1787127699,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5e0205aa-70c9-3a4a-8456-ba97a0e9c41c",
-      "title": "Global bond rout pauses as sovereign yields back off multi-decade highs",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/global-bond-rout-pauses-sovereign-081704788.html",
-      "publisher": "Investing.com",
-      "time": 1787127424,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b30d7d46-2c6d-301d-acdd-c01fd1e17914",
-      "title": "Cerebras Systems Launches New CS-4 AI Accelerator",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-systems-launches-cs-4-081620668.html",
-      "publisher": "MT Newswires",
-      "time": 1787127380,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "72c0c8fd-6520-3db8-942b-e03b7681d2aa",
-      "title": "Oil hits three-week high on uncertainty over Hormuz",
-      "link": "https://finance.yahoo.com/news/oil-edges-uncertainty-over-exports-003901978.html",
-      "publisher": "Reuters",
-      "time": 1787127379,
+      "id": "52b9f7ca-728c-3dcc-b268-bb24597d0d32",
+      "title": "Healius Ltd (ASX:HLS) (FY 2026) Earnings Call Highlights: EBIT Surges 76% to A$30. ...",
+      "link": "https://finance.yahoo.com/healthcare/articles/healius-ltd-asx-hls-fy-090151162.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787130111,
       "impact": "medium",
       "tags": [
         "macro",
@@ -109,43 +73,99 @@
       ]
     },
     {
-      "id": "381d467c-2c7f-37b5-ad85-8c913ece10c8",
-      "title": "Tech leads losses as Asian stocks track Wall St selloff",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-leads-losses-asian-stocks-024127256.html",
-      "publisher": "AFP",
-      "time": 1787127354,
-      "impact": "low",
+      "id": "ec315eb4-072c-31c6-83b3-b753b60a042d",
+      "title": "Mirvac Group (ASX:MGR) (FY 2026) Earnings Call Highlights: Record Operating Profit and ...",
+      "link": "https://finance.yahoo.com/news/mirvac-group-asx-mgr-fy-090146189.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787130106,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "5758401c-55bd-3898-b466-d8cc8da66213",
-      "title": "How DigitalOcean’s New Managed AI Agents and Upgraded Outlook At DigitalOcean Holdings (DOCN) Has Changed Its Investment Story",
-      "link": "https://finance.yahoo.com/technology/ai/articles/digitalocean-managed-ai-agents-upgraded-081506555.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787127306,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e1a8abe0-8551-39d6-904e-1f305d87c7c0",
-      "title": "Charles Schwab (SCHW) Stock Looks Reasonable Following A 106% Three Year Run",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-schw-stock-looks-081444728.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787127284,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ffad0d84-ed62-3729-9851-57353de9b9aa",
-      "title": "Redwire (RDW) Signs Japan Space Industry Teaming Deal With Local Market Access",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/redwire-rdw-signs-japan-space-081440306.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787127280,
-      "impact": "low",
+      "id": "eae5dc67-b0a4-3611-9f83-8fb1ddbf8e9b",
+      "title": "BWP Group (ASX:BWP) (FY 2026) Earnings Call Highlights: FFO Up 4.5%, Gearing Drops to 18.5%",
+      "link": "https://finance.yahoo.com/news/bwp-group-asx-bwp-fy-090138411.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787130098,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "3574db8c-2a62-3454-823d-a5a6aa31e1c7",
+      "title": "Santos Ltd (SSLZY) (H1 2026) Earnings Call Highlights: Record Production and Strategic Progress ...",
+      "link": "https://finance.yahoo.com/energy/articles/santos-ltd-sslzy-h1-2026-090127399.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787130087,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "1e5e7598-31f7-3ca9-9d09-c5658cd37158",
+      "title": "Boom Logistics Ltd (ASX:BOL) (FY 2026) Earnings Call Highlights: NPAT Surges 37. ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/boom-logistics-ltd-asx-bol-090125304.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787130085,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "7efb2105-14c8-3ebc-9d48-677f5bdb37ef",
+      "title": "The Lottery Corp Ltd (ASX:TLC) (FY 2026) Earnings Call Highlights: Resilient Results Amid ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lottery-corp-ltd-asx-tlc-090121223.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787130081,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "50e37b53-2e5f-3f5a-a08b-b6efabe5d28a",
+      "title": "Superloop Ltd (ASX:SLC) (FY 2026) Earnings Call Highlights: Record Growth and Strategic Milestones",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/superloop-ltd-asx-slc-fy-090117810.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787130077,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "90bd43cf-be63-3716-808d-9597cc831063",
+      "title": "ZTO Express (Cayman) Inc (ZTO) (Q2 2026) Earnings Call Highlights: Record Profit Surge and ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zto-express-cayman-inc-zto-090109707.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787130069,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b27acffb-e75e-3cc1-9bd2-16f5f4595475",
+      "title": "Viva Leisure Ltd (ASX:VVA) (FY 2026) Earnings Call Highlights: Record Growth, Maiden Dividend, ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/viva-leisure-ltd-asx-vva-090050477.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787130050,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
       ]
     }
   ],
