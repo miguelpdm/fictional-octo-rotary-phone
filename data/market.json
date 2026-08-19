@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T18:24:10.175175+00:00",
+  "updatedAt": "2026-08-19T19:01:28.482145+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7713.6,
-      "change": -31.460000000000036,
-      "changePct": -0.406194400043383,
+      "price": 7717.37,
+      "change": -27.69000000000051,
+      "changePct": -0.3575182116084383,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26321.295,
-      "change": -323.6150000000016,
-      "changePct": -1.2145471686712457,
+      "price": 26347.191,
+      "change": -297.71900000000096,
+      "changePct": -1.1173578743557435,
       "currency": "USD"
     },
     {
@@ -39,113 +39,108 @@
       "price": 6444.46,
       "change": -23.710000000000036,
       "changePct": -0.36656426779135426,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.18,
-      "change": -0.6600000000000001,
-      "changePct": -4.166666666666668,
+      "price": 15.05,
+      "change": -0.7899999999999991,
+      "changePct": -4.987373737373732,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "1a5b9ce5-4150-349f-91de-ac51465207dd",
-      "title": "Weekly share repurchase program transaction details",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/weekly-share-repurchase-program-transaction-182000893.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787163600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "38e78115-b561-366c-9658-1928144da17e",
-      "title": "Vascarta Announces NIH Phase I clinical study of VAS-101 in sickle cell disease begins",
-      "link": "https://finance.yahoo.com/healthcare/articles/vascarta-announces-nih-phase-clinical-181800174.html",
-      "publisher": "PR Newswire",
-      "time": 1787163480,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "47a10dd1-5cd2-3c41-9b88-0043de3a75d0",
-      "title": "/C O R R E C T I O N -- Hopscotch Primary Care/",
-      "link": "https://finance.yahoo.com/healthcare/articles/c-o-r-r-e-181700024.html",
-      "publisher": "PR Newswire",
-      "time": 1787163420,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a064bff2-fb5b-382b-8d0e-bbe4c881664c",
-      "title": "Dividend Aristocrat pays Warren Buffett's Berkshire $601M annually",
-      "link": "https://finance.yahoo.com/m/a064bff2-fb5b-382b-8d0e-bbe4c881664c/dividend-aristocrat-pays.html",
-      "publisher": "TheStreet",
-      "time": 1787163420,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "d71d2128-d0fc-3b00-beae-3918e21f2179",
-      "title": "Enzymedica Launches Phytosome® Formulas for Sleep, Stress and Whole-Body Comfort*",
-      "link": "https://finance.yahoo.com/healthcare/articles/enzymedica-launches-phytosome-formulas-sleep-181700977.html",
-      "publisher": "PR Newswire",
-      "time": 1787163420,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "06a5235f-50b8-336c-bba4-cc79d9074827",
-      "title": "Libra Congratulates Athena Gold on New Discovery in Red Lake",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/libra-congratulates-athena-gold-discovery-181600495.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787163360,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "24bb39b7-31d3-3ba1-84bc-b82c4007b2c1",
-      "title": "Fed July 2026 FOMC minutes: rate hike debate details",
-      "link": "https://finance.yahoo.com/m/24bb39b7-31d3-3ba1-84bc-b82c4007b2c1/fed-july-2026-fomc-minutes%3A.html",
-      "publisher": "Quartz",
-      "time": 1787163329,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "f6e09a3c-c61b-3696-a9c1-169ffbbe0369",
-      "title": "Nebius Stock Falls 14% on $4.5 Billion Convertible Offering",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-falls-14-4-181506505.html",
+      "id": "5e7e1a78-3acc-35a2-bbc7-ffef4782d2be",
+      "title": "Basilic Fly Studio Ltd (NSE:BASILIC) (Q1 2027) Earnings Call Highlights: Record Order Book and ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/basilic-fly-studio-ltd-nse-190052974.html",
       "publisher": "GuruFocus.com",
-      "time": 1787163306,
+      "time": 1787166052,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9d66bcce-d1bb-3700-b57d-9be1dbd73c65",
+      "title": "Kerry Vitolano joins AXA XL as Head of East USRM and Head of USRM",
+      "link": "https://finance.yahoo.com/healthcare/articles/kerry-vitolano-joins-axa-xl-190000645.html",
+      "publisher": "PR Newswire",
+      "time": 1787166000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7a7d77d9-eaa3-38d0-b56c-9da6314e024b",
-      "title": "Q2 Rundown: PROG (NYSE:PRG) Vs Other Specialty Finance Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-rundown-prog-nyse-prg-181402195.html",
-      "publisher": "StockStory",
-      "time": 1787163242,
+      "id": "c8137334-3b2f-4504-a28e-f86156737e40",
+      "title": "Citi enters the crypto arena: What to expect from its bitcoin custody launch",
+      "link": "https://finance.yahoo.com/video/citi-enters-crypto-arena-expect-190000880.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1787166000,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "bd6742b9-5aaf-3d11-82ba-2958c0f86314",
-      "title": "Uber Launches Autonomous Rides in Europe",
-      "link": "https://finance.yahoo.com/technology/ai/articles/uber-launches-autonomous-rides-europe-181400060.html",
-      "publisher": "Business Wire",
-      "time": 1787163240,
+      "id": "8f641ff0-ac29-390f-9fbd-d1191f68f86f",
+      "title": "Cathie Wood Cuts AMD Again, Adds Rocket Lab",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-cuts-amd-again-185919295.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787165959,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3876d41c-734f-32e5-b7f0-bfc00f325f88",
+      "title": "National Aviation Day: The Sky Has No Age Limit",
+      "link": "https://finance.yahoo.com/small-business/articles/national-aviation-day-sky-no-185900864.html",
+      "publisher": "PR Newswire",
+      "time": 1787165940,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bb573761-20e9-35e8-ae71-c1581fe16b13",
+      "title": "Salad, lettuce-linked outbreak is making greens shoppers see red",
+      "link": "https://finance.yahoo.com/m/bb573761-20e9-35e8-ae71-c1581fe16b13/salad%2C-lettuce-linked.html",
+      "publisher": "USA TODAY",
+      "time": 1787165939,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4e1e58da-1795-39e2-a586-9c1c127d0d12",
+      "title": "Evercore Revamps S&P 500 Price Target for 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-revamps-p-500-price-185649786.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787165809,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b5205bd5-dacf-398a-ba61-b39702b5dbed",
+      "title": "Barclays Cuts Price Target on Lowe's to $260 From $285",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-cuts-price-target-lowe-185408749.html",
+      "publisher": "MT Newswires",
+      "time": 1787165648,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cdfade70-7322-3946-b064-82f7612f4832",
+      "title": "Wells Fargo Lowers Price Target on Analog Devices to $500 From $515",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-lowers-price-target-185323434.html",
+      "publisher": "MT Newswires",
+      "time": 1787165603,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "18d735af-51c0-3316-8906-4a655394a504",
+      "title": "Prediction: This Will Be Amazon's Stock Price by the End of 2026",
+      "link": "https://finance.yahoo.com/m/18d735af-51c0-3316-8906-4a655394a504/prediction%3A-this-will-be.html",
+      "publisher": "Motley Fool",
+      "time": 1787165580,
       "impact": "low",
       "tags": []
     }
