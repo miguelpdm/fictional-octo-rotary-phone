@@ -1,145 +1,146 @@
 {
-  "updatedAt": "2026-08-19T14:26:10.907440+00:00",
+  "updatedAt": "2026-08-19T15:00:53.593902+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19877.0,
-      "change": -57.900000000001455,
-      "changePct": -0.29044539977627903,
+      "price": 19846.4,
+      "change": -88.5,
+      "changePct": -0.44394504110880917,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7713.34,
-      "change": -31.720000000000255,
-      "changePct": -0.409551378556141,
+      "price": 7740.54,
+      "change": -4.520000000000437,
+      "changePct": -0.05835978029867343,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26223.838,
-      "change": -421.0720000000001,
-      "changePct": -1.5803093348785946,
+      "price": 26408.627,
+      "change": -236.28299999999945,
+      "changePct": -0.8867847555124017,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26090.43,
-      "change": -248.1800000000003,
-      "changePct": -0.9422668850026645,
+      "price": 26119.52,
+      "change": -219.09000000000015,
+      "changePct": -0.8318206617585369,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6453.84,
-      "change": -14.329999999999927,
-      "changePct": -0.22154643430831172,
+      "price": 6454.21,
+      "change": -13.960000000000036,
+      "changePct": -0.2158261146506668,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.31,
-      "change": -0.5299999999999994,
-      "changePct": -3.345959595959592,
+      "price": 15.2,
+      "change": -0.6400000000000006,
+      "changePct": -4.040404040404044,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "6ee5601e-6133-3502-b3cf-55da79d0e3b6",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-142200230.html",
-      "publisher": "Business Wire",
-      "time": 1787149320,
+      "id": "20b6243b-0047-399f-94b2-816efaebaf9a",
+      "title": "Rox formalises Badimia Barna agreement for Youanmi operations",
+      "link": "https://finance.yahoo.com/m/20b6243b-0047-399f-94b2-816efaebaf9a/rox-formalises-badimia-barna.html",
+      "publisher": "Mining Technology",
+      "time": 1787151422,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b8f32938-f18d-305a-9ec8-b763a0b4313e",
-      "title": "Introducing the MS NOW Membership – a New Way to Watch, Connect and Engage – Launching Wednesday, Sept. 9",
-      "link": "https://finance.yahoo.com/media-advertising/articles/introducing-ms-now-membership-way-142200990.html",
-      "publisher": "Business Wire",
-      "time": 1787149320,
+      "id": "9a76a29a-8916-3cc1-bcd5-afa72cbb15ef",
+      "title": "SK Hynix Makes a $28.6 Billion Move After AI Boom",
+      "link": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-makes-28-6-145612839.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787151372,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5904e44c-03a0-3e95-be1a-ca2ce46d9b9d",
-      "title": "Two Yields, One SPYI ETF: 12% for the Marketing, 0.47% for the SEC",
-      "link": "https://finance.yahoo.com/m/5904e44c-03a0-3e95-be1a-ca2ce46d9b9d/two-yields%2C-one-spyi-etf%3A-12%25.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787149233,
+      "id": "14b307f3-a467-356e-a622-978e656b750e",
+      "title": "BioMarin spends up to $490m for Alesta’s bone disease candidate",
+      "link": "https://finance.yahoo.com/m/14b307f3-a467-356e-a622-978e656b750e/biomarin-spends-up-to-%24490m.html",
+      "publisher": "Pharmaceutical Technology",
+      "time": 1787151355,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0448020b-cb81-3103-b394-54743e832a5f",
+      "title": "Zoom's Growth Reacceleration Is Durable as It Moves Beyond Meetings, BofA Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zoom-apos-growth-reacceleration-durable-145508575.html",
+      "publisher": "MT Newswires",
+      "time": 1787151308,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "69f84deb-7b7b-3267-a44f-6232b3d97737",
+      "title": "Amazon's Drone Delivery Ambitions Are Getting Much Bigger",
+      "link": "https://finance.yahoo.com/technology/articles/amazons-drone-delivery-ambitions-getting-145452935.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787151292,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d20d05bf-1073-30e9-a499-32d57497ef49",
+      "title": "Canadian Dollar Is Undervalued, but A $ 0.60 Loonie Would Require Severe Shocks, TD Says",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/canadian-dollar-undervalued-0-60-145341505.html",
+      "publisher": "MT Newswires",
+      "time": 1787151221,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "909d71e8-b5d1-3f5e-a207-ebafa507c091",
+      "title": "Home Depot's Q2 Results Show Solid Execution Amid Tough Housing Backdrop, BofA Says",
+      "link": "https://finance.yahoo.com/real-estate/articles/home-depot-apos-q2-results-145340521.html",
+      "publisher": "MT Newswires",
+      "time": 1787151220,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "488a2713-f301-3a51-87d3-b787bfca2c1c",
+      "title": "Perimeter and Culturewell launch hospital infection surveillance programme",
+      "link": "https://finance.yahoo.com/m/488a2713-f301-3a51-87d3-b787bfca2c1c/perimeter-and-culturewell.html",
+      "publisher": "Medical Device Network",
+      "time": 1787151050,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "24f994f9-7eea-3c5c-9936-794f0ccec7d8",
+      "title": "Warren Buffett Thinks Investors Are \"Gambling\" and \"Playing With Fire\" Right Now. But Here Are 3 Safe Stocks Even the Oracle of Omaha Would Like.",
+      "link": "https://finance.yahoo.com/m/24f994f9-7eea-3c5c-9936-794f0ccec7d8/warren-buffett-thinks.html",
+      "publisher": "Motley Fool",
+      "time": 1787151000,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "a52e9c8d-e1a3-35e4-bc9e-2735d3482db2",
-      "title": "aPriori Technologies Launches aiSource, Giving Procurement Teams the Manufacturing Product Intelligence to Negotiate on Equal Terms with Suppliers",
-      "link": "https://finance.yahoo.com/technology/ai/articles/apriori-technologies-launches-aisource-giving-142000386.html",
-      "publisher": "Business Wire",
-      "time": 1787149200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "67327d44-6409-3943-8f23-ec4582999b37",
-      "title": "Garafolo breaks down Giants signing RB Najee Harris 'GMFB'",
-      "link": "https://finance.yahoo.com/m/67327d44-6409-3943-8f23-ec4582999b37/garafolo-breaks-down-giants.html",
-      "publisher": "NFL Highlights",
-      "time": 1787149138,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "418e2237-5df4-3b32-bcde-839df7f02423",
-      "title": "Nearly 40,000 bottles of eye drops recalled. See the affected product",
-      "link": "https://finance.yahoo.com/m/418e2237-5df4-3b32-bcde-839df7f02423/nearly-40%2C000-bottles-of-eye.html",
-      "publisher": "USA TODAY",
-      "time": 1787149107,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "251a9b63-2f99-3189-83e0-781e6da2cc53",
-      "title": "‘AI Plays in Disguise’ – Analyst Highlights Quanta Services (PWR) as a Promising AI Power Stock",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-plays-disguise-analyst-highlights-141818851.html",
-      "publisher": "Insider Monkey",
-      "time": 1787149098,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5c695d57-04d5-34b5-82ca-391f9f9dafa4",
-      "title": "Gemma di Luna Prosecco Brings the Spirit of Italy's Ferragosto into Fall",
-      "link": "https://finance.yahoo.com/media-advertising/articles/gemma-di-luna-prosecco-brings-141800252.html",
-      "publisher": "PR Newswire",
-      "time": 1787149080,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c0157aa9-61b0-3f99-9125-3aeb46192f31",
-      "title": "Water Wings Swim School Opens in Cypress September 5, Helping Kids Build Confidence One Splash at a Time",
-      "link": "https://finance.yahoo.com/small-business/articles/water-wings-swim-school-opens-141700009.html",
-      "publisher": "PR Newswire",
-      "time": 1787149020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8bab59e6-462f-39f4-b566-f9c98c9622f9",
-      "title": "In HelloNation, Physical Therapy Expert Dr. Kali Spoto LaRue Explains How Physical Therapy Supports Back and Neck Pain Relief",
-      "link": "https://finance.yahoo.com/healthcare/articles/hellonation-physical-therapy-expert-dr-141600993.html",
-      "publisher": "PR Newswire",
-      "time": 1787148960,
+      "id": "5dacedd6-a313-3f46-917e-f601bb9757d8",
+      "title": "As Employers Cut Jobs, IW Technologies Marks 50 Years by Investing More in Its People",
+      "link": "https://finance.yahoo.com/technology/articles/employers-cut-jobs-iw-technologies-145000600.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787151000,
       "impact": "low",
       "tags": []
     }
