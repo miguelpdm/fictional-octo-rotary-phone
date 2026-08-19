@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-19T09:56:56.087292+00:00",
+  "updatedAt": "2026-08-19T10:26:37.607563+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19886.4,
-      "change": -48.5,
-      "changePct": -0.24329191518392365,
+      "price": 19907.5,
+      "change": -27.400000000001455,
+      "changePct": -0.13744739125855385,
       "currency": "EUR"
     },
     {
@@ -28,35 +28,98 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26087.78,
-      "change": -250.83000000000175,
-      "changePct": -0.9523281600661604,
+      "price": 26120.44,
+      "change": -218.1700000000019,
+      "changePct": -0.8283276907931052,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6470.15,
-      "change": 1.9799999999995634,
-      "changePct": 0.030611440330102074,
+      "price": 6473.6,
+      "change": 5.430000000000291,
+      "changePct": 0.0839495560568181,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.85,
-      "change": 0.009999999999999787,
-      "changePct": 0.06313131313131178,
+      "price": 15.88,
+      "change": 0.040000000000000924,
+      "changePct": 0.25252525252525837,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "bedc5efe-c94a-32aa-baad-c4a4a1b4539d",
-      "title": "5 Revealing Analyst Questions From Coherent’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-coherent-095002093.html",
-      "publisher": "StockStory",
-      "time": 1787133002,
+      "id": "b119ae8e-5ed1-3e4d-a6e9-a454720fd837",
+      "title": "LivAway Suites breaks ground for new property in Alabama",
+      "link": "https://finance.yahoo.com/m/b119ae8e-5ed1-3e4d-a6e9-a454720fd837/livaway-suites-breaks-ground.html",
+      "publisher": "Hotel Management Network",
+      "time": 1787135130,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "dc629611-b790-3e77-8418-92db6e0d0f8b",
+      "title": "Susquehanna Adjusts PT on Keysight Technologies to $440 From $425, Keeps Positive Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/susquehanna-adjusts-pt-keysight-technologies-102526411.html",
+      "publisher": "MT Newswires",
+      "time": 1787135126,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e503d4bd-fa88-36f5-94a8-470e5c9eca63",
+      "title": "Andersen adds MD to state and local tax practice in San Francisco",
+      "link": "https://finance.yahoo.com/m/e503d4bd-fa88-36f5-94a8-470e5c9eca63/andersen-adds-md-to-state-and.html",
+      "publisher": "International Accounting Bulletin",
+      "time": 1787135049,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "82b5e7f3-dbed-3ea1-8a87-e22b954d052d",
+      "title": "Is This a Buy-the-Dip Opportunity for XRP Right Now?",
+      "link": "https://finance.yahoo.com/m/82b5e7f3-dbed-3ea1-8a87-e22b954d052d/is-this-a-buy-the-dip.html",
+      "publisher": "Motley Fool",
+      "time": 1787135040,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f126fd34-63c8-35af-a866-576653e61732",
+      "title": "Volkswagen open to ceding majority control of India unit – report",
+      "link": "https://finance.yahoo.com/m/f126fd34-63c8-35af-a866-576653e61732/volkswagen-open-to-ceding.html",
+      "publisher": "Just Auto",
+      "time": 1787134985,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "dd7f90f1-3067-3101-b586-9726206b78c0",
+      "title": "UK officials declare fatal salmonella outbreak",
+      "link": "https://finance.yahoo.com/m/dd7f90f1-3067-3101-b586-9726206b78c0/uk-officials-declare-fatal.html",
+      "publisher": "Just Food",
+      "time": 1787134975,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5fc9e1b8-5346-3530-b3cb-629d005bf5c1",
+      "title": "RBC Initiates McKesson at Sector Perform With $845 Price Target",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-initiates-mckesson-sector-perform-102204785.html",
+      "publisher": "MT Newswires",
+      "time": 1787134924,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7a37210e-1566-36ac-9e73-826f40315bed",
+      "title": "Commerzbank Says Oil Prices Remain Elevated as Hormuz Accord Stalls, Asian Stocks Lower",
+      "link": "https://finance.yahoo.com/energy/articles/commerzbank-says-oil-prices-remain-102113133.html",
+      "publisher": "MT Newswires",
+      "time": 1787134873,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,92 +127,27 @@
       ]
     },
     {
-      "id": "dcf24210-ea09-3031-8aa6-6654cd7d1f14",
-      "title": "Diamond Consulate to Open Private Fine Jewelry and Custom Engagement Ring Showroom in Oklahoma City",
-      "link": "https://finance.yahoo.com/small-business/articles/diamond-consulate-open-private-fine-095000980.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787133000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef",
-      "title": "Dow Jones Futures Fall; After Sandisk, Micron, Credo Lead AI Losses, Market Rally Nears Key Test",
-      "link": "https://finance.yahoo.com/m/ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef/dow-jones-futures-fall%3B-after.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787132878,
-      "impact": "low",
+      "id": "866254bd-864d-3cdc-9571-609a28b38580",
+      "title": "Lowe's Fiscal Q2 Adjusted Earnings, Sales Rise; Shares Down Pre-Bell",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lowe-apos-fiscal-q2-adjusted-102058208.html",
+      "publisher": "MT Newswires",
+      "time": 1787134858,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "732ca9f1-6e80-3b07-adf2-f858244f23e2",
-      "title": "Form 8.3 - Brave Bison Group Plc",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-brave-bison-094600690.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787132760,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e6e9d080-1cf8-370a-a080-629d919ceb84",
-      "title": "/R E P E A T -- MEDIA ADVISORY - FEDERAL GOVERNMENT TO MAKE HOUSING ANNOUNCEMENT IN SAINT JOHN/",
-      "link": "https://finance.yahoo.com/real-estate/articles/r-e-p-e-t-094500316.html",
-      "publisher": "CNW Group",
-      "time": 1787132700,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "502dbba1-e557-3520-9c5e-5af54252d0d3",
-      "title": "MRCY Q2 Deep Dive: Strong Backlog and Revenue Growth Offset by Margin Pressures",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mrcy-q2-deep-dive-strong-094202931.html",
-      "publisher": "StockStory",
-      "time": 1787132522,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "dc99b324-5946-33db-9e7d-944e4e1933e4",
-      "title": "Kyrgios admits 'huge mistake' after failing test for cocaine",
-      "link": "https://finance.yahoo.com/m/dc99b324-5946-33db-9e7d-944e4e1933e4/kyrgios-admits-%27huge-mistake%27.html",
-      "publisher": "AFP",
-      "time": 1787132517,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d62a1376-4112-3f7e-8e3d-0d40a9906708",
-      "title": "What Long-Term Investors Should Know About This Hims Insider Filing",
-      "link": "https://finance.yahoo.com/m/d62a1376-4112-3f7e-8e3d-0d40a9906708/what-long-term-investors.html",
+      "id": "c4669241-4c65-3d0b-8ed9-7764dbd3ae7d",
+      "title": "3 High-Yield Dividend Stocks I'd Buy With $5,000 Right Now",
+      "link": "https://finance.yahoo.com/m/c4669241-4c65-3d0b-8ed9-7764dbd3ae7d/3-high-yield-dividend-stocks.html",
       "publisher": "Motley Fool",
-      "time": 1787132480,
+      "time": 1787134803,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "06b72037-ef0f-3d9a-91f5-2477a5b6d491",
-      "title": "Etched raises $700m at $21bn valuation, ships first rack to Jane Street",
-      "link": "https://finance.yahoo.com/m/06b72037-ef0f-3d9a-91f5-2477a5b6d491/etched-raises-%24700m-at-%2421bn.html",
-      "publisher": "Verdict",
-      "time": 1787132479,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "86e58b96-9fba-3a2e-9cf7-c7c56084caf5",
-      "title": "Form 8.3 - Ramsdens Holdings Plc",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-ramsdens-holdings-094000365.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787132400,
-      "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
