@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-19T07:32:26.511111+00:00",
+  "updatedAt": "2026-08-19T08:28:54.498808+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19873.1,
-      "change": -61.80000000000291,
-      "changePct": -0.3100090795539627,
+      "price": 19879.5,
+      "change": -55.400000000001455,
+      "changePct": -0.27790457940597374,
       "currency": "EUR"
     },
     {
@@ -28,124 +28,125 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26120.69,
-      "change": -217.9200000000019,
-      "changePct": -0.8273785139003231,
+      "price": 26111.35,
+      "change": -227.26000000000204,
+      "changePct": -0.8628397626146636,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6471.49,
-      "change": 3.319999999999709,
-      "changePct": 0.05132827368482444,
+      "price": 6473.99,
+      "change": 5.819999999999709,
+      "changePct": 0.0899790821824366,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.95,
-      "change": 0.10999999999999943,
-      "changePct": 0.6944444444444409,
+      "price": 15.82,
+      "change": -0.019999999999999574,
+      "changePct": -0.12626262626262355,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "de70e1de-f73f-344a-b701-94c7cbfb2238",
-      "title": "ZTO Express Q2 Adjusted Net Earnings, Revenue Increase",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zto-express-q2-adjusted-net-072950352.html",
-      "publisher": "MT Newswires",
-      "time": 1787124590,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "d2ecb009-7e0f-3b50-97be-826d90b0b60e",
-      "title": "European shares muted as mining gains offset Middle East jitters ",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-muted-mining-gains-072828662.html",
-      "publisher": "Reuters",
-      "time": 1787124508,
+      "id": "2f447cd3-b15e-3ee4-865a-3d009f64d7b9",
+      "title": "Equinor to acquire 17.4% interest in Namibia’s Orange Basin block",
+      "link": "https://finance.yahoo.com/m/2f447cd3-b15e-3ee4-865a-3d009f64d7b9/equinor-to-acquire-17.4%25.html",
+      "publisher": "Offshore Technology",
+      "time": 1787128107,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5951f601-ee57-3085-ae46-0042869212eb",
-      "title": "Lufax Q2 Loss Narrows, Total Income Declines",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lufax-q2-loss-narrows-total-072243651.html",
-      "publisher": "MT Newswires",
-      "time": 1787124163,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b11800f3-37e5-3fe9-b074-4caaac38b39b",
-      "title": "Where are Portugal's priciest homes? Cascais leads with prices of €4.35mn",
-      "link": "https://finance.yahoo.com/m/b11800f3-37e5-3fe9-b074-4caaac38b39b/where-are-portugal%27s-priciest.html",
-      "publisher": "Euronews",
-      "time": 1787124139,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7de7f269-44cf-3f9b-bdb1-e57943baaac5",
-      "title": "Biovica Receives New Extensive Pharma Services Work Order from Existing Customer",
-      "link": "https://finance.yahoo.com/healthcare/articles/biovica-receives-extensive-pharma-services-072000317.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787124000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ee4ddf25-6e41-3a36-963a-0d2c450de67a",
-      "title": "SQM Reports Earnings for the Six Months Ended June 30, 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sqm-reports-earnings-six-months-071900146.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787123940,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "bbdec195-8f76-3582-b7a6-7c41d7bfcb4e",
-      "title": "SK hynix Accelerates 40 Trillion won Share Repurchase and Cancellation Program, Pursues Shareholder Return Expansion to 'Over 50% of FCF'",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-accelerates-40-trillion-071600430.html",
-      "publisher": "PR Newswire",
-      "time": 1787123760,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "eb71245a-c2e8-3d3f-accc-ad244f78e9ea",
-      "title": "Humanoid-maker Unitree surges more than 600% on Shanghai debut",
-      "link": "https://finance.yahoo.com/technology/ai/articles/humanoid-maker-unitree-surges-more-071525970.html",
+      "id": "d5e2232c-09dd-3a40-b033-28595b5228fc",
+      "title": "Paul Pogba to be released by Monaco: club",
+      "link": "https://finance.yahoo.com/m/d5e2232c-09dd-3a40-b033-28595b5228fc/paul-pogba-to-be-released-by.html",
       "publisher": "AFP",
-      "time": 1787123725,
+      "time": 1787127743,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f91bd2b7-f685-36ba-8c2c-672777b06035",
-      "title": "Citizen's luxury $350 Eco-Drive watch is on sale for 50% off at Amazon",
-      "link": "https://finance.yahoo.com/m/f91bd2b7-f685-36ba-8c2c-672777b06035/citizen%27s-luxury-%24350.html",
-      "publisher": "TheStreet",
-      "time": 1787123700,
+      "id": "ef9821f2-cf37-38c1-9e15-04ed07d54859",
+      "title": "Inox Clean Energy acquires Vena Energy India for $627m",
+      "link": "https://finance.yahoo.com/m/ef9821f2-cf37-38c1-9e15-04ed07d54859/inox-clean-energy-acquires.html",
+      "publisher": "Power Technology",
+      "time": 1787127699,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5a369a53-ded9-3173-8f65-b2eceb7e99ea",
-      "title": "Space-Station Chicken-Wing Roast: Simple Steps Behind Decades of Engineering Efforts",
-      "link": "https://finance.yahoo.com/technology/articles/space-station-chicken-wing-roast-071400730.html",
-      "publisher": "PR Newswire",
-      "time": 1787123640,
+      "id": "5e0205aa-70c9-3a4a-8456-ba97a0e9c41c",
+      "title": "Global bond rout pauses as sovereign yields back off multi-decade highs",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/global-bond-rout-pauses-sovereign-081704788.html",
+      "publisher": "Investing.com",
+      "time": 1787127424,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "b30d7d46-2c6d-301d-acdd-c01fd1e17914",
+      "title": "Cerebras Systems Launches New CS-4 AI Accelerator",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-systems-launches-cs-4-081620668.html",
+      "publisher": "MT Newswires",
+      "time": 1787127380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "72c0c8fd-6520-3db8-942b-e03b7681d2aa",
+      "title": "Oil hits three-week high on uncertainty over Hormuz",
+      "link": "https://finance.yahoo.com/news/oil-edges-uncertainty-over-exports-003901978.html",
+      "publisher": "Reuters",
+      "time": 1787127379,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "381d467c-2c7f-37b5-ad85-8c913ece10c8",
+      "title": "Tech leads losses as Asian stocks track Wall St selloff",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-leads-losses-asian-stocks-024127256.html",
+      "publisher": "AFP",
+      "time": 1787127354,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "5758401c-55bd-3898-b466-d8cc8da66213",
+      "title": "How DigitalOcean’s New Managed AI Agents and Upgraded Outlook At DigitalOcean Holdings (DOCN) Has Changed Its Investment Story",
+      "link": "https://finance.yahoo.com/technology/ai/articles/digitalocean-managed-ai-agents-upgraded-081506555.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787127306,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e1a8abe0-8551-39d6-904e-1f305d87c7c0",
+      "title": "Charles Schwab (SCHW) Stock Looks Reasonable Following A 106% Three Year Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-schw-stock-looks-081444728.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787127284,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ffad0d84-ed62-3729-9851-57353de9b9aa",
+      "title": "Redwire (RDW) Signs Japan Space Industry Teaming Deal With Local Market Access",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/redwire-rdw-signs-japan-space-081440306.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787127280,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
