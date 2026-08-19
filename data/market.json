@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T23:16:58.073626+00:00",
+  "updatedAt": "2026-08-19T23:44:51.403348+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6444.46,
       "change": -23.710000000000036,
       "changePct": -0.36656426779135426,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,106 +52,98 @@
   ],
   "news": [
     {
-      "id": "295334c3-583e-37b2-a61f-46e8b2672984",
-      "title": "Whistleblower Says Meta Ignored Warnings on Child Harm",
-      "link": "https://finance.yahoo.com/media-advertising/articles/whistleblower-says-meta-ignored-warnings-231442692.html",
-      "publisher": "MT Newswires",
-      "time": 1787181282,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "6a36bab8-ddb7-33cd-954a-d0f3176a660c",
-      "title": "Trump hosts crypto executives at the White House — and one token surges 19% on his remarks",
-      "link": "https://finance.yahoo.com/m/6a36bab8-ddb7-33cd-954a-d0f3176a660c/trump-hosts-crypto-executives.html",
-      "publisher": "TheStreet",
-      "time": 1787181056,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "711b33b2-f8b1-33bd-bd8c-aa2a503baa4e",
-      "title": "Tesla (TSLA) Stock Is Up, What You Need To Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-know-231002862.html",
-      "publisher": "StockStory",
-      "time": 1787181002,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
       "id": "68a3e9b8-8858-3a96-8c98-dd4126c44fbe",
       "title": "Dow Jones Futures: S&P 500, Nasdaq Rise On Treasury Move; Moderna, Merck Spur Big Biopharma Gains",
       "link": "https://finance.yahoo.com/m/68a3e9b8-8858-3a96-8c98-dd4126c44fbe/dow-jones-futures%3A-s%26p-500%2C.html",
       "publisher": "Investor's Business Daily",
-      "time": 1787180884,
+      "time": 1787182665,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9559c993-524a-3a0e-9177-be3202f144b2",
-      "title": "Vanguard Announces Termination of Vanguard Global Minimum Volatility ETF",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vanguard-announces-termination-vanguard-global-230800802.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787180880,
+      "id": "5c941f21-ab4c-3103-bcb2-5ccc8ea7850b",
+      "title": "SOXL Turns Every 1% Nvidia Move Into 3%. Here’s What $10,000 Did in the Last 12 Months",
+      "link": "https://finance.yahoo.com/m/5c941f21-ab4c-3103-bcb2-5ccc8ea7850b/soxl-turns-every-1%25-nvidia.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787182542,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5edac899-8e84-3d42-9bb8-cc3bbb6d1bc5",
-      "title": "Trump Warns Iran Of 'Draconian Sanctions' After Deal Fails",
-      "link": "https://finance.yahoo.com/energy/articles/trump-warns-iran-apos-draconian-230539453.html",
-      "publisher": "MT Newswires",
-      "time": 1787180739,
-      "impact": "high",
+      "id": "7911491c-3ab3-3653-9719-ea37b4db911e",
+      "title": "AMD and Intel Shares Plummet, What You Need To Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-shares-plummet-know-233402382.html",
+      "publisher": "StockStory",
+      "time": 1787182442,
+      "impact": "low",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "5580d77f-816b-383a-94df-e9e619f8a8fd",
-      "title": "Nortech Systems (NSYS) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/5580d77f-816b-383a-94df-e9e619f8a8fd/nortech-systems-%28nsys%29-q2.html",
+      "id": "1719d59d-50a4-365d-988a-c29a6d00c8ca",
+      "title": "Moderna stock surges as melanoma vaccine trial shows \"landmark moment\"",
+      "link": "https://finance.yahoo.com/m/1719d59d-50a4-365d-988a-c29a6d00c8ca/moderna-stock-surges-as.html",
+      "publisher": "CBS News",
+      "time": 1787182430,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "694c5090-eeaa-36e9-99ec-59b69fa3a027",
+      "title": "Readout - Prime Minister Carney chairs First Ministers' Meeting",
+      "link": "https://finance.yahoo.com/economy/policy/articles/readout-prime-minister-carney-chairs-233300471.html",
+      "publisher": "CNW Group",
+      "time": 1787182380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1d2c028b-3e5f-3e02-9372-1a8e8cbe82ed",
+      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "link": "https://finance.yahoo.com/technology/ai/articles/stripe-didn-t-really-buy-233200421.html",
+      "publisher": "TechCrunch",
+      "time": 1787182320,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2d75e5d3-4a6d-33fd-a54c-eda5049c70af",
+      "title": "QNB Corp. Announces Pricing of Common Stock Offering",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/qnb-corp-announces-pricing-common-233200759.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787182320,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8a5ab6be-0ff1-3fdc-82aa-371b2652b85a",
+      "title": "HD Media acquires The Lima News",
+      "link": "https://finance.yahoo.com/m/8a5ab6be-0ff1-3fdc-82aa-371b2652b85a/hd-media-acquires-the-lima.html",
+      "publisher": "The Lima News, Ohio",
+      "time": 1787182320,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bf766c8d-600c-32df-b37c-915defe55d8e",
+      "title": "Experimental melanoma vaccine shows promising results",
+      "link": "https://finance.yahoo.com/m/bf766c8d-600c-32df-b37c-915defe55d8e/experimental-melanoma-vaccine.html",
+      "publisher": "CBS News Videos",
+      "time": 1787182283,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "14bfce01-d71c-34d2-8131-c4299baa3ec9",
+      "title": "Alpha Omega (AOSL) Q4 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/14bfce01-d71c-34d2-8131-c4299baa3ec9/alpha-omega-%28aosl%29-q4-2026.html",
       "publisher": "Motley Fool",
-      "time": 1787180671,
+      "time": 1787182279,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
-      ]
-    },
-    {
-      "id": "6bc6f937-caf2-3d71-a349-0552cc71827c",
-      "title": "Your 2028 Medicare Premium Is Being Written Now by the Income You Create Before December 31.",
-      "link": "https://finance.yahoo.com/m/6bc6f937-caf2-3d71-a349-0552cc71827c/your-2028-medicare-premium-is.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787180619,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e4978c57-14fb-30c5-a617-3226c2096dd5",
-      "title": "Top seed Zverev bundled out by Paul in rain-hit Cincinnati upset",
-      "link": "https://finance.yahoo.com/m/e4978c57-14fb-30c5-a617-3226c2096dd5/top-seed-zverev-bundled-out.html",
-      "publisher": "AFP",
-      "time": 1787180618,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5ffbe77e-8862-3062-a57b-8ee97b640fe2",
-      "title": "Analysis-China tax crackdown forces wealthy investors to assess their offshore trusts",
-      "link": "https://finance.yahoo.com/economy/policy/articles/analysis-china-tax-crackdown-forces-230316010.html",
-      "publisher": "Reuters",
-      "time": 1787180596,
-      "impact": "medium",
-      "tags": [
-        "geo"
       ]
     }
   ],
