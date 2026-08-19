@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-19T10:26:37.607563+00:00",
+  "updatedAt": "2026-08-19T10:54:30.504501+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19907.5,
-      "change": -27.400000000001455,
-      "changePct": -0.13744739125855385,
+      "price": 19905.8,
+      "change": -29.100000000002183,
+      "changePct": -0.14597514911036516,
       "currency": "EUR"
     },
     {
@@ -28,98 +28,47 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26120.44,
-      "change": -218.1700000000019,
-      "changePct": -0.8283276907931052,
+      "price": 26098.59,
+      "change": -240.02000000000044,
+      "changePct": -0.9112857512222566,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6473.6,
-      "change": 5.430000000000291,
-      "changePct": 0.0839495560568181,
-      "currency": null
+      "price": 6471.86,
+      "change": 3.6899999999996,
+      "changePct": 0.057048593342469346,
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.88,
-      "change": 0.040000000000000924,
-      "changePct": 0.25252525252525837,
+      "price": 15.82,
+      "change": -0.019999999999999574,
+      "changePct": -0.12626262626262355,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "b119ae8e-5ed1-3e4d-a6e9-a454720fd837",
-      "title": "LivAway Suites breaks ground for new property in Alabama",
-      "link": "https://finance.yahoo.com/m/b119ae8e-5ed1-3e4d-a6e9-a454720fd837/livaway-suites-breaks-ground.html",
-      "publisher": "Hotel Management Network",
-      "time": 1787135130,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "dc629611-b790-3e77-8418-92db6e0d0f8b",
-      "title": "Susquehanna Adjusts PT on Keysight Technologies to $440 From $425, Keeps Positive Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/susquehanna-adjusts-pt-keysight-technologies-102526411.html",
+      "id": "be3b620a-5f0b-3864-9bf0-2b73a5c0d33c",
+      "title": "US Pauses 50% Tariffs on Certain Canadian Goods for Three Days, While Carney Says \"Important Work\" Remains Amid \"Progress\"",
+      "link": "https://finance.yahoo.com/economy/policy/articles/us-pauses-50-tariffs-certain-105140420.html",
       "publisher": "MT Newswires",
-      "time": 1787135126,
-      "impact": "low",
-      "tags": []
+      "time": 1787136700,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "e503d4bd-fa88-36f5-94a8-470e5c9eca63",
-      "title": "Andersen adds MD to state and local tax practice in San Francisco",
-      "link": "https://finance.yahoo.com/m/e503d4bd-fa88-36f5-94a8-470e5c9eca63/andersen-adds-md-to-state-and.html",
-      "publisher": "International Accounting Bulletin",
-      "time": 1787135049,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "82b5e7f3-dbed-3ea1-8a87-e22b954d052d",
-      "title": "Is This a Buy-the-Dip Opportunity for XRP Right Now?",
-      "link": "https://finance.yahoo.com/m/82b5e7f3-dbed-3ea1-8a87-e22b954d052d/is-this-a-buy-the-dip.html",
-      "publisher": "Motley Fool",
-      "time": 1787135040,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f126fd34-63c8-35af-a866-576653e61732",
-      "title": "Volkswagen open to ceding majority control of India unit – report",
-      "link": "https://finance.yahoo.com/m/f126fd34-63c8-35af-a866-576653e61732/volkswagen-open-to-ceding.html",
-      "publisher": "Just Auto",
-      "time": 1787134985,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "dd7f90f1-3067-3101-b586-9726206b78c0",
-      "title": "UK officials declare fatal salmonella outbreak",
-      "link": "https://finance.yahoo.com/m/dd7f90f1-3067-3101-b586-9726206b78c0/uk-officials-declare-fatal.html",
-      "publisher": "Just Food",
-      "time": 1787134975,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5fc9e1b8-5346-3530-b3cb-629d005bf5c1",
-      "title": "RBC Initiates McKesson at Sector Perform With $845 Price Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-initiates-mckesson-sector-perform-102204785.html",
-      "publisher": "MT Newswires",
-      "time": 1787134924,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7a37210e-1566-36ac-9e73-826f40315bed",
-      "title": "Commerzbank Says Oil Prices Remain Elevated as Hormuz Accord Stalls, Asian Stocks Lower",
-      "link": "https://finance.yahoo.com/energy/articles/commerzbank-says-oil-prices-remain-102113133.html",
-      "publisher": "MT Newswires",
-      "time": 1787134873,
+      "id": "f2793bf9-c186-3fda-851c-a5092f3f241c",
+      "title": "Amer Sports Q2 sales, profit surge on Arc’teryx, Salomon growth",
+      "link": "https://finance.yahoo.com/m/f2793bf9-c186-3fda-851c-a5092f3f241c/amer-sports-q2-sales%2C-profit.html",
+      "publisher": "Just Style",
+      "time": 1787136669,
       "impact": "medium",
       "tags": [
         "macro",
@@ -127,27 +76,80 @@
       ]
     },
     {
-      "id": "866254bd-864d-3cdc-9571-609a28b38580",
-      "title": "Lowe's Fiscal Q2 Adjusted Earnings, Sales Rise; Shares Down Pre-Bell",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lowe-apos-fiscal-q2-adjusted-102058208.html",
+      "id": "51cee001-d8f4-3cd7-94b1-d0b64806a2ed",
+      "title": "SpaceX Is Back Trading Near Its Opening-Day Price. History Says Shares Will Be Worth This Much in 1 Year.",
+      "link": "https://finance.yahoo.com/m/51cee001-d8f4-3cd7-94b1-d0b64806a2ed/spacex-is-back-trading-near.html",
+      "publisher": "Motley Fool",
+      "time": 1787136600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "aa9a33eb-bbdc-34a7-a1d6-5dc64577cdd1",
+      "title": "Morgan Stanley Adjusts Price Target on Amgen to $362 From $351, Keeps Equalweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-104840969.html",
       "publisher": "MT Newswires",
-      "time": 1787134858,
+      "time": 1787136520,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "88abdcc8-bc9d-3f4d-b2e3-9f05971b7b11",
+      "title": "President Capital Adjusts Price Target on Constellation Energy to $342 From $352, Keeps Buy Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/president-capital-adjusts-price-target-104715889.html",
+      "publisher": "MT Newswires",
+      "time": 1787136435,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "afbd4848-6109-302c-9182-a5a2df03f418",
+      "title": "China Renaissance Adjusts Price Target on Sandisk to $2,250 From $2,000, Maintains Buy Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/china-renaissance-adjusts-price-target-104642072.html",
+      "publisher": "MT Newswires",
+      "time": 1787136402,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
     },
     {
-      "id": "c4669241-4c65-3d0b-8ed9-7764dbd3ae7d",
-      "title": "3 High-Yield Dividend Stocks I'd Buy With $5,000 Right Now",
-      "link": "https://finance.yahoo.com/m/c4669241-4c65-3d0b-8ed9-7764dbd3ae7d/3-high-yield-dividend-stocks.html",
-      "publisher": "Motley Fool",
-      "time": 1787134803,
+      "id": "e6f0019e-a4a6-3d15-84c5-060efba4dd79",
+      "title": "CIL-SIML JV secures road contracts worth $224m in India",
+      "link": "https://finance.yahoo.com/m/e6f0019e-a4a6-3d15-84c5-060efba4dd79/cil-siml-jv-secures-road.html",
+      "publisher": "World Construction Network",
+      "time": 1787136365,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "affe9d16-d2db-3136-bbdd-373dfca7709a",
+      "title": "2 Financials Stocks on Our Watchlist and 1 We Ignore",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-financials-stocks-watchlist-1-104602274.html",
+      "publisher": "StockStory",
+      "time": 1787136362,
       "impact": "low",
       "tags": [
         "macro"
       ]
+    },
+    {
+      "id": "702f6653-0cfe-3f35-b360-47185da9d102",
+      "title": "AI in smart grids: how grid tech is navigating challenges and opportunities",
+      "link": "https://finance.yahoo.com/m/702f6653-0cfe-3f35-b360-47185da9d102/ai-in-smart-grids%3A-how-grid.html",
+      "publisher": "Power Technology",
+      "time": 1787136346,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4025549d-f596-3a2d-a843-b0d6d940cdba",
+      "title": "TELUS Digital Named a Leader in the 2026 NelsonHall NEAT Evaluation for AI Enablement Services",
+      "link": "https://finance.yahoo.com/technology/ai/articles/telus-digital-named-leader-2026-104500682.html",
+      "publisher": "CNW Group",
+      "time": 1787136300,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
