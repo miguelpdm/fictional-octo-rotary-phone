@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T19:47:46.861482+00:00",
+  "updatedAt": "2026-08-19T20:19:09.748873+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7706.36,
-      "change": -38.70000000000073,
-      "changePct": -0.4996733401678066,
+      "price": 7707.98,
+      "change": -37.08000000000084,
+      "changePct": -0.4787567817421793,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26313.453,
-      "change": -331.4569999999985,
-      "changePct": -1.2439786811064422,
+      "price": 26331.09,
+      "change": -313.8199999999997,
+      "changePct": -1.1777859260924495,
       "currency": "USD"
     },
     {
@@ -39,111 +39,107 @@
       "price": 6444.46,
       "change": -23.710000000000036,
       "changePct": -0.36656426779135426,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.95,
-      "change": -0.8900000000000006,
-      "changePct": -5.618686868686872,
+      "price": 14.86,
+      "change": -0.9800000000000004,
+      "changePct": -6.1868686868686895,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "15b5c7a6-d656-352b-a9f5-ab4692d55efe",
-      "title": "OSR Health Receives Nasdaq Staff Delisting Determination and Intends to Request Hearings Panel Appeal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/osr-health-receives-nasdaq-staff-194500270.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787168700,
+      "id": "546f72ee-52a9-4964-b3da-6e6e53f66e8b",
+      "title": "Groupon's mystery vacations are going viral: CEO explains what's going on",
+      "link": "https://finance.yahoo.com/video/groupons-mystery-vacations-going-viral-201407131.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1787170447,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "24e3ca01-7b4a-3123-9ab3-231ed45fd00a",
-      "title": "This Billionaire Tech Investor Is Betting Big on SpaceX and Chip Stocks",
-      "link": "https://finance.yahoo.com/m/24e3ca01-7b4a-3123-9ab3-231ed45fd00a/this-billionaire-tech.html",
+      "id": "9d550618-2635-3e5b-b508-1086998cc2b5",
+      "title": "AppLovin vs. Kratos Defense: Which Technology Stock Is a Better Buy in 2026?",
+      "link": "https://finance.yahoo.com/m/9d550618-2635-3e5b-b508-1086998cc2b5/applovin-vs.-kratos-defense%3A.html",
       "publisher": "Motley Fool",
-      "time": 1787168460,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "19c80f6f-4db5-3e87-94e5-f6ffddfadbfa",
-      "title": "Drive Wise Innovations Launches 37 New EV Chargers Across Florida",
-      "link": "https://finance.yahoo.com/energy/articles/drive-wise-innovations-launches-37-194000794.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787168400,
+      "time": 1787170441,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "18f58aeb-3991-380c-8e5e-85d664ab684e",
-      "title": "Asian Hall of Fame Amplifies Impact at Founders Gala",
-      "link": "https://finance.yahoo.com/small-business/articles/asian-hall-fame-amplifies-impact-193700678.html",
-      "publisher": "PR Newswire",
-      "time": 1787168220,
+      "id": "765807f3-857c-3661-a98f-522256a6fcbb",
+      "title": "Bojangles Signs Four-Unit Nontraditional Development Deal in Norfolk, Virginia",
+      "link": "https://finance.yahoo.com/m/765807f3-857c-3661-a98f-522256a6fcbb/bojangles-signs-four-unit.html",
+      "publisher": "QSR",
+      "time": 1787170357,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f2ac5d10-51cf-373e-a89b-8e9632c0edf8",
-      "title": "Quimbaya Gold Grants Option to Sell Non-Core Berrio Project for Up to US$3.75 Million in Cash and Shares",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/quimbaya-gold-grants-option-sell-193700360.html",
+      "id": "45c0d547-9b0d-32c0-b928-25c93ea9020b",
+      "title": "Israel army admits firing on car in death of five-year-old Hind Rajab",
+      "link": "https://finance.yahoo.com/m/45c0d547-9b0d-32c0-b928-25c93ea9020b/israel-army-admits-firing-on.html",
+      "publisher": "AFP",
+      "time": 1787170352,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5d24c841-835b-477c-a6c2-a30d361d9240",
+      "title": "US national debt surpasses $40 trillion",
+      "link": "https://finance.yahoo.com/economy/article/us-national-debt-surpasses-40-trillion-201205840.html",
+      "publisher": "Yahoo Finance",
+      "time": 1787170325,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "40802982-6870-328a-ae81-5cf0e8791368",
+      "title": "Beam Global Reports Second Quarter 2026 Operating Results",
+      "link": "https://finance.yahoo.com/energy/articles/beam-global-reports-second-quarter-201200688.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787170320,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ef8219cf-b455-3830-bcfb-bd01672d105c",
+      "title": "CO-OPERATORS GENERAL INSURANCE COMPANY DECLARES QUARTERLY DIVIDEND ON: CLASS E PREFERENCE SHARES SERIES C",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/co-operators-general-insurance-company-201000820.html",
       "publisher": "CNW Group",
-      "time": 1787168220,
+      "time": 1787170200,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "544fe569-9ddb-3b57-9039-3bfb5734d6d7",
-      "title": "Why Estée Lauder Stock Jumped Today",
-      "link": "https://finance.yahoo.com/m/544fe569-9ddb-3b57-9039-3bfb5734d6d7/why-est%C3%A9e-lauder-stock-jumped.html",
-      "publisher": "Motley Fool",
-      "time": 1787168126,
+      "id": "75971e68-ed2f-38c8-b214-a00cd50d5161",
+      "title": "McIlroy questions LIV stars 'value' as talk of PGA return builds",
+      "link": "https://finance.yahoo.com/m/75971e68-ed2f-38c8-b214-a00cd50d5161/mcilroy-questions-liv-stars.html",
+      "publisher": "AFP",
+      "time": 1787170170,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5ac37cc4-6507-348b-b58f-4b74b7504e0e",
-      "title": "Sector Update: Healthcare",
-      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-193511254.html",
+      "id": "7d30b16a-f15a-3a11-b584-f2e531cca081",
+      "title": "Riskified Insider Sold Shares Worth $1,007,262, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/riskified-insider-sold-shares-worth-200929833.html",
       "publisher": "MT Newswires",
-      "time": 1787168111,
+      "time": 1787170169,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "23598a68-ec3d-308b-babd-3e65a5f60e81",
-      "title": "Volvo Construction Equipment Rolls Out First U.S.-Built Excavators and Large Loaders",
-      "link": "https://finance.yahoo.com/economy/articles/volvo-construction-equipment-rolls-first-193500137.html",
-      "publisher": "Business Wire",
-      "time": 1787168100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d4feac36-82dd-382b-83ea-0bc74b7be9d7",
-      "title": "Pilot-Era Agentic AI Stacks Expose Enterprises to Integration and Governance Risks, Finds Info-Tech Research Group",
-      "link": "https://finance.yahoo.com/technology/ai/articles/pilot-era-agentic-ai-stacks-193500583.html",
+      "id": "385a15d0-7945-31a7-ad87-3a5752f6e471",
+      "title": "New Research Proposes a Unifying Theory for Alzheimer's and Other Neurodegenerative Diseases",
+      "link": "https://finance.yahoo.com/healthcare/articles/research-proposes-unifying-theory-alzheimers-200900313.html",
       "publisher": "PR Newswire",
-      "time": 1787168100,
+      "time": 1787170140,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "767eb0e5-1303-310e-8995-00e482f83820",
-      "title": "Market Chatter: Sable Offshore's California Pipeline Restart to Continue, Court Rules",
-      "link": "https://finance.yahoo.com/energy/articles/market-chatter-sable-offshore-apos-193454984.html",
-      "publisher": "MT Newswires",
-      "time": 1787168094,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
     }
   ],
   "errors": {
