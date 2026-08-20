@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-20T11:51:06.546875+00:00",
+  "updatedAt": "2026-08-20T12:34:50.356767+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19835.7,
-      "change": -11.799999999999272,
-      "changePct": -0.05945333165385703,
+      "price": 19795.8,
+      "change": -51.70000000000073,
+      "changePct": -0.2604862073309018,
       "currency": "EUR"
     },
     {
@@ -28,86 +28,91 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25982.22,
-      "change": -146.13999999999942,
-      "changePct": -0.5593156248612596,
+      "price": 25917.7,
+      "change": -210.65999999999985,
+      "changePct": -0.8062503731577483,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6425.93,
-      "change": -18.529999999999745,
-      "changePct": -0.28753378871154056,
-      "currency": "EUR"
+      "price": 6409.38,
+      "change": -35.07999999999993,
+      "changePct": -0.5443435136535866,
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.33,
-      "change": 0.4399999999999995,
-      "changePct": 2.9550033579583577,
+      "price": 15.99,
+      "change": 1.0999999999999996,
+      "changePct": 7.3875083948959,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "10a3e305-a7f3-3359-8417-4f74ca2a2e55",
-      "title": "Singapore targets asset managers with tax cuts and talent measures",
-      "link": "https://finance.yahoo.com/m/10a3e305-a7f3-3359-8417-4f74ca2a2e55/singapore-targets-asset.html",
-      "publisher": "Private Banker International",
-      "time": 1787226552,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "292cd708-b10d-3f7b-a77a-aafe2c67cd9d",
-      "title": "Reforms to UK clinical trial sector showing signs of success",
-      "link": "https://finance.yahoo.com/m/292cd708-b10d-3f7b-a77a-aafe2c67cd9d/reforms-to-uk-clinical-trial.html",
-      "publisher": "Clinical Trials Arena",
-      "time": 1787226466,
+      "id": "b6401e81-2a88-325b-ab52-163758fde7d3",
+      "title": "BNP Paribas Delivers Bullish Message on Meta Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-delivers-bullish-message-123021107.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787229021,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "601317e1-026a-3b04-9301-e8a73b3ea8ea",
-      "title": "Renata Medical raises $25m to advance paediatric stent system",
-      "link": "https://finance.yahoo.com/m/601317e1-026a-3b04-9301-e8a73b3ea8ea/renata-medical-raises-%2425m-to.html",
-      "publisher": "Medical Device Network",
-      "time": 1787226305,
+      "id": "41f03f17-9c62-303d-b40d-55704b5c2924",
+      "title": "Leading eCommerce Retailer Expands Adoption of HawkSearch With Hybrid Search and AI Shopping Assistant",
+      "link": "https://finance.yahoo.com/technology/ai/articles/leading-ecommerce-retailer-expands-adoption-123000348.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787229000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3b8954d6-3c93-37dc-b54f-7c570fec5045",
-      "title": "PowerBank Receives Final Environmental Permit for C$14 Million Nova Scotia Community Solar Project, Backed by C$4.55 Million in Federal and Provincial Grants and Tax Credits",
-      "link": "https://finance.yahoo.com/energy/articles/powerbank-receives-final-environmental-permit-114500917.html",
-      "publisher": "CNW Group",
-      "time": 1787226300,
-      "impact": "high",
+      "id": "5306ba2c-d697-376f-aa18-78ba388fab80",
+      "title": "Protagenic Therapeutics Receives FDA Pre-IND Feedback Supporting New IND for PT00114 in Generalized Anxiety Disorder",
+      "link": "https://finance.yahoo.com/healthcare/articles/protagenic-therapeutics-receives-fda-pre-123000048.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787229000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b4e1a104-6ab3-3422-a171-e1ad8a381fa0",
+      "title": "Stemtech Corporation Appoints Alejandro Carrillio President, Latin Markets",
+      "link": "https://finance.yahoo.com/healthcare/articles/stemtech-corporation-appoints-alejandro-carrillio-123000328.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787229000,
+      "impact": "low",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "6c0d0c66-9554-3f3f-a29a-6a9672875e36",
-      "title": "AtkinsRéalis To Continue Keeping North Carolina Motorists Moving",
-      "link": "https://finance.yahoo.com/economy/policy/articles/atkinsr-alis-continue-keeping-north-114500118.html",
-      "publisher": "CNW Group",
-      "time": 1787226300,
+      "id": "ee667009-5ca7-3f59-8da1-efb97decaa74",
+      "title": "Lavish Enterprises Unveils FleetPath Intelligence Designed to Protect Carrier Margin When the Road Does Not Go as Planned",
+      "link": "https://finance.yahoo.com/technology/articles/lavish-enterprises-unveils-fleetpath-intelligence-123000860.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787229000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8f83511a-448f-3b68-8539-fc670e0d5428",
-      "title": "Radiopaque, Polymer-Based Embolic Coil Tops 125 Implants, With Minimal Artifacts in CT, MRI Imaging",
-      "link": "https://finance.yahoo.com/healthcare/articles/radiopaque-polymer-based-embolic-coil-114500536.html",
-      "publisher": "PR Newswire",
-      "time": 1787226300,
+      "id": "d493719f-3b39-3235-86dd-5c5175314241",
+      "title": "Good News For Amazon Stock Fans",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/good-news-amazon-stock-fans-122924505.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787228964,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c77a8c27-e725-3119-81cf-e86fc44b16ca",
+      "title": "OpenAI CFO Sarah Friar says IPO is coming in 2027",
+      "link": "https://finance.yahoo.com/m/c77a8c27-e725-3119-81cf-e86fc44b16ca/openai-cfo-sarah-friar-says.html",
+      "publisher": "Quartz",
+      "time": 1787228727,
       "impact": "medium",
       "tags": [
         "macro",
@@ -115,46 +120,33 @@
       ]
     },
     {
-      "id": "d972e409-b7cc-3bc1-92d7-1e22abd3a8e9",
-      "title": "Dutch Bros: The Business Keeps Getting Better, Yet the Multiple Keeps Shrinking",
-      "link": "https://finance.yahoo.com/m/d972e409-b7cc-3bc1-92d7-1e22abd3a8e9/dutch-bros%3A-the-business.html",
+      "id": "2bb4165a-f2ff-3995-85ea-73f9d1e08ee2",
+      "title": "Waste Energy Moves to Triple Midland Footprint as Company Builds Out Large-Scale Waste Processing and Conversion Campus",
+      "link": "https://finance.yahoo.com/energy/articles/waste-energy-moves-triple-midland-122500250.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787228700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9350505a-be3b-310c-9ca8-52b8b09ab824",
+      "title": "ScanSource to Acquire MicroAge, a Leading IT Solutions Integrator",
+      "link": "https://finance.yahoo.com/technology/articles/scansource-acquire-microage-leading-solutions-122500412.html",
+      "publisher": "Business Wire",
+      "time": 1787228700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f0cd2e14-2faf-3834-9363-be8c902e2b34",
+      "title": "Morgan Stanley Says AI Data Centers Face a 38-Gigawatt Power Gap. These Industrial Stocks Fill It.",
+      "link": "https://finance.yahoo.com/m/f0cd2e14-2faf-3834-9363-be8c902e2b34/morgan-stanley-says-ai-data.html",
       "publisher": "Motley Fool",
-      "time": 1787226300,
+      "time": 1787228700,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2bbeff7b-41bd-3bdd-89f3-a506645e75f4",
-      "title": "Revolut applies for Finnish banking licence to support European expansion",
-      "link": "https://finance.yahoo.com/m/2bbeff7b-41bd-3bdd-89f3-a506645e75f4/revolut-applies-for-finnish.html",
-      "publisher": "Retail Banker International",
-      "time": 1787226294,
-      "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
-    },
-    {
-      "id": "68a3e9b8-8858-3a96-8c98-dd4126c44fbe",
-      "title": "Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings",
-      "link": "https://finance.yahoo.com/m/68a3e9b8-8858-3a96-8c98-dd4126c44fbe/dow-jones-futures-fall-as-oil.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787226274,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "05b454ab-7546-3236-afb4-6b95712f7fd1",
-      "title": "Archer Aviation (ACHR) Bets Big On Becoming More Than An Air Taxi Company",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-achr-bets-big-114409233.html",
-      "publisher": "Insider Monkey",
-      "time": 1787226249,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
