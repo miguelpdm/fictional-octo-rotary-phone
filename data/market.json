@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T16:35:14.976732+00:00",
+  "updatedAt": "2026-08-20T17:22:28.270642+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7679.46,
-      "change": -12.300000000000182,
-      "changePct": -0.15991138569066354,
+      "price": 7670.24,
+      "change": -21.520000000000437,
+      "changePct": -0.27977992033033316,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26130.215,
-      "change": -159.49499999999898,
-      "changePct": -0.6066822342277605,
+      "price": 26101.193,
+      "change": -188.51699999999983,
+      "changePct": -0.7170752359002812,
       "currency": "USD"
     },
     {
@@ -44,100 +44,102 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.91,
-      "change": 1.0199999999999996,
-      "changePct": 6.85023505708529,
+      "price": 15.66,
+      "change": 0.7699999999999996,
+      "changePct": 5.1712558764271295,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "2c4e4a53-a973-3fb2-a804-8d361e931a5b",
-      "title": "United Completes Phase One Expansion of World's Largest Pilot Training Facility",
-      "link": "https://finance.yahoo.com/small-business/articles/united-completes-phase-one-expansion-163000395.html",
+      "id": "0f4cb855-5ced-3d10-9a8b-c0bc515bfc75",
+      "title": "Nordson Stock Jumps as AI Demand Sends Backlog Soaring 35%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nordson-stock-jumps-ai-demand-171841485.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787246321,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9f812830-9ae4-3d7f-8948-4028b2b7b9fa",
+      "title": "The playbook for college sports revenue is expanding from logos and fees to entertainment districts",
+      "link": "https://finance.yahoo.com/m/9f812830-9ae4-3d7f-8948-4028b2b7b9fa/the-playbook-for-college.html",
+      "publisher": "Associated Press",
+      "time": 1787246284,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "28c01072-4bf9-341e-b3e9-73464546dfc9",
+      "title": "Liquidations hit highest level since Oct. 10 crypto market crash",
+      "link": "https://finance.yahoo.com/m/28c01072-4bf9-341e-b3e9-73464546dfc9/liquidations-hit-highest.html",
+      "publisher": "TheStreet",
+      "time": 1787246271,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "786ff1f4-67ec-3c0c-9bbf-75482001a58a",
+      "title": "Sector Update: Energy",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-171705378.html",
+      "publisher": "MT Newswires",
+      "time": 1787246225,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "47597045-2f3c-3170-9fae-58ea4b46ffa6",
+      "title": "Micaela Wall Voted 2026 Winston-Salem Journal Readers' Choice Favorite Real Estate Agent",
+      "link": "https://finance.yahoo.com/real-estate/articles/micaela-wall-voted-2026-winston-171700390.html",
       "publisher": "PR Newswire",
-      "time": 1787243400,
+      "time": 1787246220,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a5371656-4452-4570-ac1c-5cc37b33a22d",
-      "title": "Trump urged Congress to pass the CLARITY Act at White House summit",
-      "link": "https://finance.yahoo.com/video/trump-urged-congress-pass-clarity-163000717.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1787243400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f628a55f-82f6-3a93-b9ed-26a265fa82d4",
-      "title": "49th Parallel Wealth Management Launches Cross-Border Day Tracker App to Help Snowbirds and Dual Residents Avoid Unintended U.S. Tax Residency",
-      "link": "https://finance.yahoo.com/small-business/articles/49th-parallel-wealth-management-launches-163000972.html",
+      "id": "93bf2818-1a78-3847-9bf6-fca208abf48c",
+      "title": "Century Communities Announces Grand Opening of New Home Phase at Uplands in Puyallup, Washington",
+      "link": "https://finance.yahoo.com/real-estate/articles/century-communities-announces-grand-opening-171700948.html",
       "publisher": "PR Newswire",
-      "time": 1787243400,
+      "time": 1787246220,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f10526c9-4c72-3770-99fe-2dfc6bda664b",
-      "title": "Holding(s) in Company",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-company-162900523.html",
-      "publisher": "Business Wire",
-      "time": 1787243340,
+      "id": "36edf3bf-f2ba-31ba-8bc4-38bf7f39339c",
+      "title": "Apple Holds Firm as Investors Seek Big Tech's Defensive Outlier",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-holds-firm-investors-seek-171642756.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787246202,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c641ad5a-e0ab-38be-8712-bb69b55735b1",
-      "title": "FRN Variable Rate Fix",
-      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-162800785.html",
-      "publisher": "Business Wire",
-      "time": 1787243280,
+      "id": "0b08ba51-306e-3abf-849f-1e4649663486",
+      "title": "Grown-Up Gear 2026: The Best Laptop Backpacks for Back-to-School and Office Commutes to Shop Online",
+      "link": "https://finance.yahoo.com/m/0b08ba51-306e-3abf-849f-1e4649663486/grown-up-gear-2026%3A-the-best.html",
+      "publisher": "Variety",
+      "time": 1787246191,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3d858faa-55e4-325b-97f6-1eee318aacee",
-      "title": "Webinar: The Storytelling Skill Professionals Can't Skip Before Prompting AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/webinar-storytelling-skill-professionals-cant-162700318.html",
-      "publisher": "PR Newswire",
-      "time": 1787243220,
+      "id": "307bbc9d-e7eb-3109-a6eb-ab1b6025e502",
+      "title": "Bishop's University Secures Nearly $700,000 in Research Infrastructure Funding",
+      "link": "https://finance.yahoo.com/technology/articles/bishops-university-secures-nearly-700-171600578.html",
+      "publisher": "CNW Group",
+      "time": 1787246160,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3cab3f12-f7a2-32e7-8aeb-37f951b7ca03",
-      "title": "51.8% of QSR Workers Who Found Onboarding Inefficient Exited Before Starting Work, Survey Finds",
-      "link": "https://finance.yahoo.com/small-business/articles/51-8-qsr-workers-found-162600483.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787243160,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b77d5697-e782-316a-893b-39ad838fd010",
-      "title": "The Multiple Sclerosis Association of America (MSAA) Recognizes Ten-Year Milestone of Online Support Platform, My MSAA Community",
-      "link": "https://finance.yahoo.com/healthcare/articles/multiple-sclerosis-association-america-msaa-162600320.html",
-      "publisher": "PR Newswire",
-      "time": 1787243160,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0883a5de-0c44-3e6d-9925-3e02b05b31a2",
-      "title": "Hull aim to silence critics after unexpected promotion to Premier League",
-      "link": "https://finance.yahoo.com/m/0883a5de-0c44-3e6d-9925-3e02b05b31a2/hull-aim-to-silence-critics.html",
-      "publisher": "AFP",
-      "time": 1787243135,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6ee05c91-db5b-3ef3-b942-f4a4ab266753",
-      "title": "Why Wolfspeed Stock Crashed Today",
-      "link": "https://finance.yahoo.com/m/6ee05c91-db5b-3ef3-b942-f4a4ab266753/why-wolfspeed-stock-crashed.html",
-      "publisher": "Motley Fool",
-      "time": 1787243105,
+      "id": "e7655a5d-b7fb-325a-956f-d87e01e8749f",
+      "title": "Amazon Rufus Optimisation: What Brands Should Look for in AI Shopping Visibility Tools",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amazon-rufus-optimisation-brands-look-171600719.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787246160,
       "impact": "low",
       "tags": []
     }
