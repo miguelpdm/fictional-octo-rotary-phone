@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T17:54:25.602110+00:00",
+  "updatedAt": "2026-08-20T18:29:04.968097+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7666.41,
-      "change": -25.350000000000364,
-      "changePct": -0.3295734656307576,
+      "price": 7653.97,
+      "change": -37.789999999999964,
+      "changePct": -0.49130498091464064,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26104.016,
-      "change": -185.6939999999995,
-      "changePct": -0.7063371942862797,
+      "price": 26049.734,
+      "change": -239.97599999999875,
+      "changePct": -0.9128134163518683,
       "currency": "USD"
     },
     {
@@ -39,116 +39,116 @@
       "price": 6422.06,
       "change": -22.399999999999636,
       "changePct": -0.34758536789738215,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.87,
-      "change": 0.9799999999999986,
-      "changePct": 6.581598388179977,
+      "price": 15.99,
+      "change": 1.0999999999999996,
+      "changePct": 7.3875083948959,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "536d8277-4966-33ee-8064-bd5e4c635929",
-      "title": "Dividend King pays Warren Buffett's Berkshire $848M each year",
-      "link": "https://finance.yahoo.com/m/536d8277-4966-33ee-8064-bd5e4c635929/dividend-king-pays-warren.html",
-      "publisher": "TheStreet",
-      "time": 1787248221,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "b64e0157-1e89-39b1-a1fd-f44ec8af9c50",
-      "title": "India’s Spark Minda to invest Rs11.66bn in two new manufacturing units",
-      "link": "https://finance.yahoo.com/m/b64e0157-1e89-39b1-a1fd-f44ec8af9c50/india%E2%80%99s-spark-minda-to-invest.html",
-      "publisher": "Just Auto",
-      "time": 1787248163,
+      "id": "acdca902-e6c7-3e89-a610-909f97632b9d",
+      "title": "Why Super Micro Stock Is Climbing Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-super-micro-stock-climbing-182623541.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787250383,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "241a163d-2824-3770-a854-c166248a2d0c",
-      "title": "Vascarta Outlines Proposed Mechanistic Link Between VAS-101's (Vasceptor®) Vascular and Red Blood Cell Effects in Sickle Cell Disease",
-      "link": "https://finance.yahoo.com/healthcare/articles/vascarta-outlines-proposed-mechanistic-between-174900516.html",
-      "publisher": "PR Newswire",
-      "time": 1787248140,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3a51bf22-7b20-3219-8ac7-13d5394496f5",
-      "title": "Boeing, Northrop, RTX to Provide Military Aircraft to Qatar in Proposed Sale, US State Department Says",
-      "link": "https://finance.yahoo.com/economy/policy/articles/boeing-northrop-rtx-military-aircraft-174731293.html",
+      "id": "223a7e70-05a5-3e4f-8752-0b5f4ebeaae7",
+      "title": "Update: Ameresco Shares Fall After CFO Mark Chiplock to Depart Sept. 25",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ameresco-shares-fall-cfo-mark-182344183.html",
       "publisher": "MT Newswires",
-      "time": 1787248051,
+      "time": 1787250224,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5cc18ab6-a0b0-350e-aa30-a38acc51b24e",
-      "title": "Consumer Discretionary - Specialized Consumer Services Stocks Q2 Results: Benchmarking ADT (NYSE:ADT)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/consumer-discretionary-specialized-consumer-services-174715398.html",
+      "id": "2b3d7611-ddf6-4780-88a3-991bfedfde48",
+      "title": "Stablecoins join the payment conversation at X",
+      "link": "https://finance.yahoo.com/video/stablecoins-join-payment-conversation-x-182300400.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1787250180,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2db701a9-034a-3e5e-87bb-787a749dec69",
+      "title": "Cascades to Partially Redeem 5.375% Senior Notes Due 2028",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cascades-partially-redeem-5-375-182226529.html",
+      "publisher": "MT Newswires",
+      "time": 1787250146,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e687861f-0536-3f64-818a-fdb4e1c0ae2f",
+      "title": "Daily Roundup of Key US Economic Data for Aug. 20",
+      "link": "https://finance.yahoo.com/economy/articles/daily-roundup-key-us-economic-182124215.html",
+      "publisher": "MT Newswires",
+      "time": 1787250084,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c3044411-2dab-31c7-9b91-894b8ec1f516",
+      "title": "Update: Market Chatter: Deutsche Bank Rebuilding Energy Trading Unit After Long Absence From Sector",
+      "link": "https://finance.yahoo.com/energy/articles/market-chatter-deutsche-bank-rebuilding-182058382.html",
+      "publisher": "MT Newswires",
+      "time": 1787250058,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "7713cb18-0087-3f04-9a51-63276a5b38a1",
+      "title": "Super Micro Just Removed a Major Investor Risk",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-just-removed-major-182027569.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787250027,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4e5c5670-013b-3f35-adfe-45bfe33a750d",
+      "title": "Market Chatter: Anthropic Expects to Match or Beat SpaceX's Record IPO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-anthropic-expects-match-182020421.html",
+      "publisher": "MT Newswires",
+      "time": 1787250020,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "c7028e4c-7fae-317f-8c03-9c2a8c829516",
+      "title": "The Lustgarten Foundation Announces New Pancreatic Cancer Research Funding Totaling $22.8 Million In Fiscal Year 2026",
+      "link": "https://finance.yahoo.com/healthcare/articles/lustgarten-foundation-announces-pancreatic-cancer-182000278.html",
+      "publisher": "PR Newswire",
+      "time": 1787250000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ebfb484f-5f6a-3bcc-85e4-45661834f5a6",
+      "title": "A Look Back at Apparel Retailer Stocks’ Q1 Earnings: Abercrombie and Fitch (NYSE:ANF) Vs The Rest Of The Pack",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/look-back-apparel-retailer-stocks-181915590.html",
       "publisher": "StockStory",
-      "time": 1787248035,
-      "impact": "low",
+      "time": 1787249955,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
-    },
-    {
-      "id": "c6e728a4-8587-3cee-9438-0c2f3f919805",
-      "title": "CCC Announces Proposed Private Placement of Units and Appointment of Michael Minas as VP Capital Markets",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ccc-announces-proposed-private-placement-174700277.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787248020,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "60e1f90e-39d3-3a01-a034-7b94726ee722",
-      "title": "Billionaire Stanley Druckenmiller Dumped Micron, Intel, and Broadcom: Here Are the AI Infrastructure Stocks He Bought Instead",
-      "link": "https://finance.yahoo.com/m/60e1f90e-39d3-3a01-a034-7b94726ee722/billionaire-stanley.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787247977,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "e0ea905f-1129-3716-9ed2-36ad297fcff1",
-      "title": "XRP Notches Best Week Since 2024 Election Pump on Bitcoin Short Squeeze",
-      "link": "https://finance.yahoo.com/m/e0ea905f-1129-3716-9ed2-36ad297fcff1/xrp-notches-best-week-since.html",
-      "publisher": "decrypt",
-      "time": 1787247968,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2ee2559e-cb39-3c66-8aec-4e5d8c8258ed",
-      "title": "PCI Energy Solutions to Join Mitsubishi Electric, Reinforcing Long-Term Commitment to Customers, Employees, and the Energy Industry",
-      "link": "https://finance.yahoo.com/energy/articles/pci-energy-solutions-join-mitsubishi-174600357.html",
-      "publisher": "Business Wire",
-      "time": 1787247960,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2fba60eb-780f-33f7-9074-7184a444c0c6",
-      "title": "Luxury NEV Maker SERES Reports 2026 First-Half Results: Revenue of 57.493 Billion Yuan, AITO Deliveries Increased 10.2% YoY",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/luxury-nev-maker-seres-reports-174600294.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787247960,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
