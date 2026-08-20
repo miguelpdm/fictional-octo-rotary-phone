@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T22:19:37.979652+00:00",
+  "updatedAt": "2026-08-20T22:53:37.148648+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,94 +52,113 @@
   ],
   "news": [
     {
-      "id": "50f24072-701e-3a40-a7a7-5cf47309f21d",
-      "title": "US charges woman with IS-inspired plot to blow up New York State Capitol",
-      "link": "https://finance.yahoo.com/m/50f24072-701e-3a40-a7a7-5cf47309f21d/us-charges-woman-with.html",
-      "publisher": "AFP",
-      "time": 1787264065,
+      "id": "aca15b1f-f67e-3aa7-94d4-f172ba9d581c",
+      "title": "Oracle Corporation (ORCL) vs. Amazon.com (AMZN): Which AI Infrastructure Giant Is Better Positioned for Long-Term Growth?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-corporation-orcl-vs-amazon-225036836.html",
+      "publisher": "Insider Monkey",
+      "time": 1787266236,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "91327cea-fed2-33ed-a182-385b27c0298f",
-      "title": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
-      "link": "https://finance.yahoo.com/m/91327cea-fed2-33ed-a182-385b27c0298f/dow-jones-futures%3A-market.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787264044,
-      "impact": "low",
+      "id": "25911982-30ce-3025-abde-83321a03be66",
+      "title": "Intellicheck (IDN) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/25911982-30ce-3025-abde-83321a03be66/intellicheck-%28idn%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1787265913,
+      "impact": "medium",
       "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "3ba2403f-4f78-33f4-a0ff-096f107c72e2",
+      "title": "NextNRG (NXXT) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/3ba2403f-4f78-33f4-a0ff-096f107c72e2/nextnrg-%28nxxt%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1787265913,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "50929771-6731-3d6d-a53d-64687be1e077",
+      "title": "ImmuCell (ICCC) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/50929771-6731-3d6d-a53d-64687be1e077/immucell-%28iccc%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1787265913,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "79d41fde-0f12-33e3-8d83-8c33474cb043",
+      "title": "Sensus (SRTS) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/79d41fde-0f12-33e3-8d83-8c33474cb043/sensus-%28srts%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1787265913,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "14460e9b-dc54-33ca-bd9d-d7eb1693b1d7",
+      "title": "Curtiss-Wright, Redwire, Rocket Lab, Astronics, and Woodward Shares Are Falling, What You Need To Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-redwire-rocket-lab-224315943.html",
+      "publisher": "StockStory",
+      "time": 1787265795,
+      "impact": "high",
+      "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "e197fecf-32fe-3ae1-b3c5-6de6320ac590",
-      "title": "Wall Street sinks as bond yields rise, Walmart results disappoint",
-      "link": "https://finance.yahoo.com/video/wall-street-sinks-bond-yields-221146360.html",
-      "publisher": "Reuters Videos",
-      "time": 1787263906,
+      "id": "55b8d7e2-6dd5-31a8-8fc0-22db92ae3ea6",
+      "title": "Faraday Future (FFAI) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/55b8d7e2-6dd5-31a8-8fc0-22db92ae3ea6/faraday-future-%28ffai%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1787265785,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "985ee7db-92b4-398e-8f8c-787e7843eefe",
+      "title": "Cibus (CBUS) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/985ee7db-92b4-398e-8f8c-787e7843eefe/cibus-%28cbus%29-q2-2026-earnings.html",
+      "publisher": "Motley Fool",
+      "time": 1787265785,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "caa8256e-e7f5-3309-93d9-b1156857e789",
+      "title": "Are Phillips 66 (PSX) and Marathon Petroleum Corporation (MPC) Still Attractive After the $180 Billion Deal Collapse?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-psx-marathon-petroleum-224300009.html",
+      "publisher": "Insider Monkey",
+      "time": 1787265780,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0f517725-23f2-32be-b1fc-a61a2606bb53",
-      "title": "49th Parallel Wealth Management Closes Out a Summer of Cross-Border Innovation -- Free Tools, an Audiobook, and a New App, With a Hardcover Edition on the Way",
-      "link": "https://finance.yahoo.com/small-business/articles/49th-parallel-wealth-management-closes-221100019.html",
-      "publisher": "CNW Group",
-      "time": 1787263860,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "52a4118a-2f13-349f-910d-2fdae3157c2b",
-      "title": "Coinbase CEO predicts 450% upside for Bitcoin",
-      "link": "https://finance.yahoo.com/m/52a4118a-2f13-349f-910d-2fdae3157c2b/coinbase-ceo-predicts-450%25.html",
-      "publisher": "TheStreet",
-      "time": 1787263775,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "58b88cad-047e-3ea5-8e8b-1a2f966c2211",
-      "title": "Jailed Pakistan ex-PM Khan moved to hospital on court order: party",
-      "link": "https://finance.yahoo.com/m/58b88cad-047e-3ea5-8e8b-1a2f966c2211/jailed-pakistan-ex-pm-khan.html",
-      "publisher": "AFP",
-      "time": 1787263684,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6fd9ce88-a116-392c-b8b2-f46c6982b026",
-      "title": "Trump Calls for ‘Economic D-Day’ on Iran as US Seeks to Restore Hormuz Shipping",
-      "link": "https://finance.yahoo.com/m/6fd9ce88-a116-392c-b8b2-f46c6982b026/trump-calls-for-%E2%80%98economic.html",
-      "publisher": "Sourcing Journal",
-      "time": 1787263683,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cbd98693-ee1a-338c-ba47-3d5dd12a954b",
-      "title": "Maradona trial on hold over possible medical evidence mix-up",
-      "link": "https://finance.yahoo.com/m/cbd98693-ee1a-338c-ba47-3d5dd12a954b/maradona-trial-on-hold-over.html",
-      "publisher": "AFP",
-      "time": 1787263655,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "90912a41-32b9-3ad4-ac85-14804fd55ae8",
-      "title": "CORRECTING and REPLACING Amid Declining Book Value, ACRES Commercial Realty Struggles to Sell REO Property Due to Labor Dispute with Philadelphia Hospitality Union UNITE HERE Local 274",
-      "link": "https://finance.yahoo.com/real-estate/articles/amid-declining-book-value-acres-144000848.html",
-      "publisher": "Business Wire",
-      "time": 1787263620,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c6fe9621-5143-322d-8b91-e8c2afc9e11e",
-      "title": "JPMorgan sees 100% upside in overlooked cancer drug stock",
-      "link": "https://finance.yahoo.com/m/c6fe9621-5143-322d-8b91-e8c2afc9e11e/jpmorgan-sees-100%25-upside-in.html",
-      "publisher": "TheStreet",
-      "time": 1787263620,
+      "id": "82688950-91b6-3db7-b276-042f59d21bb7",
+      "title": "Precision Tree Service Announces Official Domain Migration to PrecisionTree.Services and Expanded Emergency Care Operations",
+      "link": "https://finance.yahoo.com/small-business/articles/precision-tree-announces-official-domain-224100183.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787265660,
       "impact": "low",
       "tags": []
     }
