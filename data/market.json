@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-20T07:35:16.556370+00:00",
+  "updatedAt": "2026-08-20T08:30:00.825686+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19875.5,
-      "change": 28.0,
-      "changePct": 0.14107570222949992,
+      "price": 19895.5,
+      "change": 48.0,
+      "changePct": 0.24184406096485703,
       "currency": "EUR"
     },
     {
@@ -28,116 +28,122 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26015.45,
-      "change": -112.90999999999985,
-      "changePct": -0.4321358095188518,
+      "price": 25975.11,
+      "change": -153.25,
+      "changePct": -0.5865274360886025,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6440.84,
-      "change": -3.619999999999891,
-      "changePct": -0.056172278204844016,
-      "currency": null
+      "price": 6436.1,
+      "change": -8.359999999999673,
+      "changePct": -0.12972382480455574,
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.91,
-      "change": 0.019999999999999574,
-      "changePct": 0.1343183344526499,
+      "price": 15.15,
+      "change": 0.2599999999999998,
+      "changePct": 1.7461383478844845,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "46f242c0-007d-32b3-aeaf-de5c7d0bcfdf",
-      "title": "Vivmark Residential Insider Sold Shares Worth $1,001,660, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vivmark-residential-insider-sold-shares-073155463.html",
+      "id": "4264ebed-7223-389b-8f76-2c37d25b358d",
+      "title": "Amazon to Build Robotics Systems Manufacturing Plant in Texas",
+      "link": "https://finance.yahoo.com/technology/articles/amazon-build-robotics-systems-manufacturing-082527533.html",
       "publisher": "MT Newswires",
-      "time": 1787211115,
+      "time": 1787214327,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6b6ccb57-def8-3f31-aecd-bd4cb6b3a8e6",
-      "title": "Ascentage Pharma H1 Loss Widens, Revenue Rises",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ascentage-pharma-h1-loss-widens-072857590.html",
+      "id": "64eddae0-6007-310f-8cd6-ac6488b0050b",
+      "title": "Futu Q2 Net Income, Revenue Increase; Shares Up Pre-Bell",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/futu-q2-net-income-revenue-082318555.html",
       "publisher": "MT Newswires",
-      "time": 1787210937,
+      "time": 1787214198,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "012926bd-d9c4-39df-91b8-cd0eb46bf87c",
-      "title": "On X, a Recurring Debate Over Free AI Assistants Highlights What Ordinary Users Actually Want",
-      "link": "https://finance.yahoo.com/technology/ai/articles/x-recurring-debate-over-free-072000804.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787210400,
+      "id": "1cf5a184-73ed-3377-bca7-05cfb291afd2",
+      "title": "Airbnb Insider Sold Shares Worth $2,489,607, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-insider-sold-shares-worth-082057378.html",
+      "publisher": "MT Newswires",
+      "time": 1787214057,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ddde6bbc-e2f5-3015-8bce-7465c5eaff7c",
-      "title": "Michael Selig Calls Compute the Most Important Commodity as CFTC Seeks Comment",
-      "link": "https://finance.yahoo.com/m/ddde6bbc-e2f5-3015-8bce-7465c5eaff7c/michael-selig-calls-compute.html",
-      "publisher": "BeInCrypto",
-      "time": 1787210307,
+      "id": "a9ba2f0a-5b48-3188-8671-1654a4494cc5",
+      "title": "Cerebras Systems Insider Sold Shares Worth $5,920,937, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-insider-sold-shares-082016653.html",
+      "publisher": "MT Newswires",
+      "time": 1787214016,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d2bf5fe1-bf25-3204-af32-84d24d08cc40",
-      "title": "Eurozone Bond Yields Decline, Move in Line With Treasury Yields",
-      "link": "https://finance.yahoo.com/m/d2bf5fe1-bf25-3204-af32-84d24d08cc40/eurozone-bond-yields-decline%2C.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787210160,
-      "impact": "low",
-      "tags": []
+      "id": "2cd4517b-cebd-3522-bf11-4ceadd738eda",
+      "title": "5 Insightful Analyst Questions From Stratasys’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-stratasys-081915066.html",
+      "publisher": "StockStory",
+      "time": 1787213955,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "38b7d0a3-391b-3e47-8735-8163cacdbe02",
-      "title": "Amazon has an Android 16 tablet for $94 that 'holds a charge forever'",
-      "link": "https://finance.yahoo.com/m/38b7d0a3-391b-3e47-8735-8163cacdbe02/amazon-has-an-android-16.html",
-      "publisher": "TheStreet",
-      "time": 1787210100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "19976fa4-872b-3c18-b150-f00586d1675b",
-      "title": "VAPORESSO Marks 11th Anniversary, Advancing Tech Innovation and Strengthening Global Connections",
-      "link": "https://finance.yahoo.com/technology/articles/vaporesso-marks-11th-anniversary-advancing-071400747.html",
+      "id": "7dee9032-fc71-3282-a661-0cad6363fa41",
+      "title": "MacGregor to supply proven 165-tonne AHC crane for Ulstein SX121 newbuild",
+      "link": "https://finance.yahoo.com/technology/articles/macgregor-supply-proven-165-tonne-081900873.html",
       "publisher": "PR Newswire",
-      "time": 1787210040,
+      "time": 1787213940,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2c2f425c-c1c4-33b1-a2f5-1b55a4b69577",
-      "title": "Does Gilead (GILD) Pairing With Nucleai Reveal a Deeper Shift in Its Oncology Strategy?",
-      "link": "https://finance.yahoo.com/healthcare/articles/does-gilead-gild-pairing-nucleai-071228359.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787209948,
+      "id": "f025ddf2-54bc-3cc2-b5d4-c45f9e94c67d",
+      "title": "Ericsson, SoftBank Test Ai in a Radio Access Network in Japan",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ericsson-softbank-test-ai-radio-081859669.html",
+      "publisher": "MT Newswires",
+      "time": 1787213939,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "05d4c7fc-e0cd-3762-ad63-1ba69997831e",
+      "title": "Backblaze Prices Upsized $175 Million Convertible Notes Offering",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/backblaze-prices-upsized-175-million-081755870.html",
+      "publisher": "MT Newswires",
+      "time": 1787213875,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4229801b-cb77-3b4f-a06b-5f097e54f1bf",
-      "title": "Charles Schwab (SCHW) Stock Fair Value Rises After Strong Q2 And Analyst Target Increases",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-schw-stock-fair-071223575.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787209943,
+      "id": "ed4db498-a031-3874-8a23-a1f7ed8ff540",
+      "title": "Form 8.3",
+      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-081600672.html",
+      "publisher": "Business Wire",
+      "time": 1787213760,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9f1a08a8-a380-3480-8d71-d49c80a4fdec",
-      "title": "Millicom International Cellular (TIGO) Stock Looks Stretched As Cash Flow Targets Rise",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/millicom-international-cellular-tigo-stock-071215700.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787209935,
+      "id": "58c806f4-7089-325d-bc7a-f4debec901c9",
+      "title": "The S&P 500 Has Gained More Than 33% Since Trump's Election. Here's What That Means for Investors Heading Into Midterms.",
+      "link": "https://finance.yahoo.com/m/58c806f4-7089-325d-bc7a-f4debec901c9/the-s%26p-500-has-gained-more.html",
+      "publisher": "Motley Fool",
+      "time": 1787213700,
       "impact": "low",
       "tags": []
     }
