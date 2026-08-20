@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T15:57:37.215721+00:00",
+  "updatedAt": "2026-08-20T16:35:14.976732+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7677.0,
-      "change": -14.760000000000218,
-      "changePct": -0.19189366282879625,
+      "price": 7679.46,
+      "change": -12.300000000000182,
+      "changePct": -0.15991138569066354,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26103.615,
-      "change": -186.09499999999753,
-      "changePct": -0.7078625059005883,
+      "price": 26130.215,
+      "change": -159.49499999999898,
+      "changePct": -0.6066822342277605,
       "currency": "USD"
     },
     {
@@ -44,116 +44,100 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.89,
-      "change": 1.0,
-      "changePct": 6.715916722632639,
+      "price": 15.91,
+      "change": 1.0199999999999996,
+      "changePct": 6.85023505708529,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "6981ad5a-591a-363e-8e22-7e8f40d2bbe5",
-      "title": "Menopause and Hormonal Facial Hair: Nobody Warned Them About the Chin Hair, But NYC Women Are Finding Solutions",
-      "link": "https://finance.yahoo.com/healthcare/articles/menopause-hormonal-facial-hair-nobody-155000013.html",
+      "id": "2c4e4a53-a973-3fb2-a804-8d361e931a5b",
+      "title": "United Completes Phase One Expansion of World's Largest Pilot Training Facility",
+      "link": "https://finance.yahoo.com/small-business/articles/united-completes-phase-one-expansion-163000395.html",
       "publisher": "PR Newswire",
-      "time": 1787241000,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "74d7b087-23da-3b26-8719-61870d4e8b25",
-      "title": "European Stocks Close Mostly Lower in Thursday Trading Amid Rising Oil Prices, Middle East Tensions",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-mostly-lower-154903661.html",
-      "publisher": "MT Newswires",
-      "time": 1787240943,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "d9e7fbe0-420f-392e-84f7-0d74393cedc3",
-      "title": "The Global Advanced Chemical Recycling Market 2027-2040: Materials, End Products, Competition Analysis",
-      "link": "https://finance.yahoo.com/energy/articles/global-advanced-chemical-recycling-market-154900139.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787240940,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "baa17ae2-b165-38b5-b0c7-2b4e82ef2973",
-      "title": "Fed's Musalem says won't prejudge rate call view for September FOMC - CNBC ",
-      "link": "https://finance.yahoo.com/economy/policy/articles/feds-musalem-says-wont-prejudge-154744171.html",
-      "publisher": "Reuters",
-      "time": 1787240864,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "ee9757b9-5cda-37a4-992c-196fe0b103ee",
-      "title": "Miami voters pass Marine Stadium renovation partnership. What's next",
-      "link": "https://finance.yahoo.com/m/ee9757b9-5cda-37a4-992c-196fe0b103ee/miami-voters-pass-marine.html",
-      "publisher": "USA TODAY",
-      "time": 1787240854,
+      "time": 1787243400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "58a98a16-abdd-3749-a0b5-d424e4ddec03",
-      "title": "Sit-Down Dining Stocks Q2 Highlights: Dine Brands (NYSE:DIN)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sit-down-dining-stocks-q2-154715019.html",
-      "publisher": "StockStory",
-      "time": 1787240835,
+      "id": "a5371656-4452-4570-ac1c-5cc37b33a22d",
+      "title": "Trump urged Congress to pass the CLARITY Act at White House summit",
+      "link": "https://finance.yahoo.com/video/trump-urged-congress-pass-clarity-163000717.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1787243400,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "6d794e29-449a-35e1-8032-20575d43228a",
-      "title": "The Global Market for Sustainable Data Centers 2027-2037: Forecasts Green Power, Cooling and Efficiency Trends Through 2037",
-      "link": "https://finance.yahoo.com/energy/articles/global-market-sustainable-data-centers-154700858.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787240820,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "f628a55f-82f6-3a93-b9ed-26a265fa82d4",
+      "title": "49th Parallel Wealth Management Launches Cross-Border Day Tracker App to Help Snowbirds and Dual Residents Avoid Unintended U.S. Tax Residency",
+      "link": "https://finance.yahoo.com/small-business/articles/49th-parallel-wealth-management-launches-163000972.html",
+      "publisher": "PR Newswire",
+      "time": 1787243400,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "6e605345-1f68-3a37-b671-73c992519c8c",
-      "title": "Construction Industry Veteran Cathy Orquiola Joins McCarthy Building Companies, Inc.",
-      "link": "https://finance.yahoo.com/small-business/articles/construction-industry-veteran-cathy-orquiola-154700620.html",
+      "id": "f10526c9-4c72-3770-99fe-2dfc6bda664b",
+      "title": "Holding(s) in Company",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-company-162900523.html",
       "publisher": "Business Wire",
-      "time": 1787240820,
+      "time": 1787243340,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d9d0c715-1d33-312e-94b5-709457307e8a",
-      "title": "Castlelake Prices $261.3M Residential Transition Loan Securitization, Castlelake Residential Mortgage Trust 2026-RTL1",
-      "link": "https://finance.yahoo.com/real-estate/articles/castlelake-prices-261-3m-residential-154600138.html",
+      "id": "c641ad5a-e0ab-38be-8712-bb69b55735b1",
+      "title": "FRN Variable Rate Fix",
+      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-162800785.html",
+      "publisher": "Business Wire",
+      "time": 1787243280,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3d858faa-55e4-325b-97f6-1eee318aacee",
+      "title": "Webinar: The Storytelling Skill Professionals Can't Skip Before Prompting AI",
+      "link": "https://finance.yahoo.com/technology/ai/articles/webinar-storytelling-skill-professionals-cant-162700318.html",
       "publisher": "PR Newswire",
-      "time": 1787240760,
+      "time": 1787243220,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a2291547-0e82-3f26-9486-ab306e0ff26d",
-      "title": "Walmart reports mixed results as gas prices drag on US sales growth",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-reports-mixed-results-gas-154542557.html",
+      "id": "3cab3f12-f7a2-32e7-8aeb-37f951b7ca03",
+      "title": "51.8% of QSR Workers Who Found Onboarding Inefficient Exited Before Starting Work, Survey Finds",
+      "link": "https://finance.yahoo.com/small-business/articles/51-8-qsr-workers-found-162600483.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787243160,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b77d5697-e782-316a-893b-39ad838fd010",
+      "title": "The Multiple Sclerosis Association of America (MSAA) Recognizes Ten-Year Milestone of Online Support Platform, My MSAA Community",
+      "link": "https://finance.yahoo.com/healthcare/articles/multiple-sclerosis-association-america-msaa-162600320.html",
+      "publisher": "PR Newswire",
+      "time": 1787243160,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0883a5de-0c44-3e6d-9925-3e02b05b31a2",
+      "title": "Hull aim to silence critics after unexpected promotion to Premier League",
+      "link": "https://finance.yahoo.com/m/0883a5de-0c44-3e6d-9925-3e02b05b31a2/hull-aim-to-silence-critics.html",
       "publisher": "AFP",
-      "time": 1787240742,
+      "time": 1787243135,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6ee05c91-db5b-3ef3-b942-f4a4ab266753",
+      "title": "Why Wolfspeed Stock Crashed Today",
+      "link": "https://finance.yahoo.com/m/6ee05c91-db5b-3ef3-b942-f4a4ab266753/why-wolfspeed-stock-crashed.html",
+      "publisher": "Motley Fool",
+      "time": 1787243105,
       "impact": "low",
       "tags": []
     }
