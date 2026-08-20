@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T20:54:59.863372+00:00",
+  "updatedAt": "2026-08-20T21:21:13.872683+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6422.06,
       "change": -22.399999999999636,
       "changePct": -0.34758536789738215,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,40 +52,65 @@
   ],
   "news": [
     {
-      "id": "cb2583eb-feef-3d0b-a3fd-d2e4d9fadd1a",
-      "title": "Why Are Strategy (MSTR) Shares Soaring Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-strategy-mstr-shares-soaring-205115514.html",
-      "publisher": "StockStory",
-      "time": 1787259075,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "09d90508-3119-3587-a663-a3ade34e014b",
-      "title": "Medtronic announces cash dividend for second quarter of fiscal year 2027",
-      "link": "https://finance.yahoo.com/healthcare/articles/medtronic-announces-cash-dividend-second-205000163.html",
-      "publisher": "PR Newswire",
-      "time": 1787259000,
+      "id": "f9a793ce-2291-3038-9877-0329a9ab366c",
+      "title": "VirTra Wins $1.5 Million US Army Contract for Firearms Training in Tajikistan",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/virtra-wins-1-5-million-211825244.html",
+      "publisher": "MT Newswires",
+      "time": 1787260705,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c0db33c9-45ec-34c4-8da6-3870b70afa51",
-      "title": "Broadcom repoirtedly seeking to raise over $60 billion for AI chip deal",
-      "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-repoirtedly-seeking-raise-over-204953745.html",
-      "publisher": "Investing.com",
-      "time": 1787258993,
+      "id": "3c2a9076-2f4a-3ac3-b823-28fb02bf5522",
+      "title": "Cematrix Adds C$8.2 Million in New Contracts",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cematrix-adds-c-8-2-211741810.html",
+      "publisher": "MT Newswires",
+      "time": 1787260661,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4a59b85e-05ff-3466-8f75-90988b7a4fb3",
-      "title": "GI MAP Test Launches Cyclospora Guidance Service for Customers With a Detected Test Result",
-      "link": "https://finance.yahoo.com/healthcare/articles/gi-map-test-launches-cyclospora-204800035.html",
-      "publisher": "PR Newswire",
-      "time": 1787258880,
+      "id": "b87e78d8-f9be-3eb5-9368-f0a7068243e4",
+      "title": "Fidelity’s 401(k) benchmark leaves many 50-year-olds short",
+      "link": "https://finance.yahoo.com/m/b87e78d8-f9be-3eb5-9368-f0a7068243e4/fidelity%E2%80%99s-401%28k%29-benchmark.html",
+      "publisher": "TheStreet",
+      "time": 1787260620,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "17e3189c-2abc-3fc1-a1e9-966345da0e38",
+      "title": "Grandmaster Tan Zhongyi Claims Second Cairns Cup Crown",
+      "link": "https://finance.yahoo.com/media-advertising/articles/grandmaster-tan-zhongyi-claims-second-211600656.html",
+      "publisher": "Business Wire",
+      "time": 1787260560,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f738c040-36fc-3293-90e7-47023c9a48a4",
+      "title": "Your Muni Income Is Invisible to One Tax Break and Fatal to Another",
+      "link": "https://finance.yahoo.com/m/f738c040-36fc-3293-90e7-47023c9a48a4/your-muni-income-is-invisible.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787260535,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "331b6110-f56d-3614-a144-34f0d5c79c37",
+      "title": "How Much of Your Portfolio Should Actually Be in FTXL",
+      "link": "https://finance.yahoo.com/m/331b6110-f56d-3614-a144-34f0d5c79c37/how-much-of-your-portfolio.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787260532,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "776a9f97-8d65-379c-8f81-0ec5afe4a093",
+      "title": "Ross Stores Lifts Earnings Outlook After Second-Quarter Beat",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-lifts-earnings-outlook-211507811.html",
+      "publisher": "MT Newswires",
+      "time": 1787260507,
       "impact": "medium",
       "tags": [
         "macro",
@@ -93,69 +118,31 @@
       ]
     },
     {
-      "id": "bb119fff-9333-3921-ab31-94113e0ba79a",
-      "title": "Warren Buffett’s Empire Just Made a Massive AI Bet Nobody Saw Coming",
-      "link": "https://finance.yahoo.com/technology/ai/articles/warren-buffett-empire-just-made-204728050.html",
-      "publisher": "Insider Monkey",
-      "time": 1787258848,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "a8413bec-5ffb-3fbf-b3f7-3cfa1b752d48",
-      "title": "FIDDLEHEAD RESOURCES CORP. ANNOUNCES Q2 2026 FINANCIAL RESULTS",
-      "link": "https://finance.yahoo.com/energy/articles/fiddlehead-resources-corp-announces-q2-204700520.html",
-      "publisher": "CNW Group",
-      "time": 1787258820,
+      "id": "b7fc0885-e71f-3e35-9c10-3690b27cf0d0",
+      "title": "DNC narrows 2028 convention race to 3 cities",
+      "link": "https://finance.yahoo.com/m/b7fc0885-e71f-3e35-9c10-3690b27cf0d0/dnc-narrows-2028-convention.html",
+      "publisher": "USA TODAY",
+      "time": 1787260453,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ce183da2-0e62-3355-9761-39210430cc12",
-      "title": "Canadian Investment Regulatory Organization Trading Halt - IRR",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-investment-regulatory-organization-trading-204700058.html",
-      "publisher": "CNW Group",
-      "time": 1787258820,
+      "id": "44debc14-ced0-3b88-8a7a-1f2935168ecb",
+      "title": "Orvera AI Featured as Core Performing on the CMP Prism for Voicebot/Conversational IVR Showcasing Capability in Customer Contact and CX Technology",
+      "link": "https://finance.yahoo.com/technology/ai/articles/orvera-ai-featured-core-performing-211300379.html",
+      "publisher": "Business Wire",
+      "time": 1787260380,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "526abde5-ddf6-45b0-8a14-2b52ca9adedc",
-      "title": "Could China's era of regulatory crackdown on tech companies be over?",
-      "link": "https://finance.yahoo.com/video/could-chinas-era-regulatory-crackdown-204634644.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1787258794,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "ab0cadfa-ac35-39ac-a36d-4d66d8e0b357",
-      "title": "B.O.S. Better Online Solutions Ltd. Q2 2026 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/m/ab0cadfa-ac35-39ac-a36d-4d66d8e0b357/b.o.s.-better-online.html",
-      "publisher": "Moby",
-      "time": 1787258792,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "6ec60b55-5e20-31b0-897b-dbd1267a73c7",
-      "title": "LSI Industries Inc. Q4 2026 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/m/6ec60b55-5e20-31b0-897b-dbd1267a73c7/lsi-industries-inc.-q4-2026.html",
-      "publisher": "Moby",
-      "time": 1787258790,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "5c9edb0b-d029-35d9-96c8-8d901e77e424",
+      "title": "John Gordon Named Interim Chief Executive Officer of Fenix Parts",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/john-gordon-named-interim-chief-211200092.html",
+      "publisher": "Business Wire",
+      "time": 1787260320,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
