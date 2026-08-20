@@ -1,118 +1,62 @@
 {
-  "updatedAt": "2026-08-20T12:34:50.356767+00:00",
+  "updatedAt": "2026-08-20T13:40:17.926009+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19795.8,
-      "change": -51.70000000000073,
-      "changePct": -0.2604862073309018,
+      "price": 19809.3,
+      "change": -38.20000000000073,
+      "changePct": -0.19246756518453573,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7707.98,
-      "change": -37.08000000000084,
-      "changePct": -0.4787567817421793,
+      "price": 7688.2,
+      "change": -3.5600000000004,
+      "changePct": -0.046283295370635594,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26331.09,
-      "change": -313.8199999999997,
-      "changePct": -1.1777859260924495,
+      "price": 26226.576,
+      "change": -63.133999999998196,
+      "changePct": -0.24014719066888984,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25917.7,
-      "change": -210.65999999999985,
-      "changePct": -0.8062503731577483,
+      "price": 25965.48,
+      "change": -162.88000000000102,
+      "changePct": -0.6233839399028528,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6409.38,
-      "change": -35.07999999999993,
-      "changePct": -0.5443435136535866,
-      "currency": null
+      "price": 6420.5,
+      "change": -23.960000000000036,
+      "changePct": -0.37179220601881363,
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.99,
-      "change": 1.0999999999999996,
-      "changePct": 7.3875083948959,
+      "price": 15.87,
+      "change": 0.9799999999999986,
+      "changePct": 6.581598388179977,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "b6401e81-2a88-325b-ab52-163758fde7d3",
-      "title": "BNP Paribas Delivers Bullish Message on Meta Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-delivers-bullish-message-123021107.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787229021,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "41f03f17-9c62-303d-b40d-55704b5c2924",
-      "title": "Leading eCommerce Retailer Expands Adoption of HawkSearch With Hybrid Search and AI Shopping Assistant",
-      "link": "https://finance.yahoo.com/technology/ai/articles/leading-ecommerce-retailer-expands-adoption-123000348.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787229000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5306ba2c-d697-376f-aa18-78ba388fab80",
-      "title": "Protagenic Therapeutics Receives FDA Pre-IND Feedback Supporting New IND for PT00114 in Generalized Anxiety Disorder",
-      "link": "https://finance.yahoo.com/healthcare/articles/protagenic-therapeutics-receives-fda-pre-123000048.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787229000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b4e1a104-6ab3-3422-a171-e1ad8a381fa0",
-      "title": "Stemtech Corporation Appoints Alejandro Carrillio President, Latin Markets",
-      "link": "https://finance.yahoo.com/healthcare/articles/stemtech-corporation-appoints-alejandro-carrillio-123000328.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787229000,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "ee667009-5ca7-3f59-8da1-efb97decaa74",
-      "title": "Lavish Enterprises Unveils FleetPath Intelligence Designed to Protect Carrier Margin When the Road Does Not Go as Planned",
-      "link": "https://finance.yahoo.com/technology/articles/lavish-enterprises-unveils-fleetpath-intelligence-123000860.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787229000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d493719f-3b39-3235-86dd-5c5175314241",
-      "title": "Good News For Amazon Stock Fans",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/good-news-amazon-stock-fans-122924505.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787228964,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c77a8c27-e725-3119-81cf-e86fc44b16ca",
-      "title": "OpenAI CFO Sarah Friar says IPO is coming in 2027",
-      "link": "https://finance.yahoo.com/m/c77a8c27-e725-3119-81cf-e86fc44b16ca/openai-cfo-sarah-friar-says.html",
-      "publisher": "Quartz",
-      "time": 1787228727,
+      "id": "3acf10ad-4a01-35d2-b5c2-cc93efe0c821",
+      "title": "Regional Bank Director Sells Over 4,500 Shares Valued at Approximately $185,000",
+      "link": "https://finance.yahoo.com/m/3acf10ad-4a01-35d2-b5c2-cc93efe0c821/regional-bank-director-sells.html",
+      "publisher": "Motley Fool",
+      "time": 1787232901,
       "impact": "medium",
       "tags": [
         "macro",
@@ -120,32 +64,90 @@
       ]
     },
     {
-      "id": "2bb4165a-f2ff-3995-85ea-73f9d1e08ee2",
-      "title": "Waste Energy Moves to Triple Midland Footprint as Company Builds Out Large-Scale Waste Processing and Conversion Campus",
-      "link": "https://finance.yahoo.com/energy/articles/waste-energy-moves-triple-midland-122500250.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787228700,
+      "id": "abc11fd3-bd62-380c-87ea-0fca17dd4b9b",
+      "title": "VIO Med Spa Signs Agreement to Enter Richmond with First Location Planned for Midlothian",
+      "link": "https://finance.yahoo.com/small-business/articles/vio-med-spa-signs-agreement-133500691.html",
+      "publisher": "PR Newswire",
+      "time": 1787232900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9350505a-be3b-310c-9ca8-52b8b09ab824",
-      "title": "ScanSource to Acquire MicroAge, a Leading IT Solutions Integrator",
-      "link": "https://finance.yahoo.com/technology/articles/scansource-acquire-microage-leading-solutions-122500412.html",
-      "publisher": "Business Wire",
-      "time": 1787228700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f0cd2e14-2faf-3834-9363-be8c902e2b34",
-      "title": "Morgan Stanley Says AI Data Centers Face a 38-Gigawatt Power Gap. These Industrial Stocks Fill It.",
-      "link": "https://finance.yahoo.com/m/f0cd2e14-2faf-3834-9363-be8c902e2b34/morgan-stanley-says-ai-data.html",
+      "id": "e1d0b552-d8a8-3643-bcb2-fe0f9635c304",
+      "title": "Prediction: This ETF Could Set You Up for Life if You Buy It Today",
+      "link": "https://finance.yahoo.com/m/e1d0b552-d8a8-3643-bcb2-fe0f9635c304/prediction%3A-this-etf-could.html",
       "publisher": "Motley Fool",
-      "time": 1787228700,
+      "time": 1787232900,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "af9021b0-0aa0-322b-821b-4f2650668e55",
+      "title": "/C O R R E C T I O N -- WrkPlan/",
+      "link": "https://finance.yahoo.com/technology/ai/articles/wrkplan-announces-major-product-expansion-123200629.html",
+      "publisher": "PR Newswire",
+      "time": 1787232840,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "14f50b03-9926-324e-b34f-7d5446949960",
+      "title": "Multiple headwinds Weighed on Enovix’s (ENVX) Performance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/multiple-headwinds-weighed-enovix-envx-133358272.html",
+      "publisher": "Insider Monkey",
+      "time": 1787232838,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "df33926a-861a-334a-a85b-59e05bddc83f",
+      "title": "Whirlpool Corporation Recognized by Seramount for Workplace Inclusion and Talent Leadership",
+      "link": "https://finance.yahoo.com/small-business/articles/whirlpool-corporation-recognized-seramount-workplace-133300143.html",
+      "publisher": "PR Newswire",
+      "time": 1787232780,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1e88b882-710b-3525-ad9e-898ef80678c6",
+      "title": "DeepOcean connects Teal West field to Anasuria FPSO in North Sea",
+      "link": "https://finance.yahoo.com/m/1e88b882-710b-3525-ad9e-898ef80678c6/deepocean-connects-teal-west.html",
+      "publisher": "Offshore Technology",
+      "time": 1787232769,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "367d8089-2bf1-3699-8ece-a2fe808c3239",
+      "title": "CANCELLATION - Rachel Bendayan to announce Government of Canada support for Roberval manufacturing business",
+      "link": "https://finance.yahoo.com/economy/policy/articles/cancellation-rachel-bendayan-announce-government-133200329.html",
+      "publisher": "CNW Group",
+      "time": 1787232720,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ed6b3acc-b179-38cd-9425-629e0b170fb4",
+      "title": "Ondas (ONDS) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/ed6b3acc-b179-38cd-9425-629e0b170fb4/ondas-%28onds%29-q2-2026-earnings.html",
+      "publisher": "Motley Fool",
+      "time": 1787232683,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "2fd5d566-f4e8-3ccf-94e2-56ae72ba4a4c",
+      "title": "X-Energy (XE) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/2fd5d566-f4e8-3ccf-94e2-56ae72ba4a4c/x-energy-%28xe%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1787232682,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
       ]
     }
   ],
