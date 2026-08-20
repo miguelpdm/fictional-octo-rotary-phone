@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T17:22:28.270642+00:00",
+  "updatedAt": "2026-08-20T17:54:25.602110+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7670.24,
-      "change": -21.520000000000437,
-      "changePct": -0.27977992033033316,
+      "price": 7666.41,
+      "change": -25.350000000000364,
+      "changePct": -0.3295734656307576,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26101.193,
-      "change": -188.51699999999983,
-      "changePct": -0.7170752359002812,
+      "price": 26104.016,
+      "change": -185.6939999999995,
+      "changePct": -0.7063371942862797,
       "currency": "USD"
     },
     {
@@ -39,107 +39,114 @@
       "price": 6422.06,
       "change": -22.399999999999636,
       "changePct": -0.34758536789738215,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.66,
-      "change": 0.7699999999999996,
-      "changePct": 5.1712558764271295,
+      "price": 15.87,
+      "change": 0.9799999999999986,
+      "changePct": 6.581598388179977,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "0f4cb855-5ced-3d10-9a8b-c0bc515bfc75",
-      "title": "Nordson Stock Jumps as AI Demand Sends Backlog Soaring 35%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nordson-stock-jumps-ai-demand-171841485.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787246321,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9f812830-9ae4-3d7f-8948-4028b2b7b9fa",
-      "title": "The playbook for college sports revenue is expanding from logos and fees to entertainment districts",
-      "link": "https://finance.yahoo.com/m/9f812830-9ae4-3d7f-8948-4028b2b7b9fa/the-playbook-for-college.html",
-      "publisher": "Associated Press",
-      "time": 1787246284,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "28c01072-4bf9-341e-b3e9-73464546dfc9",
-      "title": "Liquidations hit highest level since Oct. 10 crypto market crash",
-      "link": "https://finance.yahoo.com/m/28c01072-4bf9-341e-b3e9-73464546dfc9/liquidations-hit-highest.html",
+      "id": "536d8277-4966-33ee-8064-bd5e4c635929",
+      "title": "Dividend King pays Warren Buffett's Berkshire $848M each year",
+      "link": "https://finance.yahoo.com/m/536d8277-4966-33ee-8064-bd5e4c635929/dividend-king-pays-warren.html",
       "publisher": "TheStreet",
-      "time": 1787246271,
+      "time": 1787248221,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "b64e0157-1e89-39b1-a1fd-f44ec8af9c50",
+      "title": "India’s Spark Minda to invest Rs11.66bn in two new manufacturing units",
+      "link": "https://finance.yahoo.com/m/b64e0157-1e89-39b1-a1fd-f44ec8af9c50/india%E2%80%99s-spark-minda-to-invest.html",
+      "publisher": "Just Auto",
+      "time": 1787248163,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "241a163d-2824-3770-a854-c166248a2d0c",
+      "title": "Vascarta Outlines Proposed Mechanistic Link Between VAS-101's (Vasceptor®) Vascular and Red Blood Cell Effects in Sickle Cell Disease",
+      "link": "https://finance.yahoo.com/healthcare/articles/vascarta-outlines-proposed-mechanistic-between-174900516.html",
+      "publisher": "PR Newswire",
+      "time": 1787248140,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3a51bf22-7b20-3219-8ac7-13d5394496f5",
+      "title": "Boeing, Northrop, RTX to Provide Military Aircraft to Qatar in Proposed Sale, US State Department Says",
+      "link": "https://finance.yahoo.com/economy/policy/articles/boeing-northrop-rtx-military-aircraft-174731293.html",
+      "publisher": "MT Newswires",
+      "time": 1787248051,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5cc18ab6-a0b0-350e-aa30-a38acc51b24e",
+      "title": "Consumer Discretionary - Specialized Consumer Services Stocks Q2 Results: Benchmarking ADT (NYSE:ADT)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/consumer-discretionary-specialized-consumer-services-174715398.html",
+      "publisher": "StockStory",
+      "time": 1787248035,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "786ff1f4-67ec-3c0c-9bbf-75482001a58a",
-      "title": "Sector Update: Energy",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-171705378.html",
-      "publisher": "MT Newswires",
-      "time": 1787246225,
+      "id": "c6e728a4-8587-3cee-9438-0c2f3f919805",
+      "title": "CCC Announces Proposed Private Placement of Units and Appointment of Michael Minas as VP Capital Markets",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ccc-announces-proposed-private-placement-174700277.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787248020,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "60e1f90e-39d3-3a01-a034-7b94726ee722",
+      "title": "Billionaire Stanley Druckenmiller Dumped Micron, Intel, and Broadcom: Here Are the AI Infrastructure Stocks He Bought Instead",
+      "link": "https://finance.yahoo.com/m/60e1f90e-39d3-3a01-a034-7b94726ee722/billionaire-stanley.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787247977,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "e0ea905f-1129-3716-9ed2-36ad297fcff1",
+      "title": "XRP Notches Best Week Since 2024 Election Pump on Bitcoin Short Squeeze",
+      "link": "https://finance.yahoo.com/m/e0ea905f-1129-3716-9ed2-36ad297fcff1/xrp-notches-best-week-since.html",
+      "publisher": "decrypt",
+      "time": 1787247968,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "47597045-2f3c-3170-9fae-58ea4b46ffa6",
-      "title": "Micaela Wall Voted 2026 Winston-Salem Journal Readers' Choice Favorite Real Estate Agent",
-      "link": "https://finance.yahoo.com/real-estate/articles/micaela-wall-voted-2026-winston-171700390.html",
-      "publisher": "PR Newswire",
-      "time": 1787246220,
+      "id": "2ee2559e-cb39-3c66-8aec-4e5d8c8258ed",
+      "title": "PCI Energy Solutions to Join Mitsubishi Electric, Reinforcing Long-Term Commitment to Customers, Employees, and the Energy Industry",
+      "link": "https://finance.yahoo.com/energy/articles/pci-energy-solutions-join-mitsubishi-174600357.html",
+      "publisher": "Business Wire",
+      "time": 1787247960,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "93bf2818-1a78-3847-9bf6-fca208abf48c",
-      "title": "Century Communities Announces Grand Opening of New Home Phase at Uplands in Puyallup, Washington",
-      "link": "https://finance.yahoo.com/real-estate/articles/century-communities-announces-grand-opening-171700948.html",
-      "publisher": "PR Newswire",
-      "time": 1787246220,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "36edf3bf-f2ba-31ba-8bc4-38bf7f39339c",
-      "title": "Apple Holds Firm as Investors Seek Big Tech's Defensive Outlier",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-holds-firm-investors-seek-171642756.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787246202,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0b08ba51-306e-3abf-849f-1e4649663486",
-      "title": "Grown-Up Gear 2026: The Best Laptop Backpacks for Back-to-School and Office Commutes to Shop Online",
-      "link": "https://finance.yahoo.com/m/0b08ba51-306e-3abf-849f-1e4649663486/grown-up-gear-2026%3A-the-best.html",
-      "publisher": "Variety",
-      "time": 1787246191,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "307bbc9d-e7eb-3109-a6eb-ab1b6025e502",
-      "title": "Bishop's University Secures Nearly $700,000 in Research Infrastructure Funding",
-      "link": "https://finance.yahoo.com/technology/articles/bishops-university-secures-nearly-700-171600578.html",
-      "publisher": "CNW Group",
-      "time": 1787246160,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e7655a5d-b7fb-325a-956f-d87e01e8749f",
-      "title": "Amazon Rufus Optimisation: What Brands Should Look for in AI Shopping Visibility Tools",
-      "link": "https://finance.yahoo.com/technology/ai/articles/amazon-rufus-optimisation-brands-look-171600719.html",
+      "id": "2fba60eb-780f-33f7-9074-7184a444c0c6",
+      "title": "Luxury NEV Maker SERES Reports 2026 First-Half Results: Revenue of 57.493 Billion Yuan, AITO Deliveries Increased 10.2% YoY",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/luxury-nev-maker-seres-reports-174600294.html",
       "publisher": "GlobeNewswire",
-      "time": 1787246160,
+      "time": 1787247960,
       "impact": "low",
       "tags": []
     }
