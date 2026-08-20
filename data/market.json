@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T22:53:37.148648+00:00",
+  "updatedAt": "2026-08-20T23:19:30.016758+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6422.06,
       "change": -22.399999999999636,
       "changePct": -0.34758536789738215,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,115 +52,101 @@
   ],
   "news": [
     {
-      "id": "aca15b1f-f67e-3aa7-94d4-f172ba9d581c",
-      "title": "Oracle Corporation (ORCL) vs. Amazon.com (AMZN): Which AI Infrastructure Giant Is Better Positioned for Long-Term Growth?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-corporation-orcl-vs-amazon-225036836.html",
-      "publisher": "Insider Monkey",
-      "time": 1787266236,
+      "id": "da32d764-033f-3eb0-9454-799b6ab6753c",
+      "title": "Dozens of charges filed, Greiner arrested in alleged funeral home fraud",
+      "link": "https://finance.yahoo.com/m/da32d764-033f-3eb0-9454-799b6ab6753c/dozens-of-charges-filed%2C.html",
+      "publisher": "The Tribune-Star, Terre Haute, Ind.",
+      "time": 1787267760,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "25911982-30ce-3025-abde-83321a03be66",
-      "title": "Intellicheck (IDN) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/25911982-30ce-3025-abde-83321a03be66/intellicheck-%28idn%29-q2-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1787265913,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "3e8c6c0b-26a0-3836-8c2d-3bda9dfc3a80",
+      "title": "Brii Biosciences Provides Corporate Updates and Reports 2026 Interim Financial Results",
+      "link": "https://finance.yahoo.com/healthcare/articles/brii-biosciences-provides-corporate-updates-231000936.html",
+      "publisher": "PR Newswire",
+      "time": 1787267400,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "3ba2403f-4f78-33f4-a0ff-096f107c72e2",
-      "title": "NextNRG (NXXT) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/3ba2403f-4f78-33f4-a0ff-096f107c72e2/nextnrg-%28nxxt%29-q2-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1787265913,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "2fbe15be-5b24-3694-a03a-19172ab0deb4",
+      "title": "Keystone Substance Abuse Services Rebrands as Keystone Behavioral Health, Expanding Behavioral Health Services in York County",
+      "link": "https://finance.yahoo.com/healthcare/articles/keystone-substance-abuse-services-rebrands-230900108.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787267340,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "50929771-6731-3d6d-a53d-64687be1e077",
-      "title": "ImmuCell (ICCC) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/50929771-6731-3d6d-a53d-64687be1e077/immucell-%28iccc%29-q2-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1787265913,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "79d41fde-0f12-33e3-8d83-8c33474cb043",
-      "title": "Sensus (SRTS) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/79d41fde-0f12-33e3-8d83-8c33474cb043/sensus-%28srts%29-q2-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1787265913,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "14460e9b-dc54-33ca-bd9d-d7eb1693b1d7",
-      "title": "Curtiss-Wright, Redwire, Rocket Lab, Astronics, and Woodward Shares Are Falling, What You Need To Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-redwire-rocket-lab-224315943.html",
+      "id": "9ed9bd48-a94b-3438-a079-ac6d1c93b266",
+      "title": "Best Buy, Dick's, Floor And Decor, RH, and Zumiez Stocks Trade Down, What You Need To Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/best-buy-dicks-floor-decor-230700790.html",
       "publisher": "StockStory",
-      "time": 1787265795,
-      "impact": "high",
+      "time": 1787267220,
+      "impact": "medium",
       "tags": [
-        "geo",
+        "geo"
+      ]
+    },
+    {
+      "id": "8a3d0792-23f4-37d8-891d-c787663947c2",
+      "title": "Brookfield Renewable to Issue C$750 Million of Green Bonds",
+      "link": "https://finance.yahoo.com/energy/articles/brookfield-renewable-issue-c-750-230600346.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787267160,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "45900762-9bed-3e6c-b440-ea2b214032c6",
+      "title": "Texas cities among 2026 best US real estate markets",
+      "link": "https://finance.yahoo.com/m/45900762-9bed-3e6c-b440-ea2b214032c6/texas-cities-among-2026-best.html",
+      "publisher": "USA TODAY",
+      "time": 1787267119,
+      "impact": "low",
+      "tags": [
         "macro"
       ]
     },
     {
-      "id": "55b8d7e2-6dd5-31a8-8fc0-22db92ae3ea6",
-      "title": "Faraday Future (FFAI) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/55b8d7e2-6dd5-31a8-8fc0-22db92ae3ea6/faraday-future-%28ffai%29-q2-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1787265785,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "985ee7db-92b4-398e-8f8c-787e7843eefe",
-      "title": "Cibus (CBUS) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/985ee7db-92b4-398e-8f8c-787e7843eefe/cibus-%28cbus%29-q2-2026-earnings.html",
-      "publisher": "Motley Fool",
-      "time": 1787265785,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "caa8256e-e7f5-3309-93d9-b1156857e789",
-      "title": "Are Phillips 66 (PSX) and Marathon Petroleum Corporation (MPC) Still Attractive After the $180 Billion Deal Collapse?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-psx-marathon-petroleum-224300009.html",
+      "id": "3b6e4607-90fa-3f68-b153-d8d2b2305f33",
+      "title": "Can Abbott Laboratories (ABT)’s Instinct Sensor Give MiniMed Group (MMED) a Competitive Edge?",
+      "link": "https://finance.yahoo.com/healthcare/articles/abbott-laboratories-abt-instinct-sensor-230447435.html",
       "publisher": "Insider Monkey",
-      "time": 1787265780,
+      "time": 1787267087,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "82688950-91b6-3db7-b276-042f59d21bb7",
-      "title": "Precision Tree Service Announces Official Domain Migration to PrecisionTree.Services and Expanded Emergency Care Operations",
-      "link": "https://finance.yahoo.com/small-business/articles/precision-tree-announces-official-domain-224100183.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787265660,
+      "id": "6c3744bc-aa22-3cf7-9fa7-70b6efe9c744",
+      "title": "Walmart's mesh shower caddy for travel or dorm life is marked down to only $14",
+      "link": "https://finance.yahoo.com/m/6c3744bc-aa22-3cf7-9fa7-70b6efe9c744/walmart%27s-mesh-shower-caddy.html",
+      "publisher": "TheStreet",
+      "time": 1787266980,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "123fe691-5ff8-314c-b18d-2e4cccc798c2",
+      "title": "Ex-Google engineer's conviction for stealing AI secrets partially overturned",
+      "link": "https://finance.yahoo.com/m/123fe691-5ff8-314c-b18d-2e4cccc798c2/ex-google-engineer%27s.html",
+      "publisher": "Reuters",
+      "time": 1787266971,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "19f1f277-bb1d-377f-a3cb-0edcdb227673",
+      "title": "Ross Stores Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/19f1f277-bb1d-377f-a3cb-0edcdb227673/ross-stores-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1787266965,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
