@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T21:52:08.999175+00:00",
+  "updatedAt": "2026-08-20T22:19:37.979652+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6422.06,
       "change": -22.399999999999636,
       "changePct": -0.34758536789738215,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,109 +52,96 @@
   ],
   "news": [
     {
-      "id": "28de4320-5d84-3f16-a58e-28ca840bb555",
-      "title": "FedEx, UPS Awarded $2.72 Billion Contract Modifications by Transportation Command",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fedex-ups-awarded-2-72-214940269.html",
-      "publisher": "MT Newswires",
-      "time": 1787262580,
-      "impact": "high",
+      "id": "50f24072-701e-3a40-a7a7-5cf47309f21d",
+      "title": "US charges woman with IS-inspired plot to blow up New York State Capitol",
+      "link": "https://finance.yahoo.com/m/50f24072-701e-3a40-a7a7-5cf47309f21d/us-charges-woman-with.html",
+      "publisher": "AFP",
+      "time": 1787264065,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "91327cea-fed2-33ed-a182-385b27c0298f",
+      "title": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
+      "link": "https://finance.yahoo.com/m/91327cea-fed2-33ed-a182-385b27c0298f/dow-jones-futures%3A-market.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787264044,
+      "impact": "low",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "5a68d9c9-031f-3710-bc72-94a39c7e357e",
-      "title": "Michael Burry says Nvidia rival is quietly getting serious",
-      "link": "https://finance.yahoo.com/m/5a68d9c9-031f-3710-bc72-94a39c7e357e/michael-burry-says-nvidia.html",
+      "id": "e197fecf-32fe-3ae1-b3c5-6de6320ac590",
+      "title": "Wall Street sinks as bond yields rise, Walmart results disappoint",
+      "link": "https://finance.yahoo.com/video/wall-street-sinks-bond-yields-221146360.html",
+      "publisher": "Reuters Videos",
+      "time": 1787263906,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0f517725-23f2-32be-b1fc-a61a2606bb53",
+      "title": "49th Parallel Wealth Management Closes Out a Summer of Cross-Border Innovation -- Free Tools, an Audiobook, and a New App, With a Hardcover Edition on the Way",
+      "link": "https://finance.yahoo.com/small-business/articles/49th-parallel-wealth-management-closes-221100019.html",
+      "publisher": "CNW Group",
+      "time": 1787263860,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "52a4118a-2f13-349f-910d-2fdae3157c2b",
+      "title": "Coinbase CEO predicts 450% upside for Bitcoin",
+      "link": "https://finance.yahoo.com/m/52a4118a-2f13-349f-910d-2fdae3157c2b/coinbase-ceo-predicts-450%25.html",
       "publisher": "TheStreet",
-      "time": 1787262420,
+      "time": 1787263775,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e6ca287c-55d0-3289-87ca-029c976d201a",
-      "title": "KBRA Assigns A+ Rating With a Stable Outlook to Chicago O'Hare International Airport Senior Lien GARBs",
-      "link": "https://finance.yahoo.com/real-estate/articles/kbra-assigns-rating-stable-outlook-214700594.html",
+      "id": "58b88cad-047e-3ea5-8e8b-1a2f966c2211",
+      "title": "Jailed Pakistan ex-PM Khan moved to hospital on court order: party",
+      "link": "https://finance.yahoo.com/m/58b88cad-047e-3ea5-8e8b-1a2f966c2211/jailed-pakistan-ex-pm-khan.html",
+      "publisher": "AFP",
+      "time": 1787263684,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6fd9ce88-a116-392c-b8b2-f46c6982b026",
+      "title": "Trump Calls for ‘Economic D-Day’ on Iran as US Seeks to Restore Hormuz Shipping",
+      "link": "https://finance.yahoo.com/m/6fd9ce88-a116-392c-b8b2-f46c6982b026/trump-calls-for-%E2%80%98economic.html",
+      "publisher": "Sourcing Journal",
+      "time": 1787263683,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cbd98693-ee1a-338c-ba47-3d5dd12a954b",
+      "title": "Maradona trial on hold over possible medical evidence mix-up",
+      "link": "https://finance.yahoo.com/m/cbd98693-ee1a-338c-ba47-3d5dd12a954b/maradona-trial-on-hold-over.html",
+      "publisher": "AFP",
+      "time": 1787263655,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "90912a41-32b9-3ad4-ac85-14804fd55ae8",
+      "title": "CORRECTING and REPLACING Amid Declining Book Value, ACRES Commercial Realty Struggles to Sell REO Property Due to Labor Dispute with Philadelphia Hospitality Union UNITE HERE Local 274",
+      "link": "https://finance.yahoo.com/real-estate/articles/amid-declining-book-value-acres-144000848.html",
       "publisher": "Business Wire",
-      "time": 1787262420,
+      "time": 1787263620,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "308eb4b4-f2eb-38b4-ac97-2f5eb8960dee",
-      "title": "How a 67-Year-Old’s $4,830 Monthly Paycheck From SCHD, JEPQ, and O Shrinks to $3,822 After Taxes",
-      "link": "https://finance.yahoo.com/m/308eb4b4-f2eb-38b4-ac97-2f5eb8960dee/how-a-67-year-old%E2%80%99s-%244%2C830.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787262316,
+      "id": "c6fe9621-5143-322d-8b91-e8c2afc9e11e",
+      "title": "JPMorgan sees 100% upside in overlooked cancer drug stock",
+      "link": "https://finance.yahoo.com/m/c6fe9621-5143-322d-8b91-e8c2afc9e11e/jpmorgan-sees-100%25-upside-in.html",
+      "publisher": "TheStreet",
+      "time": 1787263620,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "109fec68-b4fc-3cf4-a6d8-52bc4c3a1cf9",
-      "title": "Layoffs at JPMorgan Hit Highest Level Since 2015",
-      "link": "https://finance.yahoo.com/m/109fec68-b4fc-3cf4-a6d8-52bc4c3a1cf9/layoffs-at-jpmorgan-hit.html",
-      "publisher": "Barrons.com",
-      "time": 1787262300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3d2480f6-123b-3562-a8d6-77af6ef822ee",
-      "title": "Massachusetts city can't display Catholic statues, high court rules",
-      "link": "https://finance.yahoo.com/m/3d2480f6-123b-3562-a8d6-77af6ef822ee/massachusetts-city-can%27t.html",
-      "publisher": "USA TODAY",
-      "time": 1787262287,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "13fffdd3-0810-34ad-8aac-20643870cc4f",
-      "title": "Jefferson Capital (JCAP) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/13fffdd3-0810-34ad-8aac-20643870cc4f/jefferson-capital-%28jcap%29-q2.html",
-      "publisher": "Motley Fool",
-      "time": 1787262225,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e325946b-350d-3c8c-a7c6-6619ac379b8f",
-      "title": "Newsmax (NMAX) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/e325946b-350d-3c8c-a7c6-6619ac379b8f/newsmax-%28nmax%29-q2-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1787262225,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "f8f0660c-9e42-3267-b5a6-d15eab2e5d0b",
-      "title": "Kyntra Bio (KYNB) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/f8f0660c-9e42-3267-b5a6-d15eab2e5d0b/kyntra-bio-%28kynb%29-q2-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1787262224,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "49427d95-ecca-3979-b781-5fd1d98edcb2",
-      "title": "Bessent: “I Don’t Really Understand” Oil Price Spike, As Iran War Nears 6 Month Mark",
-      "link": "https://finance.yahoo.com/m/49427d95-ecca-3979-b781-5fd1d98edcb2/bessent%3A-%E2%80%9Ci-don%E2%80%99t-really.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787262217,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
     }
   ],
   "errors": {
