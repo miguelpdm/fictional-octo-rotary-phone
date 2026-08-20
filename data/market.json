@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T05:54:52.829271+00:00",
+  "updatedAt": "2026-08-20T06:34:59.359997+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,94 +52,96 @@
   ],
   "news": [
     {
-      "id": "785c35ec-bb9e-357b-b52c-9a75363e6a28",
-      "title": "US India ambassador's Kashmir remarks rile Pakistan; envoy summoned",
-      "link": "https://finance.yahoo.com/m/785c35ec-bb9e-357b-b52c-9a75363e6a28/us-india-ambassador%27s-kashmir.html",
+      "id": "35391a8c-21f5-369a-a194-055033c7161a",
+      "title": "Baidu's Apollo Go Goes Live on Uber in Dubai, Offering a New Way for Users to Hail Fully Driverless Rides",
+      "link": "https://finance.yahoo.com/technology/ai/articles/baidus-apollo-goes-live-uber-063000554.html",
+      "publisher": "PR Newswire",
+      "time": 1787207400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "422f62de-959d-3495-8ff9-0452f614ee26",
+      "title": "Pixelgen Technologies Closes $15.5M Oversubscribed Series B to Accelerate Global Expansion",
+      "link": "https://finance.yahoo.com/healthcare/articles/pixelgen-technologies-closes-15-5m-063000030.html",
+      "publisher": "PR Newswire",
+      "time": 1787207400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4868c474-3163-39b3-af3c-e256a276da5f",
+      "title": "Uber Launches Baidu’s Fully Driverless Apollo Go in Dubai, Establishing the First Multi-Partner Autonomous Network Globally",
+      "link": "https://finance.yahoo.com/technology/ai/articles/uber-launches-baidu-fully-driverless-063000807.html",
+      "publisher": "Business Wire",
+      "time": 1787207400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "69f40e47-8cbd-3acc-9bb4-0b99cc90d7ea",
+      "title": "IRIS Optronics Pushes Infinity® Solar-Powered ChLCD E-Paper Technology to New Heights with 31.5-Inch Outdoor Display and Embedded Perovskite Indoor Solution",
+      "link": "https://finance.yahoo.com/technology/articles/iris-optronics-pushes-infinity-solar-063000626.html",
+      "publisher": "PR Newswire",
+      "time": 1787207400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8dd3529b-d689-3f7b-a91d-47504b174e1c",
+      "title": "Bry-Air Sets a New Global Pathway for Air to Water Generation",
+      "link": "https://finance.yahoo.com/technology/articles/bry-air-sets-global-pathway-063000084.html",
+      "publisher": "PR Newswire",
+      "time": 1787207400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "71a5d630-6bfb-325a-9224-4a1a89e2dc5b",
+      "title": "ICG: Oxy Capital Comments on the Half-Year Results of Irish Continental Group PLC (\"ICG\") and the Independent Board’s Response to Its Letter",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/icg-oxy-capital-comments-half-062900419.html",
+      "publisher": "Business Wire",
+      "time": 1787207340,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fee858ba-6ea2-3548-8dbd-ed2193ffae4b",
+      "title": "China jails founder, fines disgraced property giant Evergrande",
+      "link": "https://finance.yahoo.com/real-estate/articles/china-jails-founder-fines-disgraced-062628083.html",
       "publisher": "AFP",
-      "time": 1787204913,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fc4a6ccc-c7ab-3a14-8b8d-472b80293f24",
-      "title": "Europe's gas prices have doubled, with the worst yet to come",
-      "link": "https://finance.yahoo.com/m/fc4a6ccc-c7ab-3a14-8b8d-472b80293f24/europe%27s-gas-prices-have.html",
-      "publisher": "Euronews",
-      "time": 1787204866,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "67a18329-4174-36c8-808e-338c91149c41",
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "link": "https://finance.yahoo.com/m/67a18329-4174-36c8-808e-338c91149c41/stock-market%3A-will-s%26p-500.html",
-      "publisher": "Benzinga Prediction Markets",
-      "time": 1787204708,
-      "impact": "low",
+      "time": 1787207188,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "geo"
       ]
     },
     {
-      "id": "8d95ddcf-629b-3e34-8f07-40505fa26b21",
-      "title": "TCM Group A/S: Interim report Q2 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tcm-group-interim-report-q2-054000121.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787204400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "321d79c4-bc82-3c4f-9fa1-64bcc3138360",
-      "title": "Snap's CFO Sells Nearly 132,000 Shares. Here's What That Means for Investors.",
-      "link": "https://finance.yahoo.com/m/321d79c4-bc82-3c4f-9fa1-64bcc3138360/snap%27s-cfo-sells-nearly.html",
-      "publisher": "Motley Fool",
-      "time": 1787204098,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "dbb2d0ae-f75a-3254-b57d-10318e3c512a",
-      "title": "ALK appoints Jacob Glenting as head of Global R&D",
-      "link": "https://finance.yahoo.com/healthcare/articles/alk-appoints-jacob-glenting-head-053300186.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787203980,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e6e61636-d708-3826-931c-793b9b029294",
-      "title": "MagIron Demonstrates Excellent Direct Reduction Pellet Quality in Latest Test Program",
-      "link": "https://finance.yahoo.com/energy/articles/magiron-demonstrates-excellent-direct-reduction-053300284.html",
-      "publisher": "PR Newswire",
-      "time": 1787203980,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4876c17b-8112-32c8-95f7-99c07f955685",
-      "title": "Six-month interim report (Q2) 2026 (unaudited)",
-      "link": "https://finance.yahoo.com/healthcare/articles/six-month-interim-report-q2-053000109.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787203800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1908ff05-4c5a-37e6-b760-42e39b3a0c3e",
-      "title": "Rafts on Rome's Tiber River cool down overheated tourists",
-      "link": "https://finance.yahoo.com/m/1908ff05-4c5a-37e6-b760-42e39b3a0c3e/rafts-on-rome%27s-tiber-river.html",
-      "publisher": "AFP",
-      "time": 1787203716,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "abfadb26-615a-3b41-8ae6-11da07992d81",
-      "title": "SK Hynix to pay 60% of employee bonuses in company stock under preliminary deal, says source",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-pay-60-employee-052723081.html",
+      "id": "0f64db44-564d-36fa-9a9c-a50f8feae1ef",
+      "title": "China puts robocops on traffic duty, minus the arrest powers",
+      "link": "https://finance.yahoo.com/m/0f64db44-564d-36fa-9a9c-a50f8feae1ef/china-puts-robocops-on.html",
       "publisher": "Reuters",
-      "time": 1787203643,
+      "time": 1787207115,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "1e131053-b89d-3784-af98-16113f80f2ad",
+      "title": "Nvidia Chip-Filled Data Centers Need More Power Than Any Utility Can Promise. Here's Who Actually Wins.",
+      "link": "https://finance.yahoo.com/m/1e131053-b89d-3784-af98-16113f80f2ad/nvidia-chip-filled-data.html",
+      "publisher": "Motley Fool",
+      "time": 1787207100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "180a298b-6db7-37e3-91de-8ed4db8d178e",
+      "title": "Akiram Therapeutics and ITM Sign Lutetium-177 Supply Agreement to Support Development of AKIR001 for the Treatment of Solid Tumors",
+      "link": "https://finance.yahoo.com/healthcare/articles/akiram-therapeutics-itm-sign-lutetium-062200774.html",
+      "publisher": "PR Newswire",
+      "time": 1787206920,
       "impact": "low",
       "tags": []
     }
