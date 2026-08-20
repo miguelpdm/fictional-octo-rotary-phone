@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T05:02:41.926224+00:00",
+  "updatedAt": "2026-08-20T05:54:52.829271+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6444.46,
       "change": -23.710000000000036,
       "changePct": -0.36656426779135426,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,106 +52,96 @@
   ],
   "news": [
     {
-      "id": "371dce37-a30a-3f4c-9d26-7c939ab98139",
-      "title": "Australia says relations with Israel 'difficult' after aid worker death",
-      "link": "https://finance.yahoo.com/m/371dce37-a30a-3f4c-9d26-7c939ab98139/australia-says-relations-with.html",
+      "id": "785c35ec-bb9e-357b-b52c-9a75363e6a28",
+      "title": "US India ambassador's Kashmir remarks rile Pakistan; envoy summoned",
+      "link": "https://finance.yahoo.com/m/785c35ec-bb9e-357b-b52c-9a75363e6a28/us-india-ambassador%27s-kashmir.html",
       "publisher": "AFP",
-      "time": 1787201616,
+      "time": 1787204913,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "617a0da4-8745-3e3f-93f9-8a3141a7c035",
-      "title": "Department of International Trade Promotion Organizes ELMA 2026 Award Presentation Ceremony Honoring Thai Logistics Businesses and Showcasing Excellence in Logistics Management",
-      "link": "https://finance.yahoo.com/small-business/articles/department-international-trade-promotion-organizes-044900845.html",
-      "publisher": "PR Newswire",
-      "time": 1787201340,
-      "impact": "high",
+      "id": "fc4a6ccc-c7ab-3a14-8b8d-472b80293f24",
+      "title": "Europe's gas prices have doubled, with the worst yet to come",
+      "link": "https://finance.yahoo.com/m/fc4a6ccc-c7ab-3a14-8b8d-472b80293f24/europe%27s-gas-prices-have.html",
+      "publisher": "Euronews",
+      "time": 1787204866,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "67a18329-4174-36c8-808e-338c91149c41",
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "link": "https://finance.yahoo.com/m/67a18329-4174-36c8-808e-338c91149c41/stock-market%3A-will-s%26p-500.html",
+      "publisher": "Benzinga Prediction Markets",
+      "time": 1787204708,
+      "impact": "low",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "c95f3338-8504-333f-80de-d69e3260d7c6",
-      "title": "Samsung Electroncis to announce more than $72 billion shareholder return programme, media reports",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-electroncis-announce-more-72-044425750.html",
-      "publisher": "Reuters",
-      "time": 1787201065,
+      "id": "8d95ddcf-629b-3e34-8f07-40505fa26b21",
+      "title": "TCM Group A/S: Interim report Q2 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tcm-group-interim-report-q2-054000121.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787204400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "df6b4d29-310d-3dd3-a405-693c3d1cb4f1",
-      "title": "AppLovin vs. CoreWeave: What Recent Revenue Trends Tell Investors",
-      "link": "https://finance.yahoo.com/m/df6b4d29-310d-3dd3-a405-693c3d1cb4f1/applovin-vs.-coreweave%3A-what.html",
+      "id": "321d79c4-bc82-3c4f-9fa1-64bcc3138360",
+      "title": "Snap's CFO Sells Nearly 132,000 Shares. Here's What That Means for Investors.",
+      "link": "https://finance.yahoo.com/m/321d79c4-bc82-3c4f-9fa1-64bcc3138360/snap%27s-cfo-sells-nearly.html",
       "publisher": "Motley Fool",
-      "time": 1787201006,
+      "time": 1787204098,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "27da2793-3b3f-3541-9da0-5bf1c41b4e41",
-      "title": "Morning Bid: How long can this Bessent put last?",
-      "link": "https://finance.yahoo.com/markets/articles/morning-bid-long-bessent-put-043153433.html",
-      "publisher": "Reuters",
-      "time": 1787200313,
+      "id": "dbb2d0ae-f75a-3254-b57d-10318e3c512a",
+      "title": "ALK appoints Jacob Glenting as head of Global R&D",
+      "link": "https://finance.yahoo.com/healthcare/articles/alk-appoints-jacob-glenting-head-053300186.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787203980,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "10c0a1fb-cc91-39d3-aec8-158e2bfa5e58",
-      "title": "BIDU Rebounds After Q2 Selloff: Morgan Stanley Downgrades Stock, Sees More Earnings Pressure From AI Spending",
-      "link": "https://finance.yahoo.com/m/10c0a1fb-cc91-39d3-aec8-158e2bfa5e58/bidu-rebounds-after-q2.html",
-      "publisher": "Stocktwits",
-      "time": 1787200290,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "76a44192-8053-35ce-9620-2763b75adbd2",
-      "title": "Messi scores first goal since father's death in Miami draw",
-      "link": "https://finance.yahoo.com/m/76a44192-8053-35ce-9620-2763b75adbd2/messi-scores-first-goal-since.html",
-      "publisher": "AFP",
-      "time": 1787200237,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3b0a4434-49e1-341c-b060-5fbc1659bba1",
-      "title": "Four Variants. Four World Beer Awards Honours. Simba's Portfolio Earns Global Recognition Across Two Consecutive Years",
-      "link": "https://finance.yahoo.com/media-advertising/articles/four-variants-four-world-beer-043000201.html",
+      "id": "e6e61636-d708-3826-931c-793b9b029294",
+      "title": "MagIron Demonstrates Excellent Direct Reduction Pellet Quality in Latest Test Program",
+      "link": "https://finance.yahoo.com/energy/articles/magiron-demonstrates-excellent-direct-reduction-053300284.html",
       "publisher": "PR Newswire",
-      "time": 1787200200,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "bcc490e5-84f6-350a-8cba-85b13caa9bf8",
-      "title": "Walmart is selling a set of 2 cooling memory foam pillows for only $20",
-      "link": "https://finance.yahoo.com/m/bcc490e5-84f6-350a-8cba-85b13caa9bf8/walmart-is-selling-a-set-of-2.html",
-      "publisher": "TheStreet",
-      "time": 1787200200,
+      "time": 1787203980,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ad2242dc-1a07-3a4f-b80f-2d9334057ba6",
-      "title": "Can McDonald's Holdings Company (Japan) (TSE:2702) Justify Its Valuation Following Its H1 2026 Earnings Call?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-holdings-company-japan-tse-042944670.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787200184,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "4876c17b-8112-32c8-95f7-99c07f955685",
+      "title": "Six-month interim report (Q2) 2026 (unaudited)",
+      "link": "https://finance.yahoo.com/healthcare/articles/six-month-interim-report-q2-053000109.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787203800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1908ff05-4c5a-37e6-b760-42e39b3a0c3e",
+      "title": "Rafts on Rome's Tiber River cool down overheated tourists",
+      "link": "https://finance.yahoo.com/m/1908ff05-4c5a-37e6-b760-42e39b3a0c3e/rafts-on-rome%27s-tiber-river.html",
+      "publisher": "AFP",
+      "time": 1787203716,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "abfadb26-615a-3b41-8ae6-11da07992d81",
+      "title": "SK Hynix to pay 60% of employee bonuses in company stock under preliminary deal, says source",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-pay-60-employee-052723081.html",
+      "publisher": "Reuters",
+      "time": 1787203643,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
