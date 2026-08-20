@@ -1,62 +1,74 @@
 {
-  "updatedAt": "2026-08-20T15:06:17.694435+00:00",
+  "updatedAt": "2026-08-20T15:57:37.215721+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19823.2,
-      "change": -24.299999999999272,
-      "changePct": -0.12243355586345521,
+      "price": 19811.0,
+      "change": -36.5,
+      "changePct": -0.1839022546920267,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7690.79,
-      "change": -0.9700000000002547,
-      "changePct": -0.0126108978959335,
+      "price": 7677.0,
+      "change": -14.760000000000218,
+      "changePct": -0.19189366282879625,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26152.297,
-      "change": -137.41300000000047,
-      "changePct": -0.5226873936608676,
+      "price": 26103.615,
+      "change": -186.09499999999753,
+      "changePct": -0.7078625059005883,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25991.01,
-      "change": -137.35000000000218,
-      "changePct": -0.5256740185759924,
+      "price": 25983.04,
+      "change": -145.3199999999997,
+      "changePct": -0.5561772725115534,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6427.61,
-      "change": -16.850000000000364,
-      "changePct": -0.26146488611924606,
-      "currency": "EUR"
+      "price": 6422.06,
+      "change": -22.399999999999636,
+      "changePct": -0.34758536789738215,
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.74,
-      "change": 0.8499999999999996,
-      "changePct": 5.708529214237741,
+      "price": 15.89,
+      "change": 1.0,
+      "changePct": 6.715916722632639,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "413c0398-b522-3b19-8bf8-c77dab9af2c6",
-      "title": "Hays PLC (HAYPF) (FY 2026) Earnings Call Highlights: Strategic Repositioning Drives Profit ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hays-plc-haypf-fy-2026-150302750.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787238182,
+      "id": "6981ad5a-591a-363e-8e22-7e8f40d2bbe5",
+      "title": "Menopause and Hormonal Facial Hair: Nobody Warned Them About the Chin Hair, But NYC Women Are Finding Solutions",
+      "link": "https://finance.yahoo.com/healthcare/articles/menopause-hormonal-facial-hair-nobody-155000013.html",
+      "publisher": "PR Newswire",
+      "time": 1787241000,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "74d7b087-23da-3b26-8719-61870d4e8b25",
+      "title": "European Stocks Close Mostly Lower in Thursday Trading Amid Rising Oil Prices, Middle East Tensions",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-mostly-lower-154903661.html",
+      "publisher": "MT Newswires",
+      "time": 1787240943,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,31 +76,54 @@
       ]
     },
     {
-      "id": "7c626893-b012-349d-b5e5-9bbaa9b1f84a",
-      "title": "This Billionaire Was Recently Loading Up on \"Magnificent Seven\" Stocks",
-      "link": "https://finance.yahoo.com/m/7c626893-b012-349d-b5e5-9bbaa9b1f84a/this-billionaire-was-recently.html",
-      "publisher": "Motley Fool",
-      "time": 1787238180,
+      "id": "d9e7fbe0-420f-392e-84f7-0d74393cedc3",
+      "title": "The Global Advanced Chemical Recycling Market 2027-2040: Materials, End Products, Competition Analysis",
+      "link": "https://finance.yahoo.com/energy/articles/global-advanced-chemical-recycling-market-154900139.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787240940,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "9d2cd51f-42ff-3058-b41b-060c86642179",
-      "title": "The AI capability gap: tech innovation is outstripping human readiness",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-capability-gap-tech-innovation-150300185.html",
-      "publisher": "CNW Group",
-      "time": 1787238180,
+      "id": "baa17ae2-b165-38b5-b0c7-2b4e82ef2973",
+      "title": "Fed's Musalem says won't prejudge rate call view for September FOMC - CNBC ",
+      "link": "https://finance.yahoo.com/economy/policy/articles/feds-musalem-says-wont-prejudge-154744171.html",
+      "publisher": "Reuters",
+      "time": 1787240864,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "ee9757b9-5cda-37a4-992c-196fe0b103ee",
+      "title": "Miami voters pass Marine Stadium renovation partnership. What's next",
+      "link": "https://finance.yahoo.com/m/ee9757b9-5cda-37a4-992c-196fe0b103ee/miami-voters-pass-marine.html",
+      "publisher": "USA TODAY",
+      "time": 1787240854,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "07fe32e0-c59d-3bf3-826d-3c1ae9952996",
-      "title": "Exxaro Resources Ltd (EXXAF) (H1 2026) Earnings Call Highlights: Record Safety, Coal Growth, ...",
-      "link": "https://finance.yahoo.com/energy/articles/exxaro-resources-ltd-exxaf-h1-150256174.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787238176,
+      "id": "58a98a16-abdd-3749-a0b5-d424e4ddec03",
+      "title": "Sit-Down Dining Stocks Q2 Highlights: Dine Brands (NYSE:DIN)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sit-down-dining-stocks-q2-154715019.html",
+      "publisher": "StockStory",
+      "time": 1787240835,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "6d794e29-449a-35e1-8032-20575d43228a",
+      "title": "The Global Market for Sustainable Data Centers 2027-2037: Forecasts Green Power, Cooling and Efficiency Trends Through 2037",
+      "link": "https://finance.yahoo.com/energy/articles/global-market-sustainable-data-centers-154700858.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787240820,
       "impact": "medium",
       "tags": [
         "macro",
@@ -96,76 +131,31 @@
       ]
     },
     {
-      "id": "66fced91-6ac2-3acf-9f5b-99f25177b23c",
-      "title": "Swiss Prime Site AG (SWPRF) (H1 2026) Earnings Call Highlights: Record FFO1 and AUM Growth Amid ...",
-      "link": "https://finance.yahoo.com/real-estate/articles/swiss-prime-ag-swprf-h1-150253204.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787238173,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "6e605345-1f68-3a37-b671-73c992519c8c",
+      "title": "Construction Industry Veteran Cathy Orquiola Joins McCarthy Building Companies, Inc.",
+      "link": "https://finance.yahoo.com/small-business/articles/construction-industry-veteran-cathy-orquiola-154700620.html",
+      "publisher": "Business Wire",
+      "time": 1787240820,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "82272e35-dfce-3294-af17-69fe8fa03246",
-      "title": "TCM Group AS (OCSE:TCM) (Q2 2026) Earnings Call Highlights: Revenue Growth Driven by Norway, ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tcm-group-ocse-tcm-q2-150246950.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787238166,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "d9d0c715-1d33-312e-94b5-709457307e8a",
+      "title": "Castlelake Prices $261.3M Residential Transition Loan Securitization, Castlelake Residential Mortgage Trust 2026-RTL1",
+      "link": "https://finance.yahoo.com/real-estate/articles/castlelake-prices-261-3m-residential-154600138.html",
+      "publisher": "PR Newswire",
+      "time": 1787240760,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "6d22b6f2-b3de-376c-a113-8f691c5100cf",
-      "title": "Mayr-Melnhof Karton AG (WBO:MMK) (H1 2026) Earnings Call Highlights: Fit-For-Future Program ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mayr-melnhof-karton-ag-wbo-150242055.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787238162,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "117f0b83-89fc-3831-a486-bc23b7f25df0",
-      "title": "Ascelia Pharma AB (FRA:7ZA) (Q2 2026) Earnings Call Highlights: Navigating FDA Setback for ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/ascelia-pharma-ab-fra-7za-150230304.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787238150,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "4bcfff7c-9a3d-3379-9a94-7a4437cdfea3",
-      "title": "Fasadgruppen Group AB (FRA:83A) (Q2 2026) Earnings Call Highlights: Margin Pressure in Nordics ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fasadgruppen-group-ab-fra-83a-150230187.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787238150,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "2ad4f394-c5b5-30a6-97e3-203ad6088a42",
-      "title": "Sensys Gatso Group AB (LTS:0H0U) (Q2 2026) Earnings Call Highlights: EBITDA Margin Surges to 19. ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sensys-gatso-group-ab-lts-150227866.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787238147,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "a2291547-0e82-3f26-9486-ab306e0ff26d",
+      "title": "Walmart reports mixed results as gas prices drag on US sales growth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-reports-mixed-results-gas-154542557.html",
+      "publisher": "AFP",
+      "time": 1787240742,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
