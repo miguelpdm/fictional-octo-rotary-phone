@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T19:53:45.363899+00:00",
+  "updatedAt": "2026-08-20T20:20:51.863907+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7650.83,
-      "change": -40.93000000000029,
-      "changePct": -0.5321278875055941,
+      "price": 7641.16,
+      "change": -50.600000000000364,
+      "changePct": -0.6578468386949198,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26086.88,
-      "change": -202.8299999999981,
-      "changePct": -0.7715185903534049,
+      "price": 26067.166,
+      "change": -222.54399999999805,
+      "changePct": -0.8465061044796541,
       "currency": "USD"
     },
     {
@@ -39,42 +39,33 @@
       "price": 6422.06,
       "change": -22.399999999999636,
       "changePct": -0.34758536789738215,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.02,
-      "change": 1.129999999999999,
-      "changePct": 7.588985896574875,
+      "price": 15.99,
+      "change": 1.0999999999999996,
+      "changePct": 7.3875083948959,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "dc22a214-80cf-3be0-8422-711ff18401f6",
-      "title": "Autonomous Power Wins $22.3 Million Counter-Drone Contract in Middle East",
-      "link": "https://finance.yahoo.com/energy/articles/autonomous-power-wins-22-3-194818974.html",
-      "publisher": "MT Newswires",
-      "time": 1787255298,
+      "id": "b20f551e-bc34-3801-937c-c6b78879b426",
+      "title": "Morgan Stanley Revamps Merck Stock Target After Cancer Breakthrough",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-revamps-merck-stock-201857782.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787257137,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "210adbaf-cd7b-48c6-bdbb-015fbfca1e6f",
-      "title": "How success is built: Meet Yahoo Finance’s new show, ‘Built Different’",
-      "link": "https://finance.yahoo.com/video/success-built-meet-yahoo-finance-194725271.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1787255245,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2ffb7fa5-4700-3ab6-b60b-32af2e5bf710",
-      "title": "Reflecting On Beverages, Alcohol, and Tobacco Stocks’ Q2 Earnings: Coca-Cola (NYSE:KO)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/reflecting-beverages-alcohol-tobacco-stocks-194715224.html",
-      "publisher": "StockStory",
-      "time": 1787255235,
+      "id": "34145e35-a5b6-31aa-b0c4-d92afaa0122c",
+      "title": "Bank of America Resets Etsy Stock Price Target After Event",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-resets-etsy-stock-201721828.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787257041,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,29 +73,56 @@
       ]
     },
     {
-      "id": "29ec3fdb-f6d1-3635-99ef-fb657c1f4d2d",
-      "title": "Popular restaurant company continues closing locations",
-      "link": "https://finance.yahoo.com/m/29ec3fdb-f6d1-3635-99ef-fb657c1f4d2d/popular-restaurant-company.html",
-      "publisher": "TheStreet",
-      "time": 1787255220,
+      "id": "a917074d-5169-3c4c-874f-0883d7eab3aa",
+      "title": "Government of Canada and Government of British Columbia announce the British Columbia Fisheries Fund to support the fish and seafood sector",
+      "link": "https://finance.yahoo.com/economy/policy/articles/government-canada-government-british-columbia-201500154.html",
+      "publisher": "CNW Group",
+      "time": 1787256900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "74443ec5-8eb2-305c-90c7-25406f6bdf44",
-      "title": "Scandium Canada Says Scalium Alloy Deployed in Ferreol Skis New Collection",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/scandium-canada-says-scalium-alloy-194624356.html",
-      "publisher": "MT Newswires",
-      "time": 1787255184,
+      "id": "2b4bc1a1-9ef4-3750-8316-f4a4c9da793c",
+      "title": "Leaderboard Chip Stock Called 'Technology Disruptor'",
+      "link": "https://finance.yahoo.com/m/2b4bc1a1-9ef4-3750-8316-f4a4c9da793c/leaderboard-chip-stock-called.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787256877,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7f116a54-f639-33b1-ac84-bcf4c9d27c8f",
-      "title": "Magnus Technologies Releases July 2026 Diesel Fuel Snapshot, Highlighting Second Straight Monthly Drop in Diesel Prices, Warns Fuel Surcharges May Not Be Keeping Pace",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/magnus-technologies-releases-july-2026-194500599.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787255100,
+      "id": "a6d9327d-69b0-32bc-89f6-9111ad65b82a",
+      "title": "A Masterclass in Eyeliner: Experts Share Tips for Women Over 40",
+      "link": "https://finance.yahoo.com/m/a6d9327d-69b0-32bc-89f6-9111ad65b82a/a-masterclass-in-eyeliner%3A.html",
+      "publisher": "WWD",
+      "time": 1787256849,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "94f1fd07-68e9-3908-8169-5dca6592aeb7",
+      "title": "Grok 4.6 Matches the Frontier Models at a 60% Discount. Now SpaceX Has the Developers to Use It.",
+      "link": "https://finance.yahoo.com/m/94f1fd07-68e9-3908-8169-5dca6592aeb7/grok-4.6-matches-the-frontier.html",
+      "publisher": "Motley Fool",
+      "time": 1787256780,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6f32baca-7f07-42c7-8cb5-80f6185495c2",
+      "title": "Advance Auto Parts stock plummets: Its 'perpetual turnaround story' might not be working",
+      "link": "https://finance.yahoo.com/video/advance-auto-parts-stock-plummets-201250914.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1787256770,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "85e83490-b6cc-34dd-9f38-fd58e823a4a8",
+      "title": "Forestry crisis deepens with announcement of Howe Sound curtailment",
+      "link": "https://finance.yahoo.com/economy/policy/articles/forestry-crisis-deepens-announcement-howe-201200480.html",
+      "publisher": "CNW Group",
+      "time": 1787256720,
       "impact": "high",
       "tags": [
         "geo",
@@ -112,41 +130,20 @@
       ]
     },
     {
-      "id": "ad5cfc05-5c26-3b90-9923-053c58d5bdd0",
-      "title": "Valneva (VALN) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/ad5cfc05-5c26-3b90-9923-053c58d5bdd0/valneva-%28valn%29-q2-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1787255097,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "61798009-3fb1-3422-93fd-1e0794ccec37",
-      "title": "Dow Gets Slammed as Walmart Falls 9% and Long-Term Yields Jump",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-gets-slammed-walmart-falls-194413071.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787255053,
+      "id": "084f2f4c-df81-3601-89dd-9bdca87af35d",
+      "title": "From a $1 Million Bet to Tatler’s Best Restaurants: The Story Behind Marco Robinson’s NAKED",
+      "link": "https://finance.yahoo.com/small-business/articles/1-million-bet-tatler-best-201100461.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787256660,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f739369d-1848-4452-9a73-18a0aebc684a",
-      "title": "SpaceX stock slides as another share unlock hits, but more big tests still await: AlphaSpace",
-      "link": "https://finance.yahoo.com/video/spacex-stock-slides-as-another-share-unlock-hits-but-more-big-tests-still-await-alphaspace-194408834.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1787255048,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5a7039fb-7daf-3567-a775-fa6dea97d525",
-      "title": "Even babies are living in an AI-powered surveillance state",
-      "link": "https://finance.yahoo.com/m/5a7039fb-7daf-3567-a775-fa6dea97d525/even-babies-are-living-in-an.html",
-      "publisher": "The Hustle",
-      "time": 1787255045,
+      "id": "d6f83e5f-a67c-3b39-8728-28206ec2d4e2",
+      "title": "Match Group CEO Connection Series",
+      "link": "https://finance.yahoo.com/media-advertising/articles/match-group-ceo-connection-series-201100634.html",
+      "publisher": "PR Newswire",
+      "time": 1787256660,
       "impact": "low",
       "tags": []
     }
