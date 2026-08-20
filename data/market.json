@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T19:11:04.245476+00:00",
+  "updatedAt": "2026-08-20T19:53:45.363899+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7653.17,
-      "change": -38.590000000000146,
-      "changePct": -0.5017057214473689,
+      "price": 7650.83,
+      "change": -40.93000000000029,
+      "changePct": -0.5321278875055941,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26074.162,
-      "change": -215.54799999999886,
-      "changePct": -0.8198949322757797,
+      "price": 26086.88,
+      "change": -202.8299999999981,
+      "changePct": -0.7715185903534049,
       "currency": "USD"
     },
     {
@@ -39,7 +39,7 @@
       "price": 6422.06,
       "change": -22.399999999999636,
       "changePct": -0.34758536789738215,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,121 +52,103 @@
   ],
   "news": [
     {
-      "id": "b3e0e436-7dd6-3004-8eaf-2079f9f21bb7",
-      "title": "ASML Gains as TSMC's Spending Forecast Hits $85 Billion",
-      "link": "https://finance.yahoo.com/technology/articles/asml-gains-tsmcs-spending-forecast-190758887.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787252878,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "2eae6835-2269-34fa-985b-9e4783c63659",
-      "title": "Which Restaurant Stock Has Dominated in 2026: McDonald’s, Chipotle, or Starbucks?",
-      "link": "https://finance.yahoo.com/m/2eae6835-2269-34fa-985b-9e4783c63659/which-restaurant-stock-has.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787252823,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "b0c7d140-756c-31f7-8655-ebda1e4df467",
-      "title": "Alk-Abello AS (AKBLF) (Q2 2026) Earnings Call Highlights: Strong Tablet Sales and Raised ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/alk-abello-akblf-q2-2026-190336535.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787252616,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "cc48691c-29e4-3b02-bf8a-1a7700f0bb0f",
-      "title": "Alibaba Group Holding Ltd (BABA) (Q1 2027) Earnings Call Highlights: Cloud Revenue Surges 45% ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-group-holding-ltd-baba-190335455.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787252615,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "b30ee43a-f67c-38a3-816d-50fc853438e4",
-      "title": "NetEase Inc (NTES) (Q2 2026) Earnings Call Highlights: Strong Game Revenue Growth and Margin ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/netease-inc-ntes-q2-2026-190313652.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787252593,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e077b4c2-6db1-3297-82cb-d67afb4f9cb8",
-      "title": "Aurora Mobile Ltd (JG) (Q2 2026) Earnings Call Highlights: SaaS Revenue Surpasses RMB100 ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aurora-mobile-ltd-jg-q2-190313288.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787252593,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "6be7d724-f1b5-3ac1-b741-1c2192923df5",
-      "title": "Walmart Inc (WMT) (Q2 2027) Earnings Call Highlights: Strong Growth and Strategic Price ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-inc-wmt-q2-2027-190309029.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787252589,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "567a8c1e-37ca-331c-813d-7daa7515bee4",
-      "title": "Futu Holdings Ltd (FUTU) (Q2 2026) Earnings Call Highlights: Record Trading Volume and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/futu-holdings-ltd-futu-q2-190304420.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787252584,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "dec18680-ac0c-363f-8521-b00033a6fdc3",
-      "title": "Hark and AT&T Partner on Connectivity for Future AI Devices",
-      "link": "https://finance.yahoo.com/technology/ai/articles/hark-t-partner-connectivity-future-190300355.html",
-      "publisher": "Business Wire",
-      "time": 1787252580,
+      "id": "dc22a214-80cf-3be0-8422-711ff18401f6",
+      "title": "Autonomous Power Wins $22.3 Million Counter-Drone Contract in Middle East",
+      "link": "https://finance.yahoo.com/energy/articles/autonomous-power-wins-22-3-194818974.html",
+      "publisher": "MT Newswires",
+      "time": 1787255298,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d4eaf72d-bfd8-3426-92ce-afe0bef1e4c8",
-      "title": "Yunji Inc (YJ) (H1 2026) Earnings Call Highlights: Strategic Pivot to Private Label Drives ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/yunji-inc-yj-h1-2026-190259640.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787252579,
+      "id": "210adbaf-cd7b-48c6-bdbb-015fbfca1e6f",
+      "title": "How success is built: Meet Yahoo Finance’s new show, ‘Built Different’",
+      "link": "https://finance.yahoo.com/video/success-built-meet-yahoo-finance-194725271.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1787255245,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2ffb7fa5-4700-3ab6-b60b-32af2e5bf710",
+      "title": "Reflecting On Beverages, Alcohol, and Tobacco Stocks’ Q2 Earnings: Coca-Cola (NYSE:KO)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/reflecting-beverages-alcohol-tobacco-stocks-194715224.html",
+      "publisher": "StockStory",
+      "time": 1787255235,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
+    },
+    {
+      "id": "29ec3fdb-f6d1-3635-99ef-fb657c1f4d2d",
+      "title": "Popular restaurant company continues closing locations",
+      "link": "https://finance.yahoo.com/m/29ec3fdb-f6d1-3635-99ef-fb657c1f4d2d/popular-restaurant-company.html",
+      "publisher": "TheStreet",
+      "time": 1787255220,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "74443ec5-8eb2-305c-90c7-25406f6bdf44",
+      "title": "Scandium Canada Says Scalium Alloy Deployed in Ferreol Skis New Collection",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/scandium-canada-says-scalium-alloy-194624356.html",
+      "publisher": "MT Newswires",
+      "time": 1787255184,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7f116a54-f639-33b1-ac84-bcf4c9d27c8f",
+      "title": "Magnus Technologies Releases July 2026 Diesel Fuel Snapshot, Highlighting Second Straight Monthly Drop in Diesel Prices, Warns Fuel Surcharges May Not Be Keeping Pace",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/magnus-technologies-releases-july-2026-194500599.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787255100,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "ad5cfc05-5c26-3b90-9923-053c58d5bdd0",
+      "title": "Valneva (VALN) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/ad5cfc05-5c26-3b90-9923-053c58d5bdd0/valneva-%28valn%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1787255097,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "61798009-3fb1-3422-93fd-1e0794ccec37",
+      "title": "Dow Gets Slammed as Walmart Falls 9% and Long-Term Yields Jump",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-gets-slammed-walmart-falls-194413071.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787255053,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f739369d-1848-4452-9a73-18a0aebc684a",
+      "title": "SpaceX stock slides as another share unlock hits, but more big tests still await: AlphaSpace",
+      "link": "https://finance.yahoo.com/video/spacex-stock-slides-as-another-share-unlock-hits-but-more-big-tests-still-await-alphaspace-194408834.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1787255048,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5a7039fb-7daf-3567-a775-fa6dea97d525",
+      "title": "Even babies are living in an AI-powered surveillance state",
+      "link": "https://finance.yahoo.com/m/5a7039fb-7daf-3567-a775-fa6dea97d525/even-babies-are-living-in-an.html",
+      "publisher": "The Hustle",
+      "time": 1787255045,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
