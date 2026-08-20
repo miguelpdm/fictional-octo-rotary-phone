@@ -1,62 +1,62 @@
 {
-  "updatedAt": "2026-08-20T13:40:17.926009+00:00",
+  "updatedAt": "2026-08-20T14:29:07.225995+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19809.3,
-      "change": -38.20000000000073,
-      "changePct": -0.19246756518453573,
+      "price": 19798.2,
+      "change": -49.29999999999927,
+      "changePct": -0.24839400428265157,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7688.2,
-      "change": -3.5600000000004,
-      "changePct": -0.046283295370635594,
+      "price": 7680.4,
+      "change": -11.360000000000582,
+      "changePct": -0.14769051556471577,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26226.576,
-      "change": -63.133999999998196,
-      "changePct": -0.24014719066888984,
+      "price": 26140.516,
+      "change": -149.1939999999995,
+      "changePct": -0.5674996034570161,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25965.48,
-      "change": -162.88000000000102,
-      "changePct": -0.6233839399028528,
+      "price": 25959.81,
+      "change": -168.54999999999927,
+      "changePct": -0.6450844982233835,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6420.5,
-      "change": -23.960000000000036,
-      "changePct": -0.37179220601881363,
-      "currency": "EUR"
+      "price": 6424.07,
+      "change": -20.390000000000327,
+      "changePct": -0.316395788010172,
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.87,
-      "change": 0.9799999999999986,
-      "changePct": 6.581598388179977,
+      "price": 15.98,
+      "change": 1.0899999999999999,
+      "changePct": 7.320349227669576,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "3acf10ad-4a01-35d2-b5c2-cc93efe0c821",
-      "title": "Regional Bank Director Sells Over 4,500 Shares Valued at Approximately $185,000",
-      "link": "https://finance.yahoo.com/m/3acf10ad-4a01-35d2-b5c2-cc93efe0c821/regional-bank-director-sells.html",
-      "publisher": "Motley Fool",
-      "time": 1787232901,
+      "id": "b35e7cf0-4ad0-3e5f-adee-18b08ca21db3",
+      "title": "Majority of UK and Irish payroll professionals now using AI, survey finds",
+      "link": "https://finance.yahoo.com/m/b35e7cf0-4ad0-3e5f-adee-18b08ca21db3/majority-of-uk-and-irish.html",
+      "publisher": "International Accounting Bulletin",
+      "time": 1787236004,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,74 +64,49 @@
       ]
     },
     {
-      "id": "abc11fd3-bd62-380c-87ea-0fca17dd4b9b",
-      "title": "VIO Med Spa Signs Agreement to Enter Richmond with First Location Planned for Midlothian",
-      "link": "https://finance.yahoo.com/small-business/articles/vio-med-spa-signs-agreement-133500691.html",
-      "publisher": "PR Newswire",
-      "time": 1787232900,
+      "id": "96e12045-7c63-3b03-acd0-aa251d661d4f",
+      "title": "Students will soon be able to Venmo their college tuition — but it may not always be the smartest choice",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/students-soon-able-venmo-college-142500727.html",
+      "publisher": "Moneywise",
+      "time": 1787235900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e1d0b552-d8a8-3643-bcb2-fe0f9635c304",
-      "title": "Prediction: This ETF Could Set You Up for Life if You Buy It Today",
-      "link": "https://finance.yahoo.com/m/e1d0b552-d8a8-3643-bcb2-fe0f9635c304/prediction%3A-this-etf-could.html",
-      "publisher": "Motley Fool",
-      "time": 1787232900,
+      "id": "44502169-0fe6-3b1d-a1fb-dfe0aacf940b",
+      "title": "Vivos Therapeutics Opens New Sleep Testing and Treatment Facility in Nevada to Meet Rapidly Growing Patient Demand for Sleep Apnea Testing and Treatment",
+      "link": "https://finance.yahoo.com/healthcare/articles/vivos-therapeutics-opens-sleep-testing-142400179.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787235840,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "af9021b0-0aa0-322b-821b-4f2650668e55",
-      "title": "/C O R R E C T I O N -- WrkPlan/",
-      "link": "https://finance.yahoo.com/technology/ai/articles/wrkplan-announces-major-product-expansion-123200629.html",
-      "publisher": "PR Newswire",
-      "time": 1787232840,
+      "id": "c8d5b8dd-946e-310a-929b-e42f5f86883a",
+      "title": "Webull Rockets 13% on Record Quarter as Day-Trader Rule Change Fuels Volume; Robinhood Holds Steady",
+      "link": "https://finance.yahoo.com/m/c8d5b8dd-946e-310a-929b-e42f5f86883a/webull-rockets-13%25-on-record.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787235827,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "732c68d1-22df-32db-971f-e7a0e384c6ec",
+      "title": "Mental Health America Conference aims to create more good days, together",
+      "link": "https://finance.yahoo.com/healthcare/articles/mental-health-america-conference-aims-142300204.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787235780,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "14f50b03-9926-324e-b34f-7d5446949960",
-      "title": "Multiple headwinds Weighed on Enovix’s (ENVX) Performance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/multiple-headwinds-weighed-enovix-envx-133358272.html",
-      "publisher": "Insider Monkey",
-      "time": 1787232838,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "df33926a-861a-334a-a85b-59e05bddc83f",
-      "title": "Whirlpool Corporation Recognized by Seramount for Workplace Inclusion and Talent Leadership",
-      "link": "https://finance.yahoo.com/small-business/articles/whirlpool-corporation-recognized-seramount-workplace-133300143.html",
-      "publisher": "PR Newswire",
-      "time": 1787232780,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1e88b882-710b-3525-ad9e-898ef80678c6",
-      "title": "DeepOcean connects Teal West field to Anasuria FPSO in North Sea",
-      "link": "https://finance.yahoo.com/m/1e88b882-710b-3525-ad9e-898ef80678c6/deepocean-connects-teal-west.html",
-      "publisher": "Offshore Technology",
-      "time": 1787232769,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "367d8089-2bf1-3699-8ece-a2fe808c3239",
-      "title": "CANCELLATION - Rachel Bendayan to announce Government of Canada support for Roberval manufacturing business",
-      "link": "https://finance.yahoo.com/economy/policy/articles/cancellation-rachel-bendayan-announce-government-133200329.html",
-      "publisher": "CNW Group",
-      "time": 1787232720,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ed6b3acc-b179-38cd-9425-629e0b170fb4",
-      "title": "Ondas (ONDS) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/ed6b3acc-b179-38cd-9425-629e0b170fb4/ondas-%28onds%29-q2-2026-earnings.html",
-      "publisher": "Motley Fool",
-      "time": 1787232683,
+      "id": "2876f3e7-a3d2-3d7b-8c7c-eae3d98d04d8",
+      "title": "Canadian Home Prices Stabilize in July After Seven-Month Decline, National Bank Says",
+      "link": "https://finance.yahoo.com/real-estate/articles/canadian-home-prices-stabilize-july-142033032.html",
+      "publisher": "MT Newswires",
+      "time": 1787235633,
       "impact": "medium",
       "tags": [
         "macro",
@@ -139,16 +114,43 @@
       ]
     },
     {
-      "id": "2fd5d566-f4e8-3ccf-94e2-56ae72ba4a4c",
-      "title": "X-Energy (XE) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/2fd5d566-f4e8-3ccf-94e2-56ae72ba4a4c/x-energy-%28xe%29-q2-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1787232682,
+      "id": "f65d83de-924a-3224-bed3-85b2cdeea0b1",
+      "title": "Should you refinance with the same lender?",
+      "link": "https://finance.yahoo.com/news/refinance-same-lender-171238158.html",
+      "publisher": "Bankrate",
+      "time": 1787235611,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
+    },
+    {
+      "id": "32646688-422d-3b2d-8051-ce3faf3639dc",
+      "title": "Google's Waymo Introduces Custom-Built Chip for Its Vehicles",
+      "link": "https://finance.yahoo.com/technology/ai/articles/google-apos-waymo-introduces-custom-142004132.html",
+      "publisher": "MT Newswires",
+      "time": 1787235604,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "29c2822c-bbdd-3a7f-9146-0077b0a2ad62",
+      "title": "Xpress Wellness Transitions to Integrity Care Group; Current and Future Clinics Assume Integrity Name",
+      "link": "https://finance.yahoo.com/healthcare/articles/xpress-wellness-transitions-integrity-care-142000170.html",
+      "publisher": "PR Newswire",
+      "time": 1787235600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e1d96ef6-7600-3414-8a0f-c46e1472f49f",
+      "title": "Purchase of Own Securities and Total Voting Rights",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/purchase-own-securities-total-voting-142000679.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787235600,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
