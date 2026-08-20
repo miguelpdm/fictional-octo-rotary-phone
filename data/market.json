@@ -1,62 +1,62 @@
 {
-  "updatedAt": "2026-08-20T14:29:07.225995+00:00",
+  "updatedAt": "2026-08-20T15:06:17.694435+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19798.2,
-      "change": -49.29999999999927,
-      "changePct": -0.24839400428265157,
+      "price": 19823.2,
+      "change": -24.299999999999272,
+      "changePct": -0.12243355586345521,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7680.4,
-      "change": -11.360000000000582,
-      "changePct": -0.14769051556471577,
+      "price": 7690.79,
+      "change": -0.9700000000002547,
+      "changePct": -0.0126108978959335,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26140.516,
-      "change": -149.1939999999995,
-      "changePct": -0.5674996034570161,
+      "price": 26152.297,
+      "change": -137.41300000000047,
+      "changePct": -0.5226873936608676,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25959.81,
-      "change": -168.54999999999927,
-      "changePct": -0.6450844982233835,
+      "price": 25991.01,
+      "change": -137.35000000000218,
+      "changePct": -0.5256740185759924,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6424.07,
-      "change": -20.390000000000327,
-      "changePct": -0.316395788010172,
-      "currency": null
+      "price": 6427.61,
+      "change": -16.850000000000364,
+      "changePct": -0.26146488611924606,
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.98,
-      "change": 1.0899999999999999,
-      "changePct": 7.320349227669576,
+      "price": 15.74,
+      "change": 0.8499999999999996,
+      "changePct": 5.708529214237741,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "b35e7cf0-4ad0-3e5f-adee-18b08ca21db3",
-      "title": "Majority of UK and Irish payroll professionals now using AI, survey finds",
-      "link": "https://finance.yahoo.com/m/b35e7cf0-4ad0-3e5f-adee-18b08ca21db3/majority-of-uk-and-irish.html",
-      "publisher": "International Accounting Bulletin",
-      "time": 1787236004,
+      "id": "413c0398-b522-3b19-8bf8-c77dab9af2c6",
+      "title": "Hays PLC (HAYPF) (FY 2026) Earnings Call Highlights: Strategic Repositioning Drives Profit ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hays-plc-haypf-fy-2026-150302750.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787238182,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,49 +64,31 @@
       ]
     },
     {
-      "id": "96e12045-7c63-3b03-acd0-aa251d661d4f",
-      "title": "Students will soon be able to Venmo their college tuition — but it may not always be the smartest choice",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/students-soon-able-venmo-college-142500727.html",
-      "publisher": "Moneywise",
-      "time": 1787235900,
+      "id": "7c626893-b012-349d-b5e5-9bbaa9b1f84a",
+      "title": "This Billionaire Was Recently Loading Up on \"Magnificent Seven\" Stocks",
+      "link": "https://finance.yahoo.com/m/7c626893-b012-349d-b5e5-9bbaa9b1f84a/this-billionaire-was-recently.html",
+      "publisher": "Motley Fool",
+      "time": 1787238180,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "44502169-0fe6-3b1d-a1fb-dfe0aacf940b",
-      "title": "Vivos Therapeutics Opens New Sleep Testing and Treatment Facility in Nevada to Meet Rapidly Growing Patient Demand for Sleep Apnea Testing and Treatment",
-      "link": "https://finance.yahoo.com/healthcare/articles/vivos-therapeutics-opens-sleep-testing-142400179.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787235840,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c8d5b8dd-946e-310a-929b-e42f5f86883a",
-      "title": "Webull Rockets 13% on Record Quarter as Day-Trader Rule Change Fuels Volume; Robinhood Holds Steady",
-      "link": "https://finance.yahoo.com/m/c8d5b8dd-946e-310a-929b-e42f5f86883a/webull-rockets-13%25-on-record.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787235827,
-      "impact": "medium",
       "tags": [
-        "geo"
+        "macro"
       ]
     },
     {
-      "id": "732c68d1-22df-32db-971f-e7a0e384c6ec",
-      "title": "Mental Health America Conference aims to create more good days, together",
-      "link": "https://finance.yahoo.com/healthcare/articles/mental-health-america-conference-aims-142300204.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787235780,
+      "id": "9d2cd51f-42ff-3058-b41b-060c86642179",
+      "title": "The AI capability gap: tech innovation is outstripping human readiness",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-capability-gap-tech-innovation-150300185.html",
+      "publisher": "CNW Group",
+      "time": 1787238180,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2876f3e7-a3d2-3d7b-8c7c-eae3d98d04d8",
-      "title": "Canadian Home Prices Stabilize in July After Seven-Month Decline, National Bank Says",
-      "link": "https://finance.yahoo.com/real-estate/articles/canadian-home-prices-stabilize-july-142033032.html",
-      "publisher": "MT Newswires",
-      "time": 1787235633,
+      "id": "07fe32e0-c59d-3bf3-826d-3c1ae9952996",
+      "title": "Exxaro Resources Ltd (EXXAF) (H1 2026) Earnings Call Highlights: Record Safety, Coal Growth, ...",
+      "link": "https://finance.yahoo.com/energy/articles/exxaro-resources-ltd-exxaf-h1-150256174.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787238176,
       "impact": "medium",
       "tags": [
         "macro",
@@ -114,11 +96,11 @@
       ]
     },
     {
-      "id": "f65d83de-924a-3224-bed3-85b2cdeea0b1",
-      "title": "Should you refinance with the same lender?",
-      "link": "https://finance.yahoo.com/news/refinance-same-lender-171238158.html",
-      "publisher": "Bankrate",
-      "time": 1787235611,
+      "id": "66fced91-6ac2-3acf-9f5b-99f25177b23c",
+      "title": "Swiss Prime Site AG (SWPRF) (H1 2026) Earnings Call Highlights: Record FFO1 and AUM Growth Amid ...",
+      "link": "https://finance.yahoo.com/real-estate/articles/swiss-prime-ag-swprf-h1-150253204.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787238173,
       "impact": "medium",
       "tags": [
         "macro",
@@ -126,31 +108,64 @@
       ]
     },
     {
-      "id": "32646688-422d-3b2d-8051-ce3faf3639dc",
-      "title": "Google's Waymo Introduces Custom-Built Chip for Its Vehicles",
-      "link": "https://finance.yahoo.com/technology/ai/articles/google-apos-waymo-introduces-custom-142004132.html",
-      "publisher": "MT Newswires",
-      "time": 1787235604,
-      "impact": "low",
-      "tags": []
+      "id": "82272e35-dfce-3294-af17-69fe8fa03246",
+      "title": "TCM Group AS (OCSE:TCM) (Q2 2026) Earnings Call Highlights: Revenue Growth Driven by Norway, ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tcm-group-ocse-tcm-q2-150246950.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787238166,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "29c2822c-bbdd-3a7f-9146-0077b0a2ad62",
-      "title": "Xpress Wellness Transitions to Integrity Care Group; Current and Future Clinics Assume Integrity Name",
-      "link": "https://finance.yahoo.com/healthcare/articles/xpress-wellness-transitions-integrity-care-142000170.html",
-      "publisher": "PR Newswire",
-      "time": 1787235600,
-      "impact": "low",
-      "tags": []
+      "id": "6d22b6f2-b3de-376c-a113-8f691c5100cf",
+      "title": "Mayr-Melnhof Karton AG (WBO:MMK) (H1 2026) Earnings Call Highlights: Fit-For-Future Program ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mayr-melnhof-karton-ag-wbo-150242055.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787238162,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "e1d96ef6-7600-3414-8a0f-c46e1472f49f",
-      "title": "Purchase of Own Securities and Total Voting Rights",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/purchase-own-securities-total-voting-142000679.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787235600,
-      "impact": "low",
-      "tags": []
+      "id": "117f0b83-89fc-3831-a486-bc23b7f25df0",
+      "title": "Ascelia Pharma AB (FRA:7ZA) (Q2 2026) Earnings Call Highlights: Navigating FDA Setback for ...",
+      "link": "https://finance.yahoo.com/healthcare/articles/ascelia-pharma-ab-fra-7za-150230304.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787238150,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "4bcfff7c-9a3d-3379-9a94-7a4437cdfea3",
+      "title": "Fasadgruppen Group AB (FRA:83A) (Q2 2026) Earnings Call Highlights: Margin Pressure in Nordics ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fasadgruppen-group-ab-fra-83a-150230187.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787238150,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "2ad4f394-c5b5-30a6-97e3-203ad6088a42",
+      "title": "Sensys Gatso Group AB (LTS:0H0U) (Q2 2026) Earnings Call Highlights: EBITDA Margin Surges to 19. ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sensys-gatso-group-ab-lts-150227866.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787238147,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
