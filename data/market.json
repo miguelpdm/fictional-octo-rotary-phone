@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T21:21:13.872683+00:00",
+  "updatedAt": "2026-08-20T21:52:08.999175+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,65 +52,68 @@
   ],
   "news": [
     {
-      "id": "f9a793ce-2291-3038-9877-0329a9ab366c",
-      "title": "VirTra Wins $1.5 Million US Army Contract for Firearms Training in Tajikistan",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/virtra-wins-1-5-million-211825244.html",
+      "id": "28de4320-5d84-3f16-a58e-28ca840bb555",
+      "title": "FedEx, UPS Awarded $2.72 Billion Contract Modifications by Transportation Command",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fedex-ups-awarded-2-72-214940269.html",
       "publisher": "MT Newswires",
-      "time": 1787260705,
-      "impact": "low",
-      "tags": []
+      "time": 1787262580,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "3c2a9076-2f4a-3ac3-b823-28fb02bf5522",
-      "title": "Cematrix Adds C$8.2 Million in New Contracts",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cematrix-adds-c-8-2-211741810.html",
-      "publisher": "MT Newswires",
-      "time": 1787260661,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b87e78d8-f9be-3eb5-9368-f0a7068243e4",
-      "title": "Fidelity’s 401(k) benchmark leaves many 50-year-olds short",
-      "link": "https://finance.yahoo.com/m/b87e78d8-f9be-3eb5-9368-f0a7068243e4/fidelity%E2%80%99s-401%28k%29-benchmark.html",
+      "id": "5a68d9c9-031f-3710-bc72-94a39c7e357e",
+      "title": "Michael Burry says Nvidia rival is quietly getting serious",
+      "link": "https://finance.yahoo.com/m/5a68d9c9-031f-3710-bc72-94a39c7e357e/michael-burry-says-nvidia.html",
       "publisher": "TheStreet",
-      "time": 1787260620,
+      "time": 1787262420,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "17e3189c-2abc-3fc1-a1e9-966345da0e38",
-      "title": "Grandmaster Tan Zhongyi Claims Second Cairns Cup Crown",
-      "link": "https://finance.yahoo.com/media-advertising/articles/grandmaster-tan-zhongyi-claims-second-211600656.html",
+      "id": "e6ca287c-55d0-3289-87ca-029c976d201a",
+      "title": "KBRA Assigns A+ Rating With a Stable Outlook to Chicago O'Hare International Airport Senior Lien GARBs",
+      "link": "https://finance.yahoo.com/real-estate/articles/kbra-assigns-rating-stable-outlook-214700594.html",
       "publisher": "Business Wire",
-      "time": 1787260560,
+      "time": 1787262420,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f738c040-36fc-3293-90e7-47023c9a48a4",
-      "title": "Your Muni Income Is Invisible to One Tax Break and Fatal to Another",
-      "link": "https://finance.yahoo.com/m/f738c040-36fc-3293-90e7-47023c9a48a4/your-muni-income-is-invisible.html",
+      "id": "308eb4b4-f2eb-38b4-ac97-2f5eb8960dee",
+      "title": "How a 67-Year-Old’s $4,830 Monthly Paycheck From SCHD, JEPQ, and O Shrinks to $3,822 After Taxes",
+      "link": "https://finance.yahoo.com/m/308eb4b4-f2eb-38b4-ac97-2f5eb8960dee/how-a-67-year-old%E2%80%99s-%244%2C830.html",
       "publisher": "24/7 Wall St.",
-      "time": 1787260535,
+      "time": 1787262316,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "331b6110-f56d-3614-a144-34f0d5c79c37",
-      "title": "How Much of Your Portfolio Should Actually Be in FTXL",
-      "link": "https://finance.yahoo.com/m/331b6110-f56d-3614-a144-34f0d5c79c37/how-much-of-your-portfolio.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787260532,
+      "id": "109fec68-b4fc-3cf4-a6d8-52bc4c3a1cf9",
+      "title": "Layoffs at JPMorgan Hit Highest Level Since 2015",
+      "link": "https://finance.yahoo.com/m/109fec68-b4fc-3cf4-a6d8-52bc4c3a1cf9/layoffs-at-jpmorgan-hit.html",
+      "publisher": "Barrons.com",
+      "time": 1787262300,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "776a9f97-8d65-379c-8f81-0ec5afe4a093",
-      "title": "Ross Stores Lifts Earnings Outlook After Second-Quarter Beat",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-lifts-earnings-outlook-211507811.html",
-      "publisher": "MT Newswires",
-      "time": 1787260507,
+      "id": "3d2480f6-123b-3562-a8d6-77af6ef822ee",
+      "title": "Massachusetts city can't display Catholic statues, high court rules",
+      "link": "https://finance.yahoo.com/m/3d2480f6-123b-3562-a8d6-77af6ef822ee/massachusetts-city-can%27t.html",
+      "publisher": "USA TODAY",
+      "time": 1787262287,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "13fffdd3-0810-34ad-8aac-20643870cc4f",
+      "title": "Jefferson Capital (JCAP) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/13fffdd3-0810-34ad-8aac-20643870cc4f/jefferson-capital-%28jcap%29-q2.html",
+      "publisher": "Motley Fool",
+      "time": 1787262225,
       "impact": "medium",
       "tags": [
         "macro",
@@ -118,31 +121,40 @@
       ]
     },
     {
-      "id": "b7fc0885-e71f-3e35-9c10-3690b27cf0d0",
-      "title": "DNC narrows 2028 convention race to 3 cities",
-      "link": "https://finance.yahoo.com/m/b7fc0885-e71f-3e35-9c10-3690b27cf0d0/dnc-narrows-2028-convention.html",
-      "publisher": "USA TODAY",
-      "time": 1787260453,
-      "impact": "low",
-      "tags": []
+      "id": "e325946b-350d-3c8c-a7c6-6619ac379b8f",
+      "title": "Newsmax (NMAX) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/e325946b-350d-3c8c-a7c6-6619ac379b8f/newsmax-%28nmax%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1787262225,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "44debc14-ced0-3b88-8a7a-1f2935168ecb",
-      "title": "Orvera AI Featured as Core Performing on the CMP Prism for Voicebot/Conversational IVR Showcasing Capability in Customer Contact and CX Technology",
-      "link": "https://finance.yahoo.com/technology/ai/articles/orvera-ai-featured-core-performing-211300379.html",
-      "publisher": "Business Wire",
-      "time": 1787260380,
-      "impact": "low",
-      "tags": []
+      "id": "f8f0660c-9e42-3267-b5a6-d15eab2e5d0b",
+      "title": "Kyntra Bio (KYNB) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/f8f0660c-9e42-3267-b5a6-d15eab2e5d0b/kyntra-bio-%28kynb%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1787262224,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "5c9edb0b-d029-35d9-96c8-8d901e77e424",
-      "title": "John Gordon Named Interim Chief Executive Officer of Fenix Parts",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/john-gordon-named-interim-chief-211200092.html",
-      "publisher": "Business Wire",
-      "time": 1787260320,
-      "impact": "low",
-      "tags": []
+      "id": "49427d95-ecca-3979-b781-5fd1d98edcb2",
+      "title": "Bessent: “I Don’t Really Understand” Oil Price Spike, As Iran War Nears 6 Month Mark",
+      "link": "https://finance.yahoo.com/m/49427d95-ecca-3979-b781-5fd1d98edcb2/bessent%3A-%E2%80%9Ci-don%E2%80%99t-really.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787262217,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     }
   ],
   "errors": {
