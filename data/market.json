@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-20T11:20:21.223717+00:00",
+  "updatedAt": "2026-08-20T11:51:06.546875+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19854.2,
-      "change": 6.700000000000728,
-      "changePct": 0.0337574001763483,
+      "price": 19835.7,
+      "change": -11.799999999999272,
+      "changePct": -0.05945333165385703,
       "currency": "EUR"
     },
     {
@@ -28,109 +28,65 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26000.21,
-      "change": -128.15000000000146,
-      "changePct": -0.49046323611585824,
+      "price": 25982.22,
+      "change": -146.13999999999942,
+      "changePct": -0.5593156248612596,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6432.9,
-      "change": -11.5600000000004,
-      "changePct": -0.1793788773613367,
+      "price": 6425.93,
+      "change": -18.529999999999745,
+      "changePct": -0.28753378871154056,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.16,
-      "change": 0.2699999999999996,
-      "changePct": 1.8132975151108097,
+      "price": 15.33,
+      "change": 0.4399999999999995,
+      "changePct": 2.9550033579583577,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "c7e5dd51-42d1-32b8-be52-b3f7ccba4328",
-      "title": "Benchmark Initiates Coverage on SiTime With Buy Rating, $850 Price Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/benchmark-initiates-coverage-sitime-buy-111753584.html",
-      "publisher": "MT Newswires",
-      "time": 1787224673,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ecb3bfda-b5ff-3a95-88db-d5f224ca436f",
-      "title": "Brazil’s 1.7GW GNA II power plant offline due to equipment failure",
-      "link": "https://finance.yahoo.com/m/ecb3bfda-b5ff-3a95-88db-d5f224ca436f/brazil%E2%80%99s-1.7gw-gna-ii-power.html",
-      "publisher": "Power Technology",
-      "time": 1787224656,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "23065b1f-7d9f-3965-be59-36e181ce2ad2",
-      "title": "Truist Raises Price Target on Elastic to $100 From $80, Keeps Buy Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/truist-raises-price-target-elastic-111547450.html",
-      "publisher": "MT Newswires",
-      "time": 1787224547,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7a959c0f-4ef4-312e-ae45-e38767b5c098",
-      "title": "1 Cash-Producing Stock with Solid Fundamentals and 2 We Turn Down",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-producing-stock-solid-111515672.html",
-      "publisher": "StockStory",
-      "time": 1787224515,
-      "impact": "low",
+      "id": "10a3e305-a7f3-3359-8417-4f74ca2a2e55",
+      "title": "Singapore targets asset managers with tax cuts and talent measures",
+      "link": "https://finance.yahoo.com/m/10a3e305-a7f3-3359-8417-4f74ca2a2e55/singapore-targets-asset.html",
+      "publisher": "Private Banker International",
+      "time": 1787226552,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "43f2023e-2f68-3548-82af-d7ac6222da1a",
-      "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-fund-advisors-ltd-form-111500322.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787224500,
+      "id": "292cd708-b10d-3f7b-a77a-aafe2c67cd9d",
+      "title": "Reforms to UK clinical trial sector showing signs of success",
+      "link": "https://finance.yahoo.com/m/292cd708-b10d-3f7b-a77a-aafe2c67cd9d/reforms-to-uk-clinical-trial.html",
+      "publisher": "Clinical Trials Arena",
+      "time": 1787226466,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5c8456cc-348a-328d-bef8-9a400c02a68b",
-      "title": "KEO Capital Appoints Pablo A. Ribas as New CEO - Roberto Marchiori to Continue as COO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/keo-capital-appoints-pablo-ribas-111500715.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787224500,
+      "id": "601317e1-026a-3b04-9301-e8a73b3ea8ea",
+      "title": "Renata Medical raises $25m to advance paediatric stent system",
+      "link": "https://finance.yahoo.com/m/601317e1-026a-3b04-9301-e8a73b3ea8ea/renata-medical-raises-%2425m-to.html",
+      "publisher": "Medical Device Network",
+      "time": 1787226305,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f1cb89a3-a109-3ab4-aca3-7358d0877f35",
-      "title": "NYC plumbers share tips to ensure safe water consumption",
-      "link": "https://finance.yahoo.com/healthcare/articles/nyc-plumbers-share-tips-ensure-111500173.html",
-      "publisher": "PR Newswire",
-      "time": 1787224500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fb63f142-05c4-3f0d-9542-9c7d906fed80",
-      "title": "Flow Capital Announces Q2 2026 Financial Results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/flow-capital-announces-q2-2026-111500960.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787224500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3672ddd2-9e50-3298-821e-0d7fe8c126cb",
-      "title": "Südwesttextil warns of ‘legal uncertainty’ as EU textile packaging law takes effect",
-      "link": "https://finance.yahoo.com/m/3672ddd2-9e50-3298-821e-0d7fe8c126cb/s%C3%BCdwesttextil-warns-of-%E2%80%98legal.html",
-      "publisher": "Just Style",
-      "time": 1787224495,
+      "id": "3b8954d6-3c93-37dc-b54f-7c570fec5045",
+      "title": "PowerBank Receives Final Environmental Permit for C$14 Million Nova Scotia Community Solar Project, Backed by C$4.55 Million in Federal and Provincial Grants and Tax Credits",
+      "link": "https://finance.yahoo.com/energy/articles/powerbank-receives-final-environmental-permit-114500917.html",
+      "publisher": "CNW Group",
+      "time": 1787226300,
       "impact": "high",
       "tags": [
         "geo",
@@ -138,11 +94,65 @@
       ]
     },
     {
-      "id": "58fd4ab7-5f71-381f-8444-2407eeb9258c",
-      "title": "LSI Industries CFO James Galeese to Retire in 2027",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lsi-industries-cfo-james-galeese-111437276.html",
-      "publisher": "MT Newswires",
-      "time": 1787224477,
+      "id": "6c0d0c66-9554-3f3f-a29a-6a9672875e36",
+      "title": "AtkinsRéalis To Continue Keeping North Carolina Motorists Moving",
+      "link": "https://finance.yahoo.com/economy/policy/articles/atkinsr-alis-continue-keeping-north-114500118.html",
+      "publisher": "CNW Group",
+      "time": 1787226300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8f83511a-448f-3b68-8539-fc670e0d5428",
+      "title": "Radiopaque, Polymer-Based Embolic Coil Tops 125 Implants, With Minimal Artifacts in CT, MRI Imaging",
+      "link": "https://finance.yahoo.com/healthcare/articles/radiopaque-polymer-based-embolic-coil-114500536.html",
+      "publisher": "PR Newswire",
+      "time": 1787226300,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "d972e409-b7cc-3bc1-92d7-1e22abd3a8e9",
+      "title": "Dutch Bros: The Business Keeps Getting Better, Yet the Multiple Keeps Shrinking",
+      "link": "https://finance.yahoo.com/m/d972e409-b7cc-3bc1-92d7-1e22abd3a8e9/dutch-bros%3A-the-business.html",
+      "publisher": "Motley Fool",
+      "time": 1787226300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2bbeff7b-41bd-3bdd-89f3-a506645e75f4",
+      "title": "Revolut applies for Finnish banking licence to support European expansion",
+      "link": "https://finance.yahoo.com/m/2bbeff7b-41bd-3bdd-89f3-a506645e75f4/revolut-applies-for-finnish.html",
+      "publisher": "Retail Banker International",
+      "time": 1787226294,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "68a3e9b8-8858-3a96-8c98-dd4126c44fbe",
+      "title": "Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings",
+      "link": "https://finance.yahoo.com/m/68a3e9b8-8858-3a96-8c98-dd4126c44fbe/dow-jones-futures-fall-as-oil.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787226274,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "05b454ab-7546-3236-afb4-6b95712f7fd1",
+      "title": "Archer Aviation (ACHR) Bets Big On Becoming More Than An Air Taxi Company",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-achr-bets-big-114409233.html",
+      "publisher": "Insider Monkey",
+      "time": 1787226249,
       "impact": "low",
       "tags": []
     }
