@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-20T09:07:08.014881+00:00",
+  "updatedAt": "2026-08-20T09:59:11.218715+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19904.7,
-      "change": 57.20000000000073,
-      "changePct": 0.28819750598312494,
+      "price": 19886.5,
+      "change": 39.0,
+      "changePct": 0.19649829953394632,
       "currency": "EUR"
     },
     {
@@ -28,142 +28,120 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25952.86,
-      "change": -175.5,
-      "changePct": -0.6716839480166379,
+      "price": 25973.07,
+      "change": -155.29000000000087,
+      "changePct": -0.5943350443732437,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6432.1,
-      "change": -12.359999999999673,
-      "changePct": -0.19179264050051784,
+      "price": 6430.82,
+      "change": -13.640000000000327,
+      "changePct": -0.2116546615232359,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.23,
-      "change": 0.33999999999999986,
-      "changePct": 2.2834116856950963,
+      "price": 15.21,
+      "change": 0.3200000000000003,
+      "changePct": 2.1490933512424464,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "edfc74a4-7823-3d3e-86bf-7c19772bc9da",
-      "title": "As election looms, Netanyahu puts Turkey in Israel's crosshairs",
-      "link": "https://finance.yahoo.com/m/edfc74a4-7823-3d3e-86bf-7c19772bc9da/as-election-looms%2C-netanyahu.html",
-      "publisher": "AFP",
-      "time": 1787216649,
+      "id": "0d3feccf-745c-3ea3-bfa4-1f3e92145852",
+      "title": "FDA clears Empatica’s platform for Parkinson’s monitoring",
+      "link": "https://finance.yahoo.com/m/0d3feccf-745c-3ea3-bfa4-1f3e92145852/fda-clears-empatica%E2%80%99s.html",
+      "publisher": "Medical Device Network",
+      "time": 1787219869,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7e47b974-98a0-30cc-a83e-780490ef53a3",
-      "title": "Chaevi named preferred bidder for Korean highway EV charging network",
-      "link": "https://finance.yahoo.com/m/7e47b974-98a0-30cc-a83e-780490ef53a3/chaevi-named-preferred-bidder.html",
+      "id": "e07ee030-35a7-3d71-b728-fc29fbdcbc1e",
+      "title": "Rapid7 (RPD) Bets On A Sharper Focus To Reverse Its Slide",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rapid7-rpd-bets-sharper-focus-095502766.html",
+      "publisher": "Insider Monkey",
+      "time": 1787219702,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7f301f33-fafd-3847-bad3-64e520f4254b",
+      "title": "Novo Nordisk commences study for reduced Wegovy pill dosing",
+      "link": "https://finance.yahoo.com/m/7f301f33-fafd-3847-bad3-64e520f4254b/novo-nordisk-commences-study.html",
+      "publisher": "Hospital Management",
+      "time": 1787219630,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "21d031be-41ae-30d6-84f3-0badcdba1355",
+      "title": "SandboxAQ introduces AQPotency for virtual drug screening",
+      "link": "https://finance.yahoo.com/m/21d031be-41ae-30d6-84f3-0badcdba1355/sandboxaq-introduces.html",
+      "publisher": "Pharmaceutical Technology",
+      "time": 1787219467,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "953d3eac-5937-3993-a666-1fc5d3ad512d",
+      "title": "Indorama partners with Suntory and Iwatani on PET packaging in Thailand",
+      "link": "https://finance.yahoo.com/m/953d3eac-5937-3993-a666-1fc5d3ad512d/indorama-partners-with.html",
+      "publisher": "Packaging Gateway",
+      "time": 1787219282,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3239428b-f3ba-3188-b8c5-791ff3e68606",
+      "title": "3 Overrated  Stocks We Keep Off Our Radar",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-overrated-stocks-keep-off-094715862.html",
+      "publisher": "StockStory",
+      "time": 1787219235,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "a93fddb3-710c-396d-ba31-5cedf6ac1a18",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-094700120.html",
+      "publisher": "Business Wire",
+      "time": 1787219220,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "dfe77bf1-194b-3c2e-8bcc-cfc1f1b29fc3",
+      "title": "Morgan Stanley Adjusts Price Target on Helmerich & Payne to $41 From $36, Keeps Underweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-094657315.html",
+      "publisher": "MT Newswires",
+      "time": 1787219217,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d2e95e0d-07aa-3d55-b2c4-fa59236c72b1",
+      "title": "Tech Mahindra and ServiceNow Expand Partnership to Deliver Production-Ready Enterprise AI at Scale",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tech-mahindra-servicenow-expand-partnership-094600665.html",
+      "publisher": "PR Newswire",
+      "time": 1787219160,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "75ff566d-8bd8-3ff2-9c5a-55fe4c75c2fc",
+      "title": "LG starts series production of 5G telematics solution for European OEM",
+      "link": "https://finance.yahoo.com/m/75ff566d-8bd8-3ff2-9c5a-55fe4c75c2fc/lg-starts-series-production.html",
       "publisher": "Just Auto",
-      "time": 1787216573,
+      "time": 1787219154,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "c55ce697-20fb-3ee8-b0af-ae779cd88404",
-      "title": "Megaport Ltd (MGPPF) (FY 2026) Earnings Call Highlights: Revenue Surges 37% as Strategic ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/megaport-ltd-mgppf-fy-2026-090245804.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787216565,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "b304b379-760a-37a2-ab17-3df5bac552a2",
-      "title": "APA Group (APAJF) (FY 2026) Earnings Call Highlights: EBITDA Surges 8. ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apa-group-apajf-fy-2026-090234370.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787216554,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e47d6e1c-d938-34ed-b35f-593da40cb9bd",
-      "title": "NRW Holdings Ltd (ASX:NWH) (FY 2026) Earnings Call Highlights: Record Revenue and EBITDA Surge, ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nrw-holdings-ltd-asx-nwh-090229077.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787216549,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c5fe5529-5e1c-310e-a17b-01b68dc63f99",
-      "title": "IPH Ltd (IPHLF) (FY 2026) Earnings Call Highlights: Resilient Growth Amid Currency Headwinds ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/iph-ltd-iphlf-fy-2026-090227809.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787216547,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "5ca7425d-27be-3c35-9f1a-f7151dbe755f",
-      "title": "Emeco Holdings Ltd (ASX:EHL) (FY 2026) Earnings Call Highlights: Strategic Shift to Maintenance ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/emeco-holdings-ltd-asx-ehl-090217279.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787216537,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "468fc270-1949-3645-9205-cc66c2788348",
-      "title": "Bega Cheese Ltd (ASX:BGA) (FY 2026) Earnings Call Highlights: Record EBITDA and Early ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bega-cheese-ltd-asx-bga-090212384.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787216532,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "40882dc5-c551-3fca-9808-c35591601271",
-      "title": "Medical Developments International Ltd (MDDVF) (FY 2026) Earnings Call Highlights: Pain ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/medical-developments-international-ltd-mddvf-090207897.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787216527,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "59e4578b-ee50-3b06-9c2a-11d8f8607e46",
-      "title": "AIA Group Ltd (AAGIY) (H1 2026) Earnings Call Highlights: Record VONB and Operating ROE Signal ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aia-group-ltd-aagiy-h1-090207462.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787216527,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
     }
   ],
   "errors": {
