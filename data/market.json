@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T02:13:35.405851+00:00",
+  "updatedAt": "2026-08-20T03:23:19.905836+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6444.46,
       "change": -23.710000000000036,
       "changePct": -0.36656426779135426,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,79 +52,65 @@
   ],
   "news": [
     {
-      "id": "0da528c7-3ad1-32ee-ae61-f8730bdf0d4a",
-      "title": "Louis Navellier sets eye-opening Nvidia stock price target for rest of this year",
-      "link": "https://finance.yahoo.com/m/0da528c7-3ad1-32ee-ae61-f8730bdf0d4a/louis-navellier-sets.html",
-      "publisher": "TheStreet",
-      "time": 1787191380,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8408d733-b85a-3d62-89bd-4c7ebaeed4d4",
-      "title": "Alpha Teknova Raises Outlook After Record Q2 Revenue at Sidoti Conference",
-      "link": "https://finance.yahoo.com/m/8408d733-b85a-3d62-89bd-4c7ebaeed4d4/alpha-teknova-raises-outlook.html",
-      "publisher": "MarketBeat",
-      "time": 1787191327,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "729195f3-4233-360c-9906-b738b987759b",
-      "title": "TPIsoftware Leads AISO Alliance in Rolling Out Integrated AI Solutions for Secure On-premises Deployment",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tpisoftware-leads-aiso-alliance-rolling-020000419.html",
-      "publisher": "PR Newswire",
-      "time": 1787191200,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "74744cd0-3af5-3100-9046-f8f76cac5e05",
-      "title": "Singapore-headquartered StoneBench's new research Fragmentation Finance maps how geopolitics is reshaping Asian finance",
-      "link": "https://finance.yahoo.com/economy/policy/articles/singapore-headquartered-stonebenchs-research-fragmentation-020000381.html",
-      "publisher": "PR Newswire",
-      "time": 1787191200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a0a199fd-223a-3f29-ab63-8bc0c222400a",
-      "title": "Toshiba Launches Small 80V Electronic Fuse (eFuse IC) Suitable for 48V Power Line Protection in Industrial Equipment",
-      "link": "https://finance.yahoo.com/technology/articles/toshiba-launches-small-80v-electronic-020000506.html",
-      "publisher": "Business Wire",
-      "time": 1787191200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ccd09e57-65f2-3834-937e-7f483e2001bf",
-      "title": "From Jeju to Singapore: INCUBASE Studio Is Taking Anime Experiences Across Asia -- and Around the World",
-      "link": "https://finance.yahoo.com/media-advertising/articles/jeju-singapore-incubase-studio-taking-020000591.html",
-      "publisher": "PR Newswire",
-      "time": 1787191200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ae586bcc-757d-3e0e-a3ae-475abb660865",
-      "title": "'More confrontational': Iran's new hardline security leadership",
-      "link": "https://finance.yahoo.com/m/ae586bcc-757d-3e0e-a3ae-475abb660865/%27more-confrontational%27%3A.html",
+      "id": "71ca147e-e3b4-3d92-aa44-0555e320d3b6",
+      "title": "Japan's King Kazu, 59, scores twice from spot to make cup history",
+      "link": "https://finance.yahoo.com/m/71ca147e-e3b4-3d92-aa44-0555e320d3b6/japan%27s-king-kazu%2C-59%2C-scores.html",
       "publisher": "AFP",
-      "time": 1787191000,
+      "time": 1787195641,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "de45ba79-bf56-323f-a0b5-61e99c1ac1ae",
-      "title": "Japan's exports surge on chips demand, imports hit record on oil costs",
-      "link": "https://finance.yahoo.com/economy/articles/japans-exports-jump-23-monthly-002331518.html",
-      "publisher": "Reuters",
-      "time": 1787190928,
+      "id": "052f88a5-4ba7-3965-89c7-e0ef4afa045f",
+      "title": "Nebius Group announces pricing of upsized private offering of $5.0 billion of convertible senior notes",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-announces-pricing-upsized-031300935.html",
+      "publisher": "Business Wire",
+      "time": 1787195580,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "68a3e9b8-8858-3a96-8c98-dd4126c44fbe",
+      "title": "Dow Jones Futures: S&P 500, Nasdaq Rise As Moderna, Merck, Gold Shine But Not These Techs",
+      "link": "https://finance.yahoo.com/m/68a3e9b8-8858-3a96-8c98-dd4126c44fbe/dow-jones-futures%3A-s%26p-500%2C.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787195558,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "838c0d64-bc32-3fb4-b11c-92d804e43f38",
+      "title": "JA Powers Fisher & Paykel Healthcare's Green Transition with New Zealand's Largest Rooftop PV System",
+      "link": "https://finance.yahoo.com/energy/articles/ja-powers-fisher-paykel-healthcares-031200288.html",
+      "publisher": "PR Newswire",
+      "time": 1787195520,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8159971a-3a96-3162-8907-fa099263dc31",
+      "title": "Nielsen’s $2.15 Billion Bet on DoubleVerify: What It Means for Ad-Tech",
+      "link": "https://finance.yahoo.com/media-advertising/articles/nielsen-2-15-billion-bet-031046577.html",
+      "publisher": "Insider Monkey",
+      "time": 1787195446,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e7370bcc-5e40-39b7-9222-8a1dbca52906",
+      "title": "North Sea drilling tests UK govt climate pledge",
+      "link": "https://finance.yahoo.com/m/e7370bcc-5e40-39b7-9222-8a1dbca52906/north-sea-drilling-tests-uk.html",
+      "publisher": "AFP",
+      "time": 1787195363,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4f07ff0c-5531-32e7-8827-a75af59d031a",
+      "title": "Masayoshi Son Has 67% of SoftBank's U.S. Stock Portfolio in Intel. He Didn't Buy a Single Share Last Quarter.",
+      "link": "https://finance.yahoo.com/m/4f07ff0c-5531-32e7-8827-a75af59d031a/masayoshi-son-has-67%25-of.html",
+      "publisher": "Motley Fool",
+      "time": 1787195221,
       "impact": "medium",
       "tags": [
         "macro",
@@ -132,20 +118,29 @@
       ]
     },
     {
-      "id": "d92c57e4-909e-3f97-9a88-dec65e6db011",
-      "title": "Ant International’s FalconTST Model 2.0 Achieves SOTA, Elevating Predictive AI Application in Finance to New Levels",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ant-international-falcontst-model-2-015500993.html",
+      "id": "844047b8-5e2c-3a15-a726-560615a6a247",
+      "title": "Amylyx Pharmaceuticals Announces Pricing of an Upsized $500 Million Underwritten Public Offering of Common Stock",
+      "link": "https://finance.yahoo.com/healthcare/articles/amylyx-pharmaceuticals-announces-pricing-upsized-030600255.html",
       "publisher": "Business Wire",
-      "time": 1787190900,
+      "time": 1787195160,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a9a44da1-ee89-3066-a0fd-ead7e54440e9",
-      "title": "How Democratic Socialism Caught Fire in Florida",
-      "link": "https://finance.yahoo.com/m/a9a44da1-ee89-3066-a0fd-ead7e54440e9/how-democratic-socialism.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787190840,
+      "id": "adce0f5c-03ba-388f-b110-4e581e544023",
+      "title": "Essity acquires feminine care business in Brazil",
+      "link": "https://finance.yahoo.com/healthcare/articles/essity-acquires-feminine-care-business-030600211.html",
+      "publisher": "PR Newswire",
+      "time": 1787195160,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c3b4037d-83db-311d-ac0a-adf984e0e6c6",
+      "title": "Why Marvell Stock Surged Today",
+      "link": "https://finance.yahoo.com/m/c3b4037d-83db-311d-ac0a-adf984e0e6c6/why-marvell-stock-surged-today.html",
+      "publisher": "Motley Fool",
+      "time": 1787195129,
       "impact": "low",
       "tags": []
     }
