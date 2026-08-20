@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-20T06:34:59.359997+00:00",
+  "updatedAt": "2026-08-20T07:35:16.556370+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19847.5,
-      "change": -87.40000000000146,
-      "changePct": -0.4384270801458821,
+      "price": 19875.5,
+      "change": 28.0,
+      "changePct": 0.14107570222949992,
       "currency": "EUR"
     },
     {
@@ -28,120 +28,116 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26091.33,
-      "change": -247.27999999999884,
-      "changePct": -0.9388498481886434,
+      "price": 26015.45,
+      "change": -112.90999999999985,
+      "changePct": -0.4321358095188518,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6444.46,
-      "change": -23.710000000000036,
-      "changePct": -0.36656426779135426,
+      "price": 6440.84,
+      "change": -3.619999999999891,
+      "changePct": -0.056172278204844016,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.89,
-      "change": -0.9499999999999993,
-      "changePct": -5.997474747474743,
+      "price": 14.91,
+      "change": 0.019999999999999574,
+      "changePct": 0.1343183344526499,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "35391a8c-21f5-369a-a194-055033c7161a",
-      "title": "Baidu's Apollo Go Goes Live on Uber in Dubai, Offering a New Way for Users to Hail Fully Driverless Rides",
-      "link": "https://finance.yahoo.com/technology/ai/articles/baidus-apollo-goes-live-uber-063000554.html",
+      "id": "46f242c0-007d-32b3-aeaf-de5c7d0bcfdf",
+      "title": "Vivmark Residential Insider Sold Shares Worth $1,001,660, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vivmark-residential-insider-sold-shares-073155463.html",
+      "publisher": "MT Newswires",
+      "time": 1787211115,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6b6ccb57-def8-3f31-aecd-bd4cb6b3a8e6",
+      "title": "Ascentage Pharma H1 Loss Widens, Revenue Rises",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ascentage-pharma-h1-loss-widens-072857590.html",
+      "publisher": "MT Newswires",
+      "time": 1787210937,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "012926bd-d9c4-39df-91b8-cd0eb46bf87c",
+      "title": "On X, a Recurring Debate Over Free AI Assistants Highlights What Ordinary Users Actually Want",
+      "link": "https://finance.yahoo.com/technology/ai/articles/x-recurring-debate-over-free-072000804.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787210400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ddde6bbc-e2f5-3015-8bce-7465c5eaff7c",
+      "title": "Michael Selig Calls Compute the Most Important Commodity as CFTC Seeks Comment",
+      "link": "https://finance.yahoo.com/m/ddde6bbc-e2f5-3015-8bce-7465c5eaff7c/michael-selig-calls-compute.html",
+      "publisher": "BeInCrypto",
+      "time": 1787210307,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d2bf5fe1-bf25-3204-af32-84d24d08cc40",
+      "title": "Eurozone Bond Yields Decline, Move in Line With Treasury Yields",
+      "link": "https://finance.yahoo.com/m/d2bf5fe1-bf25-3204-af32-84d24d08cc40/eurozone-bond-yields-decline%2C.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787210160,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "38b7d0a3-391b-3e47-8735-8163cacdbe02",
+      "title": "Amazon has an Android 16 tablet for $94 that 'holds a charge forever'",
+      "link": "https://finance.yahoo.com/m/38b7d0a3-391b-3e47-8735-8163cacdbe02/amazon-has-an-android-16.html",
+      "publisher": "TheStreet",
+      "time": 1787210100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "19976fa4-872b-3c18-b150-f00586d1675b",
+      "title": "VAPORESSO Marks 11th Anniversary, Advancing Tech Innovation and Strengthening Global Connections",
+      "link": "https://finance.yahoo.com/technology/articles/vaporesso-marks-11th-anniversary-advancing-071400747.html",
       "publisher": "PR Newswire",
-      "time": 1787207400,
+      "time": 1787210040,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "422f62de-959d-3495-8ff9-0452f614ee26",
-      "title": "Pixelgen Technologies Closes $15.5M Oversubscribed Series B to Accelerate Global Expansion",
-      "link": "https://finance.yahoo.com/healthcare/articles/pixelgen-technologies-closes-15-5m-063000030.html",
-      "publisher": "PR Newswire",
-      "time": 1787207400,
+      "id": "2c2f425c-c1c4-33b1-a2f5-1b55a4b69577",
+      "title": "Does Gilead (GILD) Pairing With Nucleai Reveal a Deeper Shift in Its Oncology Strategy?",
+      "link": "https://finance.yahoo.com/healthcare/articles/does-gilead-gild-pairing-nucleai-071228359.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787209948,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4868c474-3163-39b3-af3c-e256a276da5f",
-      "title": "Uber Launches Baidu’s Fully Driverless Apollo Go in Dubai, Establishing the First Multi-Partner Autonomous Network Globally",
-      "link": "https://finance.yahoo.com/technology/ai/articles/uber-launches-baidu-fully-driverless-063000807.html",
-      "publisher": "Business Wire",
-      "time": 1787207400,
+      "id": "4229801b-cb77-3b4f-a06b-5f097e54f1bf",
+      "title": "Charles Schwab (SCHW) Stock Fair Value Rises After Strong Q2 And Analyst Target Increases",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-schw-stock-fair-071223575.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787209943,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "69f40e47-8cbd-3acc-9bb4-0b99cc90d7ea",
-      "title": "IRIS Optronics Pushes Infinity® Solar-Powered ChLCD E-Paper Technology to New Heights with 31.5-Inch Outdoor Display and Embedded Perovskite Indoor Solution",
-      "link": "https://finance.yahoo.com/technology/articles/iris-optronics-pushes-infinity-solar-063000626.html",
-      "publisher": "PR Newswire",
-      "time": 1787207400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8dd3529b-d689-3f7b-a91d-47504b174e1c",
-      "title": "Bry-Air Sets a New Global Pathway for Air to Water Generation",
-      "link": "https://finance.yahoo.com/technology/articles/bry-air-sets-global-pathway-063000084.html",
-      "publisher": "PR Newswire",
-      "time": 1787207400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "71a5d630-6bfb-325a-9224-4a1a89e2dc5b",
-      "title": "ICG: Oxy Capital Comments on the Half-Year Results of Irish Continental Group PLC (\"ICG\") and the Independent Board’s Response to Its Letter",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/icg-oxy-capital-comments-half-062900419.html",
-      "publisher": "Business Wire",
-      "time": 1787207340,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fee858ba-6ea2-3548-8dbd-ed2193ffae4b",
-      "title": "China jails founder, fines disgraced property giant Evergrande",
-      "link": "https://finance.yahoo.com/real-estate/articles/china-jails-founder-fines-disgraced-062628083.html",
-      "publisher": "AFP",
-      "time": 1787207188,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "0f64db44-564d-36fa-9a9c-a50f8feae1ef",
-      "title": "China puts robocops on traffic duty, minus the arrest powers",
-      "link": "https://finance.yahoo.com/m/0f64db44-564d-36fa-9a9c-a50f8feae1ef/china-puts-robocops-on.html",
-      "publisher": "Reuters",
-      "time": 1787207115,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "1e131053-b89d-3784-af98-16113f80f2ad",
-      "title": "Nvidia Chip-Filled Data Centers Need More Power Than Any Utility Can Promise. Here's Who Actually Wins.",
-      "link": "https://finance.yahoo.com/m/1e131053-b89d-3784-af98-16113f80f2ad/nvidia-chip-filled-data.html",
-      "publisher": "Motley Fool",
-      "time": 1787207100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "180a298b-6db7-37e3-91de-8ed4db8d178e",
-      "title": "Akiram Therapeutics and ITM Sign Lutetium-177 Supply Agreement to Support Development of AKIR001 for the Treatment of Solid Tumors",
-      "link": "https://finance.yahoo.com/healthcare/articles/akiram-therapeutics-itm-sign-lutetium-062200774.html",
-      "publisher": "PR Newswire",
-      "time": 1787206920,
+      "id": "9f1a08a8-a380-3480-8d71-d49c80a4fdec",
+      "title": "Millicom International Cellular (TIGO) Stock Looks Stretched As Cash Flow Targets Rise",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/millicom-international-cellular-tigo-stock-071215700.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787209935,
       "impact": "low",
       "tags": []
     }
