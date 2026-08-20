@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-20T09:59:11.218715+00:00",
+  "updatedAt": "2026-08-20T10:35:16.141129+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19886.5,
-      "change": 39.0,
-      "changePct": 0.19649829953394632,
+      "price": 19847.2,
+      "change": -0.2999999999992724,
+      "changePct": -0.0015115253810266906,
       "currency": "EUR"
     },
     {
@@ -28,118 +28,119 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25973.07,
-      "change": -155.29000000000087,
-      "changePct": -0.5943350443732437,
+      "price": 25985.3,
+      "change": -143.0600000000013,
+      "changePct": -0.547527667255049,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6430.82,
-      "change": -13.640000000000327,
-      "changePct": -0.2116546615232359,
+      "price": 6427.0,
+      "change": -17.460000000000036,
+      "changePct": -0.2709303805128752,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.21,
-      "change": 0.3200000000000003,
-      "changePct": 2.1490933512424464,
+      "price": 15.16,
+      "change": 0.2699999999999996,
+      "changePct": 1.8132975151108097,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "0d3feccf-745c-3ea3-bfa4-1f3e92145852",
-      "title": "FDA clears Empatica’s platform for Parkinson’s monitoring",
-      "link": "https://finance.yahoo.com/m/0d3feccf-745c-3ea3-bfa4-1f3e92145852/fda-clears-empatica%E2%80%99s.html",
-      "publisher": "Medical Device Network",
-      "time": 1787219869,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e07ee030-35a7-3d71-b728-fc29fbdcbc1e",
-      "title": "Rapid7 (RPD) Bets On A Sharper Focus To Reverse Its Slide",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rapid7-rpd-bets-sharper-focus-095502766.html",
-      "publisher": "Insider Monkey",
-      "time": 1787219702,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7f301f33-fafd-3847-bad3-64e520f4254b",
-      "title": "Novo Nordisk commences study for reduced Wegovy pill dosing",
-      "link": "https://finance.yahoo.com/m/7f301f33-fafd-3847-bad3-64e520f4254b/novo-nordisk-commences-study.html",
-      "publisher": "Hospital Management",
-      "time": 1787219630,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "21d031be-41ae-30d6-84f3-0badcdba1355",
-      "title": "SandboxAQ introduces AQPotency for virtual drug screening",
-      "link": "https://finance.yahoo.com/m/21d031be-41ae-30d6-84f3-0badcdba1355/sandboxaq-introduces.html",
-      "publisher": "Pharmaceutical Technology",
-      "time": 1787219467,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "953d3eac-5937-3993-a666-1fc5d3ad512d",
-      "title": "Indorama partners with Suntory and Iwatani on PET packaging in Thailand",
-      "link": "https://finance.yahoo.com/m/953d3eac-5937-3993-a666-1fc5d3ad512d/indorama-partners-with.html",
+      "id": "97183068-95e3-300c-a620-8c9c95d45d45",
+      "title": "Asahi transitions entire Australian soft drink range to recycled PET",
+      "link": "https://finance.yahoo.com/m/97183068-95e3-300c-a620-8c9c95d45d45/asahi-transitions-entire.html",
       "publisher": "Packaging Gateway",
-      "time": 1787219282,
+      "time": 1787222006,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3239428b-f3ba-3188-b8c5-791ff3e68606",
-      "title": "3 Overrated  Stocks We Keep Off Our Radar",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-overrated-stocks-keep-off-094715862.html",
-      "publisher": "StockStory",
-      "time": 1787219235,
+      "id": "0239ae98-5be5-3bba-a53b-4c79c598091b",
+      "title": "HealthTab™ Enters Multi-Year Collaboration Agreement with Abbott for Point-of-Care Testing Across the UK",
+      "link": "https://finance.yahoo.com/healthcare/articles/healthtab-enters-multi-collaboration-agreement-103000811.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787221800,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "13e0749a-dea6-368b-a608-03b11e0a108f",
+      "title": "Trans Canada Gold Has Successfully Completed Phase 1- Drilling at the Harrison Lake District Scale Gold Project and Completes Updated Underground Mine Refurbishment",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/trans-canada-gold-successfully-completed-103000327.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787221800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "18e9e7da-e4f2-38e0-a4dc-edcf4599a446",
+      "title": "Form 8.3 - Picton Property Income Limited",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-picton-property-103000430.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787221800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1d18a439-1d88-3ea8-b230-793d5e26ba54",
+      "title": "Aurora Mobile Limited Announces Second Quarter 2026 Unaudited Financial Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aurora-mobile-limited-announces-second-103000404.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787221800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "244066dd-858a-3aa2-81c6-ea3f7685d04e",
+      "title": "Onfolio Holdings Inc. Announces Q2 2026 Financial Results and Provides Corporate Update",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/onfolio-holdings-inc-announces-q2-103000630.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787221800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2e1d63a2-2210-361f-91b6-8bd71221ae91",
+      "title": "AIR Global Reports 2026 First-Half Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/air-global-reports-2026-first-103000577.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787221800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4103ffb3-abf6-3bf2-9b83-6be9429d5ba0",
+      "title": "Advance Auto Parts Reports Second Quarter 2026 Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/advance-auto-parts-reports-second-103000840.html",
+      "publisher": "Business Wire",
+      "time": 1787221800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4ff5afbb-ee3a-3b89-ba41-8911d240ff2e",
+      "title": "lululemon athletica inc. announces second quarter fiscal 2026 earnings conference call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lululemon-athletica-inc-announces-second-103000718.html",
+      "publisher": "Business Wire",
+      "time": 1787221800,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "a93fddb3-710c-396d-ba31-5cedf6ac1a18",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-094700120.html",
-      "publisher": "Business Wire",
-      "time": 1787219220,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "dfe77bf1-194b-3c2e-8bcc-cfc1f1b29fc3",
-      "title": "Morgan Stanley Adjusts Price Target on Helmerich & Payne to $41 From $36, Keeps Underweight Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-price-target-094657315.html",
-      "publisher": "MT Newswires",
-      "time": 1787219217,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d2e95e0d-07aa-3d55-b2c4-fa59236c72b1",
-      "title": "Tech Mahindra and ServiceNow Expand Partnership to Deliver Production-Ready Enterprise AI at Scale",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tech-mahindra-servicenow-expand-partnership-094600665.html",
-      "publisher": "PR Newswire",
-      "time": 1787219160,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "75ff566d-8bd8-3ff2-9c5a-55fe4c75c2fc",
-      "title": "LG starts series production of 5G telematics solution for European OEM",
-      "link": "https://finance.yahoo.com/m/75ff566d-8bd8-3ff2-9c5a-55fe4c75c2fc/lg-starts-series-production.html",
-      "publisher": "Just Auto",
-      "time": 1787219154,
+      "id": "7567cfa7-545f-3e81-8c8a-b9c9c729e624",
+      "title": "Parsons Selected for $350M Seabed to Space ISR Effort",
+      "link": "https://finance.yahoo.com/technology/articles/parsons-selected-350m-seabed-space-103000244.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787221800,
       "impact": "low",
       "tags": []
     }
