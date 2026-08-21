@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T03:28:42.277022+00:00",
+  "updatedAt": "2026-08-21T04:10:03.228377+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6422.06,
       "change": -22.399999999999636,
       "changePct": -0.34758536789738215,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,20 +52,31 @@
   ],
   "news": [
     {
-      "id": "26ad5b60-b7dd-3d07-a496-b0bf58cb55a2",
-      "title": "Tailored Floral Unveils the Muhibbah Collection -- Where Every Bouquet Celebrates Malaysia and Helps Create a Future",
-      "link": "https://finance.yahoo.com/small-business/articles/tailored-floral-unveils-muhibbah-collection-032000874.html",
-      "publisher": "PR Newswire",
-      "time": 1787282400,
+      "id": "07401e6b-6b18-36f4-9c62-22fa4f6156c5",
+      "title": "Schools are starting to teach AI literacy. For many, that means helping kids see chatbots' flaws",
+      "link": "https://finance.yahoo.com/m/07401e6b-6b18-36f4-9c62-22fa4f6156c5/schools-are-starting-to-teach.html",
+      "publisher": "Associated Press",
+      "time": 1787285107,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4966468a-3ce0-31c8-9b8d-52d9de57fc8d",
-      "title": "If We're in an AI Bubble, History Says This Is the Best Way to Recession-Proof Your Portfolio",
-      "link": "https://finance.yahoo.com/m/4966468a-3ce0-31c8-9b8d-52d9de57fc8d/if-we%27re-in-an-ai-bubble%2C.html",
-      "publisher": "Motley Fool",
-      "time": 1787282400,
+      "id": "cd133f32-9686-3990-82b2-9c90f07f074c",
+      "title": "Fabrinet Sees AI Optical Demand Fueling Years of Growth, Expands Capacity",
+      "link": "https://finance.yahoo.com/m/cd133f32-9686-3990-82b2-9c90f07f074c/fabrinet-sees-ai-optical.html",
+      "publisher": "MarketBeat",
+      "time": 1787284919,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "7c52a902-0f92-3164-b31e-ffaf0d09609e",
+      "title": "Analysis-War-hit European markets are far from down and out",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/analysis-war-hit-european-markets-040138182.html",
+      "publisher": "Reuters",
+      "time": 1787284898,
       "impact": "high",
       "tags": [
         "geo",
@@ -73,72 +84,47 @@
       ]
     },
     {
-      "id": "53f9b02a-e75e-3047-9dd0-ecc91b32a9c9",
-      "title": "Hong Kong Tiananmen vigil activists found guilty of inciting subversion",
-      "link": "https://finance.yahoo.com/m/53f9b02a-e75e-3047-9dd0-ecc91b32a9c9/hong-kong-tiananmen-vigil.html",
+      "id": "864477d5-2492-3a83-b296-16e3bd19171e",
+      "title": "Next Level Performance Marks 50 Years of Impact with HOPE Week",
+      "link": "https://finance.yahoo.com/small-business/articles/next-level-performance-marks-50-040100374.html",
+      "publisher": "PR Newswire",
+      "time": 1787284860,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "009ab6b7-9e2e-3df8-b56d-a84c1329510c",
+      "title": "TIER IV joins Open Invention Network 2.0 to drive the expansion of the open-source ecosystem for autonomous driving through a patent strategy",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tier-iv-joins-open-invention-040000964.html",
+      "publisher": "PR Newswire",
+      "time": 1787284800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b45a88fe-718e-39d4-91d7-1737e8eaed91",
+      "title": "The Hong Kong Tiananmen vigil activists convicted in national security trial",
+      "link": "https://finance.yahoo.com/m/b45a88fe-718e-39d4-91d7-1737e8eaed91/the-hong-kong-tiananmen-vigil.html",
       "publisher": "AFP",
-      "time": 1787282370,
+      "time": 1787284443,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6bba094e-9e08-3605-87e7-0118721b202e",
-      "title": "Why Advance Auto Parts Stock Crashed Today",
-      "link": "https://finance.yahoo.com/m/6bba094e-9e08-3605-87e7-0118721b202e/why-advance-auto-parts-stock.html",
-      "publisher": "Motley Fool",
-      "time": 1787281868,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3c10a83c-4316-3078-b9a0-d051c219cd84",
-      "title": "Every completion by Fernando Mendoza vs. Texans Preseason Week 2",
-      "link": "https://finance.yahoo.com/m/3c10a83c-4316-3078-b9a0-d051c219cd84/every-completion-by-fernando.html",
+      "id": "adb16484-7089-342b-b090-490baeffa56c",
+      "title": "Raiders vs. Texans highlights Preseason Week 2",
+      "link": "https://finance.yahoo.com/m/adb16484-7089-342b-b090-490baeffa56c/raiders-vs.-texans-highlights.html",
       "publisher": "NFL Highlights",
-      "time": 1787281811,
+      "time": 1787283938,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "91327cea-fed2-33ed-a182-385b27c0298f",
-      "title": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
-      "link": "https://finance.yahoo.com/m/91327cea-fed2-33ed-a182-385b27c0298f/dow-jones-futures%3A-market.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787281763,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "0f543092-89e3-3a01-9d7a-538dce9fefca",
-      "title": "Wall Street is starting to warm to Apple's $2,199 foldable gamble",
-      "link": "https://finance.yahoo.com/m/0f543092-89e3-3a01-9d7a-538dce9fefca/wall-street-is-starting-to.html",
-      "publisher": "TheStreet",
-      "time": 1787281620,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "97bc083b-c991-3855-a861-e0672416861c",
-      "title": "Prolight + Sound Bangkok debut set to energise Southeast Asia's pro AV and entertainment technology market",
-      "link": "https://finance.yahoo.com/media-advertising/articles/prolight-sound-bangkok-debut-set-030400180.html",
-      "publisher": "PR Newswire",
-      "time": 1787281440,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "376be423-5f5f-3e4f-aa5e-ef6144f9b80d",
-      "title": "Precipio Inc (PRPO) (Q2 2026) Earnings Call Highlights: Record Revenue and Positive EBITDA Mark ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/precipio-inc-prpo-q2-2026-030210445.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787281330,
+      "id": "4fdb8f99-d58b-3cf3-b9f8-ec2a4358a170",
+      "title": "BayFirst Financial (BAFN) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/4fdb8f99-d58b-3cf3-b9f8-ec2a4358a170/bayfirst-financial-%28bafn%29-q2.html",
+      "publisher": "Motley Fool",
+      "time": 1787283814,
       "impact": "medium",
       "tags": [
         "macro",
@@ -146,11 +132,23 @@
       ]
     },
     {
-      "id": "53b34ac4-8883-35d0-9497-5c2c0ab8ecdb",
-      "title": "Delek Group Ltd (DLKGF) (Q2 2026) Earnings Call Highlights: Record Logistics Performance and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/delek-group-ltd-dlkgf-q2-030210139.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787281330,
+      "id": "8e366a23-437c-3f61-9ef7-806932ca5ebd",
+      "title": "MDxHealth (MDXH) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/8e366a23-437c-3f61-9ef7-806932ca5ebd/mdxhealth-%28mdxh%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1787283814,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "c704e184-6a7c-380b-ac67-ae82f28978d4",
+      "title": "Lument Finance (LFT) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/c704e184-6a7c-380b-ac67-ae82f28978d4/lument-finance-%28lft%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1787283814,
       "impact": "medium",
       "tags": [
         "macro",
