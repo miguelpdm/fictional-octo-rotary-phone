@@ -1,159 +1,154 @@
 {
-  "updatedAt": "2026-08-21T15:03:46.114297+00:00",
+  "updatedAt": "2026-08-21T15:57:04.254356+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19978.0,
-      "change": 167.0,
-      "changePct": 0.8429660289738024,
+      "price": 19961.5,
+      "change": 150.5,
+      "changePct": 0.7596789662308818,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7679.34,
-      "change": -28.639999999999418,
-      "changePct": -0.37156297758945167,
+      "price": 7692.32,
+      "change": -15.659999999999854,
+      "changePct": -0.20316606945010046,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26163.848,
-      "change": -167.24199999999837,
-      "changePct": -0.6351503109062266,
+      "price": 26250.09,
+      "change": -81.0,
+      "changePct": -0.3076211429150863,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26150.44,
-      "change": 59.109999999996944,
-      "changePct": 0.22655035216678082,
+      "price": 26136.56,
+      "change": 45.22999999999956,
+      "changePct": 0.17335260410258718,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6463.41,
-      "change": 41.349999999999454,
-      "changePct": 0.6438743954431981,
+      "price": 6462.22,
+      "change": 40.159999999999854,
+      "changePct": 0.6253445156227107,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.36,
-      "change": -0.6500000000000021,
-      "changePct": -4.059962523422874,
+      "price": 15.25,
+      "change": -0.7600000000000016,
+      "changePct": -4.747033104309815,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "fbbfc325-8d6b-3dd1-a5b8-9beb94051774",
-      "title": "Better Collective AS (FRA:9C8) (Q2 2026) Earnings Call Highlights: Revenue Up 9%, North ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/better-collective-fra-9c8-q2-150148028.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787324508,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "6103de21-64d7-3b4e-94fb-ffd52a94ea38",
-      "title": "Scatec ASA (FRA:66T) (Q2 2026) Earnings Call Highlights: Record Backlog and Strategic Expansion ...",
-      "link": "https://finance.yahoo.com/energy/articles/scatec-asa-fra-66t-q2-150130824.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787324490,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "121d43d0-eb8f-3214-a179-2b137b35f7b0",
-      "title": "Odfjell SE (FRA:O7F) (Q2 2026) Earnings Call Highlights: Record Time Charter Earnings and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/odfjell-se-fra-o7f-q2-150129008.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787324489,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "91f25671-7a64-343f-8c1e-e115c5be3989",
-      "title": "Veteran Investor Says SpaceX Stock Could Crash 78%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/veteran-investor-says-spacex-stock-150112185.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787324472,
+      "id": "a063bffc-8dc2-32ab-8b3f-d3000ebe5fa9",
+      "title": "U.S. to Boost Beef Imports to Address High Prices, Trump Says",
+      "link": "https://finance.yahoo.com/m/a063bffc-8dc2-32ab-8b3f-d3000ebe5fa9/u.s.-to-boost-beef-imports-to.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787327460,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "13083eb0-9e00-3be4-b1c4-77088404f132",
-      "title": "Live Selling App Tilt Launches ‘Clips’",
-      "link": "https://finance.yahoo.com/m/13083eb0-9e00-3be4-b1c4-77088404f132/live-selling-app-tilt.html",
-      "publisher": "Sourcing Journal",
-      "time": 1787324400,
+      "id": "cb351fa3-3f19-30bf-9239-0ec5ca3a5f74",
+      "title": "What’s Moving the Markets Today?",
+      "link": "https://finance.yahoo.com/m/cb351fa3-3f19-30bf-9239-0ec5ca3a5f74/what%E2%80%99s-moving-the-markets.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787327429,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "05fb794a-5cca-3e1e-a3d7-a756b9c8d5c0",
+      "title": "E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future",
+      "link": "https://finance.yahoo.com/m/05fb794a-5cca-3e1e-a3d7-a756b9c8d5c0/e-noses%2C-microscopic-robots%2C.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787327400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9d9ce084-5924-35e1-a342-6d161259b706",
-      "title": "Bernstein remains bullish on SpaceX but sees challenges in telecom ambitions",
-      "link": "https://finance.yahoo.com/technology/articles/bernstein-remains-bullish-spacex-sees-145753558.html",
-      "publisher": "Investing.com",
-      "time": 1787324273,
+      "id": "09fdd360-6262-3e60-be19-406d5b1be6dd",
+      "title": "CBTU Executive Director Addresses UA's 41st Convention Calling for North American Collaboration",
+      "link": "https://finance.yahoo.com/economy/policy/articles/cbtu-executive-director-addresses-uas-154900525.html",
+      "publisher": "CNW Group",
+      "time": 1787327340,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6201c0da-0b82-3b95-9892-7dd4de39c197",
-      "title": "Fridge Rentals Rise Across Delhi, Chennai, Bangalore and Hyderabad in 2026 as Households Shift to ₹524/Month Plans With Three-Month Minimum Tenure and Free Repairs From Rentomojo",
-      "link": "https://finance.yahoo.com/small-business/articles/fridge-rentals-rise-across-delhi-145500071.html",
+      "id": "6e30bb93-9d31-3b95-88ef-28ce51aa14c8",
+      "title": "Zhang Ziyi: the new face of Clarins Precious",
+      "link": "https://finance.yahoo.com/media-advertising/articles/zhang-ziyi-face-clarins-precious-154900648.html",
+      "publisher": "PR Newswire",
+      "time": 1787327340,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7b7a3fde-cf98-3238-aee8-07015f184683",
+      "title": "Income Financial Trust Financial Results to June 30, 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/income-financial-trust-financial-results-154900019.html",
       "publisher": "GlobeNewswire",
-      "time": 1787324100,
+      "time": 1787327340,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c0884369-1c88-3d53-ba97-a72a7aaa54e5",
-      "title": "Bank of America's sell signals are flashing red, but 56% of fund managers are going all-in on stocks anyway",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-americas-sell-signals-flashing-145500469.html",
-      "publisher": "Moneywise",
-      "time": 1787324100,
-      "impact": "medium",
+      "id": "bb797da7-47c4-3c34-b742-280d180b2185",
+      "title": "CALPORTLAND READY-MIX TEAMSTERS OVERWHELMINGLY RATIFY ONE-YEAR CONTRACT",
+      "link": "https://finance.yahoo.com/small-business/articles/calportland-ready-mix-teamsters-overwhelmingly-154800837.html",
+      "publisher": "PR Newswire",
+      "time": 1787327280,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4ed220b3-59a3-3566-bccd-6f19e8fb1301",
+      "title": "2 Software Stocks Worth Your Attention and 1 That Underwhelm",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-software-stocks-worth-attention-154747633.html",
+      "publisher": "StockStory",
+      "time": 1787327267,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "91d477b8-3eb3-3cd2-ae17-26523a25ffd3",
-      "title": "Tesla Faces Its Biggest-Ever China Recall",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-faces-biggest-ever-china-145418259.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787324058,
+      "id": "a2569d1a-5259-3f93-ab42-3fa354bdd87b",
+      "title": "Buyout firm Vista explores $3 billion sale of private markets data provider Allvue, sources say",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/buyout-firm-vista-explores-3-154714827.html",
+      "publisher": "Reuters",
+      "time": 1787327234,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "f782a87a-adec-38b9-a3ac-14d1201ad08f",
+      "title": "Bitcoin jumps, stocks bounce as traders weigh US Treasury action",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-markets-extend-rally-traders-023442615.html",
+      "publisher": "AFP",
+      "time": 1787327207,
       "impact": "medium",
       "tags": [
         "geo"
       ]
-    },
-    {
-      "id": "cc419643-6666-34bc-b6c9-4a5fff773a60",
-      "title": "Spurs spending spree vital to raise standards: De Zerbi",
-      "link": "https://finance.yahoo.com/m/cc419643-6666-34bc-b6c9-4a5fff773a60/spurs-spending-spree-vital-to.html",
-      "publisher": "AFP",
-      "time": 1787323967,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
