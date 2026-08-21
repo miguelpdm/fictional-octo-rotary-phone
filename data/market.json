@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-21T06:38:30.205275+00:00",
+  "updatedAt": "2026-08-21T07:37:07.060565+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19811.0,
-      "change": -36.5,
-      "changePct": -0.1839022546920267,
+      "price": 19914.0,
+      "change": 103.0,
+      "changePct": 0.5199131795467165,
       "currency": "EUR"
     },
     {
@@ -28,55 +28,65 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25983.04,
-      "change": -145.3199999999997,
-      "changePct": -0.5561772725115534,
+      "price": 25993.33,
+      "change": -98.0,
+      "changePct": -0.37560369670691374,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6422.06,
-      "change": -22.399999999999636,
-      "changePct": -0.34758536789738215,
-      "currency": "EUR"
+      "price": 6436.24,
+      "change": 14.179999999999382,
+      "changePct": 0.22080142508789047,
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.01,
-      "change": 1.120000000000001,
-      "changePct": 7.521826729348563,
+      "price": 15.82,
+      "change": -0.19000000000000128,
+      "changePct": -1.1867582760774593,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "68763818-a711-3512-957e-6870553c184a",
-      "title": "Implantica publishes Interim Report January - June 2026 (Q2)",
-      "link": "https://finance.yahoo.com/healthcare/articles/implantica-publishes-interim-report-january-063000226.html",
-      "publisher": "PR Newswire",
-      "time": 1787293800,
+      "id": "5908b09d-283e-3ef4-9727-f95891a140b5",
+      "title": "Drovix Launches In-House Multi-Asset Liquidity and Execution Stack for Sub-Millisecond Fills, Tighter Spreads",
+      "link": "https://finance.yahoo.com/markets/options/articles/drovix-launches-house-multi-asset-073000581.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787297400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bf8abe8b-ca60-3174-93f2-f77157dc9fb7",
-      "title": "SCSC Q2 Deep Dive: Large Deal Timing and Unified Sales Strategy Shape Outlook",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/scsc-q2-deep-dive-large-062736839.html",
-      "publisher": "StockStory",
-      "time": 1787293656,
-      "impact": "low",
+      "id": "548e3b43-1b8c-389f-ac20-67977f65a87a",
+      "title": "Progress Software adds AI capabilities to Telerik and Kendo UI release",
+      "link": "https://finance.yahoo.com/m/548e3b43-1b8c-389f-ac20-67977f65a87a/progress-software-adds-ai.html",
+      "publisher": "Verdict",
+      "time": 1787297269,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "c105df16-019f-3ac3-9fef-04b8e96737e9",
-      "title": "Macy's Stock Trades at Just 10 Times Earnings. There's Only 1 Explanation for Why Macy's Is This Cheap.",
-      "link": "https://finance.yahoo.com/m/c105df16-019f-3ac3-9fef-04b8e96737e9/macy%27s-stock-trades-at-just.html",
-      "publisher": "Motley Fool",
-      "time": 1787293500,
+      "id": "39051cea-d43e-3aec-9609-822b71052785",
+      "title": "Samsung SDI says to sell $3.2 billion worth of Samsung Display shares back to display maker",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-sdi-says-sell-3-072614029.html",
+      "publisher": "Reuters",
+      "time": 1787297174,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6544868b-249e-31ab-a448-6b06a0e4b666",
+      "title": "Hansa Biopharma Files Confidential Draft for Potential US IPO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hansa-biopharma-files-confidential-draft-072612822.html",
+      "publisher": "MT Newswires",
+      "time": 1787297172,
       "impact": "medium",
       "tags": [
         "macro",
@@ -84,69 +94,61 @@
       ]
     },
     {
-      "id": "f84bb35c-85c2-391b-9cae-5322cb4ca646",
-      "title": "Marc Benioff Says Wall Street's Fears That AI Will Kill Salesforce Are \"Dead Wrong,\" Even as CRM Stock Has Fallen Over 25% in 2026. Should Investors Bet on His Conviction?",
-      "link": "https://finance.yahoo.com/m/f84bb35c-85c2-391b-9cae-5322cb4ca646/marc-benioff-says-wall.html",
-      "publisher": "Motley Fool",
-      "time": 1787293200,
+      "id": "f96f5318-0504-325b-a7b9-e12d458de063",
+      "title": "3S Bio Announces 2026 Interim Results: Innovation-Driven, Win-Win Collaboration, and Sustainable Growth",
+      "link": "https://finance.yahoo.com/healthcare/articles/3s-bio-announces-2026-interim-072400827.html",
+      "publisher": "PR Newswire",
+      "time": 1787297040,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "787bebcf-4a34-39b8-b6a6-409a9eda1a97",
-      "title": "ROST Q2 Deep Dive: Customer Traffic, Broader Merchandise Drive Sales Momentum",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rost-q2-deep-dive-customer-061936831.html",
-      "publisher": "StockStory",
-      "time": 1787293176,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "57806d0d-3932-3e42-96f9-53f9aa56cc9a",
-      "title": "Puzzle solutions for Friday, Aug. 21, 2026",
-      "link": "https://finance.yahoo.com/m/57806d0d-3932-3e42-96f9-53f9aa56cc9a/puzzle-solutions-for-friday%2C.html",
-      "publisher": "USA TODAY",
-      "time": 1787293148,
+      "id": "306ccd2b-e5d4-3195-958d-b266e7b91743",
+      "title": "BIGBANG WORLD TOUR: VIETNAMESE TICKETING PLATFORM BLOCKS BOTS EFFECTIVELY, SELLS OUT WITHIN HOURS",
+      "link": "https://finance.yahoo.com/media-advertising/articles/bigbang-world-tour-vietnamese-ticketing-071900059.html",
+      "publisher": "PR Newswire",
+      "time": 1787296740,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d4d31126-467b-3d11-bd8f-a227df16e9c0",
-      "title": "British retail sales soften in July after June World Cup boost",
-      "link": "https://finance.yahoo.com/economy/articles/british-retail-sales-soften-july-061905672.html",
-      "publisher": "Reuters",
-      "time": 1787293145,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8823f5d2-bca6-35be-a403-a95a8b039a80",
-      "title": "Ex-Pakistan PM Khan taken back to jail after hospital checks: govt",
-      "link": "https://finance.yahoo.com/m/8823f5d2-bca6-35be-a403-a95a8b039a80/ex-pakistan-pm-khan-taken.html",
+      "id": "76cbffb1-6d55-37d9-9efd-c53ab16c46ba",
+      "title": "Australia charges man with trying to pass Ukraine military intel to Russia",
+      "link": "https://finance.yahoo.com/m/76cbffb1-6d55-37d9-9efd-c53ab16c46ba/australia-charges-man-with.html",
       "publisher": "AFP",
-      "time": 1787292998,
+      "time": 1787296531,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "05cf786a-b7ae-3c26-9392-48a45d27570d",
-      "title": "Hofseth BioCare ASA: SECOND QUARTER 2026 FINANCIAL REPORT",
-      "link": "https://finance.yahoo.com/healthcare/articles/hofseth-biocare-asa-second-quarter-061500389.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787292900,
+      "id": "8542e7ab-bf62-3954-8571-0e0096f08021",
+      "title": "UK posts unexpected budget deficit in July as spending rises",
+      "link": "https://finance.yahoo.com/news/uk-posts-unexpected-budget-deficit-063056777.html",
+      "publisher": "Reuters",
+      "time": 1787296503,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4aea1b58-52f6-3a44-b659-a9d6e0aa3500",
-      "title": "Bekaert: Update on the Share Buyback Program and the Liquidity Agreement",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bekaert-share-buyback-program-liquidity-061500528.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787292900,
+      "id": "7e886ef7-94da-3b97-a789-ae50ee904531",
+      "title": "Walmart is selling a lockable 5-foot shed for just $90",
+      "link": "https://finance.yahoo.com/m/7e886ef7-94da-3b97-a789-ae50ee904531/walmart-is-selling-a-lockable.html",
+      "publisher": "TheStreet",
+      "time": 1787296500,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "4ffc9847-322d-3f4d-91be-178c42429c49",
+      "title": "Monte dei Paschi board approves dual exchange offers for Banco Bpm and Banca Generali",
+      "link": "https://finance.yahoo.com/m/4ffc9847-322d-3f4d-91be-178c42429c49/monte-dei-paschi-board.html",
+      "publisher": "Euronews",
+      "time": 1787296395,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
