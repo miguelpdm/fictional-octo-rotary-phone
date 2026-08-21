@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T15:57:04.254356+00:00",
+  "updatedAt": "2026-08-21T16:32:13.787335+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7692.32,
-      "change": -15.659999999999854,
-      "changePct": -0.20316606945010046,
+      "price": 7680.75,
+      "change": -27.229999999999563,
+      "changePct": -0.3532702471983524,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26250.09,
-      "change": -81.0,
-      "changePct": -0.3076211429150863,
+      "price": 26198.63,
+      "change": -132.45999999999913,
+      "changePct": -0.5030555134633587,
       "currency": "USD"
     },
     {
@@ -39,116 +39,113 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.25,
-      "change": -0.7600000000000016,
-      "changePct": -4.747033104309815,
+      "price": 15.32,
+      "change": -0.6900000000000013,
+      "changePct": -4.309806371018121,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "a063bffc-8dc2-32ab-8b3f-d3000ebe5fa9",
-      "title": "U.S. to Boost Beef Imports to Address High Prices, Trump Says",
-      "link": "https://finance.yahoo.com/m/a063bffc-8dc2-32ab-8b3f-d3000ebe5fa9/u.s.-to-boost-beef-imports-to.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787327460,
+      "id": "f1d3b833-ada8-4ac3-8a2f-d76e98618a27",
+      "title": "Data center opposition is growing and politicians are jumping on board",
+      "link": "https://finance.yahoo.com/video/data-center-opposition-growing-politicians-163000623.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1787329800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cb351fa3-3f19-30bf-9239-0ec5ca3a5f74",
-      "title": "What’s Moving the Markets Today?",
-      "link": "https://finance.yahoo.com/m/cb351fa3-3f19-30bf-9239-0ec5ca3a5f74/what%E2%80%99s-moving-the-markets.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787327429,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "05fb794a-5cca-3e1e-a3d7-a756b9c8d5c0",
-      "title": "E-Noses, Microscopic Robots, Composting Cemeteries and More Visions of the Future",
-      "link": "https://finance.yahoo.com/m/05fb794a-5cca-3e1e-a3d7-a756b9c8d5c0/e-noses%2C-microscopic-robots%2C.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787327400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "09fdd360-6262-3e60-be19-406d5b1be6dd",
-      "title": "CBTU Executive Director Addresses UA's 41st Convention Calling for North American Collaboration",
-      "link": "https://finance.yahoo.com/economy/policy/articles/cbtu-executive-director-addresses-uas-154900525.html",
-      "publisher": "CNW Group",
-      "time": 1787327340,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6e30bb93-9d31-3b95-88ef-28ce51aa14c8",
-      "title": "Zhang Ziyi: the new face of Clarins Precious",
-      "link": "https://finance.yahoo.com/media-advertising/articles/zhang-ziyi-face-clarins-precious-154900648.html",
-      "publisher": "PR Newswire",
-      "time": 1787327340,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7b7a3fde-cf98-3238-aee8-07015f184683",
-      "title": "Income Financial Trust Financial Results to June 30, 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/income-financial-trust-financial-results-154900019.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787327340,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bb797da7-47c4-3c34-b742-280d180b2185",
-      "title": "CALPORTLAND READY-MIX TEAMSTERS OVERWHELMINGLY RATIFY ONE-YEAR CONTRACT",
-      "link": "https://finance.yahoo.com/small-business/articles/calportland-ready-mix-teamsters-overwhelmingly-154800837.html",
-      "publisher": "PR Newswire",
-      "time": 1787327280,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4ed220b3-59a3-3566-bccd-6f19e8fb1301",
-      "title": "2 Software Stocks Worth Your Attention and 1 That Underwhelm",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-software-stocks-worth-attention-154747633.html",
-      "publisher": "StockStory",
-      "time": 1787327267,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "a2569d1a-5259-3f93-ab42-3fa354bdd87b",
-      "title": "Buyout firm Vista explores $3 billion sale of private markets data provider Allvue, sources say",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/buyout-firm-vista-explores-3-154714827.html",
-      "publisher": "Reuters",
-      "time": 1787327234,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "f782a87a-adec-38b9-a3ac-14d1201ad08f",
-      "title": "Bitcoin jumps, stocks bounce as traders weigh US Treasury action",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-markets-extend-rally-traders-023442615.html",
-      "publisher": "AFP",
-      "time": 1787327207,
+      "id": "4dfc17ef-e97c-3158-bf5f-7e1b26a61266",
+      "title": "Marvell Stock Flashes Strong Signal Before Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-flashes-strong-signal-162453158.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787329493,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
+    },
+    {
+      "id": "c1a853cf-b783-3b90-96b8-45e02b390c4d",
+      "title": "Salesforce Rallies Into Earnings as Agentforce Tops $1 Billion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-rallies-earnings-agentforce-tops-162243189.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787329363,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "00d00614-ff51-3ceb-b722-d5df227789b9",
+      "title": "CPL Announces Next Phase of Leadership as Firm Continues Growth and Strategic Momentum",
+      "link": "https://finance.yahoo.com/small-business/articles/cpl-announces-next-phase-leadership-162200113.html",
+      "publisher": "PR Newswire",
+      "time": 1787329320,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "72bf86fa-af08-3dd4-967d-50ebcafb1c07",
+      "title": "Broadcom Eyes Up to $100 Billion AI Financing Deal",
+      "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-eyes-100-billion-ai-162200783.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787329320,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4f2d44ba-f479-3bc5-96e5-3929d2ca32c1",
+      "title": "IREN Clears Its Biggest AI Test With Microsoft",
+      "link": "https://finance.yahoo.com/technology/ai/articles/iren-clears-biggest-ai-test-162109401.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787329269,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "eabe62f3-4b96-325c-8aae-9e2b5fc8fdbe",
+      "title": "Quadravest Preferred Split Share ETF Financial Results to June 30, 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/quadravest-preferred-split-share-etf-162100638.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787329260,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1a419112-a508-3e98-b867-ef51364a50df",
+      "title": "President Donald Trump announces plan to lower beef prices, but some Republicans are already balking",
+      "link": "https://finance.yahoo.com/m/1a419112-a508-3e98-b867-ef51364a50df/president-donald-trump.html",
+      "publisher": "Associated Press",
+      "time": 1787329225,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "036c10e6-5fc8-327b-ae09-b31d294faa1b",
+      "title": "Jupiter Neurosciences Announces Pricing of $2.0 Million Registered Direct Offering",
+      "link": "https://finance.yahoo.com/healthcare/articles/jupiter-neurosciences-announces-pricing-2-162000723.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787329200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b651acd8-50f2-3eb4-a6da-1a5e0164d5f7",
+      "title": "Game, Set, Pit! Dickey’s Barbecue Launches Mobile Games To Connect with Next Generation of Fans",
+      "link": "https://finance.yahoo.com/media-advertising/articles/game-set-pit-dickey-barbecue-162000015.html",
+      "publisher": "Business Wire",
+      "time": 1787329200,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
