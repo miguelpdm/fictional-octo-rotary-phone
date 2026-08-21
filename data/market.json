@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T20:18:13.833823+00:00",
+  "updatedAt": "2026-08-21T20:47:24.154944+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,116 +39,122 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.15,
-      "change": -0.8600000000000012,
-      "changePct": -5.371642723297946,
+      "price": 15.13,
+      "change": -0.8800000000000008,
+      "changePct": -5.496564647095569,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "a2904b51-c23d-3bb1-ab96-c3522adb9030",
-      "title": "Microsoft Just Won One of Its Biggest AI Customers",
-      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-just-won-one-biggest-201645664.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787343405,
+      "id": "3a337a49-2809-3db2-98e8-a11edc1f8ca4",
+      "title": "2026 Emmys Supporting Actress Limited Predictions and Rankings",
+      "link": "https://finance.yahoo.com/m/3a337a49-2809-3db2-98e8-a11edc1f8ca4/2026-emmys-supporting-actress.html",
+      "publisher": "Variety",
+      "time": 1787344847,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8f2cae12-bd55-3173-a2bf-f1835f3f493b",
-      "title": "Toppoint Holdings Announces Postponement of 2026 Annual Meeting of Stockholders to September 8, 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/toppoint-holdings-announces-postponement-2026-201500667.html",
+      "id": "77e3d7b4-fdfa-3c32-8110-07009f0556d5",
+      "title": "YETI’s (YETI) Brand Machine Keeps Growing, But Cash Is Draining Fast",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/yeti-yeti-brand-machine-keeps-204027909.html",
+      "publisher": "Insider Monkey",
+      "time": 1787344827,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4cc83f77-75e5-38fe-9113-44312fa5e491",
+      "title": "NVIDIA Corporation (NVDA) & Advanced Micro Devices (AMD): Nvidia Might Ship AI Chips With Less Memory. AMD Says It’s Not Worried",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-advanced-micro-204025825.html",
+      "publisher": "Insider Monkey",
+      "time": 1787344825,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7c73e790-c7ef-3a0f-9965-9216b325b969",
+      "title": "Caesars Entertainment Insider Sold Shares Worth $6,165,782, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/caesars-entertainment-insider-sold-shares-204008593.html",
+      "publisher": "MT Newswires",
+      "time": 1787344808,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "de4bce43-658a-316d-997b-9903cf015fe7",
+      "title": "TikTok agrees to pay $400 million to settle child privacy lawsuit",
+      "link": "https://finance.yahoo.com/m/de4bce43-658a-316d-997b-9903cf015fe7/tiktok-agrees-to-pay-%24400.html",
+      "publisher": "CBS News",
+      "time": 1787344757,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d0278176-4c6c-349d-bb26-b831031127a8",
+      "title": "NurExone Biologic Considering Share Consolidation Ahead of Possible US Listing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nurexone-biologic-considering-share-consolidation-203732592.html",
+      "publisher": "MT Newswires",
+      "time": 1787344652,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "56a0ccc5-7385-3d94-a5e8-596121ded075",
+      "title": "US stocks rose to cap a volatile week in markets as bitcoin's price soared and investors awaited more details on President Trump's \"economic warfare\" plan against Iran.",
+      "link": "https://finance.yahoo.com/photos/us-stocks-rose-cap-volatile-203624717/",
+      "publisher": "Yahoo Finance",
+      "time": 1787344584,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "faf788b2-dde6-33d4-a1d6-cb6aded886e0",
+      "title": "US Equity Markets End Higher After Iran Hints at Desire to End War Soon, Crude Oil Prices Halt",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-203610880.html",
+      "publisher": "MT Newswires",
+      "time": 1787344570,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "85850c07-7c33-3536-8aa2-7f5332be9478",
+      "title": "2026 Emmys Lead Actress Drama Predictions",
+      "link": "https://finance.yahoo.com/m/85850c07-7c33-3536-8aa2-7f5332be9478/2026-emmys-lead-actress-drama.html",
+      "publisher": "Variety",
+      "time": 1787344500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c08f832c-d4cb-331d-972b-3366958cea35",
+      "title": "Jury Finds in Cytek’s Favor on Three of Four Asserted Claims; Company to Challenge Remaining Finding",
+      "link": "https://finance.yahoo.com/healthcare/articles/jury-finds-cytek-favor-three-203500653.html",
       "publisher": "GlobeNewswire",
-      "time": 1787343300,
+      "time": 1787344500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "95695234-4b32-3b68-b295-fb5a0244b923",
-      "title": "US, Canada push to seal trade deal as deadline nears",
-      "link": "https://finance.yahoo.com/m/95695234-4b32-3b68-b295-fb5a0244b923/us%2C-canada-push-to-seal-trade.html",
-      "publisher": "AFP",
-      "time": 1787343181,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "cf535819-2ed5-3ec1-9b61-6557e31e318f",
-      "title": "Morgan Stanley Doubles Down on Gold After Breakout",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/morgan-stanley-doubles-down-gold-201259751.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787343179,
+      "id": "fa619bbf-727f-31fb-bd65-03c30fd2270c",
+      "title": "Employment Inducement Grants under Nasdaq Listing Rules",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/employment-inducement-grants-under-nasdaq-203500428.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787344500,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "81cca089-abb5-37df-8d82-1fbcdc61d486",
-      "title": "Jill Biden reacts to 2024 presidential debate drugging theory",
-      "link": "https://finance.yahoo.com/m/81cca089-abb5-37df-8d82-1fbcdc61d486/jill-biden-reacts-to-2024.html",
-      "publisher": "USA TODAY",
-      "time": 1787343036,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ce68f301-207c-37d3-9e13-ff5d8e0a5720",
-      "title": "QUICK SPARK: New PE Fund Wants to Turn Asian Classrooms Into an Investment Opportunity",
-      "link": "https://finance.yahoo.com/m/ce68f301-207c-37d3-9e13-ff5d8e0a5720/quick-spark%3A-new-pe-fund.html",
-      "publisher": "Benzinga Private Markets",
-      "time": 1787343026,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "7742ed4f-abfd-3b3d-a9c3-5e7b35952839",
-      "title": "JPMorgan Chase Financial Company LLC Declares Quarterly Coupon on Alerian MLP Index ETN",
-      "link": "https://finance.yahoo.com/markets/options/articles/jpmorgan-chase-financial-company-llc-201000025.html",
-      "publisher": "Business Wire",
-      "time": 1787343000,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "139d9206-70dc-31fe-b13a-a242570c94a4",
-      "title": "Microsoft Rises as $678 Billion Backlog Defies Yield Pressure",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-rises-678-billion-backlog-200956172.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787342996,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "43447b69-a573-3678-80d5-9f0454e0eb28",
-      "title": "Werro wins Lausanne 800m, well off world record pace",
-      "link": "https://finance.yahoo.com/m/43447b69-a573-3678-80d5-9f0454e0eb28/werro-wins-lausanne-800m%2C.html",
-      "publisher": "AFP",
-      "time": 1787342983,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5dc9b88d-d2b4-3062-af77-7f3eb4200045",
-      "title": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips",
-      "link": "https://finance.yahoo.com/technology/ai/articles/amd-falls-nvidias-earnings-test-200822269.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787342902,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
     }
   ],
   "errors": {
