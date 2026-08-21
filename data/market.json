@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T17:21:50.655579+00:00",
+  "updatedAt": "2026-08-21T17:54:23.812308+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7677.78,
-      "change": -30.199999999999818,
-      "changePct": -0.39180174312854754,
+      "price": 7675.14,
+      "change": -32.839999999999236,
+      "changePct": -0.42605196173315496,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26191.986,
-      "change": -139.10399999999936,
-      "changePct": -0.5282880427661725,
+      "price": 26179.566,
+      "change": -151.52400000000125,
+      "changePct": -0.5754566180131595,
       "currency": "USD"
     },
     {
@@ -44,75 +44,19 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.32,
-      "change": -0.6900000000000013,
-      "changePct": -4.309806371018121,
+      "price": 15.29,
+      "change": -0.7200000000000024,
+      "changePct": -4.497189256714568,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "ad44b5c9-ee90-37e3-af48-1a58a8e2d054",
-      "title": "AGROZ INC. ANNOUNCES RECEIPT OF NASDAQ STAFF DETERMINATION AND IMPLEMENTATION OF COMPLIANCE PLAN",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/agroz-inc-announces-receipt-nasdaq-171800404.html",
-      "publisher": "PR Newswire",
-      "time": 1787332680,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3358a9c1-b72e-3d3f-a9ab-ec583ad6379c",
-      "title": "3 Consumer Stocks We Keep Off Our Radar",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-consumer-stocks-keep-off-171547996.html",
-      "publisher": "StockStory",
-      "time": 1787332547,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "5bff34d2-17d6-3286-8fa5-a3758a575430",
-      "title": "FRN Variable Rate Fix",
-      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-171300784.html",
+      "id": "2f04dead-d6e8-3096-ad58-89864e00bda5",
+      "title": "ibi Recognized as an Overall Leader and Best in Class in Dresner Advisory Services’ 2026 Industry Excellence Awards",
+      "link": "https://finance.yahoo.com/technology/articles/ibi-recognized-overall-leader-best-174800789.html",
       "publisher": "Business Wire",
-      "time": 1787332380,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8282061d-2465-35a9-8d4b-aa7f8562eae2",
-      "title": "A 62-Year-Old Who Inherited a $1.2 Million IRA Is About to Hand the IRS $320,000",
-      "link": "https://finance.yahoo.com/m/8282061d-2465-35a9-8d4b-aa7f8562eae2/a-62-year-old-who-inherited-a.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787332314,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d7267d86-b6d2-35f3-8569-f2f5bf4045c1",
-      "title": "HYPE hits a new ATH after White House spotlight",
-      "link": "https://finance.yahoo.com/m/d7267d86-b6d2-35f3-8569-f2f5bf4045c1/hype-hits-a-new-ath-after.html",
-      "publisher": "TheStreet",
-      "time": 1787332311,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "26f163ff-4b19-3e03-9aef-97db7fd070d1",
-      "title": "MAHA activists criticize Trump for promoting coal to power energy-hungry AI data centers",
-      "link": "https://finance.yahoo.com/m/26f163ff-4b19-3e03-9aef-97db7fd070d1/maha-activists-criticize.html",
-      "publisher": "Associated Press",
-      "time": 1787332275,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1a3b1b78-5fc3-34a6-b24b-b0839c3bbe03",
-      "title": "Palantir Climbs 4% Through $180, BigBear.ai Rises 4%, ServiceNow Holds Flat: How Are Traders Picking the Software Winners?",
-      "link": "https://finance.yahoo.com/m/1a3b1b78-5fc3-34a6-b24b-b0839c3bbe03/palantir-climbs-4%25-through.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787332205,
+      "time": 1787334480,
       "impact": "high",
       "tags": [
         "geo",
@@ -120,42 +64,91 @@
       ]
     },
     {
-      "id": "f888e308-730d-321c-8ad5-16af2233bfc0",
-      "title": "Sector Update: Healthcare",
-      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-171004536.html",
-      "publisher": "MT Newswires",
-      "time": 1787332204,
+      "id": "6298bb3b-227c-3a8c-910a-539b7867b7eb",
+      "title": "1 Russell 2000 Stock with Impressive Fundamentals and 2 We Avoid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-russell-2000-stock-impressive-174747971.html",
+      "publisher": "StockStory",
+      "time": 1787334467,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "33591b36-c193-3116-b125-3ec34d1af2cd",
-      "title": "IBD Stock Of The Day, Travere Therapeutics, Tests Another Breakout. Can The Stock Get Any 'Sweeter?'",
-      "link": "https://finance.yahoo.com/m/33591b36-c193-3116-b125-3ec34d1af2cd/ibd-stock-of-the-day%2C-travere.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787332196,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "95dd4ad4-569e-3d91-878b-d9791657d714",
-      "title": "Exchange-Traded Funds Rise as US Equities Advance After Midday",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-rise-us-170917052.html",
-      "publisher": "MT Newswires",
-      "time": 1787332157,
-      "impact": "medium",
       "tags": [
-        "geo"
+        "macro"
       ]
     },
     {
-      "id": "19e660f9-4459-3172-a07f-c90d0a669e02",
-      "title": "World's oldest living person just turned one year older. Meet Ethel",
-      "link": "https://finance.yahoo.com/m/19e660f9-4459-3172-a07f-c90d0a669e02/world%27s-oldest-living-person.html",
-      "publisher": "USA TODAY",
-      "time": 1787332148,
+      "id": "f9471b68-d983-306c-a6b1-2a480760a2f1",
+      "title": "Jensen Huang Thinks This Chip Stock Could Hit $1 Trillion. Google Just Gave Him Ammunition",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-thinks-chip-stock-174546833.html",
+      "publisher": "Insider Monkey",
+      "time": 1787334346,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "23c77c51-9e35-3dfd-9c39-b756be119ab6",
+      "title": "LegalMatch Breaks Down How Co-Heir Deadlocks Can Trigger Partition Lawsuits",
+      "link": "https://finance.yahoo.com/real-estate/articles/legalmatch-breaks-down-co-heir-174500574.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787334300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "78bd6fae-6bd9-3d30-b1da-aa7ddc0c9632",
+      "title": "Why Moderna’s mRNA Cancer Drug Hype Has Gone Too Far",
+      "link": "https://finance.yahoo.com/m/78bd6fae-6bd9-3d30-b1da-aa7ddc0c9632/why-moderna%E2%80%99s-mrna-cancer.html",
+      "publisher": "Barrons.com",
+      "time": 1787334240,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d231bf8a-2a06-3ee6-96b0-3d3d0e8b8d94",
+      "title": "Sector Update: Healthcare Stocks Advance in Afternoon Trading",
+      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-advance-afternoon-174323348.html",
+      "publisher": "MT Newswires",
+      "time": 1787334203,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "ca7c05f9-1de3-3fa6-9cb9-97dac8282da0",
+      "title": "Heatwave-hit Europe logs over 30,000 excess summer deaths: first figures",
+      "link": "https://finance.yahoo.com/m/ca7c05f9-1de3-3fa6-9cb9-97dac8282da0/heatwave-hit-europe-logs-over.html",
+      "publisher": "AFP",
+      "time": 1787334185,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3004836d-6640-3e6b-a85f-d70be591ad25",
+      "title": "Jim Cramer recommends buying Bitcoin",
+      "link": "https://finance.yahoo.com/m/3004836d-6640-3e6b-a85f-d70be591ad25/jim-cramer-recommends-buying.html",
+      "publisher": "TheStreet",
+      "time": 1787334076,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5d3233d1-5245-3008-982a-c3eabdec0fc6",
+      "title": "TransRussia 2027: Eurasia's Largest Transport & Logistics Exhibition Returns to Moscow in March",
+      "link": "https://finance.yahoo.com/small-business/articles/transrussia-2027-eurasias-largest-transport-174100246.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787334060,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "90509938-5cc8-3118-9d68-64ebe3fb409d",
+      "title": "2 Cash-Heavy Stocks with Solid Fundamentals and 1 We Brush Off",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-cash-heavy-stocks-solid-173947573.html",
+      "publisher": "StockStory",
+      "time": 1787333987,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
