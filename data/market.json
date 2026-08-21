@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T19:45:51.488041+00:00",
+  "updatedAt": "2026-08-21T20:18:13.833823+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7683.53,
-      "change": -24.449999999999818,
-      "changePct": -0.3172037291222839,
+      "price": 7674.37,
+      "change": -33.60999999999967,
+      "changePct": -0.4360416088261734,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26211.846,
-      "change": -119.24399999999878,
-      "changePct": -0.4528638958736565,
+      "price": 26180.455,
+      "change": -150.6349999999984,
+      "changePct": -0.5720803810248585,
       "currency": "USD"
     },
     {
@@ -39,111 +39,115 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.19,
-      "change": -0.8200000000000021,
-      "changePct": -5.121798875702698,
+      "price": 15.15,
+      "change": -0.8600000000000012,
+      "changePct": -5.371642723297946,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "de926a17-0c50-3096-bf4a-f47a3ee3f83b",
-      "title": "Walmart Finally Gives In on Apple Pay and Google Pay",
-      "link": "https://finance.yahoo.com/media-advertising/articles/walmart-finally-gives-apple-pay-194228259.html",
+      "id": "a2904b51-c23d-3bb1-ab96-c3522adb9030",
+      "title": "Microsoft Just Won One of Its Biggest AI Customers",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-just-won-one-biggest-201645664.html",
       "publisher": "GuruFocus.com",
-      "time": 1787341348,
+      "time": 1787343405,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "69f13471-a5c1-3b85-922c-fa75bb38f2bf",
-      "title": "Oracle's VA Contract Just Got $17 Billion Bigger",
-      "link": "https://finance.yahoo.com/healthcare/articles/oracles-va-contract-just-got-194125319.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787341285,
+      "id": "8f2cae12-bd55-3173-a2bf-f1835f3f493b",
+      "title": "Toppoint Holdings Announces Postponement of 2026 Annual Meeting of Stockholders to September 8, 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/toppoint-holdings-announces-postponement-2026-201500667.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787343300,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "073ad5fb-72db-3459-8bc8-c5f03690603e",
-      "title": "Generational Group Advises J.C. Services, LLC dba American Chimney & Fireplace in its Sale to Chimney Collective",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/generational-group-advises-j-c-194100990.html",
-      "publisher": "Business Wire",
-      "time": 1787341260,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3580bba3-ad82-3ecf-865a-428c80c87609",
-      "title": "High costs and heavy hardware kept the Vision Pro from taking off with mainstream buyers.\n\nNow, Apple appears to be pulling back resources to prioritize smart glasses instead.",
-      "link": "https://finance.yahoo.com/photos/high-costs-heavy-hardware-kept-194100993/",
-      "publisher": "Yahoo Finance",
-      "time": 1787341260,
-      "impact": "high",
+      "id": "95695234-4b32-3b68-b295-fb5a0244b923",
+      "title": "US, Canada push to seal trade deal as deadline nears",
+      "link": "https://finance.yahoo.com/m/95695234-4b32-3b68-b295-fb5a0244b923/us%2C-canada-push-to-seal-trade.html",
+      "publisher": "AFP",
+      "time": 1787343181,
+      "impact": "medium",
       "tags": [
-        "geo",
+        "geo"
+      ]
+    },
+    {
+      "id": "cf535819-2ed5-3ec1-9b61-6557e31e318f",
+      "title": "Morgan Stanley Doubles Down on Gold After Breakout",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/morgan-stanley-doubles-down-gold-201259751.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787343179,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "81cca089-abb5-37df-8d82-1fbcdc61d486",
+      "title": "Jill Biden reacts to 2024 presidential debate drugging theory",
+      "link": "https://finance.yahoo.com/m/81cca089-abb5-37df-8d82-1fbcdc61d486/jill-biden-reacts-to-2024.html",
+      "publisher": "USA TODAY",
+      "time": 1787343036,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ce68f301-207c-37d3-9e13-ff5d8e0a5720",
+      "title": "QUICK SPARK: New PE Fund Wants to Turn Asian Classrooms Into an Investment Opportunity",
+      "link": "https://finance.yahoo.com/m/ce68f301-207c-37d3-9e13-ff5d8e0a5720/quick-spark%3A-new-pe-fund.html",
+      "publisher": "Benzinga Private Markets",
+      "time": 1787343026,
+      "impact": "low",
+      "tags": [
         "macro"
       ]
     },
     {
-      "id": "d3f36019-257e-3fab-a742-cb1b6770140a",
-      "title": "Marvell Stock Plunges After Two-Day Surge Despite Google AI Chip Catalyst",
-      "link": "https://finance.yahoo.com/technology/ai/articles/marvell-stock-plunges-two-day-194034770.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787341234,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bee8a898-9c3d-3833-935e-cdd8cd0460a6",
-      "title": "US Justice Department and TikTok settle for $400 million in children's privacy suit, Axios reports",
-      "link": "https://finance.yahoo.com/media-advertising/articles/us-justice-department-tiktok-settle-194021774.html",
-      "publisher": "Reuters",
-      "time": 1787341221,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bb9c7889-727a-3f11-8acb-983820292bdd",
-      "title": "Sebring Design Build Featured in Newsweek on Why Affluent Williamson County Homeowners Are Remodeling Instead of Moving",
-      "link": "https://finance.yahoo.com/real-estate/articles/sebring-design-build-featured-newsweek-194000797.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787341200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "425fcf6f-0c8d-335a-b672-6040e4886fe7",
-      "title": "TSMC Rises Ahead of Nvidia's Critical AI Demand Test",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-rises-ahead-nvidias-critical-193930535.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787341170,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "673838a9-eee7-3d3f-9fda-96e691e7f91b",
-      "title": "Cleveland-Cliffs Lands a Big Washington Win",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cleveland-cliffs-lands-big-washington-193835851.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787341115,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c9020422-504a-34a4-be80-313c536ba5d9",
-      "title": "BofA Sees a Stock Market Setup Starting to Change",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-sees-stock-market-setup-193717505.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787341037,
+      "id": "7742ed4f-abfd-3b3d-a9c3-5e7b35952839",
+      "title": "JPMorgan Chase Financial Company LLC Declares Quarterly Coupon on Alerian MLP Index ETN",
+      "link": "https://finance.yahoo.com/markets/options/articles/jpmorgan-chase-financial-company-llc-201000025.html",
+      "publisher": "Business Wire",
+      "time": 1787343000,
       "impact": "low",
       "tags": [
         "macro"
+      ]
+    },
+    {
+      "id": "139d9206-70dc-31fe-b13a-a242570c94a4",
+      "title": "Microsoft Rises as $678 Billion Backlog Defies Yield Pressure",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-rises-678-billion-backlog-200956172.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787342996,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "43447b69-a573-3678-80d5-9f0454e0eb28",
+      "title": "Werro wins Lausanne 800m, well off world record pace",
+      "link": "https://finance.yahoo.com/m/43447b69-a573-3678-80d5-9f0454e0eb28/werro-wins-lausanne-800m%2C.html",
+      "publisher": "AFP",
+      "time": 1787342983,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5dc9b88d-d2b4-3062-af77-7f3eb4200045",
+      "title": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amd-falls-nvidias-earnings-test-200822269.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787342902,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
       ]
     }
   ],
