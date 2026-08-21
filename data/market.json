@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T04:10:03.228377+00:00",
+  "updatedAt": "2026-08-21T05:03:04.242385+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,103 +52,115 @@
   ],
   "news": [
     {
-      "id": "07401e6b-6b18-36f4-9c62-22fa4f6156c5",
-      "title": "Schools are starting to teach AI literacy. For many, that means helping kids see chatbots' flaws",
-      "link": "https://finance.yahoo.com/m/07401e6b-6b18-36f4-9c62-22fa4f6156c5/schools-are-starting-to-teach.html",
-      "publisher": "Associated Press",
-      "time": 1787285107,
-      "impact": "low",
-      "tags": []
+      "id": "00380f52-213a-3e5f-a59c-cd55d4ef6a4d",
+      "title": "Ross Stores Inc (ROST) (Q2 2026) Earnings Call Highlights: Record Sales and Raised Guidance ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-inc-rost-q2-050205021.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787288525,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "cd133f32-9686-3990-82b2-9c90f07f074c",
-      "title": "Fabrinet Sees AI Optical Demand Fueling Years of Growth, Expands Capacity",
-      "link": "https://finance.yahoo.com/m/cd133f32-9686-3990-82b2-9c90f07f074c/fabrinet-sees-ai-optical.html",
-      "publisher": "MarketBeat",
-      "time": 1787284919,
+      "id": "7ed779ce-de2d-34b6-9944-27279ce6ffa4",
+      "title": "OSI Systems Inc (OSIS) (Q4 2026) Earnings Call Highlights: Record EPS and Backlog Signal Strong ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/osi-systems-inc-osis-q4-050201068.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787288521,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "8734893e-83b0-3482-879c-3c64ff00b144",
+      "title": "Flux Power Holdings Inc (FLUX) (Q4 2026) Earnings Call Highlights: Strategic Pivots and New ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/flux-power-holdings-inc-flux-050158676.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787288518,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "5fa7ebd7-7511-3f5a-b7f5-a4669b4f3677",
+      "title": "POSaBIT Systems Corp (POSAF) (Q2 2026) Earnings Call Highlights: Strategic Shift to Agent-Only ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/posabit-systems-corp-posaf-q2-050154815.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787288514,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "c4747633-4472-3054-8af8-a42dddbc04bb",
+      "title": "SBO AG (SBOEY) (Q2 2026) Earnings Call Highlights: Trend Reversal as Sales Grow for First Time ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sbo-ag-sboey-q2-2026-050139235.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787288499,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "ce584874-855e-3502-8cb7-855aabceb6e2",
+      "title": "Oxbridge Re Holdings Ltd (OXBR) (Q2 2026) Earnings Call Highlights: Net Income Turnaround and ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oxbridge-holdings-ltd-oxbr-q2-050137450.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787288497,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "4e7e6e12-1967-385e-9e37-e2a568812c0d",
+      "title": "Odfjell Technology Ltd (ODTLF) (Q2 2026) Earnings Call Highlights: Record EBITDA and Strategic ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/odfjell-technology-ltd-odtlf-q2-050132309.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787288492,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "349aa279-9280-3eb0-a9d1-de35b11479e6",
+      "title": "Boeing and 9 More Stocks for Manufacturing’s Revival, From Our Roundtable Pros",
+      "link": "https://finance.yahoo.com/m/349aa279-9280-3eb0-a9d1-de35b11479e6/boeing-and-9-more-stocks-for.html",
+      "publisher": "Barrons.com",
+      "time": 1787288400,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "7c52a902-0f92-3164-b31e-ffaf0d09609e",
-      "title": "Analysis-War-hit European markets are far from down and out",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/analysis-war-hit-european-markets-040138182.html",
+      "id": "1765f1ea-9fb6-3ced-9f16-4b9c872dda1c",
+      "title": "Mark Pugachev Expands Business Portfolio With Motenza Capital",
+      "link": "https://finance.yahoo.com/small-business/articles/mark-pugachev-expands-business-portfolio-045200860.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787287920,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fa339ccf-9860-318a-b465-607f5fa84375",
+      "title": "Chinese court in Guangzhou accepts bankruptcy case of Evergrande unit",
+      "link": "https://finance.yahoo.com/news/chinese-court-guangzhou-accepts-bankruptcy-044745125.html",
       "publisher": "Reuters",
-      "time": 1787284898,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "864477d5-2492-3a83-b296-16e3bd19171e",
-      "title": "Next Level Performance Marks 50 Years of Impact with HOPE Week",
-      "link": "https://finance.yahoo.com/small-business/articles/next-level-performance-marks-50-040100374.html",
-      "publisher": "PR Newswire",
-      "time": 1787284860,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "009ab6b7-9e2e-3df8-b56d-a84c1329510c",
-      "title": "TIER IV joins Open Invention Network 2.0 to drive the expansion of the open-source ecosystem for autonomous driving through a patent strategy",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tier-iv-joins-open-invention-040000964.html",
-      "publisher": "PR Newswire",
-      "time": 1787284800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b45a88fe-718e-39d4-91d7-1737e8eaed91",
-      "title": "The Hong Kong Tiananmen vigil activists convicted in national security trial",
-      "link": "https://finance.yahoo.com/m/b45a88fe-718e-39d4-91d7-1737e8eaed91/the-hong-kong-tiananmen-vigil.html",
-      "publisher": "AFP",
-      "time": 1787284443,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "adb16484-7089-342b-b090-490baeffa56c",
-      "title": "Raiders vs. Texans highlights Preseason Week 2",
-      "link": "https://finance.yahoo.com/m/adb16484-7089-342b-b090-490baeffa56c/raiders-vs.-texans-highlights.html",
-      "publisher": "NFL Highlights",
-      "time": 1787283938,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4fdb8f99-d58b-3cf3-b9f8-ec2a4358a170",
-      "title": "BayFirst Financial (BAFN) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/4fdb8f99-d58b-3cf3-b9f8-ec2a4358a170/bayfirst-financial-%28bafn%29-q2.html",
-      "publisher": "Motley Fool",
-      "time": 1787283814,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "8e366a23-437c-3f61-9ef7-806932ca5ebd",
-      "title": "MDxHealth (MDXH) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/8e366a23-437c-3f61-9ef7-806932ca5ebd/mdxhealth-%28mdxh%29-q2-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1787283814,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c704e184-6a7c-380b-ac67-ae82f28978d4",
-      "title": "Lument Finance (LFT) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/c704e184-6a7c-380b-ac67-ae82f28978d4/lument-finance-%28lft%29-q2-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1787283814,
+      "time": 1787287665,
       "impact": "medium",
       "tags": [
         "macro",
