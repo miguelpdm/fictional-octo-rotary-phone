@@ -1,89 +1,89 @@
 {
-  "updatedAt": "2026-08-21T13:39:39.394182+00:00",
+  "updatedAt": "2026-08-21T14:27:43.026646+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19969.5,
-      "change": 158.5,
-      "changePct": 0.8000605724092675,
+      "price": 19986.9,
+      "change": 175.90000000000146,
+      "changePct": 0.8878905658472639,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7666.35,
-      "change": -41.6299999999992,
-      "changePct": -0.5400896214053384,
+      "price": 7669.22,
+      "change": -38.75999999999931,
+      "changePct": -0.5028554822404743,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26116.863,
-      "change": -214.22699999999895,
-      "changePct": -0.8135895627564181,
+      "price": 26104.621,
+      "change": -226.46900000000096,
+      "changePct": -0.8600821310473701,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26116.65,
-      "change": 25.31999999999971,
-      "changePct": 0.09704373061856068,
+      "price": 26137.95,
+      "change": 46.61999999999898,
+      "changePct": 0.17868004429057077,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6453.44,
-      "change": 31.3799999999992,
-      "changePct": 0.48862825946813326,
+      "price": 6459.5,
+      "change": 37.4399999999996,
+      "changePct": 0.5829905046044354,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.49,
-      "change": -0.5200000000000014,
-      "changePct": -3.2479700187382963,
+      "price": 15.38,
+      "change": -0.6300000000000008,
+      "changePct": -3.9350405996252382,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "6a7190bf-3239-34a2-a7b8-c9d06c5bdbaa",
-      "title": "Abbott Laboratories settles multitude of infant formula legal claims",
-      "link": "https://finance.yahoo.com/m/6a7190bf-3239-34a2-a7b8-c9d06c5bdbaa/abbott-laboratories-settles.html",
-      "publisher": "Just Food",
-      "time": 1787319408,
+      "id": "26f6dfc3-0e72-31eb-b3c2-c55db9eb2e17",
+      "title": "CA ANZ backs government’s proposed consumer protection reforms",
+      "link": "https://finance.yahoo.com/m/26f6dfc3-0e72-31eb-b3c2-c55db9eb2e17/ca-anz-backs-government%E2%80%99s.html",
+      "publisher": "The Accountant",
+      "time": 1787322138,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e41192c6-a744-3d3e-a584-27436d4cf8a6",
-      "title": "Scholar Rock Removes Catalent Indiana From Apitegromab BLA as Fill-Finish Facility",
-      "link": "https://finance.yahoo.com/healthcare/articles/scholar-rock-removes-catalent-indiana-133515854.html",
-      "publisher": "MT Newswires",
-      "time": 1787319315,
+      "id": "57155962-5d1c-3a07-809d-b0d3ea34570d",
+      "title": "Watkins and Martinez could join Villa exodus says Emery",
+      "link": "https://finance.yahoo.com/m/57155962-5d1c-3a07-809d-b0d3ea34570d/watkins-and-martinez-could.html",
+      "publisher": "AFP",
+      "time": 1787322124,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "baaf3cc6-310a-37c9-b297-3bae2ea9cc30",
-      "title": "Ross Jumps 8% on 10% Comp Growth, TJX Ticks Up, Macy’s Edges Higher",
-      "link": "https://finance.yahoo.com/m/baaf3cc6-310a-37c9-b297-3bae2ea9cc30/ross-jumps-8%25-on-10%25-comp.html",
+      "id": "4687d97b-58b2-3242-af63-bd00e5b940fe",
+      "title": "IREN Jumps 6% but Then Gives Up Gains as Microsoft Accepts Horizon 1; TeraWulf Ticks Up, Cipher Digital Drops 5%",
+      "link": "https://finance.yahoo.com/m/4687d97b-58b2-3242-af63-bd00e5b940fe/iren-jumps-6%25-but-then-gives.html",
       "publisher": "24/7 Wall St.",
-      "time": 1787319237,
+      "time": 1787322009,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6158bc5b-7d09-3009-8776-a95b216c1ffd",
-      "title": "Trump temporarily waives higher beef tariffs in bid to lower prices",
-      "link": "https://finance.yahoo.com/m/6158bc5b-7d09-3009-8776-a95b216c1ffd/trump-temporarily-waives.html",
-      "publisher": "CBS News",
-      "time": 1787319192,
+      "id": "4107b6b1-da05-375d-85ed-937ac72a5388",
+      "title": "Congress Is Finally Taking Social Security's Financial Crisis Seriously, But a Fix Could Still Be a Long Way Off",
+      "link": "https://finance.yahoo.com/m/4107b6b1-da05-375d-85ed-937ac72a5388/congress-is-finally-taking.html",
+      "publisher": "Motley Fool",
+      "time": 1787322000,
       "impact": "high",
       "tags": [
         "geo",
@@ -91,64 +91,65 @@
       ]
     },
     {
-      "id": "055c6d9a-9f3c-3a22-b1ae-739c5c5f9a43",
-      "title": "Correction: Final terms for bond admitted to trading 26th August 2026",
-      "link": "https://finance.yahoo.com/markets/options/articles/correction-final-terms-bond-admitted-133300491.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787319180,
+      "id": "ace45509-d1c0-3577-88c0-420dc8f17af5",
+      "title": "Anthem Blue Cross and Blue Shield Commits $100,000+ to Support Indiana Flood Relief and Recovery",
+      "link": "https://finance.yahoo.com/healthcare/articles/anthem-blue-cross-blue-shield-142000197.html",
+      "publisher": "Business Wire",
+      "time": 1787322000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c6e18ac5-4406-3c92-99d8-508ff4154ad6",
-      "title": "Applied Industrial’s (AIT) Record Quarter Reignites The Growth Story",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/applied-industrial-ait-record-quarter-133259038.html",
-      "publisher": "Insider Monkey",
-      "time": 1787319179,
+      "id": "dfcbeaa4-6468-3ee0-b45f-36c34b98ab79",
+      "title": "The Stock Market Is Closing in on Its Highest Valuation Ever. The Last Time It Got This Expensive, It Crashed.",
+      "link": "https://finance.yahoo.com/m/dfcbeaa4-6468-3ee0-b45f-36c34b98ab79/the-stock-market-is-closing.html",
+      "publisher": "Motley Fool",
+      "time": 1787322000,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "9ab66167-056f-3656-b1bd-817e5e59504a",
+      "title": "3 Small-Cap Stocks We Steer Clear Of",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-steer-141947330.html",
+      "publisher": "StockStory",
+      "time": 1787321987,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "dc77cf68-12c4-3b99-806c-b6ae08723942",
+      "title": "Fairchild Gold Identifies Five Priority Exploration Targets at Nevada Titan",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/fairchild-gold-identifies-five-priority-141942098.html",
+      "publisher": "MT Newswires",
+      "time": 1787321982,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "543c7f43-5103-3660-9e9b-7209d4b9e6f0",
-      "title": "She Opened a Roth With $50 at 47 and Forgot About It. That Forgotten Account Is Why Her $400,000 Conversion at 62 Came Out Completely Tax-Free.",
-      "link": "https://finance.yahoo.com/m/543c7f43-5103-3660-9e9b-7209d4b9e6f0/she-opened-a-roth-with-%2450-at.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787319117,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "19bc38c0-945d-3cba-8cc6-58546a7b8165",
-      "title": "UK forecasts 'biggest' El Nino will smash records, spark hottest year",
-      "link": "https://finance.yahoo.com/m/19bc38c0-945d-3cba-8cc6-58546a7b8165/uk-forecasts-%27biggest%27-el.html",
+      "id": "8261251c-8ef9-38e2-93b4-2a2a5530cb14",
+      "title": "Judge allows UK rugby brain injury court case to continue to trial",
+      "link": "https://finance.yahoo.com/m/8261251c-8ef9-38e2-93b4-2a2a5530cb14/judge-allows-uk-rugby-brain.html",
       "publisher": "AFP",
-      "time": 1787319113,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "5f9b62bc-9102-33bc-b0c9-dc85439def64",
-      "title": "Citi Wealth names Alex Kokolis investments platform experience head",
-      "link": "https://finance.yahoo.com/m/5f9b62bc-9102-33bc-b0c9-dc85439def64/citi-wealth-names-alex.html",
-      "publisher": "Private Banker International",
-      "time": 1787319103,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "759191c0-1325-3acd-98c4-1c5f4e127e41",
-      "title": "Archer Aviation Has a New $200 Million Reason to Get Excited",
-      "link": "https://finance.yahoo.com/m/759191c0-1325-3acd-98c4-1c5f4e127e41/archer-aviation-has-a-new.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787319055,
+      "time": 1787321941,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "f795e41f-caf5-3abb-ad41-0d087592eb55",
+      "title": "BIO-key (BKYI) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/f795e41f-caf5-3abb-ad41-0d087592eb55/bio-key-%28bkyi%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1787321926,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
