@@ -1,155 +1,159 @@
 {
-  "updatedAt": "2026-08-21T14:27:43.026646+00:00",
+  "updatedAt": "2026-08-21T15:03:46.114297+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19986.9,
-      "change": 175.90000000000146,
-      "changePct": 0.8878905658472639,
+      "price": 19978.0,
+      "change": 167.0,
+      "changePct": 0.8429660289738024,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7669.22,
-      "change": -38.75999999999931,
-      "changePct": -0.5028554822404743,
+      "price": 7679.34,
+      "change": -28.639999999999418,
+      "changePct": -0.37156297758945167,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26104.621,
-      "change": -226.46900000000096,
-      "changePct": -0.8600821310473701,
+      "price": 26163.848,
+      "change": -167.24199999999837,
+      "changePct": -0.6351503109062266,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26137.95,
-      "change": 46.61999999999898,
-      "changePct": 0.17868004429057077,
+      "price": 26150.44,
+      "change": 59.109999999996944,
+      "changePct": 0.22655035216678082,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6459.5,
-      "change": 37.4399999999996,
-      "changePct": 0.5829905046044354,
-      "currency": "EUR"
+      "price": 6463.41,
+      "change": 41.349999999999454,
+      "changePct": 0.6438743954431981,
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.38,
-      "change": -0.6300000000000008,
-      "changePct": -3.9350405996252382,
+      "price": 15.36,
+      "change": -0.6500000000000021,
+      "changePct": -4.059962523422874,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "26f6dfc3-0e72-31eb-b3c2-c55db9eb2e17",
-      "title": "CA ANZ backs government’s proposed consumer protection reforms",
-      "link": "https://finance.yahoo.com/m/26f6dfc3-0e72-31eb-b3c2-c55db9eb2e17/ca-anz-backs-government%E2%80%99s.html",
-      "publisher": "The Accountant",
-      "time": 1787322138,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "57155962-5d1c-3a07-809d-b0d3ea34570d",
-      "title": "Watkins and Martinez could join Villa exodus says Emery",
-      "link": "https://finance.yahoo.com/m/57155962-5d1c-3a07-809d-b0d3ea34570d/watkins-and-martinez-could.html",
-      "publisher": "AFP",
-      "time": 1787322124,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4687d97b-58b2-3242-af63-bd00e5b940fe",
-      "title": "IREN Jumps 6% but Then Gives Up Gains as Microsoft Accepts Horizon 1; TeraWulf Ticks Up, Cipher Digital Drops 5%",
-      "link": "https://finance.yahoo.com/m/4687d97b-58b2-3242-af63-bd00e5b940fe/iren-jumps-6%25-but-then-gives.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787322009,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4107b6b1-da05-375d-85ed-937ac72a5388",
-      "title": "Congress Is Finally Taking Social Security's Financial Crisis Seriously, But a Fix Could Still Be a Long Way Off",
-      "link": "https://finance.yahoo.com/m/4107b6b1-da05-375d-85ed-937ac72a5388/congress-is-finally-taking.html",
-      "publisher": "Motley Fool",
-      "time": 1787322000,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "ace45509-d1c0-3577-88c0-420dc8f17af5",
-      "title": "Anthem Blue Cross and Blue Shield Commits $100,000+ to Support Indiana Flood Relief and Recovery",
-      "link": "https://finance.yahoo.com/healthcare/articles/anthem-blue-cross-blue-shield-142000197.html",
-      "publisher": "Business Wire",
-      "time": 1787322000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "dfcbeaa4-6468-3ee0-b45f-36c34b98ab79",
-      "title": "The Stock Market Is Closing in on Its Highest Valuation Ever. The Last Time It Got This Expensive, It Crashed.",
-      "link": "https://finance.yahoo.com/m/dfcbeaa4-6468-3ee0-b45f-36c34b98ab79/the-stock-market-is-closing.html",
-      "publisher": "Motley Fool",
-      "time": 1787322000,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "9ab66167-056f-3656-b1bd-817e5e59504a",
-      "title": "3 Small-Cap Stocks We Steer Clear Of",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-steer-141947330.html",
-      "publisher": "StockStory",
-      "time": 1787321987,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "dc77cf68-12c4-3b99-806c-b6ae08723942",
-      "title": "Fairchild Gold Identifies Five Priority Exploration Targets at Nevada Titan",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/fairchild-gold-identifies-five-priority-141942098.html",
-      "publisher": "MT Newswires",
-      "time": 1787321982,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8261251c-8ef9-38e2-93b4-2a2a5530cb14",
-      "title": "Judge allows UK rugby brain injury court case to continue to trial",
-      "link": "https://finance.yahoo.com/m/8261251c-8ef9-38e2-93b4-2a2a5530cb14/judge-allows-uk-rugby-brain.html",
-      "publisher": "AFP",
-      "time": 1787321941,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f795e41f-caf5-3abb-ad41-0d087592eb55",
-      "title": "BIO-key (BKYI) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/f795e41f-caf5-3abb-ad41-0d087592eb55/bio-key-%28bkyi%29-q2-2026.html",
-      "publisher": "Motley Fool",
-      "time": 1787321926,
+      "id": "fbbfc325-8d6b-3dd1-a5b8-9beb94051774",
+      "title": "Better Collective AS (FRA:9C8) (Q2 2026) Earnings Call Highlights: Revenue Up 9%, North ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/better-collective-fra-9c8-q2-150148028.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787324508,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
+    },
+    {
+      "id": "6103de21-64d7-3b4e-94fb-ffd52a94ea38",
+      "title": "Scatec ASA (FRA:66T) (Q2 2026) Earnings Call Highlights: Record Backlog and Strategic Expansion ...",
+      "link": "https://finance.yahoo.com/energy/articles/scatec-asa-fra-66t-q2-150130824.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787324490,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "121d43d0-eb8f-3214-a179-2b137b35f7b0",
+      "title": "Odfjell SE (FRA:O7F) (Q2 2026) Earnings Call Highlights: Record Time Charter Earnings and ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/odfjell-se-fra-o7f-q2-150129008.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787324489,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "91f25671-7a64-343f-8c1e-e115c5be3989",
+      "title": "Veteran Investor Says SpaceX Stock Could Crash 78%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/veteran-investor-says-spacex-stock-150112185.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787324472,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "13083eb0-9e00-3be4-b1c4-77088404f132",
+      "title": "Live Selling App Tilt Launches ‘Clips’",
+      "link": "https://finance.yahoo.com/m/13083eb0-9e00-3be4-b1c4-77088404f132/live-selling-app-tilt.html",
+      "publisher": "Sourcing Journal",
+      "time": 1787324400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9d9ce084-5924-35e1-a342-6d161259b706",
+      "title": "Bernstein remains bullish on SpaceX but sees challenges in telecom ambitions",
+      "link": "https://finance.yahoo.com/technology/articles/bernstein-remains-bullish-spacex-sees-145753558.html",
+      "publisher": "Investing.com",
+      "time": 1787324273,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6201c0da-0b82-3b95-9892-7dd4de39c197",
+      "title": "Fridge Rentals Rise Across Delhi, Chennai, Bangalore and Hyderabad in 2026 as Households Shift to ₹524/Month Plans With Three-Month Minimum Tenure and Free Repairs From Rentomojo",
+      "link": "https://finance.yahoo.com/small-business/articles/fridge-rentals-rise-across-delhi-145500071.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787324100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c0884369-1c88-3d53-ba97-a72a7aaa54e5",
+      "title": "Bank of America's sell signals are flashing red, but 56% of fund managers are going all-in on stocks anyway",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-americas-sell-signals-flashing-145500469.html",
+      "publisher": "Moneywise",
+      "time": 1787324100,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "91d477b8-3eb3-3cd2-ae17-26523a25ffd3",
+      "title": "Tesla Faces Its Biggest-Ever China Recall",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-faces-biggest-ever-china-145418259.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787324058,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "cc419643-6666-34bc-b6c9-4a5fff773a60",
+      "title": "Spurs spending spree vital to raise standards: De Zerbi",
+      "link": "https://finance.yahoo.com/m/cc419643-6666-34bc-b6c9-4a5fff773a60/spurs-spending-spree-vital-to.html",
+      "publisher": "AFP",
+      "time": 1787323967,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
