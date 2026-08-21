@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T20:47:24.154944+00:00",
+  "updatedAt": "2026-08-21T21:17:12.744082+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,107 +52,94 @@
   ],
   "news": [
     {
-      "id": "3a337a49-2809-3db2-98e8-a11edc1f8ca4",
-      "title": "2026 Emmys Supporting Actress Limited Predictions and Rankings",
-      "link": "https://finance.yahoo.com/m/3a337a49-2809-3db2-98e8-a11edc1f8ca4/2026-emmys-supporting-actress.html",
+      "id": "9d2ba364-1cee-393e-8e36-3e26b12d5ee7",
+      "title": "Gouiri double fires Marseille past Strasbourg in Ligue 1 opener",
+      "link": "https://finance.yahoo.com/m/9d2ba364-1cee-393e-8e36-3e26b12d5ee7/gouiri-double-fires-marseille.html",
+      "publisher": "AFP",
+      "time": 1787346531,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "be65bf7e-8749-31ba-9872-4fa1e0c91c48",
+      "title": "A Bounce From Weakness: Selling Into Strength For DRAM ETF Beat A Round Trip",
+      "link": "https://finance.yahoo.com/m/be65bf7e-8749-31ba-9872-4fa1e0c91c48/a-bounce-from-weakness%3A.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787346450,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "37768a4d-e6fc-3dd7-a7d4-258c57614363",
+      "title": "Mexican governor resumes job despite US drug charges",
+      "link": "https://finance.yahoo.com/m/37768a4d-e6fc-3dd7-a7d4-258c57614363/mexican-governor-resumes-job.html",
+      "publisher": "AFP",
+      "time": 1787346428,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f3509585-5b5d-3e6c-be07-8a1ff2a5709f",
+      "title": "Army Secretary Expected to Step Down by Year’s End",
+      "link": "https://finance.yahoo.com/m/f3509585-5b5d-3e6c-be07-8a1ff2a5709f/army-secretary-expected-to.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787346420,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d0454905-17ce-34af-ba90-817770c85241",
+      "title": "ConocoPhillips Snaps Five-Day Winning Streak",
+      "link": "https://finance.yahoo.com/m/d0454905-17ce-34af-ba90-817770c85241/conocophillips-snaps-five-day.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787346417,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "44fa8ff4-0e9d-4d9a-a744-dc8109daf0bb",
+      "title": "Auto loan calculator",
+      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/auto-loan-calculator-210610555.html",
+      "publisher": "Personal Finance Embeddable Content",
+      "time": 1787346370,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "eda1a903-74f4-395c-89b3-3d8bfd1410f1",
+      "title": "2026 Emmys Supporting Actor Limited Predictions and Rankings",
+      "link": "https://finance.yahoo.com/m/eda1a903-74f4-395c-89b3-3d8bfd1410f1/2026-emmys-supporting-actor.html",
       "publisher": "Variety",
-      "time": 1787344847,
+      "time": 1787346349,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "77e3d7b4-fdfa-3c32-8110-07009f0556d5",
-      "title": "YETI’s (YETI) Brand Machine Keeps Growing, But Cash Is Draining Fast",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/yeti-yeti-brand-machine-keeps-204027909.html",
-      "publisher": "Insider Monkey",
-      "time": 1787344827,
+      "id": "b8309993-affe-37b3-aa21-63bd837c2a5f",
+      "title": "Why BitMine Immersion Technologies Stock Skyrocketed by 26% This Week",
+      "link": "https://finance.yahoo.com/m/b8309993-affe-37b3-aa21-63bd837c2a5f/why-bitmine-immersion.html",
+      "publisher": "Motley Fool",
+      "time": 1787346294,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4cc83f77-75e5-38fe-9113-44312fa5e491",
-      "title": "NVIDIA Corporation (NVDA) & Advanced Micro Devices (AMD): Nvidia Might Ship AI Chips With Less Memory. AMD Says It’s Not Worried",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-advanced-micro-204025825.html",
-      "publisher": "Insider Monkey",
-      "time": 1787344825,
+      "id": "eeb9d4a5-709e-3c13-950e-15ab74f5e034",
+      "title": "U.S. Stocks Rise as Bitcoin Nears $80,000",
+      "link": "https://finance.yahoo.com/m/eeb9d4a5-709e-3c13-950e-15ab74f5e034/u.s.-stocks-rise-as-bitcoin.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787346240,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7c73e790-c7ef-3a0f-9965-9216b325b969",
-      "title": "Caesars Entertainment Insider Sold Shares Worth $6,165,782, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/caesars-entertainment-insider-sold-shares-204008593.html",
-      "publisher": "MT Newswires",
-      "time": 1787344808,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "de4bce43-658a-316d-997b-9903cf015fe7",
-      "title": "TikTok agrees to pay $400 million to settle child privacy lawsuit",
-      "link": "https://finance.yahoo.com/m/de4bce43-658a-316d-997b-9903cf015fe7/tiktok-agrees-to-pay-%24400.html",
-      "publisher": "CBS News",
-      "time": 1787344757,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d0278176-4c6c-349d-bb26-b831031127a8",
-      "title": "NurExone Biologic Considering Share Consolidation Ahead of Possible US Listing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nurexone-biologic-considering-share-consolidation-203732592.html",
-      "publisher": "MT Newswires",
-      "time": 1787344652,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "56a0ccc5-7385-3d94-a5e8-596121ded075",
-      "title": "US stocks rose to cap a volatile week in markets as bitcoin's price soared and investors awaited more details on President Trump's \"economic warfare\" plan against Iran.",
-      "link": "https://finance.yahoo.com/photos/us-stocks-rose-cap-volatile-203624717/",
-      "publisher": "Yahoo Finance",
-      "time": 1787344584,
-      "impact": "high",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "faf788b2-dde6-33d4-a1d6-cb6aded886e0",
-      "title": "US Equity Markets End Higher After Iran Hints at Desire to End War Soon, Crude Oil Prices Halt",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-203610880.html",
+      "id": "79037c9b-8efc-37d0-b03a-985fa7b97a61",
+      "title": "Alaska Air Group Insider Bought Shares Worth $1,001,510, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alaska-air-group-insider-bought-210300177.html",
       "publisher": "MT Newswires",
-      "time": 1787344570,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "85850c07-7c33-3536-8aa2-7f5332be9478",
-      "title": "2026 Emmys Lead Actress Drama Predictions",
-      "link": "https://finance.yahoo.com/m/85850c07-7c33-3536-8aa2-7f5332be9478/2026-emmys-lead-actress-drama.html",
-      "publisher": "Variety",
-      "time": 1787344500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c08f832c-d4cb-331d-972b-3366958cea35",
-      "title": "Jury Finds in Cytek’s Favor on Three of Four Asserted Claims; Company to Challenge Remaining Finding",
-      "link": "https://finance.yahoo.com/healthcare/articles/jury-finds-cytek-favor-three-203500653.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787344500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fa619bbf-727f-31fb-bd65-03c30fd2270c",
-      "title": "Employment Inducement Grants under Nasdaq Listing Rules",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/employment-inducement-grants-under-nasdaq-203500428.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787344500,
+      "time": 1787346180,
       "impact": "low",
       "tags": []
     }
