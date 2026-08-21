@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T17:54:23.812308+00:00",
+  "updatedAt": "2026-08-21T18:27:24.282991+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7675.14,
-      "change": -32.839999999999236,
-      "changePct": -0.42605196173315496,
+      "price": 7672.18,
+      "change": -35.79999999999927,
+      "changePct": -0.4644537219868146,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26179.566,
-      "change": -151.52400000000125,
-      "changePct": -0.5754566180131595,
+      "price": 26155.16,
+      "change": -175.9300000000003,
+      "changePct": -0.6681455268277928,
       "currency": "USD"
     },
     {
@@ -44,111 +44,116 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.29,
-      "change": -0.7200000000000024,
-      "changePct": -4.497189256714568,
+      "price": 15.3,
+      "change": -0.7100000000000009,
+      "changePct": -4.434728294815745,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "2f04dead-d6e8-3096-ad58-89864e00bda5",
-      "title": "ibi Recognized as an Overall Leader and Best in Class in Dresner Advisory Services’ 2026 Industry Excellence Awards",
-      "link": "https://finance.yahoo.com/technology/articles/ibi-recognized-overall-leader-best-174800789.html",
-      "publisher": "Business Wire",
-      "time": 1787334480,
-      "impact": "high",
+      "id": "f7d3c7fc-b4f5-4e1e-a589-a9af11fe7eb7",
+      "title": "U.S. Bank Smartly Visa Signature Card review: Earn 2% cash back or more on every purchase",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/us-bank-smartly-visa-signature-card-182536863.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1787336736,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "6298bb3b-227c-3a8c-910a-539b7867b7eb",
-      "title": "1 Russell 2000 Stock with Impressive Fundamentals and 2 We Avoid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-russell-2000-stock-impressive-174747971.html",
+      "id": "a5cda860-2aa7-3ed4-aa05-3ff94fdade6d",
+      "title": "Nvidia Slips Despite New Bet on AI's Power Bottleneck",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-slips-despite-bet-ais-182439997.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787336679,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b7563f14-8a29-3240-bd49-56b6953ddb32",
+      "title": "SyberJet Aircraft Breaks Light Jet Transcontinental East-to-West Speed Record",
+      "link": "https://finance.yahoo.com/technology/articles/syberjet-aircraft-breaks-light-jet-182300954.html",
+      "publisher": "PR Newswire",
+      "time": 1787336580,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a6fe01a9-ea84-34e7-a000-8f9779c8c319",
+      "title": "Tesla Jumps 3.6% as Semi Launch and Robotaxi Expansion Accelerate",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-jumps-3-6-semi-182220329.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787336540,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "669d05a8-938a-3af7-b8b9-b0e6f430974c",
+      "title": "3 Reasons EPC is Risky and 1 Stock to Buy Instead",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-epc-risky-1-181947796.html",
       "publisher": "StockStory",
-      "time": 1787334467,
+      "time": 1787336387,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "f9471b68-d983-306c-a6b1-2a480760a2f1",
-      "title": "Jensen Huang Thinks This Chip Stock Could Hit $1 Trillion. Google Just Gave Him Ammunition",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-thinks-chip-stock-174546833.html",
-      "publisher": "Insider Monkey",
-      "time": 1787334346,
+      "id": "424ae195-7c22-36b8-ac8b-8cb4cc4c3341",
+      "title": "UBS Revamps S&P 500 Price Target For Rest of 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-revamps-p-500-price-181835657.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787336315,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "23c77c51-9e35-3dfd-9c39-b756be119ab6",
-      "title": "LegalMatch Breaks Down How Co-Heir Deadlocks Can Trigger Partition Lawsuits",
-      "link": "https://finance.yahoo.com/real-estate/articles/legalmatch-breaks-down-co-heir-174500574.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787334300,
+      "id": "a4a4fd3b-1f06-351a-b5cf-ee9050c5651c",
+      "title": "Limited-edition Cup Noodles 'Dorm Survival Kit' selling for $70",
+      "link": "https://finance.yahoo.com/m/a4a4fd3b-1f06-351a-b5cf-ee9050c5651c/limited-edition-cup-noodles.html",
+      "publisher": "USA TODAY",
+      "time": 1787336256,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "78bd6fae-6bd9-3d30-b1da-aa7ddc0c9632",
-      "title": "Why Moderna’s mRNA Cancer Drug Hype Has Gone Too Far",
-      "link": "https://finance.yahoo.com/m/78bd6fae-6bd9-3d30-b1da-aa7ddc0c9632/why-moderna%E2%80%99s-mrna-cancer.html",
-      "publisher": "Barrons.com",
-      "time": 1787334240,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d231bf8a-2a06-3ee6-96b0-3d3d0e8b8d94",
-      "title": "Sector Update: Healthcare Stocks Advance in Afternoon Trading",
-      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-advance-afternoon-174323348.html",
-      "publisher": "MT Newswires",
-      "time": 1787334203,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "ca7c05f9-1de3-3fa6-9cb9-97dac8282da0",
-      "title": "Heatwave-hit Europe logs over 30,000 excess summer deaths: first figures",
-      "link": "https://finance.yahoo.com/m/ca7c05f9-1de3-3fa6-9cb9-97dac8282da0/heatwave-hit-europe-logs-over.html",
-      "publisher": "AFP",
-      "time": 1787334185,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3004836d-6640-3e6b-a85f-d70be591ad25",
-      "title": "Jim Cramer recommends buying Bitcoin",
-      "link": "https://finance.yahoo.com/m/3004836d-6640-3e6b-a85f-d70be591ad25/jim-cramer-recommends-buying.html",
+      "id": "dda19d95-8c1f-3a4c-880b-f7e423308ed8",
+      "title": "Gas Prices are about to defy everything drivers expect",
+      "link": "https://finance.yahoo.com/m/dda19d95-8c1f-3a4c-880b-f7e423308ed8/gas-prices-are-about-to-defy.html",
       "publisher": "TheStreet",
-      "time": 1787334076,
+      "time": 1787336220,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5d3233d1-5245-3008-982a-c3eabdec0fc6",
-      "title": "TransRussia 2027: Eurasia's Largest Transport & Logistics Exhibition Returns to Moscow in March",
-      "link": "https://finance.yahoo.com/small-business/articles/transrussia-2027-eurasias-largest-transport-174100246.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787334060,
+      "id": "1c33da88-3fcd-30a7-8688-25a5f2836da2",
+      "title": "Grandmaster Wesley So Defends Title, Wins 2026 Sinquefield Cup",
+      "link": "https://finance.yahoo.com/media-advertising/articles/grandmaster-wesley-defends-title-wins-181700842.html",
+      "publisher": "Business Wire",
+      "time": 1787336220,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "90509938-5cc8-3118-9d68-64ebe3fb409d",
-      "title": "2 Cash-Heavy Stocks with Solid Fundamentals and 1 We Brush Off",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-cash-heavy-stocks-solid-173947573.html",
-      "publisher": "StockStory",
-      "time": 1787333987,
+      "id": "a2238ab7-cce1-3d78-aa83-7bd38cd9cb85",
+      "title": "Cathie Wood's Ark Invest Held $1.16 Billion of Tesla Stock as of the End of the Second Quarter, Even as It Trails Every Other \"Magnificent Seven\" Stock in 2026. Is Her Conviction Still Justified?",
+      "link": "https://finance.yahoo.com/m/a2238ab7-cce1-3d78-aa83-7bd38cd9cb85/cathie-wood%27s-ark-invest-held.html",
+      "publisher": "Motley Fool",
+      "time": 1787336160,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
+    },
+    {
+      "id": "f2bf36f7-ad00-3479-9d3d-73a4d730d6df",
+      "title": "Synopsys Could Be Set Up To Surprise Investors On August 26th",
+      "link": "https://finance.yahoo.com/m/f2bf36f7-ad00-3479-9d3d-73a4d730d6df/synopsys-could-be-set-up-to.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787336109,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
