@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T21:17:12.744082+00:00",
+  "updatedAt": "2026-08-21T21:46:46.203682+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,94 +52,98 @@
   ],
   "news": [
     {
-      "id": "9d2ba364-1cee-393e-8e36-3e26b12d5ee7",
-      "title": "Gouiri double fires Marseille past Strasbourg in Ligue 1 opener",
-      "link": "https://finance.yahoo.com/m/9d2ba364-1cee-393e-8e36-3e26b12d5ee7/gouiri-double-fires-marseille.html",
+      "id": "4f915c9b-3892-3be7-b710-4b0d3e6bcd9f",
+      "title": "Factory-built homes are springing up across US suburbs — and the average price can be less than $100,000",
+      "link": "https://finance.yahoo.com/real-estate/articles/factory-built-homes-springing-across-214500383.html",
+      "publisher": "Moneywise",
+      "time": 1787348700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2c5ed15d-a85d-32f6-a656-fcd9e569ddc6",
+      "title": "TikTok to pay $400 mn settlement in US children's privacy case",
+      "link": "https://finance.yahoo.com/media-advertising/articles/tiktok-pay-400-mn-settlement-214017166.html",
       "publisher": "AFP",
-      "time": 1787346531,
+      "time": 1787348417,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "be65bf7e-8749-31ba-9872-4fa1e0c91c48",
-      "title": "A Bounce From Weakness: Selling Into Strength For DRAM ETF Beat A Round Trip",
-      "link": "https://finance.yahoo.com/m/be65bf7e-8749-31ba-9872-4fa1e0c91c48/a-bounce-from-weakness%3A.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787346450,
+      "id": "44331ea8-8ada-37e2-a83d-a8a6941d6cb4",
+      "title": "Rush Announces Completion of Arrangement with Myriad Uranium",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rush-announces-completion-arrangement-myriad-213900692.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787348340,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "37768a4d-e6fc-3dd7-a7d4-258c57614363",
-      "title": "Mexican governor resumes job despite US drug charges",
-      "link": "https://finance.yahoo.com/m/37768a4d-e6fc-3dd7-a7d4-258c57614363/mexican-governor-resumes-job.html",
-      "publisher": "AFP",
-      "time": 1787346428,
+      "id": "4d940294-9cfd-3bc3-be63-5d975de56453",
+      "title": "Memodyne Details 2026 Cognitive Formula Ingredient Profile Featuring L-Arginine, L-Citrulline, and Niacin",
+      "link": "https://finance.yahoo.com/healthcare/articles/memodyne-details-2026-cognitive-formula-213900931.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787348340,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f3509585-5b5d-3e6c-be07-8a1ff2a5709f",
-      "title": "Army Secretary Expected to Step Down by Year’s End",
-      "link": "https://finance.yahoo.com/m/f3509585-5b5d-3e6c-be07-8a1ff2a5709f/army-secretary-expected-to.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787346420,
+      "id": "b93ba262-8d00-3e53-97ac-a674d3676f46",
+      "title": "Christopher DiGirolamo Named to The Best Lawyers in America 2027 Edition for Personal Injury Litigation",
+      "link": "https://finance.yahoo.com/healthcare/articles/christopher-digirolamo-named-best-lawyers-213900510.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787348340,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d0454905-17ce-34af-ba90-817770c85241",
-      "title": "ConocoPhillips Snaps Five-Day Winning Streak",
-      "link": "https://finance.yahoo.com/m/d0454905-17ce-34af-ba90-817770c85241/conocophillips-snaps-five-day.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787346417,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "44fa8ff4-0e9d-4d9a-a744-dc8109daf0bb",
-      "title": "Auto loan calculator",
-      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/auto-loan-calculator-210610555.html",
-      "publisher": "Personal Finance Embeddable Content",
-      "time": 1787346370,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "eda1a903-74f4-395c-89b3-3d8bfd1410f1",
-      "title": "2026 Emmys Supporting Actor Limited Predictions and Rankings",
-      "link": "https://finance.yahoo.com/m/eda1a903-74f4-395c-89b3-3d8bfd1410f1/2026-emmys-supporting-actor.html",
-      "publisher": "Variety",
-      "time": 1787346349,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b8309993-affe-37b3-aa21-63bd837c2a5f",
-      "title": "Why BitMine Immersion Technologies Stock Skyrocketed by 26% This Week",
-      "link": "https://finance.yahoo.com/m/b8309993-affe-37b3-aa21-63bd837c2a5f/why-bitmine-immersion.html",
-      "publisher": "Motley Fool",
-      "time": 1787346294,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "eeb9d4a5-709e-3c13-950e-15ab74f5e034",
-      "title": "U.S. Stocks Rise as Bitcoin Nears $80,000",
-      "link": "https://finance.yahoo.com/m/eeb9d4a5-709e-3c13-950e-15ab74f5e034/u.s.-stocks-rise-as-bitcoin.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787346240,
-      "impact": "low",
+      "id": "f9f5ac8e-f90c-312b-9a71-9f59a1ead2ed",
+      "title": "East West Bancorp Announces Fall 2026 Conference Participation",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/east-west-bancorp-announces-fall-213900253.html",
+      "publisher": "Business Wire",
+      "time": 1787348340,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "79037c9b-8efc-37d0-b03a-985fa7b97a61",
-      "title": "Alaska Air Group Insider Bought Shares Worth $1,001,510, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alaska-air-group-insider-bought-210300177.html",
+      "id": "378c38fa-b369-3099-907b-8c0d01ca5ad1",
+      "title": "Sprouts sicken dozens with food poisoning in 15 states. See map",
+      "link": "https://finance.yahoo.com/m/378c38fa-b369-3099-907b-8c0d01ca5ad1/sprouts-sicken-dozens-with.html",
+      "publisher": "USA TODAY",
+      "time": 1787348310,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a920904d-e8de-3c5b-983f-2801b17fdc67",
+      "title": "H World (HTHT) Approved a $2.5 Billion Return Plan. Is Growth Being Sacrificed?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/h-world-htht-approved-2-213802135.html",
+      "publisher": "Insider Monkey",
+      "time": 1787348282,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a7292d3b-39f5-36df-a610-778044214837",
+      "title": "Myriad Uranium Completes Acquisition of Rush Rare Metals",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/myriad-uranium-completes-acquisition-rush-213800903.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787348280,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "3156f354-4e35-3344-900c-147d98539e66",
+      "title": "Omeros Insider Sold Shares Worth $276,773, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/omeros-insider-sold-shares-worth-213620718.html",
       "publisher": "MT Newswires",
-      "time": 1787346180,
+      "time": 1787348180,
       "impact": "low",
       "tags": []
     }
