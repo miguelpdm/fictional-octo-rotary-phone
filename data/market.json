@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-21T08:32:00.304301+00:00",
+  "updatedAt": "2026-08-21T09:29:36.969416+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19970.1,
-      "change": 159.09999999999854,
-      "changePct": 0.8030891928726391,
+      "price": 19984.4,
+      "change": 173.40000000000146,
+      "changePct": 0.8752713139165184,
       "currency": "EUR"
     },
     {
@@ -28,127 +28,122 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26053.16,
-      "change": -38.17000000000189,
-      "changePct": -0.14629380717656743,
+      "price": 26070.72,
+      "change": -20.610000000000582,
+      "changePct": -0.07899175703193582,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6446.51,
-      "change": 24.449999999999818,
-      "changePct": 0.38071895933703226,
+      "price": 6441.88,
+      "change": 19.81999999999971,
+      "changePct": 0.3086237126404877,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.87,
-      "change": -0.14000000000000234,
-      "changePct": -0.8744534665834,
+      "price": 15.76,
+      "change": -0.2500000000000018,
+      "changePct": -1.561524047470342,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "9aec9b8c-9038-3fc1-9618-de7048afebe7",
-      "title": "Hindustan Power closes financing for 435MWp solar project in India",
-      "link": "https://finance.yahoo.com/m/9aec9b8c-9038-3fc1-9618-de7048afebe7/hindustan-power-closes.html",
-      "publisher": "Power Technology",
-      "time": 1787300879,
+      "id": "647e2c50-3582-3b0e-9610-86d8a1debeff",
+      "title": "Charles River and MVC to develop enterovirus vaccine",
+      "link": "https://finance.yahoo.com/m/647e2c50-3582-3b0e-9610-86d8a1debeff/charles-river-and-mvc-to.html",
+      "publisher": "Pharmaceutical Technology",
+      "time": 1787304461,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4522f6eb-48dd-31e3-8272-8221dc46beac",
-      "title": "Maiden Final Dividend Declared for FY26 and On-Market Share Buy-Back Approved",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/maiden-final-dividend-declared-fy26-082400732.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787300640,
+      "id": "5aa36d14-5642-3eea-b9f3-cfe479bc1ded",
+      "title": "DA Davidson Initiates Comfort Systems USA at Buy, With $2,100 Price Target",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/da-davidson-initiates-comfort-systems-092537933.html",
+      "publisher": "MT Newswires",
+      "time": 1787304337,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b4502631-9460-39dc-af30-40d571f88ab6",
+      "title": "Baird Initiates Hubbell at Outperform With $550 Price Target",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/baird-initiates-hubbell-outperform-550-092519654.html",
+      "publisher": "MT Newswires",
+      "time": 1787304319,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7d797e32-df90-3f73-925d-65660e56a93e",
+      "title": "IRS adds digital certification to tax compliance reports",
+      "link": "https://finance.yahoo.com/m/7d797e32-df90-3f73-925d-65660e56a93e/irs-adds-digital.html",
+      "publisher": "The Accountant",
+      "time": 1787304303,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cacdf2a5-728a-32b7-bc03-34db3bd39a68",
+      "title": "Market Chatter: SK Hynix Workers Schedule Vote on Labor Agreement",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-sk-hynix-workers-092446024.html",
+      "publisher": "MT Newswires",
+      "time": 1787304286,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "c902acd4-8546-3e20-bf32-730983c8c06c",
-      "title": "Record FY26 Net Profit After Tax of A$228.7 Million (up 590%)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/record-fy26-net-profit-tax-082200820.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787300520,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "f782a87a-adec-38b9-a3ac-14d1201ad08f",
-      "title": "Asian markets extend rally as traders assess US Treasuries pledge",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-markets-extend-rally-traders-023442615.html",
-      "publisher": "AFP",
-      "time": 1787300491,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "79069479-6844-3953-b74e-120a6b41424e",
-      "title": "A China Chip Denial Lands Before Nvidia’s (NVDA) Big Week",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/china-chip-denial-lands-nvidia-082114198.html",
-      "publisher": "Insider Monkey",
-      "time": 1787300474,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "2265b46a-1db3-368f-aa6d-44dc29de8fb2",
-      "title": "Form 8.3",
-      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-082100722.html",
-      "publisher": "Business Wire",
-      "time": 1787300460,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ce9b4763-5ed6-37b4-b80e-6998492d4479",
-      "title": "Benjamin Cowen’s Midterm Cycle Thesis Proved Right After Bitcoin’s July Low",
-      "link": "https://finance.yahoo.com/m/ce9b4763-5ed6-37b4-b80e-6998492d4479/benjamin-cowen%E2%80%99s-midterm.html",
-      "publisher": "BeInCrypto",
-      "time": 1787300404,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0c4a390a-71ea-3658-98d4-055152ee9839",
-      "title": "A Stroke for Timeless Legacy • Art Unveils in Victoria Harbour | EcoArte Lands in Hong Kong, Re-envisioning Asia-Pacific Home Aesthetics with Italian Craftsmanship",
-      "link": "https://finance.yahoo.com/media-advertising/articles/stroke-timeless-legacy-art-unveils-082000041.html",
+      "id": "9260f016-fc47-36a0-ad88-47e0bdf93f1d",
+      "title": "AXIS-Y Launches Triple PDRN Barrier Boost Serum, Its Most Advanced Recovery Formula Yet",
+      "link": "https://finance.yahoo.com/healthcare/articles/axis-y-launches-triple-pdrn-092200285.html",
       "publisher": "PR Newswire",
-      "time": 1787300400,
+      "time": 1787304120,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4d2c7f40-21a4-3ebb-a280-a2b4e1016d8a",
-      "title": "3 AI Chip Stocks Down 15% or More to Buy Right Now",
-      "link": "https://finance.yahoo.com/m/4d2c7f40-21a4-3ebb-a280-a2b4e1016d8a/3-ai-chip-stocks-down-15%25-or.html",
+      "id": "5fc6458c-9510-33e1-b896-de4df4a49d5e",
+      "title": "Wall Street Calls It “Tax Alpha.” It’s a $1 Trillion Machine for Beating the IRS Instead of the Market",
+      "link": "https://finance.yahoo.com/m/5fc6458c-9510-33e1-b896-de4df4a49d5e/wall-street-calls-it-%E2%80%9Ctax.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787304038,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "30a94899-2c63-3105-bf7e-fdc8d7e46d6b",
+      "title": "Market Chatter: Google Ordered by India to Remove Firebase Accounts Over Scam Pattern",
+      "link": "https://finance.yahoo.com/technology/articles/market-chatter-google-ordered-india-092027123.html",
+      "publisher": "MT Newswires",
+      "time": 1787304027,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "137ae098-d1ce-3430-a461-10c80fbd0a6f",
+      "title": "ANM confirms 13 dead, seven injured in Colombia gold mine landslide",
+      "link": "https://finance.yahoo.com/m/137ae098-d1ce-3430-a461-10c80fbd0a6f/anm-confirms-13-dead%2C-seven.html",
+      "publisher": "Mining Technology",
+      "time": 1787304021,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b57e7f17-41e5-3a85-a122-fe1d022f53f4",
+      "title": "Forget Robotaxi and Optimus: Billionaire Stanley Druckenmiller May Have Invested in Tesla for a Very Different Reason",
+      "link": "https://finance.yahoo.com/m/b57e7f17-41e5-3a85-a122-fe1d022f53f4/forget-robotaxi-and-optimus%3A.html",
       "publisher": "Motley Fool",
-      "time": 1787300400,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "2b8f3914-b23e-33ae-887b-188d6b6f8e0d",
-      "title": "giga! Equips All Eligible MILK Fund Scholars with One-year gigaFLEX+ Plan",
-      "link": "https://finance.yahoo.com/technology/ai/articles/giga-equips-eligible-milk-fund-081900005.html",
-      "publisher": "PR Newswire",
-      "time": 1787300340,
+      "time": 1787304000,
       "impact": "low",
       "tags": []
     }
