@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T16:32:13.787335+00:00",
+  "updatedAt": "2026-08-21T17:21:50.655579+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7680.75,
-      "change": -27.229999999999563,
-      "changePct": -0.3532702471983524,
+      "price": 7677.78,
+      "change": -30.199999999999818,
+      "changePct": -0.39180174312854754,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26198.63,
-      "change": -132.45999999999913,
-      "changePct": -0.5030555134633587,
+      "price": 26191.986,
+      "change": -139.10399999999936,
+      "changePct": -0.5282880427661725,
       "currency": "USD"
     },
     {
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,98 +52,108 @@
   ],
   "news": [
     {
-      "id": "f1d3b833-ada8-4ac3-8a2f-d76e98618a27",
-      "title": "Data center opposition is growing and politicians are jumping on board",
-      "link": "https://finance.yahoo.com/video/data-center-opposition-growing-politicians-163000623.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1787329800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4dfc17ef-e97c-3158-bf5f-7e1b26a61266",
-      "title": "Marvell Stock Flashes Strong Signal Before Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-flashes-strong-signal-162453158.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787329493,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c1a853cf-b783-3b90-96b8-45e02b390c4d",
-      "title": "Salesforce Rallies Into Earnings as Agentforce Tops $1 Billion",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-rallies-earnings-agentforce-tops-162243189.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787329363,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "00d00614-ff51-3ceb-b722-d5df227789b9",
-      "title": "CPL Announces Next Phase of Leadership as Firm Continues Growth and Strategic Momentum",
-      "link": "https://finance.yahoo.com/small-business/articles/cpl-announces-next-phase-leadership-162200113.html",
+      "id": "ad44b5c9-ee90-37e3-af48-1a58a8e2d054",
+      "title": "AGROZ INC. ANNOUNCES RECEIPT OF NASDAQ STAFF DETERMINATION AND IMPLEMENTATION OF COMPLIANCE PLAN",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/agroz-inc-announces-receipt-nasdaq-171800404.html",
       "publisher": "PR Newswire",
-      "time": 1787329320,
+      "time": 1787332680,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "72bf86fa-af08-3dd4-967d-50ebcafb1c07",
-      "title": "Broadcom Eyes Up to $100 Billion AI Financing Deal",
-      "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-eyes-100-billion-ai-162200783.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787329320,
+      "id": "3358a9c1-b72e-3d3f-a9ab-ec583ad6379c",
+      "title": "3 Consumer Stocks We Keep Off Our Radar",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-consumer-stocks-keep-off-171547996.html",
+      "publisher": "StockStory",
+      "time": 1787332547,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     },
     {
-      "id": "4f2d44ba-f479-3bc5-96e5-3929d2ca32c1",
-      "title": "IREN Clears Its Biggest AI Test With Microsoft",
-      "link": "https://finance.yahoo.com/technology/ai/articles/iren-clears-biggest-ai-test-162109401.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787329269,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "eabe62f3-4b96-325c-8aae-9e2b5fc8fdbe",
-      "title": "Quadravest Preferred Split Share ETF Financial Results to June 30, 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/quadravest-preferred-split-share-etf-162100638.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787329260,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1a419112-a508-3e98-b867-ef51364a50df",
-      "title": "President Donald Trump announces plan to lower beef prices, but some Republicans are already balking",
-      "link": "https://finance.yahoo.com/m/1a419112-a508-3e98-b867-ef51364a50df/president-donald-trump.html",
-      "publisher": "Associated Press",
-      "time": 1787329225,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "036c10e6-5fc8-327b-ae09-b31d294faa1b",
-      "title": "Jupiter Neurosciences Announces Pricing of $2.0 Million Registered Direct Offering",
-      "link": "https://finance.yahoo.com/healthcare/articles/jupiter-neurosciences-announces-pricing-2-162000723.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787329200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b651acd8-50f2-3eb4-a6da-1a5e0164d5f7",
-      "title": "Game, Set, Pit! Dickey’s Barbecue Launches Mobile Games To Connect with Next Generation of Fans",
-      "link": "https://finance.yahoo.com/media-advertising/articles/game-set-pit-dickey-barbecue-162000015.html",
+      "id": "5bff34d2-17d6-3286-8fa5-a3758a575430",
+      "title": "FRN Variable Rate Fix",
+      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-171300784.html",
       "publisher": "Business Wire",
-      "time": 1787329200,
+      "time": 1787332380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8282061d-2465-35a9-8d4b-aa7f8562eae2",
+      "title": "A 62-Year-Old Who Inherited a $1.2 Million IRA Is About to Hand the IRS $320,000",
+      "link": "https://finance.yahoo.com/m/8282061d-2465-35a9-8d4b-aa7f8562eae2/a-62-year-old-who-inherited-a.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787332314,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d7267d86-b6d2-35f3-8569-f2f5bf4045c1",
+      "title": "HYPE hits a new ATH after White House spotlight",
+      "link": "https://finance.yahoo.com/m/d7267d86-b6d2-35f3-8569-f2f5bf4045c1/hype-hits-a-new-ath-after.html",
+      "publisher": "TheStreet",
+      "time": 1787332311,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "26f163ff-4b19-3e03-9aef-97db7fd070d1",
+      "title": "MAHA activists criticize Trump for promoting coal to power energy-hungry AI data centers",
+      "link": "https://finance.yahoo.com/m/26f163ff-4b19-3e03-9aef-97db7fd070d1/maha-activists-criticize.html",
+      "publisher": "Associated Press",
+      "time": 1787332275,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1a3b1b78-5fc3-34a6-b24b-b0839c3bbe03",
+      "title": "Palantir Climbs 4% Through $180, BigBear.ai Rises 4%, ServiceNow Holds Flat: How Are Traders Picking the Software Winners?",
+      "link": "https://finance.yahoo.com/m/1a3b1b78-5fc3-34a6-b24b-b0839c3bbe03/palantir-climbs-4%25-through.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787332205,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "f888e308-730d-321c-8ad5-16af2233bfc0",
+      "title": "Sector Update: Healthcare",
+      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-171004536.html",
+      "publisher": "MT Newswires",
+      "time": 1787332204,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "33591b36-c193-3116-b125-3ec34d1af2cd",
+      "title": "IBD Stock Of The Day, Travere Therapeutics, Tests Another Breakout. Can The Stock Get Any 'Sweeter?'",
+      "link": "https://finance.yahoo.com/m/33591b36-c193-3116-b125-3ec34d1af2cd/ibd-stock-of-the-day%2C-travere.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787332196,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "95dd4ad4-569e-3d91-878b-d9791657d714",
+      "title": "Exchange-Traded Funds Rise as US Equities Advance After Midday",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-rise-us-170917052.html",
+      "publisher": "MT Newswires",
+      "time": 1787332157,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "19e660f9-4459-3172-a07f-c90d0a669e02",
+      "title": "World's oldest living person just turned one year older. Meet Ethel",
+      "link": "https://finance.yahoo.com/m/19e660f9-4459-3172-a07f-c90d0a669e02/world%27s-oldest-living-person.html",
+      "publisher": "USA TODAY",
+      "time": 1787332148,
       "impact": "low",
       "tags": []
     }
