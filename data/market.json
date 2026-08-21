@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T02:21:12.021877+00:00",
+  "updatedAt": "2026-08-21T03:28:42.277022+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6422.06,
       "change": -22.399999999999636,
       "changePct": -0.34758536789738215,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,100 +52,109 @@
   ],
   "news": [
     {
-      "id": "f080f1c8-4968-30e1-a738-ad77bc038584",
-      "title": "Korea's Commercial Real Estate \"Data Giant\" Attracts NPS, GIC and Blackstone",
-      "link": "https://finance.yahoo.com/real-estate/articles/koreas-commercial-real-estate-data-021700900.html",
+      "id": "26ad5b60-b7dd-3d07-a496-b0bf58cb55a2",
+      "title": "Tailored Floral Unveils the Muhibbah Collection -- Where Every Bouquet Celebrates Malaysia and Helps Create a Future",
+      "link": "https://finance.yahoo.com/small-business/articles/tailored-floral-unveils-muhibbah-collection-032000874.html",
       "publisher": "PR Newswire",
-      "time": 1787278620,
+      "time": 1787282400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4a0c34c7-04d3-324b-a819-f02a9204136f",
-      "title": "Kakao to spin off chat app-based platform business into KakaoAI, relist in 2027",
-      "link": "https://finance.yahoo.com/technology/ai/articles/kakao-spin-off-chat-app-020733807.html",
-      "publisher": "Reuters",
-      "time": 1787278053,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ebc277c7-0f17-320a-849b-1b624a967c31",
-      "title": "Why Attorney General Todd Blanche was grilling meat at Iowa State Fair",
-      "link": "https://finance.yahoo.com/m/ebc277c7-0f17-320a-849b-1b624a967c31/why-attorney-general-todd.html",
-      "publisher": "USA TODAY",
-      "time": 1787277935,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6b876148-e3f3-334c-a7b9-594546bd8c61",
-      "title": "Green Arrow Resources Inc. Announces Closing of Private Placement",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/green-arrow-resources-inc-announces-020500649.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787277900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c39c13dd-690b-3c32-beb4-ea6249ef64d6",
-      "title": "Bali Mandira Unveils Mister Wasabi, Bringing a New Colour to Legian's Dining & Lifestyle Scene",
-      "link": "https://finance.yahoo.com/media-advertising/articles/bali-mandira-unveils-mister-wasabi-020400430.html",
-      "publisher": "PR Newswire",
-      "time": 1787277840,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cacb5be7-254f-35ee-92f7-2f28affc5767",
-      "title": "Charter Announces Expiration And Final Results Of Debt Exchange Offers",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/charter-announces-expiration-final-results-020300631.html",
-      "publisher": "PR Newswire",
-      "time": 1787277780,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f52bd8d6-eed4-39f4-9d36-1aab100ec091",
-      "title": "Jim Cramer sees trouble brewing for stock market",
-      "link": "https://finance.yahoo.com/m/f52bd8d6-eed4-39f4-9d36-1aab100ec091/jim-cramer-sees-trouble.html",
-      "publisher": "TheStreet",
-      "time": 1787277780,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "7b45c6b9-585b-377e-855c-7cef02fd664d",
-      "title": "Dana Targets $250M in Eaton Synergies as Cost Cuts and Buybacks Gain Speed",
-      "link": "https://finance.yahoo.com/m/7b45c6b9-585b-377e-855c-7cef02fd664d/dana-targets-%24250m-in-eaton.html",
-      "publisher": "MarketBeat",
-      "time": 1787277721,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "da3f08f2-b750-3374-84b6-03eed3207c80",
-      "title": "FISV Stock On Track For Worst Week In 2 Months: Truist Sees More Upside But Flags These Risks",
-      "link": "https://finance.yahoo.com/m/da3f08f2-b750-3374-84b6-03eed3207c80/fisv-stock-on-track-for-worst.html",
-      "publisher": "Stocktwits",
-      "time": 1787277655,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4e321308-1d18-3776-9400-a76b3c578ad7",
-      "title": "William and Harry: Britain's warring royal brothers",
-      "link": "https://finance.yahoo.com/m/4e321308-1d18-3776-9400-a76b3c578ad7/william-and-harry%3A-britain%27s.html",
-      "publisher": "AFP",
-      "time": 1787277603,
+      "id": "4966468a-3ce0-31c8-9b8d-52d9de57fc8d",
+      "title": "If We're in an AI Bubble, History Says This Is the Best Way to Recession-Proof Your Portfolio",
+      "link": "https://finance.yahoo.com/m/4966468a-3ce0-31c8-9b8d-52d9de57fc8d/if-we%27re-in-an-ai-bubble%2C.html",
+      "publisher": "Motley Fool",
+      "time": 1787282400,
       "impact": "high",
       "tags": [
         "geo",
         "macro"
+      ]
+    },
+    {
+      "id": "53f9b02a-e75e-3047-9dd0-ecc91b32a9c9",
+      "title": "Hong Kong Tiananmen vigil activists found guilty of inciting subversion",
+      "link": "https://finance.yahoo.com/m/53f9b02a-e75e-3047-9dd0-ecc91b32a9c9/hong-kong-tiananmen-vigil.html",
+      "publisher": "AFP",
+      "time": 1787282370,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6bba094e-9e08-3605-87e7-0118721b202e",
+      "title": "Why Advance Auto Parts Stock Crashed Today",
+      "link": "https://finance.yahoo.com/m/6bba094e-9e08-3605-87e7-0118721b202e/why-advance-auto-parts-stock.html",
+      "publisher": "Motley Fool",
+      "time": 1787281868,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3c10a83c-4316-3078-b9a0-d051c219cd84",
+      "title": "Every completion by Fernando Mendoza vs. Texans Preseason Week 2",
+      "link": "https://finance.yahoo.com/m/3c10a83c-4316-3078-b9a0-d051c219cd84/every-completion-by-fernando.html",
+      "publisher": "NFL Highlights",
+      "time": 1787281811,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "91327cea-fed2-33ed-a182-385b27c0298f",
+      "title": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
+      "link": "https://finance.yahoo.com/m/91327cea-fed2-33ed-a182-385b27c0298f/dow-jones-futures%3A-market.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787281763,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "0f543092-89e3-3a01-9d7a-538dce9fefca",
+      "title": "Wall Street is starting to warm to Apple's $2,199 foldable gamble",
+      "link": "https://finance.yahoo.com/m/0f543092-89e3-3a01-9d7a-538dce9fefca/wall-street-is-starting-to.html",
+      "publisher": "TheStreet",
+      "time": 1787281620,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "97bc083b-c991-3855-a861-e0672416861c",
+      "title": "Prolight + Sound Bangkok debut set to energise Southeast Asia's pro AV and entertainment technology market",
+      "link": "https://finance.yahoo.com/media-advertising/articles/prolight-sound-bangkok-debut-set-030400180.html",
+      "publisher": "PR Newswire",
+      "time": 1787281440,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "376be423-5f5f-3e4f-aa5e-ef6144f9b80d",
+      "title": "Precipio Inc (PRPO) (Q2 2026) Earnings Call Highlights: Record Revenue and Positive EBITDA Mark ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/precipio-inc-prpo-q2-2026-030210445.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787281330,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "53b34ac4-8883-35d0-9497-5c2c0ab8ecdb",
+      "title": "Delek Group Ltd (DLKGF) (Q2 2026) Earnings Call Highlights: Record Logistics Performance and ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/delek-group-ltd-dlkgf-q2-030210139.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787281330,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
       ]
     }
   ],
