@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-21T09:29:36.969416+00:00",
+  "updatedAt": "2026-08-21T10:02:09.255871+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19984.4,
-      "change": 173.40000000000146,
-      "changePct": 0.8752713139165184,
+      "price": 19935.1,
+      "change": 124.09999999999854,
+      "changePct": 0.6264196658422015,
       "currency": "EUR"
     },
     {
@@ -28,122 +28,121 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26070.72,
-      "change": -20.610000000000582,
-      "changePct": -0.07899175703193582,
+      "price": 26045.03,
+      "change": -46.30000000000291,
+      "changePct": -0.17745358324011426,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6441.88,
-      "change": 19.81999999999971,
-      "changePct": 0.3086237126404877,
+      "price": 6437.55,
+      "change": 15.489999999999782,
+      "changePct": 0.2411998642180201,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.76,
-      "change": -0.2500000000000018,
-      "changePct": -1.561524047470342,
+      "price": 15.69,
+      "change": -0.32000000000000206,
+      "changePct": -1.9987507807620364,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "647e2c50-3582-3b0e-9610-86d8a1debeff",
-      "title": "Charles River and MVC to develop enterovirus vaccine",
-      "link": "https://finance.yahoo.com/m/647e2c50-3582-3b0e-9610-86d8a1debeff/charles-river-and-mvc-to.html",
+      "id": "dec9d788-d15d-3492-8356-2d63522047f4",
+      "title": "WellSpan and Johns Hopkins renew partnership for advanced cancer care access",
+      "link": "https://finance.yahoo.com/m/dec9d788-d15d-3492-8356-2d63522047f4/wellspan-and-johns-hopkins.html",
       "publisher": "Pharmaceutical Technology",
-      "time": 1787304461,
+      "time": 1787306481,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5aa36d14-5642-3eea-b9f3-cfe479bc1ded",
-      "title": "DA Davidson Initiates Comfort Systems USA at Buy, With $2,100 Price Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/da-davidson-initiates-comfort-systems-092537933.html",
-      "publisher": "MT Newswires",
-      "time": 1787304337,
+      "id": "c204f873-251f-3f00-ab5d-07c096032256",
+      "title": "Hyundai unveils new battery-powered GV90 luxury SUV",
+      "link": "https://finance.yahoo.com/m/c204f873-251f-3f00-ab5d-07c096032256/hyundai-unveils-new.html",
+      "publisher": "Just Auto",
+      "time": 1787306453,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b4502631-9460-39dc-af30-40d571f88ab6",
-      "title": "Baird Initiates Hubbell at Outperform With $550 Price Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/baird-initiates-hubbell-outperform-550-092519654.html",
-      "publisher": "MT Newswires",
-      "time": 1787304319,
+      "id": "40574c29-c9df-45f9-ba27-ca79b2b26b7d",
+      "title": "Best CD rates today, Friday, August 21, 2026: Up to 4.35% APY return available to boost savings",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-august-21-2026-up-to-435-apy-return-available-to-boost-savings-100000741.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1787306400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7d797e32-df90-3f73-925d-65660e56a93e",
-      "title": "IRS adds digital certification to tax compliance reports",
-      "link": "https://finance.yahoo.com/m/7d797e32-df90-3f73-925d-65660e56a93e/irs-adds-digital.html",
-      "publisher": "The Accountant",
-      "time": 1787304303,
+      "id": "482800bf-38bb-3c19-a019-b25e55ecf610",
+      "title": "Seoul Garden Celebrates 43 Years of Memories, Flavours and Togetherness",
+      "link": "https://finance.yahoo.com/small-business/articles/seoul-garden-celebrates-43-years-100000656.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787306400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cacdf2a5-728a-32b7-bc03-34db3bd39a68",
-      "title": "Market Chatter: SK Hynix Workers Schedule Vote on Labor Agreement",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-sk-hynix-workers-092446024.html",
-      "publisher": "MT Newswires",
-      "time": 1787304286,
+      "id": "6c9654b8-2cae-4f98-a703-b00966e36b7e",
+      "title": "Mortgage and refinance interest rates today, Friday, August 21, 2026: Rates stand on high ground despite bond market buybacks",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-august-21-2026-rates-stand-on-high-ground-despite-bond-market-buybacks-100000222.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1787306400,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "9c3de95a-d4f4-482f-b72f-50c0c3a29eb4",
+      "title": "Amid the chip bear market, healthcare is breaking out: Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/stocks/article/amid-the-chip-bear-market-healthcare-is-breaking-out-chart-of-the-day-100000172.html",
+      "publisher": "Yahoo Finance",
+      "time": 1787306400,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "9260f016-fc47-36a0-ad88-47e0bdf93f1d",
-      "title": "AXIS-Y Launches Triple PDRN Barrier Boost Serum, Its Most Advanced Recovery Formula Yet",
-      "link": "https://finance.yahoo.com/healthcare/articles/axis-y-launches-triple-pdrn-092200285.html",
-      "publisher": "PR Newswire",
-      "time": 1787304120,
+      "id": "cbfde810-b085-4e7e-bff1-431848d74674",
+      "title": "Target-date funds are booming. But are they still right for your retirement?",
+      "link": "https://finance.yahoo.com/economy/article/target-date-funds-are-booming-but-are-they-still-right-for-your-retirement-100000268.html",
+      "publisher": "Yahoo Finance",
+      "time": 1787306400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5fc6458c-9510-33e1-b896-de4df4a49d5e",
-      "title": "Wall Street Calls It “Tax Alpha.” It’s a $1 Trillion Machine for Beating the IRS Instead of the Market",
-      "link": "https://finance.yahoo.com/m/5fc6458c-9510-33e1-b896-de4df4a49d5e/wall-street-calls-it-%E2%80%9Ctax.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787304038,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "30a94899-2c63-3105-bf7e-fdc8d7e46d6b",
-      "title": "Market Chatter: Google Ordered by India to Remove Firebase Accounts Over Scam Pattern",
-      "link": "https://finance.yahoo.com/technology/articles/market-chatter-google-ordered-india-092027123.html",
-      "publisher": "MT Newswires",
-      "time": 1787304027,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "137ae098-d1ce-3430-a461-10c80fbd0a6f",
-      "title": "ANM confirms 13 dead, seven injured in Colombia gold mine landslide",
-      "link": "https://finance.yahoo.com/m/137ae098-d1ce-3430-a461-10c80fbd0a6f/anm-confirms-13-dead%2C-seven.html",
-      "publisher": "Mining Technology",
-      "time": 1787304021,
+      "id": "d919e0a0-98e1-3152-955c-18ba5ecedef0",
+      "title": "Jiayin Group Inc. to Release Second Quarter 2026 Unaudited Financial Results on Friday, August 28, 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jiayin-group-inc-release-second-100000752.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787306400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b57e7f17-41e5-3a85-a122-fe1d022f53f4",
-      "title": "Forget Robotaxi and Optimus: Billionaire Stanley Druckenmiller May Have Invested in Tesla for a Very Different Reason",
-      "link": "https://finance.yahoo.com/m/b57e7f17-41e5-3a85-a122-fe1d022f53f4/forget-robotaxi-and-optimus%3A.html",
+      "id": "1b5dbc97-e78e-3b32-a924-503a15718da3",
+      "title": "Prediction: Nvidia Stock Will Go Parabolic After Aug. 26. Here Are 2.3 Trillion Reasons Why",
+      "link": "https://finance.yahoo.com/m/1b5dbc97-e78e-3b32-a924-503a15718da3/prediction%3A-nvidia-stock-will.html",
       "publisher": "Motley Fool",
-      "time": 1787304000,
+      "time": 1787306281,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6764430f-6cb8-3d26-b242-43b2b550017e",
+      "title": "Goplasticpallets.com launches lightweight plastic pallet in UK",
+      "link": "https://finance.yahoo.com/m/6764430f-6cb8-3d26-b242-43b2b550017e/goplasticpallets.com-launches.html",
+      "publisher": "Packaging Gateway",
+      "time": 1787306234,
       "impact": "low",
       "tags": []
     }
