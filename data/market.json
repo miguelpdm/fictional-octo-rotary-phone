@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-21T07:37:07.060565+00:00",
+  "updatedAt": "2026-08-21T08:32:00.304301+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19914.0,
-      "change": 103.0,
-      "changePct": 0.5199131795467165,
+      "price": 19970.1,
+      "change": 159.09999999999854,
+      "changePct": 0.8030891928726391,
       "currency": "EUR"
     },
     {
@@ -28,65 +28,55 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25993.33,
-      "change": -98.0,
-      "changePct": -0.37560369670691374,
+      "price": 26053.16,
+      "change": -38.17000000000189,
+      "changePct": -0.14629380717656743,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6436.24,
-      "change": 14.179999999999382,
-      "changePct": 0.22080142508789047,
+      "price": 6446.51,
+      "change": 24.449999999999818,
+      "changePct": 0.38071895933703226,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.82,
-      "change": -0.19000000000000128,
-      "changePct": -1.1867582760774593,
+      "price": 15.87,
+      "change": -0.14000000000000234,
+      "changePct": -0.8744534665834,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "5908b09d-283e-3ef4-9727-f95891a140b5",
-      "title": "Drovix Launches In-House Multi-Asset Liquidity and Execution Stack for Sub-Millisecond Fills, Tighter Spreads",
-      "link": "https://finance.yahoo.com/markets/options/articles/drovix-launches-house-multi-asset-073000581.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787297400,
+      "id": "9aec9b8c-9038-3fc1-9618-de7048afebe7",
+      "title": "Hindustan Power closes financing for 435MWp solar project in India",
+      "link": "https://finance.yahoo.com/m/9aec9b8c-9038-3fc1-9618-de7048afebe7/hindustan-power-closes.html",
+      "publisher": "Power Technology",
+      "time": 1787300879,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "548e3b43-1b8c-389f-ac20-67977f65a87a",
-      "title": "Progress Software adds AI capabilities to Telerik and Kendo UI release",
-      "link": "https://finance.yahoo.com/m/548e3b43-1b8c-389f-ac20-67977f65a87a/progress-software-adds-ai.html",
-      "publisher": "Verdict",
-      "time": 1787297269,
-      "impact": "high",
+      "id": "4522f6eb-48dd-31e3-8272-8221dc46beac",
+      "title": "Maiden Final Dividend Declared for FY26 and On-Market Share Buy-Back Approved",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/maiden-final-dividend-declared-fy26-082400732.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787300640,
+      "impact": "low",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "39051cea-d43e-3aec-9609-822b71052785",
-      "title": "Samsung SDI says to sell $3.2 billion worth of Samsung Display shares back to display maker",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-sdi-says-sell-3-072614029.html",
-      "publisher": "Reuters",
-      "time": 1787297174,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6544868b-249e-31ab-a448-6b06a0e4b666",
-      "title": "Hansa Biopharma Files Confidential Draft for Potential US IPO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hansa-biopharma-files-confidential-draft-072612822.html",
-      "publisher": "MT Newswires",
-      "time": 1787297172,
+      "id": "c902acd4-8546-3e20-bf32-730983c8c06c",
+      "title": "Record FY26 Net Profit After Tax of A$228.7 Million (up 590%)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/record-fy26-net-profit-tax-082200820.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787300520,
       "impact": "medium",
       "tags": [
         "macro",
@@ -94,61 +84,73 @@
       ]
     },
     {
-      "id": "f96f5318-0504-325b-a7b9-e12d458de063",
-      "title": "3S Bio Announces 2026 Interim Results: Innovation-Driven, Win-Win Collaboration, and Sustainable Growth",
-      "link": "https://finance.yahoo.com/healthcare/articles/3s-bio-announces-2026-interim-072400827.html",
-      "publisher": "PR Newswire",
-      "time": 1787297040,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "306ccd2b-e5d4-3195-958d-b266e7b91743",
-      "title": "BIGBANG WORLD TOUR: VIETNAMESE TICKETING PLATFORM BLOCKS BOTS EFFECTIVELY, SELLS OUT WITHIN HOURS",
-      "link": "https://finance.yahoo.com/media-advertising/articles/bigbang-world-tour-vietnamese-ticketing-071900059.html",
-      "publisher": "PR Newswire",
-      "time": 1787296740,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "76cbffb1-6d55-37d9-9efd-c53ab16c46ba",
-      "title": "Australia charges man with trying to pass Ukraine military intel to Russia",
-      "link": "https://finance.yahoo.com/m/76cbffb1-6d55-37d9-9efd-c53ab16c46ba/australia-charges-man-with.html",
+      "id": "f782a87a-adec-38b9-a3ac-14d1201ad08f",
+      "title": "Asian markets extend rally as traders assess US Treasuries pledge",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-markets-extend-rally-traders-023442615.html",
       "publisher": "AFP",
-      "time": 1787296531,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8542e7ab-bf62-3954-8571-0e0096f08021",
-      "title": "UK posts unexpected budget deficit in July as spending rises",
-      "link": "https://finance.yahoo.com/news/uk-posts-unexpected-budget-deficit-063056777.html",
-      "publisher": "Reuters",
-      "time": 1787296503,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7e886ef7-94da-3b97-a789-ae50ee904531",
-      "title": "Walmart is selling a lockable 5-foot shed for just $90",
-      "link": "https://finance.yahoo.com/m/7e886ef7-94da-3b97-a789-ae50ee904531/walmart-is-selling-a-lockable.html",
-      "publisher": "TheStreet",
-      "time": 1787296500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4ffc9847-322d-3f4d-91be-178c42429c49",
-      "title": "Monte dei Paschi board approves dual exchange offers for Banco Bpm and Banca Generali",
-      "link": "https://finance.yahoo.com/m/4ffc9847-322d-3f4d-91be-178c42429c49/monte-dei-paschi-board.html",
-      "publisher": "Euronews",
-      "time": 1787296395,
+      "time": 1787300491,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
+    },
+    {
+      "id": "79069479-6844-3953-b74e-120a6b41424e",
+      "title": "A China Chip Denial Lands Before Nvidia’s (NVDA) Big Week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/china-chip-denial-lands-nvidia-082114198.html",
+      "publisher": "Insider Monkey",
+      "time": 1787300474,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "2265b46a-1db3-368f-aa6d-44dc29de8fb2",
+      "title": "Form 8.3",
+      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-082100722.html",
+      "publisher": "Business Wire",
+      "time": 1787300460,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ce9b4763-5ed6-37b4-b80e-6998492d4479",
+      "title": "Benjamin Cowen’s Midterm Cycle Thesis Proved Right After Bitcoin’s July Low",
+      "link": "https://finance.yahoo.com/m/ce9b4763-5ed6-37b4-b80e-6998492d4479/benjamin-cowen%E2%80%99s-midterm.html",
+      "publisher": "BeInCrypto",
+      "time": 1787300404,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0c4a390a-71ea-3658-98d4-055152ee9839",
+      "title": "A Stroke for Timeless Legacy • Art Unveils in Victoria Harbour | EcoArte Lands in Hong Kong, Re-envisioning Asia-Pacific Home Aesthetics with Italian Craftsmanship",
+      "link": "https://finance.yahoo.com/media-advertising/articles/stroke-timeless-legacy-art-unveils-082000041.html",
+      "publisher": "PR Newswire",
+      "time": 1787300400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4d2c7f40-21a4-3ebb-a280-a2b4e1016d8a",
+      "title": "3 AI Chip Stocks Down 15% or More to Buy Right Now",
+      "link": "https://finance.yahoo.com/m/4d2c7f40-21a4-3ebb-a280-a2b4e1016d8a/3-ai-chip-stocks-down-15%25-or.html",
+      "publisher": "Motley Fool",
+      "time": 1787300400,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "2b8f3914-b23e-33ae-887b-188d6b6f8e0d",
+      "title": "giga! Equips All Eligible MILK Fund Scholars with One-year gigaFLEX+ Plan",
+      "link": "https://finance.yahoo.com/technology/ai/articles/giga-equips-eligible-milk-fund-081900005.html",
+      "publisher": "PR Newswire",
+      "time": 1787300340,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
