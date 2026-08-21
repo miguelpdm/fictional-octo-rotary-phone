@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T19:06:29.751527+00:00",
+  "updatedAt": "2026-08-21T19:45:51.488041+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7678.68,
-      "change": -29.299999999999272,
-      "changePct": -0.3801255322406035,
+      "price": 7683.53,
+      "change": -24.449999999999818,
+      "changePct": -0.3172037291222839,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26177.492,
-      "change": -153.59800000000178,
-      "changePct": -0.5833332383885429,
+      "price": 26211.846,
+      "change": -119.24399999999878,
+      "changePct": -0.4528638958736565,
       "currency": "USD"
     },
     {
@@ -39,128 +39,112 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.27,
-      "change": -0.740000000000002,
-      "changePct": -4.622111180512191,
+      "price": 15.19,
+      "change": -0.8200000000000021,
+      "changePct": -5.121798875702698,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "b5fe8dcc-51cc-3d37-8191-fb186f8f0808",
-      "title": "Walmart Falls Again as $89 Billion Selloff Deepens",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-falls-again-89-billion-190210640.html",
+      "id": "de926a17-0c50-3096-bf4a-f47a3ee3f83b",
+      "title": "Walmart Finally Gives In on Apple Pay and Google Pay",
+      "link": "https://finance.yahoo.com/media-advertising/articles/walmart-finally-gives-apple-pay-194228259.html",
       "publisher": "GuruFocus.com",
-      "time": 1787338930,
+      "time": 1787341348,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "342972ab-6b09-3f3d-b63c-ae98adac7cae",
-      "title": "Bavarian Nordic AS (BVNKF) (Q2 2026) Earnings Call Highlights: Strong H1 Growth and Upgraded ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/bavarian-nordic-bvnkf-q2-2026-190207374.html",
+      "id": "69f13471-a5c1-3b85-922c-fa75bb38f2bf",
+      "title": "Oracle's VA Contract Just Got $17 Billion Bigger",
+      "link": "https://finance.yahoo.com/healthcare/articles/oracles-va-contract-just-got-194125319.html",
       "publisher": "GuruFocus.com",
-      "time": 1787338927,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "3d85381f-10c0-3e6a-9bce-0adbc20a0f8f",
-      "title": "KE Holdings Inc (BEKE) (Q2 2026) Earnings Call Highlights: Profit Surges 74. ...",
-      "link": "https://finance.yahoo.com/real-estate/articles/ke-holdings-inc-beke-q2-190207399.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787338927,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "bc012c61-ed27-37a9-bb32-4e6e174613c8",
-      "title": "Man Infraconstruction Ltd (BOM:533169) (Q1 2027) Earnings Call Highlights: PAT Surges 29% on ...",
-      "link": "https://finance.yahoo.com/real-estate/articles/man-infraconstruction-ltd-bom-533169-190207672.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787338927,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "ee471c89-6e2b-300c-bae3-b19ee9952320",
-      "title": "Egetis Therapeutics AB (STU:P0F) (Q2 2026) Earnings Call Highlights: FDA Priority Review and US ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/egetis-therapeutics-ab-stu-p0f-190205224.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787338925,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "f33e1171-c55d-3576-82c2-382a2a6c8067",
-      "title": "US Treasury Closing Levels",
-      "link": "https://finance.yahoo.com/news/us-treasury-closing-levels-190200799.html",
-      "publisher": "MT Newswires",
-      "time": 1787338920,
+      "time": 1787341285,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "52f2b92e-ad01-3357-a758-2997be42058b",
-      "title": "BJ's Wholesale Club Holdings Inc (BJ) (Q2 2026) Earnings Call Highlights: Record Membership and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bjs-wholesale-club-holdings-inc-190158219.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787338918,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "cbb97030-6ac0-33a9-8486-091706cef3b9",
-      "title": "NIBE Industrier AB (NDRBF) (Q2 2026) Earnings Call Highlights: Sixth Consecutive Quarter of ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nibe-industrier-ab-ndrbf-q2-190144289.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787338904,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "6add04b7-cef0-3288-9c4e-82b16a8268c2",
-      "title": "ZKH Group Ltd (ZKH) (Q2 2026) Earnings Call Highlights: First-Ever Operating Profit Marks a ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zkh-group-ltd-zkh-q2-190142026.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787338902,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "89fe193d-d1b4-3f2c-bc4e-170a438f6a93",
-      "title": "Marvell Quarterly Results Poised for Upside Led by AI, Customer Wins, Oppenheimer Says",
-      "link": "https://finance.yahoo.com/technology/ai/articles/marvell-quarterly-results-poised-upside-190123875.html",
-      "publisher": "MT Newswires",
-      "time": 1787338883,
+      "id": "073ad5fb-72db-3459-8bc8-c5f03690603e",
+      "title": "Generational Group Advises J.C. Services, LLC dba American Chimney & Fireplace in its Sale to Chimney Collective",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/generational-group-advises-j-c-194100990.html",
+      "publisher": "Business Wire",
+      "time": 1787341260,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "3580bba3-ad82-3ecf-865a-428c80c87609",
+      "title": "High costs and heavy hardware kept the Vision Pro from taking off with mainstream buyers.\n\nNow, Apple appears to be pulling back resources to prioritize smart glasses instead.",
+      "link": "https://finance.yahoo.com/photos/high-costs-heavy-hardware-kept-194100993/",
+      "publisher": "Yahoo Finance",
+      "time": 1787341260,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "d3f36019-257e-3fab-a742-cb1b6770140a",
+      "title": "Marvell Stock Plunges After Two-Day Surge Despite Google AI Chip Catalyst",
+      "link": "https://finance.yahoo.com/technology/ai/articles/marvell-stock-plunges-two-day-194034770.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787341234,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bee8a898-9c3d-3833-935e-cdd8cd0460a6",
+      "title": "US Justice Department and TikTok settle for $400 million in children's privacy suit, Axios reports",
+      "link": "https://finance.yahoo.com/media-advertising/articles/us-justice-department-tiktok-settle-194021774.html",
+      "publisher": "Reuters",
+      "time": 1787341221,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bb9c7889-727a-3f11-8acb-983820292bdd",
+      "title": "Sebring Design Build Featured in Newsweek on Why Affluent Williamson County Homeowners Are Remodeling Instead of Moving",
+      "link": "https://finance.yahoo.com/real-estate/articles/sebring-design-build-featured-newsweek-194000797.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787341200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "425fcf6f-0c8d-335a-b672-6040e4886fe7",
+      "title": "TSMC Rises Ahead of Nvidia's Critical AI Demand Test",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-rises-ahead-nvidias-critical-193930535.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787341170,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "673838a9-eee7-3d3f-9fda-96e691e7f91b",
+      "title": "Cleveland-Cliffs Lands a Big Washington Win",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cleveland-cliffs-lands-big-washington-193835851.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787341115,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c9020422-504a-34a4-be80-313c536ba5d9",
+      "title": "BofA Sees a Stock Market Setup Starting to Change",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-sees-stock-market-setup-193717505.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787341037,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
