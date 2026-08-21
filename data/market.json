@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T05:56:02.313782+00:00",
+  "updatedAt": "2026-08-21T06:38:30.205275+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6422.06,
       "change": -22.399999999999636,
       "changePct": -0.34758536789738215,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,29 +52,31 @@
   ],
   "news": [
     {
-      "id": "fcdf2daf-0dfb-394a-9f1b-0c036d72d3b3",
-      "title": "Bavarian Nordic to Launch New Share Buy-back Program of up to DKK 750 Million",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bavarian-nordic-launch-share-buy-054800819.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787291280,
+      "id": "68763818-a711-3512-957e-6870553c184a",
+      "title": "Implantica publishes Interim Report January - June 2026 (Q2)",
+      "link": "https://finance.yahoo.com/healthcare/articles/implantica-publishes-interim-report-january-063000226.html",
+      "publisher": "PR Newswire",
+      "time": 1787293800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e98fb954-d20f-3797-aa77-f8326a14a628",
-      "title": "'I'll adapt': First pregnant candidate navigates French presidential race",
-      "link": "https://finance.yahoo.com/m/e98fb954-d20f-3797-aa77-f8326a14a628/%27i%27ll-adapt%27%3A-first-pregnant.html",
-      "publisher": "AFP",
-      "time": 1787291236,
+      "id": "bf8abe8b-ca60-3174-93f2-f77157dc9fb7",
+      "title": "SCSC Q2 Deep Dive: Large Deal Timing and Unified Sales Strategy Shape Outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/scsc-q2-deep-dive-large-062736839.html",
+      "publisher": "StockStory",
+      "time": 1787293656,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     },
     {
-      "id": "1f15aa95-72f5-3b6c-b022-e914c3598973",
-      "title": "Bavarian Nordic Upgrades its Full-Year 2026 Financial Guidance",
-      "link": "https://finance.yahoo.com/healthcare/articles/bavarian-nordic-upgrades-full-2026-054400531.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787291040,
+      "id": "c105df16-019f-3ac3-9fef-04b8e96737e9",
+      "title": "Macy's Stock Trades at Just 10 Times Earnings. There's Only 1 Explanation for Why Macy's Is This Cheap.",
+      "link": "https://finance.yahoo.com/m/c105df16-019f-3ac3-9fef-04b8e96737e9/macy%27s-stock-trades-at-just.html",
+      "publisher": "Motley Fool",
+      "time": 1787293500,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,70 +84,67 @@
       ]
     },
     {
-      "id": "e7454ade-3fd2-30b8-ad75-60d8f0465627",
-      "title": "China, Indonesia hold talks on security, defence",
-      "link": "https://finance.yahoo.com/m/e7454ade-3fd2-30b8-ad75-60d8f0465627/china%2C-indonesia-hold-talks.html",
-      "publisher": "AFP",
-      "time": 1787290559,
-      "impact": "medium",
+      "id": "f84bb35c-85c2-391b-9cae-5322cb4ca646",
+      "title": "Marc Benioff Says Wall Street's Fears That AI Will Kill Salesforce Are \"Dead Wrong,\" Even as CRM Stock Has Fallen Over 25% in 2026. Should Investors Bet on His Conviction?",
+      "link": "https://finance.yahoo.com/m/f84bb35c-85c2-391b-9cae-5322cb4ca646/marc-benioff-says-wall.html",
+      "publisher": "Motley Fool",
+      "time": 1787293200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "787bebcf-4a34-39b8-b6a6-409a9eda1a97",
+      "title": "ROST Q2 Deep Dive: Customer Traffic, Broader Merchandise Drive Sales Momentum",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rost-q2-deep-dive-customer-061936831.html",
+      "publisher": "StockStory",
+      "time": 1787293176,
+      "impact": "low",
       "tags": [
-        "geo"
+        "macro"
       ]
     },
     {
-      "id": "f9ab4d00-2ac5-3f78-92a1-49e68feebdcf",
-      "title": "Asia shares downbeat for week as bond yields, oil stay high",
-      "link": "https://finance.yahoo.com/news/asia-shares-downbeat-week-bond-012255911.html",
-      "publisher": "Reuters",
-      "time": 1787290511,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a91f9561-dc24-311a-8832-a92b3075264b",
-      "title": "Dollar falls as investors weigh US Treasury's rescue efforts",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-wobbles-investors-balk-us-013906923.html",
-      "publisher": "Reuters",
-      "time": 1787290446,
+      "id": "57806d0d-3932-3e42-96f9-53f9aa56cc9a",
+      "title": "Puzzle solutions for Friday, Aug. 21, 2026",
+      "link": "https://finance.yahoo.com/m/57806d0d-3932-3e42-96f9-53f9aa56cc9a/puzzle-solutions-for-friday%2C.html",
+      "publisher": "USA TODAY",
+      "time": 1787293148,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c5689d5b-ec74-3e18-9210-15889315d85a",
-      "title": "Hafnia’s Q2 2026 Financial Results Presentation to Be Held on 28 August 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hafnia-q2-2026-financial-results-053400210.html",
-      "publisher": "Business Wire",
-      "time": 1787290440,
+      "id": "d4d31126-467b-3d11-bd8f-a227df16e9c0",
+      "title": "British retail sales soften in July after June World Cup boost",
+      "link": "https://finance.yahoo.com/economy/articles/british-retail-sales-soften-july-061905672.html",
+      "publisher": "Reuters",
+      "time": 1787293145,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "53f9b02a-e75e-3047-9dd0-ecc91b32a9c9",
-      "title": "Hong Kong convicts Tiananmen vigil activists of inciting subversion",
-      "link": "https://finance.yahoo.com/m/53f9b02a-e75e-3047-9dd0-ecc91b32a9c9/hong-kong-convicts-tiananmen.html",
+      "id": "8823f5d2-bca6-35be-a403-a95a8b039a80",
+      "title": "Ex-Pakistan PM Khan taken back to jail after hospital checks: govt",
+      "link": "https://finance.yahoo.com/m/8823f5d2-bca6-35be-a403-a95a8b039a80/ex-pakistan-pm-khan-taken.html",
       "publisher": "AFP",
-      "time": 1787290407,
+      "time": 1787292998,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2c1480fd-5a75-3463-ba74-b6072b9930b1",
-      "title": "CZ Wants Countries to Tokenize Assets, But There’s A Catch",
-      "link": "https://finance.yahoo.com/m/2c1480fd-5a75-3463-ba74-b6072b9930b1/cz-wants-countries-to.html",
-      "publisher": "BeInCrypto",
-      "time": 1787290266,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5b6f775d-8c67-3897-820c-21a71b969b4a",
-      "title": "Results of the first tranche of AB Tewox bonds",
-      "link": "https://finance.yahoo.com/markets/options/articles/results-first-tranche-ab-tewox-053000762.html",
+      "id": "05cf786a-b7ae-3c26-9392-48a45d27570d",
+      "title": "Hofseth BioCare ASA: SECOND QUARTER 2026 FINANCIAL REPORT",
+      "link": "https://finance.yahoo.com/healthcare/articles/hofseth-biocare-asa-second-quarter-061500389.html",
       "publisher": "GlobeNewswire",
-      "time": 1787290200,
+      "time": 1787292900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4aea1b58-52f6-3a44-b659-a9d6e0aa3500",
+      "title": "Bekaert: Update on the Share Buyback Program and the Liquidity Agreement",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bekaert-share-buyback-program-liquidity-061500528.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787292900,
       "impact": "low",
       "tags": []
     }
