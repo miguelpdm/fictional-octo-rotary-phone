@@ -1,45 +1,45 @@
 {
-  "updatedAt": "2026-08-21T12:33:35.883092+00:00",
+  "updatedAt": "2026-08-21T13:39:39.394182+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19980.3,
-      "change": 169.29999999999927,
-      "changePct": 0.8545757407500847,
+      "price": 19969.5,
+      "change": 158.5,
+      "changePct": 0.8000605724092675,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7641.16,
-      "change": -50.600000000000364,
-      "changePct": -0.6578468386949198,
+      "price": 7666.35,
+      "change": -41.6299999999992,
+      "changePct": -0.5400896214053384,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26067.166,
-      "change": -222.54399999999805,
-      "changePct": -0.8465061044796541,
+      "price": 26116.863,
+      "change": -214.22699999999895,
+      "changePct": -0.8135895627564181,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26067.87,
-      "change": -23.460000000002765,
-      "changePct": -0.08991492576270647,
+      "price": 26116.65,
+      "change": 25.31999999999971,
+      "changePct": 0.09704373061856068,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6447.57,
-      "change": 25.50999999999931,
-      "changePct": 0.39722456657208605,
-      "currency": null
+      "price": 6453.44,
+      "change": 31.3799999999992,
+      "changePct": 0.48862825946813326,
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,103 +52,103 @@
   ],
   "news": [
     {
-      "id": "14563e61-f368-376a-9a30-a766757165d1",
-      "title": "Docebo Increases Price and Extends Substantial Issuer Bid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/docebo-increases-price-extends-substantial-122802169.html",
-      "publisher": "MT Newswires",
-      "time": 1787315282,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "20789194-3fe9-369d-a16b-b6797b4d0426",
-      "title": "Bernard Matthews to close UK turkey plant",
-      "link": "https://finance.yahoo.com/m/20789194-3fe9-369d-a16b-b6797b4d0426/bernard-matthews-to-close-uk.html",
+      "id": "6a7190bf-3239-34a2-a7b8-c9d06c5bdbaa",
+      "title": "Abbott Laboratories settles multitude of infant formula legal claims",
+      "link": "https://finance.yahoo.com/m/6a7190bf-3239-34a2-a7b8-c9d06c5bdbaa/abbott-laboratories-settles.html",
       "publisher": "Just Food",
-      "time": 1787315234,
+      "time": 1787319408,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0db63eea-f3c4-34c0-bffc-bc6d3e240c71",
-      "title": "Longévité Palm Beach Founder Michelle Kavall to Speak at Amrit Ocean Resort on Perimenopause and Midlife Health",
-      "link": "https://finance.yahoo.com/healthcare/articles/long-vit-palm-beach-founder-122600257.html",
-      "publisher": "PR Newswire",
-      "time": 1787315160,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8df48d03-300f-3f16-af7e-c35c17a0222e",
-      "title": "Werewolf Therapeutics to Merge With Ambros Therapeutics in All-Stock Deal",
-      "link": "https://finance.yahoo.com/healthcare/articles/werewolf-therapeutics-merge-ambros-therapeutics-122555118.html",
+      "id": "e41192c6-a744-3d3e-a584-27436d4cf8a6",
+      "title": "Scholar Rock Removes Catalent Indiana From Apitegromab BLA as Fill-Finish Facility",
+      "link": "https://finance.yahoo.com/healthcare/articles/scholar-rock-removes-catalent-indiana-133515854.html",
       "publisher": "MT Newswires",
-      "time": 1787315155,
+      "time": 1787319315,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "fdd76a2e-d476-3e41-a89d-281706baa39a",
-      "title": "Where to Buy Stamps — and How Much They Cost in 2026",
-      "link": "https://finance.yahoo.com/small-business/articles/where-buy-stamps-much-cost-124818314.html",
-      "publisher": "The Penny Hoarder",
-      "time": 1787315023,
+      "id": "baaf3cc6-310a-37c9-b297-3bae2ea9cc30",
+      "title": "Ross Jumps 8% on 10% Comp Growth, TJX Ticks Up, Macy’s Edges Higher",
+      "link": "https://finance.yahoo.com/m/baaf3cc6-310a-37c9-b297-3bae2ea9cc30/ross-jumps-8%25-on-10%25-comp.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787319237,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c67b3e65-1872-38b2-a5ff-adb3a4d6abe6",
-      "title": "This campaign aims to boost Black nonprofit fundraising by convincing everyday donors of their power",
-      "link": "https://finance.yahoo.com/m/c67b3e65-1872-38b2-a5ff-adb3a4d6abe6/this-campaign-aims-to-boost.html",
-      "publisher": "Associated Press",
-      "time": 1787314973,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "bbb13cf4-6993-3d59-8290-c50fec27ca8f",
-      "title": "Chinese flash-memory chipmaker YMTC plans to raise $4.9 billion in Shanghai IPO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/chinese-flash-memory-chipmaker-ymtc-122215871.html",
-      "publisher": "Reuters",
-      "time": 1787314935,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "33f78e68-6df9-3b91-9adb-3cd15e4737b0",
-      "title": "A $156 Million Reason Why Boeing Stock In Focus",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/156-million-reason-why-boeing-122133464.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787314893,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2d49b1b4-6d45-3f6e-8ab3-54204c1109c8",
-      "title": "Wynn Resorts' Boston Casino Workers Authorize Labor Action",
-      "link": "https://finance.yahoo.com/small-business/articles/wynn-resorts-apos-boston-casino-122118376.html",
-      "publisher": "MT Newswires",
-      "time": 1787314878,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b1cec69f-a3b2-3893-9299-d8d08788f28f",
-      "title": "JPMorgan warns Treasury buybacks delay U.S. debt problem",
-      "link": "https://finance.yahoo.com/m/b1cec69f-a3b2-3893-9299-d8d08788f28f/jpmorgan-warns-treasury.html",
-      "publisher": "Quartz",
-      "time": 1787314863,
+      "id": "6158bc5b-7d09-3009-8776-a95b216c1ffd",
+      "title": "Trump temporarily waives higher beef tariffs in bid to lower prices",
+      "link": "https://finance.yahoo.com/m/6158bc5b-7d09-3009-8776-a95b216c1ffd/trump-temporarily-waives.html",
+      "publisher": "CBS News",
+      "time": 1787319192,
       "impact": "high",
       "tags": [
         "geo",
         "macro"
       ]
+    },
+    {
+      "id": "055c6d9a-9f3c-3a22-b1ae-739c5c5f9a43",
+      "title": "Correction: Final terms for bond admitted to trading 26th August 2026",
+      "link": "https://finance.yahoo.com/markets/options/articles/correction-final-terms-bond-admitted-133300491.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787319180,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c6e18ac5-4406-3c92-99d8-508ff4154ad6",
+      "title": "Applied Industrial’s (AIT) Record Quarter Reignites The Growth Story",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/applied-industrial-ait-record-quarter-133259038.html",
+      "publisher": "Insider Monkey",
+      "time": 1787319179,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "543c7f43-5103-3660-9e9b-7209d4b9e6f0",
+      "title": "She Opened a Roth With $50 at 47 and Forgot About It. That Forgotten Account Is Why Her $400,000 Conversion at 62 Came Out Completely Tax-Free.",
+      "link": "https://finance.yahoo.com/m/543c7f43-5103-3660-9e9b-7209d4b9e6f0/she-opened-a-roth-with-%2450-at.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787319117,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "19bc38c0-945d-3cba-8cc6-58546a7b8165",
+      "title": "UK forecasts 'biggest' El Nino will smash records, spark hottest year",
+      "link": "https://finance.yahoo.com/m/19bc38c0-945d-3cba-8cc6-58546a7b8165/uk-forecasts-%27biggest%27-el.html",
+      "publisher": "AFP",
+      "time": 1787319113,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "5f9b62bc-9102-33bc-b0c9-dc85439def64",
+      "title": "Citi Wealth names Alex Kokolis investments platform experience head",
+      "link": "https://finance.yahoo.com/m/5f9b62bc-9102-33bc-b0c9-dc85439def64/citi-wealth-names-alex.html",
+      "publisher": "Private Banker International",
+      "time": 1787319103,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "759191c0-1325-3acd-98c4-1c5f4e127e41",
+      "title": "Archer Aviation Has a New $200 Million Reason to Get Excited",
+      "link": "https://finance.yahoo.com/m/759191c0-1325-3acd-98c4-1c5f4e127e41/archer-aviation-has-a-new.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787319055,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
