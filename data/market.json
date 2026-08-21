@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-21T11:50:21.646647+00:00",
+  "updatedAt": "2026-08-21T12:33:35.883092+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19971.4,
-      "change": 160.40000000000146,
-      "changePct": 0.8096512038766416,
+      "price": 19980.3,
+      "change": 169.29999999999927,
+      "changePct": 0.8545757407500847,
       "currency": "EUR"
     },
     {
@@ -28,73 +28,80 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26066.63,
-      "change": -24.700000000000728,
-      "changePct": -0.09466746233327594,
+      "price": 26067.87,
+      "change": -23.460000000002765,
+      "changePct": -0.08991492576270647,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6444.12,
-      "change": 22.05999999999949,
-      "changePct": 0.3435034864202373,
+      "price": 6447.57,
+      "change": 25.50999999999931,
+      "changePct": 0.39722456657208605,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.51,
-      "change": -0.5000000000000018,
-      "changePct": -3.123048094940673,
+      "price": 15.49,
+      "change": -0.5200000000000014,
+      "changePct": -3.2479700187382963,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "d786149d-6ce6-3f93-ae7b-78d15b071cb7",
-      "title": "Kaos Capital Calls on Capricor (NASDAQ: CAPR) Shareholders",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kaos-capital-calls-capricor-nasdaq-114500999.html",
-      "publisher": "CNW Group",
-      "time": 1787312700,
+      "id": "14563e61-f368-376a-9a30-a766757165d1",
+      "title": "Docebo Increases Price and Extends Substantial Issuer Bid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/docebo-increases-price-extends-substantial-122802169.html",
+      "publisher": "MT Newswires",
+      "time": 1787315282,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "54fd10cd-a2ad-39bc-b7d1-c8e61a5a5b09",
-      "title": "Löfbergs names new CEO",
-      "link": "https://finance.yahoo.com/m/54fd10cd-a2ad-39bc-b7d1-c8e61a5a5b09/l%C3%B6fbergs-names-new-ceo.html",
-      "publisher": "Just Drinks",
-      "time": 1787312658,
+      "id": "20789194-3fe9-369d-a16b-b6797b4d0426",
+      "title": "Bernard Matthews to close UK turkey plant",
+      "link": "https://finance.yahoo.com/m/20789194-3fe9-369d-a16b-b6797b4d0426/bernard-matthews-to-close-uk.html",
+      "publisher": "Just Food",
+      "time": 1787315234,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "80fef985-2e57-3d00-8968-63e153ac1f4b",
-      "title": "Jack in the Box names Taylor Montgomery as president ahead of CEO move",
-      "link": "https://finance.yahoo.com/m/80fef985-2e57-3d00-8968-63e153ac1f4b/jack-in-the-box-names-taylor.html",
-      "publisher": "Verdict Food Service",
-      "time": 1787312599,
+      "id": "0db63eea-f3c4-34c0-bffc-bc6d3e240c71",
+      "title": "Longévité Palm Beach Founder Michelle Kavall to Speak at Amrit Ocean Resort on Perimenopause and Midlife Health",
+      "link": "https://finance.yahoo.com/healthcare/articles/long-vit-palm-beach-founder-122600257.html",
+      "publisher": "PR Newswire",
+      "time": 1787315160,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "91327cea-fed2-33ed-a182-385b27c0298f",
-      "title": "Dow Jones Futures Rise After Bearish Market Signal; Bitcoin Keeps Surging",
-      "link": "https://finance.yahoo.com/m/91327cea-fed2-33ed-a182-385b27c0298f/dow-jones-futures-rise-after.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787312588,
+      "id": "8df48d03-300f-3f16-af7e-c35c17a0222e",
+      "title": "Werewolf Therapeutics to Merge With Ambros Therapeutics in All-Stock Deal",
+      "link": "https://finance.yahoo.com/healthcare/articles/werewolf-therapeutics-merge-ambros-therapeutics-122555118.html",
+      "publisher": "MT Newswires",
+      "time": 1787315155,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "239252a3-707b-32ca-8923-4efec2f07b7a",
-      "title": "Monte Paschi launches €34bn bids for Banco BPM and Banca Generali",
-      "link": "https://finance.yahoo.com/m/239252a3-707b-32ca-8923-4efec2f07b7a/monte-paschi-launches-%E2%82%AC34bn.html",
-      "publisher": "Retail Banker International",
-      "time": 1787312546,
+      "id": "fdd76a2e-d476-3e41-a89d-281706baa39a",
+      "title": "Where to Buy Stamps — and How Much They Cost in 2026",
+      "link": "https://finance.yahoo.com/small-business/articles/where-buy-stamps-much-cost-124818314.html",
+      "publisher": "The Penny Hoarder",
+      "time": 1787315023,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c67b3e65-1872-38b2-a5ff-adb3a4d6abe6",
+      "title": "This campaign aims to boost Black nonprofit fundraising by convincing everyday donors of their power",
+      "link": "https://finance.yahoo.com/m/c67b3e65-1872-38b2-a5ff-adb3a4d6abe6/this-campaign-aims-to-boost.html",
+      "publisher": "Associated Press",
+      "time": 1787314973,
       "impact": "medium",
       "tags": [
         "macro",
@@ -102,51 +109,46 @@
       ]
     },
     {
-      "id": "28c8a710-99a5-3f7b-b191-524c50c08b3d",
-      "title": "US stock futures rise after previous session's selloff",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rise-sharp-101936269.html",
+      "id": "bbb13cf4-6993-3d59-8290-c50fec27ca8f",
+      "title": "Chinese flash-memory chipmaker YMTC plans to raise $4.9 billion in Shanghai IPO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/chinese-flash-memory-chipmaker-ymtc-122215871.html",
       "publisher": "Reuters",
-      "time": 1787312430,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "04937972-f22a-3fa3-8257-deeda6530caf",
-      "title": "3 Unpopular Stocks That Deserve Some Love",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-unpopular-stocks-deserve-love-113947623.html",
-      "publisher": "StockStory",
-      "time": 1787312387,
-      "impact": "low",
+      "time": 1787314935,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "f2b780b7-4ba8-3e82-ae34-26fe6fb192e2",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-113900594.html",
-      "publisher": "Business Wire",
-      "time": 1787312340,
+      "id": "33f78e68-6df9-3b91-9adb-3cd15e4737b0",
+      "title": "A $156 Million Reason Why Boeing Stock In Focus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/156-million-reason-why-boeing-122133464.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787314893,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "76e9f815-bc99-324a-b239-1a28a55e02a8",
-      "title": "EPA waives summer gas rules early to lower prices at pump",
-      "link": "https://finance.yahoo.com/m/76e9f815-bc99-324a-b239-1a28a55e02a8/epa-waives-summer-gas-rules.html",
+      "id": "2d49b1b4-6d45-3f6e-8ab3-54204c1109c8",
+      "title": "Wynn Resorts' Boston Casino Workers Authorize Labor Action",
+      "link": "https://finance.yahoo.com/small-business/articles/wynn-resorts-apos-boston-casino-122118376.html",
+      "publisher": "MT Newswires",
+      "time": 1787314878,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b1cec69f-a3b2-3893-9299-d8d08788f28f",
+      "title": "JPMorgan warns Treasury buybacks delay U.S. debt problem",
+      "link": "https://finance.yahoo.com/m/b1cec69f-a3b2-3893-9299-d8d08788f28f/jpmorgan-warns-treasury.html",
       "publisher": "Quartz",
-      "time": 1787312332,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2f86df15-e9ab-367b-b523-034aa51e427b",
-      "title": "MindBridge, Fieldguide partner to help enhance audit quality",
-      "link": "https://finance.yahoo.com/m/2f86df15-e9ab-367b-b523-034aa51e427b/mindbridge%2C-fieldguide.html",
-      "publisher": "International Accounting Bulletin",
-      "time": 1787312325,
-      "impact": "low",
-      "tags": []
+      "time": 1787314863,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     }
   ],
   "errors": {
