@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T18:27:24.282991+00:00",
+  "updatedAt": "2026-08-21T19:06:29.751527+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7672.18,
-      "change": -35.79999999999927,
-      "changePct": -0.4644537219868146,
+      "price": 7678.68,
+      "change": -29.299999999999272,
+      "changePct": -0.3801255322406035,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26155.16,
-      "change": -175.9300000000003,
-      "changePct": -0.6681455268277928,
+      "price": 26177.492,
+      "change": -153.59800000000178,
+      "changePct": -0.5833332383885429,
       "currency": "USD"
     },
     {
@@ -39,24 +39,33 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.3,
-      "change": -0.7100000000000009,
-      "changePct": -4.434728294815745,
+      "price": 15.27,
+      "change": -0.740000000000002,
+      "changePct": -4.622111180512191,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "f7d3c7fc-b4f5-4e1e-a589-a9af11fe7eb7",
-      "title": "U.S. Bank Smartly Visa Signature Card review: Earn 2% cash back or more on every purchase",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/us-bank-smartly-visa-signature-card-182536863.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1787336736,
+      "id": "b5fe8dcc-51cc-3d37-8191-fb186f8f0808",
+      "title": "Walmart Falls Again as $89 Billion Selloff Deepens",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-falls-again-89-billion-190210640.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787338930,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "342972ab-6b09-3f3d-b63c-ae98adac7cae",
+      "title": "Bavarian Nordic AS (BVNKF) (Q2 2026) Earnings Call Highlights: Strong H1 Growth and Upgraded ...",
+      "link": "https://finance.yahoo.com/healthcare/articles/bavarian-nordic-bvnkf-q2-2026-190207374.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787338927,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,94 +73,92 @@
       ]
     },
     {
-      "id": "a5cda860-2aa7-3ed4-aa05-3ff94fdade6d",
-      "title": "Nvidia Slips Despite New Bet on AI's Power Bottleneck",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-slips-despite-bet-ais-182439997.html",
+      "id": "3d85381f-10c0-3e6a-9bce-0adbc20a0f8f",
+      "title": "KE Holdings Inc (BEKE) (Q2 2026) Earnings Call Highlights: Profit Surges 74. ...",
+      "link": "https://finance.yahoo.com/real-estate/articles/ke-holdings-inc-beke-q2-190207399.html",
       "publisher": "GuruFocus.com",
-      "time": 1787336679,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b7563f14-8a29-3240-bd49-56b6953ddb32",
-      "title": "SyberJet Aircraft Breaks Light Jet Transcontinental East-to-West Speed Record",
-      "link": "https://finance.yahoo.com/technology/articles/syberjet-aircraft-breaks-light-jet-182300954.html",
-      "publisher": "PR Newswire",
-      "time": 1787336580,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a6fe01a9-ea84-34e7-a000-8f9779c8c319",
-      "title": "Tesla Jumps 3.6% as Semi Launch and Robotaxi Expansion Accelerate",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-jumps-3-6-semi-182220329.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787336540,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "669d05a8-938a-3af7-b8b9-b0e6f430974c",
-      "title": "3 Reasons EPC is Risky and 1 Stock to Buy Instead",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-epc-risky-1-181947796.html",
-      "publisher": "StockStory",
-      "time": 1787336387,
-      "impact": "low",
+      "time": 1787338927,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "424ae195-7c22-36b8-ac8b-8cb4cc4c3341",
-      "title": "UBS Revamps S&P 500 Price Target For Rest of 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-revamps-p-500-price-181835657.html",
+      "id": "bc012c61-ed27-37a9-bb32-4e6e174613c8",
+      "title": "Man Infraconstruction Ltd (BOM:533169) (Q1 2027) Earnings Call Highlights: PAT Surges 29% on ...",
+      "link": "https://finance.yahoo.com/real-estate/articles/man-infraconstruction-ltd-bom-533169-190207672.html",
       "publisher": "GuruFocus.com",
-      "time": 1787336315,
+      "time": 1787338927,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "ee471c89-6e2b-300c-bae3-b19ee9952320",
+      "title": "Egetis Therapeutics AB (STU:P0F) (Q2 2026) Earnings Call Highlights: FDA Priority Review and US ...",
+      "link": "https://finance.yahoo.com/healthcare/articles/egetis-therapeutics-ab-stu-p0f-190205224.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787338925,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "f33e1171-c55d-3576-82c2-382a2a6c8067",
+      "title": "US Treasury Closing Levels",
+      "link": "https://finance.yahoo.com/news/us-treasury-closing-levels-190200799.html",
+      "publisher": "MT Newswires",
+      "time": 1787338920,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a4a4fd3b-1f06-351a-b5cf-ee9050c5651c",
-      "title": "Limited-edition Cup Noodles 'Dorm Survival Kit' selling for $70",
-      "link": "https://finance.yahoo.com/m/a4a4fd3b-1f06-351a-b5cf-ee9050c5651c/limited-edition-cup-noodles.html",
-      "publisher": "USA TODAY",
-      "time": 1787336256,
-      "impact": "low",
-      "tags": []
+      "id": "52f2b92e-ad01-3357-a758-2997be42058b",
+      "title": "BJ's Wholesale Club Holdings Inc (BJ) (Q2 2026) Earnings Call Highlights: Record Membership and ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bjs-wholesale-club-holdings-inc-190158219.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787338918,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "dda19d95-8c1f-3a4c-880b-f7e423308ed8",
-      "title": "Gas Prices are about to defy everything drivers expect",
-      "link": "https://finance.yahoo.com/m/dda19d95-8c1f-3a4c-880b-f7e423308ed8/gas-prices-are-about-to-defy.html",
-      "publisher": "TheStreet",
-      "time": 1787336220,
-      "impact": "low",
-      "tags": []
+      "id": "cbb97030-6ac0-33a9-8486-091706cef3b9",
+      "title": "NIBE Industrier AB (NDRBF) (Q2 2026) Earnings Call Highlights: Sixth Consecutive Quarter of ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nibe-industrier-ab-ndrbf-q2-190144289.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787338904,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "1c33da88-3fcd-30a7-8688-25a5f2836da2",
-      "title": "Grandmaster Wesley So Defends Title, Wins 2026 Sinquefield Cup",
-      "link": "https://finance.yahoo.com/media-advertising/articles/grandmaster-wesley-defends-title-wins-181700842.html",
-      "publisher": "Business Wire",
-      "time": 1787336220,
-      "impact": "low",
-      "tags": []
+      "id": "6add04b7-cef0-3288-9c4e-82b16a8268c2",
+      "title": "ZKH Group Ltd (ZKH) (Q2 2026) Earnings Call Highlights: First-Ever Operating Profit Marks a ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zkh-group-ltd-zkh-q2-190142026.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787338902,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "a2238ab7-cce1-3d78-aa83-7bd38cd9cb85",
-      "title": "Cathie Wood's Ark Invest Held $1.16 Billion of Tesla Stock as of the End of the Second Quarter, Even as It Trails Every Other \"Magnificent Seven\" Stock in 2026. Is Her Conviction Still Justified?",
-      "link": "https://finance.yahoo.com/m/a2238ab7-cce1-3d78-aa83-7bd38cd9cb85/cathie-wood%27s-ark-invest-held.html",
-      "publisher": "Motley Fool",
-      "time": 1787336160,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f2bf36f7-ad00-3479-9d3d-73a4d730d6df",
-      "title": "Synopsys Could Be Set Up To Surprise Investors On August 26th",
-      "link": "https://finance.yahoo.com/m/f2bf36f7-ad00-3479-9d3d-73a4d730d6df/synopsys-could-be-set-up-to.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787336109,
+      "id": "89fe193d-d1b4-3f2c-bc4e-170a438f6a93",
+      "title": "Marvell Quarterly Results Poised for Upside Led by AI, Customer Wins, Oppenheimer Says",
+      "link": "https://finance.yahoo.com/technology/ai/articles/marvell-quarterly-results-poised-upside-190123875.html",
+      "publisher": "MT Newswires",
+      "time": 1787338883,
       "impact": "low",
       "tags": []
     }
