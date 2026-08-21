@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-21T10:02:09.255871+00:00",
+  "updatedAt": "2026-08-21T10:55:45.743097+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19935.1,
-      "change": 124.09999999999854,
-      "changePct": 0.6264196658422015,
+      "price": 19951.0,
+      "change": 140.0,
+      "changePct": 0.7066781081217505,
       "currency": "EUR"
     },
     {
@@ -28,18 +28,18 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26045.03,
-      "change": -46.30000000000291,
-      "changePct": -0.17745358324011426,
+      "price": 26018.62,
+      "change": -72.71000000000276,
+      "changePct": -0.27867494681184424,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6437.55,
-      "change": 15.489999999999782,
-      "changePct": 0.2411998642180201,
-      "currency": null
+      "price": 6433.34,
+      "change": 11.279999999999745,
+      "changePct": 0.17564457510518033,
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,97 +52,98 @@
   ],
   "news": [
     {
-      "id": "dec9d788-d15d-3492-8356-2d63522047f4",
-      "title": "WellSpan and Johns Hopkins renew partnership for advanced cancer care access",
-      "link": "https://finance.yahoo.com/m/dec9d788-d15d-3492-8356-2d63522047f4/wellspan-and-johns-hopkins.html",
+      "id": "5541b472-f142-3a3c-b262-491f86efdc41",
+      "title": "Mitsubishi Electric to buy US-based PCI Energy Solutions for $1.4bn",
+      "link": "https://finance.yahoo.com/m/5541b472-f142-3a3c-b262-491f86efdc41/mitsubishi-electric-to-buy.html",
+      "publisher": "Energy Monitor",
+      "time": 1787309590,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "560241e3-ae56-387d-872e-c9a2b2aba0d7",
+      "title": "FDA clears C2N Diagnostics’ early Alzheimer’s assessment test",
+      "link": "https://finance.yahoo.com/m/560241e3-ae56-387d-872e-c9a2b2aba0d7/fda-clears-c2n-diagnostics%E2%80%99.html",
+      "publisher": "Medical Device Network",
+      "time": 1787309556,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "248c7ec0-da54-360e-b80c-caf21e8094c2",
+      "title": "Eli Lilly’s weekly insulin jab Onswik set for NHS use if approved",
+      "link": "https://finance.yahoo.com/m/248c7ec0-da54-360e-b80c-caf21e8094c2/eli-lilly%E2%80%99s-weekly-insulin.html",
       "publisher": "Pharmaceutical Technology",
-      "time": 1787306481,
+      "time": 1787309545,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c204f873-251f-3f00-ab5d-07c096032256",
-      "title": "Hyundai unveils new battery-powered GV90 luxury SUV",
-      "link": "https://finance.yahoo.com/m/c204f873-251f-3f00-ab5d-07c096032256/hyundai-unveils-new.html",
-      "publisher": "Just Auto",
-      "time": 1787306453,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "40574c29-c9df-45f9-ba27-ca79b2b26b7d",
-      "title": "Best CD rates today, Friday, August 21, 2026: Up to 4.35% APY return available to boost savings",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-august-21-2026-up-to-435-apy-return-available-to-boost-savings-100000741.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1787306400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "482800bf-38bb-3c19-a019-b25e55ecf610",
-      "title": "Seoul Garden Celebrates 43 Years of Memories, Flavours and Togetherness",
-      "link": "https://finance.yahoo.com/small-business/articles/seoul-garden-celebrates-43-years-100000656.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787306400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6c9654b8-2cae-4f98-a703-b00966e36b7e",
-      "title": "Mortgage and refinance interest rates today, Friday, August 21, 2026: Rates stand on high ground despite bond market buybacks",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-august-21-2026-rates-stand-on-high-ground-despite-bond-market-buybacks-100000222.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1787306400,
-      "impact": "high",
+      "id": "8a1f38ca-b91a-34b1-9a45-133976f5f4ad",
+      "title": "$207 Billion Left the Banking System in a Month. Nobody Flinched",
+      "link": "https://finance.yahoo.com/m/8a1f38ca-b91a-34b1-9a45-133976f5f4ad/%24207-billion-left-the-banking.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787309305,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "9c3de95a-d4f4-482f-b72f-50c0c3a29eb4",
-      "title": "Amid the chip bear market, healthcare is breaking out: Chart of the Day",
-      "link": "https://finance.yahoo.com/markets/stocks/article/amid-the-chip-bear-market-healthcare-is-breaking-out-chart-of-the-day-100000172.html",
-      "publisher": "Yahoo Finance",
-      "time": 1787306400,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "cbfde810-b085-4e7e-bff1-431848d74674",
-      "title": "Target-date funds are booming. But are they still right for your retirement?",
-      "link": "https://finance.yahoo.com/economy/article/target-date-funds-are-booming-but-are-they-still-right-for-your-retirement-100000268.html",
-      "publisher": "Yahoo Finance",
-      "time": 1787306400,
+      "id": "00000f18-036b-3d19-85e2-6886a58f10f6",
+      "title": "BJ’s Wholesale Club Holdings, Inc. Announces Second Quarter Fiscal 2026 Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bj-wholesale-club-holdings-inc-104500902.html",
+      "publisher": "Business Wire",
+      "time": 1787309100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d919e0a0-98e1-3152-955c-18ba5ecedef0",
-      "title": "Jiayin Group Inc. to Release Second Quarter 2026 Unaudited Financial Results on Friday, August 28, 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jiayin-group-inc-release-second-100000752.html",
+      "id": "8b89e20c-bd86-3657-b99a-18bb7e58f7e4",
+      "title": "Brilliant Earth Announces Participation in Upcoming Investor Conferences",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/brilliant-earth-announces-participation-upcoming-104500212.html",
       "publisher": "GlobeNewswire",
-      "time": 1787306400,
+      "time": 1787309100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1b5dbc97-e78e-3b32-a924-503a15718da3",
-      "title": "Prediction: Nvidia Stock Will Go Parabolic After Aug. 26. Here Are 2.3 Trillion Reasons Why",
-      "link": "https://finance.yahoo.com/m/1b5dbc97-e78e-3b32-a924-503a15718da3/prediction%3A-nvidia-stock-will.html",
-      "publisher": "Motley Fool",
-      "time": 1787306281,
+      "id": "9e64c77e-ca2f-3b9a-b7b6-9090878caed2",
+      "title": "Disney World killed the Disney Springs parking hack — 3 legal ways to still skip the $35 fee",
+      "link": "https://finance.yahoo.com/small-business/articles/disney-world-killed-disney-springs-104500642.html",
+      "publisher": "Moneywise",
+      "time": 1787309100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6764430f-6cb8-3d26-b242-43b2b550017e",
-      "title": "Goplasticpallets.com launches lightweight plastic pallet in UK",
-      "link": "https://finance.yahoo.com/m/6764430f-6cb8-3d26-b242-43b2b550017e/goplasticpallets.com-launches.html",
-      "publisher": "Packaging Gateway",
-      "time": 1787306234,
+      "id": "dbe0f9a2-232e-3963-bd1d-e403053dfb0a",
+      "title": "Interim report of Copenhagen Airports A/S (CPH) for the period 1 January - 30 June 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/interim-report-copenhagen-airports-cph-104400562.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787309040,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7404bd60-26ae-345c-810b-720423397c9d",
+      "title": "2 Profitable Stocks to Consider Right Now and 1 We Avoid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-profitable-stocks-consider-now-104347717.html",
+      "publisher": "StockStory",
+      "time": 1787309027,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "26a22806-f9c7-35e0-99c9-5f08e49f8777",
+      "title": "The Week in Numbers: U.S. debt hits $40 trillion, Walmart's rare miss",
+      "link": "https://finance.yahoo.com/video/week-numbers-u-debt-hits-104311239.html",
+      "publisher": "Reuters Videos",
+      "time": 1787308991,
       "impact": "low",
       "tags": []
     }
