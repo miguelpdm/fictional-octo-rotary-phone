@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T22:16:56.457318+00:00",
+  "updatedAt": "2026-08-21T22:48:41.741125+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,85 +52,20 @@
   ],
   "news": [
     {
-      "id": "7775b9c9-1bd0-4284-89a3-1df1ee56dc1d",
-      "title": "VA loan calculator",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/va-loan-calculator-221333493.html",
-      "publisher": "Personal Finance Embeddable Content",
-      "time": 1787350413,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9a5f0e22-0923-40ed-a74a-f854dde785a2",
-      "title": "FHA Mortgage Calculator",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/fha-mortgage-calculator-221040602.html",
-      "publisher": "Personal Finance Embeddable Content",
-      "time": 1787350240,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6b9224f5-2755-30b0-ad95-b8c30ae33e77",
-      "title": "ARS Pharma (SPRY) Cuts Spending As It Chases Neffy Market Share",
-      "link": "https://finance.yahoo.com/healthcare/articles/ars-pharma-spry-cuts-spending-220832511.html",
-      "publisher": "Insider Monkey",
-      "time": 1787350112,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "24e04c2a-2058-3f40-9fda-bfb6b75589f2",
-      "title": "Pharma ETF or Biotech ETF: Which Matches Your Investing Mindset?",
-      "link": "https://finance.yahoo.com/m/24e04c2a-2058-3f40-9fda-bfb6b75589f2/pharma-etf-or-biotech-etf%3A.html",
-      "publisher": "Motley Fool",
-      "time": 1787350021,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "95df03fb-4c58-3572-bf55-41f951cb5473",
-      "title": "Micron CEO gives investors $10 billion reason to listen",
-      "link": "https://finance.yahoo.com/m/95df03fb-4c58-3572-bf55-41f951cb5473/micron-ceo-gives-investors.html",
-      "publisher": "TheStreet",
-      "time": 1787350020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ed4d055d-10b5-3e32-b4b5-7a2b7f871261",
-      "title": "American Kratom Association Files Formal Complaint with Georgia House Speaker Over Chairman Rick Townsend's Alleged Bias in Kratom Study Committee",
-      "link": "https://finance.yahoo.com/economy/policy/articles/american-kratom-association-files-formal-220600049.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787349960,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c321f883-75ca-359c-9c62-6c5e96564cf4",
-      "title": "DIVO Holders Gave Up $79,300 on a $500,000 Position Over Five Years for Downside Comfort",
-      "link": "https://finance.yahoo.com/m/c321f883-75ca-359c-9c62-6c5e96564cf4/divo-holders-gave-up-%2479%2C300.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787349931,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "eded14c5-c053-3410-88d4-b7dde41b0fbb",
-      "title": "Arteta hails Arsenal's desire after perfect start to title defence",
-      "link": "https://finance.yahoo.com/m/eded14c5-c053-3410-88d4-b7dde41b0fbb/arteta-hails-arsenal%27s-desire.html",
+      "id": "f1b145d9-368a-3e25-b635-7a3c76795e3f",
+      "title": "Ukraine says 'cynical' Russian strike on shopping centre killed 16",
+      "link": "https://finance.yahoo.com/m/f1b145d9-368a-3e25-b635-7a3c76795e3f/ukraine-says-%27cynical%27.html",
       "publisher": "AFP",
-      "time": 1787349859,
+      "time": 1787352367,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e08d8c36-17e3-3a4f-a494-8ce092a3e82a",
-      "title": "Unpacking Q2 Earnings: Cummins (NYSE:CMI) In The Context Of Other Heavy Transportation Equipment Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/unpacking-q2-earnings-cummins-nyse-220347090.html",
-      "publisher": "StockStory",
-      "time": 1787349827,
+      "id": "22820144-d7e5-32b8-9d54-27c5060639d9",
+      "title": "Klarna (KLAR) Posted a $9 Million Quarterly Profit. Why Did Its Stock Crash 23%?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/klarna-klar-posted-9-million-223925369.html",
+      "publisher": "Insider Monkey",
+      "time": 1787351965,
       "impact": "medium",
       "tags": [
         "macro",
@@ -138,11 +73,77 @@
       ]
     },
     {
-      "id": "4a7ffc4f-129b-3557-947d-5ff1aba0afea",
-      "title": "UK Farmers Warn of Crisis Point Amid Worst Harvest Since 1984",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/uk-farmers-warn-crisis-point-220221474.html",
-      "publisher": "MT Newswires",
-      "time": 1787349741,
+      "id": "3e6ee8a2-ce7c-3ee7-8f75-99bb624d52e2",
+      "title": "Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival",
+      "link": "https://finance.yahoo.com/m/3e6ee8a2-ce7c-3ee7-8f75-99bb624d52e2/billionaire-david-tepper.html",
+      "publisher": "Motley Fool",
+      "time": 1787351940,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2c5ed15d-a85d-32f6-a656-fcd9e569ddc6",
+      "title": "TikTok to pay $400 mn settlement in US children's privacy case",
+      "link": "https://finance.yahoo.com/media-advertising/articles/tiktok-pay-400-mn-settlement-214017166.html",
+      "publisher": "AFP",
+      "time": 1787351904,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1902b23d-c7da-3309-a79e-e1b0c10a64d7",
+      "title": "Amer Sports (AS) Revenue Grew 32% Last Quarter. Can Arc’teryx and Salomon Sustain the Pace?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amer-sports-revenue-grew-32-223708007.html",
+      "publisher": "Insider Monkey",
+      "time": 1787351828,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f3afa0fe-9f0b-3167-8519-e3e52855562d",
+      "title": "You Max the 401(k), Own the House, and Still Have Cash Piling Up. These 3 ETFs Are the Next Account",
+      "link": "https://finance.yahoo.com/m/f3afa0fe-9f0b-3167-8519-e3e52855562d/you-max-the-401%28k%29%2C-own-the.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787351757,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0b1e0dd9-d8b2-387d-a1e4-51ec64ce0188",
+      "title": "Joplin trolley riders look forward to expanded service",
+      "link": "https://finance.yahoo.com/m/0b1e0dd9-d8b2-387d-a1e4-51ec64ce0188/joplin-trolley-riders-look.html",
+      "publisher": "The Joplin Globe, Mo.",
+      "time": 1787351640,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "5e80f5ea-14a0-32a2-92c2-aa7f6d0bca93",
+      "title": "McGury named new exec director of Naperville’s Fry Family YMCA",
+      "link": "https://finance.yahoo.com/m/5e80f5ea-14a0-32a2-92c2-aa7f6d0bca93/mcgury-named-new-exec.html",
+      "publisher": "Chicago Tribune",
+      "time": 1787351580,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d72251d1-a990-34e4-9988-e8528a45eb8c",
+      "title": "Jim Cramer reveals the sweet spot for buying Target stock",
+      "link": "https://finance.yahoo.com/m/d72251d1-a990-34e4-9988-e8528a45eb8c/jim-cramer-reveals-the-sweet.html",
+      "publisher": "TheStreet",
+      "time": 1787351580,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "db8f9a3d-b6c1-3025-b6d4-4e6876260c14",
+      "title": "Trump announces temporary tariff relief on ground beef imports",
+      "link": "https://finance.yahoo.com/m/db8f9a3d-b6c1-3025-b6d4-4e6876260c14/trump-announces-temporary.html",
+      "publisher": "AFP",
+      "time": 1787351569,
       "impact": "high",
       "tags": [
         "geo",
