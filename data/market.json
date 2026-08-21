@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-21T10:55:45.743097+00:00",
+  "updatedAt": "2026-08-21T11:21:03.163413+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19951.0,
-      "change": 140.0,
-      "changePct": 0.7066781081217505,
+      "price": 19958.7,
+      "change": 147.70000000000073,
+      "changePct": 0.7455454040684505,
       "currency": "EUR"
     },
     {
@@ -28,122 +28,127 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26018.62,
-      "change": -72.71000000000276,
-      "changePct": -0.27867494681184424,
+      "price": 26045.76,
+      "change": -45.57000000000335,
+      "changePct": -0.1746557189687277,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6433.34,
-      "change": 11.279999999999745,
-      "changePct": 0.17564457510518033,
-      "currency": "EUR"
+      "price": 6439.54,
+      "change": 17.479999999999563,
+      "changePct": 0.2721868061027079,
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.69,
-      "change": -0.32000000000000206,
-      "changePct": -1.9987507807620364,
+      "price": 15.66,
+      "change": -0.3500000000000014,
+      "changePct": -2.1861336664584723,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "5541b472-f142-3a3c-b262-491f86efdc41",
-      "title": "Mitsubishi Electric to buy US-based PCI Energy Solutions for $1.4bn",
-      "link": "https://finance.yahoo.com/m/5541b472-f142-3a3c-b262-491f86efdc41/mitsubishi-electric-to-buy.html",
-      "publisher": "Energy Monitor",
-      "time": 1787309590,
+      "id": "00a95e3b-ab1c-3ae1-a0a3-db1d7e102811",
+      "title": "Deel taps Mesh for wallet verification on stablecoin payouts",
+      "link": "https://finance.yahoo.com/m/00a95e3b-ab1c-3ae1-a0a3-db1d7e102811/deel-taps-mesh-for-wallet.html",
+      "publisher": "Electronic Payments",
+      "time": 1787311120,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "560241e3-ae56-387d-872e-c9a2b2aba0d7",
-      "title": "FDA clears C2N Diagnostics’ early Alzheimer’s assessment test",
-      "link": "https://finance.yahoo.com/m/560241e3-ae56-387d-872e-c9a2b2aba0d7/fda-clears-c2n-diagnostics%E2%80%99.html",
-      "publisher": "Medical Device Network",
-      "time": 1787309556,
+      "id": "bf068c9d-04ba-3c0e-8eb1-9c5d946cdc00",
+      "title": "Entergy Arkansas starts construction on 446MW Ironwood Power Station",
+      "link": "https://finance.yahoo.com/m/bf068c9d-04ba-3c0e-8eb1-9c5d946cdc00/entergy-arkansas-starts.html",
+      "publisher": "Power Technology",
+      "time": 1787310960,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "248c7ec0-da54-360e-b80c-caf21e8094c2",
-      "title": "Eli Lilly’s weekly insulin jab Onswik set for NHS use if approved",
-      "link": "https://finance.yahoo.com/m/248c7ec0-da54-360e-b80c-caf21e8094c2/eli-lilly%E2%80%99s-weekly-insulin.html",
-      "publisher": "Pharmaceutical Technology",
-      "time": 1787309545,
+      "id": "ca67142c-7edf-38c3-add8-a0d9c09d341c",
+      "title": "Takeover shield: Monte dei Paschi bids for BPM, Generali to forge €80bn Italian bank",
+      "link": "https://finance.yahoo.com/m/ca67142c-7edf-38c3-add8-a0d9c09d341c/takeover-shield%3A-monte-dei.html",
+      "publisher": "Euronews",
+      "time": 1787310881,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "4dec37ae-9fb6-3b02-8315-67d1bef7a083",
+      "title": "Baird Upgrades Parsons to Outperform From Neutral, Adjusts Price Target to $57 From $48",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/baird-upgrades-parsons-outperform-neutral-111422291.html",
+      "publisher": "MT Newswires",
+      "time": 1787310862,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8a1f38ca-b91a-34b1-9a45-133976f5f4ad",
-      "title": "$207 Billion Left the Banking System in a Month. Nobody Flinched",
-      "link": "https://finance.yahoo.com/m/8a1f38ca-b91a-34b1-9a45-133976f5f4ad/%24207-billion-left-the-banking.html",
+      "id": "e039a4a9-6646-378e-aa17-b66f798988d8",
+      "title": "Citigroup Downgrades Weibo to Neutral From Buy, Adjusts Price Target to $7.80 From $9.30",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-downgrades-weibo-neutral-buy-111356584.html",
+      "publisher": "MT Newswires",
+      "time": 1787310836,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9bb89ec0-4a6b-330d-9a1a-1cd127dd1eaf",
+      "title": "Top Premarket Gainers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-premarket-gainers-111156991.html",
+      "publisher": "MT Newswires",
+      "time": 1787310716,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "4c7b3273-6273-389f-8ee1-c0257891a6a4",
+      "title": "PORR awarded contract for X-FAB semiconductor factory in Germany",
+      "link": "https://finance.yahoo.com/m/4c7b3273-6273-389f-8ee1-c0257891a6a4/porr-awarded-contract-for.html",
+      "publisher": "World Construction Network",
+      "time": 1787310704,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "52328540-72e6-3097-aef9-ee16975f0e01",
+      "title": "Stable Bond Yields, Oil Prices Lift Wall Street Pre-Bell; Asia, Europe up",
+      "link": "https://finance.yahoo.com/markets/articles/stable-bond-yields-oil-prices-111100481.html",
+      "publisher": "MT Newswires",
+      "time": 1787310660,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "6ff1f700-a0b5-39fa-823e-4ed1da4a8b03",
+      "title": "TSLY Pays More Each Week Than NVDY but Holders Are Losing Money Faster",
+      "link": "https://finance.yahoo.com/m/6ff1f700-a0b5-39fa-823e-4ed1da4a8b03/tsly-pays-more-each-week-than.html",
       "publisher": "24/7 Wall St.",
-      "time": 1787309305,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "00000f18-036b-3d19-85e2-6886a58f10f6",
-      "title": "BJ’s Wholesale Club Holdings, Inc. Announces Second Quarter Fiscal 2026 Results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bj-wholesale-club-holdings-inc-104500902.html",
-      "publisher": "Business Wire",
-      "time": 1787309100,
+      "time": 1787310624,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8b89e20c-bd86-3657-b99a-18bb7e58f7e4",
-      "title": "Brilliant Earth Announces Participation in Upcoming Investor Conferences",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/brilliant-earth-announces-participation-upcoming-104500212.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787309100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9e64c77e-ca2f-3b9a-b7b6-9090878caed2",
-      "title": "Disney World killed the Disney Springs parking hack — 3 legal ways to still skip the $35 fee",
-      "link": "https://finance.yahoo.com/small-business/articles/disney-world-killed-disney-springs-104500642.html",
-      "publisher": "Moneywise",
-      "time": 1787309100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "dbe0f9a2-232e-3963-bd1d-e403053dfb0a",
-      "title": "Interim report of Copenhagen Airports A/S (CPH) for the period 1 January - 30 June 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/interim-report-copenhagen-airports-cph-104400562.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787309040,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7404bd60-26ae-345c-810b-720423397c9d",
-      "title": "2 Profitable Stocks to Consider Right Now and 1 We Avoid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-profitable-stocks-consider-now-104347717.html",
-      "publisher": "StockStory",
-      "time": 1787309027,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "26a22806-f9c7-35e0-99c9-5f08e49f8777",
-      "title": "The Week in Numbers: U.S. debt hits $40 trillion, Walmart's rare miss",
-      "link": "https://finance.yahoo.com/video/week-numbers-u-debt-hits-104311239.html",
-      "publisher": "Reuters Videos",
-      "time": 1787308991,
+      "id": "a849082b-8efb-3b2f-97d8-d6b09d8d1957",
+      "title": "HSBC Downgrades Ternium to Hold From Buy, Adjusts Price Target to $55 From $3",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-downgrades-ternium-hold-buy-110958663.html",
+      "publisher": "MT Newswires",
+      "time": 1787310598,
       "impact": "low",
       "tags": []
     }
