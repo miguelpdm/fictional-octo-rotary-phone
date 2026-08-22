@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T23:46:07.533319+00:00",
+  "updatedAt": "2026-08-22T00:52:18.304635+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,104 +52,102 @@
   ],
   "news": [
     {
-      "id": "0af17ae5-84af-3736-93de-1b9497d8d273",
-      "title": "Hesai (HSAI) Is Moving Beyond LiDAR. Can Robotics Become a Second Profit Pool?",
-      "link": "https://finance.yahoo.com/technology/articles/hesai-hsai-moving-beyond-lidar-233613779.html",
+      "id": "96f14158-05d9-324f-aaaa-8429a756637f",
+      "title": "Trump Makes Pitch for Sen. Darline Graham Ahead of GOP South Carolina Primary",
+      "link": "https://finance.yahoo.com/m/96f14158-05d9-324f-aaaa-8429a756637f/trump-makes-pitch-for-sen..html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787359560,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "63be035c-ba09-3d7a-9800-c77aa23cb82c",
+      "title": "Cerebras (CBRS) Doubled Core Revenue. Why Did GAAP Hardware Sales Fall 23%?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-cbrs-doubled-core-revenue-003754940.html",
       "publisher": "Insider Monkey",
-      "time": 1787355373,
-      "impact": "medium",
+      "time": 1787359074,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "f61b4eae-00eb-3c9f-99e0-4482a5812ccd",
-      "title": "Micron Fell 7% on Tuesday. Is This an Opportunity to Buy?",
-      "link": "https://finance.yahoo.com/m/f61b4eae-00eb-3c9f-99e0-4482a5812ccd/micron-fell-7%25-on-tuesday.-is.html",
-      "publisher": "Motley Fool",
-      "time": 1787355300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4d3bed8e-904b-343a-9f91-b38fc4802d84",
-      "title": "Grant funds inmate job training",
-      "link": "https://finance.yahoo.com/m/4d3bed8e-904b-343a-9f91-b38fc4802d84/grant-funds-inmate-job.html",
-      "publisher": "The Lima News, Ohio",
-      "time": 1787355240,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "924633a7-61fc-35fe-859d-188bf3860358",
-      "title": "Brandywine Realty Trust Announces Expiration of Tender Offer for the 2028 Notes",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/brandywine-realty-trust-announces-expiration-233100296.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787355060,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6630b3b1-09c6-3425-8def-99d29a0f7188",
-      "title": "Why Cardano Was on Fire Today",
-      "link": "https://finance.yahoo.com/m/6630b3b1-09c6-3425-8def-99d29a0f7188/why-cardano-was-on-fire-today.html",
-      "publisher": "Motley Fool",
-      "time": 1787355035,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f1b5de81-80af-30b1-9b69-4c376e7a1c0f",
-      "title": "First Trust Portfolios Canada Announces Cap, Buffer and Dates of First Trust Vest U.S. Equity Buffer ETF – August",
-      "link": "https://finance.yahoo.com/markets/options/articles/first-trust-portfolios-canada-announces-233000047.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787355000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9eba1d67-f548-3db1-a7ca-b4e88b00ad81",
-      "title": "Jack Henry (JKHY) Beat Estimates. Can Faster Payments Restore Margin Growth?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jack-henry-jkhy-beat-estimates-232716433.html",
-      "publisher": "Insider Monkey",
-      "time": 1787354836,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4e1aa460-e780-3204-b3c6-cdd4575d9817",
-      "title": "Kindergarten vaccine exemptions hit record 4.2%, CDC says",
-      "link": "https://finance.yahoo.com/m/4e1aa460-e780-3204-b3c6-cdd4575d9817/kindergarten-vaccine.html",
-      "publisher": "CBS News Videos",
-      "time": 1787354571,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "951fc1dc-ab62-31c4-9c63-fe2b926358e6",
-      "title": "'Slap in the face': NAACP rips Trump over aircraft carrier name",
-      "link": "https://finance.yahoo.com/m/951fc1dc-ab62-31c4-9c63-fe2b926358e6/%27slap-in-the-face%27%3A-naacp.html",
-      "publisher": "USA TODAY",
-      "time": 1787354555,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4d3509b7-2ebd-3bec-aa22-b492b186379a",
-      "title": "Twin1 AI Raised $20M to Clone Your Best Workers — Starting With Lawyers",
-      "link": "https://finance.yahoo.com/technology/ai/articles/twin1-ai-raised-20m-clone-232228962.html",
-      "publisher": "Forkast News",
-      "time": 1787354548,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c99df646-041e-358b-96f4-8d1707d9ee3c",
-      "title": "Saylor’s Bitcoin bet is no longer underwater",
-      "link": "https://finance.yahoo.com/m/c99df646-041e-358b-96f4-8d1707d9ee3c/saylor%E2%80%99s-bitcoin-bet-is-no.html",
+      "id": "f7883127-bd05-3948-b9f1-a923ed9de31b",
+      "title": "Marvell vs. Broadcom: the custom silicon shift",
+      "link": "https://finance.yahoo.com/m/f7883127-bd05-3948-b9f1-a923ed9de31b/marvell-vs.-broadcom%3A-the.html",
       "publisher": "TheStreet",
-      "time": 1787354400,
+      "time": 1787359020,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ac014ba0-7c8e-3889-ad09-dd5c32480426",
+      "title": "Why Ubiquiti Stock Just Sank",
+      "link": "https://finance.yahoo.com/m/ac014ba0-7c8e-3889-ad09-dd5c32480426/why-ubiquiti-stock-just-sank.html",
+      "publisher": "Motley Fool",
+      "time": 1787358955,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f6d7da0e-ad6f-3020-afb1-f0c92f4ccda3",
+      "title": "Proof’s x401: The First Protocol Answering Who Is Behind the Agent",
+      "link": "https://finance.yahoo.com/m/f6d7da0e-ad6f-3020-afb1-f0c92f4ccda3/proof%E2%80%99s-x401%3A-the-first.html",
+      "publisher": "Forkast News",
+      "time": 1787358902,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "196d1032-da5a-3240-898b-b654b66c5866",
+      "title": "Canadian minister LeBlanc says more work needed in talks with US before tariff deadline",
+      "link": "https://finance.yahoo.com/news/us-canadian-trade-teams-meet-132427534.html",
+      "publisher": "Reuters",
+      "time": 1787358857,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "12ec7071-67a5-3ec9-be95-7f0aadc54ccc",
+      "title": "Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93.",
+      "link": "https://finance.yahoo.com/m/12ec7071-67a5-3ec9-be95-7f0aadc54ccc/intel-sold-%2420-billion-of.html",
+      "publisher": "Motley Fool",
+      "time": 1787358721,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "736365c0-fb06-307d-ac1d-3ad6e182a2ed",
+      "title": "Beverage Market strike passes 100 days as talks remain stalled",
+      "link": "https://finance.yahoo.com/m/736365c0-fb06-307d-ac1d-3ad6e182a2ed/beverage-market-strike-passes.html",
+      "publisher": "The Register-Herald, Beckley, W.Va.",
+      "time": 1787358660,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "335200a8-40b9-3138-bd29-50a161f62f33",
+      "title": "Walmart's $110 huggie hoop earrings are 88% off",
+      "link": "https://finance.yahoo.com/m/335200a8-40b9-3138-bd29-50a161f62f33/walmart%27s-%24110-huggie-hoop.html",
+      "publisher": "TheStreet",
+      "time": 1787358600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e4565cc7-582f-3d6c-b1cb-8e848b475b2c",
+      "title": "Rio Tinto celebrates 60 years in Western Australia",
+      "link": "https://finance.yahoo.com/energy/articles/rio-tinto-celebrates-60-years-003000628.html",
+      "publisher": "Business Wire",
+      "time": 1787358600,
       "impact": "low",
       "tags": []
     }
