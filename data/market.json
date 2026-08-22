@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T00:52:18.304635+00:00",
+  "updatedAt": "2026-08-22T02:12:16.093360+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,59 +52,58 @@
   ],
   "news": [
     {
-      "id": "96f14158-05d9-324f-aaaa-8429a756637f",
-      "title": "Trump Makes Pitch for Sen. Darline Graham Ahead of GOP South Carolina Primary",
-      "link": "https://finance.yahoo.com/m/96f14158-05d9-324f-aaaa-8429a756637f/trump-makes-pitch-for-sen..html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787359560,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "63be035c-ba09-3d7a-9800-c77aa23cb82c",
-      "title": "Cerebras (CBRS) Doubled Core Revenue. Why Did GAAP Hardware Sales Fall 23%?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-cbrs-doubled-core-revenue-003754940.html",
-      "publisher": "Insider Monkey",
-      "time": 1787359074,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "f7883127-bd05-3948-b9f1-a923ed9de31b",
-      "title": "Marvell vs. Broadcom: the custom silicon shift",
-      "link": "https://finance.yahoo.com/m/f7883127-bd05-3948-b9f1-a923ed9de31b/marvell-vs.-broadcom%3A-the.html",
+      "id": "254e9eba-afdc-3abd-831c-e74adc417e18",
+      "title": "NHL sports ETF proposal hides major trap",
+      "link": "https://finance.yahoo.com/m/254e9eba-afdc-3abd-831c-e74adc417e18/nhl-sports-etf-proposal-hides.html",
       "publisher": "TheStreet",
-      "time": 1787359020,
+      "time": 1787364180,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ac014ba0-7c8e-3889-ad09-dd5c32480426",
-      "title": "Why Ubiquiti Stock Just Sank",
-      "link": "https://finance.yahoo.com/m/ac014ba0-7c8e-3889-ad09-dd5c32480426/why-ubiquiti-stock-just-sank.html",
-      "publisher": "Motley Fool",
-      "time": 1787358955,
+      "id": "ddfd15c8-aa3f-30be-8dff-b72ea1f2ab2e",
+      "title": "Gonzaga guard Adam Miller signs professional contract with Belgian club Oostende",
+      "link": "https://finance.yahoo.com/m/ddfd15c8-aa3f-30be-8dff-b72ea1f2ab2e/gonzaga-guard-adam-miller.html",
+      "publisher": "The Spokesman-Review, Spokane, Wash.",
+      "time": 1787364120,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f6d7da0e-ad6f-3020-afb1-f0c92f4ccda3",
-      "title": "Proof’s x401: The First Protocol Answering Who Is Behind the Agent",
-      "link": "https://finance.yahoo.com/m/f6d7da0e-ad6f-3020-afb1-f0c92f4ccda3/proof%E2%80%99s-x401%3A-the-first.html",
+      "id": "4adb1503-64f5-3dad-ab74-573e680156c9",
+      "title": "Valeura Energy Eyes Transformational Southeast Asia Deals as Thailand Output Set to Rise",
+      "link": "https://finance.yahoo.com/m/4adb1503-64f5-3dad-ab74-573e680156c9/valeura-energy-eyes.html",
+      "publisher": "MarketBeat",
+      "time": 1787364117,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "2800c3dc-701d-3bc6-892e-00a92b2540ce",
+      "title": "Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets",
+      "link": "https://finance.yahoo.com/m/2800c3dc-701d-3bc6-892e-00a92b2540ce/nakashima-pounds-fritz%2C.html",
+      "publisher": "AFP",
+      "time": 1787363857,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bf714b0f-3fda-3948-99dd-7993a8187b0f",
+      "title": "Anthropic’s Q2 Revenue Overtook OpenAI for the First Time – And Reached Its First Positive Operating Income",
+      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-q2-revenue-overtook-openai-015716271.html",
       "publisher": "Forkast News",
-      "time": 1787358902,
+      "time": 1787363836,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "196d1032-da5a-3240-898b-b654b66c5866",
-      "title": "Canadian minister LeBlanc says more work needed in talks with US before tariff deadline",
-      "link": "https://finance.yahoo.com/news/us-canadian-trade-teams-meet-132427534.html",
-      "publisher": "Reuters",
-      "time": 1787358857,
+      "id": "55330d07-c23d-3766-9149-d7280a820318",
+      "title": "U.S., Iran trade warnings as new sanctions loom and Hormuz oil flows stall",
+      "link": "https://finance.yahoo.com/m/55330d07-c23d-3766-9149-d7280a820318/u.s.%2C-iran-trade-warnings-as.html",
+      "publisher": "Investing.com",
+      "time": 1787363470,
       "impact": "high",
       "tags": [
         "geo",
@@ -112,42 +111,41 @@
       ]
     },
     {
-      "id": "12ec7071-67a5-3ec9-be95-7f0aadc54ccc",
-      "title": "Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93.",
-      "link": "https://finance.yahoo.com/m/12ec7071-67a5-3ec9-be95-7f0aadc54ccc/intel-sold-%2420-billion-of.html",
-      "publisher": "Motley Fool",
-      "time": 1787358721,
+      "id": "f4cccf3b-70f9-3e3b-9eed-e5341c51d1f9",
+      "title": "Troubled Mexican restaurant chain files Chapter 11 bankruptcy",
+      "link": "https://finance.yahoo.com/m/f4cccf3b-70f9-3e3b-9eed-e5341c51d1f9/troubled-mexican-restaurant.html",
+      "publisher": "TheStreet",
+      "time": 1787363220,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "736365c0-fb06-307d-ac1d-3ad6e182a2ed",
-      "title": "Beverage Market strike passes 100 days as talks remain stalled",
-      "link": "https://finance.yahoo.com/m/736365c0-fb06-307d-ac1d-3ad6e182a2ed/beverage-market-strike-passes.html",
-      "publisher": "The Register-Herald, Beckley, W.Va.",
-      "time": 1787358660,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "335200a8-40b9-3138-bd29-50a161f62f33",
-      "title": "Walmart's $110 huggie hoop earrings are 88% off",
-      "link": "https://finance.yahoo.com/m/335200a8-40b9-3138-bd29-50a161f62f33/walmart%27s-%24110-huggie-hoop.html",
-      "publisher": "TheStreet",
-      "time": 1787358600,
+      "id": "31d2d346-b478-3016-b811-53b148f2c0e4",
+      "title": "Micron Committed $10 Billion Over 10 Years to a Research Lab That Breaks Ground in 2027",
+      "link": "https://finance.yahoo.com/m/31d2d346-b478-3016-b811-53b148f2c0e4/micron-committed-%2410-billion.html",
+      "publisher": "Motley Fool",
+      "time": 1787362681,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e4565cc7-582f-3d6c-b1cb-8e848b475b2c",
-      "title": "Rio Tinto celebrates 60 years in Western Australia",
-      "link": "https://finance.yahoo.com/energy/articles/rio-tinto-celebrates-60-years-003000628.html",
-      "publisher": "Business Wire",
-      "time": 1787358600,
+      "id": "c7b914e8-178b-317b-8e2e-12411a7b29dc",
+      "title": "Delta cuts two more routes, and the reason makes sense",
+      "link": "https://finance.yahoo.com/m/c7b914e8-178b-317b-8e2e-12411a7b29dc/delta-cuts-two-more-routes%2C.html",
+      "publisher": "TheStreet",
+      "time": 1787362620,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "85740b07-3a69-34ec-ac0c-2fe3c1e2d13a",
+      "title": "The Baja Is Back: A Race Against Blindness Offers One Final Chance to Win $350,000 Adventure Truck Prize",
+      "link": "https://finance.yahoo.com/healthcare/articles/baja-back-race-against-blindness-013200482.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787362320,
       "impact": "low",
       "tags": []
     }
