@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T11:14:46.947747+00:00",
+  "updatedAt": "2026-08-22T11:43:15.836716+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -28,9 +28,9 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26136.6,
-      "change": 45.2699999999968,
-      "changePct": 0.17350591173388555,
+      "price": 26136.56,
+      "change": 45.22999999999956,
+      "changePct": 0.17335260410258718,
       "currency": "EUR"
     },
     {
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,105 +52,97 @@
   ],
   "news": [
     {
-      "id": "07faf057-f17b-3f7d-8cb2-aaa7f360742e",
-      "title": "Ukraine strikes kill two children after Russia's deadly mall attack",
-      "link": "https://finance.yahoo.com/m/07faf057-f17b-3f7d-8cb2-aaa7f360742e/ukraine-strikes-kill-two.html",
-      "publisher": "AFP",
-      "time": 1787396604,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "45ce5ff0-9f39-32ff-8c4f-d9ad501c3f8e",
-      "title": "Tempus AI's CEO Sold $6.6 Million in Stock the Day Before a Huge Rally. Here's What to Know",
-      "link": "https://finance.yahoo.com/m/45ce5ff0-9f39-32ff-8c4f-d9ad501c3f8e/tempus-ai%27s-ceo-sold-%246.6.html",
+      "id": "145b7fb5-a18d-3a3c-8f0d-d4f1e6accb05",
+      "title": "Why Opera Stock Sank This Week",
+      "link": "https://finance.yahoo.com/m/145b7fb5-a18d-3a3c-8f0d-d4f1e6accb05/why-opera-stock-sank-this-week.html",
       "publisher": "Motley Fool",
-      "time": 1787396599,
+      "time": 1787398500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "06934b4b-3aaf-3c36-a22b-1a847d1a9bad",
-      "title": "WAM Microcap Ltd (ASX:WMI) (FY 2026) Earnings Call Highlights: Strong NTA Growth and Strategic ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wam-microcap-ltd-asx-wmi-110242917.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787396562,
-      "impact": "medium",
+      "id": "d26ea248-61f9-323e-b21d-773939b77069",
+      "title": "3 Software-as-a-Service (SaaS) Stocks with Big Upside from AI",
+      "link": "https://finance.yahoo.com/m/d26ea248-61f9-323e-b21d-773939b77069/3-software-as-a-service.html",
+      "publisher": "Motley Fool",
+      "time": 1787398500,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "c3d6ad6c-5bb8-37b2-9282-332736d72399",
-      "title": "NowVertical Group Inc (NOWVF) (Q2 2026) Earnings Call Highlights: Revenue Surges 18% and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nowvertical-group-inc-nowvf-q2-110227401.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787396547,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "050f6b85-04bb-359c-a1d8-4c3cd7d27eff",
-      "title": "Eikon Therapeutics Eyes Safer PARP1 Cancer Treatments With EIK1003, EIK1004",
-      "link": "https://finance.yahoo.com/m/050f6b85-04bb-359c-a1d8-4c3cd7d27eff/eikon-therapeutics-eyes-safer.html",
-      "publisher": "MarketBeat",
-      "time": 1787396516,
+      "id": "90536c9a-628c-3831-a25e-7084b8110e37",
+      "title": "These 3 AI stocks are bought by both hedge funds and mutual funds",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-bought-both-113113447.html",
+      "publisher": "Investing.com",
+      "time": 1787398273,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "239ae9a0-7e34-3e2d-84bf-bde0bb19cffc",
-      "title": "Airbnb Just Hit a Four-Year High. The Downgrade Says That’s the Problem.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-just-hit-four-high-110129364.html",
-      "publisher": "Insider Monkey",
-      "time": 1787396489,
+      "id": "0f011b9f-b09c-3679-a042-f1ef3db6f913",
+      "title": "The Fire Closed His Photography Studio at 63. Social Security Counted the Canceled Weddings, Not the Burned Cameras.",
+      "link": "https://finance.yahoo.com/m/0f011b9f-b09c-3679-a042-f1ef3db6f913/the-fire-closed-his.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787398257,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8dca565d-5226-30d7-a670-441cbe816603",
-      "title": "5 Monthly Dividend Payers to Own Heading Into September",
-      "link": "https://finance.yahoo.com/m/8dca565d-5226-30d7-a670-441cbe816603/5-monthly-dividend-payers-to.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787396434,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "13749844-e217-35f9-9908-274e41e7ef5f",
-      "title": "3 Semiconductor Stocks to Buy Before August Ends",
-      "link": "https://finance.yahoo.com/m/13749844-e217-35f9-9908-274e41e7ef5f/3-semiconductor-stocks-to-buy.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787396433,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "9da55a43-8879-3126-af43-67b5cb823c54",
-      "title": "3 AI Stocks Built for the Next Decade",
-      "link": "https://finance.yahoo.com/m/9da55a43-8879-3126-af43-67b5cb823c54/3-ai-stocks-built-for-the.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787396430,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "36b64226-1a7f-3c75-bac4-9fcd92f4a95f",
-      "title": "Mark Zuckerberg buys a castle in Ireland — the dining room is a 'brisk walk of four and a half minutes' to the kitchen",
-      "link": "https://finance.yahoo.com/real-estate/articles/mark-zuckerberg-buys-castle-ireland-110000455.html",
+      "id": "eedb2ada-c954-3310-b084-18b3640d7d57",
+      "title": "Billionaire Leon Cooperman says today's AI boom echoes a big bust from the 1970s — a lesson from the 'Nifty Fifty' crash",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-leon-cooperman-says-todays-113000015.html",
       "publisher": "Moneywise",
-      "time": 1787396400,
+      "time": 1787398200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "04d48334-f5ee-3edd-8e59-c716559b999d",
+      "title": "Which Biotech ETF Is a Better Buy: Concentrated Bet or Broad Basket?",
+      "link": "https://finance.yahoo.com/m/04d48334-f5ee-3edd-8e59-c716559b999d/which-biotech-etf-is-a-better.html",
+      "publisher": "Motley Fool",
+      "time": 1787397901,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8515054a-4186-3500-ac6a-01745f5ecd42",
+      "title": "The FTC Has Policed 13 AI Cases. None Target Agent Behavior.",
+      "link": "https://finance.yahoo.com/m/8515054a-4186-3500-ac6a-01745f5ecd42/the-ftc-has-policed-13-ai.html",
+      "publisher": "Forkast News",
+      "time": 1787397543,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5b35700d-7d1b-4471-b881-715185d3ef3a",
+      "title": "The ETF industry's newest asset class is absurdity: Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/article/the-etf-industrys-newest-asset-class-is-absurdity-chart-of-the-day-111704930.html",
+      "publisher": "Yahoo Finance",
+      "time": 1787397424,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "acd64330-caec-3cdf-a71b-58f9a35fc366",
+      "title": "Solerus Announces Plans for New Growth Fund for High-Net-Worth Investors",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/solerus-announces-plans-growth-fund-111300958.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787397180,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "958654bd-4b27-3366-9736-4394c9225664",
+      "title": "New arrival Rodri to miss Elche opener: Barca's Flick",
+      "link": "https://finance.yahoo.com/m/958654bd-4b27-3366-9736-4394c9225664/new-arrival-rodri-to-miss.html",
+      "publisher": "AFP",
+      "time": 1787397070,
       "impact": "low",
       "tags": []
     }
