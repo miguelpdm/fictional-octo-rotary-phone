@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T05:54:15.686408+00:00",
+  "updatedAt": "2026-08-22T06:28:47.219572+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,34 +52,47 @@
   ],
   "news": [
     {
-      "id": "bdae759d-9d5a-363c-8469-2a40771439b2",
-      "title": "From science fair to strategic showcase: a decade of China’s robot games",
-      "link": "https://finance.yahoo.com/technology/ai/articles/science-fair-strategic-showcase-decade-053446530.html",
-      "publisher": "Reuters",
-      "time": 1787376886,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
+      "id": "827cbd1b-1629-3667-80a0-1eb12d206006",
+      "title": "Puzzle solutions for Saturday, Aug. 22, 2026",
+      "link": "https://finance.yahoo.com/m/827cbd1b-1629-3667-80a0-1eb12d206006/puzzle-solutions-for.html",
+      "publisher": "USA TODAY",
+      "time": 1787379504,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "196d1032-da5a-3240-898b-b654b66c5866",
-      "title": "US hits Canadian goods with 50% tariffs after trade talks fail",
-      "link": "https://finance.yahoo.com/news/us-canadian-trade-teams-meet-132427534.html",
-      "publisher": "Reuters",
-      "time": 1787376505,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
+      "id": "6091da8c-f8a9-31af-9456-313422c6b7b3",
+      "title": "Navios Maritime Partners (NMM) Stock Looks Like A Bargain Despite A 302% Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/navios-maritime-partners-nmm-stock-061032139.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787379032,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "5db3d878-dec3-3229-ba5c-22eafc93c482",
-      "title": "SuperiorMed Holdings Limited Announces Entering into an Agreement and Plan of Merger with Starry Sea Acquisition Corp",
-      "link": "https://finance.yahoo.com/healthcare/articles/superiormed-holdings-limited-announces-entering-052400962.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787376240,
+      "id": "e1c1d9b9-1de5-399c-9492-2ae8d7c4cb86",
+      "title": "FIGS (FIGS) Stock Looks Stretched After A 130% Three Year Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/figs-figs-stock-looks-stretched-061031622.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787379031,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "50403c11-72f2-3aad-ad6a-b41a4c7fff5d",
+      "title": "Can Viking Holdings (VIK) Stay Below Fair Value After Strong Q2?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/viking-holdings-vik-stay-below-061028509.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787379028,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "58b62b0d-f1ac-33be-9d15-9ab8a0727655",
+      "title": "Ocular Therapeutix (OCUL) Could Be 59% Undervalued Following Earnings Beat And AXPAXLI Progress",
+      "link": "https://finance.yahoo.com/healthcare/articles/ocular-therapeutix-ocul-could-59-061002173.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787379002,
       "impact": "medium",
       "tags": [
         "macro",
@@ -87,68 +100,51 @@
       ]
     },
     {
-      "id": "3da05092-c322-3271-adff-3cd517f578b4",
-      "title": "AMD Investors Must Be Ready For Major News On Aug. 26",
-      "link": "https://finance.yahoo.com/m/3da05092-c322-3271-adff-3cd517f578b4/amd-investors-must-be-ready.html",
-      "publisher": "Motley Fool",
-      "time": 1787376000,
+      "id": "d4492d42-5167-304f-8685-b9bfbbef1bb9",
+      "title": "Advanced Micro Devices (AMD) Adds Tim Ryan To Board After Director Retirement",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-adds-061002113.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787379002,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ea0f1945-7a41-386d-919d-c6877f02474d",
-      "title": "'Aura' battles leap from social media to Latin America streets",
-      "link": "https://finance.yahoo.com/m/ea0f1945-7a41-386d-919d-c6877f02474d/%27aura%27-battles-leap-from.html",
-      "publisher": "AFP",
-      "time": 1787375740,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b775bf48-a13f-3719-af36-7931f6c712a7",
-      "title": "US, Canada fail to reach trade pact to avert Trump tariffs",
-      "link": "https://finance.yahoo.com/economy/policy/articles/us-canada-fail-reach-trade-042829871.html",
-      "publisher": "AFP",
-      "time": 1787375547,
-      "impact": "high",
+      "id": "d18c472d-ad1e-3d97-9703-694a184ca8e1",
+      "title": "United (UAL) Stock May Trade At A Discount On Pilot Training Expansion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/united-ual-stock-may-trade-060955361.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787378995,
+      "impact": "medium",
       "tags": [
-        "geo",
+        "geo"
+      ]
+    },
+    {
+      "id": "f8e8aa74-b12c-3d57-8171-fe89fb066ddc",
+      "title": "Root (ROOT) Stock Fair Value Falls After Analyst Target Cuts and Growth Reset",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/root-root-stock-fair-value-060949604.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787378989,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "05c276c4-8367-39ec-a2e7-8cddab1054e3",
+      "title": "Transocean (RIG) Has Fresh Attention, But What Is The Market Weighing?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/transocean-rig-fresh-attention-market-060927227.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787378967,
+      "impact": "low",
+      "tags": [
         "macro"
       ]
     },
     {
-      "id": "bb7c2130-d296-3772-a8ef-2f99785f1e0b",
-      "title": "Pentagon removes Stars and Stripes newspaper leadership",
-      "link": "https://finance.yahoo.com/m/bb7c2130-d296-3772-a8ef-2f99785f1e0b/pentagon-removes-stars-and.html",
-      "publisher": "Investing.com",
-      "time": 1787375448,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ec82016b-728f-3d9b-b8e9-5bd11b757c99",
-      "title": "Domino's Pizza (DPZ) Launches The Domino As Valuation Views Split",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dominos-pizza-dpz-launches-domino-050922865.html",
+      "id": "3b6e7aad-86a2-3d96-be1c-9017183a0b70",
+      "title": "Does ConocoPhillips' (COP) New CFO Signal a Subtle Shift in Its LNG and Willow Priorities?",
+      "link": "https://finance.yahoo.com/energy/articles/does-conocophillips-cop-cfo-signal-060920456.html",
       "publisher": "Simply Wall St.",
-      "time": 1787375362,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "14c4a772-682e-3426-a597-61c2061a47bc",
-      "title": "What Is Driving Cleveland-Cliffs (CLF) Higher Today?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/driving-cleveland-cliffs-clf-higher-050916620.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787375356,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ad2a388a-bbd1-391c-a885-d25ce4a80aef",
-      "title": "Airbnb (ABNB) Turns AI Customer Service Into A Bigger Travel App Bet",
-      "link": "https://finance.yahoo.com/technology/ai/articles/airbnb-abnb-turns-ai-customer-050857903.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787375337,
+      "time": 1787378960,
       "impact": "low",
       "tags": []
     }
