@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T23:13:55.003472+00:00",
+  "updatedAt": "2026-08-22T23:43:44.207637+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -28,9 +28,9 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26136.6,
-      "change": 45.2699999999968,
-      "changePct": 0.17350591173388555,
+      "price": 26136.56,
+      "change": 45.22999999999956,
+      "changePct": 0.17335260410258718,
       "currency": "EUR"
     },
     {
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,96 +52,102 @@
   ],
   "news": [
     {
-      "id": "1e89bf0d-d72e-3ad4-984c-d7ab8ed971e9",
-      "title": "Her Advisor Said Wait Until 70. At 66, She Chose Time to Enjoy Social Security Over an 8%-a-Year Raise.",
-      "link": "https://finance.yahoo.com/m/1e89bf0d-d72e-3ad4-984c-d7ab8ed971e9/her-advisor-said-wait-until.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787439924,
+      "id": "5734ba34-2b40-307b-8e6d-70a63384e78a",
+      "title": "Media Advisory - Minister Miller will announce major funding for a cultural organization in Montréal",
+      "link": "https://finance.yahoo.com/media-advertising/articles/media-advisory-minister-miller-announce-232700906.html",
+      "publisher": "CNW Group",
+      "time": 1787441220,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "52c2ef57-516d-32f7-a91c-226b6711a5c1",
-      "title": "The 30-Year Treasury Now Out-Yields Dividend Stocks by 2.2 Points. History Says What Followed the Last Time.",
-      "link": "https://finance.yahoo.com/m/52c2ef57-516d-32f7-a91c-226b6711a5c1/the-30-year-treasury-now.html",
+      "id": "925e498a-b4e1-3e7d-99bc-3eb6889faec8",
+      "title": "Giants vs. Dolphins highlights Preseason Week 2",
+      "link": "https://finance.yahoo.com/m/925e498a-b4e1-3e7d-99bc-3eb6889faec8/giants-vs.-dolphins.html",
+      "publisher": "NFL Highlights",
+      "time": 1787441211,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "afb8170c-2c16-3ba8-aef9-72c4316acec8",
+      "title": "GE Vernova's Backlog Is Bigger Than Some Countries' GDP. Here's What's Actually Inside the $176 Billion.",
+      "link": "https://finance.yahoo.com/m/afb8170c-2c16-3ba8-aef9-72c4316acec8/ge-vernova%27s-backlog-is.html",
       "publisher": "Motley Fool",
-      "time": 1787439661,
+      "time": 1787441100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f283119f-b2f0-3d73-a90c-9acce298b3d9",
+      "title": "91-year-old supermarket chain closes stores, lays off employees",
+      "link": "https://finance.yahoo.com/m/f283119f-b2f0-3d73-a90c-9acce298b3d9/91-year-old-supermarket-chain.html",
+      "publisher": "TheStreet",
+      "time": 1787440620,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "770fe56e-f631-301d-94d7-a20b9a7a2902",
-      "title": "World No. 3 Pegula beats defending champ Swiatek to reach Cincy final",
-      "link": "https://finance.yahoo.com/m/770fe56e-f631-301d-94d7-a20b9a7a2902/world-no.-3-pegula-beats.html",
-      "publisher": "AFP",
-      "time": 1787439638,
+      "id": "40b745e3-bf9d-3f19-ac6e-51e0226a061f",
+      "title": "Stetson Bennett's best plays from 2-TD game vs. Saints Preseason Week 2",
+      "link": "https://finance.yahoo.com/m/40b745e3-bf9d-3f19-ac6e-51e0226a061f/stetson-bennett%27s-best-plays.html",
+      "publisher": "NFL Highlights",
+      "time": 1787440294,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "974cde81-3655-3751-aaa3-19439845e449",
-      "title": "Top analyst sees trouble looming for SpaceX stock",
-      "link": "https://finance.yahoo.com/m/974cde81-3655-3751-aaa3-19439845e449/top-analyst-sees-trouble.html",
-      "publisher": "TheStreet",
-      "time": 1787439600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "39d9e4ad-4bf0-38c2-80e9-02b2b3e25a09",
-      "title": "IndyCars zip among iconic Washington landmarks ahead of Freedom 250",
-      "link": "https://finance.yahoo.com/m/39d9e4ad-4bf0-38c2-80e9-02b2b3e25a09/indycars-zip-among-iconic.html",
-      "publisher": "AFP",
-      "time": 1787439109,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "19f3a967-7355-31a6-9eeb-131668da3b94",
-      "title": "He Sold Nothing in the 2022 Crash. He Swapped Into a Similar Fund for a Week, Booked $90,000 of Losses, and Hasn’t Paid Capital-Gains Tax Since.",
-      "link": "https://finance.yahoo.com/m/19f3a967-7355-31a6-9eeb-131668da3b94/he-sold-nothing-in-the-2022.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787438822,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "37c3e28f-6b8d-34ef-86b0-b69a0a54703b",
-      "title": "Judge rules Keene ICE detainee unlawfully held without bond hearing",
-      "link": "https://finance.yahoo.com/m/37c3e28f-6b8d-34ef-86b0-b69a0a54703b/judge-rules-keene-ice.html",
-      "publisher": "New Hampshire Union Leader, Manchester",
-      "time": 1787438760,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "29b8d063-b970-3bc8-9088-41f59162f514",
-      "title": "HBO Max Is Free Right Now For 7 Days With This Prime Video Promo",
-      "link": "https://finance.yahoo.com/m/29b8d063-b970-3bc8-9088-41f59162f514/hbo-max-is-free-right-now-for.html",
+      "id": "8bf23321-e860-34d3-8814-cddb20078837",
+      "title": "Emmys: Supporting Actor (Drama) — No One Can Agree on the Frontrunner",
+      "link": "https://finance.yahoo.com/m/8bf23321-e860-34d3-8814-cddb20078837/emmys%3A-supporting-actor.html",
       "publisher": "Variety",
-      "time": 1787437380,
+      "time": 1787440273,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2feaccd1-8292-325e-a67e-3dd66a355016",
-      "title": "Government of Canada announces Peter Ballantyne Cree Nation as an Indigenous Skills and Employment Training Program agreement holder",
-      "link": "https://finance.yahoo.com/economy/policy/articles/government-canada-announces-peter-ballantyne-222200222.html",
-      "publisher": "CNW Group",
-      "time": 1787437320,
+      "id": "96572169-3a00-3b1f-ba93-061b5ce77f03",
+      "title": "Halliburton (HAL) Brings Three Startups Into Its Labs Push Beyond Oilfield Services",
+      "link": "https://finance.yahoo.com/energy/articles/halliburton-hal-brings-three-startups-230938347.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787440178,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "14a84880-9969-3b1c-8a42-6c841d5bc846",
+      "title": "Walmart (WMT) Stock Fair Value Falls After Softer U.S. Comps Prompt Analyst Resets",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-stock-fair-value-230925822.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787440165,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "199a7bbe-6870-3c31-b182-82013fb73622",
-      "title": "Apple Announced Its Largest-Ever Stock Buyback Under Tim Cook's Leadership. Here's Why the Size of the Repurchase Program Matters for Shareholders.",
-      "link": "https://finance.yahoo.com/m/199a7bbe-6870-3c31-b182-82013fb73622/apple-announced-its.html",
-      "publisher": "Motley Fool",
-      "time": 1787437200,
+      "id": "0bc04663-bd81-3532-9041-37fd56629a3c",
+      "title": "Mahindra And Mahindra Financial Services (NSEI:M&MFIN) Stock Sees Fair Value Lift On Margin Revisions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mahindra-mahindra-financial-services-nsei-230921708.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787440161,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "9be0f6df-e0d3-311e-bc0c-04d398a76cc0",
+      "title": "HighPeak Energy (HPK) Gains Fresh Valuation Attention As Strong Q2 Earnings Reset The Story",
+      "link": "https://finance.yahoo.com/energy/articles/highpeak-energy-hpk-gains-fresh-230905496.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787440145,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
