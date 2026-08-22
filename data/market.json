@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T07:10:04.235784+00:00",
+  "updatedAt": "2026-08-22T07:52:57.276070+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,11 +52,86 @@
   ],
   "news": [
     {
-      "id": "735600f6-2038-3766-908a-ce0d83aaaf18",
-      "title": "Nuvve Holding Corp (NVVE) (Q2 2026) Earnings Call Highlights: Revenue Surges 268% as Company ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nuvve-holding-corp-nvve-q2-070132168.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787382092,
+      "id": "229bee22-04ca-37d4-a200-fba6039f86e8",
+      "title": "U.S. judge strikes down immigrant visa suspension covering 75 countries",
+      "link": "https://finance.yahoo.com/m/229bee22-04ca-37d4-a200-fba6039f86e8/u.s.-judge-strikes-down.html",
+      "publisher": "Investing.com",
+      "time": 1787383590,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7bb6383a-e210-300a-b5fb-a2d1a82c05b8",
+      "title": "RTX's $289 Billion Backlog, Explained",
+      "link": "https://finance.yahoo.com/m/7bb6383a-e210-300a-b5fb-a2d1a82c05b8/rtx%27s-%24289-billion-backlog%2C.html",
+      "publisher": "Motley Fool",
+      "time": 1787383500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "28949683-8085-34f5-841a-064df5e727ac",
+      "title": "Worried About Social Security Cuts? Here's 1 Thing You Don't Want to Do.",
+      "link": "https://finance.yahoo.com/m/28949683-8085-34f5-841a-064df5e727ac/worried-about-social-security.html",
+      "publisher": "Motley Fool",
+      "time": 1787383320,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "75929a10-3824-3207-a039-19935a966074",
+      "title": "Trump tariffs heap up as Canada tries to curb US reliance",
+      "link": "https://finance.yahoo.com/economy/policy/articles/trump-tariffs-heap-canada-tries-063343428.html",
+      "publisher": "AFP",
+      "time": 1787383132,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "554ec326-851e-3db7-b3ed-974eb1e2c8ba",
+      "title": "Macy’s has a 'gorgeous' $1,149 tennis bracelet on sale for 69% off",
+      "link": "https://finance.yahoo.com/m/554ec326-851e-3db7-b3ed-974eb1e2c8ba/macy%E2%80%99s-has-a-%27gorgeous%27.html",
+      "publisher": "TheStreet",
+      "time": 1787382900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b460b813-9051-3326-9146-d1024835e769",
+      "title": "Rocket Lab (RKLB) Stock May Be 38% Undervalued Despite Fresh Space Force Wins",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-stock-may-071443065.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787382883,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c97bee60-e5fe-3379-baef-1a26f68f35e2",
+      "title": "Heritage Insurance Holdings (HRTG) Stock Gets Fair Value Boost After Analyst EPS Revisions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heritage-insurance-holdings-hrtg-stock-071432090.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787382872,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "99d8833d-685e-3e79-a1dc-693256da7c92",
+      "title": "Stronger Orders And Backlog Amid Softer Closings Could Be A Game Changer For PulteGroup (PHM)",
+      "link": "https://finance.yahoo.com/real-estate/articles/stronger-orders-backlog-amid-softer-071414122.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787382854,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3c4281ad-3dfe-3a5c-bb6f-8ba59cbc801b",
+      "title": "Geely (SEHK:175) Stock Stays Reasonable As Record Half Year Profit Lands",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/geely-sehk-175-stock-stays-071405059.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787382845,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,91 +139,11 @@
       ]
     },
     {
-      "id": "3e50ae81-6a03-33f4-a908-07f5a1c21e1d",
-      "title": "Pokémon fans can get a free Krispy Kreme doughnut today",
-      "link": "https://finance.yahoo.com/m/3e50ae81-6a03-33f4-a908-07f5a1c21e1d/pok%C3%A9mon-fans-can-get-a-free.html",
-      "publisher": "USA TODAY",
-      "time": 1787382067,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "40d71aea-63d3-3d0c-a744-f284df94aa19",
-      "title": "UPS Fired Amazon. Was It The Smart Move?",
-      "link": "https://finance.yahoo.com/m/40d71aea-63d3-3d0c-a744-f284df94aa19/ups-fired-amazon.-was-it-the.html",
-      "publisher": "Motley Fool",
-      "time": 1787381700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7d10900b-4432-3011-a5ea-9b05a95e2d60",
-      "title": "Built to last: Beeson Hardware employee retires after 70 years of service",
-      "link": "https://finance.yahoo.com/m/7d10900b-4432-3011-a5ea-9b05a95e2d60/built-to-last%3A-beeson.html",
-      "publisher": "The High Point Enterprise, N.C.",
-      "time": 1787381220,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "b87dd0d5-a657-3582-82a7-687cb0699fea",
-      "title": "China’s robot games evolve from science fair to strategic showcase",
-      "link": "https://finance.yahoo.com/technology/articles/china-robot-games-evolve-science-064532330.html",
-      "publisher": "Investing.com",
-      "time": 1787381132,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "75929a10-3824-3207-a039-19935a966074",
-      "title": "Trump tariffs heap up as Canada tries to curb US reliance",
-      "link": "https://finance.yahoo.com/economy/policy/articles/trump-tariffs-heap-canada-tries-063343428.html",
-      "publisher": "AFP",
-      "time": 1787380423,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "f667f73f-3bed-371d-997d-64aa9a957009",
-      "title": "Reform UK infighting complicates Farage’s push to prepare party to govern",
-      "link": "https://finance.yahoo.com/m/f667f73f-3bed-371d-997d-64aa9a957009/reform-uk-infighting.html",
-      "publisher": "Investing.com",
-      "time": 1787379995,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "be465e18-9311-3963-97ca-8ec66d0a26d1",
-      "title": "How to Judge a Fintech Stock Before You Buy It",
-      "link": "https://finance.yahoo.com/m/be465e18-9311-3963-97ca-8ec66d0a26d1/how-to-judge-a-fintech-stock.html",
-      "publisher": "Motley Fool",
-      "time": 1787379900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "827cbd1b-1629-3667-80a0-1eb12d206006",
-      "title": "Puzzle solutions for Saturday, Aug. 22, 2026",
-      "link": "https://finance.yahoo.com/m/827cbd1b-1629-3667-80a0-1eb12d206006/puzzle-solutions-for.html",
-      "publisher": "USA TODAY",
-      "time": 1787379504,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6091da8c-f8a9-31af-9456-313422c6b7b3",
-      "title": "Navios Maritime Partners (NMM) Stock Looks Like A Bargain Despite A 302% Run",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/navios-maritime-partners-nmm-stock-061032139.html",
+      "id": "2115e6cd-6ee8-3360-8672-f14494e1fef8",
+      "title": "Is Getty Realty (GTY) Undervalued On Its Zacks Upgrade?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/getty-realty-gty-undervalued-zacks-071359400.html",
       "publisher": "Simply Wall St.",
-      "time": 1787379032,
+      "time": 1787382839,
       "impact": "low",
       "tags": []
     }
