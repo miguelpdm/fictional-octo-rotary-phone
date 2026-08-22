@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T19:19:23.128068+00:00",
+  "updatedAt": "2026-08-22T19:44:06.380378+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -28,9 +28,9 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26136.6,
-      "change": 45.2699999999968,
-      "changePct": 0.17350591173388555,
+      "price": 26136.56,
+      "change": 45.22999999999956,
+      "changePct": 0.17335260410258718,
       "currency": "EUR"
     },
     {
@@ -52,38 +52,29 @@
   ],
   "news": [
     {
-      "id": "3ce85e45-8d9a-3781-8f47-05fc7f8b3388",
-      "title": "Walmart has multi-use emergency thermal blankets for just $6 apiece",
-      "link": "https://finance.yahoo.com/m/3ce85e45-8d9a-3781-8f47-05fc7f8b3388/walmart-has-multi-use.html",
-      "publisher": "TheStreet",
-      "time": 1787426100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fb201d16-9d14-3b13-9b2c-7c727fcdd4a5",
-      "title": "Marvell investors must carefully consider latest Google deal",
-      "link": "https://finance.yahoo.com/m/fb201d16-9d14-3b13-9b2c-7c727fcdd4a5/marvell-investors-must.html",
-      "publisher": "TheStreet",
-      "time": 1787425980,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ee376f9f-b200-33b7-a5a4-499f1b2657d3",
-      "title": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a No-Brainer Buy",
-      "link": "https://finance.yahoo.com/m/ee376f9f-b200-33b7-a5a4-499f1b2657d3/tsmc%27s-%24100-billion-arizona.html",
-      "publisher": "Motley Fool",
-      "time": 1787425500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5ad77136-11da-3ac1-92a1-75fe9c1f5117",
-      "title": "Want $10,000 a Year on $100K? The Private-Credit Funds Banks Can’t Compete With Pay 10%+",
-      "link": "https://finance.yahoo.com/m/5ad77136-11da-3ac1-92a1-75fe9c1f5117/want-%2410%2C000-a-year-on-%24100k%3F.html",
+      "id": "c6f7bfa5-8881-33dd-b506-5d934fff7895",
+      "title": "How a 56-Year-Old Turned a $735,000 401(k) Rollover Into a $4,300 Monthly Paycheck Without Buying an Annuity",
+      "link": "https://finance.yahoo.com/m/c6f7bfa5-8881-33dd-b506-5d934fff7895/how-a-56-year-old-turned-a.html",
       "publisher": "24/7 Wall St.",
-      "time": 1787425261,
+      "time": 1787427495,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "36ffddb3-4a30-37c8-8ea0-56494a76b2c5",
+      "title": "Spurs lacked fight in dismal defeat at Brentford says De Zerbi",
+      "link": "https://finance.yahoo.com/m/36ffddb3-4a30-37c8-8ea0-56494a76b2c5/spurs-lacked-fight-in-dismal.html",
+      "publisher": "AFP",
+      "time": 1787427384,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b4c9c1ff-32c6-3ded-abb9-234642b0c2c1",
+      "title": "Can This 6.3% Yield Survive if Oil Crashes Again?",
+      "link": "https://finance.yahoo.com/m/b4c9c1ff-32c6-3ded-abb9-234642b0c2c1/can-this-6.3%25-yield-survive.html",
+      "publisher": "Motley Fool",
+      "time": 1787427301,
       "impact": "medium",
       "tags": [
         "macro",
@@ -91,67 +82,72 @@
       ]
     },
     {
-      "id": "06613ce7-5626-33b0-b61e-389832704744",
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "link": "https://finance.yahoo.com/m/06613ce7-5626-33b0-b61e-389832704744/inherent%2C-founded-by-deepmind.html",
-      "publisher": "TechCrunch",
-      "time": 1787425200,
-      "impact": "low",
-      "tags": []
+      "id": "3e7a8457-d0ed-3a1c-8f84-b60986d72487",
+      "title": "Mark Carney warns 'America has changed,' vows to match 50% tariffs on $20B of Canadian goods 'dollar for dollar'",
+      "link": "https://finance.yahoo.com/economy/policy/articles/mark-carney-warns-america-changed-193000615.html",
+      "publisher": "Moneywise",
+      "time": 1787427000,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "a4cb5384-dbdd-385e-85ea-cd336ebd5198",
-      "title": "Charlton deliver blow to 'under pressure' Hammers boss Nuno",
-      "link": "https://finance.yahoo.com/m/a4cb5384-dbdd-385e-85ea-cd336ebd5198/charlton-deliver-blow-to.html",
-      "publisher": "AFP",
-      "time": 1787425094,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "61dccfd3-ef54-3d15-b919-8665a929f303",
-      "title": "Amazon's Custom Chip Business Crossed a $25 Billion Run Rate: Time to Load Up on Shares?",
-      "link": "https://finance.yahoo.com/m/61dccfd3-ef54-3d15-b919-8665a929f303/amazon%27s-custom-chip-business.html",
+      "id": "352825e4-da16-3124-8995-10490f77488a",
+      "title": "My 3 Favorite High-Yield Dividend Stocks to Buy Right Now",
+      "link": "https://finance.yahoo.com/m/352825e4-da16-3124-8995-10490f77488a/my-3-favorite-high-yield.html",
       "publisher": "Motley Fool",
-      "time": 1787424780,
+      "time": 1787426520,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "f925edea-f19c-3369-933e-22933572eb8a",
+      "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-customers-notified-ai-related-192053530.html",
+      "publisher": "Reuters",
+      "time": 1787426453,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "728e2ba4-f209-3df6-977d-10d9de5c9507",
-      "title": "Warrant issued for Massachusetts officer's wife after his death",
-      "link": "https://finance.yahoo.com/m/728e2ba4-f209-3df6-977d-10d9de5c9507/warrant-issued-for.html",
-      "publisher": "USA TODAY",
-      "time": 1787424709,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
+      "id": "fe232e4c-a22f-3a55-90c4-058b29c8811f",
+      "title": "Readout - Prime Minister Carney chairs First Ministers' Meeting",
+      "link": "https://finance.yahoo.com/economy/policy/articles/readout-prime-minister-carney-chairs-191900503.html",
+      "publisher": "CNW Group",
+      "time": 1787426340,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "4abb323f-fd21-3fe0-8192-eff7e0cda26f",
-      "title": "Pardu Exclusive: HeyMann Dubois files $150M DJ Mag-Traxsource False AI Detection Federal Lawsuit, ‘Quid Pro Quo’ Allege",
-      "link": "https://finance.yahoo.com/media-advertising/articles/pardu-exclusive-heymann-dubois-files-185000295.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787424600,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
+      "id": "ccaa1eca-7570-38ed-90f3-6c77492d7caa",
+      "title": "Businesses, veterans organizations, urge lawmakers to regulate skill games before Oct. 13 deadline",
+      "link": "https://finance.yahoo.com/m/ccaa1eca-7570-38ed-90f3-6c77492d7caa/businesses%2C-veterans.html",
+      "publisher": "The Times-Leader (Wilkes-Barre, Pa.)",
+      "time": 1787426280,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "5352a221-b2b1-3ee5-a5a1-ec47f014f152",
-      "title": "Pardu Exclusive: HeyMann Dubois files DJ Mag-Traxsource False AI Detection Federal Lawsuit, ‘Quid Pro Quo’ Allege",
-      "link": "https://finance.yahoo.com/media-advertising/articles/pardu-exclusive-heymann-dubois-files-185000242.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787424600,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
+      "id": "0a40fb3d-1fb7-39f4-82f8-8489ff68f8ff",
+      "title": "Dozens of civilians killed, kidnapped as jihadists clash in Nigeria",
+      "link": "https://finance.yahoo.com/m/0a40fb3d-1fb7-39f4-82f8-8489ff68f8ff/dozens-of-civilians-killed%2C.html",
+      "publisher": "AFP",
+      "time": 1787426216,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "912862d6-68f8-37ec-a4a1-6fe7530a0793",
+      "title": "NEREUS™ Sponsored No. 47 IndyCar Ready for Historic Freedom 250 Grand Prix in Washington, D.C.",
+      "link": "https://finance.yahoo.com/healthcare/articles/nereus-sponsored-no-47-indycar-191600819.html",
+      "publisher": "PR Newswire",
+      "time": 1787426160,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
