@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T02:12:16.093360+00:00",
+  "updatedAt": "2026-08-22T03:13:16.478536+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -28,9 +28,9 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26136.56,
-      "change": 45.22999999999956,
-      "changePct": 0.17335260410258718,
+      "price": 26136.6,
+      "change": 45.2699999999968,
+      "changePct": 0.17350591173388555,
       "currency": "EUR"
     },
     {
@@ -52,70 +52,11 @@
   ],
   "news": [
     {
-      "id": "254e9eba-afdc-3abd-831c-e74adc417e18",
-      "title": "NHL sports ETF proposal hides major trap",
-      "link": "https://finance.yahoo.com/m/254e9eba-afdc-3abd-831c-e74adc417e18/nhl-sports-etf-proposal-hides.html",
-      "publisher": "TheStreet",
-      "time": 1787364180,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ddfd15c8-aa3f-30be-8dff-b72ea1f2ab2e",
-      "title": "Gonzaga guard Adam Miller signs professional contract with Belgian club Oostende",
-      "link": "https://finance.yahoo.com/m/ddfd15c8-aa3f-30be-8dff-b72ea1f2ab2e/gonzaga-guard-adam-miller.html",
-      "publisher": "The Spokesman-Review, Spokane, Wash.",
-      "time": 1787364120,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4adb1503-64f5-3dad-ab74-573e680156c9",
-      "title": "Valeura Energy Eyes Transformational Southeast Asia Deals as Thailand Output Set to Rise",
-      "link": "https://finance.yahoo.com/m/4adb1503-64f5-3dad-ab74-573e680156c9/valeura-energy-eyes.html",
-      "publisher": "MarketBeat",
-      "time": 1787364117,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "2800c3dc-701d-3bc6-892e-00a92b2540ce",
-      "title": "Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets",
-      "link": "https://finance.yahoo.com/m/2800c3dc-701d-3bc6-892e-00a92b2540ce/nakashima-pounds-fritz%2C.html",
-      "publisher": "AFP",
-      "time": 1787363857,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bf714b0f-3fda-3948-99dd-7993a8187b0f",
-      "title": "Anthropic’s Q2 Revenue Overtook OpenAI for the First Time – And Reached Its First Positive Operating Income",
-      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-q2-revenue-overtook-openai-015716271.html",
-      "publisher": "Forkast News",
-      "time": 1787363836,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "55330d07-c23d-3766-9149-d7280a820318",
-      "title": "U.S., Iran trade warnings as new sanctions loom and Hormuz oil flows stall",
-      "link": "https://finance.yahoo.com/m/55330d07-c23d-3766-9149-d7280a820318/u.s.%2C-iran-trade-warnings-as.html",
-      "publisher": "Investing.com",
-      "time": 1787363470,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "f4cccf3b-70f9-3e3b-9eed-e5341c51d1f9",
-      "title": "Troubled Mexican restaurant chain files Chapter 11 bankruptcy",
-      "link": "https://finance.yahoo.com/m/f4cccf3b-70f9-3e3b-9eed-e5341c51d1f9/troubled-mexican-restaurant.html",
-      "publisher": "TheStreet",
-      "time": 1787363220,
+      "id": "c7c369b2-1e84-334a-ad3c-e0383a35691f",
+      "title": "Horizon Kinetics Holding Corp (HKHC) (Q2 2026) Earnings Call Highlights: Navigating Market ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/horizon-kinetics-holding-corp-hkhc-030156359.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787367716,
       "impact": "medium",
       "tags": [
         "macro",
@@ -123,29 +64,94 @@
       ]
     },
     {
-      "id": "31d2d346-b478-3016-b811-53b148f2c0e4",
-      "title": "Micron Committed $10 Billion Over 10 Years to a Research Lab That Breaks Ground in 2027",
-      "link": "https://finance.yahoo.com/m/31d2d346-b478-3016-b811-53b148f2c0e4/micron-committed-%2410-billion.html",
-      "publisher": "Motley Fool",
-      "time": 1787362681,
+      "id": "f5c585e2-9097-3304-ac33-0be43c14aaeb",
+      "title": "Spartan Delta Targets Duvernay Growth as Deep Basin Fuels Cash Flow",
+      "link": "https://finance.yahoo.com/m/f5c585e2-9097-3304-ac33-0be43c14aaeb/spartan-delta-targets.html",
+      "publisher": "MarketBeat",
+      "time": 1787367715,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "0eb5944e-974b-3883-9255-c4050a0541ff",
+      "title": "Ulker Biskuvi Sanayi AS (UELKY) (Q2 2026) Earnings Call Highlights: Net Income Surges 45. ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ulker-biskuvi-sanayi-uelky-q2-030151071.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787367711,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a705c504-4730-3d87-b103-c0fc66435ac2",
+      "title": "ES Group AB (OSTO:ESGR B) (Q2 2026) Earnings Call Highlights: Revenue Surges 30% but Seasonal ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/es-group-ab-osto-esgr-030131610.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787367691,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "21ec43a5-fbf5-341a-8f23-ddc8bf20e4e0",
+      "title": "Castelion raises $1 billion, aiming to ‘drive up’ missile production at Rio Rancho site",
+      "link": "https://finance.yahoo.com/m/21ec43a5-fbf5-341a-8f23-ddc8bf20e4e0/castelion-raises-%241-billion%2C.html",
+      "publisher": "Albuquerque Journal, N.M.",
+      "time": 1787367660,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c7b914e8-178b-317b-8e2e-12411a7b29dc",
-      "title": "Delta cuts two more routes, and the reason makes sense",
-      "link": "https://finance.yahoo.com/m/c7b914e8-178b-317b-8e2e-12411a7b29dc/delta-cuts-two-more-routes%2C.html",
-      "publisher": "TheStreet",
-      "time": 1787362620,
+      "id": "bd3cdff2-3748-307b-a338-009654ff4d1a",
+      "title": "Vanta Announces Closing of First Tranche of Private Placement and Board of Directors Update",
+      "link": "https://finance.yahoo.com/healthcare/articles/vanta-announces-closing-first-tranche-025500698.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787367300,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "85740b07-3a69-34ec-ac0c-2fe3c1e2d13a",
-      "title": "The Baja Is Back: A Race Against Blindness Offers One Final Chance to Win $350,000 Adventure Truck Prize",
-      "link": "https://finance.yahoo.com/healthcare/articles/baja-back-race-against-blindness-013200482.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787362320,
+      "id": "05a94494-8139-3bde-b4eb-e21c6ed7d761",
+      "title": "Odyssey effect: stars sell Greece to a new wave of US tourists",
+      "link": "https://finance.yahoo.com/m/05a94494-8139-3bde-b4eb-e21c6ed7d761/odyssey-effect%3A-stars-sell.html",
+      "publisher": "AFP",
+      "time": 1787367244,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5c287a8b-d653-336b-a2ef-9e205dd9a7a2",
+      "title": "Arctic shipping a daunting prospect in hotly contested region",
+      "link": "https://finance.yahoo.com/m/5c287a8b-d653-336b-a2ef-9e205dd9a7a2/arctic-shipping-a-daunting.html",
+      "publisher": "AFP",
+      "time": 1787366742,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4f7bfde2-b5e0-3adf-885c-d9ebab3e49a2",
+      "title": "Brazil's Lula urges tariffs resolution in call with Trump",
+      "link": "https://finance.yahoo.com/m/4f7bfde2-b5e0-3adf-885c-d9ebab3e49a2/brazil%27s-lula-urges-tariffs.html",
+      "publisher": "AFP",
+      "time": 1787366722,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "e0dd026f-3246-36f9-9594-c1ef8d1217c6",
+      "title": "South Korea to send first container ship through Arctic route",
+      "link": "https://finance.yahoo.com/m/e0dd026f-3246-36f9-9594-c1ef8d1217c6/south-korea-to-send-first.html",
+      "publisher": "AFP",
+      "time": 1787366687,
       "impact": "low",
       "tags": []
     }
