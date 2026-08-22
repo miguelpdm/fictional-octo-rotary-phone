@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T05:28:53.980456+00:00",
+  "updatedAt": "2026-08-22T05:54:15.686408+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,6 +52,50 @@
   ],
   "news": [
     {
+      "id": "bdae759d-9d5a-363c-8469-2a40771439b2",
+      "title": "From science fair to strategic showcase: a decade of China’s robot games",
+      "link": "https://finance.yahoo.com/technology/ai/articles/science-fair-strategic-showcase-decade-053446530.html",
+      "publisher": "Reuters",
+      "time": 1787376886,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "196d1032-da5a-3240-898b-b654b66c5866",
+      "title": "US hits Canadian goods with 50% tariffs after trade talks fail",
+      "link": "https://finance.yahoo.com/news/us-canadian-trade-teams-meet-132427534.html",
+      "publisher": "Reuters",
+      "time": 1787376505,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "5db3d878-dec3-3229-ba5c-22eafc93c482",
+      "title": "SuperiorMed Holdings Limited Announces Entering into an Agreement and Plan of Merger with Starry Sea Acquisition Corp",
+      "link": "https://finance.yahoo.com/healthcare/articles/superiormed-holdings-limited-announces-entering-052400962.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787376240,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "3da05092-c322-3271-adff-3cd517f578b4",
+      "title": "AMD Investors Must Be Ready For Major News On Aug. 26",
+      "link": "https://finance.yahoo.com/m/3da05092-c322-3271-adff-3cd517f578b4/amd-investors-must-be-ready.html",
+      "publisher": "Motley Fool",
+      "time": 1787376000,
+      "impact": "low",
+      "tags": []
+    },
+    {
       "id": "ea0f1945-7a41-386d-919d-c6877f02474d",
       "title": "'Aura' battles leap from social media to Latin America streets",
       "link": "https://finance.yahoo.com/m/ea0f1945-7a41-386d-919d-c6877f02474d/%27aura%27-battles-leap-from.html",
@@ -82,70 +126,29 @@
       "tags": []
     },
     {
-      "id": "c552a236-ba4d-3597-951b-08a37294c6f1",
-      "title": "GenZone Launches Unified Platform for Managing UAE and U.S. Company Formation in a Single Account",
-      "link": "https://finance.yahoo.com/small-business/articles/genzone-launches-unified-platform-managing-050500465.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787375100,
+      "id": "ec82016b-728f-3d9b-b8e9-5bd11b757c99",
+      "title": "Domino's Pizza (DPZ) Launches The Domino As Valuation Views Split",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dominos-pizza-dpz-launches-domino-050922865.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787375362,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "658b4cb7-8b99-32f4-9b21-93ab310eb083",
-      "title": "Hour9 Launches AI Automation Agency with Process-First Approach, Challenging Assumption That Businesses Should Maximize AI Integration",
-      "link": "https://finance.yahoo.com/technology/ai/articles/hour9-launches-ai-automation-agency-050300731.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787374980,
+      "id": "14c4a772-682e-3426-a597-61c2061a47bc",
+      "title": "What Is Driving Cleveland-Cliffs (CLF) Higher Today?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/driving-cleveland-cliffs-clf-higher-050916620.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787375356,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d2d6573a-9e23-3a4d-a874-16880ce4f026",
-      "title": "OceanaGold to Buy Ausgold for $549M, Adding Katanning Gold Project",
-      "link": "https://finance.yahoo.com/m/d2d6573a-9e23-3a4d-a874-16880ce4f026/oceanagold-to-buy-ausgold-for.html",
-      "publisher": "MarketBeat",
-      "time": 1787374912,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "930ef5dd-80bf-3bbd-be45-b711969e4a91",
-      "title": "Five charts explaining America’s $40 trillion debt",
-      "link": "https://finance.yahoo.com/m/930ef5dd-80bf-3bbd-be45-b711969e4a91/five-charts-explaining.html",
-      "publisher": "Euronews",
-      "time": 1787374842,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bee288f2-f7a3-39f7-9077-79293c4f153a",
-      "title": "This 401(k) Move Could Cost Retirees Up to $487 a Month for a Year",
-      "link": "https://finance.yahoo.com/m/bee288f2-f7a3-39f7-9077-79293c4f153a/this-401%28k%29-move-could-cost.html",
-      "publisher": "Motley Fool",
-      "time": 1787374200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "dcf06d4b-7d3f-37a8-a1e7-ea0fe6448b21",
-      "title": "U.S. tariffs on Canada take effect after trade talks collapse",
-      "link": "https://finance.yahoo.com/economy/policy/articles/u-tariffs-canada-effect-trade-044529561.html",
-      "publisher": "Investing.com",
-      "time": 1787373929,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "b5a34e83-c6c3-3591-8618-607938b43785",
-      "title": "MM-ARTech+ Residency Program Officially Launches in Shanghai",
-      "link": "https://finance.yahoo.com/media-advertising/articles/mm-artech-residency-program-officially-044500053.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787373900,
+      "id": "ad2a388a-bbd1-391c-a885-d25ce4a80aef",
+      "title": "Airbnb (ABNB) Turns AI Customer Service Into A Bigger Travel App Bet",
+      "link": "https://finance.yahoo.com/technology/ai/articles/airbnb-abnb-turns-ai-customer-050857903.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787375337,
       "impact": "low",
       "tags": []
     }
