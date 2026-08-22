@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T19:44:06.380378+00:00",
+  "updatedAt": "2026-08-22T20:14:57.963608+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,41 +52,40 @@
   ],
   "news": [
     {
-      "id": "c6f7bfa5-8881-33dd-b506-5d934fff7895",
-      "title": "How a 56-Year-Old Turned a $735,000 401(k) Rollover Into a $4,300 Monthly Paycheck Without Buying an Annuity",
-      "link": "https://finance.yahoo.com/m/c6f7bfa5-8881-33dd-b506-5d934fff7895/how-a-56-year-old-turned-a.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787427495,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "36ffddb3-4a30-37c8-8ea0-56494a76b2c5",
-      "title": "Spurs lacked fight in dismal defeat at Brentford says De Zerbi",
-      "link": "https://finance.yahoo.com/m/36ffddb3-4a30-37c8-8ea0-56494a76b2c5/spurs-lacked-fight-in-dismal.html",
+      "id": "a2e65c06-38d7-34a8-b319-bb5498890483",
+      "title": "Fils dominates Cobolli to book Cincinnati final",
+      "link": "https://finance.yahoo.com/m/a2e65c06-38d7-34a8-b319-bb5498890483/fils-dominates-cobolli-to.html",
       "publisher": "AFP",
-      "time": 1787427384,
+      "time": 1787429213,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b4c9c1ff-32c6-3ded-abb9-234642b0c2c1",
-      "title": "Can This 6.3% Yield Survive if Oil Crashes Again?",
-      "link": "https://finance.yahoo.com/m/b4c9c1ff-32c6-3ded-abb9-234642b0c2c1/can-this-6.3%25-yield-survive.html",
+      "id": "8b460969-5992-3564-8f04-b6aebd2f0426",
+      "title": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
+      "link": "https://finance.yahoo.com/m/8b460969-5992-3564-8f04-b6aebd2f0426/billionaire-stanley.html",
       "publisher": "Motley Fool",
-      "time": 1787427301,
-      "impact": "medium",
+      "time": 1787429040,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "3e7a8457-d0ed-3a1c-8f84-b60986d72487",
-      "title": "Mark Carney warns 'America has changed,' vows to match 50% tariffs on $20B of Canadian goods 'dollar for dollar'",
-      "link": "https://finance.yahoo.com/economy/policy/articles/mark-carney-warns-america-changed-193000615.html",
-      "publisher": "Moneywise",
-      "time": 1787427000,
+      "id": "68d125b6-d27e-3647-a198-095265a32b22",
+      "title": "Macy's $850 2-carat pendant necklace is 71% off in 5 colors",
+      "link": "https://finance.yahoo.com/m/68d125b6-d27e-3647-a198-095265a32b22/macy%27s-%24850-2-carat-pendant.html",
+      "publisher": "TheStreet",
+      "time": 1787428980,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "352938f8-fbff-37dc-956b-50cd8eb6c301",
+      "title": "Canada to impose retaliatory tariffs on US steel, electronics, other products, Carney says",
+      "link": "https://finance.yahoo.com/news/carney-says-canadian-tariffs-us-153928985.html",
+      "publisher": "Reuters",
+      "time": 1787428941,
       "impact": "high",
       "tags": [
         "geo",
@@ -94,58 +93,56 @@
       ]
     },
     {
-      "id": "352825e4-da16-3124-8995-10490f77488a",
-      "title": "My 3 Favorite High-Yield Dividend Stocks to Buy Right Now",
-      "link": "https://finance.yahoo.com/m/352825e4-da16-3124-8995-10490f77488a/my-3-favorite-high-yield.html",
+      "id": "c8fb158e-f4c0-3e28-9598-12b7006e6ca5",
+      "title": "HHS launches alert initiative for missing autistic people",
+      "link": "https://finance.yahoo.com/m/c8fb158e-f4c0-3e28-9598-12b7006e6ca5/hhs-launches-alert-initiative.html",
+      "publisher": "USA TODAY",
+      "time": 1787428897,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "330fa28f-1520-3bee-854b-235d09a90879",
+      "title": "FIA Celebrates Over Ninety Years of Supporting Motor Sport in the United States at the INDYCAR Freedom 250 Grand Prix of Washington D.C.",
+      "link": "https://finance.yahoo.com/media-advertising/articles/fia-celebrates-over-ninety-years-200000009.html",
+      "publisher": "Business Wire",
+      "time": 1787428800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f50a0269-5141-3ca6-9cb7-dc158ed9b69e",
+      "title": "Apple vs. Meta Platforms: Which \"Magnificent Seven\" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine?",
+      "link": "https://finance.yahoo.com/m/f50a0269-5141-3ca6-9cb7-dc158ed9b69e/apple-vs.-meta-platforms%3A.html",
       "publisher": "Motley Fool",
-      "time": 1787426520,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "f925edea-f19c-3369-933e-22933572eb8a",
-      "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-customers-notified-ai-related-192053530.html",
-      "publisher": "Reuters",
-      "time": 1787426453,
+      "time": 1787428740,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "fe232e4c-a22f-3a55-90c4-058b29c8811f",
-      "title": "Readout - Prime Minister Carney chairs First Ministers' Meeting",
-      "link": "https://finance.yahoo.com/economy/policy/articles/readout-prime-minister-carney-chairs-191900503.html",
-      "publisher": "CNW Group",
-      "time": 1787426340,
+      "id": "6e43458e-08ae-3dd8-97b2-67d3a8f1df85",
+      "title": "Is Alphabet’s Search Risk Really Priced In? Stress-Testing Rosenblatt’s $410 Thesis",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-search-risk-really-priced-195602365.html",
+      "publisher": "Insider Monkey",
+      "time": 1787428562,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ccaa1eca-7570-38ed-90f3-6c77492d7caa",
-      "title": "Businesses, veterans organizations, urge lawmakers to regulate skill games before Oct. 13 deadline",
-      "link": "https://finance.yahoo.com/m/ccaa1eca-7570-38ed-90f3-6c77492d7caa/businesses%2C-veterans.html",
-      "publisher": "The Times-Leader (Wilkes-Barre, Pa.)",
-      "time": 1787426280,
+      "id": "dc9ca545-bb05-35a1-8c77-893ffc26c8a1",
+      "title": "Does Greg Abel Know Something Wall Street Doesn't? New Berkshire Hathaway CEO Doubles Down On a Legacy Department Store Stock With a 3.3% Dividend Yield",
+      "link": "https://finance.yahoo.com/m/dc9ca545-bb05-35a1-8c77-893ffc26c8a1/does-greg-abel-know-something.html",
+      "publisher": "Motley Fool",
+      "time": 1787428380,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0a40fb3d-1fb7-39f4-82f8-8489ff68f8ff",
-      "title": "Dozens of civilians killed, kidnapped as jihadists clash in Nigeria",
-      "link": "https://finance.yahoo.com/m/0a40fb3d-1fb7-39f4-82f8-8489ff68f8ff/dozens-of-civilians-killed%2C.html",
-      "publisher": "AFP",
-      "time": 1787426216,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "912862d6-68f8-37ec-a4a1-6fe7530a0793",
-      "title": "NEREUS™ Sponsored No. 47 IndyCar Ready for Historic Freedom 250 Grand Prix in Washington, D.C.",
-      "link": "https://finance.yahoo.com/healthcare/articles/nereus-sponsored-no-47-indycar-191600819.html",
-      "publisher": "PR Newswire",
-      "time": 1787426160,
+      "id": "075dc88c-d4df-359f-a718-34b881492038",
+      "title": "Watershed Roofing Inc. Expands Roofing and Exterior Services Across British Columbia",
+      "link": "https://finance.yahoo.com/small-business/articles/watershed-roofing-inc-expands-roofing-194900264.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787428140,
       "impact": "low",
       "tags": []
     }
