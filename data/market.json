@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T18:55:57.845826+00:00",
+  "updatedAt": "2026-08-22T19:19:23.128068+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -28,9 +28,9 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26136.56,
-      "change": 45.22999999999956,
-      "changePct": 0.17335260410258718,
+      "price": 26136.6,
+      "change": 45.2699999999968,
+      "changePct": 0.17350591173388555,
       "currency": "EUR"
     },
     {
@@ -52,38 +52,38 @@
   ],
   "news": [
     {
-      "id": "1eedb773-693b-3a1d-bb28-186c5136eace",
-      "title": "Rillet Raised $100M to Put AI Agents Inside the General Ledger – Not Around It",
-      "link": "https://finance.yahoo.com/technology/ai/articles/rillet-raised-100m-put-ai-184646510.html",
-      "publisher": "Forkast News",
-      "time": 1787424406,
+      "id": "3ce85e45-8d9a-3781-8f47-05fc7f8b3388",
+      "title": "Walmart has multi-use emergency thermal blankets for just $6 apiece",
+      "link": "https://finance.yahoo.com/m/3ce85e45-8d9a-3781-8f47-05fc7f8b3388/walmart-has-multi-use.html",
+      "publisher": "TheStreet",
+      "time": 1787426100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b488d09a-effe-3834-ad8d-122ecb494bbf",
-      "title": "Inter thrash Monza to launch Serie A title defence",
-      "link": "https://finance.yahoo.com/m/b488d09a-effe-3834-ad8d-122ecb494bbf/inter-thrash-monza-to-launch.html",
-      "publisher": "AFP",
-      "time": 1787424225,
+      "id": "fb201d16-9d14-3b13-9b2c-7c727fcdd4a5",
+      "title": "Marvell investors must carefully consider latest Google deal",
+      "link": "https://finance.yahoo.com/m/fb201d16-9d14-3b13-9b2c-7c727fcdd4a5/marvell-investors-must.html",
+      "publisher": "TheStreet",
+      "time": 1787425980,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3aab0641-e7e6-3b44-bbc3-64d8cc56a018",
-      "title": "The Real Cost of Retiring in Palm Springs, California, on Social Security and a Small Pension",
-      "link": "https://finance.yahoo.com/m/3aab0641-e7e6-3b44-bbc3-64d8cc56a018/the-real-cost-of-retiring-in.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787424171,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f66d1d2c-64c9-3871-9123-586e80f8e74c",
-      "title": "Executive Sells $164,000 Worth of Regional Bank Stock, Which Rallied 29% Over Last Year",
-      "link": "https://finance.yahoo.com/m/f66d1d2c-64c9-3871-9123-586e80f8e74c/executive-sells-%24164%2C000.html",
+      "id": "ee376f9f-b200-33b7-a5a4-499f1b2657d3",
+      "title": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a No-Brainer Buy",
+      "link": "https://finance.yahoo.com/m/ee376f9f-b200-33b7-a5a4-499f1b2657d3/tsmc%27s-%24100-billion-arizona.html",
       "publisher": "Motley Fool",
-      "time": 1787424001,
+      "time": 1787425500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5ad77136-11da-3ac1-92a1-75fe9c1f5117",
+      "title": "Want $10,000 a Year on $100K? The Private-Credit Funds Banks Can’t Compete With Pay 10%+",
+      "link": "https://finance.yahoo.com/m/5ad77136-11da-3ac1-92a1-75fe9c1f5117/want-%2410%2C000-a-year-on-%24100k%3F.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787425261,
       "impact": "medium",
       "tags": [
         "macro",
@@ -91,58 +91,67 @@
       ]
     },
     {
-      "id": "9851257d-7385-3645-acde-27d2a2ca5bae",
-      "title": "Carrick keeps calm despite Man Utd misery, big-spending Spurs crushed",
-      "link": "https://finance.yahoo.com/m/9851257d-7385-3645-acde-27d2a2ca5bae/carrick-keeps-calm-despite.html",
+      "id": "06613ce7-5626-33b0-b61e-389832704744",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "link": "https://finance.yahoo.com/m/06613ce7-5626-33b0-b61e-389832704744/inherent%2C-founded-by-deepmind.html",
+      "publisher": "TechCrunch",
+      "time": 1787425200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a4cb5384-dbdd-385e-85ea-cd336ebd5198",
+      "title": "Charlton deliver blow to 'under pressure' Hammers boss Nuno",
+      "link": "https://finance.yahoo.com/m/a4cb5384-dbdd-385e-85ea-cd336ebd5198/charlton-deliver-blow-to.html",
       "publisher": "AFP",
-      "time": 1787423873,
+      "time": 1787425094,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bb3e1e0f-be49-389c-91d9-f6ad3d39834c",
-      "title": "Here's How Many Shares of Target You'd Need for $10,000 in Yearly Dividends",
-      "link": "https://finance.yahoo.com/m/bb3e1e0f-be49-389c-91d9-f6ad3d39834c/here%27s-how-many-shares-of.html",
+      "id": "61dccfd3-ef54-3d15-b919-8665a929f303",
+      "title": "Amazon's Custom Chip Business Crossed a $25 Billion Run Rate: Time to Load Up on Shares?",
+      "link": "https://finance.yahoo.com/m/61dccfd3-ef54-3d15-b919-8665a929f303/amazon%27s-custom-chip-business.html",
       "publisher": "Motley Fool",
-      "time": 1787423820,
+      "time": 1787424780,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7c685de6-d852-34f3-870d-36fbb6515e55",
-      "title": "She Harvested a $40,000 Stock Gain at the 0% Rate. It Still Made 85% of Her Social Security Taxable.",
-      "link": "https://finance.yahoo.com/m/7c685de6-d852-34f3-870d-36fbb6515e55/she-harvested-a-%2440%2C000-stock.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787423750,
-      "impact": "low",
-      "tags": []
+      "id": "728e2ba4-f209-3df6-977d-10d9de5c9507",
+      "title": "Warrant issued for Massachusetts officer's wife after his death",
+      "link": "https://finance.yahoo.com/m/728e2ba4-f209-3df6-977d-10d9de5c9507/warrant-issued-for.html",
+      "publisher": "USA TODAY",
+      "time": 1787424709,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "fb388085-745c-3e6a-ad44-487d0b3a3b64",
-      "title": "Data Centers Don't Just Need Power -- They Need Cooling. Trane and Carrier Sell It.",
-      "link": "https://finance.yahoo.com/m/fb388085-745c-3e6a-ad44-487d0b3a3b64/data-centers-don%27t-just-need.html",
-      "publisher": "Motley Fool",
-      "time": 1787423700,
-      "impact": "low",
-      "tags": []
+      "id": "4abb323f-fd21-3fe0-8192-eff7e0cda26f",
+      "title": "Pardu Exclusive: HeyMann Dubois files $150M DJ Mag-Traxsource False AI Detection Federal Lawsuit, ‘Quid Pro Quo’ Allege",
+      "link": "https://finance.yahoo.com/media-advertising/articles/pardu-exclusive-heymann-dubois-files-185000295.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787424600,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "273e561e-bd31-342c-9a4c-dce60fabcff4",
-      "title": "I've Held Microsoft for 10 Years. Here's Why I'm Not Selling a Single Share.",
-      "link": "https://finance.yahoo.com/m/273e561e-bd31-342c-9a4c-dce60fabcff4/i%27ve-held-microsoft-for-10.html",
-      "publisher": "Motley Fool",
-      "time": 1787423580,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f529fb2e-6820-3581-aa34-b650dc2d6db3",
-      "title": "Bill Gates makes $180 million bet on backbone of America's economy",
-      "link": "https://finance.yahoo.com/m/f529fb2e-6820-3581-aa34-b650dc2d6db3/bill-gates-makes-%24180-million.html",
-      "publisher": "TheStreet",
-      "time": 1787423580,
-      "impact": "low",
-      "tags": []
+      "id": "5352a221-b2b1-3ee5-a5a1-ec47f014f152",
+      "title": "Pardu Exclusive: HeyMann Dubois files DJ Mag-Traxsource False AI Detection Federal Lawsuit, ‘Quid Pro Quo’ Allege",
+      "link": "https://finance.yahoo.com/media-advertising/articles/pardu-exclusive-heymann-dubois-files-185000242.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787424600,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     }
   ],
   "errors": {
