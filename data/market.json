@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T10:47:14.940395+00:00",
+  "updatedAt": "2026-08-22T11:14:46.947747+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -28,9 +28,9 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26136.56,
-      "change": 45.22999999999956,
-      "changePct": 0.17335260410258718,
+      "price": 26136.6,
+      "change": 45.2699999999968,
+      "changePct": 0.17350591173388555,
       "currency": "EUR"
     },
     {
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,97 +52,107 @@
   ],
   "news": [
     {
-      "id": "03799fad-4f07-3edc-8cb5-8b956d7cd617",
-      "title": "Why Trump is making separatism less appealing in Quebec",
-      "link": "https://finance.yahoo.com/video/why-trump-making-separatism-less-103008903.html",
-      "publisher": "Reuters Videos",
-      "time": 1787394608,
+      "id": "07faf057-f17b-3f7d-8cb2-aaa7f360742e",
+      "title": "Ukraine strikes kill two children after Russia's deadly mall attack",
+      "link": "https://finance.yahoo.com/m/07faf057-f17b-3f7d-8cb2-aaa7f360742e/ukraine-strikes-kill-two.html",
+      "publisher": "AFP",
+      "time": 1787396604,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6f222a0f-f4d0-3fc5-a8a6-47d495a6dc82",
-      "title": "The Uplift: The Shatners",
-      "link": "https://finance.yahoo.com/m/6f222a0f-f4d0-3fc5-a8a6-47d495a6dc82/the-uplift%3A-the-shatners.html",
-      "publisher": "CBS News Videos",
-      "time": 1787394600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bbc66824-f85d-32f9-81a9-eefe53e78d03",
-      "title": "My partner won't move in — wants me to sell my house so we can buy one together. Am I being unreasonable for saying no?",
-      "link": "https://finance.yahoo.com/real-estate/articles/partner-wont-move-wants-sell-103000243.html",
-      "publisher": "Moneywise",
-      "time": 1787394600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e4bd24ba-3651-3c0e-a64e-2c0179bbb556",
-      "title": "Elon Musk Owns 48.4% of SpaceX, a New Filing Shows. Here's Why That Matters for Everyone Else Holding the Stock.",
-      "link": "https://finance.yahoo.com/m/e4bd24ba-3651-3c0e-a64e-2c0179bbb556/elon-musk-owns-48.4%25-of.html",
+      "id": "45ce5ff0-9f39-32ff-8c4f-d9ad501c3f8e",
+      "title": "Tempus AI's CEO Sold $6.6 Million in Stock the Day Before a Huge Rally. Here's What to Know",
+      "link": "https://finance.yahoo.com/m/45ce5ff0-9f39-32ff-8c4f-d9ad501c3f8e/tempus-ai%27s-ceo-sold-%246.6.html",
       "publisher": "Motley Fool",
-      "time": 1787394600,
+      "time": 1787396599,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cefaf0ef-1894-38af-9dee-19a709269ea3",
-      "title": "CVE-2026-76404: The MCP Security Wave Reaches Enterprise Infrastructure",
-      "link": "https://finance.yahoo.com/m/cefaf0ef-1894-38af-9dee-19a709269ea3/cve-2026-76404%3A-the-mcp.html",
-      "publisher": "Forkast News",
-      "time": 1787394547,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "99eb618b-5140-3e95-bd0f-d3e08e1a2d77",
-      "title": "JWX Launches JWX Content Hub, the Industry’s First Unified Platform for the Post-Search Era",
-      "link": "https://finance.yahoo.com/media-advertising/articles/jwx-launches-jwx-content-hub-102900711.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787394540,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "38e59e4b-9f64-36ef-a8ac-cdacf374847a",
-      "title": "Report on transactions with ALK-Abelló A/S B shares and associated securities by managerial staff",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/report-transactions-alk-abell-b-102400930.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787394240,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1721acee-85bc-3c19-b468-8787acd5282d",
-      "title": "Bitcoin holds above $77,000 after Treasury-fuelled short squeeze",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-above-77-000-102207861.html",
-      "publisher": "Investing.com",
-      "time": 1787394127,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cbacc9a9-b9e5-379e-bd5f-4e89d3cdecc4",
-      "title": "This Dividend ETF Won't Let a Stock In Unless It Passes 2 Strict Tests. Here's Why That Matters.",
-      "link": "https://finance.yahoo.com/m/cbacc9a9-b9e5-379e-bd5f-4e89d3cdecc4/this-dividend-etf-won%27t-let-a.html",
-      "publisher": "Motley Fool",
-      "time": 1787394000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a828a286-0d90-354c-80ed-48958bd9f31e",
-      "title": "No. 9/2026 - CeMat A/S raises its financial guidance for 2026",
-      "link": "https://finance.yahoo.com/real-estate/articles/no-9-2026-cemat-raises-101300830.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787393580,
+      "id": "06934b4b-3aaf-3c36-a22b-1a847d1a9bad",
+      "title": "WAM Microcap Ltd (ASX:WMI) (FY 2026) Earnings Call Highlights: Strong NTA Growth and Strategic ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wam-microcap-ltd-asx-wmi-110242917.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787396562,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
+    },
+    {
+      "id": "c3d6ad6c-5bb8-37b2-9282-332736d72399",
+      "title": "NowVertical Group Inc (NOWVF) (Q2 2026) Earnings Call Highlights: Revenue Surges 18% and ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nowvertical-group-inc-nowvf-q2-110227401.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787396547,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "050f6b85-04bb-359c-a1d8-4c3cd7d27eff",
+      "title": "Eikon Therapeutics Eyes Safer PARP1 Cancer Treatments With EIK1003, EIK1004",
+      "link": "https://finance.yahoo.com/m/050f6b85-04bb-359c-a1d8-4c3cd7d27eff/eikon-therapeutics-eyes-safer.html",
+      "publisher": "MarketBeat",
+      "time": 1787396516,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "239ae9a0-7e34-3e2d-84bf-bde0bb19cffc",
+      "title": "Airbnb Just Hit a Four-Year High. The Downgrade Says That’s the Problem.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-just-hit-four-high-110129364.html",
+      "publisher": "Insider Monkey",
+      "time": 1787396489,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8dca565d-5226-30d7-a670-441cbe816603",
+      "title": "5 Monthly Dividend Payers to Own Heading Into September",
+      "link": "https://finance.yahoo.com/m/8dca565d-5226-30d7-a670-441cbe816603/5-monthly-dividend-payers-to.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787396434,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "13749844-e217-35f9-9908-274e41e7ef5f",
+      "title": "3 Semiconductor Stocks to Buy Before August Ends",
+      "link": "https://finance.yahoo.com/m/13749844-e217-35f9-9908-274e41e7ef5f/3-semiconductor-stocks-to-buy.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787396433,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9da55a43-8879-3126-af43-67b5cb823c54",
+      "title": "3 AI Stocks Built for the Next Decade",
+      "link": "https://finance.yahoo.com/m/9da55a43-8879-3126-af43-67b5cb823c54/3-ai-stocks-built-for-the.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787396430,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "36b64226-1a7f-3c75-bac4-9fcd92f4a95f",
+      "title": "Mark Zuckerberg buys a castle in Ireland — the dining room is a 'brisk walk of four and a half minutes' to the kitchen",
+      "link": "https://finance.yahoo.com/real-estate/articles/mark-zuckerberg-buys-castle-ireland-110000455.html",
+      "publisher": "Moneywise",
+      "time": 1787396400,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
