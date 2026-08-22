@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T14:45:29.576947+00:00",
+  "updatedAt": "2026-08-22T15:13:41.104948+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -28,9 +28,9 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26136.56,
-      "change": 45.22999999999956,
-      "changePct": 0.17335260410258718,
+      "price": 26136.6,
+      "change": 45.2699999999968,
+      "changePct": 0.17350591173388555,
       "currency": "EUR"
     },
     {
@@ -52,20 +52,11 @@
   ],
   "news": [
     {
-      "id": "c87da0e8-2e78-38ae-8666-163eddcf998f",
-      "title": "New to The Street Broadcasts Today Across Bloomberg Television U.S., Latin America and MENA at 6:30 PM ET",
-      "link": "https://finance.yahoo.com/technology/ai/articles/street-broadcasts-today-across-bloomberg-144000327.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787409600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c57737f8-0f02-37a4-b53a-f4d5108b6b6e",
-      "title": "U.S.-Canada trade talks collapse, triggering 50% tariffs",
-      "link": "https://finance.yahoo.com/m/c57737f8-0f02-37a4-b53a-f4d5108b6b6e/u.s.-canada-trade-talks.html",
-      "publisher": "Quartz",
-      "time": 1787409486,
+      "id": "ac2668b0-0ee8-3d0b-883f-869e95be3dfc",
+      "title": "A trade war between Canada and the US deepens rupture in what had been a close and durable alliance",
+      "link": "https://finance.yahoo.com/m/ac2668b0-0ee8-3d0b-883f-869e95be3dfc/a-trade-war-between-canada.html",
+      "publisher": "Associated Press",
+      "time": 1787411235,
       "impact": "high",
       "tags": [
         "geo",
@@ -73,82 +64,93 @@
       ]
     },
     {
-      "id": "33e853ef-6a53-32fb-8fc6-b25ecb03a208",
-      "title": "Macron pledges air defence as 13 killed in Russia, Ukraine strikes",
-      "link": "https://finance.yahoo.com/m/33e853ef-6a53-32fb-8fc6-b25ecb03a208/macron-pledges-air-defence-as.html",
-      "publisher": "AFP",
-      "time": 1787409365,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "08ee1c25-1fc4-3ba8-a880-5daf56b0457e",
-      "title": "Japan's leader Takaichi explains why she spends long hours in seclusion at her official residence",
-      "link": "https://finance.yahoo.com/m/08ee1c25-1fc4-3ba8-a880-5daf56b0457e/japan%27s-leader-takaichi.html",
-      "publisher": "Associated Press",
-      "time": 1787409150,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e3eaef6a-5b9c-3ab8-ad3f-0648eda2dd88",
-      "title": "She Loaded 20,000 Popsicles Onto a Truck. Social Security Said She Hadn’t Sold One.",
-      "link": "https://finance.yahoo.com/m/e3eaef6a-5b9c-3ab8-ad3f-0648eda2dd88/she-loaded-20%2C000-popsicles.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787409039,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "efcf8794-e123-3932-939b-ad68a468fcf1",
-      "title": "Target Stock Has Been Crushed. Here’s Why I’m Not Giving Up on It.",
-      "link": "https://finance.yahoo.com/m/efcf8794-e123-3932-939b-ad68a468fcf1/target-stock-has-been.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787409011,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "be312690-cbac-3c6f-9e60-cac75ab52a0f",
-      "title": "AI jobs advertise $177,000 salaries — more than double non-AI roles — yet women land just 26% of hires",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-jobs-advertise-177-000-143000655.html",
-      "publisher": "Moneywise",
-      "time": 1787409000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cfa525fb-22ad-313d-9573-09b349ad7fe5",
-      "title": "130/80: The Magic Number That Could Add Years to Your Life",
-      "link": "https://finance.yahoo.com/m/cfa525fb-22ad-313d-9573-09b349ad7fe5/130%2F80%3A-the-magic-number-that.html",
+      "id": "9e0a09c5-97b2-36dc-9189-682363a4eb46",
+      "title": "Warren Buffett sends investors 10-word stock market warning",
+      "link": "https://finance.yahoo.com/m/9e0a09c5-97b2-36dc-9189-682363a4eb46/warren-buffett-sends.html",
       "publisher": "TheStreet",
-      "time": 1787409000,
+      "time": 1787411220,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "be302d93-2946-3afd-aa70-100d791fd518",
+      "title": "When he dies, Warren Buffett wants 90% of wife’s inheritance put into 1 investment. Here’s what it is, and how to get it",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dies-warren-buffett-wants-90-150500152.html",
+      "publisher": "Moneywise",
+      "time": 1787411100,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "f4c0121b-61c4-3c37-b010-291d194191dc",
+      "title": "Nike Closes 15 Small Format Nike Live Retail Stores",
+      "link": "https://finance.yahoo.com/m/f4c0121b-61c4-3c37-b010-291d194191dc/nike-closes-15-small-format.html",
+      "publisher": "CRE Daily",
+      "time": 1787411054,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4c028fc7-b371-374f-9ace-c1cce73baaf9",
-      "title": "An Upstart Insider Filing Involves $216,000. Here's How It Connects to a New Bank Charter",
-      "link": "https://finance.yahoo.com/m/4c028fc7-b371-374f-9ace-c1cce73baaf9/an-upstart-insider-filing.html",
-      "publisher": "Motley Fool",
-      "time": 1787408997,
+      "id": "22ad510c-aafd-3895-8cec-8507c79fb29b",
+      "title": "Prediction: CoreWeave Stock Will Double on This Date",
+      "link": "https://finance.yahoo.com/m/22ad510c-aafd-3895-8cec-8507c79fb29b/prediction%3A-coreweave-stock.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787410803,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "22c7d99e-64b0-3845-b917-894cbf29a719",
+      "title": "Some Lyft and Uber drivers are charging passengers for damage that never happened — how to dispute it",
+      "link": "https://finance.yahoo.com/small-business/articles/lyft-uber-drivers-charging-passengers-150000369.html",
+      "publisher": "Moneywise",
+      "time": 1787410800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f4431ba9-00d3-393a-9bfe-389c691d3be4",
+      "title": "Understanding Lymph System Support Supplements: PureHealth Research Highlights Natural Ingredients for Everyday Wellness",
+      "link": "https://finance.yahoo.com/healthcare/articles/understanding-lymph-system-support-supplements-150000620.html",
+      "publisher": "PR Newswire",
+      "time": 1787410800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9bda4a1f-6a17-348d-873a-f933e4120643",
+      "title": "Gillette Buys South Boston Life Science Site for $99.29M",
+      "link": "https://finance.yahoo.com/m/9bda4a1f-6a17-348d-873a-f933e4120643/gillette-buys-south-boston.html",
+      "publisher": "CRE Daily",
+      "time": 1787410585,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b504c99b-b40d-328e-9d2f-b8f80ae75e28",
+      "title": "Trump's trade deal with Canada collapses",
+      "link": "https://finance.yahoo.com/m/b504c99b-b40d-328e-9d2f-b8f80ae75e28/trump%27s-trade-deal-with.html",
+      "publisher": "CBS News Videos",
+      "time": 1787410538,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
     },
     {
-      "id": "394208d5-4485-459b-8da8-40e4005e1d0a",
-      "title": "Tariff refunds are hitting retailers' wallets. Here's what they're doing with the money.",
-      "link": "https://finance.yahoo.com/markets/article/tariff-refunds-are-hitting-retailers-wallets-heres-what-theyre-doing-with-the-money-142951738.html",
-      "publisher": "Yahoo Finance",
-      "time": 1787408991,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
+      "id": "073354d0-bbe5-39a6-b25c-676de64aefa5",
+      "title": "Serena Williams and Alcaraz unite in US Open mixed doubles",
+      "link": "https://finance.yahoo.com/m/073354d0-bbe5-39a6-b25c-676de64aefa5/serena-williams-and-alcaraz.html",
+      "publisher": "AFP",
+      "time": 1787410523,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
