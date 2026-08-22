@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T08:55:00.277056+00:00",
+  "updatedAt": "2026-08-22T09:20:41.447868+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,105 +52,96 @@
   ],
   "news": [
     {
-      "id": "a6415b49-f6cf-3298-bf1a-a2b7e2d3416f",
-      "title": "Tax Lien Wealth Builders Named No. 3212 on the 2026 Inc. 5000 List",
-      "link": "https://finance.yahoo.com/small-business/articles/tax-lien-wealth-builders-named-083800855.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787387880,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "72f18c04-c940-3ae7-a7e2-a67c45c8e211",
-      "title": "Nike Now Yields More Than Coca-Cola. Is the Turnaround Finally Priced In?",
-      "link": "https://finance.yahoo.com/m/72f18c04-c940-3ae7-a7e2-a67c45c8e211/nike-now-yields-more-than.html",
+      "id": "d126b70c-8db9-3f40-b7f0-02e650b53856",
+      "title": "3 Dividend Stocks to Buy and Hold for the Next 5 Years",
+      "link": "https://finance.yahoo.com/m/d126b70c-8db9-3f40-b7f0-02e650b53856/3-dividend-stocks-to-buy-and.html",
       "publisher": "Motley Fool",
-      "time": 1787387700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c84af7d2-ab75-3353-93f9-377482c28285",
-      "title": "Where are central banks keeping their gold?",
-      "link": "https://finance.yahoo.com/economy/policy/articles/where-central-banks-keeping-gold-083355037.html",
-      "publisher": "Investing.com",
-      "time": 1787387635,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e08ab9df-be6b-3d59-97e3-d253e7d472be",
-      "title": "Every S&P 500 Index Fund Owner Holds More Nvidia Than Apple",
-      "link": "https://finance.yahoo.com/m/e08ab9df-be6b-3d59-97e3-d253e7d472be/every-s%26p-500-index-fund.html",
-      "publisher": "Motley Fool",
-      "time": 1787387521,
+      "time": 1787390100,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "940efc92-33d3-326c-bf63-4ea467305dbf",
-      "title": "How Likely Is It That the Stock Market Crashes Under President Donald Trump in the Second Half of 2026? Here's What History Tells Us.",
-      "link": "https://finance.yahoo.com/m/940efc92-33d3-326c-bf63-4ea467305dbf/how-likely-is-it-that-the.html",
+      "id": "36c0d837-da6b-307c-b6bc-bdb63af1e066",
+      "title": "Tapestry's Chief People Officer Just Filed a Form 4. Here's What It Does and Doesn't Tell You",
+      "link": "https://finance.yahoo.com/m/36c0d837-da6b-307c-b6bc-bdb63af1e066/tapestry%27s-chief-people.html",
       "publisher": "Motley Fool",
-      "time": 1787387160,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "19e227c0-3279-3468-9c36-0c559191fb1d",
-      "title": "The Sandbox Contains Bridge Exploit After Unbacked SAND Minted on Base and BSC",
-      "link": "https://finance.yahoo.com/m/19e227c0-3279-3468-9c36-0c559191fb1d/the-sandbox-contains-bridge.html",
-      "publisher": "BeInCrypto",
-      "time": 1787386849,
+      "time": 1787389941,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9c73a186-3343-3a72-8af5-5dfcfe59a972",
-      "title": "Scholar Rock (SRRK) Streamlines Apitegromab Filings After Catalent Shift Is Regulatory Strategy De-Risking The Story?",
-      "link": "https://finance.yahoo.com/healthcare/articles/scholar-rock-srrk-streamlines-apitegromab-080945330.html",
+      "id": "03c47c23-c4cc-330b-bacd-36fa553382a0",
+      "title": "Clorox (CLX) Stock Still Looks Fully Priced After ERP Supply Chain News",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/clorox-clx-stock-still-looks-090929056.html",
       "publisher": "Simply Wall St.",
-      "time": 1787386185,
+      "time": 1787389769,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "41421eeb-7f5c-3d3a-8445-7427a55db871",
-      "title": "Did Strong Q2 Results and Higher 2026 Guidance Just Shift Atour Lifestyle Holdings' (ATAT) Investment Narrative?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/did-strong-q2-results-higher-080943785.html",
+      "id": "4566691a-46a7-3f8e-9178-891346ca2153",
+      "title": "Atour Lifestyle Holdings (ATAT) Stock Trades Below Fair Value After A 91% Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/atour-lifestyle-holdings-atat-stock-090917883.html",
       "publisher": "Simply Wall St.",
-      "time": 1787386183,
+      "time": 1787389757,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
     },
     {
-      "id": "6044ca83-73cf-3533-932a-1f0ae1015b51",
-      "title": "Bank Of Montreal (TSX:BMO) Rolls Out 3x Long And Short Bond ETNs",
-      "link": "https://finance.yahoo.com/markets/options/articles/bank-montreal-tsx-bmo-rolls-080919921.html",
+      "id": "d1ceb585-b6ca-3b4c-b0d8-de070cce92d4",
+      "title": "How NVIDIA’s AI Compute Financing Push and Blupine Deal Interest Could Impact Blackstone (BX) Investors",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ai-compute-financing-push-090917740.html",
       "publisher": "Simply Wall St.",
-      "time": 1787386159,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "time": 1787389757,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "60a17613-f90b-3180-80e5-23eaa3b8fc64",
-      "title": "Apollo Global Management (APO) Is Down 5.7% After Disclosing Client Data Breach - What's Changed",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apollo-global-management-apo-down-080914756.html",
+      "id": "820414c7-86f6-32f4-8e5b-47a7c1276ffd",
+      "title": "Is Hansen Technologies' (ASX:HSN) M&A Tilt and Buyback Focus Quietly Redefining Its Investment Story?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hansen-technologies-asx-hsn-m-090910749.html",
       "publisher": "Simply Wall St.",
-      "time": 1787386154,
+      "time": 1787389750,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bb52a4cd-d40a-3d10-b9c9-ccd68c47217c",
+      "title": "What Is ExxonMobil (XOM) Telling Investors By Shifting Focus From Tengiz To Kashagan?",
+      "link": "https://finance.yahoo.com/energy/articles/exxonmobil-xom-telling-investors-shifting-090858564.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787389738,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d37e28a3-2ddb-3aa3-b2f4-1cdd9a3f10fd",
+      "title": "Northern Trust (NTRS) Stock May Be 2% Stretched As Digital Asset Reporting Expands",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/northern-trust-ntrs-stock-may-090838077.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787389718,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b95f1734-5526-3ea4-b614-8f5a535cb6bc",
+      "title": "Philip Morris International (PM) Stock Fair Value Edges Higher On IQOS And ZYN Optimism",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/philip-morris-international-pm-stock-090833244.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787389713,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1113ad0f-3e9f-387d-92d3-1a530198e737",
+      "title": "Veeva (VEEV) Stock Fair Value Edges Higher As Analysts Weigh AI And CRM Risks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/veeva-veev-stock-fair-value-090831551.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787389711,
       "impact": "low",
       "tags": []
     }
