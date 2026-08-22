@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T22:14:48.281131+00:00",
+  "updatedAt": "2026-08-22T22:45:44.529257+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,56 @@
   ],
   "news": [
     {
-      "id": "7d63ebe1-e772-3700-9ab3-b25d8d2159cc",
-      "title": "Teen killed at California high school football game; suspect arrested",
-      "link": "https://finance.yahoo.com/m/7d63ebe1-e772-3700-9ab3-b25d8d2159cc/teen-killed-at-california.html",
-      "publisher": "USA TODAY",
-      "time": 1787436286,
+      "id": "29b8d063-b970-3bc8-9088-41f59162f514",
+      "title": "HBO Max Is Free Right Now For 7 Days With This Prime Video Promo",
+      "link": "https://finance.yahoo.com/m/29b8d063-b970-3bc8-9088-41f59162f514/hbo-max-is-free-right-now-for.html",
+      "publisher": "Variety",
+      "time": 1787437380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2feaccd1-8292-325e-a67e-3dd66a355016",
+      "title": "Government of Canada announces Peter Ballantyne Cree Nation as an Indigenous Skills and Employment Training Program agreement holder",
+      "link": "https://finance.yahoo.com/economy/policy/articles/government-canada-announces-peter-ballantyne-222200222.html",
+      "publisher": "CNW Group",
+      "time": 1787437320,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "199a7bbe-6870-3c31-b182-82013fb73622",
+      "title": "Apple Announced Its Largest-Ever Stock Buyback Under Tim Cook's Leadership. Here's Why the Size of the Repurchase Program Matters for Shareholders.",
+      "link": "https://finance.yahoo.com/m/199a7bbe-6870-3c31-b182-82013fb73622/apple-announced-its.html",
+      "publisher": "Motley Fool",
+      "time": 1787437200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5984ee8f-29f6-34e8-9272-a185405dd189",
+      "title": "Wyndham Clark surges clear at BMW Championship",
+      "link": "https://finance.yahoo.com/m/5984ee8f-29f6-34e8-9272-a185405dd189/wyndham-clark-surges-clear-at.html",
+      "publisher": "AFP",
+      "time": 1787437156,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8056b9d8-8cea-3ffa-b64a-e19000cfbede",
+      "title": "Up 20% in 1 Day, is Hyperliquid Worth Buying Hand Over Fist Right Now?",
+      "link": "https://finance.yahoo.com/m/8056b9d8-8cea-3ffa-b64a-e19000cfbede/up-20%25-in-1-day%2C-is.html",
+      "publisher": "Motley Fool",
+      "time": 1787437020,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "af99739a-5c31-32d6-b956-b6d102882672",
+      "title": "Ken de la Bastide column: Residents will be dealing with flooding for years",
+      "link": "https://finance.yahoo.com/m/af99739a-5c31-32d6-b956-b6d102882672/ken-de-la-bastide-column%3A.html",
+      "publisher": "The Herald Bulletin, Anderson, Ind.",
+      "time": 1787437020,
       "impact": "low",
       "tags": []
     },
@@ -65,85 +110,36 @@
       "title": "Real Madrid snatch late win at Espanyol on Mourinho's return",
       "link": "https://finance.yahoo.com/m/428f9aaf-8970-3d23-8913-502dda54dffe/real-madrid-snatch-late-win.html",
       "publisher": "AFP",
-      "time": 1787436057,
+      "time": 1787437018,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "47ca90d0-7dc4-369a-a0fb-84ef9f3f3f58",
-      "title": "Social Security’s $184,500 Wage Cap Is Under Fire. Here’s Exactly Who Would Pay More",
-      "link": "https://finance.yahoo.com/m/47ca90d0-7dc4-369a-a0fb-84ef9f3f3f58/social-security%E2%80%99s-%24184%2C500.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787436003,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "746e7762-4551-375a-9d5f-d1fbc11712bf",
-      "title": "Maresca says Man City must fill Rodri void after Barca switch",
-      "link": "https://finance.yahoo.com/m/746e7762-4551-375a-9d5f-d1fbc11712bf/maresca-says-man-city-must.html",
+      "id": "b488d09a-effe-3834-ad8d-122ecb494bbf",
+      "title": "Inter thrash Monza to launch Serie A title defence",
+      "link": "https://finance.yahoo.com/m/b488d09a-effe-3834-ad8d-122ecb494bbf/inter-thrash-monza-to-launch.html",
       "publisher": "AFP",
-      "time": 1787435750,
+      "time": 1787436949,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "03826216-544e-3e4a-b80e-ffb2e50fbf69",
-      "title": "ASEAN Records and ASIA Records Announce Major Expansion as Verified Record Certification Grows Across Asia",
-      "link": "https://finance.yahoo.com/media-advertising/articles/asean-records-asia-records-announce-215100817.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787435460,
+      "id": "4bab6d0a-c0f6-31f9-b34e-63a82276c1ee",
+      "title": "Amazon's $212 Seiko luxury watch proves every collector needs a chronograph",
+      "link": "https://finance.yahoo.com/m/4bab6d0a-c0f6-31f9-b34e-63a82276c1ee/amazon%27s-%24212-seiko-luxury.html",
+      "publisher": "TheStreet",
+      "time": 1787436900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "80c028e9-14fe-315d-8555-6243c20a93ea",
-      "title": "Institutional Investors Are Buying Hyperliquid Strategies. Should You?",
-      "link": "https://finance.yahoo.com/m/80c028e9-14fe-315d-8555-6243c20a93ea/institutional-investors-are.html",
-      "publisher": "Motley Fool",
-      "time": 1787435400,
+      "id": "bd893c93-5151-3696-b97e-337163449083",
+      "title": "Germany's Merz to press cabinet for faster pro-growth reforms",
+      "link": "https://finance.yahoo.com/news/germanys-merz-press-cabinet-faster-221133811.html",
+      "publisher": "Reuters",
+      "time": 1787436693,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "134722e8-8fd5-33e1-8d3c-7f27a7c4585b",
-      "title": "Insider Transaction: Cytokinetics CEO Robert Blum Sells 7,500 Shares for $575,700",
-      "link": "https://finance.yahoo.com/m/134722e8-8fd5-33e1-8d3c-7f27a7c4585b/insider-transaction%3A.html",
-      "publisher": "Motley Fool",
-      "time": 1787434921,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "500cf0b7-0069-37ba-8bcb-ffa01c0237fc",
-      "title": "Bear attacks, conflicts with humans reach historic levels in Colorado",
-      "link": "https://finance.yahoo.com/m/500cf0b7-0069-37ba-8bcb-ffa01c0237fc/bear-attacks%2C-conflicts-with.html",
-      "publisher": "USA TODAY",
-      "time": 1787434500,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "579c7947-d57e-3a86-93ec-aa6d7f652fef",
-      "title": "This Under-the-Radar Healthcare Stock Yields Nearly 8.5%. Here's Whether That Income Is Too Good to Be True.",
-      "link": "https://finance.yahoo.com/m/579c7947-d57e-3a86-93ec-aa6d7f652fef/this-under-the-radar.html",
-      "publisher": "Motley Fool",
-      "time": 1787434500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f1df0039-b798-3d05-a155-49c51f9f3a55",
-      "title": "What Would Alan Greenspan Say About This Stock Market?",
-      "link": "https://finance.yahoo.com/m/f1df0039-b798-3d05-a155-49c51f9f3a55/what-would-alan-greenspan-say.html",
-      "publisher": "Motley Fool",
-      "time": 1787434500,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
     }
   ],
   "errors": {
