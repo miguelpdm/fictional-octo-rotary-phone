@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T14:14:44.201160+00:00",
+  "updatedAt": "2026-08-22T14:45:29.576947+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,58 +52,86 @@
   ],
   "news": [
     {
-      "id": "ef468025-52e5-3069-aa04-7943cb359f90",
-      "title": "CRE Borrowing Costs Stall as SOFR Finds a Floor in Q2",
-      "link": "https://finance.yahoo.com/m/ef468025-52e5-3069-aa04-7943cb359f90/cre-borrowing-costs-stall-as.html",
-      "publisher": "CRE Daily",
-      "time": 1787407549,
+      "id": "c87da0e8-2e78-38ae-8666-163eddcf998f",
+      "title": "New to The Street Broadcasts Today Across Bloomberg Television U.S., Latin America and MENA at 6:30 PM ET",
+      "link": "https://finance.yahoo.com/technology/ai/articles/street-broadcasts-today-across-bloomberg-144000327.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787409600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "54ffa701-d517-3a1c-8782-2b5eba42eb87",
-      "title": "Peter Lynch Beat the S&P 500 in 11 of His 13 Years Running Magellan. Here's Why He Says \"Turning Over the Most Rocks\" Is the Key to Winning.",
-      "link": "https://finance.yahoo.com/m/54ffa701-d517-3a1c-8782-2b5eba42eb87/peter-lynch-beat-the-s%26p-500.html",
-      "publisher": "Motley Fool",
-      "time": 1787407500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2a4ed3d1-1030-3974-ac78-9663905368f7",
-      "title": "Madison Air Solutions to Buy ebm-papst in $5.8B Deal, Expanding Global Airflow Reach",
-      "link": "https://finance.yahoo.com/m/2a4ed3d1-1030-3974-ac78-9663905368f7/madison-air-solutions-to-buy.html",
-      "publisher": "MarketBeat",
-      "time": 1787407315,
-      "impact": "low",
+      "id": "c57737f8-0f02-37a4-b53a-f4d5108b6b6e",
+      "title": "U.S.-Canada trade talks collapse, triggering 50% tariffs",
+      "link": "https://finance.yahoo.com/m/c57737f8-0f02-37a4-b53a-f4d5108b6b6e/u.s.-canada-trade-talks.html",
+      "publisher": "Quartz",
+      "time": 1787409486,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "0a06665c-5b01-375b-a140-f566ef67858f",
-      "title": "This Stock Is Quietly Becoming an AI Powerhouse in 2026",
-      "link": "https://finance.yahoo.com/m/0a06665c-5b01-375b-a140-f566ef67858f/this-stock-is-quietly.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787407251,
+      "id": "33e853ef-6a53-32fb-8fc6-b25ecb03a208",
+      "title": "Macron pledges air defence as 13 killed in Russia, Ukraine strikes",
+      "link": "https://finance.yahoo.com/m/33e853ef-6a53-32fb-8fc6-b25ecb03a208/macron-pledges-air-defence-as.html",
+      "publisher": "AFP",
+      "time": 1787409365,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c4424ba1-f67a-3e69-b9c0-9dbe7be0182e",
-      "title": "Arbor Realty, Icahn Enterprises and Herzfeld: 3 Unconventional High Yield Bets",
-      "link": "https://finance.yahoo.com/m/c4424ba1-f67a-3e69-b9c0-9dbe7be0182e/arbor-realty%2C-icahn.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787407201,
+      "id": "08ee1c25-1fc4-3ba8-a880-5daf56b0457e",
+      "title": "Japan's leader Takaichi explains why she spends long hours in seclusion at her official residence",
+      "link": "https://finance.yahoo.com/m/08ee1c25-1fc4-3ba8-a880-5daf56b0457e/japan%27s-leader-takaichi.html",
+      "publisher": "Associated Press",
+      "time": 1787409150,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5f320489-bec1-3138-9728-c6cb58e08b23",
-      "title": "BlackRock CEO Larry Fink says a bank account is 'one of the worst financial decisions' — and urges Americans to invest",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/blackrock-ceo-larry-fink-says-140000827.html",
+      "id": "e3eaef6a-5b9c-3ab8-ad3f-0648eda2dd88",
+      "title": "She Loaded 20,000 Popsicles Onto a Truck. Social Security Said She Hadn’t Sold One.",
+      "link": "https://finance.yahoo.com/m/e3eaef6a-5b9c-3ab8-ad3f-0648eda2dd88/she-loaded-20%2C000-popsicles.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787409039,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "efcf8794-e123-3932-939b-ad68a468fcf1",
+      "title": "Target Stock Has Been Crushed. Here’s Why I’m Not Giving Up on It.",
+      "link": "https://finance.yahoo.com/m/efcf8794-e123-3932-939b-ad68a468fcf1/target-stock-has-been.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787409011,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "be312690-cbac-3c6f-9e60-cac75ab52a0f",
+      "title": "AI jobs advertise $177,000 salaries — more than double non-AI roles — yet women land just 26% of hires",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-jobs-advertise-177-000-143000655.html",
       "publisher": "Moneywise",
-      "time": 1787407200,
+      "time": 1787409000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cfa525fb-22ad-313d-9573-09b349ad7fe5",
+      "title": "130/80: The Magic Number That Could Add Years to Your Life",
+      "link": "https://finance.yahoo.com/m/cfa525fb-22ad-313d-9573-09b349ad7fe5/130%2F80%3A-the-magic-number-that.html",
+      "publisher": "TheStreet",
+      "time": 1787409000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4c028fc7-b371-374f-9ace-c1cce73baaf9",
+      "title": "An Upstart Insider Filing Involves $216,000. Here's How It Connects to a New Bank Charter",
+      "link": "https://finance.yahoo.com/m/4c028fc7-b371-374f-9ace-c1cce73baaf9/an-upstart-insider-filing.html",
+      "publisher": "Motley Fool",
+      "time": 1787408997,
       "impact": "medium",
       "tags": [
         "macro",
@@ -111,40 +139,16 @@
       ]
     },
     {
-      "id": "e53828c7-62da-34a1-b62d-0bb41cf51641",
-      "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
-      "link": "https://finance.yahoo.com/m/e53828c7-62da-34a1-b62d-0bb41cf51641/pixel-11-pro-xl-review%3A.html",
-      "publisher": "TechCrunch",
-      "time": 1787407200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "519649a4-b088-3bb5-af6f-358cfcb836a0",
-      "title": "How bitcoin and gold went from a slump to an MVP week in just a few days",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-gold-went-slump-mvp-135908904.html",
-      "publisher": "Associated Press",
-      "time": 1787407148,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "95382f04-6680-384f-b97f-2e1f7954108a",
-      "title": "Why I Think the Best Dividend Stock Isn't a Tech Name: It's Realty Income",
-      "link": "https://finance.yahoo.com/m/95382f04-6680-384f-b97f-2e1f7954108a/why-i-think-the-best-dividend.html",
-      "publisher": "Motley Fool",
-      "time": 1787406600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "66344849-2bb0-3e45-9c80-e674a9539d9a",
-      "title": "Saturday, August 22, 2026",
-      "link": "https://finance.yahoo.com/economy/policy/articles/saturday-august-22-2026-134900602.html",
-      "publisher": "CNW Group",
-      "time": 1787406540,
-      "impact": "low",
-      "tags": []
+      "id": "394208d5-4485-459b-8da8-40e4005e1d0a",
+      "title": "Tariff refunds are hitting retailers' wallets. Here's what they're doing with the money.",
+      "link": "https://finance.yahoo.com/markets/article/tariff-refunds-are-hitting-retailers-wallets-heres-what-theyre-doing-with-the-money-142951738.html",
+      "publisher": "Yahoo Finance",
+      "time": 1787408991,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     }
   ],
   "errors": {
