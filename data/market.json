@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T03:13:16.478536+00:00",
+  "updatedAt": "2026-08-22T04:03:34.929207+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -28,9 +28,9 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26136.6,
-      "change": 45.2699999999968,
-      "changePct": 0.17350591173388555,
+      "price": 26136.56,
+      "change": 45.22999999999956,
+      "changePct": 0.17335260410258718,
       "currency": "EUR"
     },
     {
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,11 +52,11 @@
   ],
   "news": [
     {
-      "id": "c7c369b2-1e84-334a-ad3c-e0383a35691f",
-      "title": "Horizon Kinetics Holding Corp (HKHC) (Q2 2026) Earnings Call Highlights: Navigating Market ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/horizon-kinetics-holding-corp-hkhc-030156359.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787367716,
+      "id": "3d7f6072-214e-3f3b-a313-0574b7652915",
+      "title": "OnTime Posts 140.7% Revenue Surge to RMB 4.035 Billion, Gross Profit Tops RMB 500 Million in H1 2026",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ontime-posts-140-7-revenue-035800365.html",
+      "publisher": "PR Newswire",
+      "time": 1787371080,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,82 +64,42 @@
       ]
     },
     {
-      "id": "f5c585e2-9097-3304-ac33-0be43c14aaeb",
-      "title": "Spartan Delta Targets Duvernay Growth as Deep Basin Fuels Cash Flow",
-      "link": "https://finance.yahoo.com/m/f5c585e2-9097-3304-ac33-0be43c14aaeb/spartan-delta-targets.html",
-      "publisher": "MarketBeat",
-      "time": 1787367715,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "0eb5944e-974b-3883-9255-c4050a0541ff",
-      "title": "Ulker Biskuvi Sanayi AS (UELKY) (Q2 2026) Earnings Call Highlights: Net Income Surges 45. ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ulker-biskuvi-sanayi-uelky-q2-030151071.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787367711,
+      "id": "0657b0a9-e242-3f91-b139-a9f47ae19908",
+      "title": "Statement by Prime Minister Carney on Canada-U.S. trade negotiations",
+      "link": "https://finance.yahoo.com/economy/policy/articles/statement-prime-minister-carney-canada-035300408.html",
+      "publisher": "CNW Group",
+      "time": 1787370780,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
     },
     {
-      "id": "a705c504-4730-3d87-b103-c0fc66435ac2",
-      "title": "ES Group AB (OSTO:ESGR B) (Q2 2026) Earnings Call Highlights: Revenue Surges 30% but Seasonal ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/es-group-ab-osto-esgr-030131610.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787367691,
+      "id": "196d1032-da5a-3240-898b-b654b66c5866",
+      "title": "US,  Canada fail to reach a trade deal",
+      "link": "https://finance.yahoo.com/news/us-canadian-trade-teams-meet-132427534.html",
+      "publisher": "Reuters",
+      "time": 1787370644,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
     },
     {
-      "id": "21ec43a5-fbf5-341a-8f23-ddc8bf20e4e0",
-      "title": "Castelion raises $1 billion, aiming to ‘drive up’ missile production at Rio Rancho site",
-      "link": "https://finance.yahoo.com/m/21ec43a5-fbf5-341a-8f23-ddc8bf20e4e0/castelion-raises-%241-billion%2C.html",
-      "publisher": "Albuquerque Journal, N.M.",
-      "time": 1787367660,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bd3cdff2-3748-307b-a338-009654ff4d1a",
-      "title": "Vanta Announces Closing of First Tranche of Private Placement and Board of Directors Update",
-      "link": "https://finance.yahoo.com/healthcare/articles/vanta-announces-closing-first-tranche-025500698.html",
+      "id": "2dfcd121-fdbb-3f64-89c4-8b0980b5aa2d",
+      "title": "Battery X Metals Provides Board of Directors Update",
+      "link": "https://finance.yahoo.com/energy/articles/battery-x-metals-provides-board-035000637.html",
       "publisher": "ACCESS Newswire",
-      "time": 1787367300,
+      "time": 1787370600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "05a94494-8139-3bde-b4eb-e21c6ed7d761",
-      "title": "Odyssey effect: stars sell Greece to a new wave of US tourists",
-      "link": "https://finance.yahoo.com/m/05a94494-8139-3bde-b4eb-e21c6ed7d761/odyssey-effect%3A-stars-sell.html",
-      "publisher": "AFP",
-      "time": 1787367244,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5c287a8b-d653-336b-a2ef-9e205dd9a7a2",
-      "title": "Arctic shipping a daunting prospect in hotly contested region",
-      "link": "https://finance.yahoo.com/m/5c287a8b-d653-336b-a2ef-9e205dd9a7a2/arctic-shipping-a-daunting.html",
-      "publisher": "AFP",
-      "time": 1787366742,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4f7bfde2-b5e0-3adf-885c-d9ebab3e49a2",
-      "title": "Brazil's Lula urges tariffs resolution in call with Trump",
-      "link": "https://finance.yahoo.com/m/4f7bfde2-b5e0-3adf-885c-d9ebab3e49a2/brazil%27s-lula-urges-tariffs.html",
-      "publisher": "AFP",
-      "time": 1787366722,
+      "id": "3ad24f96-2e76-3779-be68-5287ce12ba09",
+      "title": "Google Is Getting Paid in Marvell Stock Warrants for Buying Marvell's Chips",
+      "link": "https://finance.yahoo.com/m/3ad24f96-2e76-3779-be68-5287ce12ba09/google-is-getting-paid-in.html",
+      "publisher": "Motley Fool",
+      "time": 1787370421,
       "impact": "high",
       "tags": [
         "geo",
@@ -147,11 +107,56 @@
       ]
     },
     {
-      "id": "e0dd026f-3246-36f9-9594-c1ef8d1217c6",
-      "title": "South Korea to send first container ship through Arctic route",
-      "link": "https://finance.yahoo.com/m/e0dd026f-3246-36f9-9594-c1ef8d1217c6/south-korea-to-send-first.html",
+      "id": "458e3958-d077-3c01-bb3d-a6078d84704f",
+      "title": "Canada to match new US tariffs dollar for dollar, Prime Minister Mark Carney says",
+      "link": "https://finance.yahoo.com/m/458e3958-d077-3c01-bb3d-a6078d84704f/canada-to-match-new-us.html",
+      "publisher": "Associated Press",
+      "time": 1787370182,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "47100bb8-9324-394e-8079-c92ce93333dc",
+      "title": "US is set to impose 50% tariffs on $20 billion worth of Canadian products",
+      "link": "https://finance.yahoo.com/m/47100bb8-9324-394e-8079-c92ce93333dc/us-is-set-to-impose-50%25.html",
+      "publisher": "Associated Press",
+      "time": 1787370055,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "1a679eee-d918-3541-866b-54669f0b8a1f",
+      "title": "Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets",
+      "link": "https://finance.yahoo.com/m/1a679eee-d918-3541-866b-54669f0b8a1f/nakashima-pounds-fritz%2C.html",
       "publisher": "AFP",
-      "time": 1787366687,
+      "time": 1787370005,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1d037b52-c2f3-3a40-a7e4-a7a4ff02bab4",
+      "title": "United States set to slap 50% tariffs on $20 billion in Canadian imports as historic allies can’t reach last-ditch deal",
+      "link": "https://finance.yahoo.com/economy/policy/articles/united-states-set-slap-50-033640900.html",
+      "publisher": "Associated Press",
+      "time": 1787369800,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "d588eb04-d515-3893-998c-dc64f6049577",
+      "title": "Filters Every Six Months, Repairs for the Life of the Plan: Delhi Water Purifier Rental Turns Into a Serviced Utility From ₹292 a Month in 2026 With Specialists Like Rentomojo",
+      "link": "https://finance.yahoo.com/small-business/articles/filters-every-six-months-repairs-033500911.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787369700,
       "impact": "low",
       "tags": []
     }
