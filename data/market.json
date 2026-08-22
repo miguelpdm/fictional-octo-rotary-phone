@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T04:03:34.929207+00:00",
+  "updatedAt": "2026-08-22T04:58:13.174859+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,11 +52,109 @@
   ],
   "news": [
     {
-      "id": "3d7f6072-214e-3f3b-a313-0574b7652915",
-      "title": "OnTime Posts 140.7% Revenue Surge to RMB 4.035 Billion, Gross Profit Tops RMB 500 Million in H1 2026",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ontime-posts-140-7-revenue-035800365.html",
-      "publisher": "PR Newswire",
-      "time": 1787371080,
+      "id": "bee288f2-f7a3-39f7-9077-79293c4f153a",
+      "title": "This 401(k) Move Could Cost Retirees Up to $487 a Month for a Year",
+      "link": "https://finance.yahoo.com/m/bee288f2-f7a3-39f7-9077-79293c4f153a/this-401%28k%29-move-could-cost.html",
+      "publisher": "Motley Fool",
+      "time": 1787374200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "dcf06d4b-7d3f-37a8-a1e7-ea0fe6448b21",
+      "title": "U.S. tariffs on Canada take effect after trade talks collapse",
+      "link": "https://finance.yahoo.com/economy/policy/articles/u-tariffs-canada-effect-trade-044529561.html",
+      "publisher": "Investing.com",
+      "time": 1787373929,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "b5a34e83-c6c3-3591-8618-607938b43785",
+      "title": "MM-ARTech+ Residency Program Officially Launches in Shanghai",
+      "link": "https://finance.yahoo.com/media-advertising/articles/mm-artech-residency-program-officially-044500053.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787373900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0604befb-d1cd-3fc3-b427-90f39402704e",
+      "title": "Packers vs. Broncos highlights Preseason Week 2",
+      "link": "https://finance.yahoo.com/m/0604befb-d1cd-3fc3-b427-90f39402704e/packers-vs.-broncos.html",
+      "publisher": "NFL Highlights",
+      "time": 1787373401,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6129fd97-5b4a-3e3b-8751-fbacf26efbee",
+      "title": "Simply Solventless Provides Update on Filing of 2025 Annual Financial Statements and Related Management's Discussion and Analysis and Management Cease Trade Order",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/simply-solventless-provides-filing-2025-043200118.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787373120,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "3fc6340b-b6ce-3c61-a0a8-97340996626e",
+      "title": "Lerøy Seafood Group ASA: Primary Insider Transaction",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ler-y-seafood-group-asa-043000863.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787373000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b775bf48-a13f-3719-af36-7931f6c712a7",
+      "title": "US, Canada fail to reach trade pact to avert Trump tariffs",
+      "link": "https://finance.yahoo.com/economy/policy/articles/us-canada-fail-reach-trade-042829871.html",
+      "publisher": "AFP",
+      "time": 1787372909,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "1e5d722f-e7da-32b8-b37d-0d4435be03e9",
+      "title": "Billionaire David Tepper Sells Lyft in Favor of Its Biggest Rival, Which Has 30% Upside, According to Wall Street",
+      "link": "https://finance.yahoo.com/m/1e5d722f-e7da-32b8-b37d-0d4435be03e9/billionaire-david-tepper.html",
+      "publisher": "Motley Fool",
+      "time": 1787372400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "24fd0fe2-c2cc-3c39-bb3b-07eb72c21fdd",
+      "title": "Dollar General (DG) Stock Looks Reasonable As Shares Sit 40% Lower",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-dg-stock-looks-041945333.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787372385,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6b319b70-67b4-3bc6-a8f3-ea3acf3b9267",
+      "title": "Artemis Gold (TSXV:ARTG) Climbed, What Is Behind The Fresh Attention?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/artemis-gold-tsxv-artg-climbed-041921151.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787372361,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ad969431-1cbc-3e50-9dd8-4b4ce416af92",
+      "title": "TrueBlue (TBI) Stock Sees Fair Value Lift After Better Than Expected Q2 Guidance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trueblue-tbi-stock-sees-fair-041906298.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787372346,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,101 +162,16 @@
       ]
     },
     {
-      "id": "0657b0a9-e242-3f91-b139-a9f47ae19908",
-      "title": "Statement by Prime Minister Carney on Canada-U.S. trade negotiations",
-      "link": "https://finance.yahoo.com/economy/policy/articles/statement-prime-minister-carney-canada-035300408.html",
-      "publisher": "CNW Group",
-      "time": 1787370780,
+      "id": "80f2dd86-f3c1-3ec9-a715-180cd493805f",
+      "title": "China East Education Holdings (SEHK:667) Could Be 84% Below Fair Value On Strong Half Year Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/china-east-education-holdings-sehk-041901775.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787372341,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
-    },
-    {
-      "id": "196d1032-da5a-3240-898b-b654b66c5866",
-      "title": "US,  Canada fail to reach a trade deal",
-      "link": "https://finance.yahoo.com/news/us-canadian-trade-teams-meet-132427534.html",
-      "publisher": "Reuters",
-      "time": 1787370644,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "2dfcd121-fdbb-3f64-89c4-8b0980b5aa2d",
-      "title": "Battery X Metals Provides Board of Directors Update",
-      "link": "https://finance.yahoo.com/energy/articles/battery-x-metals-provides-board-035000637.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787370600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3ad24f96-2e76-3779-be68-5287ce12ba09",
-      "title": "Google Is Getting Paid in Marvell Stock Warrants for Buying Marvell's Chips",
-      "link": "https://finance.yahoo.com/m/3ad24f96-2e76-3779-be68-5287ce12ba09/google-is-getting-paid-in.html",
-      "publisher": "Motley Fool",
-      "time": 1787370421,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "458e3958-d077-3c01-bb3d-a6078d84704f",
-      "title": "Canada to match new US tariffs dollar for dollar, Prime Minister Mark Carney says",
-      "link": "https://finance.yahoo.com/m/458e3958-d077-3c01-bb3d-a6078d84704f/canada-to-match-new-us.html",
-      "publisher": "Associated Press",
-      "time": 1787370182,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "47100bb8-9324-394e-8079-c92ce93333dc",
-      "title": "US is set to impose 50% tariffs on $20 billion worth of Canadian products",
-      "link": "https://finance.yahoo.com/m/47100bb8-9324-394e-8079-c92ce93333dc/us-is-set-to-impose-50%25.html",
-      "publisher": "Associated Press",
-      "time": 1787370055,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "1a679eee-d918-3541-866b-54669f0b8a1f",
-      "title": "Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets",
-      "link": "https://finance.yahoo.com/m/1a679eee-d918-3541-866b-54669f0b8a1f/nakashima-pounds-fritz%2C.html",
-      "publisher": "AFP",
-      "time": 1787370005,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1d037b52-c2f3-3a40-a7e4-a7a4ff02bab4",
-      "title": "United States set to slap 50% tariffs on $20 billion in Canadian imports as historic allies can’t reach last-ditch deal",
-      "link": "https://finance.yahoo.com/economy/policy/articles/united-states-set-slap-50-033640900.html",
-      "publisher": "Associated Press",
-      "time": 1787369800,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "d588eb04-d515-3893-998c-dc64f6049577",
-      "title": "Filters Every Six Months, Repairs for the Life of the Plan: Delhi Water Purifier Rental Turns Into a Serviced Utility From ₹292 a Month in 2026 With Specialists Like Rentomojo",
-      "link": "https://finance.yahoo.com/small-business/articles/filters-every-six-months-repairs-033500911.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787369700,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
