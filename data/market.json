@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T16:16:22.895597+00:00",
+  "updatedAt": "2026-08-22T16:48:19.239897+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,104 +52,103 @@
   ],
   "news": [
     {
-      "id": "4b935c20-fb0c-3db9-b658-d7bb946a167a",
-      "title": "Enterprise Cash Sweeps: How Large, Multi-Bank Organizations Coordinate Corporate Cash and Capture Yield Across Every Account",
-      "link": "https://finance.yahoo.com/small-business/articles/enterprise-cash-sweeps-large-multi-161300930.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787415180,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a3d726aa-1b79-3b2f-b510-ab7104667b72",
-      "title": "New York Court Reviews Judgment Challenge After Halting Sheriff's Sale in Nassau County",
-      "link": "https://finance.yahoo.com/real-estate/articles/york-court-reviews-judgment-challenge-161300274.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787415180,
+      "id": "573fd1a1-ee55-345d-82e3-ca7074d4d724",
+      "title": "Michael Howell Says 2026 Won't Be A Big Year For Bitcoin, Sees 30-Year Yield Going Higher",
+      "link": "https://finance.yahoo.com/m/573fd1a1-ee55-345d-82e3-ca7074d4d724/michael-howell-says-2026.html",
+      "publisher": "Stocktwits",
+      "time": 1787416899,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "56f6f6db-0427-331a-9ef0-1191a54efdb9",
-      "title": "Adobe Stock Looks Cheap for a Reason. Here’s Why I’m Buying.",
-      "link": "https://finance.yahoo.com/m/56f6f6db-0427-331a-9ef0-1191a54efdb9/adobe-stock-looks-cheap-for-a.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787415040,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ee6c19a6-f8fa-3e45-afba-f5ba8ad3a433",
-      "title": "Swedish police name 17-year-old girl as victim in school sword attack",
-      "link": "https://finance.yahoo.com/m/ee6c19a6-f8fa-3e45-afba-f5ba8ad3a433/swedish-police-name.html",
-      "publisher": "AFP",
-      "time": 1787414749,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "07a20f32-47c9-3c97-8669-a560eb7bff98",
-      "title": "Insider Cuts Holdings of Growth Stock Following 78% Rally",
-      "link": "https://finance.yahoo.com/m/07a20f32-47c9-3c97-8669-a560eb7bff98/insider-cuts-holdings-of.html",
-      "publisher": "Motley Fool",
-      "time": 1787414701,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e64864dc-38a0-3694-9379-c41ee39b645a",
-      "title": "Can Bloom Energy Keep Beating the Market?",
-      "link": "https://finance.yahoo.com/m/e64864dc-38a0-3694-9379-c41ee39b645a/can-bloom-energy-keep-beating.html",
-      "publisher": "Motley Fool",
-      "time": 1787414700,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "9851257d-7385-3645-acde-27d2a2ca5bae",
-      "title": "Carrick keeps calm despite Man Utd misery, Sage beaten in first game as Palace boss",
-      "link": "https://finance.yahoo.com/m/9851257d-7385-3645-acde-27d2a2ca5bae/carrick-keeps-calm-despite.html",
-      "publisher": "AFP",
-      "time": 1787414664,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "720fcc67-7001-3ef1-ad86-aecd946897a8",
-      "title": "172-year-old luxury giant exits entire market",
-      "link": "https://finance.yahoo.com/m/720fcc67-7001-3ef1-ad86-aecd946897a8/172-year-old-luxury-giant.html",
-      "publisher": "TheStreet",
-      "time": 1787414580,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "5c4d6e78-65f0-370f-86f7-0a56c0e846cb",
-      "title": "Unprecedented El Niño has earned this perplexing label",
-      "link": "https://finance.yahoo.com/m/5c4d6e78-65f0-370f-86f7-0a56c0e846cb/unprecedented-el-ni%C3%B1o-has.html",
-      "publisher": "USA TODAY",
-      "time": 1787414438,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ba488ce6-aacc-314b-a845-79198e452e91",
-      "title": "Trump's trade war with Canada: A timeline of how we got here",
-      "link": "https://finance.yahoo.com/m/ba488ce6-aacc-314b-a845-79198e452e91/trump%27s-trade-war-with.html",
-      "publisher": "Associated Press",
-      "time": 1787414408,
+      "id": "75cc3347-afb4-33e5-b6a5-54455519ad8d",
+      "title": "Canada to match U.S. tariffs dollar for dollar after trade talks collapse",
+      "link": "https://finance.yahoo.com/economy/policy/articles/canada-match-u-tariffs-dollar-164013077.html",
+      "publisher": "Investing.com",
+      "time": 1787416813,
       "impact": "high",
       "tags": [
         "geo",
         "macro"
       ]
+    },
+    {
+      "id": "0b481ee5-6a60-3099-a17c-35594b61f1a2",
+      "title": "Company Statement: Aircraft Incident Near Prince George, British Columbia",
+      "link": "https://finance.yahoo.com/energy/articles/company-statement-aircraft-incident-near-163900722.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787416740,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "752335a7-d1c7-3935-a2bb-f6e794372a87",
+      "title": "Teen accused of killing girlfriend; his mother is charged in coverup",
+      "link": "https://finance.yahoo.com/m/752335a7-d1c7-3935-a2bb-f6e794372a87/teen-accused-of-killing.html",
+      "publisher": "USA TODAY",
+      "time": 1787416602,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "76741312-6793-3307-88ca-ac306f11a00a",
+      "title": "JPMorgan Chase CEO Jamie Dimon Dropped a 9-Word Warning: \"Margin Debt Is the Highest It Has Ever Been.\" Should Investors Be Worried?",
+      "link": "https://finance.yahoo.com/m/76741312-6793-3307-88ca-ac306f11a00a/jpmorgan-chase-ceo-jamie.html",
+      "publisher": "Motley Fool",
+      "time": 1787416500,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "164aa1bf-e1c8-32a9-8e2b-f3eff1853830",
+      "title": "Tallgrass Announces Open Season for the Pony Express Pipeline",
+      "link": "https://finance.yahoo.com/energy/articles/tallgrass-announces-open-season-pony-163300392.html",
+      "publisher": "Business Wire",
+      "time": 1787416380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "32340fb9-93f7-3de4-951f-228ac87a0d7b",
+      "title": "Warren Buffett’s Berkshire makes backdoor SpaceX play",
+      "link": "https://finance.yahoo.com/m/32340fb9-93f7-3de4-951f-228ac87a0d7b/warren-buffett%E2%80%99s-berkshire.html",
+      "publisher": "TheStreet",
+      "time": 1787416380,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "424b02a6-d40b-3a91-9434-7e7b1d4667ae",
+      "title": "Dr. Gary Lawton Defines Standards for Choosing a Breast Augmentation Surgeon in San Antonio",
+      "link": "https://finance.yahoo.com/healthcare/articles/dr-gary-lawton-defines-standards-163300670.html",
+      "publisher": "PR Newswire",
+      "time": 1787416380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "073354d0-bbe5-39a6-b25c-676de64aefa5",
+      "title": "No singles for Serena, but she joins Alcaraz for US Open",
+      "link": "https://finance.yahoo.com/m/073354d0-bbe5-39a6-b25c-676de64aefa5/no-singles-for-serena%2C-but.html",
+      "publisher": "AFP",
+      "time": 1787416351,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4ccf90b8-4909-36a0-8001-9401f52c94ab",
+      "title": "Tallgrass Announces Open Season for the Seahorse Pipeline",
+      "link": "https://finance.yahoo.com/energy/articles/tallgrass-announces-open-season-seahorse-163100763.html",
+      "publisher": "Business Wire",
+      "time": 1787416260,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
