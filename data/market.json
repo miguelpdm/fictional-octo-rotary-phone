@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T17:14:28.650274+00:00",
+  "updatedAt": "2026-08-22T17:43:43.801788+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,104 +52,96 @@
   ],
   "news": [
     {
-      "id": "61407c76-e1fb-356e-9266-46425a25eb7a",
-      "title": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole",
-      "link": "https://finance.yahoo.com/m/61407c76-e1fb-356e-9266-46425a25eb7a/stock-market-week-ahead%3A-a.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787418309,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "2603cffa-be9f-3f48-86fe-e51cc76d7e15",
+      "title": "Lens hammer Auxerre thanks to Thauvin penalty double",
+      "link": "https://finance.yahoo.com/m/2603cffa-be9f-3f48-86fe-e51cc76d7e15/lens-hammer-auxerre-thanks-to.html",
+      "publisher": "AFP",
+      "time": 1787420166,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "0711cfd8-c734-30d9-b2ea-379eafb4d639",
-      "title": "CVS Health Stock Is Beating the Market in 2026. Here's Why Wall Street Thinks It Can Soar Another 22%.",
-      "link": "https://finance.yahoo.com/m/0711cfd8-c734-30d9-b2ea-379eafb4d639/cvs-health-stock-is-beating.html",
+      "id": "9d301fd1-bade-3319-81fd-08711b71d733",
+      "title": "Treasury Yields Have Surged. Is It Finally Time to Buy Bond ETFs?",
+      "link": "https://finance.yahoo.com/m/9d301fd1-bade-3319-81fd-08711b71d733/treasury-yields-have-surged..html",
       "publisher": "Motley Fool",
-      "time": 1787418300,
+      "time": 1787420100,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "a6434137-d738-3803-ab31-a65cc0756a5f",
-      "title": "Microsoft Has Something Nvidia Doesn’t and Here’s Why it Matters",
-      "link": "https://finance.yahoo.com/m/a6434137-d738-3803-ab31-a65cc0756a5f/microsoft-has-something.html",
+      "id": "c84a6820-dc63-3a68-8bec-2f7ca5a46fd2",
+      "title": "Will Apple’s risk appetite change under John Ternus?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-risk-appetite-change-under-173456162.html",
+      "publisher": "Investing.com",
+      "time": 1787420096,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "632b270a-46ea-32fc-832e-29133748a33a",
+      "title": "Let’s Be Real. For Most Retirees, Only One Great Lake Town Actually Works",
+      "link": "https://finance.yahoo.com/m/632b270a-46ea-32fc-832e-29133748a33a/let%E2%80%99s-be-real.-for-most.html",
       "publisher": "24/7 Wall St.",
-      "time": 1787418029,
+      "time": 1787419951,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "80fccd3f-45f4-32e1-941a-000a05f5d4d7",
-      "title": "Watch WSJ’s DC Coverage Chief Ride in a Corvette on the IndyCar Track",
-      "link": "https://finance.yahoo.com/video/watch-wsj-dc-coverage-chief-170000007.html",
-      "publisher": "WSJ",
-      "time": 1787418000,
+      "id": "ade6205e-44af-3d41-b1c3-a968d3ba79e2",
+      "title": "I challenged him to make $1,000 in 30 days (he failed)",
+      "link": "https://finance.yahoo.com/m/ade6205e-44af-3d41-b1c3-a968d3ba79e2/i-challenged-him-to-make.html",
+      "publisher": "Starter Story",
+      "time": 1787419884,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e3c1b771-d691-37e9-9977-707429453ab1",
-      "title": "As Global Fuel Markets Whipsaw Through Historic Volatility, JSV Global's Jason Venturelli Calls for a New Playbook on Fuel Risk",
-      "link": "https://finance.yahoo.com/energy/articles/global-fuel-markets-whipsaw-historic-170000873.html",
-      "publisher": "PR Newswire",
-      "time": 1787418000,
+      "id": "307df019-ae43-34ee-bd0d-0745b0bcefe5",
+      "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
+      "link": "https://finance.yahoo.com/m/307df019-ae43-34ee-bd0d-0745b0bcefe5/microsoft-fixes-%27perfect-10%27.html",
+      "publisher": "decrypt",
+      "time": 1787419863,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b5a02341-2897-3eb1-afb1-00bbac5d47b9",
+      "title": "Ag. Secretary Rollins defends Trump decision to import more ground beef",
+      "link": "https://finance.yahoo.com/m/b5a02341-2897-3eb1-afb1-00bbac5d47b9/ag.-secretary-rollins-defends.html",
+      "publisher": "USA TODAY",
+      "time": 1787419597,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f07ddef0-b772-3187-b40a-feed7dc52848",
+      "title": "Pope's 'couturier of the sacred' fueled by faith",
+      "link": "https://finance.yahoo.com/m/f07ddef0-b772-3187-b40a-feed7dc52848/pope%27s-%27couturier-of-the.html",
+      "publisher": "AFP",
+      "time": 1787419321,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ba204cf1-f95b-34f0-87eb-1787ec785576",
+      "title": "Unifor reaches tentative agreements with General Motors",
+      "link": "https://finance.yahoo.com/economy/policy/articles/unifor-reaches-tentative-agreements-general-172100894.html",
+      "publisher": "CNW Group",
+      "time": 1787419260,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fe2561de-80e1-30a7-b421-c423452271e1",
+      "title": "Why first-time buyers struggle in Rochester's housing market",
+      "link": "https://finance.yahoo.com/m/fe2561de-80e1-30a7-b421-c423452271e1/why-first-time-buyers.html",
+      "publisher": "Post-Bulletin, Rochester, Minn.",
+      "time": 1787419260,
       "impact": "low",
       "tags": [
         "macro"
       ]
-    },
-    {
-      "id": "4d5a38df-8e2e-3ece-a159-af1899d2ad91",
-      "title": "MillworkSuite Launches AI Estimating and Direct-to-CAD Platform That Cuts Drafting Time in Half",
-      "link": "https://finance.yahoo.com/technology/ai/articles/millworksuite-launches-ai-estimating-direct-165900937.html",
-      "publisher": "PR Newswire",
-      "time": 1787417940,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e0074048-a14d-3742-a610-906004080c29",
-      "title": "Ripple CEO Brad Garlinghouse Calls CFTC’s New Crypto Panel An ‘Olympic Roster’",
-      "link": "https://finance.yahoo.com/m/e0074048-a14d-3742-a610-906004080c29/ripple-ceo-brad-garlinghouse.html",
-      "publisher": "Stocktwits",
-      "time": 1787417829,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1ce1aa66-77da-356b-99ff-f86118f11eca",
-      "title": "U.S. Imposes 50% Tariffs on $20 Billion in Canadian Goods After Trade Talks Collapse",
-      "link": "https://finance.yahoo.com/m/1ce1aa66-77da-356b-99ff-f86118f11eca/u.s.-imposes-50%25-tariffs-on.html",
-      "publisher": "Barrons.com",
-      "time": 1787417400,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "36d77c52-b878-30c3-8809-4a60c9709115",
-      "title": "Senior Community Service Employment Program seeks applicants in Jamestown, Fargo",
-      "link": "https://finance.yahoo.com/m/36d77c52-b878-30c3-8809-4a60c9709115/senior-community-service.html",
-      "publisher": "The Jamestown Sun, N.D.",
-      "time": 1787417400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8bf76d60-487a-36ca-b6a3-8fbb4ffa82ac",
-      "title": "Hearing loss a common issue for some farmers",
-      "link": "https://finance.yahoo.com/m/8bf76d60-487a-36ca-b6a3-8fbb4ffa82ac/hearing-loss-a-common-issue.html",
-      "publisher": "The Jamestown Sun, N.D.",
-      "time": 1787417400,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
