@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T22:45:44.529257+00:00",
+  "updatedAt": "2026-08-22T23:13:55.003472+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -28,9 +28,9 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26136.56,
-      "change": 45.22999999999956,
-      "changePct": 0.17335260410258718,
+      "price": 26136.6,
+      "change": 45.2699999999968,
+      "changePct": 0.17350591173388555,
       "currency": "EUR"
     },
     {
@@ -51,6 +51,71 @@
     }
   ],
   "news": [
+    {
+      "id": "1e89bf0d-d72e-3ad4-984c-d7ab8ed971e9",
+      "title": "Her Advisor Said Wait Until 70. At 66, She Chose Time to Enjoy Social Security Over an 8%-a-Year Raise.",
+      "link": "https://finance.yahoo.com/m/1e89bf0d-d72e-3ad4-984c-d7ab8ed971e9/her-advisor-said-wait-until.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787439924,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "52c2ef57-516d-32f7-a91c-226b6711a5c1",
+      "title": "The 30-Year Treasury Now Out-Yields Dividend Stocks by 2.2 Points. History Says What Followed the Last Time.",
+      "link": "https://finance.yahoo.com/m/52c2ef57-516d-32f7-a91c-226b6711a5c1/the-30-year-treasury-now.html",
+      "publisher": "Motley Fool",
+      "time": 1787439661,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "770fe56e-f631-301d-94d7-a20b9a7a2902",
+      "title": "World No. 3 Pegula beats defending champ Swiatek to reach Cincy final",
+      "link": "https://finance.yahoo.com/m/770fe56e-f631-301d-94d7-a20b9a7a2902/world-no.-3-pegula-beats.html",
+      "publisher": "AFP",
+      "time": 1787439638,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "974cde81-3655-3751-aaa3-19439845e449",
+      "title": "Top analyst sees trouble looming for SpaceX stock",
+      "link": "https://finance.yahoo.com/m/974cde81-3655-3751-aaa3-19439845e449/top-analyst-sees-trouble.html",
+      "publisher": "TheStreet",
+      "time": 1787439600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "39d9e4ad-4bf0-38c2-80e9-02b2b3e25a09",
+      "title": "IndyCars zip among iconic Washington landmarks ahead of Freedom 250",
+      "link": "https://finance.yahoo.com/m/39d9e4ad-4bf0-38c2-80e9-02b2b3e25a09/indycars-zip-among-iconic.html",
+      "publisher": "AFP",
+      "time": 1787439109,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "19f3a967-7355-31a6-9eeb-131668da3b94",
+      "title": "He Sold Nothing in the 2022 Crash. He Swapped Into a Similar Fund for a Week, Booked $90,000 of Losses, and Hasn’t Paid Capital-Gains Tax Since.",
+      "link": "https://finance.yahoo.com/m/19f3a967-7355-31a6-9eeb-131668da3b94/he-sold-nothing-in-the-2022.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787438822,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "37c3e28f-6b8d-34ef-86b0-b69a0a54703b",
+      "title": "Judge rules Keene ICE detainee unlawfully held without bond hearing",
+      "link": "https://finance.yahoo.com/m/37c3e28f-6b8d-34ef-86b0-b69a0a54703b/judge-rules-keene-ice.html",
+      "publisher": "New Hampshire Union Leader, Manchester",
+      "time": 1787438760,
+      "impact": "low",
+      "tags": []
+    },
     {
       "id": "29b8d063-b970-3bc8-9088-41f59162f514",
       "title": "HBO Max Is Free Right Now For 7 Days With This Prime Video Promo",
@@ -75,69 +140,6 @@
       "link": "https://finance.yahoo.com/m/199a7bbe-6870-3c31-b182-82013fb73622/apple-announced-its.html",
       "publisher": "Motley Fool",
       "time": 1787437200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5984ee8f-29f6-34e8-9272-a185405dd189",
-      "title": "Wyndham Clark surges clear at BMW Championship",
-      "link": "https://finance.yahoo.com/m/5984ee8f-29f6-34e8-9272-a185405dd189/wyndham-clark-surges-clear-at.html",
-      "publisher": "AFP",
-      "time": 1787437156,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8056b9d8-8cea-3ffa-b64a-e19000cfbede",
-      "title": "Up 20% in 1 Day, is Hyperliquid Worth Buying Hand Over Fist Right Now?",
-      "link": "https://finance.yahoo.com/m/8056b9d8-8cea-3ffa-b64a-e19000cfbede/up-20%25-in-1-day%2C-is.html",
-      "publisher": "Motley Fool",
-      "time": 1787437020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "af99739a-5c31-32d6-b956-b6d102882672",
-      "title": "Ken de la Bastide column: Residents will be dealing with flooding for years",
-      "link": "https://finance.yahoo.com/m/af99739a-5c31-32d6-b956-b6d102882672/ken-de-la-bastide-column%3A.html",
-      "publisher": "The Herald Bulletin, Anderson, Ind.",
-      "time": 1787437020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "428f9aaf-8970-3d23-8913-502dda54dffe",
-      "title": "Real Madrid snatch late win at Espanyol on Mourinho's return",
-      "link": "https://finance.yahoo.com/m/428f9aaf-8970-3d23-8913-502dda54dffe/real-madrid-snatch-late-win.html",
-      "publisher": "AFP",
-      "time": 1787437018,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b488d09a-effe-3834-ad8d-122ecb494bbf",
-      "title": "Inter thrash Monza to launch Serie A title defence",
-      "link": "https://finance.yahoo.com/m/b488d09a-effe-3834-ad8d-122ecb494bbf/inter-thrash-monza-to-launch.html",
-      "publisher": "AFP",
-      "time": 1787436949,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4bab6d0a-c0f6-31f9-b34e-63a82276c1ee",
-      "title": "Amazon's $212 Seiko luxury watch proves every collector needs a chronograph",
-      "link": "https://finance.yahoo.com/m/4bab6d0a-c0f6-31f9-b34e-63a82276c1ee/amazon%27s-%24212-seiko-luxury.html",
-      "publisher": "TheStreet",
-      "time": 1787436900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bd893c93-5151-3696-b97e-337163449083",
-      "title": "Germany's Merz to press cabinet for faster pro-growth reforms",
-      "link": "https://finance.yahoo.com/news/germanys-merz-press-cabinet-faster-221133811.html",
-      "publisher": "Reuters",
-      "time": 1787436693,
       "impact": "low",
       "tags": []
     }
