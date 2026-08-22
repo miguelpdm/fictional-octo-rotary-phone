@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T09:49:24.672899+00:00",
+  "updatedAt": "2026-08-22T10:16:20.042907+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,95 +52,96 @@
   ],
   "news": [
     {
-      "id": "8d5b448b-ba93-315d-a272-d325d2abd265",
-      "title": "Couple finds $5 on the ground and wins $400,000 after buying a lottery ticket – what experts say they should do next",
-      "link": "https://finance.yahoo.com/markets/articles/couple-finds-5-ground-wins-094500405.html",
-      "publisher": "Moneywise",
-      "time": 1787391900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "002cf6eb-c9ba-34e5-9f03-1d68d44a02ab",
-      "title": "Social Security Recipients Could Soon Work Without Benefit Penalties",
-      "link": "https://finance.yahoo.com/m/002cf6eb-c9ba-34e5-9f03-1d68d44a02ab/social-security-recipients.html",
+      "id": "c57c10a1-c352-323f-b271-158904fccb1c",
+      "title": "Joby Aviation Stock Is More Than 60% Off Its High. Is a Reverse Stock Split Imminent?",
+      "link": "https://finance.yahoo.com/m/c57c10a1-c352-323f-b271-158904fccb1c/joby-aviation-stock-is-more.html",
       "publisher": "Motley Fool",
-      "time": 1787391420,
+      "time": 1787393340,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "96401403-751f-3ce3-b4f6-cfe4ceb99d0a",
-      "title": "Prediction: This Will Be Palantir's Stock Price by the End of 2030",
-      "link": "https://finance.yahoo.com/m/96401403-751f-3ce3-b4f6-cfe4ceb99d0a/prediction%3A-this-will-be.html",
+      "id": "0a40fb3d-1fb7-39f4-82f8-8489ff68f8ff",
+      "title": "Dozens of civilians killed, kidnapped as jihadists clash in Nigeria",
+      "link": "https://finance.yahoo.com/m/0a40fb3d-1fb7-39f4-82f8-8489ff68f8ff/dozens-of-civilians-killed%2C.html",
+      "publisher": "AFP",
+      "time": 1787393157,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "11480eb1-f775-305d-a197-c23c634491ea",
+      "title": "Could Investing $10,000 in Netflix Set You Up for Life?",
+      "link": "https://finance.yahoo.com/m/11480eb1-f775-305d-a197-c23c634491ea/could-investing-%2410%2C000-in.html",
       "publisher": "Motley Fool",
-      "time": 1787391300,
+      "time": 1787393100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "230f471c-3709-3271-b7bf-349e1c8dd72d",
-      "title": "Is Your Therapist Biased? Personal Agendas Are Creeping Into the Therapy Room",
-      "link": "https://finance.yahoo.com/m/230f471c-3709-3271-b7bf-349e1c8dd72d/is-your-therapist-biased%3F.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787391000,
+      "id": "c58034dc-ea2b-3921-9995-98e20d39317a",
+      "title": "Is Stow getting a Giant Eagle Market District?",
+      "link": "https://finance.yahoo.com/m/c58034dc-ea2b-3921-9995-98e20d39317a/is-stow-getting-a-giant-eagle.html",
+      "publisher": "Akron Beacon Journal",
+      "time": 1787393049,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "48897918-9f6c-37bf-8f09-8814256b281f",
-      "title": "Electronics Delivery (2026): Same-Day Options for Chargers, Earbuds, Monitors, and Last-Minute Tech Needs by Expert Consumers",
-      "link": "https://finance.yahoo.com/technology/articles/electronics-delivery-2026-same-day-093000295.html",
-      "publisher": "PR Newswire",
-      "time": 1787391000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "59edc86f-56db-333d-adc7-08dc8582519f",
-      "title": "He borrowed $15,000 from his brother, lost it all day trading and kept lying — here's how to recover",
-      "link": "https://finance.yahoo.com/markets/options/articles/borrowed-15-000-brother-lost-093000047.html",
-      "publisher": "Moneywise",
-      "time": 1787391000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a68b667b-c5cf-3c0d-ad71-53bb59d6dce3",
-      "title": "The New Gambling Tax Turns Break-Even Bettors Into “Winners” on Paper. Congress Has Been Fighting to Undo It and Losing",
-      "link": "https://finance.yahoo.com/m/a68b667b-c5cf-3c0d-ad71-53bb59d6dce3/the-new-gambling-tax-turns.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787390956,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b20fed1e-78ae-3957-90f5-ef8c0ecbb306",
-      "title": "Iran says the world has accepted it has defeated the US, and other Middle East developments",
-      "link": "https://finance.yahoo.com/m/b20fed1e-78ae-3957-90f5-ef8c0ecbb306/iran-says-the-world-has.html",
-      "publisher": "Associated Press",
-      "time": 1787390637,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e0f32f0a-483c-35b4-ac71-fee235cc1eb1",
-      "title": "Ukrainian drones hit Ozon warehouse as Russia reports major overnight attack",
-      "link": "https://finance.yahoo.com/m/e0f32f0a-483c-35b4-ac71-fee235cc1eb1/ukrainian-drones-hit-ozon.html",
-      "publisher": "Investing.com",
-      "time": 1787390416,
-      "impact": "high",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "8224dac3-e9be-348b-8a19-a6615264d183",
-      "title": "Rocket Lab's HASTE Is Flying Hypersonic Missions for the Pentagon. Here's the Defense Business Hiding Inside a Space Stock.",
-      "link": "https://finance.yahoo.com/m/8224dac3-e9be-348b-8a19-a6615264d183/rocket-lab%27s-haste-is-flying.html",
-      "publisher": "Motley Fool",
-      "time": 1787390400,
+      "id": "79c21dd4-da95-3611-ab0c-7b36c7ee60b5",
+      "title": "She Dug Up Dinosaurs for a Living. A 20-Year-Old Fossil in Her Social Security Record Was Costing Her Every Month.",
+      "link": "https://finance.yahoo.com/m/79c21dd4-da95-3611-ab0c-7b36c7ee60b5/she-dug-up-dinosaurs-for-a.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787392999,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7a1a1dd6-33fb-39f9-8ba6-0374c1e570ea",
+      "title": "'Faith' becomes a new battleground for Democrats",
+      "link": "https://finance.yahoo.com/m/7a1a1dd6-33fb-39f9-8ba6-0374c1e570ea/%27faith%27-becomes-a-new.html",
+      "publisher": "USA TODAY",
+      "time": 1787392951,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ae581bc7-b208-3bdb-abeb-9cfae8c680ba",
+      "title": "⁠Their finances were tough. Then came 'insane' back-to-school costs",
+      "link": "https://finance.yahoo.com/m/ae581bc7-b208-3bdb-abeb-9cfae8c680ba/%E2%81%A0their-finances-were-tough..html",
+      "publisher": "USA TODAY",
+      "time": 1787392921,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9fb8f003-d202-3a82-9ef3-103fa4400193",
+      "title": "Freightos Targets Q4 2026 EBITDA Breakeven as Revenue Hits Record $7.7M",
+      "link": "https://finance.yahoo.com/m/9fb8f003-d202-3a82-9ef3-103fa4400193/freightos-targets-q4-2026.html",
+      "publisher": "MarketBeat",
+      "time": 1787392913,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "075831ea-ca0a-3ad0-a051-13a2129af891",
+      "title": "/R E P E A T -- Media Advisory: Infrastructure Announcement in Mississauga/",
+      "link": "https://finance.yahoo.com/media-advertising/articles/r-e-p-e-t-100000114.html",
+      "publisher": "CNW Group",
+      "time": 1787392800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0d045003-b7d2-3b5b-9f83-b3c82d6e3652",
+      "title": "A stolen wallet gives thieves access to your identity and finances — here's what to do before the damage spreads",
+      "link": "https://finance.yahoo.com/markets/articles/stolen-wallet-gives-thieves-access-100000938.html",
+      "publisher": "Moneywise",
+      "time": 1787392800,
       "impact": "low",
       "tags": []
     }
