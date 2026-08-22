@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T21:43:47.327716+00:00",
+  "updatedAt": "2026-08-22T22:14:48.281131+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -51,6 +51,80 @@
     }
   ],
   "news": [
+    {
+      "id": "7d63ebe1-e772-3700-9ab3-b25d8d2159cc",
+      "title": "Teen killed at California high school football game; suspect arrested",
+      "link": "https://finance.yahoo.com/m/7d63ebe1-e772-3700-9ab3-b25d8d2159cc/teen-killed-at-california.html",
+      "publisher": "USA TODAY",
+      "time": 1787436286,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "428f9aaf-8970-3d23-8913-502dda54dffe",
+      "title": "Real Madrid snatch late win at Espanyol on Mourinho's return",
+      "link": "https://finance.yahoo.com/m/428f9aaf-8970-3d23-8913-502dda54dffe/real-madrid-snatch-late-win.html",
+      "publisher": "AFP",
+      "time": 1787436057,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "47ca90d0-7dc4-369a-a0fb-84ef9f3f3f58",
+      "title": "Social Security’s $184,500 Wage Cap Is Under Fire. Here’s Exactly Who Would Pay More",
+      "link": "https://finance.yahoo.com/m/47ca90d0-7dc4-369a-a0fb-84ef9f3f3f58/social-security%E2%80%99s-%24184%2C500.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787436003,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "746e7762-4551-375a-9d5f-d1fbc11712bf",
+      "title": "Maresca says Man City must fill Rodri void after Barca switch",
+      "link": "https://finance.yahoo.com/m/746e7762-4551-375a-9d5f-d1fbc11712bf/maresca-says-man-city-must.html",
+      "publisher": "AFP",
+      "time": 1787435750,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "03826216-544e-3e4a-b80e-ffb2e50fbf69",
+      "title": "ASEAN Records and ASIA Records Announce Major Expansion as Verified Record Certification Grows Across Asia",
+      "link": "https://finance.yahoo.com/media-advertising/articles/asean-records-asia-records-announce-215100817.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787435460,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "80c028e9-14fe-315d-8555-6243c20a93ea",
+      "title": "Institutional Investors Are Buying Hyperliquid Strategies. Should You?",
+      "link": "https://finance.yahoo.com/m/80c028e9-14fe-315d-8555-6243c20a93ea/institutional-investors-are.html",
+      "publisher": "Motley Fool",
+      "time": 1787435400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "134722e8-8fd5-33e1-8d3c-7f27a7c4585b",
+      "title": "Insider Transaction: Cytokinetics CEO Robert Blum Sells 7,500 Shares for $575,700",
+      "link": "https://finance.yahoo.com/m/134722e8-8fd5-33e1-8d3c-7f27a7c4585b/insider-transaction%3A.html",
+      "publisher": "Motley Fool",
+      "time": 1787434921,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "500cf0b7-0069-37ba-8bcb-ffa01c0237fc",
+      "title": "Bear attacks, conflicts with humans reach historic levels in Colorado",
+      "link": "https://finance.yahoo.com/m/500cf0b7-0069-37ba-8bcb-ffa01c0237fc/bear-attacks%2C-conflicts-with.html",
+      "publisher": "USA TODAY",
+      "time": 1787434500,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
     {
       "id": "579c7947-d57e-3a86-93ec-aa6d7f652fef",
       "title": "This Under-the-Radar Healthcare Stock Yields Nearly 8.5%. Here's Whether That Income Is Too Good to Be True.",
@@ -70,87 +144,6 @@
       "tags": [
         "macro"
       ]
-    },
-    {
-      "id": "49249539-9c73-34a9-83db-f84b607495c2",
-      "title": "One quantum stock just posted a 9,000% revenue jump",
-      "link": "https://finance.yahoo.com/m/49249539-9c73-34a9-83db-f84b607495c2/one-quantum-stock-just-posted.html",
-      "publisher": "TheStreet",
-      "time": 1787434380,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f87f5911-5690-3055-b2f5-ba4d1da62e2e",
-      "title": "Lens hammer Auxerre thanks to Thauvin penalty double",
-      "link": "https://finance.yahoo.com/m/f87f5911-5690-3055-b2f5-ba4d1da62e2e/lens-hammer-auxerre-thanks-to.html",
-      "publisher": "AFP",
-      "time": 1787434214,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9f49c756-8222-3b4a-b640-6e28386af8d0",
-      "title": "Outside investigation into St. Paul mayor likely to be costly, with end date unknown",
-      "link": "https://finance.yahoo.com/m/9f49c756-8222-3b4a-b640-6e28386af8d0/outside-investigation-into.html",
-      "publisher": "Pioneer Press, St. Paul, Minn.",
-      "time": 1787433960,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e1410063-61e1-34f9-80b8-904041184cb1",
-      "title": "Olise helps Bayern past Dortmund in German Supercup",
-      "link": "https://finance.yahoo.com/m/e1410063-61e1-34f9-80b8-904041184cb1/olise-helps-bayern-past.html",
-      "publisher": "AFP",
-      "time": 1787433872,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "40c69143-76e3-3ef8-96c7-02aab4fec397",
-      "title": "Reddit vs. Rigetti Computing: Which High-Growth Stock Is a Better Buy in 2026, the Social Media Giant or Rising Quantum Computing Company?",
-      "link": "https://finance.yahoo.com/m/40c69143-76e3-3ef8-96c7-02aab4fec397/reddit-vs.-rigetti-computing%3A.html",
-      "publisher": "Motley Fool",
-      "time": 1787433807,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b44af867-cf68-3f09-9fba-be7ee89098ec",
-      "title": "The Spendthrift Clause: One Paragraph That Keeps Your Son’s Divorce, and His Creditors, Away From the Money You Leave Him.",
-      "link": "https://finance.yahoo.com/m/b44af867-cf68-3f09-9fba-be7ee89098ec/the-spendthrift-clause%3A-one.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787433541,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d571bd2f-8569-3cca-9aa3-7e1b610fdb41",
-      "title": "Strive Director Pierre Rochard Buys 15,900 Shares After 86% Decline. Is a Rebound Coming?",
-      "link": "https://finance.yahoo.com/m/d571bd2f-8569-3cca-9aa3-7e1b610fdb41/strive-director-pierre.html",
-      "publisher": "Motley Fool",
-      "time": 1787433481,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "142549be-8428-3971-9b6f-ebecffcde222",
-      "title": "Nvidia customers face over 15% server price hikes as memory costs soar - report",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-customers-face-over-15-211744754.html",
-      "publisher": "Investing.com",
-      "time": 1787433464,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3017e3f7-68b5-329c-82ce-dcc3d3d1b7a7",
-      "title": "Bills vs. Browns highlights Preseason Week 2",
-      "link": "https://finance.yahoo.com/m/3017e3f7-68b5-329c-82ce-dcc3d3d1b7a7/bills-vs.-browns-highlights.html",
-      "publisher": "NFL Highlights",
-      "time": 1787433381,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
