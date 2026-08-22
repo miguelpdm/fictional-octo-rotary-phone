@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T15:13:41.104948+00:00",
+  "updatedAt": "2026-08-22T15:43:49.617209+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -28,9 +28,9 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26136.6,
-      "change": 45.2699999999968,
-      "changePct": 0.17350591173388555,
+      "price": 26136.56,
+      "change": 45.22999999999956,
+      "changePct": 0.17335260410258718,
       "currency": "EUR"
     },
     {
@@ -52,11 +52,29 @@
   ],
   "news": [
     {
-      "id": "ac2668b0-0ee8-3d0b-883f-869e95be3dfc",
-      "title": "A trade war between Canada and the US deepens rupture in what had been a close and durable alliance",
-      "link": "https://finance.yahoo.com/m/ac2668b0-0ee8-3d0b-883f-869e95be3dfc/a-trade-war-between-canada.html",
-      "publisher": "Associated Press",
-      "time": 1787411235,
+      "id": "6e050776-1b7f-37c7-8f18-dba6d03e5ffa",
+      "title": "Tesla's Model Y L Is Coming to America. Will It Reignite Sales Growth?",
+      "link": "https://finance.yahoo.com/m/6e050776-1b7f-37c7-8f18-dba6d03e5ffa/tesla%27s-model-y-l-is-coming.html",
+      "publisher": "Motley Fool",
+      "time": 1787412900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8c5173fe-773a-35e5-846d-28e49b72e142",
+      "title": "Unifor, GM reach tentative deals for Canadian autoworkers",
+      "link": "https://finance.yahoo.com/m/8c5173fe-773a-35e5-846d-28e49b72e142/unifor%2C-gm-reach-tentative.html",
+      "publisher": "Detroit Free Press",
+      "time": 1787412796,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "aa80c70f-ecc8-3992-bfae-fd1d561f35d6",
+      "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
+      "link": "https://finance.yahoo.com/m/aa80c70f-ecc8-3992-bfae-fd1d561f35d6/ai-has-made-bitcoin-software.html",
+      "publisher": "decrypt",
+      "time": 1787412664,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,91 +82,71 @@
       ]
     },
     {
-      "id": "9e0a09c5-97b2-36dc-9189-682363a4eb46",
-      "title": "Warren Buffett sends investors 10-word stock market warning",
-      "link": "https://finance.yahoo.com/m/9e0a09c5-97b2-36dc-9189-682363a4eb46/warren-buffett-sends.html",
+      "id": "1c0ee406-df0b-3dcf-87bf-46dacb04a262",
+      "title": "Scott Bessent predicts AI's boom will drive productivity so high that prices fall long-term",
+      "link": "https://finance.yahoo.com/technology/ai/articles/scott-bessent-predicts-ais-boom-153000594.html",
+      "publisher": "Moneywise",
+      "time": 1787412600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "24e5971d-4d05-30ca-a60e-7458e2c1048c",
+      "title": "Walmart is selling a 3-piece living room set with a reclining sofa, loveseat, and chair for only $1,000",
+      "link": "https://finance.yahoo.com/m/24e5971d-4d05-30ca-a60e-7458e2c1048c/walmart-is-selling-a-3-piece.html",
       "publisher": "TheStreet",
-      "time": 1787411220,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "be302d93-2946-3afd-aa70-100d791fd518",
-      "title": "When he dies, Warren Buffett wants 90% of wife’s inheritance put into 1 investment. Here’s what it is, and how to get it",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dies-warren-buffett-wants-90-150500152.html",
-      "publisher": "Moneywise",
-      "time": 1787411100,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "f4c0121b-61c4-3c37-b010-291d194191dc",
-      "title": "Nike Closes 15 Small Format Nike Live Retail Stores",
-      "link": "https://finance.yahoo.com/m/f4c0121b-61c4-3c37-b010-291d194191dc/nike-closes-15-small-format.html",
-      "publisher": "CRE Daily",
-      "time": 1787411054,
+      "time": 1787412600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "22ad510c-aafd-3895-8cec-8507c79fb29b",
-      "title": "Prediction: CoreWeave Stock Will Double on This Date",
-      "link": "https://finance.yahoo.com/m/22ad510c-aafd-3895-8cec-8507c79fb29b/prediction%3A-coreweave-stock.html",
+      "id": "c9ee319e-7310-34a1-8c13-fa67f6bb8d7a",
+      "title": "Canadian Prime Minister Mark Carney says retaliatory tariffs on US goods will take effect on Sept. 8",
+      "link": "https://finance.yahoo.com/m/c9ee319e-7310-34a1-8c13-fa67f6bb8d7a/canadian-prime-minister-mark.html",
+      "publisher": "Associated Press",
+      "time": 1787412585,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "0e0fe44a-9bc3-3c02-9c55-50bb0f36dac1",
+      "title": "The Master of the Margin Call: How Ken Griffin Turned an AI Meltdown into a $4 Billion Masterclass",
+      "link": "https://finance.yahoo.com/m/0e0fe44a-9bc3-3c02-9c55-50bb0f36dac1/the-master-of-the-margin.html",
       "publisher": "24/7 Wall St.",
-      "time": 1787410803,
+      "time": 1787412359,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "22c7d99e-64b0-3845-b917-894cbf29a719",
-      "title": "Some Lyft and Uber drivers are charging passengers for damage that never happened — how to dispute it",
-      "link": "https://finance.yahoo.com/small-business/articles/lyft-uber-drivers-charging-passengers-150000369.html",
-      "publisher": "Moneywise",
-      "time": 1787410800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f4431ba9-00d3-393a-9bfe-389c691d3be4",
-      "title": "Understanding Lymph System Support Supplements: PureHealth Research Highlights Natural Ingredients for Everyday Wellness",
-      "link": "https://finance.yahoo.com/healthcare/articles/understanding-lymph-system-support-supplements-150000620.html",
-      "publisher": "PR Newswire",
-      "time": 1787410800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9bda4a1f-6a17-348d-873a-f933e4120643",
-      "title": "Gillette Buys South Boston Life Science Site for $99.29M",
-      "link": "https://finance.yahoo.com/m/9bda4a1f-6a17-348d-873a-f933e4120643/gillette-buys-south-boston.html",
-      "publisher": "CRE Daily",
-      "time": 1787410585,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b504c99b-b40d-328e-9d2f-b8f80ae75e28",
-      "title": "Trump's trade deal with Canada collapses",
-      "link": "https://finance.yahoo.com/m/b504c99b-b40d-328e-9d2f-b8f80ae75e28/trump%27s-trade-deal-with.html",
-      "publisher": "CBS News Videos",
-      "time": 1787410538,
-      "impact": "medium",
+      "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
+      "title": "Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada",
+      "link": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures%3A-market.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787412348,
+      "impact": "high",
       "tags": [
-        "geo"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "073354d0-bbe5-39a6-b25c-676de64aefa5",
-      "title": "Serena Williams and Alcaraz unite in US Open mixed doubles",
-      "link": "https://finance.yahoo.com/m/073354d0-bbe5-39a6-b25c-676de64aefa5/serena-williams-and-alcaraz.html",
-      "publisher": "AFP",
-      "time": 1787410523,
+      "id": "2c0f9c39-4b59-31c6-b37c-7314ca17bb35",
+      "title": "Insider Sells Over 17,000 Shares of Utility Stock, Valued at Nearly $700,000",
+      "link": "https://finance.yahoo.com/m/2c0f9c39-4b59-31c6-b37c-7314ca17bb35/insider-sells-over-17%2C000.html",
+      "publisher": "Motley Fool",
+      "time": 1787412301,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cf2c856c-e611-31f7-9e29-c3035df27f13",
+      "title": "How a 77-Year-Old Collects $9,700 a Month Without Selling a Single Share",
+      "link": "https://finance.yahoo.com/m/cf2c856c-e611-31f7-9e29-c3035df27f13/how-a-77-year-old-collects.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787412211,
       "impact": "low",
       "tags": []
     }
