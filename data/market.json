@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T16:49:37.943050+00:00",
+  "updatedAt": "2026-08-23T17:14:47.822567+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,79 @@
   ],
   "news": [
     {
+      "id": "71a8f2dc-68de-3123-bbcc-2179142c8350",
+      "title": "Bill Ackman's Pershing Square invests $1.1B in fintech giant",
+      "link": "https://finance.yahoo.com/m/71a8f2dc-68de-3123-bbcc-2179142c8350/bill-ackman%27s-pershing-square.html",
+      "publisher": "TheStreet",
+      "time": 1787504820,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b411e83a-380a-3166-a44d-53ae206eba94",
+      "title": "Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy",
+      "link": "https://finance.yahoo.com/markets/articles/rachel-cruze-george-kamel-share-170000908.html",
+      "publisher": "Moneywise",
+      "time": 1787504400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f21a02ae-ca97-3b76-a47e-2c5a1a310d4e",
+      "title": "An e.l.f. Beauty Insider Sells 5,718 Shares. Here's What That Means for Investors.",
+      "link": "https://finance.yahoo.com/m/f21a02ae-ca97-3b76-a47e-2c5a1a310d4e/an-e.l.f.-beauty-insider.html",
+      "publisher": "Motley Fool",
+      "time": 1787504260,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
+      "title": "Dow Jones Futures Due; Nvidia Earnings, Canada Tariffs, Warsh In Focus",
+      "link": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures-due%3B-nvidia.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787504166,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "d8f8b909-e211-343a-bf2a-25b1367cd4f3",
+      "title": "Your Last Chance to Buy Nvidia Stock for Cheap in 2026 May Be Near",
+      "link": "https://finance.yahoo.com/m/d8f8b909-e211-343a-bf2a-25b1367cd4f3/your-last-chance-to-buy.html",
+      "publisher": "Motley Fool",
+      "time": 1787504100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c34f8656-2a1a-3ab1-8528-f2c726ffa03a",
+      "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+      "link": "https://finance.yahoo.com/m/c34f8656-2a1a-3ab1-8528-f2c726ffa03a/%E2%80%98she-looked-into-cobra%E2%80%99%3A-my.html",
+      "publisher": "MarketWatch",
+      "time": 1787503500,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
       "id": "71ae915b-44ee-375e-8ac7-1f2bdb814fa2",
       "title": "Is This $7 Stock Your Ticket to Becoming a Millionaire?",
       "link": "https://finance.yahoo.com/m/71ae915b-44ee-375e-8ac7-1f2bdb814fa2/is-this-%247-stock-your-ticket.html",
       "publisher": "Motley Fool",
       "time": 1787503440,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4a0a0d63-0a76-3191-9405-9b9b4d5ba988",
+      "title": "Texas welcomed the AI boom. Now Abbott says data centers \"dug their own grave\"",
+      "link": "https://finance.yahoo.com/m/4a0a0d63-0a76-3191-9405-9b9b4d5ba988/texas-welcomed-the-ai-boom..html",
+      "publisher": "Axios",
+      "time": 1787503099,
       "impact": "low",
       "tags": []
     },
@@ -78,76 +146,6 @@
       "link": "https://finance.yahoo.com/m/e3dec99c-8821-37fe-b691-ccb06a04474a/63%25-of-religious-books-on.html",
       "publisher": "decrypt",
       "time": 1787502664,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b7332ad2-e01d-3d5a-8f23-140c569b3f4f",
-      "title": "Gas Turbine Prices Are on Track to Nearly Triple. These Stocks Are Cashing In",
-      "link": "https://finance.yahoo.com/m/b7332ad2-e01d-3d5a-8f23-140c569b3f4f/gas-turbine-prices-are-on.html",
-      "publisher": "Motley Fool",
-      "time": 1787502660,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "69010bbc-f6ce-36b7-b82e-d23c5463aa7f",
-      "title": "Loudoun County raked in $1.1 billion in tax revenue from data centers — then residents started pushing back",
-      "link": "https://finance.yahoo.com/real-estate/articles/loudoun-county-raked-1-1-163000239.html",
-      "publisher": "Moneywise",
-      "time": 1787502600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "71703e3b-ae35-30c5-a0f8-84b3c5e4c9f5",
-      "title": "America’s Fastest Growing Retirement Town Is Not in Florida or Arizona",
-      "link": "https://finance.yahoo.com/m/71703e3b-ae35-30c5-a0f8-84b3c5e4c9f5/america%E2%80%99s-fastest-growing.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787502597,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7136fa78-61f7-3120-8646-c944154c2261",
-      "title": "Dropbox's CFO Filed Days After Raising Guidance. What Should Investors Make of the Sequence?",
-      "link": "https://finance.yahoo.com/m/7136fa78-61f7-3120-8646-c944154c2261/dropbox%27s-cfo-filed-days.html",
-      "publisher": "Motley Fool",
-      "time": 1787502398,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "4a0a0d63-0a76-3191-9405-9b9b4d5ba988",
-      "title": "Texas welcomed the AI boom. Now Abbott says data centers \"dug their own grave\"",
-      "link": "https://finance.yahoo.com/m/4a0a0d63-0a76-3191-9405-9b9b4d5ba988/texas-welcomed-the-ai-boom..html",
-      "publisher": "Axios",
-      "time": 1787502283,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ea438c2e-37fc-3640-9679-8267a0f08490",
-      "title": "Greg Abel Just Spent $23.5 Billion on 9 Stocks for Berkshire Hathaway. Here's the Best of the Bunch.",
-      "link": "https://finance.yahoo.com/m/ea438c2e-37fc-3640-9679-8267a0f08490/greg-abel-just-spent-%2423.5.html",
-      "publisher": "Motley Fool",
-      "time": 1787502000,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "5a241fc4-1169-3e4c-b6ef-b07d8dbf47ee",
-      "title": "The $1.7 Trillion Job Apocalypse: Why Investors Can’t Ignore Humanoid Robots",
-      "link": "https://finance.yahoo.com/m/5a241fc4-1169-3e4c-b6ef-b07d8dbf47ee/the-%241.7-trillion-job.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787501862,
       "impact": "low",
       "tags": []
     }
