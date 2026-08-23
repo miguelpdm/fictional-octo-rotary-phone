@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T00:56:38.724462+00:00",
+  "updatedAt": "2026-08-23T02:22:45.124180+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,94 +52,98 @@
   ],
   "news": [
     {
-      "id": "0adfd974-f9fa-324f-9f5c-483190aa9ace",
-      "title": "Cisco & Cerebras Orders Up, Stocks Down",
-      "link": "https://finance.yahoo.com/m/0adfd974-f9fa-324f-9f5c-483190aa9ace/cisco-%26-cerebras-orders-up%2C.html",
-      "publisher": "Motley Fool",
-      "time": 1787445223,
+      "id": "07acd798-a3dc-31b2-bef4-3cc4991e930a",
+      "title": "Sydney marathon unveils medal with wrong stadium",
+      "link": "https://finance.yahoo.com/m/07acd798-a3dc-31b2-bef4-3cc4991e930a/sydney-marathon-unveils-medal.html",
+      "publisher": "AFP",
+      "time": 1787451124,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2aec1cca-e050-3fc7-b414-8868fc1f903d",
+      "title": "Prince Harry: royal misfit making unlikely UK return",
+      "link": "https://finance.yahoo.com/m/2aec1cca-e050-3fc7-b414-8868fc1f903d/prince-harry%3A-royal-misfit.html",
+      "publisher": "AFP",
+      "time": 1787451034,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1589966e-ce32-3807-97ce-d5ea4856a635",
+      "title": "Former Gonzaga standout Corey Kispert pours time into coffee company",
+      "link": "https://finance.yahoo.com/m/1589966e-ce32-3807-97ce-d5ea4856a635/former-gonzaga-standout-corey.html",
+      "publisher": "The Spokesman-Review, Spokane, Wash.",
+      "time": 1787450520,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "37f19d62-34d3-3455-818c-cb09fc2ed00f",
+      "title": "Palantir Keeps 55 Cents of Every Revenue Dollar as Profit",
+      "link": "https://finance.yahoo.com/m/37f19d62-34d3-3455-818c-cb09fc2ed00f/palantir-keeps-55-cents-of.html",
+      "publisher": "Motley Fool",
+      "time": 1787450281,
+      "impact": "medium",
       "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "10d5ae0c-10e6-3629-acda-6384e552e537",
+      "title": "Macron hosts Saudi's MBS for visit ranging from esports to Mideast",
+      "link": "https://finance.yahoo.com/m/10d5ae0c-10e6-3629-acda-6384e552e537/macron-hosts-saudi%27s-mbs-for.html",
+      "publisher": "AFP",
+      "time": 1787450190,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "352938f8-fbff-37dc-956b-50cd8eb6c301",
+      "title": "Canada to retaliate for US tariffs, worsening ties after talks fail",
+      "link": "https://finance.yahoo.com/news/carney-says-canadian-tariffs-us-153928985.html",
+      "publisher": "Reuters",
+      "time": 1787450000,
+      "impact": "high",
+      "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "cddd1ba0-0aff-3c25-a42f-afa5f08b35c8",
-      "title": "Don’t Sell SanDisk Corporation (NASDAQ:SNDK) Because A Billionaire Did So, Says Jim Cramer",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/don-t-sell-sandisk-corporation-002730568.html",
-      "publisher": "Insider Monkey",
-      "time": 1787444850,
+      "id": "c1f6f4a0-0236-3ce9-a52f-5957200c5032",
+      "title": "Blowing in the wind, humble balloon gets green makeover",
+      "link": "https://finance.yahoo.com/m/c1f6f4a0-0236-3ce9-a52f-5957200c5032/blowing-in-the-wind%2C-humble.html",
+      "publisher": "AFP",
+      "time": 1787449809,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c7fc96ac-59c0-35ef-b257-a1a66f2f84af",
-      "title": "Jim Cramer Wasn’t Happy About Chevron Corporation (NYSE:CVX) Price Target Cut",
-      "link": "https://finance.yahoo.com/energy/articles/jim-cramer-wasn-t-happy-002542783.html",
-      "publisher": "Insider Monkey",
-      "time": 1787444742,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0c8c6d40-729e-300d-9168-a2fbb739fbf5",
-      "title": "$5,000 in Bloom Energy at Its COVID-Era Low Would Be Worth This Much Now",
-      "link": "https://finance.yahoo.com/m/0c8c6d40-729e-300d-9168-a2fbb739fbf5/%245%2C000-in-bloom-energy-at-its.html",
+      "id": "29e19028-ee6a-3f88-a0d1-1648e14cb2ed",
+      "title": "Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.",
+      "link": "https://finance.yahoo.com/m/29e19028-ee6a-3f88-a0d1-1648e14cb2ed/solana-is-beating-ethereum-in.html",
       "publisher": "Motley Fool",
-      "time": 1787444700,
+      "time": 1787449020,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2cc7b45f-12b2-3b8c-9b49-366a0a7a8ca4",
-      "title": "Jim Cramer Wants You To Look At The Bigger Picture For Apple Inc. (NASDAQ:AAPL)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-wants-look-bigger-002325692.html",
-      "publisher": "Insider Monkey",
-      "time": 1787444605,
+      "id": "423dab94-1418-35e9-bc1d-ef705488741b",
+      "title": "Zcash Hits Eight-Year High After Grayscale Advances U.S. ETF Push",
+      "link": "https://finance.yahoo.com/m/423dab94-1418-35e9-bc1d-ef705488741b/zcash-hits-eight-year-high.html",
+      "publisher": "CryptoProwl",
+      "time": 1787449020,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3d224167-0821-39a4-b93e-6302044cecd9",
-      "title": "Jim Cramer Said NVIDIA Corp. (NASDAQ:NVDA) Doesn’t Need Anyone But Elon Musk",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-nvidia-corp-002234481.html",
-      "publisher": "Insider Monkey",
-      "time": 1787444554,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2bfb0410-f549-3298-bc88-8ae5c537a776",
-      "title": "Jim Cramer Shared Insights Into Space Exploration Technologies Corp. (NASDAQ:SPCX) Short Selling",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shared-insights-space-002141262.html",
-      "publisher": "Insider Monkey",
-      "time": 1787444501,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b6b6e0ae-45af-3f93-a713-b9e70bd1c682",
-      "title": "International Strength Offsetting North America Weakness Could Be A Game Changer For Under Armour (UAA)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/international-strength-offsetting-north-america-002031346.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787444431,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0e44985c-af3a-36f2-943f-499ca39d7748",
-      "title": "Jim Cramer Argued It’s A New World For Palo Alto Networks & CrowdStrike Holdings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-argued-world-palo-001602176.html",
-      "publisher": "Insider Monkey",
-      "time": 1787444162,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "966437ba-02f3-32bf-96d3-230db15cf7ed",
-      "title": "Newmont (NEM) Stock Looks Near Fair Value After A Strong Run",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/newmont-nem-stock-looks-near-001453549.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787444093,
+      "id": "1c4edc0d-36b6-307e-b469-6add38e7196a",
+      "title": "How a retiree found a new purpose delivering tables to families in need",
+      "link": "https://finance.yahoo.com/m/1c4edc0d-36b6-307e-b469-6add38e7196a/how-a-retiree-found-a-new.html",
+      "publisher": "CBS News Videos",
+      "time": 1787449009,
       "impact": "low",
       "tags": []
     }
