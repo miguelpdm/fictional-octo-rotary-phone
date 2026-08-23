@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T17:14:47.822567+00:00",
+  "updatedAt": "2026-08-23T17:43:02.099604+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,38 +52,20 @@
   ],
   "news": [
     {
-      "id": "71a8f2dc-68de-3123-bbcc-2179142c8350",
-      "title": "Bill Ackman's Pershing Square invests $1.1B in fintech giant",
-      "link": "https://finance.yahoo.com/m/71a8f2dc-68de-3123-bbcc-2179142c8350/bill-ackman%27s-pershing-square.html",
-      "publisher": "TheStreet",
-      "time": 1787504820,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b411e83a-380a-3166-a44d-53ae206eba94",
-      "title": "Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy",
-      "link": "https://finance.yahoo.com/markets/articles/rachel-cruze-george-kamel-share-170000908.html",
-      "publisher": "Moneywise",
-      "time": 1787504400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f21a02ae-ca97-3b76-a47e-2c5a1a310d4e",
-      "title": "An e.l.f. Beauty Insider Sells 5,718 Shares. Here's What That Means for Investors.",
-      "link": "https://finance.yahoo.com/m/f21a02ae-ca97-3b76-a47e-2c5a1a310d4e/an-e.l.f.-beauty-insider.html",
+      "id": "cd8129f8-0eb3-3332-b8c5-571500818055",
+      "title": "Dropbox's Chief Accounting Officer Had 5,854 Shares Withheld. Here's What Investors Should Know",
+      "link": "https://finance.yahoo.com/m/cd8129f8-0eb3-3332-b8c5-571500818055/dropbox%27s-chief-accounting.html",
       "publisher": "Motley Fool",
-      "time": 1787504260,
+      "time": 1787506339,
       "impact": "low",
       "tags": []
     },
     {
       "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
-      "title": "Dow Jones Futures Due; Nvidia Earnings, Canada Tariffs, Warsh In Focus",
-      "link": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures-due%3B-nvidia.html",
+      "title": "Dow Jones Futures Due With Nvidia Earnings, Tariffs, Warsh In Focus",
+      "link": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures-due-with.html",
       "publisher": "Investor's Business Daily",
-      "time": 1787504166,
+      "time": 1787506217,
       "impact": "high",
       "tags": [
         "geo",
@@ -91,61 +73,74 @@
       ]
     },
     {
-      "id": "d8f8b909-e211-343a-bf2a-25b1367cd4f3",
-      "title": "Your Last Chance to Buy Nvidia Stock for Cheap in 2026 May Be Near",
-      "link": "https://finance.yahoo.com/m/d8f8b909-e211-343a-bf2a-25b1367cd4f3/your-last-chance-to-buy.html",
+      "id": "4a182485-bcb8-32e0-aa55-62475689f932",
+      "title": "Irish architect dubbed 'Condom Man' files €50 appeal to block Trump's 13K-sq-ft Doonbeg ballroom over threatened snails",
+      "link": "https://finance.yahoo.com/real-estate/articles/irish-architect-dubbed-condom-man-173000634.html",
+      "publisher": "Moneywise",
+      "time": 1787506200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "979e59eb-2d8e-3019-96c2-14bff84e0237",
+      "title": "Broadcom vs. Marvell Technology: 1 Critical Metric Decides the Better Custom AI Chip Stock",
+      "link": "https://finance.yahoo.com/m/979e59eb-2d8e-3019-96c2-14bff84e0237/broadcom-vs.-marvell.html",
       "publisher": "Motley Fool",
-      "time": 1787504100,
+      "time": 1787505960,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c34f8656-2a1a-3ab1-8528-f2c726ffa03a",
-      "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-      "link": "https://finance.yahoo.com/m/c34f8656-2a1a-3ab1-8528-f2c726ffa03a/%E2%80%98she-looked-into-cobra%E2%80%99%3A-my.html",
-      "publisher": "MarketWatch",
-      "time": 1787503500,
+      "id": "5b8b5667-916a-3b00-bfbd-8dcdae4294b7",
+      "title": "Landfill collapse kills 30 in Guinea",
+      "link": "https://finance.yahoo.com/m/5b8b5667-916a-3b00-bfbd-8dcdae4294b7/landfill-collapse-kills-30-in.html",
+      "publisher": "AFP",
+      "time": 1787505682,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "71ae915b-44ee-375e-8ac7-1f2bdb814fa2",
-      "title": "Is This $7 Stock Your Ticket to Becoming a Millionaire?",
-      "link": "https://finance.yahoo.com/m/71ae915b-44ee-375e-8ac7-1f2bdb814fa2/is-this-%247-stock-your-ticket.html",
+      "id": "6f88dc4c-170b-3e6d-9e5d-92082f371932",
+      "title": "Villa boss Emery says it's down to Watkins to explain absence",
+      "link": "https://finance.yahoo.com/m/6f88dc4c-170b-3e6d-9e5d-92082f371932/villa-boss-emery-says-it%27s.html",
+      "publisher": "AFP",
+      "time": 1787505526,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7241d0d0-5520-3bce-b509-6f1ae21e97a1",
+      "title": "'Unbelievable' Cherki proves his point to Man City boss Maresca",
+      "link": "https://finance.yahoo.com/m/7241d0d0-5520-3bce-b509-6f1ae21e97a1/%27unbelievable%27-cherki-proves.html",
+      "publisher": "AFP",
+      "time": 1787505392,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "474deb85-cbf2-383f-9530-fa426a053962",
+      "title": "10-man Atletico snatch Villarreal draw as Alvarez returns",
+      "link": "https://finance.yahoo.com/m/474deb85-cbf2-383f-9530-fa426a053962/10-man-atletico-snatch.html",
+      "publisher": "AFP",
+      "time": 1787505118,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8072b086-0c9c-388c-b330-ff3aa918fef3",
+      "title": "Should You Buy Oracle Stock Before September? The Answer Might Surprise You.",
+      "link": "https://finance.yahoo.com/m/8072b086-0c9c-388c-b330-ff3aa918fef3/should-you-buy-oracle-stock.html",
       "publisher": "Motley Fool",
-      "time": 1787503440,
+      "time": 1787505000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4a0a0d63-0a76-3191-9405-9b9b4d5ba988",
-      "title": "Texas welcomed the AI boom. Now Abbott says data centers \"dug their own grave\"",
-      "link": "https://finance.yahoo.com/m/4a0a0d63-0a76-3191-9405-9b9b4d5ba988/texas-welcomed-the-ai-boom..html",
-      "publisher": "Axios",
-      "time": 1787503099,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "44c410bd-91b4-3ed8-aa1e-b4e67b6fa72b",
-      "title": "Should You Take Profits on XRP After a 50% Week? We Asked 2 AI Models",
-      "link": "https://finance.yahoo.com/m/44c410bd-91b4-3ed8-aa1e-b4e67b6fa72b/should-you-take-profits-on.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787502867,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e3dec99c-8821-37fe-b691-ccb06a04474a",
-      "title": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
-      "link": "https://finance.yahoo.com/m/e3dec99c-8821-37fe-b691-ccb06a04474a/63%25-of-religious-books-on.html",
-      "publisher": "decrypt",
-      "time": 1787502664,
+      "id": "2f3ad4cd-7c53-39dd-8f60-fde768986d79",
+      "title": "Microsoft (MSFT) Gets New Australia News Rules As AI Commerce Push Deepens",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-gets-australia-news-170738761.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787504858,
       "impact": "low",
       "tags": []
     }
