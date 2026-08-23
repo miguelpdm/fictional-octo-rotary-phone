@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T06:29:50.945734+00:00",
+  "updatedAt": "2026-08-23T07:11:23.837690+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -51,6 +51,42 @@
     }
   ],
   "news": [
+    {
+      "id": "4eb83ffb-1587-3e2c-b377-596ed673a9ec",
+      "title": "Down 32% or More in 2026, Are Any of These Top Cryptocurrencies Worth Buying Right Now?",
+      "link": "https://finance.yahoo.com/m/4eb83ffb-1587-3e2c-b377-596ed673a9ec/down-32%25-or-more-in-2026%2C-are.html",
+      "publisher": "Motley Fool",
+      "time": 1787468100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "667ecee5-3b1d-30a2-a1d1-ee4c8cf8d3b4",
+      "title": "'Keep up the spirit': Indonesian teenage 'Superman' joins wildfire fight",
+      "link": "https://finance.yahoo.com/m/667ecee5-3b1d-30a2-a1d1-ee4c8cf8d3b4/%27keep-up-the-spirit%27%3A.html",
+      "publisher": "AFP",
+      "time": 1787466620,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "92c3c94c-985f-39cf-a412-da7ecb86cc68",
+      "title": "Is Brookfield Renewable a Better Buy Now Than It Was 6 Months Ago?",
+      "link": "https://finance.yahoo.com/m/92c3c94c-985f-39cf-a412-da7ecb86cc68/is-brookfield-renewable-a.html",
+      "publisher": "Motley Fool",
+      "time": 1787466300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "87696702-e34e-305a-924d-c90e7ce171dc",
+      "title": "Moderna (MRNA) Soars 179% as Melanoma Therapy Candidate Rewrites Growth Story",
+      "link": "https://finance.yahoo.com/healthcare/articles/moderna-mrna-soars-179-melanoma-062319268.html",
+      "publisher": "Insider Monkey",
+      "time": 1787466199,
+      "impact": "low",
+      "tags": []
+    },
     {
       "id": "b775bf48-a13f-3719-af36-7931f6c712a7",
       "title": "Canada retaliates as trade war with US escalates",
@@ -105,45 +141,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/whitefiber-wyfi-down-29-8-060857717.html",
       "publisher": "Simply Wall St.",
       "time": 1787465337,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3d90e981-2736-3739-be7f-7aa23e27bf57",
-      "title": "Woodward (WWD) Tests Its Valuation Following $450 Million Note Placement",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/woodward-wwd-tests-valuation-following-060843167.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787465323,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "d4e5640c-50be-3da2-8ba3-3408fd27a719",
-      "title": "What Should Pershing Square (PS) Investors Make Of Bill Ackman’s Stock Donation?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pershing-square-ps-investors-bill-060843977.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787465323,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "682566c1-833e-3ac7-b4c6-29022cb706e7",
-      "title": "Got $500? 1 Cryptocurrency to Buy Hand Over Fist in the Second Half of 2026",
-      "link": "https://finance.yahoo.com/m/682566c1-833e-3ac7-b4c6-29022cb706e7/got-%24500%3F-1-cryptocurrency-to.html",
-      "publisher": "Motley Fool",
-      "time": 1787465100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4df2ed10-0361-30d3-9143-a4c31e376c91",
-      "title": "What Does a D-Wave Quantum Insider's Sale of 23,850 Shares Mean for Investors?",
-      "link": "https://finance.yahoo.com/m/4df2ed10-0361-30d3-9143-a4c31e376c91/what-does-a-d-wave-quantum.html",
-      "publisher": "Motley Fool",
-      "time": 1787463073,
       "impact": "low",
       "tags": []
     }
