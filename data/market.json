@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T22:14:50.061587+00:00",
+  "updatedAt": "2026-08-23T22:45:37.375177+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,101 +52,100 @@
   ],
   "news": [
     {
-      "id": "f8465b84-fa2e-3bb5-8d31-69f56d0e33e8",
-      "title": "Liga holders Barcelona crush Elche, Atletico salvage Villarreal draw",
-      "link": "https://finance.yahoo.com/m/f8465b84-fa2e-3bb5-8d31-69f56d0e33e8/liga-holders-barcelona-crush.html",
-      "publisher": "AFP",
-      "time": 1787522933,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c48756ed-b4ce-3db5-992d-c8b3f68fcd3a",
-      "title": "The Apex Institute Explains Why Skilled Engineers Still Fail Technical Interviews",
-      "link": "https://finance.yahoo.com/technology/articles/apex-institute-explains-why-skilled-220000386.html",
-      "publisher": "PR Newswire",
-      "time": 1787522400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d2317d28-542e-35dc-ae2a-d98edc86b86e",
-      "title": "Tesla Maintained Its Majority of the U.S. EV Market in Q2, but That's Not All You Need to Know",
-      "link": "https://finance.yahoo.com/m/d2317d28-542e-35dc-ae2a-d98edc86b86e/tesla-maintained-its-majority.html",
-      "publisher": "Motley Fool",
-      "time": 1787522160,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "c096b1c9-6e81-33bd-b7e4-2ddac00c1e27",
-      "title": "Raphinha, Lopez hit braces as Barcelona trounce Elche",
-      "link": "https://finance.yahoo.com/m/c096b1c9-6e81-33bd-b7e4-2ddac00c1e27/raphinha%2C-lopez-hit-braces-as.html",
-      "publisher": "AFP",
-      "time": 1787521171,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "726a316b-5024-3632-bdc0-b0d530784528",
-      "title": "Amorim starts Serie A life with Milan win, Juve edge Frosinone",
-      "link": "https://finance.yahoo.com/m/726a316b-5024-3632-bdc0-b0d530784528/amorim-starts-serie-a-life.html",
-      "publisher": "AFP",
-      "time": 1787520968,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f0b74872-68cf-3347-b417-9fe67b68de51",
-      "title": "Lawsuit filed in Napali coast ‘doors-off’ helicopter tour crash",
-      "link": "https://finance.yahoo.com/m/f0b74872-68cf-3347-b417-9fe67b68de51/lawsuit-filed-in-napali-coast.html",
-      "publisher": "The Honolulu Star-Advertiser",
-      "time": 1787520960,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "916f5f53-0f2a-329c-a4c7-27b41a9afa5d",
-      "title": "Does Billionaire Bill Ackman Know Something Wall Street Doesn’t? He Invested in These 2 Stocks That Have Dropped 33% and 18% Over the Past Year",
-      "link": "https://finance.yahoo.com/m/916f5f53-0f2a-329c-a4c7-27b41a9afa5d/does-billionaire-bill-ackman.html",
-      "publisher": "Motley Fool",
-      "time": 1787520901,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "fb86337b-853f-3b54-9dd6-22a879f8e15f",
-      "title": "Liquor industry struggles grow with another Chapter 7 filing",
-      "link": "https://finance.yahoo.com/m/fb86337b-853f-3b54-9dd6-22a879f8e15f/liquor-industry-struggles.html",
-      "publisher": "TheStreet",
-      "time": 1787520780,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f98b5e72-5778-306e-ab2c-326e404dd6cd",
-      "title": "Media Advisory: Housing Announcement in Toronto",
-      "link": "https://finance.yahoo.com/real-estate/articles/media-advisory-housing-announcement-toronto-213000101.html",
-      "publisher": "CNW Group",
-      "time": 1787520600,
-      "impact": "low",
-      "tags": []
-    },
-    {
       "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
-      "title": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus",
-      "link": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures-due-with.html",
+      "title": "Dow Jones Futures Fall With Tariffs In Focus; Nvidia, Warsh Ahead",
+      "link": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures-fall-with.html",
       "publisher": "Investor's Business Daily",
-      "time": 1787520223,
+      "time": 1787524604,
       "impact": "high",
       "tags": [
         "geo",
         "macro"
       ]
+    },
+    {
+      "id": "71604475-c376-3bf1-8074-129260e02cae",
+      "title": "FIA Hails Success of Landmark INDYCAR Freedom 250 Grand Prix as Motorsport Takes Centre Stage in Washington D.C.",
+      "link": "https://finance.yahoo.com/media-advertising/articles/fia-hails-success-landmark-indycar-223300238.html",
+      "publisher": "Business Wire",
+      "time": 1787524380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c7d3539c-0098-30e4-8581-d955ae8d11e6",
+      "title": "The next big oil trade may have nothing to do with oil stocks",
+      "link": "https://finance.yahoo.com/m/c7d3539c-0098-30e4-8581-d955ae8d11e6/the-next-big-oil-trade-may.html",
+      "publisher": "TheStreet",
+      "time": 1787524380,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "4a8e2aec-81a4-31db-b4fa-5ef542107f19",
+      "title": "Johnson & Johnson vs. Thermo Fisher: Which Healthcare Growth Story Is More Durable?",
+      "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-vs-thermo-fisher-223203633.html",
+      "publisher": "Insider Monkey",
+      "time": 1787524323,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2846af11-4a66-3407-87b8-0935d566af8e",
+      "title": "Crowder College offering training courses in August, September",
+      "link": "https://finance.yahoo.com/m/2846af11-4a66-3407-87b8-0935d566af8e/crowder-college-offering.html",
+      "publisher": "The Joplin Globe, Mo.",
+      "time": 1787524260,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "68be8915-6580-3712-a1a5-f5e322b081f6",
+      "title": "Fils tops Tiafoe to claim first ATP Masters title in Cincinnati bb/amz",
+      "link": "https://finance.yahoo.com/m/68be8915-6580-3712-a1a5-f5e322b081f6/fils-tops-tiafoe-to-claim.html",
+      "publisher": "AFP",
+      "time": 1787524260,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4056a0b5-1267-3bbf-ae76-6f48fcd74083",
+      "title": "AG.AL Crowned Esports World Cup 2026 Club Champion After Landmark Competition in Paris",
+      "link": "https://finance.yahoo.com/media-advertising/articles/ag-al-crowned-esports-world-222500259.html",
+      "publisher": "PR Newswire",
+      "time": 1787523900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "feb7ca91-d8ed-3c83-a0a4-9483bb001318",
+      "title": "Danaher vs. Intuitive Surgical: Is Recovery or Innovation the Better Long-Term Bet?",
+      "link": "https://finance.yahoo.com/healthcare/articles/danaher-vs-intuitive-surgical-recovery-222135336.html",
+      "publisher": "Insider Monkey",
+      "time": 1787523695,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "be8a859f-dace-35fe-8a5e-4484d9a255ee",
+      "title": "Trump takes starring role at Washington's IndyCar debut",
+      "link": "https://finance.yahoo.com/m/be8a859f-dace-35fe-8a5e-4484d9a255ee/trump-takes-starring-role-at.html",
+      "publisher": "AFP",
+      "time": 1787523614,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7ebab751-c69c-3bd2-a0cf-c5bb0340db0a",
+      "title": "Tourism boom pushes limits of Athens air traffic control",
+      "link": "https://finance.yahoo.com/m/7ebab751-c69c-3bd2-a0cf-c5bb0340db0a/tourism-boom-pushes-limits-of.html",
+      "publisher": "AFP",
+      "time": 1787523601,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
