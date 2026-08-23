@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T21:43:51.148150+00:00",
+  "updatedAt": "2026-08-23T22:14:50.061587+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,58 @@
   ],
   "news": [
     {
+      "id": "f8465b84-fa2e-3bb5-8d31-69f56d0e33e8",
+      "title": "Liga holders Barcelona crush Elche, Atletico salvage Villarreal draw",
+      "link": "https://finance.yahoo.com/m/f8465b84-fa2e-3bb5-8d31-69f56d0e33e8/liga-holders-barcelona-crush.html",
+      "publisher": "AFP",
+      "time": 1787522933,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c48756ed-b4ce-3db5-992d-c8b3f68fcd3a",
+      "title": "The Apex Institute Explains Why Skilled Engineers Still Fail Technical Interviews",
+      "link": "https://finance.yahoo.com/technology/articles/apex-institute-explains-why-skilled-220000386.html",
+      "publisher": "PR Newswire",
+      "time": 1787522400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d2317d28-542e-35dc-ae2a-d98edc86b86e",
+      "title": "Tesla Maintained Its Majority of the U.S. EV Market in Q2, but That's Not All You Need to Know",
+      "link": "https://finance.yahoo.com/m/d2317d28-542e-35dc-ae2a-d98edc86b86e/tesla-maintained-its-majority.html",
+      "publisher": "Motley Fool",
+      "time": 1787522160,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "c096b1c9-6e81-33bd-b7e4-2ddac00c1e27",
+      "title": "Raphinha, Lopez hit braces as Barcelona trounce Elche",
+      "link": "https://finance.yahoo.com/m/c096b1c9-6e81-33bd-b7e4-2ddac00c1e27/raphinha%2C-lopez-hit-braces-as.html",
+      "publisher": "AFP",
+      "time": 1787521171,
+      "impact": "low",
+      "tags": []
+    },
+    {
       "id": "726a316b-5024-3632-bdc0-b0d530784528",
       "title": "Amorim starts Serie A life with Milan win, Juve edge Frosinone",
       "link": "https://finance.yahoo.com/m/726a316b-5024-3632-bdc0-b0d530784528/amorim-starts-serie-a-life.html",
       "publisher": "AFP",
       "time": 1787520968,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f0b74872-68cf-3347-b417-9fe67b68de51",
+      "title": "Lawsuit filed in Napali coast ‘doors-off’ helicopter tour crash",
+      "link": "https://finance.yahoo.com/m/f0b74872-68cf-3347-b417-9fe67b68de51/lawsuit-filed-in-napali-coast.html",
+      "publisher": "The Honolulu Star-Advertiser",
+      "time": 1787520960,
       "impact": "low",
       "tags": []
     },
@@ -81,15 +128,6 @@
       "tags": []
     },
     {
-      "id": "c096b1c9-6e81-33bd-b7e4-2ddac00c1e27",
-      "title": "Raphinha, Lopez hit braces as Barcelona trounce Elche",
-      "link": "https://finance.yahoo.com/m/c096b1c9-6e81-33bd-b7e4-2ddac00c1e27/raphinha%2C-lopez-hit-braces-as.html",
-      "publisher": "AFP",
-      "time": 1787520743,
-      "impact": "low",
-      "tags": []
-    },
-    {
       "id": "f98b5e72-5778-306e-ab2c-326e404dd6cd",
       "title": "Media Advisory: Housing Announcement in Toronto",
       "link": "https://finance.yahoo.com/real-estate/articles/media-advisory-housing-announcement-toronto-213000101.html",
@@ -108,50 +146,6 @@
       "tags": [
         "geo",
         "macro"
-      ]
-    },
-    {
-      "id": "67de64d0-044f-3860-82e0-7774fe5e96e1",
-      "title": "Axsome Therapeutics Stock Is Up 16% Year to Date. Why Wall Street Thinks It Has Even More Room to Run",
-      "link": "https://finance.yahoo.com/m/67de64d0-044f-3860-82e0-7774fe5e96e1/axsome-therapeutics-stock-is.html",
-      "publisher": "Motley Fool",
-      "time": 1787520000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f04c9844-d0b5-3e94-8cbe-fc61dcf645ee",
-      "title": "U.S.-Canada breakdown shows limits of Trump’s aggressive trade strategy",
-      "link": "https://finance.yahoo.com/economy/policy/articles/us-canada-breakdown-shows-limits-of-trumps-aggressive-trade-strategy-100001862.html",
-      "publisher": "Washington Post",
-      "time": 1787519797,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "e32b5df9-3cdf-3ec6-a6cf-2a9f304c209a",
-      "title": "IDP Education (ASX:IEL) Earnings Slide Keeps The Undervalued Narrative In Focus",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/idp-education-asx-iel-earnings-210848034.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787519328,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "2d4a9c6b-d709-3ae2-ac20-7d6e96bad747",
-      "title": "Excelerate Energy (EE) Stock May Be Fully Priced Despite Raised EBITDA Guidance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/excelerate-energy-ee-stock-may-210835431.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787519315,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
       ]
     }
   ],
