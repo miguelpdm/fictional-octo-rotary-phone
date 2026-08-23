@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T11:43:43.712778+00:00",
+  "updatedAt": "2026-08-23T12:26:11.132481+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,80 +52,31 @@
   ],
   "news": [
     {
-      "id": "dc3eb304-5840-3a6c-b339-04fa7618ef6f",
-      "title": "Why Tempus AI Skyrocketed This Week",
-      "link": "https://finance.yahoo.com/m/dc3eb304-5840-3a6c-b339-04fa7618ef6f/why-tempus-ai-skyrocketed.html",
+      "id": "af6a3893-e11b-3d9b-909e-3ff5ee59918b",
+      "title": "I Get Paid By 3 Different Dividend Stocks Every Single Month. Here's Who's on My List.",
+      "link": "https://finance.yahoo.com/m/af6a3893-e11b-3d9b-909e-3ff5ee59918b/i-get-paid-by-3-different.html",
       "publisher": "Motley Fool",
-      "time": 1787484900,
+      "time": 1787487601,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ffcf1fdd-0e69-342a-99d4-b3623c398849",
-      "title": "If Amazon Is a Top Growth Stock, Then Why Does It Trade at Just 21.3x Forward Earnings While the S&P 500 Trades at 20.4x? This Is the Only Answer I Can Think Of.",
-      "link": "https://finance.yahoo.com/m/ffcf1fdd-0e69-342a-99d4-b3623c398849/if-amazon-is-a-top-growth.html",
-      "publisher": "Motley Fool",
-      "time": 1787484900,
-      "impact": "high",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "b9e08f1b-c94b-3ae9-849c-a90f71670a3d",
-      "title": "Cardinal Health's Pharma Chief Sold 7,354 Shares and Still Grew Her Stake by 47%. Here's How That Happened",
-      "link": "https://finance.yahoo.com/m/b9e08f1b-c94b-3ae9-849c-a90f71670a3d/cardinal-health%27s-pharma.html",
-      "publisher": "Motley Fool",
-      "time": 1787484859,
+      "id": "b111622d-fcb2-3b27-b506-3e74c482653b",
+      "title": "AG AL's Gwen Snatches Esports World Cup Club Championship Glory In Unbelievable Trackmania Final",
+      "link": "https://finance.yahoo.com/media-advertising/articles/ag-als-gwen-snatches-esports-121900531.html",
+      "publisher": "PR Newswire",
+      "time": 1787487540,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b8f9fbb6-11ce-3a1b-9632-9fc6c489722d",
-      "title": "Sinopec reports 19% profit jump in H1 2026 despite Middle East crisis",
-      "link": "https://finance.yahoo.com/energy/articles/sinopec-reports-19-profit-jump-113126453.html",
-      "publisher": "Investing.com",
-      "time": 1787484686,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "b766b1a0-cee2-3084-b89a-4712a2d46436",
-      "title": "Ramsey Show says asking for a child's inheritance is ‘gross’ — but it’s the one way to get husband’s $2M bloodline trust",
-      "link": "https://finance.yahoo.com/small-business/articles/ramsey-show-says-asking-childs-113000774.html",
+      "id": "cc8c5c45-b44e-3b8e-9988-a396edae318f",
+      "title": "Most Americans retire with this much banked in savings, but is it actually enough for you?",
+      "link": "https://finance.yahoo.com/markets/articles/most-americans-retire-much-banked-121500399.html",
       "publisher": "Moneywise",
-      "time": 1787484600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "20ddb11f-b32e-3898-95b6-0d92a0684241",
-      "title": "The CIO of Cardinal Health Parted With 11,650 Shares. Here's Whether It Matters for Long-Term Investors",
-      "link": "https://finance.yahoo.com/m/20ddb11f-b32e-3898-95b6-0d92a0684241/the-cio-of-cardinal-health.html",
-      "publisher": "Motley Fool",
-      "time": 1787484471,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a5065521-2915-3441-8695-06e3e15c3ea6",
-      "title": "After Wildberries, Ukraine launches drone campaign on Russia's Ozon",
-      "link": "https://finance.yahoo.com/m/a5065521-2915-3441-8695-06e3e15c3ea6/after-wildberries%2C-ukraine.html",
-      "publisher": "AFP",
-      "time": 1787484314,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ff0aae86-6289-4d4a-a7b9-68a659130b1d",
-      "title": "Nvidia's Q2 earnings to test resurgent AI trade",
-      "link": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
-      "publisher": "Yahoo Finance",
-      "time": 1787484302,
+      "time": 1787487300,
       "impact": "medium",
       "tags": [
         "macro",
@@ -133,20 +84,65 @@
       ]
     },
     {
-      "id": "d17566ae-a849-3f53-9fe0-15130238640b",
-      "title": "Prediction: Nvidia Will Be a $6 Trillion Company Before 2026 Is Over and Its Run Kickstarts This Week",
-      "link": "https://finance.yahoo.com/m/d17566ae-a849-3f53-9fe0-15130238640b/prediction%3A-nvidia-will-be-a.html",
-      "publisher": "Motley Fool",
-      "time": 1787484300,
+      "id": "e1abd7bd-af55-34d5-b2b5-b31eba934b12",
+      "title": "Airworthy.com Releases 2026 State of General Aviation Parts Report",
+      "link": "https://finance.yahoo.com/small-business/articles/airworthy-com-releases-2026-state-121300434.html",
+      "publisher": "PR Newswire",
+      "time": 1787487180,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "86852c98-d300-3120-a464-7766a8c9e08e",
-      "title": "Flock cameras join data centers as a top AI boogeyman in 2026 midterms",
-      "link": "https://finance.yahoo.com/m/86852c98-d300-3120-a464-7766a8c9e08e/flock-cameras-join-data.html",
-      "publisher": "Axios",
-      "time": 1787484011,
+      "id": "c2f9f8b9-def9-3cc7-94a6-7f7f6d02f0f4",
+      "title": "TriCo Bancshares (TCBK) Stock Looks Cheap Even After A 75% Gain",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trico-bancshares-tcbk-stock-looks-120754244.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787486874,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e7c7a861-ae84-301c-a1b8-0a87e554c8bc",
+      "title": "Micron Technology: Is MU Stock a No-Brainer Buy as AI Memory Demand Surges in 2026?",
+      "link": "https://finance.yahoo.com/m/e7c7a861-ae84-301c-a1b8-0a87e554c8bc/micron-technology%3A-is-mu.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787486445,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0cd86d38-f36e-3b40-8149-e06ca1690d17",
+      "title": "Walmart is selling farmhouse storage cabinets that can help you get organized, starting at $67",
+      "link": "https://finance.yahoo.com/m/0cd86d38-f36e-3b40-8149-e06ca1690d17/walmart-is-selling-farmhouse.html",
+      "publisher": "TheStreet",
+      "time": 1787486400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "889c2849-e617-3eaf-ad30-c7f3efc9eebf",
+      "title": "Crypto Skeptic Rashida Tlaib Holds Bitcoin and Ethereum ETFs",
+      "link": "https://finance.yahoo.com/m/889c2849-e617-3eaf-ad30-c7f3efc9eebf/crypto-skeptic-rashida-tlaib.html",
+      "publisher": "BeInCrypto",
+      "time": 1787486400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "94fdb777-9018-3045-8395-08f84572d8da",
+      "title": "Could This Unstoppable S&P 500 ETF Make You a Millionaire? Here's What 20 Years of Data Says.",
+      "link": "https://finance.yahoo.com/m/94fdb777-9018-3045-8395-08f84572d8da/could-this-unstoppable-s%26p.html",
+      "publisher": "Motley Fool",
+      "time": 1787486400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ed75cf80-d493-3f9b-bd10-13e0ada1f353",
+      "title": "Ramsey Show caller earns $95K but can't save $1,000 — his $131K in debt has him trapped in cash advance loops",
+      "link": "https://finance.yahoo.com/markets/articles/ramsey-show-caller-earns-95k-120000539.html",
+      "publisher": "Moneywise",
+      "time": 1787486400,
       "impact": "low",
       "tags": []
     }
