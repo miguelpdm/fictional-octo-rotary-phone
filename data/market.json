@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T08:56:10.964925+00:00",
+  "updatedAt": "2026-08-23T09:24:10.748026+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,98 +52,92 @@
   ],
   "news": [
     {
-      "id": "d930ded8-77c1-398f-b0bd-5315a4590460",
-      "title": "The Ultimate Growth Stock to Buy With $1,000 Right Now -- It's Been My Best Stock Performer by Far",
-      "link": "https://finance.yahoo.com/m/d930ded8-77c1-398f-b0bd-5315a4590460/the-ultimate-growth-stock-to.html",
+      "id": "0e8bb460-8025-3263-ab4f-0ddec3270632",
+      "title": "Gen Z needs a 'reality check,' says BofA: Is the 'little treat economy' blowing up their future one coffee at a time?",
+      "link": "https://finance.yahoo.com/economy/articles/gen-z-needs-reality-check-091500298.html",
+      "publisher": "Moneywise",
+      "time": 1787476500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f370de53-3e34-3869-ade2-2318f83ef57c",
+      "title": "Micron vs. Sandisk: Which AI Memory Stock Should You Own?",
+      "link": "https://finance.yahoo.com/m/f370de53-3e34-3869-ade2-2318f83ef57c/micron-vs.-sandisk%3A-which-ai.html",
       "publisher": "Motley Fool",
-      "time": 1787474700,
+      "time": 1787476500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0b3594f4-9c39-3911-b8c7-d6050affe886",
-      "title": "The S&P 500 Just Did Something Seen Only 1 Other Time Since 1871 — and It's Not Good News for Wall Street",
-      "link": "https://finance.yahoo.com/m/0b3594f4-9c39-3911-b8c7-d6050affe886/the-s%26p-500-just-did.html",
+      "id": "d21fe165-bcdd-3fa8-9538-dff43613e39c",
+      "title": "Synaptics' CEO Sold Stock After a 120,000-Share Vest. Here's What to Know.",
+      "link": "https://finance.yahoo.com/m/d21fe165-bcdd-3fa8-9538-dff43613e39c/synaptics%27-ceo-sold-stock.html",
       "publisher": "Motley Fool",
-      "time": 1787474641,
+      "time": 1787476214,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5d378a4f-b06e-3981-aedc-3a2c3ccf884f",
-      "title": "AWS Was Lagging Microsoft Azure and Google Cloud in Growth—Is Amazon Finally Catching Up?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/aws-lagging-microsoft-azure-google-084105975.html",
-      "publisher": "Insider Monkey",
-      "time": 1787474465,
+      "id": "353f76ab-bd88-35d0-829e-4ab6e30a70d6",
+      "title": "Puzzle solutions for Sunday, Aug. 23, 2026",
+      "link": "https://finance.yahoo.com/m/353f76ab-bd88-35d0-829e-4ab6e30a70d6/puzzle-solutions-for-sunday%2C.html",
+      "publisher": "USA TODAY",
+      "time": 1787476058,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "11377223-b2f8-3e25-beac-5e4802e04e5e",
-      "title": "Iran warns neighbours against joining U.S. sanctions as Hormuz stays closed",
-      "link": "https://finance.yahoo.com/m/11377223-b2f8-3e25-beac-5e4802e04e5e/iran-warns-neighbours-against.html",
+      "id": "01ebd519-b882-396c-a65d-fea77161b9ee",
+      "title": "Prenups cover more than just marriage and divorce these days",
+      "link": "https://finance.yahoo.com/m/01ebd519-b882-396c-a65d-fea77161b9ee/prenups-cover-more-than-just.html",
+      "publisher": "USA TODAY",
+      "time": 1787475939,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "477b644d-1b16-3fd4-81fc-b4cc450971f6",
+      "title": "The $4.2 Million Couple Left New York to Save on Roth Conversions. One Medicare Bill Followed Them to Florida.",
+      "link": "https://finance.yahoo.com/m/477b644d-1b16-3fd4-81fc-b4cc450971f6/the-%244.2-million-couple-left.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787475879,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0faf92df-8298-300c-b712-58a3484ad38d",
+      "title": "Billionaire Ken Griffin Just Loaded Up on Eli Lilly Stock. Should You?",
+      "link": "https://finance.yahoo.com/m/0faf92df-8298-300c-b712-58a3484ad38d/billionaire-ken-griffin-just.html",
+      "publisher": "Motley Fool",
+      "time": 1787475840,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e3a9cf40-f22a-37ed-a644-0207c1d24d89",
+      "title": "Social Security's future is shaky. Trump prefers this country's system",
+      "link": "https://finance.yahoo.com/m/e3a9cf40-f22a-37ed-a644-0207c1d24d89/social-security%27s-future-is.html",
+      "publisher": "USA TODAY",
+      "time": 1787475759,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "25d574bf-1c1e-3996-9be4-7d66ecad40f8",
+      "title": "Sell U.S. dollar versus these currencies, BCA says",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/sell-u-dollar-versus-currencies-090007888.html",
       "publisher": "Investing.com",
-      "time": 1787474304,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "685d5260-8434-34d8-89aa-d4367cac0893",
-      "title": "Stephen Mandel’s Lone Pine and Whale Rock Piled Into This Little Known AI Stock",
-      "link": "https://finance.yahoo.com/technology/ai/articles/stephen-mandel-lone-pine-whale-083519611.html",
-      "publisher": "Insider Monkey",
-      "time": 1787474119,
+      "time": 1787475607,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "dc477381-6af1-3359-81ed-6aa09b1c78ae",
-      "title": "3 Tech Compounders Fit for Warren Buffett's Portfolio",
-      "link": "https://finance.yahoo.com/m/dc477381-6af1-3359-81ed-6aa09b1c78ae/3-tech-compounders-fit-for.html",
-      "publisher": "Motley Fool",
-      "time": 1787474100,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "53b0be29-5e48-321e-9f3f-e12b3ff3bfd0",
-      "title": "A Synaptics Insider Filing Lands as a $7.8 Billion Combined Company Takes Shape",
-      "link": "https://finance.yahoo.com/m/53b0be29-5e48-321e-9f3f-e12b3ff3bfd0/a-synaptics-insider-filing.html",
-      "publisher": "Motley Fool",
-      "time": 1787473801,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f3172306-28c6-3ce8-8807-7d114e073dba",
-      "title": "President Donald Trump Claims Fuel Prices Are \"Tumbling Down,\" but Trumpflation Has Become a Broad-Based Problem",
-      "link": "https://finance.yahoo.com/m/f3172306-28c6-3ce8-8807-7d114e073dba/president-donald-trump-claims.html",
-      "publisher": "Motley Fool",
-      "time": 1787473560,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "62bb36e5-3a0a-3670-a066-03fe541d9f72",
-      "title": "1 Overlooked Dividend King With a 63-Year Winning Streak Worth Buying Now",
-      "link": "https://finance.yahoo.com/m/62bb36e5-3a0a-3670-a066-03fe541d9f72/1-overlooked-dividend-king.html",
-      "publisher": "Motley Fool",
-      "time": 1787472900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "51644b70-2310-38b7-81e1-ef67ff3a6945",
-      "title": "Why Synaptics' Product Chief Filing Connects to Core IoT Sales Growing 24%",
-      "link": "https://finance.yahoo.com/m/51644b70-2310-38b7-81e1-ef67ff3a6945/why-synaptics%27-product-chief.html",
-      "publisher": "Motley Fool",
-      "time": 1787472757,
+      "id": "15d2f5b6-aeb6-36c4-829f-bcd00913c1a3",
+      "title": "Arts Calendar: Happenings for the Week of August 23",
+      "link": "https://finance.yahoo.com/m/15d2f5b6-aeb6-36c4-829f-bcd00913c1a3/arts-calendar%3A-happenings-for.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787475600,
       "impact": "low",
       "tags": []
     }
