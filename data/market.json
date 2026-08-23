@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T23:14:27.326809+00:00",
+  "updatedAt": "2026-08-23T23:43:02.412487+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,47 @@
   ],
   "news": [
     {
-      "id": "7e402fb5-78f8-3aaa-9cb1-6aca61d762fa",
-      "title": "Analysis-China's property crisis grinds on after Evergrande sentencing",
-      "link": "https://finance.yahoo.com/real-estate/articles/analysis-chinas-property-crisis-grinds-230920450.html",
-      "publisher": "Reuters",
-      "time": 1787526560,
+      "id": "55f49a16-49d8-3bed-8897-7cbafe14cdcb",
+      "title": "Micron, Sandisk, and SK Hynix: History Says This About the Memory Trio's Rally",
+      "link": "https://finance.yahoo.com/m/55f49a16-49d8-3bed-8897-7cbafe14cdcb/micron%2C-sandisk%2C-and-sk.html",
+      "publisher": "Motley Fool",
+      "time": 1787528100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ab5578f4-b41b-3b31-86e3-6d2464537087",
+      "title": "4-H rabbit show proves dedication of members",
+      "link": "https://finance.yahoo.com/m/ab5578f4-b41b-3b31-86e3-6d2464537087/4-h-rabbit-show-proves.html",
+      "publisher": "The Lima News, Ohio",
+      "time": 1787527860,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d9a9f2aa-8441-3661-945f-39f2fb5a2a57",
+      "title": "Benz Announces A$150m Placement to Accelerate Delivery of Glenburgh Maiden Resource",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/benz-announces-150m-placement-accelerate-233000383.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787527800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "16ab4356-fda5-3bcc-b55a-bcc6528a6847",
+      "title": "Abbott vs. Intuitive Surgical: Which MedTech Stock Offers Better Long-Term Upside?",
+      "link": "https://finance.yahoo.com/healthcare/articles/abbott-vs-intuitive-surgical-medtech-232811319.html",
+      "publisher": "Insider Monkey",
+      "time": 1787527691,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b78f73c1-84b9-3fff-9bf6-7d45ff1d467e",
+      "title": "California Expected to Seek TV Channel Sales From Paramount-Warner",
+      "link": "https://finance.yahoo.com/m/b78f73c1-84b9-3fff-9bf6-7d45ff1d467e/california-expected-to-seek.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787527500,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,88 +100,49 @@
       ]
     },
     {
-      "id": "3fc17814-f83d-39dd-bea5-c5257653c31b",
-      "title": "Amazon's highly rated $35 7-piece comforter set comes with every bedding essential you need",
-      "link": "https://finance.yahoo.com/m/3fc17814-f83d-39dd-bea5-c5257653c31b/amazon%27s-highly-rated-%2435.html",
-      "publisher": "TheStreet",
-      "time": 1787526180,
+      "id": "6a5abd0c-b2ae-3c01-a6da-b13b9bd320f8",
+      "title": "Rookie La Sasso wins LIV season-ender as tour's future in doubt",
+      "link": "https://finance.yahoo.com/m/6a5abd0c-b2ae-3c01-a6da-b13b9bd320f8/rookie-la-sasso-wins-liv.html",
+      "publisher": "AFP",
+      "time": 1787527462,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "42d46d36-4c12-3fc8-be6b-807383df1a92",
-      "title": "Appointment of Non-Executive Directors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/appointment-non-executive-directors-230300754.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787526180,
+      "id": "8cb4de6f-2e8b-3bdc-8b40-ab647cf045a0",
+      "title": "You Can Now Deduct Car Loan Interest but Only if the Final Assembly Happened in America. Here’s How to Check If a Car Qualifies",
+      "link": "https://finance.yahoo.com/m/8cb4de6f-2e8b-3bdc-8b40-ab647cf045a0/you-can-now-deduct-car-loan.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787527344,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "639111a9-0504-38dd-a0fc-2842bcc0b150",
-      "title": "Ex-deputy convicted in Sonya Massey killing dies in prison",
-      "link": "https://finance.yahoo.com/m/639111a9-0504-38dd-a0fc-2842bcc0b150/ex-deputy-convicted-in-sonya.html",
-      "publisher": "USA TODAY",
-      "time": 1787526116,
+      "id": "d2c15831-3f79-3b6a-ab94-5dd255c6d6e5",
+      "title": "The AI Debt Boom Is Helping Push Everyone’s Cost of Capital Higher",
+      "link": "https://finance.yahoo.com/m/d2c15831-3f79-3b6a-ab94-5dd255c6d6e5/the-ai-debt-boom-is-helping.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787527097,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "873d0402-e1a5-3412-866f-7ad83777893c",
-      "title": "Is Johnson & Johnson’s $5.5 Billion Talc Settlement a Buy Signal, or Is the Legal Risk Far From Over?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-5-5-billion-230104916.html",
+      "id": "2f442f77-a258-3869-a328-a700fb40899b",
+      "title": "Trump says rejecting data centers is \"a mistake\"",
+      "link": "https://finance.yahoo.com/m/2f442f77-a258-3869-a328-a700fb40899b/trump-says-rejecting-data.html",
+      "publisher": "Axios",
+      "time": 1787526935,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "17245018-48ef-36fa-828d-ebf68d2a83d8",
+      "title": "Gilead’s HIV Business is Surging, but is the Company Too Dependent on One Franchise?",
+      "link": "https://finance.yahoo.com/healthcare/articles/gilead-hiv-business-surging-company-231505800.html",
       "publisher": "Insider Monkey",
-      "time": 1787526064,
+      "time": 1787526905,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "8e7e3e5f-c9e3-34a6-ba44-0aca1f39aa90",
-      "title": "Novotech Strengthens Presence in Japan with Opening of Tokyo Office",
-      "link": "https://finance.yahoo.com/healthcare/articles/novotech-strengthens-presence-japan-opening-230100624.html",
-      "publisher": "Business Wire",
-      "time": 1787526060,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "501b394c-7c76-34b9-b2c8-872e56dcb444",
-      "title": "Inspira Enterprise Expands into Australia to Accelerate AI-Driven Cybersecurity and Digital Resilience Across Enterprises",
-      "link": "https://finance.yahoo.com/technology/ai/articles/inspira-enterprise-expands-australia-accelerate-230000812.html",
-      "publisher": "PR Newswire",
-      "time": 1787526000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "68380f77-0d03-3b47-94b7-3424f9cd2381",
-      "title": "Endeavour Silver Announces Removal of Blockade at its Terronera Mine",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/endeavour-silver-announces-removal-blockade-230000897.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787526000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a4151fe4-a11b-348a-80f7-42fa620e00c4",
-      "title": "Amazon’s Toaster-Shaped Robotaxis Are Hitting the Road",
-      "link": "https://finance.yahoo.com/m/a4151fe4-a11b-348a-80f7-42fa620e00c4/amazon%E2%80%99s-toaster-shaped.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787526000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b7470ef9-7698-37c5-a4ed-7bc9ee0a7b6a",
-      "title": "Amart Furniture to Overhaul Forecasting and Replenishment with RELEX",
-      "link": "https://finance.yahoo.com/technology/ai/articles/amart-furniture-overhaul-forecasting-replenishment-230000386.html",
-      "publisher": "PR Newswire",
-      "time": 1787526000,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
     }
   ],
   "errors": {
