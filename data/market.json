@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T09:24:10.748026+00:00",
+  "updatedAt": "2026-08-23T09:51:00.799507+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,92 +52,101 @@
   ],
   "news": [
     {
+      "id": "62fe472b-0be4-36c6-8f13-67a611302684",
+      "title": "I'm a 57-year-old unemployed tech worker, I can't find a job — and I'm starting to panic. How can I get back on track?",
+      "link": "https://finance.yahoo.com/small-business/articles/im-57-old-unemployed-tech-094500348.html",
+      "publisher": "Moneywise",
+      "time": 1787478300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "dcd12802-25cb-3b0a-80d8-24987e07e292",
+      "title": "The Ultimate Growth Stock to Buy With $10,000 Right Now",
+      "link": "https://finance.yahoo.com/m/dcd12802-25cb-3b0a-80d8-24987e07e292/the-ultimate-growth-stock-to.html",
+      "publisher": "Motley Fool",
+      "time": 1787478000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9362a709-7741-3206-8ff0-1a8c6cf97605",
+      "title": "Tesla Stock in 2027: Why I Think It Still Has Room to Run",
+      "link": "https://finance.yahoo.com/m/9362a709-7741-3206-8ff0-1a8c6cf97605/tesla-stock-in-2027%3A-why-i.html",
+      "publisher": "Motley Fool",
+      "time": 1787477700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "adc56fd0-c2ae-3f68-8995-9a82a6508808",
+      "title": "Forget Broadcom: Nvidia (NVDA) Is Still the Top Semiconductor Stock for 2027 and Beyond",
+      "link": "https://finance.yahoo.com/m/adc56fd0-c2ae-3f68-8995-9a82a6508808/forget-broadcom%3A-nvidia.html",
+      "publisher": "Motley Fool",
+      "time": 1787477400,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "c3e3e4ef-824c-34ae-a01d-a6a87dee7b96",
+      "title": "Last-Minute Apparel Delivery (2026): Same-Day Options for Outfits, Shoes, and Event Essentials by Consumer365",
+      "link": "https://finance.yahoo.com/media-advertising/articles/last-minute-apparel-delivery-2026-093000630.html",
+      "publisher": "PR Newswire",
+      "time": 1787477400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fc0922b0-183a-3b22-9110-dbd1fca3cc7b",
+      "title": "Citibank exec says every 10-year delay in retirement savings means saving 3x as much monthly to catch up",
+      "link": "https://finance.yahoo.com/markets/articles/citibank-exec-says-every-10-093000427.html",
+      "publisher": "Moneywise",
+      "time": 1787477400,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "43dd6867-7b11-3c3b-8136-1b7a1703afcf",
+      "title": "Zelensky rejects wartime elections, says would 'split' Ukraine",
+      "link": "https://finance.yahoo.com/m/43dd6867-7b11-3c3b-8136-1b7a1703afcf/zelensky-rejects-wartime.html",
+      "publisher": "AFP",
+      "time": 1787477279,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "467781fc-43ea-3a25-a8fb-e7e845b5bd73",
+      "title": "Target Stock Is up 63% This Year, and It's Still Cheap",
+      "link": "https://finance.yahoo.com/m/467781fc-43ea-3a25-a8fb-e7e845b5bd73/target-stock-is-up-63%25-this.html",
+      "publisher": "Motley Fool",
+      "time": 1787477100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6b9bb99c-9fb6-3003-a71a-eb5e5baef243",
+      "title": "Could Canada fully supply the U.S. with aluminium?",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/could-canada-fully-supply-u-092128571.html",
+      "publisher": "Investing.com",
+      "time": 1787476888,
+      "impact": "low",
+      "tags": []
+    },
+    {
       "id": "0e8bb460-8025-3263-ab4f-0ddec3270632",
       "title": "Gen Z needs a 'reality check,' says BofA: Is the 'little treat economy' blowing up their future one coffee at a time?",
       "link": "https://finance.yahoo.com/economy/articles/gen-z-needs-reality-check-091500298.html",
       "publisher": "Moneywise",
       "time": 1787476500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f370de53-3e34-3869-ade2-2318f83ef57c",
-      "title": "Micron vs. Sandisk: Which AI Memory Stock Should You Own?",
-      "link": "https://finance.yahoo.com/m/f370de53-3e34-3869-ade2-2318f83ef57c/micron-vs.-sandisk%3A-which-ai.html",
-      "publisher": "Motley Fool",
-      "time": 1787476500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d21fe165-bcdd-3fa8-9538-dff43613e39c",
-      "title": "Synaptics' CEO Sold Stock After a 120,000-Share Vest. Here's What to Know.",
-      "link": "https://finance.yahoo.com/m/d21fe165-bcdd-3fa8-9538-dff43613e39c/synaptics%27-ceo-sold-stock.html",
-      "publisher": "Motley Fool",
-      "time": 1787476214,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "353f76ab-bd88-35d0-829e-4ab6e30a70d6",
-      "title": "Puzzle solutions for Sunday, Aug. 23, 2026",
-      "link": "https://finance.yahoo.com/m/353f76ab-bd88-35d0-829e-4ab6e30a70d6/puzzle-solutions-for-sunday%2C.html",
-      "publisher": "USA TODAY",
-      "time": 1787476058,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "01ebd519-b882-396c-a65d-fea77161b9ee",
-      "title": "Prenups cover more than just marriage and divorce these days",
-      "link": "https://finance.yahoo.com/m/01ebd519-b882-396c-a65d-fea77161b9ee/prenups-cover-more-than-just.html",
-      "publisher": "USA TODAY",
-      "time": 1787475939,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "477b644d-1b16-3fd4-81fc-b4cc450971f6",
-      "title": "The $4.2 Million Couple Left New York to Save on Roth Conversions. One Medicare Bill Followed Them to Florida.",
-      "link": "https://finance.yahoo.com/m/477b644d-1b16-3fd4-81fc-b4cc450971f6/the-%244.2-million-couple-left.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787475879,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0faf92df-8298-300c-b712-58a3484ad38d",
-      "title": "Billionaire Ken Griffin Just Loaded Up on Eli Lilly Stock. Should You?",
-      "link": "https://finance.yahoo.com/m/0faf92df-8298-300c-b712-58a3484ad38d/billionaire-ken-griffin-just.html",
-      "publisher": "Motley Fool",
-      "time": 1787475840,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e3a9cf40-f22a-37ed-a644-0207c1d24d89",
-      "title": "Social Security's future is shaky. Trump prefers this country's system",
-      "link": "https://finance.yahoo.com/m/e3a9cf40-f22a-37ed-a644-0207c1d24d89/social-security%27s-future-is.html",
-      "publisher": "USA TODAY",
-      "time": 1787475759,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "25d574bf-1c1e-3996-9be4-7d66ecad40f8",
-      "title": "Sell U.S. dollar versus these currencies, BCA says",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/sell-u-dollar-versus-currencies-090007888.html",
-      "publisher": "Investing.com",
-      "time": 1787475607,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "15d2f5b6-aeb6-36c4-829f-bcd00913c1a3",
-      "title": "Arts Calendar: Happenings for the Week of August 23",
-      "link": "https://finance.yahoo.com/m/15d2f5b6-aeb6-36c4-829f-bcd00913c1a3/arts-calendar%3A-happenings-for.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787475600,
       "impact": "low",
       "tags": []
     }
