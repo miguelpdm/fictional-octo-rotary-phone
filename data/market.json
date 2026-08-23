@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T17:43:02.099604+00:00",
+  "updatedAt": "2026-08-23T18:19:39.264757+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,68 +52,86 @@
   ],
   "news": [
     {
-      "id": "cd8129f8-0eb3-3332-b8c5-571500818055",
-      "title": "Dropbox's Chief Accounting Officer Had 5,854 Shares Withheld. Here's What Investors Should Know",
-      "link": "https://finance.yahoo.com/m/cd8129f8-0eb3-3332-b8c5-571500818055/dropbox%27s-chief-accounting.html",
-      "publisher": "Motley Fool",
-      "time": 1787506339,
+      "id": "72365482-5392-380b-ab48-853f9602aab5",
+      "title": "125-year-old mall retail anchor closes discount outlet, cuts 101 jobs",
+      "link": "https://finance.yahoo.com/m/72365482-5392-380b-ab48-853f9602aab5/125-year-old-mall-retail.html",
+      "publisher": "TheStreet",
+      "time": 1787509020,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
-      "title": "Dow Jones Futures Due With Nvidia Earnings, Tariffs, Warsh In Focus",
-      "link": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures-due-with.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787506217,
-      "impact": "high",
+      "id": "1674229f-da29-39f4-a718-dfb5f3973560",
+      "title": "Is Dropbox Stock a Buy as Revenue Grows Under 1% and Insiders Dispose of Shares?",
+      "link": "https://finance.yahoo.com/m/1674229f-da29-39f4-a718-dfb5f3973560/is-dropbox-stock-a-buy-as.html",
+      "publisher": "Motley Fool",
+      "time": 1787508767,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "859ab948-7a0c-3760-9a97-ffb9346ba794",
+      "title": "Germany’s Far Right Has a New Enemy: The 100-Year-Old Bauhaus",
+      "link": "https://finance.yahoo.com/m/859ab948-7a0c-3760-9a97-ffb9346ba794/germany%E2%80%99s-far-right-has-a-new.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787508540,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d874bdae-f3a9-35d1-92a8-c033f79b4f0e",
+      "title": "147 Laps Around the Mall: Washington Hosts Freedom 250 Street Race",
+      "link": "https://finance.yahoo.com/m/d874bdae-f3a9-35d1-92a8-c033f79b4f0e/147-laps-around-the-mall%3A.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787508420,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d5409e1e-1173-374c-861f-38777b1d1a7a",
+      "title": "Target admits it still has big problems to fix",
+      "link": "https://finance.yahoo.com/m/d5409e1e-1173-374c-861f-38777b1d1a7a/target-admits-it-still-has.html",
+      "publisher": "TheStreet",
+      "time": 1787508180,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e8dfc2fb-2a44-3c38-b3a2-951f62f5bd14",
+      "title": "Giroud scores as Lille give Davide Ancelotti winning start",
+      "link": "https://finance.yahoo.com/m/e8dfc2fb-2a44-3c38-b3a2-951f62f5bd14/giroud-scores-as-lille-give.html",
+      "publisher": "AFP",
+      "time": 1787508074,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0cda3085-a3dc-3ed3-9e07-c87c5ddcbd47",
+      "title": "Target Just Reported Earnings. Here's Whether the Dividend King Is Still a Buy.",
+      "link": "https://finance.yahoo.com/m/0cda3085-a3dc-3ed3-9e07-c87c5ddcbd47/target-just-reported.html",
+      "publisher": "Motley Fool",
+      "time": 1787508000,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "4a182485-bcb8-32e0-aa55-62475689f932",
-      "title": "Irish architect dubbed 'Condom Man' files €50 appeal to block Trump's 13K-sq-ft Doonbeg ballroom over threatened snails",
-      "link": "https://finance.yahoo.com/real-estate/articles/irish-architect-dubbed-condom-man-173000634.html",
+      "id": "166ca89b-841e-466d-a203-4c9b17403907",
+      "title": "Alcohol consumption isn't dying, brand loyalty is",
+      "link": "https://finance.yahoo.com/video/alcohol-consumption-isnt-dying-brand-180000671.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1787508000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3a0ce200-4ff9-379d-8742-6f7aea189485",
+      "title": "Moneywise editors share their most expensive impulse purchases — and why they'd do it all over again",
+      "link": "https://finance.yahoo.com/markets/articles/moneywise-editors-share-most-expensive-180000749.html",
       "publisher": "Moneywise",
-      "time": 1787506200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "979e59eb-2d8e-3019-96c2-14bff84e0237",
-      "title": "Broadcom vs. Marvell Technology: 1 Critical Metric Decides the Better Custom AI Chip Stock",
-      "link": "https://finance.yahoo.com/m/979e59eb-2d8e-3019-96c2-14bff84e0237/broadcom-vs.-marvell.html",
-      "publisher": "Motley Fool",
-      "time": 1787505960,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5b8b5667-916a-3b00-bfbd-8dcdae4294b7",
-      "title": "Landfill collapse kills 30 in Guinea",
-      "link": "https://finance.yahoo.com/m/5b8b5667-916a-3b00-bfbd-8dcdae4294b7/landfill-collapse-kills-30-in.html",
-      "publisher": "AFP",
-      "time": 1787505682,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6f88dc4c-170b-3e6d-9e5d-92082f371932",
-      "title": "Villa boss Emery says it's down to Watkins to explain absence",
-      "link": "https://finance.yahoo.com/m/6f88dc4c-170b-3e6d-9e5d-92082f371932/villa-boss-emery-says-it%27s.html",
-      "publisher": "AFP",
-      "time": 1787505526,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7241d0d0-5520-3bce-b509-6f1ae21e97a1",
-      "title": "'Unbelievable' Cherki proves his point to Man City boss Maresca",
-      "link": "https://finance.yahoo.com/m/7241d0d0-5520-3bce-b509-6f1ae21e97a1/%27unbelievable%27-cherki-proves.html",
-      "publisher": "AFP",
-      "time": 1787505392,
+      "time": 1787508000,
       "impact": "low",
       "tags": []
     },
@@ -122,25 +140,7 @@
       "title": "10-man Atletico snatch Villarreal draw as Alvarez returns",
       "link": "https://finance.yahoo.com/m/474deb85-cbf2-383f-9530-fa426a053962/10-man-atletico-snatch.html",
       "publisher": "AFP",
-      "time": 1787505118,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8072b086-0c9c-388c-b330-ff3aa918fef3",
-      "title": "Should You Buy Oracle Stock Before September? The Answer Might Surprise You.",
-      "link": "https://finance.yahoo.com/m/8072b086-0c9c-388c-b330-ff3aa918fef3/should-you-buy-oracle-stock.html",
-      "publisher": "Motley Fool",
-      "time": 1787505000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2f3ad4cd-7c53-39dd-8f60-fde768986d79",
-      "title": "Microsoft (MSFT) Gets New Australia News Rules As AI Commerce Push Deepens",
-      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-gets-australia-news-170738761.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787504858,
+      "time": 1787507934,
       "impact": "low",
       "tags": []
     }
