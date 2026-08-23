@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T12:26:11.132481+00:00",
+  "updatedAt": "2026-08-23T13:09:58.692124+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,97 +52,101 @@
   ],
   "news": [
     {
-      "id": "af6a3893-e11b-3d9b-909e-3ff5ee59918b",
-      "title": "I Get Paid By 3 Different Dividend Stocks Every Single Month. Here's Who's on My List.",
-      "link": "https://finance.yahoo.com/m/af6a3893-e11b-3d9b-909e-3ff5ee59918b/i-get-paid-by-3-different.html",
-      "publisher": "Motley Fool",
-      "time": 1787487601,
+      "id": "4fec6db2-c791-3687-8067-019506d80211",
+      "title": "Kane voted German footballer of the year",
+      "link": "https://finance.yahoo.com/m/4fec6db2-c791-3687-8067-019506d80211/kane-voted-german-footballer.html",
+      "publisher": "AFP",
+      "time": 1787490369,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "30bf8403-c3de-32b5-a895-241226050d3c",
+      "title": "Asphalt Expert Robert Stewart Explains Asphalt Driveway Installation Preparation in HelloNation",
+      "link": "https://finance.yahoo.com/real-estate/articles/asphalt-expert-robert-stewart-explains-130400924.html",
+      "publisher": "PR Newswire",
+      "time": 1787490240,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "b111622d-fcb2-3b27-b506-3e74c482653b",
-      "title": "AG AL's Gwen Snatches Esports World Cup Club Championship Glory In Unbelievable Trackmania Final",
-      "link": "https://finance.yahoo.com/media-advertising/articles/ag-als-gwen-snatches-esports-121900531.html",
-      "publisher": "PR Newswire",
-      "time": 1787487540,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cc8c5c45-b44e-3b8e-9988-a396edae318f",
-      "title": "Most Americans retire with this much banked in savings, but is it actually enough for you?",
-      "link": "https://finance.yahoo.com/markets/articles/most-americans-retire-much-banked-121500399.html",
-      "publisher": "Moneywise",
-      "time": 1787487300,
-      "impact": "medium",
+      "id": "ceb571a2-72c6-3558-a7c8-e74630314dbb",
+      "title": "Exclusive: Anthropic's $2 Trillion Valuation Faces a Reality Check—SPCX Offers a Warning, Wall Street Veteran Says",
+      "link": "https://finance.yahoo.com/m/ceb571a2-72c6-3558-a7c8-e74630314dbb/exclusive%3A-anthropic%27s-%242.html",
+      "publisher": "Benzinga Private Markets",
+      "time": 1787490029,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "e1abd7bd-af55-34d5-b2b5-b31eba934b12",
-      "title": "Airworthy.com Releases 2026 State of General Aviation Parts Report",
-      "link": "https://finance.yahoo.com/small-business/articles/airworthy-com-releases-2026-state-121300434.html",
-      "publisher": "PR Newswire",
-      "time": 1787487180,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c2f9f8b9-def9-3cc7-94a6-7f7f6d02f0f4",
-      "title": "TriCo Bancshares (TCBK) Stock Looks Cheap Even After A 75% Gain",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/trico-bancshares-tcbk-stock-looks-120754244.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787486874,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e7c7a861-ae84-301c-a1b8-0a87e554c8bc",
-      "title": "Micron Technology: Is MU Stock a No-Brainer Buy as AI Memory Demand Surges in 2026?",
-      "link": "https://finance.yahoo.com/m/e7c7a861-ae84-301c-a1b8-0a87e554c8bc/micron-technology%3A-is-mu.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787486445,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0cd86d38-f36e-3b40-8149-e06ca1690d17",
-      "title": "Walmart is selling farmhouse storage cabinets that can help you get organized, starting at $67",
-      "link": "https://finance.yahoo.com/m/0cd86d38-f36e-3b40-8149-e06ca1690d17/walmart-is-selling-farmhouse.html",
-      "publisher": "TheStreet",
-      "time": 1787486400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "889c2849-e617-3eaf-ad30-c7f3efc9eebf",
-      "title": "Crypto Skeptic Rashida Tlaib Holds Bitcoin and Ethereum ETFs",
-      "link": "https://finance.yahoo.com/m/889c2849-e617-3eaf-ad30-c7f3efc9eebf/crypto-skeptic-rashida-tlaib.html",
-      "publisher": "BeInCrypto",
-      "time": 1787486400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "94fdb777-9018-3045-8395-08f84572d8da",
-      "title": "Could This Unstoppable S&P 500 ETF Make You a Millionaire? Here's What 20 Years of Data Says.",
-      "link": "https://finance.yahoo.com/m/94fdb777-9018-3045-8395-08f84572d8da/could-this-unstoppable-s%26p.html",
-      "publisher": "Motley Fool",
-      "time": 1787486400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ed75cf80-d493-3f9b-bd10-13e0ada1f353",
-      "title": "Ramsey Show caller earns $95K but can't save $1,000 — his $131K in debt has him trapped in cash advance loops",
-      "link": "https://finance.yahoo.com/markets/articles/ramsey-show-caller-earns-95k-120000539.html",
+      "id": "1a92b440-7d5d-3873-a880-496674cc5d60",
+      "title": "Trump made a multimillion-dollar bond bet — and Fed Chair Kevin Warsh could shape the outcome. What investors can learn",
+      "link": "https://finance.yahoo.com/markets/options/articles/trump-made-multimillion-dollar-bond-130000920.html",
       "publisher": "Moneywise",
-      "time": 1787486400,
+      "time": 1787490000,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "86b33a01-b0cc-3afc-9109-912b8d7a1380",
+      "title": "DREAMO and DREAMOSIS Bring the Collectible Character Into a New Physical-Digital World",
+      "link": "https://finance.yahoo.com/media-advertising/articles/dreamo-dreamosis-bring-collectible-character-130000704.html",
+      "publisher": "PR Newswire",
+      "time": 1787490000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "91ceb90c-728e-328b-9418-b060ec0a5eb2",
+      "title": "Bio Ionic Partners with Ulta Beauty on Limited Edition Jade Dream Collection",
+      "link": "https://finance.yahoo.com/media-advertising/articles/bio-ionic-partners-ulta-beauty-130000930.html",
+      "publisher": "PR Newswire",
+      "time": 1787490000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9ca2c91b-cd86-3f63-bb7f-b7f8973be4ea",
+      "title": "Paris Baguette Expands Their Growing Footprint with a New Café Opening in Hilliard, Ohio on August 20",
+      "link": "https://finance.yahoo.com/small-business/articles/paris-baguette-expands-growing-footprint-130000194.html",
+      "publisher": "PR Newswire",
+      "time": 1787490000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c2efaabc-d391-3914-b295-281071a7ae0e",
+      "title": "HP exec reveals the Gen Z ‘superpower’ that he says helps young employees build ‘a healthy relationship with work’",
+      "link": "https://finance.yahoo.com/technology/ai/articles/hp-exec-reveals-gen-z-130000510.html",
+      "publisher": "Moneywise",
+      "time": 1787490000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d57f57b4-378f-3143-9f28-ac62eb467967",
+      "title": "/R E P E A T -- Media Advisory - Minister Miller will announce major funding for a cultural organization in Montréal/",
+      "link": "https://finance.yahoo.com/media-advertising/articles/r-e-p-e-t-130000279.html",
+      "publisher": "CNW Group",
+      "time": 1787490000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8942451c-5002-3e7e-971c-29565124df70",
+      "title": "The Roth Conversion Mistake Too Many Pre-Retirees Make",
+      "link": "https://finance.yahoo.com/m/8942451c-5002-3e7e-971c-29565124df70/the-roth-conversion-mistake.html",
+      "publisher": "Motley Fool",
+      "time": 1787489760,
       "impact": "low",
       "tags": []
     }
