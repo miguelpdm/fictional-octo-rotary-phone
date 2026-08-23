@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T15:44:44.583398+00:00",
+  "updatedAt": "2026-08-23T16:17:35.480223+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,11 +52,29 @@
   ],
   "news": [
     {
-      "id": "0e59a5e5-ab84-3ef9-be37-eb9e8ef6de5d",
-      "title": "Berkshire CEO Greg Abel Is Sitting on Nearly $400 Billion in Cash. Here's How His Deal-Making Approach Differs From Warren Buffett's.",
-      "link": "https://finance.yahoo.com/m/0e59a5e5-ab84-3ef9-be37-eb9e8ef6de5d/berkshire-ceo-greg-abel-is.html",
+      "id": "dbcb0ac7-f980-35eb-8b25-23bfaa2abb4a",
+      "title": "Sergio V. Crowley Publishes Operations Research Framework for Industrial Capital Deployment",
+      "link": "https://finance.yahoo.com/small-business/articles/sergio-v-crowley-publishes-operations-160900026.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787501340,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "91ed2ad9-1719-30cd-9a59-51672496a2c7",
+      "title": "Two Dropbox Executives Sold After Their Shares Vested Last Week. The Future Sole CEO Wasn't One of Them",
+      "link": "https://finance.yahoo.com/m/91ed2ad9-1719-30cd-9a59-51672496a2c7/two-dropbox-executives-sold.html",
       "publisher": "Motley Fool",
-      "time": 1787499300,
+      "time": 1787501136,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "be7bd23e-47ea-3dce-b304-5b711249b18e",
+      "title": "One of Exxon's Biggest Oil Fields Is Running Out of Room to Grow. Here's Why That's Not a Crisis.",
+      "link": "https://finance.yahoo.com/m/be7bd23e-47ea-3dce-b304-5b711249b18e/one-of-exxon%27s-biggest-oil.html",
+      "publisher": "Motley Fool",
+      "time": 1787501100,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,65 +82,20 @@
       ]
     },
     {
-      "id": "17d0882a-2e3f-3747-b161-210ab26a7b75",
-      "title": "40% of companies posted fake job listings in 2024 — now lawmakers in multiple states are moving to ban them",
-      "link": "https://finance.yahoo.com/small-business/articles/40-companies-posted-fake-job-153000925.html",
-      "publisher": "Moneywise",
-      "time": 1787499000,
+      "id": "a2d97756-6f80-350c-8c7d-85454772297e",
+      "title": "Can Hershey step up to buy Mondelez?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hershey-step-buy-mondelez-160308702.html",
+      "publisher": "Investing.com",
+      "time": 1787500988,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7d38c7d5-cb4c-35ff-9b4f-9c9dcc5b6c5e",
-      "title": "Walmart is selling $170 noise-canceling earbuds for just $19",
-      "link": "https://finance.yahoo.com/m/7d38c7d5-cb4c-35ff-9b4f-9c9dcc5b6c5e/walmart-is-selling-%24170.html",
+      "id": "ba9aa660-c265-39c5-bbd2-55977f06d5d6",
+      "title": "Iconic bank stock pays Buffett's Berkshire $619M in annual dividends",
+      "link": "https://finance.yahoo.com/m/ba9aa660-c265-39c5-bbd2-55977f06d5d6/iconic-bank-stock-pays.html",
       "publisher": "TheStreet",
-      "time": 1787499000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f2724174-3262-37a5-bffe-7b459e0053a4",
-      "title": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development",
-      "link": "https://finance.yahoo.com/m/f2724174-3262-37a5-bffe-7b459e0053a4/nvidia%2C-cloverleaf-partnering.html",
-      "publisher": "POWER Magazine",
-      "time": 1787498723,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9cae0f45-2ec8-3be0-aa4d-94abef74ad14",
-      "title": "Brighton start Premier League season with rout of 10-man Villa",
-      "link": "https://finance.yahoo.com/m/9cae0f45-2ec8-3be0-aa4d-94abef74ad14/brighton-start-premier-league.html",
-      "publisher": "AFP",
-      "time": 1787498631,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2aec1cca-e050-3fc7-b414-8868fc1f903d",
-      "title": "Prince Harry: royal misfit making unlikely UK return",
-      "link": "https://finance.yahoo.com/m/2aec1cca-e050-3fc7-b414-8868fc1f903d/prince-harry%3A-royal-misfit.html",
-      "publisher": "AFP",
-      "time": 1787498575,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b7636d1f-feca-3257-b057-d79b4f7faa06",
-      "title": "3 Reasons Not to Claim Social Security at 67",
-      "link": "https://finance.yahoo.com/m/b7636d1f-feca-3257-b057-d79b4f7faa06/3-reasons-not-to-claim-social.html",
-      "publisher": "Motley Fool",
-      "time": 1787498520,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bc997cc3-7b6a-310a-9b65-5ef3aabba3e0",
-      "title": "How long could global oil stockpiles last if supply disruptions continue?",
-      "link": "https://finance.yahoo.com/m/bc997cc3-7b6a-310a-9b65-5ef3aabba3e0/how-long-could-global-oil.html",
-      "publisher": "InvestorsHub",
-      "time": 1787498400,
+      "time": 1787500980,
       "impact": "medium",
       "tags": [
         "macro",
@@ -130,20 +103,50 @@
       ]
     },
     {
-      "id": "e8dfc2fb-2a44-3c38-b3a2-951f62f5bd14",
-      "title": "Giroud scores as Lille give Davide Ancelotti winning start",
-      "link": "https://finance.yahoo.com/m/e8dfc2fb-2a44-3c38-b3a2-951f62f5bd14/giroud-scores-as-lille-give.html",
-      "publisher": "AFP",
-      "time": 1787498315,
+      "id": "5a7b5a13-47a0-3f5b-b1ae-b7bbfcf818a4",
+      "title": "BNP PARIBAS GROUP: SUDAN LITIGATION STATEMENT FROM BNP PARIBAS",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-group-sudan-litigation-160200356.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787500920,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "aca33308-cf51-34a2-988f-415cf187f8a5",
-      "title": "4C Health, others honored with Half Century Business Award",
-      "link": "https://finance.yahoo.com/m/aca33308-cf51-34a2-988f-415cf187f8a5/4c-health%2C-others-honored.html",
-      "publisher": "Pharos-Tribune, Logansport, Ind.",
-      "time": 1787498220,
+      "id": "420c1e57-946d-3b99-87dc-1fa6e5eb6362",
+      "title": "Prediction: Eli Lilly Could Be One of the Biggest Winners of the Next Decade. Here’s Why.",
+      "link": "https://finance.yahoo.com/m/420c1e57-946d-3b99-87dc-1fa6e5eb6362/prediction%3A-eli-lilly-could.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787500811,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2e65e572-5cc7-3898-8c2d-214c723015a7",
+      "title": "Seahawks' Montorie Foster Jr. brings his Super Bowl ring to open houses after getting his real estate license",
+      "link": "https://finance.yahoo.com/real-estate/articles/seahawks-montorie-foster-jr-brings-160000503.html",
+      "publisher": "Moneywise",
+      "time": 1787500800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
+      "title": "Dow Jones Futures Due After Market Damage; Nvidia, Canada Tariffs, Warsh In Focus",
+      "link": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures-due-after.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787500596,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "13be0bb2-971f-3a2b-aa97-7f20a3834a6a",
+      "title": "VW chief warns carmaker's situation 'more than critical'",
+      "link": "https://finance.yahoo.com/economy/policy/articles/vw-chief-warns-carmakers-situation-155534610.html",
+      "publisher": "AFP",
+      "time": 1787500534,
       "impact": "high",
       "tags": [
         "geo",
