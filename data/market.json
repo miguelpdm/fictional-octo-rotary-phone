@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T02:22:45.124180+00:00",
+  "updatedAt": "2026-08-23T03:28:06.823311+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,38 +52,20 @@
   ],
   "news": [
     {
-      "id": "07acd798-a3dc-31b2-bef4-3cc4991e930a",
-      "title": "Sydney marathon unveils medal with wrong stadium",
-      "link": "https://finance.yahoo.com/m/07acd798-a3dc-31b2-bef4-3cc4991e930a/sydney-marathon-unveils-medal.html",
-      "publisher": "AFP",
-      "time": 1787451124,
+      "id": "b00637e2-56ee-34c3-9bbb-3c2bbfa26524",
+      "title": "Atlassian (TEAM) Stock Looks Near Fair Value After Its 98% Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/atlassian-team-stock-looks-near-031647804.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787455007,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2aec1cca-e050-3fc7-b414-8868fc1f903d",
-      "title": "Prince Harry: royal misfit making unlikely UK return",
-      "link": "https://finance.yahoo.com/m/2aec1cca-e050-3fc7-b414-8868fc1f903d/prince-harry%3A-royal-misfit.html",
-      "publisher": "AFP",
-      "time": 1787451034,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1589966e-ce32-3807-97ce-d5ea4856a635",
-      "title": "Former Gonzaga standout Corey Kispert pours time into coffee company",
-      "link": "https://finance.yahoo.com/m/1589966e-ce32-3807-97ce-d5ea4856a635/former-gonzaga-standout-corey.html",
-      "publisher": "The Spokesman-Review, Spokane, Wash.",
-      "time": 1787450520,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "37f19d62-34d3-3455-818c-cb09fc2ed00f",
-      "title": "Palantir Keeps 55 Cents of Every Revenue Dollar as Profit",
-      "link": "https://finance.yahoo.com/m/37f19d62-34d3-3455-818c-cb09fc2ed00f/palantir-keeps-55-cents-of.html",
-      "publisher": "Motley Fool",
-      "time": 1787450281,
+      "id": "ff088d9b-e315-363b-af45-5777c021e3e5",
+      "title": "Is Vestas Wind Systems (CPSE:VWS) Fully Valued As Earnings Lifted Full Year Guidance?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vestas-wind-systems-cpse-vws-031645621.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787455005,
       "impact": "medium",
       "tags": [
         "macro",
@@ -91,20 +73,58 @@
       ]
     },
     {
-      "id": "10d5ae0c-10e6-3629-acda-6384e552e537",
-      "title": "Macron hosts Saudi's MBS for visit ranging from esports to Mideast",
-      "link": "https://finance.yahoo.com/m/10d5ae0c-10e6-3629-acda-6384e552e537/macron-hosts-saudi%27s-mbs-for.html",
-      "publisher": "AFP",
-      "time": 1787450190,
+      "id": "2f7a1f9e-8a28-3423-bc83-453785bcabfd",
+      "title": "Clorox (CLX) Could Be 56% Below Fair Value As Valuation Views Split",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/clorox-clx-could-56-below-031644141.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787455004,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "352938f8-fbff-37dc-956b-50cd8eb6c301",
-      "title": "Canada to retaliate for US tariffs, worsening ties after talks fail",
-      "link": "https://finance.yahoo.com/news/carney-says-canadian-tariffs-us-153928985.html",
-      "publisher": "Reuters",
-      "time": 1787450000,
+      "id": "19e8f01e-7909-34b0-bcbe-e46a57771ebc",
+      "title": "Red Cat Holdings (RCAT) Expands Blue Ops Integration, Is The Upside Already Priced In?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-rcat-expands-031631916.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787454991,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "07acd798-a3dc-31b2-bef4-3cc4991e930a",
+      "title": "Sydney marathon unveils medal with wrong stadium",
+      "link": "https://finance.yahoo.com/m/07acd798-a3dc-31b2-bef4-3cc4991e930a/sydney-marathon-unveils-medal.html",
+      "publisher": "AFP",
+      "time": 1787454675,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "80b58e84-6525-3863-b75b-b47da7e47260",
+      "title": "Pegula dethrones Swiatek to book Cincy final against Gauff",
+      "link": "https://finance.yahoo.com/m/80b58e84-6525-3863-b75b-b47da7e47260/pegula-dethrones-swiatek-to.html",
+      "publisher": "AFP",
+      "time": 1787454424,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ee05b855-6f98-39ed-a186-9cbffb2e3697",
+      "title": "Longtime analyst says investors should consider these stocks in fall 2026",
+      "link": "https://finance.yahoo.com/m/ee05b855-6f98-39ed-a186-9cbffb2e3697/longtime-analyst-says.html",
+      "publisher": "TheStreet",
+      "time": 1787454420,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
+      "title": "Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada",
+      "link": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures%3A-market.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787454115,
       "impact": "high",
       "tags": [
         "geo",
@@ -112,40 +132,25 @@
       ]
     },
     {
-      "id": "c1f6f4a0-0236-3ce9-a52f-5957200c5032",
-      "title": "Blowing in the wind, humble balloon gets green makeover",
-      "link": "https://finance.yahoo.com/m/c1f6f4a0-0236-3ce9-a52f-5957200c5032/blowing-in-the-wind%2C-humble.html",
+      "id": "e1cc8d1b-499e-380e-8c4e-af02ffd7fb23",
+      "title": "Austrian mountain town finds niche in AI boom",
+      "link": "https://finance.yahoo.com/technology/ai/articles/austrian-mountain-town-finds-niche-030142219.html",
       "publisher": "AFP",
-      "time": 1787449809,
+      "time": 1787454102,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "29e19028-ee6a-3f88-a0d1-1648e14cb2ed",
-      "title": "Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.",
-      "link": "https://finance.yahoo.com/m/29e19028-ee6a-3f88-a0d1-1648e14cb2ed/solana-is-beating-ethereum-in.html",
-      "publisher": "Motley Fool",
-      "time": 1787449020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "423dab94-1418-35e9-bc1d-ef705488741b",
-      "title": "Zcash Hits Eight-Year High After Grayscale Advances U.S. ETF Push",
-      "link": "https://finance.yahoo.com/m/423dab94-1418-35e9-bc1d-ef705488741b/zcash-hits-eight-year-high.html",
-      "publisher": "CryptoProwl",
-      "time": 1787449020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1c4edc0d-36b6-307e-b469-6add38e7196a",
-      "title": "How a retiree found a new purpose delivering tables to families in need",
-      "link": "https://finance.yahoo.com/m/1c4edc0d-36b6-307e-b469-6add38e7196a/how-a-retiree-found-a-new.html",
-      "publisher": "CBS News Videos",
-      "time": 1787449009,
-      "impact": "low",
-      "tags": []
+      "id": "681fdf9d-d166-38b4-b4da-5cec6b2b9c02",
+      "title": "EnWave Corp (NWVCF) (Q3 2026) Earnings Call Highlights: Royalties Surge 24% as Company Nears ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/enwave-corp-nwvcf-q3-2026-030111546.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787454071,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
