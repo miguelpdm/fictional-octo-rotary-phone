@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T14:16:51.674751+00:00",
+  "updatedAt": "2026-08-23T14:47:04.934188+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,77 +52,11 @@
   ],
   "news": [
     {
-      "id": "dd86a3ae-73af-301c-8676-b38c9e1cabc3",
-      "title": "History Says You Should Know These 3 Things Before Buying the Vanguard S&P 500 ETF (VOO)",
-      "link": "https://finance.yahoo.com/m/dd86a3ae-73af-301c-8676-b38c9e1cabc3/history-says-you-should-know.html",
-      "publisher": "Motley Fool",
-      "time": 1787493900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a08805c9-e5c9-3ed9-998d-35673948110d",
-      "title": "He Camped One Weekend on Riverfront Land Inside His IRA. Medicare Charged Him for It Two Years Later.",
-      "link": "https://finance.yahoo.com/m/a08805c9-e5c9-3ed9-998d-35673948110d/he-camped-one-weekend-on.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787493731,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "52062ea4-cd6e-3a72-a20e-73fe1b03b83f",
-      "title": "PennantPark vs. PennantPark Floating Rate: Which BDC Pays Income Investors Better?",
-      "link": "https://finance.yahoo.com/m/52062ea4-cd6e-3a72-a20e-73fe1b03b83f/pennantpark-vs.-pennantpark.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787493653,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e2917012-c938-3fce-903e-4d78d04b977a",
-      "title": "Wages garnished 10% for child support you don't owe — family law attorneys say fixing it isn't simple",
-      "link": "https://finance.yahoo.com/small-business/articles/wages-garnished-10-child-support-140000426.html",
-      "publisher": "Moneywise",
-      "time": 1787493600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a04244a5-7b6c-383f-b683-42ff84ccb9a3",
-      "title": "How to Build $11,800 a Month in Dividend Income Without Selling a Single Share",
-      "link": "https://finance.yahoo.com/m/a04244a5-7b6c-383f-b683-42ff84ccb9a3/how-to-build-%2411%2C800-a-month.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787493462,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "eb1b3a1d-9c1d-3de7-8841-0e312eb1d355",
-      "title": "Choosing This Retirement Account Over a Traditional 401(k) Could Mean Keeping More of Your Social Security Benefits",
-      "link": "https://finance.yahoo.com/m/eb1b3a1d-9c1d-3de7-8841-0e312eb1d355/choosing-this-retirement.html",
-      "publisher": "Motley Fool",
-      "time": 1787493000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8e2dfb74-e9c1-38a9-a3ca-b8bb79b4fead",
-      "title": "Should You Buy, Sell, or Hold Nu Holdings Now That Its Earnings Are Out?",
-      "link": "https://finance.yahoo.com/m/8e2dfb74-e9c1-38a9-a3ca-b8bb79b4fead/should-you-buy%2C-sell%2C-or-hold.html",
-      "publisher": "Motley Fool",
-      "time": 1787492700,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "ce589487-d302-343d-9dc7-ad4cc41a018c",
-      "title": "Trump Continues Trading Stocks at Warp Speed: Berkshire Bought, Meta Sold",
-      "link": "https://finance.yahoo.com/m/ce589487-d302-343d-9dc7-ad4cc41a018c/trump-continues-trading.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787492693,
+      "id": "6c172c64-25b5-3b0f-87b0-e06f31ff8926",
+      "title": "Warren Buffett explains investing sin Munger called 'thumb-sucking'",
+      "link": "https://finance.yahoo.com/m/6c172c64-25b5-3b0f-87b0-e06f31ff8926/warren-buffett-explains.html",
+      "publisher": "TheStreet",
+      "time": 1787495820,
       "impact": "high",
       "tags": [
         "geo",
@@ -130,20 +64,83 @@
       ]
     },
     {
-      "id": "19a4d68b-6c77-3645-9076-a7a4fd207cc3",
-      "title": "Applied Digital vs. TeraWulf: Which AI Data Center Stock Is the Better Buy?",
-      "link": "https://finance.yahoo.com/m/19a4d68b-6c77-3645-9076-a7a4fd207cc3/applied-digital-vs.-terawulf%3A.html",
+      "id": "55782701-4f90-35c3-bf29-829d09f97070",
+      "title": "Amazon's Free Cash Flow Went Negative by $7.6 Billion Even as Operating Cash Flow Rose 33%. Here's the Gap AI Capex Is Actually Creating.",
+      "link": "https://finance.yahoo.com/m/55782701-4f90-35c3-bf29-829d09f97070/amazon%27s-free-cash-flow-went.html",
       "publisher": "Motley Fool",
-      "time": 1787492400,
+      "time": 1787495700,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "aa4ae3ec-3d9e-3ee8-9c51-0f78a0eae049",
-      "title": "AT&T's Dividend Costs the Company a Fixed Amount Every Quarter Regardless of Competitive Pressure From Starlink or Cable Rivals. Here's the Coverage Ratio That Actually Determines Whether It's Safe.",
-      "link": "https://finance.yahoo.com/m/aa4ae3ec-3d9e-3ee8-9c51-0f78a0eae049/at%26t%27s-dividend-costs-the.html",
+      "id": "0218ac86-2478-3a1e-a2c1-7179e0ab4d60",
+      "title": "Karmelo Anthony's bid for new trial over track meet stabbing denied",
+      "link": "https://finance.yahoo.com/m/0218ac86-2478-3a1e-a2c1-7179e0ab4d60/karmelo-anthony%27s-bid-for-new.html",
+      "publisher": "USA TODAY",
+      "time": 1787495694,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "be8a859f-dace-35fe-8a5e-4484d9a255ee",
+      "title": "Trump set for starring role at Washington's debut IndyCar race",
+      "link": "https://finance.yahoo.com/m/be8a859f-dace-35fe-8a5e-4484d9a255ee/trump-set-for-starring-role.html",
+      "publisher": "AFP",
+      "time": 1787495628,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ab58968f-b30d-3baf-8be0-bb6dd9472690",
+      "title": "DC Grand Prix: Live updates as Trump hosts car race in the capital",
+      "link": "https://finance.yahoo.com/m/ab58968f-b30d-3baf-8be0-bb6dd9472690/dc-grand-prix%3A-live-updates.html",
+      "publisher": "USA TODAY",
+      "time": 1787495566,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1d906721-8d22-30f9-8916-984243889224",
+      "title": "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
+      "link": "https://finance.yahoo.com/m/1d906721-8d22-30f9-8916-984243889224/robot-brains-could-have-their.html",
+      "publisher": "decrypt",
+      "time": 1787495464,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "59b09cb9-b267-3e17-8acc-4467e980d380",
+      "title": "63% of Gen Z cannabis users regret purchases they made while high — and it's not just one-off purchases. It's a pattern",
+      "link": "https://finance.yahoo.com/small-business/articles/63-gen-z-cannabis-users-143000560.html",
+      "publisher": "Moneywise",
+      "time": 1787495400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e3614ba6-f0dc-375b-b7c2-e8fcc95fda1b",
+      "title": "Holiday Flight Prices Are SKYROCKETING — Here's When to Book",
+      "link": "https://finance.yahoo.com/m/e3614ba6-f0dc-375b-b7c2-e8fcc95fda1b/holiday-flight-prices-are.html",
+      "publisher": "TheStreet",
+      "time": 1787495400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a68e4a10-676e-37d4-abee-46cd3400127d",
+      "title": "40-year-old international travel and cruise company cancels all trips",
+      "link": "https://finance.yahoo.com/m/a68e4a10-676e-37d4-abee-46cd3400127d/40-year-old-international.html",
+      "publisher": "TheStreet",
+      "time": 1787494839,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6eeb2191-8e05-3d4b-951f-cbbfbe15a1ef",
+      "title": "What Happens When Social Security Takes Your Benefits Because You Work Too Much?",
+      "link": "https://finance.yahoo.com/m/6eeb2191-8e05-3d4b-951f-cbbfbe15a1ef/what-happens-when-social.html",
       "publisher": "Motley Fool",
-      "time": 1787492100,
+      "time": 1787494800,
       "impact": "low",
       "tags": []
     }
