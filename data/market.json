@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T19:18:13.388952+00:00",
+  "updatedAt": "2026-08-23T19:43:36.170707+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,97 +52,92 @@
   ],
   "news": [
     {
-      "id": "9c7407c7-6f9a-3618-90e9-d750466ff12e",
-      "title": "Man City snatch late win in Maresca debut, Iraola's Liverpool rescue dramatic draw",
-      "link": "https://finance.yahoo.com/m/9c7407c7-6f9a-3618-90e9-d750466ff12e/man-city-snatch-late-win-in.html",
-      "publisher": "AFP",
-      "time": 1787511568,
+      "id": "57e4906b-17da-3cb0-b04a-33e28a32da90",
+      "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+      "link": "https://finance.yahoo.com/technology/articles/uber-faces-fine-nearly-1b-193000400.html",
+      "publisher": "TechCrunch",
+      "time": 1787513400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e79044a2-6a79-3548-9036-c1d012efcba2",
-      "title": "Why Social Security Can't Be the Center of Your Retirement Income Plan",
-      "link": "https://finance.yahoo.com/m/e79044a2-6a79-3548-9036-c1d012efcba2/why-social-security-can%27t-be.html",
+      "id": "edf16a55-11a1-3a0b-a793-dafd22126c54",
+      "title": "This Company Has Raised Its Dividend for 72 Straight Years. Almost Nobody Talks About It.",
+      "link": "https://finance.yahoo.com/m/edf16a55-11a1-3a0b-a793-dafd22126c54/this-company-has-raised-its.html",
       "publisher": "Motley Fool",
-      "time": 1787511360,
+      "time": 1787513280,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "938867ea-3109-3347-b0db-63e3e157b389",
-      "title": "2 Energy Stocks Riding the Data Center Power Crunch",
-      "link": "https://finance.yahoo.com/m/938867ea-3109-3347-b0db-63e3e157b389/2-energy-stocks-riding-the.html",
-      "publisher": "Motley Fool",
-      "time": 1787511300,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "104b9f38-86f2-3777-bc8e-d5bfcc4b4960",
-      "title": "Burry exits Alibaba, builds large JD.com position over valuation concerns",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/burry-exits-alibaba-builds-large-185346448.html",
-      "publisher": "Investing.com",
-      "time": 1787511226,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cc13c661-3a97-31a3-a545-4aebca173f46",
-      "title": "World's First Autonomous Humanoid Tennis Match: GALBOT Robots Complete 100+ Consecutive Rallies",
-      "link": "https://finance.yahoo.com/technology/ai/articles/worlds-first-autonomous-humanoid-tennis-184800270.html",
-      "publisher": "PR Newswire",
-      "time": 1787510880,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a727e4d6-db18-3240-9b22-a000aff7d995",
-      "title": "J.P. Morgan just poured cold water on Bessent's bond fix",
-      "link": "https://finance.yahoo.com/m/a727e4d6-db18-3240-9b22-a000aff7d995/j.p.-morgan-just-poured-cold.html",
-      "publisher": "TheStreet",
-      "time": 1787510820,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6792ec3b-76d0-3493-8d54-485d13a272dc",
-      "title": "Nobody Plans to Retire Alone in The Villages. Here’s What It Costs When It Happens",
-      "link": "https://finance.yahoo.com/m/6792ec3b-76d0-3493-8d54-485d13a272dc/nobody-plans-to-retire-alone.html",
+      "id": "201d4d0f-3cfe-3728-91a7-b92e182a16d4",
+      "title": "This Chinese Tech Giant Quietly Cut Its Buyback 80% to Fund AI",
+      "link": "https://finance.yahoo.com/m/201d4d0f-3cfe-3728-91a7-b92e182a16d4/this-chinese-tech-giant.html",
       "publisher": "24/7 Wall St.",
-      "time": 1787510677,
+      "time": 1787512665,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9d7ec03b-7fc4-31e2-b702-329120303df5",
-      "title": "Walmart Just Posted Its Biggest One-Day Drop Since 2022. History Says What Its Big Drops Have Been Worth.",
-      "link": "https://finance.yahoo.com/m/9d7ec03b-7fc4-31e2-b702-329120303df5/walmart-just-posted-its.html",
+      "id": "c9ba0bfa-66d4-35fb-9c0a-915b6d62653c",
+      "title": "Look Back: Long before Party on the Patio, Mötley Crüe rocked Pocono Downs",
+      "link": "https://finance.yahoo.com/m/c9ba0bfa-66d4-35fb-9c0a-915b6d62653c/look-back%3A-long-before-party.html",
+      "publisher": "The Times-Leader (Wilkes-Barre, Pa.)",
+      "time": 1787512620,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a3967849-55d9-3c39-931f-263a90cc06dc",
+      "title": "Prediction: ExxonMobil Raises Its Dividend More Than Wall Street Expects",
+      "link": "https://finance.yahoo.com/m/a3967849-55d9-3c39-931f-263a90cc06dc/prediction%3A-exxonmobil-raises.html",
       "publisher": "Motley Fool",
-      "time": 1787510281,
+      "time": 1787512560,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
-      "title": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus",
-      "link": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures-due-with.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787510216,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
+      "id": "a470cb61-4ff3-30be-8549-4bb2aaa271ea",
+      "title": "Amazon is selling Nothing noise-canceling earbuds for $59, and they 'stay in place comfortably for hours'",
+      "link": "https://finance.yahoo.com/m/a470cb61-4ff3-30be-8549-4bb2aaa271ea/amazon-is-selling-nothing.html",
+      "publisher": "TheStreet",
+      "time": 1787512500,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "249906a5-17cb-3749-b617-24d691c8e505",
-      "title": "Chicago Public Schools budget uncertainty looms as students head back to classes",
-      "link": "https://finance.yahoo.com/m/249906a5-17cb-3749-b617-24d691c8e505/chicago-public-schools-budget.html",
-      "publisher": "Chicago Tribune",
-      "time": 1787510100,
+      "id": "1c442af5-79ff-30bd-a9dd-8f2c4bff1e8d",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "link": "https://finance.yahoo.com/m/1c442af5-79ff-30bd-a9dd-8f2c4bff1e8d/linkdaze%E2%80%99s-smart-calendar-is.html",
+      "publisher": "TechCrunch",
+      "time": 1787512448,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4c46d893-b028-3ebb-a2e7-a0b2d932bd1d",
+      "title": "Japan Borrowing Costs Reach 1996 Highs: Will the Weak Yen Hurt Bitcoin?",
+      "link": "https://finance.yahoo.com/m/4c46d893-b028-3ebb-a2e7-a0b2d932bd1d/japan-borrowing-costs-reach.html",
+      "publisher": "BeInCrypto",
+      "time": 1787512443,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c42096b3-9db7-375f-b6e4-4e41f6243a56",
+      "title": "Automakers keep quiet about a U.S. probe into their sensors",
+      "link": "https://finance.yahoo.com/m/c42096b3-9db7-375f-b6e4-4e41f6243a56/automakers-keep-quiet-about-a.html",
+      "publisher": "TheStreet",
+      "time": 1787512380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "549a254c-732e-3450-9f3b-d969f6bf8e3a",
+      "title": "DIVO Was the Quality-Income Pick. Its International Twin Yields 5.6% and Beat It by 5 Points",
+      "link": "https://finance.yahoo.com/m/549a254c-732e-3450-9f3b-d969f6bf8e3a/divo-was-the-quality-income.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787512312,
       "impact": "low",
       "tags": []
     }
