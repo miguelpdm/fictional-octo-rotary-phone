@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T13:09:58.692124+00:00",
+  "updatedAt": "2026-08-23T13:52:24.657003+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,103 +52,99 @@
   ],
   "news": [
     {
-      "id": "4fec6db2-c791-3687-8067-019506d80211",
-      "title": "Kane voted German footballer of the year",
-      "link": "https://finance.yahoo.com/m/4fec6db2-c791-3687-8067-019506d80211/kane-voted-german-footballer.html",
-      "publisher": "AFP",
-      "time": 1787490369,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "30bf8403-c3de-32b5-a895-241226050d3c",
-      "title": "Asphalt Expert Robert Stewart Explains Asphalt Driveway Installation Preparation in HelloNation",
-      "link": "https://finance.yahoo.com/real-estate/articles/asphalt-expert-robert-stewart-explains-130400924.html",
-      "publisher": "PR Newswire",
-      "time": 1787490240,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "ceb571a2-72c6-3558-a7c8-e74630314dbb",
-      "title": "Exclusive: Anthropic's $2 Trillion Valuation Faces a Reality Check—SPCX Offers a Warning, Wall Street Veteran Says",
-      "link": "https://finance.yahoo.com/m/ceb571a2-72c6-3558-a7c8-e74630314dbb/exclusive%3A-anthropic%27s-%242.html",
-      "publisher": "Benzinga Private Markets",
-      "time": 1787490029,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "1a92b440-7d5d-3873-a880-496674cc5d60",
-      "title": "Trump made a multimillion-dollar bond bet — and Fed Chair Kevin Warsh could shape the outcome. What investors can learn",
-      "link": "https://finance.yahoo.com/markets/options/articles/trump-made-multimillion-dollar-bond-130000920.html",
-      "publisher": "Moneywise",
-      "time": 1787490000,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "86b33a01-b0cc-3afc-9109-912b8d7a1380",
-      "title": "DREAMO and DREAMOSIS Bring the Collectible Character Into a New Physical-Digital World",
-      "link": "https://finance.yahoo.com/media-advertising/articles/dreamo-dreamosis-bring-collectible-character-130000704.html",
-      "publisher": "PR Newswire",
-      "time": 1787490000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "91ceb90c-728e-328b-9418-b060ec0a5eb2",
-      "title": "Bio Ionic Partners with Ulta Beauty on Limited Edition Jade Dream Collection",
-      "link": "https://finance.yahoo.com/media-advertising/articles/bio-ionic-partners-ulta-beauty-130000930.html",
-      "publisher": "PR Newswire",
-      "time": 1787490000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9ca2c91b-cd86-3f63-bb7f-b7f8973be4ea",
-      "title": "Paris Baguette Expands Their Growing Footprint with a New Café Opening in Hilliard, Ohio on August 20",
-      "link": "https://finance.yahoo.com/small-business/articles/paris-baguette-expands-growing-footprint-130000194.html",
-      "publisher": "PR Newswire",
-      "time": 1787490000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c2efaabc-d391-3914-b295-281071a7ae0e",
-      "title": "HP exec reveals the Gen Z ‘superpower’ that he says helps young employees build ‘a healthy relationship with work’",
-      "link": "https://finance.yahoo.com/technology/ai/articles/hp-exec-reveals-gen-z-130000510.html",
-      "publisher": "Moneywise",
-      "time": 1787490000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d57f57b4-378f-3143-9f28-ac62eb467967",
-      "title": "/R E P E A T -- Media Advisory - Minister Miller will announce major funding for a cultural organization in Montréal/",
-      "link": "https://finance.yahoo.com/media-advertising/articles/r-e-p-e-t-130000279.html",
-      "publisher": "CNW Group",
-      "time": 1787490000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8942451c-5002-3e7e-971c-29565124df70",
-      "title": "The Roth Conversion Mistake Too Many Pre-Retirees Make",
-      "link": "https://finance.yahoo.com/m/8942451c-5002-3e7e-971c-29565124df70/the-roth-conversion-mistake.html",
+      "id": "8e2dfb74-e9c1-38a9-a3ca-b8bb79b4fead",
+      "title": "Should You Buy, Sell, or Hold Nu Holdings Now That Its Earnings Are Out?",
+      "link": "https://finance.yahoo.com/m/8e2dfb74-e9c1-38a9-a3ca-b8bb79b4fead/should-you-buy%2C-sell%2C-or-hold.html",
       "publisher": "Motley Fool",
-      "time": 1787489760,
+      "time": 1787492700,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "19a4d68b-6c77-3645-9076-a7a4fd207cc3",
+      "title": "Applied Digital vs. TeraWulf: Which AI Data Center Stock Is the Better Buy?",
+      "link": "https://finance.yahoo.com/m/19a4d68b-6c77-3645-9076-a7a4fd207cc3/applied-digital-vs.-terawulf%3A.html",
+      "publisher": "Motley Fool",
+      "time": 1787492400,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "aa4ae3ec-3d9e-3ee8-9c51-0f78a0eae049",
+      "title": "AT&T's Dividend Costs the Company a Fixed Amount Every Quarter Regardless of Competitive Pressure From Starlink or Cable Rivals. Here's the Coverage Ratio That Actually Determines Whether It's Safe.",
+      "link": "https://finance.yahoo.com/m/aa4ae3ec-3d9e-3ee8-9c51-0f78a0eae049/at%26t%27s-dividend-costs-the.html",
+      "publisher": "Motley Fool",
+      "time": 1787492100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4fec6db2-c791-3687-8067-019506d80211",
+      "title": "Kane voted player of the year in Germany",
+      "link": "https://finance.yahoo.com/m/4fec6db2-c791-3687-8067-019506d80211/kane-voted-player-of-the-year.html",
+      "publisher": "AFP",
+      "time": 1787491854,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9959afc3-7eb7-3614-9474-1cfa5c2c3d20",
+      "title": "Home insurers pocket $8.8M a day in investment income when claims are delayed, new analysis finds",
+      "link": "https://finance.yahoo.com/real-estate/articles/home-insurers-pocket-8-8m-133000616.html",
+      "publisher": "Moneywise",
+      "time": 1787491800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e3c3c29c-f1be-369e-8b99-a64d1cf93ee4",
+      "title": "Walmart's popular $110 diamond tennis bracelet is now 83% off",
+      "link": "https://finance.yahoo.com/m/e3c3c29c-f1be-369e-8b99-a64d1cf93ee4/walmart%27s-popular-%24110.html",
+      "publisher": "TheStreet",
+      "time": 1787491800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "49243797-0179-3b52-a983-c6e5dc21962d",
+      "title": "Here's How Much Social Security's Trump Bump-Driven 2027 COLA Is Projected to Boost Benefits",
+      "link": "https://finance.yahoo.com/m/49243797-0179-3b52-a983-c6e5dc21962d/here%27s-how-much-social.html",
+      "publisher": "Motley Fool",
+      "time": 1787491561,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "65a269ce-dbff-32f8-89ec-ca18c67d6807",
+      "title": "Joby and Archer Are Racing to FAA Certification While Burning Hundreds of Millions a Year. Here's the 1 Number That Picks the Winner.",
+      "link": "https://finance.yahoo.com/m/65a269ce-dbff-32f8-89ec-ca18c67d6807/joby-and-archer-are-racing-to.html",
+      "publisher": "Motley Fool",
+      "time": 1787491380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a85c32d6-29a5-36b2-890a-cc7f41a90af8",
+      "title": "The explosion of ticks and Alpha-gal syndrome",
+      "link": "https://finance.yahoo.com/m/a85c32d6-29a5-36b2-890a-cc7f41a90af8/the-explosion-of-ticks-and.html",
+      "publisher": "CBS News Videos",
+      "time": 1787490971,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "378f209f-4aa9-3bff-8cc8-0bbe0143caeb",
+      "title": "Nervous About the Stock Market? History Has Encouraging News for Long-Term Investors.",
+      "link": "https://finance.yahoo.com/m/378f209f-4aa9-3bff-8cc8-0bbe0143caeb/nervous-about-the-stock.html",
+      "publisher": "Motley Fool",
+      "time": 1787490900,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
