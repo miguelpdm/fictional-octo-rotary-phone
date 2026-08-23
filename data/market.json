@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T20:14:31.770776+00:00",
+  "updatedAt": "2026-08-23T20:46:00.170625+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,68 +52,58 @@
   ],
   "news": [
     {
-      "id": "d874bdae-f3a9-35d1-92a8-c033f79b4f0e",
-      "title": "147 Laps Around the Mall: Washington Hosts Freedom 250 Street Race",
-      "link": "https://finance.yahoo.com/m/d874bdae-f3a9-35d1-92a8-c033f79b4f0e/147-laps-around-the-mall%3A.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787515260,
+      "id": "c1743b80-0e9e-30a5-a632-025584fb55c5",
+      "title": "If a Bear Market Is Coming, Here's What All of the Smartest Investors Are Doing Right Now",
+      "link": "https://finance.yahoo.com/m/c1743b80-0e9e-30a5-a632-025584fb55c5/if-a-bear-market-is-coming%2C.html",
+      "publisher": "Motley Fool",
+      "time": 1787517300,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0bdecc4d-5be8-387f-9213-1c44c41ccecf",
-      "title": "After Buying Circle Through a 42% Drop, Cathie Wood Says Analysts Cannot Fathom It",
-      "link": "https://finance.yahoo.com/m/0bdecc4d-5be8-387f-9213-1c44c41ccecf/after-buying-circle-through-a.html",
-      "publisher": "BeInCrypto",
-      "time": 1787515221,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8a985565-7ce9-3f81-bb13-84ee04857e88",
-      "title": "BC-Nikkei 225 Futures",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/bc-nikkei-225-futures-200017560.html",
-      "publisher": "Associated Press",
-      "time": 1787515217,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "48f88407-e1ca-3a0e-b2d3-ac35c04bf27a",
-      "title": "Hugging Face exploring sale valuing it at $13 billion, Business Insider says",
-      "link": "https://finance.yahoo.com/technology/ai/articles/hugging-face-exploring-sale-valuing-200012818.html",
-      "publisher": "Reuters",
-      "time": 1787515212,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a6979f5e-daf3-39e4-9d43-e50433a413f7",
-      "title": "Gilead’s Revenue Is Accelerating, But are its Acquisitions Worth the Cost?",
-      "link": "https://finance.yahoo.com/healthcare/articles/gilead-revenue-accelerating-acquisitions-worth-195747159.html",
-      "publisher": "Insider Monkey",
-      "time": 1787515067,
-      "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "14029fb4-09d2-349b-b2d6-ff5bac32f5b8",
-      "title": "Pfizer vs. Gilead: Which Drugmaker Has the Stronger Growth Story?",
-      "link": "https://finance.yahoo.com/healthcare/articles/pfizer-vs-gilead-drugmaker-stronger-195408536.html",
-      "publisher": "Insider Monkey",
-      "time": 1787514848,
+      "id": "b84bed77-c008-3ff7-804c-ba8863f11f5c",
+      "title": "Sen. Scott calls Darline Graham 'real deal' after debate-stage gaffe",
+      "link": "https://finance.yahoo.com/m/b84bed77-c008-3ff7-804c-ba8863f11f5c/sen.-scott-calls-darline.html",
+      "publisher": "USA TODAY",
+      "time": 1787516829,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "43419b3a-c18c-35ca-a628-934deaad6071",
-      "title": "The Committee for a Responsible Federal Budget Estimates Social Security Cuts for Couples if the System Is Not Fixed",
-      "link": "https://finance.yahoo.com/m/43419b3a-c18c-35ca-a628-934deaad6071/the-committee-for-a.html",
+      "id": "2bbb80f8-af83-3bf4-97f9-396450e8ee0c",
+      "title": "UBS revamps S&P 500 target for rest of 2026",
+      "link": "https://finance.yahoo.com/m/2bbb80f8-af83-3bf4-97f9-396450e8ee0c/ubs-revamps-s%26p-500-target.html",
+      "publisher": "TheStreet",
+      "time": 1787516580,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "df9049c1-abbc-359e-b757-dec75d80b7d9",
+      "title": "Better Dividend King to Buy Right Now: Abbott Labs or Johnson & Johnson?",
+      "link": "https://finance.yahoo.com/m/df9049c1-abbc-359e-b757-dec75d80b7d9/better-dividend-king-to-buy.html",
       "publisher": "Motley Fool",
-      "time": 1787514600,
+      "time": 1787516400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "10d5ae0c-10e6-3629-acda-6384e552e537",
+      "title": "Macron hosts Saudi crown prince for visit ranging from esports to Mideast",
+      "link": "https://finance.yahoo.com/m/10d5ae0c-10e6-3629-acda-6384e552e537/macron-hosts-saudi-crown.html",
+      "publisher": "AFP",
+      "time": 1787516258,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b1928d52-a50a-3c68-9061-3143bb9ab3d8",
+      "title": "Swiss forward Embolo joins Atlanta United",
+      "link": "https://finance.yahoo.com/m/b1928d52-a50a-3c68-9061-3143bb9ab3d8/swiss-forward-embolo-joins.html",
+      "publisher": "AFP",
+      "time": 1787516080,
       "impact": "high",
       "tags": [
         "geo",
@@ -121,36 +111,40 @@
       ]
     },
     {
-      "id": "a6b2fdb2-c565-31dc-9858-761e2f8236f8",
-      "title": "Zoetis Earnings Reveal a Divided Business, But Can its Pipeline Restore Growth?",
-      "link": "https://finance.yahoo.com/healthcare/articles/zoetis-earnings-reveal-divided-business-194924344.html",
-      "publisher": "Insider Monkey",
-      "time": 1787514564,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "278b7444-8b24-3d67-a095-a9fe87c8e9fa",
-      "title": "Liverpool striker Isak expected Newcastle abuse, says Iraola",
-      "link": "https://finance.yahoo.com/m/278b7444-8b24-3d67-a095-a9fe87c8e9fa/liverpool-striker-isak.html",
-      "publisher": "AFP",
-      "time": 1787514535,
+      "id": "8322ee48-a104-33a7-8879-f0513fedd10a",
+      "title": "Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?",
+      "link": "https://finance.yahoo.com/m/8322ee48-a104-33a7-8879-f0513fedd10a/oracle-vs.-amazon%3A-which-is.html",
+      "publisher": "Motley Fool",
+      "time": 1787515980,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "88677ae9-e3a8-312d-80bb-647643685132",
-      "title": "Your mortgage rate has a growing problem in the bond market",
-      "link": "https://finance.yahoo.com/m/88677ae9-e3a8-312d-80bb-647643685132/your-mortgage-rate-has-a.html",
-      "publisher": "TheStreet",
-      "time": 1787514420,
+      "id": "5ba84e7a-df12-36fd-9738-ae3338895691",
+      "title": "$22 Billion in Customer Deposits Did Not Stop This Chip CEO From Selling $37 Million",
+      "link": "https://finance.yahoo.com/m/5ba84e7a-df12-36fd-9738-ae3338895691/%2422-billion-in-customer.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787515956,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
+    },
+    {
+      "id": "8e2b0add-ec57-38ec-8272-82c8d7289b37",
+      "title": "TransUnion (TRU) Stock Looks Reasonable Despite A 27% Five Year Decline",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/transunion-tru-stock-looks-reasonable-200705375.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787515625,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "10c0e061-b316-360d-b924-ff514cebf113",
+      "title": "Is Verizon Communications (VZ) Cheap Following Its Planned $1.25b Note Redemption?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/verizon-communications-vz-cheap-following-200701035.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787515621,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
