@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T09:51:00.799507+00:00",
+  "updatedAt": "2026-08-23T10:16:54.533306+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,38 +52,20 @@
   ],
   "news": [
     {
-      "id": "62fe472b-0be4-36c6-8f13-67a611302684",
-      "title": "I'm a 57-year-old unemployed tech worker, I can't find a job — and I'm starting to panic. How can I get back on track?",
-      "link": "https://finance.yahoo.com/small-business/articles/im-57-old-unemployed-tech-094500348.html",
-      "publisher": "Moneywise",
-      "time": 1787478300,
+      "id": "2e50d4bf-33ee-3427-843e-8134c524e5c0",
+      "title": "Why Is Chevron (CVX) Naming A New Treasurer Worth Watching?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-chevron-cvx-naming-treasurer-100815088.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787479695,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "dcd12802-25cb-3b0a-80d8-24987e07e292",
-      "title": "The Ultimate Growth Stock to Buy With $10,000 Right Now",
-      "link": "https://finance.yahoo.com/m/dcd12802-25cb-3b0a-80d8-24987e07e292/the-ultimate-growth-stock-to.html",
-      "publisher": "Motley Fool",
-      "time": 1787478000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9362a709-7741-3206-8ff0-1a8c6cf97605",
-      "title": "Tesla Stock in 2027: Why I Think It Still Has Room to Run",
-      "link": "https://finance.yahoo.com/m/9362a709-7741-3206-8ff0-1a8c6cf97605/tesla-stock-in-2027%3A-why-i.html",
-      "publisher": "Motley Fool",
-      "time": 1787477700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "adc56fd0-c2ae-3f68-8995-9a82a6508808",
-      "title": "Forget Broadcom: Nvidia (NVDA) Is Still the Top Semiconductor Stock for 2027 and Beyond",
-      "link": "https://finance.yahoo.com/m/adc56fd0-c2ae-3f68-8995-9a82a6508808/forget-broadcom%3A-nvidia.html",
-      "publisher": "Motley Fool",
-      "time": 1787477400,
+      "id": "b4e6b40d-18c7-3679-9faf-52d422cae059",
+      "title": "Is Lyntris (LYNX) Undervalued On Its Shelf Filing And Early Post IPO Moves?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lyntris-lynx-undervalued-shelf-filing-100812553.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787479692,
       "impact": "medium",
       "tags": [
         "macro",
@@ -91,20 +73,11 @@
       ]
     },
     {
-      "id": "c3e3e4ef-824c-34ae-a01d-a6a87dee7b96",
-      "title": "Last-Minute Apparel Delivery (2026): Same-Day Options for Outfits, Shoes, and Event Essentials by Consumer365",
-      "link": "https://finance.yahoo.com/media-advertising/articles/last-minute-apparel-delivery-2026-093000630.html",
-      "publisher": "PR Newswire",
-      "time": 1787477400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fc0922b0-183a-3b22-9110-dbd1fca3cc7b",
-      "title": "Citibank exec says every 10-year delay in retirement savings means saving 3x as much monthly to catch up",
-      "link": "https://finance.yahoo.com/markets/articles/citibank-exec-says-every-10-093000427.html",
-      "publisher": "Moneywise",
-      "time": 1787477400,
+      "id": "2b505b50-9100-3d01-b89d-ce76ee3ff4d5",
+      "title": "Lifetime Brands (LCUT) Stock Sees Fair Value Lift After Q2 And Guidance Update",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lifetime-brands-lcut-stock-sees-100807829.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787479687,
       "impact": "medium",
       "tags": [
         "macro",
@@ -112,43 +85,79 @@
       ]
     },
     {
-      "id": "43dd6867-7b11-3c3b-8136-1b7a1703afcf",
-      "title": "Zelensky rejects wartime elections, says would 'split' Ukraine",
-      "link": "https://finance.yahoo.com/m/43dd6867-7b11-3c3b-8136-1b7a1703afcf/zelensky-rejects-wartime.html",
-      "publisher": "AFP",
-      "time": 1787477279,
+      "id": "00036999-a787-3e64-871d-9e5cc62bc185",
+      "title": "CareDx (CDNA) Shares Jumped, So What Is Driving Attention Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/caredx-cdna-shares-jumped-driving-100805821.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787479685,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2bdc02c8-8e03-3082-8bb1-b197afcbe9ef",
+      "title": "JumpStart gets new Stark director and other news | Business roundup",
+      "link": "https://finance.yahoo.com/m/2bdc02c8-8e03-3082-8bb1-b197afcbe9ef/jumpstart-gets-new-stark.html",
+      "publisher": "The Repository",
+      "time": 1787479543,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "503d9116-5029-367d-b913-e795542c1c97",
+      "title": "Aultman, NEOMED strengthen education and workforce partnership",
+      "link": "https://finance.yahoo.com/m/503d9116-5029-367d-b913-e795542c1c97/aultman%2C-neomed-strengthen.html",
+      "publisher": "The Repository",
+      "time": 1787479535,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3a01d6c5-5f45-3aab-bce8-28392a7d941d",
+      "title": "Bill Ackman Just Made a Major Overhaul to Pershing Square's Portfolio. Here Are the Biggest Changes.",
+      "link": "https://finance.yahoo.com/m/3a01d6c5-5f45-3aab-bce8-28392a7d941d/bill-ackman-just-made-a-major.html",
+      "publisher": "Motley Fool",
+      "time": 1787479500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "571c4d9f-ff22-3fec-9339-2032db631b50",
+      "title": "Why is the Border Patrol detaining immigrant truckers in Arizona? | Exclusive",
+      "link": "https://finance.yahoo.com/m/571c4d9f-ff22-3fec-9339-2032db631b50/why-is-the-border-patrol.html",
+      "publisher": "USA TODAY",
+      "time": 1787479425,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5a0f4ec5-0824-3c33-9ee7-4bd3bdf5c808",
+      "title": "They Moved to Florida for a $200,000 Roth Conversion. Spending 184 Days Back in New York Could Undo the Tax Savings.",
+      "link": "https://finance.yahoo.com/m/5a0f4ec5-0824-3c33-9ee7-4bd3bdf5c808/they-moved-to-florida-for-a.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787479388,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ce0e9197-09e8-3854-9155-2e7f30223eca",
+      "title": "What did the Founding Fathers sound like? The surprising answer",
+      "link": "https://finance.yahoo.com/m/ce0e9197-09e8-3854-9155-2e7f30223eca/what-did-the-founding-fathers.html",
+      "publisher": "USA TODAY",
+      "time": 1787479381,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2518e0bc-abde-4fe6-9344-fbc8f8714006",
+      "title": "Mortgage and refinance interest rates today, Sunday, August 23, 2026: Higher than last weekend as prime selling season wraps up",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-august-23-2026-higher-than-last-weekend-as-prime-selling-season-wraps-up-100000382.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1787479200,
       "impact": "high",
       "tags": [
         "geo",
         "macro"
       ]
-    },
-    {
-      "id": "467781fc-43ea-3a25-a8fb-e7e845b5bd73",
-      "title": "Target Stock Is up 63% This Year, and It's Still Cheap",
-      "link": "https://finance.yahoo.com/m/467781fc-43ea-3a25-a8fb-e7e845b5bd73/target-stock-is-up-63%25-this.html",
-      "publisher": "Motley Fool",
-      "time": 1787477100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6b9bb99c-9fb6-3003-a71a-eb5e5baef243",
-      "title": "Could Canada fully supply the U.S. with aluminium?",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/could-canada-fully-supply-u-092128571.html",
-      "publisher": "Investing.com",
-      "time": 1787476888,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0e8bb460-8025-3263-ab4f-0ddec3270632",
-      "title": "Gen Z needs a 'reality check,' says BofA: Is the 'little treat economy' blowing up their future one coffee at a time?",
-      "link": "https://finance.yahoo.com/economy/articles/gen-z-needs-reality-check-091500298.html",
-      "publisher": "Moneywise",
-      "time": 1787476500,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
