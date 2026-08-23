@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T21:15:22.819448+00:00",
+  "updatedAt": "2026-08-23T21:43:51.148150+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,11 +52,58 @@
   ],
   "news": [
     {
+      "id": "726a316b-5024-3632-bdc0-b0d530784528",
+      "title": "Amorim starts Serie A life with Milan win, Juve edge Frosinone",
+      "link": "https://finance.yahoo.com/m/726a316b-5024-3632-bdc0-b0d530784528/amorim-starts-serie-a-life.html",
+      "publisher": "AFP",
+      "time": 1787520968,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "916f5f53-0f2a-329c-a4c7-27b41a9afa5d",
+      "title": "Does Billionaire Bill Ackman Know Something Wall Street Doesn’t? He Invested in These 2 Stocks That Have Dropped 33% and 18% Over the Past Year",
+      "link": "https://finance.yahoo.com/m/916f5f53-0f2a-329c-a4c7-27b41a9afa5d/does-billionaire-bill-ackman.html",
+      "publisher": "Motley Fool",
+      "time": 1787520901,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "fb86337b-853f-3b54-9dd6-22a879f8e15f",
+      "title": "Liquor industry struggles grow with another Chapter 7 filing",
+      "link": "https://finance.yahoo.com/m/fb86337b-853f-3b54-9dd6-22a879f8e15f/liquor-industry-struggles.html",
+      "publisher": "TheStreet",
+      "time": 1787520780,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c096b1c9-6e81-33bd-b7e4-2ddac00c1e27",
+      "title": "Raphinha, Lopez hit braces as Barcelona trounce Elche",
+      "link": "https://finance.yahoo.com/m/c096b1c9-6e81-33bd-b7e4-2ddac00c1e27/raphinha%2C-lopez-hit-braces-as.html",
+      "publisher": "AFP",
+      "time": 1787520743,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f98b5e72-5778-306e-ab2c-326e404dd6cd",
+      "title": "Media Advisory: Housing Announcement in Toronto",
+      "link": "https://finance.yahoo.com/real-estate/articles/media-advisory-housing-announcement-toronto-213000101.html",
+      "publisher": "CNW Group",
+      "time": 1787520600,
+      "impact": "low",
+      "tags": []
+    },
+    {
       "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
       "title": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus",
       "link": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures-due-with.html",
       "publisher": "Investor's Business Daily",
-      "time": 1787519264,
+      "time": 1787520223,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,87 +111,48 @@
       ]
     },
     {
-      "id": "e8dfc2fb-2a44-3c38-b3a2-951f62f5bd14",
-      "title": "Spain's World Cup hero Torres saves PSG's blushes at Rennes",
-      "link": "https://finance.yahoo.com/m/e8dfc2fb-2a44-3c38-b3a2-951f62f5bd14/spain%27s-world-cup-hero-torres.html",
-      "publisher": "AFP",
-      "time": 1787519084,
+      "id": "67de64d0-044f-3860-82e0-7774fe5e96e1",
+      "title": "Axsome Therapeutics Stock Is Up 16% Year to Date. Why Wall Street Thinks It Has Even More Room to Run",
+      "link": "https://finance.yahoo.com/m/67de64d0-044f-3860-82e0-7774fe5e96e1/axsome-therapeutics-stock-is.html",
+      "publisher": "Motley Fool",
+      "time": 1787520000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5d45a657-be5f-3495-a9de-0c881fbc9461",
-      "title": "Japan’s stock market setup looks similar to late 2023. Here’s what it means",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/japan-stock-market-setup-looks-210432249.html",
-      "publisher": "Investing.com",
-      "time": 1787519072,
-      "impact": "low",
+      "id": "f04c9844-d0b5-3e94-8cbe-fc61dcf645ee",
+      "title": "U.S.-Canada breakdown shows limits of Trump’s aggressive trade strategy",
+      "link": "https://finance.yahoo.com/economy/policy/articles/us-canada-breakdown-shows-limits-of-trumps-aggressive-trade-strategy-100001862.html",
+      "publisher": "Washington Post",
+      "time": 1787519797,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "geo"
       ]
     },
     {
-      "id": "2731f623-84aa-3764-925d-81bb44f262af",
-      "title": "Lanterns reboot just delivered when DC needed it most",
-      "link": "https://finance.yahoo.com/m/2731f623-84aa-3764-925d-81bb44f262af/lanterns-reboot-just.html",
-      "publisher": "TheStreet",
-      "time": 1787518980,
-      "impact": "low",
-      "tags": []
+      "id": "e32b5df9-3cdf-3ec6-a6cf-2a9f304c209a",
+      "title": "IDP Education (ASX:IEL) Earnings Slide Keeps The Undervalued Narrative In Focus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/idp-education-asx-iel-earnings-210848034.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787519328,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "6c773b80-5b0f-3ae5-a5d2-e5eee817f59d",
-      "title": "The Metals Company Is Riding the Critical Metals Boom. Here's Why I Still Wouldn't Touch It.",
-      "link": "https://finance.yahoo.com/m/6c773b80-5b0f-3ae5-a5d2-e5eee817f59d/the-metals-company-is-riding.html",
-      "publisher": "Motley Fool",
-      "time": 1787518920,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9ad35b73-81c1-391c-a708-fc25d701aa70",
-      "title": "One Social Security Move Boomers Used to Boost Their Checks Is Now Off-Limits to Almost Everyone Else.",
-      "link": "https://finance.yahoo.com/m/9ad35b73-81c1-391c-a708-fc25d701aa70/one-social-security-move.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787518894,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "00d61910-3af8-33d4-883b-dc6f0fce057b",
-      "title": "Monday, August 24, 2026",
-      "link": "https://finance.yahoo.com/economy/policy/articles/monday-august-24-2026-210000939.html",
-      "publisher": "CNW Group",
-      "time": 1787518800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1b137e8d-7ac9-36ee-8912-ed07d53f7b35",
-      "title": "Monster Energy's Max Alran Takes First Place in Downhill Mountain Bike Race at the 2026 WHOOP UCI Mountain Bike World Series Les Gets",
-      "link": "https://finance.yahoo.com/media-advertising/articles/monster-energys-max-alran-takes-210000509.html",
-      "publisher": "PR Newswire",
-      "time": 1787518800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "77ccd289-451e-3400-a20b-db84cdc8af44",
-      "title": "Tilray Posted Record Fiscal 2026 Revenue -- Why Isn't the Stock Rallying?",
-      "link": "https://finance.yahoo.com/m/77ccd289-451e-3400-a20b-db84cdc8af44/tilray-posted-record-fiscal.html",
-      "publisher": "Motley Fool",
-      "time": 1787518740,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "19efb0c8-e703-36b6-8a5a-d36ad38a6db0",
-      "title": "SK Hynix Is Buying Back 3.3% of Its Shares and Canceling Every One",
-      "link": "https://finance.yahoo.com/m/19efb0c8-e703-36b6-8a5a-d36ad38a6db0/sk-hynix-is-buying-back-3.3%25.html",
-      "publisher": "Motley Fool",
-      "time": 1787518621,
-      "impact": "low",
-      "tags": []
+      "id": "2d4a9c6b-d709-3ae2-ac20-7d6e96bad747",
+      "title": "Excelerate Energy (EE) Stock May Be Fully Priced Despite Raised EBITDA Guidance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/excelerate-energy-ee-stock-may-210835431.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787519315,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
