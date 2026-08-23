@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T10:47:55.158541+00:00",
+  "updatedAt": "2026-08-23T11:15:23.901649+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,47 +52,91 @@
   ],
   "news": [
     {
-      "id": "5cebe18a-8502-3147-8fbc-6770bf753db8",
-      "title": "Cardinal Health's CEO Moved 124,529 Shares in Two Days. Here's What Long-Term Investors Should Know",
-      "link": "https://finance.yahoo.com/m/5cebe18a-8502-3147-8fbc-6770bf753db8/cardinal-health%27s-ceo-moved.html",
-      "publisher": "Motley Fool",
-      "time": 1787481888,
+      "id": "f4c4a543-ee59-4b58-81aa-332b3a670e8e",
+      "title": "Scott Bessent just kicked the bitcoin debasement trade into another gear: Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/crypto/article/scott-bessent-just-kicked-the-bitcoin-debasement-trade-into-another-gear-chart-of-the-day-110841942.html",
+      "publisher": "Yahoo Finance",
+      "time": 1787483321,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "fa05b4f7-fd6a-3379-ba77-3dd8a032178e",
+      "title": "Zelensky rejects rival's call for vote, says would 'split' Ukraine",
+      "link": "https://finance.yahoo.com/m/fa05b4f7-fd6a-3379-ba77-3dd8a032178e/zelensky-rejects-rival%27s-call.html",
+      "publisher": "AFP",
+      "time": 1787483315,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "eb89f871-6343-378d-a41b-09745b29d011",
-      "title": "After Biggest One-Day Decline Since 2022, Is Walmart Stock a Buy?",
-      "link": "https://finance.yahoo.com/m/eb89f871-6343-378d-a41b-09745b29d011/after-biggest-one-day-decline.html",
-      "publisher": "Motley Fool",
-      "time": 1787481300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "32adb679-1532-353e-a767-0f02df0e7846",
-      "title": "He Was Laid Off at 63 and Thought Social Security Ruled Out Unemployment. He Was Wrong.",
-      "link": "https://finance.yahoo.com/m/32adb679-1532-353e-a767-0f02df0e7846/he-was-laid-off-at-63-and.html",
+      "id": "6b47909a-2c89-3b83-aa15-a2fa56419ddc",
+      "title": "These 4 Dividend Stocks Yield Over 7%. Roth Owners Keep Every Penny",
+      "link": "https://finance.yahoo.com/m/6b47909a-2c89-3b83-aa15-a2fa56419ddc/these-4-dividend-stocks-yield.html",
       "publisher": "24/7 Wall St.",
-      "time": 1787481006,
+      "time": 1787482882,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "d56af99e-2062-37b8-bdf5-6723963f05d5",
+      "title": "3 REITs Whose Dividends Get Hammered by Taxes, Unless You Own Them in a Roth",
+      "link": "https://finance.yahoo.com/m/d56af99e-2062-37b8-bdf5-6723963f05d5/3-reits-whose-dividends-get.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787482882,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "90ee41bb-9625-3cb6-9833-a40fb277825b",
-      "title": "A 22-year-old inherited $1.7 million after her mom's sudden death. These are the tax and IRS rules she needs to know now",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/22-old-inherited-1-7-103000483.html",
+      "id": "f8bae8a6-fb29-3263-84ab-ba8c81dbfc7a",
+      "title": "3 Dividend Stocks to Buy Before August Ends and Hold for Life",
+      "link": "https://finance.yahoo.com/m/f8bae8a6-fb29-3263-84ab-ba8c81dbfc7a/3-dividend-stocks-to-buy.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787482858,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "158484a0-bfd5-3828-b965-441ae440747e",
+      "title": "4 Low-Cost ETFs Every Investor Should Own",
+      "link": "https://finance.yahoo.com/m/158484a0-bfd5-3828-b965-441ae440747e/4-low-cost-etfs-every.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787482829,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d2d861f7-c7f0-3229-9b4b-0eb4d4cf5be5",
+      "title": "3 Data Center Stocks Powering the AI Buildout",
+      "link": "https://finance.yahoo.com/m/d2d861f7-c7f0-3229-9b4b-0eb4d4cf5be5/3-data-center-stocks-powering.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787482828,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "b0fa05a1-6031-3ad0-823f-934948b231d5",
+      "title": "Aerial firefighting crews are feeling the heat in a tough wildfire year",
+      "link": "https://finance.yahoo.com/m/b0fa05a1-6031-3ad0-823f-934948b231d5/aerial-firefighting-crews-are.html",
+      "publisher": "Axios",
+      "time": 1787482805,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e606628c-4e36-3ffb-83c0-ed2cce0a1093",
+      "title": "‘The village idiot could have made it’: Warren Buffett’s dead-simple playbook to supercharge your retirement now",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/village-idiot-could-made-warren-110000603.html",
       "publisher": "Moneywise",
-      "time": 1787481000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "233d7487-7431-3180-8c72-f80ec9adb8d0",
-      "title": "Nvidia Reportedly Warns Top Customers of 15% Price Hikes on AI Servers",
-      "link": "https://finance.yahoo.com/m/233d7487-7431-3180-8c72-f80ec9adb8d0/nvidia-reportedly-warns-top.html",
-      "publisher": "BeInCrypto",
-      "time": 1787480904,
+      "time": 1787482800,
       "impact": "high",
       "tags": [
         "geo",
@@ -100,52 +144,20 @@
       ]
     },
     {
-      "id": "485b0edc-cbe3-3031-84e7-fb3377827cad",
-      "title": "Bitcoin slips under $77,000 as rally boosts mining economics",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-slips-under-77-000-102805525.html",
-      "publisher": "Investing.com",
-      "time": 1787480885,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "732cb8f8-4575-3ed7-b24d-906c4e1973f4",
-      "title": "Anthropic Could Outdo SpaceX With Its IPO. Here's How Much Investors Think It's Worth Right Now and Why.",
-      "link": "https://finance.yahoo.com/m/732cb8f8-4575-3ed7-b24d-906c4e1973f4/anthropic-could-outdo-spacex.html",
-      "publisher": "Motley Fool",
-      "time": 1787480700,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e2cb05c7-a625-32ec-91c2-21f7facb0319",
-      "title": "Billionaire David Tepper Has 16% of His $7.5 Billion Appaloosa Portfolio in Amazon Stock. Is It Still a Buy?",
-      "link": "https://finance.yahoo.com/m/e2cb05c7-a625-32ec-91c2-21f7facb0319/billionaire-david-tepper-has.html",
-      "publisher": "Motley Fool",
-      "time": 1787480520,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7331a6e4-cba2-3aee-804e-cb39cccce6ae",
-      "title": "Frost & Sullivan Has Officially Released \"2026 White Paper on the Development of Global and China's AI Data Service Market\"",
-      "link": "https://finance.yahoo.com/technology/ai/articles/frost-sullivan-officially-released-2026-101900902.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787480340,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "46a81508-f5d6-33c5-b55c-4c39b06e53fd",
-      "title": "Grant Cardone says ‘America will become a renter nation.’ Can you make the most of the market without a mortgage?",
-      "link": "https://finance.yahoo.com/real-estate/articles/grant-cardone-says-america-become-101500797.html",
+      "id": "fc96d0c7-76a7-361e-9a99-5563ed91c7cf",
+      "title": "Wall Street firms are waiting for people to die so they can get their life insurance money. And yes, it’s legal",
+      "link": "https://finance.yahoo.com/healthcare/articles/wall-street-firms-waiting-people-110000647.html",
       "publisher": "Moneywise",
-      "time": 1787480100,
+      "time": 1787482800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "aeb1e906-afea-3192-981e-697098be089a",
+      "title": "Wall Street's Biggest Bubble May Be Popping (No, Not AI), and It Has Dire Consequences for the Stock Market",
+      "link": "https://finance.yahoo.com/m/aeb1e906-afea-3192-981e-697098be089a/wall-street%27s-biggest-bubble.html",
+      "publisher": "Motley Fool",
+      "time": 1787482561,
       "impact": "low",
       "tags": [
         "macro"
