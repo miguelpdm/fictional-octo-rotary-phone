@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T03:28:06.823311+00:00",
+  "updatedAt": "2026-08-23T04:09:15.815374+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -51,6 +51,51 @@
     }
   ],
   "news": [
+    {
+      "id": "151c0717-5c49-3a17-859b-177744c933b2",
+      "title": "South Korean survivor fights for workplace harassment 'justice'",
+      "link": "https://finance.yahoo.com/m/151c0717-5c49-3a17-859b-177744c933b2/south-korean-survivor-fights.html",
+      "publisher": "AFP",
+      "time": 1787456965,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b264c1a5-eca2-32fe-9a59-9cf7e478deba",
+      "title": "Apple Cut Its Standard EU App Store Commission From 30% to 26%",
+      "link": "https://finance.yahoo.com/m/b264c1a5-eca2-32fe-9a59-9cf7e478deba/apple-cut-its-standard-eu-app.html",
+      "publisher": "Motley Fool",
+      "time": 1787456581,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ad4a12f1-6c62-3503-be17-082a20bd9ef2",
+      "title": "Gundir Announces Gundir365(TM) Postage Promise, Locking In Direct Mail Postage Rates for a Full Year",
+      "link": "https://finance.yahoo.com/media-advertising/articles/gundir-announces-gundir365-tm-postage-033000522.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787455800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "89100318-e730-3c2a-8559-d389b4dbb113",
+      "title": "Why Keysight Technologies Stock Sank This Week",
+      "link": "https://finance.yahoo.com/m/89100318-e730-3c2a-8559-d389b4dbb113/why-keysight-technologies.html",
+      "publisher": "Motley Fool",
+      "time": 1787455432,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "07acd798-a3dc-31b2-bef4-3cc4991e930a",
+      "title": "Sydney marathon unveils medal with wrong stadium",
+      "link": "https://finance.yahoo.com/m/07acd798-a3dc-31b2-bef4-3cc4991e930a/sydney-marathon-unveils-medal.html",
+      "publisher": "AFP",
+      "time": 1787455246,
+      "impact": "low",
+      "tags": []
+    },
     {
       "id": "b00637e2-56ee-34c3-9bbb-3c2bbfa26524",
       "title": "Atlassian (TEAM) Stock Looks Near Fair Value After Its 98% Run",
@@ -91,66 +136,13 @@
       "tags": []
     },
     {
-      "id": "07acd798-a3dc-31b2-bef4-3cc4991e930a",
-      "title": "Sydney marathon unveils medal with wrong stadium",
-      "link": "https://finance.yahoo.com/m/07acd798-a3dc-31b2-bef4-3cc4991e930a/sydney-marathon-unveils-medal.html",
-      "publisher": "AFP",
-      "time": 1787454675,
+      "id": "ab2093ef-0117-3dfc-8c34-3f0b0e765c35",
+      "title": "Chiefs vs. Buccaneers highlights Preseason Week 2",
+      "link": "https://finance.yahoo.com/m/ab2093ef-0117-3dfc-8c34-3f0b0e765c35/chiefs-vs.-buccaneers.html",
+      "publisher": "NFL Highlights",
+      "time": 1787454565,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "80b58e84-6525-3863-b75b-b47da7e47260",
-      "title": "Pegula dethrones Swiatek to book Cincy final against Gauff",
-      "link": "https://finance.yahoo.com/m/80b58e84-6525-3863-b75b-b47da7e47260/pegula-dethrones-swiatek-to.html",
-      "publisher": "AFP",
-      "time": 1787454424,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ee05b855-6f98-39ed-a186-9cbffb2e3697",
-      "title": "Longtime analyst says investors should consider these stocks in fall 2026",
-      "link": "https://finance.yahoo.com/m/ee05b855-6f98-39ed-a186-9cbffb2e3697/longtime-analyst-says.html",
-      "publisher": "TheStreet",
-      "time": 1787454420,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
-      "title": "Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada",
-      "link": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures%3A-market.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787454115,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "e1cc8d1b-499e-380e-8c4e-af02ffd7fb23",
-      "title": "Austrian mountain town finds niche in AI boom",
-      "link": "https://finance.yahoo.com/technology/ai/articles/austrian-mountain-town-finds-niche-030142219.html",
-      "publisher": "AFP",
-      "time": 1787454102,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "681fdf9d-d166-38b4-b4da-5cec6b2b9c02",
-      "title": "EnWave Corp (NWVCF) (Q3 2026) Earnings Call Highlights: Royalties Surge 24% as Company Nears ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/enwave-corp-nwvcf-q3-2026-030111546.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787454071,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
     }
   ],
   "errors": {
