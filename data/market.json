@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T08:22:12.172710+00:00",
+  "updatedAt": "2026-08-23T08:56:10.964925+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,6 +52,93 @@
   ],
   "news": [
     {
+      "id": "d930ded8-77c1-398f-b0bd-5315a4590460",
+      "title": "The Ultimate Growth Stock to Buy With $1,000 Right Now -- It's Been My Best Stock Performer by Far",
+      "link": "https://finance.yahoo.com/m/d930ded8-77c1-398f-b0bd-5315a4590460/the-ultimate-growth-stock-to.html",
+      "publisher": "Motley Fool",
+      "time": 1787474700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0b3594f4-9c39-3911-b8c7-d6050affe886",
+      "title": "The S&P 500 Just Did Something Seen Only 1 Other Time Since 1871 — and It's Not Good News for Wall Street",
+      "link": "https://finance.yahoo.com/m/0b3594f4-9c39-3911-b8c7-d6050affe886/the-s%26p-500-just-did.html",
+      "publisher": "Motley Fool",
+      "time": 1787474641,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5d378a4f-b06e-3981-aedc-3a2c3ccf884f",
+      "title": "AWS Was Lagging Microsoft Azure and Google Cloud in Growth—Is Amazon Finally Catching Up?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/aws-lagging-microsoft-azure-google-084105975.html",
+      "publisher": "Insider Monkey",
+      "time": 1787474465,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "11377223-b2f8-3e25-beac-5e4802e04e5e",
+      "title": "Iran warns neighbours against joining U.S. sanctions as Hormuz stays closed",
+      "link": "https://finance.yahoo.com/m/11377223-b2f8-3e25-beac-5e4802e04e5e/iran-warns-neighbours-against.html",
+      "publisher": "Investing.com",
+      "time": 1787474304,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "685d5260-8434-34d8-89aa-d4367cac0893",
+      "title": "Stephen Mandel’s Lone Pine and Whale Rock Piled Into This Little Known AI Stock",
+      "link": "https://finance.yahoo.com/technology/ai/articles/stephen-mandel-lone-pine-whale-083519611.html",
+      "publisher": "Insider Monkey",
+      "time": 1787474119,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "dc477381-6af1-3359-81ed-6aa09b1c78ae",
+      "title": "3 Tech Compounders Fit for Warren Buffett's Portfolio",
+      "link": "https://finance.yahoo.com/m/dc477381-6af1-3359-81ed-6aa09b1c78ae/3-tech-compounders-fit-for.html",
+      "publisher": "Motley Fool",
+      "time": 1787474100,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "53b0be29-5e48-321e-9f3f-e12b3ff3bfd0",
+      "title": "A Synaptics Insider Filing Lands as a $7.8 Billion Combined Company Takes Shape",
+      "link": "https://finance.yahoo.com/m/53b0be29-5e48-321e-9f3f-e12b3ff3bfd0/a-synaptics-insider-filing.html",
+      "publisher": "Motley Fool",
+      "time": 1787473801,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f3172306-28c6-3ce8-8807-7d114e073dba",
+      "title": "President Donald Trump Claims Fuel Prices Are \"Tumbling Down,\" but Trumpflation Has Become a Broad-Based Problem",
+      "link": "https://finance.yahoo.com/m/f3172306-28c6-3ce8-8807-7d114e073dba/president-donald-trump-claims.html",
+      "publisher": "Motley Fool",
+      "time": 1787473560,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "62bb36e5-3a0a-3670-a066-03fe541d9f72",
+      "title": "1 Overlooked Dividend King With a 63-Year Winning Streak Worth Buying Now",
+      "link": "https://finance.yahoo.com/m/62bb36e5-3a0a-3670-a066-03fe541d9f72/1-overlooked-dividend-king.html",
+      "publisher": "Motley Fool",
+      "time": 1787472900,
+      "impact": "low",
+      "tags": []
+    },
+    {
       "id": "51644b70-2310-38b7-81e1-ef67ff3a6945",
       "title": "Why Synaptics' Product Chief Filing Connects to Core IoT Sales Growing 24%",
       "link": "https://finance.yahoo.com/m/51644b70-2310-38b7-81e1-ef67ff3a6945/why-synaptics%27-product-chief.html",
@@ -59,102 +146,6 @@
       "time": 1787472757,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "9608e5e8-285c-3e00-b556-7cda70df14cd",
-      "title": "Why Social Security's Shrinking COLA Forecast for 2027 May Benefit Retirees",
-      "link": "https://finance.yahoo.com/m/9608e5e8-285c-3e00-b556-7cda70df14cd/why-social-security%27s.html",
-      "publisher": "Motley Fool",
-      "time": 1787472720,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "994018f6-d924-34aa-9d00-d82f5b813a5e",
-      "title": "Is Walmart Stock a Buy as It Sinks to Nearly $100 per Share? Here's the Answer.",
-      "link": "https://finance.yahoo.com/m/994018f6-d924-34aa-9d00-d82f5b813a5e/is-walmart-stock-a-buy-as-it.html",
-      "publisher": "Motley Fool",
-      "time": 1787472600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a29cbf6b-1389-37ac-834b-04b09fd9a4a5",
-      "title": "Is I.B.I. Investment House (TASE:IBI) Expensive As Strong Q2 2026 Earnings Lift Interest?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/b-investment-house-tase-ibi-080857525.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787472537,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "cccfd566-b890-3b4b-919f-b3dfa33ee04b",
-      "title": "Canadian National Railway (TSX:CNR) Could Be 6% Undervalued After Hybrid Locomotive Expansion",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-national-railway-tsx-cnr-080818763.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787472498,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fe485e0c-bad9-3179-b073-d488d0b5416a",
-      "title": "Red Cat (RCAT) Stock Could Be Above Fair Value As Tariff News Lifts Sentiment",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-rcat-stock-could-080812634.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787472492,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "6b98b9b2-7099-38fb-a5a2-8aa2fd70c6e7",
-      "title": "Is Cigna Group (CI) Still Cheap Based On Its Earnings?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cigna-group-ci-still-cheap-080807135.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787472487,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e06c90cb-a151-35bc-bbee-2fb5baa85175",
-      "title": "BJ's Restaurants (BJRI) Stock Looks Stretched As Cash Flow Keeps It Reasonable",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bjs-restaurants-bjri-stock-looks-080805157.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787472485,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e5931769-c1d2-33e0-ba6e-1c29c7ebb436",
-      "title": "Alphabet and Amazon Are Cheaper Than the S&P 500. What's Going On?",
-      "link": "https://finance.yahoo.com/m/e5931769-c1d2-33e0-ba6e-1c29c7ebb436/alphabet-and-amazon-are.html",
-      "publisher": "Motley Fool",
-      "time": 1787472300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "168eb1f4-2080-3f5c-be15-e172ac79ab2d",
-      "title": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks",
-      "link": "https://finance.yahoo.com/m/168eb1f4-2080-3f5c-be15-e172ac79ab2d/%E2%80%98we-are-hitting-a-different.html",
-      "publisher": "The Guardian",
-      "time": 1787472027,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
     }
   ],
   "errors": {
