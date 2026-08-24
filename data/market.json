@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T21:53:15.759529+00:00",
+  "updatedAt": "2026-08-24T22:18:46.342437+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,20 @@
   ],
   "news": [
     {
-      "id": "ab222ced-27b6-3e86-9e54-097e41202290",
-      "title": "Shares dip with pressure from technology, yields and oil fall",
-      "link": "https://finance.yahoo.com/news/shares-flat-asia-iran-sanctions-004936320.html",
-      "publisher": "Reuters",
-      "time": 1787608039,
+      "id": "3e52c776-38f5-32bf-a2c5-78d32abd4b3f",
+      "title": "Government of Canada launches engagement process on the 2030 Agenda and the Sustainable Development Goals",
+      "link": "https://finance.yahoo.com/economy/policy/articles/government-canada-launches-engagement-process-221600207.html",
+      "publisher": "CNW Group",
+      "time": 1787609760,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cd0b1f23-7075-3e34-8e45-3043f8aca319",
+      "title": "Barclays (LSE:BARC) Stock Looks Reasonable On Earnings But Cheap On Fair Value",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-lse-barc-stock-looks-221126209.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787609486,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,85 +73,83 @@
       ]
     },
     {
-      "id": "dcc74c70-ce3c-3e5e-9eb9-ed21bf28d81b",
-      "title": "Samsung Just Authorized Its Largest Shareholder Return Ever. Every Major Memory Stock Fell Monday.",
-      "link": "https://finance.yahoo.com/m/dcc74c70-ce3c-3e5e-9eb9-ed21bf28d81b/samsung-just-authorized-its.html",
-      "publisher": "Motley Fool",
-      "time": 1787607961,
+      "id": "e6b31604-3e78-39f8-a9f9-db5b1e322701",
+      "title": "Is Annaly Capital Management (NLY) Still Trading At A Discount To Fair Value?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/annaly-capital-management-nly-still-221108065.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787609468,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2a2cb62a-9b65-3455-9e48-f59a6d99c1be",
-      "title": "Aggreko Announces Filing of Registration Statement for Proposed Initial Public Offering",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aggreko-announces-filing-registration-statement-203500422.html",
-      "publisher": "Business Wire",
-      "time": 1787607900,
+      "id": "8e52a8b2-009f-3aa3-8534-13589698c65a",
+      "title": "TotalEnergies (ENXTPA:TTE) Stock Looks Cheap On Value But Full On Returns",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/totalenergies-enxtpa-tte-stock-looks-221053962.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787609453,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "77bf4a0a-f0ea-3ec9-8efb-d75f9b09777c",
-      "title": "Nashville hospital admits 4 patients got the wrong drug — 1 was left paralyzed. State caps its payouts at $1M",
-      "link": "https://finance.yahoo.com/healthcare/articles/nashville-hospital-admits-4-patients-214500436.html",
-      "publisher": "Moneywise",
-      "time": 1787607900,
+      "id": "b0f4e346-7d28-3419-8dbb-ba0c949ec449",
+      "title": "Does Virtu Financial’s New 10b-18 Tool Sharpen Its Competitive Edge In Buyback Execution Quality (VIRT)?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/does-virtu-financial-10b-18-221046025.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787609446,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c498b3b0-7df4-3f80-b753-4c059e48a1e4",
-      "title": "La Rosa Holdings Corp. Announces Receipt of Nasdaq Deficiency Notice and Subsequent Regaining of Compliance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/la-rosa-holdings-corp-announces-214500484.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787607900,
+      "id": "1c40d5c1-147b-38de-84d2-9e56d736782b",
+      "title": "Nebius Group (NBIS) Expands UK AI Footprint With New Wales Data Center Deal",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nebius-group-nbis-expands-uk-221021547.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787609421,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "20e09099-bd55-3840-a0d5-1f70d33e1fd6",
-      "title": "SBA, Department of Energy Partner to Advance President Trump's American Energy Dominance Agenda",
-      "link": "https://finance.yahoo.com/energy/articles/sba-department-energy-partner-advance-214400246.html",
-      "publisher": "PR Newswire",
-      "time": 1787607840,
+      "id": "0c468211-0d1a-307c-b244-bb9fb67f0bf3",
+      "title": "York Space Systems (YSS) Wins NITE STAR Role, Is The Upside Already Priced In?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/york-space-systems-yss-wins-221013355.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787609413,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a4e9a87f-9acc-3a0c-8185-6be79bada318",
-      "title": "Data Center Politics Could Help an Unlikely Industry: Bitcoin Miners",
-      "link": "https://finance.yahoo.com/m/a4e9a87f-9acc-3a0c-8185-6be79bada318/data-center-politics-could.html",
-      "publisher": "Barrons.com",
-      "time": 1787607780,
+      "id": "2ce6ee65-0085-33ee-bde9-3f5bae6337be",
+      "title": "Wells Fargo (WFC) Commits $1 Million To Affordable Housing In Wyoming",
+      "link": "https://finance.yahoo.com/real-estate/articles/wells-fargo-wfc-commits-1-221013174.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787609413,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b2635c6e-22c0-3cdd-b104-481901b4bd2c",
-      "title": "Jeff's Bagel Run opening 11 locations in these 5 states this fall",
-      "link": "https://finance.yahoo.com/m/b2635c6e-22c0-3cdd-b104-481901b4bd2c/jeff%27s-bagel-run-opening-11.html",
-      "publisher": "USA TODAY",
-      "time": 1787607759,
+      "id": "2c667eda-e207-39ba-959b-7ce72ca62dae",
+      "title": "1844 Resources Announces Extension of Non-Brokered Private Placement",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1844-resources-announces-extension-non-221000454.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787609400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9042126c-010d-351b-b78b-dabc4e14ff3e",
-      "title": "Are Options Traders Betting on a Big Move in Ulta Beauty Stock?",
-      "link": "https://finance.yahoo.com/markets/options/articles/options-traders-betting-big-move-214200918.html",
-      "publisher": "Zacks",
-      "time": 1787607720,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
+      "id": "a349257b-9413-3c60-a742-0f6a5e1aeb90",
+      "title": "Teijin (TSE:3401) Stock May Be 14% Undervalued On Cash Flow",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/teijin-tse-3401-stock-may-220955512.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787609395,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "a9565b8d-3f00-391b-8ed4-c337d1f6aed0",
-      "title": "Ninepoint Partners Announces August 2026 Monthly and Semi-Monthly Cash Distributions for its ETFs and ETF Series Securities",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ninepoint-partners-announces-august-2026-214100600.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787607660,
+      "id": "84e12112-86d3-3902-85dd-4d0307c28ecb",
+      "title": "What Does Mastercard (MA) Naming Yasemin Bedir To EEMEA Mean For Investors?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/does-mastercard-ma-naming-yasemin-220939907.html",
+      "publisher": "Simply Wall St.",
+      "time": 1787609379,
       "impact": "low",
       "tags": []
     }
