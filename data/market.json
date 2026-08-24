@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T22:18:46.342437+00:00",
+  "updatedAt": "2026-08-24T22:51:05.053286+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6447.98,
       "change": -14.240000000000691,
       "changePct": -0.2203577098891819,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,20 +52,59 @@
   ],
   "news": [
     {
-      "id": "3e52c776-38f5-32bf-a2c5-78d32abd4b3f",
-      "title": "Government of Canada launches engagement process on the 2030 Agenda and the Sustainable Development Goals",
-      "link": "https://finance.yahoo.com/economy/policy/articles/government-canada-launches-engagement-process-221600207.html",
-      "publisher": "CNW Group",
-      "time": 1787609760,
+      "id": "51f2e17a-7339-3c92-b8cd-b3ce744b4059",
+      "title": "County rejects former emergency chief’s call for NSP air study",
+      "link": "https://finance.yahoo.com/m/51f2e17a-7339-3c92-b8cd-b3ce744b4059/county-rejects-former.html",
+      "publisher": "Republican & Herald, Pottsville, Pa.",
+      "time": 1787611560,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cd0b1f23-7075-3e34-8e45-3043f8aca319",
-      "title": "Barclays (LSE:BARC) Stock Looks Reasonable On Earnings But Cheap On Fair Value",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-lse-barc-stock-looks-221126209.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787609486,
+      "id": "53eb6421-42d1-4f34-991f-9396a43daf69",
+      "title": "Rent vs. buy calculator",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/rent-vs-buy-calculator-224533593.html",
+      "publisher": "Personal Finance Embeddable Content",
+      "time": 1787611533,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "64592175-e1ed-3642-9c1f-eea3ce1ccaab",
+      "title": "BOJ Likely to Hike Rates in September, Follow Up in January, Adachi Says",
+      "link": "https://finance.yahoo.com/economy/policy/articles/boj-likely-hike-rates-september-224346211.html",
+      "publisher": "MT Newswires",
+      "time": 1787611426,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "22e75766-591d-3629-8947-e231029b8c7e",
+      "title": "BetterLife Pharma Inc. Announces Proposed Public Offering of Common Shares and Pre-Funded Warrants",
+      "link": "https://finance.yahoo.com/healthcare/articles/betterlife-pharma-inc-announces-proposed-224200518.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787611320,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "f62e8793-6240-3bf4-880c-e789fb4f8f16",
+      "title": "Celltrion Expands Omlyclo® Portfolio in Europe with Launch of 300 mg Strength",
+      "link": "https://finance.yahoo.com/healthcare/articles/celltrion-expands-omlyclo-portfolio-europe-224000950.html",
+      "publisher": "Business Wire",
+      "time": 1787611200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4a1f4147-dc61-3f3c-bf92-44d1d2544645",
+      "title": "Market Chatter: Oura Eyes Up to $3 Billion in US IPO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-oura-eyes-3-223548253.html",
+      "publisher": "MT Newswires",
+      "time": 1787610948,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,83 +112,38 @@
       ]
     },
     {
-      "id": "e6b31604-3e78-39f8-a9f9-db5b1e322701",
-      "title": "Is Annaly Capital Management (NLY) Still Trading At A Discount To Fair Value?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/annaly-capital-management-nly-still-221108065.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787609468,
+      "id": "5fc85d20-9e9f-330e-9e48-0366c3a1c68c",
+      "title": "The Fastest ETF in History Just Hit $25 Billion in Four Months. It Owns Memory Chips",
+      "link": "https://finance.yahoo.com/m/5fc85d20-9e9f-330e-9e48-0366c3a1c68c/the-fastest-etf-in-history.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787610941,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8e52a8b2-009f-3aa3-8534-13589698c65a",
-      "title": "TotalEnergies (ENXTPA:TTE) Stock Looks Cheap On Value But Full On Returns",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/totalenergies-enxtpa-tte-stock-looks-221053962.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787609453,
+      "id": "8cec3a54-46e0-3326-af1b-af01cc1bd609",
+      "title": "Archer Aviation vs. AST SpaceMobile: Which Industrials Stock Is a Better Buy in 2026?",
+      "link": "https://finance.yahoo.com/m/8cec3a54-46e0-3326-af1b-af01cc1bd609/archer-aviation-vs.-ast.html",
+      "publisher": "Motley Fool",
+      "time": 1787610841,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b0f4e346-7d28-3419-8dbb-ba0c949ec449",
-      "title": "Does Virtu Financial’s New 10b-18 Tool Sharpen Its Competitive Edge In Buyback Execution Quality (VIRT)?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/does-virtu-financial-10b-18-221046025.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787609446,
+      "id": "2cfc042c-122a-3dca-9b02-ea053a8f9216",
+      "title": "Despair and anger erupt after deadly Guinea landfill collapse",
+      "link": "https://finance.yahoo.com/m/2cfc042c-122a-3dca-9b02-ea053a8f9216/despair-and-anger-erupt-after.html",
+      "publisher": "AFP",
+      "time": 1787610817,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1c40d5c1-147b-38de-84d2-9e56d736782b",
-      "title": "Nebius Group (NBIS) Expands UK AI Footprint With New Wales Data Center Deal",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nebius-group-nbis-expands-uk-221021547.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787609421,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0c468211-0d1a-307c-b244-bb9fb67f0bf3",
-      "title": "York Space Systems (YSS) Wins NITE STAR Role, Is The Upside Already Priced In?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/york-space-systems-yss-wins-221013355.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787609413,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2ce6ee65-0085-33ee-bde9-3f5bae6337be",
-      "title": "Wells Fargo (WFC) Commits $1 Million To Affordable Housing In Wyoming",
-      "link": "https://finance.yahoo.com/real-estate/articles/wells-fargo-wfc-commits-1-221013174.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787609413,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2c667eda-e207-39ba-959b-7ce72ca62dae",
-      "title": "1844 Resources Announces Extension of Non-Brokered Private Placement",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1844-resources-announces-extension-non-221000454.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787609400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a349257b-9413-3c60-a742-0f6a5e1aeb90",
-      "title": "Teijin (TSE:3401) Stock May Be 14% Undervalued On Cash Flow",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/teijin-tse-3401-stock-may-220955512.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787609395,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "84e12112-86d3-3902-85dd-4d0307c28ecb",
-      "title": "What Does Mastercard (MA) Naming Yasemin Bedir To EEMEA Mean For Investors?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/does-mastercard-ma-naming-yasemin-220939907.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787609379,
+      "id": "1125de33-53e9-3358-b894-73f86ec3c2e9",
+      "title": "California cancels potential settlement talks with Paramount",
+      "link": "https://finance.yahoo.com/m/1125de33-53e9-3358-b894-73f86ec3c2e9/california-cancels-potential.html",
+      "publisher": "USA TODAY",
+      "time": 1787610783,
       "impact": "low",
       "tags": []
     }
