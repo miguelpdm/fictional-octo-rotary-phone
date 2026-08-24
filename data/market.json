@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-24T06:01:42.042299+00:00",
+  "updatedAt": "2026-08-24T07:35:37.492542+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19961.5,
-      "change": 150.5,
-      "changePct": 0.7596789662308818,
+      "price": 19995.9,
+      "change": 34.400000000001455,
+      "changePct": 0.17233173859680614,
       "currency": "EUR"
     },
     {
@@ -28,129 +28,122 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26136.56,
-      "change": 45.22999999999956,
-      "changePct": 0.17335260410258718,
+      "price": 26065.09,
+      "change": 82.04999999999927,
+      "changePct": 0.3157829106986683,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6462.22,
-      "change": 40.159999999999854,
-      "changePct": 0.6253445156227107,
+      "price": 6449.3,
+      "change": -12.920000000000073,
+      "changePct": -0.1999312929612435,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.13,
-      "change": -0.8800000000000008,
-      "changePct": -5.496564647095569,
+      "price": 15.91,
+      "change": 0.7799999999999994,
+      "changePct": 5.1553205551883625,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "b9d7d882-73c3-39c3-87ce-ea9757a85922",
-      "title": "The 2nd TMElive International Music Awards concluded, bringing together 34 Chinese and international acts to deliver a phenomenal global music celebration",
-      "link": "https://finance.yahoo.com/media-advertising/articles/2nd-tmelive-international-music-awards-055400322.html",
-      "publisher": "PR Newswire",
-      "time": 1787550840,
-      "impact": "high",
+      "id": "96535254-c9f0-30bb-bacf-9ae66822c34c",
+      "title": "Market Chatter: Shell Draws Exxon, LyondellBasell Interest in US Chemicals Assets",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-shell-draws-exxon-073205156.html",
+      "publisher": "MT Newswires",
+      "time": 1787556725,
+      "impact": "low",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "e3ece56d-c836-36b3-a6f4-900989c4944a",
-      "title": "China's netizens rage against professor who said gig work was a type of 'welfare'",
-      "link": "https://finance.yahoo.com/m/e3ece56d-c836-36b3-a6f4-900989c4944a/china%27s-netizens-rage-against.html",
+      "id": "3265cbc6-e59d-31fe-b224-726d66912634",
+      "title": "European shares slip as tech drags; Iran sanctions in focus",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-slip-tech-drags-073044780.html",
       "publisher": "Reuters",
-      "time": 1787550546,
+      "time": 1787556644,
       "impact": "medium",
       "tags": [
         "geo"
       ]
     },
     {
-      "id": "2f74c8ce-5dc5-3894-8cf8-f22b4cec66c5",
-      "title": "Skanska to build datacenter near Prague, Czechia, for CZK 2.1 billion, about SEK 930M",
-      "link": "https://finance.yahoo.com/technology/articles/skanska-build-datacenter-near-prague-054800117.html",
+      "id": "ec5f243b-d0e6-3719-b464-be1cda6e2255",
+      "title": "2026 Taiwan Jewellery & Gem Fair to Take Place in November",
+      "link": "https://finance.yahoo.com/small-business/articles/2026-taiwan-jewellery-gem-fair-073000909.html",
       "publisher": "PR Newswire",
-      "time": 1787550480,
+      "time": 1787556600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2f6ee58b-93cb-38e6-89df-e18a96c5f60b",
-      "title": "BW Offshore: Dividend information",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bw-offshore-dividend-information-054500563.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787550300,
+      "id": "b040b3d7-1e22-33e2-b492-c7ea56b4c10b",
+      "title": "GSK Says Jemperli Accepted for Priority Review as Potential Treatment for Rectal Cancer",
+      "link": "https://finance.yahoo.com/healthcare/articles/gsk-says-jemperli-accepted-priority-072843419.html",
+      "publisher": "MT Newswires",
+      "time": 1787556523,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "46cf87c5-2aec-35c7-ba6b-4d00b5262670",
-      "title": "Sinopec Achieves Solid Operating Results in the First Half of 2026",
-      "link": "https://finance.yahoo.com/energy/articles/sinopec-achieves-solid-operating-results-054500248.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787550300,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "ab222ced-27b6-3e86-9e54-097e41202290",
-      "title": "Shares, oil slip awaiting US details of Iran sanctions",
-      "link": "https://finance.yahoo.com/news/shares-flat-asia-iran-sanctions-004936320.html",
-      "publisher": "Reuters",
-      "time": 1787550276,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "266fc25c-0f95-38e5-8065-3e618f23f309",
-      "title": "Share repurchase programme: Transactions of week 34 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/share-repurchase-programme-transactions-week-053900417.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787549940,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ae19966b-bd52-3681-86ad-d20d8a0fead0",
-      "title": "Hindustan Coca-Cola Beverages Certified as a Top Employer in India for 2026 by Top Employers Institute",
-      "link": "https://finance.yahoo.com/small-business/articles/hindustan-coca-cola-beverages-certified-053600720.html",
+      "id": "f0d5a2ed-5995-370d-9102-3e888b7ec90a",
+      "title": "MacGregor extends Horizon gangway to floating-to-floating personnel transfer",
+      "link": "https://finance.yahoo.com/energy/articles/macgregor-extends-horizon-gangway-floating-072600834.html",
       "publisher": "PR Newswire",
-      "time": 1787549760,
+      "time": 1787556360,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "20140b92-4da0-39f5-8c6c-c6c89287dbfe",
-      "title": "Asian shares mostly decline as bond market pressure mounts",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-decline-bond-053524598.html",
-      "publisher": "Associated Press",
-      "time": 1787549724,
+      "id": "31014529-1b99-3e61-9d13-387f514c35ec",
+      "title": "Share buybacks in Ericsson during the period August 17 - August 21, 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/share-buybacks-ericsson-during-period-072300044.html",
+      "publisher": "PR Newswire",
+      "time": 1787556180,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7f770210-6c4b-3bc2-a56e-2e95f55cb0ca",
+      "title": "1 Unpopular Stock That Deserves Some Love and 2 We Avoid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-unpopular-stock-deserves-love-072136690.html",
+      "publisher": "StockStory",
+      "time": 1787556096,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "00eeed01-9437-3cb9-9e43-cdff981cbb7e",
-      "title": "INDONESIAN HEALTHCARE TRAVEL TO MALAYSIA HITS RECORD RM2.2 BILLION AS MHX RETURNS TO YOGYAKARTA",
-      "link": "https://finance.yahoo.com/healthcare/articles/indonesian-healthcare-travel-malaysia-hits-053000902.html",
+      "id": "7b26ac98-05f2-3315-82bc-d7445f53a84b",
+      "title": "MacGregor advances direct ship-to-well LCO₂ transfer, built on 50 years of proven bow-loading technology",
+      "link": "https://finance.yahoo.com/energy/articles/macgregor-advances-direct-ship-well-072000691.html",
       "publisher": "PR Newswire",
-      "time": 1787549400,
+      "time": 1787556000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1d9f440f-83e4-3e33-b015-46abc37ec6e5",
+      "title": "Macy's is selling a $699 sterling silver diamond necklace for 75% off",
+      "link": "https://finance.yahoo.com/m/1d9f440f-83e4-3e33-b015-46abc37ec6e5/macy%27s-is-selling-a-%24699.html",
+      "publisher": "TheStreet",
+      "time": 1787555700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "dd8d7a50-e94f-3bb3-8876-b40869d8f6b1",
+      "title": "Scania to showcase its broad marine offering at SMM 2026",
+      "link": "https://finance.yahoo.com/energy/articles/scania-showcase-broad-marine-offering-071500305.html",
+      "publisher": "PR Newswire",
+      "time": 1787555700,
       "impact": "low",
       "tags": []
     }
