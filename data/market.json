@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-24T08:39:55.444277+00:00",
+  "updatedAt": "2026-08-24T09:39:56.195703+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19990.9,
-      "change": 29.400000000001455,
-      "changePct": 0.14728352077750395,
+      "price": 20014.5,
+      "change": 53.0,
+      "changePct": 0.26551110888460283,
       "currency": "EUR"
     },
     {
@@ -28,126 +28,116 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26109.12,
-      "change": 126.07999999999811,
-      "changePct": 0.48523960244835906,
+      "price": 26129.08,
+      "change": 146.04000000000087,
+      "changePct": 0.5620589430644023,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6452.06,
-      "change": -10.159999999999854,
-      "changePct": -0.1572215121119345,
-      "currency": "EUR"
+      "price": 6459.08,
+      "change": -3.1400000000003274,
+      "changePct": -0.04859011299522962,
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.91,
-      "change": 0.7799999999999994,
-      "changePct": 5.1553205551883625,
+      "price": 15.9,
+      "change": 0.7699999999999996,
+      "changePct": 5.0892267019167186,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "2060ddf4-521d-375d-a00d-d9ece9d028cd",
-      "title": "Prepayments (CK93) - Totalkredit A/S",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prepayments-ck93-totalkredit-083500229.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787560500,
+      "id": "bdd9ed28-2b5b-3861-8b02-377bcd30ba3c",
+      "title": "EQ expands Scottish presence with Innes & Partners deal",
+      "link": "https://finance.yahoo.com/m/bdd9ed28-2b5b-3861-8b02-377bcd30ba3c/eq-expands-scottish-presence.html",
+      "publisher": "International Accounting Bulletin",
+      "time": 1787564305,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "df542777-b90d-3ede-8211-6f6d8a5ae15b",
-      "title": "1 Cash-Producing Stock for Long-Term Investors and 2 We Question",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-producing-stock-long-083336643.html",
-      "publisher": "StockStory",
-      "time": 1787560416,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "16f9facf-e05c-362d-b1c6-fb277ea6a92b",
-      "title": "BlackRock Says the Long-Term Investment Thesis for Bitcoin Remains Intact. Is Bitcoin Now a Buy?",
-      "link": "https://finance.yahoo.com/m/16f9facf-e05c-362d-b1c6-fb277ea6a92b/blackrock-says-the-long-term.html",
-      "publisher": "Motley Fool",
-      "time": 1787560380,
+      "id": "5ebb2a9e-8303-3d2c-a0bc-1353c7420b28",
+      "title": "Marriott International to launch Ritz-Carlton Reserve in Shanghai",
+      "link": "https://finance.yahoo.com/m/5ebb2a9e-8303-3d2c-a0bc-1353c7420b28/marriott-international-to.html",
+      "publisher": "Hotel Management Network",
+      "time": 1787564109,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "54ac9185-8135-3459-b3a6-ef327e1ff546",
-      "title": "High Power Microwave Weapons Market Report 2026-2035: Features Profiles of Raytheon (RTX), Epirus, CSGC / Norinco, Lockheed Martin, CASC and Other Regional Powerhouses",
-      "link": "https://finance.yahoo.com/technology/articles/high-power-microwave-weapons-market-083300798.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787560380,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "47451766-24dc-3292-a6ef-8bf3fa171ce4",
-      "title": "PFAS-Free Food Packaging Market Opportunity Forecast 2026-2035 | Regulatory Momentum and Sustainability Demand Accelerate PFAS-Free Food Packaging",
-      "link": "https://finance.yahoo.com/healthcare/articles/pfas-free-food-packaging-market-083200308.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787560320,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "ab222ced-27b6-3e86-9e54-097e41202290",
-      "title": "Shares, oil dip as US sanctions on Iran loom",
-      "link": "https://finance.yahoo.com/news/shares-flat-asia-iran-sanctions-004936320.html",
-      "publisher": "Reuters",
-      "time": 1787560305,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "da708dcd-522e-3cac-9b09-716f85d81877",
-      "title": "Prepayments (CK93) - Nykredit Realkredit A/S",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prepayments-ck93-nykredit-realkredit-083100151.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787560260,
+      "id": "a97bccf3-127b-3f15-95bf-c067cd9de9cd",
+      "title": "European Commission grants orphan designation for Lundbeck's investigational anti-ACTH monoclonal antibody asedebart for Cushing's syndrome of endogenous origin",
+      "link": "https://finance.yahoo.com/healthcare/articles/european-commission-grants-orphan-designation-093500029.html",
+      "publisher": "PR Newswire",
+      "time": 1787564100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5654f886-49f5-3e26-9d20-61abb689ee11",
+      "id": "de986f33-ea52-3887-8702-5a7afb7ee28d",
+      "title": "Nvidia’s $30B Perplexity Bet Extends the Compute Landlord Thesis Into AI Search",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-30b-perplexity-bet-extends-093340421.html",
+      "publisher": "Forkast News",
+      "time": 1787564020,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4888e612-6a20-30a2-9b25-ea9a9f1946e3",
       "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-083000881.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-093300435.html",
       "publisher": "Business Wire",
-      "time": 1787560200,
+      "time": 1787563980,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "282cb30d-0f39-3751-8c73-b6bd18d0e973",
-      "title": "50/2026・Trifork Group: Weekly report on share buyback",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/50-2026-trifork-group-weekly-082900635.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787560140,
+      "id": "0fc906ed-4d07-3beb-9765-dd3461d4d2db",
+      "title": "ISCA, ICAI partner on responsible AI learning for accountants",
+      "link": "https://finance.yahoo.com/m/0fc906ed-4d07-3beb-9765-dd3461d4d2db/isca%2C-icai-partner-on.html",
+      "publisher": "The Accountant",
+      "time": 1787563853,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "46be7010-e280-3d41-82c9-62d6ad9032ac",
-      "title": "Name Change and Consolidation Approved",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/name-change-consolidation-approved-082800860.html",
+      "id": "07851d2a-be02-3649-a1ba-e4a2d4b970be",
+      "title": "Raymond James Adjusts Price Target on ConocoPhillips to $168 From $142",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/raymond-james-adjusts-price-target-093032326.html",
+      "publisher": "MT Newswires",
+      "time": 1787563832,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "30541da5-ef36-31dc-9b6f-277cea7adfe0",
+      "title": "A Race Against Blindness Launches New Yukon Denali + Serenova Trailer Fundraiser to Help Cure Childhood Blindness",
+      "link": "https://finance.yahoo.com/healthcare/articles/race-against-blindness-launches-yukon-093000240.html",
       "publisher": "GlobeNewswire",
-      "time": 1787560080,
+      "time": 1787563800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "38da1ff7-e06e-3678-9c92-e633d3eb2cbd",
+      "title": "Two years after nicotine pouch restrictions, Quit Club asks Ottawa to show Canadians the evidence",
+      "link": "https://finance.yahoo.com/healthcare/articles/two-years-nicotine-pouch-restrictions-093000437.html",
+      "publisher": "CNW Group",
+      "time": 1787563800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4a3c1881-8735-3b74-9f07-2d2709a46c68",
+      "title": "An 83-year-old has $31,000 in credit card debt — her daughter needs to know one thing before paying another bill",
+      "link": "https://finance.yahoo.com/markets/articles/83-old-31-000-credit-093000000.html",
+      "publisher": "Moneywise",
+      "time": 1787563800,
       "impact": "low",
       "tags": []
     }
