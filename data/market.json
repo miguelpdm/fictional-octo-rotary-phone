@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T19:52:35.030567+00:00",
+  "updatedAt": "2026-08-24T20:22:13.027144+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7652.2,
-      "change": 11.039999999999964,
-      "changePct": 0.1444806809437306,
+      "price": 7652.86,
+      "change": 11.699999999999818,
+      "changePct": 0.15311811295666913,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25989.277,
-      "change": -77.89300000000003,
-      "changePct": -0.2988164806536346,
+      "price": 25980.191,
+      "change": -86.97899999999936,
+      "changePct": -0.3336725850945821,
       "currency": "USD"
     },
     {
@@ -39,112 +39,112 @@
       "price": 6447.98,
       "change": -14.240000000000691,
       "changePct": -0.2203577098891819,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.8,
-      "change": 0.6699999999999999,
-      "changePct": 4.428288169200264,
+      "price": 15.85,
+      "change": 0.7199999999999989,
+      "changePct": 4.758757435558485,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "caa2c3a9-33ff-3b98-ba49-56a8ab7dfd81",
-      "title": "Microsoft Rises as $678 Billion Backlog Defies Tech Selloff",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-rises-678-billion-backlog-195022521.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787601022,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e1dcb520-f692-3993-a869-98abf183091f",
-      "title": "EnGold Announces Adoption of Semi-Annual Financial Reporting",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/engold-announces-adoption-semi-annual-195000367.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787601000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "515b225d-908b-36c9-a317-965812407e55",
-      "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-slides-2-3-ai-194932749.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787600972,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d2bb12d3-e706-3253-8d5a-453254d3e31d",
-      "title": "Amazon Jumps 1.8% as AWS Growth Overpowers Tech Anxiety",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-jumps-1-8-aws-194722757.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787600842,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b94df75f-3d81-3acf-bedd-b87723334bd9",
-      "title": "Inter-Rock Minerals Renewing Share Buyback Program",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/inter-rock-minerals-renewing-share-194605961.html",
-      "publisher": "MT Newswires",
-      "time": 1787600765,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "221cb859-45ea-38ee-9d13-1fd5a24acaeb",
-      "title": "Westinghouse Air Brake Technologies Insider Sold Shares Worth $867,093, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-technologies-insider-194523875.html",
-      "publisher": "MT Newswires",
-      "time": 1787600723,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3afc627b-e477-3d59-a7e7-b94b87081211",
-      "title": "Curaleaf Responds to Aurora Cannabis' Latest Attempt to Deflect From Shareholder Value Creation",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/curaleaf-responds-aurora-cannabis-latest-194500169.html",
-      "publisher": "PR Newswire",
-      "time": 1787600700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6d1e6025-c2ac-392e-a0e5-2feb233adda1",
-      "title": "LG ELECTRONICS' PRISM AI WINS BEST AI TOOL/PRODUCT AT THE 2026 IN2 SABRE AWARDS ASIA-PACIFIC",
-      "link": "https://finance.yahoo.com/technology/ai/articles/lg-electronics-prism-ai-wins-194500177.html",
-      "publisher": "PR Newswire",
-      "time": 1787600700,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "34215f90-2bd0-3490-8b0a-009badacb2e1",
-      "title": "Procter & Gamble Insider Sold Shares Worth $488,311, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-insider-sold-shares-194438833.html",
-      "publisher": "MT Newswires",
-      "time": 1787600678,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "798316a4-3196-3836-8d88-6ccad174559c",
-      "title": "Sector Update: Consumer Stocks Rise Late Afternoon",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-rise-afternoon-194430140.html",
-      "publisher": "MT Newswires",
-      "time": 1787600670,
+      "id": "7327d3da-d5ca-306a-9629-b0c1a5f85c47",
+      "title": "Why Hims & Hers Health (HIMS) Stock Is Nosediving",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-hims-hers-health-hims-201736983.html",
+      "publisher": "StockStory",
+      "time": 1787602656,
       "impact": "low",
       "tags": [
         "macro"
       ]
+    },
+    {
+      "id": "85c128bd-d025-3f41-b225-eefd51091d88",
+      "title": "Diamondback Energy Insider Sold Shares Worth $2,146,608, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-insider-sold-shares-201509664.html",
+      "publisher": "MT Newswires",
+      "time": 1787602509,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4fcbfb74-9f4a-3c66-abff-2dbb2ef0d08c",
+      "title": "The Metals Royalty Company Announces Closing of Additional 1.0% Mesabi Royalty and US$165 Million Financing",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/metals-royalty-company-announces-closing-201500076.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787602500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8246c165-2fab-357d-8e4d-13ad1ec16567",
+      "title": "Weatherford and NCS Multistage Announce Anticipated Election Deadline and Closing Date",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/weatherford-ncs-multistage-announce-anticipated-201500503.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787602500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9d798e5c-613b-3299-ae0f-a30cac8bd215",
+      "title": "Micropolis Robotics Becomes a Robotics and Physical AI Solutions Provider to ADNOC",
+      "link": "https://finance.yahoo.com/energy/articles/micropolis-robotics-becomes-robotics-physical-201500277.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787602500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cb730ed4-d0df-3758-89d0-a43dd803a6fe",
+      "title": "OceanLight Acquisition Corporation Announces Exercise of Over-Allotment Option",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oceanlight-acquisition-corporation-announces-exercise-201500822.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787602500,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "ea368ff7-76b6-3ddb-8769-835249ab5e2c",
+      "title": "Viking Honors Top Travel Advisor Partners as Godparents of Seven New River Ships",
+      "link": "https://finance.yahoo.com/media-advertising/articles/viking-honors-top-travel-advisor-201500948.html",
+      "publisher": "Business Wire",
+      "time": 1787602500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ec7d6674-ee97-37f7-b9c4-7ed057349356",
+      "title": "Amrize Appoints Sam Poletti as Chief Financial Officer",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amrize-appoints-sam-poletti-chief-201500342.html",
+      "publisher": "Business Wire",
+      "time": 1787602500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ee9bb2f3-0ee0-33e3-a4f9-31fbf35a4c07",
+      "title": "US Elemental Announces Highly Encouraging Magnesium Testwork Results from the McDermitt Lithium Project",
+      "link": "https://finance.yahoo.com/energy/articles/us-elemental-announces-highly-encouraging-201500359.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787602500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "91818bd9-d9d2-384b-a4ec-6749a3eff10a",
+      "title": "Oruka Therapeutics Names Chief Commercial Officer",
+      "link": "https://finance.yahoo.com/healthcare/articles/oruka-therapeutics-names-chief-commercial-201442202.html",
+      "publisher": "MT Newswires",
+      "time": 1787602482,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
