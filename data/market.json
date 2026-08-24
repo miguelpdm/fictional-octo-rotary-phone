@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-24T09:39:56.195703+00:00",
+  "updatedAt": "2026-08-24T10:31:07.774623+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20014.5,
-      "change": 53.0,
-      "changePct": 0.26551110888460283,
+      "price": 20019.7,
+      "change": 58.20000000000073,
+      "changePct": 0.29156125541668076,
       "currency": "EUR"
     },
     {
@@ -28,116 +28,124 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26129.08,
-      "change": 146.04000000000087,
-      "changePct": 0.5620589430644023,
+      "price": 26148.62,
+      "change": 165.5799999999981,
+      "changePct": 0.6372618446494256,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6459.08,
-      "change": -3.1400000000003274,
-      "changePct": -0.04859011299522962,
-      "currency": null
+      "price": 6458.69,
+      "change": -3.530000000000655,
+      "changePct": -0.05462519072394091,
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.9,
-      "change": 0.7699999999999996,
-      "changePct": 5.0892267019167186,
+      "price": 15.91,
+      "change": 0.7799999999999994,
+      "changePct": 5.1553205551883625,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "bdd9ed28-2b5b-3861-8b02-377bcd30ba3c",
-      "title": "EQ expands Scottish presence with Innes & Partners deal",
-      "link": "https://finance.yahoo.com/m/bdd9ed28-2b5b-3861-8b02-377bcd30ba3c/eq-expands-scottish-presence.html",
-      "publisher": "International Accounting Bulletin",
-      "time": 1787564305,
+      "id": "08195122-399a-341d-b8dd-7af800852bd7",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://finance.yahoo.com/m/08195122-399a-341d-b8dd-7af800852bd7/tech%2C-media-%26-telecom.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787567160,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "2815f8e5-15c0-3086-bb38-f1666643ecb1",
+      "title": "Exclusive-India plans first tokenised bond issue in September, sources say",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/exclusive-india-plans-first-tokenised-102445401.html",
+      "publisher": "Reuters",
+      "time": 1787567085,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5ebb2a9e-8303-3d2c-a0bc-1353c7420b28",
-      "title": "Marriott International to launch Ritz-Carlton Reserve in Shanghai",
-      "link": "https://finance.yahoo.com/m/5ebb2a9e-8303-3d2c-a0bc-1353c7420b28/marriott-international-to.html",
-      "publisher": "Hotel Management Network",
-      "time": 1787564109,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a97bccf3-127b-3f15-95bf-c067cd9de9cd",
-      "title": "European Commission grants orphan designation for Lundbeck's investigational anti-ACTH monoclonal antibody asedebart for Cushing's syndrome of endogenous origin",
-      "link": "https://finance.yahoo.com/healthcare/articles/european-commission-grants-orphan-designation-093500029.html",
-      "publisher": "PR Newswire",
-      "time": 1787564100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "de986f33-ea52-3887-8702-5a7afb7ee28d",
-      "title": "Nvidia’s $30B Perplexity Bet Extends the Compute Landlord Thesis Into AI Search",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-30b-perplexity-bet-extends-093340421.html",
-      "publisher": "Forkast News",
-      "time": 1787564020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4888e612-6a20-30a2-9b25-ea9a9f1946e3",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-093300435.html",
-      "publisher": "Business Wire",
-      "time": 1787563980,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0fc906ed-4d07-3beb-9765-dd3461d4d2db",
-      "title": "ISCA, ICAI partner on responsible AI learning for accountants",
-      "link": "https://finance.yahoo.com/m/0fc906ed-4d07-3beb-9765-dd3461d4d2db/isca%2C-icai-partner-on.html",
-      "publisher": "The Accountant",
-      "time": 1787563853,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "07851d2a-be02-3649-a1ba-e4a2d4b970be",
-      "title": "Raymond James Adjusts Price Target on ConocoPhillips to $168 From $142",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/raymond-james-adjusts-price-target-093032326.html",
+      "id": "3f664806-7679-3844-8d3f-f36ab62a2db1",
+      "title": "TD Cowen Adjusts Price Target on Southwest Airlines to $48 From $53",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-adjusts-price-target-102442785.html",
       "publisher": "MT Newswires",
-      "time": 1787563832,
+      "time": 1787567082,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "30541da5-ef36-31dc-9b6f-277cea7adfe0",
-      "title": "A Race Against Blindness Launches New Yukon Denali + Serenova Trailer Fundraiser to Help Cure Childhood Blindness",
-      "link": "https://finance.yahoo.com/healthcare/articles/race-against-blindness-launches-yukon-093000240.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787563800,
+      "id": "96344227-4963-318e-9622-197c0800ed86",
+      "title": "US Equity Investors to Focus on Nvidia's Earnings, Chair Warsh's Jackson Hole Speech, PCE Inflation This Week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-investors-focus-nvidia-102436982.html",
+      "publisher": "MT Newswires",
+      "time": 1787567076,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "db3e822e-12fc-3bee-9f40-60871df3cd58",
+      "title": "RBC Adjusts Price Target on Western Midstream Partners to $47 From $41, Maintains Sector Perform Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-adjusts-price-target-western-102349008.html",
+      "publisher": "MT Newswires",
+      "time": 1787567029,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "38da1ff7-e06e-3678-9c92-e633d3eb2cbd",
-      "title": "Two years after nicotine pouch restrictions, Quit Club asks Ottawa to show Canadians the evidence",
-      "link": "https://finance.yahoo.com/healthcare/articles/two-years-nicotine-pouch-restrictions-093000437.html",
-      "publisher": "CNW Group",
-      "time": 1787563800,
+      "id": "c642ad88-618f-3801-863a-f9364f98902e",
+      "title": "RBC Capital Adjusts Price Target on Cheniere Energy to $319 From $300, Keeps Outperform Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-adjusts-price-target-102219166.html",
+      "publisher": "MT Newswires",
+      "time": 1787566939,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4a3c1881-8735-3b74-9f07-2d2709a46c68",
-      "title": "An 83-year-old has $31,000 in credit card debt — her daughter needs to know one thing before paying another bill",
-      "link": "https://finance.yahoo.com/markets/articles/83-old-31-000-credit-093000000.html",
-      "publisher": "Moneywise",
-      "time": 1787563800,
+      "id": "3e53c852-f4f2-33d4-9e37-bf0cd02982f0",
+      "title": "Microsoft, Aker Solutions Sign Agreement to Boost Carbon Capture Projects",
+      "link": "https://finance.yahoo.com/energy/articles/microsoft-aker-solutions-sign-agreement-102209936.html",
+      "publisher": "MT Newswires",
+      "time": 1787566929,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d18c992f-8d90-389f-bfcc-b62cec56af3d",
+      "title": "U.S. Treasury Yields Fall, Dollar Rises",
+      "link": "https://finance.yahoo.com/m/d18c992f-8d90-389f-bfcc-b62cec56af3d/u.s.-treasury-yields-fall%2C.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787566920,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1363d2ab-4248-36c4-a49b-b8707a8caa3e",
+      "title": "Market Chatter: Taiwan Semiconductor Manufacturing Partners With Xiaomi to Produce Smartphone Chips",
+      "link": "https://finance.yahoo.com/technology/articles/market-chatter-taiwan-semiconductor-manufacturing-102159046.html",
+      "publisher": "MT Newswires",
+      "time": 1787566919,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "613124c1-d593-3429-a447-3241e1a5253f",
+      "title": "RBC Adjusts Price Target on Easterly Government Properties to $24 From $22, Maintains Underperform Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-adjusts-price-target-easterly-102144943.html",
+      "publisher": "MT Newswires",
+      "time": 1787566904,
       "impact": "low",
       "tags": []
     }
