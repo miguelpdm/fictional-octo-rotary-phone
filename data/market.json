@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-24T11:51:54.829691+00:00",
+  "updatedAt": "2026-08-24T12:35:38.139357+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20061.0,
-      "change": 99.5,
-      "changePct": 0.49845953460411296,
+      "price": 20032.6,
+      "change": 71.09999999999854,
+      "changePct": 0.35618565739046937,
       "currency": "EUR"
     },
     {
@@ -28,18 +28,18 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26160.03,
-      "change": 176.98999999999796,
-      "changePct": 0.6811751049915559,
+      "price": 26136.73,
+      "change": 153.6899999999987,
+      "changePct": 0.5915012254147269,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6465.63,
-      "change": 3.4099999999998545,
-      "changePct": 0.05276824373048046,
-      "currency": "EUR"
+      "price": 6455.99,
+      "change": -6.230000000000473,
+      "changePct": -0.09640649807651971,
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,107 +52,97 @@
   ],
   "news": [
     {
-      "id": "87872dbe-b807-33bc-8bea-5a6a9b337c9f",
-      "title": "Mastercard Jumps as Cross-Border Growth Crushes Consumer Fears",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mastercard-jumps-cross-border-growth-114933663.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787572173,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f03d7aa1-5226-330a-90b8-e553f98be9c2",
-      "title": "1 Stock Under $50 to Consider Right Now and 2 We Question",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-stock-under-50-consider-114536970.html",
-      "publisher": "StockStory",
-      "time": 1787571936,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "8f60d7ec-b7e2-35ed-b033-a1d4a4c05ad2",
-      "title": "How the U.S. 30y Treasury yield has emerged as a key market focus",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/u-30y-treasury-yield-emerged-114526690.html",
+      "id": "531ef60a-727f-3201-8e40-73795c1ac81f",
+      "title": "Treasury’s $950B cash account seen funding bond buyback surge",
+      "link": "https://finance.yahoo.com/economy/policy/articles/treasury-950b-cash-account-seen-123246127.html",
       "publisher": "Investing.com",
-      "time": 1787571926,
+      "time": 1787574766,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1da9869a-0e0a-3f7e-a923-14a381f22a7b",
+      "title": "Laser Photonics Secures $1.05 Million Order from U.S. Pharmaceutical Manufacturer for High-Speed Tablet Drilling System",
+      "link": "https://finance.yahoo.com/healthcare/articles/laser-photonics-secures-1-05-123100187.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787574660,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1cef3121-4c57-469d-a1d9-7ecab78103f2",
+      "title": "Why this analyst predicts Circle stock could surge 75%",
+      "link": "https://finance.yahoo.com/markets/stocks/article/why-this-analyst-predicts-circle-stock-could-surge-75-123017242.html",
+      "publisher": "Yahoo Finance",
+      "time": 1787574617,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "02d6ec32-d0a0-3bdd-8c2e-712b81d8befa",
+      "title": "Special Committee of Better Home & Finance Issues Statement on Leadership and Operating Progress",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/special-committee-better-home-finance-123000442.html",
+      "publisher": "Business Wire",
+      "time": 1787574600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0830c008-9ca2-322c-a042-77eb2aa15136",
+      "title": "Tempus Receives FDA Clearance for its AI Product Intended to Detect Signs of Pulmonary Hypertension From Standard ECGs",
+      "link": "https://finance.yahoo.com/healthcare/articles/tempus-receives-fda-clearance-ai-123000246.html",
+      "publisher": "Business Wire",
+      "time": 1787574600,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "2284482c-a068-35b7-8eae-6f207871ba3c",
-      "title": "Stocks and oil fall as U.S. targets Iran with new sanctions",
-      "link": "https://finance.yahoo.com/m/2284482c-a068-35b7-8eae-6f207871ba3c/stocks-and-oil-fall-as-u.s..html",
-      "publisher": "Quartz",
-      "time": 1787571904,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "0daa1de5-ab32-313b-9145-83a42e992839",
+      "title": "FibroBiologics Appoints Leigh Steinberg to Board of Directors",
+      "link": "https://finance.yahoo.com/healthcare/articles/fibrobiologics-appoints-leigh-steinberg-board-123000465.html",
+      "publisher": "PR Newswire",
+      "time": 1787574600,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "51854a3e-ea88-3770-9943-cc7aef15d0a4",
-      "title": "QurAlis to Participate in Upcoming Investor Conferences in September",
-      "link": "https://finance.yahoo.com/healthcare/articles/quralis-participate-upcoming-investor-conferences-114500620.html",
+      "id": "1dc17e51-d131-39bb-9da8-9d7134b51961",
+      "title": "LibertyStream Reports Three Months of Consistent Battery-Grade Lithium Carbonate Production",
+      "link": "https://finance.yahoo.com/energy/articles/libertystream-reports-three-months-consistent-123000841.html",
       "publisher": "Business Wire",
-      "time": 1787571900,
+      "time": 1787574600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6c8e1a45-96fc-3e73-a961-978bf055b7f0",
-      "title": "Amarc Announces CAD$20 Million Private Placement Financing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amarc-announces-cad-20-million-114500808.html",
+      "id": "223c154d-44ac-3257-8b01-0a8838075892",
+      "title": "Presidio Property Trust Extends Largest Tenant Lease",
+      "link": "https://finance.yahoo.com/real-estate/articles/presidio-property-trust-extends-largest-123000322.html",
       "publisher": "ACCESS Newswire",
-      "time": 1787571900,
+      "time": 1787574600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8ab8db50-5522-3b9c-976d-24758097cc75",
-      "title": "PowerBank Corporation Appoints Nicole Rusaw, CPA, CA as Chief Financial Officer",
-      "link": "https://finance.yahoo.com/energy/articles/powerbank-corporation-appoints-nicole-rusaw-114500773.html",
-      "publisher": "CNW Group",
-      "time": 1787571900,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "18712ad0-eae0-3767-bfdd-b3d2abc027bc",
-      "title": "Analysts praise intismeran’s landmark Phase III win, look to further data",
-      "link": "https://finance.yahoo.com/m/18712ad0-eae0-3767-bfdd-b3d2abc027bc/analysts-praise-intismeran%E2%80%99s.html",
-      "publisher": "Clinical Trials Arena",
-      "time": 1787571733,
+      "id": "2b1a8a89-a356-3b59-9aa2-e9d8eff35351",
+      "title": "West Marine Successfully Completes Financial Restructuring",
+      "link": "https://finance.yahoo.com/small-business/articles/west-marine-successfully-completes-financial-123000017.html",
+      "publisher": "Business Wire",
+      "time": 1787574600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9827322a-1a51-36a0-a206-d332e4384605",
-      "title": "Philip Morris International to Manufacture Cigarettes for Altria",
-      "link": "https://finance.yahoo.com/healthcare/articles/philip-morris-international-manufacture-cigarettes-114049357.html",
-      "publisher": "MT Newswires",
-      "time": 1787571649,
+      "id": "33820750-7387-3809-ac1f-84b67d26a730",
+      "title": "GeneDx Announces Transformative Study Supporting Hospital-Wide Adoption of Rapid Genomic Sequencing at Seattle Children’s",
+      "link": "https://finance.yahoo.com/healthcare/articles/genedx-announces-transformative-study-supporting-123000368.html",
+      "publisher": "Business Wire",
+      "time": 1787574600,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "79aae73e-d74e-3fe0-bc34-948e050381eb",
-      "title": "NAPCO Security Technologies' Q4 Earnings, Revenue Rise; Lifts Dividend",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/napco-security-technologies-apos-q4-114047051.html",
-      "publisher": "MT Newswires",
-      "time": 1787571647,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
     }
   ],
   "errors": {
