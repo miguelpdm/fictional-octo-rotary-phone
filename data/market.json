@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T22:51:05.053286+00:00",
+  "updatedAt": "2026-08-24T23:16:57.406235+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6447.98,
       "change": -14.240000000000691,
       "changePct": -0.2203577098891819,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,38 +52,29 @@
   ],
   "news": [
     {
-      "id": "51f2e17a-7339-3c92-b8cd-b3ce744b4059",
-      "title": "County rejects former emergency chief’s call for NSP air study",
-      "link": "https://finance.yahoo.com/m/51f2e17a-7339-3c92-b8cd-b3ce744b4059/county-rejects-former.html",
-      "publisher": "Republican & Herald, Pottsville, Pa.",
-      "time": 1787611560,
+      "id": "a4903c09-8772-35e2-b1d9-d4f7111983d7",
+      "title": "Japan eyes tax breaks for non-core business sales in governance reform push, sources say",
+      "link": "https://finance.yahoo.com/economy/policy/articles/exclusive-japan-eyes-tax-breaks-171555471.html",
+      "publisher": "Reuters",
+      "time": 1787613148,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "53eb6421-42d1-4f34-991f-9396a43daf69",
-      "title": "Rent vs. buy calculator",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/rent-vs-buy-calculator-224533593.html",
-      "publisher": "Personal Finance Embeddable Content",
-      "time": 1787611533,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "64592175-e1ed-3642-9c1f-eea3ce1ccaab",
-      "title": "BOJ Likely to Hike Rates in September, Follow Up in January, Adachi Says",
-      "link": "https://finance.yahoo.com/economy/policy/articles/boj-likely-hike-rates-september-224346211.html",
+      "id": "1603f994-05c8-34d8-a951-bd870ad059a5",
+      "title": "TWG Global Names Goldman Sachs Legal Veteran David Markowitz Chief Legal Officer",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/twg-global-names-goldman-sachs-230904941.html",
       "publisher": "MT Newswires",
-      "time": 1787611426,
+      "time": 1787612944,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "22e75766-591d-3629-8947-e231029b8c7e",
-      "title": "BetterLife Pharma Inc. Announces Proposed Public Offering of Common Shares and Pre-Funded Warrants",
-      "link": "https://finance.yahoo.com/healthcare/articles/betterlife-pharma-inc-announces-proposed-224200518.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787611320,
+      "id": "7b00578a-fd76-3861-be55-c938ee3429aa",
+      "title": "How the French language contributed to the US-Canada trade war",
+      "link": "https://finance.yahoo.com/m/7b00578a-fd76-3861-be55-c938ee3429aa/how-the-french-language.html",
+      "publisher": "AFP",
+      "time": 1787612740,
       "impact": "high",
       "tags": [
         "geo",
@@ -91,20 +82,47 @@
       ]
     },
     {
-      "id": "f62e8793-6240-3bf4-880c-e789fb4f8f16",
-      "title": "Celltrion Expands Omlyclo® Portfolio in Europe with Launch of 300 mg Strength",
-      "link": "https://finance.yahoo.com/healthcare/articles/celltrion-expands-omlyclo-portfolio-europe-224000950.html",
-      "publisher": "Business Wire",
-      "time": 1787611200,
+      "id": "82ceb244-a13b-3ac8-ae9b-b90452adce6f",
+      "title": "Salesforce vs. CrowdStrike: Which Growth Tech Stock Is a Better Investment in 2026?",
+      "link": "https://finance.yahoo.com/m/82ceb244-a13b-3ac8-ae9b-b90452adce6f/salesforce-vs.-crowdstrike%3A.html",
+      "publisher": "Motley Fool",
+      "time": 1787612614,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4a1f4147-dc61-3f3c-bf92-44d1d2544645",
-      "title": "Market Chatter: Oura Eyes Up to $3 Billion in US IPO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-oura-eyes-3-223548253.html",
-      "publisher": "MT Newswires",
-      "time": 1787610948,
+      "id": "d40b58d7-84ac-3c66-a695-c1d49cc43f01",
+      "title": "Nvidia’s $20 Billion Groq Bet Is Going Live Before the End of 2026. Here’s What It Means for Investors.",
+      "link": "https://finance.yahoo.com/m/d40b58d7-84ac-3c66-a695-c1d49cc43f01/nvidia%E2%80%99s-%2420-billion-groq-bet.html",
+      "publisher": "Motley Fool",
+      "time": 1787612581,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "732de4a3-8422-3f77-a090-fb0aea13b7a3",
+      "title": "He Retired From Ford, Then Eyed Its $30,000 Electric Pickup. His Retiree Discount Suddenly Looked Uncomfortably Like Pay.",
+      "link": "https://finance.yahoo.com/m/732de4a3-8422-3f77-a090-fb0aea13b7a3/he-retired-from-ford%2C-then.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787612553,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1084a9ae-d92b-3ba2-b89c-961e18857891",
+      "title": "Archer Aviation vs. Joby Aviation: Which EV Aircraft Stock Is a Better Buy in 2026?",
+      "link": "https://finance.yahoo.com/m/1084a9ae-d92b-3ba2-b89c-961e18857891/archer-aviation-vs.-joby.html",
+      "publisher": "Motley Fool",
+      "time": 1787612521,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1f9bd620-5e00-3233-996d-bfde684993c4",
+      "title": "MTN Group Ltd (MTNOF) (H1 2026) Earnings Call Highlights: Record EBITDA Margin and Fintech ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mtn-group-ltd-mtnof-h1-230038452.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787612438,
       "impact": "medium",
       "tags": [
         "macro",
@@ -112,40 +130,28 @@
       ]
     },
     {
-      "id": "5fc85d20-9e9f-330e-9e48-0366c3a1c68c",
-      "title": "The Fastest ETF in History Just Hit $25 Billion in Four Months. It Owns Memory Chips",
-      "link": "https://finance.yahoo.com/m/5fc85d20-9e9f-330e-9e48-0366c3a1c68c/the-fastest-etf-in-history.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787610941,
-      "impact": "low",
-      "tags": []
+      "id": "7edbda7a-dc23-33f0-b2fe-b23a53717e64",
+      "title": "X Financial (XYF) (Q2 2026) Earnings Call Highlights: Revenue Declines 56% Amid Strategic ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/x-financial-xyf-q2-2026-230033276.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787612433,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "8cec3a54-46e0-3326-af1b-af01cc1bd609",
-      "title": "Archer Aviation vs. AST SpaceMobile: Which Industrials Stock Is a Better Buy in 2026?",
-      "link": "https://finance.yahoo.com/m/8cec3a54-46e0-3326-af1b-af01cc1bd609/archer-aviation-vs.-ast.html",
-      "publisher": "Motley Fool",
-      "time": 1787610841,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2cfc042c-122a-3dca-9b02-ea053a8f9216",
-      "title": "Despair and anger erupt after deadly Guinea landfill collapse",
-      "link": "https://finance.yahoo.com/m/2cfc042c-122a-3dca-9b02-ea053a8f9216/despair-and-anger-erupt-after.html",
-      "publisher": "AFP",
-      "time": 1787610817,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1125de33-53e9-3358-b894-73f86ec3c2e9",
-      "title": "California cancels potential settlement talks with Paramount",
-      "link": "https://finance.yahoo.com/m/1125de33-53e9-3358-b894-73f86ec3c2e9/california-cancels-potential.html",
-      "publisher": "USA TODAY",
-      "time": 1787610783,
-      "impact": "low",
-      "tags": []
+      "id": "24a5fcd5-7632-3489-91a2-e4c078e38695",
+      "title": "Rewarding Meetings Begin At Hyatt Regency Kuala Lumpur At KL Midtown",
+      "link": "https://finance.yahoo.com/media-advertising/articles/rewarding-meetings-begin-hyatt-regency-230000965.html",
+      "publisher": "PR Newswire",
+      "time": 1787612400,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     }
   ],
   "errors": {
