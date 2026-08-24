@@ -1,146 +1,176 @@
 {
-  "updatedAt": "2026-08-24T12:35:38.139357+00:00",
+  "updatedAt": "2026-08-24T13:44:34.030066+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20032.6,
-      "change": 71.09999999999854,
-      "changePct": 0.35618565739046937,
+      "price": 20044.5,
+      "change": 83.0,
+      "changePct": 0.4158004158004158,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7674.37,
-      "change": -33.60999999999967,
-      "changePct": -0.4360416088261734,
+      "price": 7642.31,
+      "change": 1.1500000000005457,
+      "changePct": 0.015050070931645794,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26180.455,
-      "change": -150.6349999999984,
-      "changePct": -0.5720803810248585,
+      "price": 25938.977,
+      "change": -128.1929999999993,
+      "changePct": -0.49177950655939756,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26136.73,
-      "change": 153.6899999999987,
-      "changePct": 0.5915012254147269,
+      "price": 26087.62,
+      "change": 104.57999999999811,
+      "changePct": 0.4024933187186646,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6455.99,
-      "change": -6.230000000000473,
-      "changePct": -0.09640649807651971,
+      "price": 6448.64,
+      "change": -13.579999999999927,
+      "changePct": -0.2101445014252057,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.9,
-      "change": 0.7699999999999996,
-      "changePct": 5.0892267019167186,
+      "price": 15.85,
+      "change": 0.7199999999999989,
+      "changePct": 4.758757435558485,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "531ef60a-727f-3201-8e40-73795c1ac81f",
-      "title": "Treasury’s $950B cash account seen funding bond buyback surge",
-      "link": "https://finance.yahoo.com/economy/policy/articles/treasury-950b-cash-account-seen-123246127.html",
-      "publisher": "Investing.com",
-      "time": 1787574766,
+      "id": "66a86432-6dc8-3b5c-8ba5-c439c01d7fd7",
+      "title": "Down 40% on AI Pressure, Michael Burry Says Alibaba Needs to Still Fall by Half",
+      "link": "https://finance.yahoo.com/m/66a86432-6dc8-3b5c-8ba5-c439c01d7fd7/down-40%25-on-ai-pressure%2C.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787578866,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1da9869a-0e0a-3f7e-a923-14a381f22a7b",
-      "title": "Laser Photonics Secures $1.05 Million Order from U.S. Pharmaceutical Manufacturer for High-Speed Tablet Drilling System",
-      "link": "https://finance.yahoo.com/healthcare/articles/laser-photonics-secures-1-05-123100187.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787574660,
+      "id": "0b8be5d6-37b2-35f3-a7fd-9dc887227fd0",
+      "title": "Prime Minister Carney participates in a virtual meeting in support of Ukraine",
+      "link": "https://finance.yahoo.com/economy/policy/articles/prime-minister-carney-participates-virtual-134100648.html",
+      "publisher": "CNW Group",
+      "time": 1787578860,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1cef3121-4c57-469d-a1d9-7ecab78103f2",
-      "title": "Why this analyst predicts Circle stock could surge 75%",
-      "link": "https://finance.yahoo.com/markets/stocks/article/why-this-analyst-predicts-circle-stock-could-surge-75-123017242.html",
-      "publisher": "Yahoo Finance",
-      "time": 1787574617,
+      "id": "0947f40a-b17f-3d33-9ed7-e6a79be5aa59",
+      "title": "NorthPalm Commits Entire Cybeats Position to a 12-Month Lock-Up; 60 Million Shares Representing Approximately 30% of Cybeats",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/northpalm-commits-entire-cybeats-position-133900073.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787578740,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "02d6ec32-d0a0-3bdd-8c2e-712b81d8befa",
-      "title": "Special Committee of Better Home & Finance Issues Statement on Leadership and Operating Progress",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/special-committee-better-home-finance-123000442.html",
-      "publisher": "Business Wire",
-      "time": 1787574600,
+      "id": "833bdb7f-1f0c-3c4c-a975-b025764d1293",
+      "title": "Zillow, Redfin Settle FTC, State Lawsuit Over Rental Partnership",
+      "link": "https://finance.yahoo.com/real-estate/articles/zillow-redfin-settle-ftc-state-133852699.html",
+      "publisher": "MT Newswires",
+      "time": 1787578732,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0830c008-9ca2-322c-a042-77eb2aa15136",
-      "title": "Tempus Receives FDA Clearance for its AI Product Intended to Detect Signs of Pulmonary Hypertension From Standard ECGs",
-      "link": "https://finance.yahoo.com/healthcare/articles/tempus-receives-fda-clearance-ai-123000246.html",
-      "publisher": "Business Wire",
-      "time": 1787574600,
-      "impact": "high",
+      "id": "67478268-8dcf-329b-a454-577e9f58e43b",
+      "title": "From Low Cost to High Trust: How China's Hotel Linen Supply Chain Is Changing Global Procurement",
+      "link": "https://finance.yahoo.com/small-business/articles/low-cost-high-trust-chinas-133800131.html",
+      "publisher": "PR Newswire",
+      "time": 1787578680,
+      "impact": "medium",
       "tags": [
-        "geo",
+        "geo"
+      ]
+    },
+    {
+      "id": "94d0c2be-45e8-3d84-b151-d558ab806a26",
+      "title": "Motorola Completes D-Fend Buyout: Can It Buoy Growth Prospects?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/motorola-completes-d-fend-buyout-133800486.html",
+      "publisher": "Zacks",
+      "time": 1787578680,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "da467f82-5d1f-3529-9edc-88ce22af4801",
+      "title": "AI Video Is Moving Beyond Prompts: Flova Brings \"All in One\" to Agent-Native Video Creation",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-video-moving-beyond-prompts-133800105.html",
+      "publisher": "PR Newswire",
+      "time": 1787578680,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e4d33b2f-e35a-3414-8993-786b6274c9eb",
+      "title": "Gemini Expands Prediction Market Offering",
+      "link": "https://finance.yahoo.com/m/e4d33b2f-e35a-3414-8993-786b6274c9eb/gemini-expands-prediction.html",
+      "publisher": "CryptoProwl",
+      "time": 1787578680,
+      "impact": "low",
+      "tags": [
         "macro"
       ]
     },
     {
-      "id": "0daa1de5-ab32-313b-9145-83a42e992839",
-      "title": "FibroBiologics Appoints Leigh Steinberg to Board of Directors",
-      "link": "https://finance.yahoo.com/healthcare/articles/fibrobiologics-appoints-leigh-steinberg-board-123000465.html",
+      "id": "476c0e7d-daf5-3ee1-8e59-9e0dcf61d593",
+      "title": "Levain Bakery Appoints Lorna Sommerville and Taya Stenson as Co-Chief Executive Officers",
+      "link": "https://finance.yahoo.com/small-business/articles/levain-bakery-appoints-lorna-sommerville-133700699.html",
       "publisher": "PR Newswire",
-      "time": 1787574600,
+      "time": 1787578620,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1dc17e51-d131-39bb-9da8-9d7134b51961",
-      "title": "LibertyStream Reports Three Months of Consistent Battery-Grade Lithium Carbonate Production",
-      "link": "https://finance.yahoo.com/energy/articles/libertystream-reports-three-months-consistent-123000841.html",
-      "publisher": "Business Wire",
-      "time": 1787574600,
+      "id": "437be3f3-365a-31e3-a996-21373b035fdd",
+      "title": "Ontario's Doug Ford tells AP Canada should be ready to cut electricity, critical minerals to US if trade fight worsens",
+      "link": "https://finance.yahoo.com/m/437be3f3-365a-31e3-a996-21373b035fdd/ontario%27s-doug-ford-tells-ap.html",
+      "publisher": "Associated Press",
+      "time": 1787578533,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "001bac89-1356-34b4-a538-ead9ab5a3f1b",
+      "title": "Fastly (FSLY) Crossed Above the 20-Day Moving Average: What That Means for Investors",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-fsly-crossed-above-20-133502971.html",
+      "publisher": "Zacks",
+      "time": 1787578502,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "223c154d-44ac-3257-8b01-0a8838075892",
-      "title": "Presidio Property Trust Extends Largest Tenant Lease",
-      "link": "https://finance.yahoo.com/real-estate/articles/presidio-property-trust-extends-largest-123000322.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787574600,
+      "id": "3d304291-2b2d-3ac0-8e45-d30a2726b4f1",
+      "title": "Impinj (PI) Just Overtook the 20-Day Moving Average",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/impinj-pi-just-overtook-20-133502473.html",
+      "publisher": "Zacks",
+      "time": 1787578502,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2b1a8a89-a356-3b59-9aa2-e9d8eff35351",
-      "title": "West Marine Successfully Completes Financial Restructuring",
-      "link": "https://finance.yahoo.com/small-business/articles/west-marine-successfully-completes-financial-123000017.html",
-      "publisher": "Business Wire",
-      "time": 1787574600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "33820750-7387-3809-ac1f-84b67d26a730",
-      "title": "GeneDx Announces Transformative Study Supporting Hospital-Wide Adoption of Rapid Genomic Sequencing at Seattle Children’s",
-      "link": "https://finance.yahoo.com/healthcare/articles/genedx-announces-transformative-study-supporting-123000368.html",
-      "publisher": "Business Wire",
-      "time": 1787574600,
+      "id": "5e41ccb7-a993-39cf-b60f-276a691b8cfd",
+      "title": "Abercrombie & Fitch (ANF) Recently Broke Out Above the 20-Day Moving Average",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/abercrombie-fitch-anf-recently-broke-133502733.html",
+      "publisher": "Zacks",
+      "time": 1787578502,
       "impact": "low",
       "tags": []
     }
