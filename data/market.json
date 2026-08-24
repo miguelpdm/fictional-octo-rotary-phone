@@ -1,176 +1,153 @@
 {
-  "updatedAt": "2026-08-24T13:44:34.030066+00:00",
+  "updatedAt": "2026-08-24T14:35:07.734593+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20044.5,
-      "change": 83.0,
-      "changePct": 0.4158004158004158,
+      "price": 20071.7,
+      "change": 110.20000000000073,
+      "changePct": 0.5520627207374231,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7642.31,
-      "change": 1.1500000000005457,
-      "changePct": 0.015050070931645794,
+      "price": 7655.09,
+      "change": 13.930000000000291,
+      "changePct": 0.18230216354585285,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25938.977,
-      "change": -128.1929999999993,
-      "changePct": -0.49177950655939756,
+      "price": 26011.475,
+      "change": -55.69499999999971,
+      "changePct": -0.21365955721315247,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26087.62,
-      "change": 104.57999999999811,
-      "changePct": 0.4024933187186646,
+      "price": 26058.53,
+      "change": 75.48999999999796,
+      "changePct": 0.2905356725002077,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6448.64,
-      "change": -13.579999999999927,
-      "changePct": -0.2101445014252057,
-      "currency": null
+      "price": 6440.95,
+      "change": -21.270000000000437,
+      "changePct": -0.3291438545886775,
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.85,
-      "change": 0.7199999999999989,
-      "changePct": 4.758757435558485,
+      "price": 15.91,
+      "change": 0.7799999999999994,
+      "changePct": 5.1553205551883625,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "66a86432-6dc8-3b5c-8ba5-c439c01d7fd7",
-      "title": "Down 40% on AI Pressure, Michael Burry Says Alibaba Needs to Still Fall by Half",
-      "link": "https://finance.yahoo.com/m/66a86432-6dc8-3b5c-8ba5-c439c01d7fd7/down-40%25-on-ai-pressure%2C.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787578866,
+      "id": "5023d17c-5325-3f4b-a0fe-16bbdb0114ed",
+      "title": "Form 8.3",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-143000661.html",
+      "publisher": "Business Wire",
+      "time": 1787581800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0b8be5d6-37b2-35f3-a7fd-9dc887227fd0",
-      "title": "Prime Minister Carney participates in a virtual meeting in support of Ukraine",
-      "link": "https://finance.yahoo.com/economy/policy/articles/prime-minister-carney-participates-virtual-134100648.html",
-      "publisher": "CNW Group",
-      "time": 1787578860,
+      "id": "531945f6-6bd6-3423-9d8a-5c1e659d9da0",
+      "title": "Seek Labs and NAMRU EURAFCENT Enter CRADA to Evaluate Field-Deployable Diagnostics for Infectious Diseases",
+      "link": "https://finance.yahoo.com/healthcare/articles/seek-labs-namru-eurafcent-enter-143000448.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787581800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0947f40a-b17f-3d33-9ed7-e6a79be5aa59",
-      "title": "NorthPalm Commits Entire Cybeats Position to a 12-Month Lock-Up; 60 Million Shares Representing Approximately 30% of Cybeats",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/northpalm-commits-entire-cybeats-position-133900073.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787578740,
+      "id": "6af3cd95-4546-3d29-af04-377969057df5",
+      "title": "Powered by Collaboration: Meet Terah Hamilton",
+      "link": "https://finance.yahoo.com/small-business/articles/powered-collaboration-meet-terah-hamilton-143000149.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787581800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "833bdb7f-1f0c-3c4c-a975-b025764d1293",
-      "title": "Zillow, Redfin Settle FTC, State Lawsuit Over Rental Partnership",
-      "link": "https://finance.yahoo.com/real-estate/articles/zillow-redfin-settle-ftc-state-133852699.html",
-      "publisher": "MT Newswires",
-      "time": 1787578732,
+      "id": "72c4d531-41aa-3078-a19d-54fdd2a9b8be",
+      "title": "Vadzo Imaging Debuts Armor-821CRS: the AR0821 FPD-Link IV Camera Delivers 8MP 4K HDR, High-Performance ISP, and Power over Coax with Smart ROI for Multi-Camera Surround-View and Region-Based Object Detection in Autonomous Vehicles",
+      "link": "https://finance.yahoo.com/technology/articles/vadzo-imaging-debuts-armor-821crs-143000238.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787581800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "67478268-8dcf-329b-a454-577e9f58e43b",
-      "title": "From Low Cost to High Trust: How China's Hotel Linen Supply Chain Is Changing Global Procurement",
-      "link": "https://finance.yahoo.com/small-business/articles/low-cost-high-trust-chinas-133800131.html",
-      "publisher": "PR Newswire",
-      "time": 1787578680,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "94d0c2be-45e8-3d84-b151-d558ab806a26",
-      "title": "Motorola Completes D-Fend Buyout: Can It Buoy Growth Prospects?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/motorola-completes-d-fend-buyout-133800486.html",
-      "publisher": "Zacks",
-      "time": 1787578680,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "da467f82-5d1f-3529-9edc-88ce22af4801",
-      "title": "AI Video Is Moving Beyond Prompts: Flova Brings \"All in One\" to Agent-Native Video Creation",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-video-moving-beyond-prompts-133800105.html",
-      "publisher": "PR Newswire",
-      "time": 1787578680,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e4d33b2f-e35a-3414-8993-786b6274c9eb",
-      "title": "Gemini Expands Prediction Market Offering",
-      "link": "https://finance.yahoo.com/m/e4d33b2f-e35a-3414-8993-786b6274c9eb/gemini-expands-prediction.html",
-      "publisher": "CryptoProwl",
-      "time": 1787578680,
+      "id": "8fb6119c-7bb5-3124-88f0-7ec25a84a759",
+      "title": "3D Printing Market to Reach USD 31.77 Billion by 2032, Growing at 11.6% CAGR, Says MarketsandMarkets™",
+      "link": "https://finance.yahoo.com/technology/articles/3d-printing-market-reach-usd-143000521.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787581800,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "476c0e7d-daf5-3ee1-8e59-9e0dcf61d593",
-      "title": "Levain Bakery Appoints Lorna Sommerville and Taya Stenson as Co-Chief Executive Officers",
-      "link": "https://finance.yahoo.com/small-business/articles/levain-bakery-appoints-lorna-sommerville-133700699.html",
-      "publisher": "PR Newswire",
-      "time": 1787578620,
+      "id": "a70ba921-2048-356e-ab69-7bb9a86dc780",
+      "title": "Dielectric Etchers Market Size to Hit USD 3.07 Billion by 2035 | Research by SNS Insider",
+      "link": "https://finance.yahoo.com/technology/articles/dielectric-etchers-market-size-hit-143000080.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787581800,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "437be3f3-365a-31e3-a996-21373b035fdd",
-      "title": "Ontario's Doug Ford tells AP Canada should be ready to cut electricity, critical minerals to US if trade fight worsens",
-      "link": "https://finance.yahoo.com/m/437be3f3-365a-31e3-a996-21373b035fdd/ontario%27s-doug-ford-tells-ap.html",
-      "publisher": "Associated Press",
-      "time": 1787578533,
-      "impact": "medium",
       "tags": [
-        "geo"
+        "macro"
       ]
     },
     {
-      "id": "001bac89-1356-34b4-a538-ead9ab5a3f1b",
-      "title": "Fastly (FSLY) Crossed Above the 20-Day Moving Average: What That Means for Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-fsly-crossed-above-20-133502971.html",
-      "publisher": "Zacks",
-      "time": 1787578502,
+      "id": "abb07161-3763-4a06-8438-a7a20ebb3750",
+      "title": "The Paramount-Warner Bros. merger's biggest legal hurdles",
+      "link": "https://finance.yahoo.com/video/paramount-warner-bros-mergers-biggest-143000744.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1787581800,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "424e2b84-3200-3aca-a6cf-afc9951f03e2",
+      "title": "Why Tesla’s Nevada Robo-Taxi Approval Can’t Save the Stock",
+      "link": "https://finance.yahoo.com/m/424e2b84-3200-3aca-a6cf-afc9951f03e2/why-tesla%E2%80%99s-nevada-robo-taxi.html",
+      "publisher": "Barrons.com",
+      "time": 1787581740,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3d304291-2b2d-3ac0-8e45-d30a2726b4f1",
-      "title": "Impinj (PI) Just Overtook the 20-Day Moving Average",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/impinj-pi-just-overtook-20-133502473.html",
-      "publisher": "Zacks",
-      "time": 1787578502,
-      "impact": "low",
-      "tags": []
+      "id": "025b6a82-f347-34bc-95c9-b6e4233a7957",
+      "title": "US dairy industry backs Trump in Canada tariffs row",
+      "link": "https://finance.yahoo.com/m/025b6a82-f347-34bc-95c9-b6e4233a7957/us-dairy-industry-backs-trump.html",
+      "publisher": "Just Food",
+      "time": 1787581643,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "5e41ccb7-a993-39cf-b60f-276a691b8cfd",
-      "title": "Abercrombie & Fitch (ANF) Recently Broke Out Above the 20-Day Moving Average",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/abercrombie-fitch-anf-recently-broke-133502733.html",
-      "publisher": "Zacks",
-      "time": 1787578502,
+      "id": "e865e6a5-f2b7-3ab3-9cec-cad8902aa642",
+      "title": "Volkswagen workers condemn ‘disastrous’ communication over job cuts",
+      "link": "https://finance.yahoo.com/m/e865e6a5-f2b7-3ab3-9cec-cad8902aa642/volkswagen-workers-condemn.html",
+      "publisher": "Euronews",
+      "time": 1787581631,
       "impact": "low",
       "tags": []
     }
