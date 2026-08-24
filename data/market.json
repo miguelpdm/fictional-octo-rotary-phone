@@ -1,155 +1,153 @@
 {
-  "updatedAt": "2026-08-24T14:35:07.734593+00:00",
+  "updatedAt": "2026-08-24T15:32:51.939317+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20071.7,
-      "change": 110.20000000000073,
-      "changePct": 0.5520627207374231,
+      "price": 20082.8,
+      "change": 121.29999999999927,
+      "changePct": 0.6076697642962666,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7655.09,
-      "change": 13.930000000000291,
-      "changePct": 0.18230216354585285,
+      "price": 7655.37,
+      "change": 14.210000000000036,
+      "changePct": 0.1859665286422485,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26011.475,
-      "change": -55.69499999999971,
-      "changePct": -0.21365955721315247,
+      "price": 26047.232,
+      "change": -19.937999999998283,
+      "changePct": -0.076487014125424,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26058.53,
-      "change": 75.48999999999796,
-      "changePct": 0.2905356725002077,
+      "price": 26090.01,
+      "change": 106.96999999999753,
+      "changePct": 0.41169162653791674,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6440.95,
-      "change": -21.270000000000437,
-      "changePct": -0.3291438545886775,
+      "price": 6443.8,
+      "change": -18.420000000000073,
+      "changePct": -0.28504136349428016,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.91,
-      "change": 0.7799999999999994,
-      "changePct": 5.1553205551883625,
+      "price": 15.89,
+      "change": 0.7599999999999998,
+      "changePct": 5.023132848645075,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "5023d17c-5325-3f4b-a0fe-16bbdb0114ed",
-      "title": "Form 8.3",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-143000661.html",
+      "id": "2cfc042c-122a-3dca-9b02-ea053a8f9216",
+      "title": "Despair and anger in Conakry after deadly landfill collapse",
+      "link": "https://finance.yahoo.com/m/2cfc042c-122a-3dca-9b02-ea053a8f9216/despair-and-anger-in-conakry.html",
+      "publisher": "AFP",
+      "time": 1787585252,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3f6691a5-57c1-3bd4-9ff9-023c935b6fb4",
+      "title": "1 New Way to Invest in Cryptocurrency That Could Turn Your Crypto Portfolio Around in 2026",
+      "link": "https://finance.yahoo.com/m/3f6691a5-57c1-3bd4-9ff9-023c935b6fb4/1-new-way-to-invest-in.html",
+      "publisher": "Motley Fool",
+      "time": 1787585100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "645a97d6-65db-3d51-ba75-87d8e58bb4d0",
+      "title": "Kenyan farmers turn to bugs as organic demand grows",
+      "link": "https://finance.yahoo.com/m/645a97d6-65db-3d51-ba75-87d8e58bb4d0/kenyan-farmers-turn-to-bugs.html",
+      "publisher": "AFP",
+      "time": 1787585094,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2222faf5-a459-3ed4-a72c-d3b2c757adf1",
+      "title": "FRN Variable Rate Fix",
+      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-152400505.html",
       "publisher": "Business Wire",
-      "time": 1787581800,
+      "time": 1787585040,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "531945f6-6bd6-3423-9d8a-5c1e659d9da0",
-      "title": "Seek Labs and NAMRU EURAFCENT Enter CRADA to Evaluate Field-Deployable Diagnostics for Infectious Diseases",
-      "link": "https://finance.yahoo.com/healthcare/articles/seek-labs-namru-eurafcent-enter-143000448.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787581800,
+      "id": "068007db-93f7-3382-b3ea-032ff54f3f41",
+      "title": "Digital Turbine's Alternative App Distribution Strategy Drives Growth",
+      "link": "https://finance.yahoo.com/technology/articles/digital-turbines-alternative-app-distribution-152300465.html",
+      "publisher": "Zacks",
+      "time": 1787584980,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6af3cd95-4546-3d29-af04-377969057df5",
-      "title": "Powered by Collaboration: Meet Terah Hamilton",
-      "link": "https://finance.yahoo.com/small-business/articles/powered-collaboration-meet-terah-hamilton-143000149.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787581800,
+      "id": "7f5a6807-a219-38fd-9a84-6530bd6bd67c",
+      "title": "IHCL to merge Oriental Hotels under proposed share-swap deal",
+      "link": "https://finance.yahoo.com/m/7f5a6807-a219-38fd-9a84-6530bd6bd67c/ihcl-to-merge-oriental-hotels.html",
+      "publisher": "Hotel Management Network",
+      "time": 1787584979,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "72c4d531-41aa-3078-a19d-54fdd2a9b8be",
-      "title": "Vadzo Imaging Debuts Armor-821CRS: the AR0821 FPD-Link IV Camera Delivers 8MP 4K HDR, High-Performance ISP, and Power over Coax with Smart ROI for Multi-Camera Surround-View and Region-Based Object Detection in Autonomous Vehicles",
-      "link": "https://finance.yahoo.com/technology/articles/vadzo-imaging-debuts-armor-821crs-143000238.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787581800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8fb6119c-7bb5-3124-88f0-7ec25a84a759",
-      "title": "3D Printing Market to Reach USD 31.77 Billion by 2032, Growing at 11.6% CAGR, Says MarketsandMarkets™",
-      "link": "https://finance.yahoo.com/technology/articles/3d-printing-market-reach-usd-143000521.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787581800,
-      "impact": "low",
+      "id": "4ebcbeb3-a3ec-3ed0-9521-c8e02fe0b06a",
+      "title": "Houlihan Lokey (HLI): Buy, Sell, or Hold Post Q2 Earnings?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/houlihan-lokey-hli-buy-sell-152136098.html",
+      "publisher": "StockStory",
+      "time": 1787584896,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "a70ba921-2048-356e-ab69-7bb9a86dc780",
-      "title": "Dielectric Etchers Market Size to Hit USD 3.07 Billion by 2035 | Research by SNS Insider",
-      "link": "https://finance.yahoo.com/technology/articles/dielectric-etchers-market-size-hit-143000080.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787581800,
+      "id": "c12218cc-830d-3ce2-b488-01df4e5320ea",
+      "title": "Hohhot, Inner Mongolia: Converting Prairie Winds into Computing Power",
+      "link": "https://finance.yahoo.com/technology/ai/articles/hohhot-inner-mongolia-converting-prairie-152100202.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787584860,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "abb07161-3763-4a06-8438-a7a20ebb3750",
-      "title": "The Paramount-Warner Bros. merger's biggest legal hurdles",
-      "link": "https://finance.yahoo.com/video/paramount-warner-bros-mergers-biggest-143000744.html",
+      "id": "e4a95fba-c6a9-39c9-bfbe-88dff6fefd61",
+      "title": "LIVE: US unveils new sanctions on Iran",
+      "link": "https://finance.yahoo.com/video/live-us-unveils-new-sanctions-on-iran-152043993.html",
       "publisher": "Yahoo Finance Video",
-      "time": 1787581800,
+      "time": 1787584843,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "2c1ef866-cf9e-3a2f-81df-0e627a6530ed",
+      "title": "Inflation Is Rising Again. History Says These 2 Stocks Are Among the Smartest Places to Hide",
+      "link": "https://finance.yahoo.com/m/2c1ef866-cf9e-3a2f-81df-0e627a6530ed/inflation-is-rising-again..html",
+      "publisher": "Motley Fool",
+      "time": 1787584800,
       "impact": "high",
       "tags": [
         "geo",
         "macro"
       ]
-    },
-    {
-      "id": "424e2b84-3200-3aca-a6cf-afc9951f03e2",
-      "title": "Why Tesla’s Nevada Robo-Taxi Approval Can’t Save the Stock",
-      "link": "https://finance.yahoo.com/m/424e2b84-3200-3aca-a6cf-afc9951f03e2/why-tesla%E2%80%99s-nevada-robo-taxi.html",
-      "publisher": "Barrons.com",
-      "time": 1787581740,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "025b6a82-f347-34bc-95c9-b6e4233a7957",
-      "title": "US dairy industry backs Trump in Canada tariffs row",
-      "link": "https://finance.yahoo.com/m/025b6a82-f347-34bc-95c9-b6e4233a7957/us-dairy-industry-backs-trump.html",
-      "publisher": "Just Food",
-      "time": 1787581643,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "e865e6a5-f2b7-3ab3-9cec-cad8902aa642",
-      "title": "Volkswagen workers condemn ‘disastrous’ communication over job cuts",
-      "link": "https://finance.yahoo.com/m/e865e6a5-f2b7-3ab3-9cec-cad8902aa642/volkswagen-workers-condemn.html",
-      "publisher": "Euronews",
-      "time": 1787581631,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
