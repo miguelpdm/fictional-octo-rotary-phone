@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T16:28:16.082950+00:00",
+  "updatedAt": "2026-08-24T17:05:22.579480+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7666.58,
-      "change": 25.420000000000073,
-      "changePct": 0.3326720026802223,
+      "price": 7657.88,
+      "change": 16.720000000000255,
+      "changePct": 0.2188149443278279,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26092.254,
-      "change": 25.08400000000256,
-      "changePct": 0.09622832091094877,
+      "price": 26054.5,
+      "change": -12.669999999998254,
+      "changePct": -0.04860519956711164,
       "currency": "USD"
     },
     {
@@ -39,115 +39,109 @@
       "price": 6447.98,
       "change": -14.240000000000691,
       "changePct": -0.2203577098891819,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.72,
-      "change": 0.5899999999999999,
-      "changePct": 3.899537343027097,
+      "price": 15.66,
+      "change": 0.5299999999999994,
+      "changePct": 3.50297422339722,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "ba9a193c-b1d9-3dde-8107-8d2f2a93ea6e",
-      "title": "FNCL vs. FTXO: Which Financial Sector ETF Is the Better Buy for Investors?",
-      "link": "https://finance.yahoo.com/m/ba9a193c-b1d9-3dde-8107-8d2f2a93ea6e/fncl-vs.-ftxo%3A-which.html",
-      "publisher": "Motley Fool",
-      "time": 1787588545,
+      "id": "b026cf22-eac6-329b-8014-6749233c2bda",
+      "title": "FRN Variable Rate Fix",
+      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-170100402.html",
+      "publisher": "Business Wire",
+      "time": 1787590860,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3e5f49ce-619d-4e3a-b1ae-2b2348d3ca75",
-      "title": "Equifax agrees to $100 million settlement over credit score errors: What happens next",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/equifax-agrees-to-100-million-settlement-over-credit-score-errors-what-happens-next-162030317.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1787588430,
+      "id": "5767aff1-e47c-386e-9eef-5f44328f7f86",
+      "title": "Britain tells TikTok and other platforms to remove videos glorifying dangerous driving after deaths",
+      "link": "https://finance.yahoo.com/m/5767aff1-e47c-386e-9eef-5f44328f7f86/britain-tells-tiktok-and.html",
+      "publisher": "Associated Press",
+      "time": 1787590836,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "03843569-e5c6-39d4-845c-9cc0a7350f7a",
-      "title": "Nvidia's Longest Losing Streak Since 2022 Is Dragging on the Nasdaq",
-      "link": "https://finance.yahoo.com/m/03843569-e5c6-39d4-845c-9cc0a7350f7a/nvidia%27s-longest-losing.html",
-      "publisher": "Barrons.com",
-      "time": 1787588425,
+      "id": "07f71ad0-7cd0-368b-a4cd-0d6f57728049",
+      "title": "Grandmothers for Gun Responsibility Has a Message for Puget Sound Gun Owners: Please Lock It Up!",
+      "link": "https://finance.yahoo.com/healthcare/articles/grandmothers-gun-responsibility-message-puget-170000473.html",
+      "publisher": "Business Wire",
+      "time": 1787590800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0cf3a8ab-8bfd-42ac-81ba-b3f3a88bc0db",
-      "title": "Bitcoin soars, nears $80K after posting largest weekly gain in its history",
-      "link": "https://finance.yahoo.com/video/bitcoin-soars-nears-80k-posting-162000339.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1787588400,
+      "id": "0c742625-597b-37dc-b0d9-41d5022d50b5",
+      "title": "AV to Invest $100 Million in New Unified Campus in Southern California",
+      "link": "https://finance.yahoo.com/technology/articles/av-invest-100-million-unified-170000309.html",
+      "publisher": "Business Wire",
+      "time": 1787590800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a76e3527-760e-38bf-a88d-10f9978982b4",
-      "title": "Want to Lock in the Largest Possible 2027 Social Security Benefit? You Must Do These 3 Things",
-      "link": "https://finance.yahoo.com/m/a76e3527-760e-38bf-a88d-10f9978982b4/want-to-lock-in-the-largest.html",
-      "publisher": "Motley Fool",
-      "time": 1787588400,
+      "id": "bbd188cd-e59a-37a8-a494-efa0a9460be5",
+      "title": "Protolabs Appoints Sam Ramahi as Chief Operations Officer",
+      "link": "https://finance.yahoo.com/technology/articles/protolabs-appoints-sam-ramahi-chief-170000013.html",
+      "publisher": "Business Wire",
+      "time": 1787590800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e80aab57-a56b-3e12-a4b1-25fae025f16e",
-      "title": "Green Thumb Opens a RISE Dispensary in Port St. Lucie, Florida",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/green-thumb-opens-rise-dispensary-161825222.html",
-      "publisher": "MT Newswires",
-      "time": 1787588305,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "401aa5c9-4498-3702-901c-2875683b94cd",
-      "title": "Steelworkers ratify contract with Goodyear including Akron employees",
-      "link": "https://finance.yahoo.com/m/401aa5c9-4498-3702-901c-2875683b94cd/steelworkers-ratify-contract.html",
-      "publisher": "Akron Beacon Journal",
-      "time": 1787588265,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "904e1a68-de77-341b-85aa-4185e31b81b2",
-      "title": "2 Reasons to Like ASTE (and 1 Not So Much)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-aste-1-not-161736514.html",
+      "id": "26a59f91-8bc7-3933-81d4-f3cc78e1167a",
+      "title": "Q2 Rundown: IDEX (NYSE:IEX) Vs Other Gas and Liquid Handling Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-rundown-idex-nyse-iex-165736930.html",
       "publisher": "StockStory",
-      "time": 1787588256,
+      "time": 1787590656,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "01dd8263-4980-343b-bca8-1a1af81af939",
-      "title": "US plans 7.5% China overcapacity tariff before Sept. 24 Xi-Trump summit",
-      "link": "https://finance.yahoo.com/economy/policy/articles/us-plans-7-5-china-161734641.html",
-      "publisher": "Investing.com",
-      "time": 1787588254,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
+      "id": "d8a7c88b-363d-3d43-b8d6-aaa70f79bb95",
+      "title": "Precision Metalforming Association Announces Leadership Team, Expands Investment in Member Engagement",
+      "link": "https://finance.yahoo.com/small-business/articles/precision-metalforming-association-announces-leadership-165700917.html",
+      "publisher": "Business Wire",
+      "time": 1787590620,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "40c47a5b-bdeb-305d-865a-f3b2a264cf98",
-      "title": "Alterra IOS Expands Atlanta Footprint With 5 Industrial Outdoor Storage Acquisitions",
-      "link": "https://finance.yahoo.com/real-estate/articles/alterra-ios-expands-atlanta-footprint-161700304.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787588220,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "538d4bca-b584-3d36-ab63-a317651cdae9",
+      "title": "Nothing Bundt Cakes Launches Six-Week ‘10 Million Bites of Joy’ Campaign",
+      "link": "https://finance.yahoo.com/m/538d4bca-b584-3d36-ab63-a317651cdae9/nothing-bundt-cakes-launches.html",
+      "publisher": "QSR",
+      "time": 1787590593,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "08e19c1c-501b-3fe3-bf2c-f643efa6ee59",
+      "title": "Michael Burry Sounds Alarm on Major Tech Stock",
+      "link": "https://finance.yahoo.com/technology/ai/articles/michael-burry-sounds-alarm-major-165604009.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787590564,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2eeeca01-dae4-3850-a57a-c5103a666403",
+      "title": "Trading Activity: Resideo CEO Thomas Surran Buys 15,000 Shares at $20.46",
+      "link": "https://finance.yahoo.com/m/2eeeca01-dae4-3850-a57a-c5103a666403/trading-activity%3A-resideo-ceo.html",
+      "publisher": "Motley Fool",
+      "time": 1787590503,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
