@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T17:56:00.732509+00:00",
+  "updatedAt": "2026-08-24T18:34:07.723074+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7650.31,
-      "change": 9.150000000000546,
-      "changePct": 0.11974621654304511,
+      "price": 7665.7,
+      "change": 24.539999999999964,
+      "changePct": 0.3211554266629669,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26010.38,
-      "change": -56.789999999997235,
-      "changePct": -0.21786024336357662,
+      "price": 26084.684,
+      "change": 17.514000000002852,
+      "changePct": 0.0671879609485911,
       "currency": "USD"
     },
     {
@@ -44,108 +44,102 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.79,
-      "change": 0.6599999999999984,
-      "changePct": 4.362194315928607,
+      "price": 15.72,
+      "change": 0.5899999999999999,
+      "changePct": 3.899537343027097,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "96868e14-b6d6-311f-b73a-f01b52eab088",
-      "title": "Brompton Funds Declares Split Share Fund Distributions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/brompton-funds-declares-split-share-174800208.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787593680,
+      "id": "a4a78d0d-bf80-376c-aae5-fae2ce72c201",
+      "title": "Google Is Turning Gemini Into a Website Builder",
+      "link": "https://finance.yahoo.com/technology/ai/articles/google-turning-gemini-website-builder-183307657.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787596387,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "708f58aa-51d8-3f4f-8d10-12c94c7b2341",
-      "title": "Canada may cut U.S. power exports as Trump reignites trade war",
-      "link": "https://finance.yahoo.com/m/708f58aa-51d8-3f4f-8d10-12c94c7b2341/canada-may-cut-u.s.-power.html",
-      "publisher": "NY Daily News",
-      "time": 1787593620,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "6cfb2259-11d2-3f0c-a010-4771633d11f9",
-      "title": "French tourist dies after getting stuck in scorching Death Valley",
-      "link": "https://finance.yahoo.com/m/6cfb2259-11d2-3f0c-a010-4771633d11f9/french-tourist-dies-after.html",
-      "publisher": "AFP",
-      "time": 1787593566,
+      "id": "2c52862f-9efc-308d-9dbb-80884f8d5e88",
+      "title": "Tesla Just Took a Blow to Its AI Chip Plans",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-just-took-blow-ai-183148664.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787596308,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a25a9ae9-396f-3d74-a2b2-076247682774",
-      "title": "Elastic Completes Deductive AI Acquisition",
-      "link": "https://finance.yahoo.com/technology/ai/articles/elastic-completes-deductive-ai-acquisition-174530364.html",
-      "publisher": "MT Newswires",
-      "time": 1787593530,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "0461cf33-8318-4878-b49a-b90566a889d6",
+      "title": "BitMart to hire restructuring lawyers and explore creditor distributions",
+      "link": "https://finance.yahoo.com/video/bitmart-hire-restructuring-lawyers-explore-183000566.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1787596200,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "e787603e-02f4-3a59-85e0-eea8d4a7e96b",
-      "title": "Nebius Group (NBIS) Just Posted 514% Revenue Growth. Can CoreWeave (CRWV)’s Numbers Compete?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-nbis-just-posted-174505539.html",
+      "id": "c8600957-9d3d-301c-8dd2-4e4ab1dab212",
+      "title": "Is the Weight-Loss Drug Market Really a Winner-Take-All Fight Between Novo Nordisk (NVO) and Eli Lilly (LLY)?",
+      "link": "https://finance.yahoo.com/healthcare/articles/weight-loss-drug-market-really-182927810.html",
       "publisher": "Insider Monkey",
-      "time": 1787593505,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4f8a1d09-c8f3-3e55-99dc-3f2c0f8b7154",
-      "title": "Edimakor V5.2.0 Integrates DeepSeek V4 for AI Story and Elevates AI Avatars with New Templates",
-      "link": "https://finance.yahoo.com/technology/ai/articles/edimakor-v5-2-0-integrates-174500916.html",
-      "publisher": "PR Newswire",
-      "time": 1787593500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6b1452b5-e8ad-3d43-806e-914201c75a99",
-      "title": "Exchange Income to Buy TerraPro for C$30 Million",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-income-buy-terrapro-c-174442945.html",
-      "publisher": "MT Newswires",
-      "time": 1787593482,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "72afd4bc-9ef2-3a71-a2fb-abea7a634c3c",
-      "title": "Sector Update: Energy Stocks Decline Monday Afternoon",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-monday-174439620.html",
-      "publisher": "MT Newswires",
-      "time": 1787593479,
+      "time": 1787596167,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "8f423f57-4285-3c27-a0bf-abb66949bd07",
-      "title": "Why are people sneaking in, out of NYC sewers?",
-      "link": "https://finance.yahoo.com/m/8f423f57-4285-3c27-a0bf-abb66949bd07/why-are-people-sneaking-in%2C.html",
-      "publisher": "USA TODAY",
-      "time": 1787593433,
+      "id": "b5e99496-f5e5-37fe-9351-1b165645165a",
+      "title": "Meta and Google Face a New Social Media Threat",
+      "link": "https://finance.yahoo.com/economy/policy/articles/meta-google-face-social-media-182918634.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787596158,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2955ab1d-3ffb-3eda-8e85-24f40e2fee1e",
-      "title": "Where Will Nvidia Stock Be in 5 Years?",
-      "link": "https://finance.yahoo.com/m/2955ab1d-3ffb-3eda-8e85-24f40e2fee1e/where-will-nvidia-stock-be-in.html",
-      "publisher": "Motley Fool",
-      "time": 1787593381,
+      "id": "3398003e-911d-3f50-a1b9-8fc2150e6ce8",
+      "title": "Netflix May Be Ready to Do Something It Long Resisted",
+      "link": "https://finance.yahoo.com/media-advertising/articles/netflix-may-ready-something-long-182835520.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787596115,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "04cc988c-56e0-3c2d-8ff5-3eef33894dab",
+      "title": "Longtime Austin Businessman Gary Bradley Reaches Confidential Settlement in Claims Against the Austin American-Statesman",
+      "link": "https://finance.yahoo.com/small-business/articles/longtime-austin-businessman-gary-bradley-182800835.html",
+      "publisher": "Business Wire",
+      "time": 1787596080,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "36ec921e-fc73-31f2-a11e-9f86d8b0bf12",
+      "title": "US New-Home Sales Expected to Fall in July After Gain in June",
+      "link": "https://finance.yahoo.com/real-estate/articles/us-home-sales-expected-fall-182758034.html",
+      "publisher": "MT Newswires",
+      "time": 1787596078,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5b23fde3-c378-3e58-b3d9-ee3a262ac12d",
+      "title": "Visible Gold Mines Sells Non-Core MegaLi Lithium Property to PMET Resources",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/visible-gold-mines-sells-non-182745421.html",
+      "publisher": "MT Newswires",
+      "time": 1787596065,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "834c629b-c989-44bd-9be7-06b49999f094",
+      "title": "Mortgage refinance breakeven calculator",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-breakeven-calculator-182711716.html",
+      "publisher": "Personal Finance Embeddable Content",
+      "time": 1787596031,
       "impact": "low",
       "tags": []
     }
