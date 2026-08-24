@@ -1,152 +1,152 @@
 {
-  "updatedAt": "2026-08-24T15:32:51.939317+00:00",
+  "updatedAt": "2026-08-24T16:28:16.082950+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20082.8,
-      "change": 121.29999999999927,
-      "changePct": 0.6076697642962666,
+      "price": 20098.6,
+      "change": 137.09999999999854,
+      "changePct": 0.6868221326052578,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7655.37,
-      "change": 14.210000000000036,
-      "changePct": 0.1859665286422485,
+      "price": 7666.58,
+      "change": 25.420000000000073,
+      "changePct": 0.3326720026802223,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26047.232,
-      "change": -19.937999999998283,
-      "changePct": -0.076487014125424,
+      "price": 26092.254,
+      "change": 25.08400000000256,
+      "changePct": 0.09622832091094877,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26090.01,
-      "change": 106.96999999999753,
-      "changePct": 0.41169162653791674,
+      "price": 26106.6,
+      "change": 123.55999999999767,
+      "changePct": 0.47554096826236525,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6443.8,
-      "change": -18.420000000000073,
-      "changePct": -0.28504136349428016,
-      "currency": "EUR"
+      "price": 6447.98,
+      "change": -14.240000000000691,
+      "changePct": -0.2203577098891819,
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.89,
-      "change": 0.7599999999999998,
-      "changePct": 5.023132848645075,
+      "price": 15.72,
+      "change": 0.5899999999999999,
+      "changePct": 3.899537343027097,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "2cfc042c-122a-3dca-9b02-ea053a8f9216",
-      "title": "Despair and anger in Conakry after deadly landfill collapse",
-      "link": "https://finance.yahoo.com/m/2cfc042c-122a-3dca-9b02-ea053a8f9216/despair-and-anger-in-conakry.html",
-      "publisher": "AFP",
-      "time": 1787585252,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3f6691a5-57c1-3bd4-9ff9-023c935b6fb4",
-      "title": "1 New Way to Invest in Cryptocurrency That Could Turn Your Crypto Portfolio Around in 2026",
-      "link": "https://finance.yahoo.com/m/3f6691a5-57c1-3bd4-9ff9-023c935b6fb4/1-new-way-to-invest-in.html",
+      "id": "ba9a193c-b1d9-3dde-8107-8d2f2a93ea6e",
+      "title": "FNCL vs. FTXO: Which Financial Sector ETF Is the Better Buy for Investors?",
+      "link": "https://finance.yahoo.com/m/ba9a193c-b1d9-3dde-8107-8d2f2a93ea6e/fncl-vs.-ftxo%3A-which.html",
       "publisher": "Motley Fool",
-      "time": 1787585100,
+      "time": 1787588545,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "645a97d6-65db-3d51-ba75-87d8e58bb4d0",
-      "title": "Kenyan farmers turn to bugs as organic demand grows",
-      "link": "https://finance.yahoo.com/m/645a97d6-65db-3d51-ba75-87d8e58bb4d0/kenyan-farmers-turn-to-bugs.html",
-      "publisher": "AFP",
-      "time": 1787585094,
+      "id": "3e5f49ce-619d-4e3a-b1ae-2b2348d3ca75",
+      "title": "Equifax agrees to $100 million settlement over credit score errors: What happens next",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/equifax-agrees-to-100-million-settlement-over-credit-score-errors-what-happens-next-162030317.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1787588430,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2222faf5-a459-3ed4-a72c-d3b2c757adf1",
-      "title": "FRN Variable Rate Fix",
-      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-152400505.html",
-      "publisher": "Business Wire",
-      "time": 1787585040,
+      "id": "03843569-e5c6-39d4-845c-9cc0a7350f7a",
+      "title": "Nvidia's Longest Losing Streak Since 2022 Is Dragging on the Nasdaq",
+      "link": "https://finance.yahoo.com/m/03843569-e5c6-39d4-845c-9cc0a7350f7a/nvidia%27s-longest-losing.html",
+      "publisher": "Barrons.com",
+      "time": 1787588425,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "068007db-93f7-3382-b3ea-032ff54f3f41",
-      "title": "Digital Turbine's Alternative App Distribution Strategy Drives Growth",
-      "link": "https://finance.yahoo.com/technology/articles/digital-turbines-alternative-app-distribution-152300465.html",
-      "publisher": "Zacks",
-      "time": 1787584980,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7f5a6807-a219-38fd-9a84-6530bd6bd67c",
-      "title": "IHCL to merge Oriental Hotels under proposed share-swap deal",
-      "link": "https://finance.yahoo.com/m/7f5a6807-a219-38fd-9a84-6530bd6bd67c/ihcl-to-merge-oriental-hotels.html",
-      "publisher": "Hotel Management Network",
-      "time": 1787584979,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4ebcbeb3-a3ec-3ed0-9521-c8e02fe0b06a",
-      "title": "Houlihan Lokey (HLI): Buy, Sell, or Hold Post Q2 Earnings?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/houlihan-lokey-hli-buy-sell-152136098.html",
-      "publisher": "StockStory",
-      "time": 1787584896,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c12218cc-830d-3ce2-b488-01df4e5320ea",
-      "title": "Hohhot, Inner Mongolia: Converting Prairie Winds into Computing Power",
-      "link": "https://finance.yahoo.com/technology/ai/articles/hohhot-inner-mongolia-converting-prairie-152100202.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787584860,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e4a95fba-c6a9-39c9-bfbe-88dff6fefd61",
-      "title": "LIVE: US unveils new sanctions on Iran",
-      "link": "https://finance.yahoo.com/video/live-us-unveils-new-sanctions-on-iran-152043993.html",
+      "id": "0cf3a8ab-8bfd-42ac-81ba-b3f3a88bc0db",
+      "title": "Bitcoin soars, nears $80K after posting largest weekly gain in its history",
+      "link": "https://finance.yahoo.com/video/bitcoin-soars-nears-80k-posting-162000339.html",
       "publisher": "Yahoo Finance Video",
-      "time": 1787584843,
-      "impact": "medium",
+      "time": 1787588400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a76e3527-760e-38bf-a88d-10f9978982b4",
+      "title": "Want to Lock in the Largest Possible 2027 Social Security Benefit? You Must Do These 3 Things",
+      "link": "https://finance.yahoo.com/m/a76e3527-760e-38bf-a88d-10f9978982b4/want-to-lock-in-the-largest.html",
+      "publisher": "Motley Fool",
+      "time": 1787588400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e80aab57-a56b-3e12-a4b1-25fae025f16e",
+      "title": "Green Thumb Opens a RISE Dispensary in Port St. Lucie, Florida",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/green-thumb-opens-rise-dispensary-161825222.html",
+      "publisher": "MT Newswires",
+      "time": 1787588305,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "401aa5c9-4498-3702-901c-2875683b94cd",
+      "title": "Steelworkers ratify contract with Goodyear including Akron employees",
+      "link": "https://finance.yahoo.com/m/401aa5c9-4498-3702-901c-2875683b94cd/steelworkers-ratify-contract.html",
+      "publisher": "Akron Beacon Journal",
+      "time": 1787588265,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "904e1a68-de77-341b-85aa-4185e31b81b2",
+      "title": "2 Reasons to Like ASTE (and 1 Not So Much)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-aste-1-not-161736514.html",
+      "publisher": "StockStory",
+      "time": 1787588256,
+      "impact": "low",
       "tags": [
-        "geo"
+        "macro"
       ]
     },
     {
-      "id": "2c1ef866-cf9e-3a2f-81df-0e627a6530ed",
-      "title": "Inflation Is Rising Again. History Says These 2 Stocks Are Among the Smartest Places to Hide",
-      "link": "https://finance.yahoo.com/m/2c1ef866-cf9e-3a2f-81df-0e627a6530ed/inflation-is-rising-again..html",
-      "publisher": "Motley Fool",
-      "time": 1787584800,
+      "id": "01dd8263-4980-343b-bca8-1a1af81af939",
+      "title": "US plans 7.5% China overcapacity tariff before Sept. 24 Xi-Trump summit",
+      "link": "https://finance.yahoo.com/economy/policy/articles/us-plans-7-5-china-161734641.html",
+      "publisher": "Investing.com",
+      "time": 1787588254,
       "impact": "high",
       "tags": [
         "geo",
         "macro"
+      ]
+    },
+    {
+      "id": "40c47a5b-bdeb-305d-865a-f3b2a264cf98",
+      "title": "Alterra IOS Expands Atlanta Footprint With 5 Industrial Outdoor Storage Acquisitions",
+      "link": "https://finance.yahoo.com/real-estate/articles/alterra-ios-expands-atlanta-footprint-161700304.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787588220,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
       ]
     }
   ],
