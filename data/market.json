@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-24T11:21:04.399317+00:00",
+  "updatedAt": "2026-08-24T11:51:54.829691+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20040.6,
-      "change": 79.09999999999854,
-      "changePct": 0.3962628059013529,
+      "price": 20061.0,
+      "change": 99.5,
+      "changePct": 0.49845953460411296,
       "currency": "EUR"
     },
     {
@@ -28,147 +28,66 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26122.84,
-      "change": 139.79999999999927,
-      "changePct": 0.5380432774609871,
+      "price": 26160.03,
+      "change": 176.98999999999796,
+      "changePct": 0.6811751049915559,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6456.35,
-      "change": -5.869999999999891,
-      "changePct": -0.0908356570961665,
+      "price": 6465.63,
+      "change": 3.4099999999998545,
+      "changePct": 0.05276824373048046,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.02,
-      "change": 0.8899999999999988,
-      "changePct": 5.882352941176462,
+      "price": 15.9,
+      "change": 0.7699999999999996,
+      "changePct": 5.0892267019167186,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "d9b26f00-9a4c-3332-871c-597dac67a37d",
-      "title": "Mitsubishi’s Outlander PHEV makes ASEAN debut in the Philippines",
-      "link": "https://finance.yahoo.com/m/d9b26f00-9a4c-3332-871c-597dac67a37d/mitsubishi%E2%80%99s-outlander-phev.html",
-      "publisher": "Just Auto",
-      "time": 1787570405,
+      "id": "87872dbe-b807-33bc-8bea-5a6a9b337c9f",
+      "title": "Mastercard Jumps as Cross-Border Growth Crushes Consumer Fears",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mastercard-jumps-cross-border-growth-114933663.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787572173,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "05e605f8-8ab9-31c9-839e-00de3af73a31",
-      "title": "Morgan Stanley Initiates ArcelorMittal at Overweight",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-initiates-arcelormittal-overweight-111916369.html",
-      "publisher": "MT Newswires",
-      "time": 1787570356,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "62054978-f4fa-34dc-9ac3-3118fd526c31",
-      "title": "Deutsche Bank Adjusts BJ's Wholesale Club Price Target to $103 From $94, Maintains Hold Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-adjusts-bj-apos-111907281.html",
-      "publisher": "MT Newswires",
-      "time": 1787570347,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "fb70fdba-aab9-326e-ad8c-ea0cd24f6d95",
-      "title": "Deutsche Bank Initiates Coverage on Jersey Mike's Subs With Buy Rating, $27 Price Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-initiates-coverage-jersey-111827173.html",
-      "publisher": "MT Newswires",
-      "time": 1787570307,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "226aa1cc-4a9b-3cf1-baf8-2c914d101cfa",
-      "title": "Van Oord installs all 111 monopiles for Baltica 2 wind farm",
-      "link": "https://finance.yahoo.com/m/226aa1cc-4a9b-3cf1-baf8-2c914d101cfa/van-oord-installs-all-111.html",
-      "publisher": "Power Technology",
-      "time": 1787570293,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6ed17f60-03dc-3796-b3d7-bf280d1c2b85",
-      "title": "Raymond James Downgrades Weave Communications to Market Perform From Outperform",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/raymond-james-downgrades-weave-communications-111556877.html",
-      "publisher": "MT Newswires",
-      "time": 1787570156,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "59bfe409-8ef1-35bc-a4e6-b51e6770be22",
-      "title": "Think tank touts plant-based price savings in new research",
-      "link": "https://finance.yahoo.com/m/59bfe409-8ef1-35bc-a4e6-b51e6770be22/think-tank-touts-plant-based.html",
-      "publisher": "Just Food",
-      "time": 1787570117,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "787e9f52-0441-3c07-ae2e-70876e50d4cb",
-      "title": "Comstock Completes $45 Million Sale of Mining Assets to Mackay Precious Metals",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/comstock-completes-45-million-sale-111511075.html",
-      "publisher": "MT Newswires",
-      "time": 1787570111,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9e56fbd8-1f23-30fe-a412-b49a26cddb16",
-      "title": "PostNet Celebrates Franchise Standouts While Building Momentum for 2027",
-      "link": "https://finance.yahoo.com/small-business/articles/postnet-celebrates-franchise-standouts-while-111500374.html",
-      "publisher": "PR Newswire",
-      "time": 1787570100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0d837fea-7892-34ab-a97a-44110dde8505",
-      "title": "Nvidia, Fed Outlooks Dull Wall Street Bell; Asia Off, Europe Up",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-fed-outlooks-dull-wall-111402533.html",
-      "publisher": "MT Newswires",
-      "time": 1787570042,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "042bb299-45b2-3566-81fd-6eb0aca58650",
-      "title": "Honeywell Aerospace (HONA) Spin-Off Unlocks Standalone Value Amid Strong Market Outlook",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-aerospace-hona-spin-off-111401744.html",
-      "publisher": "Insider Monkey",
-      "time": 1787570041,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "25357753-76f4-3f4f-b448-1b0b7b136b0e",
-      "title": "3 Profitable Stocks with Promising Prospects",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-profitable-stocks-promising-prospects-111336334.html",
+      "id": "f03d7aa1-5226-330a-90b8-e553f98be9c2",
+      "title": "1 Stock Under $50 to Consider Right Now and 2 We Question",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-stock-under-50-consider-114536970.html",
       "publisher": "StockStory",
-      "time": 1787570016,
+      "time": 1787571936,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "8f60d7ec-b7e2-35ed-b033-a1d4a4c05ad2",
+      "title": "How the U.S. 30y Treasury yield has emerged as a key market focus",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/u-30y-treasury-yield-emerged-114526690.html",
+      "publisher": "Investing.com",
+      "time": 1787571926,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "2284482c-a068-35b7-8eae-6f207871ba3c",
+      "title": "Stocks and oil fall as U.S. targets Iran with new sanctions",
+      "link": "https://finance.yahoo.com/m/2284482c-a068-35b7-8eae-6f207871ba3c/stocks-and-oil-fall-as-u.s..html",
+      "publisher": "Quartz",
+      "time": 1787571904,
       "impact": "medium",
       "tags": [
         "macro",
@@ -176,61 +95,64 @@
       ]
     },
     {
-      "id": "dea34f28-2cdb-34ea-9cf3-0d6cd89c6ded",
-      "title": "Royal De Vries folding-carton plant closes after 152 years",
-      "link": "https://finance.yahoo.com/m/dea34f28-2cdb-34ea-9cf3-0d6cd89c6ded/royal-de-vries-folding-carton.html",
-      "publisher": "Packaging Gateway",
-      "time": 1787569933,
+      "id": "51854a3e-ea88-3770-9943-cc7aef15d0a4",
+      "title": "QurAlis to Participate in Upcoming Investor Conferences in September",
+      "link": "https://finance.yahoo.com/healthcare/articles/quralis-participate-upcoming-investor-conferences-114500620.html",
+      "publisher": "Business Wire",
+      "time": 1787571900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "67e6f84e-2f0d-31e7-846b-efea98833fff",
-      "title": "Another airline shuts down, cancels all flights due to low demand",
-      "link": "https://finance.yahoo.com/m/67e6f84e-2f0d-31e7-846b-efea98833fff/another-airline-shuts-down%2C.html",
-      "publisher": "TheStreet",
-      "time": 1787569920,
+      "id": "6c8e1a45-96fc-3e73-a961-978bf055b7f0",
+      "title": "Amarc Announces CAD$20 Million Private Placement Financing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amarc-announces-cad-20-million-114500808.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787571900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7700df70-5ea8-37cf-b5a7-0bda8aaef46d",
-      "title": "PENGU Jumps 62% in a Week on IPO Speculation and a Target Rollout",
-      "link": "https://finance.yahoo.com/m/7700df70-5ea8-37cf-b5a7-0bda8aaef46d/pengu-jumps-62%25-in-a-week-on.html",
-      "publisher": "BeInCrypto",
-      "time": 1787569881,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "0483d8e3-5364-33ee-8c8c-d40a7bc1aa5a",
-      "title": "Aditya Birla Renewables secures $1.6bn MUFG loan for Sprng Energy deal",
-      "link": "https://finance.yahoo.com/m/0483d8e3-5364-33ee-8c8c-d40a7bc1aa5a/aditya-birla-renewables.html",
-      "publisher": "Energy Monitor",
-      "time": 1787569878,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "35ea1aca-85f7-36d2-a9c8-737dd25adb0a",
-      "title": "Implantica’s anti-reflux device secures FDA approval to tee up J&J rivalry",
-      "link": "https://finance.yahoo.com/m/35ea1aca-85f7-36d2-a9c8-737dd25adb0a/implantica%E2%80%99s-anti-reflux.html",
-      "publisher": "Medical Device Network",
-      "time": 1787569870,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4687a9f5-004d-362f-9f98-0ba1c4912742",
-      "title": "The money conversation most roommates never have, until it's too late",
-      "link": "https://finance.yahoo.com/small-business/articles/money-conversation-most-roommates-never-111100226.html",
+      "id": "8ab8db50-5522-3b9c-976d-24758097cc75",
+      "title": "PowerBank Corporation Appoints Nicole Rusaw, CPA, CA as Chief Financial Officer",
+      "link": "https://finance.yahoo.com/energy/articles/powerbank-corporation-appoints-nicole-rusaw-114500773.html",
       "publisher": "CNW Group",
-      "time": 1787569860,
+      "time": 1787571900,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "18712ad0-eae0-3767-bfdd-b3d2abc027bc",
+      "title": "Analysts praise intismeran’s landmark Phase III win, look to further data",
+      "link": "https://finance.yahoo.com/m/18712ad0-eae0-3767-bfdd-b3d2abc027bc/analysts-praise-intismeran%E2%80%99s.html",
+      "publisher": "Clinical Trials Arena",
+      "time": 1787571733,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "9827322a-1a51-36a0-a206-d332e4384605",
+      "title": "Philip Morris International to Manufacture Cigarettes for Altria",
+      "link": "https://finance.yahoo.com/healthcare/articles/philip-morris-international-manufacture-cigarettes-114049357.html",
+      "publisher": "MT Newswires",
+      "time": 1787571649,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "79aae73e-d74e-3fe0-bc34-948e050381eb",
+      "title": "NAPCO Security Technologies' Q4 Earnings, Revenue Rise; Lifts Dividend",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/napco-security-technologies-apos-q4-114047051.html",
+      "publisher": "MT Newswires",
+      "time": 1787571647,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
