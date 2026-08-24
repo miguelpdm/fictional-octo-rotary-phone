@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T20:22:13.027144+00:00",
+  "updatedAt": "2026-08-24T20:56:57.215958+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6447.98,
       "change": -14.240000000000691,
       "changePct": -0.2203577098891819,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,97 +52,99 @@
   ],
   "news": [
     {
-      "id": "7327d3da-d5ca-306a-9629-b0c1a5f85c47",
-      "title": "Why Hims & Hers Health (HIMS) Stock Is Nosediving",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-hims-hers-health-hims-201736983.html",
-      "publisher": "StockStory",
-      "time": 1787602656,
+      "id": "bac9a701-84ab-3408-9367-2c9839aa7f34",
+      "title": "Google’s Chip Veteran Just Joined Anthropic",
+      "link": "https://finance.yahoo.com/m/bac9a701-84ab-3408-9367-2c9839aa7f34/google%E2%80%99s-chip-veteran-just.html",
+      "publisher": "Benzinga Private Markets",
+      "time": 1787604699,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "85c128bd-d025-3f41-b225-eefd51091d88",
-      "title": "Diamondback Energy Insider Sold Shares Worth $2,146,608, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-insider-sold-shares-201509664.html",
+      "id": "c15b3afc-e586-3bd0-913a-018cbf3f0c30",
+      "title": "Hub Group Gets Nasdaq Notice Over Delayed Filing of Quarterly Report",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hub-group-gets-nasdaq-notice-205009232.html",
       "publisher": "MT Newswires",
-      "time": 1787602509,
+      "time": 1787604609,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4fcbfb74-9f4a-3c66-abff-2dbb2ef0d08c",
-      "title": "The Metals Royalty Company Announces Closing of Additional 1.0% Mesabi Royalty and US$165 Million Financing",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/metals-royalty-company-announces-closing-201500076.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787602500,
+      "id": "3994f131-1e66-4b81-ba22-677d840fa561",
+      "title": "Tesla to launch Cybercabs in Austin starting Sept. 3",
+      "link": "https://finance.yahoo.com/video/tesla-launch-cybercabs-austin-starting-205004873.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1787604604,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8246c165-2fab-357d-8e4d-13ad1ec16567",
-      "title": "Weatherford and NCS Multistage Announce Anticipated Election Deadline and Closing Date",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/weatherford-ncs-multistage-announce-anticipated-201500503.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787602500,
+      "id": "4c5e309a-8943-3db5-9c10-599ec1dd5014",
+      "title": "GMC Hummer EV Pickup Offers Versatility",
+      "link": "https://finance.yahoo.com/m/4c5e309a-8943-3db5-9c10-599ec1dd5014/gmc-hummer-ev-pickup-offers.html",
+      "publisher": "MediaPost",
+      "time": 1787604598,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9d798e5c-613b-3299-ae0f-a30cac8bd215",
-      "title": "Micropolis Robotics Becomes a Robotics and Physical AI Solutions Provider to ADNOC",
-      "link": "https://finance.yahoo.com/energy/articles/micropolis-robotics-becomes-robotics-physical-201500277.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787602500,
+      "id": "cd4c3a67-c254-3bc8-8f21-0fe58ab2984d",
+      "title": "Myriad Genetics and Moderna Shares Plummet, What You Need To Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/myriad-genetics-moderna-shares-plummet-204936949.html",
+      "publisher": "StockStory",
+      "time": 1787604576,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cb730ed4-d0df-3758-89d0-a43dd803a6fe",
-      "title": "OceanLight Acquisition Corporation Announces Exercise of Over-Allotment Option",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oceanlight-acquisition-corporation-announces-exercise-201500822.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787602500,
-      "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "ea368ff7-76b6-3ddb-8769-835249ab5e2c",
-      "title": "Viking Honors Top Travel Advisor Partners as Godparents of Seven New River Ships",
-      "link": "https://finance.yahoo.com/media-advertising/articles/viking-honors-top-travel-advisor-201500948.html",
-      "publisher": "Business Wire",
-      "time": 1787602500,
+      "id": "4d0a3110-604c-35ef-a9b1-d3f83347c1c8",
+      "title": "SOL Reimagines Cannabis Retail With The Launch of SOL of Potomac - The Penthouse",
+      "link": "https://finance.yahoo.com/small-business/articles/sol-reimagines-cannabis-retail-launch-204900456.html",
+      "publisher": "PR Newswire",
+      "time": 1787604540,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ec7d6674-ee97-37f7-b9c4-7ed057349356",
-      "title": "Amrize Appoints Sam Poletti as Chief Financial Officer",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amrize-appoints-sam-poletti-chief-201500342.html",
-      "publisher": "Business Wire",
-      "time": 1787602500,
+      "id": "64369a03-b8a2-3cdd-90fb-10be7d6ee052",
+      "title": "Minister Hajdu launches the Transportation and Supply Chain Workforce Alliance",
+      "link": "https://finance.yahoo.com/economy/policy/articles/minister-hajdu-launches-transportation-supply-204900450.html",
+      "publisher": "CNW Group",
+      "time": 1787604540,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ee9bb2f3-0ee0-33e3-a4f9-31fbf35a4c07",
-      "title": "US Elemental Announces Highly Encouraging Magnesium Testwork Results from the McDermitt Lithium Project",
-      "link": "https://finance.yahoo.com/energy/articles/us-elemental-announces-highly-encouraging-201500359.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787602500,
-      "impact": "low",
-      "tags": []
+      "id": "2e90ea4f-df1c-35a6-8f1b-13a75518170f",
+      "title": "Davie Awarded Historic Contract to Build Six Program Icebreakers Under the National Shipbuilding Strategy",
+      "link": "https://finance.yahoo.com/economy/policy/articles/davie-awarded-historic-contract-build-204800031.html",
+      "publisher": "CNW Group",
+      "time": 1787604480,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "91818bd9-d9d2-384b-a4ec-6749a3eff10a",
-      "title": "Oruka Therapeutics Names Chief Commercial Officer",
-      "link": "https://finance.yahoo.com/healthcare/articles/oruka-therapeutics-names-chief-commercial-201442202.html",
+      "id": "5bea5a67-2050-3447-af98-b66b1915795a",
+      "title": "Hormel Foods Appoints Ash Bhumbla as CFO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hormel-foods-appoints-ash-bhumbla-204715866.html",
       "publisher": "MT Newswires",
-      "time": 1787602482,
+      "time": 1787604435,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3396eecd-f775-3393-9676-2cce10dec504",
+      "title": "Micropolis Robotics Secures ADNOC Contract",
+      "link": "https://finance.yahoo.com/energy/articles/micropolis-robotics-secures-adnoc-contract-204651748.html",
+      "publisher": "MT Newswires",
+      "time": 1787604411,
       "impact": "low",
       "tags": []
     }
