@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T19:23:30.565066+00:00",
+  "updatedAt": "2026-08-24T19:52:35.030567+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7659.7,
-      "change": 18.539999999999964,
-      "changePct": 0.24263331745441744,
+      "price": 7652.2,
+      "change": 11.039999999999964,
+      "changePct": 0.1444806809437306,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26040.207,
-      "change": -26.962999999999738,
-      "changePct": -0.10343662162022092,
+      "price": 25989.277,
+      "change": -77.89300000000003,
+      "changePct": -0.2988164806536346,
       "currency": "USD"
     },
     {
@@ -39,97 +39,87 @@
       "price": 6447.98,
       "change": -14.240000000000691,
       "changePct": -0.2203577098891819,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.78,
-      "change": 0.6499999999999986,
-      "changePct": 4.296100462656963,
+      "price": 15.8,
+      "change": 0.6699999999999999,
+      "changePct": 4.428288169200264,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "1be82de6-a270-3d3d-afce-c5afc3bc0fb2",
-      "title": "Exxon Drops as Oil Retreats From $94",
-      "link": "https://finance.yahoo.com/energy/articles/exxon-drops-oil-retreats-94-191950154.html",
+      "id": "caa2c3a9-33ff-3b98-ba49-56a8ab7dfd81",
+      "title": "Microsoft Rises as $678 Billion Backlog Defies Tech Selloff",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-rises-678-billion-backlog-195022521.html",
       "publisher": "GuruFocus.com",
-      "time": 1787599190,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "51576b0e-9909-3949-a636-22256d65498f",
-      "title": "Johnson & Johnson Rises 1.3% as Investors Seek Stability",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-rises-1-3-191853863.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787599133,
+      "time": 1787601022,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5c0adfdd-311e-3b4c-a407-a1e277bca8ef",
-      "title": "Eli Lilly Slips as Its $1.1 Trillion Valuation Cools",
-      "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-slips-1-1-191751327.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787599071,
+      "id": "e1dcb520-f692-3993-a869-98abf183091f",
+      "title": "EnGold Announces Adoption of Semi-Annual Financial Reporting",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/engold-announces-adoption-semi-annual-195000367.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787601000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "fa045437-d0f1-4487-b1cf-d2a7368dc218",
-      "title": "Nvidia's valuation looks surprisingly cheap heading into earnings. Could it be an issue for the stock?",
-      "link": "https://finance.yahoo.com/markets/stocks/article/nvidias-valuation-looks-surprisingly-cheap-heading-into-earnings-could-it-be-an-issue-for-the-stock-191738544.html",
-      "publisher": "Yahoo Finance",
-      "time": 1787599058,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "659c0998-f114-3aba-b2fc-37f9dcedae5e",
-      "title": "U.S. Stocks Mixed With Nasdaq Slipping on Weakness in Tech Sector",
-      "link": "https://finance.yahoo.com/m/659c0998-f114-3aba-b2fc-37f9dcedae5e/u.s.-stocks-mixed-with-nasdaq.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787599020,
+      "id": "515b225d-908b-36c9-a317-965812407e55",
+      "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-slides-2-3-ai-194932749.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787600972,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "a1423cf0-3f86-300c-83cc-ee4250cbc95a",
-      "title": "Current Standardizes Its $600M Firm Network on a Single Platform",
-      "link": "https://finance.yahoo.com/technology/articles/current-standardizes-600m-firm-network-191700882.html",
+      "id": "d2bb12d3-e706-3253-8d5a-453254d3e31d",
+      "title": "Amazon Jumps 1.8% as AWS Growth Overpowers Tech Anxiety",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-jumps-1-8-aws-194722757.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787600842,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b94df75f-3d81-3acf-bedd-b87723334bd9",
+      "title": "Inter-Rock Minerals Renewing Share Buyback Program",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/inter-rock-minerals-renewing-share-194605961.html",
+      "publisher": "MT Newswires",
+      "time": 1787600765,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "221cb859-45ea-38ee-9d13-1fd5a24acaeb",
+      "title": "Westinghouse Air Brake Technologies Insider Sold Shares Worth $867,093, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-technologies-insider-194523875.html",
+      "publisher": "MT Newswires",
+      "time": 1787600723,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3afc627b-e477-3d59-a7e7-b94b87081211",
+      "title": "Curaleaf Responds to Aurora Cannabis' Latest Attempt to Deflect From Shareholder Value Creation",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/curaleaf-responds-aurora-cannabis-latest-194500169.html",
       "publisher": "PR Newswire",
-      "time": 1787599020,
+      "time": 1787600700,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "086c9dab-28aa-47b5-8399-6e8290f79e2d",
-      "title": "Bessent's Iranian sanction target these 5 key sectors",
-      "link": "https://finance.yahoo.com/video/bessents-iranian-sanction-target-5-191638829.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1787598998,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "d4b3ddbf-3144-33e8-ad64-2a3891b07274",
-      "title": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases",
-      "link": "https://finance.yahoo.com/news/dollar-pinned-at-multi-month-lows-as-debt-nerves-unnerve-investors-084611780.html",
-      "publisher": "Reuters",
-      "time": 1787598964,
+      "id": "6d1e6025-c2ac-392e-a0e5-2feb233adda1",
+      "title": "LG ELECTRONICS' PRISM AI WINS BEST AI TOOL/PRODUCT AT THE 2026 IN2 SABRE AWARDS ASIA-PACIFIC",
+      "link": "https://finance.yahoo.com/technology/ai/articles/lg-electronics-prism-ai-wins-194500177.html",
+      "publisher": "PR Newswire",
+      "time": 1787600700,
       "impact": "high",
       "tags": [
         "geo",
@@ -137,24 +127,24 @@
       ]
     },
     {
-      "id": "7ebf9218-b8f1-3c56-be8a-139037b7fd78",
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - CBR",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-investment-regulatory-organization-trade-191600360.html",
-      "publisher": "CNW Group",
-      "time": 1787598960,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "d2d770a9-5723-3719-9661-f02ca0e5921f",
-      "title": "Dephy Expands Sidekick’s Personal Bionic Footwear Line to Assist in Powered Walking",
-      "link": "https://finance.yahoo.com/m/d2d770a9-5723-3719-9661-f02ca0e5921f/dephy-expands-sidekick%E2%80%99s.html",
-      "publisher": "Footwear News",
-      "time": 1787598940,
+      "id": "34215f90-2bd0-3490-8b0a-009badacb2e1",
+      "title": "Procter & Gamble Insider Sold Shares Worth $488,311, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-insider-sold-shares-194438833.html",
+      "publisher": "MT Newswires",
+      "time": 1787600678,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "798316a4-3196-3836-8d88-6ccad174559c",
+      "title": "Sector Update: Consumer Stocks Rise Late Afternoon",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-rise-afternoon-194430140.html",
+      "publisher": "MT Newswires",
+      "time": 1787600670,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
