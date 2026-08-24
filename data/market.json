@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T17:05:22.579480+00:00",
+  "updatedAt": "2026-08-24T17:56:00.732509+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7657.88,
-      "change": 16.720000000000255,
-      "changePct": 0.2188149443278279,
+      "price": 7650.31,
+      "change": 9.150000000000546,
+      "changePct": 0.11974621654304511,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26054.5,
-      "change": -12.669999999998254,
-      "changePct": -0.04860519956711164,
+      "price": 26010.38,
+      "change": -56.789999999997235,
+      "changePct": -0.21786024336357662,
       "currency": "USD"
     },
     {
@@ -44,102 +44,108 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.66,
-      "change": 0.5299999999999994,
-      "changePct": 3.50297422339722,
+      "price": 15.79,
+      "change": 0.6599999999999984,
+      "changePct": 4.362194315928607,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "b026cf22-eac6-329b-8014-6749233c2bda",
-      "title": "FRN Variable Rate Fix",
-      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-170100402.html",
-      "publisher": "Business Wire",
-      "time": 1787590860,
+      "id": "96868e14-b6d6-311f-b73a-f01b52eab088",
+      "title": "Brompton Funds Declares Split Share Fund Distributions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/brompton-funds-declares-split-share-174800208.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787593680,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5767aff1-e47c-386e-9eef-5f44328f7f86",
-      "title": "Britain tells TikTok and other platforms to remove videos glorifying dangerous driving after deaths",
-      "link": "https://finance.yahoo.com/m/5767aff1-e47c-386e-9eef-5f44328f7f86/britain-tells-tiktok-and.html",
-      "publisher": "Associated Press",
-      "time": 1787590836,
+      "id": "708f58aa-51d8-3f4f-8d10-12c94c7b2341",
+      "title": "Canada may cut U.S. power exports as Trump reignites trade war",
+      "link": "https://finance.yahoo.com/m/708f58aa-51d8-3f4f-8d10-12c94c7b2341/canada-may-cut-u.s.-power.html",
+      "publisher": "NY Daily News",
+      "time": 1787593620,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "6cfb2259-11d2-3f0c-a010-4771633d11f9",
+      "title": "French tourist dies after getting stuck in scorching Death Valley",
+      "link": "https://finance.yahoo.com/m/6cfb2259-11d2-3f0c-a010-4771633d11f9/french-tourist-dies-after.html",
+      "publisher": "AFP",
+      "time": 1787593566,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "07f71ad0-7cd0-368b-a4cd-0d6f57728049",
-      "title": "Grandmothers for Gun Responsibility Has a Message for Puget Sound Gun Owners: Please Lock It Up!",
-      "link": "https://finance.yahoo.com/healthcare/articles/grandmothers-gun-responsibility-message-puget-170000473.html",
-      "publisher": "Business Wire",
-      "time": 1787590800,
+      "id": "a25a9ae9-396f-3d74-a2b2-076247682774",
+      "title": "Elastic Completes Deductive AI Acquisition",
+      "link": "https://finance.yahoo.com/technology/ai/articles/elastic-completes-deductive-ai-acquisition-174530364.html",
+      "publisher": "MT Newswires",
+      "time": 1787593530,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "e787603e-02f4-3a59-85e0-eea8d4a7e96b",
+      "title": "Nebius Group (NBIS) Just Posted 514% Revenue Growth. Can CoreWeave (CRWV)’s Numbers Compete?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-nbis-just-posted-174505539.html",
+      "publisher": "Insider Monkey",
+      "time": 1787593505,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0c742625-597b-37dc-b0d9-41d5022d50b5",
-      "title": "AV to Invest $100 Million in New Unified Campus in Southern California",
-      "link": "https://finance.yahoo.com/technology/articles/av-invest-100-million-unified-170000309.html",
-      "publisher": "Business Wire",
-      "time": 1787590800,
+      "id": "4f8a1d09-c8f3-3e55-99dc-3f2c0f8b7154",
+      "title": "Edimakor V5.2.0 Integrates DeepSeek V4 for AI Story and Elevates AI Avatars with New Templates",
+      "link": "https://finance.yahoo.com/technology/ai/articles/edimakor-v5-2-0-integrates-174500916.html",
+      "publisher": "PR Newswire",
+      "time": 1787593500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bbd188cd-e59a-37a8-a494-efa0a9460be5",
-      "title": "Protolabs Appoints Sam Ramahi as Chief Operations Officer",
-      "link": "https://finance.yahoo.com/technology/articles/protolabs-appoints-sam-ramahi-chief-170000013.html",
-      "publisher": "Business Wire",
-      "time": 1787590800,
+      "id": "6b1452b5-e8ad-3d43-806e-914201c75a99",
+      "title": "Exchange Income to Buy TerraPro for C$30 Million",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-income-buy-terrapro-c-174442945.html",
+      "publisher": "MT Newswires",
+      "time": 1787593482,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "26a59f91-8bc7-3933-81d4-f3cc78e1167a",
-      "title": "Q2 Rundown: IDEX (NYSE:IEX) Vs Other Gas and Liquid Handling Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-rundown-idex-nyse-iex-165736930.html",
-      "publisher": "StockStory",
-      "time": 1787590656,
+      "id": "72afd4bc-9ef2-3a71-a2fb-abea7a634c3c",
+      "title": "Sector Update: Energy Stocks Decline Monday Afternoon",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-monday-174439620.html",
+      "publisher": "MT Newswires",
+      "time": 1787593479,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "d8a7c88b-363d-3d43-b8d6-aaa70f79bb95",
-      "title": "Precision Metalforming Association Announces Leadership Team, Expands Investment in Member Engagement",
-      "link": "https://finance.yahoo.com/small-business/articles/precision-metalforming-association-announces-leadership-165700917.html",
-      "publisher": "Business Wire",
-      "time": 1787590620,
+      "id": "8f423f57-4285-3c27-a0bf-abb66949bd07",
+      "title": "Why are people sneaking in, out of NYC sewers?",
+      "link": "https://finance.yahoo.com/m/8f423f57-4285-3c27-a0bf-abb66949bd07/why-are-people-sneaking-in%2C.html",
+      "publisher": "USA TODAY",
+      "time": 1787593433,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "538d4bca-b584-3d36-ab63-a317651cdae9",
-      "title": "Nothing Bundt Cakes Launches Six-Week ‘10 Million Bites of Joy’ Campaign",
-      "link": "https://finance.yahoo.com/m/538d4bca-b584-3d36-ab63-a317651cdae9/nothing-bundt-cakes-launches.html",
-      "publisher": "QSR",
-      "time": 1787590593,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "08e19c1c-501b-3fe3-bf2c-f643efa6ee59",
-      "title": "Michael Burry Sounds Alarm on Major Tech Stock",
-      "link": "https://finance.yahoo.com/technology/ai/articles/michael-burry-sounds-alarm-major-165604009.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787590564,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2eeeca01-dae4-3850-a57a-c5103a666403",
-      "title": "Trading Activity: Resideo CEO Thomas Surran Buys 15,000 Shares at $20.46",
-      "link": "https://finance.yahoo.com/m/2eeeca01-dae4-3850-a57a-c5103a666403/trading-activity%3A-resideo-ceo.html",
+      "id": "2955ab1d-3ffb-3eda-8e85-24f40e2fee1e",
+      "title": "Where Will Nvidia Stock Be in 5 Years?",
+      "link": "https://finance.yahoo.com/m/2955ab1d-3ffb-3eda-8e85-24f40e2fee1e/where-will-nvidia-stock-be-in.html",
       "publisher": "Motley Fool",
-      "time": 1787590503,
+      "time": 1787593381,
       "impact": "low",
       "tags": []
     }
