@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T04:23:02.950480+00:00",
+  "updatedAt": "2026-08-24T05:09:53.849334+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6462.22,
       "change": 40.159999999999854,
       "changePct": 0.6253445156227107,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,103 +52,103 @@
   ],
   "news": [
     {
-      "id": "fe3f2eea-a73a-3098-8d2d-a0d48d56f8db",
-      "title": "Questerre wins first bid round for Nova Scotia exploration rights",
-      "link": "https://finance.yahoo.com/energy/articles/questerre-wins-first-bid-round-041500979.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787544900,
+      "id": "eb32e2d2-c7c2-3d97-9d4f-fbea10f6338d",
+      "title": "Migrants, rescue ships face threats, harassment at sea: aid group",
+      "link": "https://finance.yahoo.com/m/eb32e2d2-c7c2-3d97-9d4f-fbea10f6338d/migrants%2C-rescue-ships-face.html",
+      "publisher": "AFP",
+      "time": 1787547805,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b6ac41b0-3d23-31c5-92cb-7ce1eb0cbc27",
-      "title": "Primemas Shatters AI Memory Wall at FMS 2026 with CXL Full-Stack Products and Micron Collaboration on the Abaco Project",
-      "link": "https://finance.yahoo.com/technology/ai/articles/primemas-shatters-ai-memory-wall-040700559.html",
-      "publisher": "Business Wire",
-      "time": 1787544420,
+      "id": "df2c3701-5a66-37e6-b8d9-c0d671126ace",
+      "title": "New Zealand moves to ban social media for under-16s",
+      "link": "https://finance.yahoo.com/m/df2c3701-5a66-37e6-b8d9-c0d671126ace/new-zealand-moves-to-ban.html",
+      "publisher": "AFP",
+      "time": 1787547714,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f6e02b5e-d5cf-3bc2-ac65-9cc8112fad53",
-      "title": "A $650 smartphone takes aim at Apple and Samsung’s surging repair costs",
-      "link": "https://finance.yahoo.com/m/f6e02b5e-d5cf-3bc2-ac65-9cc8112fad53/a-%24650-smartphone-takes-aim.html",
-      "publisher": "TheStreet",
-      "time": 1787544180,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0adeb6d1-e209-371e-8d9b-c8af1cdc97a2",
-      "title": "IBM and the USTA Introduce New AI-Powered Fan Experiences for 2026 US Open",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ibm-usta-introduce-ai-powered-040100650.html",
-      "publisher": "PR Newswire",
-      "time": 1787544060,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7b7b9315-fc1f-36f7-b10c-a8cae1104159",
-      "title": "IBM Study: Sports Fans Want Streamlined Digital Experiences as Platform Choices Expand",
-      "link": "https://finance.yahoo.com/media-advertising/articles/ibm-study-sports-fans-want-040100977.html",
-      "publisher": "CNW Group",
-      "time": 1787544060,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a6491f7a-76da-3de7-be2e-e7c2cf8d4e8e",
-      "title": "Harlem’s Fashion Row Reveals Honorees for 19th Annual Fashion Show & Style Awards",
-      "link": "https://finance.yahoo.com/m/a6491f7a-76da-3de7-be2e-e7c2cf8d4e8e/harlem%E2%80%99s-fashion-row-reveals.html",
-      "publisher": "WWD",
-      "time": 1787544060,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "98059521-7536-3164-8f5b-d7e5ff528f56",
-      "title": "New US$22 Million Education Lifeline for Crisis-Affected Children in Sudan",
-      "link": "https://finance.yahoo.com/healthcare/articles/us-22-million-education-lifeline-040000158.html",
-      "publisher": "PR Newswire",
-      "time": 1787544000,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "dc414800-7a91-3503-bf4a-99d65766b350",
-      "title": "Chromalloy Marks 75 Years of Aerospace Innovation, Engineering Excellence, and Engine Lifecycle Leadership",
-      "link": "https://finance.yahoo.com/technology/articles/chromalloy-marks-75-years-aerospace-040000960.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787544000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0ee7ae27-d633-3185-8390-93340fcb58ea",
-      "title": "Sandisk Rode an Estimated 70% Jump in NAND Prices. TrendForce Sees 10% to 15% This Quarter.",
-      "link": "https://finance.yahoo.com/m/0ee7ae27-d633-3185-8390-93340fcb58ea/sandisk-rode-an-estimated-70%25.html",
-      "publisher": "Motley Fool",
-      "time": 1787543881,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "42041d2b-0141-3bb0-8c4d-ca34d68928b4",
-      "title": "Softcare Reports 46% Interim Profit Growth as Emerging-Market Momentum Continues, Payout Ratio Rises to Approximately 66%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/softcare-reports-46-interim-profit-035800060.html",
-      "publisher": "PR Newswire",
-      "time": 1787543880,
+      "id": "1ebb8ba7-dbac-3896-8a4f-4c9cc3642c00",
+      "title": "Chorus Ltd (CHRYY) (FY 2026) Earnings Call Highlights: Fiber Growth and Strategic Expansion ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/chorus-ltd-chryy-fy-2026-050040608.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787547640,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
+    },
+    {
+      "id": "deb5bf60-0847-3ac5-8c3b-45fc3cb46d8f",
+      "title": "Property For Industry Ltd (NZSE:PFI) (FY 2026) Earnings Call Highlights: Double-Digit FFO ...",
+      "link": "https://finance.yahoo.com/real-estate/articles/property-industry-ltd-nzse-pfi-050037591.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787547637,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "40d5e002-dc03-3f76-9bf8-844cc834f45d",
+      "title": "Start of Day Message",
+      "link": "https://finance.yahoo.com/media-advertising/articles/start-day-message-050000278.html",
+      "publisher": "Business Wire",
+      "time": 1787547600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "736d7f94-5c5c-3220-bc07-07d807258fba",
+      "title": "AMG Critical Materials N.V. to Apply for Secondary Listing on the Frankfurt Stock Exchange",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amg-critical-materials-n-v-050000386.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787547600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9f8bec2a-e326-348a-99d7-e47bceadba24",
+      "title": "Charter agreement for the icebreaker Botnica with OSC Marine Group in South Africa",
+      "link": "https://finance.yahoo.com/energy/articles/charter-agreement-icebreaker-botnica-osc-050000876.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787547600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "dbceacce-3621-358b-8f5c-b42fcf929a60",
+      "title": "Aktsiaselts Infortar own share acquisition transactions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aktsiaselts-infortar-own-share-acquisition-050000512.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787547600,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "fab32e48-74ad-393e-928d-4fc0a936107d",
+      "title": "FLSmidth: Transactions under share buy-back programme",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/flsmidth-transactions-under-share-buy-050000877.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787547600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "51eec69d-02ca-3d6c-94ed-5c942e5bc5ce",
+      "title": "Fastly's CFO Sells Over 148,000 Shares Worth $4.2 Million. Here's What That Means for Investors.",
+      "link": "https://finance.yahoo.com/m/51eec69d-02ca-3d6c-94ed-5c942e5bc5ce/fastly%27s-cfo-sells-over.html",
+      "publisher": "Motley Fool",
+      "time": 1787546803,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
