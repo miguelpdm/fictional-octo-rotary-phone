@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T18:34:07.723074+00:00",
+  "updatedAt": "2026-08-24T19:23:30.565066+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7665.7,
-      "change": 24.539999999999964,
-      "changePct": 0.3211554266629669,
+      "price": 7659.7,
+      "change": 18.539999999999964,
+      "changePct": 0.24263331745441744,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26084.684,
-      "change": 17.514000000002852,
-      "changePct": 0.0671879609485911,
+      "price": 26040.207,
+      "change": -26.962999999999738,
+      "changePct": -0.10343662162022092,
       "currency": "USD"
     },
     {
@@ -44,102 +44,115 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.72,
-      "change": 0.5899999999999999,
-      "changePct": 3.899537343027097,
+      "price": 15.78,
+      "change": 0.6499999999999986,
+      "changePct": 4.296100462656963,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "a4a78d0d-bf80-376c-aae5-fae2ce72c201",
-      "title": "Google Is Turning Gemini Into a Website Builder",
-      "link": "https://finance.yahoo.com/technology/ai/articles/google-turning-gemini-website-builder-183307657.html",
+      "id": "1be82de6-a270-3d3d-afce-c5afc3bc0fb2",
+      "title": "Exxon Drops as Oil Retreats From $94",
+      "link": "https://finance.yahoo.com/energy/articles/exxon-drops-oil-retreats-94-191950154.html",
       "publisher": "GuruFocus.com",
-      "time": 1787596387,
-      "impact": "low",
-      "tags": []
+      "time": 1787599190,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "2c52862f-9efc-308d-9dbb-80884f8d5e88",
-      "title": "Tesla Just Took a Blow to Its AI Chip Plans",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tesla-just-took-blow-ai-183148664.html",
+      "id": "51576b0e-9909-3949-a636-22256d65498f",
+      "title": "Johnson & Johnson Rises 1.3% as Investors Seek Stability",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-rises-1-3-191853863.html",
       "publisher": "GuruFocus.com",
-      "time": 1787596308,
+      "time": 1787599133,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0461cf33-8318-4878-b49a-b90566a889d6",
-      "title": "BitMart to hire restructuring lawyers and explore creditor distributions",
-      "link": "https://finance.yahoo.com/video/bitmart-hire-restructuring-lawyers-explore-183000566.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1787596200,
+      "id": "5c0adfdd-311e-3b4c-a407-a1e277bca8ef",
+      "title": "Eli Lilly Slips as Its $1.1 Trillion Valuation Cools",
+      "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-slips-1-1-191751327.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787599071,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c8600957-9d3d-301c-8dd2-4e4ab1dab212",
-      "title": "Is the Weight-Loss Drug Market Really a Winner-Take-All Fight Between Novo Nordisk (NVO) and Eli Lilly (LLY)?",
-      "link": "https://finance.yahoo.com/healthcare/articles/weight-loss-drug-market-really-182927810.html",
-      "publisher": "Insider Monkey",
-      "time": 1787596167,
+      "id": "fa045437-d0f1-4487-b1cf-d2a7368dc218",
+      "title": "Nvidia's valuation looks surprisingly cheap heading into earnings. Could it be an issue for the stock?",
+      "link": "https://finance.yahoo.com/markets/stocks/article/nvidias-valuation-looks-surprisingly-cheap-heading-into-earnings-could-it-be-an-issue-for-the-stock-191738544.html",
+      "publisher": "Yahoo Finance",
+      "time": 1787599058,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "659c0998-f114-3aba-b2fc-37f9dcedae5e",
+      "title": "U.S. Stocks Mixed With Nasdaq Slipping on Weakness in Tech Sector",
+      "link": "https://finance.yahoo.com/m/659c0998-f114-3aba-b2fc-37f9dcedae5e/u.s.-stocks-mixed-with-nasdaq.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787599020,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "b5e99496-f5e5-37fe-9351-1b165645165a",
-      "title": "Meta and Google Face a New Social Media Threat",
-      "link": "https://finance.yahoo.com/economy/policy/articles/meta-google-face-social-media-182918634.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787596158,
+      "id": "a1423cf0-3f86-300c-83cc-ee4250cbc95a",
+      "title": "Current Standardizes Its $600M Firm Network on a Single Platform",
+      "link": "https://finance.yahoo.com/technology/articles/current-standardizes-600m-firm-network-191700882.html",
+      "publisher": "PR Newswire",
+      "time": 1787599020,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3398003e-911d-3f50-a1b9-8fc2150e6ce8",
-      "title": "Netflix May Be Ready to Do Something It Long Resisted",
-      "link": "https://finance.yahoo.com/media-advertising/articles/netflix-may-ready-something-long-182835520.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787596115,
-      "impact": "low",
-      "tags": []
+      "id": "086c9dab-28aa-47b5-8399-6e8290f79e2d",
+      "title": "Bessent's Iranian sanction target these 5 key sectors",
+      "link": "https://finance.yahoo.com/video/bessents-iranian-sanction-target-5-191638829.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1787598998,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
     },
     {
-      "id": "04cc988c-56e0-3c2d-8ff5-3eef33894dab",
-      "title": "Longtime Austin Businessman Gary Bradley Reaches Confidential Settlement in Claims Against the Austin American-Statesman",
-      "link": "https://finance.yahoo.com/small-business/articles/longtime-austin-businessman-gary-bradley-182800835.html",
-      "publisher": "Business Wire",
-      "time": 1787596080,
-      "impact": "low",
-      "tags": []
+      "id": "d4b3ddbf-3144-33e8-ad64-2a3891b07274",
+      "title": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases",
+      "link": "https://finance.yahoo.com/news/dollar-pinned-at-multi-month-lows-as-debt-nerves-unnerve-investors-084611780.html",
+      "publisher": "Reuters",
+      "time": 1787598964,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "36ec921e-fc73-31f2-a11e-9f86d8b0bf12",
-      "title": "US New-Home Sales Expected to Fall in July After Gain in June",
-      "link": "https://finance.yahoo.com/real-estate/articles/us-home-sales-expected-fall-182758034.html",
-      "publisher": "MT Newswires",
-      "time": 1787596078,
-      "impact": "low",
-      "tags": []
+      "id": "7ebf9218-b8f1-3c56-be8a-139037b7fd78",
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - CBR",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-investment-regulatory-organization-trade-191600360.html",
+      "publisher": "CNW Group",
+      "time": 1787598960,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
     },
     {
-      "id": "5b23fde3-c378-3e58-b3d9-ee3a262ac12d",
-      "title": "Visible Gold Mines Sells Non-Core MegaLi Lithium Property to PMET Resources",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/visible-gold-mines-sells-non-182745421.html",
-      "publisher": "MT Newswires",
-      "time": 1787596065,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "834c629b-c989-44bd-9be7-06b49999f094",
-      "title": "Mortgage refinance breakeven calculator",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-breakeven-calculator-182711716.html",
-      "publisher": "Personal Finance Embeddable Content",
-      "time": 1787596031,
+      "id": "d2d770a9-5723-3719-9661-f02ca0e5921f",
+      "title": "Dephy Expands Sidekick’s Personal Bionic Footwear Line to Assist in Powered Walking",
+      "link": "https://finance.yahoo.com/m/d2d770a9-5723-3719-9661-f02ca0e5921f/dephy-expands-sidekick%E2%80%99s.html",
+      "publisher": "Footwear News",
+      "time": 1787598940,
       "impact": "low",
       "tags": []
     }
