@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-24T07:35:37.492542+00:00",
+  "updatedAt": "2026-08-24T08:39:55.444277+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19995.9,
-      "change": 34.400000000001455,
-      "changePct": 0.17233173859680614,
+      "price": 19990.9,
+      "change": 29.400000000001455,
+      "changePct": 0.14728352077750395,
       "currency": "EUR"
     },
     {
@@ -28,17 +28,17 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26065.09,
-      "change": 82.04999999999927,
-      "changePct": 0.3157829106986683,
+      "price": 26109.12,
+      "change": 126.07999999999811,
+      "changePct": 0.48523960244835906,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6449.3,
-      "change": -12.920000000000073,
-      "changePct": -0.1999312929612435,
+      "price": 6452.06,
+      "change": -10.159999999999854,
+      "changePct": -0.1572215121119345,
       "currency": "EUR"
     },
     {
@@ -52,98 +52,102 @@
   ],
   "news": [
     {
-      "id": "96535254-c9f0-30bb-bacf-9ae66822c34c",
-      "title": "Market Chatter: Shell Draws Exxon, LyondellBasell Interest in US Chemicals Assets",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-shell-draws-exxon-073205156.html",
-      "publisher": "MT Newswires",
-      "time": 1787556725,
+      "id": "2060ddf4-521d-375d-a00d-d9ece9d028cd",
+      "title": "Prepayments (CK93) - Totalkredit A/S",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/prepayments-ck93-totalkredit-083500229.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787560500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "df542777-b90d-3ede-8211-6f6d8a5ae15b",
+      "title": "1 Cash-Producing Stock for Long-Term Investors and 2 We Question",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-producing-stock-long-083336643.html",
+      "publisher": "StockStory",
+      "time": 1787560416,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "3265cbc6-e59d-31fe-b224-726d66912634",
-      "title": "European shares slip as tech drags; Iran sanctions in focus",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-slip-tech-drags-073044780.html",
-      "publisher": "Reuters",
-      "time": 1787556644,
+      "id": "16f9facf-e05c-362d-b1c6-fb277ea6a92b",
+      "title": "BlackRock Says the Long-Term Investment Thesis for Bitcoin Remains Intact. Is Bitcoin Now a Buy?",
+      "link": "https://finance.yahoo.com/m/16f9facf-e05c-362d-b1c6-fb277ea6a92b/blackrock-says-the-long-term.html",
+      "publisher": "Motley Fool",
+      "time": 1787560380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "54ac9185-8135-3459-b3a6-ef327e1ff546",
+      "title": "High Power Microwave Weapons Market Report 2026-2035: Features Profiles of Raytheon (RTX), Epirus, CSGC / Norinco, Lockheed Martin, CASC and Other Regional Powerhouses",
+      "link": "https://finance.yahoo.com/technology/articles/high-power-microwave-weapons-market-083300798.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787560380,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "47451766-24dc-3292-a6ef-8bf3fa171ce4",
+      "title": "PFAS-Free Food Packaging Market Opportunity Forecast 2026-2035 | Regulatory Momentum and Sustainability Demand Accelerate PFAS-Free Food Packaging",
+      "link": "https://finance.yahoo.com/healthcare/articles/pfas-free-food-packaging-market-083200308.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787560320,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "ec5f243b-d0e6-3719-b464-be1cda6e2255",
-      "title": "2026 Taiwan Jewellery & Gem Fair to Take Place in November",
-      "link": "https://finance.yahoo.com/small-business/articles/2026-taiwan-jewellery-gem-fair-073000909.html",
-      "publisher": "PR Newswire",
-      "time": 1787556600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b040b3d7-1e22-33e2-b492-c7ea56b4c10b",
-      "title": "GSK Says Jemperli Accepted for Priority Review as Potential Treatment for Rectal Cancer",
-      "link": "https://finance.yahoo.com/healthcare/articles/gsk-says-jemperli-accepted-priority-072843419.html",
-      "publisher": "MT Newswires",
-      "time": 1787556523,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f0d5a2ed-5995-370d-9102-3e888b7ec90a",
-      "title": "MacGregor extends Horizon gangway to floating-to-floating personnel transfer",
-      "link": "https://finance.yahoo.com/energy/articles/macgregor-extends-horizon-gangway-floating-072600834.html",
-      "publisher": "PR Newswire",
-      "time": 1787556360,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "31014529-1b99-3e61-9d13-387f514c35ec",
-      "title": "Share buybacks in Ericsson during the period August 17 - August 21, 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/share-buybacks-ericsson-during-period-072300044.html",
-      "publisher": "PR Newswire",
-      "time": 1787556180,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7f770210-6c4b-3bc2-a56e-2e95f55cb0ca",
-      "title": "1 Unpopular Stock That Deserves Some Love and 2 We Avoid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-unpopular-stock-deserves-love-072136690.html",
-      "publisher": "StockStory",
-      "time": 1787556096,
-      "impact": "low",
+      "id": "ab222ced-27b6-3e86-9e54-097e41202290",
+      "title": "Shares, oil dip as US sanctions on Iran loom",
+      "link": "https://finance.yahoo.com/news/shares-flat-asia-iran-sanctions-004936320.html",
+      "publisher": "Reuters",
+      "time": 1787560305,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "7b26ac98-05f2-3315-82bc-d7445f53a84b",
-      "title": "MacGregor advances direct ship-to-well LCO₂ transfer, built on 50 years of proven bow-loading technology",
-      "link": "https://finance.yahoo.com/energy/articles/macgregor-advances-direct-ship-well-072000691.html",
-      "publisher": "PR Newswire",
-      "time": 1787556000,
+      "id": "da708dcd-522e-3cac-9b09-716f85d81877",
+      "title": "Prepayments (CK93) - Nykredit Realkredit A/S",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/prepayments-ck93-nykredit-realkredit-083100151.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787560260,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1d9f440f-83e4-3e33-b015-46abc37ec6e5",
-      "title": "Macy's is selling a $699 sterling silver diamond necklace for 75% off",
-      "link": "https://finance.yahoo.com/m/1d9f440f-83e4-3e33-b015-46abc37ec6e5/macy%27s-is-selling-a-%24699.html",
-      "publisher": "TheStreet",
-      "time": 1787555700,
+      "id": "5654f886-49f5-3e26-9d20-61abb689ee11",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-083000881.html",
+      "publisher": "Business Wire",
+      "time": 1787560200,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "dd8d7a50-e94f-3bb3-8876-b40869d8f6b1",
-      "title": "Scania to showcase its broad marine offering at SMM 2026",
-      "link": "https://finance.yahoo.com/energy/articles/scania-showcase-broad-marine-offering-071500305.html",
-      "publisher": "PR Newswire",
-      "time": 1787555700,
+      "id": "282cb30d-0f39-3751-8c73-b6bd18d0e973",
+      "title": "50/2026・Trifork Group: Weekly report on share buyback",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/50-2026-trifork-group-weekly-082900635.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787560140,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "46be7010-e280-3d41-82c9-62d6ad9032ac",
+      "title": "Name Change and Consolidation Approved",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/name-change-consolidation-approved-082800860.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787560080,
       "impact": "low",
       "tags": []
     }
