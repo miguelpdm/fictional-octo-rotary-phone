@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-25T08:34:18.953280+00:00",
+  "updatedAt": "2026-08-25T09:28:40.278741+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20149.1,
-      "change": 50.5,
-      "changePct": 0.25126128188033,
+      "price": 20179.1,
+      "change": 80.5,
+      "changePct": 0.400525409730031,
       "currency": "EUR"
     },
     {
@@ -28,53 +28,35 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26195.09,
-      "change": 58.529999999998836,
-      "changePct": 0.22393918710036376,
+      "price": 26255.32,
+      "change": 118.7599999999984,
+      "changePct": 0.45438267315973635,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6465.63,
-      "change": 17.650000000000546,
-      "changePct": 0.2737291368769839,
+      "price": 6477.43,
+      "change": 29.450000000000728,
+      "changePct": 0.4567321858938882,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.81,
-      "change": -0.03999999999999915,
-      "changePct": -0.25236593059936374,
+      "price": 15.77,
+      "change": -0.08000000000000007,
+      "changePct": -0.5047318611987386,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "b27ddf97-616e-3664-a645-2356a71a01b6",
-      "title": "ArcLight invests $1bn to launch independent transmission company",
-      "link": "https://finance.yahoo.com/m/b27ddf97-616e-3664-a645-2356a71a01b6/arclight-invests-%241bn-to.html",
-      "publisher": "Power Technology",
-      "time": 1787646746,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "215be053-0920-3f41-ae0e-eb556949fe6e",
-      "title": "Inside the automated mine: new issue of MINE out now!",
-      "link": "https://finance.yahoo.com/m/215be053-0920-3f41-ae0e-eb556949fe6e/inside-the-automated-mine%3A.html",
-      "publisher": "Mining Technology",
-      "time": 1787646600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b067690b-b9fd-3ec4-8a98-9fc1450c463f",
-      "title": "Lithium Corporation Highlights Proposed Bunker Hill and Silver47 Merger",
-      "link": "https://finance.yahoo.com/energy/articles/lithium-corporation-highlights-proposed-bunker-083000127.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787646600,
+      "id": "5d1895f4-55b2-35aa-ba86-fcd41d9b7477",
+      "title": "PDD Holdings’ net profit falls 12% despite revenue growth in Q2",
+      "link": "https://finance.yahoo.com/m/5d1895f4-55b2-35aa-ba86-fcd41d9b7477/pdd-holdings%E2%80%99-net-profit.html",
+      "publisher": "Retail Insight Network",
+      "time": 1787649884,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,60 +64,58 @@
       ]
     },
     {
-      "id": "561008d8-5604-3147-b265-f8059ceb2fe8",
-      "title": "EHang Reports Second Quarter 2026 Unaudited Financial Results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ehang-reports-second-quarter-2026-082600848.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787646360,
+      "id": "71d1cef1-cc24-3f2f-a42c-5de3473f11ef",
+      "title": "Asahi Kasei develops tech to raise energy density on lithium-ion batteries",
+      "link": "https://finance.yahoo.com/m/71d1cef1-cc24-3f2f-a42c-5de3473f11ef/asahi-kasei-develops-tech-to.html",
+      "publisher": "Just Auto",
+      "time": 1787649528,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5c18b811-b2b7-3e9a-bd5f-f2285edecaf9",
-      "title": "Market Chatter: SK Hynix Wage Deal Defeated in Razor-Thin Vote",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-sk-hynix-wage-082456257.html",
+      "id": "78246488-bfe9-3a12-8792-7bf3111d9d11",
+      "title": "Update: Gorilla Technology Shares Slump Premarket After Swinging to H1 Adjusted Loss Amid Strong Revenue Growth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gorilla-technology-shares-slump-premarket-091830969.html",
       "publisher": "MT Newswires",
-      "time": 1787646296,
+      "time": 1787649510,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "e72a98d8-705f-3f22-bcf1-50339c74fc00",
-      "title": "Update: Market Chatter: Shell Draws Exxon, LyondellBasell Interest in US Chemicals Assets",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-shell-draws-exxon-082424504.html",
-      "publisher": "MT Newswires",
-      "time": 1787646264,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "cf488517-9c0a-301b-8c06-e4a44baf671a",
-      "title": "Zacks.com featured highlights Sandisk, Celestica  and BrightSpring",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-sandisk-082400378.html",
-      "publisher": "Zacks",
-      "time": 1787646240,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2f72caff-abda-3a26-ba38-07ea0596166f",
-      "title": "Silver Bow Mining to acquire metallurgical complex in Montana, US",
-      "link": "https://finance.yahoo.com/m/2f72caff-abda-3a26-ba38-07ea0596166f/silver-bow-mining-to-acquire.html",
-      "publisher": "Mining Technology",
-      "time": 1787646185,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a2cbe971-1d32-3243-baf3-c1a2a0323866",
-      "title": "Stocks rise and oil slips as traders eye Iran threat, Nvidia results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-stagger-oil-rises-traders-024603014.html",
+      "id": "c82b5470-63b8-35c3-8ad8-e339ad998e1a",
+      "title": "Once its saviour, US puts Kuwait in Iran's crosshairs",
+      "link": "https://finance.yahoo.com/m/c82b5470-63b8-35c3-8ad8-e339ad998e1a/once-its-saviour%2C-us-puts.html",
       "publisher": "AFP",
-      "time": 1787646174,
+      "time": 1787649485,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "926837b1-5271-3b91-ad2a-bbd6d4a9db92",
+      "title": "Smartee Denti-Technology Launches AG KIDS in Malaysia",
+      "link": "https://finance.yahoo.com/healthcare/articles/smartee-denti-technology-launches-ag-091700818.html",
+      "publisher": "PR Newswire",
+      "time": 1787649420,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e850dd32-cb49-35d5-845a-4263c70d32f7",
+      "title": "Form 8.5 (EPT/RI) - Pharos Energy Plc",
+      "link": "https://finance.yahoo.com/markets/options/articles/form-8-5-ept-ri-091700071.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787649420,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a71273b1-d4d5-3d13-9aa3-5a2e540cc1ff",
+      "title": "Vipshop Q2 Adjusted Earnings, Revenue Fall; Shares Down Pre-Bell",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vipshop-q2-adjusted-earnings-revenue-091606519.html",
+      "publisher": "MT Newswires",
+      "time": 1787649366,
       "impact": "medium",
       "tags": [
         "macro",
@@ -143,15 +123,31 @@
       ]
     },
     {
-      "id": "2c01e6bb-0112-30a4-9acc-7021bdb66cd9",
-      "title": "2 Large-Cap Stocks with Exciting Potential and 1 That Underwhelm",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-large-cap-stocks-exciting-082244497.html",
-      "publisher": "StockStory",
-      "time": 1787646164,
+      "id": "3dc8f0c9-bcdf-38ec-bca1-cbb6f4b3ff22",
+      "title": "What Investors Should Know as Reddit's Chief Accounting Officer Files a New Insider Transaction",
+      "link": "https://finance.yahoo.com/m/3dc8f0c9-bcdf-38ec-bca1-cbb6f4b3ff22/what-investors-should-know-as.html",
+      "publisher": "Motley Fool",
+      "time": 1787649310,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
+    },
+    {
+      "id": "dba7e891-a732-3f01-a000-914652049f80",
+      "title": "TCS to acquire Porsche’s MHP subsidiary in $373m deal",
+      "link": "https://finance.yahoo.com/m/dba7e891-a732-3f01-a000-914652049f80/tcs-to-acquire-porsche%E2%80%99s-mhp.html",
+      "publisher": "Verdict",
+      "time": 1787649309,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1901cc32-7823-3923-bb76-4be6c11f9bdf",
+      "title": "WEI Earns Spot on CRN's 2026 Solution Provider 500 Fast Growth List",
+      "link": "https://finance.yahoo.com/technology/articles/wei-earns-spot-crns-2026-091500599.html",
+      "publisher": "PR Newswire",
+      "time": 1787649300,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
