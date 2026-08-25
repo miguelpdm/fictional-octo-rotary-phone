@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T20:53:43.584241+00:00",
+  "updatedAt": "2026-08-25T21:20:34.991330+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,53 +52,65 @@
   ],
   "news": [
     {
-      "id": "d92ff1a1-1b03-4ba0-a736-658d535d0f3d",
-      "title": "This could be the 'biggest' back-to-school shopping season 'ever,' this retail CEO explains",
-      "link": "https://finance.yahoo.com/video/could-biggest-back-school-shopping-204901781.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1787690941,
+      "id": "07e8ee88-276b-304b-a0aa-8f09ce3d3c17",
+      "title": "Kohl's Names Arianne Parisi Chief Customer Officer",
+      "link": "https://finance.yahoo.com/small-business/articles/kohls-names-arianne-parisi-chief-211500919.html",
+      "publisher": "Business Wire",
+      "time": 1787692500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c3b8eeee-44f6-3ff6-9581-95227834769a",
-      "title": "Cathie Wood's Biggest Buy Last Week Was SpaceX. She Sold Almost Exactly That Much Palantir the Same Day.",
-      "link": "https://finance.yahoo.com/m/c3b8eeee-44f6-3ff6-9581-95227834769a/cathie-wood%27s-biggest-buy.html",
-      "publisher": "Motley Fool",
-      "time": 1787690821,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c690a9a2-5036-3a72-9729-fe3b7804add6",
-      "title": "Strattec Security: Fiscal Q4 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/strattec-security-fiscal-q4-earnings-204600950.html",
-      "publisher": "Associated Press",
-      "time": 1787690760,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "72abe542-7974-3c7f-906c-92ed499cb1cb",
-      "title": "Unpacking Q2 Earnings: Nextpower (NASDAQ:NXT) In The Context Of Other Renewable Energy Stocks",
-      "link": "https://finance.yahoo.com/energy/articles/unpacking-q2-earnings-nextpower-nasdaq-204503083.html",
-      "publisher": "StockStory",
-      "time": 1787690703,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "8fd9aafe-1681-33e5-a6b4-758ce8e33bc6",
-      "title": "AVCON DELIVERS KING AIR B200 MOSQUITO CONTROL AIRCRAFT MODIFICATION",
-      "link": "https://finance.yahoo.com/technology/articles/avcon-delivers-king-air-b200-204500534.html",
+      "id": "4607adc4-736c-3cd2-b1af-3a1972a5955e",
+      "title": "UNIVERSAL HEALTH SERVICES, INC. TO PRESENT AT SEPTEMBER HEALTHCARE CONFERENCES",
+      "link": "https://finance.yahoo.com/healthcare/articles/universal-health-services-inc-present-211500366.html",
       "publisher": "PR Newswire",
-      "time": 1787690700,
+      "time": 1787692500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9b5a94de-44a0-3ed3-a197-5e62f2af3022",
+      "title": "Accrete Climbs Into the Top Tier of the 2026 Inc. 5000 Fastest Growing Private Companies",
+      "link": "https://finance.yahoo.com/technology/ai/articles/accrete-climbs-top-tier-2026-211300074.html",
+      "publisher": "PR Newswire",
+      "time": 1787692380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "09c6a6e2-1a2f-34d6-bf02-b0b9fe45f190",
+      "title": "Dolly Parton International Airport campaign regains support after her death",
+      "link": "https://finance.yahoo.com/m/09c6a6e2-1a2f-34d6-bf02-b0b9fe45f190/dolly-parton-international.html",
+      "publisher": "The Tennessean",
+      "time": 1787692258,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7ed0bdd3-222b-30fb-87d6-84fb4f838f7f",
+      "title": "P2 Gold: Car Body Zone Metallurgy and Drill Results Support Plans to Accelerate Mining and Cash Flow; Gabbs Project Update",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/p2-gold-car-body-zone-211000447.html",
+      "publisher": "CNW Group",
+      "time": 1787692200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c292242d-a43b-3176-8b2c-0b6b0469984f",
+      "title": "Restaurants Are Turning Beverages Into Their Next Growth Engine, Report Finds",
+      "link": "https://finance.yahoo.com/m/c292242d-a43b-3176-8b2c-0b6b0469984f/restaurants-are-turning.html",
+      "publisher": "Barrons.com",
+      "time": 1787692200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1817f35e-c9b9-399d-b381-31c8f5c81f93",
+      "title": "Par Pacific Reports Agreement to Sell Laramie Energy Assets",
+      "link": "https://finance.yahoo.com/energy/articles/par-pacific-reports-agreement-sell-210926299.html",
+      "publisher": "MT Newswires",
+      "time": 1787692166,
       "impact": "low",
       "tags": []
     },
@@ -107,7 +119,7 @@
       "title": "Dow Jones Futures: Stocks Rise Cautiously Into Fed Inflation Data, Nvidia Earnings; Robinhood In Buy Area",
       "link": "https://finance.yahoo.com/m/a1a5cb94-36b5-3bbd-869f-362442258823/dow-jones-futures%3A-stocks.html",
       "publisher": "Investor's Business Daily",
-      "time": 1787690699,
+      "time": 1787692164,
       "impact": "high",
       "tags": [
         "geo",
@@ -115,43 +127,20 @@
       ]
     },
     {
-      "id": "3daa6b7d-4e60-3c03-9f88-6317daac1b10",
-      "title": "Boeing Lands $131 Bil F-15 Fighter Jet Contract, Analyst Lifts Booz Allen Targets",
-      "link": "https://finance.yahoo.com/m/3daa6b7d-4e60-3c03-9f88-6317daac1b10/boeing-lands-%24131-bil-f-15.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787690657,
+      "id": "dd4bd1bb-f4dc-33ae-96bf-1e4b668e9861",
+      "title": "Media Advisory: Infrastructure Announcement in Vaughan",
+      "link": "https://finance.yahoo.com/media-advertising/articles/media-advisory-infrastructure-announcement-vaughan-210900065.html",
+      "publisher": "CNW Group",
+      "time": 1787692140,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "dcb73990-63db-3cc9-a22e-55c79704dfc0",
-      "title": "How Will the New Canadian Tariffs Affect the U.S. Economy?",
-      "link": "https://finance.yahoo.com/m/dcb73990-63db-3cc9-a22e-55c79704dfc0/how-will-the-new-canadian.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787690640,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "21c8a902-8c57-3fbe-9ffd-369cdabc522a",
-      "title": "Update: Equities Rise Despite US-Canada Trade Tensions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-despite-us-canada-204357386.html",
-      "publisher": "MT Newswires",
-      "time": 1787690637,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "f5e5b049-21e2-351a-b566-a54acde00896",
-      "title": "Amazon Insider Sold Shares Worth $1,606,633, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-insider-sold-shares-worth-204331790.html",
-      "publisher": "MT Newswires",
-      "time": 1787690611,
+      "id": "1d302484-bb1e-357e-a705-9d968da3ee74",
+      "title": "Spain plans new, stricter data centres rules, sources say",
+      "link": "https://finance.yahoo.com/m/1d302484-bb1e-357e-a705-9d968da3ee74/spain-plans-new%2C-stricter.html",
+      "publisher": "Reuters",
+      "time": 1787692127,
       "impact": "low",
       "tags": []
     }
