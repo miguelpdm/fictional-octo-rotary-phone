@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T19:54:19.507821+00:00",
+  "updatedAt": "2026-08-25T20:20:45.774721+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7678.12,
-      "change": 3.75,
-      "changePct": 0.04886394583529332,
+      "price": 7677.28,
+      "change": 2.9099999999998545,
+      "changePct": 0.03791842196818572,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26147.252,
-      "change": -33.20799999999872,
-      "changePct": -0.12684269107570575,
+      "price": 26151.299,
+      "change": -29.161000000000058,
+      "changePct": -0.11138459752044105,
       "currency": "USD"
     },
     {
@@ -52,38 +52,29 @@
   ],
   "news": [
     {
-      "id": "04a71fbc-4093-3017-ad30-11594f50aca8",
-      "title": "S&P 100 Is Quietly Sending a Powerful Signal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-100-quietly-sending-powerful-195321128.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787687601,
+      "id": "c04384eb-4eec-3623-b320-f5a4453e3b00",
+      "title": "MILLER INDUSTRIES TO PRESENT AND HOST 1X1 INVESTOR MEETINGS AT THE 17TH ANNUAL MIDWEST IDEAS INVESTOR CONFERENCE ON AUGUST 26TH & 27TH IN CHICAGO, IL",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/miller-industries-present-host-1x1-201500584.html",
+      "publisher": "PR Newswire",
+      "time": 1787688900,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "abe0079d-d1b4-3747-a67d-12d35d052194",
-      "title": "Arm Rises 2.8% as $272 Target Prices the CPU Tollbooth",
-      "link": "https://finance.yahoo.com/technology/articles/arm-rises-2-8-272-195205428.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787687525,
+      "id": "f421f90e-44a2-3361-93ef-5bfed01e25dc",
+      "title": "Global Business Travel Group Insider Sold Shares Worth $612,819, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/global-business-travel-group-insider-201445844.html",
+      "publisher": "MT Newswires",
+      "time": 1787688885,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "12b1fb10-60c3-3d57-bfc2-cdffe72217bf",
-      "title": "Merck Just Gained 19% in a Month. What Would It Take to Get MRK Stock Up to $200?",
-      "link": "https://finance.yahoo.com/m/12b1fb10-60c3-3d57-bfc2-cdffe72217bf/merck-just-gained-19%25-in-a.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787687496,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "aec8009d-c0ae-3685-b2c2-5cdcfd380bbb",
-      "title": "Earnings To Watch: Agilent (A) Reports Q2 Results Tomorrow",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-agilent-reports-q2-195044115.html",
-      "publisher": "StockStory",
-      "time": 1787687444,
+      "id": "75aa7bd2-c26b-3136-b7f9-a458ee460aff",
+      "title": "Semtech: Fiscal Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/semtech-fiscal-q2-earnings-snapshot-201444991.html",
+      "publisher": "Associated Press",
+      "time": 1787688884,
       "impact": "medium",
       "tags": [
         "macro",
@@ -91,20 +82,20 @@
       ]
     },
     {
-      "id": "4b281b34-a96b-3c29-93aa-4e116d06e5f7",
-      "title": "UPDATE: Governor General to undertake official visit to Newfoundland and Labrador",
-      "link": "https://finance.yahoo.com/economy/policy/articles/governor-general-undertake-official-visit-195000559.html",
-      "publisher": "CNW Group",
-      "time": 1787687400,
+      "id": "e1cd1ace-4110-3600-b0a9-9c57eef350f5",
+      "title": "Kewaunee Scientific to Report Results for First Quarter Fiscal Year 2027",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kewaunee-scientific-report-results-first-201400741.html",
+      "publisher": "PR Newswire",
+      "time": 1787688840,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "72f5f06e-631b-3cef-985f-4447e715804f",
-      "title": "Exxon Falls as Oil Erases the Iran Premium",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exxon-falls-oil-erases-iran-194926639.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787687366,
+      "id": "bb139b03-8822-3922-92a5-cdc800de2cef",
+      "title": "Box: Fiscal Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/box-fiscal-q2-earnings-snapshot-201234911.html",
+      "publisher": "Associated Press",
+      "time": 1787688754,
       "impact": "medium",
       "tags": [
         "macro",
@@ -112,20 +103,20 @@
       ]
     },
     {
-      "id": "5357d3f8-941f-3596-a47f-2ebd8cc44bfc",
-      "title": "Oracle Jumps as $638 Billion Backlog Outruns Cash Burn",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-jumps-638-billion-backlog-194801100.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787687281,
+      "id": "3d9b9e12-390f-305b-b345-d3bdd408d0ae",
+      "title": "Vulcan Materials Insider Sold Shares Worth $3,866,404, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vulcan-materials-insider-sold-shares-201140878.html",
+      "publisher": "MT Newswires",
+      "time": 1787688700,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5a9431d7-9b24-3c30-9a72-bdaeaf572fee",
-      "title": "BILL (BILL) Expanded Non-GAAP Operating Profit While Reported Business Metric Fell. Has its Efficiency Push Gone Too Far?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bill-bill-expanded-non-gaap-194756214.html",
-      "publisher": "Insider Monkey",
-      "time": 1787687276,
+      "id": "5a64ac42-80db-31dc-8969-97e970aed6ab",
+      "title": "Intuit Fiscal Q4 Adjusted Earnings, Revenue Rise; Issues Fiscal Q1, Fiscal 2027 Guidance; Increases Quarterly Dividend",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intuit-fiscal-q4-adjusted-earnings-201113371.html",
+      "publisher": "MT Newswires",
+      "time": 1787688673,
       "impact": "medium",
       "tags": [
         "macro",
@@ -133,20 +124,29 @@
       ]
     },
     {
-      "id": "0c53e238-d3de-3a6e-8137-bd037505576b",
-      "title": "Meta Rises as $90 Billion Cash Pile Faces Trial",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-rises-90-billion-cash-194702035.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787687222,
+      "id": "463d59a1-d508-300f-8a9b-b24ae03575bd",
+      "title": "DNA&STONE DEBUTS 'FREE ON THE STREET\" FOR BECU, A CAMPAIGN CALLING OUT THE TRUTH ABOUT 'FREE' CHECKING",
+      "link": "https://finance.yahoo.com/media-advertising/articles/dna-stone-debuts-free-street-201100493.html",
+      "publisher": "PR Newswire",
+      "time": 1787688660,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "91b846e4-4cbc-3ae9-990b-c3a99389df0f",
-      "title": "India’s manufacturing boom reaches packaging",
-      "link": "https://finance.yahoo.com/m/91b846e4-4cbc-3ae9-990b-c3a99389df0f/india%E2%80%99s-manufacturing-boom.html",
-      "publisher": "Packaging Gateway",
-      "time": 1787687152,
+      "id": "b9d751af-615b-3785-bb16-8b9194b945ea",
+      "title": "Match Group to Present at Upcoming Investor Conferences",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/match-group-present-upcoming-investor-201100226.html",
+      "publisher": "PR Newswire",
+      "time": 1787688660,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4a8aa10b-ab06-3f91-abd2-398f8864dc6c",
+      "title": "ThredUp Releases Fifth Annual Impact Report",
+      "link": "https://finance.yahoo.com/small-business/articles/thredup-releases-fifth-annual-impact-201000724.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787688600,
       "impact": "low",
       "tags": []
     }
