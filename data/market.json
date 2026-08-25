@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-25T11:28:38.923923+00:00",
+  "updatedAt": "2026-08-25T11:55:08.647724+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20165.8,
-      "change": 67.20000000000073,
-      "changePct": 0.33435164638333387,
+      "price": 20121.0,
+      "change": 22.400000000001455,
+      "changePct": 0.11145054879445064,
       "currency": "EUR"
     },
     {
@@ -28,101 +28,35 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26312.29,
-      "change": 175.72999999999956,
-      "changePct": 0.6723532094506682,
+      "price": 26318.65,
+      "change": 182.09000000000015,
+      "changePct": 0.6966869396737755,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6482.7,
-      "change": 34.720000000000255,
-      "changePct": 0.5384632086327852,
+      "price": 6478.14,
+      "change": 30.160000000000764,
+      "changePct": 0.4677433863008379,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.82,
-      "change": -0.02999999999999936,
-      "changePct": -0.18927444794952278,
+      "price": 15.76,
+      "change": -0.08999999999999986,
+      "changePct": -0.5678233438485796,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "64174c92-f4c4-3569-8dd7-f98529c32957",
-      "title": "US EXIM issues $1.1bn project letter for Ivanhoe Electric copper project",
-      "link": "https://finance.yahoo.com/m/64174c92-f4c4-3569-8dd7-f98529c32957/us-exim-issues-%241.1bn-project.html",
-      "publisher": "Mining Technology",
-      "time": 1787657021,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "96e5f69b-a8cf-38f9-a4ce-f6d10540cab0",
-      "title": "Trump says he's considering renaming Lake Ontario as 'Lake America' as trade war escalates",
-      "link": "https://finance.yahoo.com/m/96e5f69b-a8cf-38f9-a4ce-f6d10540cab0/trump-says-he%27s-considering.html",
-      "publisher": "Associated Press",
-      "time": 1787656843,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "f6f18ac7-c2da-3123-bc2c-e29128e99da5",
-      "title": "Son of Luxottica founder quits after succession row",
-      "link": "https://finance.yahoo.com/small-business/articles/son-luxottica-founder-quits-succession-112006813.html",
-      "publisher": "AFP",
-      "time": 1787656806,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7178b852-a85c-3256-8354-a0b8b27f9cb8",
-      "title": "HireQuotient Delivers 70% Reduction in Manual Recruiting Effort for NYC's Alliance Building Services",
-      "link": "https://finance.yahoo.com/small-business/articles/hirequotient-delivers-70-reduction-manual-112000464.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787656800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8240c59a-9f1f-3ecb-8ae9-359526d95a5c",
-      "title": "3 Social Security Rules Retirees Forget About",
-      "link": "https://finance.yahoo.com/m/8240c59a-9f1f-3ecb-8ae9-359526d95a5c/3-social-security-rules.html",
-      "publisher": "Motley Fool",
-      "time": 1787656800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d4f8c94b-a85f-39a9-b86e-005bcf9e0ff3",
-      "title": "Rhelion Life Sciences Wholly Owned Subsidiary Filament Health Completes Shipment of PEX010 for University of Washington Phase 2a Trial in Cancer-Related Anxiety and Depression",
-      "link": "https://finance.yahoo.com/healthcare/articles/rhelion-life-sciences-wholly-owned-112000043.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787656800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b5d2e4c1-32a6-31bb-9af0-884dc70ba3a1",
-      "title": "Japan seeks record $230 billion to service debt",
-      "link": "https://finance.yahoo.com/economy/policy/articles/japan-seeks-record-230-billion-111940905.html",
-      "publisher": "Investing.com",
-      "time": 1787656780,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f06e6a75-e6fc-3e74-809b-1aeccf970249",
-      "title": "Dick's Sporting Goods Fiscal Q2 Non-GAAP Earnings Fall, Sales Rise; Cuts Fiscal 2026 EPS, Sales Guidance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dick-apos-sporting-goods-fiscal-111914401.html",
-      "publisher": "MT Newswires",
-      "time": 1787656754,
+      "id": "72d0ef6e-2f1b-454a-b15d-298715917bc2",
+      "title": "Earnings live updates: Dick's Sporting Goods stock tanks after retailer slashes outlook amid 'challenging conditions'",
+      "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html",
+      "publisher": "Yahoo Finance",
+      "time": 1787658794,
       "impact": "medium",
       "tags": [
         "macro",
@@ -130,20 +64,96 @@
       ]
     },
     {
-      "id": "4f04bdb1-3b3d-3e56-8546-3c33b8bda212",
-      "title": "GoldHaven Resources Plans to Raise Up to C$2 Million",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/goldhaven-resources-plans-raise-c-111913154.html",
+      "id": "c1b2a88c-8f75-3ea0-955d-3a9f62bcbe1d",
+      "title": "Stocks Rise Pre-Bell as Traders Weigh US Trade Measures Against Iran, Canada",
+      "link": "https://finance.yahoo.com/economy/policy/articles/stocks-rise-pre-bell-traders-115259445.html",
       "publisher": "MT Newswires",
-      "time": 1787656753,
+      "time": 1787658779,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "887802a6-654b-3951-ad49-0882ae7dc96e",
+      "title": "Constellation Wealth buys minority stake in Confluence Financial",
+      "link": "https://finance.yahoo.com/m/887802a6-654b-3951-ad49-0882ae7dc96e/constellation-wealth-buys.html",
+      "publisher": "Private Banker International",
+      "time": 1787658760,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "75a72751-839a-300f-86b5-24f9ea64ff88",
+      "title": "United Airlines to Launch 10 New International Routes in 2027",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/united-airlines-launch-10-international-115200712.html",
+      "publisher": "MT Newswires",
+      "time": 1787658720,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a6278bc7-13b7-3c5f-9766-7409b611b3d9",
-      "title": "Europe's gaming bash kicks off as industry eyes 'Grand Theft' boost",
-      "link": "https://finance.yahoo.com/media-advertising/articles/europes-gaming-bash-kicks-off-111913393.html",
-      "publisher": "AFP",
-      "time": 1787656753,
+      "id": "0155b34d-91c5-33ac-9753-c6cd4a6c517a",
+      "title": "3 of Wall Street’s Favorite Stocks We Keep Off Our Radar",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-wall-street-favorite-stocks-115044554.html",
+      "publisher": "StockStory",
+      "time": 1787658644,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "6136034c-7261-338f-ab4e-7e6fc9a5ed50",
+      "title": "Marzetti Fiscal Q4 Adjusted Earnings Rise, Net Sales Fall",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/marzetti-fiscal-q4-adjusted-earnings-115040144.html",
+      "publisher": "MT Newswires",
+      "time": 1787658640,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "87c58c47-b6d1-3959-9495-fc0c5608d2c4",
+      "title": "Polaris Renewable Energy Announces Renewal of Normal Course Issuer Bid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/polaris-renewable-energy-announces-renewal-115000436.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787658600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "68dea344-7ff0-308b-bdb5-2874b925df5d",
+      "title": "Formula Systems: Q2 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/formula-systems-q2-earnings-snapshot-114950045.html",
+      "publisher": "Associated Press",
+      "time": 1787658590,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "705d3d4b-0208-333a-8ad5-b975ae46f3ea",
+      "title": "First Mining Gold and Slate Falls Nation Sign Project Agreement for Development of Springpole Gold Project",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/first-mining-gold-slate-falls-114942994.html",
+      "publisher": "MT Newswires",
+      "time": 1787658582,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ff85e42d-516b-30ec-88c2-bb7316fece7d",
+      "title": "Oppenheimer Initiates Coverage on Kodiak AI With Outperform Rating, $9 Price Target",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-initiates-coverage-kodiak-ai-114858037.html",
+      "publisher": "MT Newswires",
+      "time": 1787658538,
       "impact": "low",
       "tags": []
     }
