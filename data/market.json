@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-25T07:38:29.637755+00:00",
+  "updatedAt": "2026-08-25T08:34:18.953280+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20167.4,
-      "change": 68.80000000000291,
-      "changePct": 0.3423123998686621,
+      "price": 20149.1,
+      "change": 50.5,
+      "changePct": 0.25126128188033,
       "currency": "EUR"
     },
     {
@@ -28,35 +28,53 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26182.77,
-      "change": 46.20999999999913,
-      "changePct": 0.17680214993862667,
+      "price": 26195.09,
+      "change": 58.529999999998836,
+      "changePct": 0.22393918710036376,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6469.45,
-      "change": 21.470000000000255,
-      "changePct": 0.3329724968129594,
+      "price": 6465.63,
+      "change": 17.650000000000546,
+      "changePct": 0.2737291368769839,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.75,
-      "change": -0.09999999999999964,
-      "changePct": -0.6309148264984206,
+      "price": 15.81,
+      "change": -0.03999999999999915,
+      "changePct": -0.25236593059936374,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "dd6deec7-2a39-39b7-8b23-dd35f6a895aa",
-      "title": "CONDITIONS FOR SALE OF RIKSBANK CERTIFICATES",
-      "link": "https://finance.yahoo.com/news/conditions-sale-riksbank-certificates-073000962.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787643000,
+      "id": "b27ddf97-616e-3664-a645-2356a71a01b6",
+      "title": "ArcLight invests $1bn to launch independent transmission company",
+      "link": "https://finance.yahoo.com/m/b27ddf97-616e-3664-a645-2356a71a01b6/arclight-invests-%241bn-to.html",
+      "publisher": "Power Technology",
+      "time": 1787646746,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "215be053-0920-3f41-ae0e-eb556949fe6e",
+      "title": "Inside the automated mine: new issue of MINE out now!",
+      "link": "https://finance.yahoo.com/m/215be053-0920-3f41-ae0e-eb556949fe6e/inside-the-automated-mine%3A.html",
+      "publisher": "Mining Technology",
+      "time": 1787646600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b067690b-b9fd-3ec4-8a98-9fc1450c463f",
+      "title": "Lithium Corporation Highlights Proposed Bunker Hill and Silver47 Merger",
+      "link": "https://finance.yahoo.com/energy/articles/lithium-corporation-highlights-proposed-bunker-083000127.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787646600,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,82 +82,60 @@
       ]
     },
     {
-      "id": "239c8702-6066-3b10-9814-f85acfb185bb",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-072800515.html",
-      "publisher": "Business Wire",
-      "time": 1787642880,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cfbd2d8a-8e53-3653-bf80-d55cb1d36f5c",
-      "title": "2 Cash-Heavy Stocks to Consider Right Now and 1 Facing Challenges",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-cash-heavy-stocks-consider-072644836.html",
-      "publisher": "StockStory",
-      "time": 1787642804,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "548b459b-e06c-3149-9778-c0ab1831cc24",
-      "title": "WEPSEA 2026 to Spotlight Indonesia's Sustainable Food Packaging Market with Pulp Molding Forum Connecting Brands and the Packaging Supply Chain",
-      "link": "https://finance.yahoo.com/technology/articles/wepsea-2026-spotlight-indonesias-sustainable-072600908.html",
-      "publisher": "PR Newswire",
-      "time": 1787642760,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "d84773e2-6afe-3aa8-938d-9d9ec85e2a38",
-      "title": "Form 8.3",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-072500584.html",
-      "publisher": "Business Wire",
-      "time": 1787642700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4c8dcf89-67a3-3bd5-9b3e-1f8a1354935d",
-      "title": "Global Times: Driving high-quality development to achieve long-term stability and progress: Zhong Caiwen article",
-      "link": "https://finance.yahoo.com/economy/policy/articles/global-times-driving-high-quality-072400893.html",
+      "id": "561008d8-5604-3147-b265-f8059ceb2fe8",
+      "title": "EHang Reports Second Quarter 2026 Unaudited Financial Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ehang-reports-second-quarter-2026-082600848.html",
       "publisher": "GlobeNewswire",
-      "time": 1787642640,
+      "time": 1787646360,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3162bb95-e8df-3dc1-a814-8adf0a90f1e5",
-      "title": "Global Times: What does China’s 4.7 percent growth in the first half of 2026 tell us? Zhong Caiwen article",
-      "link": "https://finance.yahoo.com/economy/articles/global-times-does-china-4-072300005.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787642580,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "97b24a77-a40a-3886-9495-90d72b081c1e",
-      "title": "Reddit's Steve Huffman Filed a Form 4 Right as the Index Pop Faded. Here's What Long-Term Investors Should Know",
-      "link": "https://finance.yahoo.com/m/97b24a77-a40a-3886-9495-90d72b081c1e/reddit%27s-steve-huffman-filed.html",
-      "publisher": "Motley Fool",
-      "time": 1787642541,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "0cfde62a-5c59-3418-872a-8063f4783879",
-      "title": "Woodside Energy H1 Earnings, Revenue Rise",
-      "link": "https://finance.yahoo.com/energy/articles/woodside-energy-h1-earnings-revenue-072154809.html",
+      "id": "5c18b811-b2b7-3e9a-bd5f-f2285edecaf9",
+      "title": "Market Chatter: SK Hynix Wage Deal Defeated in Razor-Thin Vote",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-sk-hynix-wage-082456257.html",
       "publisher": "MT Newswires",
-      "time": 1787642514,
+      "time": 1787646296,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "e72a98d8-705f-3f22-bcf1-50339c74fc00",
+      "title": "Update: Market Chatter: Shell Draws Exxon, LyondellBasell Interest in US Chemicals Assets",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-shell-draws-exxon-082424504.html",
+      "publisher": "MT Newswires",
+      "time": 1787646264,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "cf488517-9c0a-301b-8c06-e4a44baf671a",
+      "title": "Zacks.com featured highlights Sandisk, Celestica  and BrightSpring",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-sandisk-082400378.html",
+      "publisher": "Zacks",
+      "time": 1787646240,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2f72caff-abda-3a26-ba38-07ea0596166f",
+      "title": "Silver Bow Mining to acquire metallurgical complex in Montana, US",
+      "link": "https://finance.yahoo.com/m/2f72caff-abda-3a26-ba38-07ea0596166f/silver-bow-mining-to-acquire.html",
+      "publisher": "Mining Technology",
+      "time": 1787646185,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a2cbe971-1d32-3243-baf3-c1a2a0323866",
+      "title": "Stocks rise and oil slips as traders eye Iran threat, Nvidia results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-stagger-oil-rises-traders-024603014.html",
+      "publisher": "AFP",
+      "time": 1787646174,
       "impact": "medium",
       "tags": [
         "macro",
@@ -147,13 +143,15 @@
       ]
     },
     {
-      "id": "763754a3-2991-33f5-894e-91109402b935",
-      "title": "New Publication Broadens the Potential of DiviTum TKa in Immuno-Oncology",
-      "link": "https://finance.yahoo.com/healthcare/articles/publication-broadens-potential-divitum-tka-072000701.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787642400,
+      "id": "2c01e6bb-0112-30a4-9acc-7021bdb66cd9",
+      "title": "2 Large-Cap Stocks with Exciting Potential and 1 That Underwhelm",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-large-cap-stocks-exciting-082244497.html",
+      "publisher": "StockStory",
+      "time": 1787646164,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
