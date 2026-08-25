@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-25T11:55:08.647724+00:00",
+  "updatedAt": "2026-08-25T12:35:25.464994+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20121.0,
-      "change": 22.400000000001455,
-      "changePct": 0.11145054879445064,
+      "price": 20131.3,
+      "change": 32.70000000000073,
+      "changePct": 0.1626978993561777,
       "currency": "EUR"
     },
     {
@@ -28,17 +28,17 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26318.65,
-      "change": 182.09000000000015,
-      "changePct": 0.6966869396737755,
+      "price": 26307.22,
+      "change": 170.65999999999985,
+      "changePct": 0.6529550943199864,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6478.14,
-      "change": 30.160000000000764,
-      "changePct": 0.4677433863008379,
+      "price": 6477.88,
+      "change": 29.900000000000546,
+      "changePct": 0.46371111572927565,
       "currency": null
     },
     {
@@ -52,108 +52,97 @@
   ],
   "news": [
     {
-      "id": "72d0ef6e-2f1b-454a-b15d-298715917bc2",
-      "title": "Earnings live updates: Dick's Sporting Goods stock tanks after retailer slashes outlook amid 'challenging conditions'",
-      "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html",
-      "publisher": "Yahoo Finance",
-      "time": 1787658794,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c1b2a88c-8f75-3ea0-955d-3a9f62bcbe1d",
-      "title": "Stocks Rise Pre-Bell as Traders Weigh US Trade Measures Against Iran, Canada",
-      "link": "https://finance.yahoo.com/economy/policy/articles/stocks-rise-pre-bell-traders-115259445.html",
-      "publisher": "MT Newswires",
-      "time": 1787658779,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "887802a6-654b-3951-ad49-0882ae7dc96e",
-      "title": "Constellation Wealth buys minority stake in Confluence Financial",
-      "link": "https://finance.yahoo.com/m/887802a6-654b-3951-ad49-0882ae7dc96e/constellation-wealth-buys.html",
-      "publisher": "Private Banker International",
-      "time": 1787658760,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "75a72751-839a-300f-86b5-24f9ea64ff88",
-      "title": "United Airlines to Launch 10 New International Routes in 2027",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/united-airlines-launch-10-international-115200712.html",
-      "publisher": "MT Newswires",
-      "time": 1787658720,
+      "id": "770349a1-0573-3789-a2e6-147d224c3e6c",
+      "title": "Utility Global Taps Erik Meuleman as Chief Technology Officer to Advance Proprietary H2Gen Commercialization",
+      "link": "https://finance.yahoo.com/energy/articles/utility-global-taps-erik-meuleman-123200380.html",
+      "publisher": "CNW Group",
+      "time": 1787661120,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0155b34d-91c5-33ac-9753-c6cd4a6c517a",
-      "title": "3 of Wall Street’s Favorite Stocks We Keep Off Our Radar",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-wall-street-favorite-stocks-115044554.html",
-      "publisher": "StockStory",
-      "time": 1787658644,
+      "id": "74e2b5b7-2c30-3091-a661-b319e65a969b",
+      "title": "A $1,500 iPhone Just Outran a $50,000 Lab Bench - On Camera, Unscripted, Independently Verified",
+      "link": "https://finance.yahoo.com/technology/articles/1-500-iphone-just-outran-123100323.html",
+      "publisher": "PR Newswire",
+      "time": 1787661060,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "008e4c41-e855-3b83-9c31-810245bccd52",
+      "title": "GEEKOM Returns to IFA 2026 with Distributed Local AI and Next-Generation PCs",
+      "link": "https://finance.yahoo.com/technology/ai/articles/geekom-returns-ifa-2026-distributed-123000490.html",
+      "publisher": "PR Newswire",
+      "time": 1787661000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0df778e5-70b1-3098-bf8e-41fc8b3e5485",
+      "title": "Coming to a City Near You: 3 Opportunities that Promote Wellbeing, Learning, and Standing Up for Suicide Prevention",
+      "link": "https://finance.yahoo.com/healthcare/articles/coming-city-near-3-opportunities-123000381.html",
+      "publisher": "PR Newswire",
+      "time": 1787661000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0f3ac842-bb16-3936-b05c-c95c92881630",
+      "title": "Beyond good intentions: What new industry research reveals about the patient-centricity gap in clinical trials, Upcoming Webinar Hosted by Xtalks",
+      "link": "https://finance.yahoo.com/healthcare/articles/beyond-good-intentions-industry-research-123000272.html",
+      "publisher": "PR Newswire",
+      "time": 1787661000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "17f317fb-2524-32c7-b628-e69723f54a2b",
+      "title": "Esquire Financial Holdings Ranks #3 Among Top-Performing U.S. Banks in Bank Director's 2026 RankingBanking",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/esquire-financial-holdings-ranks-3-123000707.html",
+      "publisher": "PR Newswire",
+      "time": 1787661000,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "1b0e4237-53be-397b-9833-4d919c5b5c3d",
+      "title": "SB360 Capital Partners and Tiger Capital Group Engaged to Market and Sell BFG Supply Co. Assets",
+      "link": "https://finance.yahoo.com/small-business/articles/sb360-capital-partners-tiger-capital-123000445.html",
+      "publisher": "PR Newswire",
+      "time": 1787661000,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "6136034c-7261-338f-ab4e-7e6fc9a5ed50",
-      "title": "Marzetti Fiscal Q4 Adjusted Earnings Rise, Net Sales Fall",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/marzetti-fiscal-q4-adjusted-earnings-115040144.html",
-      "publisher": "MT Newswires",
-      "time": 1787658640,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "87c58c47-b6d1-3959-9495-fc0c5608d2c4",
-      "title": "Polaris Renewable Energy Announces Renewal of Normal Course Issuer Bid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/polaris-renewable-energy-announces-renewal-115000436.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787658600,
+      "id": "22f155b6-511a-3ef1-8750-1dcbf63e4e66",
+      "title": "APAC Oncology Trials: Accelerate Global Development Timelines, Upcoming Webinar Hosted by Xtalks",
+      "link": "https://finance.yahoo.com/healthcare/articles/apac-oncology-trials-accelerate-global-123000822.html",
+      "publisher": "PR Newswire",
+      "time": 1787661000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "68dea344-7ff0-308b-bdb5-2874b925df5d",
-      "title": "Formula Systems: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/formula-systems-q2-earnings-snapshot-114950045.html",
-      "publisher": "Associated Press",
-      "time": 1787658590,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "705d3d4b-0208-333a-8ad5-b975ae46f3ea",
-      "title": "First Mining Gold and Slate Falls Nation Sign Project Agreement for Development of Springpole Gold Project",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/first-mining-gold-slate-falls-114942994.html",
-      "publisher": "MT Newswires",
-      "time": 1787658582,
+      "id": "40485934-57f8-3e15-b248-ad79bf5fb2b6",
+      "title": "More Than 2 Million Students Expected to Start School Ready to Learn Through One of the Nation's Largest Back-to-School Readiness Efforts",
+      "link": "https://finance.yahoo.com/small-business/articles/more-2-million-students-expected-123000110.html",
+      "publisher": "PR Newswire",
+      "time": 1787661000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ff85e42d-516b-30ec-88c2-bb7316fece7d",
-      "title": "Oppenheimer Initiates Coverage on Kodiak AI With Outperform Rating, $9 Price Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-initiates-coverage-kodiak-ai-114858037.html",
-      "publisher": "MT Newswires",
-      "time": 1787658538,
+      "id": "4b548e94-8605-3666-9c0c-ac0b06c49a39",
+      "title": "Nektar Announces Publication in The Lancet of Positive Phase 2b REZOLVE-AD 16-Week Induction Results of Rezpegaldesleukin in Moderate-to-Severe Atopic Dermatitis",
+      "link": "https://finance.yahoo.com/healthcare/articles/nektar-announces-publication-lancet-positive-123000513.html",
+      "publisher": "PR Newswire",
+      "time": 1787661000,
       "impact": "low",
       "tags": []
     }
