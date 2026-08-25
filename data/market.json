@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T19:25:30.387793+00:00",
+  "updatedAt": "2026-08-25T19:54:19.507821+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7668.25,
-      "change": -6.119999999999891,
-      "changePct": -0.07974595960319728,
+      "price": 7678.12,
+      "change": 3.75,
+      "changePct": 0.04886394583529332,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26093.223,
-      "change": -87.23699999999735,
-      "changePct": -0.33321416048456504,
+      "price": 26147.252,
+      "change": -33.20799999999872,
+      "changePct": -0.12684269107570575,
       "currency": "USD"
     },
     {
@@ -52,106 +52,101 @@
   ],
   "news": [
     {
-      "id": "0151b58d-0a05-3284-9b2f-689d9c95a193",
-      "title": "Anthropic Has a New Problem Before IPO",
-      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-problem-ipo-192337187.html",
+      "id": "04a71fbc-4093-3017-ad30-11594f50aca8",
+      "title": "S&P 100 Is Quietly Sending a Powerful Signal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-100-quietly-sending-powerful-195321128.html",
       "publisher": "GuruFocus.com",
-      "time": 1787685817,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "time": 1787687601,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "725add4b-68be-414c-866d-33c2bb7505bf",
-      "title": "Nvidia earnings in focus: Why its networking segment is growing faster than compute",
-      "link": "https://finance.yahoo.com/video/nvidia-earnings-focus-why-networking-192016863.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1787685616,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "834cecb9-758a-3b9b-ae66-ea12d6565327",
-      "title": "CrowdStrike Q2 Earnings Preview: What to Expect From Upcoming Report",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-q2-earnings-preview-expect-191946367.html",
+      "id": "abe0079d-d1b4-3747-a67d-12d35d052194",
+      "title": "Arm Rises 2.8% as $272 Target Prices the CPU Tollbooth",
+      "link": "https://finance.yahoo.com/technology/articles/arm-rises-2-8-272-195205428.html",
       "publisher": "GuruFocus.com",
-      "time": 1787685586,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "time": 1787687525,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "acdcd217-da2c-3ad3-a1a3-ae4456fdd508",
-      "title": "As Trade War Escalates, Support for Workers Must Keep Pace",
-      "link": "https://finance.yahoo.com/economy/policy/articles/trade-war-escalates-support-workers-191900072.html",
-      "publisher": "CNW Group",
-      "time": 1787685540,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
+      "id": "12b1fb10-60c3-3d57-bfc2-cdffe72217bf",
+      "title": "Merck Just Gained 19% in a Month. What Would It Take to Get MRK Stock Up to $200?",
+      "link": "https://finance.yahoo.com/m/12b1fb10-60c3-3d57-bfc2-cdffe72217bf/merck-just-gained-19%25-in-a.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787687496,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "58b93193-ee55-3023-9f4e-f46ef27029c8",
-      "title": "Why Is Bloom Energy (BE) Stock Soaring Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-stock-soaring-191844776.html",
+      "id": "aec8009d-c0ae-3685-b2c2-5cdcfd380bbb",
+      "title": "Earnings To Watch: Agilent (A) Reports Q2 Results Tomorrow",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-agilent-reports-q2-195044115.html",
       "publisher": "StockStory",
-      "time": 1787685524,
-      "impact": "low",
+      "time": 1787687444,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "a98613a3-21cd-3650-b8b4-61839c793849",
-      "title": "ALGT Targets $140M in Synergies as Sun Country Integration Begins",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/algt-targets-140m-synergies-sun-191800385.html",
-      "publisher": "Zacks",
-      "time": 1787685480,
+      "id": "4b281b34-a96b-3c29-93aa-4e116d06e5f7",
+      "title": "UPDATE: Governor General to undertake official visit to Newfoundland and Labrador",
+      "link": "https://finance.yahoo.com/economy/policy/articles/governor-general-undertake-official-visit-195000559.html",
+      "publisher": "CNW Group",
+      "time": 1787687400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "85f2e66f-3723-3507-8394-3b898bbf4875",
-      "title": "Why Is Gemini Space Station Stock Up Today?",
-      "link": "https://finance.yahoo.com/m/85f2e66f-3723-3507-8394-3b898bbf4875/why-is-gemini-space-station.html",
-      "publisher": "Motley Fool",
-      "time": 1787685376,
+      "id": "72f5f06e-631b-3cef-985f-4447e715804f",
+      "title": "Exxon Falls as Oil Erases the Iran Premium",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exxon-falls-oil-erases-iran-194926639.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787687366,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "5357d3f8-941f-3596-a47f-2ebd8cc44bfc",
+      "title": "Oracle Jumps as $638 Billion Backlog Outruns Cash Burn",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-jumps-638-billion-backlog-194801100.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787687281,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "02f1807d-4c1e-3c4f-8895-4f52600d8a73",
-      "title": "ALGT Dips 16.6% in a Month as Airline Risks Challenge the Bull Case",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/algt-dips-16-6-month-191400059.html",
-      "publisher": "Zacks",
-      "time": 1787685240,
+      "id": "5a9431d7-9b24-3c30-9a72-bdaeaf572fee",
+      "title": "BILL (BILL) Expanded Non-GAAP Operating Profit While Reported Business Metric Fell. Has its Efficiency Push Gone Too Far?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bill-bill-expanded-non-gaap-194756214.html",
+      "publisher": "Insider Monkey",
+      "time": 1787687276,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "0c53e238-d3de-3a6e-8137-bd037505576b",
+      "title": "Meta Rises as $90 Billion Cash Pile Faces Trial",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-rises-90-billion-cash-194702035.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787687222,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d417b225-e203-3069-b024-730b5ecbacd5",
-      "title": "VapoCept Introduces Vapo Cept Multi-Ingredient Dietary Supplement for Cognitive Wellness",
-      "link": "https://finance.yahoo.com/healthcare/articles/vapocept-introduces-vapo-cept-multi-191400077.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787685240,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8bc32008-033c-3a93-ae04-c32e665492e5",
-      "title": "TRC Talent Solutions Scales TRC TalentAI to fill 90% of Placements, Combining Speed with Deep Human Connection",
-      "link": "https://finance.yahoo.com/technology/ai/articles/trc-talent-solutions-scales-trc-191300717.html",
-      "publisher": "Business Wire",
-      "time": 1787685180,
+      "id": "91b846e4-4cbc-3ae9-990b-c3a99389df0f",
+      "title": "India’s manufacturing boom reaches packaging",
+      "link": "https://finance.yahoo.com/m/91b846e4-4cbc-3ae9-990b-c3a99389df0f/india%E2%80%99s-manufacturing-boom.html",
+      "publisher": "Packaging Gateway",
+      "time": 1787687152,
       "impact": "low",
       "tags": []
     }
