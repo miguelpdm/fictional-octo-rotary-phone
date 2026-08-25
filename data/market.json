@@ -1,151 +1,156 @@
 {
-  "updatedAt": "2026-08-25T14:37:55.955165+00:00",
+  "updatedAt": "2026-08-25T15:36:02.705376+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20077.4,
-      "change": -21.19999999999709,
-      "changePct": -0.10547998368044088,
+      "price": 20075.5,
+      "change": -23.099999999998545,
+      "changePct": -0.11493337844426252,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7666.04,
-      "change": -8.329999999999927,
-      "changePct": -0.10854311168213061,
+      "price": 7670.98,
+      "change": -3.3900000000003274,
+      "changePct": -0.04417300703510943,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26105.209,
-      "change": -75.2510000000002,
-      "changePct": -0.28743192441996895,
+      "price": 26131.373,
+      "change": -49.086999999999534,
+      "changePct": -0.18749479573697153,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26288.46,
-      "change": 151.89999999999782,
-      "changePct": 0.581178242278241,
+      "price": 26286.33,
+      "change": 149.77000000000044,
+      "changePct": 0.5730287382884375,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6464.18,
-      "change": 16.200000000000728,
-      "changePct": 0.2512414740740624,
+      "price": 6460.56,
+      "change": 12.580000000000837,
+      "changePct": 0.19509986073159094,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.77,
-      "change": -0.08000000000000007,
-      "changePct": -0.5047318611987386,
+      "price": 15.66,
+      "change": -0.1899999999999995,
+      "changePct": -1.1987381703470001,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "7b611a8b-5154-3093-aa86-24431c98e5b6",
-      "title": "UK’s SPP backs DB surplus rules, urges key tweaks",
-      "link": "https://finance.yahoo.com/m/7b611a8b-5154-3093-aa86-24431c98e5b6/uk%E2%80%99s-spp-backs-db-surplus.html",
-      "publisher": "The Accountant",
-      "time": 1787668470,
+      "id": "2190cff6-0148-3146-9d3d-f27890812936",
+      "title": "H.I.G. Capital Announces Strategic Growth Investment in HBK",
+      "link": "https://finance.yahoo.com/small-business/articles/h-g-capital-announces-strategic-153000830.html",
+      "publisher": "CNW Group",
+      "time": 1787671800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c14f54d9-138a-3dde-9a81-6f82ddc660a4",
-      "title": "Eni's gas push in Egypt: $8.5 billion investment and 230 new wells",
-      "link": "https://finance.yahoo.com/m/c14f54d9-138a-3dde-9a81-6f82ddc660a4/eni%27s-gas-push-in-egypt%3A-%248.5.html",
-      "publisher": "Euronews",
-      "time": 1787668425,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e5e52abd-4a27-3aec-aefe-67f0e6129561",
-      "title": "My old job had a pension and they offered me to cash out for $24k or get $100 per month for life — which should I choose?",
-      "link": "https://finance.yahoo.com/m/e5e52abd-4a27-3aec-aefe-67f0e6129561/my-old-job-had-a-pension-and.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787668372,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "21c7cfe4-ba1f-3269-91eb-60e54e00afd3",
-      "title": "Morrisons launches price commitment on over 500 essentials",
-      "link": "https://finance.yahoo.com/m/21c7cfe4-ba1f-3269-91eb-60e54e00afd3/morrisons-launches-price.html",
-      "publisher": "Retail Insight Network",
-      "time": 1787668342,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "476a0bd9-3644-3e97-bfed-c0b9a39f4690",
-      "title": "York University School of Continuing Studies launches new Certificate in AI Governance to prepare professionals for emerging AI oversight responsibilities",
-      "link": "https://finance.yahoo.com/technology/ai/articles/york-university-school-continuing-studies-143200816.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787668320,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "96a119de-328a-31b3-95ca-cdca0f7e008f",
-      "title": "New Jersey Social Media Legislation Brings Renewed Focus to Youth Mental Health",
-      "link": "https://finance.yahoo.com/healthcare/articles/jersey-social-media-legislation-brings-143200071.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787668320,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "99e922d1-57c9-3329-bb5d-aaaf6b5abcdd",
-      "title": "Issuance of Securities",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/issuance-securities-143200725.html",
+      "id": "81d731e3-c59b-3c50-be62-df9e40a992a0",
+      "title": "FRN Variable Rate Fix",
+      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-153000240.html",
       "publisher": "Business Wire",
-      "time": 1787668320,
+      "time": 1787671800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bc753d5f-59f1-3a9e-974a-7fb28cd9c33f",
-      "title": "North America Electric Vehicle Market (2026-2031) - Expanding Charging Infrastructure and Government Incentives Drive Growth",
-      "link": "https://finance.yahoo.com/energy/articles/north-america-electric-vehicle-market-143200167.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787668320,
+      "id": "89cb2a64-b328-3f0f-95fe-55e86380ff83",
+      "title": "Aptiv Accelerating Production-Ready Physical AI with Support for NVIDIA Jetson Orin Nano 2",
+      "link": "https://finance.yahoo.com/technology/ai/articles/aptiv-accelerating-production-ready-physical-153000947.html",
+      "publisher": "Business Wire",
+      "time": 1787671800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bda487c0-488d-37e5-b090-3df5775e2821",
+      "title": "Pacific Fusion Breaks Ground on First-of-a-Kind Fusion Facility in New Mexico",
+      "link": "https://finance.yahoo.com/energy/articles/pacific-fusion-breaks-ground-first-153000889.html",
+      "publisher": "Business Wire",
+      "time": 1787671800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c3b4bd14-edb5-3f1a-8500-d4a0b36954ce",
+      "title": "OLIN and HUNTSMAN Shareholders Approve Transformative Merger of Equals",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/olin-huntsman-shareholders-approve-transformative-153000350.html",
+      "publisher": "PR Newswire",
+      "time": 1787671800,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "df5b95c7-0cdf-3ee3-a4ce-dbeebd2019cc",
+      "title": "Canada announces retaliatory tariffs on $20 billion worth of US goods, unveils support measures",
+      "link": "https://finance.yahoo.com/economy/policy/articles/canada-announces-20-billion-retaliatory-150719948.html",
+      "publisher": "Reuters",
+      "time": 1787671708,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "71dba54c-e3b5-3e2a-9243-31b142f8df2e",
+      "title": "Abercrombie & Fitch Likely to Post Q2 Earnings Beat, UBS Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/abercrombie-fitch-likely-post-q2-152755222.html",
+      "publisher": "MT Newswires",
+      "time": 1787671675,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "394a30d9-315f-3469-937f-6c0be5adaf11",
+      "title": "3 Reasons LH is Risky and 1 Stock to Buy Instead",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-lh-risky-1-152644929.html",
+      "publisher": "StockStory",
+      "time": 1787671604,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "fdbf6825-8674-3d22-9157-e669b47a7e8d",
-      "title": "Smart Watch Band Market Expands as Sustainable Materials, Premium Designs and Wearable Ecosystems Gain Momentum",
-      "link": "https://finance.yahoo.com/technology/articles/smart-watch-band-market-expands-143100501.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787668260,
+      "id": "03acc7db-ba8d-3e11-8e69-a8e7d7e164b8",
+      "title": "InPipe Energy and BluePath Finance Announce Strategic Collaboration to Accelerate Water and Industrial Energy Resilience Nationwide",
+      "link": "https://finance.yahoo.com/energy/articles/inpipe-energy-bluepath-finance-announce-152600224.html",
+      "publisher": "Business Wire",
+      "time": 1787671560,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "042144a9-d5f1-3843-9fb4-3ff6346f3359",
-      "title": "Multi Camera System Market Size, 2026-2035 | At 14.60% CAGR to Reach USD 9.46 Billion by 2035 | SNS Insider",
-      "link": "https://finance.yahoo.com/technology/articles/multi-camera-system-market-size-143000417.html",
+      "id": "7c7c005e-505f-3f08-b522-b87170fa9d00",
+      "title": "Kelly® Releases 2026 Data Center Salary Guide Highlighting Compensation, Hiring Trends Driven by AI Acceleration",
+      "link": "https://finance.yahoo.com/technology/ai/articles/kelly-releases-2026-data-center-152600224.html",
       "publisher": "GlobeNewswire",
-      "time": 1787668200,
+      "time": 1787671560,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     }
   ],
   "errors": {
