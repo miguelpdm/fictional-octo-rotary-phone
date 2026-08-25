@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T16:28:33.485593+00:00",
+  "updatedAt": "2026-08-25T17:06:09.136749+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7675.55,
-      "change": 1.180000000000291,
-      "changePct": 0.015375854956176091,
+      "price": 7670.98,
+      "change": -3.3900000000003274,
+      "changePct": -0.04417300703510943,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26141.973,
-      "change": -38.48699999999735,
-      "changePct": -0.14700658429988378,
+      "price": 26120.82,
+      "change": -59.63999999999942,
+      "changePct": -0.22780348397239553,
       "currency": "USD"
     },
     {
@@ -44,19 +44,19 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.54,
-      "change": -0.3100000000000005,
-      "changePct": -1.9558359621451133,
+      "price": 15.49,
+      "change": -0.35999999999999943,
+      "changePct": -2.2712933753943183,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "56df1080-6810-3043-8788-f707f8a41009",
-      "title": "OmicsBank Raises $2.25M to Expand Clinical Data Infrastructure Globally for Healthcare, Life Sciences, and Frontier AI Labs",
-      "link": "https://finance.yahoo.com/healthcare/articles/omicsbank-raises-2-25m-expand-162500425.html",
-      "publisher": "PR Newswire",
-      "time": 1787675100,
+      "id": "a0eb8db7-bf3d-35a6-9cd2-8511a00565d4",
+      "title": "Gulf Keystone Petroleum Ltd (GUKYF) (H1 2026) Earnings Call Highlights: Production Restart and ...",
+      "link": "https://finance.yahoo.com/energy/articles/gulf-keystone-petroleum-ltd-gukyf-170307364.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787677387,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,56 +64,11 @@
       ]
     },
     {
-      "id": "729faffb-7246-348b-8d32-658c42d3af18",
-      "title": "/C O R R E C T I O N -- Women's Power Series/",
-      "link": "https://finance.yahoo.com/small-business/articles/womens-power-series-returns-ritz-131500352.html",
-      "publisher": "PR Newswire",
-      "time": 1787675100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7abb91d1-85b6-3f89-a95f-248ee61bae5e",
-      "title": "Professor Sarfaraz Niazi of Washington State University Files FDA Citizen Petition Seeking New Pathway to Make High-Cost Medicines More Accessible Worldwide",
-      "link": "https://finance.yahoo.com/healthcare/articles/professor-sarfaraz-niazi-washington-state-162500750.html",
-      "publisher": "PR Newswire",
-      "time": 1787675100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "88a98fbb-7632-37b8-988d-94411c02450e",
-      "title": "BEER MEETS FEAR: PABST BLUE RIBBON AND JASON UNIVERSE TURN A 12-PACK INTO A KILLER MASK",
-      "link": "https://finance.yahoo.com/media-advertising/articles/beer-meets-fear-pabst-blue-162500366.html",
-      "publisher": "PR Newswire",
-      "time": 1787675100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8a703f36-9790-3a9e-b06c-42183816fb07",
-      "title": "Jazz Sparks On Its New Plan To Take On Roche; Hint: It's In Cancer",
-      "link": "https://finance.yahoo.com/m/8a703f36-9790-3a9e-b06c-42183816fb07/jazz-sparks-on-its-new-plan.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787674983,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "597a6628-6a96-3bc0-97d7-f863da9d3786",
-      "title": "From Endangered Dragonflies to Oyster Reefs, CITGO's Caring For Our Coast Grants Put $620,000 to Work",
-      "link": "https://finance.yahoo.com/energy/articles/endangered-dragonflies-oyster-reefs-citgos-162300302.html",
-      "publisher": "PR Newswire",
-      "time": 1787674980,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "32f05105-f9db-3214-833b-d16543548a63",
-      "title": "Jabil (JBL): Buy, Sell, or Hold Post Q2 Earnings?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jabil-jbl-buy-sell-hold-162244747.html",
-      "publisher": "StockStory",
-      "time": 1787674964,
+      "id": "e5322b13-6d2f-30a8-b0b3-c9fb97e53a76",
+      "title": "Banqup Group SA (XBRU:BANQ) (H1 2026) Earnings Call Highlights: Subscription Revenue Surges 42. ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/banqup-group-sa-xbru-banq-170303806.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787677383,
       "impact": "medium",
       "tags": [
         "macro",
@@ -121,34 +76,81 @@
       ]
     },
     {
-      "id": "6459d38c-adb3-3cee-8770-2dcb18bd0fe2",
-      "title": "Everyday People Financial Settles C$80,000 of Outstanding Debt",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/everyday-people-financial-settles-c-162223514.html",
+      "id": "8c6a17bd-4361-366e-a5a0-32c98587ada8",
+      "title": "Canatu PLC (FRA:0CD) (H1 2026) Earnings Call Highlights: Strategic Pivot to Reactor Sales ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/canatu-plc-fra-0cd-h1-170259096.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787677379,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "4847ad5d-8ea8-36be-9227-445440604bea",
+      "title": "Private Tours of Spain Sees 400% Surge in Hyper-Specific AI-Generated Tour Requests",
+      "link": "https://finance.yahoo.com/technology/ai/articles/private-tours-spain-sees-400-170100034.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787677260,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1ee990eb-2954-39b4-828e-120a00ee78d9",
+      "title": "Global RNAi Technology Market is Expected to Showcase Significant Growth at a CAGR of ~14% by 2034 | DelveInsight",
+      "link": "https://finance.yahoo.com/healthcare/articles/global-rnai-technology-market-expected-170000809.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787677200,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "3ef644de-42ee-32bd-b2d1-0b964e16ecb6",
+      "title": "New National Certification Initiative Helps Communities Conserve Bats at Risk of Extinction",
+      "link": "https://finance.yahoo.com/healthcare/articles/national-certification-initiative-helps-communities-170000702.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787677200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "962555ec-48d5-3dc3-905f-28a047a22acf",
+      "title": "Think Of Hydration Backpacks As Personal, Portable Hydration Stations To Help Workers Beat The Heat",
+      "link": "https://finance.yahoo.com/healthcare/articles/think-hydration-backpacks-personal-portable-170000335.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787677200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c5033e7c-d0f8-351a-b57b-5c8719c42329",
+      "title": "Sonoco to Increase Paperboard Prices in EMEA Region",
+      "link": "https://finance.yahoo.com/economy/policy/articles/sonoco-increase-paperboard-prices-emea-170000529.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787677200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fbd03a77-2ff3-3e87-ac49-ce76a9479c48",
+      "title": "Eni, BP Target Final Investment Decision for Egypt Gas Project in Few Months",
+      "link": "https://finance.yahoo.com/energy/articles/eni-bp-target-final-investment-165926400.html",
       "publisher": "MT Newswires",
-      "time": 1787674943,
+      "time": 1787677166,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "32ca812a-65d3-3501-9604-0ecb194eff64",
-      "title": "SpaceX Rises 3% as Musk Pulls the NVIDIA Orbital Data Center Into 2027, JPMorgan Sees 75% Upside",
-      "link": "https://finance.yahoo.com/m/32ca812a-65d3-3501-9604-0ecb194eff64/spacex-rises-3%25-as-musk-pulls.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787674931,
+      "id": "5ab11f38-56cd-3c3f-ba4a-227986354654",
+      "title": "Western Digital vs. Seagate Technology: Which Data Storage Stock Is the Better Buy?",
+      "link": "https://finance.yahoo.com/m/5ab11f38-56cd-3c3f-ba4a-227986354654/western-digital-vs.-seagate.html",
+      "publisher": "Motley Fool",
+      "time": 1787677140,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "38703a49-c823-3a9c-a3ab-c6626663946d",
-      "title": "AstroNova Shareholders Approve Acquisition by Arcline Investment Management",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/astronova-shareholders-approve-acquisition-arcline-162200781.html",
-      "publisher": "Business Wire",
-      "time": 1787674920,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
     }
   ],
   "errors": {
