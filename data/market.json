@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-25T09:28:40.278741+00:00",
+  "updatedAt": "2026-08-25T10:01:27.207100+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20179.1,
-      "change": 80.5,
-      "changePct": 0.400525409730031,
+      "price": 20168.6,
+      "change": 70.0,
+      "changePct": 0.3482829649826356,
       "currency": "EUR"
     },
     {
@@ -28,126 +28,124 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26255.32,
-      "change": 118.7599999999984,
-      "changePct": 0.45438267315973635,
+      "price": 26290.29,
+      "change": 153.72999999999956,
+      "changePct": 0.5881799288047072,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6477.43,
-      "change": 29.450000000000728,
-      "changePct": 0.4567321858938882,
+      "price": 6482.18,
+      "change": 34.20000000000073,
+      "changePct": 0.5303986674896747,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.77,
-      "change": -0.08000000000000007,
-      "changePct": -0.5047318611987386,
+      "price": 15.84,
+      "change": -0.009999999999999787,
+      "changePct": -0.06309148264984094,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "5d1895f4-55b2-35aa-ba86-fcd41d9b7477",
-      "title": "PDD Holdings’ net profit falls 12% despite revenue growth in Q2",
-      "link": "https://finance.yahoo.com/m/5d1895f4-55b2-35aa-ba86-fcd41d9b7477/pdd-holdings%E2%80%99-net-profit.html",
-      "publisher": "Retail Insight Network",
-      "time": 1787649884,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "71d1cef1-cc24-3f2f-a42c-5de3473f11ef",
-      "title": "Asahi Kasei develops tech to raise energy density on lithium-ion batteries",
-      "link": "https://finance.yahoo.com/m/71d1cef1-cc24-3f2f-a42c-5de3473f11ef/asahi-kasei-develops-tech-to.html",
-      "publisher": "Just Auto",
-      "time": 1787649528,
+      "id": "18ccd32e-43ca-4537-8ef0-a8da6e706c79",
+      "title": "Best CD rates today, Tuesday, August 25, 2026: Lock in up to 4.30% APY today with multiple offers",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-august-25-2026-lock-in-up-to-430-apy-today-with-multiple-offers-100000257.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1787652000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "78246488-bfe9-3a12-8792-7bf3111d9d11",
-      "title": "Update: Gorilla Technology Shares Slump Premarket After Swinging to H1 Adjusted Loss Amid Strong Revenue Growth",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gorilla-technology-shares-slump-premarket-091830969.html",
-      "publisher": "MT Newswires",
-      "time": 1787649510,
+      "id": "4848989a-9e49-4160-9ef6-d1eb138355eb",
+      "title": "Mortgage and refinance rates today, Tuesday, August 25, 2026: Rates mixed this morning",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-tuesday-august-25-2026-rates-mixed-this-morning-100000955.html",
+      "publisher": "Yahoo Personal Finance",
+      "time": 1787652000,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7f540692-7237-4d96-b07b-9e56a4e244e5",
+      "title": "Software is crushing chips by a record margin: Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/article/software-is-crushing-chips-by-a-record-margin-chart-of-the-day-100000109.html",
+      "publisher": "Yahoo Finance",
+      "time": 1787652000,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "c82b5470-63b8-35c3-8ad8-e339ad998e1a",
-      "title": "Once its saviour, US puts Kuwait in Iran's crosshairs",
-      "link": "https://finance.yahoo.com/m/c82b5470-63b8-35c3-8ad8-e339ad998e1a/once-its-saviour%2C-us-puts.html",
-      "publisher": "AFP",
-      "time": 1787649485,
+      "id": "05f79fcc-f4bb-3bd5-a585-2102c146f215",
+      "title": "Oeko-Tex overhauls governance to align with new EU anti-greenwash laws",
+      "link": "https://finance.yahoo.com/m/05f79fcc-f4bb-3bd5-a585-2102c146f215/oeko-tex-overhauls-governance.html",
+      "publisher": "Just Style",
+      "time": 1787651974,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "926837b1-5271-3b91-ad2a-bbd6d4a9db92",
-      "title": "Smartee Denti-Technology Launches AG KIDS in Malaysia",
-      "link": "https://finance.yahoo.com/healthcare/articles/smartee-denti-technology-launches-ag-091700818.html",
-      "publisher": "PR Newswire",
-      "time": 1787649420,
+      "id": "fd77faf4-833d-399b-b4ac-99c51f0fc3e0",
+      "title": "APC invests in electron beam coating and precision slitting tech for tea packaging",
+      "link": "https://finance.yahoo.com/m/fd77faf4-833d-399b-b4ac-99c51f0fc3e0/apc-invests-in-electron-beam.html",
+      "publisher": "Packaging Gateway",
+      "time": 1787651934,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e850dd32-cb49-35d5-845a-4263c70d32f7",
-      "title": "Form 8.5 (EPT/RI) - Pharos Energy Plc",
-      "link": "https://finance.yahoo.com/markets/options/articles/form-8-5-ept-ri-091700071.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787649420,
+      "id": "6b867af6-4c59-324e-aea3-69dbea565910",
+      "title": "Monster Run: This Consumer Stock Turned $1,000 Into $1M Over 22 Years",
+      "link": "https://finance.yahoo.com/m/6b867af6-4c59-324e-aea3-69dbea565910/monster-run%3A-this-consumer.html",
+      "publisher": "Stocktwits",
+      "time": 1787651676,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a71273b1-d4d5-3d13-9aa3-5a2e540cc1ff",
-      "title": "Vipshop Q2 Adjusted Earnings, Revenue Fall; Shares Down Pre-Bell",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vipshop-q2-adjusted-earnings-revenue-091606519.html",
+      "id": "b22d5401-19c1-3517-b539-0b7ed270f2ac",
+      "title": "CA Sri Lanka launches language school and StepUp English CSR initiative",
+      "link": "https://finance.yahoo.com/m/b22d5401-19c1-3517-b539-0b7ed270f2ac/ca-sri-lanka-launches.html",
+      "publisher": "The Accountant",
+      "time": 1787651641,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fba6885a-074c-3d70-9082-bf83ce673e84",
+      "title": "US wants EU CSDDD to apply only to EU firms",
+      "link": "https://finance.yahoo.com/m/fba6885a-074c-3d70-9082-bf83ce673e84/us-wants-eu-csddd-to-apply.html",
+      "publisher": "Just Style",
+      "time": 1787651561,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ec59ea73-b61c-37f3-b2b9-f50abec42f09",
+      "title": "Interactive Brokers Enters Collaboration With Daol Investment",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-enters-collaboration-daol-095124137.html",
       "publisher": "MT Newswires",
-      "time": 1787649366,
+      "time": 1787651484,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "37c28ac6-11cc-37af-86f8-8602f7f6d0ab",
+      "title": "Chesnara, Solvonis Therapeutics, Savannah Energy, Eco (Atlantic) Oil & Gas, Emmerson",
+      "link": "https://finance.yahoo.com/video/chesnara-solvonis-therapeutics-savannah-energy-095114291.html",
+      "publisher": "Proactive",
+      "time": 1787651474,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
-    },
-    {
-      "id": "3dc8f0c9-bcdf-38ec-bca1-cbb6f4b3ff22",
-      "title": "What Investors Should Know as Reddit's Chief Accounting Officer Files a New Insider Transaction",
-      "link": "https://finance.yahoo.com/m/3dc8f0c9-bcdf-38ec-bca1-cbb6f4b3ff22/what-investors-should-know-as.html",
-      "publisher": "Motley Fool",
-      "time": 1787649310,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "dba7e891-a732-3f01-a000-914652049f80",
-      "title": "TCS to acquire Porsche’s MHP subsidiary in $373m deal",
-      "link": "https://finance.yahoo.com/m/dba7e891-a732-3f01-a000-914652049f80/tcs-to-acquire-porsche%E2%80%99s-mhp.html",
-      "publisher": "Verdict",
-      "time": 1787649309,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1901cc32-7823-3923-bb76-4be6c11f9bdf",
-      "title": "WEI Earns Spot on CRN's 2026 Solution Provider 500 Fast Growth List",
-      "link": "https://finance.yahoo.com/technology/articles/wei-earns-spot-crns-2026-091500599.html",
-      "publisher": "PR Newswire",
-      "time": 1787649300,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
