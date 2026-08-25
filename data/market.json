@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T17:53:52.454405+00:00",
+  "updatedAt": "2026-08-25T18:30:23.312969+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7668.57,
-      "change": -5.800000000000182,
-      "changePct": -0.07557623622525604,
+      "price": 7668.13,
+      "change": -6.239999999999782,
+      "changePct": -0.08130960586992524,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26106.379,
-      "change": -74.08099999999831,
-      "changePct": -0.2829629425915294,
+      "price": 26094.164,
+      "change": -86.29599999999846,
+      "changePct": -0.3296198768088814,
       "currency": "USD"
     },
     {
@@ -52,103 +52,104 @@
   ],
   "news": [
     {
-      "id": "b448efef-d1cc-3940-a807-31e6dd4c00b2",
-      "title": "United Airlines Makes Bold International Move",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/united-airlines-makes-bold-international-175331018.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787680411,
+      "id": "a6bd143b-7fb1-3688-bb7b-2df485a1df37",
+      "title": "XRP active addresses jump 655%, analyst warns of bigger moves",
+      "link": "https://finance.yahoo.com/m/a6bd143b-7fb1-3688-bb7b-2df485a1df37/xrp-active-addresses-jump.html",
+      "publisher": "TheStreet",
+      "time": 1787682279,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "09e53ec1-f226-3f3e-a3df-d2fbc0130dfc",
+      "title": "RLI Shares Fall After Jefferies Downgrade",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rli-shares-fall-jefferies-downgrade-182402636.html",
+      "publisher": "MT Newswires",
+      "time": 1787682242,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f13f25a0-56ba-34b6-916c-00e2c9749695",
-      "title": "Q2 Earnings Highs And Lows: Cincinnati Financial (NASDAQ:CINF) Vs The Rest Of The Property & Casualty Insurance Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-highs-lows-cincinnati-175044677.html",
+      "id": "5f1ca500-3edc-35c9-8fc3-e9178f38b6b6",
+      "title": "Cathie Wood Keeps Buying SpaceX Stock. Here's Why I Wouldn't Buy It Above a $1.8 Trillion Valuation.",
+      "link": "https://finance.yahoo.com/m/5f1ca500-3edc-35c9-8fc3-e9178f38b6b6/cathie-wood-keeps-buying.html",
+      "publisher": "Motley Fool",
+      "time": 1787682232,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1a4adb37-5ac8-308e-a1b8-98eb6231b2e6",
+      "title": "Dolly Parton's legacy shines through her business empire",
+      "link": "https://finance.yahoo.com/m/1a4adb37-5ac8-308e-a1b8-98eb6231b2e6/dolly-parton%27s-legacy-shines.html",
+      "publisher": "The Tennessean",
+      "time": 1787682197,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8741091f-7555-321c-a5bf-aba7ecde0ede",
+      "title": "Maintenance and Repair Distributors Stocks Q2 Recap: Benchmarking W.W. Grainger (NYSE:GWW)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/maintenance-repair-distributors-stocks-q2-182244758.html",
       "publisher": "StockStory",
-      "time": 1787680244,
+      "time": 1787682164,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "8474eae9-8ee5-3a0c-9e26-aeb8e8b33dc5",
+      "title": "Kura Oncology Shares Rise After CEO Purchases 100,000 Shares",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kura-oncology-shares-rise-ceo-182126389.html",
+      "publisher": "MT Newswires",
+      "time": 1787682086,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "99651e52-8f85-3b5c-ba10-f0ce59db579b",
+      "title": "Moderna Shares Rise After Wolfe Research Upgrade",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/moderna-shares-rise-wolfe-research-182053851.html",
+      "publisher": "MT Newswires",
+      "time": 1787682053,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8f0629c6-3880-3053-8d87-814ef35b1fc0",
+      "title": "Is Elevance Health (ELV) a Mispriced Opportunity?",
+      "link": "https://finance.yahoo.com/healthcare/articles/elevance-health-elv-mispriced-opportunity-182030448.html",
+      "publisher": "Insider Monkey",
+      "time": 1787682030,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c8ef0347-19d1-39d7-bb4d-3bcc52b3a862",
+      "title": "3 Dividend Stocks to Hold for the Next 10 Years",
+      "link": "https://finance.yahoo.com/m/c8ef0347-19d1-39d7-bb4d-3bcc52b3a862/3-dividend-stocks-to-hold-for.html",
+      "publisher": "Motley Fool",
+      "time": 1787682004,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "809a1c57-2ff1-308f-bfdb-faa7f7b74b55",
+      "title": "CrowdStrike's Next Earnings Report on Aug. 26 Could Send the Stock Soaring. Here's Why.",
+      "link": "https://finance.yahoo.com/m/809a1c57-2ff1-308f-bfdb-faa7f7b74b55/crowdstrike%27s-next-earnings.html",
+      "publisher": "Motley Fool",
+      "time": 1787682001,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
-    },
-    {
-      "id": "d88c0f31-6ad4-3328-8fdf-d02d60adbbde",
-      "title": "Snowflake Stock Fans Should Prepare for September 2 as AI Agents Are Pouring More Data Into It",
-      "link": "https://finance.yahoo.com/m/d88c0f31-6ad4-3328-8fdf-d02d60adbbde/snowflake-stock-fans-should.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787680209,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ac53bf1b-b78e-33fc-8a24-83eafe615745",
-      "title": "NEO Launches NEO 2.0, an AI-Powered Global Listing Service Built for New Construction",
-      "link": "https://finance.yahoo.com/real-estate/articles/neo-launches-neo-2-0-175000037.html",
-      "publisher": "PR Newswire",
-      "time": 1787680200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ce32905d-397c-3f16-a6fc-e96e7db7d6e7",
-      "title": "GarageExperts Reaches 125 Territories at 2026 Midpoint, Fueled by Rising Demand",
-      "link": "https://finance.yahoo.com/small-business/articles/garageexperts-reaches-125-territories-2026-175000583.html",
-      "publisher": "PR Newswire",
-      "time": 1787680200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "772e3637-3ebf-3a8b-8e2b-1dfefa64e658",
-      "title": "Brazil election rivals offer competing cures for high long-term interest rates",
-      "link": "https://finance.yahoo.com/economy/policy/articles/brazil-election-rivals-offer-competing-173743760.html",
-      "publisher": "Reuters",
-      "time": 1787680196,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "86f0d822-9789-3e0f-baac-59ab2796071d",
-      "title": "An Inherited IRA Comes With a Ten-Year Clock, and a Ten-Year Choice. She Emptied Hers Across the Two Years She Wasn’t Working.",
-      "link": "https://finance.yahoo.com/m/86f0d822-9789-3e0f-baac-59ab2796071d/an-inherited-ira-comes-with-a.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787680148,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e66b10df-7f9e-3454-913f-394a86718f2d",
-      "title": "AirTripMaker Expands US–India Travel Network, Strengthening Connections Between the United States and Major Indian Cities",
-      "link": "https://finance.yahoo.com/small-business/articles/airtripmaker-expands-us-india-travel-174800141.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787680080,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "433e8c0b-8944-3af0-934a-07b2e1fb171d",
-      "title": "Métis Nation Calls for a Team Canada Approach to Protect Canada’s Economy Amid U.S. Tariffs'",
-      "link": "https://finance.yahoo.com/economy/policy/articles/m-tis-nation-calls-team-174500637.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787679900,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "a63d575b-c868-3559-9962-e7181208c33d",
-      "title": "Folger Consort Presents Monteverdi's Legacy, Celebrating the 17th-century Music of Claudio Monteverdi and Baroque Italian Composers",
-      "link": "https://finance.yahoo.com/media-advertising/articles/folger-consort-presents-monteverdis-legacy-174500669.html",
-      "publisher": "PR Newswire",
-      "time": 1787679900,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
