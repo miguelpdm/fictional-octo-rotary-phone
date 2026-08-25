@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T22:52:47.089011+00:00",
+  "updatedAt": "2026-08-25T23:19:14.864186+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,33 +52,58 @@
   ],
   "news": [
     {
-      "id": "9ae4ff6b-c68b-3a1e-b9ba-e60d7929d523",
-      "title": "Barclays Reportedly Flags Market Risks From Rapid AI Buildout Ahead of US Midterms",
-      "link": "https://finance.yahoo.com/technology/ai/articles/barclays-reportedly-flags-market-risks-224717203.html",
-      "publisher": "MT Newswires",
-      "time": 1787698037,
+      "id": "cd66f393-e96c-3b54-9344-7949302a3496",
+      "title": "Concordare Trials Secures Funding Round to Accelerate Digitization of Clinical Trial Protocols",
+      "link": "https://finance.yahoo.com/healthcare/articles/concordare-trials-secures-funding-round-231000062.html",
+      "publisher": "Business Wire",
+      "time": 1787699400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a1f9ce87-549a-39e6-b3a9-4b1a1e3a4bd9",
+      "title": "Pima County Arizona Remodeler Frei Remodel and Design Rebrands and Opens Oro Valley Office",
+      "link": "https://finance.yahoo.com/real-estate/articles/pima-county-arizona-remodeler-frei-230800745.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787699280,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e849043f-c05d-360b-816c-427668f260fc",
+      "title": "Can These Beaten Down Stocks Bounce Back?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/beaten-down-stocks-bounce-back-230800092.html",
+      "publisher": "Zacks",
+      "time": 1787699280,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "90ad30b9-1746-3077-8085-cb11be04d55b",
-      "title": "Market Chatter: Guggenheim Affiliates May Buy Distressed GIH Borrower Loan",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-guggenheim-affiliates-may-224455219.html",
-      "publisher": "MT Newswires",
-      "time": 1787697895,
+      "id": "d0116b77-e2f6-358c-a650-38e7ff9eb0af",
+      "title": "South Korea's Wrtn raises Series C funding at over $722 million valuation",
+      "link": "https://finance.yahoo.com/technology/ai/articles/south-koreas-wrtn-raises-series-230742903.html",
+      "publisher": "Reuters",
+      "time": 1787699262,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "a1a5cb94-36b5-3bbd-869f-362442258823",
-      "title": "Dow Jones Futures: Stocks Rise Cautiously Into Fed Inflation Data, Nvidia Earnings; Robinhood In Buy Area",
-      "link": "https://finance.yahoo.com/m/a1a5cb94-36b5-3bbd-869f-362442258823/dow-jones-futures%3A-stocks.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787697772,
+      "id": "4a95e27a-a910-368e-9299-a1397435a806",
+      "title": "California AG Says No Settlement Talks Scheduled With Paramount",
+      "link": "https://finance.yahoo.com/media-advertising/articles/california-ag-says-no-settlement-230719182.html",
+      "publisher": "MT Newswires",
+      "time": 1787699239,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "238f253f-5bf8-3208-bdb8-827eba634f2e",
+      "title": "SCYNEXIS Announces Inducement Award Under Nasdaq Listing Rule 5635(c)(4)",
+      "link": "https://finance.yahoo.com/healthcare/articles/scynexis-announces-inducement-award-under-230600414.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787699160,
       "impact": "high",
       "tags": [
         "geo",
@@ -86,67 +111,45 @@
       ]
     },
     {
-      "id": "a344f90a-e052-38a7-a8c8-91c9c73ecfd3",
-      "title": "NemoClaw’s Deployment Wrapper Exposed Local AI Agents to Drive-By Hijacking and Persistent Model Poisoning",
-      "link": "https://finance.yahoo.com/m/a344f90a-e052-38a7-a8c8-91c9c73ecfd3/nemoclaw%E2%80%99s-deployment-wrapper.html",
-      "publisher": "Forkast News",
-      "time": 1787697711,
+      "id": "7a580647-cfa4-3747-9f86-2842af0bdcc6",
+      "title": "Qfin Holdings Inc. - Sponsored ADR (QFIN) Misses Q2 Earnings Estimates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/qfin-holdings-inc-sponsored-adr-230501662.html",
+      "publisher": "Zacks",
+      "time": 1787699101,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "8a73c90a-ece9-3f77-8efd-6279bcadd1f1",
+      "title": "Global Kratom Coalition Applauds DEA for Finalizing Temporary Scheduling Order Targeting First Wave of Novel Synthetic Alkaloid Products",
+      "link": "https://finance.yahoo.com/healthcare/articles/global-kratom-coalition-applauds-dea-230500305.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787699100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2bd0bb7c-3f13-3654-a2ca-bdbc46b8c2ed",
-      "title": "Target faces renewed backlash after stocking Halloween costume with ‘minstrel show features’",
-      "link": "https://finance.yahoo.com/m/2bd0bb7c-3f13-3654-a2ca-bdbc46b8c2ed/target-faces-renewed-backlash.html",
-      "publisher": "Associated Press",
-      "time": 1787697675,
+      "id": "8aa8149a-2e79-324c-8b79-145bbdca66fd",
+      "title": "San Francisco Party Bus and Limo Expands Group Transportation Capacity Through New Bay Area Partnership",
+      "link": "https://finance.yahoo.com/small-business/articles/san-francisco-party-bus-limo-230400565.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787699040,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "89dcd12e-0149-3883-944a-0bec6aa6d353",
-      "title": "SABIO ANNOUNCES DEBENTURE EXTENSIONS AND SHARES FOR DEBT SETTLEMENT",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sabio-announces-debenture-extensions-shares-224100843.html",
-      "publisher": "CNW Group",
-      "time": 1787697660,
+      "id": "ca9a1825-f105-3e24-ba5e-83f21137ab80",
+      "title": "Groupon Investor Update: AI, Personalization Drive Marketplace Reset",
+      "link": "https://finance.yahoo.com/m/ca9a1825-f105-3e24-ba5e-83f21137ab80/groupon-investor-update%3A-ai%2C.html",
+      "publisher": "MarketBeat",
+      "time": 1787698992,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8e53ed94-7fa9-365a-8c7c-16edeb60e521",
-      "title": "CURE sues to obtain past Appleton, Minnesota, prison review documents",
-      "link": "https://finance.yahoo.com/m/8e53ed94-7fa9-365a-8c7c-16edeb60e521/cure-sues-to-obtain-past.html",
-      "publisher": "West Central Tribune, Willmar, Minn.",
-      "time": 1787697480,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "87429276-8942-35d1-a2fc-5ba9deb402bc",
-      "title": "Waystar Expands Executive Leadership to Accelerate Innovation and Growth",
-      "link": "https://finance.yahoo.com/healthcare/articles/waystar-expands-executive-leadership-accelerate-223700716.html",
-      "publisher": "PR Newswire",
-      "time": 1787697420,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d62abd68-79e6-3112-b1db-6f90a054b15b",
-      "title": "Instagram chief takes the stand in a trial pitting Meta against states over social media harms",
-      "link": "https://finance.yahoo.com/m/d62abd68-79e6-3112-b1db-6f90a054b15b/instagram-chief-takes-the.html",
-      "publisher": "Associated Press",
-      "time": 1787697420,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9d433f9e-4ab8-3011-ab7b-2acdb020fedb",
-      "title": "Williams-Alcaraz fall in US Open mixed quarter-finals",
-      "link": "https://finance.yahoo.com/m/9d433f9e-4ab8-3011-ab7b-2acdb020fedb/williams-alcaraz-fall-in-us.html",
-      "publisher": "AFP",
-      "time": 1787697340,
-      "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
