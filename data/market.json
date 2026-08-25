@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-25T06:40:48.041435+00:00",
+  "updatedAt": "2026-08-25T07:38:29.637755+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20098.6,
-      "change": 137.09999999999854,
-      "changePct": 0.6868221326052578,
+      "price": 20167.4,
+      "change": 68.80000000000291,
+      "changePct": 0.3423123998686621,
       "currency": "EUR"
     },
     {
@@ -28,82 +28,35 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26106.6,
-      "change": 123.55999999999767,
-      "changePct": 0.47554096826236525,
+      "price": 26182.77,
+      "change": 46.20999999999913,
+      "changePct": 0.17680214993862667,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6447.98,
-      "change": -14.240000000000691,
-      "changePct": -0.2203577098891819,
+      "price": 6469.45,
+      "change": 21.470000000000255,
+      "changePct": 0.3329724968129594,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.85,
-      "change": 0.7199999999999989,
-      "changePct": 4.758757435558485,
+      "price": 15.75,
+      "change": -0.09999999999999964,
+      "changePct": -0.6309148264984206,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "5d5f3ae8-6f0c-388a-ae5e-a73a19fb0c7c",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-063300300.html",
-      "publisher": "Business Wire",
-      "time": 1787639580,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "08bb78ba-a3f1-351a-897d-05b86680bc5c",
-      "title": "AstraZeneca prices €2.55bn euro bond sale across four tranches",
-      "link": "https://finance.yahoo.com/m/08bb78ba-a3f1-351a-897d-05b86680bc5c/astrazeneca-prices-%E2%82%AC2.55bn.html",
-      "publisher": "Proactive",
-      "time": 1787639520,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "adfb78c5-b3d9-352d-8057-8b8c7a431c27",
-      "title": "Trees 'giving up': climate change hammers historic English gardens",
-      "link": "https://finance.yahoo.com/m/adfb78c5-b3d9-352d-8057-8b8c7a431c27/trees-%27giving-up%27%3A-climate.html",
-      "publisher": "AFP",
-      "time": 1787639372,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "275c47b0-0f10-36d8-b4a1-e06eb78da2f4",
-      "title": "Implantica to host Capital Markets Day in Stockholm on September 9",
-      "link": "https://finance.yahoo.com/healthcare/articles/implantica-host-capital-markets-day-062900164.html",
-      "publisher": "PR Newswire",
-      "time": 1787639340,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "001ad1a9-8117-3bf3-a49a-d0d90f9523c7",
-      "title": "Saudi Arabia to fund three new theme parks near Paris",
-      "link": "https://finance.yahoo.com/m/001ad1a9-8117-3bf3-a49a-d0d90f9523c7/saudi-arabia-to-fund-three.html",
-      "publisher": "Euronews",
-      "time": 1787639280,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0dcfafc6-f583-32c5-93ef-6b30979472a1",
-      "title": "Cadeler: Q2 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cadeler-q2-earnings-snapshot-062732521.html",
-      "publisher": "Associated Press",
-      "time": 1787639252,
+      "id": "dd6deec7-2a39-39b7-8b23-dd35f6a895aa",
+      "title": "CONDITIONS FOR SALE OF RIKSBANK CERTIFICATES",
+      "link": "https://finance.yahoo.com/news/conditions-sale-riksbank-certificates-073000962.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787643000,
       "impact": "medium",
       "tags": [
         "macro",
@@ -111,38 +64,94 @@
       ]
     },
     {
-      "id": "dc86c6d7-e73c-33b0-987c-02bf6238dad9",
-      "title": "Solvonis raises £1.3m to fund three clinical programmes",
-      "link": "https://finance.yahoo.com/m/dc86c6d7-e73c-33b0-987c-02bf6238dad9/solvonis-raises-%C2%A31.3m-to-fund.html",
-      "publisher": "Proactive",
-      "time": 1787639220,
+      "id": "239c8702-6066-3b10-9814-f85acfb185bb",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-072800515.html",
+      "publisher": "Business Wire",
+      "time": 1787642880,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "59431bf3-e3bd-3ff4-aeb2-8b3f7931c720",
-      "title": "ZINZINO AB (PUBL.): INTERIM REPORT Q2 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zinzino-ab-publ-interim-report-062600424.html",
+      "id": "cfbd2d8a-8e53-3653-bf80-d55cb1d36f5c",
+      "title": "2 Cash-Heavy Stocks to Consider Right Now and 1 Facing Challenges",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-cash-heavy-stocks-consider-072644836.html",
+      "publisher": "StockStory",
+      "time": 1787642804,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "548b459b-e06c-3149-9778-c0ab1831cc24",
+      "title": "WEPSEA 2026 to Spotlight Indonesia's Sustainable Food Packaging Market with Pulp Molding Forum Connecting Brands and the Packaging Supply Chain",
+      "link": "https://finance.yahoo.com/technology/articles/wepsea-2026-spotlight-indonesias-sustainable-072600908.html",
       "publisher": "PR Newswire",
-      "time": 1787639160,
+      "time": 1787642760,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "d84773e2-6afe-3aa8-938d-9d9ec85e2a38",
+      "title": "Form 8.3",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-072500584.html",
+      "publisher": "Business Wire",
+      "time": 1787642700,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4aaf95ec-5c5c-3203-bcc5-2463a85d6642",
-      "title": "Prediction: SpaceX's Power Needs Will Turn It Into Oklo's Biggest Customer",
-      "link": "https://finance.yahoo.com/m/4aaf95ec-5c5c-3203-bcc5-2463a85d6642/prediction%3A-spacex%27s-power.html",
+      "id": "4c8dcf89-67a3-3bd5-9b3e-1f8a1354935d",
+      "title": "Global Times: Driving high-quality development to achieve long-term stability and progress: Zhong Caiwen article",
+      "link": "https://finance.yahoo.com/economy/policy/articles/global-times-driving-high-quality-072400893.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787642640,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3162bb95-e8df-3dc1-a814-8adf0a90f1e5",
+      "title": "Global Times: What does China’s 4.7 percent growth in the first half of 2026 tell us? Zhong Caiwen article",
+      "link": "https://finance.yahoo.com/economy/articles/global-times-does-china-4-072300005.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787642580,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "97b24a77-a40a-3886-9495-90d72b081c1e",
+      "title": "Reddit's Steve Huffman Filed a Form 4 Right as the Index Pop Faded. Here's What Long-Term Investors Should Know",
+      "link": "https://finance.yahoo.com/m/97b24a77-a40a-3886-9495-90d72b081c1e/reddit%27s-steve-huffman-filed.html",
       "publisher": "Motley Fool",
-      "time": 1787639100,
+      "time": 1787642541,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     },
     {
-      "id": "a2cf9b2a-5310-3b5b-901b-8e1353c494ad",
-      "title": "Fractal establishes India Business Unit to meet increasing demand from large Indian enterprises",
-      "link": "https://finance.yahoo.com/technology/ai/articles/fractal-establishes-india-business-unit-062200717.html",
-      "publisher": "PR Newswire",
-      "time": 1787638920,
+      "id": "0cfde62a-5c59-3418-872a-8063f4783879",
+      "title": "Woodside Energy H1 Earnings, Revenue Rise",
+      "link": "https://finance.yahoo.com/energy/articles/woodside-energy-h1-earnings-revenue-072154809.html",
+      "publisher": "MT Newswires",
+      "time": 1787642514,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "763754a3-2991-33f5-894e-91109402b935",
+      "title": "New Publication Broadens the Potential of DiviTum TKa in Immuno-Oncology",
+      "link": "https://finance.yahoo.com/healthcare/articles/publication-broadens-potential-divitum-tka-072000701.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787642400,
       "impact": "low",
       "tags": []
     }
