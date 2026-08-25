@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T23:44:15.464022+00:00",
+  "updatedAt": "2026-08-25T00:54:47.356587+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,106 +52,97 @@
   ],
   "news": [
     {
-      "id": "89140049-b2fd-311e-b675-7e2f4744e228",
-      "title": "US vows 'economic asphyxiation' of Iran with new sanctions",
-      "link": "https://finance.yahoo.com/m/89140049-b2fd-311e-b675-7e2f4744e228/us-vows-%27economic.html",
-      "publisher": "AFP",
-      "time": 1787614720,
+      "id": "fa63223e-5b34-386a-9a75-f1eab736e1d4",
+      "title": "FireFly bolsters funding for project development and ongoing resource growth with A$190m raising",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-bolsters-funding-project-development-004700860.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787618820,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "02a0b0f0-7d1b-3acc-a139-7d95abcb1216",
+      "title": "Economic study demonstrates scale, grade, long life, growth potential and robust financial returns",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/economic-study-demonstrates-scale-grade-004400318.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787618640,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "abc0a366-6940-3bb8-8f21-f1b26469b397",
+      "title": "Kyle Bachus of Bachus & Schanker Named 2026 Best Personal Injury Lawyer by Law Week Colorado",
+      "link": "https://finance.yahoo.com/small-business/articles/kyle-bachus-bachus-schanker-named-004000415.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787618400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f365efaf-d71e-3843-8686-0a465279a8be",
+      "title": "Trump makes final pitch for Sen. Darline Graham before South Carolina runoff",
+      "link": "https://finance.yahoo.com/m/f365efaf-d71e-3843-8686-0a465279a8be/trump-makes-final-pitch-for.html",
+      "publisher": "USA TODAY",
+      "time": 1787618226,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0e681796-b928-3907-8187-0b4ee72a1505",
+      "title": "NewPeak Metals to showcase Las Opeñas drilling results in investor webinar",
+      "link": "https://finance.yahoo.com/m/0e681796-b928-3907-8187-0b4ee72a1505/newpeak-metals-to-showcase.html",
+      "publisher": "Proactive",
+      "time": 1787618100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7a2d488b-4501-35b8-b47b-4afeae753ede",
+      "title": "Asian Currencies Consolidate as Traders Parse U.S.’ New Measures on Iran",
+      "link": "https://finance.yahoo.com/m/7a2d488b-4501-35b8-b47b-4afeae753ede/asian-currencies-consolidate.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787618040,
       "impact": "medium",
       "tags": [
         "geo"
       ]
     },
     {
-      "id": "cca6700b-2401-3627-b593-7c9ed2ffa4f2",
-      "title": "Class Action Lawsuit Filed Against Utz Brands Over 'Avocado Oil' Boulder Canyon Potato Chips, Citing UC Davis Study on Avocado Oil Authenticity Testing",
-      "link": "https://finance.yahoo.com/media-advertising/articles/class-action-lawsuit-filed-against-233500834.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787614500,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "9cd7f59e-b372-32ba-8290-d5e5bf7215f4",
+      "title": "South Korea's SK Hynix union members reject wage agreement in vote",
+      "link": "https://finance.yahoo.com/technology/articles/south-koreas-sk-hynix-union-003310164.html",
+      "publisher": "Reuters",
+      "time": 1787617990,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "ac6e213e-c377-31ad-a658-a67c172acfec",
-      "title": "Why Trump's Canada tariffs are likely to have a modest impact on prices",
-      "link": "https://finance.yahoo.com/m/ac6e213e-c377-31ad-a658-a67c172acfec/why-trump%27s-canada-tariffs.html",
-      "publisher": "CBS News",
-      "time": 1787614449,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "7ca6d24b-65ac-348f-83bf-3ffd36161226",
-      "title": "Trump announces 50% tariffs on Canadian automotive and steel imports",
-      "link": "https://finance.yahoo.com/m/7ca6d24b-65ac-348f-83bf-3ffd36161226/trump-announces-50%25-tariffs.html",
-      "publisher": "CBS News",
-      "time": 1787614415,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "41c935fa-e839-3c3e-9c22-a40646c380bf",
-      "title": "Trade war of words intensifies between U.S., Canada",
-      "link": "https://finance.yahoo.com/m/41c935fa-e839-3c3e-9c22-a40646c380bf/trade-war-of-words.html",
-      "publisher": "CBS News Videos",
-      "time": 1787614310,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "098ec9ec-1638-303e-b143-b79deecc2e1f",
-      "title": "Top court upholds Trump bid to curb mail-in ballots for now",
-      "link": "https://finance.yahoo.com/m/098ec9ec-1638-303e-b143-b79deecc2e1f/top-court-upholds-trump-bid.html",
+      "id": "737cdcea-0feb-3785-b264-1f0535331e08",
+      "title": "Federer looks forward to brief return to Arthur Ashe stadium",
+      "link": "https://finance.yahoo.com/m/737cdcea-0feb-3785-b264-1f0535331e08/federer-looks-forward-to.html",
       "publisher": "AFP",
-      "time": 1787614269,
+      "time": 1787617868,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "38f5c7bc-ab84-3a59-a16e-bf66abb7e4e2",
+      "title": "Gold Gains; Potential to Rise to $5,000 Intact",
+      "link": "https://finance.yahoo.com/m/38f5c7bc-ab84-3a59-a16e-bf66abb7e4e2/gold-gains%3B-potential-to-rise.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787617860,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5e4f4c28-6d6a-3003-b574-7b204a7e1804",
-      "title": "Astellas Doses First Patient in Phase 3 Study of ASP2138 in CLDN18.2-postive and HER2-negative locally advanced unresectable or metastatic gastric or gastroesophageal junction (GEJ) adenocarcinoma",
-      "link": "https://finance.yahoo.com/healthcare/articles/astellas-doses-first-patient-phase-233000500.html",
+      "id": "13cf5c25-e5ba-3fa9-a711-72848aa11a20",
+      "title": "Antengene Receives Clinical Trial Approval in Australia for Phase I ATTRACT Study of ATG-201 (CD19 x CD3 TCE) in B Cell-related Autoimmune Diseases",
+      "link": "https://finance.yahoo.com/healthcare/articles/antengene-receives-clinical-trial-approval-003000024.html",
       "publisher": "PR Newswire",
-      "time": 1787614200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8664e1eb-d9ee-3cf0-becf-749df8d7c500",
-      "title": "LevelJump Announces Q2 Record Revenue",
-      "link": "https://finance.yahoo.com/healthcare/articles/leveljump-announces-q2-record-revenue-233000344.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787614200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a405c426-3375-3334-804e-1f979895a46f",
-      "title": "Gold Is Still Historically High. Is VanEck Gold Miners ETF or Sprott Gold Miners ETF the Better Way to Play Bullion's Strength?",
-      "link": "https://finance.yahoo.com/m/a405c426-3375-3334-804e-1f979895a46f/gold-is-still-historically.html",
-      "publisher": "Motley Fool",
-      "time": 1787614141,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7cb07a2a-b932-3281-a59b-2e7f4e9d4fc3",
-      "title": "Browns name Deshaun Watson Week 1 starting QB over Shedeur Sanders 'The NFL Report'",
-      "link": "https://finance.yahoo.com/m/7cb07a2a-b932-3281-a59b-2e7f4e9d4fc3/browns-name-deshaun-watson.html",
-      "publisher": "NFL Highlights",
-      "time": 1787614139,
+      "time": 1787617800,
       "impact": "low",
       "tags": []
     }
