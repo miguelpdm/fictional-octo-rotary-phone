@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T22:19:17.472761+00:00",
+  "updatedAt": "2026-08-25T22:52:47.089011+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,98 +52,99 @@
   ],
   "news": [
     {
-      "id": "d146210f-400b-3da4-83e8-aaba4903556a",
-      "title": "Mark Carney, the former central banker who said 'no' to Trump",
-      "link": "https://finance.yahoo.com/m/d146210f-400b-3da4-83e8-aaba4903556a/mark-carney%2C-the-former.html",
+      "id": "9ae4ff6b-c68b-3a1e-b9ba-e60d7929d523",
+      "title": "Barclays Reportedly Flags Market Risks From Rapid AI Buildout Ahead of US Midterms",
+      "link": "https://finance.yahoo.com/technology/ai/articles/barclays-reportedly-flags-market-risks-224717203.html",
+      "publisher": "MT Newswires",
+      "time": 1787698037,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "90ad30b9-1746-3077-8085-cb11be04d55b",
+      "title": "Market Chatter: Guggenheim Affiliates May Buy Distressed GIH Borrower Loan",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-guggenheim-affiliates-may-224455219.html",
+      "publisher": "MT Newswires",
+      "time": 1787697895,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "a1a5cb94-36b5-3bbd-869f-362442258823",
+      "title": "Dow Jones Futures: Stocks Rise Cautiously Into Fed Inflation Data, Nvidia Earnings; Robinhood In Buy Area",
+      "link": "https://finance.yahoo.com/m/a1a5cb94-36b5-3bbd-869f-362442258823/dow-jones-futures%3A-stocks.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787697772,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "a344f90a-e052-38a7-a8c8-91c9c73ecfd3",
+      "title": "NemoClaw’s Deployment Wrapper Exposed Local AI Agents to Drive-By Hijacking and Persistent Model Poisoning",
+      "link": "https://finance.yahoo.com/m/a344f90a-e052-38a7-a8c8-91c9c73ecfd3/nemoclaw%E2%80%99s-deployment-wrapper.html",
+      "publisher": "Forkast News",
+      "time": 1787697711,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2bd0bb7c-3f13-3654-a2ca-bdbc46b8c2ed",
+      "title": "Target faces renewed backlash after stocking Halloween costume with ‘minstrel show features’",
+      "link": "https://finance.yahoo.com/m/2bd0bb7c-3f13-3654-a2ca-bdbc46b8c2ed/target-faces-renewed-backlash.html",
+      "publisher": "Associated Press",
+      "time": 1787697675,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "89dcd12e-0149-3883-944a-0bec6aa6d353",
+      "title": "SABIO ANNOUNCES DEBENTURE EXTENSIONS AND SHARES FOR DEBT SETTLEMENT",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sabio-announces-debenture-extensions-shares-224100843.html",
+      "publisher": "CNW Group",
+      "time": 1787697660,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8e53ed94-7fa9-365a-8c7c-16edeb60e521",
+      "title": "CURE sues to obtain past Appleton, Minnesota, prison review documents",
+      "link": "https://finance.yahoo.com/m/8e53ed94-7fa9-365a-8c7c-16edeb60e521/cure-sues-to-obtain-past.html",
+      "publisher": "West Central Tribune, Willmar, Minn.",
+      "time": 1787697480,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "87429276-8942-35d1-a2fc-5ba9deb402bc",
+      "title": "Waystar Expands Executive Leadership to Accelerate Innovation and Growth",
+      "link": "https://finance.yahoo.com/healthcare/articles/waystar-expands-executive-leadership-accelerate-223700716.html",
+      "publisher": "PR Newswire",
+      "time": 1787697420,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d62abd68-79e6-3112-b1db-6f90a054b15b",
+      "title": "Instagram chief takes the stand in a trial pitting Meta against states over social media harms",
+      "link": "https://finance.yahoo.com/m/d62abd68-79e6-3112-b1db-6f90a054b15b/instagram-chief-takes-the.html",
+      "publisher": "Associated Press",
+      "time": 1787697420,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9d433f9e-4ab8-3011-ab7b-2acdb020fedb",
+      "title": "Williams-Alcaraz fall in US Open mixed quarter-finals",
+      "link": "https://finance.yahoo.com/m/9d433f9e-4ab8-3011-ab7b-2acdb020fedb/williams-alcaraz-fall-in-us.html",
       "publisher": "AFP",
-      "time": 1787696010,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "462aa241-c19f-3a0c-8581-9df83f07a3d5",
-      "title": "Brixton Metals Announces Closing Of Second Tranche Of Its Private Placement",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/brixton-metals-announces-closing-second-221000989.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787695800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ed96b54e-f060-39b6-ada7-efbddaba8604",
-      "title": "Helium Evolution Announces Filing of Second Quarter 2026 Financial Results",
-      "link": "https://finance.yahoo.com/energy/articles/helium-evolution-announces-filing-second-221000116.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787695800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "63cb310d-d759-3b98-bb01-dbc460072387",
-      "title": "Is Marvell (MRVL) Stock Poised for Another AI-Fueled Rally as Q2 Earnings Approach?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-stock-poised-another-220800295.html",
-      "publisher": "Zacks",
-      "time": 1787695680,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "08b1dce6-d419-3b5d-b5df-5f7a9f065abc",
-      "title": "Bill Gates owns $25 billion in blue-chip S&P 500 stock",
-      "link": "https://finance.yahoo.com/m/08b1dce6-d419-3b5d-b5df-5f7a9f065abc/bill-gates-owns-%2425-billion.html",
-      "publisher": "TheStreet",
-      "time": 1787695620,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "79ce880c-d018-3e90-a59d-ec877d7382ec",
-      "title": "COMPEO Announces Its 2nd Recognition on the 2026 Inc. 5000 List, Ranking No. 609",
-      "link": "https://finance.yahoo.com/small-business/articles/compeo-announces-2nd-recognition-2026-220600092.html",
-      "publisher": "Business Wire",
-      "time": 1787695560,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7358431d-49af-399f-99c5-8d936124821d",
-      "title": "XRP Is Up 48% in a Week. Is It Too Late to Buy?",
-      "link": "https://finance.yahoo.com/m/7358431d-49af-399f-99c5-8d936124821d/xrp-is-up-48%25-in-a-week.-is.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787695544,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "889e16bd-1591-39c5-9b79-85cbb55f5001",
-      "title": "These 3 International Dividend ETFs Pay Up to Three Times SCHD and Are Beating the S&P 500 This Year",
-      "link": "https://finance.yahoo.com/m/889e16bd-1591-39c5-9b79-85cbb55f5001/these-3-international.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787695517,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0d5b7b49-c4df-3db1-a43a-8d7bd6e03cb8",
-      "title": "Salesforce's AI Agent Business Is Growing Over 200%, But Will It Show Up in Its Order Book?",
-      "link": "https://finance.yahoo.com/m/0d5b7b49-c4df-3db1-a43a-8d7bd6e03cb8/salesforce%27s-ai-agent.html",
-      "publisher": "Motley Fool",
-      "time": 1787695500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a67b5df0-f1b5-3326-bf47-fd72b176e6a4",
-      "title": "Impiricus Launches QPharma® Integration to Power Real-Time Compliant HCP Sampling",
-      "link": "https://finance.yahoo.com/healthcare/articles/impiricus-launches-qpharma-integration-power-220400756.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787695440,
+      "time": 1787697340,
       "impact": "low",
       "tags": []
     }
