@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-25T10:57:57.922836+00:00",
+  "updatedAt": "2026-08-25T11:28:38.923923+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20168.7,
-      "change": 70.10000000000218,
-      "changePct": 0.34878051207547883,
+      "price": 20165.8,
+      "change": 67.20000000000073,
+      "changePct": 0.33435164638333387,
       "currency": "EUR"
     },
     {
@@ -28,100 +28,101 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26330.21,
-      "change": 193.64999999999782,
-      "changePct": 0.740916172595008,
+      "price": 26312.29,
+      "change": 175.72999999999956,
+      "changePct": 0.6723532094506682,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6486.25,
-      "change": 38.27000000000044,
-      "changePct": 0.5935192106675337,
+      "price": 6482.7,
+      "change": 34.720000000000255,
+      "changePct": 0.5384632086327852,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.85,
-      "change": 0.0,
-      "changePct": 0.0,
+      "price": 15.82,
+      "change": -0.02999999999999936,
+      "changePct": -0.18927444794952278,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "0eb52c27-1c1a-387f-b77e-694484acb288",
-      "title": "RUM Group signs six-year $13.7bn GPU services contract",
-      "link": "https://finance.yahoo.com/m/0eb52c27-1c1a-387f-b77e-694484acb288/rum-group-signs-six-year.html",
-      "publisher": "Verdict",
-      "time": 1787655373,
+      "id": "64174c92-f4c4-3569-8dd7-f98529c32957",
+      "title": "US EXIM issues $1.1bn project letter for Ivanhoe Electric copper project",
+      "link": "https://finance.yahoo.com/m/64174c92-f4c4-3569-8dd7-f98529c32957/us-exim-issues-%241.1bn-project.html",
+      "publisher": "Mining Technology",
+      "time": 1787657021,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "fd5ea454-9b22-31f4-9f1c-64091fe206a3",
-      "title": "Vocus selects UGL to begin Sydney-Melbourne digital infrastructure project",
-      "link": "https://finance.yahoo.com/m/fd5ea454-9b22-31f4-9f1c-64091fe206a3/vocus-selects-ugl-to-begin.html",
-      "publisher": "World Construction Network",
-      "time": 1787655314,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "38344cab-7190-3476-965a-e64804980015",
-      "title": "Avantus secures $300m in tax equity for Aratina 2 solar storage project",
-      "link": "https://finance.yahoo.com/m/38344cab-7190-3476-965a-e64804980015/avantus-secures-%24300m-in-tax.html",
-      "publisher": "Energy Monitor",
-      "time": 1787655296,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "23b747c4-a2b1-34d5-98f7-240074ed7de6",
-      "title": "Real Madrid's Mourinho happy with squad despite losing out on Rodri",
-      "link": "https://finance.yahoo.com/m/23b747c4-a2b1-34d5-98f7-240074ed7de6/real-madrid%27s-mourinho-happy.html",
-      "publisher": "AFP",
-      "time": 1787655171,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f6b30c5e-cd60-3e93-a6b8-eb9e024aeb39",
-      "title": "CPA Australia welcomes New Zealand SMC Resident Visa rule changes",
-      "link": "https://finance.yahoo.com/m/f6b30c5e-cd60-3e93-a6b8-eb9e024aeb39/cpa-australia-welcomes-new.html",
-      "publisher": "The Accountant",
-      "time": 1787655040,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "282590c4-6a57-3432-902e-790dba00677d",
-      "title": "Medical Guardian unveils Guardian Flex wearable for older adults",
-      "link": "https://finance.yahoo.com/m/282590c4-6a57-3432-902e-790dba00677d/medical-guardian-unveils.html",
-      "publisher": "Medical Device Network",
-      "time": 1787654959,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7575e0a4-eccc-327b-a9a1-78180702566f",
-      "title": "Solar Energy Markets to Reach $974.7 Billion by 2031, Driven by Policy Mandates, Falling Costs, and Surging EV Infrastructure Demand",
-      "link": "https://finance.yahoo.com/energy/articles/solar-energy-markets-reach-974-104700735.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787654820,
-      "impact": "low",
+      "id": "96e5f69b-a8cf-38f9-a4ce-f6d10540cab0",
+      "title": "Trump says he's considering renaming Lake Ontario as 'Lake America' as trade war escalates",
+      "link": "https://finance.yahoo.com/m/96e5f69b-a8cf-38f9-a4ce-f6d10540cab0/trump-says-he%27s-considering.html",
+      "publisher": "Associated Press",
+      "time": 1787656843,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "291e3bd3-2144-395d-b345-5aed9f0c46bd",
-      "title": "Earnings To Watch: Abercrombie and Fitch (ANF) Reports Q2 Results Tomorrow",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-abercrombie-fitch-anf-104644797.html",
-      "publisher": "StockStory",
-      "time": 1787654804,
+      "id": "f6f18ac7-c2da-3123-bc2c-e29128e99da5",
+      "title": "Son of Luxottica founder quits after succession row",
+      "link": "https://finance.yahoo.com/small-business/articles/son-luxottica-founder-quits-succession-112006813.html",
+      "publisher": "AFP",
+      "time": 1787656806,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7178b852-a85c-3256-8354-a0b8b27f9cb8",
+      "title": "HireQuotient Delivers 70% Reduction in Manual Recruiting Effort for NYC's Alliance Building Services",
+      "link": "https://finance.yahoo.com/small-business/articles/hirequotient-delivers-70-reduction-manual-112000464.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787656800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8240c59a-9f1f-3ecb-8ae9-359526d95a5c",
+      "title": "3 Social Security Rules Retirees Forget About",
+      "link": "https://finance.yahoo.com/m/8240c59a-9f1f-3ecb-8ae9-359526d95a5c/3-social-security-rules.html",
+      "publisher": "Motley Fool",
+      "time": 1787656800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d4f8c94b-a85f-39a9-b86e-005bcf9e0ff3",
+      "title": "Rhelion Life Sciences Wholly Owned Subsidiary Filament Health Completes Shipment of PEX010 for University of Washington Phase 2a Trial in Cancer-Related Anxiety and Depression",
+      "link": "https://finance.yahoo.com/healthcare/articles/rhelion-life-sciences-wholly-owned-112000043.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787656800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b5d2e4c1-32a6-31bb-9af0-884dc70ba3a1",
+      "title": "Japan seeks record $230 billion to service debt",
+      "link": "https://finance.yahoo.com/economy/policy/articles/japan-seeks-record-230-billion-111940905.html",
+      "publisher": "Investing.com",
+      "time": 1787656780,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f06e6a75-e6fc-3e74-809b-1aeccf970249",
+      "title": "Dick's Sporting Goods Fiscal Q2 Non-GAAP Earnings Fall, Sales Rise; Cuts Fiscal 2026 EPS, Sales Guidance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dick-apos-sporting-goods-fiscal-111914401.html",
+      "publisher": "MT Newswires",
+      "time": 1787656754,
       "impact": "medium",
       "tags": [
         "macro",
@@ -129,20 +130,20 @@
       ]
     },
     {
-      "id": "b20976d1-5ced-39b9-893a-b99093ff8200",
-      "title": "DJH acquires Gooding Accounts in UK",
-      "link": "https://finance.yahoo.com/m/b20976d1-5ced-39b9-893a-b99093ff8200/djh-acquires-gooding-accounts.html",
-      "publisher": "International Accounting Bulletin",
-      "time": 1787654804,
+      "id": "4f04bdb1-3b3d-3e56-8546-3c33b8bda212",
+      "title": "GoldHaven Resources Plans to Raise Up to C$2 Million",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/goldhaven-resources-plans-raise-c-111913154.html",
+      "publisher": "MT Newswires",
+      "time": 1787656753,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7a86a74a-33d3-308f-92e3-a0b61ffcec8c",
-      "title": "Ursa Major Technologies to Merge With Inflection Point-led SPAC in $1.6 Billion Deal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ursa-major-technologies-merge-inflection-104641084.html",
-      "publisher": "MT Newswires",
-      "time": 1787654801,
+      "id": "a6278bc7-13b7-3c5f-9766-7409b611b3d9",
+      "title": "Europe's gaming bash kicks off as industry eyes 'Grand Theft' boost",
+      "link": "https://finance.yahoo.com/media-advertising/articles/europes-gaming-bash-kicks-off-111913393.html",
+      "publisher": "AFP",
+      "time": 1787656753,
       "impact": "low",
       "tags": []
     }
