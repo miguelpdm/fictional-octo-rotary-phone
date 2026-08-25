@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-25T10:01:27.207100+00:00",
+  "updatedAt": "2026-08-25T10:57:57.922836+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20168.6,
-      "change": 70.0,
-      "changePct": 0.3482829649826356,
+      "price": 20168.7,
+      "change": 70.10000000000218,
+      "changePct": 0.34878051207547883,
       "currency": "EUR"
     },
     {
@@ -28,124 +28,123 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26290.29,
-      "change": 153.72999999999956,
-      "changePct": 0.5881799288047072,
+      "price": 26330.21,
+      "change": 193.64999999999782,
+      "changePct": 0.740916172595008,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6482.18,
-      "change": 34.20000000000073,
-      "changePct": 0.5303986674896747,
+      "price": 6486.25,
+      "change": 38.27000000000044,
+      "changePct": 0.5935192106675337,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.84,
-      "change": -0.009999999999999787,
-      "changePct": -0.06309148264984094,
+      "price": 15.85,
+      "change": 0.0,
+      "changePct": 0.0,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "18ccd32e-43ca-4537-8ef0-a8da6e706c79",
-      "title": "Best CD rates today, Tuesday, August 25, 2026: Lock in up to 4.30% APY today with multiple offers",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-august-25-2026-lock-in-up-to-430-apy-today-with-multiple-offers-100000257.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1787652000,
+      "id": "0eb52c27-1c1a-387f-b77e-694484acb288",
+      "title": "RUM Group signs six-year $13.7bn GPU services contract",
+      "link": "https://finance.yahoo.com/m/0eb52c27-1c1a-387f-b77e-694484acb288/rum-group-signs-six-year.html",
+      "publisher": "Verdict",
+      "time": 1787655373,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4848989a-9e49-4160-9ef6-d1eb138355eb",
-      "title": "Mortgage and refinance rates today, Tuesday, August 25, 2026: Rates mixed this morning",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-tuesday-august-25-2026-rates-mixed-this-morning-100000955.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1787652000,
+      "id": "fd5ea454-9b22-31f4-9f1c-64091fe206a3",
+      "title": "Vocus selects UGL to begin Sydney-Melbourne digital infrastructure project",
+      "link": "https://finance.yahoo.com/m/fd5ea454-9b22-31f4-9f1c-64091fe206a3/vocus-selects-ugl-to-begin.html",
+      "publisher": "World Construction Network",
+      "time": 1787655314,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7f540692-7237-4d96-b07b-9e56a4e244e5",
-      "title": "Software is crushing chips by a record margin: Chart of the Day",
-      "link": "https://finance.yahoo.com/markets/article/software-is-crushing-chips-by-a-record-margin-chart-of-the-day-100000109.html",
-      "publisher": "Yahoo Finance",
-      "time": 1787652000,
-      "impact": "high",
+      "id": "38344cab-7190-3476-965a-e64804980015",
+      "title": "Avantus secures $300m in tax equity for Aratina 2 solar storage project",
+      "link": "https://finance.yahoo.com/m/38344cab-7190-3476-965a-e64804980015/avantus-secures-%24300m-in-tax.html",
+      "publisher": "Energy Monitor",
+      "time": 1787655296,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "23b747c4-a2b1-34d5-98f7-240074ed7de6",
+      "title": "Real Madrid's Mourinho happy with squad despite losing out on Rodri",
+      "link": "https://finance.yahoo.com/m/23b747c4-a2b1-34d5-98f7-240074ed7de6/real-madrid%27s-mourinho-happy.html",
+      "publisher": "AFP",
+      "time": 1787655171,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f6b30c5e-cd60-3e93-a6b8-eb9e024aeb39",
+      "title": "CPA Australia welcomes New Zealand SMC Resident Visa rule changes",
+      "link": "https://finance.yahoo.com/m/f6b30c5e-cd60-3e93-a6b8-eb9e024aeb39/cpa-australia-welcomes-new.html",
+      "publisher": "The Accountant",
+      "time": 1787655040,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "282590c4-6a57-3432-902e-790dba00677d",
+      "title": "Medical Guardian unveils Guardian Flex wearable for older adults",
+      "link": "https://finance.yahoo.com/m/282590c4-6a57-3432-902e-790dba00677d/medical-guardian-unveils.html",
+      "publisher": "Medical Device Network",
+      "time": 1787654959,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7575e0a4-eccc-327b-a9a1-78180702566f",
+      "title": "Solar Energy Markets to Reach $974.7 Billion by 2031, Driven by Policy Mandates, Falling Costs, and Surging EV Infrastructure Demand",
+      "link": "https://finance.yahoo.com/energy/articles/solar-energy-markets-reach-974-104700735.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787654820,
+      "impact": "low",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "05f79fcc-f4bb-3bd5-a585-2102c146f215",
-      "title": "Oeko-Tex overhauls governance to align with new EU anti-greenwash laws",
-      "link": "https://finance.yahoo.com/m/05f79fcc-f4bb-3bd5-a585-2102c146f215/oeko-tex-overhauls-governance.html",
-      "publisher": "Just Style",
-      "time": 1787651974,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fd77faf4-833d-399b-b4ac-99c51f0fc3e0",
-      "title": "APC invests in electron beam coating and precision slitting tech for tea packaging",
-      "link": "https://finance.yahoo.com/m/fd77faf4-833d-399b-b4ac-99c51f0fc3e0/apc-invests-in-electron-beam.html",
-      "publisher": "Packaging Gateway",
-      "time": 1787651934,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6b867af6-4c59-324e-aea3-69dbea565910",
-      "title": "Monster Run: This Consumer Stock Turned $1,000 Into $1M Over 22 Years",
-      "link": "https://finance.yahoo.com/m/6b867af6-4c59-324e-aea3-69dbea565910/monster-run%3A-this-consumer.html",
-      "publisher": "Stocktwits",
-      "time": 1787651676,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b22d5401-19c1-3517-b539-0b7ed270f2ac",
-      "title": "CA Sri Lanka launches language school and StepUp English CSR initiative",
-      "link": "https://finance.yahoo.com/m/b22d5401-19c1-3517-b539-0b7ed270f2ac/ca-sri-lanka-launches.html",
-      "publisher": "The Accountant",
-      "time": 1787651641,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fba6885a-074c-3d70-9082-bf83ce673e84",
-      "title": "US wants EU CSDDD to apply only to EU firms",
-      "link": "https://finance.yahoo.com/m/fba6885a-074c-3d70-9082-bf83ce673e84/us-wants-eu-csddd-to-apply.html",
-      "publisher": "Just Style",
-      "time": 1787651561,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ec59ea73-b61c-37f3-b2b9-f50abec42f09",
-      "title": "Interactive Brokers Enters Collaboration With Daol Investment",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-enters-collaboration-daol-095124137.html",
-      "publisher": "MT Newswires",
-      "time": 1787651484,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "37c28ac6-11cc-37af-86f8-8602f7f6d0ab",
-      "title": "Chesnara, Solvonis Therapeutics, Savannah Energy, Eco (Atlantic) Oil & Gas, Emmerson",
-      "link": "https://finance.yahoo.com/video/chesnara-solvonis-therapeutics-savannah-energy-095114291.html",
-      "publisher": "Proactive",
-      "time": 1787651474,
+      "id": "291e3bd3-2144-395d-b345-5aed9f0c46bd",
+      "title": "Earnings To Watch: Abercrombie and Fitch (ANF) Reports Q2 Results Tomorrow",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-abercrombie-fitch-anf-104644797.html",
+      "publisher": "StockStory",
+      "time": 1787654804,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
+    },
+    {
+      "id": "b20976d1-5ced-39b9-893a-b99093ff8200",
+      "title": "DJH acquires Gooding Accounts in UK",
+      "link": "https://finance.yahoo.com/m/b20976d1-5ced-39b9-893a-b99093ff8200/djh-acquires-gooding-accounts.html",
+      "publisher": "International Accounting Bulletin",
+      "time": 1787654804,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7a86a74a-33d3-308f-92e3-a0b61ffcec8c",
+      "title": "Ursa Major Technologies to Merge With Inflection Point-led SPAC in $1.6 Billion Deal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ursa-major-technologies-merge-inflection-104641084.html",
+      "publisher": "MT Newswires",
+      "time": 1787654801,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
