@@ -1,147 +1,151 @@
 {
-  "updatedAt": "2026-08-25T13:43:17.198538+00:00",
+  "updatedAt": "2026-08-25T14:37:55.955165+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20089.5,
-      "change": -9.099999999998545,
-      "changePct": -0.04527678544773539,
+      "price": 20077.4,
+      "change": -21.19999999999709,
+      "changePct": -0.10547998368044088,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7679.49,
-      "change": 5.119999999999891,
-      "changePct": 0.06671557404711906,
+      "price": 7666.04,
+      "change": -8.329999999999927,
+      "changePct": -0.10854311168213061,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26170.143,
-      "change": -10.316999999999098,
-      "changePct": -0.03940725258455771,
+      "price": 26105.209,
+      "change": -75.2510000000002,
+      "changePct": -0.28743192441996895,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26281.66,
-      "change": 145.09999999999854,
-      "changePct": 0.5551610464422194,
+      "price": 26288.46,
+      "change": 151.89999999999782,
+      "changePct": 0.581178242278241,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6465.96,
-      "change": 17.980000000000473,
-      "changePct": 0.278847018756269,
+      "price": 6464.18,
+      "change": 16.200000000000728,
+      "changePct": 0.2512414740740624,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.8,
-      "change": -0.049999999999998934,
-      "changePct": -0.3154574132492046,
+      "price": 15.77,
+      "change": -0.08000000000000007,
+      "changePct": -0.5047318611987386,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "0f3c06ab-0621-371d-8daa-2e6e49384c10",
-      "title": "10X Health Expands its Flagship Genetic Test to Now Analyze 27 Genes, Providing the Most Comprehensive Methylation Panel Available",
-      "link": "https://finance.yahoo.com/healthcare/articles/10x-health-expands-flagship-genetic-133800248.html",
+      "id": "7b611a8b-5154-3093-aa86-24431c98e5b6",
+      "title": "UK’s SPP backs DB surplus rules, urges key tweaks",
+      "link": "https://finance.yahoo.com/m/7b611a8b-5154-3093-aa86-24431c98e5b6/uk%E2%80%99s-spp-backs-db-surplus.html",
+      "publisher": "The Accountant",
+      "time": 1787668470,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c14f54d9-138a-3dde-9a81-6f82ddc660a4",
+      "title": "Eni's gas push in Egypt: $8.5 billion investment and 230 new wells",
+      "link": "https://finance.yahoo.com/m/c14f54d9-138a-3dde-9a81-6f82ddc660a4/eni%27s-gas-push-in-egypt%3A-%248.5.html",
+      "publisher": "Euronews",
+      "time": 1787668425,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e5e52abd-4a27-3aec-aefe-67f0e6129561",
+      "title": "My old job had a pension and they offered me to cash out for $24k or get $100 per month for life — which should I choose?",
+      "link": "https://finance.yahoo.com/m/e5e52abd-4a27-3aec-aefe-67f0e6129561/my-old-job-had-a-pension-and.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787668372,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "21c7cfe4-ba1f-3269-91eb-60e54e00afd3",
+      "title": "Morrisons launches price commitment on over 500 essentials",
+      "link": "https://finance.yahoo.com/m/21c7cfe4-ba1f-3269-91eb-60e54e00afd3/morrisons-launches-price.html",
+      "publisher": "Retail Insight Network",
+      "time": 1787668342,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "476a0bd9-3644-3e97-bfed-c0b9a39f4690",
+      "title": "York University School of Continuing Studies launches new Certificate in AI Governance to prepare professionals for emerging AI oversight responsibilities",
+      "link": "https://finance.yahoo.com/technology/ai/articles/york-university-school-continuing-studies-143200816.html",
       "publisher": "GlobeNewswire",
-      "time": 1787665080,
+      "time": 1787668320,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0a2f8912-12fd-3535-b504-d2d2a5052119",
-      "title": "Birks Welcomes Sophie Nélisse as Brand Ambassador and Launches New Campaign",
-      "link": "https://finance.yahoo.com/media-advertising/articles/birks-welcomes-sophie-n-lisse-133700537.html",
-      "publisher": "CNW Group",
-      "time": 1787665020,
+      "id": "96a119de-328a-31b3-95ca-cdca0f7e008f",
+      "title": "New Jersey Social Media Legislation Brings Renewed Focus to Youth Mental Health",
+      "link": "https://finance.yahoo.com/healthcare/articles/jersey-social-media-legislation-brings-143200071.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787668320,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2999dadc-9e0c-3096-b206-6eecb84bbdcd",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-133600773.html",
+      "id": "99e922d1-57c9-3329-bb5d-aaaf6b5abcdd",
+      "title": "Issuance of Securities",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/issuance-securities-143200725.html",
       "publisher": "Business Wire",
-      "time": 1787664960,
+      "time": 1787668320,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7339c51e-84af-3d12-bcca-0691c6c8cb59",
-      "title": "Moody Capital Solutions Welcomes Hui John Zhang as Managing Director",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/moody-capital-solutions-welcomes-hui-133500761.html",
+      "id": "bc753d5f-59f1-3a9e-974a-7fb28cd9c33f",
+      "title": "North America Electric Vehicle Market (2026-2031) - Expanding Charging Infrastructure and Government Incentives Drive Growth",
+      "link": "https://finance.yahoo.com/energy/articles/north-america-electric-vehicle-market-143200167.html",
       "publisher": "GlobeNewswire",
-      "time": 1787664900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a50c5e5e-68f2-3324-bf3f-a5f9a037315f",
-      "title": "Stories of Impact: A Conversation With Michele Gay, Co-founder of Safe and Sound Schools",
-      "link": "https://finance.yahoo.com/healthcare/articles/stories-impact-conversation-michele-gay-133500895.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787664900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b5ee3bff-43d2-3acb-8baa-4f8a80438edf",
-      "title": "Keypoint Intelligence Launches Why Buy Research Series Exploring How SMBs Purchase Print and Scanning Technology",
-      "link": "https://finance.yahoo.com/small-business/articles/keypoint-intelligence-launches-why-buy-133500767.html",
-      "publisher": "CNW Group",
-      "time": 1787664900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f417144b-2d89-344b-954b-73af84e7fcfd",
-      "title": "Rider Levett Bucknall (RLB) Publishes Inaugural Sustainability Report",
-      "link": "https://finance.yahoo.com/real-estate/articles/rider-levett-bucknall-rlb-publishes-133500093.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787664900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b1330b00-5656-39dc-87ec-c6205f1b64e4",
-      "title": "2 S&P 500 Stocks with Exciting Potential and 1 We Brush Off",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-exciting-133444284.html",
-      "publisher": "StockStory",
-      "time": 1787664884,
+      "time": 1787668320,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "8dc914f7-8d92-36fb-9e0c-30fd80e02ade",
-      "title": "James Watt launches non-alc brand Fool’s Fix",
-      "link": "https://finance.yahoo.com/m/8dc914f7-8d92-36fb-9e0c-30fd80e02ade/james-watt-launches-non-alc.html",
-      "publisher": "Just Drinks",
-      "time": 1787664871,
+      "id": "fdbf6825-8674-3d22-9157-e669b47a7e8d",
+      "title": "Smart Watch Band Market Expands as Sustainable Materials, Premium Designs and Wearable Ecosystems Gain Momentum",
+      "link": "https://finance.yahoo.com/technology/articles/smart-watch-band-market-expands-143100501.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787668260,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     },
     {
-      "id": "e813ee55-1099-3f07-b446-3d2fc05def5a",
-      "title": "AMD upgraded, Five Below downgraded: Wall Street's top analyst calls",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/moderna-upgraded-baidu-downgraded-wall-133822050.html",
-      "publisher": "The Fly",
-      "time": 1787664844,
+      "id": "042144a9-d5f1-3843-9fb4-3ff6346f3359",
+      "title": "Multi Camera System Market Size, 2026-2035 | At 14.60% CAGR to Reach USD 9.46 Billion by 2035 | SNS Insider",
+      "link": "https://finance.yahoo.com/technology/articles/multi-camera-system-market-size-143000417.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787668200,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
