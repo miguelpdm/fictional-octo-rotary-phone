@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T18:30:23.312969+00:00",
+  "updatedAt": "2026-08-25T19:25:30.387793+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7668.13,
-      "change": -6.239999999999782,
-      "changePct": -0.08130960586992524,
+      "price": 7668.25,
+      "change": -6.119999999999891,
+      "changePct": -0.07974595960319728,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26094.164,
-      "change": -86.29599999999846,
-      "changePct": -0.3296198768088814,
+      "price": 26093.223,
+      "change": -87.23699999999735,
+      "changePct": -0.33321416048456504,
       "currency": "USD"
     },
     {
@@ -44,19 +44,55 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.55,
-      "change": -0.29999999999999893,
-      "changePct": -1.8927444794952615,
+      "price": 15.45,
+      "change": -0.40000000000000036,
+      "changePct": -2.5236593059936934,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "a6bd143b-7fb1-3688-bb7b-2df485a1df37",
-      "title": "XRP active addresses jump 655%, analyst warns of bigger moves",
-      "link": "https://finance.yahoo.com/m/a6bd143b-7fb1-3688-bb7b-2df485a1df37/xrp-active-addresses-jump.html",
-      "publisher": "TheStreet",
-      "time": 1787682279,
+      "id": "0151b58d-0a05-3284-9b2f-689d9c95a193",
+      "title": "Anthropic Has a New Problem Before IPO",
+      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-problem-ipo-192337187.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787685817,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "725add4b-68be-414c-866d-33c2bb7505bf",
+      "title": "Nvidia earnings in focus: Why its networking segment is growing faster than compute",
+      "link": "https://finance.yahoo.com/video/nvidia-earnings-focus-why-networking-192016863.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1787685616,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "834cecb9-758a-3b9b-ae66-ea12d6565327",
+      "title": "CrowdStrike Q2 Earnings Preview: What to Expect From Upcoming Report",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-q2-earnings-preview-expect-191946367.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787685586,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "acdcd217-da2c-3ad3-a1a3-ae4456fdd508",
+      "title": "As Trade War Escalates, Support for Workers Must Keep Pace",
+      "link": "https://finance.yahoo.com/economy/policy/articles/trade-war-escalates-support-workers-191900072.html",
+      "publisher": "CNW Group",
+      "time": 1787685540,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,92 +100,60 @@
       ]
     },
     {
-      "id": "09e53ec1-f226-3f3e-a3df-d2fbc0130dfc",
-      "title": "RLI Shares Fall After Jefferies Downgrade",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rli-shares-fall-jefferies-downgrade-182402636.html",
-      "publisher": "MT Newswires",
-      "time": 1787682242,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5f1ca500-3edc-35c9-8fc3-e9178f38b6b6",
-      "title": "Cathie Wood Keeps Buying SpaceX Stock. Here's Why I Wouldn't Buy It Above a $1.8 Trillion Valuation.",
-      "link": "https://finance.yahoo.com/m/5f1ca500-3edc-35c9-8fc3-e9178f38b6b6/cathie-wood-keeps-buying.html",
-      "publisher": "Motley Fool",
-      "time": 1787682232,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1a4adb37-5ac8-308e-a1b8-98eb6231b2e6",
-      "title": "Dolly Parton's legacy shines through her business empire",
-      "link": "https://finance.yahoo.com/m/1a4adb37-5ac8-308e-a1b8-98eb6231b2e6/dolly-parton%27s-legacy-shines.html",
-      "publisher": "The Tennessean",
-      "time": 1787682197,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8741091f-7555-321c-a5bf-aba7ecde0ede",
-      "title": "Maintenance and Repair Distributors Stocks Q2 Recap: Benchmarking W.W. Grainger (NYSE:GWW)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/maintenance-repair-distributors-stocks-q2-182244758.html",
+      "id": "58b93193-ee55-3023-9f4e-f46ef27029c8",
+      "title": "Why Is Bloom Energy (BE) Stock Soaring Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-stock-soaring-191844776.html",
       "publisher": "StockStory",
-      "time": 1787682164,
+      "time": 1787685524,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "8474eae9-8ee5-3a0c-9e26-aeb8e8b33dc5",
-      "title": "Kura Oncology Shares Rise After CEO Purchases 100,000 Shares",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kura-oncology-shares-rise-ceo-182126389.html",
-      "publisher": "MT Newswires",
-      "time": 1787682086,
+      "id": "a98613a3-21cd-3650-b8b4-61839c793849",
+      "title": "ALGT Targets $140M in Synergies as Sun Country Integration Begins",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/algt-targets-140m-synergies-sun-191800385.html",
+      "publisher": "Zacks",
+      "time": 1787685480,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "99651e52-8f85-3b5c-ba10-f0ce59db579b",
-      "title": "Moderna Shares Rise After Wolfe Research Upgrade",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/moderna-shares-rise-wolfe-research-182053851.html",
-      "publisher": "MT Newswires",
-      "time": 1787682053,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8f0629c6-3880-3053-8d87-814ef35b1fc0",
-      "title": "Is Elevance Health (ELV) a Mispriced Opportunity?",
-      "link": "https://finance.yahoo.com/healthcare/articles/elevance-health-elv-mispriced-opportunity-182030448.html",
-      "publisher": "Insider Monkey",
-      "time": 1787682030,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c8ef0347-19d1-39d7-bb4d-3bcc52b3a862",
-      "title": "3 Dividend Stocks to Hold for the Next 10 Years",
-      "link": "https://finance.yahoo.com/m/c8ef0347-19d1-39d7-bb4d-3bcc52b3a862/3-dividend-stocks-to-hold-for.html",
+      "id": "85f2e66f-3723-3507-8394-3b898bbf4875",
+      "title": "Why Is Gemini Space Station Stock Up Today?",
+      "link": "https://finance.yahoo.com/m/85f2e66f-3723-3507-8394-3b898bbf4875/why-is-gemini-space-station.html",
       "publisher": "Motley Fool",
-      "time": 1787682004,
+      "time": 1787685376,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "809a1c57-2ff1-308f-bfdb-faa7f7b74b55",
-      "title": "CrowdStrike's Next Earnings Report on Aug. 26 Could Send the Stock Soaring. Here's Why.",
-      "link": "https://finance.yahoo.com/m/809a1c57-2ff1-308f-bfdb-faa7f7b74b55/crowdstrike%27s-next-earnings.html",
-      "publisher": "Motley Fool",
-      "time": 1787682001,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "02f1807d-4c1e-3c4f-8895-4f52600d8a73",
+      "title": "ALGT Dips 16.6% in a Month as Airline Risks Challenge the Bull Case",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/algt-dips-16-6-month-191400059.html",
+      "publisher": "Zacks",
+      "time": 1787685240,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d417b225-e203-3069-b024-730b5ecbacd5",
+      "title": "VapoCept Introduces Vapo Cept Multi-Ingredient Dietary Supplement for Cognitive Wellness",
+      "link": "https://finance.yahoo.com/healthcare/articles/vapocept-introduces-vapo-cept-multi-191400077.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787685240,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8bc32008-033c-3a93-ae04-c32e665492e5",
+      "title": "TRC Talent Solutions Scales TRC TalentAI to fill 90% of Placements, Combining Speed with Deep Human Connection",
+      "link": "https://finance.yahoo.com/technology/ai/articles/trc-talent-solutions-scales-trc-191300717.html",
+      "publisher": "Business Wire",
+      "time": 1787685180,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
