@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T00:54:47.356587+00:00",
+  "updatedAt": "2026-08-25T02:15:06.572077+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,97 +52,94 @@
   ],
   "news": [
     {
-      "id": "fa63223e-5b34-386a-9a75-f1eab736e1d4",
-      "title": "FireFly bolsters funding for project development and ongoing resource growth with A$190m raising",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-bolsters-funding-project-development-004700860.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787618820,
+      "id": "6d4390f9-2402-3569-87d5-0939900bec9f",
+      "title": "Woodside Energy Group H1 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/6d4390f9-2402-3569-87d5-0939900bec9f/woodside-energy-group-h1.html",
+      "publisher": "MarketBeat",
+      "time": 1787623333,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "2e76de05-252c-36dd-bc89-0a3b08d4edd7",
+      "title": "Tuya Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/2e76de05-252c-36dd-bc89-0a3b08d4edd7/tuya-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1787623332,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "0d9000cc-c93e-3439-9a47-3f08f3815385",
+      "title": "Wolters Kluwer and Dentsu Soken Deliver CCH® Tagetik as Daihatsu Motor’s Budget Management System",
+      "link": "https://finance.yahoo.com/technology/articles/wolters-kluwer-dentsu-soken-deliver-020000317.html",
+      "publisher": "Business Wire",
+      "time": 1787623200,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "02a0b0f0-7d1b-3acc-a139-7d95abcb1216",
-      "title": "Economic study demonstrates scale, grade, long life, growth potential and robust financial returns",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/economic-study-demonstrates-scale-grade-004400318.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787618640,
+      "id": "6cfefc73-db09-340d-a388-e7e510db7c5b",
+      "title": "Henox and Nexusguard Announce Strategic Alliance at BATIC 2026 to Power and Protect the Next Generation of Digital Infrastructure",
+      "link": "https://finance.yahoo.com/technology/articles/henox-nexusguard-announce-strategic-alliance-020000811.html",
+      "publisher": "PR Newswire",
+      "time": 1787623200,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "abc0a366-6940-3bb8-8f21-f1b26469b397",
-      "title": "Kyle Bachus of Bachus & Schanker Named 2026 Best Personal Injury Lawyer by Law Week Colorado",
-      "link": "https://finance.yahoo.com/small-business/articles/kyle-bachus-bachus-schanker-named-004000415.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787618400,
-      "impact": "low",
-      "tags": []
+      "id": "86809971-6d6b-31b5-9a24-bca1a821fceb",
+      "title": "Norway’s Top Oil Producers Team Up to Hunt for Major New Fields",
+      "link": "https://finance.yahoo.com/energy/articles/norway-top-oil-producers-team-020000451.html",
+      "publisher": "Oilprice.com",
+      "time": 1787623200,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "f365efaf-d71e-3843-8686-0a465279a8be",
-      "title": "Trump makes final pitch for Sen. Darline Graham before South Carolina runoff",
-      "link": "https://finance.yahoo.com/m/f365efaf-d71e-3843-8686-0a465279a8be/trump-makes-final-pitch-for.html",
-      "publisher": "USA TODAY",
-      "time": 1787618226,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0e681796-b928-3907-8187-0b4ee72a1505",
-      "title": "NewPeak Metals to showcase Las Opeñas drilling results in investor webinar",
-      "link": "https://finance.yahoo.com/m/0e681796-b928-3907-8187-0b4ee72a1505/newpeak-metals-to-showcase.html",
-      "publisher": "Proactive",
-      "time": 1787618100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7a2d488b-4501-35b8-b47b-4afeae753ede",
-      "title": "Asian Currencies Consolidate as Traders Parse U.S.’ New Measures on Iran",
-      "link": "https://finance.yahoo.com/m/7a2d488b-4501-35b8-b47b-4afeae753ede/asian-currencies-consolidate.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787618040,
+      "id": "ae9dbe8f-3b33-307f-9622-234d077d60ee",
+      "title": "Furniture China and Maison Shanghai 2026 Enter Final Countdown",
+      "link": "https://finance.yahoo.com/small-business/articles/furniture-china-maison-shanghai-2026-020000286.html",
+      "publisher": "PR Newswire",
+      "time": 1787623200,
       "impact": "medium",
       "tags": [
         "geo"
       ]
     },
     {
-      "id": "9cd7f59e-b372-32ba-8290-d5e5bf7215f4",
-      "title": "South Korea's SK Hynix union members reject wage agreement in vote",
-      "link": "https://finance.yahoo.com/technology/articles/south-koreas-sk-hynix-union-003310164.html",
-      "publisher": "Reuters",
-      "time": 1787617990,
+      "id": "eb9dbb17-41f3-3ec8-b8b4-2b9a0e5dcb31",
+      "title": "Get Paid 10.0% To Cap Your BKNG Stock At 15% Higher",
+      "link": "https://finance.yahoo.com/m/eb9dbb17-41f3-3ec8-b8b4-2b9a0e5dcb31/get-paid-10.0%25-to-cap-your.html",
+      "publisher": "Trefis",
+      "time": 1787622974,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "737cdcea-0feb-3785-b264-1f0535331e08",
-      "title": "Federer looks forward to brief return to Arthur Ashe stadium",
-      "link": "https://finance.yahoo.com/m/737cdcea-0feb-3785-b264-1f0535331e08/federer-looks-forward-to.html",
+      "id": "168ee33a-fdba-3fca-8ca8-f90e00e21dc4",
+      "title": "Families of detained Chinese Christians cling to faith in legal limbo",
+      "link": "https://finance.yahoo.com/m/168ee33a-fdba-3fca-8ca8-f90e00e21dc4/families-of-detained-chinese.html",
       "publisher": "AFP",
-      "time": 1787617868,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "38f5c7bc-ab84-3a59-a16e-bf66abb7e4e2",
-      "title": "Gold Gains; Potential to Rise to $5,000 Intact",
-      "link": "https://finance.yahoo.com/m/38f5c7bc-ab84-3a59-a16e-bf66abb7e4e2/gold-gains%3B-potential-to-rise.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787617860,
+      "time": 1787622872,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "13cf5c25-e5ba-3fa9-a711-72848aa11a20",
-      "title": "Antengene Receives Clinical Trial Approval in Australia for Phase I ATTRACT Study of ATG-201 (CD19 x CD3 TCE) in B Cell-related Autoimmune Diseases",
-      "link": "https://finance.yahoo.com/healthcare/articles/antengene-receives-clinical-trial-approval-003000024.html",
-      "publisher": "PR Newswire",
-      "time": 1787617800,
+      "id": "07380c09-b710-358c-b60f-ab67e34ee8d3",
+      "title": "Hyundai reaches tentative deal with workers after strikes",
+      "link": "https://finance.yahoo.com/economy/policy/articles/hyundai-reaches-tentative-deal-workers-015430635.html",
+      "publisher": "AFP",
+      "time": 1787622870,
       "impact": "low",
       "tags": []
     }
