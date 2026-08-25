@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T17:06:09.136749+00:00",
+  "updatedAt": "2026-08-25T17:53:52.454405+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7670.98,
-      "change": -3.3900000000003274,
-      "changePct": -0.04417300703510943,
+      "price": 7668.57,
+      "change": -5.800000000000182,
+      "changePct": -0.07557623622525604,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26120.82,
-      "change": -59.63999999999942,
-      "changePct": -0.22780348397239553,
+      "price": 26106.379,
+      "change": -74.08099999999831,
+      "changePct": -0.2829629425915294,
       "currency": "USD"
     },
     {
@@ -44,111 +44,109 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.49,
-      "change": -0.35999999999999943,
-      "changePct": -2.2712933753943183,
+      "price": 15.55,
+      "change": -0.29999999999999893,
+      "changePct": -1.8927444794952615,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "a0eb8db7-bf3d-35a6-9cd2-8511a00565d4",
-      "title": "Gulf Keystone Petroleum Ltd (GUKYF) (H1 2026) Earnings Call Highlights: Production Restart and ...",
-      "link": "https://finance.yahoo.com/energy/articles/gulf-keystone-petroleum-ltd-gukyf-170307364.html",
+      "id": "b448efef-d1cc-3940-a807-31e6dd4c00b2",
+      "title": "United Airlines Makes Bold International Move",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/united-airlines-makes-bold-international-175331018.html",
       "publisher": "GuruFocus.com",
-      "time": 1787677387,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e5322b13-6d2f-30a8-b0b3-c9fb97e53a76",
-      "title": "Banqup Group SA (XBRU:BANQ) (H1 2026) Earnings Call Highlights: Subscription Revenue Surges 42. ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/banqup-group-sa-xbru-banq-170303806.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787677383,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "8c6a17bd-4361-366e-a5a0-32c98587ada8",
-      "title": "Canatu PLC (FRA:0CD) (H1 2026) Earnings Call Highlights: Strategic Pivot to Reactor Sales ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/canatu-plc-fra-0cd-h1-170259096.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787677379,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "4847ad5d-8ea8-36be-9227-445440604bea",
-      "title": "Private Tours of Spain Sees 400% Surge in Hyper-Specific AI-Generated Tour Requests",
-      "link": "https://finance.yahoo.com/technology/ai/articles/private-tours-spain-sees-400-170100034.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787677260,
+      "time": 1787680411,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1ee990eb-2954-39b4-828e-120a00ee78d9",
-      "title": "Global RNAi Technology Market is Expected to Showcase Significant Growth at a CAGR of ~14% by 2034 | DelveInsight",
-      "link": "https://finance.yahoo.com/healthcare/articles/global-rnai-technology-market-expected-170000809.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787677200,
-      "impact": "low",
+      "id": "f13f25a0-56ba-34b6-916c-00e2c9749695",
+      "title": "Q2 Earnings Highs And Lows: Cincinnati Financial (NASDAQ:CINF) Vs The Rest Of The Property & Casualty Insurance Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-highs-lows-cincinnati-175044677.html",
+      "publisher": "StockStory",
+      "time": 1787680244,
+      "impact": "medium",
       "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "d88c0f31-6ad4-3328-8fdf-d02d60adbbde",
+      "title": "Snowflake Stock Fans Should Prepare for September 2 as AI Agents Are Pouring More Data Into It",
+      "link": "https://finance.yahoo.com/m/d88c0f31-6ad4-3328-8fdf-d02d60adbbde/snowflake-stock-fans-should.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787680209,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ac53bf1b-b78e-33fc-8a24-83eafe615745",
+      "title": "NEO Launches NEO 2.0, an AI-Powered Global Listing Service Built for New Construction",
+      "link": "https://finance.yahoo.com/real-estate/articles/neo-launches-neo-2-0-175000037.html",
+      "publisher": "PR Newswire",
+      "time": 1787680200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ce32905d-397c-3f16-a6fc-e96e7db7d6e7",
+      "title": "GarageExperts Reaches 125 Territories at 2026 Midpoint, Fueled by Rising Demand",
+      "link": "https://finance.yahoo.com/small-business/articles/garageexperts-reaches-125-territories-2026-175000583.html",
+      "publisher": "PR Newswire",
+      "time": 1787680200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "772e3637-3ebf-3a8b-8e2b-1dfefa64e658",
+      "title": "Brazil election rivals offer competing cures for high long-term interest rates",
+      "link": "https://finance.yahoo.com/economy/policy/articles/brazil-election-rivals-offer-competing-173743760.html",
+      "publisher": "Reuters",
+      "time": 1787680196,
+      "impact": "high",
+      "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "3ef644de-42ee-32bd-b2d1-0b964e16ecb6",
-      "title": "New National Certification Initiative Helps Communities Conserve Bats at Risk of Extinction",
-      "link": "https://finance.yahoo.com/healthcare/articles/national-certification-initiative-helps-communities-170000702.html",
+      "id": "86f0d822-9789-3e0f-baac-59ab2796071d",
+      "title": "An Inherited IRA Comes With a Ten-Year Clock, and a Ten-Year Choice. She Emptied Hers Across the Two Years She Wasn’t Working.",
+      "link": "https://finance.yahoo.com/m/86f0d822-9789-3e0f-baac-59ab2796071d/an-inherited-ira-comes-with-a.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787680148,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e66b10df-7f9e-3454-913f-394a86718f2d",
+      "title": "AirTripMaker Expands US–India Travel Network, Strengthening Connections Between the United States and Major Indian Cities",
+      "link": "https://finance.yahoo.com/small-business/articles/airtripmaker-expands-us-india-travel-174800141.html",
       "publisher": "GlobeNewswire",
-      "time": 1787677200,
+      "time": 1787680080,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "962555ec-48d5-3dc3-905f-28a047a22acf",
-      "title": "Think Of Hydration Backpacks As Personal, Portable Hydration Stations To Help Workers Beat The Heat",
-      "link": "https://finance.yahoo.com/healthcare/articles/think-hydration-backpacks-personal-portable-170000335.html",
+      "id": "433e8c0b-8944-3af0-934a-07b2e1fb171d",
+      "title": "Métis Nation Calls for a Team Canada Approach to Protect Canada’s Economy Amid U.S. Tariffs'",
+      "link": "https://finance.yahoo.com/economy/policy/articles/m-tis-nation-calls-team-174500637.html",
       "publisher": "GlobeNewswire",
-      "time": 1787677200,
-      "impact": "low",
-      "tags": []
+      "time": 1787679900,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "c5033e7c-d0f8-351a-b57b-5c8719c42329",
-      "title": "Sonoco to Increase Paperboard Prices in EMEA Region",
-      "link": "https://finance.yahoo.com/economy/policy/articles/sonoco-increase-paperboard-prices-emea-170000529.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787677200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fbd03a77-2ff3-3e87-ac49-ce76a9479c48",
-      "title": "Eni, BP Target Final Investment Decision for Egypt Gas Project in Few Months",
-      "link": "https://finance.yahoo.com/energy/articles/eni-bp-target-final-investment-165926400.html",
-      "publisher": "MT Newswires",
-      "time": 1787677166,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5ab11f38-56cd-3c3f-ba4a-227986354654",
-      "title": "Western Digital vs. Seagate Technology: Which Data Storage Stock Is the Better Buy?",
-      "link": "https://finance.yahoo.com/m/5ab11f38-56cd-3c3f-ba4a-227986354654/western-digital-vs.-seagate.html",
-      "publisher": "Motley Fool",
-      "time": 1787677140,
+      "id": "a63d575b-c868-3559-9962-e7181208c33d",
+      "title": "Folger Consort Presents Monteverdi's Legacy, Celebrating the 17th-century Music of Claudio Monteverdi and Baroque Italian Composers",
+      "link": "https://finance.yahoo.com/media-advertising/articles/folger-consort-presents-monteverdis-legacy-174500669.html",
+      "publisher": "PR Newswire",
+      "time": 1787679900,
       "impact": "low",
       "tags": []
     }
