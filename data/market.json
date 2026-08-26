@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-26T11:02:10.673674+00:00",
+  "updatedAt": "2026-08-26T11:54:12.447093+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20090.0,
-      "change": 33.400000000001455,
-      "changePct": 0.1665287237119026,
+      "price": 20120.5,
+      "change": 63.900000000001455,
+      "changePct": 0.3185983666224657,
       "currency": "EUR"
     },
     {
@@ -28,134 +28,119 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26313.79,
-      "change": 207.19000000000233,
-      "changePct": 0.7936307293941085,
+      "price": 26324.97,
+      "change": 218.37000000000262,
+      "changePct": 0.8364551492726078,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6471.4,
-      "change": 15.769999999999527,
-      "changePct": 0.24428289725401744,
+      "price": 6473.23,
+      "change": 17.599999999999454,
+      "changePct": 0.27263024677683595,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.69,
-      "change": 0.2400000000000002,
-      "changePct": 1.5533980582524287,
+      "price": 15.7,
+      "change": 0.25,
+      "changePct": 1.6181229773462786,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "34c76050-1252-37de-98ae-46b75ad80d68",
-      "title": "Ingenia Communities Group (INGEF) (FY 2026) Earnings Call Highlights: Record Profit and ...",
-      "link": "https://finance.yahoo.com/real-estate/articles/ingenia-communities-group-ingef-fy-110120496.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787742080,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a8046519-fc4d-33a5-a495-68b5651b0823",
-      "title": "Cettire Ltd (ASX:CTT) (FY 2026) Earnings Call Highlights: Profitability Surges as Ex-US Growth ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cettire-ltd-asx-ctt-fy-110115867.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787742075,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "9f667770-6be2-3e44-8232-0db126e8fde3",
-      "title": "Nickel Industries Ltd (NICMF) (H1 2026) Earnings Call Highlights: Adjusted EBITDA Surges 46% to ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nickel-industries-ltd-nicmf-h1-110058235.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787742058,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c7680a53-2db9-38e4-8551-b084a11bd559",
-      "title": "IVE Group Ltd (ASX:IGL) (FY 2026) Earnings Call Highlights: Margin Expansion and Strategic ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ive-group-ltd-asx-igl-110053297.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787742053,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "8394e045-a49c-36f0-9917-d18ade0c6fbb",
-      "title": "Canada hits US with ‘dollar-for-dollar’ tariffs as trade row deepens",
-      "link": "https://finance.yahoo.com/m/8394e045-a49c-36f0-9917-d18ade0c6fbb/canada-hits-us-with.html",
-      "publisher": "Just Style",
-      "time": 1787742026,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "88d0dcb4-9e92-4915-8d71-274e330b139f",
-      "title": "Trump's Canada auto tariffs could end up denting US GDP: Oxford Economics",
-      "link": "https://finance.yahoo.com/news/trumps-canada-auto-tariffs-could-end-up-denting-us-gdp-oxford-economics-110000983.html",
-      "publisher": "Yahoo Finance",
-      "time": 1787742000,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "90c5350e-7dca-3167-b3b0-1e398f635a36",
-      "title": "COMAX France quadruples the size of its BESS portfolio",
-      "link": "https://finance.yahoo.com/m/90c5350e-7dca-3167-b3b0-1e398f635a36/comax-france-quadruples-the.html",
-      "publisher": "Energy Global",
-      "time": 1787742000,
+      "id": "66bd8a94-0ced-3ce1-a855-85522b493ff9",
+      "title": "Ahlstrom launches new grease-resistant paper products for food packaging",
+      "link": "https://finance.yahoo.com/m/66bd8a94-0ced-3ce1-a855-85522b493ff9/ahlstrom-launches-new.html",
+      "publisher": "Packaging Gateway",
+      "time": 1787744994,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c65e2fee-8319-4f04-86fb-5e8fae10c559",
-      "title": "The danger of \"sell everything and buy gold\"",
-      "link": "https://finance.yahoo.com/video/danger-sell-everything-buy-gold-110000009.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1787742000,
+      "id": "0963e2f9-7efa-349c-8064-cac5a1ebbf89",
+      "title": "Why Is Intuit Stock Tumbling After a Strong Quarter?",
+      "link": "https://finance.yahoo.com/m/0963e2f9-7efa-349c-8064-cac5a1ebbf89/why-is-intuit-stock-tumbling.html",
+      "publisher": "Barrons.com",
+      "time": 1787744940,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c22cac7c-4602-347f-9af3-4fb7754136b2",
-      "title": "Webuild advances $2.3bn Lot 2 Rogun dam works in Tajikistan",
-      "link": "https://finance.yahoo.com/m/c22cac7c-4602-347f-9af3-4fb7754136b2/webuild-advances-%242.3bn-lot-2.html",
-      "publisher": "World Construction Network",
-      "time": 1787741933,
+      "id": "78e0f7ca-c0f4-321d-824a-9517fb723bc1",
+      "title": "Edmond de Rothschild names new global CIO and equities co-head",
+      "link": "https://finance.yahoo.com/m/78e0f7ca-c0f4-321d-824a-9517fb723bc1/edmond-de-rothschild-names.html",
+      "publisher": "Private Banker International",
+      "time": 1787744724,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "fed45db5-8a81-329b-8ed0-94124b9d6465",
+      "title": "Does OpenAI Face A Netscape Moment? How That Could Boost Google Stock.",
+      "link": "https://finance.yahoo.com/m/fed45db5-8a81-329b-8ed0-94124b9d6465/does-openai-face-a-netscape.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787744720,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "264eb87e-4229-3f3f-909f-4141102dc99a",
-      "title": "Atricure Insider Sold Shares Worth $458,099, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/atricure-insider-sold-shares-worth-105831178.html",
-      "publisher": "MT Newswires",
-      "time": 1787741911,
+      "id": "7a6e9041-a4a8-3c42-9ba1-8ca7be39a5bd",
+      "title": "The 30-Year U.S. Treasury Bond Now Has a Higher Yield Than Ford and Coca-Cola. Is It Now the Best Asset for Passive Income?",
+      "link": "https://finance.yahoo.com/m/7a6e9041-a4a8-3c42-9ba1-8ca7be39a5bd/the-30-year-u.s.-treasury.html",
+      "publisher": "Motley Fool",
+      "time": 1787744700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8babfd5c-61f3-3d61-bf7d-9f8eafaddcb3",
+      "title": "Nestimate Expands Access to Objective Target-Date Fund Evaluation Tool through Collaboration with PGIM",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nestimate-expands-access-objective-target-114500067.html",
+      "publisher": "Business Wire",
+      "time": 1787744700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "90bb4500-ec75-3843-bd03-03c639080267",
+      "title": "Are you 50 years old with very little savings? Here’s a shockingly simple 3-step plan to retire by 58",
+      "link": "https://finance.yahoo.com/markets/articles/50-years-old-very-little-114500079.html",
+      "publisher": "Moneywise",
+      "time": 1787744700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9499e20f-44de-3cf7-b1ff-44c9e627e390",
+      "title": "86% of Hiring Managers Say Personality Can Overcome Skills Gaps, 99% Say It Can Accelerate Careers",
+      "link": "https://finance.yahoo.com/small-business/articles/86-hiring-managers-personality-overcome-114500440.html",
+      "publisher": "PR Newswire",
+      "time": 1787744700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ac49629e-20ca-30a9-8e5b-e05229bba93f",
+      "title": "DEA's Own Witness Admitted Marijuana Failed the Medical-Use Test-Then the Government Buried It in Silence",
+      "link": "https://finance.yahoo.com/healthcare/articles/deas-own-witness-admitted-marijuana-114500711.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787744700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b2479ab3-7d38-3716-8095-e743eeacbb2d",
+      "title": "Canadians for CANDU welcomes Saskatchewan's Dustin Duncan as new Co-Chair",
+      "link": "https://finance.yahoo.com/energy/articles/canadians-candu-welcomes-saskatchewans-dustin-114500797.html",
+      "publisher": "CNW Group",
+      "time": 1787744700,
       "impact": "low",
       "tags": []
     }
