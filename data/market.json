@@ -1,150 +1,148 @@
 {
-  "updatedAt": "2026-08-26T14:37:33.527609+00:00",
+  "updatedAt": "2026-08-26T16:12:28.909645+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20115.6,
-      "change": 59.0,
-      "changePct": 0.2941675059581385,
+      "price": 20067.3,
+      "change": 10.700000000000728,
+      "changePct": 0.053349022266988066,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7674.13,
-      "change": 21.270000000000437,
-      "changePct": 0.27793530784570003,
+      "price": 7670.98,
+      "change": 18.11999999999989,
+      "changePct": 0.2367742255836366,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26077.783,
-      "change": 97.59300000000076,
-      "changePct": 0.3756439040669093,
+      "price": 26062.945,
+      "change": 82.75500000000102,
+      "changePct": 0.31853115777829577,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26374.47,
-      "change": 267.8700000000026,
-      "changePct": 1.0260623750316114,
+      "price": 26285.96,
+      "change": 179.36000000000058,
+      "changePct": 0.6870293335784843,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6481.51,
-      "change": 25.88000000000011,
-      "changePct": 0.400890385601407,
+      "price": 6470.74,
+      "change": 15.109999999999673,
+      "changePct": 0.23405926299988805,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.49,
-      "change": 0.040000000000000924,
-      "changePct": 0.2588996763754105,
+      "price": 15.52,
+      "change": 0.07000000000000028,
+      "changePct": 0.4530744336569598,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "373ab2a9-46ed-36a8-addc-19f862a636a2",
-      "title": "Why Sazerac’s frenzy of activity could steal march on rivals",
-      "link": "https://finance.yahoo.com/m/373ab2a9-46ed-36a8-addc-19f862a636a2/why-sazerac%E2%80%99s-frenzy-of.html",
-      "publisher": "Just Drinks",
-      "time": 1787754910,
+      "id": "8bbfc792-fa37-333c-8149-f72ca39f5df1",
+      "title": "CZ Says Hyperliquid’s US Breakthrough Could Open ‘A Whole Continent’ For Decentralized Crypto – HYPE Token Hits Record High",
+      "link": "https://finance.yahoo.com/m/8bbfc792-fa37-333c-8149-f72ca39f5df1/cz-says-hyperliquid%E2%80%99s-us.html",
+      "publisher": "Stocktwits",
+      "time": 1787760425,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4510c695-cb8b-31c3-8f83-d55da3cc53f3",
-      "title": "SSH named preferred contractor for Cavalier’s Crawford stage one",
-      "link": "https://finance.yahoo.com/m/4510c695-cb8b-31c3-8f83-d55da3cc53f3/ssh-named-preferred.html",
-      "publisher": "Mining Technology",
-      "time": 1787754872,
+      "id": "3a9b9ca4-72c7-3d5d-b900-060ba24a88a8",
+      "title": "Mark Walter's TWG is working with regulators, says 'no fraud'",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mark-walters-twg-working-regulators-145400752.html",
+      "publisher": "Reuters",
+      "time": 1787760378,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e7a2ef9e-2a03-3bfa-b4b1-601e7db22c79",
-      "title": "ATEX Resources Inc. (ATX) Opens the Market",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/atex-resources-inc-atx-opens-143300225.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787754780,
+      "id": "9ecfc85f-d2f2-3392-8015-845a25276701",
+      "title": "NYC Grocery Lawsuit Puts Subsidized Retail Space at Risk",
+      "link": "https://finance.yahoo.com/m/9ecfc85f-d2f2-3392-8015-845a25276701/nyc-grocery-lawsuit-puts.html",
+      "publisher": "CRE Daily",
+      "time": 1787760302,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4a37e708-ae0d-3089-803b-c90ac8d850a2",
+      "title": "NYC’s Housing Court Fast Track Targets Rogue Landlords",
+      "link": "https://finance.yahoo.com/m/4a37e708-ae0d-3089-803b-c90ac8d850a2/nyc%E2%80%99s-housing-court-fast.html",
+      "publisher": "CRE Daily",
+      "time": 1787760301,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9858466d-c9ce-3b87-bdcf-b3d98bd9afee",
+      "title": "Gen 2 Technologies (MNIZ) Appoints Bret Csencsitz as Chief Executive Officer and Enters Agreement to Acquire Screen-Free AI Technology Behind PlayPal",
+      "link": "https://finance.yahoo.com/technology/ai/articles/gen-2-technologies-mniz-appoints-160500686.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787760300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e02530ab-9ccb-38c4-9bd4-32ce02ff4e05",
+      "title": "Ford Goes All In on Bronco With Massive Portfolio Refresh Planned",
+      "link": "https://finance.yahoo.com/m/e02530ab-9ccb-38c4-9bd4-32ce02ff4e05/ford-goes-all-in-on-bronco.html",
+      "publisher": "Motley Fool",
+      "time": 1787760300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "53c13469-67ba-3aaf-bef1-45421fec37f0",
+      "title": "Location, location, fabrication: Vancouver realtor pleads guilty to tax evasion",
+      "link": "https://finance.yahoo.com/real-estate/articles/location-location-fabrication-vancouver-realtor-160400648.html",
+      "publisher": "CNW Group",
+      "time": 1787760240,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8163e41c-863f-3e58-ba27-eff8168f3b63",
+      "title": "Eliot Spitzer Clears Path for Fifth Avenue Condo Tower",
+      "link": "https://finance.yahoo.com/m/8163e41c-863f-3e58-ba27-eff8168f3b63/eliot-spitzer-clears-path-for.html",
+      "publisher": "CRE Daily",
+      "time": 1787760218,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2d4d5aea-69d2-366d-8477-8dfd0b331f44",
+      "title": "ESC 2026: AI able to detect diabetes from facial video recordings",
+      "link": "https://finance.yahoo.com/m/2d4d5aea-69d2-366d-8477-8dfd0b331f44/esc-2026%3A-ai-able-to-detect.html",
+      "publisher": "Medical Device Network",
+      "time": 1787760217,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0fe4efc3-1a7a-3b67-a730-12c48486a53a",
+      "title": "Q2 Earnings Outperformers: Enova (NYSE:ENVA) And The Rest Of The Personal Loan Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-outperformers-enova-nyse-160313730.html",
+      "publisher": "StockStory",
+      "time": 1787760193,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
-    },
-    {
-      "id": "00d7e56e-3f8e-3545-a58f-b850a647d73e",
-      "title": "Global pipeline industry to converge in Calgary for International Pipeline Conference & Expo 2026, marking 30 years of technical leadership",
-      "link": "https://finance.yahoo.com/energy/articles/global-pipeline-industry-converge-calgary-143000902.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787754600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1137412e-0a77-329f-bb9f-41a146d6a995",
-      "title": "Skechers Is Now the #2 Footwear Brand in the United States",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/skechers-now-2-footwear-brand-143000485.html",
-      "publisher": "Business Wire",
-      "time": 1787754600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "36ae5eba-c119-35d8-b665-04020e063c85",
-      "title": "Hormuz Hostilities Keeps Long-Bond Yields High and Further Spooks Corporate Hiring",
-      "link": "https://finance.yahoo.com/economy/articles/hormuz-hostilities-keeps-long-bond-143000997.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787754600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5e53d119-1e95-346f-903e-b46762116a02",
-      "title": "Interlune Implants Helium into Simulated Moon Dirt, Advancing the Ability to Test Moon-Bound Hardware on Earth",
-      "link": "https://finance.yahoo.com/technology/articles/interlune-implants-helium-simulated-moon-143000370.html",
-      "publisher": "PR Newswire",
-      "time": 1787754600,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "8bf305af-cfaa-3dbd-912d-a9c3c0d6914b",
-      "title": "Pricefx Announces Integration with ServiceNow to Bring AI-Powered Deal Optimization to Sales Workflows",
-      "link": "https://finance.yahoo.com/technology/ai/articles/pricefx-announces-integration-servicenow-bring-143000139.html",
-      "publisher": "Business Wire",
-      "time": 1787754600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "afe18ae1-0917-32f2-94bf-e3a1149a4a2f",
-      "title": "Retirement Expert Grades AI's Data on Who's Actually Saving for Retirement",
-      "link": "https://finance.yahoo.com/m/afe18ae1-0917-32f2-94bf-e3a1149a4a2f/retirement-expert-grades-ai%27s.html",
-      "publisher": "TheStreet",
-      "time": 1787754600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b93df8d5-814b-331f-9668-2db747f33523",
-      "title": "A Boston woman brought her car in for repairs — then she saw a stranger driving it around town",
-      "link": "https://finance.yahoo.com/small-business/articles/boston-woman-brought-her-car-143000867.html",
-      "publisher": "Moneywise",
-      "time": 1787754600,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
