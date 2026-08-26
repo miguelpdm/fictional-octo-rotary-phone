@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T16:12:28.909645+00:00",
+  "updatedAt": "2026-08-26T18:12:51.565869+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7670.98,
-      "change": 18.11999999999989,
-      "changePct": 0.2367742255836366,
+      "price": 7672.64,
+      "change": 19.780000000000655,
+      "changePct": 0.2584654625852381,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26062.945,
-      "change": 82.75500000000102,
-      "changePct": 0.31853115777829577,
+      "price": 26105.66,
+      "change": 125.47000000000116,
+      "changePct": 0.4829448899334499,
       "currency": "USD"
     },
     {
@@ -44,105 +44,107 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.52,
-      "change": 0.07000000000000028,
-      "changePct": 0.4530744336569598,
+      "price": 15.4,
+      "change": -0.049999999999998934,
+      "changePct": -0.32362459546924877,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "8bbfc792-fa37-333c-8149-f72ca39f5df1",
-      "title": "CZ Says Hyperliquid’s US Breakthrough Could Open ‘A Whole Continent’ For Decentralized Crypto – HYPE Token Hits Record High",
-      "link": "https://finance.yahoo.com/m/8bbfc792-fa37-333c-8149-f72ca39f5df1/cz-says-hyperliquid%E2%80%99s-us.html",
-      "publisher": "Stocktwits",
-      "time": 1787760425,
+      "id": "9efb4a9d-70ac-3d02-89fa-0cfaae4f409f",
+      "title": "RevMed’s pancreatic cancer drug breezes through with swift approval",
+      "link": "https://finance.yahoo.com/m/9efb4a9d-70ac-3d02-89fa-0cfaae4f409f/revmed%E2%80%99s-pancreatic-cancer.html",
+      "publisher": "Pharmaceutical Technology",
+      "time": 1787767850,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3a9b9ca4-72c7-3d5d-b900-060ba24a88a8",
-      "title": "Mark Walter's TWG is working with regulators, says 'no fraud'",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mark-walters-twg-working-regulators-145400752.html",
-      "publisher": "Reuters",
-      "time": 1787760378,
+      "id": "2253c3fb-d63d-37eb-8f5e-4c2e66850387",
+      "title": "'Rocky Horror Picture Show' star Tim Curry dead at 80",
+      "link": "https://finance.yahoo.com/m/2253c3fb-d63d-37eb-8f5e-4c2e66850387/%27rocky-horror-picture-show%27.html",
+      "publisher": "AFP",
+      "time": 1787767702,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9ecfc85f-d2f2-3392-8015-845a25276701",
-      "title": "NYC Grocery Lawsuit Puts Subsidized Retail Space at Risk",
-      "link": "https://finance.yahoo.com/m/9ecfc85f-d2f2-3392-8015-845a25276701/nyc-grocery-lawsuit-puts.html",
-      "publisher": "CRE Daily",
-      "time": 1787760302,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4a37e708-ae0d-3089-803b-c90ac8d850a2",
-      "title": "NYC’s Housing Court Fast Track Targets Rogue Landlords",
-      "link": "https://finance.yahoo.com/m/4a37e708-ae0d-3089-803b-c90ac8d850a2/nyc%E2%80%99s-housing-court-fast.html",
-      "publisher": "CRE Daily",
-      "time": 1787760301,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9858466d-c9ce-3b87-bdcf-b3d98bd9afee",
-      "title": "Gen 2 Technologies (MNIZ) Appoints Bret Csencsitz as Chief Executive Officer and Enters Agreement to Acquire Screen-Free AI Technology Behind PlayPal",
-      "link": "https://finance.yahoo.com/technology/ai/articles/gen-2-technologies-mniz-appoints-160500686.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787760300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e02530ab-9ccb-38c4-9bd4-32ce02ff4e05",
-      "title": "Ford Goes All In on Bronco With Massive Portfolio Refresh Planned",
-      "link": "https://finance.yahoo.com/m/e02530ab-9ccb-38c4-9bd4-32ce02ff4e05/ford-goes-all-in-on-bronco.html",
-      "publisher": "Motley Fool",
-      "time": 1787760300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "53c13469-67ba-3aaf-bef1-45421fec37f0",
-      "title": "Location, location, fabrication: Vancouver realtor pleads guilty to tax evasion",
-      "link": "https://finance.yahoo.com/real-estate/articles/location-location-fabrication-vancouver-realtor-160400648.html",
-      "publisher": "CNW Group",
-      "time": 1787760240,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8163e41c-863f-3e58-ba27-eff8168f3b63",
-      "title": "Eliot Spitzer Clears Path for Fifth Avenue Condo Tower",
-      "link": "https://finance.yahoo.com/m/8163e41c-863f-3e58-ba27-eff8168f3b63/eliot-spitzer-clears-path-for.html",
-      "publisher": "CRE Daily",
-      "time": 1787760218,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2d4d5aea-69d2-366d-8477-8dfd0b331f44",
-      "title": "ESC 2026: AI able to detect diabetes from facial video recordings",
-      "link": "https://finance.yahoo.com/m/2d4d5aea-69d2-366d-8477-8dfd0b331f44/esc-2026%3A-ai-able-to-detect.html",
-      "publisher": "Medical Device Network",
-      "time": 1787760217,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0fe4efc3-1a7a-3b67-a730-12c48486a53a",
-      "title": "Q2 Earnings Outperformers: Enova (NYSE:ENVA) And The Rest Of The Personal Loan Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-outperformers-enova-nyse-160313730.html",
-      "publisher": "StockStory",
-      "time": 1787760193,
+      "id": "95997d78-e0dd-39ba-a307-2c2633d8245b",
+      "title": "Rosenblatt Resets Marvell Stock Target Before Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rosenblatt-resets-marvell-stock-target-180804171.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787767684,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
+    },
+    {
+      "id": "d40c6d89-3fbb-36d0-9b63-bb23420025c9",
+      "title": "Meta Moves to Defuse Major Legal Threat",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-moves-defuse-major-legal-180712617.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787767632,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e815a821-3c95-389e-80a2-b5c62b6284f0",
+      "title": "Micron Reshuffles Its Leadership for the Next Phase of the AI Boom",
+      "link": "https://finance.yahoo.com/technology/ai/articles/micron-reshuffles-leadership-next-phase-180606304.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787767566,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "605aa602-29b2-3fb2-b326-2a06b74a461f",
+      "title": "Berkshire Hathaway and Billionaire David Tepper Are Piling Into Alphabet Stock. Here Is Why the Tech Giant Is a Screaming Buy.",
+      "link": "https://finance.yahoo.com/m/605aa602-29b2-3fb2-b326-2a06b74a461f/berkshire-hathaway-and.html",
+      "publisher": "Motley Fool",
+      "time": 1787767500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5ec8bc21-e3bb-304a-8a2d-ccba9261ff3b",
+      "title": "Tenorshare Launches iOS 27 & iPhone 18 Giveaway: Win a Free iPhone 18, Get 25% Off",
+      "link": "https://finance.yahoo.com/technology/articles/tenorshare-launches-ios-27-iphone-180400971.html",
+      "publisher": "PR Newswire",
+      "time": 1787767440,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f1dfa5a4-43e8-3fd9-bd4c-0bb2b2b2ddf2",
+      "title": "Research Tools & Consumables Stocks Q2 Highlights: Waters Corporation (NYSE:WAT)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/research-tools-consumables-stocks-q2-180313730.html",
+      "publisher": "StockStory",
+      "time": 1787767393,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "22709ad4-cb21-3346-972e-bfa52e0797e2",
+      "title": "Down 36%, can this Nancy Pelosi stock rebound in late 2026?",
+      "link": "https://finance.yahoo.com/m/22709ad4-cb21-3346-972e-bfa52e0797e2/down-36%25%2C-can-this-nancy.html",
+      "publisher": "TheStreet",
+      "time": 1787767380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8fbea2ca-a306-3bc2-9ea9-1eb4324c9315",
+      "title": "Amtrak to Hold Public Board of Directors Meeting",
+      "link": "https://finance.yahoo.com/small-business/articles/amtrak-hold-public-board-directors-180300325.html",
+      "publisher": "Business Wire",
+      "time": 1787767380,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
