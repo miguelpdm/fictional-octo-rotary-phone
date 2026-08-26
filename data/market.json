@@ -1,62 +1,118 @@
 {
-  "updatedAt": "2026-08-26T13:48:51.528757+00:00",
+  "updatedAt": "2026-08-26T14:37:33.527609+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20135.6,
-      "change": 79.0,
-      "changePct": 0.3938853045880159,
+      "price": 20115.6,
+      "change": 59.0,
+      "changePct": 0.2941675059581385,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7681.66,
-      "change": 28.800000000000182,
-      "changePct": 0.37632989496737407,
+      "price": 7674.13,
+      "change": 21.270000000000437,
+      "changePct": 0.27793530784570003,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26147.867,
-      "change": 167.67699999999968,
-      "changePct": 0.6454032861191534,
+      "price": 26077.783,
+      "change": 97.59300000000076,
+      "changePct": 0.3756439040669093,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26388.35,
-      "change": 281.75,
-      "changePct": 1.079229007224227,
+      "price": 26374.47,
+      "change": 267.8700000000026,
+      "changePct": 1.0260623750316114,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6487.35,
-      "change": 31.720000000000255,
-      "changePct": 0.49135405839554397,
+      "price": 6481.51,
+      "change": 25.88000000000011,
+      "changePct": 0.400890385601407,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.64,
-      "change": 0.19000000000000128,
-      "changePct": 1.2297734627831798,
+      "price": 15.49,
+      "change": 0.040000000000000924,
+      "changePct": 0.2588996763754105,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "c290fc34-ce83-4d17-9be7-f6fa3bc755ad",
-      "title": "July PCE shows muted inflation gains. Is the data calm enough to avoid Fed rate hikes?",
-      "link": "https://finance.yahoo.com/video/july-pce-shows-muted-inflation-gains-is-the-data-calm-enough-to-avoid-fed-rate-hikes-134627277.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1787751987,
+      "id": "373ab2a9-46ed-36a8-addc-19f862a636a2",
+      "title": "Why Sazerac’s frenzy of activity could steal march on rivals",
+      "link": "https://finance.yahoo.com/m/373ab2a9-46ed-36a8-addc-19f862a636a2/why-sazerac%E2%80%99s-frenzy-of.html",
+      "publisher": "Just Drinks",
+      "time": 1787754910,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4510c695-cb8b-31c3-8f83-d55da3cc53f3",
+      "title": "SSH named preferred contractor for Cavalier’s Crawford stage one",
+      "link": "https://finance.yahoo.com/m/4510c695-cb8b-31c3-8f83-d55da3cc53f3/ssh-named-preferred.html",
+      "publisher": "Mining Technology",
+      "time": 1787754872,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e7a2ef9e-2a03-3bfa-b4b1-601e7db22c79",
+      "title": "ATEX Resources Inc. (ATX) Opens the Market",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/atex-resources-inc-atx-opens-143300225.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787754780,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "00d7e56e-3f8e-3545-a58f-b850a647d73e",
+      "title": "Global pipeline industry to converge in Calgary for International Pipeline Conference & Expo 2026, marking 30 years of technical leadership",
+      "link": "https://finance.yahoo.com/energy/articles/global-pipeline-industry-converge-calgary-143000902.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787754600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1137412e-0a77-329f-bb9f-41a146d6a995",
+      "title": "Skechers Is Now the #2 Footwear Brand in the United States",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/skechers-now-2-footwear-brand-143000485.html",
+      "publisher": "Business Wire",
+      "time": 1787754600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "36ae5eba-c119-35d8-b665-04020e063c85",
+      "title": "Hormuz Hostilities Keeps Long-Bond Yields High and Further Spooks Corporate Hiring",
+      "link": "https://finance.yahoo.com/economy/articles/hormuz-hostilities-keeps-long-bond-143000997.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787754600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5e53d119-1e95-346f-903e-b46762116a02",
+      "title": "Interlune Implants Helium into Simulated Moon Dirt, Advancing the Ability to Test Moon-Bound Hardware on Earth",
+      "link": "https://finance.yahoo.com/technology/articles/interlune-implants-helium-simulated-moon-143000370.html",
+      "publisher": "PR Newswire",
+      "time": 1787754600,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,86 +120,29 @@
       ]
     },
     {
-      "id": "0a5c86be-73f1-3d13-9bec-47f8c4d97c31",
-      "title": "President Trump's latest financial filings reveal a major trading spree, with a heavy focus on Elon Musk’s ventures. \n\nFrom buying into the SpaceX IPO to making multiple high-dollar Tesla trades, the president continues active stock trading ahead of the midterms.",
-      "link": "https://finance.yahoo.com/photos/president-trumps-latest-financial-filings-134352433/",
-      "publisher": "Yahoo Finance",
-      "time": 1787751832,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c0a9f77c-ef00-3a2c-b12d-ef0e65cd88df",
-      "title": "Meta has agreed to settle the lawsuit that accused Facebook and Instagram of being addictive to children.",
-      "link": "https://finance.yahoo.com/photos/meta-agreed-settle-lawsuit-accused-134319823/",
-      "publisher": "Yahoo Finance",
-      "time": 1787751799,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "60fd853e-59ab-36f9-9e61-2e1b06af1f05",
-      "title": "TTM Technologies CEO Edwin Roks Buys 10,000 Shares for $1.1 Million. What Is He Telling Investors?",
-      "link": "https://finance.yahoo.com/m/60fd853e-59ab-36f9-9e61-2e1b06af1f05/ttm-technologies-ceo-edwin.html",
-      "publisher": "Motley Fool",
-      "time": 1787751781,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b9bd3841-d953-3618-98ea-5b7303eaab04",
-      "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
-      "link": "https://finance.yahoo.com/media-advertising/articles/meta-settles-18-billion-lawsuit-134301852.html",
-      "publisher": "TechCrunch",
-      "time": 1787751781,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "76229329-4330-336c-a13d-dea98d1c68c9",
-      "title": "KNOT Offshore Unit to Acquire Knutsen Canadian Chartering",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/knot-offshore-unit-acquire-knutsen-134300881.html",
-      "publisher": "MT Newswires",
-      "time": 1787751780,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "92815850-0865-3812-b9e0-fda35dff54b2",
-      "title": "Finalists announced for 2026 Toyota Family Teacher of the Year",
-      "link": "https://finance.yahoo.com/small-business/articles/finalists-announced-2026-toyota-family-134300186.html",
-      "publisher": "PR Newswire",
-      "time": 1787751780,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5cba5574-91da-3db3-b431-f4cd2457d63f",
-      "title": "General Mills Removes Certified Colors From US Cereals",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/general-mills-removes-certified-colors-134228295.html",
-      "publisher": "MT Newswires",
-      "time": 1787751748,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7e2d1d7c-9880-40ef-9a9b-90e50bbc94fe",
-      "title": "Meta reaches $16.68 billion settlement in social media case",
-      "link": "https://finance.yahoo.com/markets/stocks/article/meta-reaches-1668-billion-settlement-in-social-media-case-134220470.html",
-      "publisher": "Yahoo Finance",
-      "time": 1787751740,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "83a9c650-fe81-3d87-b66c-bf92d8c45691",
-      "title": "Buy-Back of Securities",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/buy-back-securities-134200777.html",
+      "id": "8bf305af-cfaa-3dbd-912d-a9c3c0d6914b",
+      "title": "Pricefx Announces Integration with ServiceNow to Bring AI-Powered Deal Optimization to Sales Workflows",
+      "link": "https://finance.yahoo.com/technology/ai/articles/pricefx-announces-integration-servicenow-bring-143000139.html",
       "publisher": "Business Wire",
-      "time": 1787751720,
+      "time": 1787754600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "afe18ae1-0917-32f2-94bf-e3a1149a4a2f",
+      "title": "Retirement Expert Grades AI's Data on Who's Actually Saving for Retirement",
+      "link": "https://finance.yahoo.com/m/afe18ae1-0917-32f2-94bf-e3a1149a4a2f/retirement-expert-grades-ai%27s.html",
+      "publisher": "TheStreet",
+      "time": 1787754600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b93df8d5-814b-331f-9668-2db747f33523",
+      "title": "A Boston woman brought her car in for repairs — then she saw a stranger driving it around town",
+      "link": "https://finance.yahoo.com/small-business/articles/boston-woman-brought-her-car-143000867.html",
+      "publisher": "Moneywise",
+      "time": 1787754600,
       "impact": "low",
       "tags": []
     }
