@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T02:22:12.734932+00:00",
+  "updatedAt": "2026-08-26T03:31:37.017917+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,51 @@
   ],
   "news": [
     {
-      "id": "8ad5f6c2-fbc8-354a-9236-75089eb6e2f3",
-      "title": "BMO sees writing on the wall for Broadcom stock after earnings",
-      "link": "https://finance.yahoo.com/m/8ad5f6c2-fbc8-354a-9236-75089eb6e2f3/bmo-sees-writing-on-the-wall.html",
-      "publisher": "TheStreet",
-      "time": 1787710620,
+      "id": "5100947d-123c-3b18-adfa-66664db62410",
+      "title": "Gold  Bitcoin Rally Together as the Debasement Trade Returns",
+      "link": "https://finance.yahoo.com/m/5100947d-123c-3b18-adfa-66664db62410/gold-bitcoin-rally-together.html",
+      "publisher": "etf.com",
+      "time": 1787714624,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "aaad6475-8ffc-3a4f-a59c-02211a90e650",
+      "title": "Why Are S&P 500, Nasdaq Futures Slipping While Dow Futures Are Climbing?",
+      "link": "https://finance.yahoo.com/m/aaad6475-8ffc-3a4f-a59c-02211a90e650/why-are-s%26p-500%2C-nasdaq.html",
+      "publisher": "Stocktwits",
+      "time": 1787714403,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "53becb39-e291-3487-a7d5-45f85aed6ff4",
+      "title": "TSLA Stock Races Past NVDA, GOOG In August Rally: Elon Musk’s TeraFab And Semi Bets Shift Into High Gear",
+      "link": "https://finance.yahoo.com/m/53becb39-e291-3487-a7d5-45f85aed6ff4/tsla-stock-races-past-nvda%2C.html",
+      "publisher": "Stocktwits",
+      "time": 1787714369,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f9d085ae-09fd-3bbb-9c58-8fa8e5e5f52d",
+      "title": "Why Did XPEV, ONON, LHX Stocks Hit 52-Week Lows Today?",
+      "link": "https://finance.yahoo.com/m/f9d085ae-09fd-3bbb-9c58-8fa8e5e5f52d/why-did-xpev%2C-onon%2C-lhx.html",
+      "publisher": "Stocktwits",
+      "time": 1787714263,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "e778dff7-7799-370e-906a-433cb5047301",
+      "title": "Best Buy (BBY) Q2 Earnings Report Preview: What To Look For",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/best-buy-bby-q2-earnings-031649385.html",
+      "publisher": "StockStory",
+      "time": 1787714209,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,20 +104,44 @@
       ]
     },
     {
-      "id": "08e1a936-1e8b-33ef-8f59-222b73b462de",
-      "title": "JOYY Reports Second Quarter 2026 Financial Results: Total Revenues Increase to US$590.8 Million, Driven by Growth Across Core Businesses",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/joyy-reports-second-quarter-2026-021600894.html",
-      "publisher": "PR Newswire",
-      "time": 1787710560,
+      "id": "526af81a-c6bb-3a2a-83c6-2b773460bdfb",
+      "title": "Siemens Energy Plans to Carve Out Transformation of Industry Unit",
+      "link": "https://finance.yahoo.com/energy/articles/siemens-energy-plans-carve-transformation-031500771.html",
+      "publisher": "Oilprice.com",
+      "time": 1787714100,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "6a0e6c73-56cf-3007-8577-0cc42a1eacb4",
+      "title": "Intuit CEO Admits Pricing Is Driving TurboTax Customers Away, Says Low-Cost Fix Coming As Stock Extends Tumble Overnight",
+      "link": "https://finance.yahoo.com/m/6a0e6c73-56cf-3007-8577-0cc42a1eacb4/intuit-ceo-admits-pricing-is.html",
+      "publisher": "Stocktwits",
+      "time": 1787713837,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "0b7dc74d-f529-3aa5-8e90-5be1027956d9",
+      "title": "Burlington (BURL) To Report Earnings Tomorrow: Here Is What To Expect",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/burlington-burl-report-earnings-tomorrow-030849449.html",
+      "publisher": "StockStory",
+      "time": 1787713729,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
       "id": "a1a5cb94-36b5-3bbd-869f-362442258823",
       "title": "Dow Jones Futures: Inflation Data, Nvidia Earnings Due; Robinhood In Buy Area",
       "link": "https://finance.yahoo.com/m/a1a5cb94-36b5-3bbd-869f-362442258823/dow-jones-futures%3A-inflation.html",
       "publisher": "Investor's Business Daily",
-      "time": 1787709986,
+      "time": 1787713634,
       "impact": "high",
       "tags": [
         "geo",
@@ -85,72 +149,13 @@
       ]
     },
     {
-      "id": "b0580e6a-79b7-3560-8734-86bd561e9eaa",
-      "title": "Morgan Stanley Sees a New High for ConocoPhillips (COP). Should Investors Buy?",
-      "link": "https://finance.yahoo.com/energy/articles/morgan-stanley-sees-high-conocophillips-020544346.html",
-      "publisher": "Insider Monkey",
-      "time": 1787709944,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "44540400-8377-3c2c-8e70-b48486a4de21",
-      "title": "OpenAI Retired o3 From ChatGPT Today. The Real Cost Is the Churn It Forces on Everyone Else.",
-      "link": "https://finance.yahoo.com/m/44540400-8377-3c2c-8e70-b48486a4de21/openai-retired-o3-from.html",
-      "publisher": "Forkast News",
-      "time": 1787709924,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "caddf9a1-50b0-3cc8-89f0-35e1db998042",
-      "title": "Stubborn Australian Inflation Adds Pressure on RBA",
-      "link": "https://finance.yahoo.com/m/caddf9a1-50b0-3cc8-89f0-35e1db998042/stubborn-australian-inflation.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787709900,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "f250f5b0-f514-3c88-9db4-53136a050694",
-      "title": "Kutta Technologies' KTAC Controller Approved for DCMA Blue List",
-      "link": "https://finance.yahoo.com/technology/articles/kutta-technologies-ktac-controller-approved-020500228.html",
+      "id": "0f0b762a-2cb7-357a-bee4-fa6b35475472",
+      "title": "Aulumu Redefines Urban Transit with Its New B01/B02 Urban Gear Sling Bags",
+      "link": "https://finance.yahoo.com/technology/articles/aulumu-redefines-urban-transit-b01-030500610.html",
       "publisher": "PR Newswire",
-      "time": 1787709900,
+      "time": 1787713500,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "fe2dffe4-2499-35a6-a516-fba8f553c74d",
-      "title": "Marathon Petroleum (MPC) and Valero Energy (VLO) Have Exploded in 2026. But Barron’s Sees More Upside",
-      "link": "https://finance.yahoo.com/energy/articles/marathon-petroleum-mpc-valero-energy-020319205.html",
-      "publisher": "Insider Monkey",
-      "time": 1787709799,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0fb1a155-b291-3fbf-bf8d-8f08c4d0692b",
-      "title": "SpaceX just gave Nvidia investors a new reason to watch",
-      "link": "https://finance.yahoo.com/m/0fb1a155-b291-3fbf-bf8d-8f08c4d0692b/spacex-just-gave-nvidia.html",
-      "publisher": "TheStreet",
-      "time": 1787709780,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "faf8a540-0983-39d0-95d5-4fbfd9339ad1",
-      "title": "Waystar Targets Autonomous Revenue Cycle With AI, Automation Push at Investor Day",
-      "link": "https://finance.yahoo.com/m/faf8a540-0983-39d0-95d5-4fbfd9339ad1/waystar-targets-autonomous.html",
-      "publisher": "MarketBeat",
-      "time": 1787709718,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
     }
   ],
   "errors": {
