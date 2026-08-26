@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T23:46:47.204474+00:00",
+  "updatedAt": "2026-08-26T00:55:24.967726+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,43 +52,11 @@
   ],
   "news": [
     {
-      "id": "5e06e07a-48b3-3f9a-bbbc-1946511ceb08",
-      "title": "CRML Jumps, USAR And MP Advance As Rare-Earth Stocks Catch Government Tailwinds",
-      "link": "https://finance.yahoo.com/m/5e06e07a-48b3-3f9a-bbbc-1946511ceb08/crml-jumps%2C-usar-and-mp.html",
-      "publisher": "Stocktwits",
-      "time": 1787701225,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "b8257737-4641-3e6d-8072-698cc042efcf",
-      "title": "Allen Robinson announces retirement after 11 seasons 'The NFL Report'",
-      "link": "https://finance.yahoo.com/m/b8257737-4641-3e6d-8072-698cc042efcf/allen-robinson-announces.html",
-      "publisher": "NFL Highlights",
-      "time": 1787701190,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "15f749cd-7f65-3220-8b56-c97bde94445d",
-      "title": "Fed's Barkin Warns Rising US Debt Will Bring Eventual Reckoning",
-      "link": "https://finance.yahoo.com/economy/policy/articles/fed-apos-barkin-warns-rising-233900941.html",
-      "publisher": "MT Newswires",
-      "time": 1787701140,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
       "id": "a1a5cb94-36b5-3bbd-869f-362442258823",
-      "title": "Dow Jones Futures: Stocks Rise Cautiously Into Fed Inflation Data, Nvidia Earnings; Robinhood In Buy Area",
-      "link": "https://finance.yahoo.com/m/a1a5cb94-36b5-3bbd-869f-362442258823/dow-jones-futures%3A-stocks.html",
+      "title": "Dow Jones Futures Fall With Inflation Data, Nvidia Earnings Due; Robinhood In Buy Area",
+      "link": "https://finance.yahoo.com/m/a1a5cb94-36b5-3bbd-869f-362442258823/dow-jones-futures-fall-with.html",
       "publisher": "Investor's Business Daily",
-      "time": 1787701026,
+      "time": 1787705093,
       "impact": "high",
       "tags": [
         "geo",
@@ -96,56 +64,89 @@
       ]
     },
     {
-      "id": "6933e2dc-1529-371e-a30c-3f0987b704cc",
-      "title": "WR Mike Evans (groin) missed 49ers practice today 'The NFL Report'",
-      "link": "https://finance.yahoo.com/m/6933e2dc-1529-371e-a30c-3f0987b704cc/wr-mike-evans-%28groin%29-missed.html",
-      "publisher": "NFL Highlights",
-      "time": 1787700982,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ec052a51-3182-3b5c-a4e1-1f0677e61004",
-      "title": "Should You Avoid AutoZone Stock, Even Near a 52-Week Low?",
-      "link": "https://finance.yahoo.com/m/ec052a51-3182-3b5c-a4e1-1f0677e61004/should-you-avoid-autozone.html",
+      "id": "f2f61148-5b06-3fa1-9e9e-73fa7e84b976",
+      "title": "ExxonMobil Has Raised Its Dividend 43 Years in a Row. But the Raises Used to Be Bigger.",
+      "link": "https://finance.yahoo.com/m/f2f61148-5b06-3fa1-9e9e-73fa7e84b976/exxonmobil-has-raised-its.html",
       "publisher": "Motley Fool",
-      "time": 1787700799,
+      "time": 1787704981,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "fe71cbeb-0f98-3685-93f2-d30220b79b96",
-      "title": "Leipsic wins $19 million investment, 60 new jobs",
-      "link": "https://finance.yahoo.com/m/fe71cbeb-0f98-3685-93f2-d30220b79b96/leipsic-wins-%2419-million.html",
-      "publisher": "The Lima News, Ohio",
-      "time": 1787700780,
+      "id": "fa8b9e86-9ac6-36db-a667-f73ed21ff028",
+      "title": "Expand Energy (EXE) is Building a Natural Gas Powerhouse. But is the Growth Story at Risk?",
+      "link": "https://finance.yahoo.com/energy/articles/expand-energy-exe-building-natural-004051280.html",
+      "publisher": "Insider Monkey",
+      "time": 1787704851,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "53bb62c9-d138-377c-8a76-dc0b4fb69879",
-      "title": "He Worked Past 65 at a Company With 19 Employees. One Short of 20, Medicare Was Already Primary and He Hadn’t Enrolled.",
-      "link": "https://finance.yahoo.com/m/53bb62c9-d138-377c-8a76-dc0b4fb69879/he-worked-past-65-at-a.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787700686,
+      "id": "e306ac74-9d46-3a93-8518-aadd63aafba4",
+      "title": "Better Founder Vishal Garg Files Court Response, Citing Board Contradictions and Shareholder Value Losses",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/better-founder-vishal-garg-files-004000580.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787704800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b54ac8e4-95d2-3fca-ac19-dc2c264d70fa",
-      "title": "Who let the dogs out (to detect cancer)?",
-      "link": "https://finance.yahoo.com/m/b54ac8e4-95d2-3fca-ac19-dc2c264d70fa/who-let-the-dogs-out-%28to.html",
-      "publisher": "The Hustle",
-      "time": 1787700541,
+      "id": "68ad80ab-ec05-38ae-b4d5-f48944593df9",
+      "title": "President of Dolly Parton's foundation says nonprofit will \"carry her dream forward\"",
+      "link": "https://finance.yahoo.com/m/68ad80ab-ec05-38ae-b4d5-f48944593df9/president-of-dolly-parton%27s.html",
+      "publisher": "CBS News Videos",
+      "time": 1787704671,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "730e2963-411e-3d69-a143-f992c6c9ebf8",
+      "title": "Starbucks cuts more jobs as $2 billion turnaround expands",
+      "link": "https://finance.yahoo.com/m/730e2963-411e-3d69-a143-f992c6c9ebf8/starbucks-cuts-more-jobs-as.html",
+      "publisher": "TheStreet",
+      "time": 1787704620,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2bab3726-7970-370b-8d85-6677303f80d1",
-      "title": "Solar Lease Experts Expands National Advocacy Services for Landowners Hosting Utility-Scale Solar",
-      "link": "https://finance.yahoo.com/energy/articles/solar-lease-experts-expands-national-232900089.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787700540,
+      "id": "de35ce0d-7f92-380f-94c8-42a7efb4d262",
+      "title": "Why Navitas Semiconductor Stock Is Up Today",
+      "link": "https://finance.yahoo.com/m/de35ce0d-7f92-380f-94c8-42a7efb4d262/why-navitas-semiconductor.html",
+      "publisher": "Motley Fool",
+      "time": 1787704603,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "60917c84-f7bc-3da4-82a2-af8eb0955ebc",
+      "title": "Gen Precision Launches Automated DIMM Final Test System GTK-SPT1 for Unattended DRAM Module Testing",
+      "link": "https://finance.yahoo.com/technology/articles/gen-precision-launches-automated-dimm-003300868.html",
+      "publisher": "PR Newswire",
+      "time": 1787704380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "54abefd2-f90e-31da-9a55-f3559e8574ea",
+      "title": "VELAN ANNOUNCES ELECTION OF DIRECTORS",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/velan-announces-election-directors-003200962.html",
+      "publisher": "CNW Group",
+      "time": 1787704320,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "002e65f7-c571-3f73-be5d-58e04cdda1d4",
+      "title": "Ventural Global (VG) is Riding the LNG Boom. But Can its Rally Last?",
+      "link": "https://finance.yahoo.com/energy/articles/ventural-global-vg-riding-lng-003051372.html",
+      "publisher": "Insider Monkey",
+      "time": 1787704251,
       "impact": "low",
       "tags": []
     }
