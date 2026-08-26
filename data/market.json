@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T05:27:42.422365+00:00",
+  "updatedAt": "2026-08-26T05:59:50.117536+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,94 +52,100 @@
   ],
   "news": [
     {
-      "id": "8d8ee877-a8e9-3c64-a4f6-0f14c9003cec",
-      "title": "IRLAB Publishes Interim Report for The Period January - June 2026",
-      "link": "https://finance.yahoo.com/healthcare/articles/irlab-publishes-interim-report-period-052000772.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787721600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "23aeab14-b9b6-3c0a-a5c9-dda03bed9d81",
-      "title": "Interim Report Q2 January - June 2026",
-      "link": "https://finance.yahoo.com/technology/ai/articles/interim-report-q2-january-june-051500881.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787721300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "362ff54c-ffe9-344f-a68e-4943d46fb97c",
-      "title": "Iran says Hormuz strait still closed despite transit corridor talks",
-      "link": "https://finance.yahoo.com/m/362ff54c-ffe9-344f-a68e-4943d46fb97c/iran-says-hormuz-strait-still.html",
-      "publisher": "AFP",
-      "time": 1787721182,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ebdb56aa-741e-3ff8-8b5e-9e9a079262a1",
-      "title": "StopOverpaying.org Surpasses 2 Million Users, Marking Major Milestone for Car Insurance Comparison Platform",
-      "link": "https://finance.yahoo.com/small-business/articles/stopoverpaying-org-surpasses-2-million-051100249.html",
+      "id": "c12b5f9b-7ff2-3b1d-a9cd-482b9c1b112f",
+      "title": "AL Sydbank maintains momentum in Q2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/al-sydbank-maintains-momentum-q2-055500359.html",
       "publisher": "GlobeNewswire",
-      "time": 1787721060,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "dda267ed-0147-3570-9a0d-e28e16d4b6e2",
-      "title": "PSNY Stock Loses August Race To Chinese EV Rivals — Unexplained US Ban Deals Polestar A Fresh Blow",
-      "link": "https://finance.yahoo.com/m/dda267ed-0147-3570-9a0d-e28e16d4b6e2/psny-stock-loses-august-race.html",
-      "publisher": "Stocktwits",
-      "time": 1787721018,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "831105b9-cf62-3f5c-8cf9-a2db86479fd2",
-      "title": "Thomson Reuters (TSX:TRI) Stock Could Trade Below Fair Value Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/thomson-reuters-tsx-tri-stock-050700522.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787720820,
+      "time": 1787723700,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "170c5acb-4a46-32fd-8e1a-fc3f7f0aa134",
-      "title": "Agnico Eagle Mines (AEM) Backs Radisson Placement, Is The Stock Fully Priced?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-aem-backs-050651388.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787720811,
+      "id": "90dd88bc-4230-3bb4-91c0-c54dbd6516c3",
+      "title": "Financial calendar",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/financial-calendar-055400715.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787723640,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e4a2e959-03c7-315b-ac00-71d32a9b0e44",
-      "title": "Alexandria Real Estate Equities (ARE) Stock Looks Below Fair Value Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alexandria-real-estate-equities-stock-050613804.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787720773,
+      "id": "c8c16cd3-fd42-3eae-af5e-912b6b04d15c",
+      "title": "Retired teacher Dan J. Sullivan advances in Alaska Senate race",
+      "link": "https://finance.yahoo.com/m/c8c16cd3-fd42-3eae-af5e-912b6b04d15c/retired-teacher-dan-j..html",
+      "publisher": "USA TODAY",
+      "time": 1787723554,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "15588a3a-526e-359f-b3ef-b548fd1209b5",
-      "title": "Is Lithia Motors (LAD) Undervalued After Scott Cooke’s Appointment?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lithia-motors-lad-undervalued-scott-050609901.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787720769,
+      "id": "9b5d51fb-70aa-3411-a107-119f3d5cb048",
+      "title": "Heatwaves and wildfires: Which EU countries have the most firefighters?",
+      "link": "https://finance.yahoo.com/m/9b5d51fb-70aa-3411-a107-119f3d5cb048/heatwaves-and-wildfires%3A.html",
+      "publisher": "Euronews",
+      "time": 1787723453,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9f7bd6b8-d754-39a4-9f8f-d499f08d13de",
-      "title": "Mercury General (MCY) Stock Looks Cheap On Fair Value But Less So After 284% Run",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mercury-general-mcy-stock-looks-050606094.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787720766,
+      "id": "12ed9536-6fd9-3846-b789-d91aa71ba5ad",
+      "title": "200 MW/400 MWh Energy Storage Project Accelerates Delivery with Sungrow's Full-Chain Intelligent Delivery",
+      "link": "https://finance.yahoo.com/energy/articles/200-mw-400-mwh-energy-055000357.html",
+      "publisher": "CNW Group",
+      "time": 1787723400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "33e142cc-ff3c-3bbd-abe4-21ae9b0252fd",
+      "title": "Agfa-Gevaert in Q2 2026: resilient performance amid market challenges",
+      "link": "https://finance.yahoo.com/healthcare/articles/agfa-gevaert-q2-2026-resilient-054500437.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787723100,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "ed6b0730-1d58-33ca-a220-49e68e29b0f2",
+      "title": "Trump scores double primary victory in South Carolina, Oklahoma",
+      "link": "https://finance.yahoo.com/m/ed6b0730-1d58-33ca-a220-49e68e29b0f2/trump-scores-double-primary.html",
+      "publisher": "AFP",
+      "time": 1787723054,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "171e5e9a-5394-3287-af5e-3714d8cd0c35",
+      "title": "Interest rates must rise further, ECB's Schnabel tells Bloomberg",
+      "link": "https://finance.yahoo.com/economy/policy/articles/interest-rates-must-rise-further-054351757.html",
+      "publisher": "Reuters",
+      "time": 1787723031,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "26a47a3f-5ab0-3cab-b434-2aed7ea4f5aa",
+      "title": "Huawei and HP Inc. Sign Global Patent Cross-Licensing Agreement",
+      "link": "https://finance.yahoo.com/technology/articles/huawei-hp-inc-sign-global-054300210.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787722980,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7165f388-6a29-397f-83f7-50a5cf2e861d",
+      "title": "Nvidia's $6 Billion Deal for Poolside's Model Factory Is a Wager on Open-Source Models Driving Chip Demand",
+      "link": "https://finance.yahoo.com/m/7165f388-6a29-397f-83f7-50a5cf2e861d/nvidia%27s-%246-billion-deal-for.html",
+      "publisher": "Motley Fool",
+      "time": 1787722800,
       "impact": "low",
       "tags": []
     }
