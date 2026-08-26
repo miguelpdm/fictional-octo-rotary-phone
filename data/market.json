@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-26T07:50:27.803402+00:00",
+  "updatedAt": "2026-08-26T08:35:27.523882+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20093.2,
-      "change": 36.60000000000218,
-      "changePct": 0.18248357149268662,
+      "price": 20093.4,
+      "change": 36.80000000000291,
+      "changePct": 0.183480749478989,
       "currency": "EUR"
     },
     {
@@ -28,17 +28,17 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26210.34,
-      "change": 103.7400000000016,
-      "changePct": 0.3973707798028146,
+      "price": 26258.59,
+      "change": 151.9900000000016,
+      "changePct": 0.5821899443052776,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6458.75,
-      "change": 3.119999999999891,
-      "changePct": 0.04832990738316618,
+      "price": 6463.91,
+      "change": 8.279999999999745,
+      "changePct": 0.12826013882455695,
       "currency": null
     },
     {
@@ -52,11 +52,47 @@
   ],
   "news": [
     {
-      "id": "8cd323fb-ab2d-3e3f-bd98-7d550693d531",
-      "title": "Qifu Technology's Q2 Adjusted Earnings, Revenue Fall",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/qifu-technology-apos-q2-adjusted-074514689.html",
+      "id": "84ee24f4-3d35-34bd-9ee9-4ab4b89d38c8",
+      "title": "Australia advances clean power in WA with 1.8GW CIS tender",
+      "link": "https://finance.yahoo.com/m/84ee24f4-3d35-34bd-9ee9-4ab4b89d38c8/australia-advances-clean.html",
+      "publisher": "Power Technology",
+      "time": 1787733134,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b3bc4e8f-51fd-3580-9624-ad2d29e64edc",
+      "title": "Baidu Announces Results of Extraordinary General Meeting",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-announces-results-extraordinary-general-083000156.html",
+      "publisher": "PR Newswire",
+      "time": 1787733000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b127d366-50c0-3c8e-9d69-219c98d4f12c",
+      "title": "DOOGEE Debuts Smart Home Ecosystem at IFA Berlin 2026, Expanding AI-Powered Connected Living",
+      "link": "https://finance.yahoo.com/technology/ai/articles/doogee-debuts-smart-home-ecosystem-082900668.html",
+      "publisher": "PR Newswire",
+      "time": 1787732940,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "88db4723-1b51-30b7-bcdc-dda86f3bd993",
+      "title": "Bitcoin Breakout Could Hit $83,000 After 22% Rally, But 3 Risks Remain",
+      "link": "https://finance.yahoo.com/m/88db4723-1b51-30b7-bcdc-dda86f3bd993/bitcoin-breakout-could-hit.html",
+      "publisher": "BeInCrypto",
+      "time": 1787732907,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cdcf23cb-d329-328b-94bf-186477576e31",
+      "title": "Southern Cross Acquisition II Prices $75 Million IPO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/southern-cross-acquisition-ii-prices-082738769.html",
       "publisher": "MT Newswires",
-      "time": 1787730314,
+      "time": 1787732858,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,78 +100,41 @@
       ]
     },
     {
-      "id": "d5a54f86-f78b-35a7-abd8-0b68ec38fb19",
-      "title": "CLARITY Act News: Crypto Rules in Regulatory Limbo",
-      "link": "https://finance.yahoo.com/m/d5a54f86-f78b-35a7-abd8-0b68ec38fb19/clarity-act-news%3A-crypto.html",
-      "publisher": "Coinspeaker",
-      "time": 1787730076,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e62eba64-9705-3a59-9251-b65d16606d7e",
-      "title": "Meta and US states discuss settlement in landmark social media trial: report",
-      "link": "https://finance.yahoo.com/m/e62eba64-9705-3a59-9251-b65d16606d7e/meta-and-us-states-discuss.html",
-      "publisher": "AFP",
-      "time": 1787729985,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1e2583b6-9a3c-360f-903f-09ed60e2693c",
-      "title": "Cadence Design Systems Insider Sold Shares Worth $1,488,167, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-insider-sold-073937148.html",
+      "id": "95bb122a-39d5-37cf-99f5-57e43975a7da",
+      "title": "Sportradar, Euroleague Basketball Sign Multi-Year Extension of Betting Rights Deal",
+      "link": "https://finance.yahoo.com/media-advertising/articles/sportradar-euroleague-basketball-sign-multi-082734570.html",
       "publisher": "MT Newswires",
-      "time": 1787729977,
+      "time": 1787732854,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9b9c5044-57a0-3f3d-bb00-70788f0384e8",
-      "title": "MZTI Q2 Deep Dive: Margin Expansion and New Product Launches Offset Sales Decline",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mzti-q2-deep-dive-margin-073913824.html",
-      "publisher": "StockStory",
-      "time": 1787729953,
-      "impact": "low",
+      "id": "3f965b7a-398d-3a97-85fd-031839b80c6f",
+      "title": "The continuing business generated revenue of DKK 396.3 million, compared with DKK 390.1 million in the same period last year. Operating profit (EBIT) was DKK 34.6 million, compared with DKK 31.7 million in the same period last year.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/continuing-business-generated-revenue-dkk-082700535.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787732820,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "1d0e4eb2-eee6-34e1-9a12-b04d50f234f5",
-      "title": "Walovi Accelerates Global Push with WALOVI Singapore HQ Launch and Trio of Southeast Asia Deals",
-      "link": "https://finance.yahoo.com/small-business/articles/walovi-accelerates-global-push-walovi-073900573.html",
+      "id": "b5ee5600-2178-35a1-8d10-384a0df3c87f",
+      "title": "Microsoft and HUMAIN announce long-term strategic collaboration to enable AI transformation in Saudi Arabia and beyond",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-humain-announce-long-term-082700727.html",
       "publisher": "PR Newswire",
-      "time": 1787729940,
+      "time": 1787732820,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c7f021fe-62bf-3108-be6e-c2da9398f8b8",
-      "title": "Micron Technology Insider Sold Shares Worth $38,756,162, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-insider-sold-shares-073857640.html",
-      "publisher": "MT Newswires",
-      "time": 1787729937,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2cf3be3b-3d79-32bd-8eb2-f47a2b422d7b",
-      "title": "Market Chatter: International Flavors & Fragrances Facing Second Antitrust Probe in India",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-international-flavors-fragrances-073822915.html",
-      "publisher": "MT Newswires",
-      "time": 1787729902,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "a1a5cb94-36b5-3bbd-869f-362442258823",
-      "title": "Dow Jones Futures: Inflation Data, Nvidia Earnings Due; Robinhood In Buy Area",
-      "link": "https://finance.yahoo.com/m/a1a5cb94-36b5-3bbd-869f-362442258823/dow-jones-futures%3A-inflation.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787729884,
+      "id": "71f3ab9e-4f19-3ef4-9c42-6a3a19c6d53c",
+      "title": "The Bond Market Is Sending an Unmistakable Message to Fed Chair Kevin Warsh and the FOMC: Act!",
+      "link": "https://finance.yahoo.com/m/71f3ab9e-4f19-3ef4-9c42-6a3a19c6d53c/the-bond-market-is-sending-an.html",
+      "publisher": "Motley Fool",
+      "time": 1787732760,
       "impact": "high",
       "tags": [
         "geo",
@@ -143,11 +142,11 @@
       ]
     },
     {
-      "id": "73d78400-b7da-3127-8c5a-0843e0186610",
-      "title": "Nlight Insider Sold Shares Worth $16,544,247, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nlight-insider-sold-shares-worth-073800232.html",
-      "publisher": "MT Newswires",
-      "time": 1787729880,
+      "id": "9665eb20-efba-35c4-810d-5fa9e0c56041",
+      "title": "Bhavan's College MSEED and Reliance Animation Academy Enter into a Strategic Agreement to Launch Graphics & Animation Programs",
+      "link": "https://finance.yahoo.com/media-advertising/articles/bhavans-college-mseed-reliance-animation-082600985.html",
+      "publisher": "PR Newswire",
+      "time": 1787732760,
       "impact": "low",
       "tags": []
     }
