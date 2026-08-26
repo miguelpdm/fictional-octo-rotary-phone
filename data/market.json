@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T20:27:38.670161+00:00",
+  "updatedAt": "2026-08-26T23:57:06.804210+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -44,19 +44,37 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.23,
-      "change": -0.21999999999999886,
-      "changePct": -1.4239482200647176,
+      "price": 15.21,
+      "change": -0.23999999999999844,
+      "changePct": -1.5533980582524172,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "25b903b9-4ab8-3454-931b-7b6555ef344a",
-      "title": "HP Fiscal Q3 Adjusted Earnings, Revenue Rise; Q4 Guidance Set",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hp-fiscal-q3-adjusted-earnings-202352242.html",
-      "publisher": "MT Newswires",
-      "time": 1787775832,
+      "id": "3dd503e6-d132-31e8-90c5-dcf6035d2f10",
+      "title": "Back-to-School Health: Helping Children Start the School Year Strong with Accordia Health",
+      "link": "https://finance.yahoo.com/healthcare/articles/back-school-health-helping-children-235100528.html",
+      "publisher": "PR Newswire",
+      "time": 1787788260,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e1d9376c-676a-39dd-81c7-8d4c01a074f1",
+      "title": "Junk King Louisville Crosses 1,000 Google Reviews with a 4.9-Star Rating",
+      "link": "https://finance.yahoo.com/small-business/articles/junk-king-louisville-crosses-1-234900945.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787788140,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c03ae35d-d27e-3caf-a89c-0c33467ec9c9",
+      "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
+      "link": "https://finance.yahoo.com/m/c03ae35d-d27e-3caf-a89c-0c33467ec9c9/dow-jones-futures-rise%3B.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787788126,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,11 +82,32 @@
       ]
     },
     {
-      "id": "16454e44-7df4-386e-b790-c5a699b23926",
-      "title": "Warren Buffett “Blew It” on Alphabet (GOOGL) And Made It Berkshire’s Third-Biggest Bet",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-blew-alphabet-googl-202343918.html",
+      "id": "21e233d2-faa0-318a-960f-4d1df7462922",
+      "title": "Trump Says It's \"Time to Teach Canada\" a Lesson Amid Tariff Standoff",
+      "link": "https://finance.yahoo.com/economy/policy/articles/trump-says-apos-time-teach-234810330.html",
+      "publisher": "MT Newswires",
+      "time": 1787788090,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "ed46711f-1c3e-3cc1-8201-7d0675071daa",
+      "title": "Could Tyson Foods (TSN) Stock Win as Chicken Strength Offsets a Beef Downturn?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/could-tyson-foods-tsn-stock-234725314.html",
       "publisher": "Insider Monkey",
-      "time": 1787775823,
+      "time": 1787788045,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b8a1001d-9781-3382-a608-7e1269aff8d9",
+      "title": "Here are the U.S. states that will be hit hardest by Canada's retaliatory tariffs",
+      "link": "https://finance.yahoo.com/m/b8a1001d-9781-3382-a608-7e1269aff8d9/here-are-the-u.s.-states-that.html",
+      "publisher": "CBS News Videos",
+      "time": 1787788019,
       "impact": "high",
       "tags": [
         "geo",
@@ -76,20 +115,20 @@
       ]
     },
     {
-      "id": "1a16034d-3c9b-33c3-9c26-db9eaa4cfff1",
-      "title": "OverActive Media Reports Wider Net Loss, Lower Revenue for Second Quarter",
-      "link": "https://finance.yahoo.com/media-advertising/articles/overactive-media-reports-wider-net-202333897.html",
-      "publisher": "MT Newswires",
-      "time": 1787775813,
+      "id": "095d56bf-a7ff-31d5-b80a-66ea6e83b3a4",
+      "title": "Why Dolly Parton is so heavily associated with butterflies",
+      "link": "https://finance.yahoo.com/m/095d56bf-a7ff-31d5-b80a-66ea6e83b3a4/why-dolly-parton-is-so.html",
+      "publisher": "CBS News Videos",
+      "time": 1787787973,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "faaa9482-3544-39ea-8b95-0c712a96cf17",
-      "title": "Veeva Q2 Adjusted Earnings, Revenue Rise; Q3 Guidance Set",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/veeva-q2-adjusted-earnings-revenue-202326215.html",
-      "publisher": "MT Newswires",
-      "time": 1787775806,
+      "id": "bf597310-2e67-3427-b0b1-b0eab623a5d9",
+      "title": "Beam Global (BEEM) Q2 2026 Earnings Call Transcript",
+      "link": "https://finance.yahoo.com/m/bf597310-2e67-3427-b0b1-b0eab623a5d9/beam-global-%28beem%29-q2-2026.html",
+      "publisher": "Motley Fool",
+      "time": 1787787854,
       "impact": "medium",
       "tags": [
         "macro",
@@ -97,64 +136,20 @@
       ]
     },
     {
-      "id": "2354047b-bbf2-3686-8688-de72f7ae806b",
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - LUKA.P",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-investment-regulatory-organization-trade-202200955.html",
+      "id": "90147164-9b98-3a21-b848-8fb9eb398aca",
+      "title": "Solid Gold Resources Corp. Announces Results of Special Shareholder Meeting",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/solid-gold-resources-corp-announces-234400426.html",
       "publisher": "CNW Group",
-      "time": 1787775720,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "1d81985a-ed2e-3085-83de-fd12a25a55cc",
-      "title": "Blake Lively Awarded $400,000 In Legal Fees",
-      "link": "https://finance.yahoo.com/m/1d81985a-ed2e-3085-83de-fd12a25a55cc/blake-lively-awarded-%24400%2C000.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1787775660,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "c736c9ab-30ec-3e03-9c4b-ca8f83a1c55b",
-      "title": "US Equity Markets End Lower as Bond Yields Rise After July's Inflation Rate Accelerates",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-202036115.html",
-      "publisher": "MT Newswires",
-      "time": 1787775636,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "b6a6936a-7a64-3359-ac2a-1ae864166096",
-      "title": "Doordash Insider Sold Shares Worth $7,666,938, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/doordash-insider-sold-shares-worth-201947998.html",
-      "publisher": "MT Newswires",
-      "time": 1787775587,
+      "time": 1787787840,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "95722ae6-325a-3186-8f04-abece23f793f",
-      "title": "$3M coming to Boulevard of the Allies in downtown Pittsburgh",
-      "link": "https://finance.yahoo.com/m/95722ae6-325a-3186-8f04-abece23f793f/%243m-coming-to-boulevard-of.html",
-      "publisher": "USA TODAY",
-      "time": 1787775501,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "30e3a684-4266-3b28-9800-82edad759bb3",
-      "title": "Vimy Pharmaceuticals Announces Brokered Private Placement of Subscription Receipts",
-      "link": "https://finance.yahoo.com/healthcare/articles/vimy-pharmaceuticals-announces-brokered-private-201800043.html",
-      "publisher": "TMX Newsfile",
-      "time": 1787775480,
+      "id": "0d8a1205-eaa9-33b2-bc7f-336c4619c28a",
+      "title": "Meta not admitting wrongdoing in $17 billion settlement in social media addiction suit",
+      "link": "https://finance.yahoo.com/m/0d8a1205-eaa9-33b2-bc7f-336c4619c28a/meta-not-admitting-wrongdoing.html",
+      "publisher": "CBS News Videos",
+      "time": 1787787787,
       "impact": "low",
       "tags": []
     }
