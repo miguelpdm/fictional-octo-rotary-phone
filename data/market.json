@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-26T06:58:51.771533+00:00",
+  "updatedAt": "2026-08-26T07:50:27.803402+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20056.6,
-      "change": -42.0,
-      "changePct": -0.20896977898958138,
+      "price": 20093.2,
+      "change": 36.60000000000218,
+      "changePct": 0.18248357149268662,
       "currency": "EUR"
     },
     {
@@ -28,35 +28,114 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26266.14,
-      "change": 129.5799999999981,
-      "changePct": 0.4957806230047034,
+      "price": 26210.34,
+      "change": 103.7400000000016,
+      "changePct": 0.3973707798028146,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6455.63,
-      "change": 7.650000000000546,
-      "changePct": 0.11864180720164372,
+      "price": 6458.75,
+      "change": 3.119999999999891,
+      "changePct": 0.04832990738316618,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.45,
-      "change": -0.40000000000000036,
-      "changePct": -2.5236593059936934,
+      "price": 15.7,
+      "change": 0.25,
+      "changePct": 1.6181229773462786,
       "currency": "USD"
     }
   ],
   "news": [
     {
+      "id": "8cd323fb-ab2d-3e3f-bd98-7d550693d531",
+      "title": "Qifu Technology's Q2 Adjusted Earnings, Revenue Fall",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/qifu-technology-apos-q2-adjusted-074514689.html",
+      "publisher": "MT Newswires",
+      "time": 1787730314,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "d5a54f86-f78b-35a7-abd8-0b68ec38fb19",
+      "title": "CLARITY Act News: Crypto Rules in Regulatory Limbo",
+      "link": "https://finance.yahoo.com/m/d5a54f86-f78b-35a7-abd8-0b68ec38fb19/clarity-act-news%3A-crypto.html",
+      "publisher": "Coinspeaker",
+      "time": 1787730076,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e62eba64-9705-3a59-9251-b65d16606d7e",
+      "title": "Meta and US states discuss settlement in landmark social media trial: report",
+      "link": "https://finance.yahoo.com/m/e62eba64-9705-3a59-9251-b65d16606d7e/meta-and-us-states-discuss.html",
+      "publisher": "AFP",
+      "time": 1787729985,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1e2583b6-9a3c-360f-903f-09ed60e2693c",
+      "title": "Cadence Design Systems Insider Sold Shares Worth $1,488,167, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-insider-sold-073937148.html",
+      "publisher": "MT Newswires",
+      "time": 1787729977,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9b9c5044-57a0-3f3d-bb00-70788f0384e8",
+      "title": "MZTI Q2 Deep Dive: Margin Expansion and New Product Launches Offset Sales Decline",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mzti-q2-deep-dive-margin-073913824.html",
+      "publisher": "StockStory",
+      "time": 1787729953,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "1d0e4eb2-eee6-34e1-9a12-b04d50f234f5",
+      "title": "Walovi Accelerates Global Push with WALOVI Singapore HQ Launch and Trio of Southeast Asia Deals",
+      "link": "https://finance.yahoo.com/small-business/articles/walovi-accelerates-global-push-walovi-073900573.html",
+      "publisher": "PR Newswire",
+      "time": 1787729940,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c7f021fe-62bf-3108-be6e-c2da9398f8b8",
+      "title": "Micron Technology Insider Sold Shares Worth $38,756,162, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-insider-sold-shares-073857640.html",
+      "publisher": "MT Newswires",
+      "time": 1787729937,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2cf3be3b-3d79-32bd-8eb2-f47a2b422d7b",
+      "title": "Market Chatter: International Flavors & Fragrances Facing Second Antitrust Probe in India",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-international-flavors-fragrances-073822915.html",
+      "publisher": "MT Newswires",
+      "time": 1787729902,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
       "id": "a1a5cb94-36b5-3bbd-869f-362442258823",
       "title": "Dow Jones Futures: Inflation Data, Nvidia Earnings Due; Robinhood In Buy Area",
       "link": "https://finance.yahoo.com/m/a1a5cb94-36b5-3bbd-869f-362442258823/dow-jones-futures%3A-inflation.html",
       "publisher": "Investor's Business Daily",
-      "time": 1787727333,
+      "time": 1787729884,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,86 +143,11 @@
       ]
     },
     {
-      "id": "13a74d7e-a76a-326c-9df1-19f2cf12e473",
-      "title": "Warren Buffett Thinks Stocks Are Expensive. Berkshire Hathaway CEO Greg Abel Seems To Disagree",
-      "link": "https://finance.yahoo.com/m/13a74d7e-a76a-326c-9df1-19f2cf12e473/warren-buffett-thinks-stocks.html",
-      "publisher": "Motley Fool",
-      "time": 1787727001,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "a430d748-f5ab-34c2-8556-9b2997636198",
-      "title": "Higher education: Renting a room in Lisbon costs over €500 as demand outstrips supply",
-      "link": "https://finance.yahoo.com/m/a430d748-f5ab-34c2-8556-9b2997636198/higher-education%3A-renting-a.html",
-      "publisher": "Euronews",
-      "time": 1787726958,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d69837a2-1863-3403-8a4c-61137c9eed9e",
-      "title": "BioArctic: Interim Report for the period April - June 2026",
-      "link": "https://finance.yahoo.com/healthcare/articles/bioarctic-interim-report-period-april-064600198.html",
-      "publisher": "PR Newswire",
-      "time": 1787726760,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "63e37b14-2954-3422-8233-4d151a9bf13f",
-      "title": "Plant Culture Systems Launches AGGI, a Free AI-Powered Intelligence Platform for Farmers",
-      "link": "https://finance.yahoo.com/technology/ai/articles/plant-culture-systems-launches-aggi-064500279.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787726700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f723ce75-379d-3c60-b183-0355542afc2c",
-      "title": "Pakistan hospital fire kills 14 infants",
-      "link": "https://finance.yahoo.com/m/f723ce75-379d-3c60-b183-0355542afc2c/pakistan-hospital-fire-kills.html",
-      "publisher": "AFP",
-      "time": 1787726684,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "432d01e9-7716-382f-b83c-da5aa5cb8667",
-      "title": "New Echoes of Porcelain",
-      "link": "https://finance.yahoo.com/technology/articles/echoes-porcelain-064400927.html",
-      "publisher": "PR Newswire",
-      "time": 1787726640,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "dc5dc990-7031-32c0-bb0d-ca1fd4d3c9fe",
-      "title": "Valmet supports Jeonju Paper Corporation's energy and machine efficiency targets with press section rebuild",
-      "link": "https://finance.yahoo.com/energy/articles/valmet-supports-jeonju-paper-corporations-064400302.html",
-      "publisher": "PR Newswire",
-      "time": 1787726640,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "897a7ef6-45ca-3866-aa07-fa4e662e211c",
-      "title": "Airwheel Unveils Luxury Robot Suitcase, a 20 Inch Rideable Electric Cabin Ai Wheel Hand Luggage for Modern Travelers",
-      "link": "https://finance.yahoo.com/technology/ai/articles/airwheel-unveils-luxury-robot-suitcase-064100484.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787726460,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e7cdb6c1-7708-3fa9-8eff-f55fecc80511",
-      "title": "FirstFarms A/S’ interim financial report 1 January – 30 June 2026",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/firstfarms-interim-financial-report-1-063700425.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787726220,
+      "id": "73d78400-b7da-3127-8c5a-0843e0186610",
+      "title": "Nlight Insider Sold Shares Worth $16,544,247, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nlight-insider-sold-shares-worth-073800232.html",
+      "publisher": "MT Newswires",
+      "time": 1787729880,
       "impact": "low",
       "tags": []
     }
