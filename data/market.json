@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-26T08:35:27.523882+00:00",
+  "updatedAt": "2026-08-26T09:34:19.807840+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20093.4,
-      "change": 36.80000000000291,
-      "changePct": 0.183480749478989,
+      "price": 20123.1,
+      "change": 66.5,
+      "changePct": 0.33156168044434253,
       "currency": "EUR"
     },
     {
@@ -28,17 +28,17 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26258.59,
-      "change": 151.9900000000016,
-      "changePct": 0.5821899443052776,
+      "price": 26277.43,
+      "change": 170.83000000000175,
+      "changePct": 0.6543556035638565,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6463.91,
-      "change": 8.279999999999745,
-      "changePct": 0.12826013882455695,
+      "price": 6468.15,
+      "change": 12.519999999999527,
+      "changePct": 0.19393924372988425,
       "currency": null
     },
     {
@@ -52,89 +52,31 @@
   ],
   "news": [
     {
-      "id": "84ee24f4-3d35-34bd-9ee9-4ab4b89d38c8",
-      "title": "Australia advances clean power in WA with 1.8GW CIS tender",
-      "link": "https://finance.yahoo.com/m/84ee24f4-3d35-34bd-9ee9-4ab4b89d38c8/australia-advances-clean.html",
-      "publisher": "Power Technology",
-      "time": 1787733134,
+      "id": "55dde797-9896-3e3c-bf85-db9a7ac64aa6",
+      "title": "Truvant acquires New Jersey contract packager Multi-Pak",
+      "link": "https://finance.yahoo.com/m/55dde797-9896-3e3c-bf85-db9a7ac64aa6/truvant-acquires-new-jersey.html",
+      "publisher": "Packaging Gateway",
+      "time": 1787736718,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b3bc4e8f-51fd-3580-9624-ad2d29e64edc",
-      "title": "Baidu Announces Results of Extraordinary General Meeting",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-announces-results-extraordinary-general-083000156.html",
-      "publisher": "PR Newswire",
-      "time": 1787733000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b127d366-50c0-3c8e-9d69-219c98d4f12c",
-      "title": "DOOGEE Debuts Smart Home Ecosystem at IFA Berlin 2026, Expanding AI-Powered Connected Living",
-      "link": "https://finance.yahoo.com/technology/ai/articles/doogee-debuts-smart-home-ecosystem-082900668.html",
-      "publisher": "PR Newswire",
-      "time": 1787732940,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "88db4723-1b51-30b7-bcdc-dda86f3bd993",
-      "title": "Bitcoin Breakout Could Hit $83,000 After 22% Rally, But 3 Risks Remain",
-      "link": "https://finance.yahoo.com/m/88db4723-1b51-30b7-bcdc-dda86f3bd993/bitcoin-breakout-could-hit.html",
-      "publisher": "BeInCrypto",
-      "time": 1787732907,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cdcf23cb-d329-328b-94bf-186477576e31",
-      "title": "Southern Cross Acquisition II Prices $75 Million IPO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/southern-cross-acquisition-ii-prices-082738769.html",
-      "publisher": "MT Newswires",
-      "time": 1787732858,
+      "id": "56a6f135-f171-3d57-8ce2-6ba102f20352",
+      "title": "Nepal floods at China border kill 8, cause 'major casualties' in Tibet",
+      "link": "https://finance.yahoo.com/m/56a6f135-f171-3d57-8ce2-6ba102f20352/nepal-floods-at-china-border.html",
+      "publisher": "AFP",
+      "time": 1787736610,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
     },
     {
-      "id": "95bb122a-39d5-37cf-99f5-57e43975a7da",
-      "title": "Sportradar, Euroleague Basketball Sign Multi-Year Extension of Betting Rights Deal",
-      "link": "https://finance.yahoo.com/media-advertising/articles/sportradar-euroleague-basketball-sign-multi-082734570.html",
-      "publisher": "MT Newswires",
-      "time": 1787732854,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3f965b7a-398d-3a97-85fd-031839b80c6f",
-      "title": "The continuing business generated revenue of DKK 396.3 million, compared with DKK 390.1 million in the same period last year. Operating profit (EBIT) was DKK 34.6 million, compared with DKK 31.7 million in the same period last year.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/continuing-business-generated-revenue-dkk-082700535.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787732820,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "b5ee5600-2178-35a1-8d10-384a0df3c87f",
-      "title": "Microsoft and HUMAIN announce long-term strategic collaboration to enable AI transformation in Saudi Arabia and beyond",
-      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-humain-announce-long-term-082700727.html",
-      "publisher": "PR Newswire",
-      "time": 1787732820,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "71f3ab9e-4f19-3ef4-9c42-6a3a19c6d53c",
-      "title": "The Bond Market Is Sending an Unmistakable Message to Fed Chair Kevin Warsh and the FOMC: Act!",
-      "link": "https://finance.yahoo.com/m/71f3ab9e-4f19-3ef4-9c42-6a3a19c6d53c/the-bond-market-is-sending-an.html",
-      "publisher": "Motley Fool",
-      "time": 1787732760,
+      "id": "41c6ad3d-0344-3931-b5bb-883cb7f7b1fe",
+      "title": "The Fed Chairman Is Heading to Jackson Hole Without a Clear Stance on Inflation",
+      "link": "https://finance.yahoo.com/m/41c6ad3d-0344-3931-b5bb-883cb7f7b1fe/the-fed-chairman-is-heading.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787736600,
       "impact": "high",
       "tags": [
         "geo",
@@ -142,11 +84,67 @@
       ]
     },
     {
-      "id": "9665eb20-efba-35c4-810d-5fa9e0c56041",
-      "title": "Bhavan's College MSEED and Reliance Animation Academy Enter into a Strategic Agreement to Launch Graphics & Animation Programs",
-      "link": "https://finance.yahoo.com/media-advertising/articles/bhavans-college-mseed-reliance-animation-082600985.html",
-      "publisher": "PR Newswire",
-      "time": 1787732760,
+      "id": "6522e012-120c-3e35-96ea-fcea6d98750a",
+      "title": "Microsoft Is Leaving Investors Flying Blind on Its AI Businesses",
+      "link": "https://finance.yahoo.com/m/6522e012-120c-3e35-96ea-fcea6d98750a/microsoft-is-leaving.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787736600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8319811c-d445-3c8b-999e-ee75ddaf2ce2",
+      "title": "Detroit Needs Canada More Than the Rest of the U.S. Does",
+      "link": "https://finance.yahoo.com/m/8319811c-d445-3c8b-999e-ee75ddaf2ce2/detroit-needs-canada-more.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787736600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a2ee7c28-f2ee-3139-85bc-21585fedec40",
+      "title": "/R E P E A T -- MEDIA ADVISORY - Secretary of State McLean announces New Horizons for Seniors Program funding for 12 Vancouver-area projects/",
+      "link": "https://finance.yahoo.com/media-advertising/articles/r-e-p-e-t-093000744.html",
+      "publisher": "CNW Group",
+      "time": 1787736600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d5b12150-5613-3a2e-9dd7-760986bb9499",
+      "title": "Accor and Al Qimmah to develop 4,000-key portfolio in Saudi Arabia",
+      "link": "https://finance.yahoo.com/m/d5b12150-5613-3a2e-9dd7-760986bb9499/accor-and-al-qimmah-to.html",
+      "publisher": "Hotel Management Network",
+      "time": 1787736453,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ee501619-038f-3731-ab27-932611e3e961",
+      "title": "Form 8.5 (EPT/RI) - Pharos Energy Plc",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-5-ept-ri-092700369.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787736420,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d8be446c-cbb8-3af0-9912-cf17db853c40",
+      "title": "Stocks to Watch: Nvidia, Intuit, Meta",
+      "link": "https://finance.yahoo.com/m/d8be446c-cbb8-3af0-9912-cf17db853c40/stocks-to-watch%3A-nvidia%2C.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1787736395,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "8a10e413-224a-308f-b306-e7898de079ba",
+      "title": "Mondrian opens first all-inclusive resort in Cancún, Mexico",
+      "link": "https://finance.yahoo.com/m/8a10e413-224a-308f-b306-e7898de079ba/mondrian-opens-first.html",
+      "publisher": "Hotel Management Network",
+      "time": 1787736295,
       "impact": "low",
       "tags": []
     }
