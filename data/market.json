@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-26T11:54:12.447093+00:00",
+  "updatedAt": "2026-08-26T12:38:40.008336+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20120.5,
-      "change": 63.900000000001455,
-      "changePct": 0.3185983666224657,
+      "price": 20170.4,
+      "change": 113.80000000000291,
+      "changePct": 0.5673942742040172,
       "currency": "EUR"
     },
     {
@@ -28,53 +28,71 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26324.97,
-      "change": 218.37000000000262,
-      "changePct": 0.8364551492726078,
+      "price": 26381.22,
+      "change": 274.6200000000026,
+      "changePct": 1.05191790581693,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6473.23,
-      "change": 17.599999999999454,
-      "changePct": 0.27263024677683595,
+      "price": 6487.35,
+      "change": 31.720000000000255,
+      "changePct": 0.49135405839554397,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.7,
-      "change": 0.25,
-      "changePct": 1.6181229773462786,
+      "price": 15.61,
+      "change": 0.16000000000000014,
+      "changePct": 1.035598705501619,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "66bd8a94-0ced-3ce1-a855-85522b493ff9",
-      "title": "Ahlstrom launches new grease-resistant paper products for food packaging",
-      "link": "https://finance.yahoo.com/m/66bd8a94-0ced-3ce1-a855-85522b493ff9/ahlstrom-launches-new.html",
-      "publisher": "Packaging Gateway",
-      "time": 1787744994,
+      "id": "16e14b8e-fc7c-3351-ad01-8dbc8fab1786",
+      "title": "Top 9 for K-9s: 2026 Best Places to Camp with Dogs, According to The Dyrt",
+      "link": "https://finance.yahoo.com/media-advertising/articles/top-9-k-9s-2026-123400726.html",
+      "publisher": "PR Newswire",
+      "time": 1787747640,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0963e2f9-7efa-349c-8064-cac5a1ebbf89",
-      "title": "Why Is Intuit Stock Tumbling After a Strong Quarter?",
-      "link": "https://finance.yahoo.com/m/0963e2f9-7efa-349c-8064-cac5a1ebbf89/why-is-intuit-stock-tumbling.html",
-      "publisher": "Barrons.com",
-      "time": 1787744940,
+      "id": "1b41fa2c-8d81-314a-baf8-6535afc1a113",
+      "title": "BriteCap Financial Launches BriteCap Rise™, Expanding Access to Growth Capital for Small Businesses",
+      "link": "https://finance.yahoo.com/small-business/articles/britecap-financial-launches-britecap-rise-123400195.html",
+      "publisher": "PR Newswire",
+      "time": 1787747640,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "78e0f7ca-c0f4-321d-824a-9517fb723bc1",
-      "title": "Edmond de Rothschild names new global CIO and equities co-head",
-      "link": "https://finance.yahoo.com/m/78e0f7ca-c0f4-321d-824a-9517fb723bc1/edmond-de-rothschild-names.html",
-      "publisher": "Private Banker International",
-      "time": 1787744724,
+      "id": "9a45a11b-68b5-3714-b582-cda8d0030ce2",
+      "title": "Anton Gunn Inducted into National Speakers Hall of Fame",
+      "link": "https://finance.yahoo.com/media-advertising/articles/anton-gunn-inducted-national-speakers-123400594.html",
+      "publisher": "PR Newswire",
+      "time": 1787747640,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bf0ad380-c6bf-303a-ac19-c69c776cd671",
+      "title": "Dance Theatre of Harlem Announces 2026-2027 Tour Schedule and 2027 New York Season at New York City Center",
+      "link": "https://finance.yahoo.com/media-advertising/articles/dance-theatre-harlem-announces-2026-123400905.html",
+      "publisher": "PR Newswire",
+      "time": 1787747640,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b256ce3f-3a86-3ded-b96b-794bfd5d3b38",
+      "title": "Nvidia Earnings Countdown Begins: What to Expect From Upcoming Report",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-countdown-begins-expect-123327632.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787747607,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,67 +100,52 @@
       ]
     },
     {
-      "id": "fed45db5-8a81-329b-8ed0-94124b9d6465",
-      "title": "Does OpenAI Face A Netscape Moment? How That Could Boost Google Stock.",
-      "link": "https://finance.yahoo.com/m/fed45db5-8a81-329b-8ed0-94124b9d6465/does-openai-face-a-netscape.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787744720,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7a6e9041-a4a8-3c42-9ba1-8ca7be39a5bd",
-      "title": "The 30-Year U.S. Treasury Bond Now Has a Higher Yield Than Ford and Coca-Cola. Is It Now the Best Asset for Passive Income?",
-      "link": "https://finance.yahoo.com/m/7a6e9041-a4a8-3c42-9ba1-8ca7be39a5bd/the-30-year-u.s.-treasury.html",
-      "publisher": "Motley Fool",
-      "time": 1787744700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8babfd5c-61f3-3d61-bf7d-9f8eafaddcb3",
-      "title": "Nestimate Expands Access to Objective Target-Date Fund Evaluation Tool through Collaboration with PGIM",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nestimate-expands-access-objective-target-114500067.html",
-      "publisher": "Business Wire",
-      "time": 1787744700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "90bb4500-ec75-3843-bd03-03c639080267",
-      "title": "Are you 50 years old with very little savings? Here’s a shockingly simple 3-step plan to retire by 58",
-      "link": "https://finance.yahoo.com/markets/articles/50-years-old-very-little-114500079.html",
-      "publisher": "Moneywise",
-      "time": 1787744700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9499e20f-44de-3cf7-b1ff-44c9e627e390",
-      "title": "86% of Hiring Managers Say Personality Can Overcome Skills Gaps, 99% Say It Can Accelerate Careers",
-      "link": "https://finance.yahoo.com/small-business/articles/86-hiring-managers-personality-overcome-114500440.html",
+      "id": "085a4bb4-501b-39a0-bf52-ec28563242d1",
+      "title": "Guaranteed Roof Sponsors Chateau Elan Pickleball Pool Party",
+      "link": "https://finance.yahoo.com/real-estate/articles/guaranteed-roof-sponsors-chateau-elan-123300417.html",
       "publisher": "PR Newswire",
-      "time": 1787744700,
+      "time": 1787747580,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ac49629e-20ca-30a9-8e5b-e05229bba93f",
-      "title": "DEA's Own Witness Admitted Marijuana Failed the Medical-Use Test-Then the Government Buried It in Silence",
-      "link": "https://finance.yahoo.com/healthcare/articles/deas-own-witness-admitted-marijuana-114500711.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1787744700,
+      "id": "5186ea73-2a61-34ca-8dfd-1f4df4bcfabf",
+      "title": "Timekettle Updates X1 Meeting for More Flexible Multilingual Business Communication",
+      "link": "https://finance.yahoo.com/technology/ai/articles/timekettle-updates-x1-meeting-more-123300407.html",
+      "publisher": "PR Newswire",
+      "time": 1787747580,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b2479ab3-7d38-3716-8095-e743eeacbb2d",
-      "title": "Canadians for CANDU welcomes Saskatchewan's Dustin Duncan as new Co-Chair",
-      "link": "https://finance.yahoo.com/energy/articles/canadians-candu-welcomes-saskatchewans-dustin-114500797.html",
-      "publisher": "CNW Group",
-      "time": 1787744700,
+      "id": "915ad9a0-2673-317e-bc81-5f721d03e5e3",
+      "title": "New Industry Research Reveals Why Some Construction Companies Scale While Others Stall",
+      "link": "https://finance.yahoo.com/small-business/articles/industry-research-reveals-why-construction-123300259.html",
+      "publisher": "PR Newswire",
+      "time": 1787747580,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "7bdede68-5b3c-3d75-88da-054fa07ab68f",
+      "title": "US economy grew at sluggish 1.5% rate in April-June, but consumer spending stayed strong, government says",
+      "link": "https://finance.yahoo.com/economy/articles/us-economy-grew-sluggish-1-123228095.html",
+      "publisher": "Associated Press",
+      "time": 1787747548,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "51ac9633-fba4-3e48-be27-ef20bc4bab8c",
+      "title": "EvCap Investments and Point Acquisitions Acquire North Phoenix Retail Center",
+      "link": "https://finance.yahoo.com/real-estate/articles/evcap-investments-point-acquisitions-acquire-123200212.html",
+      "publisher": "PR Newswire",
+      "time": 1787747520,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
