@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-26T12:38:40.008336+00:00",
+  "updatedAt": "2026-08-26T13:48:51.528757+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20170.4,
-      "change": 113.80000000000291,
-      "changePct": 0.5673942742040172,
+      "price": 20135.6,
+      "change": 79.0,
+      "changePct": 0.3938853045880159,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7677.28,
-      "change": 2.9099999999998545,
-      "changePct": 0.03791842196818572,
+      "price": 7681.66,
+      "change": 28.800000000000182,
+      "changePct": 0.37632989496737407,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26151.299,
-      "change": -29.161000000000058,
-      "changePct": -0.11138459752044105,
+      "price": 26147.867,
+      "change": 167.67699999999968,
+      "changePct": 0.6454032861191534,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26381.22,
-      "change": 274.6200000000026,
-      "changePct": 1.05191790581693,
+      "price": 26388.35,
+      "change": 281.75,
+      "changePct": 1.079229007224227,
       "currency": "EUR"
     },
     {
@@ -44,55 +44,31 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.61,
-      "change": 0.16000000000000014,
-      "changePct": 1.035598705501619,
+      "price": 15.64,
+      "change": 0.19000000000000128,
+      "changePct": 1.2297734627831798,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "16e14b8e-fc7c-3351-ad01-8dbc8fab1786",
-      "title": "Top 9 for K-9s: 2026 Best Places to Camp with Dogs, According to The Dyrt",
-      "link": "https://finance.yahoo.com/media-advertising/articles/top-9-k-9s-2026-123400726.html",
-      "publisher": "PR Newswire",
-      "time": 1787747640,
-      "impact": "low",
-      "tags": []
+      "id": "c290fc34-ce83-4d17-9be7-f6fa3bc755ad",
+      "title": "July PCE shows muted inflation gains. Is the data calm enough to avoid Fed rate hikes?",
+      "link": "https://finance.yahoo.com/video/july-pce-shows-muted-inflation-gains-is-the-data-calm-enough-to-avoid-fed-rate-hikes-134627277.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1787751987,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "1b41fa2c-8d81-314a-baf8-6535afc1a113",
-      "title": "BriteCap Financial Launches BriteCap Rise™, Expanding Access to Growth Capital for Small Businesses",
-      "link": "https://finance.yahoo.com/small-business/articles/britecap-financial-launches-britecap-rise-123400195.html",
-      "publisher": "PR Newswire",
-      "time": 1787747640,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9a45a11b-68b5-3714-b582-cda8d0030ce2",
-      "title": "Anton Gunn Inducted into National Speakers Hall of Fame",
-      "link": "https://finance.yahoo.com/media-advertising/articles/anton-gunn-inducted-national-speakers-123400594.html",
-      "publisher": "PR Newswire",
-      "time": 1787747640,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bf0ad380-c6bf-303a-ac19-c69c776cd671",
-      "title": "Dance Theatre of Harlem Announces 2026-2027 Tour Schedule and 2027 New York Season at New York City Center",
-      "link": "https://finance.yahoo.com/media-advertising/articles/dance-theatre-harlem-announces-2026-123400905.html",
-      "publisher": "PR Newswire",
-      "time": 1787747640,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b256ce3f-3a86-3ded-b96b-794bfd5d3b38",
-      "title": "Nvidia Earnings Countdown Begins: What to Expect From Upcoming Report",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-countdown-begins-expect-123327632.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787747607,
+      "id": "0a5c86be-73f1-3d13-9bec-47f8c4d97c31",
+      "title": "President Trump's latest financial filings reveal a major trading spree, with a heavy focus on Elon Musk’s ventures. \n\nFrom buying into the SpaceX IPO to making multiple high-dollar Tesla trades, the president continues active stock trading ahead of the midterms.",
+      "link": "https://finance.yahoo.com/photos/president-trumps-latest-financial-filings-134352433/",
+      "publisher": "Yahoo Finance",
+      "time": 1787751832,
       "impact": "medium",
       "tags": [
         "macro",
@@ -100,52 +76,76 @@
       ]
     },
     {
-      "id": "085a4bb4-501b-39a0-bf52-ec28563242d1",
-      "title": "Guaranteed Roof Sponsors Chateau Elan Pickleball Pool Party",
-      "link": "https://finance.yahoo.com/real-estate/articles/guaranteed-roof-sponsors-chateau-elan-123300417.html",
-      "publisher": "PR Newswire",
-      "time": 1787747580,
+      "id": "c0a9f77c-ef00-3a2c-b12d-ef0e65cd88df",
+      "title": "Meta has agreed to settle the lawsuit that accused Facebook and Instagram of being addictive to children.",
+      "link": "https://finance.yahoo.com/photos/meta-agreed-settle-lawsuit-accused-134319823/",
+      "publisher": "Yahoo Finance",
+      "time": 1787751799,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5186ea73-2a61-34ca-8dfd-1f4df4bcfabf",
-      "title": "Timekettle Updates X1 Meeting for More Flexible Multilingual Business Communication",
-      "link": "https://finance.yahoo.com/technology/ai/articles/timekettle-updates-x1-meeting-more-123300407.html",
-      "publisher": "PR Newswire",
-      "time": 1787747580,
+      "id": "60fd853e-59ab-36f9-9e61-2e1b06af1f05",
+      "title": "TTM Technologies CEO Edwin Roks Buys 10,000 Shares for $1.1 Million. What Is He Telling Investors?",
+      "link": "https://finance.yahoo.com/m/60fd853e-59ab-36f9-9e61-2e1b06af1f05/ttm-technologies-ceo-edwin.html",
+      "publisher": "Motley Fool",
+      "time": 1787751781,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "915ad9a0-2673-317e-bc81-5f721d03e5e3",
-      "title": "New Industry Research Reveals Why Some Construction Companies Scale While Others Stall",
-      "link": "https://finance.yahoo.com/small-business/articles/industry-research-reveals-why-construction-123300259.html",
-      "publisher": "PR Newswire",
-      "time": 1787747580,
+      "id": "b9bd3841-d953-3618-98ea-5b7303eaab04",
+      "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
+      "link": "https://finance.yahoo.com/media-advertising/articles/meta-settles-18-billion-lawsuit-134301852.html",
+      "publisher": "TechCrunch",
+      "time": 1787751781,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7bdede68-5b3c-3d75-88da-054fa07ab68f",
-      "title": "US economy grew at sluggish 1.5% rate in April-June, but consumer spending stayed strong, government says",
-      "link": "https://finance.yahoo.com/economy/articles/us-economy-grew-sluggish-1-123228095.html",
-      "publisher": "Associated Press",
-      "time": 1787747548,
+      "id": "76229329-4330-336c-a13d-dea98d1c68c9",
+      "title": "KNOT Offshore Unit to Acquire Knutsen Canadian Chartering",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/knot-offshore-unit-acquire-knutsen-134300881.html",
+      "publisher": "MT Newswires",
+      "time": 1787751780,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "51ac9633-fba4-3e48-be27-ef20bc4bab8c",
-      "title": "EvCap Investments and Point Acquisitions Acquire North Phoenix Retail Center",
-      "link": "https://finance.yahoo.com/real-estate/articles/evcap-investments-point-acquisitions-acquire-123200212.html",
+      "id": "92815850-0865-3812-b9e0-fda35dff54b2",
+      "title": "Finalists announced for 2026 Toyota Family Teacher of the Year",
+      "link": "https://finance.yahoo.com/small-business/articles/finalists-announced-2026-toyota-family-134300186.html",
       "publisher": "PR Newswire",
-      "time": 1787747520,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "time": 1787751780,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5cba5574-91da-3db3-b431-f4cd2457d63f",
+      "title": "General Mills Removes Certified Colors From US Cereals",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/general-mills-removes-certified-colors-134228295.html",
+      "publisher": "MT Newswires",
+      "time": 1787751748,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7e2d1d7c-9880-40ef-9a9b-90e50bbc94fe",
+      "title": "Meta reaches $16.68 billion settlement in social media case",
+      "link": "https://finance.yahoo.com/markets/stocks/article/meta-reaches-1668-billion-settlement-in-social-media-case-134220470.html",
+      "publisher": "Yahoo Finance",
+      "time": 1787751740,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "83a9c650-fe81-3d87-b66c-bf92d8c45691",
+      "title": "Buy-Back of Securities",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/buy-back-securities-134200777.html",
+      "publisher": "Business Wire",
+      "time": 1787751720,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
