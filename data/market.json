@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-26T10:28:30.068486+00:00",
+  "updatedAt": "2026-08-26T11:02:10.673674+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20096.1,
-      "change": 39.5,
-      "changePct": 0.19694265229400795,
+      "price": 20090.0,
+      "change": 33.400000000001455,
+      "changePct": 0.1665287237119026,
       "currency": "EUR"
     },
     {
@@ -28,112 +28,35 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26313.03,
-      "change": 206.4300000000003,
-      "changePct": 0.7907195881501241,
+      "price": 26313.79,
+      "change": 207.19000000000233,
+      "changePct": 0.7936307293941085,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6469.85,
-      "change": 14.220000000000255,
-      "changePct": 0.2202728471117498,
+      "price": 6471.4,
+      "change": 15.769999999999527,
+      "changePct": 0.24428289725401744,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.71,
-      "change": 0.26000000000000156,
-      "changePct": 1.6828478964401397,
+      "price": 15.69,
+      "change": 0.2400000000000002,
+      "changePct": 1.5533980582524287,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "40752a79-7c44-33ff-ac11-a7887acfd3c4",
-      "title": "Sweetmore Bakeries gets West Coast base with Fantasy Baking Co. deal",
-      "link": "https://finance.yahoo.com/m/40752a79-7c44-33ff-ac11-a7887acfd3c4/sweetmore-bakeries-gets-west.html",
-      "publisher": "Just Food",
-      "time": 1787739903,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "469f922b-0e50-32ea-9a9c-0ccd7cf1a383",
-      "title": "Bluefin and Visa launch unified card-present payment acceptance offering",
-      "link": "https://finance.yahoo.com/m/469f922b-0e50-32ea-9a9c-0ccd7cf1a383/bluefin-and-visa-launch.html",
-      "publisher": "Electronic Payments",
-      "time": 1787739834,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0298c637-6520-32fc-829c-8a0436d50a96",
-      "title": "Dairy, seafood hit by Canada tariffs on US",
-      "link": "https://finance.yahoo.com/m/0298c637-6520-32fc-829c-8a0436d50a96/dairy%2C-seafood-hit-by-canada.html",
-      "publisher": "Just Food",
-      "time": 1787739677,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "5d65a530-4fe2-34d5-8c0b-dbd21bf2cede",
-      "title": "VEVOR Brings Its Global Home Improvement Range to European Media and Consumers in Person for the First Time at IFA Berlin 2026",
-      "link": "https://finance.yahoo.com/media-advertising/articles/vevor-brings-global-home-improvement-102100494.html",
-      "publisher": "PR Newswire",
-      "time": 1787739660,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7a84acdf-98ba-3221-ae3e-1d9e76edfdcf",
-      "title": "1 of Wall Street’s Favorite Stocks to Own for Decades and 2 We Brush Off",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stocks-101913303.html",
-      "publisher": "StockStory",
-      "time": 1787739553,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "26435c3f-a368-374a-a52d-213f3f34fb31",
-      "title": "RBC Capital Initiates Atlassian at Outperform With $215 Price Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-initiates-atlassian-outperform-101737257.html",
-      "publisher": "MT Newswires",
-      "time": 1787739457,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e05ec2d7-eeb3-3f19-bbb0-950f6af23a41",
-      "title": "RBC Capital Initiates JFrog at Outperform With $118 Price Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-initiates-jfrog-outperform-101709545.html",
-      "publisher": "MT Newswires",
-      "time": 1787739429,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6776244c-2d25-3943-a8b1-0956f6f10b3d",
-      "title": "Does NRG’s Challenge to PJM’s Reliability Plan Signal a Deeper Shift in NRG’s Strategy (NRG)?",
-      "link": "https://finance.yahoo.com/energy/articles/does-nrg-challenge-pjm-reliability-101611733.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787739371,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "07ee8b23-a0f2-3790-8cbd-d286b194cd31",
-      "title": "3 Canadian Penny Stocks Backing Growth With Buybacks and Positive Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-penny-stocks-backing-101610137.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787739370,
+      "id": "34c76050-1252-37de-98ae-46b75ad80d68",
+      "title": "Ingenia Communities Group (INGEF) (FY 2026) Earnings Call Highlights: Record Profit and ...",
+      "link": "https://finance.yahoo.com/real-estate/articles/ingenia-communities-group-ingef-fy-110120496.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787742080,
       "impact": "medium",
       "tags": [
         "macro",
@@ -141,15 +64,100 @@
       ]
     },
     {
-      "id": "78996369-12f7-3a68-a3ad-ffab9ef4f2eb",
-      "title": "Planet Fitness (PLNT) Faces A Fresh Valuation Test After Lawsuits And A Failed Marketing Push",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/planet-fitness-plnt-faces-fresh-101610235.html",
-      "publisher": "Simply Wall St.",
-      "time": 1787739370,
-      "impact": "low",
+      "id": "a8046519-fc4d-33a5-a495-68b5651b0823",
+      "title": "Cettire Ltd (ASX:CTT) (FY 2026) Earnings Call Highlights: Profitability Surges as Ex-US Growth ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cettire-ltd-asx-ctt-fy-110115867.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787742075,
+      "impact": "medium",
       "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9f667770-6be2-3e44-8232-0db126e8fde3",
+      "title": "Nickel Industries Ltd (NICMF) (H1 2026) Earnings Call Highlights: Adjusted EBITDA Surges 46% to ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nickel-industries-ltd-nicmf-h1-110058235.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787742058,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "c7680a53-2db9-38e4-8551-b084a11bd559",
+      "title": "IVE Group Ltd (ASX:IGL) (FY 2026) Earnings Call Highlights: Margin Expansion and Strategic ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ive-group-ltd-asx-igl-110053297.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787742053,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "8394e045-a49c-36f0-9917-d18ade0c6fbb",
+      "title": "Canada hits US with ‘dollar-for-dollar’ tariffs as trade row deepens",
+      "link": "https://finance.yahoo.com/m/8394e045-a49c-36f0-9917-d18ade0c6fbb/canada-hits-us-with.html",
+      "publisher": "Just Style",
+      "time": 1787742026,
+      "impact": "high",
+      "tags": [
+        "geo",
         "macro"
       ]
+    },
+    {
+      "id": "88d0dcb4-9e92-4915-8d71-274e330b139f",
+      "title": "Trump's Canada auto tariffs could end up denting US GDP: Oxford Economics",
+      "link": "https://finance.yahoo.com/news/trumps-canada-auto-tariffs-could-end-up-denting-us-gdp-oxford-economics-110000983.html",
+      "publisher": "Yahoo Finance",
+      "time": 1787742000,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "90c5350e-7dca-3167-b3b0-1e398f635a36",
+      "title": "COMAX France quadruples the size of its BESS portfolio",
+      "link": "https://finance.yahoo.com/m/90c5350e-7dca-3167-b3b0-1e398f635a36/comax-france-quadruples-the.html",
+      "publisher": "Energy Global",
+      "time": 1787742000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c65e2fee-8319-4f04-86fb-5e8fae10c559",
+      "title": "The danger of \"sell everything and buy gold\"",
+      "link": "https://finance.yahoo.com/video/danger-sell-everything-buy-gold-110000009.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1787742000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c22cac7c-4602-347f-9af3-4fb7754136b2",
+      "title": "Webuild advances $2.3bn Lot 2 Rogun dam works in Tajikistan",
+      "link": "https://finance.yahoo.com/m/c22cac7c-4602-347f-9af3-4fb7754136b2/webuild-advances-%242.3bn-lot-2.html",
+      "publisher": "World Construction Network",
+      "time": 1787741933,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "264eb87e-4229-3f3f-909f-4141102dc99a",
+      "title": "Atricure Insider Sold Shares Worth $458,099, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/atricure-insider-sold-shares-worth-105831178.html",
+      "publisher": "MT Newswires",
+      "time": 1787741911,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
