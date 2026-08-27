@@ -1,107 +1,120 @@
 {
-  "updatedAt": "2026-08-27T07:41:55.937272+00:00",
+  "updatedAt": "2026-08-27T18:42:59.678954+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20078.6,
-      "change": 11.299999999999272,
-      "changePct": 0.056310515116628906,
+      "price": 19881.6,
+      "change": -185.70000000000073,
+      "changePct": -0.9253860758547524,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7675.7,
-      "change": 22.840000000000146,
-      "changePct": 0.29845051392551475,
+      "price": 7717.25,
+      "change": 39.970000000000255,
+      "changePct": 0.5206270970968918,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26130.197,
-      "change": 150.00700000000143,
-      "changePct": 0.5773899267095485,
+      "price": 26447.715,
+      "change": 296.4150000000009,
+      "changePct": 1.1334618164297794,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26304.31,
-      "change": 38.17000000000189,
-      "changePct": 0.14532017266336772,
+      "price": 26367.24,
+      "change": 101.10000000000218,
+      "changePct": 0.38490619481965066,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6473.67,
-      "change": 2.930000000000291,
-      "changePct": 0.04528075614226953,
+      "price": 6424.73,
+      "change": -46.01000000000022,
+      "changePct": -0.7110469590804177,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.93,
-      "change": -0.28000000000000114,
-      "changePct": -1.8408941485864634,
+      "price": 14.73,
+      "change": -0.4800000000000004,
+      "changePct": -3.155818540433928,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "58c00309-9be2-3cf6-a2fa-4f8c65ca1419",
-      "title": "South Korea media commission says Meta's youth protection changes should apply globally",
-      "link": "https://finance.yahoo.com/m/58c00309-9be2-3cf6-a2fa-4f8c65ca1419/south-korea-media-commission.html",
-      "publisher": "Reuters",
-      "time": 1787816220,
+      "id": "a74c48bf-fa2f-316b-80d9-d93651457059",
+      "title": "Tennis Prize Money Tracker: Which Player Has Earned the Most in 2026?",
+      "link": "https://finance.yahoo.com/m/a74c48bf-fa2f-316b-80d9-d93651457059/tennis-prize-money-tracker%3A.html",
+      "publisher": "Sportico",
+      "time": 1787855792,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f11fadaf-4d7d-3410-a8f3-66890e2ee910",
-      "title": "Trinasolar Retains Tier 1 Status for Both PV Modules and Energy Storage Systems on S&P Global Cleantech Companies List 2026",
-      "link": "https://finance.yahoo.com/energy/articles/trinasolar-retains-tier-1-status-073500424.html",
+      "id": "1c7df888-4185-3bb8-b18d-972265f220cb",
+      "title": "Market Chatter: Meta, Roblox Agree to Child-Safety Measures in Philippines",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-meta-roblox-agree-183540579.html",
+      "publisher": "MT Newswires",
+      "time": 1787855740,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "f04d79d7-6e02-34c0-8584-26c90bba9d6c",
+      "title": "Fortune Media and Great Place To Work Name Roth Staffing Companies to 2026 Best Medium Workplaces List, Ranking No. 16",
+      "link": "https://finance.yahoo.com/small-business/articles/fortune-media-great-place-name-183500220.html",
       "publisher": "PR Newswire",
-      "time": 1787816100,
+      "time": 1787855700,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e2ecdc9c-c79f-3ef3-a569-6d7ac2e8d0cf",
-      "title": "Futurise and Sri Bestari Private School Launch Global Drone Arena to Inspire the Next Generation of Tech Talent",
-      "link": "https://finance.yahoo.com/technology/articles/futurise-sri-bestari-private-school-073400463.html",
+      "id": "3c82e759-8aa7-37b0-a398-381cfb1e2fae",
+      "title": "24 Hour Caregivers Named to the 2026 Inc. 5000 List of America's Fastest-Growing Private Companies",
+      "link": "https://finance.yahoo.com/small-business/articles/24-hour-caregivers-named-2026-183400982.html",
       "publisher": "PR Newswire",
-      "time": 1787816040,
+      "time": 1787855640,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "515dba93-18f3-3feb-bec6-6c9aa5b32dc1",
-      "title": "Unlimit Mobile Unlocks Instant, Contract-Free UK eSIM Connectivity for Indian Students",
-      "link": "https://finance.yahoo.com/technology/articles/unlimit-mobile-unlocks-instant-contract-073300089.html",
-      "publisher": "PR Newswire",
-      "time": 1787815980,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9f1d1740-8835-3134-ab3a-8abb46d15000",
-      "title": "Alphabet Is Paying a Dividend While Selling $85 Billion of New Stock",
-      "link": "https://finance.yahoo.com/m/9f1d1740-8835-3134-ab3a-8abb46d15000/alphabet-is-paying-a-dividend.html",
-      "publisher": "Motley Fool",
-      "time": 1787815921,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "089cc071-6b0d-3754-b945-e6e3313f6c69",
-      "title": "5 Must-Read Analyst Questions From Walmart’s Q2 Earnings Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-073111129.html",
+      "id": "b8c80911-7290-3a6e-96f4-807b1f56b33f",
+      "title": "Electronic Components Stocks Q2 Teardown: Novanta (NASDAQ:NOVT) Vs The Rest",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/electronic-components-stocks-q2-teardown-183307775.html",
       "publisher": "StockStory",
-      "time": 1787815871,
+      "time": 1787855587,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "c08610af-65c4-34a6-9d24-137bf9ff2868",
+      "title": "Dance Experts Serge and Yana Nelyubov Explain Private vs. Group Dance Lessons for Beginners in HelloNation",
+      "link": "https://finance.yahoo.com/media-advertising/articles/dance-experts-serge-yana-nelyubov-183200640.html",
+      "publisher": "PR Newswire",
+      "time": 1787855520,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ccd79d47-9a10-3e6c-8ec3-3f1b8aa85bf7",
+      "title": "Palantir Billionaire Peter Thiel Just Bought This Magnificent Artificial Intelligence (AI) Stock Up 347,260% Since Its IPO",
+      "link": "https://finance.yahoo.com/m/ccd79d47-9a10-3e6c-8ec3-3f1b8aa85bf7/palantir-billionaire-peter.html",
+      "publisher": "Motley Fool",
+      "time": 1787855520,
       "impact": "medium",
       "tags": [
         "macro",
@@ -109,38 +122,29 @@
       ]
     },
     {
-      "id": "b0540123-07b4-398a-9105-b1b450a5e209",
-      "title": "Regulatory announcement no 21: Reporting of transactions made by persons discharging managerial responsibilities and their closely associated persons in InstallatørGruppen's shares",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/regulatory-announcement-no-21-reporting-073100185.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787815860,
+      "id": "a861d316-c4f2-3421-b155-4d8dcd9c5c5c",
+      "title": "A Simple Nasdaq ETF Swap That Shields Your Income From the IRS",
+      "link": "https://finance.yahoo.com/m/a861d316-c4f2-3421-b155-4d8dcd9c5c5c/a-simple-nasdaq-etf-swap-that.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787855484,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "248fea99-2686-3393-bc6e-f11832aa13eb",
-      "title": "Bringing Digital Characters to Life: Tencent Games Motus Makes Gamescom Debut with End-to-End AI Animation Pipeline",
-      "link": "https://finance.yahoo.com/technology/ai/articles/bringing-digital-characters-life-tencent-073000643.html",
-      "publisher": "CNW Group",
-      "time": 1787815800,
+      "id": "2e74b2e6-ce08-3cf6-a009-8c5a53d2f852",
+      "title": "Prediction: Home Depot’s Turnaround Could Be Bigger Than Investors Expect",
+      "link": "https://finance.yahoo.com/m/2e74b2e6-ce08-3cf6-a009-8c5a53d2f852/prediction%3A-home-depot%E2%80%99s.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787855433,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4043c7b8-d371-3a8e-984c-81bd37ddd06c",
-      "title": "Tencent Games Central Tech Makes Its gamescom Debut, Accelerating Game Industry Innovation with Full-Pipeline Proprietary AI Technologies",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tencent-games-central-tech-makes-073000716.html",
-      "publisher": "CNW Group",
-      "time": 1787815800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "69b59d92-e602-37ca-a164-44640f7fd9d4",
-      "title": "Bosch Launches Two New Metalworking Tools to Boost Professional Productivity",
-      "link": "https://finance.yahoo.com/technology/articles/bosch-launches-two-metalworking-tools-073000108.html",
-      "publisher": "PR Newswire",
-      "time": 1787815800,
+      "id": "6dd76e6f-8cf3-308b-acf6-eee28bf8b66e",
+      "title": "Nike Names Jane Ewing as Chief Commercial Officer",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nike-names-jane-ewing-chief-183023726.html",
+      "publisher": "MT Newswires",
+      "time": 1787855423,
       "impact": "low",
       "tags": []
     }
