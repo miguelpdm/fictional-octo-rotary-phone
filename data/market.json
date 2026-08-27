@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-26T23:57:06.804210+00:00",
+  "updatedAt": "2026-08-27T07:41:55.937272+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20067.3,
-      "change": 10.700000000000728,
-      "changePct": 0.053349022266988066,
+      "price": 20078.6,
+      "change": 11.299999999999272,
+      "changePct": 0.056310515116628906,
       "currency": "EUR"
     },
     {
@@ -28,107 +28,80 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26285.96,
-      "change": 179.36000000000058,
-      "changePct": 0.6870293335784843,
+      "price": 26304.31,
+      "change": 38.17000000000189,
+      "changePct": 0.14532017266336772,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6470.74,
-      "change": 15.109999999999673,
-      "changePct": 0.23405926299988805,
+      "price": 6473.67,
+      "change": 2.930000000000291,
+      "changePct": 0.04528075614226953,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.21,
-      "change": -0.23999999999999844,
-      "changePct": -1.5533980582524172,
+      "price": 14.93,
+      "change": -0.28000000000000114,
+      "changePct": -1.8408941485864634,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "3dd503e6-d132-31e8-90c5-dcf6035d2f10",
-      "title": "Back-to-School Health: Helping Children Start the School Year Strong with Accordia Health",
-      "link": "https://finance.yahoo.com/healthcare/articles/back-school-health-helping-children-235100528.html",
+      "id": "58c00309-9be2-3cf6-a2fa-4f8c65ca1419",
+      "title": "South Korea media commission says Meta's youth protection changes should apply globally",
+      "link": "https://finance.yahoo.com/m/58c00309-9be2-3cf6-a2fa-4f8c65ca1419/south-korea-media-commission.html",
+      "publisher": "Reuters",
+      "time": 1787816220,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f11fadaf-4d7d-3410-a8f3-66890e2ee910",
+      "title": "Trinasolar Retains Tier 1 Status for Both PV Modules and Energy Storage Systems on S&P Global Cleantech Companies List 2026",
+      "link": "https://finance.yahoo.com/energy/articles/trinasolar-retains-tier-1-status-073500424.html",
       "publisher": "PR Newswire",
-      "time": 1787788260,
+      "time": 1787816100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e1d9376c-676a-39dd-81c7-8d4c01a074f1",
-      "title": "Junk King Louisville Crosses 1,000 Google Reviews with a 4.9-Star Rating",
-      "link": "https://finance.yahoo.com/small-business/articles/junk-king-louisville-crosses-1-234900945.html",
-      "publisher": "GlobeNewswire",
-      "time": 1787788140,
+      "id": "e2ecdc9c-c79f-3ef3-a569-6d7ac2e8d0cf",
+      "title": "Futurise and Sri Bestari Private School Launch Global Drone Arena to Inspire the Next Generation of Tech Talent",
+      "link": "https://finance.yahoo.com/technology/articles/futurise-sri-bestari-private-school-073400463.html",
+      "publisher": "PR Newswire",
+      "time": 1787816040,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c03ae35d-d27e-3caf-a89c-0c33467ec9c9",
-      "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
-      "link": "https://finance.yahoo.com/m/c03ae35d-d27e-3caf-a89c-0c33467ec9c9/dow-jones-futures-rise%3B.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787788126,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "21e233d2-faa0-318a-960f-4d1df7462922",
-      "title": "Trump Says It's \"Time to Teach Canada\" a Lesson Amid Tariff Standoff",
-      "link": "https://finance.yahoo.com/economy/policy/articles/trump-says-apos-time-teach-234810330.html",
-      "publisher": "MT Newswires",
-      "time": 1787788090,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "ed46711f-1c3e-3cc1-8201-7d0675071daa",
-      "title": "Could Tyson Foods (TSN) Stock Win as Chicken Strength Offsets a Beef Downturn?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/could-tyson-foods-tsn-stock-234725314.html",
-      "publisher": "Insider Monkey",
-      "time": 1787788045,
+      "id": "515dba93-18f3-3feb-bec6-6c9aa5b32dc1",
+      "title": "Unlimit Mobile Unlocks Instant, Contract-Free UK eSIM Connectivity for Indian Students",
+      "link": "https://finance.yahoo.com/technology/articles/unlimit-mobile-unlocks-instant-contract-073300089.html",
+      "publisher": "PR Newswire",
+      "time": 1787815980,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b8a1001d-9781-3382-a608-7e1269aff8d9",
-      "title": "Here are the U.S. states that will be hit hardest by Canada's retaliatory tariffs",
-      "link": "https://finance.yahoo.com/m/b8a1001d-9781-3382-a608-7e1269aff8d9/here-are-the-u.s.-states-that.html",
-      "publisher": "CBS News Videos",
-      "time": 1787788019,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "095d56bf-a7ff-31d5-b80a-66ea6e83b3a4",
-      "title": "Why Dolly Parton is so heavily associated with butterflies",
-      "link": "https://finance.yahoo.com/m/095d56bf-a7ff-31d5-b80a-66ea6e83b3a4/why-dolly-parton-is-so.html",
-      "publisher": "CBS News Videos",
-      "time": 1787787973,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bf597310-2e67-3427-b0b1-b0eab623a5d9",
-      "title": "Beam Global (BEEM) Q2 2026 Earnings Call Transcript",
-      "link": "https://finance.yahoo.com/m/bf597310-2e67-3427-b0b1-b0eab623a5d9/beam-global-%28beem%29-q2-2026.html",
+      "id": "9f1d1740-8835-3134-ab3a-8abb46d15000",
+      "title": "Alphabet Is Paying a Dividend While Selling $85 Billion of New Stock",
+      "link": "https://finance.yahoo.com/m/9f1d1740-8835-3134-ab3a-8abb46d15000/alphabet-is-paying-a-dividend.html",
       "publisher": "Motley Fool",
-      "time": 1787787854,
+      "time": 1787815921,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "089cc071-6b0d-3754-b945-e6e3313f6c69",
+      "title": "5 Must-Read Analyst Questions From Walmart’s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-073111129.html",
+      "publisher": "StockStory",
+      "time": 1787815871,
       "impact": "medium",
       "tags": [
         "macro",
@@ -136,20 +109,38 @@
       ]
     },
     {
-      "id": "90147164-9b98-3a21-b848-8fb9eb398aca",
-      "title": "Solid Gold Resources Corp. Announces Results of Special Shareholder Meeting",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/solid-gold-resources-corp-announces-234400426.html",
-      "publisher": "CNW Group",
-      "time": 1787787840,
+      "id": "b0540123-07b4-398a-9105-b1b450a5e209",
+      "title": "Regulatory announcement no 21: Reporting of transactions made by persons discharging managerial responsibilities and their closely associated persons in InstallatørGruppen's shares",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/regulatory-announcement-no-21-reporting-073100185.html",
+      "publisher": "GlobeNewswire",
+      "time": 1787815860,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0d8a1205-eaa9-33b2-bc7f-336c4619c28a",
-      "title": "Meta not admitting wrongdoing in $17 billion settlement in social media addiction suit",
-      "link": "https://finance.yahoo.com/m/0d8a1205-eaa9-33b2-bc7f-336c4619c28a/meta-not-admitting-wrongdoing.html",
-      "publisher": "CBS News Videos",
-      "time": 1787787787,
+      "id": "248fea99-2686-3393-bc6e-f11832aa13eb",
+      "title": "Bringing Digital Characters to Life: Tencent Games Motus Makes Gamescom Debut with End-to-End AI Animation Pipeline",
+      "link": "https://finance.yahoo.com/technology/ai/articles/bringing-digital-characters-life-tencent-073000643.html",
+      "publisher": "CNW Group",
+      "time": 1787815800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4043c7b8-d371-3a8e-984c-81bd37ddd06c",
+      "title": "Tencent Games Central Tech Makes Its gamescom Debut, Accelerating Game Industry Innovation with Full-Pipeline Proprietary AI Technologies",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tencent-games-central-tech-makes-073000716.html",
+      "publisher": "CNW Group",
+      "time": 1787815800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "69b59d92-e602-37ca-a164-44640f7fd9d4",
+      "title": "Bosch Launches Two New Metalworking Tools to Boost Professional Productivity",
+      "link": "https://finance.yahoo.com/technology/articles/bosch-launches-two-metalworking-tools-073000108.html",
+      "publisher": "PR Newswire",
+      "time": 1787815800,
       "impact": "low",
       "tags": []
     }
