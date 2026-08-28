@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T18:42:59.678954+00:00",
+  "updatedAt": "2026-08-28T02:23:47.119947+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7717.25,
-      "change": 39.970000000000255,
-      "changePct": 0.5206270970968918,
+      "price": 7730.99,
+      "change": 53.710000000000036,
+      "changePct": 0.6995967321759795,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26447.715,
-      "change": 296.4150000000009,
-      "changePct": 1.1334618164297794,
+      "price": 26541.352,
+      "change": 390.0519999999997,
+      "changePct": 1.4915204980249537,
       "currency": "USD"
     },
     {
@@ -44,77 +44,84 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.73,
-      "change": -0.4800000000000004,
-      "changePct": -3.155818540433928,
+      "price": 14.51,
+      "change": -0.7000000000000011,
+      "changePct": -4.602235371466148,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "a74c48bf-fa2f-316b-80d9-d93651457059",
-      "title": "Tennis Prize Money Tracker: Which Player Has Earned the Most in 2026?",
-      "link": "https://finance.yahoo.com/m/a74c48bf-fa2f-316b-80d9-d93651457059/tennis-prize-money-tracker%3A.html",
-      "publisher": "Sportico",
-      "time": 1787855792,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1c7df888-4185-3bb8-b18d-972265f220cb",
-      "title": "Market Chatter: Meta, Roblox Agree to Child-Safety Measures in Philippines",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-meta-roblox-agree-183540579.html",
-      "publisher": "MT Newswires",
-      "time": 1787855740,
-      "impact": "low",
+      "id": "28709650-6bf3-32e0-9253-5d5f0e46e8fa",
+      "title": "Dow Jones Futures Rise With Fed Chief Warsh Due; Nvidia, These 7 Stocks Are In Buy Zones",
+      "link": "https://finance.yahoo.com/m/28709650-6bf3-32e0-9253-5d5f0e46e8fa/dow-jones-futures-rise-with.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787883584,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "f04d79d7-6e02-34c0-8584-26c90bba9d6c",
-      "title": "Fortune Media and Great Place To Work Name Roth Staffing Companies to 2026 Best Medium Workplaces List, Ranking No. 16",
-      "link": "https://finance.yahoo.com/small-business/articles/fortune-media-great-place-name-183500220.html",
-      "publisher": "PR Newswire",
-      "time": 1787855700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3c82e759-8aa7-37b0-a398-381cfb1e2fae",
-      "title": "24 Hour Caregivers Named to the 2026 Inc. 5000 List of America's Fastest-Growing Private Companies",
-      "link": "https://finance.yahoo.com/small-business/articles/24-hour-caregivers-named-2026-183400982.html",
-      "publisher": "PR Newswire",
-      "time": 1787855640,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b8c80911-7290-3a6e-96f4-807b1f56b33f",
-      "title": "Electronic Components Stocks Q2 Teardown: Novanta (NASDAQ:NOVT) Vs The Rest",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/electronic-components-stocks-q2-teardown-183307775.html",
-      "publisher": "StockStory",
-      "time": 1787855587,
-      "impact": "low",
+      "id": "c2c44244-526a-3cab-a5b7-2ecd6fe4bff2",
+      "title": "Tokyo core inflation creeps near BOJ's target, bolsters rate-hike chance",
+      "link": "https://finance.yahoo.com/economy/policy/articles/tokyo-core-inflation-accelerates-august-234449994.html",
+      "publisher": "Reuters",
+      "time": 1787883360,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "c08610af-65c4-34a6-9d24-137bf9ff2868",
-      "title": "Dance Experts Serge and Yana Nelyubov Explain Private vs. Group Dance Lessons for Beginners in HelloNation",
-      "link": "https://finance.yahoo.com/media-advertising/articles/dance-experts-serge-yana-nelyubov-183200640.html",
-      "publisher": "PR Newswire",
-      "time": 1787855520,
-      "impact": "low",
-      "tags": []
+      "id": "8a2e1c2c-3c8b-3ad8-9dc5-ff4087bfdf0d",
+      "title": "ASST Jumps Toward Best Month In Over A Year As BTC Holdings Grow, But Analyst Warns ‘Sell The Stock, Buy Bitcoin’",
+      "link": "https://finance.yahoo.com/m/8a2e1c2c-3c8b-3ad8-9dc5-ff4087bfdf0d/asst-jumps-toward-best-month.html",
+      "publisher": "Stocktwits",
+      "time": 1787883155,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "ccd79d47-9a10-3e6c-8ec3-3f1b8aa85bf7",
-      "title": "Palantir Billionaire Peter Thiel Just Bought This Magnificent Artificial Intelligence (AI) Stock Up 347,260% Since Its IPO",
-      "link": "https://finance.yahoo.com/m/ccd79d47-9a10-3e6c-8ec3-3f1b8aa85bf7/palantir-billionaire-peter.html",
+      "id": "55e4d35d-ed14-3d5c-bc77-2c5787533f3e",
+      "title": "Why Semtech Stock Was Flying This Week",
+      "link": "https://finance.yahoo.com/m/55e4d35d-ed14-3d5c-bc77-2c5787533f3e/why-semtech-stock-was-flying.html",
       "publisher": "Motley Fool",
-      "time": 1787855520,
+      "time": 1787882996,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "95c52de6-1542-3cb3-8ad3-2721cc71575a",
+      "title": "Why Is Okta (OKTA) Stock Soaring Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-okta-okta-stock-soaring-020907162.html",
+      "publisher": "StockStory",
+      "time": 1787882947,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "82292f5c-b48c-33dc-a128-ced5612be55e",
+      "title": "The TV is no longer staying put: How Australians are changing the way they watch",
+      "link": "https://finance.yahoo.com/media-advertising/articles/tv-no-longer-staying-put-020700774.html",
+      "publisher": "PR Newswire",
+      "time": 1787882820,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a86fb106-6557-3e36-bf25-93689631d588",
+      "title": "Solstice Scraps Element Deal and Launches $500 Million Buyback",
+      "link": "https://finance.yahoo.com/energy/articles/solstice-scraps-element-deal-launches-020153888.html",
+      "publisher": "Oilprice.com",
+      "time": 1787882513,
       "impact": "medium",
       "tags": [
         "macro",
@@ -122,29 +129,31 @@
       ]
     },
     {
-      "id": "a861d316-c4f2-3421-b155-4d8dcd9c5c5c",
-      "title": "A Simple Nasdaq ETF Swap That Shields Your Income From the IRS",
-      "link": "https://finance.yahoo.com/m/a861d316-c4f2-3421-b155-4d8dcd9c5c5c/a-simple-nasdaq-etf-swap-that.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787855484,
+      "id": "8eab5a5c-e1a2-3281-b85f-312eda58b198",
+      "title": "CRM Q2 Deep Dive: AI-Powered Product Momentum and Flexible Pricing Drive Outperformance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/crm-q2-deep-dive-ai-020107840.html",
+      "publisher": "StockStory",
+      "time": 1787882467,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "aa595ef0-2b0e-3c67-ba60-56b0d42a228e",
+      "title": "PayPal Dives As Advent-Stripe Group Said To Drop Pursuit Of Payments Giant",
+      "link": "https://finance.yahoo.com/m/aa595ef0-2b0e-3c67-ba60-56b0d42a228e/paypal-dives-as-advent-stripe.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787882434,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2e74b2e6-ce08-3cf6-a009-8c5a53d2f852",
-      "title": "Prediction: Home Depot’s Turnaround Could Be Bigger Than Investors Expect",
-      "link": "https://finance.yahoo.com/m/2e74b2e6-ce08-3cf6-a009-8c5a53d2f852/prediction%3A-home-depot%E2%80%99s.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787855433,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6dd76e6f-8cf3-308b-acf6-eee28bf8b66e",
-      "title": "Nike Names Jane Ewing as Chief Commercial Officer",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nike-names-jane-ewing-chief-183023726.html",
-      "publisher": "MT Newswires",
-      "time": 1787855423,
+      "id": "d1915a94-08f2-3b4e-b431-6dbc1929b5ce",
+      "title": "Peekachu, rescued beluga whale, dies at Chicago's Shedd Aquarium",
+      "link": "https://finance.yahoo.com/m/d1915a94-08f2-3b4e-b431-6dbc1929b5ce/peekachu%2C-rescued-beluga.html",
+      "publisher": "USA TODAY",
+      "time": 1787882415,
       "impact": "low",
       "tags": []
     }
