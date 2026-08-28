@@ -1,71 +1,82 @@
 {
-  "updatedAt": "2026-08-28T14:28:14.391516+00:00",
+  "updatedAt": "2026-08-28T23:37:51.719712+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20043.3,
-      "change": 161.70000000000073,
-      "changePct": 0.813314823756643,
+      "price": 20041.9,
+      "change": 160.3000000000029,
+      "changePct": 0.8062731369708822,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7724.99,
-      "change": 49.289999999999964,
-      "changePct": 0.6421564157014991,
+      "price": 7711.76,
+      "change": 36.0600000000004,
+      "changePct": 0.46979428586318384,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26501.844,
-      "change": 371.64400000000023,
-      "changePct": 1.4222776710472946,
+      "price": 26402.424,
+      "change": 272.22399999999834,
+      "changePct": 1.0417983788872582,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26498.74,
-      "change": 212.78000000000247,
-      "changePct": 0.8094815635419155,
+      "price": 26569.99,
+      "change": 284.0300000000025,
+      "changePct": 1.0805388123545896,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6472.87,
-      "change": 48.14000000000033,
-      "changePct": 0.7492921881542155,
+      "price": 6485.67,
+      "change": 60.94000000000051,
+      "changePct": 0.9485223503555872,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.64,
-      "change": 0.13000000000000078,
-      "changePct": 0.8959338387319145,
+      "price": 14.43,
+      "change": -0.08000000000000007,
+      "changePct": -0.5513439007580984,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "03509968-452f-324e-a8c5-97150bc31be9",
-      "title": "Ulta Beauty raises full-year outlook after increase in Q2 sales",
-      "link": "https://finance.yahoo.com/m/03509968-452f-324e-a8c5-97150bc31be9/ulta-beauty-raises-full-year.html",
-      "publisher": "Retail Insight Network",
-      "time": 1787927118,
+      "id": "dcd4040d-1750-33bf-a01d-66f61960a324",
+      "title": "INTURAI VENTURES ANNOUNCES CLOSING OF FIRST TRANCHE OF PRIVATE PLACEMENT",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/inturai-ventures-announces-closing-first-233000396.html",
+      "publisher": "CNW Group",
+      "time": 1787959800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "baf22915-4141-32fa-9f3f-1a96986f29ce",
-      "title": "Rubrik Stock Is Falling After Earnings. Why the Reaction Doesn’t Make Sense.",
-      "link": "https://finance.yahoo.com/m/baf22915-4141-32fa-9f3f-1a96986f29ce/rubrik-stock-is-falling-after.html",
-      "publisher": "Barrons.com",
-      "time": 1787926980,
+      "id": "0b08bb63-4c28-345d-9c7c-0c90f849adcf",
+      "title": "Why Is Workday (WDAY) Stock Soaring Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-workday-wday-stock-soaring-232852623.html",
+      "publisher": "StockStory",
+      "time": 1787959732,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "66810847-a9a4-3fcb-b723-7f13ee6c8c80",
+      "title": "49-year-old Napa Valley winery files Chapter 11 bankruptcy",
+      "link": "https://finance.yahoo.com/m/66810847-a9a4-3fcb-b723-7f13ee6c8c80/49-year-old-napa-valley.html",
+      "publisher": "TheStreet",
+      "time": 1787959723,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,91 +84,74 @@
       ]
     },
     {
-      "id": "7f52e0f3-8ff3-3de4-bbb9-3142742ab8ef",
-      "title": "Marvell Guided to 50% Growth and the Stock Dropped 6%. Every AI Investor Should Read That Warning.",
-      "link": "https://finance.yahoo.com/m/7f52e0f3-8ff3-3de4-bbb9-3142742ab8ef/marvell-guided-to-50%25-growth.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1787926937,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
+      "id": "33e417f3-4bbc-3066-8a9b-01891362bb9a",
+      "title": "The missing in Nepal-Tibet flash floods",
+      "link": "https://finance.yahoo.com/m/33e417f3-4bbc-3066-8a9b-01891362bb9a/the-missing-in-nepal-tibet.html",
+      "publisher": "AFP",
+      "time": 1787959485,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "591458ed-11b2-3d8d-ab07-e2b6f5bed968",
-      "title": "If the Federal Reserve Hikes Interest Rates in 2026, History Has Good and Bad News for Investors",
-      "link": "https://finance.yahoo.com/m/591458ed-11b2-3d8d-ab07-e2b6f5bed968/if-the-federal-reserve-hikes.html",
-      "publisher": "Motley Fool",
-      "time": 1787926920,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "438fd11d-203c-314d-ae45-53f22c828784",
-      "title": "Warsh says Fed has 'work to do' if above-target inflation persists",
-      "link": "https://finance.yahoo.com/economy/policy/articles/warshs-jackson-hole-speech-course-050258340.html",
+      "id": "eaaa8451-7dce-3832-b959-38bf992c102f",
+      "title": "Trump announces sweeping US grab for control of Venezuela's vast oil reserves",
+      "link": "https://finance.yahoo.com/m/eaaa8451-7dce-3832-b959-38bf992c102f/trump-announces-sweeping-us.html",
       "publisher": "Reuters",
-      "time": 1787926855,
-      "impact": "high",
+      "time": 1787959375,
+      "impact": "medium",
       "tags": [
-        "geo",
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "f1621b92-9bde-3392-9cbb-ded6082fcec3",
+      "title": "Why PayPal (PYPL) Shares Are Plunging Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-paypal-pypl-shares-plunging-232052051.html",
+      "publisher": "StockStory",
+      "time": 1787959252,
+      "impact": "low",
+      "tags": [
         "macro"
       ]
     },
     {
-      "id": "c47743dd-11dc-3574-bcd3-2308b7b7f96f",
-      "title": "Nvidia Rethinks Major AI Strategy as Regulators Loom",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-rethinks-major-ai-strategy-142020047.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787926820,
+      "id": "21aa14b5-7904-3af5-a7cb-b1dc66c733f5",
+      "title": "Petrox Resources Corp. Announces Cooperation Agreement with PCC Digital and Bennu Holdings",
+      "link": "https://finance.yahoo.com/energy/articles/petrox-resources-corp-announces-cooperation-232000181.html",
+      "publisher": "TMX Newsfile",
+      "time": 1787959200,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2b5bead2-5862-3aa7-8135-afdd17f75c37",
-      "title": "Warren Buffett Thinks Investors Are \"Gambling\" Right Now. Here are 2 Stocks That Should Be Safe Bets.",
-      "link": "https://finance.yahoo.com/m/2b5bead2-5862-3aa7-8135-afdd17f75c37/warren-buffett-thinks.html",
-      "publisher": "Motley Fool",
-      "time": 1787926800,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
+      "id": "302111d7-319e-378f-b6f6-79231c25dfe2",
+      "title": "Gamma Resources Announces Increase in Private Placement to $1,750,000 and Closing of First Tranche at $872,500",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gamma-resources-announces-increase-private-231500426.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1787958900,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "9eebc03b-ba76-369b-8b22-e0d59b50c3da",
-      "title": "Statement - Government of Canada extends temporary border measures in response to Ebola disease outbreak",
-      "link": "https://finance.yahoo.com/healthcare/articles/statement-government-canada-extends-temporary-142000490.html",
+      "id": "b51714d7-2bec-3b42-bb76-686d591dbfc2",
+      "title": "Kimco Pairs Community Care with Exclusive Delta Controls Technology",
+      "link": "https://finance.yahoo.com/small-business/articles/kimco-pairs-community-care-exclusive-231400954.html",
       "publisher": "CNW Group",
-      "time": 1787926800,
+      "time": 1787958840,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "af609e0d-241a-3766-b67c-b22ac8fea8da",
-      "title": "Stock Market Today: Dow Rises As Warsh Speech Starts; Marvell, Affirm, PayPal Are Big Movers (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/af609e0d-241a-3766-b67c-b22ac8fea8da/stock-market-today%3A-dow-rises.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787926799,
-      "impact": "high",
+      "id": "052ff215-8d71-30a8-9f09-4db3086a6f78",
+      "title": "Why Are DraftKings (DKNG) Shares Soaring Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-draftkings-dkng-shares-soaring-231252544.html",
+      "publisher": "StockStory",
+      "time": 1787958772,
+      "impact": "low",
       "tags": [
-        "geo",
         "macro"
       ]
-    },
-    {
-      "id": "d9ed3dbe-dc43-3b72-af19-f83279daeabd",
-      "title": "Veteran Analyst Drops Surprise Take On Nvidia Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/veteran-analyst-drops-surprise-nvidia-141936485.html",
-      "publisher": "GuruFocus.com",
-      "time": 1787926776,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
