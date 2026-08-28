@@ -1,127 +1,71 @@
 {
-  "updatedAt": "2026-08-28T02:23:47.119947+00:00",
+  "updatedAt": "2026-08-28T14:28:14.391516+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19881.6,
-      "change": -185.70000000000073,
-      "changePct": -0.9253860758547524,
+      "price": 20043.3,
+      "change": 161.70000000000073,
+      "changePct": 0.813314823756643,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7730.99,
-      "change": 53.710000000000036,
-      "changePct": 0.6995967321759795,
+      "price": 7724.99,
+      "change": 49.289999999999964,
+      "changePct": 0.6421564157014991,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26541.352,
-      "change": 390.0519999999997,
-      "changePct": 1.4915204980249537,
+      "price": 26501.844,
+      "change": 371.64400000000023,
+      "changePct": 1.4222776710472946,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26367.24,
-      "change": 101.10000000000218,
-      "changePct": 0.38490619481965066,
+      "price": 26498.74,
+      "change": 212.78000000000247,
+      "changePct": 0.8094815635419155,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6424.73,
-      "change": -46.01000000000022,
-      "changePct": -0.7110469590804177,
+      "price": 6472.87,
+      "change": 48.14000000000033,
+      "changePct": 0.7492921881542155,
       "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.51,
-      "change": -0.7000000000000011,
-      "changePct": -4.602235371466148,
+      "price": 14.64,
+      "change": 0.13000000000000078,
+      "changePct": 0.8959338387319145,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "28709650-6bf3-32e0-9253-5d5f0e46e8fa",
-      "title": "Dow Jones Futures Rise With Fed Chief Warsh Due; Nvidia, These 7 Stocks Are In Buy Zones",
-      "link": "https://finance.yahoo.com/m/28709650-6bf3-32e0-9253-5d5f0e46e8fa/dow-jones-futures-rise-with.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787883584,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "c2c44244-526a-3cab-a5b7-2ecd6fe4bff2",
-      "title": "Tokyo core inflation creeps near BOJ's target, bolsters rate-hike chance",
-      "link": "https://finance.yahoo.com/economy/policy/articles/tokyo-core-inflation-accelerates-august-234449994.html",
-      "publisher": "Reuters",
-      "time": 1787883360,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "8a2e1c2c-3c8b-3ad8-9dc5-ff4087bfdf0d",
-      "title": "ASST Jumps Toward Best Month In Over A Year As BTC Holdings Grow, But Analyst Warns ‘Sell The Stock, Buy Bitcoin’",
-      "link": "https://finance.yahoo.com/m/8a2e1c2c-3c8b-3ad8-9dc5-ff4087bfdf0d/asst-jumps-toward-best-month.html",
-      "publisher": "Stocktwits",
-      "time": 1787883155,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "55e4d35d-ed14-3d5c-bc77-2c5787533f3e",
-      "title": "Why Semtech Stock Was Flying This Week",
-      "link": "https://finance.yahoo.com/m/55e4d35d-ed14-3d5c-bc77-2c5787533f3e/why-semtech-stock-was-flying.html",
-      "publisher": "Motley Fool",
-      "time": 1787882996,
+      "id": "03509968-452f-324e-a8c5-97150bc31be9",
+      "title": "Ulta Beauty raises full-year outlook after increase in Q2 sales",
+      "link": "https://finance.yahoo.com/m/03509968-452f-324e-a8c5-97150bc31be9/ulta-beauty-raises-full-year.html",
+      "publisher": "Retail Insight Network",
+      "time": 1787927118,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "95c52de6-1542-3cb3-8ad3-2721cc71575a",
-      "title": "Why Is Okta (OKTA) Stock Soaring Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-okta-okta-stock-soaring-020907162.html",
-      "publisher": "StockStory",
-      "time": 1787882947,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "82292f5c-b48c-33dc-a128-ced5612be55e",
-      "title": "The TV is no longer staying put: How Australians are changing the way they watch",
-      "link": "https://finance.yahoo.com/media-advertising/articles/tv-no-longer-staying-put-020700774.html",
-      "publisher": "PR Newswire",
-      "time": 1787882820,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a86fb106-6557-3e36-bf25-93689631d588",
-      "title": "Solstice Scraps Element Deal and Launches $500 Million Buyback",
-      "link": "https://finance.yahoo.com/energy/articles/solstice-scraps-element-deal-launches-020153888.html",
-      "publisher": "Oilprice.com",
-      "time": 1787882513,
+      "id": "baf22915-4141-32fa-9f3f-1a96986f29ce",
+      "title": "Rubrik Stock Is Falling After Earnings. Why the Reaction Doesn’t Make Sense.",
+      "link": "https://finance.yahoo.com/m/baf22915-4141-32fa-9f3f-1a96986f29ce/rubrik-stock-is-falling-after.html",
+      "publisher": "Barrons.com",
+      "time": 1787926980,
       "impact": "medium",
       "tags": [
         "macro",
@@ -129,31 +73,89 @@
       ]
     },
     {
-      "id": "8eab5a5c-e1a2-3281-b85f-312eda58b198",
-      "title": "CRM Q2 Deep Dive: AI-Powered Product Momentum and Flexible Pricing Drive Outperformance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/crm-q2-deep-dive-ai-020107840.html",
-      "publisher": "StockStory",
-      "time": 1787882467,
-      "impact": "low",
+      "id": "7f52e0f3-8ff3-3de4-bbb9-3142742ab8ef",
+      "title": "Marvell Guided to 50% Growth and the Stock Dropped 6%. Every AI Investor Should Read That Warning.",
+      "link": "https://finance.yahoo.com/m/7f52e0f3-8ff3-3de4-bbb9-3142742ab8ef/marvell-guided-to-50%25-growth.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1787926937,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "aa595ef0-2b0e-3c67-ba60-56b0d42a228e",
-      "title": "PayPal Dives As Advent-Stripe Group Said To Drop Pursuit Of Payments Giant",
-      "link": "https://finance.yahoo.com/m/aa595ef0-2b0e-3c67-ba60-56b0d42a228e/paypal-dives-as-advent-stripe.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1787882434,
+      "id": "591458ed-11b2-3d8d-ab07-e2b6f5bed968",
+      "title": "If the Federal Reserve Hikes Interest Rates in 2026, History Has Good and Bad News for Investors",
+      "link": "https://finance.yahoo.com/m/591458ed-11b2-3d8d-ab07-e2b6f5bed968/if-the-federal-reserve-hikes.html",
+      "publisher": "Motley Fool",
+      "time": 1787926920,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "438fd11d-203c-314d-ae45-53f22c828784",
+      "title": "Warsh says Fed has 'work to do' if above-target inflation persists",
+      "link": "https://finance.yahoo.com/economy/policy/articles/warshs-jackson-hole-speech-course-050258340.html",
+      "publisher": "Reuters",
+      "time": 1787926855,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "c47743dd-11dc-3574-bcd3-2308b7b7f96f",
+      "title": "Nvidia Rethinks Major AI Strategy as Regulators Loom",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-rethinks-major-ai-strategy-142020047.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787926820,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d1915a94-08f2-3b4e-b431-6dbc1929b5ce",
-      "title": "Peekachu, rescued beluga whale, dies at Chicago's Shedd Aquarium",
-      "link": "https://finance.yahoo.com/m/d1915a94-08f2-3b4e-b431-6dbc1929b5ce/peekachu%2C-rescued-beluga.html",
-      "publisher": "USA TODAY",
-      "time": 1787882415,
+      "id": "2b5bead2-5862-3aa7-8135-afdd17f75c37",
+      "title": "Warren Buffett Thinks Investors Are \"Gambling\" Right Now. Here are 2 Stocks That Should Be Safe Bets.",
+      "link": "https://finance.yahoo.com/m/2b5bead2-5862-3aa7-8135-afdd17f75c37/warren-buffett-thinks.html",
+      "publisher": "Motley Fool",
+      "time": 1787926800,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "9eebc03b-ba76-369b-8b22-e0d59b50c3da",
+      "title": "Statement - Government of Canada extends temporary border measures in response to Ebola disease outbreak",
+      "link": "https://finance.yahoo.com/healthcare/articles/statement-government-canada-extends-temporary-142000490.html",
+      "publisher": "CNW Group",
+      "time": 1787926800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "af609e0d-241a-3766-b67c-b22ac8fea8da",
+      "title": "Stock Market Today: Dow Rises As Warsh Speech Starts; Marvell, Affirm, PayPal Are Big Movers (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/af609e0d-241a-3766-b67c-b22ac8fea8da/stock-market-today%3A-dow-rises.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1787926799,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "d9ed3dbe-dc43-3b72-af19-f83279daeabd",
+      "title": "Veteran Analyst Drops Surprise Take On Nvidia Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/veteran-analyst-drops-surprise-nvidia-141936485.html",
+      "publisher": "GuruFocus.com",
+      "time": 1787926776,
       "impact": "low",
       "tags": []
     }
