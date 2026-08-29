@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T19:27:02.101151+00:00",
+  "updatedAt": "2026-08-29T21:52:29.575619+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6485.67,
       "change": 60.94000000000051,
       "changePct": 0.9485223503555872,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,95 +52,92 @@
   ],
   "news": [
     {
-      "id": "9c02726a-a5b5-3ae8-bbc0-53b91fd7e66d",
-      "title": "HP's $1,400 AI-enhanced laptop is 39% off at Amazon ahead of Labor Day",
-      "link": "https://finance.yahoo.com/m/9c02726a-a5b5-3ae8-bbc0-53b91fd7e66d/hp%27s-%241%2C400-ai-enhanced.html",
-      "publisher": "TheStreet",
-      "time": 1788030900,
+      "id": "36302091-9205-349b-9b7c-ef15b26fcb9a",
+      "title": "Where You Hold SCHD and MAIN Matters More Than You Think: The Taxable vs. IRA Math",
+      "link": "https://finance.yahoo.com/m/36302091-9205-349b-9b7c-ef15b26fcb9a/where-you-hold-schd-and-main.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1788039536,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ae4ef2c4-bdce-3bed-9968-96c7902c6f49",
-      "title": "Tiny Elversberg stun Leverkusen on Bundesliga debut, Dortmund beat Hamburg",
-      "link": "https://finance.yahoo.com/m/ae4ef2c4-bdce-3bed-9968-96c7902c6f49/tiny-elversberg-stun.html",
+      "id": "cb312ba4-d4cd-3745-8133-026043fa5f8a",
+      "title": "Atletico down Sevilla to go top of La Liga",
+      "link": "https://finance.yahoo.com/m/cb312ba4-d4cd-3745-8133-026043fa5f8a/atletico-down-sevilla-to-go.html",
       "publisher": "AFP",
-      "time": 1788030817,
+      "time": 1788039471,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "83ed7379-7f4a-3248-9047-d8f08413c3fb",
-      "title": "Munoz saves Iraola in Liverpool draw, big-spending Spurs lose again",
-      "link": "https://finance.yahoo.com/m/83ed7379-7f4a-3248-9047-d8f08413c3fb/munoz-saves-iraola-in.html",
-      "publisher": "AFP",
-      "time": 1788030732,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "94e0f2a3-291b-3394-bdbe-2c17a2853a7c",
-      "title": "If You'd Invested $1,000 in McDonald's 25 Years Ago, Here's How Much You'd Have Today",
-      "link": "https://finance.yahoo.com/m/94e0f2a3-291b-3394-bdbe-2c17a2853a7c/if-you%27d-invested-%241%2C000-in.html",
+      "id": "ac8eaab9-abe2-30e3-8e9f-ce689f198971",
+      "title": "Better International ETF: the iShares IEFA vs. State Street's SPDW",
+      "link": "https://finance.yahoo.com/m/ac8eaab9-abe2-30e3-8e9f-ce689f198971/better-international-etf%3A-the.html",
       "publisher": "Motley Fool",
-      "time": 1788030540,
+      "time": 1788038401,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4fcafc22-a96f-38ad-866a-bca925e8fd84",
-      "title": "Netanyahu condemns settler attack in flashpoint West Bank village",
-      "link": "https://finance.yahoo.com/m/4fcafc22-a96f-38ad-866a-bca925e8fd84/netanyahu-condemns-settler.html",
-      "publisher": "AFP",
-      "time": 1788030530,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "fa6270cd-7e4f-315d-a712-7ed12e71ff7d",
-      "title": "Ameresco CEO Sakellaris Buys 5,000 Shares for $113,300. Is This a Sign Renewable Energy Projects are Taking Off?",
-      "link": "https://finance.yahoo.com/m/fa6270cd-7e4f-315d-a712-7ed12e71ff7d/ameresco-ceo-sakellaris-buys.html",
+      "id": "3b802f6b-0df2-324f-96ac-cf5853d5a0ba",
+      "title": "Here's the Maximum Social Security Increase You Could Get From a 3.6% 2027 COLA",
+      "link": "https://finance.yahoo.com/m/3b802f6b-0df2-324f-96ac-cf5853d5a0ba/here%27s-the-maximum-social.html",
       "publisher": "Motley Fool",
-      "time": 1788030421,
+      "time": 1788038400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "607fd0b4-3f93-394f-81fb-098dcd4e2cfc",
-      "title": "Baker Hughes (BKR) Secures Order For 76 Gas Turbines",
-      "link": "https://finance.yahoo.com/energy/articles/baker-hughes-bkr-secures-order-190541756.html",
-      "publisher": "Simply Wall St.",
-      "time": 1788030341,
+      "id": "8b568475-568f-38a7-90de-fd3fbdfb98a6",
+      "title": "Lanny Davis Cites Possible Decision by Yosemite Park Service Staff for Favorable Environmental Reasons To Reduce Auto Pollution a Minor Land Swap With No Effect on Yosemite Parklands",
+      "link": "https://finance.yahoo.com/energy/articles/lanny-davis-cites-possible-decision-212000406.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1788038400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0fec3d27-6338-36dd-b8ba-540203dc4b99",
-      "title": "How Investors May Respond To Spotify (SPOT) Boosting Buybacks Amid Shifting Streaming Economics",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-spotify-spot-190525433.html",
-      "publisher": "Simply Wall St.",
-      "time": 1788030325,
+      "id": "340326ac-ccc7-372e-93b5-4cd867768a28",
+      "title": "Sewer district implements 2,500 gallon moratorium to prevent rain overload",
+      "link": "https://finance.yahoo.com/m/340326ac-ccc7-372e-93b5-4cd867768a28/sewer-district-implements.html",
+      "publisher": "Lockport Union-Sun & Journal, N.Y.",
+      "time": 1788038160,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ed74b8fe-2508-3a51-a8c7-c4b32fe66d94",
-      "title": "Modine Manufacturing (MOD) Beats On Data Center Growth, Is It Still 45% Undervalued?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/modine-manufacturing-mod-beats-data-190522036.html",
-      "publisher": "Simply Wall St.",
-      "time": 1788030322,
+      "id": "7b41005a-b93d-32ee-b504-fca9aff66846",
+      "title": "Rybakina eases injury fears ahead of US Open",
+      "link": "https://finance.yahoo.com/m/7b41005a-b93d-32ee-b504-fca9aff66846/rybakina-eases-injury-fears.html",
+      "publisher": "AFP",
+      "time": 1788038003,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "87c732ce-2657-3a96-9599-de5cdfee860a",
-      "title": "How Expanded Nuvaxovid Royalties and Partner-led Execution Could Shape Novavax’s (NVAX) Investment Narrative",
-      "link": "https://finance.yahoo.com/healthcare/articles/expanded-nuvaxovid-royalties-partner-led-190520474.html",
+      "id": "926260d9-3c4c-372e-a666-8231cc053ec0",
+      "title": "Niger junta says it is back in control after soldiers' mutiny",
+      "link": "https://finance.yahoo.com/m/926260d9-3c4c-372e-a666-8231cc053ec0/niger-junta-says-it-is-back.html",
+      "publisher": "AFP",
+      "time": 1788037834,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2beb9e67-ea3c-3392-a461-ba129680af09",
+      "title": "Strasbourg fight back to beat Lens in Ligue 1",
+      "link": "https://finance.yahoo.com/m/2beb9e67-ea3c-3392-a461-ba129680af09/strasbourg-fight-back-to-beat.html",
+      "publisher": "AFP",
+      "time": 1788037826,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "427dad14-307b-39ef-87cd-3f1c2df15f1f",
+      "title": "Has Jiangxi Qiyunshan Food (SEHK:2797) Run Too Far Ahead As Interim Results Near?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jiangxi-qiyunshan-food-sehk-2797-210639999.html",
       "publisher": "Simply Wall St.",
-      "time": 1788030320,
+      "time": 1788037599,
       "impact": "low",
       "tags": []
     }
