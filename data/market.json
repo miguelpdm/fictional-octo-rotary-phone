@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T21:52:29.575619+00:00",
+  "updatedAt": "2026-08-29T23:49:23.852348+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,94 +52,100 @@
   ],
   "news": [
     {
-      "id": "36302091-9205-349b-9b7c-ef15b26fcb9a",
-      "title": "Where You Hold SCHD and MAIN Matters More Than You Think: The Taxable vs. IRA Math",
-      "link": "https://finance.yahoo.com/m/36302091-9205-349b-9b7c-ef15b26fcb9a/where-you-hold-schd-and-main.html",
+      "id": "232026e9-2b93-3832-bccd-20843f753cc6",
+      "title": "Amazon's 3-drawer mini dresser is selling fast for only $31",
+      "link": "https://finance.yahoo.com/m/232026e9-2b93-3832-bccd-20843f753cc6/amazon%27s-3-drawer-mini.html",
+      "publisher": "TheStreet",
+      "time": 1788047100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4c42af40-1c93-34dc-9982-ade53f158b1f",
+      "title": "Amazon's $200 Ring doorbell camera keeps packages safe on your porch",
+      "link": "https://finance.yahoo.com/m/4c42af40-1c93-34dc-9982-ade53f158b1f/amazon%27s-%24200-ring-doorbell.html",
+      "publisher": "TheStreet",
+      "time": 1788047100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a3cdc276-527c-3738-922c-f66301dd5035",
+      "title": "Investors drop two-word verdict on Warsh’s Fed rate shift",
+      "link": "https://finance.yahoo.com/m/a3cdc276-527c-3738-922c-f66301dd5035/investors-drop-two-word.html",
+      "publisher": "TheStreet",
+      "time": 1788046620,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "fe93d3c2-f4a5-3a9d-90a3-faa56d6d9b0c",
+      "title": "Has Novo Nordisk Finally Found the Catalyst That Could Flip the Script on Eli Lilly?",
+      "link": "https://finance.yahoo.com/m/fe93d3c2-f4a5-3a9d-90a3-faa56d6d9b0c/has-novo-nordisk-finally.html",
+      "publisher": "Motley Fool",
+      "time": 1788046500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f5412d43-a67c-3522-85e8-3ea5dec25b94",
+      "title": "Hovland takes solo lead as McIlroy surges at Tour Championship",
+      "link": "https://finance.yahoo.com/m/f5412d43-a67c-3522-85e8-3ea5dec25b94/hovland-takes-solo-lead-as.html",
+      "publisher": "AFP",
+      "time": 1788046110,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "197cbfb7-b57c-3e83-8bc9-67e4d3c77675",
+      "title": "Billionaire Mark Cuban Is Not Impressed by Bitcoin's Recent Summer Rally. Here's What He's Not Telling You About Bitcoin.",
+      "link": "https://finance.yahoo.com/m/197cbfb7-b57c-3e83-8bc9-67e4d3c77675/billionaire-mark-cuban-is-not.html",
+      "publisher": "Motley Fool",
+      "time": 1788045720,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d4f5107f-fc51-3cbc-8182-19f7814d742c",
+      "title": "Prospera Energy Announces Two-Year Extension of Senior Term Loan and Repricing of Equity Financing",
+      "link": "https://finance.yahoo.com/energy/articles/prospera-energy-announces-two-extension-232000908.html",
+      "publisher": "TMX Newsfile",
+      "time": 1788045600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3613601f-1c79-31ee-aef7-ca8d98d52471",
+      "title": "Social Security’s $184,500 Wage Cap Isn’t Set in Stone. Here’s Exactly Who Would Pay More If It Moves",
+      "link": "https://finance.yahoo.com/m/3613601f-1c79-31ee-aef7-ca8d98d52471/social-security%E2%80%99s-%24184%2C500.html",
       "publisher": "24/7 Wall St.",
-      "time": 1788039536,
+      "time": 1788045072,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cb312ba4-d4cd-3745-8133-026043fa5f8a",
-      "title": "Atletico down Sevilla to go top of La Liga",
-      "link": "https://finance.yahoo.com/m/cb312ba4-d4cd-3745-8133-026043fa5f8a/atletico-down-sevilla-to-go.html",
-      "publisher": "AFP",
-      "time": 1788039471,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ac8eaab9-abe2-30e3-8e9f-ce689f198971",
-      "title": "Better International ETF: the iShares IEFA vs. State Street's SPDW",
-      "link": "https://finance.yahoo.com/m/ac8eaab9-abe2-30e3-8e9f-ce689f198971/better-international-etf%3A-the.html",
-      "publisher": "Motley Fool",
-      "time": 1788038401,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3b802f6b-0df2-324f-96ac-cf5853d5a0ba",
-      "title": "Here's the Maximum Social Security Increase You Could Get From a 3.6% 2027 COLA",
-      "link": "https://finance.yahoo.com/m/3b802f6b-0df2-324f-96ac-cf5853d5a0ba/here%27s-the-maximum-social.html",
-      "publisher": "Motley Fool",
-      "time": 1788038400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8b568475-568f-38a7-90de-fd3fbdfb98a6",
-      "title": "Lanny Davis Cites Possible Decision by Yosemite Park Service Staff for Favorable Environmental Reasons To Reduce Auto Pollution a Minor Land Swap With No Effect on Yosemite Parklands",
-      "link": "https://finance.yahoo.com/energy/articles/lanny-davis-cites-possible-decision-212000406.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1788038400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "340326ac-ccc7-372e-93b5-4cd867768a28",
-      "title": "Sewer district implements 2,500 gallon moratorium to prevent rain overload",
-      "link": "https://finance.yahoo.com/m/340326ac-ccc7-372e-93b5-4cd867768a28/sewer-district-implements.html",
-      "publisher": "Lockport Union-Sun & Journal, N.Y.",
-      "time": 1788038160,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7b41005a-b93d-32ee-b504-fca9aff66846",
-      "title": "Rybakina eases injury fears ahead of US Open",
-      "link": "https://finance.yahoo.com/m/7b41005a-b93d-32ee-b504-fca9aff66846/rybakina-eases-injury-fears.html",
-      "publisher": "AFP",
-      "time": 1788038003,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "926260d9-3c4c-372e-a666-8231cc053ec0",
-      "title": "Niger junta says it is back in control after soldiers' mutiny",
-      "link": "https://finance.yahoo.com/m/926260d9-3c4c-372e-a666-8231cc053ec0/niger-junta-says-it-is-back.html",
-      "publisher": "AFP",
-      "time": 1788037834,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2beb9e67-ea3c-3392-a461-ba129680af09",
-      "title": "Strasbourg fight back to beat Lens in Ligue 1",
-      "link": "https://finance.yahoo.com/m/2beb9e67-ea3c-3392-a461-ba129680af09/strasbourg-fight-back-to-beat.html",
-      "publisher": "AFP",
-      "time": 1788037826,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "427dad14-307b-39ef-87cd-3f1c2df15f1f",
-      "title": "Has Jiangxi Qiyunshan Food (SEHK:2797) Run Too Far Ahead As Interim Results Near?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jiangxi-qiyunshan-food-sehk-2797-210639999.html",
+      "id": "1fd5f233-91db-36a5-bedf-d0e7da3660ba",
+      "title": "Why Did Darling Ingredients (DAR) Move Today?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-darling-ingredients-dar-230700906.html",
       "publisher": "Simply Wall St.",
-      "time": 1788037599,
+      "time": 1788044820,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "2c2e0f62-789f-3835-afa0-e549792abedc",
+      "title": "Is Time Interconnect Technology (SEHK:1729) Expensive Following Strong Half Year Earnings And Its Dividend?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/time-interconnect-technology-sehk-1729-230631836.html",
+      "publisher": "Simply Wall St.",
+      "time": 1788044791,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
