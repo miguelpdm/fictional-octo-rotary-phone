@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T16:02:43.476274+00:00",
+  "updatedAt": "2026-08-29T19:27:02.101151+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6485.67,
       "change": 60.94000000000051,
       "changePct": 0.9485223503555872,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,95 +52,95 @@
   ],
   "news": [
     {
-      "id": "0ab9dc05-1269-31cf-b0d3-e72c613e6d6d",
-      "title": "Executive Sells Nearly 2,300 Shares of eBay Stock, Valued at More Than $235,000",
-      "link": "https://finance.yahoo.com/m/0ab9dc05-1269-31cf-b0d3-e72c613e6d6d/executive-sells-nearly-2%2C300.html",
-      "publisher": "Motley Fool",
-      "time": 1788019201,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4906b887-9bab-339d-bb0f-c2702c45cb49",
-      "title": "Nvidia's CFO Just Explained Why the AI Boom Is Eating Its Gross Margin -- and It's a Green Light for Micron",
-      "link": "https://finance.yahoo.com/m/4906b887-9bab-339d-bb0f-c2702c45cb49/nvidia%27s-cfo-just-explained.html",
-      "publisher": "Motley Fool",
-      "time": 1788018600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8612bdd2-ad8a-34c8-9249-583700d530ec",
-      "title": "Here's Exactly How Many ETF Shares You'd Need to Replace Your Salary With Dividends",
-      "link": "https://finance.yahoo.com/m/8612bdd2-ad8a-34c8-9249-583700d530ec/here%27s-exactly-how-many-etf.html",
-      "publisher": "Motley Fool",
-      "time": 1788018600,
+      "id": "9c02726a-a5b5-3ae8-bbc0-53b91fd7e66d",
+      "title": "HP's $1,400 AI-enhanced laptop is 39% off at Amazon ahead of Labor Day",
+      "link": "https://finance.yahoo.com/m/9c02726a-a5b5-3ae8-bbc0-53b91fd7e66d/hp%27s-%241%2C400-ai-enhanced.html",
+      "publisher": "TheStreet",
+      "time": 1788030900,
       "impact": "low",
       "tags": []
     },
     {
       "id": "ae4ef2c4-bdce-3bed-9968-96c7902c6f49",
-      "title": "Tiny Elversberg stun Leverkusen on Bundesliga debut",
+      "title": "Tiny Elversberg stun Leverkusen on Bundesliga debut, Dortmund beat Hamburg",
       "link": "https://finance.yahoo.com/m/ae4ef2c4-bdce-3bed-9968-96c7902c6f49/tiny-elversberg-stun.html",
       "publisher": "AFP",
-      "time": 1788018592,
+      "time": 1788030817,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4b887f71-781f-31ed-af5a-7c719c368844",
-      "title": "XRP’s Price Is Halfway Back to $3. Here’s What XRP Needs to Reclaim Its Old High",
-      "link": "https://finance.yahoo.com/m/4b887f71-781f-31ed-af5a-7c719c368844/xrp%E2%80%99s-price-is-halfway-back.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1788018268,
+      "id": "83ed7379-7f4a-3248-9047-d8f08413c3fb",
+      "title": "Munoz saves Iraola in Liverpool draw, big-spending Spurs lose again",
+      "link": "https://finance.yahoo.com/m/83ed7379-7f4a-3248-9047-d8f08413c3fb/munoz-saves-iraola-in.html",
+      "publisher": "AFP",
+      "time": 1788030732,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7c4dfc0d-c5dc-3efb-bcfc-11bf2f07f380",
-      "title": "Judge throws out KSM confession in 9/11 case in blow to prosecution",
-      "link": "https://finance.yahoo.com/m/7c4dfc0d-c5dc-3efb-bcfc-11bf2f07f380/judge-throws-out-ksm.html",
-      "publisher": "USA TODAY",
-      "time": 1788018173,
+      "id": "94e0f2a3-291b-3394-bdbe-2c17a2853a7c",
+      "title": "If You'd Invested $1,000 in McDonald's 25 Years Ago, Here's How Much You'd Have Today",
+      "link": "https://finance.yahoo.com/m/94e0f2a3-291b-3394-bdbe-2c17a2853a7c/if-you%27d-invested-%241%2C000-in.html",
+      "publisher": "Motley Fool",
+      "time": 1788030540,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d04ed24d-48e6-31ad-905d-c71c213cfc89",
-      "title": "Advance voter turnout for Hamilton East--Stoney Creek, Scarborough Southwest and York--Simcoe",
-      "link": "https://finance.yahoo.com/economy/policy/articles/advance-voter-turnout-hamilton-east-154000153.html",
-      "publisher": "CNW Group",
-      "time": 1788018000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "aa8f8717-2f46-3dd9-8601-06489bef4812",
-      "title": "Dolly Parton \"loved being called the book lady,\" charity president remembers",
-      "link": "https://finance.yahoo.com/m/aa8f8717-2f46-3dd9-8601-06489bef4812/dolly-parton-%22loved-being.html",
-      "publisher": "CBS News Videos",
-      "time": 1788017948,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0e0a6003-063d-3cbd-9d8e-0d5f611ca467",
-      "title": "The Next Palantir? 100 Federal Agencies Already Use Cloudflare, and It’s Cleared For More",
-      "link": "https://finance.yahoo.com/m/0e0a6003-063d-3cbd-9d8e-0d5f611ca467/the-next-palantir%3F-100.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1788017744,
-      "impact": "high",
+      "id": "4fcafc22-a96f-38ad-866a-bca925e8fd84",
+      "title": "Netanyahu condemns settler attack in flashpoint West Bank village",
+      "link": "https://finance.yahoo.com/m/4fcafc22-a96f-38ad-866a-bca925e8fd84/netanyahu-condemns-settler.html",
+      "publisher": "AFP",
+      "time": 1788030530,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "095b8779-f892-3452-967d-ddacf26a647d",
-      "title": "Russian strike blows up arms depot near Kyiv, killing 37",
-      "link": "https://finance.yahoo.com/m/095b8779-f892-3452-967d-ddacf26a647d/russian-strike-blows-up-arms.html",
-      "publisher": "AFP",
-      "time": 1788017702,
+      "id": "fa6270cd-7e4f-315d-a712-7ed12e71ff7d",
+      "title": "Ameresco CEO Sakellaris Buys 5,000 Shares for $113,300. Is This a Sign Renewable Energy Projects are Taking Off?",
+      "link": "https://finance.yahoo.com/m/fa6270cd-7e4f-315d-a712-7ed12e71ff7d/ameresco-ceo-sakellaris-buys.html",
+      "publisher": "Motley Fool",
+      "time": 1788030421,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "607fd0b4-3f93-394f-81fb-098dcd4e2cfc",
+      "title": "Baker Hughes (BKR) Secures Order For 76 Gas Turbines",
+      "link": "https://finance.yahoo.com/energy/articles/baker-hughes-bkr-secures-order-190541756.html",
+      "publisher": "Simply Wall St.",
+      "time": 1788030341,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0fec3d27-6338-36dd-b8ba-540203dc4b99",
+      "title": "How Investors May Respond To Spotify (SPOT) Boosting Buybacks Amid Shifting Streaming Economics",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-spotify-spot-190525433.html",
+      "publisher": "Simply Wall St.",
+      "time": 1788030325,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ed74b8fe-2508-3a51-a8c7-c4b32fe66d94",
+      "title": "Modine Manufacturing (MOD) Beats On Data Center Growth, Is It Still 45% Undervalued?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/modine-manufacturing-mod-beats-data-190522036.html",
+      "publisher": "Simply Wall St.",
+      "time": 1788030322,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "87c732ce-2657-3a96-9599-de5cdfee860a",
+      "title": "How Expanded Nuvaxovid Royalties and Partner-led Execution Could Shape Novavax’s (NVAX) Investment Narrative",
+      "link": "https://finance.yahoo.com/healthcare/articles/expanded-nuvaxovid-royalties-partner-led-190520474.html",
+      "publisher": "Simply Wall St.",
+      "time": 1788030320,
       "impact": "low",
       "tags": []
     }
