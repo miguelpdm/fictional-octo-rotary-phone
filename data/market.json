@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T21:19:49.111426+00:00",
+  "updatedAt": "2026-08-30T23:40:07.445736+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,94 +52,106 @@
   ],
   "news": [
     {
-      "id": "288933b5-8e3e-3349-957b-71793273c046",
-      "title": "Calhanoglu fires Inter to nervy Cagliari win, Como stun Napoli",
-      "link": "https://finance.yahoo.com/m/288933b5-8e3e-3349-957b-71793273c046/calhanoglu-fires-inter-to.html",
+      "id": "5851be5e-4456-36df-acc2-e391c82c51f8",
+      "title": "Dow Jones Futures Fall, Oil Prices Jump As U.S. Strikes Iran",
+      "link": "https://finance.yahoo.com/m/5851be5e-4456-36df-acc2-e391c82c51f8/dow-jones-futures-fall%2C-oil.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1788132866,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "a8628bba-9d08-3df6-95ae-d66ae76f54e1",
+      "title": "US strikes Iran for first time in a month, Tehran retaliates",
+      "link": "https://finance.yahoo.com/m/a8628bba-9d08-3df6-95ae-d66ae76f54e1/us-strikes-iran-for-first.html",
       "publisher": "AFP",
-      "time": 1788123974,
+      "time": 1788132443,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e209e130-29fc-39f6-971f-13328b1d9ba9",
-      "title": "The Plant Paid This Military Veteran $20,000 During the Layoff. Social Security Recorded None of It.",
-      "link": "https://finance.yahoo.com/m/e209e130-29fc-39f6-971f-13328b1d9ba9/the-plant-paid-this-military.html",
+      "id": "7de95f7d-b1f3-325c-8047-b8b68d80d7c1",
+      "title": "2 Dow Jones Stocks Down Over 20% I'd Buy on the Dip",
+      "link": "https://finance.yahoo.com/m/7de95f7d-b1f3-325c-8047-b8b68d80d7c1/2-dow-jones-stocks-down-over.html",
+      "publisher": "Motley Fool",
+      "time": 1788132300,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "757ba7da-10c6-3d4c-a3bc-c81effc0d954",
+      "title": "About 15 people missing after Grand Canyon flash flood",
+      "link": "https://finance.yahoo.com/m/757ba7da-10c6-3d4c-a3bc-c81effc0d954/about-15-people-missing-after.html",
+      "publisher": "AFP",
+      "time": 1788132113,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ba02333f-2e77-3d13-b533-e566acc2bcec",
+      "title": "One dead, 14 injured in Chicago mass shooting at park gathering",
+      "link": "https://finance.yahoo.com/m/ba02333f-2e77-3d13-b533-e566acc2bcec/one-dead%2C-14-injured-in.html",
+      "publisher": "USA TODAY",
+      "time": 1788131975,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "20692bbd-fd67-3a08-9ea7-8a236b0aa495",
+      "title": "Jim Cramer reveals his 20% rule for winning stocks",
+      "link": "https://finance.yahoo.com/m/20692bbd-fd67-3a08-9ea7-8a236b0aa495/jim-cramer-reveals-his-20%25.html",
+      "publisher": "TheStreet",
+      "time": 1788131820,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "e96e9bc6-b5e6-32c4-a97b-c4b286a7a4f9",
+      "title": "All eyes on Alcaraz as defending champ returns from injury at US Open",
+      "link": "https://finance.yahoo.com/m/e96e9bc6-b5e6-32c4-a97b-c4b286a7a4f9/all-eyes-on-alcaraz-as.html",
+      "publisher": "AFP",
+      "time": 1788131694,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e01a4bdf-82cf-3622-8cca-fe630cf77a23",
+      "title": "G20 countries should consider more trade barriers with China to cut imbalances, Bessent says",
+      "link": "https://finance.yahoo.com/news/g20-countries-consider-more-trade-230748099.html",
+      "publisher": "Reuters",
+      "time": 1788131268,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "ca4a66ce-4028-3f0d-a4bd-99bf875cdd92",
+      "title": "Ripple Is Now Brokering Wall Street Equities. Where Does XRP Fit?",
+      "link": "https://finance.yahoo.com/m/ca4a66ce-4028-3f0d-a4bd-99bf875cdd92/ripple-is-now-brokering-wall.html",
       "publisher": "24/7 Wall St.",
-      "time": 1788123822,
+      "time": 1788131256,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "808d5369-9d58-366a-b172-eee0d2228dcb",
-      "title": "Avanti Gold Announces Bought Deal Private Placement, Board Restructuring and Annual General Meeting",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/avanti-gold-announces-bought-deal-210000363.html",
-      "publisher": "TMX Newsfile",
-      "time": 1788123600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1223adbb-5c9d-3a37-b702-f1510bbc191e",
-      "title": "VB Health Advances Supplement Transparency by Publishing Detailed Certificate of Analysis Testing Online",
-      "link": "https://finance.yahoo.com/healthcare/articles/vb-health-advances-supplement-transparency-205500526.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788123300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "053ddb99-8578-3ae9-97ab-b6921bc81130",
-      "title": "Monaco beat Marseille to go top, Rosenior's Paris FC thump Nice",
-      "link": "https://finance.yahoo.com/m/053ddb99-8578-3ae9-97ab-b6921bc81130/monaco-beat-marseille-to-go.html",
-      "publisher": "AFP",
-      "time": 1788122736,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cc7c8e7f-3aa0-3aa6-b08e-84c400741afc",
-      "title": "Jim Cramer Says Marvell Is Expensive Unless Everything Works, and Then It Is Cheap",
-      "link": "https://finance.yahoo.com/m/cc7c8e7f-3aa0-3aa6-b08e-84c400741afc/jim-cramer-says-marvell-is.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1788122719,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "59da2d00-b01b-3300-9493-d309a2ef40cf",
-      "title": "ONEOK Announces Cash Tender Offers in Connection with $5 Billion Debt Repayment Plan",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oneok-announces-cash-tender-offers-204500063.html",
-      "publisher": "PR Newswire",
-      "time": 1788122700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b9522b0e-e28f-3faf-bf6b-192d226d2543",
-      "title": "Google Maps renames Lake Ontario 'Lake America' in US -- but not Canada",
-      "link": "https://finance.yahoo.com/m/b9522b0e-e28f-3faf-bf6b-192d226d2543/google-maps-renames-lake.html",
-      "publisher": "AFP",
-      "time": 1788122458,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4c50ada6-95b8-35ca-b0de-566df5f819ac",
-      "title": "ONEOK to Acquire Brazos Midstream's Permian Midland Basin Assets for $4.425 Billion",
-      "link": "https://finance.yahoo.com/energy/articles/oneok-acquire-brazos-midstreams-permian-204000836.html",
-      "publisher": "PR Newswire",
-      "time": 1788122400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "40e5ef50-20a7-34ef-be5c-ae3f761794ed",
-      "title": "From Pilot to Plumbing: DTCC Readies Tokenization for October Launch",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/pilot-plumbing-dtcc-readies-tokenization-203814957.html",
-      "publisher": "Forkast News",
-      "time": 1788122294,
-      "impact": "low",
-      "tags": []
+      "id": "3b79dca3-2dbb-3553-a3e1-a35bcc26e188",
+      "title": "NSK (TSE:6471) Stock Trades Below Fair Value Though Earnings Look Pricier",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nsk-tse-6471-stock-trades-230721096.html",
+      "publisher": "Simply Wall St.",
+      "time": 1788131241,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
