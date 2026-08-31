@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-31T02:55:28.383703+00:00",
+  "updatedAt": "2026-08-31T09:13:47.047647+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20041.9,
-      "change": 160.3000000000029,
-      "changePct": 0.8062731369708822,
+      "price": 20096.5,
+      "change": 54.599999999998545,
+      "changePct": 0.27242926069882867,
       "currency": "EUR"
     },
     {
@@ -28,124 +28,133 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26569.99,
-      "change": 284.0300000000025,
-      "changePct": 1.0805388123545896,
+      "price": 26415.94,
+      "change": 48.69999999999709,
+      "changePct": 0.18469889150323313,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6485.67,
-      "change": 60.94000000000051,
-      "changePct": 0.9485223503555872,
-      "currency": null
+      "price": 6474.46,
+      "change": -11.210000000000036,
+      "changePct": -0.17284258989433685,
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.43,
-      "change": -0.08000000000000007,
-      "changePct": -0.5513439007580984,
+      "price": 15.21,
+      "change": 0.7800000000000011,
+      "changePct": 5.405405405405413,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "cbbcf4c7-08e1-3c2f-ad4c-8620e6345b61",
-      "title": "Nepal buries dead as rescuers seek thousands missing",
-      "link": "https://finance.yahoo.com/m/cbbcf4c7-08e1-3c2f-ad4c-8620e6345b61/nepal-buries-dead-as-rescuers.html",
-      "publisher": "AFP",
-      "time": 1788143932,
+      "id": "8367ef73-0f3c-3324-84cd-a9930410c015",
+      "title": "Papulopustular Rosacea Market Report Now Available, Covers 11 Countries Across North America, Europe, and Asia-Pacific, Profiling Galderma, Journey Medical, Dermata Therapeutics, and Dr. Reddy's Laboratories",
+      "link": "https://finance.yahoo.com/healthcare/articles/papulopustular-rosacea-market-report-now-090500181.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788167100,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "8eb7b41b-47e7-381e-8e49-c25d847cf6f5",
+      "title": "Visa, Mastercard process first global payments in Syria",
+      "link": "https://finance.yahoo.com/m/8eb7b41b-47e7-381e-8e49-c25d847cf6f5/visa%2C-mastercard-process.html",
+      "publisher": "Electronic Payments",
+      "time": 1788167079,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5851be5e-4456-36df-acc2-e391c82c51f8",
-      "title": "Dow Jones Futures Fall, Oil Prices Pop As U.S. Strikes Iran",
-      "link": "https://finance.yahoo.com/m/5851be5e-4456-36df-acc2-e391c82c51f8/dow-jones-futures-fall%2C-oil.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1788143861,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e5981dc1-c082-311e-8697-c25bfee78b13",
-      "title": "Percheron Therapeutics receives $700,000 R&D rebate to support HMBD-002 cancer program",
-      "link": "https://finance.yahoo.com/m/e5981dc1-c082-311e-8697-c25bfee78b13/percheron-therapeutics.html",
-      "publisher": "Proactive",
-      "time": 1788143820,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3325f5ab-76bb-3a9d-9682-1dcfc18246cb",
-      "title": "ONEOK to Acquire Brazos Midland Gas Assets for $4.425 Billion",
-      "link": "https://finance.yahoo.com/energy/articles/oneok-acquire-brazos-midland-gas-023537851.html",
-      "publisher": "Oilprice.com",
-      "time": 1788143737,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "d0cfa0fe-9d88-30dc-ac69-fc9ef750bdf4",
-      "title": "Tesla's 2026 Capital Budget Skyrocketed to $25 Billion, With a Lot Going to Scaling Up Optimus",
-      "link": "https://finance.yahoo.com/m/d0cfa0fe-9d88-30dc-ac69-fc9ef750bdf4/tesla%27s-2026-capital-budget.html",
+      "id": "e461706b-7e51-3791-8fe3-5ba0134f3e97",
+      "title": "Johnson & Johnson Owns Stakes in 15 Stocks. Here's the Best of the Bunch.",
+      "link": "https://finance.yahoo.com/m/e461706b-7e51-3791-8fe3-5ba0134f3e97/johnson-%26-johnson-owns-stakes.html",
       "publisher": "Motley Fool",
-      "time": 1788143700,
+      "time": 1788167040,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "922197e0-cd7d-3004-b47d-0ba10a840ada",
-      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-      "link": "https://finance.yahoo.com/technology/ai/articles/u-building-barriers-around-drones-023400658.html",
-      "publisher": "TechCrunch",
-      "time": 1788143640,
-      "impact": "medium",
       "tags": [
-        "geo"
+        "macro"
       ]
     },
     {
-      "id": "d352ee16-0349-363f-8a39-577930725744",
-      "title": "Technology Empowers Elegance: LEPAS Redefines the New Energy Mobility Experience",
-      "link": "https://finance.yahoo.com/technology/articles/technology-empowers-elegance-lepas-redefines-023400716.html",
+      "id": "fe159416-2c66-3f7b-923c-492a88418815",
+      "title": "Lateral Flow Assay Market Size, Industry Dynamics, Opportunity Analysis and Forecast 2026-2035",
+      "link": "https://finance.yahoo.com/healthcare/articles/lateral-flow-assay-market-size-090400261.html",
       "publisher": "GlobeNewswire",
-      "time": 1788143640,
-      "impact": "low",
-      "tags": []
+      "time": 1788167040,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "00c986c2-aef9-395a-9946-1c0c5bc31311",
-      "title": "Walmart's $99 4-piece patio set comes with two armchairs, a loveseat, and a table",
-      "link": "https://finance.yahoo.com/m/00c986c2-aef9-395a-9946-1c0c5bc31311/walmart%27s-%2499-4-piece-patio.html",
-      "publisher": "TheStreet",
-      "time": 1788143400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a1442201-a9a5-3a86-9658-c9bb29d34a4e",
-      "title": "Momcozy Publishes a First-Year Guide to Everyday Baby Care and Safety",
-      "link": "https://finance.yahoo.com/healthcare/articles/momcozy-publishes-first-guide-everyday-023000990.html",
+      "id": "e33be0ba-88e7-360c-ad9d-17f07dce5de4",
+      "title": "Palmoplantar Pustulosis Market Report Now Available — Profiles AbbVie, Johnson & Johnson, Novartis, Amgen, UCB, and 4 Other Key Players, Segmented by Treatment Type and Distribution Channel",
+      "link": "https://finance.yahoo.com/healthcare/articles/palmoplantar-pustulosis-market-report-now-090300004.html",
       "publisher": "GlobeNewswire",
-      "time": 1788143400,
+      "time": 1788166980,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "fea5a5cf-4408-3392-ab7a-020f2cecf156",
+      "title": "Non-Melanoma Skin Cancer Market: Focus on Disease Indication, Treatment Type, Country and Region, 2025-2035",
+      "link": "https://finance.yahoo.com/healthcare/articles/non-melanoma-skin-cancer-market-090300846.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788166980,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "9fe12cd1-170d-3602-bcf8-77170efd47f0",
+      "title": "Riverview Bancorp Shareholders Back Directors, Pay Plan and 2026 Stock Purchase Plan",
+      "link": "https://finance.yahoo.com/m/9fe12cd1-170d-3602-bcf8-77170efd47f0/riverview-bancorp.html",
+      "publisher": "MarketBeat",
+      "time": 1788166914,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "14bfcb43-eec2-3a4f-ba5d-25b3d8bb54da",
+      "title": "Cancer Anorexia Market - A Global and Regional Analysis: Focus on Country and Region - Analysis and Forecast, 2025-2035",
+      "link": "https://finance.yahoo.com/healthcare/articles/cancer-anorexia-market-global-regional-090100530.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788166860,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9548ec20-17a3-3ac1-b262-25d8a006f8a2",
+      "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-fund-advisors-ltd-form-090100466.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788166860,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "eeb1d44c-239e-3eec-8b00-74db9d8d97de",
-      "title": "Global Tier-1 YFORE Introduces Mass-Produced Anti-Pinch Sensors",
-      "link": "https://finance.yahoo.com/technology/articles/global-tier-1-yfore-introduces-023000614.html",
+      "id": "a7785240-6e01-3d10-9d4d-20bf90dd07ac",
+      "title": "EQT closes combination with Coller Capital",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/eqt-closes-combination-coller-capital-090100532.html",
       "publisher": "PR Newswire",
-      "time": 1788143400,
+      "time": 1788166860,
       "impact": "low",
       "tags": []
     }
