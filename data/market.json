@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T23:40:07.445736+00:00",
+  "updatedAt": "2026-08-31T02:55:28.383703+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,20 @@
   ],
   "news": [
     {
+      "id": "cbbcf4c7-08e1-3c2f-ad4c-8620e6345b61",
+      "title": "Nepal buries dead as rescuers seek thousands missing",
+      "link": "https://finance.yahoo.com/m/cbbcf4c7-08e1-3c2f-ad4c-8620e6345b61/nepal-buries-dead-as-rescuers.html",
+      "publisher": "AFP",
+      "time": 1788143932,
+      "impact": "low",
+      "tags": []
+    },
+    {
       "id": "5851be5e-4456-36df-acc2-e391c82c51f8",
-      "title": "Dow Jones Futures Fall, Oil Prices Jump As U.S. Strikes Iran",
+      "title": "Dow Jones Futures Fall, Oil Prices Pop As U.S. Strikes Iran",
       "link": "https://finance.yahoo.com/m/5851be5e-4456-36df-acc2-e391c82c51f8/dow-jones-futures-fall%2C-oil.html",
       "publisher": "Investor's Business Daily",
-      "time": 1788132866,
+      "time": 1788143861,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,94 +73,81 @@
       ]
     },
     {
-      "id": "a8628bba-9d08-3df6-95ae-d66ae76f54e1",
-      "title": "US strikes Iran for first time in a month, Tehran retaliates",
-      "link": "https://finance.yahoo.com/m/a8628bba-9d08-3df6-95ae-d66ae76f54e1/us-strikes-iran-for-first.html",
-      "publisher": "AFP",
-      "time": 1788132443,
+      "id": "e5981dc1-c082-311e-8697-c25bfee78b13",
+      "title": "Percheron Therapeutics receives $700,000 R&D rebate to support HMBD-002 cancer program",
+      "link": "https://finance.yahoo.com/m/e5981dc1-c082-311e-8697-c25bfee78b13/percheron-therapeutics.html",
+      "publisher": "Proactive",
+      "time": 1788143820,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7de95f7d-b1f3-325c-8047-b8b68d80d7c1",
-      "title": "2 Dow Jones Stocks Down Over 20% I'd Buy on the Dip",
-      "link": "https://finance.yahoo.com/m/7de95f7d-b1f3-325c-8047-b8b68d80d7c1/2-dow-jones-stocks-down-over.html",
+      "id": "3325f5ab-76bb-3a9d-9682-1dcfc18246cb",
+      "title": "ONEOK to Acquire Brazos Midland Gas Assets for $4.425 Billion",
+      "link": "https://finance.yahoo.com/energy/articles/oneok-acquire-brazos-midland-gas-023537851.html",
+      "publisher": "Oilprice.com",
+      "time": 1788143737,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "d0cfa0fe-9d88-30dc-ac69-fc9ef750bdf4",
+      "title": "Tesla's 2026 Capital Budget Skyrocketed to $25 Billion, With a Lot Going to Scaling Up Optimus",
+      "link": "https://finance.yahoo.com/m/d0cfa0fe-9d88-30dc-ac69-fc9ef750bdf4/tesla%27s-2026-capital-budget.html",
       "publisher": "Motley Fool",
-      "time": 1788132300,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "757ba7da-10c6-3d4c-a3bc-c81effc0d954",
-      "title": "About 15 people missing after Grand Canyon flash flood",
-      "link": "https://finance.yahoo.com/m/757ba7da-10c6-3d4c-a3bc-c81effc0d954/about-15-people-missing-after.html",
-      "publisher": "AFP",
-      "time": 1788132113,
+      "time": 1788143700,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ba02333f-2e77-3d13-b533-e566acc2bcec",
-      "title": "One dead, 14 injured in Chicago mass shooting at park gathering",
-      "link": "https://finance.yahoo.com/m/ba02333f-2e77-3d13-b533-e566acc2bcec/one-dead%2C-14-injured-in.html",
-      "publisher": "USA TODAY",
-      "time": 1788131975,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "20692bbd-fd67-3a08-9ea7-8a236b0aa495",
-      "title": "Jim Cramer reveals his 20% rule for winning stocks",
-      "link": "https://finance.yahoo.com/m/20692bbd-fd67-3a08-9ea7-8a236b0aa495/jim-cramer-reveals-his-20%25.html",
-      "publisher": "TheStreet",
-      "time": 1788131820,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "e96e9bc6-b5e6-32c4-a97b-c4b286a7a4f9",
-      "title": "All eyes on Alcaraz as defending champ returns from injury at US Open",
-      "link": "https://finance.yahoo.com/m/e96e9bc6-b5e6-32c4-a97b-c4b286a7a4f9/all-eyes-on-alcaraz-as.html",
-      "publisher": "AFP",
-      "time": 1788131694,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e01a4bdf-82cf-3622-8cca-fe630cf77a23",
-      "title": "G20 countries should consider more trade barriers with China to cut imbalances, Bessent says",
-      "link": "https://finance.yahoo.com/news/g20-countries-consider-more-trade-230748099.html",
-      "publisher": "Reuters",
-      "time": 1788131268,
+      "id": "922197e0-cd7d-3004-b47d-0ba10a840ada",
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "link": "https://finance.yahoo.com/technology/ai/articles/u-building-barriers-around-drones-023400658.html",
+      "publisher": "TechCrunch",
+      "time": 1788143640,
       "impact": "medium",
       "tags": [
         "geo"
       ]
     },
     {
-      "id": "ca4a66ce-4028-3f0d-a4bd-99bf875cdd92",
-      "title": "Ripple Is Now Brokering Wall Street Equities. Where Does XRP Fit?",
-      "link": "https://finance.yahoo.com/m/ca4a66ce-4028-3f0d-a4bd-99bf875cdd92/ripple-is-now-brokering-wall.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1788131256,
+      "id": "d352ee16-0349-363f-8a39-577930725744",
+      "title": "Technology Empowers Elegance: LEPAS Redefines the New Energy Mobility Experience",
+      "link": "https://finance.yahoo.com/technology/articles/technology-empowers-elegance-lepas-redefines-023400716.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788143640,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3b79dca3-2dbb-3553-a3e1-a35bcc26e188",
-      "title": "NSK (TSE:6471) Stock Trades Below Fair Value Though Earnings Look Pricier",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nsk-tse-6471-stock-trades-230721096.html",
-      "publisher": "Simply Wall St.",
-      "time": 1788131241,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "00c986c2-aef9-395a-9946-1c0c5bc31311",
+      "title": "Walmart's $99 4-piece patio set comes with two armchairs, a loveseat, and a table",
+      "link": "https://finance.yahoo.com/m/00c986c2-aef9-395a-9946-1c0c5bc31311/walmart%27s-%2499-4-piece-patio.html",
+      "publisher": "TheStreet",
+      "time": 1788143400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a1442201-a9a5-3a86-9658-c9bb29d34a4e",
+      "title": "Momcozy Publishes a First-Year Guide to Everyday Baby Care and Safety",
+      "link": "https://finance.yahoo.com/healthcare/articles/momcozy-publishes-first-guide-everyday-023000990.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788143400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "eeb1d44c-239e-3eec-8b00-74db9d8d97de",
+      "title": "Global Tier-1 YFORE Introduces Mass-Produced Anti-Pinch Sensors",
+      "link": "https://finance.yahoo.com/technology/articles/global-tier-1-yfore-introduces-023000614.html",
+      "publisher": "PR Newswire",
+      "time": 1788143400,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
