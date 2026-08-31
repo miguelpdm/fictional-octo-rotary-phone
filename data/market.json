@@ -1,160 +1,154 @@
 {
-  "updatedAt": "2026-08-31T09:13:47.047647+00:00",
+  "updatedAt": "2026-08-31T17:10:09.166718+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20096.5,
-      "change": 54.599999999998545,
-      "changePct": 0.27242926069882867,
+      "price": 19974.1,
+      "change": -67.80000000000291,
+      "changePct": -0.3382912797688987,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7711.76,
-      "change": 36.0600000000004,
-      "changePct": 0.46979428586318384,
+      "price": 7673.98,
+      "change": -57.01000000000022,
+      "changePct": -0.7374217273596295,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26402.424,
-      "change": 272.22399999999834,
-      "changePct": 1.0417983788872582,
+      "price": 26298.344,
+      "change": -243.00599999999758,
+      "changePct": -0.9155751308806734,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26415.94,
-      "change": 48.69999999999709,
-      "changePct": 0.18469889150323313,
+      "price": 26258.11,
+      "change": -109.13000000000102,
+      "changePct": -0.4138848055389985,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6474.46,
-      "change": -11.210000000000036,
-      "changePct": -0.17284258989433685,
-      "currency": "EUR"
+      "price": 6420.16,
+      "change": -65.51000000000022,
+      "changePct": -1.0100729762692247,
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.21,
-      "change": 0.7800000000000011,
-      "changePct": 5.405405405405413,
+      "price": 15.16,
+      "change": 0.7300000000000004,
+      "changePct": 5.0589050589050615,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "8367ef73-0f3c-3324-84cd-a9930410c015",
-      "title": "Papulopustular Rosacea Market Report Now Available, Covers 11 Countries Across North America, Europe, and Asia-Pacific, Profiling Galderma, Journey Medical, Dermata Therapeutics, and Dr. Reddy's Laboratories",
-      "link": "https://finance.yahoo.com/healthcare/articles/papulopustular-rosacea-market-report-now-090500181.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788167100,
+      "id": "a1bddb83-306f-33a2-a303-b751192943ed",
+      "title": "2 Reasons to Like MYRG (and 1 Not So Much)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-myrg-1-not-170224197.html",
+      "publisher": "StockStory",
+      "time": 1788195744,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "8eb7b41b-47e7-381e-8e49-c25d847cf6f5",
-      "title": "Visa, Mastercard process first global payments in Syria",
-      "link": "https://finance.yahoo.com/m/8eb7b41b-47e7-381e-8e49-c25d847cf6f5/visa%2C-mastercard-process.html",
-      "publisher": "Electronic Payments",
-      "time": 1788167079,
+      "id": "0f44c1ae-ed24-3675-89f1-3125cddb109f",
+      "title": "Inpost SA (INPOY) (Q2 2026) Earnings Call Highlights: Record APM Expansion and FedEx ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/inpost-sa-inpoy-q2-2026-170205207.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788195725,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "5b792e02-7ef3-33a7-95d4-304c3cb5f15e",
+      "title": "Zcash On Track To Post Best Monthly Gain Since October 2025 – Grayscale Says AI Could Drive Demand Higher",
+      "link": "https://finance.yahoo.com/m/5b792e02-7ef3-33a7-95d4-304c3cb5f15e/zcash-on-track-to-post-best.html",
+      "publisher": "Stocktwits",
+      "time": 1788195609,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e461706b-7e51-3791-8fe3-5ba0134f3e97",
-      "title": "Johnson & Johnson Owns Stakes in 15 Stocks. Here's the Best of the Bunch.",
-      "link": "https://finance.yahoo.com/m/e461706b-7e51-3791-8fe3-5ba0134f3e97/johnson-%26-johnson-owns-stakes.html",
-      "publisher": "Motley Fool",
-      "time": 1788167040,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "fe159416-2c66-3f7b-923c-492a88418815",
-      "title": "Lateral Flow Assay Market Size, Industry Dynamics, Opportunity Analysis and Forecast 2026-2035",
-      "link": "https://finance.yahoo.com/healthcare/articles/lateral-flow-assay-market-size-090400261.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788167040,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e33be0ba-88e7-360c-ad9d-17f07dce5de4",
-      "title": "Palmoplantar Pustulosis Market Report Now Available — Profiles AbbVie, Johnson & Johnson, Novartis, Amgen, UCB, and 4 Other Key Players, Segmented by Treatment Type and Distribution Channel",
-      "link": "https://finance.yahoo.com/healthcare/articles/palmoplantar-pustulosis-market-report-now-090300004.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788166980,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "fea5a5cf-4408-3392-ab7a-020f2cecf156",
-      "title": "Non-Melanoma Skin Cancer Market: Focus on Disease Indication, Treatment Type, Country and Region, 2025-2035",
-      "link": "https://finance.yahoo.com/healthcare/articles/non-melanoma-skin-cancer-market-090300846.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788166980,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "9fe12cd1-170d-3602-bcf8-77170efd47f0",
-      "title": "Riverview Bancorp Shareholders Back Directors, Pay Plan and 2026 Stock Purchase Plan",
-      "link": "https://finance.yahoo.com/m/9fe12cd1-170d-3602-bcf8-77170efd47f0/riverview-bancorp.html",
-      "publisher": "MarketBeat",
-      "time": 1788166914,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "14bfcb43-eec2-3a4f-ba5d-25b3d8bb54da",
-      "title": "Cancer Anorexia Market - A Global and Regional Analysis: Focus on Country and Region - Analysis and Forecast, 2025-2035",
-      "link": "https://finance.yahoo.com/healthcare/articles/cancer-anorexia-market-global-regional-090100530.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788166860,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "9548ec20-17a3-3ac1-b262-25d8a006f8a2",
-      "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-fund-advisors-ltd-form-090100466.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788166860,
+      "id": "6df2c988-ac55-3ace-9186-13f733700efb",
+      "title": "Media Advisory: Lumberyard to Break Ground in Davis, Calif.",
+      "link": "https://finance.yahoo.com/real-estate/articles/media-advisory-lumberyard-break-ground-170000147.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1788195600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a7785240-6e01-3d10-9d4d-20bf90dd07ac",
-      "title": "EQT closes combination with Coller Capital",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/eqt-closes-combination-coller-capital-090100532.html",
+      "id": "6ee3dae1-1625-3dfb-80b6-2a76a293683c",
+      "title": "Will Customer Growth Support Essential Utilities ' Long-Term Earnings?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/customer-growth-support-essential-utilities-170000244.html",
+      "publisher": "Zacks",
+      "time": 1788195600,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9cfa5dcb-4ad5-3d47-9f58-b8e97e341b39",
+      "title": "Government of Canada and Gitanyow Nation Sign Incremental Fisheries Reconciliation Agreement",
+      "link": "https://finance.yahoo.com/economy/policy/articles/government-canada-gitanyow-nation-sign-170000737.html",
+      "publisher": "CNW Group",
+      "time": 1788195600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fed96e07-5517-355a-a194-10822c53bf17",
+      "title": "Jury hears closing arguments in Tupac Shakur murder trial",
+      "link": "https://finance.yahoo.com/m/fed96e07-5517-355a-a194-10822c53bf17/jury-hears-closing-arguments.html",
+      "publisher": "AFP",
+      "time": 1788195557,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "625f3c2b-85db-3cd6-8ed5-3f48f4bb53a2",
+      "title": "Sector Update: Healthcare",
+      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-165825738.html",
+      "publisher": "MT Newswires",
+      "time": 1788195505,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c3f0f64e-3406-3e21-a3a3-819b0ad80e2a",
+      "title": "SPLICE Software celebrates 20 years by deepening its commitment to customers.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/splice-software-celebrates-20-years-165800994.html",
       "publisher": "PR Newswire",
-      "time": 1788166860,
+      "time": 1788195480,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "fcfd4530-d368-356d-b5de-ad00f455c0e4",
+      "title": "Maniformer Surpasses One Million Hours of Real-World Data and Delivers 20,000th MEgo Device",
+      "link": "https://finance.yahoo.com/technology/ai/articles/maniformer-surpasses-one-million-hours-165800764.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788195480,
       "impact": "low",
       "tags": []
     }
