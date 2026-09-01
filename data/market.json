@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T19:08:07.918870+00:00",
+  "updatedAt": "2026-09-01T21:53:16.242318+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7625.95,
-      "change": -60.19000000000051,
-      "changePct": -0.7830978878865139,
+      "price": 7631.47,
+      "change": -54.67000000000007,
+      "changePct": -0.7112803045481877,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26086.25,
-      "change": -284.6399999999994,
-      "changePct": -1.0793719893412752,
+      "price": 26099.773,
+      "change": -271.11699999999837,
+      "changePct": -1.028091960491278,
       "currency": "USD"
     },
     {
@@ -44,37 +44,60 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.49,
-      "change": 1.5699999999999985,
-      "changePct": 10.522788203753342,
+      "price": 16.34,
+      "change": 1.42,
+      "changePct": 9.517426273458444,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "5bea09ad-5b0f-3f59-9158-8fc801b945e2",
-      "title": "Gold's Powerful Rally Runs Into a New Wall",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/golds-powerful-rally-runs-wall-190359442.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788289439,
+      "id": "49cd0543-dd6a-37fc-8ac7-62d714a8b185",
+      "title": "MongoDB Earnings Beat Expectations. Why the Stock Is Dropping Anyway.",
+      "link": "https://finance.yahoo.com/m/49cd0543-dd6a-37fc-8ac7-62d714a8b185/mongodb-earnings-beat.html",
+      "publisher": "Barrons.com",
+      "time": 1788299220,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "1ed41dd9-6d1f-30f9-9bb4-ad40d86cd76a",
+      "title": "Justice Department seizes Hamas assets in new crackdown",
+      "link": "https://finance.yahoo.com/m/1ed41dd9-6d1f-30f9-9bb4-ad40d86cd76a/justice-department-seizes.html",
+      "publisher": "TheStreet",
+      "time": 1788299169,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "26cc2c59-9ed3-356e-a7d8-1677c46ff2d4",
-      "title": "Micron Faces New Taiwan Risk as AI Demand Soars",
-      "link": "https://finance.yahoo.com/technology/articles/micron-faces-taiwan-risk-ai-190207012.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788289327,
+      "id": "7a9fdce5-6efe-316d-ac8b-272b87816e80",
+      "title": "IMF reaches agreement with Senegal on new $2.2 bn loan programme",
+      "link": "https://finance.yahoo.com/economy/policy/articles/imf-reaches-agreement-senegal-2-165349872.html",
+      "publisher": "AFP",
+      "time": 1788299040,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ea89cb13-daf0-3e8b-b0d3-b3b82cb51dcc",
-      "title": "Deutsche Bank Names 2 Stocks for AI's Next Wave",
-      "link": "https://finance.yahoo.com/technology/ai/articles/deutsche-bank-names-2-stocks-190047460.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788289247,
+      "id": "a7be71a2-8c19-3c4d-b5d0-5cdebc8ed82a",
+      "title": "Stock Market Today, Sept. 1: Intel Falls on Chip Stock Pressure",
+      "link": "https://finance.yahoo.com/m/a7be71a2-8c19-3c4d-b5d0-5cdebc8ed82a/stock-market-today%2C-sept.-1%3A.html",
+      "publisher": "Motley Fool",
+      "time": 1788299036,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "14190efc-f662-352b-b199-d23534880a3d",
+      "title": "PANW Stock In Focus — Palo Alto Networks Tops Q4 Estimates, Issues Upbeat FY27 Guidance",
+      "link": "https://finance.yahoo.com/m/14190efc-f662-352b-b199-d23534880a3d/panw-stock-in-focus-%E2%80%94-palo.html",
+      "publisher": "Stocktwits",
+      "time": 1788298984,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,80 +105,50 @@
       ]
     },
     {
-      "id": "3c39b8a0-4643-3ff3-9d12-4fedd2de07f4",
-      "title": "Edreams Odigeo SA (EDDRF) (Q1 2027) Earnings Call Highlights: Prime Membership Surges 8% to 8. ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/edreams-odigeo-sa-eddrf-q1-190036588.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788289236,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "c3208d32-cb22-39d9-955d-4b8772b6fa8b",
-      "title": "Medtronic PLC (MDT) (Q1 2027) Earnings Call Highlights: Strong Revenue Growth and Raised ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/medtronic-plc-mdt-q1-2027-190036091.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788289236,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "22440de9-ad4f-3618-a94e-6d94109197e3",
-      "title": "NIO Inc (NIO) (Q2 2026) Earnings Call Highlights: Record Revenue and Margins Amid Cost Pressures",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nio-inc-nio-q2-2026-190033371.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788289233,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "145f92bc-3d47-35c6-b482-e16bc2c838eb",
-      "title": "Sibanye Stillwater Ltd (SBSW) (H1 2026) Earnings Call Highlights: Record EBITDA and Debt ...",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/sibanye-stillwater-ltd-sbsw-h1-190030619.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788289230,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "86fdcbaa-4ba4-3949-aa2d-e454699a551b",
-      "title": "Keo Capital AB (FRA:7M7) (Q2 2026) Earnings Call Highlights: TPV Surges 90% QoQ, Energy ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/keo-capital-ab-fra-7m7-190028987.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788289228,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "da7c6a04-0beb-3de3-8388-28d04a0c218c",
-      "title": "Tesla Stock Faces Crucial Test After Mixed Europe Sales",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-faces-crucial-test-190007220.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788289207,
+      "id": "3775fa5a-89bd-32fe-ac2e-aa53e7ec6699",
+      "title": "The Most Important Commute by Zum Founder and CEO Ritu Narayan Named #1 Amazon Bestseller in Education Administration",
+      "link": "https://finance.yahoo.com/technology/articles/most-important-commute-zum-founder-214300665.html",
+      "publisher": "PR Newswire",
+      "time": 1788298980,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "18dc9a0b-e3a9-3eb4-b4bd-a2becff33f56",
-      "title": "Vadzo Imaging Validates Merlin-291CRS: 2MP Sony STARVIS IMX291 Low-Light USB Camera for Smart Surveillance",
-      "link": "https://finance.yahoo.com/technology/articles/vadzo-imaging-validates-merlin-291crs-190000182.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1788289200,
+      "id": "9397c258-9c5e-37d5-be06-ff3f8de64c55",
+      "title": "McDonald's Texas Meal releases with new themed collectible cups",
+      "link": "https://finance.yahoo.com/m/9397c258-9c5e-37d5-be06-ff3f8de64c55/mcdonald%27s-texas-meal.html",
+      "publisher": "USA TODAY",
+      "time": 1788298881,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7b5d89f7-e301-3b7d-aac5-d7f1c063fe80",
+      "title": "Bessent urges BOJ chief to combat weak yen with 'decisive' monetary steps",
+      "link": "https://finance.yahoo.com/economy/policy/articles/bessent-meets-bojs-ueda-calls-161844128.html",
+      "publisher": "Reuters",
+      "time": 1788298815,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4b4fa8ac-585a-3c4a-a54e-c1c81888a768",
+      "title": "Vinci Compass Investments Completes Navi Real Estate Platform Acquisition",
+      "link": "https://finance.yahoo.com/real-estate/articles/vinci-compass-investments-completes-navi-214001888.html",
+      "publisher": "MT Newswires",
+      "time": 1788298801,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "8ffc288e-4e8a-373f-bbd6-4c73621f055e",
+      "title": "Journey Announces Closing of Northwest Assets Disposition",
+      "link": "https://finance.yahoo.com/energy/articles/journey-announces-closing-northwest-assets-214000246.html",
+      "publisher": "TMX Newsfile",
+      "time": 1788298800,
       "impact": "low",
       "tags": []
     }
