@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T15:54:53.887386+00:00",
+  "updatedAt": "2026-09-01T19:08:07.918870+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7661.94,
-      "change": -24.200000000000728,
-      "changePct": -0.3148524486933718,
+      "price": 7625.95,
+      "change": -60.19000000000051,
+      "changePct": -0.7830978878865139,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26254.613,
-      "change": -116.27699999999822,
-      "changePct": -0.4409293732596747,
+      "price": 26086.25,
+      "change": -284.6399999999994,
+      "changePct": -1.0793719893412752,
       "currency": "USD"
     },
     {
@@ -44,102 +44,118 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.29,
-      "change": 0.3699999999999992,
-      "changePct": 2.4798927613940966,
+      "price": 16.49,
+      "change": 1.5699999999999985,
+      "changePct": 10.522788203753342,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "a1fed44f-73ec-3e42-9715-46b521959eac",
-      "title": "Automotive supplier YFore opens US manufacturing base in Georgia",
-      "link": "https://finance.yahoo.com/m/a1fed44f-73ec-3e42-9715-46b521959eac/automotive-supplier-yfore.html",
-      "publisher": "Just Auto",
-      "time": 1788277799,
+      "id": "5bea09ad-5b0f-3f59-9158-8fc801b945e2",
+      "title": "Gold's Powerful Rally Runs Into a New Wall",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/golds-powerful-rally-runs-wall-190359442.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788289439,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0d18baff-7ebb-3bb0-be6d-45759cb2f3da",
-      "title": "Lincoln, Kairoi’s Waterline Is Now Texas’ Tallest Tower",
-      "link": "https://finance.yahoo.com/m/0d18baff-7ebb-3bb0-be6d-45759cb2f3da/lincoln%2C-kairoi%E2%80%99s-waterline.html",
-      "publisher": "CRE Daily",
-      "time": 1788277768,
+      "id": "26cc2c59-9ed3-356e-a7d8-1677c46ff2d4",
+      "title": "Micron Faces New Taiwan Risk as AI Demand Soars",
+      "link": "https://finance.yahoo.com/technology/articles/micron-faces-taiwan-risk-ai-190207012.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788289327,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "16be6cbf-ac46-38ae-8ce7-8a2bf8ce1093",
-      "title": "NYSE Texas Grand Opening Cements Dallas Financial Hub",
-      "link": "https://finance.yahoo.com/m/16be6cbf-ac46-38ae-8ce7-8a2bf8ce1093/nyse-texas-grand-opening.html",
-      "publisher": "CRE Daily",
-      "time": 1788277731,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0835958f-db1f-3fe2-a94c-e2df6b98f50e",
-      "title": "Government borrowing costs rise again in fresh headache for global policymakers",
-      "link": "https://finance.yahoo.com/economy/policy/articles/global-bond-rout-deepens-japan-072708654.html",
-      "publisher": "Reuters",
-      "time": 1788277710,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ddaf8cfa-f4f6-3a9b-8543-4c96934d8699",
-      "title": "Ground Transportation Stocks Q2 Highlights: Saia (NASDAQ:SAIA)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ground-transportation-stocks-q2-highlights-154620441.html",
-      "publisher": "StockStory",
-      "time": 1788277580,
-      "impact": "low",
+      "id": "ea89cb13-daf0-3e8b-b0d3-b3b82cb51dcc",
+      "title": "Deutsche Bank Names 2 Stocks for AI's Next Wave",
+      "link": "https://finance.yahoo.com/technology/ai/articles/deutsche-bank-names-2-stocks-190047460.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788289247,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "5f0557d4-d362-3603-bd7a-7ed56d8d38b4",
-      "title": "Universal Aviation Begins Operations at Dammam’s New General Aviation Terminal",
-      "link": "https://finance.yahoo.com/real-estate/articles/universal-aviation-begins-operations-dammam-154600716.html",
-      "publisher": "Business Wire",
-      "time": 1788277560,
+      "id": "3c39b8a0-4643-3ff3-9d12-4fedd2de07f4",
+      "title": "Edreams Odigeo SA (EDDRF) (Q1 2027) Earnings Call Highlights: Prime Membership Surges 8% to 8. ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/edreams-odigeo-sa-eddrf-q1-190036588.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788289236,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "c3208d32-cb22-39d9-955d-4b8772b6fa8b",
+      "title": "Medtronic PLC (MDT) (Q1 2027) Earnings Call Highlights: Strong Revenue Growth and Raised ...",
+      "link": "https://finance.yahoo.com/healthcare/articles/medtronic-plc-mdt-q1-2027-190036091.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788289236,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "22440de9-ad4f-3618-a94e-6d94109197e3",
+      "title": "NIO Inc (NIO) (Q2 2026) Earnings Call Highlights: Record Revenue and Margins Amid Cost Pressures",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nio-inc-nio-q2-2026-190033371.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788289233,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "145f92bc-3d47-35c6-b482-e16bc2c838eb",
+      "title": "Sibanye Stillwater Ltd (SBSW) (H1 2026) Earnings Call Highlights: Record EBITDA and Debt ...",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/sibanye-stillwater-ltd-sbsw-h1-190030619.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788289230,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "86fdcbaa-4ba4-3949-aa2d-e454699a551b",
+      "title": "Keo Capital AB (FRA:7M7) (Q2 2026) Earnings Call Highlights: TPV Surges 90% QoQ, Energy ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/keo-capital-ab-fra-7m7-190028987.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788289228,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "da7c6a04-0beb-3de3-8388-28d04a0c218c",
+      "title": "Tesla Stock Faces Crucial Test After Mixed Europe Sales",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-faces-crucial-test-190007220.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788289207,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "06d3172f-f559-3ccf-a28b-861c59830704",
-      "title": "AquaFlow Technologies Helps Businesses Reduce Water Costs, With Savings of Up to 30%",
-      "link": "https://finance.yahoo.com/small-business/articles/aquaflow-technologies-helps-businesses-reduce-154500852.html",
-      "publisher": "PR Newswire",
-      "time": 1788277500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0c4aa4d5-cecb-3a79-acc8-0af0cf3c57af",
-      "title": "Arizona town's residents saw their water bills double in two years — but experts say high prices are a critical tool",
-      "link": "https://finance.yahoo.com/economy/policy/articles/arizona-towns-residents-saw-water-154500687.html",
-      "publisher": "Moneywise",
-      "time": 1788277500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3c82747f-4669-3afa-9c94-944db5836a8c",
-      "title": "Azelis: Transparency Notifications From UBS Group AG",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/azelis-transparency-notifications-ubs-group-154500668.html",
-      "publisher": "Business Wire",
-      "time": 1788277500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3ebfd291-b497-3b6a-afac-6734f7d9e394",
-      "title": "FRN Variable Rate Fix",
-      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-154500020.html",
-      "publisher": "Business Wire",
-      "time": 1788277500,
+      "id": "18dc9a0b-e3a9-3eb4-b4bd-a2becff33f56",
+      "title": "Vadzo Imaging Validates Merlin-291CRS: 2MP Sony STARVIS IMX291 Low-Light USB Camera for Smart Surveillance",
+      "link": "https://finance.yahoo.com/technology/articles/vadzo-imaging-validates-merlin-291crs-190000182.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1788289200,
       "impact": "low",
       "tags": []
     }
