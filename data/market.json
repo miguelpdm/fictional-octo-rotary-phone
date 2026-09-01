@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T01:03:36.133484+00:00",
+  "updatedAt": "2026-09-01T06:27:00.481013+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6420.16,
       "change": -65.51000000000022,
       "changePct": -1.0100729762692247,
-      "currency": null
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
@@ -52,124 +52,98 @@
   ],
   "news": [
     {
-      "id": "5977e50a-7c62-3900-bed7-a0bd3017effc",
-      "title": "Michael Hill International Ltd (ASX:MHJ) (FY 2026) Earnings Call Highlights: Record Revenue and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-hill-international-ltd-asx-010209692.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788224529,
-      "impact": "medium",
+      "id": "48e9fac1-ac62-3026-8bf6-2c0d2ceeafac",
+      "title": "Vicore Pharma to Participate in Upcoming Healthcare Conferences",
+      "link": "https://finance.yahoo.com/healthcare/articles/vicore-pharma-participate-upcoming-healthcare-062000900.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1788243600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c1d660d2-5cd5-3ebb-8a2a-32b08bc87cba",
+      "title": "Avicenna International Hospital Publishes Face and Neck Lift Patient Pathway for UK Patients",
+      "link": "https://finance.yahoo.com/healthcare/articles/avicenna-international-hospital-publishes-face-061700562.html",
+      "publisher": "TMX Newsfile",
+      "time": 1788243420,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "eef62921-2479-3326-89e1-2dfab84fe51d",
+      "title": "Director/PDMR Shareholding",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/director-pdmr-shareholding-061500157.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788243300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f94d128d-68ce-3d14-9910-6c1aaf1399bc",
+      "title": "IFA 2026: Premium brand AEG challenges the expected with its first ever pasta hob and a celebration of The Art of Hosting",
+      "link": "https://finance.yahoo.com/technology/articles/ifa-2026-premium-brand-aeg-061500884.html",
+      "publisher": "PR Newswire",
+      "time": 1788243300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e5103f60-8a17-3c81-b0a3-3705d124395b",
+      "title": "Former gang member found guilty of murdering Tupac Shakur",
+      "link": "https://finance.yahoo.com/m/e5103f60-8a17-3c81-b0a3-3705d124395b/former-gang-member-found.html",
+      "publisher": "AFP",
+      "time": 1788243281,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c087e339-e470-30ef-8aab-8da2a867d301",
+      "title": "German retail sales fall more than expected in July",
+      "link": "https://finance.yahoo.com/economy/articles/german-retail-sales-fall-more-061402673.html",
+      "publisher": "Reuters",
+      "time": 1788243242,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c5a59504-d627-3c5a-90db-056ebbc9bb5a",
+      "title": "APP Group and Charta Global Strengthen Access to the Sustainable Packaging Market at PPC Spring Meeting 2026",
+      "link": "https://finance.yahoo.com/energy/articles/app-group-charta-global-strengthen-061100066.html",
+      "publisher": "PR Newswire",
+      "time": 1788243060,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "d1b85761-5e91-33a7-9ec3-e2a19350325e",
-      "title": "Forvia SE (FURCF) (H1 2026) Earnings Call Highlights: Margin Expansion and Record Debt ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/forvia-se-furcf-h1-2026-010156550.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788224516,
+      "id": "1f4bd72b-fce6-39ab-b0d7-f804f06dbfe6",
+      "title": "ACG Metals Achieves First Copper Concentrate Production at Gediktepe",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/acg-metals-achieves-first-copper-061000342.html",
+      "publisher": "PR Newswire",
+      "time": 1788243000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6edc5245-55c4-3ec7-b50a-4997a0026890",
+      "title": "SLS, IBRX Stocks Post August Gains: Eli Lilly’s Latest $2.9B Deal Has Retail Traders Bracing For An ‘M&A Rampage’",
+      "link": "https://finance.yahoo.com/m/6edc5245-55c4-3ec7-b50a-4997a0026890/sls%2C-ibrx-stocks-post-august.html",
+      "publisher": "Stocktwits",
+      "time": 1788242969,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
     },
     {
-      "id": "b0f45399-d3a1-30a8-bea7-ba00eec1427a",
-      "title": "NetDragon Websoft Holdings Ltd (STU:3ND) (H1 2026) Earnings Call Highlights: AI-Driven ...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/netdragon-websoft-holdings-ltd-stu-010145186.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788224505,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "56c1717b-df8e-321b-be0f-cb07e7d83924",
-      "title": "Asseco Poland SA (ASOZF) (H1 2026) Earnings Call Highlights: Record Revenue and Profit Surge ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asseco-poland-sa-asozf-h1-010138692.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788224498,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e2857829-839f-3c12-9797-731cfefe7592",
-      "title": "Cathay Financial Holding Co Ltd (TPE:2882) (Q2 2026) Earnings Call Highlights: Record Net ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cathay-financial-holding-co-ltd-010135834.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788224495,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "10e0cc24-ea76-3526-bcc5-36df1adca48e",
-      "title": "Prudential PLC (PUK) (H1 2026) Earnings Call Highlights: Strong Growth and Strategic Progress",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prudential-plc-puk-h1-2026-010127022.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788224487,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "981f81da-3c9a-3927-a684-751450a59123",
-      "title": "Yeahka Ltd (YHEKF) (H1 2026) Earnings Call Highlights: Overseas GPV Surges 293% as Domestic ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/yeahka-ltd-yhekf-h1-2026-010119555.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788224479,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "05997629-5f38-34f6-847d-a9be4351e481",
-      "title": "Virgin Australia Holdings Ltd (ASX:VGN) (FY 2026) Earnings Call Highlights: Record Revenue and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/virgin-australia-holdings-ltd-asx-010116457.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788224476,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "84fe49a2-3c3e-3cb0-89f8-665f0f6e9e1f",
-      "title": "Channel Infrastructure NZ Ltd (ASX:CHI) (H1 2026) Earnings Call Highlights: Strong Results and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/channel-infrastructure-nz-ltd-asx-010115335.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788224475,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "b6abe9e6-b704-31eb-8540-868f13163266",
-      "title": "Ai-Media Technologies Ltd (AINHF) (FY 2026) Earnings Call Highlights: ARR Soars 50% to $36M as ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-media-technologies-ltd-ainhf-010100654.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788224460,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "4c361545-0173-3b2e-af2a-965be5e620be",
+      "title": "Analysts react to global bond selloff",
+      "link": "https://finance.yahoo.com/markets/articles/analysts-react-global-bond-selloff-055026990.html",
+      "publisher": "Reuters",
+      "time": 1788242967,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
