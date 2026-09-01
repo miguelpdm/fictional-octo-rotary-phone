@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-01T06:27:00.481013+00:00",
+  "updatedAt": "2026-09-01T11:54:02.473934+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19974.1,
-      "change": -67.80000000000291,
-      "changePct": -0.3382912797688987,
+      "price": 19821.5,
+      "change": -152.59999999999854,
+      "changePct": -0.7639893662292596,
       "currency": "EUR"
     },
     {
@@ -28,120 +28,122 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26258.11,
-      "change": -109.13000000000102,
-      "changePct": -0.4138848055389985,
+      "price": 25986.84,
+      "change": -271.27000000000044,
+      "changePct": -1.033090348086745,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6420.16,
-      "change": -65.51000000000022,
-      "changePct": -1.0100729762692247,
+      "price": 6379.93,
+      "change": -40.22999999999956,
+      "changePct": -0.6266198973234244,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.92,
-      "change": 0.4900000000000002,
-      "changePct": 3.395703395703397,
+      "price": 15.77,
+      "change": 0.8499999999999996,
+      "changePct": 5.697050938337799,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "48e9fac1-ac62-3026-8bf6-2c0d2ceeafac",
-      "title": "Vicore Pharma to Participate in Upcoming Healthcare Conferences",
-      "link": "https://finance.yahoo.com/healthcare/articles/vicore-pharma-participate-upcoming-healthcare-062000900.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1788243600,
+      "id": "adb7facd-dfb9-36c7-9bbc-af3068c30939",
+      "title": "How better tail spend data can strengthen medical device compliance",
+      "link": "https://finance.yahoo.com/m/adb7facd-dfb9-36c7-9bbc-af3068c30939/how-better-tail-spend-data.html",
+      "publisher": "Medical Device Network",
+      "time": 1788263221,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c1d660d2-5cd5-3ebb-8a2a-32b08bc87cba",
-      "title": "Avicenna International Hospital Publishes Face and Neck Lift Patient Pathway for UK Patients",
-      "link": "https://finance.yahoo.com/healthcare/articles/avicenna-international-hospital-publishes-face-061700562.html",
-      "publisher": "TMX Newsfile",
-      "time": 1788243420,
+      "id": "cc706529-ff13-353e-8d36-e922e8b7c00f",
+      "title": "Center for Metal Arts to host exhibit, conference",
+      "link": "https://finance.yahoo.com/m/cc706529-ff13-353e-8d36-e922e8b7c00f/center-for-metal-arts-to-host.html",
+      "publisher": "The Tribune-Democrat, Johnstown, Pa.",
+      "time": 1788263220,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "eef62921-2479-3326-89e1-2dfab84fe51d",
-      "title": "Director/PDMR Shareholding",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/director-pdmr-shareholding-061500157.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788243300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f94d128d-68ce-3d14-9910-6c1aaf1399bc",
-      "title": "IFA 2026: Premium brand AEG challenges the expected with its first ever pasta hob and a celebration of The Art of Hosting",
-      "link": "https://finance.yahoo.com/technology/articles/ifa-2026-premium-brand-aeg-061500884.html",
-      "publisher": "PR Newswire",
-      "time": 1788243300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e5103f60-8a17-3c81-b0a3-3705d124395b",
-      "title": "Former gang member found guilty of murdering Tupac Shakur",
-      "link": "https://finance.yahoo.com/m/e5103f60-8a17-3c81-b0a3-3705d124395b/former-gang-member-found.html",
-      "publisher": "AFP",
-      "time": 1788243281,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c087e339-e470-30ef-8aab-8da2a867d301",
-      "title": "German retail sales fall more than expected in July",
-      "link": "https://finance.yahoo.com/economy/articles/german-retail-sales-fall-more-061402673.html",
-      "publisher": "Reuters",
-      "time": 1788243242,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c5a59504-d627-3c5a-90db-056ebbc9bb5a",
-      "title": "APP Group and Charta Global Strengthen Access to the Sustainable Packaging Market at PPC Spring Meeting 2026",
-      "link": "https://finance.yahoo.com/energy/articles/app-group-charta-global-strengthen-061100066.html",
-      "publisher": "PR Newswire",
-      "time": 1788243060,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "1f4bd72b-fce6-39ab-b0d7-f804f06dbfe6",
-      "title": "ACG Metals Achieves First Copper Concentrate Production at Gediktepe",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/acg-metals-achieves-first-copper-061000342.html",
-      "publisher": "PR Newswire",
-      "time": 1788243000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6edc5245-55c4-3ec7-b50a-4997a0026890",
-      "title": "SLS, IBRX Stocks Post August Gains: Eli Lilly’s Latest $2.9B Deal Has Retail Traders Bracing For An ‘M&A Rampage’",
-      "link": "https://finance.yahoo.com/m/6edc5245-55c4-3ec7-b50a-4997a0026890/sls%2C-ibrx-stocks-post-august.html",
-      "publisher": "Stocktwits",
-      "time": 1788242969,
+      "id": "07f169a5-cc57-3338-aa6e-99205da92add",
+      "title": "Q2 Earnings Roundup: Charles Schwab (NYSE:SCHW) And The Rest Of The Investment Banking & Brokerage Segment",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-roundup-charles-schwab-114620141.html",
+      "publisher": "StockStory",
+      "time": 1788263180,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "4c361545-0173-3b2e-af2a-965be5e620be",
-      "title": "Analysts react to global bond selloff",
-      "link": "https://finance.yahoo.com/markets/articles/analysts-react-global-bond-selloff-055026990.html",
-      "publisher": "Reuters",
-      "time": 1788242967,
+      "id": "0d587afd-f430-3df1-a6e5-45af3bb1058e",
+      "title": "OSCP announces ArduPilot support across its MK2 IMU family",
+      "link": "https://finance.yahoo.com/technology/articles/oscp-announces-ardupilot-support-across-114600902.html",
+      "publisher": "CNW Group",
+      "time": 1788263160,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "02a4c499-8c75-3be0-a900-7b552f56c97f",
+      "title": "Allica Bank applies for banking licence in Sweden",
+      "link": "https://finance.yahoo.com/m/02a4c499-8c75-3be0-a900-7b552f56c97f/allica-bank-applies-for.html",
+      "publisher": "Retail Banker International",
+      "time": 1788263132,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "0b4050d6-9c4c-355b-b3c9-b0117700a5d9",
+      "title": "Northern Graphite Announces Second Quarter 2026 Results and Provides Corporate Update",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/northern-graphite-announces-second-quarter-114500889.html",
+      "publisher": "TMX Newsfile",
+      "time": 1788263100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "18a8d4ae-acfc-392d-875a-e5b5358d2bd0",
+      "title": "Unigold Announces Strong Community Support for Initiation of Neita Project Environmental and Social Impact Assessment",
+      "link": "https://finance.yahoo.com/energy/articles/unigold-announces-strong-community-support-114500104.html",
+      "publisher": "TMX Newsfile",
+      "time": 1788263100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2ee5969d-7308-3786-98ad-18140a886233",
+      "title": "XCF Global (NASDAQ:SAFX) Advances Commercial Execution: Produces 886,000+ Gallons of Renewable Diesel and Monetizes Initial 550,000 D4 RINs for $1.25 Million",
+      "link": "https://finance.yahoo.com/energy/articles/xcf-global-nasdaq-safx-advances-114500803.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1788263100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6571b895-5d33-316f-b97e-920549d5fc34",
+      "title": "Black Book Identifies Three Underreported Healthcare IT Capital Signals for 2027-2029",
+      "link": "https://finance.yahoo.com/healthcare/articles/black-book-identifies-three-underreported-114500788.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1788263100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "26dc7268-6c62-3638-baf2-86cd0618adfc",
+      "title": "Bell Copper Announces Results of 2026 Annual and Special General Meeting of Shareholders",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bell-copper-announces-results-2026-114400364.html",
+      "publisher": "TMX Newsfile",
+      "time": 1788263040,
       "impact": "low",
       "tags": []
     }
