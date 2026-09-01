@@ -1,149 +1,145 @@
 {
-  "updatedAt": "2026-09-01T11:54:02.473934+00:00",
+  "updatedAt": "2026-09-01T15:54:53.887386+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19821.5,
-      "change": -152.59999999999854,
-      "changePct": -0.7639893662292596,
+      "price": 19824.0,
+      "change": -150.09999999999854,
+      "changePct": -0.7514731577392652,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7686.14,
-      "change": -44.849999999999454,
-      "changePct": -0.5801326867580925,
+      "price": 7661.94,
+      "change": -24.200000000000728,
+      "changePct": -0.3148524486933718,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26370.889,
-      "change": -170.46099999999933,
-      "changePct": -0.6422469090683004,
+      "price": 26254.613,
+      "change": -116.27699999999822,
+      "changePct": -0.4409293732596747,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25986.84,
-      "change": -271.27000000000044,
-      "changePct": -1.033090348086745,
+      "price": 25970.11,
+      "change": -288.0,
+      "changePct": -1.0968039969365655,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6379.93,
-      "change": -40.22999999999956,
-      "changePct": -0.6266198973234244,
+      "price": 6368.98,
+      "change": -51.18000000000029,
+      "changePct": -0.7971763943577777,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.77,
-      "change": 0.8499999999999996,
-      "changePct": 5.697050938337799,
+      "price": 15.29,
+      "change": 0.3699999999999992,
+      "changePct": 2.4798927613940966,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "adb7facd-dfb9-36c7-9bbc-af3068c30939",
-      "title": "How better tail spend data can strengthen medical device compliance",
-      "link": "https://finance.yahoo.com/m/adb7facd-dfb9-36c7-9bbc-af3068c30939/how-better-tail-spend-data.html",
-      "publisher": "Medical Device Network",
-      "time": 1788263221,
+      "id": "a1fed44f-73ec-3e42-9715-46b521959eac",
+      "title": "Automotive supplier YFore opens US manufacturing base in Georgia",
+      "link": "https://finance.yahoo.com/m/a1fed44f-73ec-3e42-9715-46b521959eac/automotive-supplier-yfore.html",
+      "publisher": "Just Auto",
+      "time": 1788277799,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cc706529-ff13-353e-8d36-e922e8b7c00f",
-      "title": "Center for Metal Arts to host exhibit, conference",
-      "link": "https://finance.yahoo.com/m/cc706529-ff13-353e-8d36-e922e8b7c00f/center-for-metal-arts-to-host.html",
-      "publisher": "The Tribune-Democrat, Johnstown, Pa.",
-      "time": 1788263220,
+      "id": "0d18baff-7ebb-3bb0-be6d-45759cb2f3da",
+      "title": "Lincoln, Kairoi’s Waterline Is Now Texas’ Tallest Tower",
+      "link": "https://finance.yahoo.com/m/0d18baff-7ebb-3bb0-be6d-45759cb2f3da/lincoln%2C-kairoi%E2%80%99s-waterline.html",
+      "publisher": "CRE Daily",
+      "time": 1788277768,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "07f169a5-cc57-3338-aa6e-99205da92add",
-      "title": "Q2 Earnings Roundup: Charles Schwab (NYSE:SCHW) And The Rest Of The Investment Banking & Brokerage Segment",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-roundup-charles-schwab-114620141.html",
+      "id": "16be6cbf-ac46-38ae-8ce7-8a2bf8ce1093",
+      "title": "NYSE Texas Grand Opening Cements Dallas Financial Hub",
+      "link": "https://finance.yahoo.com/m/16be6cbf-ac46-38ae-8ce7-8a2bf8ce1093/nyse-texas-grand-opening.html",
+      "publisher": "CRE Daily",
+      "time": 1788277731,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0835958f-db1f-3fe2-a94c-e2df6b98f50e",
+      "title": "Government borrowing costs rise again in fresh headache for global policymakers",
+      "link": "https://finance.yahoo.com/economy/policy/articles/global-bond-rout-deepens-japan-072708654.html",
+      "publisher": "Reuters",
+      "time": 1788277710,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ddaf8cfa-f4f6-3a9b-8543-4c96934d8699",
+      "title": "Ground Transportation Stocks Q2 Highlights: Saia (NASDAQ:SAIA)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ground-transportation-stocks-q2-highlights-154620441.html",
       "publisher": "StockStory",
-      "time": 1788263180,
-      "impact": "medium",
+      "time": 1788277580,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "0d587afd-f430-3df1-a6e5-45af3bb1058e",
-      "title": "OSCP announces ArduPilot support across its MK2 IMU family",
-      "link": "https://finance.yahoo.com/technology/articles/oscp-announces-ardupilot-support-across-114600902.html",
-      "publisher": "CNW Group",
-      "time": 1788263160,
+      "id": "5f0557d4-d362-3603-bd7a-7ed56d8d38b4",
+      "title": "Universal Aviation Begins Operations at Dammam’s New General Aviation Terminal",
+      "link": "https://finance.yahoo.com/real-estate/articles/universal-aviation-begins-operations-dammam-154600716.html",
+      "publisher": "Business Wire",
+      "time": 1788277560,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "02a4c499-8c75-3be0-a900-7b552f56c97f",
-      "title": "Allica Bank applies for banking licence in Sweden",
-      "link": "https://finance.yahoo.com/m/02a4c499-8c75-3be0-a900-7b552f56c97f/allica-bank-applies-for.html",
-      "publisher": "Retail Banker International",
-      "time": 1788263132,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "0b4050d6-9c4c-355b-b3c9-b0117700a5d9",
-      "title": "Northern Graphite Announces Second Quarter 2026 Results and Provides Corporate Update",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/northern-graphite-announces-second-quarter-114500889.html",
-      "publisher": "TMX Newsfile",
-      "time": 1788263100,
+      "id": "06d3172f-f559-3ccf-a28b-861c59830704",
+      "title": "AquaFlow Technologies Helps Businesses Reduce Water Costs, With Savings of Up to 30%",
+      "link": "https://finance.yahoo.com/small-business/articles/aquaflow-technologies-helps-businesses-reduce-154500852.html",
+      "publisher": "PR Newswire",
+      "time": 1788277500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "18a8d4ae-acfc-392d-875a-e5b5358d2bd0",
-      "title": "Unigold Announces Strong Community Support for Initiation of Neita Project Environmental and Social Impact Assessment",
-      "link": "https://finance.yahoo.com/energy/articles/unigold-announces-strong-community-support-114500104.html",
-      "publisher": "TMX Newsfile",
-      "time": 1788263100,
+      "id": "0c4aa4d5-cecb-3a79-acc8-0af0cf3c57af",
+      "title": "Arizona town's residents saw their water bills double in two years — but experts say high prices are a critical tool",
+      "link": "https://finance.yahoo.com/economy/policy/articles/arizona-towns-residents-saw-water-154500687.html",
+      "publisher": "Moneywise",
+      "time": 1788277500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2ee5969d-7308-3786-98ad-18140a886233",
-      "title": "XCF Global (NASDAQ:SAFX) Advances Commercial Execution: Produces 886,000+ Gallons of Renewable Diesel and Monetizes Initial 550,000 D4 RINs for $1.25 Million",
-      "link": "https://finance.yahoo.com/energy/articles/xcf-global-nasdaq-safx-advances-114500803.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1788263100,
+      "id": "3c82747f-4669-3afa-9c94-944db5836a8c",
+      "title": "Azelis: Transparency Notifications From UBS Group AG",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/azelis-transparency-notifications-ubs-group-154500668.html",
+      "publisher": "Business Wire",
+      "time": 1788277500,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6571b895-5d33-316f-b97e-920549d5fc34",
-      "title": "Black Book Identifies Three Underreported Healthcare IT Capital Signals for 2027-2029",
-      "link": "https://finance.yahoo.com/healthcare/articles/black-book-identifies-three-underreported-114500788.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1788263100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "26dc7268-6c62-3638-baf2-86cd0618adfc",
-      "title": "Bell Copper Announces Results of 2026 Annual and Special General Meeting of Shareholders",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bell-copper-announces-results-2026-114400364.html",
-      "publisher": "TMX Newsfile",
-      "time": 1788263040,
+      "id": "3ebfd291-b497-3b6a-afac-6734f7d9e394",
+      "title": "FRN Variable Rate Fix",
+      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-154500020.html",
+      "publisher": "Business Wire",
+      "time": 1788277500,
       "impact": "low",
       "tags": []
     }
