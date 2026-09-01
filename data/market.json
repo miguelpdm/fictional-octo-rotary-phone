@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T21:53:16.242318+00:00",
+  "updatedAt": "2026-09-01T23:43:26.490216+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,103 +52,95 @@
   ],
   "news": [
     {
-      "id": "49cd0543-dd6a-37fc-8ac7-62d714a8b185",
-      "title": "MongoDB Earnings Beat Expectations. Why the Stock Is Dropping Anyway.",
-      "link": "https://finance.yahoo.com/m/49cd0543-dd6a-37fc-8ac7-62d714a8b185/mongodb-earnings-beat.html",
-      "publisher": "Barrons.com",
-      "time": 1788299220,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "0f697698-63fa-3922-b7dd-fb55b72f5619",
+      "title": "Zuckerberg, Musk Press G20 Ministers on AI Data Center Power, Labor Needs",
+      "link": "https://finance.yahoo.com/technology/ai/articles/zuckerberg-musk-press-g20-ministers-233922801.html",
+      "publisher": "MT Newswires",
+      "time": 1788305962,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "1ed41dd9-6d1f-30f9-9bb4-ad40d86cd76a",
-      "title": "Justice Department seizes Hamas assets in new crackdown",
-      "link": "https://finance.yahoo.com/m/1ed41dd9-6d1f-30f9-9bb4-ad40d86cd76a/justice-department-seizes.html",
+      "id": "45421b67-317a-331c-972c-b5878e0f71f1",
+      "title": "Pennsylvania Gov. Shapiro Criticizes Data Center Developers",
+      "link": "https://finance.yahoo.com/technology/ai/articles/pennsylvania-gov-shapiro-criticizes-data-233815577.html",
+      "publisher": "MT Newswires",
+      "time": 1788305895,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9aa09f9c-ff0e-3d22-968c-55476313165c",
+      "title": "The surprising country where the fewest people own passports",
+      "link": "https://finance.yahoo.com/m/9aa09f9c-ff0e-3d22-968c-55476313165c/the-surprising-country-where.html",
       "publisher": "TheStreet",
-      "time": 1788299169,
+      "time": 1788305820,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7a9fdce5-6efe-316d-ac8b-272b87816e80",
-      "title": "IMF reaches agreement with Senegal on new $2.2 bn loan programme",
-      "link": "https://finance.yahoo.com/economy/policy/articles/imf-reaches-agreement-senegal-2-165349872.html",
-      "publisher": "AFP",
-      "time": 1788299040,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a7be71a2-8c19-3c4d-b5d0-5cdebc8ed82a",
-      "title": "Stock Market Today, Sept. 1: Intel Falls on Chip Stock Pressure",
-      "link": "https://finance.yahoo.com/m/a7be71a2-8c19-3c4d-b5d0-5cdebc8ed82a/stock-market-today%2C-sept.-1%3A.html",
-      "publisher": "Motley Fool",
-      "time": 1788299036,
-      "impact": "low",
+      "id": "4e0e5430-c192-3783-8987-73e20dcc03f5",
+      "title": "South Korea inflation quickens on one-off factor, still lower than expected",
+      "link": "https://finance.yahoo.com/economy/articles/south-korea-august-inflation-3-230957317.html",
+      "publisher": "Reuters",
+      "time": 1788305577,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "14190efc-f662-352b-b199-d23534880a3d",
-      "title": "PANW Stock In Focus — Palo Alto Networks Tops Q4 Estimates, Issues Upbeat FY27 Guidance",
-      "link": "https://finance.yahoo.com/m/14190efc-f662-352b-b199-d23534880a3d/panw-stock-in-focus-%E2%80%94-palo.html",
-      "publisher": "Stocktwits",
-      "time": 1788298984,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "3775fa5a-89bd-32fe-ac2e-aa53e7ec6699",
-      "title": "The Most Important Commute by Zum Founder and CEO Ritu Narayan Named #1 Amazon Bestseller in Education Administration",
-      "link": "https://finance.yahoo.com/technology/articles/most-important-commute-zum-founder-214300665.html",
-      "publisher": "PR Newswire",
-      "time": 1788298980,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9397c258-9c5e-37d5-be06-ff3f8de64c55",
-      "title": "McDonald's Texas Meal releases with new themed collectible cups",
-      "link": "https://finance.yahoo.com/m/9397c258-9c5e-37d5-be06-ff3f8de64c55/mcdonald%27s-texas-meal.html",
+      "id": "2c895fe5-4903-37a6-9d7b-06da21a37b3f",
+      "title": "US jobs most likely to grow or shrink in the next decade. See list",
+      "link": "https://finance.yahoo.com/m/2c895fe5-4903-37a6-9d7b-06da21a37b3f/us-jobs-most-likely-to-grow.html",
       "publisher": "USA TODAY",
-      "time": 1788298881,
+      "time": 1788305558,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7b5d89f7-e301-3b7d-aac5-d7f1c063fe80",
-      "title": "Bessent urges BOJ chief to combat weak yen with 'decisive' monetary steps",
-      "link": "https://finance.yahoo.com/economy/policy/articles/bessent-meets-bojs-ueda-calls-161844128.html",
-      "publisher": "Reuters",
-      "time": 1788298815,
+      "id": "2fb45f50-438b-3d81-a50f-335f49fb888e",
+      "title": "Coco Gauff Kicks Off US Open Run in Custom Navy New Balance Look and a New Colorway of Her CG2 Signature Shoes",
+      "link": "https://finance.yahoo.com/m/2fb45f50-438b-3d81-a50f-335f49fb888e/coco-gauff-kicks-off-us-open.html",
+      "publisher": "Footwear News",
+      "time": 1788305551,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4b4fa8ac-585a-3c4a-a54e-c1c81888a768",
-      "title": "Vinci Compass Investments Completes Navi Real Estate Platform Acquisition",
-      "link": "https://finance.yahoo.com/real-estate/articles/vinci-compass-investments-completes-navi-214001888.html",
-      "publisher": "MT Newswires",
-      "time": 1788298801,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "0a04059c-fa0f-39ed-b148-710c0667d613",
+      "title": "Luncheon teaches businesses how to host interns",
+      "link": "https://finance.yahoo.com/m/0a04059c-fa0f-39ed-b148-710c0667d613/luncheon-teaches-businesses.html",
+      "publisher": "The Lima News, Ohio",
+      "time": 1788305460,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "8ffc288e-4e8a-373f-bbd6-4c73621f055e",
-      "title": "Journey Announces Closing of Northwest Assets Disposition",
-      "link": "https://finance.yahoo.com/energy/articles/journey-announces-closing-northwest-assets-214000246.html",
+      "id": "d6df5ff0-8bbf-38cf-a655-cff8bde27726",
+      "title": "Desert Hope Treatment Center Addresses Community Need for Increased Addiction Services with New Virtual Program",
+      "link": "https://finance.yahoo.com/healthcare/articles/desert-hope-treatment-center-addresses-233000358.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788305400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f675a16c-e90a-3bff-a924-b16398858539",
+      "title": "Kareem's Lebanese Kitchen Opens Its Doors with Ribbon Cutting in Gaithersburg",
+      "link": "https://finance.yahoo.com/small-business/articles/kareems-lebanese-kitchen-opens-doors-233000425.html",
+      "publisher": "PR Newswire",
+      "time": 1788305400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8a7ca0b4-f411-33f1-aab6-fcdb5b65331a",
+      "title": "Austral Gold Appoints Jorge Sanguin as SVP of Operations",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/austral-gold-appoints-jorge-sanguin-232900802.html",
       "publisher": "TMX Newsfile",
-      "time": 1788298800,
+      "time": 1788305340,
       "impact": "low",
       "tags": []
     }
