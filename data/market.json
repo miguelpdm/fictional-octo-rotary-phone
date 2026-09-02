@@ -1,161 +1,150 @@
 {
-  "updatedAt": "2026-09-02T07:13:53.948527+00:00",
+  "updatedAt": "2026-09-02T12:12:22.265866+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19824.0,
-      "change": 0.0,
-      "changePct": 0.0,
+      "price": 19851.4,
+      "change": 27.400000000001455,
+      "changePct": 0.13821630347054809,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
       "price": 7631.47,
-      "change": -80.28999999999996,
-      "changePct": -1.04113717231864,
+      "change": -54.67000000000007,
+      "changePct": -0.7112803045481877,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
       "price": 26099.773,
-      "change": -302.6469999999972,
-      "changePct": -1.146285075383231,
+      "change": -271.11699999999837,
+      "changePct": -1.028091960491278,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25970.1,
-      "change": -288.01000000000204,
-      "changePct": -1.0968420804086891,
+      "price": 25847.44,
+      "change": -410.6700000000019,
+      "changePct": -1.563973949381741,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6368.98,
-      "change": 0.0,
-      "changePct": 0.0,
+      "price": 6361.88,
+      "change": -7.099999999999454,
+      "changePct": -0.11147781905421991,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.34,
-      "change": 0.0,
-      "changePct": 0.0,
+      "price": 16.31,
+      "change": -0.030000000000001137,
+      "changePct": -0.18359853121175726,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "0dd7d9d7-0768-3812-b322-c2416bb6fa50",
-      "title": "KINGS DOCK SPORTS GROUP'S LIVERPOOL BASKETBALL NAMES ROY ROGERS FIRST HEAD COACH IN CLUB HISTORY",
-      "link": "https://finance.yahoo.com/media-advertising/articles/kings-dock-sports-groups-liverpool-070500976.html",
+      "id": "5a0596ff-254b-391a-82af-c7cf9ab40ff1",
+      "title": "Dell Stock Soars on $95 Billion AI Backlog and Raised FY2027 Forecast",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-soars-95-billion-121019361.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788351019,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "25505fab-26ad-3775-8ea3-e009986da7de",
+      "title": "AGOA, Haiti HOPE/HELP receive two-year extension",
+      "link": "https://finance.yahoo.com/m/25505fab-26ad-3775-8ea3-e009986da7de/agoa%2C-haiti-hope%2Fhelp-receive.html",
+      "publisher": "Just Style",
+      "time": 1788350974,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e1b012bb-e6c2-3dbc-9ffe-e0b395be4e7d",
+      "title": "Michael Burry AI Short Bets Get Crushed as Palantir, Nvidia, Micron Soar",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-ai-short-bets-120839277.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788350919,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ce034810-bc56-3577-8756-b4af4410073b",
+      "title": "CrowdStrike and OpenAI Expand Partnership to Secure the Agentic Era",
+      "link": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-openai-expand-partnership-secure-120600699.html",
+      "publisher": "Business Wire",
+      "time": 1788350760,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "185a4d31-53e1-3889-9c01-baf51b31a279",
+      "title": "Peptide innovator says the drug class is due for a rethink",
+      "link": "https://finance.yahoo.com/m/185a4d31-53e1-3889-9c01-baf51b31a279/peptide-innovator-says-the.html",
+      "publisher": "Pharmaceutical Technology",
+      "time": 1788350721,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "038d9d26-8914-3fb6-9fb8-5dd0d41e41bd",
+      "title": "CallRail Connects Healthcare Marketing to Patient Outcomes Through 15 New Integrations",
+      "link": "https://finance.yahoo.com/healthcare/articles/callrail-connects-healthcare-marketing-patient-120500661.html",
       "publisher": "PR Newswire",
-      "time": 1788332700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "664cc91b-e6d8-3a7e-a291-8fecaa11ba4d",
-      "title": "PCG, EIX Stocks Head For Worst Week In A Year As They Reel From California Wildfire Reform Setback: BoFA Turns Neutral, Slashes Targets",
-      "link": "https://finance.yahoo.com/m/664cc91b-e6d8-3a7e-a291-8fecaa11ba4d/pcg%2C-eix-stocks-head-for.html",
-      "publisher": "Stocktwits",
-      "time": 1788332697,
+      "time": 1788350700,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "547979f7-c3a8-3f5b-9f6c-945c13c5cf64",
-      "title": "Argo Graphene Solutions Appoints Leading Battery and Energy Storage Scientist Dr. Said Al-Hallaj to Board of Directors",
-      "link": "https://finance.yahoo.com/energy/articles/argo-graphene-solutions-appoints-leading-070100860.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788332460,
+      "id": "0a1ff207-40b0-3046-b07b-5819ec8bd284",
+      "title": "KUMHO TIRE U.S.A. DEBUTS CRUGEN GT PRO TOURING TIRE BUILT FOR TODAY'S CROSSOVERS AND SUVS",
+      "link": "https://finance.yahoo.com/technology/articles/kumho-tire-u-debuts-crugen-120500532.html",
+      "publisher": "PR Newswire",
+      "time": 1788350700,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c7133e1b-22df-3c65-b942-3f811aba7a59",
-      "title": "Survey: When AI Factories Fail, More Than Half of UK Enterprises Can’t Tell You Why",
-      "link": "https://finance.yahoo.com/technology/ai/articles/survey-ai-factories-fail-more-070100801.html",
-      "publisher": "Business Wire",
-      "time": 1788332460,
+      "id": "13bda440-1559-306c-94dd-b7120a532ed0",
+      "title": "Equisoft appoints Bob Thrall as Chief Sales Officer",
+      "link": "https://finance.yahoo.com/technology/ai/articles/equisoft-appoints-bob-thrall-chief-120500464.html",
+      "publisher": "PR Newswire",
+      "time": 1788350700,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "edc30bb6-f03a-3aa9-9658-1a28b2be6822",
-      "title": "Virtana Brings System-Aware Agentic AI to Sovereign Cloud Operations",
-      "link": "https://finance.yahoo.com/technology/ai/articles/virtana-brings-system-aware-agentic-070100770.html",
-      "publisher": "Business Wire",
-      "time": 1788332460,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "17898f78-5062-37e7-b378-96e8c7aa4a84",
-      "title": "US urges NATO allies to prepare in case Russia attacks",
-      "link": "https://finance.yahoo.com/m/17898f78-5062-37e7-b378-96e8c7aa4a84/us-urges-nato-allies-to.html",
-      "publisher": "USA TODAY",
-      "time": 1788332457,
+      "id": "313d3da6-261b-33f1-88d1-126f731cc339",
+      "title": "STEM™ Gives Flying Insect Season a Catchy New Soundtrack",
+      "link": "https://finance.yahoo.com/media-advertising/articles/stem-gives-flying-insect-season-120500713.html",
+      "publisher": "CNW Group",
+      "time": 1788350700,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "24174b03-631f-3c03-aa55-307912e1a867",
-      "title": "Palo Alto Networks Inc (PANW) (Q4 2026) Earnings Call Highlights: Record RPO Surpasses $20 ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-inc-panw-070035303.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788332435,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "8f29f9cd-21e1-3e74-9025-3c0e2fc25848",
-      "title": "Dell Technologies Inc (DELL) (Q2 2026) Earnings Call Highlights: Record Revenue and AI Backlog ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-inc-dell-q2-070034720.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788332434,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e2339240-074a-3c88-a88e-639af8eb927c",
-      "title": "Sportsman's Warehouse Holdings Inc (SPWH) (Q2 2026) Earnings Call Highlights: Navigating ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sportsmans-warehouse-holdings-inc-spwh-070030700.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788332430,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "045c11c7-0db3-308a-9a0d-f463002c7f13",
-      "title": "Leading Travel Marketplace WINGIE Highlights Travel Trends for Autumn 2026",
-      "link": "https://finance.yahoo.com/small-business/articles/leading-travel-marketplace-wingie-highlights-070000355.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788332400,
+      "id": "3236b8ec-b0ee-36a0-9a7c-37f7b84384f3",
+      "title": "Power Sustainable Portfolio Company Envocore Selected for Major Puerto Rico Water Infrastructure Modernization Program",
+      "link": "https://finance.yahoo.com/energy/articles/power-sustainable-portfolio-company-envocore-120500083.html",
+      "publisher": "PR Newswire",
+      "time": 1788350700,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     }
   ],
   "errors": {
