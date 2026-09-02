@@ -1,148 +1,151 @@
 {
-  "updatedAt": "2026-09-02T12:12:22.265866+00:00",
+  "updatedAt": "2026-09-02T16:45:09.667923+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19851.4,
-      "change": 27.400000000001455,
-      "changePct": 0.13821630347054809,
+      "price": 19779.0,
+      "change": -45.0,
+      "changePct": -0.22699757869249393,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7631.47,
-      "change": -54.67000000000007,
-      "changePct": -0.7112803045481877,
+      "price": 7664.33,
+      "change": -21.8100000000004,
+      "changePct": -0.283757516776957,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26099.773,
-      "change": -271.11699999999837,
-      "changePct": -1.028091960491278,
+      "price": 26190.553,
+      "change": -180.33699999999953,
+      "changePct": -0.6838487438232064,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25847.44,
-      "change": -410.6700000000019,
-      "changePct": -1.563973949381741,
+      "price": 25839.33,
+      "change": -418.77999999999884,
+      "changePct": -1.594859645267686,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6361.88,
-      "change": -7.099999999999454,
-      "changePct": -0.11147781905421991,
+      "price": 6362.15,
+      "change": -6.829999999999927,
+      "changePct": -0.10723852170991159,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.31,
-      "change": -0.030000000000001137,
-      "changePct": -0.18359853121175726,
+      "price": 15.45,
+      "change": -0.8900000000000006,
+      "changePct": -5.446756425948596,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "5a0596ff-254b-391a-82af-c7cf9ab40ff1",
-      "title": "Dell Stock Soars on $95 Billion AI Backlog and Raised FY2027 Forecast",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-soars-95-billion-121019361.html",
+      "id": "23f84790-3e67-339d-9e21-37ae2a1312a3",
+      "title": "J&J Jumps as UBS Lifts Its Target to $320",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/j-j-jumps-ubs-lifts-164253043.html",
       "publisher": "GuruFocus.com",
-      "time": 1788351019,
-      "impact": "medium",
+      "time": 1788367373,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "75df218d-545e-3547-960f-ac68f4a25f40",
+      "title": "Snowflake Drops 4% Before Its Earnings Report, Datadog Falls 6%: Is the Software Selloff the Real Story?",
+      "link": "https://finance.yahoo.com/m/75df218d-545e-3547-960f-ac68f4a25f40/snowflake-drops-4%25-before-its.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1788367271,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "25505fab-26ad-3775-8ea3-e009986da7de",
-      "title": "AGOA, Haiti HOPE/HELP receive two-year extension",
-      "link": "https://finance.yahoo.com/m/25505fab-26ad-3775-8ea3-e009986da7de/agoa%2C-haiti-hope%2Fhelp-receive.html",
-      "publisher": "Just Style",
-      "time": 1788350974,
+      "id": "9a9f1d67-46f8-350e-af39-80d6b9a1064d",
+      "title": "Rosenblatt Raises MongoDB (MDB) Price Target Despite Atlas Growth Concerns",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rosenblatt-raises-mongodb-mdb-price-163844853.html",
+      "publisher": "Insider Monkey",
+      "time": 1788367124,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e1b012bb-e6c2-3dbc-9ffe-e0b395be4e7d",
-      "title": "Michael Burry AI Short Bets Get Crushed as Palantir, Nvidia, Micron Soar",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-ai-short-bets-120839277.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788350919,
-      "impact": "low",
-      "tags": []
+      "id": "342312eb-52b7-3e7a-82e3-e3c31b4dc819",
+      "title": "KOSS Posts Q4 Earnings as DTC Growth and Tariff Refunds Aid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/koss-posts-q4-earnings-dtc-163800457.html",
+      "publisher": "Zacks",
+      "time": 1788367080,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "ce034810-bc56-3577-8756-b4af4410073b",
-      "title": "CrowdStrike and OpenAI Expand Partnership to Secure the Agentic Era",
-      "link": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-openai-expand-partnership-secure-120600699.html",
-      "publisher": "Business Wire",
-      "time": 1788350760,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "185a4d31-53e1-3889-9c01-baf51b31a279",
-      "title": "Peptide innovator says the drug class is due for a rethink",
-      "link": "https://finance.yahoo.com/m/185a4d31-53e1-3889-9c01-baf51b31a279/peptide-innovator-says-the.html",
-      "publisher": "Pharmaceutical Technology",
-      "time": 1788350721,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "038d9d26-8914-3fb6-9fb8-5dd0d41e41bd",
-      "title": "CallRail Connects Healthcare Marketing to Patient Outcomes Through 15 New Integrations",
-      "link": "https://finance.yahoo.com/healthcare/articles/callrail-connects-healthcare-marketing-patient-120500661.html",
-      "publisher": "PR Newswire",
-      "time": 1788350700,
+      "id": "ab42d547-f93f-36b3-93df-99b7493cb10c",
+      "title": "Market Chatter: GE Vernova Commits to Rebuilding Portions of Venezuela's Power Grid",
+      "link": "https://finance.yahoo.com/energy/articles/market-chatter-ge-vernova-commits-163731004.html",
+      "publisher": "MT Newswires",
+      "time": 1788367051,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "0a1ff207-40b0-3046-b07b-5819ec8bd284",
-      "title": "KUMHO TIRE U.S.A. DEBUTS CRUGEN GT PRO TOURING TIRE BUILT FOR TODAY'S CROSSOVERS AND SUVS",
-      "link": "https://finance.yahoo.com/technology/articles/kumho-tire-u-debuts-crugen-120500532.html",
-      "publisher": "PR Newswire",
-      "time": 1788350700,
+      "id": "a8d75c94-d24f-3614-aaf0-6b84fd3fb128",
+      "title": "Chevron's $7 Billion Venezuela Bet Targets 600,000 Barrels Daily",
+      "link": "https://finance.yahoo.com/energy/articles/chevrons-7-billion-venezuela-bet-163730608.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788367050,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "13bda440-1559-306c-94dd-b7120a532ed0",
-      "title": "Equisoft appoints Bob Thrall as Chief Sales Officer",
-      "link": "https://finance.yahoo.com/technology/ai/articles/equisoft-appoints-bob-thrall-chief-120500464.html",
-      "publisher": "PR Newswire",
-      "time": 1788350700,
+      "id": "50995152-e1b9-3077-aeb4-2c5f18e931d9",
+      "title": "Alphabet Rises After Judge Rejects Forced Sale of 20%-Fee AdX",
+      "link": "https://finance.yahoo.com/media-advertising/articles/alphabet-rises-judge-rejects-forced-163642529.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788367002,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "313d3da6-261b-33f1-88d1-126f731cc339",
-      "title": "STEM™ Gives Flying Insect Season a Catchy New Soundtrack",
-      "link": "https://finance.yahoo.com/media-advertising/articles/stem-gives-flying-insect-season-120500713.html",
-      "publisher": "CNW Group",
-      "time": 1788350700,
+      "id": "e7838bc2-2a4e-356a-8e60-9a9906987cdd",
+      "title": "Puma Exploration Begins Trenching at McKenzie Gold Project, New Brunswick",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/puma-exploration-begins-trenching-mckenzie-163640717.html",
+      "publisher": "MT Newswires",
+      "time": 1788367000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3236b8ec-b0ee-36a0-9a7c-37f7b84384f3",
-      "title": "Power Sustainable Portfolio Company Envocore Selected for Major Puerto Rico Water Infrastructure Modernization Program",
-      "link": "https://finance.yahoo.com/energy/articles/power-sustainable-portfolio-company-envocore-120500083.html",
-      "publisher": "PR Newswire",
-      "time": 1788350700,
+      "id": "f8e1b8f9-63e3-32e1-a00c-2737df4a3bf4",
+      "title": "Trump suggests renaming the Strait of Hormuz near Iran to Trump Strait",
+      "link": "https://finance.yahoo.com/m/f8e1b8f9-63e3-32e1-a00c-2737df4a3bf4/trump-suggests-renaming-the.html",
+      "publisher": "USA TODAY",
+      "time": 1788366999,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3585ef49-1de4-3b9e-a497-a03268a4a4a7",
+      "title": "Freebirds Brings Bold Texas Flavor to ACL Live at The Moody Theater",
+      "link": "https://finance.yahoo.com/media-advertising/articles/freebirds-brings-bold-texas-flavor-163600831.html",
+      "publisher": "Business Wire",
+      "time": 1788366960,
       "impact": "low",
       "tags": []
     }
