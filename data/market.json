@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T19:35:44.137836+00:00",
+  "updatedAt": "2026-09-02T22:14:30.310196+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7668.95,
-      "change": -17.19000000000051,
-      "changePct": -0.2236493220264074,
+      "price": 7666.6,
+      "change": -19.539999999999964,
+      "changePct": -0.25422383667224335,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26206.557,
-      "change": -164.33299999999872,
-      "changePct": -0.6231606138435173,
+      "price": 26217.828,
+      "change": -153.06199999999808,
+      "changePct": -0.5804203043583211,
       "currency": "USD"
     },
     {
@@ -52,22 +52,85 @@
   ],
   "news": [
     {
-      "id": "55d99579-bad3-3a4b-8647-a5b7e200b3dd",
-      "title": "The Midterms Will Reshape the Markets. Here’s How From 4 Investing Pros.",
-      "link": "https://finance.yahoo.com/m/55d99579-bad3-3a4b-8647-a5b7e200b3dd/the-midterms-will-reshape-the.html",
-      "publisher": "Barrons.com",
-      "time": 1788377460,
+      "id": "937ee5b1-bbc9-3f89-acd1-3def28ff3fac",
+      "title": "US Open under the influence: content creators spark debate",
+      "link": "https://finance.yahoo.com/m/937ee5b1-bbc9-3f89-acd1-3def28ff3fac/us-open-under-the-influence%3A.html",
+      "publisher": "AFP",
+      "time": 1788387070,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "63003b5e-dbf6-3a70-a336-d0303ea4208e",
+      "title": "Raiders to start Cousins over top NFL Draft pick Mendoza",
+      "link": "https://finance.yahoo.com/m/63003b5e-dbf6-3a70-a336-d0303ea4208e/raiders-to-start-cousins-over.html",
+      "publisher": "AFP",
+      "time": 1788387061,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9eebec6d-5431-3141-a364-9fc49838ed54",
+      "title": "Bessent Spouts Tough-on-China Rhetoric at G20, Setting Stage for Meeting Between Trump and Xi",
+      "link": "https://finance.yahoo.com/m/9eebec6d-5431-3141-a364-9fc49838ed54/bessent-spouts-tough-on-china.html",
+      "publisher": "Sourcing Journal",
+      "time": 1788386966,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "geo"
       ]
     },
     {
-      "id": "a442dae0-b3f0-36a9-80c1-9b08ffc347ad",
-      "title": "Oil settles 1% higher, as US-Iran strikes threaten supplies",
-      "link": "https://finance.yahoo.com/energy/articles/oil-nearly-1-us-iran-005524517.html",
-      "publisher": "Reuters",
-      "time": 1788377425,
+      "id": "b406ad08-a6bc-34c0-92ba-ee606c995ba5",
+      "title": "Troutman Amin Analyzes SB690’s Potential Impact on California CIPA Litigation",
+      "link": "https://finance.yahoo.com/technology/ai/articles/troutman-amin-analyzes-sb690-potential-220800133.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788386880,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b177e15b-801f-3abd-a4e7-21af3b303b34",
+      "title": "Wall Street Just Put a $280 Target on SpaceX's AI Bet",
+      "link": "https://finance.yahoo.com/technology/ai/articles/wall-street-just-put-280-220746044.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788386866,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b1d7af40-8183-3b51-b5a2-0bc0384ca86f",
+      "title": "Carl Icahn just made a troubling move with this embattled stock",
+      "link": "https://finance.yahoo.com/m/b1d7af40-8183-3b51-b5a2-0bc0384ca86f/carl-icahn-just-made-a.html",
+      "publisher": "TheStreet",
+      "time": 1788386820,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "560c0169-34ed-3971-a6b5-7fb967e9419c",
+      "title": "American Airlines Makes Bold Move to Win Wealthier Flyers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/american-airlines-makes-bold-move-220631244.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788386791,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "94da716d-ff29-3524-9388-efb5dc0cd2a8",
+      "title": "Google Dodges Major Breakup Threat",
+      "link": "https://finance.yahoo.com/media-advertising/articles/google-dodges-major-breakup-threat-220542896.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788386742,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7bdc1587-2d4c-3aef-8b92-3cddd761fb6b",
+      "title": "SoftBank's $439 Billion AI Backlog Arrives With a $3.21 Billion Loss",
+      "link": "https://finance.yahoo.com/technology/ai/articles/softbanks-439-billion-ai-backlog-220441803.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788386681,
       "impact": "medium",
       "tags": [
         "macro",
@@ -75,80 +138,16 @@
       ]
     },
     {
-      "id": "666eb09f-a983-45ef-aed0-7cc39d7038d7",
-      "title": "Tether sued over freezing $42.4 million in USDT",
-      "link": "https://finance.yahoo.com/video/tether-sued-over-freezing-42-193000071.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1788377400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6618ecce-4f3a-3c07-8658-13f36767504c",
-      "title": "Build-A-Bear Celebrates National Teddy Bear Day with Special Offer and Giveback Supporting Children's Hospitals",
-      "link": "https://finance.yahoo.com/media-advertising/articles/build-bear-celebrates-national-teddy-192800588.html",
-      "publisher": "PR Newswire",
-      "time": 1788377280,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c42bfb87-a313-33e8-a97c-57783416cfa2",
-      "title": "Yen gains sharply, dollar eases from two-week high",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/yen-gains-sharply-against-us-141659018.html",
-      "publisher": "Reuters",
-      "time": 1788377265,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d2d9700f-d7ae-3d40-9d10-52f62cf458f2",
-      "title": "Sector Update: Financial",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-192733122.html",
-      "publisher": "MT Newswires",
-      "time": 1788377253,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9be7df18-6c3e-3c12-b8a3-26352eda60a4",
-      "title": "Statement from the Canadian Energy Marketers Association on Government’s Decision to Extend the Excise Tax Pause",
-      "link": "https://finance.yahoo.com/energy/articles/statement-canadian-energy-marketers-association-192700748.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788377220,
-      "impact": "low",
+      "id": "7789962b-396d-34ce-a2fe-aa9326f32224",
+      "title": "Rocket Lab Gets Bullish Call From Top Bank as Space Market Could Double",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-gets-bullish-call-220351892.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788386631,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
-    },
-    {
-      "id": "9d960bd6-b386-3ffd-8fea-ef8514986ae6",
-      "title": "Norwegian Cruise Line Just Dropped 16% in a Month: Sell Now, or Buy More?",
-      "link": "https://finance.yahoo.com/m/9d960bd6-b386-3ffd-8fea-ef8514986ae6/norwegian-cruise-line-just.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1788377075,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9bc6a84d-cf86-3941-a445-b5306772d3d4",
-      "title": "3 Surging  Stocks Worth Investigating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-surging-stocks-worth-investigating-192423748.html",
-      "publisher": "StockStory",
-      "time": 1788377063,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "0397cd7a-8239-3066-b31d-1a371b87b5dd",
-      "title": "RMCAD's Upcoming Speaker, Geovanni Barrios, Shares the Inaugural Presentation of the VASD Program's \"Friction\" Series",
-      "link": "https://finance.yahoo.com/media-advertising/articles/rmcads-upcoming-speaker-geovanni-barrios-192400821.html",
-      "publisher": "PR Newswire",
-      "time": 1788377040,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
