@@ -1,71 +1,121 @@
 {
-  "updatedAt": "2026-09-02T02:23:32.767793+00:00",
+  "updatedAt": "2026-09-02T07:13:53.948527+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
       "price": 19824.0,
-      "change": -150.09999999999854,
-      "changePct": -0.7514731577392652,
+      "change": 0.0,
+      "changePct": 0.0,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
       "price": 7631.47,
-      "change": -54.67000000000007,
-      "changePct": -0.7112803045481877,
+      "change": -80.28999999999996,
+      "changePct": -1.04113717231864,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
       "price": 26099.773,
-      "change": -271.11699999999837,
-      "changePct": -1.028091960491278,
+      "change": -302.6469999999972,
+      "changePct": -1.146285075383231,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25970.11,
-      "change": -288.0,
-      "changePct": -1.0968039969365655,
+      "price": 25970.1,
+      "change": -288.01000000000204,
+      "changePct": -1.0968420804086891,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
       "price": 6368.98,
-      "change": -51.18000000000029,
-      "changePct": -0.7971763943577777,
+      "change": 0.0,
+      "changePct": 0.0,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
       "price": 16.34,
-      "change": 1.42,
-      "changePct": 9.517426273458444,
+      "change": 0.0,
+      "changePct": 0.0,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "f8e05c1c-8c40-339d-a145-2239e7334241",
-      "title": "Uther Peptide Expands Third-Party Testing and Batch Transparency Program for Research Products",
-      "link": "https://finance.yahoo.com/healthcare/articles/uther-peptide-expands-third-party-022000953.html",
-      "publisher": "TMX Newsfile",
-      "time": 1788315600,
+      "id": "0dd7d9d7-0768-3812-b322-c2416bb6fa50",
+      "title": "KINGS DOCK SPORTS GROUP'S LIVERPOOL BASKETBALL NAMES ROY ROGERS FIRST HEAD COACH IN CLUB HISTORY",
+      "link": "https://finance.yahoo.com/media-advertising/articles/kings-dock-sports-groups-liverpool-070500976.html",
+      "publisher": "PR Newswire",
+      "time": 1788332700,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3c8f786a-671c-3fb9-bb03-81fc8be4d3f0",
-      "title": "Dow Jones Futures Fall, Oil Prices Keep Rising; Dell, Credo, Palo Alto Are Earnings Movers Late",
-      "link": "https://finance.yahoo.com/m/3c8f786a-671c-3fb9-bb03-81fc8be4d3f0/dow-jones-futures-fall%2C-oil.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1788315547,
+      "id": "664cc91b-e6d8-3a7e-a291-8fecaa11ba4d",
+      "title": "PCG, EIX Stocks Head For Worst Week In A Year As They Reel From California Wildfire Reform Setback: BoFA Turns Neutral, Slashes Targets",
+      "link": "https://finance.yahoo.com/m/664cc91b-e6d8-3a7e-a291-8fecaa11ba4d/pcg%2C-eix-stocks-head-for.html",
+      "publisher": "Stocktwits",
+      "time": 1788332697,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "547979f7-c3a8-3f5b-9f6c-945c13c5cf64",
+      "title": "Argo Graphene Solutions Appoints Leading Battery and Energy Storage Scientist Dr. Said Al-Hallaj to Board of Directors",
+      "link": "https://finance.yahoo.com/energy/articles/argo-graphene-solutions-appoints-leading-070100860.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788332460,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c7133e1b-22df-3c65-b942-3f811aba7a59",
+      "title": "Survey: When AI Factories Fail, More Than Half of UK Enterprises Can’t Tell You Why",
+      "link": "https://finance.yahoo.com/technology/ai/articles/survey-ai-factories-fail-more-070100801.html",
+      "publisher": "Business Wire",
+      "time": 1788332460,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "edc30bb6-f03a-3aa9-9658-1a28b2be6822",
+      "title": "Virtana Brings System-Aware Agentic AI to Sovereign Cloud Operations",
+      "link": "https://finance.yahoo.com/technology/ai/articles/virtana-brings-system-aware-agentic-070100770.html",
+      "publisher": "Business Wire",
+      "time": 1788332460,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "17898f78-5062-37e7-b378-96e8c7aa4a84",
+      "title": "US urges NATO allies to prepare in case Russia attacks",
+      "link": "https://finance.yahoo.com/m/17898f78-5062-37e7-b378-96e8c7aa4a84/us-urges-nato-allies-to.html",
+      "publisher": "USA TODAY",
+      "time": 1788332457,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "24174b03-631f-3c03-aa55-307912e1a867",
+      "title": "Palo Alto Networks Inc (PANW) (Q4 2026) Earnings Call Highlights: Record RPO Surpasses $20 ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-inc-panw-070035303.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788332435,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,76 +123,39 @@
       ]
     },
     {
-      "id": "a0c294b5-0aba-380a-8898-601e88737c86",
-      "title": "Jubilant Monfils celebrates birthday with US Open win",
-      "link": "https://finance.yahoo.com/m/a0c294b5-0aba-380a-8898-601e88737c86/jubilant-monfils-celebrates.html",
-      "publisher": "AFP",
-      "time": 1788314838,
-      "impact": "low",
-      "tags": []
+      "id": "8f29f9cd-21e1-3e74-9025-3c0e2fc25848",
+      "title": "Dell Technologies Inc (DELL) (Q2 2026) Earnings Call Highlights: Record Revenue and AI Backlog ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-inc-dell-q2-070034720.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788332434,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "eb0b03c1-c847-3568-a73d-8101aeff0b6d",
-      "title": "What rainbow? LGBTQ Indonesians on edge as hostility mounts",
-      "link": "https://finance.yahoo.com/m/eb0b03c1-c847-3568-a73d-8101aeff0b6d/what-rainbow%3F-lgbtq.html",
-      "publisher": "AFP",
-      "time": 1788314623,
-      "impact": "low",
-      "tags": []
+      "id": "e2339240-074a-3c88-a88e-639af8eb927c",
+      "title": "Sportsman's Warehouse Holdings Inc (SPWH) (Q2 2026) Earnings Call Highlights: Navigating ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sportsmans-warehouse-holdings-inc-spwh-070030700.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788332430,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "bc0d683d-b3a1-3b5a-bd54-9d32fa65bf63",
-      "title": "Another national park closes hotels, campgrounds, overnight parking",
-      "link": "https://finance.yahoo.com/m/bc0d683d-b3a1-3b5a-bd54-9d32fa65bf63/another-national-park-closes.html",
-      "publisher": "TheStreet",
-      "time": 1788314580,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "27dabc33-218d-3f6a-8386-cb95d387b150",
-      "title": "The Japanese idealist behind the last deradicalisation NGO in Somalia",
-      "link": "https://finance.yahoo.com/m/27dabc33-218d-3f6a-8386-cb95d387b150/the-japanese-idealist-behind.html",
-      "publisher": "AFP",
-      "time": 1788314482,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8a20d345-1c1b-3414-abe2-0129d4a6516b",
-      "title": "Deported right-wing pundit says ICE has 'institutionalized' brutality",
-      "link": "https://finance.yahoo.com/m/8a20d345-1c1b-3414-abe2-0129d4a6516b/deported-right-wing-pundit.html",
-      "publisher": "USA TODAY",
-      "time": 1788314445,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fe402843-0a8b-3fc3-b7d1-21e12a3fe948",
-      "title": "ASTS Stock Hits One-Month Low: Insider Buys The Dip After BlueBird Deployments, Japan Win",
-      "link": "https://finance.yahoo.com/m/fe402843-0a8b-3fc3-b7d1-21e12a3fe948/asts-stock-hits-one-month.html",
-      "publisher": "Stocktwits",
-      "time": 1788314406,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8fd9e0a3-ea4e-38db-b978-49505c04f5fb",
-      "title": "HEC Group Enters Strategic Partnerships in Macau to Advance the Internationalization of Cordyceps Sinensis",
-      "link": "https://finance.yahoo.com/healthcare/articles/hec-group-enters-strategic-partnerships-020000459.html",
-      "publisher": "PR Newswire",
-      "time": 1788314400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c600d5b8-2874-34d0-9a0a-d79ab41efc65",
-      "title": "Jackaroo King Hosts Jordan Princess Championship for Women Players",
-      "link": "https://finance.yahoo.com/media-advertising/articles/jackaroo-king-hosts-jordan-princess-020000957.html",
+      "id": "045c11c7-0db3-308a-9a0d-f463002c7f13",
+      "title": "Leading Travel Marketplace WINGIE Highlights Travel Trends for Autumn 2026",
+      "link": "https://finance.yahoo.com/small-business/articles/leading-travel-marketplace-wingie-highlights-070000355.html",
       "publisher": "GlobeNewswire",
-      "time": 1788314400,
+      "time": 1788332400,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
