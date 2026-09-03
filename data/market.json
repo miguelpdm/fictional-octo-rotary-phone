@@ -1,82 +1,101 @@
 {
-  "updatedAt": "2026-09-03T13:43:44.703251+00:00",
+  "updatedAt": "2026-09-03T17:26:21.023576+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19954.7,
-      "change": 175.70000000000073,
-      "changePct": 0.8883158905910346,
+      "price": 20000.2,
+      "change": 221.20000000000073,
+      "changePct": 1.118357854289907,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7713.57,
-      "change": 82.09999999999945,
-      "changePct": 1.0758084615414782,
+      "price": 7740.32,
+      "change": 108.84999999999945,
+      "changePct": 1.426330706928016,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26445.564,
-      "change": 345.79399999999805,
-      "changePct": 1.3248929013550619,
+      "price": 26551.32,
+      "change": 451.5499999999993,
+      "changePct": 1.7300918743728366,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25994.22,
-      "change": 24.110000000000582,
-      "changePct": 0.09283749664518395,
+      "price": 26003.32,
+      "change": 33.20999999999913,
+      "changePct": 0.12787777949342197,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6375.73,
-      "change": 13.579999999999927,
-      "changePct": 0.2134498557877436,
+      "price": 6382.59,
+      "change": 20.44000000000051,
+      "changePct": 0.32127504067022167,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.02,
-      "change": -0.17999999999999972,
-      "changePct": -1.1842105263157876,
+      "price": 14.59,
+      "change": -0.6099999999999994,
+      "changePct": -4.013157894736839,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "d64d0df9-6ec6-39f4-9cfe-9af9d0667692",
-      "title": "Shipping Stocks Soar as Hormuz Disruption Sends Tanker Shares Surging",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/shipping-stocks-soar-hormuz-disruption-134130314.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788442890,
-      "impact": "low",
+      "id": "d53d52eb-893c-3fa3-b5a2-60af50e18995",
+      "title": "Bond yields ease, stocks rally following Fed governor Waller comments",
+      "link": "https://finance.yahoo.com/economy/policy/articles/shares-bonds-rally-markets-await-020740389.html",
+      "publisher": "Reuters",
+      "time": 1788456181,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "ffb41802-1be3-376a-b71b-89a758f25ff6",
-      "title": "Equinor starts operations at 100MW Citrus Flatts facility in Texas",
-      "link": "https://finance.yahoo.com/m/ffb41802-1be3-376a-b71b-89a758f25ff6/equinor-starts-operations-at.html",
-      "publisher": "Power Technology",
-      "time": 1788442805,
+      "id": "49ee5a3b-9df5-3df7-bb3a-6b0f0a9b4e22",
+      "title": "Broadcom Tripled AI Chip Sales and the Stock Still Fell. Is AVGO the Nvidia Alternative Investors Missed?",
+      "link": "https://finance.yahoo.com/m/49ee5a3b-9df5-3df7-bb3a-6b0f0a9b4e22/broadcom-tripled-ai-chip.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1788456159,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "16cbdee8-68a5-3b90-ae59-5578eeac72a0",
-      "title": "Chevron gets Street-High PT at Piper Sandler on booming oil prices",
-      "link": "https://finance.yahoo.com/energy/articles/chevron-gets-street-high-pt-133832968.html",
-      "publisher": "Investing.com",
-      "time": 1788442712,
+      "id": "4e46ae3a-95bc-3a61-8a05-3191b7037b88",
+      "title": "RDW After a 30.5% 3-Month Drop Is the Sell-Off an Opportunity Yet?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rdw-30-5-3-month-172200624.html",
+      "publisher": "Zacks",
+      "time": 1788456120,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e9191857-6868-342f-82ef-00b503a6f315",
+      "title": "Anthropic Still a Designated Supply Chain Risk, Defense Under Secretary Says",
+      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-still-designated-supply-chain-172158389.html",
+      "publisher": "MT Newswires",
+      "time": 1788456118,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "63291b42-e776-38ed-b90e-418802e8acf6",
+      "title": "Jim Cramer is Bullish on Palo Alto (PANW) After Earnings Report",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-bullish-palo-alto-172136342.html",
+      "publisher": "Insider Monkey",
+      "time": 1788456096,
       "impact": "medium",
       "tags": [
         "macro",
@@ -84,73 +103,49 @@
       ]
     },
     {
-      "id": "050d2259-4cd8-3f1a-8e7a-6f72ec7d1deb",
-      "title": "Saudi Arabia Launches Weqaa Campaign to Raise Awareness of Integrated Plant Pest Management",
-      "link": "https://finance.yahoo.com/healthcare/articles/saudi-arabia-launches-weqaa-campaign-133800171.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1788442680,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "9114151e-fa19-37e2-848e-a6a729e79deb",
-      "title": "How Micron Technology (MU) is Shaping the AI Landscape",
-      "link": "https://finance.yahoo.com/technology/ai/articles/micron-technology-mu-shaping-ai-133716803.html",
-      "publisher": "Insider Monkey",
-      "time": 1788442636,
+      "id": "885352a3-298f-3448-964b-e92810c38a73",
+      "title": "Kroger Q2 Same-Store Sales Could Miss Estimates, Oppenheimer Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kroger-q2-same-store-sales-172135059.html",
+      "publisher": "MT Newswires",
+      "time": 1788456095,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ce7fc434-b108-3cb0-a4dd-40c79876574c",
-      "title": "Barilla snaps up Goodles mac and cheese business",
-      "link": "https://finance.yahoo.com/m/ce7fc434-b108-3cb0-a4dd-40c79876574c/barilla-snaps-up-goodles-mac.html",
-      "publisher": "Just Food",
-      "time": 1788442547,
+      "id": "76ae70b1-965e-3194-ac12-446ab9dc700a",
+      "title": "Lake Victoria Gold Says Initial Works at Imwelo Project in Tanzania Progressing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lake-victoria-gold-says-initial-172118658.html",
+      "publisher": "MT Newswires",
+      "time": 1788456078,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "237c59a5-cb94-3815-a5c4-d24c24ff1440",
-      "title": "Tribu Spirit Announces Hapé Starter Set for Those Exploring Amazonian Ceremonial Traditions",
-      "link": "https://finance.yahoo.com/small-business/articles/tribu-spirit-announces-hap-starter-133500368.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1788442500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "56d77102-adcf-37db-88b6-3008151d8497",
-      "title": "Compensation Advisory Partners Promotes Ryan Colucci and Joanna Czyzewski to Partner",
-      "link": "https://finance.yahoo.com/small-business/articles/compensation-advisory-partners-promotes-ryan-133500287.html",
+      "id": "435b39c4-b025-378e-b6dd-ada30691be0d",
+      "title": "AM Best Revises Issuer Credit Rating Outlook to Negative for Frank Winston Crum Insurance Company",
+      "link": "https://finance.yahoo.com/healthcare/articles/am-best-revises-issuer-credit-172100709.html",
       "publisher": "Business Wire",
-      "time": 1788442500,
+      "time": 1788456060,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "913fdf4b-3e29-3313-8a7f-8f4391c9d30b",
-      "title": "Better Drone Stock: Kratos Defense vs. Northrop Grumman",
-      "link": "https://finance.yahoo.com/m/913fdf4b-3e29-3313-8a7f-8f4391c9d30b/better-drone-stock%3A-kratos.html",
-      "publisher": "Motley Fool",
-      "time": 1788442500,
+      "id": "fe61f4f7-5048-38f9-9d76-53623994a065",
+      "title": "Scott Bessent lauds $7B Chevron Venezuela deal as a salve to red-hot gas prices, but will it really work?",
+      "link": "https://finance.yahoo.com/energy/articles/scott-bessent-lauds-7b-chevron-172000501.html",
+      "publisher": "Moneywise",
+      "time": 1788456000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f00949f9-95da-3b74-bfea-9def964ab061",
-      "title": "Minister MacDonald to announce federal investments to the Canadian pork industry",
-      "link": "https://finance.yahoo.com/economy/policy/articles/minister-macdonald-announce-federal-investments-133500241.html",
-      "publisher": "CNW Group",
-      "time": 1788442500,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
+      "id": "a8c898c8-fbbf-353c-86bf-737067ef7049",
+      "title": "Jim Cramer Explains Why He Recommends Buying KLA (KLAC) Stock in Small Doses",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-recommends-171946329.html",
+      "publisher": "Insider Monkey",
+      "time": 1788455986,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
