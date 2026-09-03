@@ -1,80 +1,82 @@
 {
-  "updatedAt": "2026-09-03T09:22:43.450229+00:00",
+  "updatedAt": "2026-09-03T13:43:44.703251+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19899.1,
-      "change": 120.09999999999854,
-      "changePct": 0.6072096668183353,
+      "price": 19954.7,
+      "change": 175.70000000000073,
+      "changePct": 0.8883158905910346,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7666.6,
-      "change": -19.539999999999964,
-      "changePct": -0.25422383667224335,
+      "price": 7713.57,
+      "change": 82.09999999999945,
+      "changePct": 1.0758084615414782,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26217.828,
-      "change": -153.06199999999808,
-      "changePct": -0.5804203043583211,
+      "price": 26445.564,
+      "change": 345.79399999999805,
+      "changePct": 1.3248929013550619,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25903.05,
-      "change": -67.06000000000131,
-      "changePct": -0.2582199305278311,
+      "price": 25994.22,
+      "change": 24.110000000000582,
+      "changePct": 0.09283749664518395,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6369.79,
-      "change": 7.640000000000327,
-      "changePct": 0.1200851913268365,
+      "price": 6375.73,
+      "change": 13.579999999999927,
+      "changePct": 0.2134498557877436,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.21,
-      "change": 0.010000000000001563,
-      "changePct": 0.06578947368422082,
+      "price": 15.02,
+      "change": -0.17999999999999972,
+      "changePct": -1.1842105263157876,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "93168d7d-4bd3-3da6-8cf9-3cc35cc2c3d0",
-      "title": "PG&E launches strategic review of energy business and financing",
-      "link": "https://finance.yahoo.com/m/93168d7d-4bd3-3da6-8cf9-3cc35cc2c3d0/pg%26e-launches-strategic.html",
+      "id": "d64d0df9-6ec6-39f4-9cfe-9af9d0667692",
+      "title": "Shipping Stocks Soar as Hormuz Disruption Sends Tanker Shares Surging",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/shipping-stocks-soar-hormuz-disruption-134130314.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788442890,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "ffb41802-1be3-376a-b71b-89a758f25ff6",
+      "title": "Equinor starts operations at 100MW Citrus Flatts facility in Texas",
+      "link": "https://finance.yahoo.com/m/ffb41802-1be3-376a-b71b-89a758f25ff6/equinor-starts-operations-at.html",
       "publisher": "Power Technology",
-      "time": 1788427165,
+      "time": 1788442805,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "347decde-d8a0-3f33-8cd3-2f5b95e68821",
-      "title": "IHG opens 685-room Crowne Plaza flagship in New York",
-      "link": "https://finance.yahoo.com/m/347decde-d8a0-3f33-8cd3-2f5b95e68821/ihg-opens-685-room-crowne.html",
-      "publisher": "Hotel Management Network",
-      "time": 1788427149,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3fc44dc5-0644-31de-8b52-bf33789c0993",
-      "title": "HEICO Corp. (HEI): Record Profits And Bold Bets Power Aerospace Supplier’s Surge",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/heico-corp-hei-record-profits-091725883.html",
-      "publisher": "Insider Monkey",
-      "time": 1788427045,
+      "id": "16cbdee8-68a5-3b90-ae59-5578eeac72a0",
+      "title": "Chevron gets Street-High PT at Piper Sandler on booming oil prices",
+      "link": "https://finance.yahoo.com/energy/articles/chevron-gets-street-high-pt-133832968.html",
+      "publisher": "Investing.com",
+      "time": 1788442712,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,72 +84,73 @@
       ]
     },
     {
-      "id": "b9990141-52fc-36fe-a3d7-8fdf9f24a2ac",
-      "title": "Fashion retailer TFG plans 280 more store closures over next three years",
-      "link": "https://finance.yahoo.com/m/b9990141-52fc-36fe-a3d7-8fdf9f24a2ac/fashion-retailer-tfg-plans.html",
-      "publisher": "Retail Insight Network",
-      "time": 1788426952,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ab669bf2-1ccc-3d93-a4b1-f60be9cd2db2",
-      "title": "China demands France scrap fast fashion law targeting Shein and Temu",
-      "link": "https://finance.yahoo.com/m/ab669bf2-1ccc-3d93-a4b1-f60be9cd2db2/china-demands-france-scrap.html",
-      "publisher": "Euronews",
-      "time": 1788426919,
-      "impact": "medium",
+      "id": "050d2259-4cd8-3f1a-8e7a-6f72ec7d1deb",
+      "title": "Saudi Arabia Launches Weqaa Campaign to Raise Awareness of Integrated Plant Pest Management",
+      "link": "https://finance.yahoo.com/healthcare/articles/saudi-arabia-launches-weqaa-campaign-133800171.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1788442680,
+      "impact": "high",
       "tags": [
-        "geo"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "7e31458d-3e8c-3e8c-8e35-5cbad4f22a9e",
-      "title": "Dollar’s Drop Helped by Sharp Yen Gains",
-      "link": "https://finance.yahoo.com/m/7e31458d-3e8c-3e8c-8e35-5cbad4f22a9e/dollar%E2%80%99s-drop-helped-by-sharp.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1788426720,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "667cb31c-92de-3398-92a2-a7aaec054ecb",
-      "title": "Norway seizes Russian ship in the Arctic over Ukraine's $4.2 billion Crimea claim",
-      "link": "https://finance.yahoo.com/m/667cb31c-92de-3398-92a2-a7aaec054ecb/norway-seizes-russian-ship-in.html",
-      "publisher": "Euronews",
-      "time": 1788426711,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b0f17d0f-fad8-3ac8-af98-c4569bc5ea4d",
-      "title": "3 Profitable Stocks We Steer Clear Of",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-profitable-stocks-steer-clear-091118253.html",
-      "publisher": "StockStory",
-      "time": 1788426678,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "d49de56f-403c-3eae-8877-93da96dd6fd4",
-      "title": "VPN Browser Expands Access to 300+ VPN Servers Across 80 Locations",
-      "link": "https://finance.yahoo.com/technology/articles/vpn-browser-expands-access-300-091100068.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788426660,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "df9e2771-84c3-3e09-b169-747aca2a8c9a",
-      "title": "Box (BOX) Turns Enterprise Files Into AI Fuel",
-      "link": "https://finance.yahoo.com/technology/ai/articles/box-box-turns-enterprise-files-091016434.html",
+      "id": "9114151e-fa19-37e2-848e-a6a729e79deb",
+      "title": "How Micron Technology (MU) is Shaping the AI Landscape",
+      "link": "https://finance.yahoo.com/technology/ai/articles/micron-technology-mu-shaping-ai-133716803.html",
       "publisher": "Insider Monkey",
-      "time": 1788426616,
+      "time": 1788442636,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "ce7fc434-b108-3cb0-a4dd-40c79876574c",
+      "title": "Barilla snaps up Goodles mac and cheese business",
+      "link": "https://finance.yahoo.com/m/ce7fc434-b108-3cb0-a4dd-40c79876574c/barilla-snaps-up-goodles-mac.html",
+      "publisher": "Just Food",
+      "time": 1788442547,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "237c59a5-cb94-3815-a5c4-d24c24ff1440",
+      "title": "Tribu Spirit Announces Hapé Starter Set for Those Exploring Amazonian Ceremonial Traditions",
+      "link": "https://finance.yahoo.com/small-business/articles/tribu-spirit-announces-hap-starter-133500368.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1788442500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "56d77102-adcf-37db-88b6-3008151d8497",
+      "title": "Compensation Advisory Partners Promotes Ryan Colucci and Joanna Czyzewski to Partner",
+      "link": "https://finance.yahoo.com/small-business/articles/compensation-advisory-partners-promotes-ryan-133500287.html",
+      "publisher": "Business Wire",
+      "time": 1788442500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "913fdf4b-3e29-3313-8a7f-8f4391c9d30b",
+      "title": "Better Drone Stock: Kratos Defense vs. Northrop Grumman",
+      "link": "https://finance.yahoo.com/m/913fdf4b-3e29-3313-8a7f-8f4391c9d30b/better-drone-stock%3A-kratos.html",
+      "publisher": "Motley Fool",
+      "time": 1788442500,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f00949f9-95da-3b74-bfea-9def964ab061",
+      "title": "Minister MacDonald to announce federal investments to the Canadian pork industry",
+      "link": "https://finance.yahoo.com/economy/policy/articles/minister-macdonald-announce-federal-investments-133500241.html",
+      "publisher": "CNW Group",
+      "time": 1788442500,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     }
   ],
   "errors": {
