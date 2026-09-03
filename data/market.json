@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T17:26:21.023576+00:00",
+  "updatedAt": "2026-09-03T20:00:59.515294+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7740.32,
-      "change": 108.84999999999945,
-      "changePct": 1.426330706928016,
+      "price": 7747.59,
+      "change": 116.11999999999989,
+      "changePct": 1.5215941358611105,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26551.32,
-      "change": 451.5499999999993,
-      "changePct": 1.7300918743728366,
+      "price": 26584.06,
+      "change": 484.2900000000009,
+      "changePct": 1.8555335928247676,
       "currency": "USD"
     },
     {
@@ -44,58 +44,66 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.59,
-      "change": -0.6099999999999994,
-      "changePct": -4.013157894736839,
+      "price": 14.36,
+      "change": -0.8399999999999999,
+      "changePct": -5.526315789473683,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "d53d52eb-893c-3fa3-b5a2-60af50e18995",
-      "title": "Bond yields ease, stocks rally following Fed governor Waller comments",
-      "link": "https://finance.yahoo.com/economy/policy/articles/shares-bonds-rally-markets-await-020740389.html",
-      "publisher": "Reuters",
-      "time": 1788456181,
-      "impact": "high",
+      "id": "ac70a980-561d-380d-aa13-2c3c0038032a",
+      "title": "Tesla Cybercab: Here's What To Expect From Thursday's Event",
+      "link": "https://finance.yahoo.com/m/ac70a980-561d-380d-aa13-2c3c0038032a/tesla-cybercab%3A-here%27s-what.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1788465398,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ebd790e8-073b-3f99-bc4e-68d77fae92c3",
+      "title": "Sector Update: Energy Stocks Decline Late Afternoon",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-195350875.html",
+      "publisher": "MT Newswires",
+      "time": 1788465230,
+      "impact": "low",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "49ee5a3b-9df5-3df7-bb3a-6b0f0a9b4e22",
-      "title": "Broadcom Tripled AI Chip Sales and the Stock Still Fell. Is AVGO the Nvidia Alternative Investors Missed?",
-      "link": "https://finance.yahoo.com/m/49ee5a3b-9df5-3df7-bb3a-6b0f0a9b4e22/broadcom-tripled-ai-chip.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1788456159,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4e46ae3a-95bc-3a61-8a05-3191b7037b88",
-      "title": "RDW After a 30.5% 3-Month Drop Is the Sell-Off an Opportunity Yet?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rdw-30-5-3-month-172200624.html",
-      "publisher": "Zacks",
-      "time": 1788456120,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e9191857-6868-342f-82ef-00b503a6f315",
-      "title": "Anthropic Still a Designated Supply Chain Risk, Defense Under Secretary Says",
-      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-still-designated-supply-chain-172158389.html",
-      "publisher": "MT Newswires",
-      "time": 1788456118,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "63291b42-e776-38ed-b90e-418802e8acf6",
-      "title": "Jim Cramer is Bullish on Palo Alto (PANW) After Earnings Report",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-bullish-palo-alto-172136342.html",
+      "id": "56149a22-a9bf-3b01-82da-e9b6270e8e50",
+      "title": "Amazon Signed a Multibillion-Dollar Deal With a 175-Year-Old Glassmaker. Is Fiber the Next AI Bottleneck?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amazon-signed-multibillion-dollar-deal-195301832.html",
       "publisher": "Insider Monkey",
-      "time": 1788456096,
+      "time": 1788465181,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "94970797-d5b3-3179-b4dd-b675dbff5c36",
+      "title": "Top Cryptocurrencies Rise; Bitcoin Tops $81,000",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/top-cryptocurrencies-rise-bitcoin-tops-195300574.html",
+      "publisher": "MT Newswires",
+      "time": 1788465180,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "eca7d1f1-5015-3c04-b94e-5c08f3578e45",
+      "title": "HPE Cannot Build AI Servers Fast Enough. Is the Stock Still Cheap?",
+      "link": "https://finance.yahoo.com/m/eca7d1f1-5015-3c04-b94e-5c08f3578e45/hpe-cannot-build-ai-servers.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1788465170,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "12117efe-78d5-3e3c-b9d7-20dd6a6b1487",
+      "title": "Q2 Earnings Recap: Columbus McKinnon (NASDAQ:CMCO) Tops General Industrial Machinery Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-recap-columbus-mckinnon-195118631.html",
+      "publisher": "StockStory",
+      "time": 1788465078,
       "impact": "medium",
       "tags": [
         "macro",
@@ -103,49 +111,45 @@
       ]
     },
     {
-      "id": "885352a3-298f-3448-964b-e92810c38a73",
-      "title": "Kroger Q2 Same-Store Sales Could Miss Estimates, Oppenheimer Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kroger-q2-same-store-sales-172135059.html",
+      "id": "e983abf8-c792-38a9-b14c-23d74d34aff7",
+      "title": "'That doesn't concern me': Vance downplays GOP convention no-shows",
+      "link": "https://finance.yahoo.com/m/e983abf8-c792-38a9-b14c-23d74d34aff7/%27that-doesn%27t-concern-me%27%3A.html",
+      "publisher": "USA TODAY",
+      "time": 1788465015,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8e18eb33-0ab2-3937-b431-3c9b79d5c0ed",
+      "title": "American Assets Trust Founder Ernest Rady Buy $3.7 Million Shares in a Resoundingly Bullish Move",
+      "link": "https://finance.yahoo.com/m/8e18eb33-0ab2-3937-b431-3c9b79d5c0ed/american-assets-trust-founder.html",
+      "publisher": "Motley Fool",
+      "time": 1788464941,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1a182c62-36a3-3ad4-a572-5183a266f957",
+      "title": "Sector Update: Consumer Stocks Mixed Late Afternoon",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-194859935.html",
       "publisher": "MT Newswires",
-      "time": 1788456095,
+      "time": 1788464939,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     },
     {
-      "id": "76ae70b1-965e-3194-ac12-446ab9dc700a",
-      "title": "Lake Victoria Gold Says Initial Works at Imwelo Project in Tanzania Progressing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lake-victoria-gold-says-initial-172118658.html",
+      "id": "cd360283-c270-3f26-acbd-1961d48ecb72",
+      "title": "Update: US Equity Indexes Rise as Plunging Fed Policy Tightening Odds Send Treasury Yields Lower",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-plunging-194711218.html",
       "publisher": "MT Newswires",
-      "time": 1788456078,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "435b39c4-b025-378e-b6dd-ada30691be0d",
-      "title": "AM Best Revises Issuer Credit Rating Outlook to Negative for Frank Winston Crum Insurance Company",
-      "link": "https://finance.yahoo.com/healthcare/articles/am-best-revises-issuer-credit-172100709.html",
-      "publisher": "Business Wire",
-      "time": 1788456060,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fe61f4f7-5048-38f9-9d76-53623994a065",
-      "title": "Scott Bessent lauds $7B Chevron Venezuela deal as a salve to red-hot gas prices, but will it really work?",
-      "link": "https://finance.yahoo.com/energy/articles/scott-bessent-lauds-7b-chevron-172000501.html",
-      "publisher": "Moneywise",
-      "time": 1788456000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a8c898c8-fbbf-353c-86bf-737067ef7049",
-      "title": "Jim Cramer Explains Why He Recommends Buying KLA (KLAC) Stock in Small Doses",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-recommends-171946329.html",
-      "publisher": "Insider Monkey",
-      "time": 1788455986,
-      "impact": "low",
-      "tags": []
+      "time": 1788464831,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     }
   ],
   "errors": {
