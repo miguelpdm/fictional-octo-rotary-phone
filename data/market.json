@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-03T04:51:29.753676+00:00",
+  "updatedAt": "2026-09-03T09:22:43.450229+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19779.0,
-      "change": -45.0,
-      "changePct": -0.22699757869249393,
+      "price": 19899.1,
+      "change": 120.09999999999854,
+      "changePct": 0.6072096668183353,
       "currency": "EUR"
     },
     {
@@ -28,53 +28,53 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25839.33,
-      "change": -418.77999999999884,
-      "changePct": -1.594859645267686,
+      "price": 25903.05,
+      "change": -67.06000000000131,
+      "changePct": -0.2582199305278311,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6362.15,
-      "change": -6.829999999999927,
-      "changePct": -0.10723852170991159,
+      "price": 6369.79,
+      "change": 7.640000000000327,
+      "changePct": 0.1200851913268365,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.2,
-      "change": -1.1400000000000006,
-      "changePct": -6.976744186046516,
+      "price": 15.21,
+      "change": 0.010000000000001563,
+      "changePct": 0.06578947368422082,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "59bfe9d5-9c22-37be-be30-350341307d10",
-      "title": "Brazil-Japan to play World Cup rematch at Singapore tournament",
-      "link": "https://finance.yahoo.com/m/59bfe9d5-9c22-37be-be30-350341307d10/brazil-japan-to-play-world.html",
-      "publisher": "AFP",
-      "time": 1788410489,
+      "id": "93168d7d-4bd3-3da6-8cf9-3cc35cc2c3d0",
+      "title": "PG&E launches strategic review of energy business and financing",
+      "link": "https://finance.yahoo.com/m/93168d7d-4bd3-3da6-8cf9-3cc35cc2c3d0/pg%26e-launches-strategic.html",
+      "publisher": "Power Technology",
+      "time": 1788427165,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "fd0ee68e-43cd-3c7e-8750-63a223ed1e8a",
-      "title": "There's Only One Champion, but Countless Ways to Shine: OMODA and Young People Worldwide – \"Play Your Own Round\"",
-      "link": "https://finance.yahoo.com/media-advertising/articles/theres-only-one-champion-countless-043800698.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788410280,
+      "id": "347decde-d8a0-3f33-8cd3-2f5b95e68821",
+      "title": "IHG opens 685-room Crowne Plaza flagship in New York",
+      "link": "https://finance.yahoo.com/m/347decde-d8a0-3f33-8cd3-2f5b95e68821/ihg-opens-685-room-crowne.html",
+      "publisher": "Hotel Management Network",
+      "time": 1788427149,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2f2375f1-6cd9-3b78-bffd-b1c25a55b12f",
-      "title": "SHOP Stock Heads For Weekly Loss As Cathie Wood’s ARK Trims Stake After 25% August Rally: Valuation Nears 100x Earnings",
-      "link": "https://finance.yahoo.com/m/2f2375f1-6cd9-3b78-bffd-b1c25a55b12f/shop-stock-heads-for-weekly.html",
-      "publisher": "Stocktwits",
-      "time": 1788410241,
+      "id": "3fc44dc5-0644-31de-8b52-bf33789c0993",
+      "title": "HEICO Corp. (HEI): Record Profits And Bold Bets Power Aerospace Supplier’s Surge",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heico-corp-hei-record-profits-091725883.html",
+      "publisher": "Insider Monkey",
+      "time": 1788427045,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,67 +82,70 @@
       ]
     },
     {
-      "id": "db3093bb-0077-30e3-92d2-4f39d69e70fc",
-      "title": "3 AI Power Stocks With Revenue Over $4B",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-power-stocks-revenue-043333548.html",
-      "publisher": "Simply Wall St.",
-      "time": 1788410013,
+      "id": "b9990141-52fc-36fe-a3d7-8fdf9f24a2ac",
+      "title": "Fashion retailer TFG plans 280 more store closures over next three years",
+      "link": "https://finance.yahoo.com/m/b9990141-52fc-36fe-a3d7-8fdf9f24a2ac/fashion-retailer-tfg-plans.html",
+      "publisher": "Retail Insight Network",
+      "time": 1788426952,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ab669bf2-1ccc-3d93-a4b1-f60be9cd2db2",
+      "title": "China demands France scrap fast fashion law targeting Shein and Temu",
+      "link": "https://finance.yahoo.com/m/ab669bf2-1ccc-3d93-a4b1-f60be9cd2db2/china-demands-france-scrap.html",
+      "publisher": "Euronews",
+      "time": 1788426919,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "geo"
       ]
     },
     {
-      "id": "7a7e85b6-0924-3dcf-bc6b-9412da5cb5ff",
-      "title": "Eurofins Scientific (ENXTPA:ERF) Reports Insider Sales, Is The Stock Fairly Valued?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/eurofins-scientific-enxtpa-erf-reports-043222783.html",
-      "publisher": "Simply Wall St.",
-      "time": 1788409942,
+      "id": "7e31458d-3e8c-3e8c-8e35-5cbad4f22a9e",
+      "title": "Dollar’s Drop Helped by Sharp Yen Gains",
+      "link": "https://finance.yahoo.com/m/7e31458d-3e8c-3e8c-8e35-5cbad4f22a9e/dollar%E2%80%99s-drop-helped-by-sharp.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1788426720,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "56cc5c79-8b92-3375-93f4-7e2d30f235ee",
-      "title": "Ford Motor (F) Eyes NATO Ranger Military Sales",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ford-motor-f-eyes-nato-043150934.html",
-      "publisher": "Simply Wall St.",
-      "time": 1788409910,
+      "id": "667cb31c-92de-3398-92a2-a7aaec054ecb",
+      "title": "Norway seizes Russian ship in the Arctic over Ukraine's $4.2 billion Crimea claim",
+      "link": "https://finance.yahoo.com/m/667cb31c-92de-3398-92a2-a7aaec054ecb/norway-seizes-russian-ship-in.html",
+      "publisher": "Euronews",
+      "time": 1788426711,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "43939595-daa2-3b89-b08b-576c6fd5c35f",
-      "title": "Is Backlog Growth And Higher-Margin AI Shift Altering The Investment Case For BigBear.ai (BBAI)?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/backlog-growth-higher-margin-ai-043147887.html",
-      "publisher": "Simply Wall St.",
-      "time": 1788409907,
+      "id": "b0f17d0f-fad8-3ac8-af98-c4569bc5ea4d",
+      "title": "3 Profitable Stocks We Steer Clear Of",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-profitable-stocks-steer-clear-091118253.html",
+      "publisher": "StockStory",
+      "time": 1788426678,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "d49de56f-403c-3eae-8877-93da96dd6fd4",
+      "title": "VPN Browser Expands Access to 300+ VPN Servers Across 80 Locations",
+      "link": "https://finance.yahoo.com/technology/articles/vpn-browser-expands-access-300-091100068.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788426660,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bd5c4ffe-e2b2-3f95-acbe-956500f0fe22",
-      "title": "What Does Bristol Myers Squibb (BMY) Trial Pause Mean For Its Pipeline?",
-      "link": "https://finance.yahoo.com/healthcare/articles/does-bristol-myers-squibb-bmy-043119770.html",
-      "publisher": "Simply Wall St.",
-      "time": 1788409879,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "295ea7d0-5f8f-3f7a-b7f6-0b7117fc9ebc",
-      "title": "Why Johnson Controls International (JCI) Is Back In The Spotlight",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-johnson-controls-international-jci-043101012.html",
-      "publisher": "Simply Wall St.",
-      "time": 1788409861,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "871df351-6e5c-3581-b8ef-3f9865cae219",
-      "title": "Alcaraz believes 'impossible' schedule raising injury threat",
-      "link": "https://finance.yahoo.com/m/871df351-6e5c-3581-b8ef-3f9865cae219/alcaraz-believes-%27impossible%27.html",
-      "publisher": "AFP",
-      "time": 1788409856,
+      "id": "df9e2771-84c3-3e09-b169-747aca2a8c9a",
+      "title": "Box (BOX) Turns Enterprise Files Into AI Fuel",
+      "link": "https://finance.yahoo.com/technology/ai/articles/box-box-turns-enterprise-files-091016434.html",
+      "publisher": "Insider Monkey",
+      "time": 1788426616,
       "impact": "low",
       "tags": []
     }
