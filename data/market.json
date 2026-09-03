@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T20:00:59.515294+00:00",
+  "updatedAt": "2026-09-03T22:41:21.658874+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,9 +12,9 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7747.59,
-      "change": 116.11999999999989,
-      "changePct": 1.5215941358611105,
+      "price": 7747.71,
+      "change": 116.23999999999978,
+      "changePct": 1.5231665721020953,
       "currency": "USD"
     },
     {
@@ -44,66 +44,28 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.36,
-      "change": -0.8399999999999999,
-      "changePct": -5.526315789473683,
+      "price": 14.32,
+      "change": -0.879999999999999,
+      "changePct": -5.78947368421052,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "ac70a980-561d-380d-aa13-2c3c0038032a",
-      "title": "Tesla Cybercab: Here's What To Expect From Thursday's Event",
-      "link": "https://finance.yahoo.com/m/ac70a980-561d-380d-aa13-2c3c0038032a/tesla-cybercab%3A-here%27s-what.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1788465398,
+      "id": "ed04706a-a17d-36df-a230-f81d89079e0e",
+      "title": "Nvidia’s $12.93 Billion Hugging Face Deal Expands Jensen Huang's AI Platform Beyond Chips",
+      "link": "https://finance.yahoo.com/m/ed04706a-a17d-36df-a230-f81d89079e0e/nvidia%E2%80%99s-%2412.93-billion.html",
+      "publisher": "Motley Fool",
+      "time": 1788474781,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ebd790e8-073b-3f99-bc4e-68d77fae92c3",
-      "title": "Sector Update: Energy Stocks Decline Late Afternoon",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-195350875.html",
-      "publisher": "MT Newswires",
-      "time": 1788465230,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "56149a22-a9bf-3b01-82da-e9b6270e8e50",
-      "title": "Amazon Signed a Multibillion-Dollar Deal With a 175-Year-Old Glassmaker. Is Fiber the Next AI Bottleneck?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/amazon-signed-multibillion-dollar-deal-195301832.html",
-      "publisher": "Insider Monkey",
-      "time": 1788465181,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "94970797-d5b3-3179-b4dd-b675dbff5c36",
-      "title": "Top Cryptocurrencies Rise; Bitcoin Tops $81,000",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/top-cryptocurrencies-rise-bitcoin-tops-195300574.html",
-      "publisher": "MT Newswires",
-      "time": 1788465180,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "eca7d1f1-5015-3c04-b94e-5c08f3578e45",
-      "title": "HPE Cannot Build AI Servers Fast Enough. Is the Stock Still Cheap?",
-      "link": "https://finance.yahoo.com/m/eca7d1f1-5015-3c04-b94e-5c08f3578e45/hpe-cannot-build-ai-servers.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1788465170,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "12117efe-78d5-3e3c-b9d7-20dd6a6b1487",
-      "title": "Q2 Earnings Recap: Columbus McKinnon (NASDAQ:CMCO) Tops General Industrial Machinery Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-recap-columbus-mckinnon-195118631.html",
+      "id": "cc105c15-827e-3fe0-99b8-3bb21b345d5f",
+      "title": "Heavy Machinery Q2 Earnings: Caterpillar (NYSE:CAT) is the Best in the Biz",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heavy-machinery-q2-earnings-caterpillar-223118847.html",
       "publisher": "StockStory",
-      "time": 1788465078,
+      "time": 1788474678,
       "impact": "medium",
       "tags": [
         "macro",
@@ -111,45 +73,82 @@
       ]
     },
     {
-      "id": "e983abf8-c792-38a9-b14c-23d74d34aff7",
-      "title": "'That doesn't concern me': Vance downplays GOP convention no-shows",
-      "link": "https://finance.yahoo.com/m/e983abf8-c792-38a9-b14c-23d74d34aff7/%27that-doesn%27t-concern-me%27%3A.html",
-      "publisher": "USA TODAY",
-      "time": 1788465015,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8e18eb33-0ab2-3937-b431-3c9b79d5c0ed",
-      "title": "American Assets Trust Founder Ernest Rady Buy $3.7 Million Shares in a Resoundingly Bullish Move",
-      "link": "https://finance.yahoo.com/m/8e18eb33-0ab2-3937-b431-3c9b79d5c0ed/american-assets-trust-founder.html",
-      "publisher": "Motley Fool",
-      "time": 1788464941,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1a182c62-36a3-3ad4-a572-5183a266f957",
-      "title": "Sector Update: Consumer Stocks Mixed Late Afternoon",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-194859935.html",
-      "publisher": "MT Newswires",
-      "time": 1788464939,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "cd360283-c270-3f26-acbd-1961d48ecb72",
-      "title": "Update: US Equity Indexes Rise as Plunging Fed Policy Tightening Odds Send Treasury Yields Lower",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-plunging-194711218.html",
-      "publisher": "MT Newswires",
-      "time": 1788464831,
+      "id": "018d327c-a5d6-301f-b7be-c9301ab67ce8",
+      "title": "Homerun Resources Inc. Extends Term of 1,675,054 Warrants",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/homerun-resources-inc-extends-term-223100240.html",
+      "publisher": "TMX Newsfile",
+      "time": 1788474660,
       "impact": "high",
       "tags": [
         "geo",
         "macro"
       ]
+    },
+    {
+      "id": "cda56478-ff7e-37e0-af5f-1eeee5be0d97",
+      "title": "BC-Nikkei 225 Futures",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/bc-nikkei-225-futures-223017191.html",
+      "publisher": "Associated Press",
+      "time": 1788474617,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2dd71cfe-3a2f-38c2-a4bb-5a48937bafdc",
+      "title": "eGenesis Announces Clinical Update in Ongoing Expanded Access Study of EGEN-2784 in Patients with Kidney Failure",
+      "link": "https://finance.yahoo.com/healthcare/articles/egenesis-announces-clinical-ongoing-expanded-223000380.html",
+      "publisher": "Business Wire",
+      "time": 1788474600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c7aec917-c3b8-3dfb-b7a2-240207550782",
+      "title": "Euro Sun Mining Announces Non‑Binding MoU for US$400 Million Senior Debt Facility and Term Sheet for US$3 Million Strategic Equity Investment",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/euro-sun-mining-announces-non-223000730.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788474600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "740c15ce-1f3b-3969-a7a2-1dfd5fb8403f",
+      "title": "Lawsuit Alleges Montgomery County BOE Failed to Protect Student Despite Years of Complaints About Teacher Daniel J. Picca",
+      "link": "https://finance.yahoo.com/healthcare/articles/lawsuit-alleges-montgomery-county-boe-222700559.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1788474420,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "da95806b-4bc0-3aa8-a640-bc09096a4398",
+      "title": "PL Stock Jumps 8% After-Hours As Planet Labs Delivers A Blowout Quarter — Retail Calls Q2 ‘A Clean Beat’ Despite Soft Q3 Outlook",
+      "link": "https://finance.yahoo.com/m/da95806b-4bc0-3aa8-a640-bc09096a4398/pl-stock-jumps-8%25-after-hours.html",
+      "publisher": "Stocktwits",
+      "time": 1788474407,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "dd97f557-8162-348b-8996-795ae7092089",
+      "title": "Dow Jones Futures: Stocks Jump On Fed's Waller; Tesla Cybercab Event Private, Jobs Report Looms",
+      "link": "https://finance.yahoo.com/m/dd97f557-8162-348b-8996-795ae7092089/dow-jones-futures%3A-stocks.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1788474332,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "3810c34a-5d7c-34a9-9573-92e059c3747c",
+      "title": "S&P 500, Dow End Best Day In A Month On Calmer Yields As Rate Hike Bets Wane — SPCX, VSXY, NVDA, TSLA In Focus",
+      "link": "https://finance.yahoo.com/m/3810c34a-5d7c-34a9-9573-92e059c3747c/s%26p-500%2C-dow-end-best-day-in.html",
+      "publisher": "Stocktwits",
+      "time": 1788474298,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
