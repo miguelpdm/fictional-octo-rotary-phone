@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T22:41:21.658874+00:00",
+  "updatedAt": "2026-09-04T00:37:01.638117+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,20 +52,41 @@
   ],
   "news": [
     {
-      "id": "ed04706a-a17d-36df-a230-f81d89079e0e",
-      "title": "Nvidia’s $12.93 Billion Hugging Face Deal Expands Jensen Huang's AI Platform Beyond Chips",
-      "link": "https://finance.yahoo.com/m/ed04706a-a17d-36df-a230-f81d89079e0e/nvidia%E2%80%99s-%2412.93-billion.html",
-      "publisher": "Motley Fool",
-      "time": 1788474781,
+      "id": "04ab731d-f75d-3454-8d57-07ba2d707e83",
+      "title": "Vance says Iran fight isn't a 'war' as Trump tries to navigate unpopular conflict as election nears",
+      "link": "https://finance.yahoo.com/m/04ab731d-f75d-3454-8d57-07ba2d707e83/vance-says-iran-fight-isn%27t-a.html",
+      "publisher": "Associated Press",
+      "time": 1788481810,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "7cbfc06d-ca7d-3bd8-8a62-4d7733bc2b3e",
+      "title": "Analysts rank Bitcoin above Tesla in new tech growth asset list",
+      "link": "https://finance.yahoo.com/m/7cbfc06d-ca7d-3bd8-8a62-4d7733bc2b3e/analysts-rank-bitcoin-above.html",
+      "publisher": "TheStreet",
+      "time": 1788481433,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cc105c15-827e-3fe0-99b8-3bb21b345d5f",
-      "title": "Heavy Machinery Q2 Earnings: Caterpillar (NYSE:CAT) is the Best in the Biz",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/heavy-machinery-q2-earnings-caterpillar-223118847.html",
+      "id": "cf378746-f44b-3e6f-8561-eed0171694c4",
+      "title": "Lululemon's Comparable Sales Fell 9%. Can New CEO Heidi O'Neill Turn Things Around or Is the Brand Broken?",
+      "link": "https://finance.yahoo.com/m/cf378746-f44b-3e6f-8561-eed0171694c4/lululemon%27s-comparable-sales.html",
+      "publisher": "Motley Fool",
+      "time": 1788481432,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9a098a77-30dd-37d2-b92b-84b6e7413403",
+      "title": "Q2 Earnings Outperformers: CarGurus (NASDAQ:CARG) And The Rest Of The Online Marketplace Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-outperformers-cargurus-nasdaq-002318707.html",
       "publisher": "StockStory",
-      "time": 1788474678,
+      "time": 1788481398,
       "impact": "medium",
       "tags": [
         "macro",
@@ -73,68 +94,11 @@
       ]
     },
     {
-      "id": "018d327c-a5d6-301f-b7be-c9301ab67ce8",
-      "title": "Homerun Resources Inc. Extends Term of 1,675,054 Warrants",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/homerun-resources-inc-extends-term-223100240.html",
-      "publisher": "TMX Newsfile",
-      "time": 1788474660,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "cda56478-ff7e-37e0-af5f-1eeee5be0d97",
-      "title": "BC-Nikkei 225 Futures",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/bc-nikkei-225-futures-223017191.html",
-      "publisher": "Associated Press",
-      "time": 1788474617,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2dd71cfe-3a2f-38c2-a4bb-5a48937bafdc",
-      "title": "eGenesis Announces Clinical Update in Ongoing Expanded Access Study of EGEN-2784 in Patients with Kidney Failure",
-      "link": "https://finance.yahoo.com/healthcare/articles/egenesis-announces-clinical-ongoing-expanded-223000380.html",
-      "publisher": "Business Wire",
-      "time": 1788474600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c7aec917-c3b8-3dfb-b7a2-240207550782",
-      "title": "Euro Sun Mining Announces Non‑Binding MoU for US$400 Million Senior Debt Facility and Term Sheet for US$3 Million Strategic Equity Investment",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/euro-sun-mining-announces-non-223000730.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788474600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "740c15ce-1f3b-3969-a7a2-1dfd5fb8403f",
-      "title": "Lawsuit Alleges Montgomery County BOE Failed to Protect Student Despite Years of Complaints About Teacher Daniel J. Picca",
-      "link": "https://finance.yahoo.com/healthcare/articles/lawsuit-alleges-montgomery-county-boe-222700559.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1788474420,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "da95806b-4bc0-3aa8-a640-bc09096a4398",
-      "title": "PL Stock Jumps 8% After-Hours As Planet Labs Delivers A Blowout Quarter — Retail Calls Q2 ‘A Clean Beat’ Despite Soft Q3 Outlook",
-      "link": "https://finance.yahoo.com/m/da95806b-4bc0-3aa8-a640-bc09096a4398/pl-stock-jumps-8%25-after-hours.html",
-      "publisher": "Stocktwits",
-      "time": 1788474407,
-      "impact": "low",
-      "tags": []
-    },
-    {
       "id": "dd97f557-8162-348b-8996-795ae7092089",
       "title": "Dow Jones Futures: Stocks Jump On Fed's Waller; Tesla Cybercab Event Private, Jobs Report Looms",
       "link": "https://finance.yahoo.com/m/dd97f557-8162-348b-8996-795ae7092089/dow-jones-futures%3A-stocks.html",
       "publisher": "Investor's Business Daily",
-      "time": 1788474332,
+      "time": 1788481269,
       "impact": "high",
       "tags": [
         "geo",
@@ -142,11 +106,53 @@
       ]
     },
     {
-      "id": "3810c34a-5d7c-34a9-9573-92e059c3747c",
-      "title": "S&P 500, Dow End Best Day In A Month On Calmer Yields As Rate Hike Bets Wane — SPCX, VSXY, NVDA, TSLA In Focus",
-      "link": "https://finance.yahoo.com/m/3810c34a-5d7c-34a9-9573-92e059c3747c/s%26p-500%2C-dow-end-best-day-in.html",
-      "publisher": "Stocktwits",
-      "time": 1788474298,
+      "id": "a1940997-e605-3fc8-a4bb-8c0c7094c4fa",
+      "title": "LegalZoom.com (LZ) Could Be 16% Undervalued On Soft Guidance And Its AI Pivot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/legalzoom-com-lz-could-16-002046946.html",
+      "publisher": "Simply Wall St.",
+      "time": 1788481246,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "b2e7fab9-b2c4-391b-a7d0-e43dc6331706",
+      "title": "Leadership Shift And Upgraded Outlook Could Be A Game Changer For Waters (WAT)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/leadership-shift-upgraded-outlook-could-002018374.html",
+      "publisher": "Simply Wall St.",
+      "time": 1788481218,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "67bb6fb3-8bd4-3aba-8675-d37184b384a6",
+      "title": "Should You Ignore Rocket Lab Stock? Why SpaceX May Be the Better Space Stock Today.",
+      "link": "https://finance.yahoo.com/m/67bb6fb3-8bd4-3aba-8675-d37184b384a6/should-you-ignore-rocket-lab.html",
+      "publisher": "Motley Fool",
+      "time": 1788481200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9a840ac4-32f7-3aa7-9324-744d3112af87",
+      "title": "Michelle Schmaderer Launches House of Profits™, a First-of-Its-Kind Business-Building Experience for the AI Economy",
+      "link": "https://finance.yahoo.com/small-business/articles/michelle-schmaderer-launches-house-profits-002000087.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788481200,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "6b9fa00d-3535-3cca-930f-b0790fddabfe",
+      "title": "Kyrgios gets month ban for cocaine, enters treatment programme",
+      "link": "https://finance.yahoo.com/m/6b9fa00d-3535-3cca-930f-b0790fddabfe/kyrgios-gets-month-ban-for.html",
+      "publisher": "AFP",
+      "time": 1788481176,
       "impact": "low",
       "tags": []
     }
