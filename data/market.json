@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T19:44:59.291414+00:00",
+  "updatedAt": "2026-09-04T22:00:18.640093+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7715.03,
-      "change": 48.42999999999938,
-      "changePct": 0.6317011452273418,
+      "price": 7718.6,
+      "change": 52.0,
+      "changePct": 0.678266767537109,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26492.47,
-      "change": 274.6399999999994,
-      "changePct": 1.0475313937118342,
+      "price": 26506.99,
+      "change": 289.15999999999985,
+      "changePct": 1.102913551579211,
       "currency": "USD"
     },
     {
@@ -44,104 +44,114 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.3,
-      "change": -0.019999999999999574,
-      "changePct": -0.13966480446927076,
+      "price": 14.53,
+      "change": 0.20999999999999908,
+      "changePct": 1.4664804469273678,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "c19a9c39-3b2c-32f2-a10a-38ca210121cb",
-      "title": "SpaceX Targets AI Biggest Bottleneck. Musk Plans New Turbine Manufacturing Push",
-      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-targets-ai-biggest-bottleneck-194308339.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788550988,
+      "id": "0817fcb8-d9ff-3d24-9b45-15e585957e5f",
+      "title": "SCHD vs JEPI: After Comparing America’s Favorite Dividend ETF With Its Favorite Income ETF, One Is the Better Buy for Retirement",
+      "link": "https://finance.yahoo.com/m/0817fcb8-d9ff-3d24-9b45-15e585957e5f/schd-vs-jepi%3A-after-comparing.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1788558955,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1836f05d-b93d-3111-b1af-71b00e7432ad",
-      "title": "Update: Trade Desk Shares Fall After Company Announces 15% Workforce Cut",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/trade-desk-shares-fall-company-194306197.html",
-      "publisher": "MT Newswires",
-      "time": 1788550986,
-      "impact": "medium",
+      "id": "a90d49d2-fc57-35c1-bc92-3be9370ef9dc",
+      "title": "Isak fires Liverpool to first win under Iraola at Ipswich",
+      "link": "https://finance.yahoo.com/m/a90d49d2-fc57-35c1-bc92-3be9370ef9dc/isak-fires-liverpool-to-first.html",
+      "publisher": "AFP",
+      "time": 1788558929,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6e7f64a1-e32e-3709-a314-44dc660a5b42",
+      "title": "Trump is Rebuilding the CFTC, But It Might Not Favor Crypto",
+      "link": "https://finance.yahoo.com/m/6e7f64a1-e32e-3709-a314-44dc660a5b42/trump-is-rebuilding-the-cftc%2C.html",
+      "publisher": "BeInCrypto",
+      "time": 1788558812,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "63f1f4b5-b0ce-3e55-8fbc-9ac70cb85747",
+      "title": "Pemi Launches a New Women's Daily Supplement Routine Built Specifically for Perimenopause",
+      "link": "https://finance.yahoo.com/healthcare/articles/pemi-launches-womens-daily-supplement-215200647.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788558720,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2cea6526-f1c8-3c89-bd1a-db24507ccc85",
+      "title": "Why Cloudflare (NET) Dipped More Than Broader Market Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-cloudflare-net-dipped-more-215002701.html",
+      "publisher": "Zacks",
+      "time": 1788558602,
+      "impact": "low",
       "tags": [
-        "geo"
+        "macro"
       ]
     },
     {
-      "id": "89816ced-4f92-3124-a359-75ce685cb83a",
-      "title": "DocuSign IAM Platform Needs to Show Clearer Proof of 'More Meaningful' Contribution to Growth, Morgan Stanley Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/docusign-iam-platform-needs-show-194228714.html",
-      "publisher": "MT Newswires",
-      "time": 1788550948,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9a213422-2b3a-31c9-9a03-b82e15b8220b",
-      "title": "Diesel Prices Soar to Record Amid Tight Crude Supply",
-      "link": "https://finance.yahoo.com/energy/articles/diesel-prices-soar-record-amid-194154051.html",
-      "publisher": "MT Newswires",
-      "time": 1788550914,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e1c6e79b-3f2a-3c1b-af86-64123ec90352",
-      "title": "SoundHound Closes LivePerson Deal And Issues 37 Million Shares",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/soundhound-closes-liveperson-deal-issues-194123306.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788550883,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c5885e8e-9656-3a3e-aac5-0847c5b01cd5",
-      "title": "Update: Quanex Building Products Shares Rise After Q3 Beat",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/quanex-building-products-shares-rise-193945685.html",
-      "publisher": "MT Newswires",
-      "time": 1788550785,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cd9ca485-8577-38d7-9233-82c90e89d107",
-      "title": "Microsoft Drops 1.6%, Opens Azure's $101.9 Billion Door",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-drops-1-6-opens-193935631.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788550775,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cccb450e-2c06-37e4-8b01-3259ff2ee314",
-      "title": "Job growth but record-high diesel prices -- Trump's midterms mixed bag",
-      "link": "https://finance.yahoo.com/economy/articles/us-shows-strong-job-growth-135543820.html",
-      "publisher": "AFP",
-      "time": 1788550769,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "32da9bd0-eacd-3ec0-905d-50827b518903",
-      "title": "Here's Why You Should Retain Cencora Stock in Your Portfolio for Now",
-      "link": "https://finance.yahoo.com/healthcare/articles/heres-why-retain-cencora-stock-193900115.html",
+      "id": "3dadbd9f-41c5-3db2-8265-94699f6652dd",
+      "title": "SkyWest (SKYW) Increases Despite Market Slip: Here's What You Need to Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/skywest-skyw-increases-despite-market-215002701.html",
       "publisher": "Zacks",
-      "time": 1788550740,
+      "time": 1788558602,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     },
     {
-      "id": "d79840b8-ccf2-3f26-81b6-26b8900b669d",
-      "title": "Google Turns Three Everyday Apps Into Paid Gemini Microphones",
-      "link": "https://finance.yahoo.com/technology/ai/articles/google-turns-three-everyday-apps-193846909.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788550726,
+      "id": "3eb5a084-8a26-31e4-a588-68e86a3bc932",
+      "title": "Strategy (MSTR) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-sees-more-significant-215002026.html",
+      "publisher": "Zacks",
+      "time": 1788558602,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "6036bb6e-053e-3515-bee3-a5fe4995e804",
+      "title": "Roku (ROKU) Declines More Than Market: Some Information for Investors",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/roku-roku-declines-more-market-215002452.html",
+      "publisher": "Zacks",
+      "time": 1788558602,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "796339c8-088d-3aa0-926f-fdfc3da3a611",
+      "title": "Newmont Corporation (NEM) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/newmont-corporation-nem-registers-bigger-215002953.html",
+      "publisher": "Zacks",
+      "time": 1788558602,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "cf9d8e97-2426-38bb-8606-77973863cfad",
+      "title": "Texas Instruments (TXN) Gains As Market Dips: What You Should Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-txn-gains-market-215002909.html",
+      "publisher": "Zacks",
+      "time": 1788558602,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
