@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T00:37:01.638117+00:00",
+  "updatedAt": "2026-09-04T05:20:08.203191+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,7 +39,7 @@
       "price": 6382.59,
       "change": 20.44000000000051,
       "changePct": 0.32127504067022167,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
@@ -52,95 +52,29 @@
   ],
   "news": [
     {
-      "id": "04ab731d-f75d-3454-8d57-07ba2d707e83",
-      "title": "Vance says Iran fight isn't a 'war' as Trump tries to navigate unpopular conflict as election nears",
-      "link": "https://finance.yahoo.com/m/04ab731d-f75d-3454-8d57-07ba2d707e83/vance-says-iran-fight-isn%27t-a.html",
-      "publisher": "Associated Press",
-      "time": 1788481810,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "7cbfc06d-ca7d-3bd8-8a62-4d7733bc2b3e",
-      "title": "Analysts rank Bitcoin above Tesla in new tech growth asset list",
-      "link": "https://finance.yahoo.com/m/7cbfc06d-ca7d-3bd8-8a62-4d7733bc2b3e/analysts-rank-bitcoin-above.html",
-      "publisher": "TheStreet",
-      "time": 1788481433,
+      "id": "d528d29b-ebb4-3fec-bc98-f05e1667dcde",
+      "title": "CPB Stock Heads For Worst Week Since March: Jefferies Sees 2027 'Shaping Up As A Difficult Year' After Dividend Cut",
+      "link": "https://finance.yahoo.com/m/d528d29b-ebb4-3fec-bc98-f05e1667dcde/cpb-stock-heads-for-worst.html",
+      "publisher": "Stocktwits",
+      "time": 1788498300,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cf378746-f44b-3e6f-8561-eed0171694c4",
-      "title": "Lululemon's Comparable Sales Fell 9%. Can New CEO Heidi O'Neill Turn Things Around or Is the Brand Broken?",
-      "link": "https://finance.yahoo.com/m/cf378746-f44b-3e6f-8561-eed0171694c4/lululemon%27s-comparable-sales.html",
-      "publisher": "Motley Fool",
-      "time": 1788481432,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9a098a77-30dd-37d2-b92b-84b6e7413403",
-      "title": "Q2 Earnings Outperformers: CarGurus (NASDAQ:CARG) And The Rest Of The Online Marketplace Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-outperformers-cargurus-nasdaq-002318707.html",
-      "publisher": "StockStory",
-      "time": 1788481398,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "dd97f557-8162-348b-8996-795ae7092089",
-      "title": "Dow Jones Futures: Stocks Jump On Fed's Waller; Tesla Cybercab Event Private, Jobs Report Looms",
-      "link": "https://finance.yahoo.com/m/dd97f557-8162-348b-8996-795ae7092089/dow-jones-futures%3A-stocks.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1788481269,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "a1940997-e605-3fc8-a4bb-8c0c7094c4fa",
-      "title": "LegalZoom.com (LZ) Could Be 16% Undervalued On Soft Guidance And Its AI Pivot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/legalzoom-com-lz-could-16-002046946.html",
-      "publisher": "Simply Wall St.",
-      "time": 1788481246,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "b2e7fab9-b2c4-391b-a7d0-e43dc6331706",
-      "title": "Leadership Shift And Upgraded Outlook Could Be A Game Changer For Waters (WAT)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/leadership-shift-upgraded-outlook-could-002018374.html",
-      "publisher": "Simply Wall St.",
-      "time": 1788481218,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "67bb6fb3-8bd4-3aba-8675-d37184b384a6",
-      "title": "Should You Ignore Rocket Lab Stock? Why SpaceX May Be the Better Space Stock Today.",
-      "link": "https://finance.yahoo.com/m/67bb6fb3-8bd4-3aba-8675-d37184b384a6/should-you-ignore-rocket-lab.html",
-      "publisher": "Motley Fool",
-      "time": 1788481200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9a840ac4-32f7-3aa7-9324-744d3112af87",
-      "title": "Michelle Schmaderer Launches House of Profits™, a First-of-Its-Kind Business-Building Experience for the AI Economy",
-      "link": "https://finance.yahoo.com/small-business/articles/michelle-schmaderer-launches-house-profits-002000087.html",
+      "id": "1997e1ad-48b2-35c4-8d6d-752895b35a01",
+      "title": "Ayurveda You & Me Expands Holistic Wellness Services in Cyprus",
+      "link": "https://finance.yahoo.com/healthcare/articles/ayurveda-expands-holistic-wellness-services-050400889.html",
       "publisher": "GlobeNewswire",
-      "time": 1788481200,
+      "time": 1788498240,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4c58dda0-a461-3023-ab11-e72b1c3a9821",
+      "title": "Zscaler Inc (ZS) (Q4 2026) Earnings Call Highlights: Record Operating Margin and Accelerating ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zscaler-inc-zs-q4-2026-050157017.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788498117,
       "impact": "medium",
       "tags": [
         "macro",
@@ -148,13 +82,88 @@
       ]
     },
     {
-      "id": "6b9fa00d-3535-3cca-930f-b0790fddabfe",
-      "title": "Kyrgios gets month ban for cocaine, enters treatment programme",
-      "link": "https://finance.yahoo.com/m/6b9fa00d-3535-3cca-930f-b0790fddabfe/kyrgios-gets-month-ban-for.html",
-      "publisher": "AFP",
-      "time": 1788481176,
-      "impact": "low",
-      "tags": []
+      "id": "b9f855ab-d0e8-3324-9b34-98a4d2e857d6",
+      "title": "Lululemon Athletica Inc (LULU) (Q2 2026) Earnings Call Highlights: Revenue Declines 4% as ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lululemon-athletica-inc-lulu-q2-050145222.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788498105,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9aec5f5a-7fad-351d-a5d7-42384639d108",
+      "title": "Mama's Creations Inc (MAMA) (Q2 2027) Earnings Call Highlights: Revenue Surges 55% as Kroger ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mamas-creations-inc-mama-q2-050142888.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788498102,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "9596b995-9ebc-330b-999b-08359b7fbf3a",
+      "title": "Asana Inc (ASAN) (Q2 2027) Earnings Call Highlights: AI Products Drive 25% of Net New ARR Amid ...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/asana-inc-asan-q2-2027-050127746.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788498087,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "d6265ed4-6362-3a90-9161-187aef7b56f3",
+      "title": "Guidewire Software Inc (GWRE) (Q4 2026) Earnings Call Highlights: Record ARR Growth and ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/guidewire-software-inc-gwre-q4-050124411.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788498084,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "3555abf1-b7f3-3200-a086-4f6c673029a3",
+      "title": "Torrid Holdings Inc (CURV) (Q2 2026) Earnings Call Highlights: Sub-Brand Growth and Tariff ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/torrid-holdings-inc-curv-q2-050122787.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788498082,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "be5b4b15-f4a5-351d-b075-7aa3f317d13f",
+      "title": "eGain Corp (EGAN) (Q4 2026) Earnings Call Highlights: AI Growth Drives Record Cash Flow Amid ...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/egain-corp-egan-q4-2026-050121679.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788498081,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "68e94e83-2139-3bc0-a870-a2111ac9903a",
+      "title": "Smith & Wesson Brands Inc (SWBI) (Q1 2027) Earnings Call Highlights: Strong Sales Growth ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/smith-wesson-brands-inc-swbi-050116490.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788498076,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
