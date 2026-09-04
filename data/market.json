@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-04T05:20:08.203191+00:00",
+  "updatedAt": "2026-09-04T09:48:18.270360+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20000.2,
-      "change": 221.20000000000073,
-      "changePct": 1.118357854289907,
+      "price": 19935.5,
+      "change": -64.70000000000073,
+      "changePct": -0.3234967650323533,
       "currency": "EUR"
     },
     {
@@ -28,53 +28,53 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26003.32,
-      "change": 33.20999999999913,
-      "changePct": 0.12787777949342197,
+      "price": 25995.17,
+      "change": 155.8399999999965,
+      "changePct": 0.6031116131880992,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6382.59,
-      "change": 20.44000000000051,
-      "changePct": 0.32127504067022167,
-      "currency": null
+      "price": 6375.58,
+      "change": -7.010000000000218,
+      "changePct": -0.10983002198167544,
+      "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.32,
-      "change": -0.879999999999999,
-      "changePct": -5.78947368421052,
+      "price": 14.24,
+      "change": -0.08000000000000007,
+      "changePct": -0.5586592178770954,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "d528d29b-ebb4-3fec-bc98-f05e1667dcde",
-      "title": "CPB Stock Heads For Worst Week Since March: Jefferies Sees 2027 'Shaping Up As A Difficult Year' After Dividend Cut",
-      "link": "https://finance.yahoo.com/m/d528d29b-ebb4-3fec-bc98-f05e1667dcde/cpb-stock-heads-for-worst.html",
-      "publisher": "Stocktwits",
-      "time": 1788498300,
+      "id": "8d2bbf9b-c300-436c-9b90-b54cd11d4635",
+      "title": "Lululemon made one really stupid decision this year that explains why its stock is getting blown up",
+      "link": "https://finance.yahoo.com/markets/stocks/article/lululemon-made-one-really-stupid-decision-this-year-that-explains-why-its-stock-is-getting-blown-up-094518717.html",
+      "publisher": "Yahoo Finance",
+      "time": 1788515118,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1997e1ad-48b2-35c4-8d6d-752895b35a01",
-      "title": "Ayurveda You & Me Expands Holistic Wellness Services in Cyprus",
-      "link": "https://finance.yahoo.com/healthcare/articles/ayurveda-expands-holistic-wellness-services-050400889.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788498240,
+      "id": "c61d5eb3-9db6-3bc6-a512-c5b2a188ca1d",
+      "title": "Wells Fargo Adjusts PT on Lululemon Athletica to $95 From $105, Keeps Equalweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-pt-lululemon-094340557.html",
+      "publisher": "MT Newswires",
+      "time": 1788515020,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4c58dda0-a461-3023-ab11-e72b1c3a9821",
-      "title": "Zscaler Inc (ZS) (Q4 2026) Earnings Call Highlights: Record Operating Margin and Accelerating ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zscaler-inc-zs-q4-2026-050157017.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788498117,
+      "id": "b516873d-e21c-3a92-a1af-6b94e0d1d3fc",
+      "title": "Update: Samsara Fiscal Q2 Non-GAAP Earnings, Revenue Beat Views; Shares Up Pre-Bell",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/samsara-fiscal-q2-non-gaap-094339924.html",
+      "publisher": "MT Newswires",
+      "time": 1788515019,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,87 +82,71 @@
       ]
     },
     {
-      "id": "b9f855ab-d0e8-3324-9b34-98a4d2e857d6",
-      "title": "Lululemon Athletica Inc (LULU) (Q2 2026) Earnings Call Highlights: Revenue Declines 4% as ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lululemon-athletica-inc-lulu-q2-050145222.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788498105,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "3fa8e367-9055-3708-a41f-3e13d97f030e",
+      "title": "Evercore ISI Adjusts Price Target on lululemon athletica to $95 From $115, Keeps In Line Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-adjusts-price-target-094319190.html",
+      "publisher": "MT Newswires",
+      "time": 1788514999,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "9aec5f5a-7fad-351d-a5d7-42384639d108",
-      "title": "Mama's Creations Inc (MAMA) (Q2 2027) Earnings Call Highlights: Revenue Surges 55% as Kroger ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mamas-creations-inc-mama-q2-050142888.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788498102,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "635fca76-fdf2-31af-a3f2-2b31a6a48771",
+      "title": "Stifel Adjusts Price Target on lululemon athletica to $100 From $134, Keeps Hold Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stifel-adjusts-price-target-lululemon-094312313.html",
+      "publisher": "MT Newswires",
+      "time": 1788514992,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "9596b995-9ebc-330b-999b-08359b7fbf3a",
-      "title": "Asana Inc (ASAN) (Q2 2027) Earnings Call Highlights: AI Products Drive 25% of Net New ARR Amid ...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/asana-inc-asan-q2-2027-050127746.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788498087,
-      "impact": "medium",
+      "id": "533fae55-9806-3130-b3c8-ebb2999c7e50",
+      "title": "Update: Market Chatter: Carlyle, Others Prepping Bids for Serie A International Media Business",
+      "link": "https://finance.yahoo.com/media-advertising/articles/market-chatter-carlyle-others-prepping-094215232.html",
+      "publisher": "MT Newswires",
+      "time": 1788514935,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "d6265ed4-6362-3a90-9161-187aef7b56f3",
-      "title": "Guidewire Software Inc (GWRE) (Q4 2026) Earnings Call Highlights: Record ARR Growth and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/guidewire-software-inc-gwre-q4-050124411.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788498084,
-      "impact": "high",
-      "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "3555abf1-b7f3-3200-a086-4f6c673029a3",
-      "title": "Torrid Holdings Inc (CURV) (Q2 2026) Earnings Call Highlights: Sub-Brand Growth and Tariff ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/torrid-holdings-inc-curv-q2-050122787.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788498082,
+      "id": "5cb5d50d-2521-3643-85bb-98e765e441d4",
+      "title": "Bentley’s first electric model will be its most powerful ever",
+      "link": "https://finance.yahoo.com/m/5cb5d50d-2521-3643-85bb-98e765e441d4/bentley%E2%80%99s-first-electric.html",
+      "publisher": "Just Auto",
+      "time": 1788514934,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0507d593-2eae-3414-9fa3-3439495ea2c3",
+      "title": "Médunik and Biocodex sign exclusive agreement for Diacomit in Canada",
+      "link": "https://finance.yahoo.com/m/0507d593-2eae-3414-9fa3-3439495ea2c3/m%C3%A9dunik-and-biocodex-sign.html",
+      "publisher": "Hospital Management",
+      "time": 1788514921,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d86d8c6f-8095-3e4d-a2f0-b6441c9ab052",
+      "title": "Zelensky slams his security services for 'unacceptable' shootout",
+      "link": "https://finance.yahoo.com/m/d86d8c6f-8095-3e4d-a2f0-b6441c9ab052/zelensky-slams-his-security.html",
+      "publisher": "AFP",
+      "time": 1788514851,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "acc58701-376b-3424-a3a7-b6b34aa4a897",
+      "title": "Update: Market Chatter: Boeing Paid $3.1 Million Fine to Federal Aviation Administration",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-boeing-paid-3-093941143.html",
+      "publisher": "MT Newswires",
+      "time": 1788514781,
       "impact": "high",
       "tags": [
         "geo",
         "macro"
-      ]
-    },
-    {
-      "id": "be5b4b15-f4a5-351d-b075-7aa3f317d13f",
-      "title": "eGain Corp (EGAN) (Q4 2026) Earnings Call Highlights: AI Growth Drives Record Cash Flow Amid ...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/egain-corp-egan-q4-2026-050121679.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788498081,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "68e94e83-2139-3bc0-a870-a2111ac9903a",
-      "title": "Smith & Wesson Brands Inc (SWBI) (Q1 2027) Earnings Call Highlights: Strong Sales Growth ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/smith-wesson-brands-inc-swbi-050116490.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788498076,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
       ]
     }
   ],
