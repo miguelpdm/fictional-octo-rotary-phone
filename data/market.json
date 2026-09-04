@@ -1,80 +1,130 @@
 {
-  "updatedAt": "2026-09-04T09:48:18.270360+00:00",
+  "updatedAt": "2026-09-04T13:55:13.528631+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19935.5,
-      "change": -64.70000000000073,
-      "changePct": -0.3234967650323533,
+      "price": 20052.9,
+      "change": 52.70000000000073,
+      "changePct": 0.26349736502635335,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7747.71,
-      "change": 116.23999999999978,
-      "changePct": 1.5231665721020953,
+      "price": 7739.23,
+      "change": 72.6299999999992,
+      "changePct": 0.9473560639657631,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26584.06,
-      "change": 484.2900000000009,
-      "changePct": 1.8555335928247676,
+      "price": 26606.633,
+      "change": 388.8029999999999,
+      "changePct": 1.4829717028449718,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25995.17,
-      "change": 155.8399999999965,
-      "changePct": 0.6031116131880992,
+      "price": 26125.74,
+      "change": 286.40999999999985,
+      "changePct": 1.1084265729800262,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6375.58,
-      "change": -7.010000000000218,
-      "changePct": -0.10983002198167544,
+      "price": 6400.28,
+      "change": 17.6899999999996,
+      "changePct": 0.2771602123902616,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.24,
-      "change": -0.08000000000000007,
-      "changePct": -0.5586592178770954,
+      "price": 14.11,
+      "change": -0.21000000000000085,
+      "changePct": -1.4664804469273802,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "8d2bbf9b-c300-436c-9b90-b54cd11d4635",
-      "title": "Lululemon made one really stupid decision this year that explains why its stock is getting blown up",
-      "link": "https://finance.yahoo.com/markets/stocks/article/lululemon-made-one-really-stupid-decision-this-year-that-explains-why-its-stock-is-getting-blown-up-094518717.html",
-      "publisher": "Yahoo Finance",
-      "time": 1788515118,
+      "id": "f3de68d9-4139-36eb-9e21-894c29f01b23",
+      "title": "Stocks slip as robust US jobs data stokes rate hike chances",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-traders-pare-024214659.html",
+      "publisher": "AFP",
+      "time": 1788529954,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "2ae38359-99cb-374e-822e-121cca107582",
+      "title": "Spain’s Félix Solís Avantis buys three Rioja wine brands",
+      "link": "https://finance.yahoo.com/m/2ae38359-99cb-374e-822e-121cca107582/spain%E2%80%99s-f%C3%A9lix-sol%C3%ADs-avantis.html",
+      "publisher": "Just Drinks",
+      "time": 1788529862,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c61d5eb3-9db6-3bc6-a512-c5b2a188ca1d",
-      "title": "Wells Fargo Adjusts PT on Lululemon Athletica to $95 From $105, Keeps Equalweight Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-pt-lululemon-094340557.html",
-      "publisher": "MT Newswires",
-      "time": 1788515020,
+      "id": "7d59e17d-bb5f-37b1-ac36-938b8a46cbb8",
+      "title": "Two trapped tunnel workers rescued in Nepal 'miracle'",
+      "link": "https://finance.yahoo.com/m/7d59e17d-bb5f-37b1-ac36-938b8a46cbb8/two-trapped-tunnel-workers.html",
+      "publisher": "AFP",
+      "time": 1788529817,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b516873d-e21c-3a92-a1af-6b94e0d1d3fc",
-      "title": "Update: Samsara Fiscal Q2 Non-GAAP Earnings, Revenue Beat Views; Shares Up Pre-Bell",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/samsara-fiscal-q2-non-gaap-094339924.html",
-      "publisher": "MT Newswires",
-      "time": 1788515019,
+      "id": "409e29c6-8734-3856-9546-afd91d95ef68",
+      "title": "US diesel price hits new high on Iran war, squeezing voters",
+      "link": "https://finance.yahoo.com/energy/articles/us-diesel-price-hits-high-135012712.html",
+      "publisher": "AFP",
+      "time": 1788529812,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "9506bf4a-4836-3c4f-b2f4-09703f57a30a",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-134900066.html",
+      "publisher": "Business Wire",
+      "time": 1788529740,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "89a8ee48-351a-3cbf-b302-08e673ffff25",
+      "title": "UiPath downgraded, Shell upgraded: Wall Street's top analyst calls",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/uipath-downgraded-shell-upgraded-wall-134820981.html",
+      "publisher": "The Fly",
+      "time": 1788529700,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6c6a4bd7-1180-3028-8098-1ed724f7c17a",
+      "title": "Forrestania acquires Edna May Gold Project in $215m deal",
+      "link": "https://finance.yahoo.com/m/6c6a4bd7-1180-3028-8098-1ed724f7c17a/forrestania-acquires-edna-may.html",
+      "publisher": "Mining Technology",
+      "time": 1788529682,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ebd40976-3904-336d-96a4-a9d6ad46526a",
+      "title": "Dow falls after August jobs report triples forecasts, boosts rate-hike bets",
+      "link": "https://finance.yahoo.com/m/ebd40976-3904-336d-96a4-a9d6ad46526a/dow-falls-after-august-jobs.html",
+      "publisher": "Quartz",
+      "time": 1788529645,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,72 +132,22 @@
       ]
     },
     {
-      "id": "3fa8e367-9055-3708-a41f-3e13d97f030e",
-      "title": "Evercore ISI Adjusts Price Target on lululemon athletica to $95 From $115, Keeps In Line Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-adjusts-price-target-094319190.html",
-      "publisher": "MT Newswires",
-      "time": 1788514999,
+      "id": "146408bd-1e0b-3513-9ce0-66c1692f2bb9",
+      "title": "Minister MacDonald announces support to advance swine health surveillance in Canada",
+      "link": "https://finance.yahoo.com/healthcare/articles/minister-macdonald-announces-support-advance-134700265.html",
+      "publisher": "CNW Group",
+      "time": 1788529620,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "635fca76-fdf2-31af-a3f2-2b31a6a48771",
-      "title": "Stifel Adjusts Price Target on lululemon athletica to $100 From $134, Keeps Hold Rating",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stifel-adjusts-price-target-lululemon-094312313.html",
-      "publisher": "MT Newswires",
-      "time": 1788514992,
+      "id": "b5dfe360-855d-3a74-a0e2-fa1b1da17692",
+      "title": "Zacks.com featured highlights include Concentra, QuinStreet and Arrow Electronics",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-concentra-134700114.html",
+      "publisher": "Zacks",
+      "time": 1788529620,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "533fae55-9806-3130-b3c8-ebb2999c7e50",
-      "title": "Update: Market Chatter: Carlyle, Others Prepping Bids for Serie A International Media Business",
-      "link": "https://finance.yahoo.com/media-advertising/articles/market-chatter-carlyle-others-prepping-094215232.html",
-      "publisher": "MT Newswires",
-      "time": 1788514935,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "5cb5d50d-2521-3643-85bb-98e765e441d4",
-      "title": "Bentley’s first electric model will be its most powerful ever",
-      "link": "https://finance.yahoo.com/m/5cb5d50d-2521-3643-85bb-98e765e441d4/bentley%E2%80%99s-first-electric.html",
-      "publisher": "Just Auto",
-      "time": 1788514934,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0507d593-2eae-3414-9fa3-3439495ea2c3",
-      "title": "Médunik and Biocodex sign exclusive agreement for Diacomit in Canada",
-      "link": "https://finance.yahoo.com/m/0507d593-2eae-3414-9fa3-3439495ea2c3/m%C3%A9dunik-and-biocodex-sign.html",
-      "publisher": "Hospital Management",
-      "time": 1788514921,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d86d8c6f-8095-3e4d-a2f0-b6441c9ab052",
-      "title": "Zelensky slams his security services for 'unacceptable' shootout",
-      "link": "https://finance.yahoo.com/m/d86d8c6f-8095-3e4d-a2f0-b6441c9ab052/zelensky-slams-his-security.html",
-      "publisher": "AFP",
-      "time": 1788514851,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "acc58701-376b-3424-a3a7-b6b34aa4a897",
-      "title": "Update: Market Chatter: Boeing Paid $3.1 Million Fine to Federal Aviation Administration",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-boeing-paid-3-093941143.html",
-      "publisher": "MT Newswires",
-      "time": 1788514781,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
     }
   ],
   "errors": {
