@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T17:19:38.797558+00:00",
+  "updatedAt": "2026-09-04T19:44:59.291414+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7718.45,
-      "change": 51.849999999999454,
-      "changePct": 0.6763102287845909,
+      "price": 7715.03,
+      "change": 48.42999999999938,
+      "changePct": 0.6317011452273418,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26490.902,
-      "change": 273.0719999999965,
-      "changePct": 1.0415507309338585,
+      "price": 26492.47,
+      "change": 274.6399999999994,
+      "changePct": 1.0475313937118342,
       "currency": "USD"
     },
     {
@@ -44,115 +44,104 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.11,
-      "change": -0.21000000000000085,
-      "changePct": -1.4664804469273802,
+      "price": 14.3,
+      "change": -0.019999999999999574,
+      "changePct": -0.13966480446927076,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "2e9941b6-75c0-3342-bbc1-abf574f5990e",
-      "title": "Science Applications (SAIC) Grew Revenue 6% but Posted a 0.6 Book-to-Bill Ratio. Is the $22B Backlog Enough?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/science-applications-saic-grew-revenue-171604286.html",
-      "publisher": "Insider Monkey",
-      "time": 1788542164,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8d9efc21-6aa6-334b-9d7f-d79acc17cb77",
-      "title": "Mass Megawatts Announces New Salt Rejection Innovation Reducing Solar Desalination Cost to Be the Same as Tap Water in the $26 Billion Desalination Market",
-      "link": "https://finance.yahoo.com/energy/articles/mass-megawatts-announces-salt-rejection-171600519.html",
-      "publisher": "TMX Newsfile",
-      "time": 1788542160,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "e880f51c-e159-35c0-a002-71d75b64d42b",
-      "title": "2026 Corporate AI Talent Study Report Available",
-      "link": "https://finance.yahoo.com/technology/ai/articles/2026-corporate-ai-talent-study-171500643.html",
-      "publisher": "PR Newswire",
-      "time": 1788542100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e8091144-ca98-31ac-9f7b-3564dbeddc32",
-      "title": "Dell Afterglow Continues. These Other Stocks Top Buy Points.",
-      "link": "https://finance.yahoo.com/m/e8091144-ca98-31ac-9f7b-3564dbeddc32/dell-afterglow-continues..html",
-      "publisher": "Investor's Business Daily",
-      "time": 1788542068,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "cd99098f-8d06-3fdf-93ba-71282057ce9b",
-      "title": "Walmart adds exclusive Starbucks rival's coffee, energy drinks",
-      "link": "https://finance.yahoo.com/m/cd99098f-8d06-3fdf-93ba-71282057ce9b/walmart-adds-exclusive.html",
-      "publisher": "TheStreet",
-      "time": 1788542055,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a11da729-0069-3a7d-8b14-4aeb02c8e375",
-      "title": "Proxet Unveils IDLC Operating Model to Elevate Enterprise Software Delivery in the AI Era",
-      "link": "https://finance.yahoo.com/technology/ai/articles/proxet-unveils-idlc-operating-model-171400885.html",
-      "publisher": "PR Newswire",
-      "time": 1788542040,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "fc282788-2c4a-3053-a7df-7ae20099fcf9",
-      "title": "KNOT Offshore Partners LP Q2 2026 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/m/fc282788-2c4a-3053-a7df-7ae20099fcf9/knot-offshore-partners-lp-q2.html",
-      "publisher": "Moby",
-      "time": 1788541983,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "501b7dac-2389-38b5-b5f8-69005357aeff",
-      "title": "ALWAYS BEST CARE FRANCHISEES EXPAND SENIOR CARE SERVICES ACROSS CENTRAL INDIANA",
-      "link": "https://finance.yahoo.com/healthcare/articles/always-best-care-franchisees-expand-171100951.html",
-      "publisher": "PR Newswire",
-      "time": 1788541860,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2d709214-ff7e-3e27-8d69-baaf9498acc7",
-      "title": "ASML Rockets 4% as TSMC's Tool Hunger Nearly Doubles",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asml-rockets-4-tsmcs-tool-171057023.html",
+      "id": "c19a9c39-3b2c-32f2-a10a-38ca210121cb",
+      "title": "SpaceX Targets AI Biggest Bottleneck. Musk Plans New Turbine Manufacturing Push",
+      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-targets-ai-biggest-bottleneck-194308339.html",
       "publisher": "GuruFocus.com",
-      "time": 1788541857,
+      "time": 1788550988,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3d68f2dd-a33a-34bb-af88-3a72cd32da92",
-      "title": "After A Microsoft Stock Price Spike, An Options Strategy Aims For A Robust Profit In Weeks",
-      "link": "https://finance.yahoo.com/m/3d68f2dd-a33a-34bb-af88-3a72cd32da92/after-a-microsoft-stock-price.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1788541835,
+      "id": "1836f05d-b93d-3111-b1af-71b00e7432ad",
+      "title": "Update: Trade Desk Shares Fall After Company Announces 15% Workforce Cut",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trade-desk-shares-fall-company-194306197.html",
+      "publisher": "MT Newswires",
+      "time": 1788550986,
       "impact": "medium",
       "tags": [
-        "macro",
-        "results"
+        "geo"
       ]
+    },
+    {
+      "id": "89816ced-4f92-3124-a359-75ce685cb83a",
+      "title": "DocuSign IAM Platform Needs to Show Clearer Proof of 'More Meaningful' Contribution to Growth, Morgan Stanley Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/docusign-iam-platform-needs-show-194228714.html",
+      "publisher": "MT Newswires",
+      "time": 1788550948,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9a213422-2b3a-31c9-9a03-b82e15b8220b",
+      "title": "Diesel Prices Soar to Record Amid Tight Crude Supply",
+      "link": "https://finance.yahoo.com/energy/articles/diesel-prices-soar-record-amid-194154051.html",
+      "publisher": "MT Newswires",
+      "time": 1788550914,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e1c6e79b-3f2a-3c1b-af86-64123ec90352",
+      "title": "SoundHound Closes LivePerson Deal And Issues 37 Million Shares",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/soundhound-closes-liveperson-deal-issues-194123306.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788550883,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c5885e8e-9656-3a3e-aac5-0847c5b01cd5",
+      "title": "Update: Quanex Building Products Shares Rise After Q3 Beat",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/quanex-building-products-shares-rise-193945685.html",
+      "publisher": "MT Newswires",
+      "time": 1788550785,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cd9ca485-8577-38d7-9233-82c90e89d107",
+      "title": "Microsoft Drops 1.6%, Opens Azure's $101.9 Billion Door",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-drops-1-6-opens-193935631.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788550775,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cccb450e-2c06-37e4-8b01-3259ff2ee314",
+      "title": "Job growth but record-high diesel prices -- Trump's midterms mixed bag",
+      "link": "https://finance.yahoo.com/economy/articles/us-shows-strong-job-growth-135543820.html",
+      "publisher": "AFP",
+      "time": 1788550769,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "32da9bd0-eacd-3ec0-905d-50827b518903",
+      "title": "Here's Why You Should Retain Cencora Stock in Your Portfolio for Now",
+      "link": "https://finance.yahoo.com/healthcare/articles/heres-why-retain-cencora-stock-193900115.html",
+      "publisher": "Zacks",
+      "time": 1788550740,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d79840b8-ccf2-3f26-81b6-26b8900b669d",
+      "title": "Google Turns Three Everyday Apps Into Paid Gemini Microphones",
+      "link": "https://finance.yahoo.com/technology/ai/articles/google-turns-three-everyday-apps-193846909.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788550726,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
