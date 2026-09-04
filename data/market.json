@@ -1,44 +1,44 @@
 {
-  "updatedAt": "2026-09-04T13:55:13.528631+00:00",
+  "updatedAt": "2026-09-04T17:19:38.797558+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20052.9,
-      "change": 52.70000000000073,
-      "changePct": 0.26349736502635335,
+      "price": 20050.7,
+      "change": 50.5,
+      "changePct": 0.2524974750252497,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7739.23,
-      "change": 72.6299999999992,
-      "changePct": 0.9473560639657631,
+      "price": 7718.45,
+      "change": 51.849999999999454,
+      "changePct": 0.6763102287845909,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26606.633,
-      "change": 388.8029999999999,
-      "changePct": 1.4829717028449718,
+      "price": 26490.902,
+      "change": 273.0719999999965,
+      "changePct": 1.0415507309338585,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26125.74,
-      "change": 286.40999999999985,
-      "changePct": 1.1084265729800262,
+      "price": 26046.4,
+      "change": 207.0699999999997,
+      "changePct": 0.8013752678571762,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6400.28,
-      "change": 17.6899999999996,
-      "changePct": 0.2771602123902616,
+      "price": 6392.93,
+      "change": 10.340000000000146,
+      "changePct": 0.1620031993281747,
       "currency": "EUR"
     },
     {
@@ -52,40 +52,60 @@
   ],
   "news": [
     {
-      "id": "f3de68d9-4139-36eb-9e21-894c29f01b23",
-      "title": "Stocks slip as robust US jobs data stokes rate hike chances",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-traders-pare-024214659.html",
-      "publisher": "AFP",
-      "time": 1788529954,
+      "id": "2e9941b6-75c0-3342-bbc1-abf574f5990e",
+      "title": "Science Applications (SAIC) Grew Revenue 6% but Posted a 0.6 Book-to-Bill Ratio. Is the $22B Backlog Enough?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/science-applications-saic-grew-revenue-171604286.html",
+      "publisher": "Insider Monkey",
+      "time": 1788542164,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8d9efc21-6aa6-334b-9d7f-d79acc17cb77",
+      "title": "Mass Megawatts Announces New Salt Rejection Innovation Reducing Solar Desalination Cost to Be the Same as Tap Water in the $26 Billion Desalination Market",
+      "link": "https://finance.yahoo.com/energy/articles/mass-megawatts-announces-salt-rejection-171600519.html",
+      "publisher": "TMX Newsfile",
+      "time": 1788542160,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "2ae38359-99cb-374e-822e-121cca107582",
-      "title": "Spain’s Félix Solís Avantis buys three Rioja wine brands",
-      "link": "https://finance.yahoo.com/m/2ae38359-99cb-374e-822e-121cca107582/spain%E2%80%99s-f%C3%A9lix-sol%C3%ADs-avantis.html",
-      "publisher": "Just Drinks",
-      "time": 1788529862,
+      "id": "e880f51c-e159-35c0-a002-71d75b64d42b",
+      "title": "2026 Corporate AI Talent Study Report Available",
+      "link": "https://finance.yahoo.com/technology/ai/articles/2026-corporate-ai-talent-study-171500643.html",
+      "publisher": "PR Newswire",
+      "time": 1788542100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7d59e17d-bb5f-37b1-ac36-938b8a46cbb8",
-      "title": "Two trapped tunnel workers rescued in Nepal 'miracle'",
-      "link": "https://finance.yahoo.com/m/7d59e17d-bb5f-37b1-ac36-938b8a46cbb8/two-trapped-tunnel-workers.html",
-      "publisher": "AFP",
-      "time": 1788529817,
+      "id": "e8091144-ca98-31ac-9f7b-3564dbeddc32",
+      "title": "Dell Afterglow Continues. These Other Stocks Top Buy Points.",
+      "link": "https://finance.yahoo.com/m/e8091144-ca98-31ac-9f7b-3564dbeddc32/dell-afterglow-continues..html",
+      "publisher": "Investor's Business Daily",
+      "time": 1788542068,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "cd99098f-8d06-3fdf-93ba-71282057ce9b",
+      "title": "Walmart adds exclusive Starbucks rival's coffee, energy drinks",
+      "link": "https://finance.yahoo.com/m/cd99098f-8d06-3fdf-93ba-71282057ce9b/walmart-adds-exclusive.html",
+      "publisher": "TheStreet",
+      "time": 1788542055,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "409e29c6-8734-3856-9546-afd91d95ef68",
-      "title": "US diesel price hits new high on Iran war, squeezing voters",
-      "link": "https://finance.yahoo.com/energy/articles/us-diesel-price-hits-high-135012712.html",
-      "publisher": "AFP",
-      "time": 1788529812,
+      "id": "a11da729-0069-3a7d-8b14-4aeb02c8e375",
+      "title": "Proxet Unveils IDLC Operating Model to Elevate Enterprise Software Delivery in the AI Era",
+      "link": "https://finance.yahoo.com/technology/ai/articles/proxet-unveils-idlc-operating-model-171400885.html",
+      "publisher": "PR Newswire",
+      "time": 1788542040,
       "impact": "high",
       "tags": [
         "geo",
@@ -93,38 +113,11 @@
       ]
     },
     {
-      "id": "9506bf4a-4836-3c4f-b2f4-09703f57a30a",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-134900066.html",
-      "publisher": "Business Wire",
-      "time": 1788529740,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "89a8ee48-351a-3cbf-b302-08e673ffff25",
-      "title": "UiPath downgraded, Shell upgraded: Wall Street's top analyst calls",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/uipath-downgraded-shell-upgraded-wall-134820981.html",
-      "publisher": "The Fly",
-      "time": 1788529700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6c6a4bd7-1180-3028-8098-1ed724f7c17a",
-      "title": "Forrestania acquires Edna May Gold Project in $215m deal",
-      "link": "https://finance.yahoo.com/m/6c6a4bd7-1180-3028-8098-1ed724f7c17a/forrestania-acquires-edna-may.html",
-      "publisher": "Mining Technology",
-      "time": 1788529682,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ebd40976-3904-336d-96a4-a9d6ad46526a",
-      "title": "Dow falls after August jobs report triples forecasts, boosts rate-hike bets",
-      "link": "https://finance.yahoo.com/m/ebd40976-3904-336d-96a4-a9d6ad46526a/dow-falls-after-august-jobs.html",
-      "publisher": "Quartz",
-      "time": 1788529645,
+      "id": "fc282788-2c4a-3053-a7df-7ae20099fcf9",
+      "title": "KNOT Offshore Partners LP Q2 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/m/fc282788-2c4a-3053-a7df-7ae20099fcf9/knot-offshore-partners-lp-q2.html",
+      "publisher": "Moby",
+      "time": 1788541983,
       "impact": "medium",
       "tags": [
         "macro",
@@ -132,22 +125,34 @@
       ]
     },
     {
-      "id": "146408bd-1e0b-3513-9ce0-66c1692f2bb9",
-      "title": "Minister MacDonald announces support to advance swine health surveillance in Canada",
-      "link": "https://finance.yahoo.com/healthcare/articles/minister-macdonald-announces-support-advance-134700265.html",
-      "publisher": "CNW Group",
-      "time": 1788529620,
+      "id": "501b7dac-2389-38b5-b5f8-69005357aeff",
+      "title": "ALWAYS BEST CARE FRANCHISEES EXPAND SENIOR CARE SERVICES ACROSS CENTRAL INDIANA",
+      "link": "https://finance.yahoo.com/healthcare/articles/always-best-care-franchisees-expand-171100951.html",
+      "publisher": "PR Newswire",
+      "time": 1788541860,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b5dfe360-855d-3a74-a0e2-fa1b1da17692",
-      "title": "Zacks.com featured highlights include Concentra, QuinStreet and Arrow Electronics",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-concentra-134700114.html",
-      "publisher": "Zacks",
-      "time": 1788529620,
+      "id": "2d709214-ff7e-3e27-8d69-baaf9498acc7",
+      "title": "ASML Rockets 4% as TSMC's Tool Hunger Nearly Doubles",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asml-rockets-4-tsmcs-tool-171057023.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788541857,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "3d68f2dd-a33a-34bb-af88-3a72cd32da92",
+      "title": "After A Microsoft Stock Price Spike, An Options Strategy Aims For A Robust Profit In Weeks",
+      "link": "https://finance.yahoo.com/m/3d68f2dd-a33a-34bb-af88-3a72cd32da92/after-a-microsoft-stock-price.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1788541835,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
