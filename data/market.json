@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T12:16:14.406426+00:00",
+  "updatedAt": "2026-09-05T15:23:44.100641+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,20 +52,11 @@
   ],
   "news": [
     {
-      "id": "0c20c1d4-b106-4607-bda4-093b509983d4",
-      "title": "Like everything else, fall travel looks pricier this year. But there are still deals to be had.",
-      "link": "https://finance.yahoo.com/economy/article/like-everything-else-fall-travel-looks-pricier-this-year-but-there-are-still-deals-to-be-had-120641276.html",
-      "publisher": "Yahoo Finance",
-      "time": 1788610001,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d5001ca0-1c20-3379-83c3-ddca4526f9c2",
-      "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
-      "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures%3A-nvidia%2C.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1788609942,
+      "id": "24e45e0b-4dcd-36eb-922b-d2aac01f749d",
+      "title": "HKC and KOORUI Receive Dual Honors at the 2026 Global Product Technology Innovation Awards",
+      "link": "https://finance.yahoo.com/technology/articles/hkc-koorui-receive-dual-honors-151700645.html",
+      "publisher": "PR Newswire",
+      "time": 1788621420,
       "impact": "high",
       "tags": [
         "geo",
@@ -73,82 +64,88 @@
       ]
     },
     {
-      "id": "9cbc5f65-18a0-3d52-b15f-eb41d010980d",
-      "title": "Recent News From Nvidia and SK Hynix Reveals Exactly What the Market Expects for Micron Technology's Future",
-      "link": "https://finance.yahoo.com/m/9cbc5f65-18a0-3d52-b15f-eb41d010980d/recent-news-from-nvidia-and.html",
-      "publisher": "Motley Fool",
-      "time": 1788609900,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "982da862-fa59-3825-a46d-a97e57836733",
-      "title": "The First Agentic Attack: How AI Is Reshaping the Economics of Cybersecurity",
-      "link": "https://finance.yahoo.com/m/982da862-fa59-3825-a46d-a97e57836733/the-first-agentic-attack%3A-how.html",
-      "publisher": "Forkast News",
-      "time": 1788609876,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "577f80a2-4909-31bd-a28b-4567de778141",
-      "title": "Mexican restaurant chain closes original location after 43 years",
-      "link": "https://finance.yahoo.com/m/577f80a2-4909-31bd-a28b-4567de778141/mexican-restaurant-chain.html",
+      "id": "3064d1c9-9518-3d93-811b-6013a3ae04ea",
+      "title": "Delta workers could get $2,000 for kids' accounts",
+      "link": "https://finance.yahoo.com/m/3064d1c9-9518-3d93-811b-6013a3ae04ea/delta-workers-could-get.html",
       "publisher": "TheStreet",
-      "time": 1788609780,
+      "time": 1788621420,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "60d9f49d-a807-34ab-9364-37278fc20aed",
-      "title": "Patented Foodservice Products Company with Strong Gross Margins and Substantial Two-Year Revenue Growth Hits Market for $1.6 Million",
-      "link": "https://finance.yahoo.com/small-business/articles/patented-foodservice-products-company-strong-120100037.html",
-      "publisher": "PR Newswire",
-      "time": 1788609660,
+      "id": "9689d685-4b34-3d5a-88a8-b8a3010b8053",
+      "title": "BUSINESS BRIEFS: Sept. 5, 2026",
+      "link": "https://finance.yahoo.com/m/9689d685-4b34-3d5a-88a8-b8a3010b8053/business-briefs%3A-sept.-5%2C-2026.html",
+      "publisher": "Goshen News, Ind.",
+      "time": 1788621420,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bffa536d-f8c0-3a17-a90f-cb682f32d92b",
+      "title": "Equity Bancshares Director Rogerson Buys 2,000 Shares for $100,000",
+      "link": "https://finance.yahoo.com/m/bffa536d-f8c0-3a17-a90f-cb682f32d92b/equity-bancshares-director.html",
+      "publisher": "Motley Fool",
+      "time": 1788621301,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "78b04bb7-a43a-3120-a417-1ab9255fabab",
+      "title": "OpAIda Opens Office at Plug and Play, Unveiling AI Strategy Across the Life Sciences Value Chain",
+      "link": "https://finance.yahoo.com/technology/ai/articles/opaida-opens-office-plug-play-151000299.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1788621000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b181b10b-c13d-3f1b-9d9b-e23ff8375eb7",
+      "title": "Adobe Inc. (ADBE) Acquires Rilo to Accelerate Agentic AI — What It Means for Investors",
+      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-inc-adbe-acquires-rilo-150728839.html",
+      "publisher": "Insider Monkey",
+      "time": 1788620848,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "92601744-55f9-35ce-ba8b-fc716be6ecb0",
+      "title": "Kroger, Publix, and regional grocery chains face pricing problem",
+      "link": "https://finance.yahoo.com/m/92601744-55f9-35ce-ba8b-fc716be6ecb0/kroger%2C-publix%2C-and-regional.html",
+      "publisher": "TheStreet",
+      "time": 1788620820,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0e168e74-5cc6-3279-b683-08e03f43caec",
+      "title": "Teledyne (TDY) Stock Could Be 10% Undervalued After Thermal Imaging Win",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/teledyne-tdy-stock-could-10-150646028.html",
+      "publisher": "Simply Wall St.",
+      "time": 1788620806,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "40e4892d-45cd-34a8-a089-cb90914aa03e",
+      "title": "What Is Driving Circle Internet Group (CRCL) Stock As Arc Nears Launch?",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/driving-circle-internet-group-crcl-150637478.html",
+      "publisher": "Simply Wall St.",
+      "time": 1788620797,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bd84b3fb-ed68-3d2f-8ccc-8cff03d488a6",
+      "title": "Global Payments (GPN) Could Be 9% Undervalued Following Its Genius World Conference Appearance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/global-payments-gpn-could-9-150631966.html",
+      "publisher": "Simply Wall St.",
+      "time": 1788620791,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
-    },
-    {
-      "id": "e86af097-8bdd-3d03-9d3f-71859be83f7d",
-      "title": "ServiceNow Leads Five Stocks To Watch Near Buy Points",
-      "link": "https://finance.yahoo.com/m/e86af097-8bdd-3d03-9d3f-71859be83f7d/servicenow-leads-five-stocks.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1788609614,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "06784936-2977-3418-b74e-fd3c96bc16e3",
-      "title": "Her parents helped fund $750K in her Roth IRA — now they want to control how she invests it",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/her-parents-helped-fund-750k-120000075.html",
-      "publisher": "Moneywise",
-      "time": 1788609600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3efcf94c-c7b3-3f8b-b234-68eac1961f2a",
-      "title": "The Work Is Personal: This Labor Day, VEVOR Salutes the Home Creators Who Spend the Long Weekend Working",
-      "link": "https://finance.yahoo.com/small-business/articles/personal-labor-day-vevor-salutes-120000298.html",
-      "publisher": "PR Newswire",
-      "time": 1788609600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5a18bc3f-6161-3033-95af-38026a272a44",
-      "title": "FC Barcelona Legend Carles Puyol Joins Midea at IFA 2026",
-      "link": "https://finance.yahoo.com/media-advertising/articles/fc-barcelona-legend-carles-puyol-120000580.html",
-      "publisher": "PR Newswire",
-      "time": 1788609600,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
