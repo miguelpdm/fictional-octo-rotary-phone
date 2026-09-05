@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T08:44:24.602888+00:00",
+  "updatedAt": "2026-09-05T12:16:14.406426+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,98 +52,101 @@
   ],
   "news": [
     {
-      "id": "3e30864f-9fb9-3553-b55e-0768d6f655bf",
-      "title": "The Rise of the AI Agent Firewall: Securing the Execution Layer",
-      "link": "https://finance.yahoo.com/m/3e30864f-9fb9-3553-b55e-0768d6f655bf/the-rise-of-the-ai-agent.html",
+      "id": "0c20c1d4-b106-4607-bda4-093b509983d4",
+      "title": "Like everything else, fall travel looks pricier this year. But there are still deals to be had.",
+      "link": "https://finance.yahoo.com/economy/article/like-everything-else-fall-travel-looks-pricier-this-year-but-there-are-still-deals-to-be-had-120641276.html",
+      "publisher": "Yahoo Finance",
+      "time": 1788610001,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d5001ca0-1c20-3379-83c3-ddca4526f9c2",
+      "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
+      "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures%3A-nvidia%2C.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1788609942,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "9cbc5f65-18a0-3d52-b15f-eb41d010980d",
+      "title": "Recent News From Nvidia and SK Hynix Reveals Exactly What the Market Expects for Micron Technology's Future",
+      "link": "https://finance.yahoo.com/m/9cbc5f65-18a0-3d52-b15f-eb41d010980d/recent-news-from-nvidia-and.html",
+      "publisher": "Motley Fool",
+      "time": 1788609900,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "982da862-fa59-3825-a46d-a97e57836733",
+      "title": "The First Agentic Attack: How AI Is Reshaping the Economics of Cybersecurity",
+      "link": "https://finance.yahoo.com/m/982da862-fa59-3825-a46d-a97e57836733/the-first-agentic-attack%3A-how.html",
       "publisher": "Forkast News",
-      "time": 1788597349,
+      "time": 1788609876,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6ae98414-f2b0-3177-b180-3709e82c7fad",
-      "title": "CFTC Is Down to Just 1 Commissioner as White House Vets 4 Candidates — Key Crypto Bill Vote Looms: Report",
-      "link": "https://finance.yahoo.com/m/6ae98414-f2b0-3177-b180-3709e82c7fad/cftc-is-down-to-just-1.html",
-      "publisher": "Benzinga Prediction Markets",
-      "time": 1788596901,
+      "id": "577f80a2-4909-31bd-a28b-4567de778141",
+      "title": "Mexican restaurant chain closes original location after 43 years",
+      "link": "https://finance.yahoo.com/m/577f80a2-4909-31bd-a28b-4567de778141/mexican-restaurant-chain.html",
+      "publisher": "TheStreet",
+      "time": 1788609780,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "60d9f49d-a807-34ab-9364-37278fc20aed",
+      "title": "Patented Foodservice Products Company with Strong Gross Margins and Substantial Two-Year Revenue Growth Hits Market for $1.6 Million",
+      "link": "https://finance.yahoo.com/small-business/articles/patented-foodservice-products-company-strong-120100037.html",
+      "publisher": "PR Newswire",
+      "time": 1788609660,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "249f56ae-0ec1-3833-b851-d3e273593154",
-      "title": "Barclays sees a $3.6 trillion annual investment opportunity in this sector",
-      "link": "https://finance.yahoo.com/energy/articles/barclays-sees-3-6-trillion-082816148.html",
-      "publisher": "Investing.com",
-      "time": 1788596896,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "45427640-884b-350f-84cd-79aa5edb53cf",
-      "title": "Is a Stock Market Crash Likely Under President Donald Trump? History Weighs In With an Answer Wall Street May Not Like.",
-      "link": "https://finance.yahoo.com/m/45427640-884b-350f-84cd-79aa5edb53cf/is-a-stock-market-crash.html",
-      "publisher": "Motley Fool",
-      "time": 1788596761,
+      "id": "e86af097-8bdd-3d03-9d3f-71859be83f7d",
+      "title": "ServiceNow Leads Five Stocks To Watch Near Buy Points",
+      "link": "https://finance.yahoo.com/m/e86af097-8bdd-3d03-9d3f-71859be83f7d/servicenow-leads-five-stocks.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1788609614,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "6fe623cf-a6e6-3402-8647-1d047bd8c73a",
-      "title": "What Move Will SpaceX Stock Make After Sept. 9? The Evidence Is Piling Up, and Here’s What It Shows.",
-      "link": "https://finance.yahoo.com/m/6fe623cf-a6e6-3402-8647-1d047bd8c73a/what-move-will-spacex-stock.html",
-      "publisher": "Motley Fool",
-      "time": 1788596581,
+      "id": "06784936-2977-3418-b74e-fd3c96bc16e3",
+      "title": "Her parents helped fund $750K in her Roth IRA — now they want to control how she invests it",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/her-parents-helped-fund-750k-120000075.html",
+      "publisher": "Moneywise",
+      "time": 1788609600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "96e88a50-2594-3289-9020-e0fae2da6624",
-      "title": "Rorze And 2 More Japanese Founder Backed Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rorze-2-more-japanese-founder-081443484.html",
-      "publisher": "Simply Wall St.",
-      "time": 1788596083,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "5a07fdfd-a3ac-34d2-87c7-9ad95e580b32",
-      "title": "Is SCHD Still the Best Dividend ETF You Can Buy for Passive Income? Here's What the Data Says.",
-      "link": "https://finance.yahoo.com/m/5a07fdfd-a3ac-34d2-87c7-9ad95e580b32/is-schd-still-the-best.html",
-      "publisher": "Motley Fool",
-      "time": 1788596040,
+      "id": "3efcf94c-c7b3-3f8b-b234-68eac1961f2a",
+      "title": "The Work Is Personal: This Labor Day, VEVOR Salutes the Home Creators Who Spend the Long Weekend Working",
+      "link": "https://finance.yahoo.com/small-business/articles/personal-labor-day-vevor-salutes-120000298.html",
+      "publisher": "PR Newswire",
+      "time": 1788609600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "133808df-58c7-301c-baad-cdc9e2ec7736",
-      "title": "Marriott International (MAR) Tests Its Tech Push After LG Deal Puts Valuation In Focus",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/marriott-international-mar-tests-tech-081332974.html",
-      "publisher": "Simply Wall St.",
-      "time": 1788596012,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7c213de6-35cd-3085-97e9-a14e38c921d2",
-      "title": "VinFast Auto (VFS) Stock Looks Cheap After An 82% Fall Yet Rich On Sales",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vinfast-auto-vfs-stock-looks-081332930.html",
-      "publisher": "Simply Wall St.",
-      "time": 1788596012,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7c777762-7a06-3896-bca8-df06d16469fa",
-      "title": "Match Group (MTCH) After Tinder AI Push And Product Reset Leaves Valuation In Focus",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/match-group-mtch-tinder-ai-081330818.html",
-      "publisher": "Simply Wall St.",
-      "time": 1788596010,
+      "id": "5a18bc3f-6161-3033-95af-38026a272a44",
+      "title": "FC Barcelona Legend Carles Puyol Joins Midea at IFA 2026",
+      "link": "https://finance.yahoo.com/media-advertising/articles/fc-barcelona-legend-carles-puyol-120000580.html",
+      "publisher": "PR Newswire",
+      "time": 1788609600,
       "impact": "low",
       "tags": []
     }
