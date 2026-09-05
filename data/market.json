@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T15:23:44.100641+00:00",
+  "updatedAt": "2026-09-05T17:25:43.401783+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,100 +52,103 @@
   ],
   "news": [
     {
-      "id": "24e45e0b-4dcd-36eb-922b-d2aac01f749d",
-      "title": "HKC and KOORUI Receive Dual Honors at the 2026 Global Product Technology Innovation Awards",
-      "link": "https://finance.yahoo.com/technology/articles/hkc-koorui-receive-dual-honors-151700645.html",
-      "publisher": "PR Newswire",
-      "time": 1788621420,
-      "impact": "high",
+      "id": "769570e2-cadd-316f-b01c-e95f6e8d55d7",
+      "title": "What's open on Labor Day? Most retailers. Closed? Government, banks and the stock market.",
+      "link": "https://finance.yahoo.com/m/769570e2-cadd-316f-b01c-e95f6e8d55d7/what%27s-open-on-labor-day%3F.html",
+      "publisher": "Associated Press",
+      "time": 1788628783,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "3064d1c9-9518-3d93-811b-6013a3ae04ea",
-      "title": "Delta workers could get $2,000 for kids' accounts",
-      "link": "https://finance.yahoo.com/m/3064d1c9-9518-3d93-811b-6013a3ae04ea/delta-workers-could-get.html",
+      "id": "94d63fd5-401e-3d06-84f4-5380cea21a75",
+      "title": "The Next Big Opportunity in Data Centers: Insuring Them",
+      "link": "https://finance.yahoo.com/m/94d63fd5-401e-3d06-84f4-5380cea21a75/the-next-big-opportunity-in.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1788628740,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7caf9a7c-0397-31b2-8373-f25cbff0a227",
+      "title": "Schwab Dividend ETF holders: Compare it to Vanguard dividend ETF",
+      "link": "https://finance.yahoo.com/m/7caf9a7c-0397-31b2-8373-f25cbff0a227/schwab-dividend-etf-holders%3A.html",
       "publisher": "TheStreet",
-      "time": 1788621420,
+      "time": 1788628620,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9689d685-4b34-3d5a-88a8-b8a3010b8053",
-      "title": "BUSINESS BRIEFS: Sept. 5, 2026",
-      "link": "https://finance.yahoo.com/m/9689d685-4b34-3d5a-88a8-b8a3010b8053/business-briefs%3A-sept.-5%2C-2026.html",
-      "publisher": "Goshen News, Ind.",
-      "time": 1788621420,
+      "id": "b753d655-a997-3950-9111-9dc1f15da7db",
+      "title": "U.S. Strikes Three Iranian Ships After Missiles Fired at American Aircraft Carrier",
+      "link": "https://finance.yahoo.com/m/b753d655-a997-3950-9111-9dc1f15da7db/u.s.-strikes-three-iranian.html",
+      "publisher": "The Wall Street Journal",
+      "time": 1788628020,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "bffa536d-f8c0-3a17-a90f-cb682f32d92b",
-      "title": "Equity Bancshares Director Rogerson Buys 2,000 Shares for $100,000",
-      "link": "https://finance.yahoo.com/m/bffa536d-f8c0-3a17-a90f-cb682f32d92b/equity-bancshares-director.html",
+      "id": "af89d989-fab1-3852-9e53-69f0062fcb9d",
+      "title": "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn",
+      "link": "https://finance.yahoo.com/m/af89d989-fab1-3852-9e53-69f0062fcb9d/anthropic-could-be-the-next.html",
       "publisher": "Motley Fool",
-      "time": 1788621301,
+      "time": 1788627900,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "7d8b6a14-2094-339e-96d4-744826de56fd",
+      "title": "Athletic Bilbao crush Simeone's flat Atletico",
+      "link": "https://finance.yahoo.com/m/7d8b6a14-2094-339e-96d4-744826de56fd/athletic-bilbao-crush.html",
+      "publisher": "AFP",
+      "time": 1788627881,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "78b04bb7-a43a-3120-a417-1ab9255fabab",
-      "title": "OpAIda Opens Office at Plug and Play, Unveiling AI Strategy Across the Life Sciences Value Chain",
-      "link": "https://finance.yahoo.com/technology/ai/articles/opaida-opens-office-plug-play-151000299.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1788621000,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b181b10b-c13d-3f1b-9d9b-e23ff8375eb7",
-      "title": "Adobe Inc. (ADBE) Acquires Rilo to Accelerate Agentic AI — What It Means for Investors",
-      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-inc-adbe-acquires-rilo-150728839.html",
-      "publisher": "Insider Monkey",
-      "time": 1788620848,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "92601744-55f9-35ce-ba8b-fc716be6ecb0",
-      "title": "Kroger, Publix, and regional grocery chains face pricing problem",
-      "link": "https://finance.yahoo.com/m/92601744-55f9-35ce-ba8b-fc716be6ecb0/kroger%2C-publix%2C-and-regional.html",
-      "publisher": "TheStreet",
-      "time": 1788620820,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0e168e74-5cc6-3279-b683-08e03f43caec",
-      "title": "Teledyne (TDY) Stock Could Be 10% Undervalued After Thermal Imaging Win",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/teledyne-tdy-stock-could-10-150646028.html",
-      "publisher": "Simply Wall St.",
-      "time": 1788620806,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "40e4892d-45cd-34a8-a089-cb90914aa03e",
-      "title": "What Is Driving Circle Internet Group (CRCL) Stock As Arc Nears Launch?",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/driving-circle-internet-group-crcl-150637478.html",
-      "publisher": "Simply Wall St.",
-      "time": 1788620797,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bd84b3fb-ed68-3d2f-8ccc-8cff03d488a6",
-      "title": "Global Payments (GPN) Could Be 9% Undervalued Following Its Genius World Conference Appearance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/global-payments-gpn-could-9-150631966.html",
-      "publisher": "Simply Wall St.",
-      "time": 1788620791,
+      "id": "08164453-5f25-3aa6-af03-25333b42669f",
+      "title": "viaim Rise Receives Two 2026 IFA Innovation Awards; Indiegogo Campaign Launches September 8",
+      "link": "https://finance.yahoo.com/technology/ai/articles/viaim-rise-receives-two-2026-170400119.html",
+      "publisher": "PR Newswire",
+      "time": 1788627840,
       "impact": "high",
       "tags": [
         "geo",
         "macro"
       ]
+    },
+    {
+      "id": "55d56619-7b01-3ace-90b2-42e7c0de6db1",
+      "title": "Walmart is selling a 2-in-1 tablet and laptop for only $85",
+      "link": "https://finance.yahoo.com/m/55d56619-7b01-3ace-90b2-42e7c0de6db1/walmart-is-selling-a-2-in-1.html",
+      "publisher": "TheStreet",
+      "time": 1788627780,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "737adbd0-a167-396d-9e34-de488aa0b4e2",
+      "title": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
+      "link": "https://finance.yahoo.com/m/737adbd0-a167-396d-9e34-de488aa0b4e2/ancient-bitcoin-wallet-that.html",
+      "publisher": "decrypt",
+      "time": 1788627664,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5df6e832-c20c-3dea-a747-ba49d599bc21",
+      "title": "Mechanic vs. Dealership vs. Auto Chain: Who Scams Most on Car Maintenance?",
+      "link": "https://finance.yahoo.com/m/5df6e832-c20c-3dea-a747-ba49d599bc21/mechanic-vs.-dealership-vs..html",
+      "publisher": "MoneyLion",
+      "time": 1788627624,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
