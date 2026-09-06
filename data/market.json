@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T01:09:48.050846+00:00",
+  "updatedAt": "2026-09-06T06:12:16.119988+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,112 +52,100 @@
   ],
   "news": [
     {
-      "id": "2700131c-cd28-3ccd-8077-2839b0fec3ac",
-      "title": "Putin meets with Trump envoys in Moscow in new push to end Ukraine war",
-      "link": "https://finance.yahoo.com/m/2700131c-cd28-3ccd-8077-2839b0fec3ac/putin-meets-with-trump-envoys.html",
-      "publisher": "CBS News Videos",
-      "time": 1788656490,
+      "id": "421a83f4-7f56-358a-a740-8d4336537f0d",
+      "title": "SEC seeks court order forcing ISS to hand over client voting data",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sec-seeks-court-order-forcing-060436957.html",
+      "publisher": "Investing.com",
+      "time": 1788674676,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "58ad40a6-3b9e-309f-a6da-8bc7bb6f3198",
+      "title": "At last: Straight sets win over Tabilo puts Zverev in US Open last 16",
+      "link": "https://finance.yahoo.com/m/58ad40a6-3b9e-309f-a6da-8bc7bb6f3198/at-last%3A-straight-sets-win.html",
+      "publisher": "AFP",
+      "time": 1788673778,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "028869ec-97e7-35ee-9eb9-0bea39d97635",
+      "title": "STATEMENT FROM ENOCH CREE NATION",
+      "link": "https://finance.yahoo.com/media-advertising/articles/statement-enoch-cree-nation-053900725.html",
+      "publisher": "CNW Group",
+      "time": 1788673140,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f9ce4322-ff0f-3920-82e7-f123a2f19ed1",
+      "title": "Rocket Lab CFO Dumps Over 140,000 Company Shares Worth $8.8 Million Amid a 28% One-Year Return",
+      "link": "https://finance.yahoo.com/m/f9ce4322-ff0f-3920-82e7-f123a2f19ed1/rocket-lab-cfo-dumps-over.html",
+      "publisher": "Motley Fool",
+      "time": 1788672995,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "344236ee-1ff4-3f3d-8ed0-9556bbd42b75",
+      "title": "Zheng stuns Keys as US Open upsets dim American hopes",
+      "link": "https://finance.yahoo.com/m/344236ee-1ff4-3f3d-8ed0-9556bbd42b75/zheng-stuns-keys-as-us-open.html",
+      "publisher": "AFP",
+      "time": 1788672724,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "33f3c181-9ff8-3fa6-8232-1223f7e46e49",
+      "title": "Investors turn to Chinese stocks as alternative to crowded AI trades",
+      "link": "https://finance.yahoo.com/markets/options/articles/investors-turn-chinese-stocks-alternative-052512393.html",
+      "publisher": "Investing.com",
+      "time": 1788672312,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "9b44ceae-695a-32f6-b83e-6e841c69efa1",
+      "title": "The S&P 500's Yield Is at Historic Lows. Here Are 3 Dividend Stocks I'd Buy in September.",
+      "link": "https://finance.yahoo.com/m/9b44ceae-695a-32f6-b83e-6e841c69efa1/the-s%26p-500%27s-yield-is-at.html",
+      "publisher": "Motley Fool",
+      "time": 1788672000,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "6603639f-8983-3a90-8267-21b791c6c51e",
+      "title": "Has Align Technology (ALGN) Fallen Far Enough To Look Undervalued?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/align-technology-algn-fallen-far-050658782.html",
+      "publisher": "Simply Wall St.",
+      "time": 1788671218,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a3ddaddd-beb5-3ae2-b04f-382c08636bf3",
+      "title": "Caesars Entertainment (CZR) Stock Could Be Undervalued As Shares Fell 72%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/caesars-entertainment-czr-stock-could-050658675.html",
+      "publisher": "Simply Wall St.",
+      "time": 1788671218,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d101512e-c1a4-3028-8cb7-a5479a4f9acb",
+      "title": "Warner Bros. Discovery (WBD) Expands Gremlins Tie Up Following Fresh Questions On Valuation",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/warner-bros-discovery-wbd-expands-050657331.html",
+      "publisher": "Simply Wall St.",
+      "time": 1788671217,
       "impact": "high",
       "tags": [
         "geo",
         "macro"
-      ]
-    },
-    {
-      "id": "91b14138-686d-3de9-af99-5097e9e6b238",
-      "title": "Bursa De Valori Bucuresti SA (FRA:N0N) (Q1 2026) Earnings Call Highlights: Trading Revenue ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bursa-valori-bucuresti-sa-fra-010030536.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788656430,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "26c9e3b0-09d5-3b25-b999-4d4c46cde9c8",
-      "title": "HAV Group ASA (OSL:HAV) (Q2 2026) Earnings Call Highlights: Revenue Surges 38% and EBITDA Quadruples",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hav-group-asa-osl-hav-010029424.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788656429,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "3cdebd85-7b94-31b6-9082-a6f27ca263c1",
-      "title": "LDR Capital Property Fund (ASX:LED) (FY 2026) Earnings Call Highlights: Strategic Shift to ...",
-      "link": "https://finance.yahoo.com/real-estate/articles/ldr-capital-property-fund-asx-010028401.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788656428,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "6ffa7f23-f6b1-3feb-91f6-de5005acec66",
-      "title": "iFabric Corp (IFABF) (Q1 2026) Earnings Call Highlights: Record Revenue Surges to $27. ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ifabric-corp-ifabf-q1-2026-010027102.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788656427,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a230a02a-6816-331c-8e55-615ee685cd8e",
-      "title": "Resideo SVP Mehta Buys 10,928 Shares in $226,000 Direct Purchase",
-      "link": "https://finance.yahoo.com/m/a230a02a-6816-331c-8e55-615ee685cd8e/resideo-svp-mehta-buys-10%2C928.html",
-      "publisher": "Motley Fool",
-      "time": 1788655801,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0dd72135-83b3-3767-a867-ffd3b0ae59bf",
-      "title": "ThinkCareBelieve:  Week 85 of The New Golden Age of America",
-      "link": "https://finance.yahoo.com/economy/policy/articles/thinkcarebelieve-week-85-golden-age-004300439.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788655380,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7a1d7c07-32ec-39b2-a262-783dcf9fd55c",
-      "title": "Grand Forks Central's marketing program named best in state",
-      "link": "https://finance.yahoo.com/m/7a1d7c07-32ec-39b2-a262-783dcf9fd55c/grand-forks-central%27s.html",
-      "publisher": "Grand Forks Herald",
-      "time": 1788654960,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "b222b534-20da-3734-a77e-cbbf0106d0e3",
-      "title": "Europe’s satellite launch ambitions take off as German rocket reaches orbit",
-      "link": "https://finance.yahoo.com/m/b222b534-20da-3734-a77e-cbbf0106d0e3/europe%E2%80%99s-satellite-launch.html",
-      "publisher": "Investing.com",
-      "time": 1788654814,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "40e34b21-8e93-3407-a0d8-ad3f0349d482",
-      "title": "Viking Therapeutics Trades Well Below Its Wall Street Targets. Here's the Skeptics' Case.",
-      "link": "https://finance.yahoo.com/m/40e34b21-8e93-3407-a0d8-ad3f0349d482/viking-therapeutics-trades.html",
-      "publisher": "Motley Fool",
-      "time": 1788654000,
-      "impact": "medium",
-      "tags": [
-        "geo"
       ]
     }
   ],
