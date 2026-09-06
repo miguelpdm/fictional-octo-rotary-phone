@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T19:21:19.406921+00:00",
+  "updatedAt": "2026-09-06T21:29:49.250089+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,92 +52,98 @@
   ],
   "news": [
     {
-      "id": "4c8c0ffb-db4d-39e7-8d96-305953dc78c7",
-      "title": "Trump’s Financial Disclosure Reveals a Personal Stake in Musk’s SpaceX (SPCX)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/trump-financial-disclosure-reveals-personal-191447311.html",
-      "publisher": "Insider Monkey",
-      "time": 1788722087,
+      "id": "d5001ca0-1c20-3379-83c3-ddca4526f9c2",
+      "title": "Dow Jones Futures Eye Iran With Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
+      "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures-eye-iran.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1788729014,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "f31ad7cf-20e0-3086-a001-3b0ee532b9a5",
+      "title": "NuScale Power (SMR) Could Be 90% Undervalued After Commercialization Progress",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-smr-could-90-210634757.html",
+      "publisher": "Simply Wall St.",
+      "time": 1788728794,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "389bdfae-284c-3416-8939-9c7a6f6332c3",
-      "title": "Adobe ends an 18-year era as AI pressure mounts",
-      "link": "https://finance.yahoo.com/m/389bdfae-284c-3416-8939-9c7a6f6332c3/adobe-ends-an-18-year-era-as.html",
+      "id": "f9bcae6e-49d7-3d98-9c6a-ab1b4d92d3c9",
+      "title": "Amplitude (AMPL) Dropped, So What Is Driving Attention Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amplitude-ampl-dropped-driving-attention-210617577.html",
+      "publisher": "Simply Wall St.",
+      "time": 1788728777,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "280701fe-400c-304c-84f0-a23ec29c6e68",
+      "title": "Analyzing Applied Digital vs. IREN: Accelerating Upward Trajectories vs. Sequential Contractions in Quarterly Revenue Generation",
+      "link": "https://finance.yahoo.com/m/280701fe-400c-304c-84f0-a23ec29c6e68/analyzing-applied-digital-vs..html",
+      "publisher": "Motley Fool",
+      "time": 1788728773,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "17f308b1-3dec-3645-92f6-4387df875dea",
+      "title": "How Investors May Respond To Simon Property Group (SPG) Launching Its Simon Media Network Advertising Platform",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-simon-property-210609770.html",
+      "publisher": "Simply Wall St.",
+      "time": 1788728769,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8339c9df-d3d1-327a-9082-f5d415634e74",
+      "title": "Jim Cramer sends strong 5-word message on surging biotech stock",
+      "link": "https://finance.yahoo.com/m/8339c9df-d3d1-327a-9082-f5d415634e74/jim-cramer-sends-strong.html",
       "publisher": "TheStreet",
-      "time": 1788721980,
+      "time": 1788728580,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "94bb7e36-d650-34ef-8e90-fa61163bd371",
-      "title": "NVIDIA (NVDA)’s $20 Billion Groq Bet Goes Live This Year With New AI Racks",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-20-billion-groq-190737433.html",
+      "id": "fd5e880f-63f5-31ac-aba0-0638e2bd91e8",
+      "title": "He Lost His CDL Medical Card at 61. Social Security Did Not Automatically Call Him Disabled.",
+      "link": "https://finance.yahoo.com/m/fd5e880f-63f5-31ac-aba0-0638e2bd91e8/he-lost-his-cdl-medical-card.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1788728547,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "005debee-97f3-3ea5-b6ea-b33bdc381d2c",
+      "title": "South Pit Drilling Continues to Intersect High-Grade Mineralization, Cotabambas Project, Peru",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/south-pit-drilling-continues-intersect-210000900.html",
+      "publisher": "TMX Newsfile",
+      "time": 1788728400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4d5ed79b-eb12-330c-b22d-4f91c6f60835",
+      "title": "US envoys have 'more effective proposals': Ukraine official",
+      "link": "https://finance.yahoo.com/m/4d5ed79b-eb12-330c-b22d-4f91c6f60835/us-envoys-have-%27more.html",
+      "publisher": "AFP",
+      "time": 1788728384,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9f7b1a64-48f8-3f55-a69a-f6cd96975e11",
+      "title": "Salesforce (CRM)’s AI Numbers Just Gave Benioff His Swagger Back",
+      "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-ai-numbers-just-205654689.html",
       "publisher": "Insider Monkey",
-      "time": 1788721657,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ba31ae76-f2d1-3230-b7c8-9f0f0401f837",
-      "title": "Should You Forget High-Yield Dividend ETFs and Buy a Dividend Growth ETF Instead?",
-      "link": "https://finance.yahoo.com/m/ba31ae76-f2d1-3230-b7c8-9f0f0401f837/should-you-forget-high-yield.html",
-      "publisher": "Motley Fool",
-      "time": 1788721500,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "908c8c7f-61e3-38c6-a2a3-3223379e715f",
-      "title": "Three talking points from the Premier League weekend",
-      "link": "https://finance.yahoo.com/m/908c8c7f-61e3-38c6-a2a3-3223379e715f/three-talking-points-from-the.html",
-      "publisher": "AFP",
-      "time": 1788721484,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "95c74a87-2783-3a0e-adf4-0a16cde08edd",
-      "title": "What's open and closed on Labor Day? Here's what to know",
-      "link": "https://finance.yahoo.com/m/95c74a87-2783-3a0e-adf4-0a16cde08edd/what%27s-open-and-closed-on.html",
-      "publisher": "USA TODAY",
-      "time": 1788721286,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f53c7d21-1a66-3c21-89d9-1b4a39f7c834",
-      "title": "VITG Unveils Modern Managed Services and Managed Detection & Response as Part of a Broader AI and Cybersecurity Transformation across ANZ",
-      "link": "https://finance.yahoo.com/technology/ai/articles/vitg-unveils-modern-managed-services-190000860.html",
-      "publisher": "PR Newswire",
-      "time": 1788721200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9f75c9bb-96f4-32d9-a256-560193fa0275",
-      "title": "Prediction: Snowflake's Product Revenue Passes $8 Billion in Fiscal 2028",
-      "link": "https://finance.yahoo.com/m/9f75c9bb-96f4-32d9-a256-560193fa0275/prediction%3A-snowflake%27s.html",
-      "publisher": "Motley Fool",
-      "time": 1788721082,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d55bc609-fbad-30cd-b785-f8ff23344c5a",
-      "title": "Alonso urges Chelsea to learn from painful defeat at Arsenal",
-      "link": "https://finance.yahoo.com/m/d55bc609-fbad-30cd-b785-f8ff23344c5a/alonso-urges-chelsea-to-learn.html",
-      "publisher": "AFP",
-      "time": 1788720605,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e37bf596-3ff7-3178-8557-03fde89a4205",
-      "title": "Cathie Wood's Ark Has Delivered Just a 13.8% Annualized Return Since 2014, Roughly Matching the S&P 500. Should You Trust Her Bold Predictions for 2030?",
-      "link": "https://finance.yahoo.com/m/e37bf596-3ff7-3178-8557-03fde89a4205/cathie-wood%27s-ark-has.html",
-      "publisher": "Motley Fool",
-      "time": 1788720600,
+      "time": 1788728214,
       "impact": "low",
       "tags": []
     }
