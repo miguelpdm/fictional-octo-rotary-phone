@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T23:02:50.965666+00:00",
+  "updatedAt": "2026-09-07T01:10:18.490479+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,101 +52,97 @@
   ],
   "news": [
     {
-      "id": "b7c58bce-e73c-3915-8d98-5a80aa250bd0",
-      "title": "Prediction: Taiwan Semiconductor's Market Value Passes $3 Trillion Before 2029",
-      "link": "https://finance.yahoo.com/m/b7c58bce-e73c-3915-8d98-5a80aa250bd0/prediction%3A-taiwan.html",
+      "id": "d5001ca0-1c20-3379-83c3-ddca4526f9c2",
+      "title": "Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
+      "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures-fall-with.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1788743175,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "13a035b8-70a1-3193-b48e-37dc1344a762",
+      "title": "Southeast Asian travelers trade up during sale periods, Traveloka platform data shows",
+      "link": "https://finance.yahoo.com/small-business/articles/southeast-asian-travelers-trade-during-010000074.html",
+      "publisher": "PR Newswire",
+      "time": 1788742800,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "59ce2042-57cb-3428-851b-8fdae8d81d15",
+      "title": "Maxeye Successfully Resolved Patent Litigation with Wacom",
+      "link": "https://finance.yahoo.com/technology/articles/maxeye-successfully-resolved-patent-litigation-010000189.html",
+      "publisher": "PR Newswire",
+      "time": 1788742800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5ee56ab0-e3b3-3a78-8159-d6d3cfd069c0",
+      "title": "A Joy Partners with André Chiang to Elevate the 2.0 Dining Experience",
+      "link": "https://finance.yahoo.com/media-advertising/articles/joy-partners-andr-chiang-elevate-010000384.html",
+      "publisher": "PR Newswire",
+      "time": 1788742800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "72042f01-5580-3bc1-a445-00fc8940b959",
+      "title": "People See One Brand. The Internet May Show Them Hundreds More.",
+      "link": "https://finance.yahoo.com/technology/articles/people-see-one-brand-internet-010000081.html",
+      "publisher": "PR Newswire",
+      "time": 1788742800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "acd1e8c1-87cc-360f-8ef5-941cf811b74c",
+      "title": "53% of European Consumers Are Open to Switching Mobile Providers as Telco Loyalty Comes Under Pressure",
+      "link": "https://finance.yahoo.com/technology/articles/53-european-consumers-open-switching-010000356.html",
+      "publisher": "PR Newswire",
+      "time": 1788742800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bbf7738a-b589-301a-8c9d-22bf0e9b7c09",
+      "title": "A StubHub Executive Dumps Over 10% of Their Company Shares Worth $1.1 Million",
+      "link": "https://finance.yahoo.com/m/bbf7738a-b589-301a-8c9d-22bf0e9b7c09/a-stubhub-executive-dumps.html",
       "publisher": "Motley Fool",
-      "time": 1788735061,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "4c4b01da-2283-3b3c-b9ba-a44a16764ebf",
-      "title": "Apple (AAPL) Raises Apple TV and Apple One Prices Again in the U.S.",
-      "link": "https://finance.yahoo.com/media-advertising/articles/apple-aapl-raises-apple-tv-224834727.html",
-      "publisher": "Insider Monkey",
-      "time": 1788734914,
+      "time": 1788742735,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "edeba9ef-a53c-3211-a665-d4a65653dd5c",
-      "title": "Five dead, five injured after Amazon cargo plane overshoots Miami runway",
-      "link": "https://finance.yahoo.com/m/edeba9ef-a53c-3211-a665-d4a65653dd5c/five-dead%2C-five-injured-after.html",
+      "id": "11ff7f3d-804f-3c79-8ed7-88b0dbf3fa89",
+      "title": "Baidu Announces Inclusion of Its Class A Ordinary Shares in the Shenzhen-Hong Kong Stock Connect and Shanghai-Hong Kong Stock Connect Programs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-announces-inclusion-class-ordinary-005800441.html",
+      "publisher": "PR Newswire",
+      "time": 1788742680,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b4222e9e-fe6b-3608-9594-f15a24683c12",
+      "title": "Pegula tops Cirstea to reach US Open quarter-finals",
+      "link": "https://finance.yahoo.com/m/b4222e9e-fe6b-3608-9594-f15a24683c12/pegula-tops-cirstea-to-reach.html",
       "publisher": "AFP",
-      "time": 1788734524,
+      "time": 1788742599,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f057af39-8f5a-303a-aa9a-96f6326bb101",
-      "title": "Goldman Sachs (GS) Partner: AI Risks Leaving the Next Generation of Bankers Unable to Think for Themselves",
-      "link": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-gs-partner-ai-224114353.html",
+      "id": "1e12ab75-7818-3ca0-b81d-ea4996a43007",
+      "title": "VinFast Auto (VFS) Quietly Pumps the Brakes on Its India Manufacturing Plans",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vinfast-auto-vfs-quietly-pumps-005526359.html",
       "publisher": "Insider Monkey",
-      "time": 1788734474,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "97cec35a-aaba-328a-91cc-963457397b60",
-      "title": "Hong Kong Watch & Clock Fair, Salon de TIME Attracts Over 17,000 Global Buyers",
-      "link": "https://finance.yahoo.com/small-business/articles/hong-kong-watch-clock-fair-223728440.html",
-      "publisher": "NewMediaWire",
-      "time": 1788734248,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "adf663e8-6047-3fde-8b8e-d91700067897",
-      "title": "Asia-Pacific Media Forum Opens in Shenzhen, Expands Regional Media Cooperation",
-      "link": "https://finance.yahoo.com/media-advertising/articles/asia-pacific-media-forum-opens-223600815.html",
-      "publisher": "Business Wire",
-      "time": 1788734160,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c91ca124-edb1-3d4b-be3d-0c1d01e245a3",
-      "title": "OpenAI Cuts Cursor Off from its Models Now That Musk’s SpaceX (SPCX) Owns It",
-      "link": "https://finance.yahoo.com/technology/ai/articles/openai-cuts-cursor-off-models-223547147.html",
-      "publisher": "Insider Monkey",
-      "time": 1788734147,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "db2df09b-c321-38fd-bb6b-b43c6c8db765",
-      "title": "Deadline approaching for SBA disaster loans",
-      "link": "https://finance.yahoo.com/m/db2df09b-c321-38fd-bb6b-b43c6c8db765/deadline-approaching-for-sba.html",
-      "publisher": "The Joplin Globe, Mo.",
-      "time": 1788733920,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7d62217f-1877-374d-8f1c-e12331ace416",
-      "title": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-first-ever-ahead-223147950.html",
-      "publisher": "Insider Monkey",
-      "time": 1788733907,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "56c56005-3f80-3404-8755-5420d1641af0",
-      "title": "11th CENTRESTAGE Concludes Successfully With Over 12,000 Buyers, Setting New Attendance Record",
-      "link": "https://finance.yahoo.com/media-advertising/articles/11th-centrestage-concludes-successfully-over-223128792.html",
-      "publisher": "NewMediaWire",
-      "time": 1788733888,
+      "time": 1788742526,
       "impact": "low",
       "tags": []
     }
