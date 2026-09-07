@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-07T06:20:16.635888+00:00",
+  "updatedAt": "2026-09-07T12:51:17.691044+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20050.7,
-      "change": 50.5,
-      "changePct": 0.2524974750252497,
+      "price": 20016.8,
+      "change": -33.900000000001455,
+      "changePct": -0.16907140399089038,
       "currency": "EUR"
     },
     {
@@ -28,35 +28,83 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26046.4,
-      "change": 207.0699999999997,
-      "changePct": 0.8013752678571762,
+      "price": 25969.28,
+      "change": -34.04000000000087,
+      "changePct": -0.1309063611877286,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6392.93,
-      "change": 10.340000000000146,
-      "changePct": 0.1620031993281747,
+      "price": 6388.7,
+      "change": -4.230000000000473,
+      "changePct": -0.06616684368514081,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.53,
-      "change": 0.20999999999999908,
-      "changePct": 1.4664804469273678,
+      "price": 15.25,
+      "change": 0.7200000000000006,
+      "changePct": 4.9552649690295985,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "b5ae6cec-e581-38ef-8c97-7b1b37009d99",
-      "title": "Turkey lifts inflation forecast to 28.4% as Middle East conflict pushes outlook higher",
-      "link": "https://finance.yahoo.com/m/b5ae6cec-e581-38ef-8c97-7b1b37009d99/turkey-lifts-inflation.html",
-      "publisher": "Euronews",
-      "time": 1788761665,
+      "id": "51022a1e-6b3c-3eda-a74d-db0392651627",
+      "title": "Goldman Sachs Says Oil Could Hit $120 as Middle East Risk Builds",
+      "link": "https://finance.yahoo.com/energy/articles/goldman-sachs-says-oil-could-124709591.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788785229,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "8a088d4a-259f-3d2f-ba2f-87f84e2f0842",
+      "title": "James Altucher: Elon Musk Is Quietly Running the Oldest Play in American Business, and Almost No One Has Noticed",
+      "link": "https://finance.yahoo.com/technology/ai/articles/james-altucher-elon-musk-quietly-124500090.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788785100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0f0895e6-0485-316c-8d37-c272dc6bc588",
+      "title": "Amazon Cargo Jet Crash Puts Its Air Network in the Spotlight",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-cargo-jet-crash-puts-124313120.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788784993,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8d8436e7-b6c1-3936-98b8-7563213f9fc3",
+      "title": "Jensen Huang Says AGI Has Arrived. Nvidia Investors Should Pay Attention",
+      "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-agi-arrived-124157331.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788784917,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2b593dac-4e73-3b79-846a-fbe2135c98e8",
+      "title": "The Retirement ‘Magic Number’ Keeps Moving. Here’s What the Average 65-Year-Old Couple Actually Needs Beyond Social Security.",
+      "link": "https://finance.yahoo.com/m/2b593dac-4e73-3b79-846a-fbe2135c98e8/the-retirement-%E2%80%98magic-number%E2%80%99.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1788784873,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "50f3d951-ab11-3a06-b1d4-c4041f24c82c",
+      "title": "Founder Divorce Sends a New Warning to Lululemon Stock Investors",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/founder-divorce-sends-warning-lululemon-124031988.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788784831,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,89 +112,38 @@
       ]
     },
     {
-      "id": "67d8f4e4-41b8-394c-b9b4-a024584487c3",
-      "title": "Indonesia keeps several airports closed though volcanic eruption is easing",
-      "link": "https://finance.yahoo.com/m/67d8f4e4-41b8-394c-b9b4-a024584487c3/indonesia-keeps-several.html",
-      "publisher": "Associated Press",
-      "time": 1788761435,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e3536907-d7fc-3d86-82b9-8641b15b6c4d",
-      "title": "ACG to Acquire Keşkek Licence to Extend Gold Production",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/acg-acquire-ke-kek-licence-061000141.html",
-      "publisher": "PR Newswire",
-      "time": 1788761400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "05634e8d-129c-33cc-a5de-5881727c5377",
-      "title": "AI, Connectivity and What Comes Next: Inside Asia Innovation Summit 2026",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-connectivity-comes-next-inside-060900631.html",
-      "publisher": "PR Newswire",
-      "time": 1788761340,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e8a9dc87-bd30-3008-9acd-ecbfba81c11d",
-      "title": "Payment Asia, ShipAny and EasyStore Sign Partnership Agreement to Connect E-Commerce, Payments and Logistics for SMEs",
-      "link": "https://finance.yahoo.com/small-business/articles/payment-asia-shipany-easystore-sign-060800157.html",
-      "publisher": "PR Newswire",
-      "time": 1788761280,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1944c6a9-b672-33af-9d6d-ada2d129e482",
-      "title": "Jacobs (J) Backlog Hits $28.9B As Guidance Rises Again",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-j-backlog-hits-28-060312706.html",
-      "publisher": "Insider Monkey",
-      "time": 1788760992,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "a6a4ed9c-bcfd-3190-85cd-9c90bc635090",
-      "title": "Multiconsult and Rejlers to create a leading pan-Nordic multidisciplinary consultancy group through a merger of equals",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/multiconsult-rejlers-create-leading-pan-060200376.html",
-      "publisher": "PR Newswire",
-      "time": 1788760920,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "0775ca05-2e53-3801-aa1c-ed940d710b91",
-      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - September 07",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-hotels-group-plc-announces-060000497.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1788760800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0d621ff9-2203-35e9-aa03-a51ea817b7ce",
-      "title": "Omnichannel Payment Platform Revenue to Exceed $100 Billion Globally by 2031, as Leading Platforms Set to Capitalise Are Revealed",
-      "link": "https://finance.yahoo.com/technology/articles/omnichannel-payment-platform-revenue-exceed-060000582.html",
+      "id": "ff35da8d-b8cb-354c-aad6-15387714f3a0",
+      "title": "Renk Group AG: Release according to Article 40 (1) of the WpHG (the German Securities Trading Act) with the objective of Europe-wide distribution",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/renk-group-ag-release-according-124000736.html",
       "publisher": "GlobeNewswire",
-      "time": 1788760800,
+      "time": 1788784800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "24f99304-35f2-36d0-b18e-7df49c9d8b37",
-      "title": "Half-yearly figures BNG 2026: Greater impact through strong growth in public investment",
-      "link": "https://finance.yahoo.com/economy/policy/articles/half-yearly-figures-bng-2026-060000143.html",
-      "publisher": "PR Newswire",
-      "time": 1788760800,
+      "id": "a98ecaa0-e593-3627-902d-eac3e25c4d2d",
+      "title": "Apple Faces New Threat From Huawei and Xiaomi",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-faces-threat-huawei-xiaomi-123806765.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788784686,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0527d114-511d-37e7-a332-011285d4953a",
+      "title": "Target's Non-Merchandise Sales Jump 20% as New Revenue Streams Scale",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/targets-non-merchandise-sales-jump-123800938.html",
+      "publisher": "Zacks",
+      "time": 1788784680,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "09d757c8-1b43-378c-a34b-ea4e2fbe11ca",
+      "title": "ICBA and Global eTraining Launch Construction Technology Training Initiative to Upskill Canadian Contractors",
+      "link": "https://finance.yahoo.com/technology/articles/icba-global-etraining-launch-construction-123800226.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788784680,
       "impact": "low",
       "tags": []
     }
