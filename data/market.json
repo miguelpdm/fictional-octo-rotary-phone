@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-07T12:51:17.691044+00:00",
+  "updatedAt": "2026-09-07T18:01:49.669423+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20016.8,
-      "change": -33.900000000001455,
-      "changePct": -0.16907140399089038,
+      "price": 20021.8,
+      "change": -28.900000000001455,
+      "changePct": -0.14413461874149758,
       "currency": "EUR"
     },
     {
@@ -28,35 +28,100 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25969.28,
-      "change": -34.04000000000087,
-      "changePct": -0.1309063611877286,
+      "price": 26006.53,
+      "change": 3.209999999999127,
+      "changePct": 0.012344577538557104,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6388.7,
-      "change": -4.230000000000473,
-      "changePct": -0.06616684368514081,
+      "price": 6403.99,
+      "change": 11.05999999999949,
+      "changePct": 0.17300361493086097,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.25,
-      "change": 0.7200000000000006,
-      "changePct": 4.9552649690295985,
+      "price": 15.3,
+      "change": 0.7700000000000014,
+      "changePct": 5.29938059187888,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "51022a1e-6b3c-3eda-a74d-db0392651627",
-      "title": "Goldman Sachs Says Oil Could Hit $120 as Middle East Risk Builds",
-      "link": "https://finance.yahoo.com/energy/articles/goldman-sachs-says-oil-could-124709591.html",
+      "id": "1d51e0e1-31e1-30d1-9acf-148a4e0253c8",
+      "title": "Andreeva survives in three sets against Potapova",
+      "link": "https://finance.yahoo.com/m/1d51e0e1-31e1-30d1-9acf-148a4e0253c8/andreeva-survives-in-three.html",
+      "publisher": "AFP",
+      "time": 1788803699,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b368ea25-dfa4-337e-8498-8d9ac8caa69d",
+      "title": "Nearly 4,000 BTC vanishes in major heist as hackers make a surprising promise",
+      "link": "https://finance.yahoo.com/m/b368ea25-dfa4-337e-8498-8d9ac8caa69d/nearly-4%2C000-btc-vanishes-in.html",
+      "publisher": "TheStreet",
+      "time": 1788803469,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f27275b3-c1cb-3961-a04e-c52990347eb1",
+      "title": "Novo is Down Nearly 2% as a 40.4% Childhood Win Meets Two Trial Cancellations",
+      "link": "https://finance.yahoo.com/healthcare/articles/novo-down-nearly-2-40-175040657.html",
       "publisher": "GuruFocus.com",
-      "time": 1788785229,
+      "time": 1788803440,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b7c2ed69-d2d0-3c7e-9581-54537f7f99aa",
+      "title": "Novartis Falls 1.9% as Pelacarsen Failure Erases CHF4.9 Billion",
+      "link": "https://finance.yahoo.com/healthcare/articles/novartis-falls-1-9-pelacarsen-175008530.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788803408,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c77ae1f4-ec31-30e8-87bb-fcd92423fd58",
+      "title": "Jessica Carline and Darren Wallace Bring Decades of Professional Experience to Best Option Restoration of North Houston",
+      "link": "https://finance.yahoo.com/small-business/articles/jessica-carline-darren-wallace-bring-175000288.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1788803400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d4d8b453-7627-3822-bfe1-d2ea9cce45bf",
+      "title": "2 Safe High-Yield Energy Dividend Stocks You've Probably Never Heard Of",
+      "link": "https://finance.yahoo.com/m/d4d8b453-7627-3822-bfe1-d2ea9cce45bf/2-safe-high-yield-energy.html",
+      "publisher": "Motley Fool",
+      "time": 1788803400,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "f7889aa4-0332-314c-91c1-85a6febdf8b6",
+      "title": "Apple Faces Its Biggest iPhone Test in Years -- Morgan Stanley Sees $14B Foldable Opportunity",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-faces-biggest-iphone-test-174840294.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788803320,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8e933414-9766-3705-b6c3-cc735f7f56a9",
+      "title": "Energy Secretary's admission just tested Bessent's oil forecast",
+      "link": "https://finance.yahoo.com/m/8e933414-9766-3705-b6c3-cc735f7f56a9/energy-secretary%27s-admission.html",
+      "publisher": "TheStreet",
+      "time": 1788803220,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,88 +129,24 @@
       ]
     },
     {
-      "id": "8a088d4a-259f-3d2f-ba2f-87f84e2f0842",
-      "title": "James Altucher: Elon Musk Is Quietly Running the Oldest Play in American Business, and Almost No One Has Noticed",
-      "link": "https://finance.yahoo.com/technology/ai/articles/james-altucher-elon-musk-quietly-124500090.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788785100,
+      "id": "b8936b51-ec0b-31ad-8537-aaa8bfc8cf12",
+      "title": "Is WLFC's Low EV/Sales Ratio a Hidden Gem for Investors or a Value Trap?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wlfcs-low-ev-sales-ratio-174700530.html",
+      "publisher": "Zacks",
+      "time": 1788803220,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0f0895e6-0485-316c-8d37-c272dc6bc588",
-      "title": "Amazon Cargo Jet Crash Puts Its Air Network in the Spotlight",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-cargo-jet-crash-puts-124313120.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788784993,
+      "id": "8f9edfe8-f6c2-33fa-a2d9-69362c134667",
+      "title": "4 Leisure & Recreation Stocks Worth Watching Despite Industry Pressure",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/4-leisure-recreation-stocks-worth-174500631.html",
+      "publisher": "Zacks",
+      "time": 1788803100,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8d8436e7-b6c1-3936-98b8-7563213f9fc3",
-      "title": "Jensen Huang Says AGI Has Arrived. Nvidia Investors Should Pay Attention",
-      "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-agi-arrived-124157331.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788784917,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2b593dac-4e73-3b79-846a-fbe2135c98e8",
-      "title": "The Retirement ‘Magic Number’ Keeps Moving. Here’s What the Average 65-Year-Old Couple Actually Needs Beyond Social Security.",
-      "link": "https://finance.yahoo.com/m/2b593dac-4e73-3b79-846a-fbe2135c98e8/the-retirement-%E2%80%98magic-number%E2%80%99.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1788784873,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "50f3d951-ab11-3a06-b1d4-c4041f24c82c",
-      "title": "Founder Divorce Sends a New Warning to Lululemon Stock Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/founder-divorce-sends-warning-lululemon-124031988.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788784831,
-      "impact": "high",
       "tags": [
-        "geo",
         "macro"
       ]
-    },
-    {
-      "id": "ff35da8d-b8cb-354c-aad6-15387714f3a0",
-      "title": "Renk Group AG: Release according to Article 40 (1) of the WpHG (the German Securities Trading Act) with the objective of Europe-wide distribution",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/renk-group-ag-release-according-124000736.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788784800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a98ecaa0-e593-3627-902d-eac3e25c4d2d",
-      "title": "Apple Faces New Threat From Huawei and Xiaomi",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-faces-threat-huawei-xiaomi-123806765.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788784686,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0527d114-511d-37e7-a332-011285d4953a",
-      "title": "Target's Non-Merchandise Sales Jump 20% as New Revenue Streams Scale",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/targets-non-merchandise-sales-jump-123800938.html",
-      "publisher": "Zacks",
-      "time": 1788784680,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "09d757c8-1b43-378c-a34b-ea4e2fbe11ca",
-      "title": "ICBA and Global eTraining Launch Construction Technology Training Initiative to Upskill Canadian Contractors",
-      "link": "https://finance.yahoo.com/technology/articles/icba-global-etraining-launch-construction-123800226.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788784680,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
