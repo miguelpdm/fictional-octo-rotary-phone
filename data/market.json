@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T18:01:49.669423+00:00",
+  "updatedAt": "2026-09-07T21:38:52.774861+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,101 +52,94 @@
   ],
   "news": [
     {
+      "id": "49960354-be35-356b-a001-1586e9b5d434",
+      "title": "AMD Stock Jumps After Unveiling $100,000-Plus AI Workstation for 2027",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amd-stock-jumps-unveiling-100-213621532.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788816981,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "08e50375-ee2c-3369-8461-e57f3b285486",
+      "title": "5-star analyst resets Intel stock price target",
+      "link": "https://finance.yahoo.com/m/08e50375-ee2c-3369-8461-e57f3b285486/5-star-analyst-resets-intel.html",
+      "publisher": "TheStreet",
+      "time": 1788816780,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d8181e02-5897-39dc-bef2-7a9c3c8e59f1",
+      "title": "Her Second Nursing-Home Stay Started on Day 41. Medicare’s 100 Days Reset Only After a 60-Day Break. She Had Been Home for 45.",
+      "link": "https://finance.yahoo.com/m/d8181e02-5897-39dc-bef2-7a9c3c8e59f1/her-second-nursing-home-stay.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1788816710,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "8bef0b39-ebcf-3b3d-b14f-ecb34059c709",
+      "title": "Editorial: Seed and feed Hawaii healthcare system",
+      "link": "https://finance.yahoo.com/m/8bef0b39-ebcf-3b3d-b14f-ecb34059c709/editorial%3A-seed-and-feed.html",
+      "publisher": "The Honolulu Star-Advertiser",
+      "time": 1788816660,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "20e5aa16-2f9b-3367-a0eb-3ad532048f3d",
+      "title": "Amazon's $108 farmhouse storage cabinet is 5 feet tall and spacious enough for practically anything",
+      "link": "https://finance.yahoo.com/m/20e5aa16-2f9b-3367-a0eb-3ad532048f3d/amazon%27s-%24108-farmhouse.html",
+      "publisher": "TheStreet",
+      "time": 1788816600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cc50f22d-ae9e-3ea1-acbe-a7655fca135c",
+      "title": "How a 64-Year-Old’s $1.2 Million in VOO Turned Into a $456,000 Bet on a Single Sector",
+      "link": "https://finance.yahoo.com/m/cc50f22d-ae9e-3ea1-acbe-a7655fca135c/how-a-64-year-old%E2%80%99s-%241.2.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1788816321,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "26aa3f64-f2ce-357e-80cd-e2b3c7c7fe23",
+      "title": "Energy Transfer Just Delayed a New Mexico Pipeline. Here's Why I'm Not Worried Yet.",
+      "link": "https://finance.yahoo.com/m/26aa3f64-f2ce-357e-80cd-e2b3c7c7fe23/energy-transfer-just-delayed.html",
+      "publisher": "Motley Fool",
+      "time": 1788816300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1f3e852b-4386-36df-a9ee-1b98e34f3a9f",
+      "title": "Iran says improved ballistic missile shows it will take preemptive action against threats",
+      "link": "https://finance.yahoo.com/m/1f3e852b-4386-36df-a9ee-1b98e34f3a9f/iran-says-improved-ballistic.html",
+      "publisher": "Associated Press",
+      "time": 1788816287,
+      "impact": "low",
+      "tags": []
+    },
+    {
       "id": "1d51e0e1-31e1-30d1-9acf-148a4e0253c8",
       "title": "Andreeva survives in three sets against Potapova",
       "link": "https://finance.yahoo.com/m/1d51e0e1-31e1-30d1-9acf-148a4e0253c8/andreeva-survives-in-three.html",
       "publisher": "AFP",
-      "time": 1788803699,
+      "time": 1788815996,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b368ea25-dfa4-337e-8498-8d9ac8caa69d",
-      "title": "Nearly 4,000 BTC vanishes in major heist as hackers make a surprising promise",
-      "link": "https://finance.yahoo.com/m/b368ea25-dfa4-337e-8498-8d9ac8caa69d/nearly-4%2C000-btc-vanishes-in.html",
-      "publisher": "TheStreet",
-      "time": 1788803469,
+      "id": "a5f58216-1551-338b-8efd-0917c5bdf293",
+      "title": "Maresca agrees with Haaland that players started season jaded",
+      "link": "https://finance.yahoo.com/m/a5f58216-1551-338b-8efd-0917c5bdf293/maresca-agrees-with-haaland.html",
+      "publisher": "AFP",
+      "time": 1788815982,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "f27275b3-c1cb-3961-a04e-c52990347eb1",
-      "title": "Novo is Down Nearly 2% as a 40.4% Childhood Win Meets Two Trial Cancellations",
-      "link": "https://finance.yahoo.com/healthcare/articles/novo-down-nearly-2-40-175040657.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788803440,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b7c2ed69-d2d0-3c7e-9581-54537f7f99aa",
-      "title": "Novartis Falls 1.9% as Pelacarsen Failure Erases CHF4.9 Billion",
-      "link": "https://finance.yahoo.com/healthcare/articles/novartis-falls-1-9-pelacarsen-175008530.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788803408,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c77ae1f4-ec31-30e8-87bb-fcd92423fd58",
-      "title": "Jessica Carline and Darren Wallace Bring Decades of Professional Experience to Best Option Restoration of North Houston",
-      "link": "https://finance.yahoo.com/small-business/articles/jessica-carline-darren-wallace-bring-175000288.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1788803400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d4d8b453-7627-3822-bfe1-d2ea9cce45bf",
-      "title": "2 Safe High-Yield Energy Dividend Stocks You've Probably Never Heard Of",
-      "link": "https://finance.yahoo.com/m/d4d8b453-7627-3822-bfe1-d2ea9cce45bf/2-safe-high-yield-energy.html",
-      "publisher": "Motley Fool",
-      "time": 1788803400,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "f7889aa4-0332-314c-91c1-85a6febdf8b6",
-      "title": "Apple Faces Its Biggest iPhone Test in Years -- Morgan Stanley Sees $14B Foldable Opportunity",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-faces-biggest-iphone-test-174840294.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788803320,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8e933414-9766-3705-b6c3-cc735f7f56a9",
-      "title": "Energy Secretary's admission just tested Bessent's oil forecast",
-      "link": "https://finance.yahoo.com/m/8e933414-9766-3705-b6c3-cc735f7f56a9/energy-secretary%27s-admission.html",
-      "publisher": "TheStreet",
-      "time": 1788803220,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "b8936b51-ec0b-31ad-8537-aaa8bfc8cf12",
-      "title": "Is WLFC's Low EV/Sales Ratio a Hidden Gem for Investors or a Value Trap?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wlfcs-low-ev-sales-ratio-174700530.html",
-      "publisher": "Zacks",
-      "time": 1788803220,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8f9edfe8-f6c2-33fa-a2d9-69362c134667",
-      "title": "4 Leisure & Recreation Stocks Worth Watching Despite Industry Pressure",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/4-leisure-recreation-stocks-worth-174500631.html",
-      "publisher": "Zacks",
-      "time": 1788803100,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
     }
   ],
   "errors": {
