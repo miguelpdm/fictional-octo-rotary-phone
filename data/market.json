@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T21:38:52.774861+00:00",
+  "updatedAt": "2026-09-07T23:53:14.750166+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,92 +52,101 @@
   ],
   "news": [
     {
-      "id": "49960354-be35-356b-a001-1586e9b5d434",
-      "title": "AMD Stock Jumps After Unveiling $100,000-Plus AI Workstation for 2027",
-      "link": "https://finance.yahoo.com/technology/ai/articles/amd-stock-jumps-unveiling-100-213621532.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788816981,
+      "id": "aacf70d7-fe36-3337-90cc-6776d4aa4a33",
+      "title": "WeBox Launches Fully Managed Office Pantry Service Across the San Francisco Bay Area",
+      "link": "https://finance.yahoo.com/small-business/articles/webox-launches-fully-managed-office-234700299.html",
+      "publisher": "Business Wire",
+      "time": 1788824820,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "08e50375-ee2c-3369-8461-e57f3b285486",
-      "title": "5-star analyst resets Intel stock price target",
-      "link": "https://finance.yahoo.com/m/08e50375-ee2c-3369-8461-e57f3b285486/5-star-analyst-resets-intel.html",
-      "publisher": "TheStreet",
-      "time": 1788816780,
+      "id": "382da7f9-c135-356b-9eb5-6fb7c4a449af",
+      "title": "Tunkillia Environmental Scoping Report Approved",
+      "link": "https://finance.yahoo.com/energy/articles/tunkillia-environmental-scoping-report-approved-234500879.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1788824700,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d8181e02-5897-39dc-bef2-7a9c3c8e59f1",
-      "title": "Her Second Nursing-Home Stay Started on Day 41. Medicare’s 100 Days Reset Only After a 60-Day Break. She Had Been Home for 45.",
-      "link": "https://finance.yahoo.com/m/d8181e02-5897-39dc-bef2-7a9c3c8e59f1/her-second-nursing-home-stay.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1788816710,
+      "id": "827bf049-858c-3e47-b171-8cb463400b32",
+      "title": "Piper Sandles Sees ExxonMobil (XOM) Heading Toward New Highs",
+      "link": "https://finance.yahoo.com/energy/articles/piper-sandles-sees-exxonmobil-xom-234156306.html",
+      "publisher": "Insider Monkey",
+      "time": 1788824516,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "60abe4d9-c8b0-3242-a2cc-3cc5d357ce85",
+      "title": "Congress Is Building the Scaffolding: The First Federal Bill Mandating Agent Security Standards",
+      "link": "https://finance.yahoo.com/m/60abe4d9-c8b0-3242-a2cc-3cc5d357ce85/congress-is-building-the.html",
+      "publisher": "Forkast News",
+      "time": 1788824437,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "68e416f9-1e09-3ea5-aecd-7ad28b0c31bd",
+      "title": "NextEra-Dominion Merger Wins Shareholder Backing: What’s Next?",
+      "link": "https://finance.yahoo.com/energy/articles/nextera-dominion-merger-wins-shareholder-233730229.html",
+      "publisher": "Insider Monkey",
+      "time": 1788824250,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "f34a1da6-1292-3a13-aa81-8e326d0baee5",
+      "title": "Bloom Energy (BE) Joins S&P 500: Can Its AI Rally Continue?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-joins-p-500-233544037.html",
+      "publisher": "Insider Monkey",
+      "time": 1788824144,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8bef0b39-ebcf-3b3d-b14f-ecb34059c709",
-      "title": "Editorial: Seed and feed Hawaii healthcare system",
-      "link": "https://finance.yahoo.com/m/8bef0b39-ebcf-3b3d-b14f-ecb34059c709/editorial%3A-seed-and-feed.html",
-      "publisher": "The Honolulu Star-Advertiser",
-      "time": 1788816660,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "20e5aa16-2f9b-3367-a0eb-3ad532048f3d",
-      "title": "Amazon's $108 farmhouse storage cabinet is 5 feet tall and spacious enough for practically anything",
-      "link": "https://finance.yahoo.com/m/20e5aa16-2f9b-3367-a0eb-3ad532048f3d/amazon%27s-%24108-farmhouse.html",
-      "publisher": "TheStreet",
-      "time": 1788816600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cc50f22d-ae9e-3ea1-acbe-a7655fca135c",
-      "title": "How a 64-Year-Old’s $1.2 Million in VOO Turned Into a $456,000 Bet on a Single Sector",
-      "link": "https://finance.yahoo.com/m/cc50f22d-ae9e-3ea1-acbe-a7655fca135c/how-a-64-year-old%E2%80%99s-%241.2.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1788816321,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "26aa3f64-f2ce-357e-80cd-e2b3c7c7fe23",
-      "title": "Energy Transfer Just Delayed a New Mexico Pipeline. Here's Why I'm Not Worried Yet.",
-      "link": "https://finance.yahoo.com/m/26aa3f64-f2ce-357e-80cd-e2b3c7c7fe23/energy-transfer-just-delayed.html",
+      "id": "883e9722-de8f-3ea2-9c45-14c597e32391",
+      "title": "The S&P 500 Is at a Near-Record High. Here's What History Says Every Long-Term Investor Should Do Right Now.",
+      "link": "https://finance.yahoo.com/m/883e9722-de8f-3ea2-9c45-14c597e32391/the-s%26p-500-is-at-a.html",
       "publisher": "Motley Fool",
-      "time": 1788816300,
+      "time": 1788824100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1f3e852b-4386-36df-a9ee-1b98e34f3a9f",
-      "title": "Iran says improved ballistic missile shows it will take preemptive action against threats",
-      "link": "https://finance.yahoo.com/m/1f3e852b-4386-36df-a9ee-1b98e34f3a9f/iran-says-improved-ballistic.html",
-      "publisher": "Associated Press",
-      "time": 1788816287,
+      "id": "c58b1b67-6ef8-3be1-875c-6914d47ccd9d",
+      "title": "FLEX Makes a $4.4 Billion Bet on AI Power",
+      "link": "https://finance.yahoo.com/technology/ai/articles/flex-makes-4-4-billion-233153333.html",
+      "publisher": "Insider Monkey",
+      "time": 1788823913,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1d51e0e1-31e1-30d1-9acf-148a4e0253c8",
-      "title": "Andreeva survives in three sets against Potapova",
-      "link": "https://finance.yahoo.com/m/1d51e0e1-31e1-30d1-9acf-148a4e0253c8/andreeva-survives-in-three.html",
-      "publisher": "AFP",
-      "time": 1788815996,
+      "id": "3bdd587a-7f5a-3a27-b2dc-339fbde9664b",
+      "title": "9/11’s effects on Lima",
+      "link": "https://finance.yahoo.com/m/3bdd587a-7f5a-3a27-b2dc-339fbde9664b/9%2F11%E2%80%99s-effects-on-lima.html",
+      "publisher": "The Lima News, Ohio",
+      "time": 1788823860,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a5f58216-1551-338b-8efd-0917c5bdf293",
-      "title": "Maresca agrees with Haaland that players started season jaded",
-      "link": "https://finance.yahoo.com/m/a5f58216-1551-338b-8efd-0917c5bdf293/maresca-agrees-with-haaland.html",
-      "publisher": "AFP",
-      "time": 1788815982,
+      "id": "9f3536c1-dd95-30b8-81cd-5d02c8309630",
+      "title": "Ondo makes major change to USDY on Aptos and Noble",
+      "link": "https://finance.yahoo.com/m/9f3536c1-dd95-30b8-81cd-5d02c8309630/ondo-makes-major-change-to.html",
+      "publisher": "TheStreet",
+      "time": 1788823800,
       "impact": "low",
       "tags": []
     }
