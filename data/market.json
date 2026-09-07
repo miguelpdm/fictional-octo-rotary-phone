@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T01:10:18.490479+00:00",
+  "updatedAt": "2026-09-07T06:20:16.635888+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,11 @@
   ],
   "news": [
     {
-      "id": "d5001ca0-1c20-3379-83c3-ddca4526f9c2",
-      "title": "Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
-      "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures-fall-with.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1788743175,
+      "id": "b5ae6cec-e581-38ef-8c97-7b1b37009d99",
+      "title": "Turkey lifts inflation forecast to 28.4% as Middle East conflict pushes outlook higher",
+      "link": "https://finance.yahoo.com/m/b5ae6cec-e581-38ef-8c97-7b1b37009d99/turkey-lifts-inflation.html",
+      "publisher": "Euronews",
+      "time": 1788761665,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,85 +64,89 @@
       ]
     },
     {
-      "id": "13a035b8-70a1-3193-b48e-37dc1344a762",
-      "title": "Southeast Asian travelers trade up during sale periods, Traveloka platform data shows",
-      "link": "https://finance.yahoo.com/small-business/articles/southeast-asian-travelers-trade-during-010000074.html",
+      "id": "67d8f4e4-41b8-394c-b9b4-a024584487c3",
+      "title": "Indonesia keeps several airports closed though volcanic eruption is easing",
+      "link": "https://finance.yahoo.com/m/67d8f4e4-41b8-394c-b9b4-a024584487c3/indonesia-keeps-several.html",
+      "publisher": "Associated Press",
+      "time": 1788761435,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e3536907-d7fc-3d86-82b9-8641b15b6c4d",
+      "title": "ACG to Acquire Keşkek Licence to Extend Gold Production",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/acg-acquire-ke-kek-licence-061000141.html",
       "publisher": "PR Newswire",
-      "time": 1788742800,
+      "time": 1788761400,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "05634e8d-129c-33cc-a5de-5881727c5377",
+      "title": "AI, Connectivity and What Comes Next: Inside Asia Innovation Summit 2026",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-connectivity-comes-next-inside-060900631.html",
+      "publisher": "PR Newswire",
+      "time": 1788761340,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e8a9dc87-bd30-3008-9acd-ecbfba81c11d",
+      "title": "Payment Asia, ShipAny and EasyStore Sign Partnership Agreement to Connect E-Commerce, Payments and Logistics for SMEs",
+      "link": "https://finance.yahoo.com/small-business/articles/payment-asia-shipany-easystore-sign-060800157.html",
+      "publisher": "PR Newswire",
+      "time": 1788761280,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1944c6a9-b672-33af-9d6d-ada2d129e482",
+      "title": "Jacobs (J) Backlog Hits $28.9B As Guidance Rises Again",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-j-backlog-hits-28-060312706.html",
+      "publisher": "Insider Monkey",
+      "time": 1788760992,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "59ce2042-57cb-3428-851b-8fdae8d81d15",
-      "title": "Maxeye Successfully Resolved Patent Litigation with Wacom",
-      "link": "https://finance.yahoo.com/technology/articles/maxeye-successfully-resolved-patent-litigation-010000189.html",
+      "id": "a6a4ed9c-bcfd-3190-85cd-9c90bc635090",
+      "title": "Multiconsult and Rejlers to create a leading pan-Nordic multidisciplinary consultancy group through a merger of equals",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/multiconsult-rejlers-create-leading-pan-060200376.html",
       "publisher": "PR Newswire",
-      "time": 1788742800,
+      "time": 1788760920,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "0775ca05-2e53-3801-aa1c-ed940d710b91",
+      "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - September 07",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-hotels-group-plc-announces-060000497.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1788760800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5ee56ab0-e3b3-3a78-8159-d6d3cfd069c0",
-      "title": "A Joy Partners with André Chiang to Elevate the 2.0 Dining Experience",
-      "link": "https://finance.yahoo.com/media-advertising/articles/joy-partners-andr-chiang-elevate-010000384.html",
+      "id": "0d621ff9-2203-35e9-aa03-a51ea817b7ce",
+      "title": "Omnichannel Payment Platform Revenue to Exceed $100 Billion Globally by 2031, as Leading Platforms Set to Capitalise Are Revealed",
+      "link": "https://finance.yahoo.com/technology/articles/omnichannel-payment-platform-revenue-exceed-060000582.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788760800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "24f99304-35f2-36d0-b18e-7df49c9d8b37",
+      "title": "Half-yearly figures BNG 2026: Greater impact through strong growth in public investment",
+      "link": "https://finance.yahoo.com/economy/policy/articles/half-yearly-figures-bng-2026-060000143.html",
       "publisher": "PR Newswire",
-      "time": 1788742800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "72042f01-5580-3bc1-a445-00fc8940b959",
-      "title": "People See One Brand. The Internet May Show Them Hundreds More.",
-      "link": "https://finance.yahoo.com/technology/articles/people-see-one-brand-internet-010000081.html",
-      "publisher": "PR Newswire",
-      "time": 1788742800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "acd1e8c1-87cc-360f-8ef5-941cf811b74c",
-      "title": "53% of European Consumers Are Open to Switching Mobile Providers as Telco Loyalty Comes Under Pressure",
-      "link": "https://finance.yahoo.com/technology/articles/53-european-consumers-open-switching-010000356.html",
-      "publisher": "PR Newswire",
-      "time": 1788742800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bbf7738a-b589-301a-8c9d-22bf0e9b7c09",
-      "title": "A StubHub Executive Dumps Over 10% of Their Company Shares Worth $1.1 Million",
-      "link": "https://finance.yahoo.com/m/bbf7738a-b589-301a-8c9d-22bf0e9b7c09/a-stubhub-executive-dumps.html",
-      "publisher": "Motley Fool",
-      "time": 1788742735,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "11ff7f3d-804f-3c79-8ed7-88b0dbf3fa89",
-      "title": "Baidu Announces Inclusion of Its Class A Ordinary Shares in the Shenzhen-Hong Kong Stock Connect and Shanghai-Hong Kong Stock Connect Programs",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-announces-inclusion-class-ordinary-005800441.html",
-      "publisher": "PR Newswire",
-      "time": 1788742680,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b4222e9e-fe6b-3608-9594-f15a24683c12",
-      "title": "Pegula tops Cirstea to reach US Open quarter-finals",
-      "link": "https://finance.yahoo.com/m/b4222e9e-fe6b-3608-9594-f15a24683c12/pegula-tops-cirstea-to-reach.html",
-      "publisher": "AFP",
-      "time": 1788742599,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1e12ab75-7818-3ca0-b81d-ea4996a43007",
-      "title": "VinFast Auto (VFS) Quietly Pumps the Brakes on Its India Manufacturing Plans",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vinfast-auto-vfs-quietly-pumps-005526359.html",
-      "publisher": "Insider Monkey",
-      "time": 1788742526,
+      "time": 1788760800,
       "impact": "low",
       "tags": []
     }
