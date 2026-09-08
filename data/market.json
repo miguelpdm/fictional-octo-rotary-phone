@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T16:59:03.982492+00:00",
+  "updatedAt": "2026-09-08T19:46:55.759852+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7683.98,
-      "change": -63.73000000000047,
-      "changePct": -0.8225656355232768,
+      "price": 7680.54,
+      "change": -67.17000000000007,
+      "changePct": -0.8669658518452559,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26449.613,
-      "change": -134.44700000000012,
-      "changePct": -0.5057429151152988,
+      "price": 26423.91,
+      "change": -160.15000000000146,
+      "changePct": -0.6024286734231018,
       "currency": "USD"
     },
     {
@@ -44,105 +44,111 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.28,
-      "change": -0.02000000000000135,
-      "changePct": -0.13071895424837482,
+      "price": 15.6,
+      "change": 0.29999999999999893,
+      "changePct": 1.9607843137254832,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "9af47279-6e11-38b7-81b5-d1959fe99d03",
-      "title": "Tesla Jumps as Slovenia Opens Europe's Sixth FSD Door",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-jumps-slovenia-opens-europes-165751659.html",
+      "id": "29ad14f6-ca40-3bc7-8d48-2930a7c316bb",
+      "title": "GE Aerospace Gains After Paying 26 Times Profit for a Bottleneck",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-gains-paying-26-194601067.html",
       "publisher": "GuruFocus.com",
-      "time": 1788886671,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8751d9c3-7623-3e1b-9c50-46f97db5bbb7",
-      "title": "Meta Slips as Australia Offers an Algorithm Escape Hatch",
-      "link": "https://finance.yahoo.com/media-advertising/articles/meta-slips-australia-offers-algorithm-165703671.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788886623,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bc0e9c44-4d7a-39de-a929-86fc6d13c6e6",
-      "title": "Leveragen Secures Australian Patent for Singularity Platform Advancing Fully Human Single-Domain Antibody Discovery",
-      "link": "https://finance.yahoo.com/healthcare/articles/leveragen-secures-australian-patent-singularity-165600486.html",
-      "publisher": "Business Wire",
-      "time": 1788886560,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d58a9692-bdde-32a1-8d2a-322cb1bba8d1",
-      "title": "Securin Launches Platform to Find, Help Fix, and Verify Cyber Risk",
-      "link": "https://finance.yahoo.com/technology/ai/articles/securin-launches-platform-help-fix-165600057.html",
-      "publisher": "Business Wire",
-      "time": 1788886560,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "535c846e-209c-36eb-9d01-930f3e446f49",
-      "title": "Intel's 8% Jump Adds $39 Billion as High-NA Hits One Million Wafers",
-      "link": "https://finance.yahoo.com/technology/articles/intels-8-jump-adds-39-165530753.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788886530,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "26a52cb5-ce55-3a36-8fe4-1baa2679d9ab",
-      "title": "CNH Industrial (CNH) Looks Undervalued: Why Moerus Is Betting on a Farm Equipment Recovery",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cnh-industrial-cnh-looks-undervalued-165336851.html",
-      "publisher": "Insider Monkey",
-      "time": 1788886416,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "04a18a34-c29e-3552-9d7d-e122f9ad9600",
-      "title": "Apple Falls Before Ternus's First $54 Billion iPhone Test",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-falls-ternuss-first-54-165156040.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788886316,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c25afb71-80bb-3e13-ac43-c25e3275346e",
-      "title": "Rönesans Named Among the World's Top 50 International Contractors for the 11th Consecutive Year",
-      "link": "https://finance.yahoo.com/real-estate/articles/r-nesans-named-among-worlds-165100550.html",
-      "publisher": "PR Newswire",
-      "time": 1788886260,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1c62636b-c6d4-3812-8b35-d859475dd662",
-      "title": "Verizon Edged Lower as 80 Million Fiber Miles Chase AI Traffic",
-      "link": "https://finance.yahoo.com/technology/articles/verizon-edged-lower-80-million-165051434.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788886251,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "026200bf-36c2-30b9-a8ad-a9472ee84ae0",
-      "title": "Government of Canada investments defend Saskatchewan workers and businesses from U.S. tariffs",
-      "link": "https://finance.yahoo.com/economy/policy/articles/government-canada-investments-defend-saskatchewan-165000624.html",
-      "publisher": "CNW Group",
-      "time": 1788886200,
-      "impact": "high",
+      "time": 1788896761,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
+    },
+    {
+      "id": "efed89c7-e7b6-32f9-afdb-4116a30d99a4",
+      "title": "Sector Update: Financial",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-194034548.html",
+      "publisher": "MT Newswires",
+      "time": 1788896434,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0a344b3d-e87a-36fc-a86b-f01c871e5c33",
+      "title": "Oil prices hit six-week high after Houthis attack Saudi sites",
+      "link": "https://finance.yahoo.com/energy/articles/oil-rises-risks-prolonged-mideast-005052539.html",
+      "publisher": "Reuters",
+      "time": 1788896393,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "782bcfb5-6660-30b5-b3de-52e4ecde312f",
+      "title": "FlexScreen® / RiteScreen® Welcomes David Whisenhunt as Director of Sales",
+      "link": "https://finance.yahoo.com/small-business/articles/flexscreen-ritescreen-welcomes-david-whisenhunt-193700743.html",
+      "publisher": "PR Newswire",
+      "time": 1788896220,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ab024ff9-605d-304d-adbf-dea1c3c5a9c5",
+      "title": "Canadian Investment Regulatory Organization Trading Halt - TCEC",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-investment-regulatory-organization-trading-193600525.html",
+      "publisher": "CNW Group",
+      "time": 1788896160,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c0991979-9499-38c4-aecc-acd551525ee0",
+      "title": "X Pushes Native Video Program With 'Inside The NFL' Anniversary",
+      "link": "https://finance.yahoo.com/m/c0991979-9499-38c4-aecc-acd551525ee0/x-pushes-native-video-program.html",
+      "publisher": "MediaPost",
+      "time": 1788896160,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "328b697a-3d87-3bb2-9d0e-b58dde0f2a62",
+      "title": "Update: Nebius Shares Rise After Partnership With Palantir",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nebius-shares-rise-partnership-palantir-193544874.html",
+      "publisher": "MT Newswires",
+      "time": 1788896144,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7dc3e5d5-0e2e-3179-9188-82b3eb94258b",
+      "title": "3 Profitable Stocks We Approach with Caution",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-profitable-stocks-approach-caution-193518971.html",
+      "publisher": "StockStory",
+      "time": 1788896118,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "f752e02d-a1f2-3205-9c91-0e9e39f46e03",
+      "title": "Sector Update: Energy",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-193513363.html",
+      "publisher": "MT Newswires",
+      "time": 1788896113,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "df5ca903-1cb7-39e6-9d98-3b9682111190",
+      "title": "LEE Q. SHIM Increases Percentage Position of Common Shares held in CANADIAN NORTH RESOURCES INC",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lee-q-shim-increases-percentage-193500656.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1788896100,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
