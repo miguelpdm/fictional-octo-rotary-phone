@@ -1,154 +1,147 @@
 {
-  "updatedAt": "2026-09-08T12:30:28.248788+00:00",
+  "updatedAt": "2026-09-08T16:59:03.982492+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19924.9,
-      "change": -96.89999999999782,
-      "changePct": -0.48397247000768073,
+      "price": 19997.1,
+      "change": -24.700000000000728,
+      "changePct": -0.12336553157059169,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7718.6,
-      "change": 52.0,
-      "changePct": 0.678266767537109,
+      "price": 7683.98,
+      "change": -63.73000000000047,
+      "changePct": -0.8225656355232768,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26506.99,
-      "change": 289.15999999999985,
-      "changePct": 1.102913551579211,
+      "price": 26449.613,
+      "change": -134.44700000000012,
+      "changePct": -0.5057429151152988,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25967.68,
-      "change": -78.72000000000116,
-      "changePct": -0.3022298666994332,
+      "price": 26007.63,
+      "change": -38.77000000000044,
+      "changePct": -0.14884974507033769,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6399.81,
-      "change": -4.1799999999993815,
-      "changePct": -0.0652718071077466,
+      "price": 6413.17,
+      "change": 9.180000000000291,
+      "changePct": 0.14334813139933528,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.71,
-      "change": 0.41000000000000014,
-      "changePct": 2.679738562091504,
+      "price": 15.28,
+      "change": -0.02000000000000135,
+      "changePct": -0.13071895424837482,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "f54ff7e0-6181-38af-aa58-9f46a815e7ef",
-      "title": "OpenAI Hands Nvidia Fresh Win in Surging AI Market",
-      "link": "https://finance.yahoo.com/technology/ai/articles/openai-hands-nvidia-fresh-win-122815703.html",
+      "id": "9af47279-6e11-38b7-81b5-d1959fe99d03",
+      "title": "Tesla Jumps as Slovenia Opens Europe's Sixth FSD Door",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-jumps-slovenia-opens-europes-165751659.html",
       "publisher": "GuruFocus.com",
-      "time": 1788870495,
+      "time": 1788886671,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "fd578c98-26e4-3a38-8afe-fd863432ebc0",
-      "title": "Nvidia-Backed Firmus Passes 900 Megawatts With OpenAI Deal",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-firmus-passes-900-122635680.html",
+      "id": "8751d9c3-7623-3e1b-9c50-46f97db5bbb7",
+      "title": "Meta Slips as Australia Offers an Algorithm Escape Hatch",
+      "link": "https://finance.yahoo.com/media-advertising/articles/meta-slips-australia-offers-algorithm-165703671.html",
       "publisher": "GuruFocus.com",
-      "time": 1788870395,
+      "time": 1788886623,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3cc78b27-3490-3c72-bec8-5deeedb82928",
-      "title": "ASML Begins Construction of New Industrial Campus in Netherlands",
-      "link": "https://finance.yahoo.com/technology/articles/asml-begins-construction-industrial-campus-122604240.html",
-      "publisher": "MT Newswires",
-      "time": 1788870364,
+      "id": "bc0e9c44-4d7a-39de-a929-86fc6d13c6e6",
+      "title": "Leveragen Secures Australian Patent for Singularity Platform Advancing Fully Human Single-Domain Antibody Discovery",
+      "link": "https://finance.yahoo.com/healthcare/articles/leveragen-secures-australian-patent-singularity-165600486.html",
+      "publisher": "Business Wire",
+      "time": 1788886560,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "457f675b-bba0-344c-ac4c-ce409112f23e",
-      "title": "Goldman Spots Breakout Signal for Micron, SanDisk Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-spots-breakout-signal-micron-122550430.html",
+      "id": "d58a9692-bdde-32a1-8d2a-322cb1bba8d1",
+      "title": "Securin Launches Platform to Find, Help Fix, and Verify Cyber Risk",
+      "link": "https://finance.yahoo.com/technology/ai/articles/securin-launches-platform-help-fix-165600057.html",
+      "publisher": "Business Wire",
+      "time": 1788886560,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "535c846e-209c-36eb-9d01-930f3e446f49",
+      "title": "Intel's 8% Jump Adds $39 Billion as High-NA Hits One Million Wafers",
+      "link": "https://finance.yahoo.com/technology/articles/intels-8-jump-adds-39-165530753.html",
       "publisher": "GuruFocus.com",
-      "time": 1788870350,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "49a43fa1-fec5-3fdd-aa15-ae5adfca32aa",
-      "title": "Six Flags Acquires ArieForce One Roller Coaster",
-      "link": "https://finance.yahoo.com/media-advertising/articles/six-flags-acquires-arieforce-one-122500746.html",
-      "publisher": "MT Newswires",
-      "time": 1788870300,
+      "time": 1788886530,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1f65cbeb-5886-398b-b6e3-a93fb22b694a",
-      "title": "Viridian Metals Raises CA$1 Million Via Non-Brokered Private Placement",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/viridian-metals-raises-ca-1-122322074.html",
-      "publisher": "MT Newswires",
-      "time": 1788870202,
+      "id": "26a52cb5-ce55-3a36-8fe4-1baa2679d9ab",
+      "title": "CNH Industrial (CNH) Looks Undervalued: Why Moerus Is Betting on a Farm Equipment Recovery",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cnh-industrial-cnh-looks-undervalued-165336851.html",
+      "publisher": "Insider Monkey",
+      "time": 1788886416,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7d9547c9-4ca9-3403-97c6-27af25b21ab0",
-      "title": "Noble Premium Bison and NCIAF Partner to Grow Indigenous Participation in Canada's Bison Industry",
-      "link": "https://finance.yahoo.com/small-business/articles/noble-premium-bison-nciaf-partner-122300536.html",
-      "publisher": "CNW Group",
-      "time": 1788870180,
+      "id": "04a18a34-c29e-3552-9d7d-e122f9ad9600",
+      "title": "Apple Falls Before Ternus's First $54 Billion iPhone Test",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-falls-ternuss-first-54-165156040.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788886316,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "821b97d8-7ca1-38a8-b4b9-d648391fad8f",
-      "title": "Buy Super Micro Computer for Handsome Returns & Attractive Valuations",
-      "link": "https://finance.yahoo.com/technology/ai/articles/buy-super-micro-computer-handsome-122300783.html",
-      "publisher": "Zacks",
-      "time": 1788870180,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "aa491bea-56cf-34aa-99fc-9ae3dcb290ae",
-      "title": "Reimagining finance: DIFC to convene global leaders across banking, private markets, asset management, FinTech, public policy and sustainability at Dubai Future Finance Week",
-      "link": "https://finance.yahoo.com/economy/policy/articles/reimagining-finance-difc-convene-global-122300326.html",
+      "id": "c25afb71-80bb-3e13-ac43-c25e3275346e",
+      "title": "Rönesans Named Among the World's Top 50 International Contractors for the 11th Consecutive Year",
+      "link": "https://finance.yahoo.com/real-estate/articles/r-nesans-named-among-worlds-165100550.html",
       "publisher": "PR Newswire",
-      "time": 1788870180,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "time": 1788886260,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "fc28ade6-b394-4558-bbad-935c81e4f9ec",
-      "title": "Oil prices approach $100 as Middle East conflict flares, Goldman sees potential upside to $120",
-      "link": "https://finance.yahoo.com/markets/article/oil-prices-approach-100-as-middle-east-conflict-flares-goldman-sees-potential-upside-to-120-122234220.html",
-      "publisher": "Yahoo Finance",
-      "time": 1788870154,
-      "impact": "medium",
+      "id": "1c62636b-c6d4-3812-8b35-d859475dd662",
+      "title": "Verizon Edged Lower as 80 Million Fiber Miles Chase AI Traffic",
+      "link": "https://finance.yahoo.com/technology/articles/verizon-edged-lower-80-million-165051434.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788886251,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "026200bf-36c2-30b9-a8ad-a9472ee84ae0",
+      "title": "Government of Canada investments defend Saskatchewan workers and businesses from U.S. tariffs",
+      "link": "https://finance.yahoo.com/economy/policy/articles/government-canada-investments-defend-saskatchewan-165000624.html",
+      "publisher": "CNW Group",
+      "time": 1788886200,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     }
   ],
