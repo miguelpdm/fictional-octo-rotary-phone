@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T19:46:55.759852+00:00",
+  "updatedAt": "2026-09-08T22:16:16.652282+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7680.54,
-      "change": -67.17000000000007,
-      "changePct": -0.8669658518452559,
+      "price": 7673.52,
+      "change": -74.1899999999996,
+      "changePct": -0.9575732700372059,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26423.91,
-      "change": -160.15000000000146,
-      "changePct": -0.6024286734231018,
+      "price": 26421.412,
+      "change": -162.64800000000105,
+      "changePct": -0.6118252817665963,
       "currency": "USD"
     },
     {
@@ -44,88 +44,95 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.6,
-      "change": 0.29999999999999893,
-      "changePct": 1.9607843137254832,
+      "price": 15.72,
+      "change": 0.41999999999999993,
+      "changePct": 2.7450980392156854,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "29ad14f6-ca40-3bc7-8d48-2930a7c316bb",
-      "title": "GE Aerospace Gains After Paying 26 Times Profit for a Bottleneck",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-gains-paying-26-194601067.html",
-      "publisher": "GuruFocus.com",
-      "time": 1788896761,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "efed89c7-e7b6-32f9-afdb-4116a30d99a4",
-      "title": "Sector Update: Financial",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-194034548.html",
-      "publisher": "MT Newswires",
-      "time": 1788896434,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0a344b3d-e87a-36fc-a86b-f01c871e5c33",
-      "title": "Oil prices hit six-week high after Houthis attack Saudi sites",
-      "link": "https://finance.yahoo.com/energy/articles/oil-rises-risks-prolonged-mideast-005052539.html",
-      "publisher": "Reuters",
-      "time": 1788896393,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "782bcfb5-6660-30b5-b3de-52e4ecde312f",
-      "title": "FlexScreen® / RiteScreen® Welcomes David Whisenhunt as Director of Sales",
-      "link": "https://finance.yahoo.com/small-business/articles/flexscreen-ritescreen-welcomes-david-whisenhunt-193700743.html",
-      "publisher": "PR Newswire",
-      "time": 1788896220,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ab024ff9-605d-304d-adbf-dea1c3c5a9c5",
-      "title": "Canadian Investment Regulatory Organization Trading Halt - TCEC",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-investment-regulatory-organization-trading-193600525.html",
+      "id": "ce15c680-6e65-3a92-ab9f-385309a66dde",
+      "title": "Fireweed Grants Stock Options",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fireweed-grants-stock-options-221200518.html",
       "publisher": "CNW Group",
-      "time": 1788896160,
+      "time": 1788905520,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c0991979-9499-38c4-aecc-acd551525ee0",
-      "title": "X Pushes Native Video Program With 'Inside The NFL' Anniversary",
-      "link": "https://finance.yahoo.com/m/c0991979-9499-38c4-aecc-acd551525ee0/x-pushes-native-video-program.html",
-      "publisher": "MediaPost",
-      "time": 1788896160,
+      "id": "2f22c883-a065-38a3-8b9f-8af085e70342",
+      "title": "Trimble Acquires Terasat Japan to Expand Real-Time, Centimeter-Level VRS Correction Services Footprint",
+      "link": "https://finance.yahoo.com/technology/articles/trimble-acquires-terasat-japan-expand-221000586.html",
+      "publisher": "PR Newswire",
+      "time": 1788905400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "328b697a-3d87-3bb2-9d0e-b58dde0f2a62",
-      "title": "Update: Nebius Shares Rise After Partnership With Palantir",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nebius-shares-rise-partnership-palantir-193544874.html",
-      "publisher": "MT Newswires",
-      "time": 1788896144,
+      "id": "57450a46-9a3d-3b2f-8f81-f736b68547d3",
+      "title": "LITTLE DEBBIE® SNACKS INTRODUCES NEW FLAPJACK MINI MUFFINS: ALL THE TASTE OF A SUNDAY BREAKFAST, NO GRIDDLE REQUIRED",
+      "link": "https://finance.yahoo.com/media-advertising/articles/little-debbie-snacks-introduces-flapjack-220800907.html",
+      "publisher": "PR Newswire",
+      "time": 1788905280,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7dc3e5d5-0e2e-3179-9188-82b3eb94258b",
-      "title": "3 Profitable Stocks We Approach with Caution",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-profitable-stocks-approach-caution-193518971.html",
+      "id": "6b5c402b-c211-36eb-990a-8e4a4bdcd09b",
+      "title": "Industrial & Environmental Services Stocks Q2 Highlights: Pitney Bowes (NYSE:PBI)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/industrial-environmental-services-stocks-q2-220718523.html",
       "publisher": "StockStory",
-      "time": 1788896118,
+      "time": 1788905238,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "24c1ba88-aeae-36cb-a0d1-0f06a7f86889",
+      "title": "‘Black Swan’ investor shares market crash prediction",
+      "link": "https://finance.yahoo.com/m/24c1ba88-aeae-36cb-a0d1-0f06a7f86889/%E2%80%98black-swan%E2%80%99-investor-shares.html",
+      "publisher": "TheStreet",
+      "time": 1788905220,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "7bb2919f-4b9f-3ac0-b003-82c71d293dd6",
+      "title": "Bears HC Ben Johnson says Panthers will pose a 'challenge right out of the gate'",
+      "link": "https://finance.yahoo.com/m/7bb2919f-4b9f-3ac0-b003-82c71d293dd6/bears-hc-ben-johnson-says.html",
+      "publisher": "NFL Highlights",
+      "time": 1788905201,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ddf1c3e4-77e5-3228-b0ad-2f111927ae0a",
+      "title": "Real Madrid win Champions League opener as Haaland stars for Man City",
+      "link": "https://finance.yahoo.com/m/ddf1c3e4-77e5-3228-b0ad-2f111927ae0a/real-madrid-win-champions.html",
+      "publisher": "AFP",
+      "time": 1788905159,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7165c391-2642-3920-8d58-2a33776da653",
+      "title": "Bernstein has a new message for Robinhood investors",
+      "link": "https://finance.yahoo.com/m/7165c391-2642-3920-8d58-2a33776da653/bernstein-has-a-new-message.html",
+      "publisher": "TheStreet",
+      "time": 1788905091,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5200fdc1-1dd2-37d9-853a-8ee1bc44c658",
+      "title": "Block applies for OCC charter to launch digital asset trust bank",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/block-applies-occ-charter-launch-220414824.html",
+      "publisher": "Investing.com",
+      "time": 1788905054,
       "impact": "medium",
       "tags": [
         "macro",
@@ -133,20 +140,11 @@
       ]
     },
     {
-      "id": "f752e02d-a1f2-3205-9c91-0e9e39f46e03",
-      "title": "Sector Update: Energy",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-193513363.html",
-      "publisher": "MT Newswires",
-      "time": 1788896113,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "df5ca903-1cb7-39e6-9d98-3b9682111190",
-      "title": "LEE Q. SHIM Increases Percentage Position of Common Shares held in CANADIAN NORTH RESOURCES INC",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lee-q-shim-increases-percentage-193500656.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1788896100,
+      "id": "28272d81-f38e-3200-be9a-dff1cdf2bf76",
+      "title": "Ofood brand Mild Ssamjang Original Seasoned Soybean Paste recalled due to improperly declared peanut",
+      "link": "https://finance.yahoo.com/healthcare/articles/ofood-brand-mild-ssamjang-original-220400502.html",
+      "publisher": "CNW Group",
+      "time": 1788905040,
       "impact": "low",
       "tags": []
     }
