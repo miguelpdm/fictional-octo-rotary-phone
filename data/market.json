@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-08T07:41:11.147591+00:00",
+  "updatedAt": "2026-09-08T12:30:28.248788+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19929.4,
-      "change": -92.39999999999782,
-      "changePct": -0.4614969683045371,
+      "price": 19924.9,
+      "change": -96.89999999999782,
+      "changePct": -0.48397247000768073,
       "currency": "EUR"
     },
     {
@@ -28,104 +28,111 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25947.37,
-      "change": -99.03000000000247,
-      "changePct": -0.3802060937404112,
+      "price": 25967.68,
+      "change": -78.72000000000116,
+      "changePct": -0.3022298666994332,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6386.44,
-      "change": -17.550000000000182,
-      "changePct": -0.27404789826342923,
+      "price": 6399.81,
+      "change": -4.1799999999993815,
+      "changePct": -0.0652718071077466,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.57,
-      "change": 0.2699999999999996,
-      "changePct": 1.7647058823529385,
+      "price": 15.71,
+      "change": 0.41000000000000014,
+      "changePct": 2.679738562091504,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "72b6d4cd-0570-3738-bc43-ea33f7b40e1a",
-      "title": "GOJI Publishes Australian AI Visibility Index After Scoring 1,459 AI-Generated Answers",
-      "link": "https://finance.yahoo.com/technology/ai/articles/goji-publishes-australian-ai-visibility-073700218.html",
-      "publisher": "TMX Newsfile",
-      "time": 1788853020,
+      "id": "f54ff7e0-6181-38af-aa58-9f46a815e7ef",
+      "title": "OpenAI Hands Nvidia Fresh Win in Surging AI Market",
+      "link": "https://finance.yahoo.com/technology/ai/articles/openai-hands-nvidia-fresh-win-122815703.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788870495,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "64f99f08-1d32-349a-b79f-41a19a394aec",
-      "title": "China's trade booms as focus turns to expected Trump-Xi summit",
-      "link": "https://finance.yahoo.com/economy/policy/articles/chinas-trade-booms-focus-turns-035434900.html",
-      "publisher": "AFP",
-      "time": 1788852845,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
+      "id": "fd578c98-26e4-3a38-8afe-fd863432ebc0",
+      "title": "Nvidia-Backed Firmus Passes 900 Megawatts With OpenAI Deal",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-firmus-passes-900-122635680.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788870395,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "679f453e-9ea5-35ec-b916-9eecd0a3c61a",
-      "title": "ASML, Samsung Expand Partnership on High NA EUV Technology",
-      "link": "https://finance.yahoo.com/technology/articles/asml-samsung-expand-partnership-high-073350746.html",
+      "id": "3cc78b27-3490-3c72-bec8-5deeedb82928",
+      "title": "ASML Begins Construction of New Industrial Campus in Netherlands",
+      "link": "https://finance.yahoo.com/technology/articles/asml-begins-construction-industrial-campus-122604240.html",
       "publisher": "MT Newswires",
-      "time": 1788852830,
+      "time": 1788870364,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "14312ee6-b5b6-344b-8504-eaefebb5aa63",
-      "title": "Russia pounds Kyiv, ending three-day halt for US talks",
-      "link": "https://finance.yahoo.com/m/14312ee6-b5b6-344b-8504-eaefebb5aa63/russia-pounds-kyiv%2C-ending.html",
-      "publisher": "AFP",
-      "time": 1788852820,
+      "id": "457f675b-bba0-344c-ac4c-ce409112f23e",
+      "title": "Goldman Spots Breakout Signal for Micron, SanDisk Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-spots-breakout-signal-micron-122550430.html",
+      "publisher": "GuruFocus.com",
+      "time": 1788870350,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fa681849-251c-31a6-a16d-a68927207959",
-      "title": "Yen extends gains as traders eye rate hike, tech rallies again",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/yen-extends-gains-traders-eye-025125465.html",
-      "publisher": "AFP",
-      "time": 1788852689,
-      "impact": "medium",
       "tags": [
-        "geo"
+        "macro"
       ]
     },
     {
-      "id": "b93e631f-b466-33fe-b411-3df7e6cc2530",
-      "title": "Rönesans Named Among the World's Top 50 International Contractors for the 11th Consecutive Year",
-      "link": "https://finance.yahoo.com/real-estate/articles/r-nesans-named-among-worlds-073100128.html",
+      "id": "49a43fa1-fec5-3fdd-aa15-ae5adfca32aa",
+      "title": "Six Flags Acquires ArieForce One Roller Coaster",
+      "link": "https://finance.yahoo.com/media-advertising/articles/six-flags-acquires-arieforce-one-122500746.html",
+      "publisher": "MT Newswires",
+      "time": 1788870300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1f65cbeb-5886-398b-b6e3-a93fb22b694a",
+      "title": "Viridian Metals Raises CA$1 Million Via Non-Brokered Private Placement",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/viridian-metals-raises-ca-1-122322074.html",
+      "publisher": "MT Newswires",
+      "time": 1788870202,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7d9547c9-4ca9-3403-97c6-27af25b21ab0",
+      "title": "Noble Premium Bison and NCIAF Partner to Grow Indigenous Participation in Canada's Bison Industry",
+      "link": "https://finance.yahoo.com/small-business/articles/noble-premium-bison-nciaf-partner-122300536.html",
       "publisher": "CNW Group",
-      "time": 1788852660,
+      "time": 1788870180,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0c533f91-ad21-3515-b467-ca9dca553fcc",
-      "title": "Upstream Bio Presents Results from the Phase 2 VALIANT Trial of Verekitug for the Treatment of Severe Asthma in Oral Presentation at ERS Congress 2026",
-      "link": "https://finance.yahoo.com/healthcare/articles/upstream-bio-presents-results-phase-073000724.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788852600,
+      "id": "821b97d8-7ca1-38a8-b4b9-d648391fad8f",
+      "title": "Buy Super Micro Computer for Handsome Returns & Attractive Valuations",
+      "link": "https://finance.yahoo.com/technology/ai/articles/buy-super-micro-computer-handsome-122300783.html",
+      "publisher": "Zacks",
+      "time": 1788870180,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "16f9032e-358f-36ec-8727-1785c7a96835",
-      "title": "CONDITIONS FOR SALE OF RIKSBANK CERTIFICATES",
-      "link": "https://finance.yahoo.com/news/conditions-sale-riksbank-certificates-073000581.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788852600,
+      "id": "aa491bea-56cf-34aa-99fc-9ae3dcb290ae",
+      "title": "Reimagining finance: DIFC to convene global leaders across banking, private markets, asset management, FinTech, public policy and sustainability at Dubai Future Finance Week",
+      "link": "https://finance.yahoo.com/economy/policy/articles/reimagining-finance-difc-convene-global-122300326.html",
+      "publisher": "PR Newswire",
+      "time": 1788870180,
       "impact": "medium",
       "tags": [
         "macro",
@@ -133,22 +140,16 @@
       ]
     },
     {
-      "id": "6eef84b6-4f90-3fb7-8398-3e1d92c63232",
-      "title": "C-Band Transition Acceleration Service Now Powers Transition Program using the Media Substrate",
-      "link": "https://finance.yahoo.com/media-advertising/articles/c-band-transition-acceleration-now-073000450.html",
-      "publisher": "PR Newswire",
-      "time": 1788852600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "cd3145c0-314f-3c07-b760-953535caf3c3",
-      "title": "Unmasking Fraud: Verisk Releases Fraud Discovery, connecting intelligence, analytics and investigations in one powerful fraud platform",
-      "link": "https://finance.yahoo.com/technology/articles/unmasking-fraud-verisk-releases-fraud-073000819.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788852600,
-      "impact": "low",
-      "tags": []
+      "id": "fc28ade6-b394-4558-bbad-935c81e4f9ec",
+      "title": "Oil prices approach $100 as Middle East conflict flares, Goldman sees potential upside to $120",
+      "link": "https://finance.yahoo.com/markets/article/oil-prices-approach-100-as-middle-east-conflict-flares-goldman-sees-potential-upside-to-120-122234220.html",
+      "publisher": "Yahoo Finance",
+      "time": 1788870154,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     }
   ],
   "errors": {
