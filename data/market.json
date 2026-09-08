@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-08T02:33:13.949120+00:00",
+  "updatedAt": "2026-09-08T07:41:11.147591+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 20021.8,
-      "change": -28.900000000001455,
-      "changePct": -0.14413461874149758,
+      "price": 19929.4,
+      "change": -92.39999999999782,
+      "changePct": -0.4614969683045371,
       "currency": "EUR"
     },
     {
@@ -28,83 +28,104 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26006.53,
-      "change": 3.209999999999127,
-      "changePct": 0.012344577538557104,
+      "price": 25947.37,
+      "change": -99.03000000000247,
+      "changePct": -0.3802060937404112,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6403.99,
-      "change": 11.05999999999949,
-      "changePct": 0.17300361493086097,
+      "price": 6386.44,
+      "change": -17.550000000000182,
+      "changePct": -0.27404789826342923,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.3,
-      "change": 0.7700000000000014,
-      "changePct": 5.29938059187888,
+      "price": 15.57,
+      "change": 0.2699999999999996,
+      "changePct": 1.7647058823529385,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "b18f84a8-83e9-39e6-8a2d-fd63eca27cf7",
-      "title": "IRON, the World's First Advanced General-Purpose Humanoid Robot, Walks off the Production Lines as XPENG's Humanoid Robot Manufacturing Facility Is Officially Commissioned",
-      "link": "https://finance.yahoo.com/technology/ai/articles/iron-worlds-first-advanced-general-022600055.html",
-      "publisher": "PR Newswire",
-      "time": 1788834360,
+      "id": "72b6d4cd-0570-3738-bc43-ea33f7b40e1a",
+      "title": "GOJI Publishes Australian AI Visibility Index After Scoring 1,459 AI-Generated Answers",
+      "link": "https://finance.yahoo.com/technology/ai/articles/goji-publishes-australian-ai-visibility-073700218.html",
+      "publisher": "TMX Newsfile",
+      "time": 1788853020,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d9dc8fdb-7317-3ac9-8a58-22dec1280446",
-      "title": "Lemonade CFO to Participate in Upcoming Investor Conferences",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lemonade-cfo-participate-upcoming-investor-022400870.html",
-      "publisher": "PR Newswire",
-      "time": 1788834240,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4dcdc60e-284b-3dd7-a408-636af30e3130",
-      "title": "Dow, S&P 500 Futures Decline Amid Rising Oil Prices As Iran War Escalates: MU, ORCL, INTC, BE Stocks In Focus",
-      "link": "https://finance.yahoo.com/m/4dcdc60e-284b-3dd7-a408-636af30e3130/dow%2C-s%26p-500-futures-decline.html",
-      "publisher": "Stocktwits",
-      "time": 1788833960,
-      "impact": "high",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "4966f240-2c4b-3780-ac5f-73d20cb3944f",
-      "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
-      "link": "https://finance.yahoo.com/technology/ai/articles/eric-wu-newest-company-stealth-021639223.html",
-      "publisher": "TechCrunch",
-      "time": 1788833799,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6a322461-5670-3dce-a948-6ca22ace4b1d",
-      "title": "'The ber months': Christmas arrives early in the Philippines",
-      "link": "https://finance.yahoo.com/m/6a322461-5670-3dce-a948-6ca22ace4b1d/%27the-ber-months%27%3A-christmas.html",
+      "id": "64f99f08-1d32-349a-b79f-41a19a394aec",
+      "title": "China's trade booms as focus turns to expected Trump-Xi summit",
+      "link": "https://finance.yahoo.com/economy/policy/articles/chinas-trade-booms-focus-turns-035434900.html",
       "publisher": "AFP",
-      "time": 1788833619,
+      "time": 1788852845,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "679f453e-9ea5-35ec-b916-9eecd0a3c61a",
+      "title": "ASML, Samsung Expand Partnership on High NA EUV Technology",
+      "link": "https://finance.yahoo.com/technology/articles/asml-samsung-expand-partnership-high-073350746.html",
+      "publisher": "MT Newswires",
+      "time": 1788852830,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8ffd8f6d-03c7-3168-8468-4c919f20e022",
-      "title": "Granite Ridge (GRNT) Grows Profits While Costs Quietly Creep Higher",
-      "link": "https://finance.yahoo.com/energy/articles/granite-ridge-grnt-grows-profits-021320474.html",
-      "publisher": "Insider Monkey",
-      "time": 1788833600,
+      "id": "14312ee6-b5b6-344b-8504-eaefebb5aa63",
+      "title": "Russia pounds Kyiv, ending three-day halt for US talks",
+      "link": "https://finance.yahoo.com/m/14312ee6-b5b6-344b-8504-eaefebb5aa63/russia-pounds-kyiv%2C-ending.html",
+      "publisher": "AFP",
+      "time": 1788852820,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fa681849-251c-31a6-a16d-a68927207959",
+      "title": "Yen extends gains as traders eye rate hike, tech rallies again",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/yen-extends-gains-traders-eye-025125465.html",
+      "publisher": "AFP",
+      "time": 1788852689,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "b93e631f-b466-33fe-b411-3df7e6cc2530",
+      "title": "Rönesans Named Among the World's Top 50 International Contractors for the 11th Consecutive Year",
+      "link": "https://finance.yahoo.com/real-estate/articles/r-nesans-named-among-worlds-073100128.html",
+      "publisher": "CNW Group",
+      "time": 1788852660,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0c533f91-ad21-3515-b467-ca9dca553fcc",
+      "title": "Upstream Bio Presents Results from the Phase 2 VALIANT Trial of Verekitug for the Treatment of Severe Asthma in Oral Presentation at ERS Congress 2026",
+      "link": "https://finance.yahoo.com/healthcare/articles/upstream-bio-presents-results-phase-073000724.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788852600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "16f9032e-358f-36ec-8727-1785c7a96835",
+      "title": "CONDITIONS FOR SALE OF RIKSBANK CERTIFICATES",
+      "link": "https://finance.yahoo.com/news/conditions-sale-riksbank-certificates-073000581.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788852600,
       "impact": "medium",
       "tags": [
         "macro",
@@ -112,41 +133,20 @@
       ]
     },
     {
-      "id": "80b449a0-530b-3c34-8e11-075676542e92",
-      "title": "Mongolians wait hours for fuel as reliance on Russia bites",
-      "link": "https://finance.yahoo.com/m/80b449a0-530b-3c34-8e11-075676542e92/mongolians-wait-hours-for.html",
-      "publisher": "AFP",
-      "time": 1788833581,
+      "id": "6eef84b6-4f90-3fb7-8398-3e1d92c63232",
+      "title": "C-Band Transition Acceleration Service Now Powers Transition Program using the Media Substrate",
+      "link": "https://finance.yahoo.com/media-advertising/articles/c-band-transition-acceleration-now-073000450.html",
+      "publisher": "PR Newswire",
+      "time": 1788852600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b6f27bd5-81be-372e-b1f3-0b63de0dd068",
-      "title": "Trump threatens sales in US of Canadian aircraft maker Bombardier",
-      "link": "https://finance.yahoo.com/economy/policy/articles/trump-threatens-sales-us-canadian-200914072.html",
-      "publisher": "AFP",
-      "time": 1788833575,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0a344b3d-e87a-36fc-a86b-f01c871e5c33",
-      "title": "Oil rises as risks of prolonged Mideast conflict heighten supply worries",
-      "link": "https://finance.yahoo.com/energy/articles/oil-rises-risks-prolonged-mideast-005052539.html",
-      "publisher": "Reuters",
-      "time": 1788833356,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "579731de-af82-3d7b-8b63-7dd9b89d599f",
-      "title": "N. Korea calls Russia bridge a sign of tighter ties",
-      "link": "https://finance.yahoo.com/m/579731de-af82-3d7b-8b63-7dd9b89d599f/n.-korea-calls-russia-bridge.html",
-      "publisher": "AFP",
-      "time": 1788833307,
+      "id": "cd3145c0-314f-3c07-b760-953535caf3c3",
+      "title": "Unmasking Fraud: Verisk Releases Fraud Discovery, connecting intelligence, analytics and investigations in one powerful fraud platform",
+      "link": "https://finance.yahoo.com/technology/articles/unmasking-fraud-verisk-releases-fraud-073000819.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788852600,
       "impact": "low",
       "tags": []
     }
