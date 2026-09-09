@@ -1,149 +1,153 @@
 {
-  "updatedAt": "2026-09-09T09:24:31.125814+00:00",
+  "updatedAt": "2026-09-09T13:48:22.994864+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19704.3,
-      "change": -292.7999999999993,
-      "changePct": -1.4642123107850604,
+      "price": 19638.6,
+      "change": -358.5,
+      "changePct": -1.792759950192778,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7673.52,
-      "change": -74.1899999999996,
-      "changePct": -0.9575732700372059,
+      "price": 7651.01,
+      "change": -67.59000000000015,
+      "changePct": -0.875676936231961,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26421.412,
-      "change": -162.64800000000105,
-      "changePct": -0.6118252817665963,
+      "price": 26321.727,
+      "change": -185.26300000000265,
+      "changePct": -0.6989213033996038,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25775.64,
-      "change": -230.88999999999942,
-      "changePct": -0.8878154832651624,
+      "price": 25588.94,
+      "change": -417.59000000000015,
+      "changePct": -1.6057121038446889,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6343.68,
-      "change": -69.48999999999978,
-      "changePct": -1.083551504170321,
+      "price": 6311.16,
+      "change": -102.01000000000022,
+      "changePct": -1.5906330254772634,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.89,
-      "change": 0.16999999999999993,
-      "changePct": 1.0814249363867678,
+      "price": 16.2,
+      "change": 0.47999999999999865,
+      "changePct": 3.053435114503808,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "5c7eb73f-7c40-380b-b4d8-c701205225fb",
-      "title": "Cerberus to Acquire Substantial Part of the Mechanical Engineering Division of Goodwin plc",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cerberus-acquire-substantial-part-mechanical-092000627.html",
+      "id": "5ab9ead5-dd4d-330f-89b7-ce9dbb675e74",
+      "title": "Trump bans Canadian alcohol, dairy imports in tariffs tit-for-tat",
+      "link": "https://finance.yahoo.com/m/5ab9ead5-dd4d-330f-89b7-ce9dbb675e74/trump-bans-canadian-alcohol%2C.html",
+      "publisher": "Just Food",
+      "time": 1788961484,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "c9fb09f4-06dd-363a-b51e-90ed64687309",
+      "title": "Stock Market Today: Dow Falls As Brent Crosses $100 A Barrel; Apple Shares Drop Ahead Of iPhone Event (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/c9fb09f4-06dd-363a-b51e-90ed64687309/stock-market-today%3A-dow-falls.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1788961409,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "7c8bc98b-aa49-3de8-998f-70765c919120",
+      "title": "BAFFIN ENTERS AFTERMARKET INSOLE CATEGORY WITH LAUNCH OF B-TEK™ THERMAL INSOLE",
+      "link": "https://finance.yahoo.com/small-business/articles/baffin-enters-aftermarket-insole-category-134300024.html",
+      "publisher": "CNW Group",
+      "time": 1788961380,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "3a0add08-b179-30f6-ae58-e2bb9ed915b3",
+      "title": "Pepsi vs Coca-Cola Stock: Cramer Declares A Winner  As Pepsi’s Dividend Hits 4%",
+      "link": "https://finance.yahoo.com/m/3a0add08-b179-30f6-ae58-e2bb9ed915b3/pepsi-vs-coca-cola-stock%3A.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1788961252,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "cfc0e43d-944c-35eb-9d61-18fd631454cc",
+      "title": "Value per Security",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/value-per-security-134000028.html",
+      "publisher": "Business Wire",
+      "time": 1788961200,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "36a2aa1a-7e8b-3038-8c19-8509044cc64d",
+      "title": "How Hunter Biden’s Laptop Memecoin Could Help Base Compete With Robinhood",
+      "link": "https://finance.yahoo.com/m/36a2aa1a-7e8b-3038-8c19-8509044cc64d/how-hunter-biden%E2%80%99s-laptop.html",
+      "publisher": "Coinage Coop",
+      "time": 1788961140,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4b0c949b-5df5-30b4-bed1-8366308112e6",
+      "title": "Warning: 3 High-Yield ETFs That Could Plunge By Next Year",
+      "link": "https://finance.yahoo.com/m/4b0c949b-5df5-30b4-bed1-8366308112e6/warning%3A-3-high-yield-etfs.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1788961047,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "11326bea-3318-304d-b332-84883e0fa206",
+      "title": "Canadian Investment Regulatory Organization Trading Halt - TPUT",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-investment-regulatory-organization-trading-133700790.html",
+      "publisher": "CNW Group",
+      "time": 1788961020,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3340de10-a5d0-3d4e-9b4b-1964c3d74a97",
+      "title": "Texas Baptists' Insurance Agency Partner Rebrands as Dominion First Insurance Services",
+      "link": "https://finance.yahoo.com/small-business/articles/texas-baptists-insurance-agency-partner-133700535.html",
       "publisher": "PR Newswire",
-      "time": 1788945600,
+      "time": 1788961020,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1fbbc5f0-ba0b-38c6-a68d-7b489b0733d8",
-      "title": "Series finale of 'Babylon Berlin' offers dark mirror for today's Germany",
-      "link": "https://finance.yahoo.com/m/1fbbc5f0-ba0b-38c6-a68d-7b489b0733d8/series-finale-of-%27babylon.html",
-      "publisher": "AFP",
-      "time": 1788945518,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4af1c3ea-35e4-3357-a27f-d99e7a32a9b1",
-      "title": "Autobon Reports RON 67.1 Million in 2025 Revenue and Strengthens Capital Position",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/autobon-reports-ron-67-1-091800385.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788945480,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "959d37d9-3355-3e0a-a1d3-a5198b3e23a5",
-      "title": "Herc Holdings (HRI) Moves 3.8% Higher: Will This Strength Last?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/herc-holdings-hri-moves-3-091700749.html",
+      "id": "3b6c1364-07b9-3907-80c0-a9768e4c23f7",
+      "title": "Does Slovenia's FSD Approval Bring Tesla Closer to EU-Wide Approval?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/does-slovenias-fsd-approval-bring-133700639.html",
       "publisher": "Zacks",
-      "time": 1788945420,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "dcbb6243-3910-38b2-a2df-a4b2f80b0f79",
-      "title": "Cognition AI valued at $48bn after $2bn Series E financing",
-      "link": "https://finance.yahoo.com/m/dcbb6243-3910-38b2-a2df-a4b2f80b0f79/cognition-ai-valued-at-%2448bn.html",
-      "publisher": "Verdict",
-      "time": 1788945373,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "d077faea-ffbd-3725-a35f-43629f83ac1d",
-      "title": "SoftBank to Prepay $25.9 Billion Bridge Loan for OpenAI Investment",
-      "link": "https://finance.yahoo.com/technology/ai/articles/softbank-prepay-25-9-billion-091531981.html",
-      "publisher": "MT Newswires",
-      "time": 1788945331,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "406fc160-f01d-3139-9cf7-5fd9bde53f67",
-      "title": "Insider Alert: Omada Health CEO Sean Duffy Sells 31,457 Shares",
-      "link": "https://finance.yahoo.com/m/406fc160-f01d-3139-9cf7-5fd9bde53f67/insider-alert%3A-omada-health.html",
-      "publisher": "Motley Fool",
-      "time": 1788945301,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "975cbdd0-9c9f-3e7e-a837-44e3327b139e",
-      "title": "Omdia: US PC Shipments Grew 1.0% in 2Q26, While Full-year Market Forecast to Decline 10.7%",
-      "link": "https://finance.yahoo.com/technology/articles/omdia-us-pc-shipments-grew-091300246.html",
-      "publisher": "Business Wire",
-      "time": 1788945180,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "e3a9059b-4a1c-3604-8dd7-94494cc5ed40",
-      "title": "Form 8.3",
-      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-091300472.html",
-      "publisher": "Business Wire",
-      "time": 1788945180,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "236caabc-e02e-37c1-946f-998b2c97ce22",
-      "title": "UK's little-known Bayeux Tapestry replica steps into spotlight",
-      "link": "https://finance.yahoo.com/m/236caabc-e02e-37c1-946f-998b2c97ce22/uk%27s-little-known-bayeux.html",
-      "publisher": "AFP",
-      "time": 1788945163,
+      "time": 1788961020,
       "impact": "low",
       "tags": []
     }
