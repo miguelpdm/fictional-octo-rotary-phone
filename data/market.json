@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-09T04:57:34.148916+00:00",
+  "updatedAt": "2026-09-09T09:24:31.125814+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19997.1,
-      "change": -24.700000000000728,
-      "changePct": -0.12336553157059169,
+      "price": 19704.3,
+      "change": -292.7999999999993,
+      "changePct": -1.4642123107850604,
       "currency": "EUR"
     },
     {
@@ -28,53 +28,80 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 26007.63,
-      "change": -38.77000000000044,
-      "changePct": -0.14884974507033769,
+      "price": 25775.64,
+      "change": -230.88999999999942,
+      "changePct": -0.8878154832651624,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6413.17,
-      "change": 9.180000000000291,
-      "changePct": 0.14334813139933528,
+      "price": 6343.68,
+      "change": -69.48999999999978,
+      "changePct": -1.083551504170321,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.72,
-      "change": 0.41999999999999993,
-      "changePct": 2.7450980392156854,
+      "price": 15.89,
+      "change": 0.16999999999999993,
+      "changePct": 1.0814249363867678,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "3685a874-fb99-3786-a97c-aca4f2119f42",
-      "title": "Discovering the Formula for Health in Yogurt: 9th Bright Dairy Yogurt Cultural Festival Concludes in Bulgaria",
-      "link": "https://finance.yahoo.com/healthcare/articles/discovering-formula-health-yogurt-9th-044700042.html",
+      "id": "5c7eb73f-7c40-380b-b4d8-c701205225fb",
+      "title": "Cerberus to Acquire Substantial Part of the Mechanical Engineering Division of Goodwin plc",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cerberus-acquire-substantial-part-mechanical-092000627.html",
+      "publisher": "PR Newswire",
+      "time": 1788945600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "1fbbc5f0-ba0b-38c6-a68d-7b489b0733d8",
+      "title": "Series finale of 'Babylon Berlin' offers dark mirror for today's Germany",
+      "link": "https://finance.yahoo.com/m/1fbbc5f0-ba0b-38c6-a68d-7b489b0733d8/series-finale-of-%27babylon.html",
+      "publisher": "AFP",
+      "time": 1788945518,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4af1c3ea-35e4-3357-a27f-d99e7a32a9b1",
+      "title": "Autobon Reports RON 67.1 Million in 2025 Revenue and Strengthens Capital Position",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/autobon-reports-ron-67-1-091800385.html",
       "publisher": "GlobeNewswire",
-      "time": 1788929220,
+      "time": 1788945480,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7eb77861-27e4-34c7-a747-cb8f74f9d667",
-      "title": "Global Times: Silk Road Maritime Forum kicks off in Xiamen with focus on shared growth, open cooperation",
-      "link": "https://finance.yahoo.com/economy/policy/articles/global-times-silk-road-maritime-044700895.html",
-      "publisher": "PR Newswire",
-      "time": 1788929220,
+      "id": "959d37d9-3355-3e0a-a1d3-a5198b3e23a5",
+      "title": "Herc Holdings (HRI) Moves 3.8% Higher: Will This Strength Last?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/herc-holdings-hri-moves-3-091700749.html",
+      "publisher": "Zacks",
+      "time": 1788945420,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "013f83cd-8144-3ca0-ab7e-29d20da2ea7c",
-      "title": "NerdWallet’s (NRDS) Profits Sink Even as Revenue Climbs",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nerdwallet-nrds-profits-sink-even-044201468.html",
-      "publisher": "Insider Monkey",
-      "time": 1788928921,
+      "id": "dcbb6243-3910-38b2-a2df-a4b2f80b0f79",
+      "title": "Cognition AI valued at $48bn after $2bn Series E financing",
+      "link": "https://finance.yahoo.com/m/dcbb6243-3910-38b2-a2df-a4b2f80b0f79/cognition-ai-valued-at-%2448bn.html",
+      "publisher": "Verdict",
+      "time": 1788945373,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d077faea-ffbd-3725-a35f-43629f83ac1d",
+      "title": "SoftBank to Prepay $25.9 Billion Bridge Loan for OpenAI Investment",
+      "link": "https://finance.yahoo.com/technology/ai/articles/softbank-prepay-25-9-billion-091531981.html",
+      "publisher": "MT Newswires",
+      "time": 1788945331,
       "impact": "medium",
       "tags": [
         "macro",
@@ -82,73 +109,41 @@
       ]
     },
     {
-      "id": "7b10e18b-ae7c-34a2-abdf-72605aa3c516",
-      "title": "Apple Might Be Planning to 'Surprise and Shine' at iPhone 18 Launch Event, but Crypto Bettors Are Already Betting on Foldables and More",
-      "link": "https://finance.yahoo.com/m/7b10e18b-ae7c-34a2-abdf-72605aa3c516/apple-might-be-planning-to.html",
-      "publisher": "Benzinga Prediction Markets",
-      "time": 1788928609,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "77ce40ec-0ad3-38b4-8c56-72b50aba1a1c",
-      "title": "DoubleDown’s (DDI) Earnings Explode While a Takeover Offer Sits Unresolved",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/doubledown-ddi-earnings-explode-while-043404228.html",
-      "publisher": "Insider Monkey",
-      "time": 1788928444,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "3fa303f8-7077-3a81-ae3f-359d15915767",
-      "title": "Morning Bid: $100 Brent in sight, yen defies gravity",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/morning-bid-100-brent-sight-043212783.html",
-      "publisher": "Reuters",
-      "time": 1788928332,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0c501e41-a88d-3151-bc43-dd75e4b9fead",
-      "title": "Democratizing Aerospace-Grade Manufacturing: FibreSeek Opens Global Pre-Sale for FibreSeeker 3",
-      "link": "https://finance.yahoo.com/technology/articles/democratizing-aerospace-grade-manufacturing-fibreseek-043000789.html",
-      "publisher": "PR Newswire",
-      "time": 1788928200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "21e9de75-1f1f-3ee1-ba07-c6622889f41d",
-      "title": "Amazon's 65-foot waterproof globe string lights can transform your outdoor space for $14",
-      "link": "https://finance.yahoo.com/m/21e9de75-1f1f-3ee1-ba07-c6622889f41d/amazon%27s-65-foot-waterproof.html",
-      "publisher": "TheStreet",
-      "time": 1788928200,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1158a603-f16d-3c60-ae28-9fd1240b8c3e",
-      "title": "Miller Industries (MLR) Posts Growth, But Profits Tell A Different Story",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/miller-industries-mlr-posts-growth-042437406.html",
-      "publisher": "Insider Monkey",
-      "time": 1788927877,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "683e4426-12f3-3790-86ab-aa032e66f652",
-      "title": "SpaceX Is No Longer Just a Rocket Company. Here's What Investors Are Really Buying.",
-      "link": "https://finance.yahoo.com/m/683e4426-12f3-3790-86ab-aa032e66f652/spacex-is-no-longer-just-a.html",
+      "id": "406fc160-f01d-3139-9cf7-5fd9bde53f67",
+      "title": "Insider Alert: Omada Health CEO Sean Duffy Sells 31,457 Shares",
+      "link": "https://finance.yahoo.com/m/406fc160-f01d-3139-9cf7-5fd9bde53f67/insider-alert%3A-omada-health.html",
       "publisher": "Motley Fool",
-      "time": 1788927600,
+      "time": 1788945301,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "975cbdd0-9c9f-3e7e-a837-44e3327b139e",
+      "title": "Omdia: US PC Shipments Grew 1.0% in 2Q26, While Full-year Market Forecast to Decline 10.7%",
+      "link": "https://finance.yahoo.com/technology/articles/omdia-us-pc-shipments-grew-091300246.html",
+      "publisher": "Business Wire",
+      "time": 1788945180,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "e3a9059b-4a1c-3604-8dd7-94494cc5ed40",
+      "title": "Form 8.3",
+      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-091300472.html",
+      "publisher": "Business Wire",
+      "time": 1788945180,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "236caabc-e02e-37c1-946f-998b2c97ce22",
+      "title": "UK's little-known Bayeux Tapestry replica steps into spotlight",
+      "link": "https://finance.yahoo.com/m/236caabc-e02e-37c1-946f-998b2c97ce22/uk%27s-little-known-bayeux.html",
+      "publisher": "AFP",
+      "time": 1788945163,
       "impact": "low",
       "tags": []
     }
