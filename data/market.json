@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T19:57:04.747943+00:00",
+  "updatedAt": "2026-09-09T22:16:37.502637+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7637.71,
-      "change": -80.89000000000033,
-      "changePct": -1.047987977094296,
+      "price": 7636.36,
+      "change": -82.24000000000069,
+      "changePct": -1.0654781955276953,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26245.574,
-      "change": -261.4160000000011,
-      "changePct": -0.9862153341439411,
+      "price": 26253.34,
+      "change": -253.65000000000146,
+      "changePct": -0.9569174017872322,
       "currency": "USD"
     },
     {
@@ -44,37 +44,67 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.38,
-      "change": 0.6599999999999984,
-      "changePct": 4.1984732824427375,
+      "price": 16.46,
+      "change": 0.7400000000000002,
+      "changePct": 4.707379134860052,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "8e6d0690-d933-3bd1-9464-9e0dd70eaccd",
-      "title": "NFM Lending Executives Bob Tyson and Greg Sher Named 2026 HousingWire Vanguards",
-      "link": "https://finance.yahoo.com/real-estate/articles/nfm-lending-executives-bob-tyson-195200437.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788983520,
+      "id": "cc6da437-dae2-4363-be24-09711b7f3749",
+      "title": "White House UFC spectacle made sense despite $30M loss, TKO Group's Mark Shapiro says",
+      "link": "https://finance.yahoo.com/markets/article/white-house-ufc-spectacle-made-sense-despite-30m-loss-tko-groups-mark-shapiro-says-221250617.html",
+      "publisher": "Yahoo Finance",
+      "time": 1788991970,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3fcecb44-7967-36b7-9e7d-324cd0e50007",
-      "title": "Energy Transfer's Payout Is Covered Twice Over. Here's Why That Matters More Than the Yield Itself.",
-      "link": "https://finance.yahoo.com/m/3fcecb44-7967-36b7-9e7d-324cd0e50007/energy-transfer%27s-payout-is.html",
-      "publisher": "Motley Fool",
-      "time": 1788983400,
+      "id": "f6cc53f5-5962-4adc-8758-fc3864fdf7a0",
+      "title": "TKO Group's Mark Shapiro brushes off Formula One buyout rumors, says that asset is not for sale",
+      "link": "https://finance.yahoo.com/markets/article/tko-groups-mark-shapiro-brushes-off-formula-one-buyout-rumors-says-that-asset-is-not-for-sale-221225000.html",
+      "publisher": "Yahoo Finance",
+      "time": 1788991945,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f105f3af-042a-3c08-9ff6-899209a11ae4",
-      "title": "Meet the AI Software Stock That’s Crushing Palantir (Hint: It’s Significantly Cheaper)",
-      "link": "https://finance.yahoo.com/m/f105f3af-042a-3c08-9ff6-899209a11ae4/meet-the-ai-software-stock.html",
+      "id": "8d8f9abf-03cb-3ea0-9fce-cd018e1ea1b7",
+      "title": "Government & Technical Consulting Stocks Q2 Earnings: SAIC (NASDAQ:SAIC) Best of the Bunch",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/government-technical-consulting-stocks-q2-221038679.html",
+      "publisher": "StockStory",
+      "time": 1788991838,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "4e6088e2-d179-327a-a595-6eb682513504",
+      "title": "Luis Enrique hails 'marvellous' Dembele as PSG win big in Champions League",
+      "link": "https://finance.yahoo.com/m/4e6088e2-d179-327a-a595-6eb682513504/luis-enrique-hails.html",
+      "publisher": "AFP",
+      "time": 1788991725,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f598b146-7a5e-3d8f-b4d3-5f36b1ae7d62",
+      "title": "Why Oddity Tech's Stock Skyrocketed 26.5% Today",
+      "link": "https://finance.yahoo.com/m/f598b146-7a5e-3d8f-b4d3-5f36b1ae7d62/why-oddity-tech%27s-stock.html",
       "publisher": "Motley Fool",
-      "time": 1788983342,
+      "time": 1788991718,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "59de9715-6649-3bb7-ab2a-645a0715c752",
+      "title": "Dow Jones Futures: Oil Prices, Yields Hit Stocks, Apple Unfolds iPhone. Inflation Data Due.",
+      "link": "https://finance.yahoo.com/m/59de9715-6649-3bb7-ab2a-645a0715c752/dow-jones-futures%3A-oil.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1788991654,
       "impact": "high",
       "tags": [
         "geo",
@@ -82,69 +112,38 @@
       ]
     },
     {
-      "id": "4e1bd6ce-43e7-3c07-96fa-20027223532e",
-      "title": "The SEC Cleared XRP, Bitcoin, Ethereum and Solana for Nasdaq Texas Commodity Trusts. What It Does and Does Not Do.",
-      "link": "https://finance.yahoo.com/m/4e1bd6ce-43e7-3c07-96fa-20027223532e/the-sec-cleared-xrp%2C-bitcoin%2C.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1788983297,
+      "id": "8a020892-1c99-3c2e-a225-cbae0a8aeaef",
+      "title": "S&P 500 investors may want to rethink their favorite ETF",
+      "link": "https://finance.yahoo.com/m/8a020892-1c99-3c2e-a225-cbae0a8aeaef/s%26p-500-investors-may-want-to.html",
+      "publisher": "TheStreet",
+      "time": 1788991620,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d9a8395a-f549-3ed2-9426-fe215db40536",
-      "title": "Government of Canada invests in youth online safety and well-being",
-      "link": "https://finance.yahoo.com/healthcare/articles/government-canada-invests-youth-online-194800582.html",
-      "publisher": "CNW Group",
-      "time": 1788983280,
+      "id": "88783ada-2945-321d-a290-7e0f6b97616a",
+      "title": "SEC's proposed scrapping of the 'pay-to-play rule' draws divided response",
+      "link": "https://finance.yahoo.com/m/88783ada-2945-321d-a290-7e0f6b97616a/sec%27s-proposed-scrapping-of.html",
+      "publisher": "Pitchbook",
+      "time": 1788991581,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "b3cc6487-8cfb-3a49-9449-c0b539ef3b24",
-      "title": "2 Reasons to Like PNFP (and 1 Not So Much)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-pnfp-1-not-194638540.html",
-      "publisher": "StockStory",
-      "time": 1788983198,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "bc672eeb-8370-395d-9cf4-072283800f3e",
-      "title": "Apple named its new foldable phone the iPhone Duo.\n\nSamsung and Duolingo couldn't resist.",
-      "link": "https://finance.yahoo.com/photos/apple-named-foldable-phone-iphone-194626262/",
-      "publisher": "Yahoo Finance",
-      "time": 1788983186,
+      "id": "a3060f3e-4cca-3b47-ad7a-7eefa4efe97e",
+      "title": "Why Cloudflare Rallied Today",
+      "link": "https://finance.yahoo.com/m/a3060f3e-4cca-3b47-ad7a-7eefa4efe97e/why-cloudflare-rallied-today.html",
+      "publisher": "Motley Fool",
+      "time": 1788991558,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cd547cc4-4f7d-3e73-a11a-a548757e579a",
-      "title": "Sector Update: Consumer Stocks Fall Late Afternoon",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-fall-afternoon-194554738.html",
-      "publisher": "MT Newswires",
-      "time": 1788983154,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "8baa42c6-df4f-32ad-be53-c9d9e3f8970c",
-      "title": "Dude Perfect Trickshot Challenge Launches Exclusively on Nex Playground",
-      "link": "https://finance.yahoo.com/media-advertising/articles/dude-perfect-trickshot-challenge-launches-194500852.html",
-      "publisher": "Business Wire",
-      "time": 1788983100,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fabc4a99-79f5-3864-8ea7-b73f9967f9f2",
-      "title": "Firewalla Announces Gold Plus SFP 5 Gbps Security Appliance",
-      "link": "https://finance.yahoo.com/technology/articles/firewalla-announces-gold-plus-sfp-194500474.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788983100,
+      "id": "2b8481ec-1060-38cd-b845-c037a3d0d665",
+      "title": "With iPhone Duo, Apple Unfolds A New Chapter",
+      "link": "https://finance.yahoo.com/m/2b8481ec-1060-38cd-b845-c037a3d0d665/with-iphone-duo%2C-apple.html",
+      "publisher": "MediaPost",
+      "time": 1788991546,
       "impact": "low",
       "tags": []
     }
