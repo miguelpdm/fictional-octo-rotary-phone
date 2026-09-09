@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T17:28:03.272463+00:00",
+  "updatedAt": "2026-09-09T19:57:04.747943+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7645.14,
-      "change": -73.46000000000004,
-      "changePct": -0.9517269971238312,
+      "price": 7637.71,
+      "change": -80.89000000000033,
+      "changePct": -1.047987977094296,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26263.47,
-      "change": -243.52000000000044,
-      "changePct": -0.9187010671524772,
+      "price": 26245.574,
+      "change": -261.4160000000011,
+      "changePct": -0.9862153341439411,
       "currency": "USD"
     },
     {
@@ -44,37 +44,37 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.27,
-      "change": 0.5499999999999989,
-      "changePct": 3.49872773536895,
+      "price": 16.38,
+      "change": 0.6599999999999984,
+      "changePct": 4.1984732824427375,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "271e5131-cde5-3498-81d0-21fbc401e9d3",
-      "title": "Jim Cramer Prefers CoreWeave (CRWV) Over IREN (IREN)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-prefers-coreweave-crwv-172351539.html",
-      "publisher": "Insider Monkey",
-      "time": 1788974631,
+      "id": "8e6d0690-d933-3bd1-9464-9e0dd70eaccd",
+      "title": "NFM Lending Executives Bob Tyson and Greg Sher Named 2026 HousingWire Vanguards",
+      "link": "https://finance.yahoo.com/real-estate/articles/nfm-lending-executives-bob-tyson-195200437.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788983520,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "168f73a1-8a7e-40e9-a748-261c5c1f4f53",
-      "title": "Gasoline prices are 'highest ever for this time of year': Chart of the Day",
-      "link": "https://finance.yahoo.com/markets/article/gasoline-prices-are-highest-ever-for-this-time-of-year-chart-of-the-day-172249427.html",
-      "publisher": "Yahoo Finance",
-      "time": 1788974569,
+      "id": "3fcecb44-7967-36b7-9e7d-324cd0e50007",
+      "title": "Energy Transfer's Payout Is Covered Twice Over. Here's Why That Matters More Than the Yield Itself.",
+      "link": "https://finance.yahoo.com/m/3fcecb44-7967-36b7-9e7d-324cd0e50007/energy-transfer%27s-payout-is.html",
+      "publisher": "Motley Fool",
+      "time": 1788983400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ef4039a9-7360-300a-aaf4-fd187b81be92",
-      "title": "Brent Jumps Past $100 Amid Widening Middle East War",
-      "link": "https://finance.yahoo.com/energy/articles/brent-jumps-past-100-amid-172101522.html",
-      "publisher": "MT Newswires",
-      "time": 1788974461,
+      "id": "f105f3af-042a-3c08-9ff6-899209a11ae4",
+      "title": "Meet the AI Software Stock That’s Crushing Palantir (Hint: It’s Significantly Cheaper)",
+      "link": "https://finance.yahoo.com/m/f105f3af-042a-3c08-9ff6-899209a11ae4/meet-the-ai-software-stock.html",
+      "publisher": "Motley Fool",
+      "time": 1788983342,
       "impact": "high",
       "tags": [
         "geo",
@@ -82,68 +82,69 @@
       ]
     },
     {
-      "id": "e55dba2d-5d7b-3bd8-8cdb-3fb264cad62f",
-      "title": "Sector Update: Financial",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-172035887.html",
-      "publisher": "MT Newswires",
-      "time": 1788974435,
+      "id": "4e1bd6ce-43e7-3c07-96fa-20027223532e",
+      "title": "The SEC Cleared XRP, Bitcoin, Ethereum and Solana for Nasdaq Texas Commodity Trusts. What It Does and Does Not Do.",
+      "link": "https://finance.yahoo.com/m/4e1bd6ce-43e7-3c07-96fa-20027223532e/the-sec-cleared-xrp%2C-bitcoin%2C.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1788983297,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "060ce551-7e2b-3e63-9328-a246a53990fb",
-      "title": "Jack Dorsey's Block makes major move to become a U.S. crypto bank",
-      "link": "https://finance.yahoo.com/m/060ce551-7e2b-3e63-9328-a246a53990fb/jack-dorsey%27s-block-makes.html",
-      "publisher": "TheStreet",
-      "time": 1788974429,
-      "impact": "medium",
+      "id": "d9a8395a-f549-3ed2-9426-fe215db40536",
+      "title": "Government of Canada invests in youth online safety and well-being",
+      "link": "https://finance.yahoo.com/healthcare/articles/government-canada-invests-youth-online-194800582.html",
+      "publisher": "CNW Group",
+      "time": 1788983280,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b3cc6487-8cfb-3a49-9449-c0b539ef3b24",
+      "title": "2 Reasons to Like PNFP (and 1 Not So Much)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-pnfp-1-not-194638540.html",
+      "publisher": "StockStory",
+      "time": 1788983198,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "2f48412d-8a9d-385f-ab13-480965f33674",
-      "title": "SEALSQ Expands its Quantum Highway™: Nine Interconnected Hubs Now Link La Línea, Murcia, Toulouse, Meyreuil, Grenoble, Geneva, Lausanne and the Future Swiss-based Center, and Extend the Sovereign Quantum Corridor to Chicago with EeroQ",
-      "link": "https://finance.yahoo.com/technology/ai/articles/sealsq-expands-quantum-highway-nine-172000060.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788974400,
+      "id": "bc672eeb-8370-395d-9cf4-072283800f3e",
+      "title": "Apple named its new foldable phone the iPhone Duo.\n\nSamsung and Duolingo couldn't resist.",
+      "link": "https://finance.yahoo.com/photos/apple-named-foldable-phone-iphone-194626262/",
+      "publisher": "Yahoo Finance",
+      "time": 1788983186,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5cace674-cfd9-3f8f-99c2-9d5db70449f5",
-      "title": "Sanoma Corporation, Managers’ Transactions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sanoma-corporation-managers-transactions-172000317.html",
-      "publisher": "GlobeNewswire",
-      "time": 1788974400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "953fedf5-8c8b-3999-af74-0443c75825de",
-      "title": "Sector Update: Energy",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-171910886.html",
+      "id": "cd547cc4-4f7d-3e73-a11a-a548757e579a",
+      "title": "Sector Update: Consumer Stocks Fall Late Afternoon",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-fall-afternoon-194554738.html",
       "publisher": "MT Newswires",
-      "time": 1788974350,
+      "time": 1788983154,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "8baa42c6-df4f-32ad-be53-c9d9e3f8970c",
+      "title": "Dude Perfect Trickshot Challenge Launches Exclusively on Nex Playground",
+      "link": "https://finance.yahoo.com/media-advertising/articles/dude-perfect-trickshot-challenge-launches-194500852.html",
+      "publisher": "Business Wire",
+      "time": 1788983100,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "83633506-8a52-337f-b403-4b31892bca21",
-      "title": "Kaiser Permanente's $5M investment in Colorado schools targets absence problem",
-      "link": "https://finance.yahoo.com/healthcare/articles/kaiser-permanentes-5m-investment-colorado-171900249.html",
-      "publisher": "PR Newswire",
-      "time": 1788974340,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c9a88249-28c4-3ae6-a52b-af4eda3ce1e9",
-      "title": "MIRIMAR Named Creative AOR for Five Guys",
-      "link": "https://finance.yahoo.com/media-advertising/articles/mirimar-named-creative-aor-five-171900913.html",
+      "id": "fabc4a99-79f5-3864-8ea7-b73f9967f9f2",
+      "title": "Firewalla Announces Gold Plus SFP 5 Gbps Security Appliance",
+      "link": "https://finance.yahoo.com/technology/articles/firewalla-announces-gold-plus-sfp-194500474.html",
       "publisher": "GlobeNewswire",
-      "time": 1788974340,
+      "time": 1788983100,
       "impact": "low",
       "tags": []
     }
