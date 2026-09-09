@@ -1,62 +1,80 @@
 {
-  "updatedAt": "2026-09-09T13:48:22.994864+00:00",
+  "updatedAt": "2026-09-09T17:28:03.272463+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19638.6,
-      "change": -358.5,
-      "changePct": -1.792759950192778,
+      "price": 19695.3,
+      "change": -301.7999999999993,
+      "changePct": -1.5092188367313224,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7651.01,
-      "change": -67.59000000000015,
-      "changePct": -0.875676936231961,
+      "price": 7645.14,
+      "change": -73.46000000000004,
+      "changePct": -0.9517269971238312,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26321.727,
-      "change": -185.26300000000265,
-      "changePct": -0.6989213033996038,
+      "price": 26263.47,
+      "change": -243.52000000000044,
+      "changePct": -0.9187010671524772,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25588.94,
-      "change": -417.59000000000015,
-      "changePct": -1.6057121038446889,
+      "price": 25576.45,
+      "change": -430.0799999999981,
+      "changePct": -1.6537385033681855,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6311.16,
-      "change": -102.01000000000022,
-      "changePct": -1.5906330254772634,
+      "price": 6311.56,
+      "change": -101.60999999999967,
+      "changePct": -1.5843958603935289,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.2,
-      "change": 0.47999999999999865,
-      "changePct": 3.053435114503808,
+      "price": 16.27,
+      "change": 0.5499999999999989,
+      "changePct": 3.49872773536895,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "5ab9ead5-dd4d-330f-89b7-ce9dbb675e74",
-      "title": "Trump bans Canadian alcohol, dairy imports in tariffs tit-for-tat",
-      "link": "https://finance.yahoo.com/m/5ab9ead5-dd4d-330f-89b7-ce9dbb675e74/trump-bans-canadian-alcohol%2C.html",
-      "publisher": "Just Food",
-      "time": 1788961484,
+      "id": "271e5131-cde5-3498-81d0-21fbc401e9d3",
+      "title": "Jim Cramer Prefers CoreWeave (CRWV) Over IREN (IREN)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-prefers-coreweave-crwv-172351539.html",
+      "publisher": "Insider Monkey",
+      "time": 1788974631,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "168f73a1-8a7e-40e9-a748-261c5c1f4f53",
+      "title": "Gasoline prices are 'highest ever for this time of year': Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/article/gasoline-prices-are-highest-ever-for-this-time-of-year-chart-of-the-day-172249427.html",
+      "publisher": "Yahoo Finance",
+      "time": 1788974569,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ef4039a9-7360-300a-aaf4-fd187b81be92",
+      "title": "Brent Jumps Past $100 Amid Widening Middle East War",
+      "link": "https://finance.yahoo.com/energy/articles/brent-jumps-past-100-amid-172101522.html",
+      "publisher": "MT Newswires",
+      "time": 1788974461,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,90 +82,68 @@
       ]
     },
     {
-      "id": "c9fb09f4-06dd-363a-b51e-90ed64687309",
-      "title": "Stock Market Today: Dow Falls As Brent Crosses $100 A Barrel; Apple Shares Drop Ahead Of iPhone Event (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/c9fb09f4-06dd-363a-b51e-90ed64687309/stock-market-today%3A-dow-falls.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1788961409,
+      "id": "e55dba2d-5d7b-3bd8-8cdb-3fb264cad62f",
+      "title": "Sector Update: Financial",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-172035887.html",
+      "publisher": "MT Newswires",
+      "time": 1788974435,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "060ce551-7e2b-3e63-9328-a246a53990fb",
+      "title": "Jack Dorsey's Block makes major move to become a U.S. crypto bank",
+      "link": "https://finance.yahoo.com/m/060ce551-7e2b-3e63-9328-a246a53990fb/jack-dorsey%27s-block-makes.html",
+      "publisher": "TheStreet",
+      "time": 1788974429,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "7c8bc98b-aa49-3de8-998f-70765c919120",
-      "title": "BAFFIN ENTERS AFTERMARKET INSOLE CATEGORY WITH LAUNCH OF B-TEK™ THERMAL INSOLE",
-      "link": "https://finance.yahoo.com/small-business/articles/baffin-enters-aftermarket-insole-category-134300024.html",
-      "publisher": "CNW Group",
-      "time": 1788961380,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "3a0add08-b179-30f6-ae58-e2bb9ed915b3",
-      "title": "Pepsi vs Coca-Cola Stock: Cramer Declares A Winner  As Pepsi’s Dividend Hits 4%",
-      "link": "https://finance.yahoo.com/m/3a0add08-b179-30f6-ae58-e2bb9ed915b3/pepsi-vs-coca-cola-stock%3A.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1788961252,
+      "id": "2f48412d-8a9d-385f-ab13-480965f33674",
+      "title": "SEALSQ Expands its Quantum Highway™: Nine Interconnected Hubs Now Link La Línea, Murcia, Toulouse, Meyreuil, Grenoble, Geneva, Lausanne and the Future Swiss-based Center, and Extend the Sovereign Quantum Corridor to Chicago with EeroQ",
+      "link": "https://finance.yahoo.com/technology/ai/articles/sealsq-expands-quantum-highway-nine-172000060.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788974400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cfc0e43d-944c-35eb-9d61-18fd631454cc",
-      "title": "Value per Security",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/value-per-security-134000028.html",
-      "publisher": "Business Wire",
-      "time": 1788961200,
+      "id": "5cace674-cfd9-3f8f-99c2-9d5db70449f5",
+      "title": "Sanoma Corporation, Managers’ Transactions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sanoma-corporation-managers-transactions-172000317.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788974400,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "36a2aa1a-7e8b-3038-8c19-8509044cc64d",
-      "title": "How Hunter Biden’s Laptop Memecoin Could Help Base Compete With Robinhood",
-      "link": "https://finance.yahoo.com/m/36a2aa1a-7e8b-3038-8c19-8509044cc64d/how-hunter-biden%E2%80%99s-laptop.html",
-      "publisher": "Coinage Coop",
-      "time": 1788961140,
+      "id": "953fedf5-8c8b-3999-af74-0443c75825de",
+      "title": "Sector Update: Energy",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-171910886.html",
+      "publisher": "MT Newswires",
+      "time": 1788974350,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4b0c949b-5df5-30b4-bed1-8366308112e6",
-      "title": "Warning: 3 High-Yield ETFs That Could Plunge By Next Year",
-      "link": "https://finance.yahoo.com/m/4b0c949b-5df5-30b4-bed1-8366308112e6/warning%3A-3-high-yield-etfs.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1788961047,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "11326bea-3318-304d-b332-84883e0fa206",
-      "title": "Canadian Investment Regulatory Organization Trading Halt - TPUT",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-investment-regulatory-organization-trading-133700790.html",
-      "publisher": "CNW Group",
-      "time": 1788961020,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3340de10-a5d0-3d4e-9b4b-1964c3d74a97",
-      "title": "Texas Baptists' Insurance Agency Partner Rebrands as Dominion First Insurance Services",
-      "link": "https://finance.yahoo.com/small-business/articles/texas-baptists-insurance-agency-partner-133700535.html",
+      "id": "83633506-8a52-337f-b403-4b31892bca21",
+      "title": "Kaiser Permanente's $5M investment in Colorado schools targets absence problem",
+      "link": "https://finance.yahoo.com/healthcare/articles/kaiser-permanentes-5m-investment-colorado-171900249.html",
       "publisher": "PR Newswire",
-      "time": 1788961020,
+      "time": 1788974340,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3b6c1364-07b9-3907-80c0-a9768e4c23f7",
-      "title": "Does Slovenia's FSD Approval Bring Tesla Closer to EU-Wide Approval?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/does-slovenias-fsd-approval-bring-133700639.html",
-      "publisher": "Zacks",
-      "time": 1788961020,
+      "id": "c9a88249-28c4-3ae6-a52b-af4eda3ce1e9",
+      "title": "MIRIMAR Named Creative AOR for Five Guys",
+      "link": "https://finance.yahoo.com/media-advertising/articles/mirimar-named-creative-aor-five-171900913.html",
+      "publisher": "GlobeNewswire",
+      "time": 1788974340,
       "impact": "low",
       "tags": []
     }
