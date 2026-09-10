@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-10T04:59:30.044583+00:00",
+  "updatedAt": "2026-09-10T09:29:24.050724+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19695.3,
-      "change": -301.7999999999993,
-      "changePct": -1.5092188367313224,
+      "price": 19707.2,
+      "change": 11.900000000001455,
+      "changePct": 0.06042050641524351,
       "currency": "EUR"
     },
     {
@@ -28,62 +28,64 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25576.45,
-      "change": -430.0799999999981,
-      "changePct": -1.6537385033681855,
+      "price": 25529.79,
+      "change": -477.84000000000015,
+      "changePct": -1.8373069749146698,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6311.56,
-      "change": -101.60999999999967,
-      "changePct": -1.5843958603935289,
+      "price": 6301.46,
+      "change": -10.100000000000364,
+      "changePct": -0.16002382929102096,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
       "price": 16.46,
-      "change": 0.7400000000000002,
-      "changePct": 4.707379134860052,
+      "change": 0.0,
+      "changePct": 0.0,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "f2a04cd8-7789-3cdd-9f1d-e10f2347e069",
-      "title": "Can New Era Energy & Digital Become the Next Nebius Group?",
-      "link": "https://finance.yahoo.com/m/f2a04cd8-7789-3cdd-9f1d-e10f2347e069/can-new-era-energy-%26-digital.html",
-      "publisher": "Motley Fool",
-      "time": 1789015800,
+      "id": "05fa3395-8717-3163-8b00-3506ae9ae321",
+      "title": "Instacart launches AI shopping tool Clementine across North America",
+      "link": "https://finance.yahoo.com/m/05fa3395-8717-3163-8b00-3506ae9ae321/instacart-launches-ai.html",
+      "publisher": "Retail Insight Network",
+      "time": 1789032470,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "16f4cee7-ab27-334f-b306-427b86340765",
-      "title": "Hong Kong court convicts The Wall Street Journal publisher of deterring reporter from taking up union role",
-      "link": "https://finance.yahoo.com/m/16f4cee7-ab27-334f-b306-427b86340765/hong-kong-court-convicts-the.html",
-      "publisher": "Associated Press",
-      "time": 1789015724,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "82dea6f7-6852-3db9-8d0f-61a067340109",
-      "title": "Ricoh named to TIME World's Best Companies 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ricoh-named-time-worlds-best-044600345.html",
+      "id": "b471aaf4-b7db-3088-9d6a-f0ffd74ef008",
+      "title": "Iyuno's Strategic Approach: Multi-Agent AI, Built Around Context",
+      "link": "https://finance.yahoo.com/technology/ai/articles/iyunos-strategic-approach-multi-agent-092500112.html",
       "publisher": "PR Newswire",
-      "time": 1789015560,
+      "time": 1789032300,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d3eeecbb-3e31-31ee-a139-7b0f5a6c9f5c",
-      "title": "VTEX (VTEX) Just Turned A Profit Corner, But Growth Is Slowing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vtex-vtex-just-turned-profit-044209900.html",
-      "publisher": "Insider Monkey",
-      "time": 1789015329,
+      "id": "b2744369-0238-3f2c-b1f2-e70e789c1e2f",
+      "title": "Market Chatter: Grab Negotiates Purchase of Controlling Stake in Atome Financial for Over $2 Billion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-grab-negotiates-purchase-092303023.html",
+      "publisher": "MT Newswires",
+      "time": 1789032183,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "01d7dcad-63fc-36f1-ad7d-63f400a51319",
+      "title": "Analog Devices to acquire Alif Semiconductor in $1.3bn cash deal",
+      "link": "https://finance.yahoo.com/m/01d7dcad-63fc-36f1-ad7d-63f400a51319/analog-devices-to-acquire.html",
+      "publisher": "Verdict",
+      "time": 1789032065,
       "impact": "medium",
       "tags": [
         "macro",
@@ -91,67 +93,61 @@
       ]
     },
     {
-      "id": "40ad89cc-754f-3e00-b270-dc930eb0fadb",
-      "title": "Revisiting Former Stock Picks Vita Coco, Idacorp, Subaru",
-      "link": "https://finance.yahoo.com/m/40ad89cc-754f-3e00-b270-dc930eb0fadb/revisiting-former-stock-picks.html",
-      "publisher": "Barrons.com",
-      "time": 1789015320,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "adb02004-b2d7-3b8c-b547-b7daf21719c0",
-      "title": "NexPoint Residential (NXRT) Sees Improving Occupancy Despite Sliding Profits",
-      "link": "https://finance.yahoo.com/real-estate/articles/nexpoint-residential-nxrt-sees-improving-043533232.html",
-      "publisher": "Insider Monkey",
-      "time": 1789014933,
-      "impact": "medium",
+      "id": "89785ef7-a0a3-3795-8a92-003e20177a05",
+      "title": "FDA grants 510(k) clearance to Emboliner system for TAVR procedures",
+      "link": "https://finance.yahoo.com/m/89785ef7-a0a3-3795-8a92-003e20177a05/fda-grants-510%28k%29-clearance.html",
+      "publisher": "Medical Device Network",
+      "time": 1789032061,
+      "impact": "high",
       "tags": [
-        "macro",
-        "results"
+        "geo",
+        "macro"
       ]
     },
     {
-      "id": "1286917a-7680-3d7a-9085-77ac99ecd52f",
-      "title": "'Pretend I'm on the ballot.' Takeaways from Trump's midterm convention",
-      "link": "https://finance.yahoo.com/m/1286917a-7680-3d7a-9085-77ac99ecd52f/%27pretend-i%27m-on-the-ballot.%27.html",
-      "publisher": "USA TODAY",
-      "time": 1789014786,
+      "id": "02f27d2e-cdd1-3a00-b406-6499bf196268",
+      "title": "EPIK Biosciences Advances Combination Medicines Across Ketamine-Based and DXM-Based Programs, Supported by 34 Provisional Drug Patent Applications",
+      "link": "https://finance.yahoo.com/healthcare/articles/epik-biosciences-advances-combination-medicines-092000624.html",
+      "publisher": "GlobeNewswire",
+      "time": 1789032000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c2f2ca6d-7f04-3a23-a389-244dc1ffbeb8",
-      "title": "Morning Bid: Lagarde takes the spotlight as oil sits above $100",
-      "link": "https://finance.yahoo.com/economy/policy/articles/morning-bid-lagarde-takes-spotlight-043156936.html",
+      "id": "77fe1ab6-248c-389a-8322-89fee9f46779",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-092000009.html",
+      "publisher": "Business Wire",
+      "time": 1789032000,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3eeee500-06e4-3163-92f8-66d7123f98a6",
+      "title": "Hagerty Prices Upsized Secondary Offering by Selling Shareholder; Shares Down Pre-Bell",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hagerty-prices-upsized-secondary-offering-091739646.html",
+      "publisher": "MT Newswires",
+      "time": 1789031859,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c7715857-597f-3f00-8c84-d86447e4525f",
+      "title": "India to push BRICS digital currency link despite hurdles, sources say",
+      "link": "https://finance.yahoo.com/m/c7715857-597f-3f00-8c84-d86447e4525f/india-to-push-brics-digital.html",
       "publisher": "Reuters",
-      "time": 1789014716,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "3db1fc3c-a112-3b03-9010-db32eaeb6b8f",
-      "title": "Children's Academy students tackle India's 7.7-million-tonne textile waste challenge",
-      "link": "https://finance.yahoo.com/economy/articles/childrens-academy-students-tackle-indias-043000479.html",
-      "publisher": "PR Newswire",
-      "time": 1789014600,
+      "time": 1789031799,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ffc4c2c7-387e-3d77-abb9-c8df23280d5b",
-      "title": "W&T Offshore (WTI) Turns A Profit While Short Sellers Still Circle",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/w-t-offshore-wti-turns-042615779.html",
-      "publisher": "Insider Monkey",
-      "time": 1789014375,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
+      "id": "85d051f0-2621-340a-a716-bd9f8e3f79fc",
+      "title": "BioCorRx Inc. Appoints Former Acting White House Drug Policy Director Richard J. Baum to Strategic Advisory Board",
+      "link": "https://finance.yahoo.com/healthcare/articles/biocorrx-inc-appoints-former-acting-091600940.html",
+      "publisher": "NewMediaWire",
+      "time": 1789031760,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
