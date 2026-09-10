@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T19:55:15.354063+00:00",
+  "updatedAt": "2026-09-10T22:11:07.459022+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7592.07,
-      "change": -81.45000000000073,
-      "changePct": -1.0614424670816094,
+      "price": 7591.7,
+      "change": -81.82000000000062,
+      "changePct": -1.0662642437890384,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26077.426,
-      "change": -343.9840000000004,
-      "changePct": -1.3019138645515147,
+      "price": 26081.725,
+      "change": -339.6850000000013,
+      "changePct": -1.2856429690921163,
       "currency": "USD"
     },
     {
@@ -44,19 +44,78 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.87,
-      "change": 1.4100000000000001,
-      "changePct": 8.566221142162819,
+      "price": 17.84,
+      "change": 1.379999999999999,
+      "changePct": 8.383961117861476,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "f023f4a3-27f6-3393-836a-3b19e0bb88d9",
-      "title": "Update: US Equity Indexes Fall as Hot Producer Prices, Soaring Crude Oil Boost Treasury Yields",
-      "link": "https://finance.yahoo.com/economy/articles/us-equity-indexes-fall-hot-195114785.html",
-      "publisher": "MT Newswires",
-      "time": 1789069874,
+      "id": "c0aeda74-9b6e-378f-9d8c-f70491a49c94",
+      "title": "Podcast: Beyond AI: Why patient-centric clinical trials matter now",
+      "link": "https://finance.yahoo.com/m/c0aeda74-9b6e-378f-9d8c-f70491a49c94/podcast%3A-beyond-ai%3A-why.html",
+      "publisher": "Clinical Trials Arena",
+      "time": 1789078135,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "296a9538-9210-31e6-9f5b-e2a0f8ce44a7",
+      "title": "ETF.com at Future Proof: The Oasis",
+      "link": "https://finance.yahoo.com/m/296a9538-9210-31e6-9f5b-e2a0f8ce44a7/etf.com-at-future-proof%3A-the.html",
+      "publisher": "etf.com",
+      "time": 1789078096,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "405c48d5-afe9-30e0-bb1a-bbaa93bd7934",
+      "title": "Snoqualmie Casino & Hotel Earns Monterey Bay Aquarium Seafood Watch Best Choice Recognition",
+      "link": "https://finance.yahoo.com/media-advertising/articles/snoqualmie-casino-hotel-earns-monterey-220500220.html",
+      "publisher": "GlobeNewswire",
+      "time": 1789077900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3c3f1f94-6b66-34eb-8fd7-8349d513051a",
+      "title": "Are EU’s New Procurement Rules Missing Meaningful Human Rights Safeguards?",
+      "link": "https://finance.yahoo.com/m/3c3f1f94-6b66-34eb-8fd7-8349d513051a/are-eu%E2%80%99s-new-procurement.html",
+      "publisher": "Sourcing Journal",
+      "time": 1789077866,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3982d7fd-0d93-3368-89d7-ce61559106f4",
+      "title": "Heartland Express Inc. Earns 21st Quest for Quality Award",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heartland-express-inc-earns-21st-220400620.html",
+      "publisher": "GlobeNewswire",
+      "time": 1789077840,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "2f004ad9-f9d8-30c6-8fea-441ccd1d5072",
+      "title": "Caterpillar Sees Strong 2026 Start as Data Center Power Demand Fuels Expansion",
+      "link": "https://finance.yahoo.com/m/2f004ad9-f9d8-30c6-8fea-441ccd1d5072/caterpillar-sees-strong-2026.html",
+      "publisher": "MarketBeat",
+      "time": 1789077793,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "6874a3b4-9622-3882-aef3-2e8639005113",
+      "title": "Frequency Electronics Q1 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/6874a3b4-9622-3882-aef3-2e8639005113/frequency-electronics-q1.html",
+      "publisher": "MarketBeat",
+      "time": 1789077792,
       "impact": "medium",
       "tags": [
         "macro",
@@ -64,52 +123,11 @@
       ]
     },
     {
-      "id": "a025dc70-bf49-35a9-95e9-cad4931f1da2",
-      "title": "Macquarie Asset Management-led consortium to acquire SI Solutions from MidOcean Partners",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/macquarie-asset-management-led-consortium-191200170.html",
-      "publisher": "Business Wire",
-      "time": 1789069800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "72d0e32d-36da-3eb0-b1a3-56941e4c1a0d",
-      "title": "Sector Update: Healthcare Stocks Softer Late Afternoon",
-      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-softer-afternoon-194934373.html",
-      "publisher": "MT Newswires",
-      "time": 1789069774,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "c776f263-443d-3748-8305-db7ca101cd19",
-      "title": "USFCR Recognized as Federal Contracting Services of the Year 2026 by Gov Business Review",
-      "link": "https://finance.yahoo.com/small-business/articles/usfcr-recognized-federal-contracting-services-194800625.html",
-      "publisher": "PR Newswire",
-      "time": 1789069680,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "13fc2ac0-17cf-3e04-a93c-cfa8fd42e4f3",
-      "title": "Beyond midterms, Republicans ponder who comes after Trump",
-      "link": "https://finance.yahoo.com/m/13fc2ac0-17cf-3e04-a93c-cfa8fd42e4f3/beyond-midterms%2C-republicans.html",
-      "publisher": "AFP",
-      "time": 1789069626,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fbd1c79c-e9e1-3c4f-88a3-225189e6c829",
-      "title": "New Nonprofit Uses AI to Personalize Civic Engagement",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nonprofit-uses-ai-personalize-civic-194700009.html",
-      "publisher": "PR Newswire",
-      "time": 1789069620,
+      "id": "a04b41ed-45dc-33f9-b4ae-bb8ea070b28c",
+      "title": "Zumiez Q2 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/a04b41ed-45dc-33f9-b4ae-bb8ea070b28c/zumiez-q2-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1789077792,
       "impact": "medium",
       "tags": [
         "macro",
@@ -117,46 +135,28 @@
       ]
     },
     {
-      "id": "1d69b012-552a-310c-98a8-a456b638e352",
-      "title": "Michael Burry Dumps Nvidia and Palantir Put Options in Fresh Risk Warning",
-      "link": "https://finance.yahoo.com/markets/options/articles/michael-burry-dumps-nvidia-palantir-194635018.html",
-      "publisher": "GuruFocus.com",
-      "time": 1789069595,
-      "impact": "high",
+      "id": "f30de3c4-f453-352f-a003-16b414c1d502",
+      "title": "IBEX Q4 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/f30de3c4-f453-352f-a003-16b414c1d502/ibex-q4-earnings-call.html",
+      "publisher": "MarketBeat",
+      "time": 1789077792,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "246b3395-0c5c-3000-a197-d5c8a4a15955",
-      "title": "'Software is doing the buying now,' say five AI crypto builders",
-      "link": "https://finance.yahoo.com/m/246b3395-0c5c-3000-a197-d5c8a4a15955/%27software-is-doing-the-buying.html",
-      "publisher": "TheStreet",
-      "time": 1789069576,
-      "impact": "high",
+      "id": "5be991e9-dadd-3fb4-9084-bd416a50c292",
+      "title": "Alliance Entertainment Q4 Earnings Call Highlights",
+      "link": "https://finance.yahoo.com/m/5be991e9-dadd-3fb4-9084-bd416a50c292/alliance-entertainment-q4.html",
+      "publisher": "MarketBeat",
+      "time": 1789077791,
+      "impact": "medium",
       "tags": [
-        "geo",
-        "macro"
+        "macro",
+        "results"
       ]
-    },
-    {
-      "id": "55d0bd54-c0d9-3982-8733-35b93c93605b",
-      "title": "Driven Brands Shares Fall After BofA Downgrade",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/driven-brands-shares-fall-bofa-194614995.html",
-      "publisher": "MT Newswires",
-      "time": 1789069574,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b45645b9-b46b-3ef7-856f-e7e9ab792fdb",
-      "title": "ONEASCENT NAMES MONICA STOUDEMIRE CHIEF COMPLIANCE OFFICER",
-      "link": "https://finance.yahoo.com/small-business/articles/oneascent-names-monica-stoudemire-chief-194600987.html",
-      "publisher": "PR Newswire",
-      "time": 1789069560,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
