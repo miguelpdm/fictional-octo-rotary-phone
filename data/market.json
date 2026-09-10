@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T17:26:05.326761+00:00",
+  "updatedAt": "2026-09-10T19:55:15.354063+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7598.75,
-      "change": -74.77000000000044,
-      "changePct": -0.9743898497690816,
+      "price": 7592.07,
+      "change": -81.45000000000073,
+      "changePct": -1.0614424670816094,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26138.332,
-      "change": -283.07800000000134,
-      "changePct": -1.0713962653772124,
+      "price": 26077.426,
+      "change": -343.9840000000004,
+      "changePct": -1.3019138645515147,
       "currency": "USD"
     },
     {
@@ -44,107 +44,119 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.22,
-      "change": 0.759999999999998,
-      "changePct": 4.617253948967181,
+      "price": 17.87,
+      "change": 1.4100000000000001,
+      "changePct": 8.566221142162819,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "d2cf74c6-09bd-3ea2-a642-3ac1e7ef4b16",
-      "title": "Dell (DELL) Reports $60.9B of AI Server Orders and a $95B Backlog. Can the Demand Surge Produce Durable Cash Flow?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/dell-dell-reports-60-9b-172135958.html",
-      "publisher": "Insider Monkey",
-      "time": 1789060895,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "da8468a9-4d31-319d-aa3b-e91cbe0fc560",
-      "title": "BAB, Inc. Announces Cash Distribution",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bab-inc-announces-cash-distribution-172100968.html",
-      "publisher": "GlobeNewswire",
-      "time": 1789060860,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f066dbdd-34d0-342c-9010-0fe5516a6dee",
-      "title": "Lam Research Insider Sold Shares Worth $9,577,800, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lam-research-insider-sold-shares-172031766.html",
+      "id": "f023f4a3-27f6-3393-836a-3b19e0bb88d9",
+      "title": "Update: US Equity Indexes Fall as Hot Producer Prices, Soaring Crude Oil Boost Treasury Yields",
+      "link": "https://finance.yahoo.com/economy/articles/us-equity-indexes-fall-hot-195114785.html",
       "publisher": "MT Newswires",
-      "time": 1789060831,
-      "impact": "low",
-      "tags": []
+      "time": 1789069874,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
     },
     {
-      "id": "e5f6dc16-d2de-332d-977c-8417b6e2487d",
-      "title": "Terra Clean To Start Trenching And Drill Pad Construction at Marysvale Uranium Mines Project in Utah",
-      "link": "https://finance.yahoo.com/energy/articles/terra-clean-start-trenching-drill-172017405.html",
-      "publisher": "MT Newswires",
-      "time": 1789060817,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7b15e9ea-3b8e-3096-814a-fd18a8a63822",
-      "title": "Roblox Chief Legal Officer Sells 5,773 Shares in Planned Equity Liquidity",
-      "link": "https://finance.yahoo.com/m/7b15e9ea-3b8e-3096-814a-fd18a8a63822/roblox-chief-legal-officer.html",
-      "publisher": "Motley Fool",
-      "time": 1789060802,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "27c2493c-1ac5-34d9-b721-98b78959b46a",
-      "title": "TrueFoundry AI Gateway Now Available in the Microsoft Marketplace",
-      "link": "https://finance.yahoo.com/technology/ai/articles/truefoundry-ai-gateway-now-available-171900946.html",
+      "id": "a025dc70-bf49-35a9-95e9-cad4931f1da2",
+      "title": "Macquarie Asset Management-led consortium to acquire SI Solutions from MidOcean Partners",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/macquarie-asset-management-led-consortium-191200170.html",
       "publisher": "Business Wire",
-      "time": 1789060740,
+      "time": 1789069800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "72d0e32d-36da-3eb0-b1a3-56941e4c1a0d",
+      "title": "Sector Update: Healthcare Stocks Softer Late Afternoon",
+      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-softer-afternoon-194934373.html",
+      "publisher": "MT Newswires",
+      "time": 1789069774,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "520a5781-ab22-3088-8ddf-a4d900c7b992",
-      "title": "Mid-American Conference Selects uReport to Power Conference-Wide Storytelling",
-      "link": "https://finance.yahoo.com/media-advertising/articles/mid-american-conference-selects-ureport-171900602.html",
+      "id": "c776f263-443d-3748-8305-db7ca101cd19",
+      "title": "USFCR Recognized as Federal Contracting Services of the Year 2026 by Gov Business Review",
+      "link": "https://finance.yahoo.com/small-business/articles/usfcr-recognized-federal-contracting-services-194800625.html",
       "publisher": "PR Newswire",
-      "time": 1789060740,
+      "time": 1789069680,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "13fc2ac0-17cf-3e04-a93c-cfa8fd42e4f3",
+      "title": "Beyond midterms, Republicans ponder who comes after Trump",
+      "link": "https://finance.yahoo.com/m/13fc2ac0-17cf-3e04-a93c-cfa8fd42e4f3/beyond-midterms%2C-republicans.html",
+      "publisher": "AFP",
+      "time": 1789069626,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8e5a62bd-abc0-318a-9d06-44a1629bedc6",
-      "title": "Fenix24 Recognized as a Cool Vendor™ in the Gartner® Coolest Vendor™ Innovations in Cyber Resilience 2026 Report for its Argos99 Solution",
-      "link": "https://finance.yahoo.com/technology/ai/articles/fenix24-recognized-cool-vendor-gartner-171700414.html",
+      "id": "fbd1c79c-e9e1-3c4f-88a3-225189e6c829",
+      "title": "New Nonprofit Uses AI to Personalize Civic Engagement",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nonprofit-uses-ai-personalize-civic-194700009.html",
       "publisher": "PR Newswire",
-      "time": 1789060620,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4a923eb3-8889-3296-a37c-14bdc08c6b2f",
-      "title": "Sector Update: Energy",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-171656031.html",
-      "publisher": "MT Newswires",
-      "time": 1789060616,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "73936abf-0747-30cb-a620-4dbf7fb0b7d9",
-      "title": "Compass CEO Robert Reffkin Says Upcoming OpenAI, Anthropic IPOs Are Already Boosting Luxury Housing Beyond San Francisco",
-      "link": "https://finance.yahoo.com/m/73936abf-0747-30cb-a620-4dbf7fb0b7d9/compass-ceo-robert-reffkin.html",
-      "publisher": "Stocktwits",
-      "time": 1789060606,
+      "time": 1789069620,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
+    },
+    {
+      "id": "1d69b012-552a-310c-98a8-a456b638e352",
+      "title": "Michael Burry Dumps Nvidia and Palantir Put Options in Fresh Risk Warning",
+      "link": "https://finance.yahoo.com/markets/options/articles/michael-burry-dumps-nvidia-palantir-194635018.html",
+      "publisher": "GuruFocus.com",
+      "time": 1789069595,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "246b3395-0c5c-3000-a197-d5c8a4a15955",
+      "title": "'Software is doing the buying now,' say five AI crypto builders",
+      "link": "https://finance.yahoo.com/m/246b3395-0c5c-3000-a197-d5c8a4a15955/%27software-is-doing-the-buying.html",
+      "publisher": "TheStreet",
+      "time": 1789069576,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "55d0bd54-c0d9-3982-8733-35b93c93605b",
+      "title": "Driven Brands Shares Fall After BofA Downgrade",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/driven-brands-shares-fall-bofa-194614995.html",
+      "publisher": "MT Newswires",
+      "time": 1789069574,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b45645b9-b46b-3ef7-856f-e7e9ab792fdb",
+      "title": "ONEASCENT NAMES MONICA STOUDEMIRE CHIEF COMPLIANCE OFFICER",
+      "link": "https://finance.yahoo.com/small-business/articles/oneascent-names-monica-stoudemire-chief-194600987.html",
+      "publisher": "PR Newswire",
+      "time": 1789069560,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
