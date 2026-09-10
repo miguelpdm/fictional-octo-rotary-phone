@@ -1,148 +1,150 @@
 {
-  "updatedAt": "2026-09-10T13:45:30.787288+00:00",
+  "updatedAt": "2026-09-10T17:26:05.326761+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19697.5,
-      "change": 2.2000000000007276,
-      "changePct": 0.011170177656601969,
+      "price": 19659.8,
+      "change": -35.5,
+      "changePct": -0.18024604854965398,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7596.26,
-      "change": -77.26000000000022,
-      "changePct": -1.0068391038271902,
+      "price": 7598.75,
+      "change": -74.77000000000044,
+      "changePct": -0.9743898497690816,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26054.584,
-      "change": -366.82600000000093,
-      "changePct": -1.3883664800629525,
+      "price": 26138.332,
+      "change": -283.07800000000134,
+      "changePct": -1.0713962653772124,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25449.83,
-      "change": -557.7999999999993,
-      "changePct": -2.144755212220411,
+      "price": 25361.15,
+      "change": -646.4799999999996,
+      "changePct": -2.4857320717035716,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6277.06,
-      "change": -34.5,
-      "changePct": -0.5466160505485174,
+      "price": 6268.97,
+      "change": -42.590000000000146,
+      "changePct": -0.6747935534162733,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.74,
-      "change": 1.2799999999999976,
-      "changePct": 7.776427703523679,
+      "price": 17.22,
+      "change": 0.759999999999998,
+      "changePct": 4.617253948967181,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "5c2c5c5c-d95a-3fde-9105-285b683d34d9",
-      "title": "The Boring Company raises $3 billion Series D at $23 billion valuation",
-      "link": "https://finance.yahoo.com/m/5c2c5c5c-d95a-3fde-9105-285b683d34d9/the-boring-company-raises-%243.html",
-      "publisher": "Quartz",
-      "time": 1789047799,
+      "id": "d2cf74c6-09bd-3ea2-a642-3ac1e7ef4b16",
+      "title": "Dell (DELL) Reports $60.9B of AI Server Orders and a $95B Backlog. Can the Demand Surge Produce Durable Cash Flow?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/dell-dell-reports-60-9b-172135958.html",
+      "publisher": "Insider Monkey",
+      "time": 1789060895,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "fe88edd3-4184-3ac8-8ba3-c64b430f0873",
-      "title": "SPG acquires DFW Crating & Packaging",
-      "link": "https://finance.yahoo.com/m/fe88edd3-4184-3ac8-8ba3-c64b430f0873/spg-acquires-dfw-crating-%26.html",
-      "publisher": "Packaging Gateway",
-      "time": 1789047679,
+      "id": "da8468a9-4d31-319d-aa3b-e91cbe0fc560",
+      "title": "BAB, Inc. Announces Cash Distribution",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bab-inc-announces-cash-distribution-172100968.html",
+      "publisher": "GlobeNewswire",
+      "time": 1789060860,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e05d857f-877c-3298-b9ff-b156c8512aa1",
-      "title": "Insider Says Goodbye to More Than 5,000 Shares Valued at More Than $475,000",
-      "link": "https://finance.yahoo.com/m/e05d857f-877c-3298-b9ff-b156c8512aa1/insider-says-goodbye-to-more.html",
+      "id": "f066dbdd-34d0-342c-9010-0fe5516a6dee",
+      "title": "Lam Research Insider Sold Shares Worth $9,577,800, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lam-research-insider-sold-shares-172031766.html",
+      "publisher": "MT Newswires",
+      "time": 1789060831,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e5f6dc16-d2de-332d-977c-8417b6e2487d",
+      "title": "Terra Clean To Start Trenching And Drill Pad Construction at Marysvale Uranium Mines Project in Utah",
+      "link": "https://finance.yahoo.com/energy/articles/terra-clean-start-trenching-drill-172017405.html",
+      "publisher": "MT Newswires",
+      "time": 1789060817,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7b15e9ea-3b8e-3096-814a-fd18a8a63822",
+      "title": "Roblox Chief Legal Officer Sells 5,773 Shares in Planned Equity Liquidity",
+      "link": "https://finance.yahoo.com/m/7b15e9ea-3b8e-3096-814a-fd18a8a63822/roblox-chief-legal-officer.html",
       "publisher": "Motley Fool",
-      "time": 1789047601,
+      "time": 1789060802,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e69ee89f-aa00-3df4-9ad3-bd8d602fb52d",
-      "title": "Best Realtor in Ventura, CA: Briana Winton",
-      "link": "https://finance.yahoo.com/real-estate/articles/best-realtor-ventura-ca-briana-134000333.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1789047600,
+      "id": "27c2493c-1ac5-34d9-b721-98b78959b46a",
+      "title": "TrueFoundry AI Gateway Now Available in the Microsoft Marketplace",
+      "link": "https://finance.yahoo.com/technology/ai/articles/truefoundry-ai-gateway-now-available-171900946.html",
+      "publisher": "Business Wire",
+      "time": 1789060740,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "520a5781-ab22-3088-8ddf-a4d900c7b992",
+      "title": "Mid-American Conference Selects uReport to Power Conference-Wide Storytelling",
+      "link": "https://finance.yahoo.com/media-advertising/articles/mid-american-conference-selects-ureport-171900602.html",
+      "publisher": "PR Newswire",
+      "time": 1789060740,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9fe2fc48-faba-3b61-a008-2f8bd5e9c6ce",
-      "title": "TENB Stock Tumbled Over 7% Today - Everything To Know About Its $650M Private Placement",
-      "link": "https://finance.yahoo.com/m/9fe2fc48-faba-3b61-a008-2f8bd5e9c6ce/tenb-stock-tumbled-over-7%25.html",
+      "id": "8e5a62bd-abc0-318a-9d06-44a1629bedc6",
+      "title": "Fenix24 Recognized as a Cool Vendor™ in the Gartner® Coolest Vendor™ Innovations in Cyber Resilience 2026 Report for its Argos99 Solution",
+      "link": "https://finance.yahoo.com/technology/ai/articles/fenix24-recognized-cool-vendor-gartner-171700414.html",
+      "publisher": "PR Newswire",
+      "time": 1789060620,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4a923eb3-8889-3296-a37c-14bdc08c6b2f",
+      "title": "Sector Update: Energy",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-171656031.html",
+      "publisher": "MT Newswires",
+      "time": 1789060616,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "73936abf-0747-30cb-a620-4dbf7fb0b7d9",
+      "title": "Compass CEO Robert Reffkin Says Upcoming OpenAI, Anthropic IPOs Are Already Boosting Luxury Housing Beyond San Francisco",
+      "link": "https://finance.yahoo.com/m/73936abf-0747-30cb-a620-4dbf7fb0b7d9/compass-ceo-robert-reffkin.html",
       "publisher": "Stocktwits",
-      "time": 1789047594,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "713db177-b584-310f-b279-c32ba600bd84",
-      "title": "ZenaTech Secures Irish Aviation Authority Operational Authorization for Drone-Based Crop and Soil Nutrient Application Services",
-      "link": "https://finance.yahoo.com/m/713db177-b584-310f-b279-c32ba600bd84/zenatech-secures-irish.html",
-      "publisher": "Stocktwits",
-      "time": 1789047422,
+      "time": 1789060606,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
-    },
-    {
-      "id": "eea74e65-6bfe-39b6-9600-5aedcce7a125",
-      "title": "Rubio ends South America swing with Peru security talks",
-      "link": "https://finance.yahoo.com/m/eea74e65-6bfe-39b6-9600-5aedcce7a125/rubio-ends-south-america.html",
-      "publisher": "AFP",
-      "time": 1789047406,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "faaea25d-0b49-3f5a-bf90-3b2487924ceb",
-      "title": "Biohaven Plummets, A Boon For Rival Xenon, On A Surprise Seizure Setback",
-      "link": "https://finance.yahoo.com/m/faaea25d-0b49-3f5a-bf90-3b2487924ceb/biohaven-plummets%2C-a-boon-for.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1789047400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "44ec2c95-fe53-3734-bdf8-f154105740e9",
-      "title": "Andover Properties Acquires Self Storage Facility Leominster, MA",
-      "link": "https://finance.yahoo.com/real-estate/articles/andover-properties-acquires-self-storage-133600913.html",
-      "publisher": "PR Newswire",
-      "time": 1789047360,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ba4afb99-c013-3633-9824-625215105db5",
-      "title": "ScaleOut Product Suite, Version 7, Brings Live Operational Context to Generative AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/scaleout-product-suite-version-7-133600069.html",
-      "publisher": "Business Wire",
-      "time": 1789047360,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
