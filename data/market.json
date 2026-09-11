@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T17:27:28.004948+00:00",
+  "updatedAt": "2026-09-11T19:55:54.614589+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7675.22,
-      "change": 38.86000000000058,
-      "changePct": 0.5088811947053384,
+      "price": 7659.39,
+      "change": 23.030000000000655,
+      "changePct": 0.3015834769445214,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26409.092,
-      "change": 155.7520000000004,
-      "changePct": 0.593265466413037,
+      "price": 26347.781,
+      "change": 94.4409999999989,
+      "changePct": 0.3597294668030768,
       "currency": "USD"
     },
     {
@@ -44,107 +44,109 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.72,
-      "change": -2.119999999999999,
-      "changePct": -11.883408071748875,
+      "price": 15.87,
+      "change": -1.9700000000000006,
+      "changePct": -11.042600896860991,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "af2d8a33-acbf-3c42-81a9-fe94addf9538",
-      "title": "LIV Golf files Chapter 11 with $50M DIP from Saudi Public Investment Fund",
-      "link": "https://finance.yahoo.com/m/af2d8a33-acbf-3c42-81a9-fe94addf9538/liv-golf-files-chapter-11.html",
-      "publisher": "Pitchbook",
-      "time": 1789147255,
+      "id": "cbd7eb89-13f4-3f0c-9deb-77dd971e499a",
+      "title": "NuScale Stock Falls 14% as UBS Sees a $95 Million EBITDA Gap",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-stock-falls-14-ubs-195503018.html",
+      "publisher": "GuruFocus.com",
+      "time": 1789156503,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "aefb9e5a-e1c6-3081-acfa-76b1505d3da9",
-      "title": "Kenya clears EABL sale to Asahi, Diageo confirms",
-      "link": "https://finance.yahoo.com/m/aefb9e5a-e1c6-3081-acfa-76b1505d3da9/kenya-clears-eabl-sale-to.html",
-      "publisher": "Just Drinks",
-      "time": 1789147226,
+      "id": "8e687789-1e71-3206-a679-d3a671c2bc92",
+      "title": "Novartis's $30 Billion Deal Spree Triggers a Boardroom Reckoning",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/novartiss-30-billion-deal-spree-195408066.html",
+      "publisher": "GuruFocus.com",
+      "time": 1789156448,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9075e721-6268-3512-87a8-23a32810ade1",
-      "title": "Bitcoin, Ether rebound as short liquidations hit $427 million",
-      "link": "https://finance.yahoo.com/m/9075e721-6268-3512-87a8-23a32810ade1/bitcoin%2C-ether-rebound-as.html",
-      "publisher": "Quartz",
-      "time": 1789147175,
+      "id": "a8913679-a750-4bac-b156-53903627002b",
+      "title": "Social Security COLA is likely to increase next year. So could the pressure to change it.",
+      "link": "https://finance.yahoo.com/economy/article/social-security-cola-is-likely-to-increase-next-year-so-could-the-pressure-to-change-it-195315523.html",
+      "publisher": "Yahoo Finance",
+      "time": 1789156395,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "162301e5-b289-3b92-ad47-3a3071c3c316",
-      "title": "PMA Graphene Technology Group Insider Sold Shares Worth $343,881, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pma-graphene-technology-group-insider-171829662.html",
+      "id": "f7ec3cb4-da74-4996-9c1b-c46087807a2e",
+      "title": "SpaceX signs $1.1 billion-per month computing deal",
+      "link": "https://finance.yahoo.com/video/spacex-signs-11-billion-per-month-computing-deal-195052486.html",
+      "publisher": "Yahoo Finance Video",
+      "time": 1789156252,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "593c993c-70d8-3bca-9938-532353f0408a",
+      "title": "Sector Update: Energy Stocks Mixed Late Afternoon",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-194920218.html",
       "publisher": "MT Newswires",
-      "time": 1789147109,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "97ace951-5fe9-3d4a-a6aa-898458ecc9ce",
-      "title": "‘Apple and Microsoft Look Like Value Stocks’: Morningstar on SanDisk’s 2,107% Year",
-      "link": "https://finance.yahoo.com/m/97ace951-5fe9-3d4a-a6aa-898458ecc9ce/%E2%80%98apple-and-microsoft-look.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1789147032,
+      "time": 1789156160,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "c25f58ca-825b-3438-8a48-2c7a17d3f008",
-      "title": "Pharming Gets FDA Approval for Joenja to Treat APDS in Children Aged 4-11",
-      "link": "https://finance.yahoo.com/healthcare/articles/pharming-gets-fda-approval-joenja-171640296.html",
-      "publisher": "MT Newswires",
-      "time": 1789147000,
+      "id": "eef6363c-12d1-3264-bcf4-98874fa13b61",
+      "title": "Astera Labs Chairman Manuel Alba Sells 183,000 Shares for $51.3 Million. How Big of a Red Flag Is This?",
+      "link": "https://finance.yahoo.com/m/eef6363c-12d1-3264-bcf4-98874fa13b61/astera-labs-chairman-manuel.html",
+      "publisher": "Motley Fool",
+      "time": 1789156021,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "081649be-b38f-3775-a748-43f449bc61a6",
-      "title": "Oracle Margin Pressure, Modest Guidance Raise Leave Morgan Stanley Needing More Visibility",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-margin-pressure-modest-guidance-171606566.html",
-      "publisher": "MT Newswires",
-      "time": 1789146966,
+      "id": "2cd36eee-854e-3e2f-8837-1a9e4181ed8d",
+      "title": "Unifor statement on contract negotiations with Stellantis",
+      "link": "https://finance.yahoo.com/economy/policy/articles/unifor-statement-contract-negotiations-stellantis-194600925.html",
+      "publisher": "CNW Group",
+      "time": 1789155960,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9e052d1e-f24c-3c6c-be79-776edec47138",
+      "title": "Kevin Hassett thinks there's a \"fiscally responsible\" way to make Trump's $5,000 checks happen.\n\n\"The bottom line is there are multiple paths to getting it done ... don't underestimate President Trump,\" White House National Economic Council Director Hassett said in an interview with Bloomberg.",
+      "link": "https://finance.yahoo.com/photos/kevin-hassett-thinks-theres-fiscally-194431616/",
+      "publisher": "Yahoo Finance",
+      "time": 1789155871,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d9a1e3e4-2440-3b18-84fa-14ea3f113250",
+      "title": "Village Super Market, Inc. Declares Quarterly Dividend",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/village-super-market-inc-declares-194400752.html",
+      "publisher": "GlobeNewswire",
+      "time": 1789155840,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "c35aac19-0b9e-3596-ad37-e926bf7050ee",
+      "title": "Saudi Arabia says major East-West oil pipeline was shut down as a precaution after it was attacked",
+      "link": "https://finance.yahoo.com/m/c35aac19-0b9e-3596-ad37-e926bf7050ee/saudi-arabia-says-major.html",
+      "publisher": "Associated Press",
+      "time": 1789155679,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
       ]
-    },
-    {
-      "id": "744abf57-dc1f-3e25-9538-650a3bbde063",
-      "title": "Gartner Names ABBYY a Leader in its 2026 Magic Quadrant for Intelligent Document Processing",
-      "link": "https://finance.yahoo.com/technology/ai/articles/gartner-names-abbyy-leader-2026-171600955.html",
-      "publisher": "GlobeNewswire",
-      "time": 1789146960,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c9398e1a-a0a2-303f-b510-9962f4ae2b1f",
-      "title": "Apple’s $164 Billion Rally Hinges on iPhone Duo Adoption Among 6 Million Premium Buyers",
-      "link": "https://finance.yahoo.com/m/c9398e1a-a0a2-303f-b510-9962f4ae2b1f/apple%E2%80%99s-%24164-billion-rally.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1789146905,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1cb0e13d-4734-313c-91f4-159ad7331b77",
-      "title": "PK brand Roasted Lemon N' Chilli Peanuts recalled due to Salmonella",
-      "link": "https://finance.yahoo.com/healthcare/articles/pk-brand-roasted-lemon-n-171400783.html",
-      "publisher": "CNW Group",
-      "time": 1789146840,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
