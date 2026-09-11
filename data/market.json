@@ -1,98 +1,118 @@
 {
-  "updatedAt": "2026-09-11T13:41:50.424225+00:00",
+  "updatedAt": "2026-09-11T17:27:28.004948+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19848.3,
-      "change": 188.5,
-      "changePct": 0.9588093469923398,
+      "price": 19838.5,
+      "change": 178.70000000000073,
+      "changePct": 0.9089614339922112,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7670.56,
-      "change": 34.20000000000073,
-      "changePct": 0.4478573561225601,
+      "price": 7675.22,
+      "change": 38.86000000000058,
+      "changePct": 0.5088811947053384,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26370.186,
-      "change": 116.84600000000137,
-      "changePct": 0.4450709890627302,
+      "price": 26409.092,
+      "change": 155.7520000000004,
+      "changePct": 0.593265466413037,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25530.81,
-      "change": -45.63999999999942,
-      "changePct": -0.1784454058323161,
+      "price": 25568.56,
+      "change": -7.889999999999418,
+      "changePct": -0.030848690885558465,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6328.91,
-      "change": 59.9399999999996,
-      "changePct": 0.9561379301543889,
+      "price": 6325.13,
+      "change": 56.159999999999854,
+      "changePct": 0.8958409435680798,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.12,
-      "change": -1.7199999999999989,
-      "changePct": -9.64125560538116,
+      "price": 15.72,
+      "change": -2.119999999999999,
+      "changePct": -11.883408071748875,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "6fad648d-6a90-360a-b18e-13086531f704",
-      "title": "NotCo sells Brazil assets in wake of Argentina, Uruguay disposals",
-      "link": "https://finance.yahoo.com/m/6fad648d-6a90-360a-b18e-13086531f704/notco-sells-brazil-assets-in.html",
+      "id": "af2d8a33-acbf-3c42-81a9-fe94addf9538",
+      "title": "LIV Golf files Chapter 11 with $50M DIP from Saudi Public Investment Fund",
+      "link": "https://finance.yahoo.com/m/af2d8a33-acbf-3c42-81a9-fe94addf9538/liv-golf-files-chapter-11.html",
+      "publisher": "Pitchbook",
+      "time": 1789147255,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "aefb9e5a-e1c6-3081-acfa-76b1505d3da9",
+      "title": "Kenya clears EABL sale to Asahi, Diageo confirms",
+      "link": "https://finance.yahoo.com/m/aefb9e5a-e1c6-3081-acfa-76b1505d3da9/kenya-clears-eabl-sale-to.html",
       "publisher": "Just Drinks",
-      "time": 1789133881,
+      "time": 1789147226,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "4362b055-901e-3b74-aa34-9eecf6be73bf",
-      "title": "Net Asset Value(s)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-133800543.html",
-      "publisher": "Business Wire",
-      "time": 1789133880,
+      "id": "9075e721-6268-3512-87a8-23a32810ade1",
+      "title": "Bitcoin, Ether rebound as short liquidations hit $427 million",
+      "link": "https://finance.yahoo.com/m/9075e721-6268-3512-87a8-23a32810ade1/bitcoin%2C-ether-rebound-as.html",
+      "publisher": "Quartz",
+      "time": 1789147175,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "16f427f7-d6c1-3a9a-8c4c-2dfd9582f3f6",
-      "title": "Premium Global Income Split Fund Announces Successful Overnight Offering of Preferred Shares and Class A Shares",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/premium-global-income-split-fund-133500918.html",
-      "publisher": "GlobeNewswire",
-      "time": 1789133700,
+      "id": "162301e5-b289-3b92-ad47-3a3071c3c316",
+      "title": "PMA Graphene Technology Group Insider Sold Shares Worth $343,881, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pma-graphene-technology-group-insider-171829662.html",
+      "publisher": "MT Newswires",
+      "time": 1789147109,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7f412e6e-c5d8-38d0-a321-40f383f914a1",
-      "title": "From Paper to Pixels: How Digitalization in Healthcare Can Benefit Rural Communities",
-      "link": "https://finance.yahoo.com/healthcare/articles/paper-pixels-digitalization-healthcare-benefit-133500089.html",
-      "publisher": "ACCESS Newswire",
-      "time": 1789133700,
+      "id": "97ace951-5fe9-3d4a-a6aa-898458ecc9ce",
+      "title": "‘Apple and Microsoft Look Like Value Stocks’: Morningstar on SanDisk’s 2,107% Year",
+      "link": "https://finance.yahoo.com/m/97ace951-5fe9-3d4a-a6aa-898458ecc9ce/%E2%80%98apple-and-microsoft-look.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1789147032,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "c25f58ca-825b-3438-8a48-2c7a17d3f008",
+      "title": "Pharming Gets FDA Approval for Joenja to Treat APDS in Children Aged 4-11",
+      "link": "https://finance.yahoo.com/healthcare/articles/pharming-gets-fda-approval-joenja-171640296.html",
+      "publisher": "MT Newswires",
+      "time": 1789147000,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "817a05cf-acba-3b72-b3b1-ebf0b56fc1f5",
-      "title": "I'm Buying Occidental on This Dip -- Not Because of Oil, but Because of This",
-      "link": "https://finance.yahoo.com/m/817a05cf-acba-3b72-b3b1-ebf0b56fc1f5/i%27m-buying-occidental-on-this.html",
-      "publisher": "Motley Fool",
-      "time": 1789133700,
+      "id": "081649be-b38f-3775-a748-43f449bc61a6",
+      "title": "Oracle Margin Pressure, Modest Guidance Raise Leave Morgan Stanley Needing More Visibility",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-margin-pressure-modest-guidance-171606566.html",
+      "publisher": "MT Newswires",
+      "time": 1789146966,
       "impact": "medium",
       "tags": [
         "macro",
@@ -100,47 +120,29 @@
       ]
     },
     {
-      "id": "a65973cf-b2cc-36f2-88cc-bf3edb3c1610",
-      "title": "Value Per Security",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/value-per-security-133400880.html",
-      "publisher": "Business Wire",
-      "time": 1789133640,
+      "id": "744abf57-dc1f-3e25-9538-650a3bbde063",
+      "title": "Gartner Names ABBYY a Leader in its 2026 Magic Quadrant for Intelligent Document Processing",
+      "link": "https://finance.yahoo.com/technology/ai/articles/gartner-names-abbyy-leader-2026-171600955.html",
+      "publisher": "GlobeNewswire",
+      "time": 1789146960,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "304b59a6-4633-37e4-84d8-c90cc53e5095",
-      "title": "How does TSA's gate pass work, is it in Philly?",
-      "link": "https://finance.yahoo.com/m/304b59a6-4633-37e4-84d8-c90cc53e5095/how-does-tsa%27s-gate-pass.html",
-      "publisher": "USA TODAY",
-      "time": 1789133636,
+      "id": "c9398e1a-a0a2-303f-b510-9962f4ae2b1f",
+      "title": "Apple’s $164 Billion Rally Hinges on iPhone Duo Adoption Among 6 Million Premium Buyers",
+      "link": "https://finance.yahoo.com/m/c9398e1a-a0a2-303f-b510-9962f4ae2b1f/apple%E2%80%99s-%24164-billion-rally.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1789146905,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9932210c-d8ad-3823-85ff-fe90ca83e4db",
-      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
-      "link": "https://finance.yahoo.com/m/9932210c-d8ad-3823-85ff-fe90ca83e4db/scammers-target-hundreds-of.html",
-      "publisher": "TechCrunch",
-      "time": 1789133574,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4204d9a4-255a-35a0-82b0-f6641e6a0382",
-      "title": "Watch: Kimmel-Talarico interview goes to YouTube after ABC pulls i",
-      "link": "https://finance.yahoo.com/m/4204d9a4-255a-35a0-82b0-f6641e6a0382/watch%3A-kimmel-talarico.html",
-      "publisher": "USA TODAY",
-      "time": 1789133569,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c335b226-3dc4-34a4-8d33-df4ef7a13103",
-      "title": "How diaspora groups in the US are responding to disasters in Nepal, Colombia, Venezuela and other homelands",
-      "link": "https://finance.yahoo.com/m/c335b226-3dc4-34a4-8d33-df4ef7a13103/how-diaspora-groups-in-the-us.html",
-      "publisher": "The Conversation",
-      "time": 1789133528,
+      "id": "1cb0e13d-4734-313c-91f4-159ad7331b77",
+      "title": "PK brand Roasted Lemon N' Chilli Peanuts recalled due to Salmonella",
+      "link": "https://finance.yahoo.com/healthcare/articles/pk-brand-roasted-lemon-n-171400783.html",
+      "publisher": "CNW Group",
+      "time": 1789146840,
       "impact": "low",
       "tags": []
     }
