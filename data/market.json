@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T19:55:54.614589+00:00",
+  "updatedAt": "2026-09-11T22:11:07.002769+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7659.39,
-      "change": 23.030000000000655,
-      "changePct": 0.3015834769445214,
+      "price": 7656.98,
+      "change": 20.61999999999989,
+      "changePct": 0.2700239381066358,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26347.781,
-      "change": 94.4409999999989,
-      "changePct": 0.3597294668030768,
+      "price": 26333.035,
+      "change": 79.69499999999971,
+      "changePct": 0.30356137542880146,
       "currency": "USD"
     },
     {
@@ -44,108 +44,108 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.87,
-      "change": -1.9700000000000006,
-      "changePct": -11.042600896860991,
+      "price": 15.84,
+      "change": -2.0,
+      "changePct": -11.210762331838566,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "cbd7eb89-13f4-3f0c-9deb-77dd971e499a",
-      "title": "NuScale Stock Falls 14% as UBS Sees a $95 Million EBITDA Gap",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-stock-falls-14-ubs-195503018.html",
-      "publisher": "GuruFocus.com",
-      "time": 1789156503,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8e687789-1e71-3206-a679-d3a671c2bc92",
-      "title": "Novartis's $30 Billion Deal Spree Triggers a Boardroom Reckoning",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/novartiss-30-billion-deal-spree-195408066.html",
-      "publisher": "GuruFocus.com",
-      "time": 1789156448,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a8913679-a750-4bac-b156-53903627002b",
-      "title": "Social Security COLA is likely to increase next year. So could the pressure to change it.",
-      "link": "https://finance.yahoo.com/economy/article/social-security-cola-is-likely-to-increase-next-year-so-could-the-pressure-to-change-it-195315523.html",
-      "publisher": "Yahoo Finance",
-      "time": 1789156395,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f7ec3cb4-da74-4996-9c1b-c46087807a2e",
-      "title": "SpaceX signs $1.1 billion-per month computing deal",
-      "link": "https://finance.yahoo.com/video/spacex-signs-11-billion-per-month-computing-deal-195052486.html",
-      "publisher": "Yahoo Finance Video",
-      "time": 1789156252,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "593c993c-70d8-3bca-9938-532353f0408a",
-      "title": "Sector Update: Energy Stocks Mixed Late Afternoon",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-194920218.html",
-      "publisher": "MT Newswires",
-      "time": 1789156160,
+      "id": "3bfe188b-d3b5-38cc-a525-364ff70e0232",
+      "title": "3 Stocks Under $50 That Fall Short",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-under-50-fall-220305186.html",
+      "publisher": "StockStory",
+      "time": 1789164185,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "eef6363c-12d1-3264-bcf4-98874fa13b61",
-      "title": "Astera Labs Chairman Manuel Alba Sells 183,000 Shares for $51.3 Million. How Big of a Red Flag Is This?",
-      "link": "https://finance.yahoo.com/m/eef6363c-12d1-3264-bcf4-98874fa13b61/astera-labs-chairman-manuel.html",
-      "publisher": "Motley Fool",
-      "time": 1789156021,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2cd36eee-854e-3e2f-8837-1a9e4181ed8d",
-      "title": "Unifor statement on contract negotiations with Stellantis",
-      "link": "https://finance.yahoo.com/economy/policy/articles/unifor-statement-contract-negotiations-stellantis-194600925.html",
+      "id": "8d46715a-ab45-3b96-8a41-d64867850c90",
+      "title": "ZYUS Life Sciences Announces Closing of Debt Financing",
+      "link": "https://finance.yahoo.com/healthcare/articles/zyus-life-sciences-announces-closing-220300104.html",
       "publisher": "CNW Group",
-      "time": 1789155960,
+      "time": 1789164180,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "9e052d1e-f24c-3c6c-be79-776edec47138",
-      "title": "Kevin Hassett thinks there's a \"fiscally responsible\" way to make Trump's $5,000 checks happen.\n\n\"The bottom line is there are multiple paths to getting it done ... don't underestimate President Trump,\" White House National Economic Council Director Hassett said in an interview with Bloomberg.",
-      "link": "https://finance.yahoo.com/photos/kevin-hassett-thinks-theres-fiscally-194431616/",
-      "publisher": "Yahoo Finance",
-      "time": 1789155871,
+      "id": "d5b46353-9840-3e88-af52-10185b90e1b0",
+      "title": "Secretary of State van Koeverden announces key measures to Build Canada Strong through sport",
+      "link": "https://finance.yahoo.com/economy/policy/articles/secretary-state-van-koeverden-announces-220200872.html",
+      "publisher": "CNW Group",
+      "time": 1789164120,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d9a1e3e4-2440-3b18-84fa-14ea3f113250",
-      "title": "Village Super Market, Inc. Declares Quarterly Dividend",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/village-super-market-inc-declares-194400752.html",
-      "publisher": "GlobeNewswire",
-      "time": 1789155840,
+      "id": "070649a9-aa57-3ce4-9a48-4fda7dffe287",
+      "title": "Minister MacDonald concludes successful outreach to southern Alberta",
+      "link": "https://finance.yahoo.com/economy/policy/articles/minister-macdonald-concludes-successful-outreach-220100479.html",
+      "publisher": "CNW Group",
+      "time": 1789164060,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     },
     {
-      "id": "c35aac19-0b9e-3596-ad37-e926bf7050ee",
-      "title": "Saudi Arabia says major East-West oil pipeline was shut down as a precaution after it was attacked",
-      "link": "https://finance.yahoo.com/m/c35aac19-0b9e-3596-ad37-e926bf7050ee/saudi-arabia-says-major.html",
-      "publisher": "Associated Press",
-      "time": 1789155679,
+      "id": "4c0e451f-c51c-3cf7-8c5c-cf00a145d762",
+      "title": "Universal Insurance Holdings Insider Sold Shares Worth $879,562, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/universal-insurance-holdings-insider-sold-215821434.html",
+      "publisher": "MT Newswires",
+      "time": 1789163901,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "9d1df06f-d2a1-3b39-9cd1-083121e223d7",
+      "title": "Another travel company ordered to close in bankruptcy, cancel all trips",
+      "link": "https://finance.yahoo.com/m/9d1df06f-d2a1-3b39-9cd1-083121e223d7/another-travel-company.html",
+      "publisher": "TheStreet",
+      "time": 1789163867,
       "impact": "medium",
       "tags": [
         "macro",
         "results"
+      ]
+    },
+    {
+      "id": "0b4761df-c090-396e-b271-8e5560a23523",
+      "title": "Why JFrog Ltd (FROG)’s Curation Product Could Be a Game Changer for Its Growth Story",
+      "link": "https://finance.yahoo.com/technology/articles/why-jfrog-ltd-frog-curation-215729419.html",
+      "publisher": "Insider Monkey",
+      "time": 1789163849,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "63a12de8-719a-34ad-abc9-cec657b05692",
+      "title": "We Asked ChatGPT Which Has More Upside From Here: XRP or Bitcoin?",
+      "link": "https://finance.yahoo.com/m/63a12de8-719a-34ad-abc9-cec657b05692/we-asked-chatgpt-which-has.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1789163812,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d1e737a4-67e5-32a6-afb0-bc3a76073511",
+      "title": "Sell the Nvidia Shares That Made Your Retirement or Ride Them Into It? These 3 ETFs Are the Middle Path",
+      "link": "https://finance.yahoo.com/m/d1e737a4-67e5-32a6-afb0-bc3a76073511/sell-the-nvidia-shares-that.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1789163731,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "fc4369fd-ddf0-348b-8404-447779fae3ce",
+      "title": "3 Stocks Under $50 We’re Skeptical Of",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-under-50-skeptical-215505326.html",
+      "publisher": "StockStory",
+      "time": 1789163705,
+      "impact": "low",
+      "tags": [
+        "macro"
       ]
     }
   ],
