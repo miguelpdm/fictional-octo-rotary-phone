@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-11T04:57:00.275119+00:00",
+  "updatedAt": "2026-09-11T09:21:44.333483+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19659.8,
-      "change": -35.5,
-      "changePct": -0.18024604854965398,
+      "price": 19805.9,
+      "change": 146.10000000000218,
+      "changePct": 0.7431408254407582,
       "currency": "EUR"
     },
     {
@@ -28,76 +28,89 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25361.15,
-      "change": -646.4799999999996,
-      "changePct": -2.4857320717035716,
+      "price": 25496.67,
+      "change": -79.78000000000247,
+      "changePct": -0.31192757399874677,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6268.97,
-      "change": -42.590000000000146,
-      "changePct": -0.6747935534162733,
+      "price": 6307.96,
+      "change": 38.98999999999978,
+      "changePct": 0.6219522505291902,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.84,
-      "change": 1.379999999999999,
-      "changePct": 8.383961117861476,
+      "price": 17.24,
+      "change": -0.6000000000000014,
+      "changePct": -3.363228699551578,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "e85022ea-e9d2-3797-92fe-685995283f2b",
-      "title": "Hong Kong sentences Tiananmen activists to between 5 and 7 years in jail",
-      "link": "https://finance.yahoo.com/m/e85022ea-e9d2-3797-92fe-685995283f2b/hong-kong-sentences-tiananmen.html",
-      "publisher": "AFP",
-      "time": 1789102285,
+      "id": "64c4eb7e-5467-326f-a548-aa7d4045e85a",
+      "title": "Huel adopts Greiner Packaging’s K3 solution for hot meal range",
+      "link": "https://finance.yahoo.com/m/64c4eb7e-5467-326f-a548-aa7d4045e85a/huel-adopts-greiner.html",
+      "publisher": "Packaging Gateway",
+      "time": 1789118285,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "1627d470-9d58-37cb-a8c5-d64e45c9afdb",
-      "title": "From gas pumps to bond markets: stocks are getting squeezed",
-      "link": "https://finance.yahoo.com/m/1627d470-9d58-37cb-a8c5-d64e45c9afdb/from-gas-pumps-to-bond.html",
-      "publisher": "TheStreet",
-      "time": 1789102160,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "2ab9956a-d2eb-3797-bd99-804ed672353e",
-      "title": "Jim Cramer Adds Chevron (CVX) to His Fantasy Portfolio as the Final Kicker",
-      "link": "https://finance.yahoo.com/energy/articles/jim-cramer-adds-chevron-cvx-044850014.html",
-      "publisher": "Insider Monkey",
-      "time": 1789102130,
+      "id": "7629fd62-16d4-3875-ad80-515033827d7d",
+      "title": "Industrial Outdoor Storage Draws Institutional Capital",
+      "link": "https://finance.yahoo.com/m/7629fd62-16d4-3875-ad80-515033827d7d/industrial-outdoor-storage.html",
+      "publisher": "CRE Daily",
+      "time": 1789118093,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "99919a1a-92de-3d57-a2b2-789b6ed9fe3f",
-      "title": "Meta’s (META) Muse Launch Turns the AI Debate toward Subscription Economics",
-      "link": "https://finance.yahoo.com/technology/ai/articles/meta-meta-muse-launch-turns-044504103.html",
-      "publisher": "Insider Monkey",
-      "time": 1789101904,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "1293551d-1c37-339e-8c03-872c93c18613",
-      "title": "Ageas completes the sale of its 30.95% stake in Maybank Ageas Holdings Berhad to Maybank",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ageas-completes-sale-30-95-044500971.html",
+      "id": "47a98578-32c2-380c-b36c-e62f08bef4e8",
+      "title": "Pharmaceutical Regulatory Affairs in Asia Online Training Set for March 3–5, 2027 — Registration Now Open",
+      "link": "https://finance.yahoo.com/healthcare/articles/pharmaceutical-regulatory-affairs-asia-online-091300928.html",
       "publisher": "GlobeNewswire",
-      "time": 1789101900,
+      "time": 1789117980,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "89e0aabc-ee81-3de8-a413-1fc7518bd064",
+      "title": "The Zacks Analyst Blog Highlights Tesla, BYD and NIO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-tesla-091300980.html",
+      "publisher": "Zacks",
+      "time": 1789117980,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "33f3888d-da4c-3509-bef9-fc314b613ebb",
+      "title": "Accor targets 25,000 more rooms in Egypt",
+      "link": "https://finance.yahoo.com/m/33f3888d-da4c-3509-bef9-fc314b613ebb/accor-targets-25%2C000-more.html",
+      "publisher": "Hotel Management Network",
+      "time": 1789117972,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6a6ee1fd-a4d0-3ea1-98e5-606b5bbc7fd1",
+      "title": "CBRE IM Buys $1.6B Tenet Net-Lease Platform From Cerberus",
+      "link": "https://finance.yahoo.com/m/6a6ee1fd-a4d0-3ea1-98e5-606b5bbc7fd1/cbre-im-buys-%241.6b-tenet.html",
+      "publisher": "CRE Daily",
+      "time": 1789117914,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ce8b5687-d3c3-31a3-9701-3734325e6ad2",
+      "title": "Prediction: The Next Big Bank Acquisition Is a Fintech, Not Another Bank",
+      "link": "https://finance.yahoo.com/m/ce8b5687-d3c3-31a3-9701-3734325e6ad2/prediction%3A-the-next-big-bank.html",
+      "publisher": "Motley Fool",
+      "time": 1789117800,
       "impact": "medium",
       "tags": [
         "macro",
@@ -105,51 +118,31 @@
       ]
     },
     {
-      "id": "81a7b6eb-52c6-3e0a-964b-abfba473c607",
-      "title": "PITAKA Introduces iPhone 18 Case Collection Featuring Advanced Protection and Refined Design",
-      "link": "https://finance.yahoo.com/technology/articles/pitaka-introduces-iphone-18-case-044500311.html",
-      "publisher": "PR Newswire",
-      "time": 1789101900,
+      "id": "8dd2c1c9-7e79-3d74-8bfe-10e685147f2a",
+      "title": "Starbucks Puts $1.2B Behind North American Store Refresh",
+      "link": "https://finance.yahoo.com/m/8dd2c1c9-7e79-3d74-8bfe-10e685147f2a/starbucks-puts-%241.2b-behind.html",
+      "publisher": "CRE Daily",
+      "time": 1789117734,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "2937ed4c-2505-3c61-b109-f32c81791cc0",
-      "title": "Lorex Connect Expands V Series Lineup with Professional-Grade 4K Security Solutions for Homes and Businesses",
-      "link": "https://finance.yahoo.com/technology/articles/lorex-connect-expands-v-series-044400936.html",
-      "publisher": "PR Newswire",
-      "time": 1789101840,
+      "id": "e0c73d4d-0ae1-30f8-b4cf-cce8c8be801d",
+      "title": "New delays hold up military's PFAS cleanup. See where on our map.",
+      "link": "https://finance.yahoo.com/m/e0c73d4d-0ae1-30f8-b4cf-cce8c8be801d/new-delays-hold-up-military%27s.html",
+      "publisher": "USA TODAY",
+      "time": 1789117717,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f51a6906-4ef7-3456-84ed-77fd8b5bc983",
-      "title": "Rocket Lab Successfully Launches 16th Electron Mission Of The Year, Solidifies Status as World’s Leading Small Launch Provider",
-      "link": "https://finance.yahoo.com/technology/articles/rocket-lab-successfully-launches-16th-044300963.html",
-      "publisher": "GlobeNewswire",
-      "time": 1789101780,
+      "id": "7c0e08d3-be97-336d-9a60-17ba21b320b9",
+      "title": "JD.com’s Ceconomy deal concessions face pushback from rivals – report",
+      "link": "https://finance.yahoo.com/m/7c0e08d3-be97-336d-9a60-17ba21b320b9/jd.com%E2%80%99s-ceconomy-deal.html",
+      "publisher": "Retail Insight Network",
+      "time": 1789117696,
       "impact": "low",
       "tags": []
-    },
-    {
-      "id": "227fa076-1e28-38fc-b092-dab3a0f88f6e",
-      "title": "Why Is OpenAI Pushing To ‘Pace’ AI Development And What Does It Mean For The Industry?",
-      "link": "https://finance.yahoo.com/m/227fa076-1e28-38fc-b092-dab3a0f88f6e/why-is-openai-pushing-to.html",
-      "publisher": "Stocktwits",
-      "time": 1789101776,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "67b72efa-a4b9-36eb-bb54-12031d63d206",
-      "title": "Crypto Billionaire Finds iPhone Duo Pretty 'Good' For Gawking at  Financial Charts — Crypto Prediction Market is Already Betting on The Next Big Apple Gadget",
-      "link": "https://finance.yahoo.com/m/67b72efa-a4b9-36eb-bb54-12031d63d206/crypto-billionaire-finds.html",
-      "publisher": "Benzinga Prediction Markets",
-      "time": 1789101321,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
     }
   ],
   "errors": {
