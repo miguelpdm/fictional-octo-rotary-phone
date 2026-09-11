@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T00:18:30.908631+00:00",
+  "updatedAt": "2026-09-11T04:57:00.275119+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,29 +52,40 @@
   ],
   "news": [
     {
-      "id": "a920f1d4-6389-3f5a-bbca-1a41ce56f807",
-      "title": "Rigetti Computing CEO Sells 120,000 Shares for $1.9 Million After Signing an Agreement with the U.S. Government",
-      "link": "https://finance.yahoo.com/m/a920f1d4-6389-3f5a-bbca-1a41ce56f807/rigetti-computing-ceo-sells.html",
-      "publisher": "Motley Fool",
-      "time": 1789085541,
+      "id": "e85022ea-e9d2-3797-92fe-685995283f2b",
+      "title": "Hong Kong sentences Tiananmen activists to between 5 and 7 years in jail",
+      "link": "https://finance.yahoo.com/m/e85022ea-e9d2-3797-92fe-685995283f2b/hong-kong-sentences-tiananmen.html",
+      "publisher": "AFP",
+      "time": 1789102285,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "ba57535a-86f5-34cc-bef4-fa360de28907",
-      "title": "Southern Glazer's Statement on Resolution with U.S. Department of Justice",
-      "link": "https://finance.yahoo.com/economy/policy/articles/southern-glazers-statement-resolution-u-001100447.html",
-      "publisher": "Business Wire",
-      "time": 1789085460,
+      "id": "1627d470-9d58-37cb-a8c5-d64e45c9afdb",
+      "title": "From gas pumps to bond markets: stocks are getting squeezed",
+      "link": "https://finance.yahoo.com/m/1627d470-9d58-37cb-a8c5-d64e45c9afdb/from-gas-pumps-to-bond.html",
+      "publisher": "TheStreet",
+      "time": 1789102160,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "2ab9956a-d2eb-3797-bd99-804ed672353e",
+      "title": "Jim Cramer Adds Chevron (CVX) to His Fantasy Portfolio as the Final Kicker",
+      "link": "https://finance.yahoo.com/energy/articles/jim-cramer-adds-chevron-cvx-044850014.html",
+      "publisher": "Insider Monkey",
+      "time": 1789102130,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c29e8241-4bb8-3a14-aa17-d5e2fa2c38f6",
-      "title": "Dow Jones Futures: S&P 500 Breaks Support As Oil Prices, Yields Surge; Oracle Jumps Late With CPI Inflation Due",
-      "link": "https://finance.yahoo.com/m/c29e8241-4bb8-3a14-aa17-d5e2fa2c38f6/dow-jones-futures%3A-s%26p-500.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1789085391,
+      "id": "99919a1a-92de-3d57-a2b2-789b6ed9fe3f",
+      "title": "Meta’s (META) Muse Launch Turns the AI Debate toward Subscription Economics",
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-meta-muse-launch-turns-044504103.html",
+      "publisher": "Insider Monkey",
+      "time": 1789101904,
       "impact": "high",
       "tags": [
         "geo",
@@ -82,69 +93,63 @@
       ]
     },
     {
-      "id": "ac7bf574-14aa-35cd-ae1e-20981e8f5f9d",
-      "title": "3 Growth Stocks to Add to Your Roster",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-add-roster-000904957.html",
-      "publisher": "StockStory",
-      "time": 1789085344,
+      "id": "1293551d-1c37-339e-8c03-872c93c18613",
+      "title": "Ageas completes the sale of its 30.95% stake in Maybank Ageas Holdings Berhad to Maybank",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ageas-completes-sale-30-95-044500971.html",
+      "publisher": "GlobeNewswire",
+      "time": 1789101900,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "81a7b6eb-52c6-3e0a-964b-abfba473c607",
+      "title": "PITAKA Introduces iPhone 18 Case Collection Featuring Advanced Protection and Refined Design",
+      "link": "https://finance.yahoo.com/technology/articles/pitaka-introduces-iphone-18-case-044500311.html",
+      "publisher": "PR Newswire",
+      "time": 1789101900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2937ed4c-2505-3c61-b109-f32c81791cc0",
+      "title": "Lorex Connect Expands V Series Lineup with Professional-Grade 4K Security Solutions for Homes and Businesses",
+      "link": "https://finance.yahoo.com/technology/articles/lorex-connect-expands-v-series-044400936.html",
+      "publisher": "PR Newswire",
+      "time": 1789101840,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f51a6906-4ef7-3456-84ed-77fd8b5bc983",
+      "title": "Rocket Lab Successfully Launches 16th Electron Mission Of The Year, Solidifies Status as World’s Leading Small Launch Provider",
+      "link": "https://finance.yahoo.com/technology/articles/rocket-lab-successfully-launches-16th-044300963.html",
+      "publisher": "GlobeNewswire",
+      "time": 1789101780,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "227fa076-1e28-38fc-b092-dab3a0f88f6e",
+      "title": "Why Is OpenAI Pushing To ‘Pace’ AI Development And What Does It Mean For The Industry?",
+      "link": "https://finance.yahoo.com/m/227fa076-1e28-38fc-b092-dab3a0f88f6e/why-is-openai-pushing-to.html",
+      "publisher": "Stocktwits",
+      "time": 1789101776,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "67b72efa-a4b9-36eb-bb54-12031d63d206",
+      "title": "Crypto Billionaire Finds iPhone Duo Pretty 'Good' For Gawking at  Financial Charts — Crypto Prediction Market is Already Betting on The Next Big Apple Gadget",
+      "link": "https://finance.yahoo.com/m/67b72efa-a4b9-36eb-bb54-12031d63d206/crypto-billionaire-finds.html",
+      "publisher": "Benzinga Prediction Markets",
+      "time": 1789101321,
       "impact": "low",
       "tags": [
         "macro"
       ]
-    },
-    {
-      "id": "5baf614e-0daf-3f70-a2da-cc6f13e7cd25",
-      "title": "JOYX and Hitch Interactive Form Strategic Partnership to Build the Real-to-Real Data Layer for Physical AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/joyx-hitch-interactive-form-strategic-000900581.html",
-      "publisher": "Business Wire",
-      "time": 1789085340,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a8afee56-60c5-30ac-8f86-09bc74ce7105",
-      "title": "Silk Road Founder Ross Ulbricht Thanks Trump for Pardon",
-      "link": "https://finance.yahoo.com/m/a8afee56-60c5-30ac-8f86-09bc74ce7105/silk-road-founder-ross.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1789085225,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f1333f86-7a7e-3078-b8fb-7dc49279632c",
-      "title": "Government of Jamaica Announces Acceptance of Offers to Tender for Cash its 6.750% Notes due 2028, 8.500% Notes due 2036 and 8.000% Notes due 2039",
-      "link": "https://finance.yahoo.com/economy/policy/articles/government-jamaica-announces-acceptance-offers-000700756.html",
-      "publisher": "PR Newswire",
-      "time": 1789085220,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a14d914d-b554-3225-b612-717671643c72",
-      "title": "MegazoneCloud Begins Building Hanmi Pharmaceutical's Quality Assurance AI Agent with 'AIR Studio'",
-      "link": "https://finance.yahoo.com/technology/ai/articles/megazonecloud-begins-building-hanmi-pharmaceuticals-000600090.html",
-      "publisher": "PR Newswire",
-      "time": 1789085160,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9c05f99e-8ed3-372b-9301-4e54e43b01f8",
-      "title": "Malik Willis on preparing for Week 1 with young roster 'The NFL Report'",
-      "link": "https://finance.yahoo.com/m/9c05f99e-8ed3-372b-9301-4e54e43b01f8/malik-willis-on-preparing-for.html",
-      "publisher": "NFL Highlights",
-      "time": 1789085155,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "11af7092-358c-35a3-a0d1-214aca1fbbe4",
-      "title": "Long Beach City Council to Honor Legacy of Former Mayor by Renaming “Lew Davis Street” near Long Beach City College to “Beverly O’Neill Way”",
-      "link": "https://finance.yahoo.com/small-business/articles/long-beach-city-council-honor-000300068.html",
-      "publisher": "GlobeNewswire",
-      "time": 1789084980,
-      "impact": "low",
-      "tags": []
     }
   ],
   "errors": {
