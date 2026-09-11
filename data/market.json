@@ -1,116 +1,98 @@
 {
-  "updatedAt": "2026-09-11T09:21:44.333483+00:00",
+  "updatedAt": "2026-09-11T13:41:50.424225+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19805.9,
-      "change": 146.10000000000218,
-      "changePct": 0.7431408254407582,
+      "price": 19848.3,
+      "change": 188.5,
+      "changePct": 0.9588093469923398,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7591.7,
-      "change": -81.82000000000062,
-      "changePct": -1.0662642437890384,
+      "price": 7670.56,
+      "change": 34.20000000000073,
+      "changePct": 0.4478573561225601,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26081.725,
-      "change": -339.6850000000013,
-      "changePct": -1.2856429690921163,
+      "price": 26370.186,
+      "change": 116.84600000000137,
+      "changePct": 0.4450709890627302,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25496.67,
-      "change": -79.78000000000247,
-      "changePct": -0.31192757399874677,
+      "price": 25530.81,
+      "change": -45.63999999999942,
+      "changePct": -0.1784454058323161,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6307.96,
-      "change": 38.98999999999978,
-      "changePct": 0.6219522505291902,
+      "price": 6328.91,
+      "change": 59.9399999999996,
+      "changePct": 0.9561379301543889,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.24,
-      "change": -0.6000000000000014,
-      "changePct": -3.363228699551578,
+      "price": 16.12,
+      "change": -1.7199999999999989,
+      "changePct": -9.64125560538116,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "64c4eb7e-5467-326f-a548-aa7d4045e85a",
-      "title": "Huel adopts Greiner Packaging’s K3 solution for hot meal range",
-      "link": "https://finance.yahoo.com/m/64c4eb7e-5467-326f-a548-aa7d4045e85a/huel-adopts-greiner.html",
-      "publisher": "Packaging Gateway",
-      "time": 1789118285,
+      "id": "6fad648d-6a90-360a-b18e-13086531f704",
+      "title": "NotCo sells Brazil assets in wake of Argentina, Uruguay disposals",
+      "link": "https://finance.yahoo.com/m/6fad648d-6a90-360a-b18e-13086531f704/notco-sells-brazil-assets-in.html",
+      "publisher": "Just Drinks",
+      "time": 1789133881,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7629fd62-16d4-3875-ad80-515033827d7d",
-      "title": "Industrial Outdoor Storage Draws Institutional Capital",
-      "link": "https://finance.yahoo.com/m/7629fd62-16d4-3875-ad80-515033827d7d/industrial-outdoor-storage.html",
-      "publisher": "CRE Daily",
-      "time": 1789118093,
+      "id": "4362b055-901e-3b74-aa34-9eecf6be73bf",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-133800543.html",
+      "publisher": "Business Wire",
+      "time": 1789133880,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "47a98578-32c2-380c-b36c-e62f08bef4e8",
-      "title": "Pharmaceutical Regulatory Affairs in Asia Online Training Set for March 3–5, 2027 — Registration Now Open",
-      "link": "https://finance.yahoo.com/healthcare/articles/pharmaceutical-regulatory-affairs-asia-online-091300928.html",
+      "id": "16f427f7-d6c1-3a9a-8c4c-2dfd9582f3f6",
+      "title": "Premium Global Income Split Fund Announces Successful Overnight Offering of Preferred Shares and Class A Shares",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/premium-global-income-split-fund-133500918.html",
       "publisher": "GlobeNewswire",
-      "time": 1789117980,
+      "time": 1789133700,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "89e0aabc-ee81-3de8-a413-1fc7518bd064",
-      "title": "The Zacks Analyst Blog Highlights Tesla, BYD and NIO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-tesla-091300980.html",
-      "publisher": "Zacks",
-      "time": 1789117980,
+      "id": "7f412e6e-c5d8-38d0-a321-40f383f914a1",
+      "title": "From Paper to Pixels: How Digitalization in Healthcare Can Benefit Rural Communities",
+      "link": "https://finance.yahoo.com/healthcare/articles/paper-pixels-digitalization-healthcare-benefit-133500089.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1789133700,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "33f3888d-da4c-3509-bef9-fc314b613ebb",
-      "title": "Accor targets 25,000 more rooms in Egypt",
-      "link": "https://finance.yahoo.com/m/33f3888d-da4c-3509-bef9-fc314b613ebb/accor-targets-25%2C000-more.html",
-      "publisher": "Hotel Management Network",
-      "time": 1789117972,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6a6ee1fd-a4d0-3ea1-98e5-606b5bbc7fd1",
-      "title": "CBRE IM Buys $1.6B Tenet Net-Lease Platform From Cerberus",
-      "link": "https://finance.yahoo.com/m/6a6ee1fd-a4d0-3ea1-98e5-606b5bbc7fd1/cbre-im-buys-%241.6b-tenet.html",
-      "publisher": "CRE Daily",
-      "time": 1789117914,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ce8b5687-d3c3-31a3-9701-3734325e6ad2",
-      "title": "Prediction: The Next Big Bank Acquisition Is a Fintech, Not Another Bank",
-      "link": "https://finance.yahoo.com/m/ce8b5687-d3c3-31a3-9701-3734325e6ad2/prediction%3A-the-next-big-bank.html",
+      "id": "817a05cf-acba-3b72-b3b1-ebf0b56fc1f5",
+      "title": "I'm Buying Occidental on This Dip -- Not Because of Oil, but Because of This",
+      "link": "https://finance.yahoo.com/m/817a05cf-acba-3b72-b3b1-ebf0b56fc1f5/i%27m-buying-occidental-on-this.html",
       "publisher": "Motley Fool",
-      "time": 1789117800,
+      "time": 1789133700,
       "impact": "medium",
       "tags": [
         "macro",
@@ -118,29 +100,47 @@
       ]
     },
     {
-      "id": "8dd2c1c9-7e79-3d74-8bfe-10e685147f2a",
-      "title": "Starbucks Puts $1.2B Behind North American Store Refresh",
-      "link": "https://finance.yahoo.com/m/8dd2c1c9-7e79-3d74-8bfe-10e685147f2a/starbucks-puts-%241.2b-behind.html",
-      "publisher": "CRE Daily",
-      "time": 1789117734,
+      "id": "a65973cf-b2cc-36f2-88cc-bf3edb3c1610",
+      "title": "Value Per Security",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/value-per-security-133400880.html",
+      "publisher": "Business Wire",
+      "time": 1789133640,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e0c73d4d-0ae1-30f8-b4cf-cce8c8be801d",
-      "title": "New delays hold up military's PFAS cleanup. See where on our map.",
-      "link": "https://finance.yahoo.com/m/e0c73d4d-0ae1-30f8-b4cf-cce8c8be801d/new-delays-hold-up-military%27s.html",
+      "id": "304b59a6-4633-37e4-84d8-c90cc53e5095",
+      "title": "How does TSA's gate pass work, is it in Philly?",
+      "link": "https://finance.yahoo.com/m/304b59a6-4633-37e4-84d8-c90cc53e5095/how-does-tsa%27s-gate-pass.html",
       "publisher": "USA TODAY",
-      "time": 1789117717,
+      "time": 1789133636,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "7c0e08d3-be97-336d-9a60-17ba21b320b9",
-      "title": "JD.com’s Ceconomy deal concessions face pushback from rivals – report",
-      "link": "https://finance.yahoo.com/m/7c0e08d3-be97-336d-9a60-17ba21b320b9/jd.com%E2%80%99s-ceconomy-deal.html",
-      "publisher": "Retail Insight Network",
-      "time": 1789117696,
+      "id": "9932210c-d8ad-3823-85ff-fe90ca83e4db",
+      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
+      "link": "https://finance.yahoo.com/m/9932210c-d8ad-3823-85ff-fe90ca83e4db/scammers-target-hundreds-of.html",
+      "publisher": "TechCrunch",
+      "time": 1789133574,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "4204d9a4-255a-35a0-82b0-f6641e6a0382",
+      "title": "Watch: Kimmel-Talarico interview goes to YouTube after ABC pulls i",
+      "link": "https://finance.yahoo.com/m/4204d9a4-255a-35a0-82b0-f6641e6a0382/watch%3A-kimmel-talarico.html",
+      "publisher": "USA TODAY",
+      "time": 1789133569,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c335b226-3dc4-34a4-8d33-df4ef7a13103",
+      "title": "How diaspora groups in the US are responding to disasters in Nepal, Colombia, Venezuela and other homelands",
+      "link": "https://finance.yahoo.com/m/c335b226-3dc4-34a4-8d33-df4ef7a13103/how-diaspora-groups-in-the-us.html",
+      "publisher": "The Conversation",
+      "time": 1789133528,
       "impact": "low",
       "tags": []
     }
