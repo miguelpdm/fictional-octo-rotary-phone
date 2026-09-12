@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T20:44:48.422059+00:00",
+  "updatedAt": "2026-09-12T22:45:17.223664+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,22 +52,79 @@
   ],
   "news": [
     {
-      "id": "2d93779c-d1c5-325f-aea8-4aad0e4e1f2b",
-      "title": "Cohere $2B-$3B at $20B Valuation: The Sovereign AI Lab Raises a Late-Stage Round Outside the US-China Axis",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cohere-2b-3b-20b-valuation-203253563.html",
-      "publisher": "Forkast News",
-      "time": 1789245173,
-      "impact": "medium",
+      "id": "4f544e18-54eb-31ad-b771-06f8b67187c8",
+      "title": "$10,000 in Tesla When It Joined the S&P 500 Would Be About $15,700 Today. An Index Fund Would Have Done Better.",
+      "link": "https://finance.yahoo.com/m/4f544e18-54eb-31ad-b771-06f8b67187c8/%2410%2C000-in-tesla-when-it.html",
+      "publisher": "Motley Fool",
+      "time": 1789252681,
+      "impact": "low",
       "tags": [
-        "geo"
+        "macro"
       ]
     },
     {
-      "id": "509681df-fc74-3c44-8425-1e0c37738507",
-      "title": "The Exit Path for AI Labs Is Bifurcating Again: $80B in Acquisitions vs. a Stalled IPO Pipeline",
-      "link": "https://finance.yahoo.com/technology/ai/articles/exit-path-ai-labs-bifurcating-203253879.html",
-      "publisher": "Forkast News",
-      "time": 1789245173,
+      "id": "2932c484-eca9-34b7-8907-641b1c9bae95",
+      "title": "Not Nvidia. Not Micron. This Dirt Cheap “Magnificent Seven” Stock Could Be the Biggest Winner of the Trillion-Dollar AI Race – Here’s the Case.",
+      "link": "https://finance.yahoo.com/m/2932c484-eca9-34b7-8907-641b1c9bae95/not-nvidia.-not-micron.-this.html",
+      "publisher": "Motley Fool",
+      "time": 1789252501,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "140827e6-6909-3968-8e4e-86b9343397d0",
+      "title": "JCPenney celebrating 75 years in Plattsburgh",
+      "link": "https://finance.yahoo.com/m/140827e6-6909-3968-8e4e-86b9343397d0/jcpenney-celebrating-75-years.html",
+      "publisher": "Press-Republican, Plattsburgh, N.Y.",
+      "time": 1789252380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e5ce33d1-d50e-301d-b2e9-ae62090991d5",
+      "title": "Joplin man faces federal fraud charges over loans taken during COVID-19 era",
+      "link": "https://finance.yahoo.com/m/e5ce33d1-d50e-301d-b2e9-ae62090991d5/joplin-man-faces-federal.html",
+      "publisher": "The Joplin Globe, Mo.",
+      "time": 1789252320,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "a36aff60-6419-3f70-ac26-d80cb99a81e6",
+      "title": "Is NuScale Power a Millionaire Maker?",
+      "link": "https://finance.yahoo.com/m/a36aff60-6419-3f70-ac26-d80cb99a81e6/is-nuscale-power-a.html",
+      "publisher": "Motley Fool",
+      "time": 1789251900,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "86818444-024b-3dad-8e73-bd41f29f368c",
+      "title": "Photographer remembers capturing one of 9/11's defining images",
+      "link": "https://finance.yahoo.com/m/86818444-024b-3dad-8e73-bd41f29f368c/photographer-remembers.html",
+      "publisher": "CBS News Videos",
+      "time": 1789251467,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6a5b07b3-6865-3139-820c-e0eec9da7bcb",
+      "title": "Walgreens retreats as CVS quietly takes over suburban pharmacies",
+      "link": "https://finance.yahoo.com/m/6a5b07b3-6865-3139-820c-e0eec9da7bcb/walgreens-retreats-as-cvs.html",
+      "publisher": "TheStreet",
+      "time": 1789251420,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e823b665-963b-3e0f-9b40-3901f1881867",
+      "title": "U.S. Bancorp (USB)’s Dividend Increase Has More Behind It",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/u-bancorp-usb-dividend-increase-221600807.html",
+      "publisher": "Insider Monkey",
+      "time": 1789251360,
       "impact": "medium",
       "tags": [
         "macro",
@@ -75,74 +132,20 @@
       ]
     },
     {
-      "id": "c3cb4e21-096d-3c48-a630-ccd9d8d11779",
-      "title": "3 Reasons I Think Cathie Wood Is Buying Robinhood Stock Again",
-      "link": "https://finance.yahoo.com/m/c3cb4e21-096d-3c48-a630-ccd9d8d11779/3-reasons-i-think-cathie-wood.html",
-      "publisher": "Motley Fool",
-      "time": 1789245121,
+      "id": "55158640-5312-3c11-9be7-68ceb77a903c",
+      "title": "Why flowers are placed on some names at the 9/11 Memorial",
+      "link": "https://finance.yahoo.com/m/55158640-5312-3c11-9be7-68ceb77a903c/why-flowers-are-placed-on.html",
+      "publisher": "CBS News Videos",
+      "time": 1789251224,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "f59e3cf6-eaaf-3f85-92cc-dd0923e0a435",
-      "title": "How to Build $7,900 a Month in Dividend Income While Minimizing Your IRMAA Risk",
-      "link": "https://finance.yahoo.com/m/f59e3cf6-eaaf-3f85-92cc-dd0923e0a435/how-to-build-%247%2C900-a-month.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1789245098,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a21fba3d-f168-36b7-a9f5-38db7cf09bd5",
-      "title": "How Low Can Bitcoin Go?",
-      "link": "https://finance.yahoo.com/m/a21fba3d-f168-36b7-a9f5-38db7cf09bd5/how-low-can-bitcoin-go%3F.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1789244996,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1b423673-c61b-32e4-9762-78e9d9f47768",
-      "title": "How to Build a $7,600 Monthly Paycheck From Dividends",
-      "link": "https://finance.yahoo.com/m/1b423673-c61b-32e4-9762-78e9d9f47768/how-to-build-a-%247%2C600-monthly.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1789244854,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "24fd904e-ea7d-325a-8bcc-7f4694088f74",
-      "title": "300 Million People Will Delegate Shopping to AI Agents by 2030 – Teen Adoption Runs Nearly Double the Adult Rate",
-      "link": "https://finance.yahoo.com/technology/ai/articles/300-million-people-delegate-shopping-202654060.html",
-      "publisher": "Forkast News",
-      "time": 1789244814,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "3f28d45b-482b-3096-bc19-1eb64563926d",
-      "title": "US survive Spain scare to book World Cup final clash with France",
-      "link": "https://finance.yahoo.com/m/3f28d45b-482b-3096-bc19-1eb64563926d/us-survive-spain-scare-to.html",
-      "publisher": "AFP",
-      "time": 1789244620,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "249acd42-a7d7-3715-a682-79d9d9be6127",
-      "title": "This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy",
-      "link": "https://finance.yahoo.com/m/249acd42-a7d7-3715-a682-79d9d9be6127/this-artificial-intelligence.html",
-      "publisher": "Motley Fool",
-      "time": 1789244400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4b89e4ad-2afe-396d-bdc8-9ccac5f5ac06",
-      "title": "He Turned 73 With His Own IRA and the IRA He Inherited From His Wife. One Withdrawal From His Own Was Supposed to Cover Both. The IRS Fined Him on Hers",
-      "link": "https://finance.yahoo.com/m/4b89e4ad-2afe-396d-bdc8-9ccac5f5ac06/he-turned-73-with-his-own-ira.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1789244355,
+      "id": "668e2dd2-626b-3b11-ad17-6ad0feec96d2",
+      "title": "Millennials might be bringing back the minivan",
+      "link": "https://finance.yahoo.com/m/668e2dd2-626b-3b11-ad17-6ad0feec96d2/millennials-might-be-bringing.html",
+      "publisher": "CBS News Videos",
+      "time": 1789251191,
       "impact": "low",
       "tags": []
     }
