@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T22:11:07.002769+00:00",
+  "updatedAt": "2026-09-12T00:26:02.785550+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,58 +52,49 @@
   ],
   "news": [
     {
-      "id": "3bfe188b-d3b5-38cc-a525-364ff70e0232",
-      "title": "3 Stocks Under $50 That Fall Short",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-under-50-fall-220305186.html",
+      "id": "3818b245-28b3-32a1-8ef9-058ba1b62891",
+      "title": "'Everything different' as Zverev returns to US Open final",
+      "link": "https://finance.yahoo.com/m/3818b245-28b3-32a1-8ef9-058ba1b62891/%27everything-different%27-as.html",
+      "publisher": "AFP",
+      "time": 1789172495,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ccd4ec32-1804-3df5-a40d-cb7242c705e8",
+      "title": "KEO Capital Appoints Interim Chairman",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/keo-capital-appoints-interim-chairman-001500592.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1789172100,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d7c8596b-d14d-3356-a471-ccfa591498d0",
+      "title": "2 of Wall Street’s Favorite Stocks to Target This Week and 1 Facing Challenges",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-wall-street-favorite-stocks-001105144.html",
       "publisher": "StockStory",
-      "time": 1789164185,
+      "time": 1789171865,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "8d46715a-ab45-3b96-8a41-d64867850c90",
-      "title": "ZYUS Life Sciences Announces Closing of Debt Financing",
-      "link": "https://finance.yahoo.com/healthcare/articles/zyus-life-sciences-announces-closing-220300104.html",
-      "publisher": "CNW Group",
-      "time": 1789164180,
+      "id": "323b4325-3cb2-306c-9ab8-5d3539de2243",
+      "title": "Conagra (CAG) Bets “GLP-1 Friendly” Labels Can Offset a Shrinking Appetite for its Food",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/conagra-cag-bets-glp-1-000608371.html",
+      "publisher": "Insider Monkey",
+      "time": 1789171568,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d5b46353-9840-3e88-af52-10185b90e1b0",
-      "title": "Secretary of State van Koeverden announces key measures to Build Canada Strong through sport",
-      "link": "https://finance.yahoo.com/economy/policy/articles/secretary-state-van-koeverden-announces-220200872.html",
-      "publisher": "CNW Group",
-      "time": 1789164120,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "070649a9-aa57-3ce4-9a48-4fda7dffe287",
-      "title": "Minister MacDonald concludes successful outreach to southern Alberta",
-      "link": "https://finance.yahoo.com/economy/policy/articles/minister-macdonald-concludes-successful-outreach-220100479.html",
-      "publisher": "CNW Group",
-      "time": 1789164060,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "4c0e451f-c51c-3cf7-8c5c-cf00a145d762",
-      "title": "Universal Insurance Holdings Insider Sold Shares Worth $879,562, According to a Recent SEC Filing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/universal-insurance-holdings-insider-sold-215821434.html",
-      "publisher": "MT Newswires",
-      "time": 1789163901,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "9d1df06f-d2a1-3b39-9cd1-083121e223d7",
-      "title": "Another travel company ordered to close in bankruptcy, cancel all trips",
-      "link": "https://finance.yahoo.com/m/9d1df06f-d2a1-3b39-9cd1-083121e223d7/another-travel-company.html",
-      "publisher": "TheStreet",
-      "time": 1789163867,
+      "id": "18a1f522-9405-3378-88ff-4f6ca550549a",
+      "title": "Napa Wineries Are Seeking $90 Million After the Pickett Fire. At 64, a Lost-Profit Settlement Can Still Count Against Social Security.",
+      "link": "https://finance.yahoo.com/m/18a1f522-9405-3378-88ff-4f6ca550549a/napa-wineries-are-seeking-%2490.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1789171499,
       "impact": "medium",
       "tags": [
         "macro",
@@ -111,42 +102,51 @@
       ]
     },
     {
-      "id": "0b4761df-c090-396e-b271-8e5560a23523",
-      "title": "Why JFrog Ltd (FROG)’s Curation Product Could Be a Game Changer for Its Growth Story",
-      "link": "https://finance.yahoo.com/technology/articles/why-jfrog-ltd-frog-curation-215729419.html",
-      "publisher": "Insider Monkey",
-      "time": 1789163849,
+      "id": "5f8ad45a-1d32-324f-879c-9324b7ec1ece",
+      "title": "Top seed Zverev holds off Khachanov to reach US Open final",
+      "link": "https://finance.yahoo.com/m/5f8ad45a-1d32-324f-879c-9324b7ec1ece/top-seed-zverev-holds-off.html",
+      "publisher": "AFP",
+      "time": 1789171464,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "63a12de8-719a-34ad-abc9-cec657b05692",
-      "title": "We Asked ChatGPT Which Has More Upside From Here: XRP or Bitcoin?",
-      "link": "https://finance.yahoo.com/m/63a12de8-719a-34ad-abc9-cec657b05692/we-asked-chatgpt-which-has.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1789163812,
+      "id": "4c8371ae-9adf-3a70-9623-5d24ffdd0fae",
+      "title": "37 Capital Announces Partial Closings of Private Placement",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/37-capital-announces-partial-closings-000400590.html",
+      "publisher": "TMX Newsfile",
+      "time": 1789171440,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "d1e737a4-67e5-32a6-afb0-bc3a76073511",
-      "title": "Sell the Nvidia Shares That Made Your Retirement or Ride Them Into It? These 3 ETFs Are the Middle Path",
-      "link": "https://finance.yahoo.com/m/d1e737a4-67e5-32a6-afb0-bc3a76073511/sell-the-nvidia-shares-that.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1789163731,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "fc4369fd-ddf0-348b-8404-447779fae3ce",
-      "title": "3 Stocks Under $50 We’re Skeptical Of",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-under-50-skeptical-215505326.html",
+      "id": "318b8d7a-d23f-3024-87c1-5a22692cb7f2",
+      "title": "3 Unpopular Stocks with Open Questions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-unpopular-stocks-open-questions-000305474.html",
       "publisher": "StockStory",
-      "time": 1789163705,
+      "time": 1789171385,
       "impact": "low",
       "tags": [
         "macro"
       ]
+    },
+    {
+      "id": "1cbe5fc4-9e5d-3129-9cd7-9c353d0c30fb",
+      "title": "Veteran analyst resets Palantir price target for rest of 2026",
+      "link": "https://finance.yahoo.com/m/1cbe5fc4-9e5d-3129-9cd7-9c353d0c30fb/veteran-analyst-resets.html",
+      "publisher": "TheStreet",
+      "time": 1789171380,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "0407d3f2-0aab-3b07-9323-9738344440d5",
+      "title": "D'Andre Swift and Chicago Bears reach agreement on 3 year, $33 million extension 'The NFL Report'",
+      "link": "https://finance.yahoo.com/m/0407d3f2-0aab-3b07-9323-9738344440d5/d%27andre-swift-and-chicago.html",
+      "publisher": "NFL Highlights",
+      "time": 1789171344,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
