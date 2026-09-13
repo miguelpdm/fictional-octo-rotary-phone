@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T10:55:03.835670+00:00",
+  "updatedAt": "2026-09-13T14:45:58.119604+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,56 +52,89 @@
   ],
   "news": [
     {
-      "id": "3ac1f85c-698b-3288-b9aa-d1c7958e23ed",
-      "title": "My father-in-law wants to give us $1 million to wipe out our mortgage – should I accept or prove I can do it on my own?",
-      "link": "https://finance.yahoo.com/m/3ac1f85c-698b-3288-b9aa-d1c7958e23ed/my-father-in-law-wants-to.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1789296433,
+      "id": "ebe1823d-d548-31aa-9276-19dffefd472c",
+      "title": "Apple wants AI to listen all day without creeping people out",
+      "link": "https://finance.yahoo.com/m/ebe1823d-d548-31aa-9276-19dffefd472c/apple-wants-ai-to-listen-all.html",
+      "publisher": "TheStreet",
+      "time": 1789310220,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "0d396b57-0454-3a73-b25e-8ca7ffaba38b",
-      "title": "This 1 Costco item has skyrocketed 125% in price over just 2 years. And the retail behemoth is limiting member purchases",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/1-costco-item-skyrocketed-125-104500067.html",
+      "id": "5e5c7334-6cb4-325e-800d-8d414788f165",
+      "title": "Two Medical Device Dividend Giants, One Better Buy: Medtronic vs. Abbott",
+      "link": "https://finance.yahoo.com/m/5e5c7334-6cb4-325e-800d-8d414788f165/two-medical-device-dividend.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1789310182,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "191e13e7-61a9-3e8d-b321-27710ba7c2d4",
+      "title": "Trump touts $22 trillion investment boom as he makes the case for $5,000 dividend",
+      "link": "https://finance.yahoo.com/economy/policy/articles/trump-touts-22-trillion-investment-143000052.html",
       "publisher": "Moneywise",
-      "time": 1789296300,
+      "time": 1789309800,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c00c9b59-3e39-3bfe-8171-ad03bebf9118",
-      "title": "Is Superintelligence On The Horizon? Safety Fears Grip Industry Leaders As They Push For A Slowdown",
-      "link": "https://finance.yahoo.com/technology/ai/articles/superintelligence-horizon-safety-fears-grip-104052728.html",
+      "id": "8826a4fa-c48e-3b3f-8bd4-87dd9b4e3fe4",
+      "title": "Perimenopause Explained: Take Back Control of Your Hormones",
+      "link": "https://finance.yahoo.com/m/8826a4fa-c48e-3b3f-8bd4-87dd9b4e3fe4/perimenopause-explained%3A-take.html",
+      "publisher": "TheStreet",
+      "time": 1789309800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "48a50fca-1442-3ca8-95ab-9881ce7563a3",
+      "title": "Amgen (AMGN) Fell 5% on a Drug That Isn’t Even Its Own. Here’s the Lp(a) Bet Now in Question.",
+      "link": "https://finance.yahoo.com/healthcare/articles/amgen-amgn-fell-5-drug-142916899.html",
       "publisher": "Insider Monkey",
-      "time": 1789296052,
+      "time": 1789309756,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5fa080af-0bc0-3833-b19d-ab8e06168bc5",
-      "title": "$100,000 in These 3 Income ETFs Generates About $350 Every Week",
-      "link": "https://finance.yahoo.com/m/5fa080af-0bc0-3833-b19d-ab8e06168bc5/%24100%2C000-in-these-3-income.html",
-      "publisher": "24/7 Wall St.",
-      "time": 1789296003,
+      "id": "8ad8823a-8e93-357b-b46a-0164f5d89488",
+      "title": "US House Speaker warns curbing AI too sharply could leave China ahead",
+      "link": "https://finance.yahoo.com/m/8ad8823a-8e93-357b-b46a-0164f5d89488/us-house-speaker-warns.html",
+      "publisher": "AFP",
+      "time": 1789309729,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "c0c44580-cccc-3847-b71a-f6c04301a00e",
+      "title": "Trump says 'very negative forces' raising exaggerated concerns over AI",
+      "link": "https://finance.yahoo.com/m/c0c44580-cccc-3847-b71a-f6c04301a00e/trump-says-%27very-negative.html",
+      "publisher": "Reuters",
+      "time": 1789309723,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "88928421-0a29-306c-8516-80d045f938a7",
-      "title": "REX American Resources (REX) Notches A Record Quarter, Then Doubts Creep In",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rex-american-resources-rex-notches-103748951.html",
-      "publisher": "Insider Monkey",
-      "time": 1789295868,
-      "impact": "low",
-      "tags": []
+      "id": "75964091-0d57-3879-b55e-2c11b3225642",
+      "title": "Dow Jones Futures: Fed Meeting Ahead; Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
+      "link": "https://finance.yahoo.com/m/75964091-0d57-3879-b55e-2c11b3225642/dow-jones-futures%3A-fed.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1789309654,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "22da4703-ee9b-3ddc-829b-05704b0ffff5",
-      "title": "Nvidia May Put $10 Billion Into Anthropic’s $2 Trillion IPO. Amazon Already Has Much More Riding on It",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-may-put-10-billion-103618397.html",
-      "publisher": "Insider Monkey",
-      "time": 1789295778,
+      "id": "af47ecbd-8121-3955-a96f-6a8c80443291",
+      "title": "Why a Lower Social Security COLA Forecast for 2027 Could Be Good News for Retirees",
+      "link": "https://finance.yahoo.com/m/af47ecbd-8121-3955-a96f-6a8c80443291/why-a-lower-social-security.html",
+      "publisher": "Motley Fool",
+      "time": 1789309620,
       "impact": "medium",
       "tags": [
         "macro",
@@ -109,38 +142,11 @@
       ]
     },
     {
-      "id": "501d90e4-b0d8-3133-aada-6194e5ee108b",
-      "title": "Should You Buy Costco Stock Right Now With $2,000 and Hold for 5 Years?",
-      "link": "https://finance.yahoo.com/m/501d90e4-b0d8-3133-aada-6194e5ee108b/should-you-buy-costco-stock.html",
+      "id": "1222f943-a847-3fc8-9374-0d209a8be5cb",
+      "title": "Skipping Social Security Could Pay Off Big Time in This 1 Scenario",
+      "link": "https://finance.yahoo.com/m/1222f943-a847-3fc8-9374-0d209a8be5cb/skipping-social-security.html",
       "publisher": "Motley Fool",
-      "time": 1789295700,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "8cd61e79-e081-3c35-b12b-ea0b6e2c588d",
-      "title": "Newsmakers for September 13",
-      "link": "https://finance.yahoo.com/m/8cd61e79-e081-3c35-b12b-ea0b6e2c588d/newsmakers-for-september-13.html",
-      "publisher": "Reading Eagle, Pa.",
-      "time": 1789295520,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "36efe4b2-8ec0-313d-bf3a-8ea039a0ad77",
-      "title": "My brother's 35 and says our parents' inheritance is his whole retirement plan. How can I talk some sense into him?",
-      "link": "https://finance.yahoo.com/markets/articles/brothers-35-says-parents-inheritance-103000783.html",
-      "publisher": "Moneywise",
-      "time": 1789295400,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "ec6470d4-e8b4-3a53-b6b5-ea68c0eb77e4",
-      "title": "Snowflake (SNOW) Is Growing Faster Now Than It Was A Year Ago",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-snow-growing-faster-now-102813308.html",
-      "publisher": "Insider Monkey",
-      "time": 1789295293,
+      "time": 1789309200,
       "impact": "low",
       "tags": []
     }
