@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T22:45:17.223664+00:00",
+  "updatedAt": "2026-09-13T00:32:05.755659+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,79 +52,67 @@
   ],
   "news": [
     {
-      "id": "4f544e18-54eb-31ad-b771-06f8b67187c8",
-      "title": "$10,000 in Tesla When It Joined the S&P 500 Would Be About $15,700 Today. An Index Fund Would Have Done Better.",
-      "link": "https://finance.yahoo.com/m/4f544e18-54eb-31ad-b771-06f8b67187c8/%2410%2C000-in-tesla-when-it.html",
-      "publisher": "Motley Fool",
-      "time": 1789252681,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "2932c484-eca9-34b7-8907-641b1c9bae95",
-      "title": "Not Nvidia. Not Micron. This Dirt Cheap “Magnificent Seven” Stock Could Be the Biggest Winner of the Trillion-Dollar AI Race – Here’s the Case.",
-      "link": "https://finance.yahoo.com/m/2932c484-eca9-34b7-8907-641b1c9bae95/not-nvidia.-not-micron.-this.html",
-      "publisher": "Motley Fool",
-      "time": 1789252501,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "140827e6-6909-3968-8e4e-86b9343397d0",
-      "title": "JCPenney celebrating 75 years in Plattsburgh",
-      "link": "https://finance.yahoo.com/m/140827e6-6909-3968-8e4e-86b9343397d0/jcpenney-celebrating-75-years.html",
-      "publisher": "Press-Republican, Plattsburgh, N.Y.",
-      "time": 1789252380,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e5ce33d1-d50e-301d-b2e9-ae62090991d5",
-      "title": "Joplin man faces federal fraud charges over loans taken during COVID-19 era",
-      "link": "https://finance.yahoo.com/m/e5ce33d1-d50e-301d-b2e9-ae62090991d5/joplin-man-faces-federal.html",
-      "publisher": "The Joplin Globe, Mo.",
-      "time": 1789252320,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "a36aff60-6419-3f70-ac26-d80cb99a81e6",
-      "title": "Is NuScale Power a Millionaire Maker?",
-      "link": "https://finance.yahoo.com/m/a36aff60-6419-3f70-ac26-d80cb99a81e6/is-nuscale-power-a.html",
-      "publisher": "Motley Fool",
-      "time": 1789251900,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "86818444-024b-3dad-8e73-bd41f29f368c",
-      "title": "Photographer remembers capturing one of 9/11's defining images",
-      "link": "https://finance.yahoo.com/m/86818444-024b-3dad-8e73-bd41f29f368c/photographer-remembers.html",
-      "publisher": "CBS News Videos",
-      "time": 1789251467,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6a5b07b3-6865-3139-820c-e0eec9da7bcb",
-      "title": "Walgreens retreats as CVS quietly takes over suburban pharmacies",
-      "link": "https://finance.yahoo.com/m/6a5b07b3-6865-3139-820c-e0eec9da7bcb/walgreens-retreats-as-cvs.html",
+      "id": "a60b2ad6-b2af-36c9-9f88-be3d7a26b0d0",
+      "title": "Hunter Biden finally finds an Apple product he likes",
+      "link": "https://finance.yahoo.com/m/a60b2ad6-b2af-36c9-9f88-be3d7a26b0d0/hunter-biden-finally-finds-an.html",
       "publisher": "TheStreet",
-      "time": 1789251420,
+      "time": 1789259349,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e823b665-963b-3e0f-9b40-3901f1881867",
-      "title": "U.S. Bancorp (USB)’s Dividend Increase Has More Behind It",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/u-bancorp-usb-dividend-increase-221600807.html",
+      "id": "8cc55584-c291-37d8-b135-eb198d4d2bed",
+      "title": "BRICS countries rally to counter shocks of power politics, unilateralism: China Daily editorial",
+      "link": "https://finance.yahoo.com/economy/policy/articles/brics-countries-rally-counter-shocks-001800157.html",
+      "publisher": "PR Newswire",
+      "time": 1789258680,
+      "impact": "medium",
+      "tags": [
+        "geo"
+      ]
+    },
+    {
+      "id": "d8f93495-9d4c-39e4-936c-231bd5aa1650",
+      "title": "Woman stopped after entering Kamala Harris' Malibu property",
+      "link": "https://finance.yahoo.com/m/d8f93495-9d4c-39e4-936c-231bd5aa1650/woman-stopped-after-entering.html",
+      "publisher": "USA TODAY",
+      "time": 1789258469,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "d6b2b8b7-5c84-35f0-843a-af1941ce3140",
+      "title": "GPT-6 Astra Wiped 4%-5% Off Salesforce and ServiceNow in a Day. Is Wall Street Pricing a SaaS Extinction Event?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gpt-6-astra-wiped-4-001329760.html",
       "publisher": "Insider Monkey",
-      "time": 1789251360,
+      "time": 1789258409,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "2d5c7672-f2fa-37a1-a59a-479040738d61",
+      "title": "Bitcoin slips to $77,200 as rate pressure clashes with diversification case",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-slips-77-200-rate-001317793.html",
+      "publisher": "Investing.com",
+      "time": 1789258397,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a83edc31-fca9-3c1e-b49d-f6f49c4f9864",
+      "title": "Why Affluent Couples Are Doing Roth Conversions at 62 and Claiming Social Security at 70, Not the Other Way Around",
+      "link": "https://finance.yahoo.com/m/a83edc31-fca9-3c1e-b49d-f6f49c4f9864/why-affluent-couples-are.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1789258378,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "12be64a5-673b-38f4-885d-57795cdf02aa",
+      "title": "If It Delivers Profit, Boeing (BA)’s Defense Franchise Can Buffer Its Commercial Recovery",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/delivers-profit-boeing-ba-defense-000848794.html",
+      "publisher": "Insider Monkey",
+      "time": 1789258128,
       "impact": "medium",
       "tags": [
         "macro",
@@ -132,22 +120,33 @@
       ]
     },
     {
-      "id": "55158640-5312-3c11-9be7-68ceb77a903c",
-      "title": "Why flowers are placed on some names at the 9/11 Memorial",
-      "link": "https://finance.yahoo.com/m/55158640-5312-3c11-9be7-68ceb77a903c/why-flowers-are-placed-on.html",
-      "publisher": "CBS News Videos",
-      "time": 1789251224,
+      "id": "445818cd-e010-30e5-9fcb-736ed2517aec",
+      "title": "AtriCure CTO Sells 3,657 Shares",
+      "link": "https://finance.yahoo.com/m/445818cd-e010-30e5-9fcb-736ed2517aec/atricure-cto-sells-3%2C657.html",
+      "publisher": "Motley Fool",
+      "time": 1789257901,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "668e2dd2-626b-3b11-ad17-6ad0feec96d2",
-      "title": "Millennials might be bringing back the minivan",
-      "link": "https://finance.yahoo.com/m/668e2dd2-626b-3b11-ad17-6ad0feec96d2/millennials-might-be-bringing.html",
-      "publisher": "CBS News Videos",
-      "time": 1789251191,
+      "id": "f9749a71-dda5-39f3-98fb-4412e6e419e3",
+      "title": "Rybakina reigns serene as new world number one",
+      "link": "https://finance.yahoo.com/m/f9749a71-dda5-39f3-98fb-4412e6e419e3/rybakina-reigns-serene-as-new.html",
+      "publisher": "AFP",
+      "time": 1789257870,
       "impact": "low",
       "tags": []
+    },
+    {
+      "id": "711154b8-12ee-33c8-b358-80ca53d64347",
+      "title": "American Tower Sees 5G, AI and CoreSite Demand Fueling Growth",
+      "link": "https://finance.yahoo.com/m/711154b8-12ee-33c8-b358-80ca53d64347/american-tower-sees-5g%2C-ai.html",
+      "publisher": "MarketBeat",
+      "time": 1789257717,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
