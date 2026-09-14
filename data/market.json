@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T17:00:48.322767+00:00",
+  "updatedAt": "2026-09-14T20:59:38.849273+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7642.44,
-      "change": 50.73999999999978,
-      "changePct": 0.6683615000592724,
+      "price": 7619.98,
+      "change": 28.279999999999745,
+      "changePct": 0.37251208556712917,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26296.68,
-      "change": 214.95999999999913,
-      "changePct": 0.8241787734857944,
+      "price": 26186.414,
+      "change": 104.6939999999995,
+      "changePct": 0.4014075758807299,
       "currency": "USD"
     },
     {
@@ -44,110 +44,105 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.74,
-      "change": 0.8999999999999986,
-      "changePct": 5.681818181818173,
+      "price": 17.1,
+      "change": 1.2600000000000016,
+      "changePct": 7.954545454545464,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "7f166656-9202-366a-8320-2561e0a9be26",
-      "title": "Apple's Foldable Phone Has Arrived. Here's Why I Don't Think It'll Send the Stock Soaring",
-      "link": "https://finance.yahoo.com/m/7f166656-9202-366a-8320-2561e0a9be26/apple%27s-foldable-phone-has.html",
-      "publisher": "Motley Fool",
-      "time": 1789404843,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bc210ef9-85c0-3967-9c05-a582a3653b08",
-      "title": "Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today’s Market",
-      "link": "https://finance.yahoo.com/m/bc210ef9-85c0-3967-9c05-a582a3653b08/oracle%2C-corning%2C-alphabet%2C-ge.html",
-      "publisher": "Barrons.com",
-      "time": 1789404780,
-      "impact": "low",
+      "id": "a59690bd-e2e7-3e7a-bed2-22128356c7b6",
+      "title": "ServiceNow Jumps 6.4% as AI Slowdown Flips the Software Trade",
+      "link": "https://finance.yahoo.com/technology/ai/articles/servicenow-jumps-6-4-ai-205808694.html",
+      "publisher": "GuruFocus.com",
+      "time": 1789419488,
+      "impact": "high",
       "tags": [
+        "geo",
         "macro"
       ]
     },
     {
-      "id": "22adb0ec-a7a2-397f-bb67-ae1ad5f5f7cd",
-      "title": "Update: US Equity Indexes Fall as 10-Year Treasury Yield Rises Above 5% Mark, Crude Oil Jumps",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-10-165252157.html",
-      "publisher": "MT Newswires",
-      "time": 1789404772,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "1facdc5f-7dc0-40bf-a63e-fe7d62ed74f9",
-      "title": "The best CD rates for September 2026",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-165224097.html",
-      "publisher": "Personal Finance Embeddable Content",
-      "time": 1789404744,
+      "id": "84b2f4fc-2459-3fb6-a2d1-1d7d1bd804bd",
+      "title": "OpenAI Left Exposed After Apple's Surprise Legal Break",
+      "link": "https://finance.yahoo.com/technology/ai/articles/openai-left-exposed-apples-surprise-205620397.html",
+      "publisher": "GuruFocus.com",
+      "time": 1789419380,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5eb5c8cc-a7e5-37a8-9fc3-d80870618c75",
-      "title": "1 Value Stock Worth Your Attention and 2 Facing Challenges",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-value-stock-worth-attention-165130557.html",
-      "publisher": "StockStory",
-      "time": 1789404690,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "ddbadccc-3a91-303b-b704-6440c5a2b4d6",
-      "title": "GAC Commercial Vehicle Accelerates Global Expansion with IAA TRANSPORTATION 2026 Debut",
-      "link": "https://finance.yahoo.com/technology/articles/gac-commercial-vehicle-accelerates-global-165100870.html",
+      "id": "48e39701-168a-3793-bd64-2a429ac81e0d",
+      "title": "Martial Arts Philosophy Meets the Demands of the Modern Workplace",
+      "link": "https://finance.yahoo.com/small-business/articles/martial-arts-philosophy-meets-demands-205400157.html",
       "publisher": "PR Newswire",
-      "time": 1789404660,
+      "time": 1789419240,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "501dc514-cd81-3029-8025-3f80a28fb08a",
-      "title": "Social Security Benefits Could See a 3.5% COLA Boost in 2027",
-      "link": "https://finance.yahoo.com/m/501dc514-cd81-3029-8025-3f80a28fb08a/social-security-benefits.html",
-      "publisher": "Motley Fool",
-      "time": 1789404600,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6552662f-2ca3-37bc-8bce-509b90165c81",
-      "title": "CORRECTED: Onconetix Provides Strategic Bridge Financing to Realbotix LLC in Support of Pending Acquisition",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/corrected-onconetix-provides-strategic-bridge-165000489.html",
+      "id": "c48d432a-a84b-3d38-a05a-dbf531cca25b",
+      "title": "Kung Fu Thai & Chinese Restaurant Shares Wok Seasoning Methods Behind Its Chinese Restaurant in Las Vegas Kitchen",
+      "link": "https://finance.yahoo.com/small-business/articles/kung-fu-thai-chinese-restaurant-205400931.html",
       "publisher": "GlobeNewswire",
-      "time": 1789404600,
-      "impact": "medium",
+      "time": 1789419240,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a1b4e206-4fe6-31f1-93ed-d860f0c9fdf2",
+      "title": "Tesla's long-delayed Roadster may finally get its SpaceX moment",
+      "link": "https://finance.yahoo.com/technology/articles/teslas-long-delayed-roadster-may-205335794.html",
+      "publisher": "GuruFocus.com",
+      "time": 1789419215,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6236c80a-dbe1-3cb1-894c-2c2c543a86f9",
+      "title": "Frontier Nursing University Commencement to be Held September 19 at Rupp Arena",
+      "link": "https://finance.yahoo.com/healthcare/articles/frontier-nursing-university-commencement-held-205200889.html",
+      "publisher": "GlobeNewswire",
+      "time": 1789419120,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "b8330106-67d8-3067-ad97-4864700f263e",
+      "title": "NowSecure Finds 1 in 4 Mobile Apps May Expose Functionality to AI Agents Ahead of iOS 27",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nowsecure-finds-1-4-mobile-205200030.html",
+      "publisher": "GlobeNewswire",
+      "time": 1789419120,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "e95986a5-0392-3e4f-96e6-897a769d1121",
+      "title": "Q1 Rundown: Hain Celestial (NASDAQ:HAIN) Vs Other Shelf-Stable Food Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q1-rundown-hain-celestial-nasdaq-205130745.html",
+      "publisher": "StockStory",
+      "time": 1789419090,
+      "impact": "low",
       "tags": [
-        "macro",
-        "results"
+        "macro"
       ]
     },
     {
-      "id": "699fc6dd-30c7-3bca-9ba4-a5a320d4ea81",
-      "title": "Solar Experts Costa Rica Pioneers Radical Transparency in Solar Pricing",
-      "link": "https://finance.yahoo.com/energy/articles/solar-experts-costa-rica-pioneers-165000905.html",
-      "publisher": "GlobeNewswire",
-      "time": 1789404600,
+      "id": "0428a95b-edf9-3233-bd81-d6a1bac29b77",
+      "title": "DexCom Promotes CFO Jereme Sylvain to Additional COO Role",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dexcom-promotes-cfo-jereme-sylvain-205012943.html",
+      "publisher": "MT Newswires",
+      "time": 1789419012,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "a2273c65-fda1-35bb-8c98-7079a4c29813",
-      "title": "Alarm over AI grows as divided US Congress struggles to act",
-      "link": "https://finance.yahoo.com/m/a2273c65-fda1-35bb-8c98-7079a4c29813/alarm-over-ai-grows-as.html",
-      "publisher": "AFP",
-      "time": 1789404595,
+      "id": "cfd1e82f-d912-3acb-8936-632a095a3b99",
+      "title": "Primaris REIT Announces $200 Million Equity Offering",
+      "link": "https://finance.yahoo.com/real-estate/articles/primaris-reit-announces-200-million-205000889.html",
+      "publisher": "GlobeNewswire",
+      "time": 1789419000,
       "impact": "low",
       "tags": []
     }
