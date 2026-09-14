@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-14T05:38:34.376631+00:00",
+  "updatedAt": "2026-09-14T11:28:59.994205+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19838.5,
-      "change": 178.70000000000073,
-      "changePct": 0.9089614339922112,
+      "price": 19655.1,
+      "change": -183.40000000000146,
+      "changePct": -0.9244650553217302,
       "currency": "EUR"
     },
     {
@@ -28,129 +28,129 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25568.56,
-      "change": -7.889999999999418,
-      "changePct": -0.030848690885558465,
+      "price": 25478.96,
+      "change": 117.80999999999767,
+      "changePct": 0.46452940816957305,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6325.13,
-      "change": 56.159999999999854,
-      "changePct": 0.8958409435680798,
+      "price": 6266.01,
+      "change": -59.11999999999989,
+      "changePct": -0.9346843464086887,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 15.84,
-      "change": -2.0,
-      "changePct": -11.210762331838566,
+      "price": 17.54,
+      "change": 1.6999999999999993,
+      "changePct": 10.732323232323228,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "7fe9a1bc-268f-32d5-b6ea-9f6a78a5645d",
-      "title": "UAL, AAL, DAL Stocks Suffer Weekly Loss: Barclays Cuts Price Targets But Sees A Silver Lining",
-      "link": "https://finance.yahoo.com/m/7fe9a1bc-268f-32d5-b6ea-9f6a78a5645d/ual%2C-aal%2C-dal-stocks-suffer.html",
-      "publisher": "Stocktwits",
-      "time": 1789363934,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "5668886b-8b09-31b8-8e9a-c910946cc2b6",
-      "title": "Sampo plc’s share buybacks week 37/2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sampo-plc-share-buybacks-week-053000814.html",
-      "publisher": "GlobeNewswire",
-      "time": 1789363800,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "91f9837a-60ac-3284-8eaa-6a2565b4dedd",
-      "title": "Jaggaer Completes Acquisition of Ivoflow, Bringing AI-Powered Direct Materials Spend & Price Intelligence to Manufacturers",
-      "link": "https://finance.yahoo.com/technology/ai/articles/jaggaer-completes-acquisition-ivoflow-bringing-053000261.html",
-      "publisher": "Business Wire",
-      "time": 1789363800,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "32985026-9029-392f-8193-7f6573230e1b",
-      "title": "England’s tourist tax: What hotel operators need to know",
-      "link": "https://finance.yahoo.com/m/32985026-9029-392f-8193-7f6573230e1b/england%E2%80%99s-tourist-tax%3A-what.html",
-      "publisher": "Hotel Management Network",
-      "time": 1789363799,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1e2632b3-8014-3bfc-9feb-718157a32944",
-      "title": "Why famous hotel brands rarely own the buildings they operate",
-      "link": "https://finance.yahoo.com/m/1e2632b3-8014-3bfc-9feb-718157a32944/why-famous-hotel-brands.html",
-      "publisher": "Hotel Management Network",
-      "time": 1789363796,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "96e3ece9-0ee0-3a46-92cf-9807c70e5401",
-      "title": "High US diesel prices put retailers and consumers under pressure",
-      "link": "https://finance.yahoo.com/m/96e3ece9-0ee0-3a46-92cf-9807c70e5401/high-us-diesel-prices-put.html",
-      "publisher": "Retail Insight Network",
-      "time": 1789363793,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bc88b53f-25ba-33e6-95b3-033d2aaa7394",
-      "title": "Slow Down AI? Microsoft CEO, President Trump Line Up Against Anthropic's Call — Big Tech's Divide Is Now Out In The Open",
-      "link": "https://finance.yahoo.com/m/bc88b53f-25ba-33e6-95b3-033d2aaa7394/slow-down-ai%3F-microsoft-ceo%2C.html",
-      "publisher": "Stocktwits",
-      "time": 1789363706,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "84b5f487-0cce-35ec-b05c-82065cde702b",
-      "title": "Shares skid in Asia as oil climbs, rate hikes loom",
-      "link": "https://finance.yahoo.com/markets/articles/shares-slip-asia-oil-climbs-231039187.html",
-      "publisher": "Reuters",
-      "time": 1789363673,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "47c388c1-f816-30ed-b2c9-c9e0be9d11af",
-      "title": "Jim Cramer Believes This AI Stock Is The Way To Go Over DRAM Memory",
-      "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-believes-ai-stock-052334263.html",
-      "publisher": "Insider Monkey",
-      "time": 1789363414,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1c6d490d-d0f3-38d7-8784-8bc1206e3460",
-      "title": "Rozetka: How Ukraine’s retail sector is adapting to war",
-      "link": "https://finance.yahoo.com/m/1c6d490d-d0f3-38d7-8784-8bc1206e3460/rozetka%3A-how-ukraine%E2%80%99s-retail.html",
-      "publisher": "Retail Insight Network",
-      "time": 1789363344,
+      "id": "75964091-0d57-3879-b55e-2c11b3225642",
+      "title": "Dow Jones Futures: Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
+      "link": "https://finance.yahoo.com/m/75964091-0d57-3879-b55e-2c11b3225642/dow-jones-futures%3A-techs.html",
+      "publisher": "Investor's Business Daily",
+      "time": 1789385093,
       "impact": "high",
       "tags": [
         "geo",
         "macro"
       ]
+    },
+    {
+      "id": "303b211e-2cdb-3291-9251-c03fc0add45b",
+      "title": "FREDONIA ANNOUNCES C$10 MILLION BOUGHT DEAL PRIVATE PLACEMENT",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fredonia-announces-c-10-million-112400043.html",
+      "publisher": "CNW Group",
+      "time": 1789385040,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7b3e14d9-c0e1-3cf7-92ce-a9cc187cd67a",
+      "title": "Verdant Rock Secures 30% Quota Share Reinsurance Treaty with A+ Rated Panel, Expanding Emerging Market Guarantee Capacity",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/verdant-rock-secures-30-quota-112400170.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1789385040,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "36e9ee05-2b36-3d90-9344-6dfc931a213a",
+      "title": "UPERFECT's Omega One Named Honouree in 2026 IFA Innovation Awards",
+      "link": "https://finance.yahoo.com/technology/articles/uperfects-omega-one-named-honouree-112200602.html",
+      "publisher": "PR Newswire",
+      "time": 1789384920,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "09b19ca3-6643-3d86-84e5-a524e3ce4498",
+      "title": "BlackRidge Capital Launches To Fund The \"First Cheque\" For Business Buyers",
+      "link": "https://finance.yahoo.com/small-business/articles/blackridge-capital-launches-fund-first-112000424.html",
+      "publisher": "ACCESS Newswire",
+      "time": 1789384800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "26dc7d4a-e9ff-3b0d-9607-7f491b490f90",
+      "title": "Broadcom Just Named Its Next Customer to Pass Google: Anthropic. Here's Why That Matters More Than the Earnings Beat.",
+      "link": "https://finance.yahoo.com/m/26dc7d4a-e9ff-3b0d-9607-7f491b490f90/broadcom-just-named-its-next.html",
+      "publisher": "Motley Fool",
+      "time": 1789384800,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "37b6817d-2453-3946-906b-199c8efb26f8",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-112000368.html",
+      "publisher": "Business Wire",
+      "time": 1789384800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "c935a830-b860-3429-b10f-01793e50e0af",
+      "title": "Maura Burns, Former Chief Operating Officer of the CIA, Joins the SAGINT Board of Advisors",
+      "link": "https://finance.yahoo.com/technology/ai/articles/maura-burns-former-chief-operating-112000223.html",
+      "publisher": "PR Newswire",
+      "time": 1789384800,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ddfb2685-4e7a-3e96-a51c-d28458494d39",
+      "title": "Brookfield Asset Management Affiliates to Acquire Minority Stake in American Real Estate Partners",
+      "link": "https://finance.yahoo.com/real-estate/articles/brookfield-asset-management-affiliates-acquire-111945825.html",
+      "publisher": "MT Newswires",
+      "time": 1789384785,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "3c885dca-9a8b-398d-954d-6acd5e6f6c82",
+      "title": "Singamas Container Holdings Ltd's Dividend Analysis",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/singamas-container-holdings-ltds-dividend-111835082.html",
+      "publisher": "GuruFocus.com",
+      "time": 1789384715,
+      "impact": "low",
+      "tags": []
     }
   ],
   "errors": {
