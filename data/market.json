@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T20:59:38.849273+00:00",
+  "updatedAt": "2026-09-14T23:47:30.877295+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,11 +52,35 @@
   ],
   "news": [
     {
-      "id": "a59690bd-e2e7-3e7a-bed2-22128356c7b6",
-      "title": "ServiceNow Jumps 6.4% as AI Slowdown Flips the Software Trade",
-      "link": "https://finance.yahoo.com/technology/ai/articles/servicenow-jumps-6-4-ai-205808694.html",
-      "publisher": "GuruFocus.com",
-      "time": 1789419488,
+      "id": "555ff98e-6f5f-3694-98fd-0a2d07f9fb59",
+      "title": "Corporate Tax Payments Plunge 25% Even as Profits Boom",
+      "link": "https://finance.yahoo.com/economy/policy/articles/corporate-tax-payments-plunge-25-234056105.html",
+      "publisher": "The Fiscal Times",
+      "time": 1789429256,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "94a29139-9bef-3233-92d2-eaa8b29a4247",
+      "title": "Costco Wholesale Nearly Doubles Kirkland Motor Oil Price, Caps Purchases at Two Weekly",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/costco-wholesale-nearly-doubles-kirkland-234029919.html",
+      "publisher": "MT Newswires",
+      "time": 1789429229,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "c62501f9-dab1-3a04-b66c-6fe1cf1f6f50",
+      "title": "Samsung’s $700 Galaxy bet comes with an awkward question",
+      "link": "https://finance.yahoo.com/m/c62501f9-dab1-3a04-b66c-6fe1cf1f6f50/samsung%E2%80%99s-%24700-galaxy-bet.html",
+      "publisher": "TheStreet",
+      "time": 1789429020,
       "impact": "high",
       "tags": [
         "geo",
@@ -64,85 +88,67 @@
       ]
     },
     {
-      "id": "84b2f4fc-2459-3fb6-a2d1-1d7d1bd804bd",
-      "title": "OpenAI Left Exposed After Apple's Surprise Legal Break",
-      "link": "https://finance.yahoo.com/technology/ai/articles/openai-left-exposed-apples-surprise-205620397.html",
-      "publisher": "GuruFocus.com",
-      "time": 1789419380,
+      "id": "143a7663-8a84-35f9-bd24-42e39fd8c31e",
+      "title": "Browns HC Todd Monken on Deshaun Watson's Week 1 performance 'The NFL Report'",
+      "link": "https://finance.yahoo.com/m/143a7663-8a84-35f9-bd24-42e39fd8c31e/browns-hc-todd-monken-on.html",
+      "publisher": "NFL Highlights",
+      "time": 1789428891,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "48e39701-168a-3793-bd64-2a429ac81e0d",
-      "title": "Martial Arts Philosophy Meets the Demands of the Modern Workplace",
-      "link": "https://finance.yahoo.com/small-business/articles/martial-arts-philosophy-meets-demands-205400157.html",
-      "publisher": "PR Newswire",
-      "time": 1789419240,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "c48d432a-a84b-3d38-a05a-dbf531cca25b",
-      "title": "Kung Fu Thai & Chinese Restaurant Shares Wok Seasoning Methods Behind Its Chinese Restaurant in Las Vegas Kitchen",
-      "link": "https://finance.yahoo.com/small-business/articles/kung-fu-thai-chinese-restaurant-205400931.html",
-      "publisher": "GlobeNewswire",
-      "time": 1789419240,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a1b4e206-4fe6-31f1-93ed-d860f0c9fdf2",
-      "title": "Tesla's long-delayed Roadster may finally get its SpaceX moment",
-      "link": "https://finance.yahoo.com/technology/articles/teslas-long-delayed-roadster-may-205335794.html",
-      "publisher": "GuruFocus.com",
-      "time": 1789419215,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6236c80a-dbe1-3cb1-894c-2c2c543a86f9",
-      "title": "Frontier Nursing University Commencement to be Held September 19 at Rupp Arena",
-      "link": "https://finance.yahoo.com/healthcare/articles/frontier-nursing-university-commencement-held-205200889.html",
-      "publisher": "GlobeNewswire",
-      "time": 1789419120,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b8330106-67d8-3067-ad97-4864700f263e",
-      "title": "NowSecure Finds 1 in 4 Mobile Apps May Expose Functionality to AI Agents Ahead of iOS 27",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nowsecure-finds-1-4-mobile-205200030.html",
-      "publisher": "GlobeNewswire",
-      "time": 1789419120,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e95986a5-0392-3e4f-96e6-897a769d1121",
-      "title": "Q1 Rundown: Hain Celestial (NASDAQ:HAIN) Vs Other Shelf-Stable Food Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/q1-rundown-hain-celestial-nasdaq-205130745.html",
+      "id": "a6771637-8614-3f45-b18f-ca2d8a75ae8c",
+      "title": "Defense Contractors Stocks Q2 Highlights: Northrop Grumman (NYSE:NOC)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/defense-contractors-stocks-q2-highlights-233130004.html",
       "publisher": "StockStory",
-      "time": 1789419090,
+      "time": 1789428690,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "0428a95b-edf9-3233-bd81-d6a1bac29b77",
-      "title": "DexCom Promotes CFO Jereme Sylvain to Additional COO Role",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dexcom-promotes-cfo-jereme-sylvain-205012943.html",
-      "publisher": "MT Newswires",
-      "time": 1789419012,
+      "id": "8386b951-d0cb-3986-a5bc-f376851cfeb3",
+      "title": "He Was Denied LTC Insurance at 64. A Hybrid Life Policy Took Him at 66 and Pays for the Nursing Home If He Never Needs It.",
+      "link": "https://finance.yahoo.com/m/8386b951-d0cb-3986-a5bc-f376851cfeb3/he-was-denied-ltc-insurance.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1789428603,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "cfd1e82f-d912-3acb-8936-632a095a3b99",
-      "title": "Primaris REIT Announces $200 Million Equity Offering",
-      "link": "https://finance.yahoo.com/real-estate/articles/primaris-reit-announces-200-million-205000889.html",
+      "id": "57719d5a-705a-304e-a14e-a16db8dcc700",
+      "title": "Questor Announces Resignation of Chief Financial Officer",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/questor-announces-resignation-chief-financial-233000952.html",
       "publisher": "GlobeNewswire",
-      "time": 1789419000,
+      "time": 1789428600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "95c1aa9c-483e-3d11-9d37-192182a688d4",
+      "title": "PVG Asset Management Believes ISS Acknowledges Anavex’s Repeated Missteps, Failed Board Oversight, Lack of Director Stock Ownership, and AVXL Stock Price Underperformance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pvg-asset-management-believes-iss-233000644.html",
+      "publisher": "GlobeNewswire",
+      "time": 1789428600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "ebe8ce41-3718-35e8-9a4b-f7ab237ebcfe",
+      "title": "Global X Launched KOSPI 200 ETF (3408/9408 HK) in Hong Kong with the lowest fee[1]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/global-x-launched-kospi-200-233000982.html",
+      "publisher": "PR Newswire",
+      "time": 1789428600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "032a6985-1b0d-306a-9b97-0bd42262feb3",
+      "title": "IBRX Stock Gains As Soon-Shiong’s Nant Capital Backs Second Cancer-Immunotherapy Bet",
+      "link": "https://finance.yahoo.com/m/032a6985-1b0d-306a-9b97-0bd42262feb3/ibrx-stock-gains-as.html",
+      "publisher": "Stocktwits",
+      "time": 1789428587,
       "impact": "low",
       "tags": []
     }
