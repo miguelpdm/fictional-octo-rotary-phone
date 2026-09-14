@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T00:35:29.296807+00:00",
+  "updatedAt": "2026-09-14T05:38:34.376631+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -52,35 +52,31 @@
   ],
   "news": [
     {
-      "id": "75964091-0d57-3879-b55e-2c11b3225642",
-      "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
-      "link": "https://finance.yahoo.com/m/75964091-0d57-3879-b55e-2c11b3225642/dow-jones-futures-fall%2C-techs.html",
-      "publisher": "Investor's Business Daily",
-      "time": 1789345568,
-      "impact": "high",
+      "id": "7fe9a1bc-268f-32d5-b6ea-9f6a78a5645d",
+      "title": "UAL, AAL, DAL Stocks Suffer Weekly Loss: Barclays Cuts Price Targets But Sees A Silver Lining",
+      "link": "https://finance.yahoo.com/m/7fe9a1bc-268f-32d5-b6ea-9f6a78a5645d/ual%2C-aal%2C-dal-stocks-suffer.html",
+      "publisher": "Stocktwits",
+      "time": 1789363934,
+      "impact": "low",
       "tags": [
-        "geo",
         "macro"
       ]
     },
     {
-      "id": "4699367f-696b-3c3f-91c1-99e4cf1ab306",
-      "title": "This 1 Move Could Make or Break Your Investing Strategy, According to Warren Buffett",
-      "link": "https://finance.yahoo.com/m/4699367f-696b-3c3f-91c1-99e4cf1ab306/this-1-move-could-make-or.html",
-      "publisher": "Motley Fool",
-      "time": 1789345500,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
+      "id": "5668886b-8b09-31b8-8e9a-c910946cc2b6",
+      "title": "Sampo plc’s share buybacks week 37/2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sampo-plc-share-buybacks-week-053000814.html",
+      "publisher": "GlobeNewswire",
+      "time": 1789363800,
+      "impact": "low",
+      "tags": []
     },
     {
-      "id": "eb140b4e-e3e1-3f4d-b365-5a02092e4ab0",
-      "title": "DC's Kennedy Center faces bankruptcy, closure: media",
-      "link": "https://finance.yahoo.com/m/eb140b4e-e3e1-3f4d-b365-5a02092e4ab0/dc%27s-kennedy-center-faces.html",
-      "publisher": "AFP",
-      "time": 1789345381,
+      "id": "91f9837a-60ac-3284-8eaa-6a2565b4dedd",
+      "title": "Jaggaer Completes Acquisition of Ivoflow, Bringing AI-Powered Direct Materials Spend & Price Intelligence to Manufacturers",
+      "link": "https://finance.yahoo.com/technology/ai/articles/jaggaer-completes-acquisition-ivoflow-bringing-053000261.html",
+      "publisher": "Business Wire",
+      "time": 1789363800,
       "impact": "medium",
       "tags": [
         "macro",
@@ -88,65 +84,68 @@
       ]
     },
     {
-      "id": "05f77e92-8da3-37c0-9c01-db441648b9a4",
-      "title": "Jefferson-Wooden bags searing sprint double, Dos Santos on fire",
-      "link": "https://finance.yahoo.com/m/05f77e92-8da3-37c0-9c01-db441648b9a4/jefferson-wooden-bags-searing.html",
-      "publisher": "AFP",
-      "time": 1789345285,
+      "id": "32985026-9029-392f-8193-7f6573230e1b",
+      "title": "England’s tourist tax: What hotel operators need to know",
+      "link": "https://finance.yahoo.com/m/32985026-9029-392f-8193-7f6573230e1b/england%E2%80%99s-tourist-tax%3A-what.html",
+      "publisher": "Hotel Management Network",
+      "time": 1789363799,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "866f7871-13b9-399a-8627-142d43a3feaa",
-      "title": "Coinbase CEO Brian Armstrong Says $400,000 Is Within Reach for Bitcoin. Here's Why He's Right.",
-      "link": "https://finance.yahoo.com/m/866f7871-13b9-399a-8627-142d43a3feaa/coinbase-ceo-brian-armstrong.html",
-      "publisher": "Motley Fool",
-      "time": 1789345200,
+      "id": "1e2632b3-8014-3bfc-9feb-718157a32944",
+      "title": "Why famous hotel brands rarely own the buildings they operate",
+      "link": "https://finance.yahoo.com/m/1e2632b3-8014-3bfc-9feb-718157a32944/why-famous-hotel-brands.html",
+      "publisher": "Hotel Management Network",
+      "time": 1789363796,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3e4e6902-48b4-32fd-8822-7808c7ce5483",
-      "title": "Zverev holds off Shelton to win US Open title",
-      "link": "https://finance.yahoo.com/m/3e4e6902-48b4-32fd-8822-7808c7ce5483/zverev-holds-off-shelton-to.html",
-      "publisher": "AFP",
-      "time": 1789345141,
+      "id": "96e3ece9-0ee0-3a46-92cf-9807c70e5401",
+      "title": "High US diesel prices put retailers and consumers under pressure",
+      "link": "https://finance.yahoo.com/m/96e3ece9-0ee0-3a46-92cf-9807c70e5401/high-us-diesel-prices-put.html",
+      "publisher": "Retail Insight Network",
+      "time": 1789363793,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "3e7a8433-e99d-3ca8-a1c5-1cda8087480f",
-      "title": "Houthis say Saudi Arabia launched over 50 strikes against them in 24 hours",
-      "link": "https://finance.yahoo.com/m/3e7a8433-e99d-3ca8-a1c5-1cda8087480f/houthis-say-saudi-arabia.html",
-      "publisher": "AFP",
-      "time": 1789345089,
+      "id": "bc88b53f-25ba-33e6-95b3-033d2aaa7394",
+      "title": "Slow Down AI? Microsoft CEO, President Trump Line Up Against Anthropic's Call — Big Tech's Divide Is Now Out In The Open",
+      "link": "https://finance.yahoo.com/m/bc88b53f-25ba-33e6-95b3-033d2aaa7394/slow-down-ai%3F-microsoft-ceo%2C.html",
+      "publisher": "Stocktwits",
+      "time": 1789363706,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "c51759ff-5395-37f7-a3dc-a3910dbbd0f6",
-      "title": "Shelton hungry for more Grand Slam chances after US Open disappointment",
-      "link": "https://finance.yahoo.com/m/c51759ff-5395-37f7-a3dc-a3910dbbd0f6/shelton-hungry-for-more-grand.html",
-      "publisher": "AFP",
-      "time": 1789345015,
+      "id": "84b5f487-0cce-35ec-b05c-82065cde702b",
+      "title": "Shares skid in Asia as oil climbs, rate hikes loom",
+      "link": "https://finance.yahoo.com/markets/articles/shares-slip-asia-oil-climbs-231039187.html",
+      "publisher": "Reuters",
+      "time": 1789363673,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "47c388c1-f816-30ed-b2c9-c9e0be9d11af",
+      "title": "Jim Cramer Believes This AI Stock Is The Way To Go Over DRAM Memory",
+      "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-believes-ai-stock-052334263.html",
+      "publisher": "Insider Monkey",
+      "time": 1789363414,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "fb30320b-759f-34d3-bd8c-693a670a3394",
-      "title": "House Speaker Johnson says Congress shouldn't lead AI safety efforts",
-      "link": "https://finance.yahoo.com/m/fb30320b-759f-34d3-bd8c-693a670a3394/house-speaker-johnson-says.html",
-      "publisher": "USA TODAY",
-      "time": 1789344993,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "1a5189eb-2c1d-3a3e-9f30-aecfbd53ac3f",
-      "title": "'Fed up': Thousands march against Sinaloa Cartel violence",
-      "link": "https://finance.yahoo.com/m/1a5189eb-2c1d-3a3e-9f30-aecfbd53ac3f/%27fed-up%27%3A-thousands-march.html",
-      "publisher": "AFP",
-      "time": 1789344958,
+      "id": "1c6d490d-d0f3-38d7-8784-8bc1206e3460",
+      "title": "Rozetka: How Ukraine’s retail sector is adapting to war",
+      "link": "https://finance.yahoo.com/m/1c6d490d-d0f3-38d7-8784-8bc1206e3460/rozetka%3A-how-ukraine%E2%80%99s-retail.html",
+      "publisher": "Retail Insight Network",
+      "time": 1789363344,
       "impact": "high",
       "tags": [
         "geo",
