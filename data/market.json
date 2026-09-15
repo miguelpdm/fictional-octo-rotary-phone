@@ -1,94 +1,98 @@
 {
-  "updatedAt": "2026-09-15T08:17:54.341119+00:00",
+  "updatedAt": "2026-09-15T13:44:11.340637+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19419.1,
-      "change": -146.40000000000146,
-      "changePct": -0.7482558585264953,
+      "price": 19644.7,
+      "change": 79.20000000000073,
+      "changePct": 0.4047941529733497,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7619.98,
-      "change": 28.279999999999745,
-      "changePct": 0.37251208556712917,
+      "price": 7610.44,
+      "change": -46.539999999999964,
+      "changePct": -0.6078114347954411,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26186.414,
-      "change": 104.6939999999995,
-      "changePct": 0.4014075758807299,
+      "price": 26150.81,
+      "change": -182.22999999999956,
+      "changePct": -0.6920203668091476,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25202.99,
-      "change": -365.5699999999997,
-      "changePct": -1.4297637410945305,
+      "price": 25461.52,
+      "change": -107.04000000000087,
+      "changePct": -0.41863914119528384,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6199.7,
-      "change": -60.68000000000029,
-      "changePct": -0.969270235992069,
+      "price": 6257.2,
+      "change": -3.180000000000291,
+      "changePct": -0.05079563860341211,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.8,
-      "change": 0.6999999999999993,
-      "changePct": 4.093567251461984,
+      "price": 16.84,
+      "change": -0.26000000000000156,
+      "changePct": -1.520467836257319,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "f2356226-ad0d-48b7-aa89-037f296f5d86",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures retreat ahead of Fed meeting amid AI safety fears",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
-      "publisher": "Yahoo Finance",
-      "time": 1789459987,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "baddb1ad-b9ed-3003-9a19-2b56b97c06b1",
-      "title": "1 Surging  Stock to Keep an Eye On and 2 We Brush Off",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-surging-stock-keep-eye-081230145.html",
-      "publisher": "StockStory",
-      "time": 1789459950,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "fa9761be-6c51-3744-8276-9c70771ff96d",
-      "title": "Piedmont Realty Trust Prices $200 Million Private Debt Offering",
-      "link": "https://finance.yahoo.com/real-estate/articles/piedmont-realty-trust-prices-200-081134829.html",
-      "publisher": "MT Newswires",
-      "time": 1789459894,
+      "id": "3c4ffd23-79b4-3b3d-a351-c71ca83662ef",
+      "title": "Embracing the Adventure Behind the Wheel, Jiffy Lube Teams Up with Rebelle Rally, an 8-Day Off-Road Navigation Competition",
+      "link": "https://finance.yahoo.com/media-advertising/articles/embracing-adventure-behind-wheel-jiffy-134000023.html",
+      "publisher": "PR Newswire",
+      "time": 1789479600,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "8be14c4c-24cf-3986-a6ff-74caca4f98e1",
-      "title": "Sòphia High Tech Flight Hardware on Board VEGA-C VV30 as the European Launcher Carries Sentinel-3C and FLEX into Orbit",
-      "link": "https://finance.yahoo.com/technology/articles/phia-high-tech-flight-hardware-081000657.html",
-      "publisher": "GlobeNewswire",
-      "time": 1789459800,
+      "id": "ade05fe5-5e92-32e3-9a3d-49218be971ff",
+      "title": "ChatOn Introduces Fact-Checking Feature to Help Users Verify News and AI Responses",
+      "link": "https://finance.yahoo.com/technology/ai/articles/chaton-introduces-fact-checking-feature-134000879.html",
+      "publisher": "PR Newswire",
+      "time": 1789479600,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "961dba08-c418-3d86-8400-49880e474512",
+      "title": "World Leader Explore Industries Opens First West Coast ExploreBase to Accelerate Dealer Growth",
+      "link": "https://finance.yahoo.com/small-business/articles/world-leader-explore-industries-opens-133800266.html",
+      "publisher": "PR Newswire",
+      "time": 1789479480,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "92a96b46-ee55-30b7-93ee-30744fbd09db",
+      "title": "Nicklaus Children's Hospital is No. 1 Pediatric Hospital* in Florida in U.S. News & World Report 2026-2027 Rankings",
+      "link": "https://finance.yahoo.com/healthcare/articles/nicklaus-childrens-hospital-no-1-133700171.html",
+      "publisher": "PR Newswire",
+      "time": 1789479420,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f08ada24-2e8d-3aa7-9a4e-3405109750cb",
+      "title": "Roblox Plans Expanded Placement Options For 'Rewarded' Video Ads",
+      "link": "https://finance.yahoo.com/m/f08ada24-2e8d-3aa7-9a4e-3405109750cb/roblox-plans-expanded.html",
+      "publisher": "MediaPost",
+      "time": 1789479218,
       "impact": "high",
       "tags": [
         "geo",
@@ -96,22 +100,11 @@
       ]
     },
     {
-      "id": "f3de13b7-633a-333d-8ccf-5e92cfcb8518",
-      "title": "Modular and Prefabricated Construction Market Outlook 2026-2035 - Featuring Profiles of Leading Companies Skanska, Bouygues Construction, and Laing O’Rourke",
-      "link": "https://finance.yahoo.com/real-estate/articles/modular-prefabricated-construction-market-outlook-081000480.html",
-      "publisher": "GlobeNewswire",
-      "time": 1789459800,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "4802d37b-3d28-318e-95a8-3bcf3ddfb144",
-      "title": "The 2027 Social Security COLA Forecast Just Increased Slightly. Here's Why You Don't Want it To Go Up Even More.",
-      "link": "https://finance.yahoo.com/m/4802d37b-3d28-318e-95a8-3bcf3ddfb144/the-2027-social-security-cola.html",
-      "publisher": "Motley Fool",
-      "time": 1789459740,
+      "id": "2a59a7d4-ea9f-3651-a0be-d71e7b77d3cd",
+      "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
+      "link": "https://finance.yahoo.com/m/2a59a7d4-ea9f-3651-a0be-d71e7b77d3cd/how-a-costco-partner%27s.html",
+      "publisher": "TheStreet",
+      "time": 1789479180,
       "impact": "medium",
       "tags": [
         "macro",
@@ -119,49 +112,43 @@
       ]
     },
     {
-      "id": "f6a0565e-79c7-3606-85fd-157a868a1a34",
-      "title": "Aircraft Leasing Market Outlook 2026-2035 - Featuring Profiles of AerCap, Air Lease Corporation, and SMBC Aviation Capital",
-      "link": "https://finance.yahoo.com/real-estate/articles/aircraft-leasing-market-outlook-2026-080900580.html",
-      "publisher": "GlobeNewswire",
-      "time": 1789459740,
+      "id": "a9b1c503-8a52-36a0-a507-cf63138a5e3b",
+      "title": "Luxury Living: Texas Style TV Series Spotlights Greater Houston Real Estate and Lifestyle on REAL Shows Network",
+      "link": "https://finance.yahoo.com/real-estate/articles/luxury-living-texas-style-tv-133300963.html",
+      "publisher": "PR Newswire",
+      "time": 1789479180,
       "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "a212f861-411e-3bb4-ac37-557823f1cf91",
+      "title": "Berenberg bullish on Eli Lilly, sees nearly 25% upside",
+      "link": "https://finance.yahoo.com/healthcare/articles/berenberg-bullish-eli-lilly-sees-133236889.html",
+      "publisher": "Investing.com",
+      "time": 1789479156,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "625398e4-beb4-385e-9dd5-ae81e12828d4",
+      "title": "Stock Market Today (Sept. 15, 2026): Nasdaq edges lower as oil prices surge and Treasury yields hit 2007 highs",
+      "link": "https://finance.yahoo.com/m/625398e4-beb4-385e-9dd5-ae81e12828d4/stock-market-today-%28sept.-15%2C.html",
+      "publisher": "TheStreet",
+      "time": 1789479141,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "539f0965-47fa-3585-a72c-22185f7a6d9e",
-      "title": "OLA issues warning to mining operators after Tulu Kapi incident in Oromia",
-      "link": "https://finance.yahoo.com/m/539f0965-47fa-3585-a72c-22185f7a6d9e/ola-issues-warning-to-mining.html",
-      "publisher": "Mining Technology",
-      "time": 1789459717,
-      "impact": "high",
-      "tags": [
-        "geo",
-        "macro"
-      ]
-    },
-    {
-      "id": "c6d6e209-aa96-3e95-ae41-a1d77140f59f",
-      "title": "Aircraft Mission Computers Market Outlook 2026-2035 Featuring Profiles of Collins Aerospace, Honeywell International, and BAE Systems",
-      "link": "https://finance.yahoo.com/technology/articles/aircraft-mission-computers-market-outlook-080800759.html",
-      "publisher": "GlobeNewswire",
-      "time": 1789459680,
+      "id": "3cdea807-2319-301b-b8df-cc0e5997c8f4",
+      "title": "Net Asset Value(s)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/net-asset-value-133200876.html",
+      "publisher": "Business Wire",
+      "time": 1789479120,
       "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "b965cd4d-c549-394f-b701-a53a35d31936",
-      "title": "EMEA Coolers Market Outlook 2026-2035 - Featuring Profiles of YETI, Coleman, and Igloo",
-      "link": "https://finance.yahoo.com/markets/articles/emea-coolers-market-outlook-2026-080700774.html",
-      "publisher": "GlobeNewswire",
-      "time": 1789459620,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
+      "tags": []
     }
   ],
   "errors": {
