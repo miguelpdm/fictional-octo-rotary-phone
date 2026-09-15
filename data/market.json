@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T17:52:06.450208+00:00",
+  "updatedAt": "2026-09-15T20:44:55.175060+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7582.29,
-      "change": -74.6899999999996,
-      "changePct": -0.9754498509856315,
+      "price": 7585.73,
+      "change": -71.25,
+      "changePct": -0.9305235223286465,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25972.822,
-      "change": -360.21800000000076,
-      "changePct": -1.3679316934163346,
+      "price": 25981.57,
+      "change": -351.47000000000116,
+      "changePct": -1.3347110701992673,
       "currency": "USD"
     },
     {
@@ -44,108 +44,13 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.62,
-      "change": 0.5199999999999996,
-      "changePct": 3.040935672514617,
+      "price": 17.2,
+      "change": 0.09999999999999787,
+      "changePct": 0.5847953216374144,
       "currency": "USD"
     }
   ],
-  "news": [
-    {
-      "id": "fc9054c3-63f6-4f46-94b1-33ddaf6e689a",
-      "title": "Can you have two of the same credit card?",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/can-you-have-two-of-the-same-credit-card-175008954.html",
-      "publisher": "Yahoo Personal Finance",
-      "time": 1789494608,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "a83f37de-0695-3a15-8cfe-bbcbfd6b3842",
-      "title": "Government of Canada expands passport service offerings at Charlottetown Service Canada Centre",
-      "link": "https://finance.yahoo.com/economy/policy/articles/government-canada-expands-passport-offerings-174700418.html",
-      "publisher": "CNW Group",
-      "time": 1789494420,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "223398d9-3f1f-365c-9586-b917095848cb",
-      "title": "Bessent Supports Trump's $5,000 Payouts To American Adults As US Debt Load Concerns Mount Ahead Of Mid-Term Elections",
-      "link": "https://finance.yahoo.com/m/223398d9-3f1f-365c-9586-b917095848cb/bessent-supports-trump%27s.html",
-      "publisher": "Stocktwits",
-      "time": 1789494308,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "6654a9af-975f-3cde-b5b6-6a47c1b58e8b",
-      "title": "SEC Chair Atkins reveals what comes next if CLARITY Act stalls",
-      "link": "https://finance.yahoo.com/m/6654a9af-975f-3cde-b5b6-6a47c1b58e8b/sec-chair-atkins-reveals-what.html",
-      "publisher": "TheStreet",
-      "time": 1789494300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "76264870-74a2-34b6-a4a1-22bf62c29b0c",
-      "title": "US Treasury's Bessent says bond yields reflect 'global issues'",
-      "link": "https://finance.yahoo.com/news/us-treasury-chief-says-rising-145901596.html",
-      "publisher": "Reuters",
-      "time": 1789494252,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "40b63f06-b967-3fea-953f-dc2848103438",
-      "title": "3 Absurdly Cheap Growth Stocks to Buy Before the End of 2026",
-      "link": "https://finance.yahoo.com/m/40b63f06-b967-3fea-953f-dc2848103438/3-absurdly-cheap-growth.html",
-      "publisher": "Motley Fool",
-      "time": 1789494240,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "8b3d2ba0-5f0a-3494-a451-ab16c08af4bc",
-      "title": "Winners And Losers Of Q2: FTAI Aviation (NASDAQ:FTAI) Vs The Rest Of The Industrial Distributors Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/winners-losers-q2-ftai-aviation-174331748.html",
-      "publisher": "StockStory",
-      "time": 1789494211,
-      "impact": "low",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "id": "1d3fd559-8001-33f2-a72c-0d16dbc537a8",
-      "title": "AI Agents now have a place to snitch",
-      "link": "https://finance.yahoo.com/m/1d3fd559-8001-33f2-a72c-0d16dbc537a8/ai-agents-now-have-a-place-to.html",
-      "publisher": "TechCrunch",
-      "time": 1789494179,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "2acd04a4-5d21-3d7e-b432-a53e44614e86",
-      "title": "Zacks Initiates Coverage of Interlink With Neutral Recommendation",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-initiates-coverage-interlink-neutral-174200582.html",
-      "publisher": "Zacks",
-      "time": 1789494120,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "411c577c-98e8-30a4-adf0-51f362812c27",
-      "title": "JCDecaux marks 10 years of Nurture at London Stock Exchange after supporting 500+ UK growth businesses",
-      "link": "https://finance.yahoo.com/media-advertising/articles/jcdecaux-marks-10-years-nurture-174200727.html",
-      "publisher": "GlobeNewswire",
-      "time": 1789494120,
-      "impact": "low",
-      "tags": []
-    }
-  ],
+  "news": [],
   "errors": {
     "indices": [],
     "news": []
