@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-15T02:55:11.281403+00:00",
+  "updatedAt": "2026-09-15T08:17:54.341119+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19565.5,
-      "change": -273.0,
-      "changePct": -1.3761121052498928,
+      "price": 19419.1,
+      "change": -146.40000000000146,
+      "changePct": -0.7482558585264953,
       "currency": "EUR"
     },
     {
@@ -28,124 +28,140 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25440.81,
-      "change": 79.65999999999985,
-      "changePct": 0.31410247563694804,
+      "price": 25202.99,
+      "change": -365.5699999999997,
+      "changePct": -1.4297637410945305,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6260.38,
-      "change": -64.75,
-      "changePct": -1.0236943746610743,
+      "price": 6199.7,
+      "change": -60.68000000000029,
+      "changePct": -0.969270235992069,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 17.1,
-      "change": 1.2600000000000016,
-      "changePct": 7.954545454545464,
+      "price": 17.8,
+      "change": 0.6999999999999993,
+      "changePct": 4.093567251461984,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "3555b387-7496-3062-b2c2-a921a9861e04",
-      "title": "Electronic Line Calling and AI Broadcasting Make CIFTIS Debut: Orange Lion Sports' Smartshot 2.0 Presents an Inclusive \"Sports + AI\" Solution",
-      "link": "https://finance.yahoo.com/technology/ai/articles/electronic-line-calling-ai-broadcasting-024700380.html",
-      "publisher": "PR Newswire",
-      "time": 1789440420,
-      "impact": "low",
-      "tags": []
+      "id": "f2356226-ad0d-48b7-aa89-037f296f5d86",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures retreat ahead of Fed meeting amid AI safety fears",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
+      "publisher": "Yahoo Finance",
+      "time": 1789459987,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "abe200dd-fe41-31b1-abe6-99f3a92b807c",
-      "title": "600 Clubs Strong: Inspire Brands Asia Continues Regional Expansion, Affirms Vision for 1,000 by 2028",
-      "link": "https://finance.yahoo.com/small-business/articles/600-clubs-strong-inspire-brands-024500284.html",
-      "publisher": "PR Newswire",
-      "time": 1789440300,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "33d90765-9726-332b-9e13-3c1bca6d5b34",
-      "title": "Why GE Vernova (GEV) Stock Is Nosediving",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-ge-vernova-gev-stock-024330692.html",
+      "id": "baddb1ad-b9ed-3003-9a19-2b56b97c06b1",
+      "title": "1 Surging  Stock to Keep an Eye On and 2 We Brush Off",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-surging-stock-keep-eye-081230145.html",
       "publisher": "StockStory",
-      "time": 1789440210,
+      "time": 1789459950,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "ae1dd789-e5b5-3a9d-b287-86c55226e4da",
-      "title": "Updated Singapore Study Finds 4 in 5 Business WordPress Sites Have at Least One Detectable Vulnerability",
-      "link": "https://finance.yahoo.com/technology/articles/updated-singapore-study-finds-4-024300370.html",
-      "publisher": "PR Newswire",
-      "time": 1789440180,
+      "id": "fa9761be-6c51-3744-8276-9c70771ff96d",
+      "title": "Piedmont Realty Trust Prices $200 Million Private Debt Offering",
+      "link": "https://finance.yahoo.com/real-estate/articles/piedmont-realty-trust-prices-200-081134829.html",
+      "publisher": "MT Newswires",
+      "time": 1789459894,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "e3a499e6-17fe-3cff-8724-c8a9836df43a",
-      "title": "China's factories rev up but slower consumption highlights deepening economic imbalances",
-      "link": "https://finance.yahoo.com/economy/articles/chinas-factory-output-growth-quickens-021024498.html",
-      "publisher": "Reuters",
-      "time": 1789439865,
+      "id": "8be14c4c-24cf-3986-a6ff-74caca4f98e1",
+      "title": "Sòphia High Tech Flight Hardware on Board VEGA-C VV30 as the European Launcher Carries Sentinel-3C and FLEX into Orbit",
+      "link": "https://finance.yahoo.com/technology/articles/phia-high-tech-flight-hardware-081000657.html",
+      "publisher": "GlobeNewswire",
+      "time": 1789459800,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
+    },
+    {
+      "id": "f3de13b7-633a-333d-8ccf-5e92cfcb8518",
+      "title": "Modular and Prefabricated Construction Market Outlook 2026-2035 - Featuring Profiles of Leading Companies Skanska, Bouygues Construction, and Laing O’Rourke",
+      "link": "https://finance.yahoo.com/real-estate/articles/modular-prefabricated-construction-market-outlook-081000480.html",
+      "publisher": "GlobeNewswire",
+      "time": 1789459800,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "4802d37b-3d28-318e-95a8-3bcf3ddfb144",
+      "title": "The 2027 Social Security COLA Forecast Just Increased Slightly. Here's Why You Don't Want it To Go Up Even More.",
+      "link": "https://finance.yahoo.com/m/4802d37b-3d28-318e-95a8-3bcf3ddfb144/the-2027-social-security-cola.html",
+      "publisher": "Motley Fool",
+      "time": 1789459740,
       "impact": "medium",
       "tags": [
-        "geo"
+        "macro",
+        "results"
       ]
     },
     {
-      "id": "cd57816b-5dca-307e-a40b-361e9ada0e27",
-      "title": "Why Bel Fuse (BELFA) Shares Are Falling Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-bel-fuse-belfa-shares-023530471.html",
-      "publisher": "StockStory",
-      "time": 1789439730,
+      "id": "f6a0565e-79c7-3606-85fd-157a868a1a34",
+      "title": "Aircraft Leasing Market Outlook 2026-2035 - Featuring Profiles of AerCap, Air Lease Corporation, and SMBC Aviation Capital",
+      "link": "https://finance.yahoo.com/real-estate/articles/aircraft-leasing-market-outlook-2026-080900580.html",
+      "publisher": "GlobeNewswire",
+      "time": 1789459740,
       "impact": "low",
       "tags": [
         "macro"
       ]
     },
     {
-      "id": "bde91aba-4d98-384b-bcad-2bcc18bc0357",
-      "title": "Forget Picking One Winner: Portfolio Diversification Is the Real Edge, and the Stock Advisor Scorecard Proves It",
-      "link": "https://finance.yahoo.com/m/bde91aba-4d98-384b-bcad-2bcc18bc0357/forget-picking-one-winner%3A.html",
-      "publisher": "Motley Fool",
-      "time": 1789439700,
-      "impact": "low",
-      "tags": []
+      "id": "539f0965-47fa-3585-a72c-22185f7a6d9e",
+      "title": "OLA issues warning to mining operators after Tulu Kapi incident in Oromia",
+      "link": "https://finance.yahoo.com/m/539f0965-47fa-3585-a72c-22185f7a6d9e/ola-issues-warning-to-mining.html",
+      "publisher": "Mining Technology",
+      "time": 1789459717,
+      "impact": "high",
+      "tags": [
+        "geo",
+        "macro"
+      ]
     },
     {
-      "id": "d23c4a52-1f13-3316-a850-ac0a65837424",
-      "title": "Chinese architect Ma Yansong melds nature with 'futuristic feel'",
-      "link": "https://finance.yahoo.com/m/d23c4a52-1f13-3316-a850-ac0a65837424/chinese-architect-ma-yansong.html",
-      "publisher": "AFP",
-      "time": 1789439667,
+      "id": "c6d6e209-aa96-3e95-ae41-a1d77140f59f",
+      "title": "Aircraft Mission Computers Market Outlook 2026-2035 Featuring Profiles of Collins Aerospace, Honeywell International, and BAE Systems",
+      "link": "https://finance.yahoo.com/technology/articles/aircraft-mission-computers-market-outlook-080800759.html",
+      "publisher": "GlobeNewswire",
+      "time": 1789459680,
       "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     },
     {
-      "id": "381e5d48-dba9-3a21-9c6b-de017ad8c109",
-      "title": "Japan to sidestep funding in tax cut outline, keep fiscal concern alive",
-      "link": "https://finance.yahoo.com/economy/policy/articles/japan-sidestep-funding-tax-cut-023213841.html",
-      "publisher": "Reuters",
-      "time": 1789439533,
+      "id": "b965cd4d-c549-394f-b701-a53a35d31936",
+      "title": "EMEA Coolers Market Outlook 2026-2035 - Featuring Profiles of YETI, Coleman, and Igloo",
+      "link": "https://finance.yahoo.com/markets/articles/emea-coolers-market-outlook-2026-080700774.html",
+      "publisher": "GlobeNewswire",
+      "time": 1789459620,
       "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "5e1d9da4-d392-33b4-a689-f96c6c96c56a",
-      "title": "Amazon is selling a 2-in-1 laptop and tablet for $80 that comes with a 7-piece accessories bundle",
-      "link": "https://finance.yahoo.com/m/5e1d9da4-d392-33b4-a689-f96c6c96c56a/amazon-is-selling-a-2-in-1.html",
-      "publisher": "TheStreet",
-      "time": 1789439400,
-      "impact": "low",
-      "tags": []
+      "tags": [
+        "macro"
+      ]
     }
   ],
   "errors": {
