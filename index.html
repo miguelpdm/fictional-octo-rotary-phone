@@ -335,6 +335,169 @@
       text-align: center;
     }
 
+    .classifier-card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 0.95rem;
+      box-shadow: var(--card-shadow);
+    }
+
+    .classifier-hint {
+      color: var(--muted);
+      font-size: 0.88rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .classifier-label {
+      display: block;
+      font-size: 0.78rem;
+      font-weight: 600;
+      margin-bottom: 0.4rem;
+    }
+
+    .classifier-input {
+      width: 100%;
+      min-height: 6.2rem;
+      resize: vertical;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: var(--bg);
+      color: var(--text);
+      padding: 0.75rem 0.85rem;
+      font: inherit;
+      line-height: 1.4;
+    }
+
+    .classifier-input:focus {
+      outline: 2px solid color-mix(in srgb, var(--blue) 55%, transparent);
+      outline-offset: 1px;
+    }
+
+    .example-row {
+      display: flex;
+      gap: 0.45rem;
+      overflow-x: auto;
+      margin: 0.65rem 0 0.85rem;
+      padding-bottom: 0.15rem;
+      scrollbar-width: none;
+    }
+
+    .example-row::-webkit-scrollbar { display: none; }
+
+    .example-chip {
+      border: 1px solid var(--line);
+      background: var(--panel);
+      color: var(--muted);
+      border-radius: 999px;
+      padding: 0.35rem 0.7rem;
+      font-size: 0.78rem;
+      cursor: pointer;
+      flex: 0 0 auto;
+    }
+
+    .example-chip:hover { color: var(--text); }
+
+    .classify-btn {
+      width: 100%;
+      border: 0;
+      background: var(--blue);
+      color: #fff;
+      border-radius: 12px;
+      padding: 0.7rem 0.9rem;
+      font-size: 0.95rem;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    .classify-btn:active { transform: scale(0.99); }
+    .classify-btn:disabled { opacity: 0.65; cursor: wait; }
+
+    .result-panel {
+      margin-top: 0.9rem;
+      border-top: 1px solid var(--line);
+      padding-top: 0.85rem;
+    }
+
+    .result-top {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 0.65rem;
+      margin-bottom: 0.7rem;
+    }
+
+    .result-category {
+      font-size: 1.2rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .result-confidence {
+      font-size: 0.82rem;
+      color: var(--muted);
+      margin-top: 0.15rem;
+    }
+
+    .type-badge {
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      border-radius: 999px;
+      padding: 0.22rem 0.55rem;
+      white-space: nowrap;
+    }
+
+    .type-badge.gasto {
+      background: var(--impact-high-bg);
+      color: var(--impact-high-text);
+    }
+
+    .type-badge.ingreso {
+      background: color-mix(in srgb, var(--green) 16%, transparent);
+      color: var(--green);
+    }
+
+    .score-list {
+      display: grid;
+      gap: 0.45rem;
+    }
+
+    .score-row {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 0.45rem;
+      align-items: center;
+      font-size: 0.8rem;
+    }
+
+    .score-name { color: var(--text); }
+    .score-value { color: var(--muted); font-variant-numeric: tabular-nums; }
+
+    .score-bar {
+      grid-column: 1 / -1;
+      height: 6px;
+      border-radius: 999px;
+      background: var(--line);
+      overflow: hidden;
+    }
+
+    .score-bar > span {
+      display: block;
+      height: 100%;
+      background: var(--blue);
+      border-radius: inherit;
+    }
+
+    .classifier-note {
+      margin-top: 0.75rem;
+      font-size: 0.75rem;
+      color: var(--muted);
+    }
+
+    .classifier-note a { color: var(--blue); }
+
     @media (min-width: 640px) {
       .indices { grid-template-columns: repeat(3, minmax(0, 1fr)); }
     }
@@ -359,6 +522,19 @@
     <section>
       <h2 class="section-title">Índices principales</h2>
       <div class="indices" id="indices"></div>
+    </section>
+
+    <section>
+      <h2 class="section-title">Clasificar movimiento bancario</h2>
+      <div class="classifier-card">
+        <p class="classifier-hint">Pega el concepto de un extracto y lo enviamos a classifier.dev para asignarle categoría y si es gasto o ingreso.</p>
+        <label class="classifier-label" for="bankText">Texto del movimiento</label>
+        <textarea id="bankText" class="classifier-input" maxlength="4000" placeholder="Ej. COMPRA TARJETA MERCADONA MADRID 45,23 EUR"></textarea>
+        <div class="example-row" id="exampleRow"></div>
+        <button class="classify-btn" id="classifyBtn" type="button">Clasificar movimiento</button>
+        <div class="result-panel" id="classifyResult" hidden></div>
+        <p class="classifier-note">Clasificación orientativa con <a href="https://classifier.dev/" target="_blank" rel="noopener noreferrer">classifier.dev</a>. No envíes datos personales ni números de cuenta reales.</p>
+      </div>
     </section>
 
     <section>
@@ -541,6 +717,146 @@
     themeBtn.addEventListener('click', toggleTheme);
     applyTheme(document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light');
     loadData();
+
+    const BANK_CATEGORIES = [
+      'Alimentación',
+      'Transporte',
+      'Vivienda',
+      'Ocio',
+      'Salud',
+      'Educación',
+      'Nómina',
+      'Transferencia',
+      'Impuestos',
+      'Seguros',
+      'Suscripciones',
+      'Compras',
+      'Cajero',
+      'Comisiones',
+      'Otros'
+    ];
+
+    const BANK_EXAMPLES = [
+      { label: 'Supermercado', text: 'COMPRA TARJETA MERCADONA MADRID 45,23 EUR' },
+      { label: 'Nómina', text: 'ABONO NOMINA EMPRESA SL' },
+      { label: 'Netflix', text: 'RECIBO NETFLIX INTERNATIONAL B.V.' },
+      { label: 'Gasolina', text: 'REPSOL ESTACION SERVICIO 52,10 EUR' },
+      { label: 'Cajero', text: 'RETIRADA EFECTIVO CAJERO AUTOMATICO 100,00 EUR' }
+    ];
+
+    const bankTextEl = document.getElementById('bankText');
+    const classifyBtn = document.getElementById('classifyBtn');
+    const classifyResultEl = document.getElementById('classifyResult');
+    const exampleRowEl = document.getElementById('exampleRow');
+
+    exampleRowEl.innerHTML = BANK_EXAMPLES.map((example) => (
+      `<button class="example-chip" type="button" data-example="${encodeURIComponent(example.text)}">${example.label}</button>`
+    )).join('');
+
+    exampleRowEl.addEventListener('click', (event) => {
+      const chip = event.target.closest('[data-example]');
+      if (!chip) return;
+      bankTextEl.value = decodeURIComponent(chip.dataset.example);
+      bankTextEl.focus();
+    });
+
+    function formatPercent(value) {
+      if (value == null || Number.isNaN(value)) return 'sin puntuación';
+      return `${Math.round(value * 100)}%`;
+    }
+
+    function renderClassifyState(message) {
+      classifyResultEl.hidden = false;
+      classifyResultEl.innerHTML = `<div class="state">${message}</div>`;
+    }
+
+    function renderClassifyResult(text, categoria, tipo) {
+      const scores = categoria.scores || {};
+      const ranked = Object.entries(scores)
+        .sort((a, b) => (b[1] || 0) - (a[1] || 0))
+        .slice(0, 5);
+
+      const typeClass = tipo.label === 'Ingreso' ? 'ingreso' : 'gasto';
+      const scoreHtml = ranked.map(([name, score]) => `
+        <div class="score-row">
+          <span class="score-name">${name}</span>
+          <span class="score-value">${formatPercent(score)}</span>
+          <div class="score-bar"><span style="width: ${Math.max(0, Math.min(100, (score || 0) * 100))}%"></span></div>
+        </div>
+      `).join('');
+
+      classifyResultEl.hidden = false;
+      classifyResultEl.innerHTML = `
+        <div class="result-top">
+          <div>
+            <div class="result-category">${categoria.label || 'Sin categoría'}</div>
+            <div class="result-confidence">Confianza ${formatPercent(categoria.confidence)}</div>
+          </div>
+          <span class="type-badge ${typeClass}">${tipo.label || 'Tipo n/d'}</span>
+        </div>
+        <div class="score-list">${scoreHtml}</div>
+      `;
+    }
+
+    async function classifyMovement() {
+      const text = bankTextEl.value.trim();
+      if (!text) {
+        renderClassifyState('Escribe o pega el texto de un movimiento para clasificarlo.');
+        bankTextEl.focus();
+        return;
+      }
+
+      classifyBtn.disabled = true;
+      renderClassifyState('Clasificando con classifier.dev…');
+
+      try {
+        const response = await fetch('https://classifier.dev/v1/classify', {
+          method: 'POST',
+          headers: {
+            'content-type': 'application/json',
+            accept: 'application/json'
+          },
+          body: JSON.stringify({
+            items: [text],
+            dimensions: {
+              categoria: {
+                labels: BANK_CATEGORIES,
+                instructions: 'Clasifica el concepto de un extracto bancario en español. Alimentación: supermercados, panaderías, restaurantes y comida (Mercadona, Carrefour, Lidl, Dia). Compras: ropa, electrónica, Amazon u otras tiendas que no sean alimentación. Transporte: gasolina, parking, taxi, transporte público. Vivienda: alquiler, hipoteca, luz, agua, gas, comunidad. Ocio: cine, viajes, ocio. Salud: farmacia, médico. Educación: colegios y cursos. Nómina: salario cobrado. Transferencia: Bizum o transferencias entre personas o cuentas. Impuestos: Hacienda, IBI, tasas. Seguros: primas. Suscripciones: Netflix, Spotify u otras cuotas recurrentes. Cajero: retirada de efectivo. Comisiones: comisiones del banco. Otros: si ninguna encaja.'
+              },
+              tipo: {
+                labels: ['Gasto', 'Ingreso'],
+                instructions: 'Ingreso si entra dinero (nómina, abono, transferencia recibida, devolución). Gasto si sale dinero (compra, recibo, comisión, transferencia enviada, cajero).'
+              }
+            }
+          })
+        });
+
+        const payload = await response.json().catch(() => null);
+        if (!response.ok) {
+          const detail = payload && payload.error ? payload.error : `HTTP ${response.status}`;
+          throw new Error(detail);
+        }
+
+        const dimensions = payload && payload.results && payload.results[0] && payload.results[0].dimensions;
+        if (!dimensions || !dimensions.categoria) {
+          throw new Error('La API no devolvió una categoría.');
+        }
+
+        renderClassifyResult(text, dimensions.categoria, dimensions.tipo || {});
+      } catch (error) {
+        renderClassifyState(`No se pudo clasificar el movimiento. ${error.message}`);
+      } finally {
+        classifyBtn.disabled = false;
+      }
+    }
+
+    classifyBtn.addEventListener('click', classifyMovement);
+    bankTextEl.addEventListener('keydown', (event) => {
+      if ((event.metaKey || event.ctrlKey) && event.key === 'Enter') {
+        event.preventDefault();
+        classifyMovement();
+      }
+    });
   </script>
 </body>
 </html>
