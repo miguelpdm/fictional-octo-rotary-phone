@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T17:52:11.214948+00:00",
+  "updatedAt": "2026-09-22T20:44:48.439146+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7764.14,
-      "change": 113.64000000000033,
-      "changePct": 1.4853931115613401,
+      "price": 7764.64,
+      "change": 114.14000000000033,
+      "changePct": 1.4919286321155523,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 27208.248,
-      "change": 685.7079999999987,
-      "changePct": 2.5853783234938987,
+      "price": 27244.277,
+      "change": 721.7369999999974,
+      "changePct": 2.7212212706626038,
       "currency": "USD"
     },
     {
@@ -44,102 +44,105 @@
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.26,
-      "change": -0.6099999999999994,
-      "changePct": -4.102219233355746,
+      "price": 14.21,
+      "change": -0.6599999999999984,
+      "changePct": -4.438466711499653,
       "currency": "USD"
     }
   ],
   "news": [
     {
-      "id": "22545933-11a1-3665-910e-9ad539f2aeed",
-      "title": "WSP announces decision to withdraw proposed offer for Arcadis N.V.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wsp-announces-decision-withdraw-proposed-174700557.html",
-      "publisher": "GlobeNewswire",
-      "time": 1790099220,
+      "id": "5bb1cd52-b295-3c23-b32b-276a9afac771",
+      "title": "KBRA Assigns Preliminary Ratings to PowerPay Issuance Trust 2026-1",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kbra-assigns-preliminary-ratings-powerpay-204300465.html",
+      "publisher": "Business Wire",
+      "time": 1790109780,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "6cbe42a8-9115-304e-bd93-c470a08b1bb6",
-      "title": "Clarkson University Ranked Among Nation's Top 50 Best Value Schools in U.S. News Rankings",
-      "link": "https://finance.yahoo.com/small-business/articles/clarkson-university-ranked-among-nations-174700966.html",
-      "publisher": "PR Newswire",
-      "time": 1790099220,
+      "id": "cfd25c63-44e3-3997-8a9c-47b7b1d450bf",
+      "title": "Bloom Energy vs. Eos Energy Enterprises: Which Energy Storage Stock Is a Better Buy in 2026?",
+      "link": "https://finance.yahoo.com/m/cfd25c63-44e3-3997-8a9c-47b7b1d450bf/bloom-energy-vs.-eos-energy.html",
+      "publisher": "Motley Fool",
+      "time": 1790109601,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "5bda1267-1b91-3e7e-9a87-5308199e3e83",
-      "title": "TEAMSTERS EXTEND PICKET LINES TO ADDITIONAL COCA-COLA FACILITIES",
-      "link": "https://finance.yahoo.com/small-business/articles/teamsters-extend-picket-lines-additional-174600611.html",
-      "publisher": "PR Newswire",
-      "time": 1790099160,
+      "id": "dd8446c6-5c52-3d58-b001-e91e555d0cd5",
+      "title": "Retiring Soon? Why High-Yield ETFs Are Just as Important as Social Security",
+      "link": "https://finance.yahoo.com/m/dd8446c6-5c52-3d58-b001-e91e555d0cd5/retiring-soon%3F-why-high-yield.html",
+      "publisher": "24/7 Wall St.",
+      "time": 1790109543,
       "impact": "low",
       "tags": []
     },
     {
-      "id": "678487d3-2555-33e6-a15e-89c4f84368c7",
-      "title": "ROMTech® Expands Rehabilitation Access for Rural Veterans--At Home",
-      "link": "https://finance.yahoo.com/healthcare/articles/romtech-expands-rehabilitation-access-rural-174600255.html",
-      "publisher": "PR Newswire",
-      "time": 1790099160,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "82856905-7e49-37fd-ab9d-b444300d32f2",
-      "title": "Extreme Weather Survivors Launches \"Stolen Summers\" Tour Ahead of Midterm Elections",
-      "link": "https://finance.yahoo.com/economy/policy/articles/extreme-weather-survivors-launches-stolen-174600274.html",
-      "publisher": "PR Newswire",
-      "time": 1790099160,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "bd500235-07b2-3501-b9fc-570f19fbbf97",
-      "title": "Nvidia-Backed Startup Tests Investor Appetite",
-      "link": "https://finance.yahoo.com/healthcare/articles/nvidia-backed-startup-tests-investor-174554015.html",
-      "publisher": "GuruFocus.com",
-      "time": 1790099154,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "7752bc41-4230-3f9e-b916-d1dc6f105d22",
-      "title": "MongoDB investors have one number to watch",
-      "link": "https://finance.yahoo.com/m/7752bc41-4230-3f9e-b916-d1dc6f105d22/mongodb-investors-have-one.html",
-      "publisher": "TheStreet",
-      "time": 1790099139,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "f3f7343e-f860-3204-94a5-038db3a812ba",
-      "title": "Goldman Sachs Just Raised the Bar for S&P 500",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-just-raised-bar-174506730.html",
-      "publisher": "GuruFocus.com",
-      "time": 1790099106,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "be47a7cf-f823-3f2c-a184-e938be740fa6",
-      "title": "Revenue Optics Names Prat Patibandla Director of Growth Marketing",
-      "link": "https://finance.yahoo.com/small-business/articles/revenue-optics-names-prat-patibandla-174500374.html",
-      "publisher": "PR Newswire",
-      "time": 1790099100,
-      "impact": "low",
+      "id": "7b77d4eb-c9fd-372c-bd02-e00202615cdc",
+      "title": "LPL Financial, Northern Trust, Ameriprise Financial, Morgan Stanley, and Paymentus Stocks Trade Down, What You Need To Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lpl-financial-northern-trust-ameriprise-203746620.html",
+      "publisher": "StockStory",
+      "time": 1790109466,
+      "impact": "medium",
       "tags": [
-        "macro"
+        "geo"
       ]
     },
     {
-      "id": "63acd826-307f-3ef7-9d43-c85b865f28cb",
-      "title": "Moldova to impose 60-day energy and water emergency due to drought and rising costs",
-      "link": "https://finance.yahoo.com/m/63acd826-307f-3ef7-9d43-c85b865f28cb/moldova-to-impose-60-day.html",
-      "publisher": "Associated Press",
-      "time": 1790099068,
+      "id": "8b8ead41-a538-3d07-9dba-61b5ecbf2275",
+      "title": "Google Appeals $425M Privacy Verdict",
+      "link": "https://finance.yahoo.com/m/8b8ead41-a538-3d07-9dba-61b5ecbf2275/google-appeals-%24425m-privacy.html",
+      "publisher": "MediaPost",
+      "time": 1790109396,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "73f1da75-d78d-3dfb-83f9-9deb508b7c65",
+      "title": "Trump signs security deal with Greenland, Denmark at UN",
+      "link": "https://finance.yahoo.com/m/73f1da75-d78d-3dfb-83f9-9deb508b7c65/trump-signs-security-deal.html",
+      "publisher": "AFP",
+      "time": 1790109345,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "519d0f0a-35f1-307a-a428-bbc1c5d2617a",
+      "title": "US Equity Markets Mixed After Data Shows Cooling Trend, Crude Oil Price Drops",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-mixed-data-203513322.html",
+      "publisher": "MT Newswires",
+      "time": 1790109313,
+      "impact": "medium",
+      "tags": [
+        "macro",
+        "results"
+      ]
+    },
+    {
+      "id": "3aab7f5d-44f7-3d7e-805b-9104b2da6282",
+      "title": "Novo Nordisk Has a Fresh New Name -- but It Still Faces the Same Old Problems",
+      "link": "https://finance.yahoo.com/m/3aab7f5d-44f7-3d7e-805b-9104b2da6282/novo-nordisk-has-a-fresh-new.html",
+      "publisher": "Motley Fool",
+      "time": 1790109300,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "56bed9ff-0bae-3a54-a1c5-b8e0731c13db",
+      "title": "Sun Communities Completes Sale of Park Holidays",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sun-communities-completes-sale-park-203406227.html",
+      "publisher": "MT Newswires",
+      "time": 1790109246,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "20bc8daa-0246-3bbc-a924-310e06d56f4c",
+      "title": "J.Jill Insider Sold Shares Worth $582,000, According to a Recent SEC Filing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/j-jill-insider-sold-shares-203359084.html",
+      "publisher": "MT Newswires",
+      "time": 1790109239,
       "impact": "low",
       "tags": []
     }
