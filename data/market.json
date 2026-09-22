@@ -1,56 +1,149 @@
 {
-  "updatedAt": "2026-09-22T13:32:29.055013+00:00",
+  "updatedAt": "2026-09-22T17:52:11.214948+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19939.3,
-      "change": 214.89999999999782,
-      "changePct": 1.0895134959745179,
+      "price": 19754.1,
+      "change": 29.69999999999709,
+      "changePct": 0.1505749224310858,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7779.46,
-      "change": 128.96000000000004,
-      "changePct": 1.6856414613423965,
+      "price": 7764.14,
+      "change": 113.64000000000033,
+      "changePct": 1.4853931115613401,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 27212.684,
-      "change": 690.1440000000002,
-      "changePct": 2.602103720081109,
+      "price": 27208.248,
+      "change": 685.7079999999987,
+      "changePct": 2.5853783234938987,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25779.93,
-      "change": 475.869999999999,
-      "changePct": 1.880607301753153,
+      "price": 25578.85,
+      "change": 274.78999999999724,
+      "changePct": 1.0859522147829133,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6356.14,
-      "change": 37.94000000000051,
-      "changePct": 0.6004874806115746,
+      "price": 6324.72,
+      "change": 6.520000000000437,
+      "changePct": 0.10319394764332304,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.63,
-      "change": -0.23999999999999844,
-      "changePct": -1.6139878950907764,
+      "price": 14.26,
+      "change": -0.6099999999999994,
+      "changePct": -4.102219233355746,
       "currency": "USD"
     }
   ],
-  "news": [],
+  "news": [
+    {
+      "id": "22545933-11a1-3665-910e-9ad539f2aeed",
+      "title": "WSP announces decision to withdraw proposed offer for Arcadis N.V.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wsp-announces-decision-withdraw-proposed-174700557.html",
+      "publisher": "GlobeNewswire",
+      "time": 1790099220,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "6cbe42a8-9115-304e-bd93-c470a08b1bb6",
+      "title": "Clarkson University Ranked Among Nation's Top 50 Best Value Schools in U.S. News Rankings",
+      "link": "https://finance.yahoo.com/small-business/articles/clarkson-university-ranked-among-nations-174700966.html",
+      "publisher": "PR Newswire",
+      "time": 1790099220,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "5bda1267-1b91-3e7e-9a87-5308199e3e83",
+      "title": "TEAMSTERS EXTEND PICKET LINES TO ADDITIONAL COCA-COLA FACILITIES",
+      "link": "https://finance.yahoo.com/small-business/articles/teamsters-extend-picket-lines-additional-174600611.html",
+      "publisher": "PR Newswire",
+      "time": 1790099160,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "678487d3-2555-33e6-a15e-89c4f84368c7",
+      "title": "ROMTech® Expands Rehabilitation Access for Rural Veterans--At Home",
+      "link": "https://finance.yahoo.com/healthcare/articles/romtech-expands-rehabilitation-access-rural-174600255.html",
+      "publisher": "PR Newswire",
+      "time": 1790099160,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "82856905-7e49-37fd-ab9d-b444300d32f2",
+      "title": "Extreme Weather Survivors Launches \"Stolen Summers\" Tour Ahead of Midterm Elections",
+      "link": "https://finance.yahoo.com/economy/policy/articles/extreme-weather-survivors-launches-stolen-174600274.html",
+      "publisher": "PR Newswire",
+      "time": 1790099160,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "bd500235-07b2-3501-b9fc-570f19fbbf97",
+      "title": "Nvidia-Backed Startup Tests Investor Appetite",
+      "link": "https://finance.yahoo.com/healthcare/articles/nvidia-backed-startup-tests-investor-174554015.html",
+      "publisher": "GuruFocus.com",
+      "time": 1790099154,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "7752bc41-4230-3f9e-b916-d1dc6f105d22",
+      "title": "MongoDB investors have one number to watch",
+      "link": "https://finance.yahoo.com/m/7752bc41-4230-3f9e-b916-d1dc6f105d22/mongodb-investors-have-one.html",
+      "publisher": "TheStreet",
+      "time": 1790099139,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "f3f7343e-f860-3204-94a5-038db3a812ba",
+      "title": "Goldman Sachs Just Raised the Bar for S&P 500",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-just-raised-bar-174506730.html",
+      "publisher": "GuruFocus.com",
+      "time": 1790099106,
+      "impact": "low",
+      "tags": []
+    },
+    {
+      "id": "be47a7cf-f823-3f2c-a184-e938be740fa6",
+      "title": "Revenue Optics Names Prat Patibandla Director of Growth Marketing",
+      "link": "https://finance.yahoo.com/small-business/articles/revenue-optics-names-prat-patibandla-174500374.html",
+      "publisher": "PR Newswire",
+      "time": 1790099100,
+      "impact": "low",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "id": "63acd826-307f-3ef7-9d43-c85b865f28cb",
+      "title": "Moldova to impose 60-day energy and water emergency due to drought and rising costs",
+      "link": "https://finance.yahoo.com/m/63acd826-307f-3ef7-9d43-c85b865f28cb/moldova-to-impose-60-day.html",
+      "publisher": "Associated Press",
+      "time": 1790099068,
+      "impact": "low",
+      "tags": []
+    }
+  ],
   "errors": {
     "indices": [],
     "news": []
