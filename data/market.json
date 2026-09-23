@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-23T07:08:56.122395+00:00",
+  "updatedAt": "2026-09-23T12:51:16.075392+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19754.1,
-      "change": 29.69999999999709,
-      "changePct": 0.1505749224310858,
+      "price": 19657.4,
+      "change": -96.69999999999709,
+      "changePct": -0.48951863157520265,
       "currency": "EUR"
     },
     {
@@ -28,128 +28,29 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25578.85,
-      "change": 3.8400000000001455,
-      "changePct": 0.01501465688576523,
+      "price": 25395.28,
+      "change": -179.72999999999956,
+      "changePct": -0.7027563234579364,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6324.72,
-      "change": 6.520000000000437,
-      "changePct": 0.10319394764332304,
+      "price": 6297.57,
+      "change": -27.150000000000546,
+      "changePct": -0.42926801502676076,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 14.21,
-      "change": 0.0,
-      "changePct": 0.0,
+      "price": 14.29,
+      "change": 0.0799999999999983,
+      "changePct": 0.5629838142153293,
       "currency": "USD"
     }
   ],
-  "news": [
-    {
-      "id": "16b209e6-b800-3642-a5b0-8fac1c419b00",
-      "title": "How Berlin’s housing shortage is reshaping hotel development",
-      "link": "https://finance.yahoo.com/m/16b209e6-b800-3642-a5b0-8fac1c419b00/how-berlin%E2%80%99s-housing-shortage.html",
-      "publisher": "Hotel Management Network",
-      "time": 1790147079,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "e3824d07-bb40-3d15-85fa-6b713c6986dd",
-      "title": "British retailers face new employment rules from October 2026",
-      "link": "https://finance.yahoo.com/m/e3824d07-bb40-3d15-85fa-6b713c6986dd/british-retailers-face-new.html",
-      "publisher": "Retail Insight Network",
-      "time": 1790147075,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "797ac7c6-8791-334c-a7cd-5f39151f3649",
-      "title": "UK Plastic Packaging Tax: what packaging is taxable?",
-      "link": "https://finance.yahoo.com/m/797ac7c6-8791-334c-a7cd-5f39151f3649/uk-plastic-packaging-tax%3A.html",
-      "publisher": "Packaging Gateway",
-      "time": 1790147072,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "67213892-3e2b-36dd-9aa0-1e6ff3ee5c30",
-      "title": "Taiwan is watching closely as Xi and Trump meet and hopes US will keep up its arms sales",
-      "link": "https://finance.yahoo.com/m/67213892-3e2b-36dd-9aa0-1e6ff3ee5c30/taiwan-is-watching-closely-as.html",
-      "publisher": "Associated Press",
-      "time": 1790146985,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "b865257d-b2a6-3ffb-b8e2-cdd8488f2643",
-      "title": "Choice Equity Broking Launches Trader Mode on Choice FinX, Bringing Advanced Execution Tools to Active Traders",
-      "link": "https://finance.yahoo.com/markets/options/articles/choice-equity-broking-launches-trader-070300411.html",
-      "publisher": "PR Newswire",
-      "time": 1790146980,
-      "impact": "medium",
-      "tags": [
-        "geo"
-      ]
-    },
-    {
-      "id": "5c02dfe7-06db-3902-b3e5-2ff27e51cb06",
-      "title": "U.S. Treasury, Eurozone Bond Yields Fall on Mideast Diplomacy Prospect",
-      "link": "https://finance.yahoo.com/m/5c02dfe7-06db-3902-b3e5-2ff27e51cb06/u.s.-treasury%2C-eurozone-bond.html",
-      "publisher": "The Wall Street Journal",
-      "time": 1790146920,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "070bf980-0976-34cf-b8da-fac4d5214f16",
-      "title": "Cambodia no 'safe haven' for cyberscams, PM says",
-      "link": "https://finance.yahoo.com/m/070bf980-0976-34cf-b8da-fac4d5214f16/cambodia-no-%27safe-haven%27-for.html",
-      "publisher": "AFP",
-      "time": 1790146881,
-      "impact": "low",
-      "tags": []
-    },
-    {
-      "id": "0a7a1f12-cc28-3bf8-8a6c-462f063ed3de",
-      "title": "KMD Brands Ltd (ASX:KMD) (FY 2026) Earnings Call Highlights: Sales Growth and Cost Savings ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kmd-brands-ltd-asx-kmd-070020326.html",
-      "publisher": "GuruFocus.com",
-      "time": 1790146820,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "0644f1ef-e2eb-3688-a6c0-d54aa74c039d",
-      "title": "Clover Corp Ltd (ASX:CLV) (FY 2026) Earnings Call Highlights: Record Revenue, 50% Profit Surge, ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/clover-corp-ltd-asx-clv-070019773.html",
-      "publisher": "GuruFocus.com",
-      "time": 1790146819,
-      "impact": "medium",
-      "tags": [
-        "macro",
-        "results"
-      ]
-    },
-    {
-      "id": "13ca5e65-8986-3a1d-88f7-392a48654589",
-      "title": "Dollar Jumps on U.S. Rate-Rise Bets",
-      "link": "https://finance.yahoo.com/m/13ca5e65-8986-3a1d-88f7-392a48654589/dollar-jumps-on-u.s..html",
-      "publisher": "The Wall Street Journal",
-      "time": 1790146800,
-      "impact": "low",
-      "tags": []
-    }
-  ],
+  "news": [],
   "errors": {
     "indices": [],
     "news": []
