@@ -1,52 +1,52 @@
 {
-  "updatedAt": "2026-10-01T13:39:44.738103+00:00",
+  "updatedAt": "2026-10-01T19:11:29.648526+00:00",
   "indices": [
     {
       "name": "IBEX 35",
       "symbol": "^IBEX",
-      "price": 19259.7,
-      "change": -166.5,
-      "changePct": -0.85708990950366,
+      "price": 19005.3,
+      "change": -420.90000000000146,
+      "changePct": -2.16666151897953,
       "currency": "EUR"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7677.27,
-      "change": 6.430000000000291,
-      "changePct": 0.08382393584014645,
+      "price": 7674.65,
+      "change": 3.8099999999994907,
+      "changePct": 0.049668615171213196,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26985.25,
-      "change": 187.70999999999913,
-      "changePct": 0.70047474506988,
+      "price": 26932.264,
+      "change": 134.72399999999834,
+      "changePct": 0.5027476402684662,
       "currency": "USD"
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "price": 25146.35,
-      "change": -252.86000000000058,
-      "changePct": -0.995542774755595,
+      "price": 24939.35,
+      "change": -459.8600000000006,
+      "changePct": -1.8105287526659317,
       "currency": "EUR"
     },
     {
       "name": "Euro Stoxx 50",
       "symbol": "^STOXX50E",
-      "price": 6229.64,
-      "change": -39.38000000000011,
-      "changePct": -0.6281683580527755,
+      "price": 6175.45,
+      "change": -93.57000000000062,
+      "changePct": -1.4925777872777661,
       "currency": "EUR"
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 16.51,
-      "change": 0.1700000000000017,
-      "changePct": 1.0403916768665955,
+      "price": 16.37,
+      "change": 0.030000000000001137,
+      "changePct": 0.18359853121175726,
       "currency": "USD"
     }
   ],
