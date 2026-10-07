@@ -179,10 +179,37 @@ function signedPct(pct) {
   return sign + nf(pct, 2) + " %";
 }
 
-function signedAbs(value, digits) {
+function nfFlex(value, minD, maxD) {
+  var n = Number(value);
+  if (!isFinite(n)) return "n/d";
+  try {
+    return n.toLocaleString("es-ES", {
+      minimumFractionDigits: minD,
+      maximumFractionDigits: maxD
+    });
+  } catch (err) {
+    var s = n.toFixed(maxD);
+    var dot = s.indexOf(".");
+    if (dot !== -1) {
+      while (s.length - dot - 1 > minD && s.slice(-1) === "0") {
+        s = s.slice(0, -1);
+      }
+    }
+    return s.replace(".", ",");
+  }
+}
+
+function absChangeDigits(price) {
+  var a = Math.abs(Number(price));
+  if (!isFinite(a) || a < 1) return 4;
+  if (a < 10) return 3;
+  return 2;
+}
+
+function signedAbs(value, price) {
   if (value == null || isNaN(value)) return "n/d";
   var sign = value > 0 ? "+" : "";
-  return sign + nf(value, digits);
+  return sign + nfFlex(value, 2, absChangeDigits(price));
 }
 
 function absFromPct(price, pct) {
@@ -516,64 +543,104 @@ function rowChangeAbs(row) {
   return absFromPct(row.price, row.changePct);
 }
 
+function screenWidth() {
+  try {
+    if (typeof Device !== "undefined" && Device.screenSize) {
+      return Device.screenSize().width;
+    }
+  } catch (err) {}
+  return 390;
+}
+
+function familySize(family) {
+  var w = screenWidth();
+  var small = 158;
+  var medW = 338;
+  var medH = 158;
+  var largeH = 354;
+  if (w <= 360) {
+    small = 141;
+    medW = 292;
+    medH = 141;
+    largeH = 311;
+  } else if (w <= 375) {
+    small = 148;
+    medW = 321;
+    medH = 148;
+    largeH = 324;
+  } else if (w <= 393) {
+    small = 158;
+    medW = 338;
+    medH = 158;
+    largeH = 354;
+  } else if (w <= 428) {
+    small = 170;
+    medW = 364;
+    medH = 170;
+    largeH = 382;
+  } else {
+    small = 170;
+    medW = 364;
+    medH = 170;
+    largeH = 382;
+  }
+  if (family === "small") return { w: small, h: small };
+  if (family === "medium") return { w: medW, h: medH };
+  return { w: medW, h: largeH };
+}
+
 function layoutForFamily(family, nHoldings) {
   var n = nHoldings > 0 ? nHoldings : 0;
   if (family === "small") {
     return {
       cols: 1,
       count: Math.min(n, 4),
-      colW: 142,
-      pad: 8,
+      padY: 8,
+      padX: 10,
       gutter: 0,
-      tickerSize: 11,
-      metaSize: 10,
-      triSize: 8,
-      cellGap: 1,
-      showSep: false
+      tickerSize: 13,
+      metaSize: 12,
+      absSize: 11,
+      triSize: 10,
+      cellGap: 1
     };
   }
   if (family === "medium") {
     return {
       cols: 2,
       count: Math.min(n, 8),
-      colW: 155,
-      pad: 8,
-      gutter: 10,
-      tickerSize: 11,
-      metaSize: 10,
-      triSize: 8,
-      cellGap: 1,
-      showSep: false
+      padY: 8,
+      padX: 10,
+      gutter: 16,
+      tickerSize: 13,
+      metaSize: 12,
+      absSize: 11,
+      triSize: 10,
+      cellGap: 1
     };
   }
-  var cols = 2;
-  var rows = n > 0 ? Math.ceil(n / cols) : 1;
-  var dense = rows >= 8;
   return {
-    cols: cols,
+    cols: 2,
     count: n,
-    colW: 155,
-    pad: dense ? 6 : 8,
-    gutter: dense ? 8 : 10,
-    tickerSize: 11,
-    metaSize: 10,
-    triSize: 8,
-    cellGap: dense ? 0 : 1,
-    showSep: !dense
+    padY: 8,
+    padX: 10,
+    gutter: 16,
+    tickerSize: 13,
+    metaSize: 12,
+    absSize: 11,
+    triSize: 10,
+    cellGap: 1
   };
 }
 
-function addSeparator(parent, width) {
-  parent.addSpacer(3);
-  var line = parent.addStack();
-  line.backgroundColor = color(COLORS.sep, COLORS.sepAlpha);
-  line.size = new Size(width, 1);
-  parent.addSpacer(3);
-}
-
-function addHoldingCell(parent, row, spec) {
+function addHoldingCell(parent, row, spec, colW) {
   var cell = parent.addStack();
   cell.layoutVertically();
+  if (colW) {
+    try {
+      cell.size = new Size(colW, spec.rowH);
+    } catch (err) {}
+  }
 
   var l1 = cell.addStack();
   l1.layoutHorizontally();
@@ -581,12 +648,12 @@ function addHoldingCell(parent, row, spec) {
   var tri = l1.addText(dirTriangle(row.changePct));
   tri.font = Font.systemFont(spec.triSize);
   tri.textColor = dirColor(row.changePct);
-  l1.addSpacer(2);
+  l1.addSpacer(3);
   var ticker = l1.addText(row.symbol);
   ticker.font = Font.boldSystemFont(spec.tickerSize);
   ticker.textColor = color(COLORS.text);
   ticker.lineLimit = 1;
-  ticker.minimumScaleFactor = 0.65;
+  ticker.minimumScaleFactor = 0.7;
   l1.addSpacer();
   var pct = l1.addText(signedPct(row.changePct));
   pct.font = Font.systemFont(spec.metaSize);
@@ -604,8 +671,8 @@ function addHoldingCell(parent, row, spec) {
   price.lineLimit = 1;
   l2.addSpacer();
   var absVal = rowChangeAbs(row);
-  var abs = l2.addText(signedAbs(absVal, priceDigits(Math.abs(absVal || 0))));
-  abs.font = Font.systemFont(spec.metaSize);
+  var abs = l2.addText(signedAbs(absVal, row.price));
+  abs.font = Font.systemFont(spec.absSize);
   abs.textColor = dirColor(row.changePct);
   abs.lineLimit = 1;
 }
@@ -613,47 +680,70 @@ function addHoldingCell(parent, row, spec) {
 function createWidget(family, data) {
   var ranked = sortByPct(data.rows || []);
   var spec = layoutForFamily(family, ranked.length);
+  var canvas = familySize(family);
+  var stale = footerText(data);
+  var footerH = stale ? 10 : 0;
+  var innerW = canvas.w - spec.padX * 2;
+  var innerH = canvas.h - spec.padY * 2 - footerH;
+  if (innerH < 80) innerH = 80;
+
   var widget = new ListWidget();
   widget.backgroundColor = color(COLORS.bg, COLORS.bgAlpha);
-  widget.setPadding(spec.pad, spec.pad, spec.pad, spec.pad);
+  widget.setPadding(spec.padY, spec.padX, spec.padY, spec.padX);
+  try {
+    widget.spacing = 0;
+  } catch (err) {}
   widget.url = PAGE_URL;
   var next = new Date();
   next.setMinutes(next.getMinutes() + REFRESH_MINUTES);
   widget.refreshAfterDate = next;
 
   var items = ranked.slice(0, spec.count);
-  var columns = [];
-  var c;
-  for (c = 0; c < spec.cols; c++) columns.push([]);
-  var i;
-  for (i = 0; i < items.length; i++) {
-    columns[i % spec.cols].push(items[i]);
+  var cols = spec.cols;
+  var rows = items.length ? Math.ceil(items.length / cols) : 0;
+  var colW = cols === 1 ? innerW : Math.floor((innerW - spec.gutter) / cols);
+  var rowH = rows ? Math.floor(innerH / rows) : innerH;
+  if (rowH < 24) rowH = 24;
+  spec.rowH = rowH;
+  if (rowH < 28) {
+    spec.tickerSize = 12;
+    spec.metaSize = 11;
+    spec.absSize = 11;
+    spec.triSize = 9;
   }
 
   var grid = widget.addStack();
-  grid.layoutHorizontally();
-  grid.topAlignContent();
+  grid.layoutVertically();
+  try {
+    grid.size = new Size(innerW, innerH);
+  } catch (err) {}
 
-  for (c = 0; c < spec.cols; c++) {
-    if (c > 0) grid.addSpacer(spec.gutter);
-    var col = grid.addStack();
-    col.layoutVertically();
-    var bucket = columns[c];
-    var r;
-    for (r = 0; r < bucket.length; r++) {
-      if (r > 0) {
-        if (spec.showSep) addSeparator(col, spec.colW);
-        else col.addSpacer(3);
+  var r;
+  var c;
+  for (r = 0; r < rows; r++) {
+    var line = grid.addStack();
+    line.layoutHorizontally();
+    line.centerAlignContent();
+    try {
+      line.size = new Size(innerW, rowH);
+    } catch (errLine) {}
+    for (c = 0; c < cols; c++) {
+      if (c > 0) line.addSpacer(spec.gutter);
+      var idx = r * cols + c;
+      if (idx < items.length) {
+        addHoldingCell(line, items[idx], spec, colW);
+      } else {
+        var ph = line.addStack();
+        try {
+          ph.size = new Size(colW, rowH);
+        } catch (err2) {}
       }
-      addHoldingCell(col, bucket[r], spec);
     }
   }
 
-  var stale = footerText(data);
   if (stale) {
-    widget.addSpacer(4);
     var foot = widget.addText(stale);
-    foot.font = Font.systemFont(7);
+    foot.font = Font.systemFont(8);
     foot.textColor = color(COLORS.muted);
     foot.lineLimit = 1;
   }
@@ -752,6 +842,9 @@ var __exports = {
   sortByPct: sortByPct,
   signedPct: signedPct,
   signedAbs: signedAbs,
+  nfFlex: nfFlex,
+  absChangeDigits: absChangeDigits,
+  familySize: familySize,
   absFromPct: absFromPct,
   dirTriangle: dirTriangle,
   layoutForFamily: layoutForFamily,
