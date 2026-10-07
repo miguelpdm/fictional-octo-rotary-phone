@@ -20,9 +20,11 @@ Si ves *Received timeout…* o un recuadro negro, vuelve a pegar este archivo y 
 
 ## Tamaños
 
-- **Pequeño:** cuántos suben/bajan, mejor y peor del día.
-- **Mediano:** los 6 mayores movimientos (por |%|).
-- **Grande:** tantas filas como quepan, ordenadas por % del día (sin grupos).
+Estilo tipo widget de Bolsa de iOS: dos líneas por valor (ticker + %, precio + cambio), sin nombres ni grupos. Orden: % del día, de mayor a menor (izquierda, luego derecha).
+
+- **Pequeño:** 3 filas × 1 columna.
+- **Mediano:** 3 filas × 2 columnas (6 valores).
+- **Grande:** 6 filas × 2 columnas (12 valores).
 
 ## Datos
 

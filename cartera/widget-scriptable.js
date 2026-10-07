@@ -9,22 +9,24 @@
 const PAGE_URL = "https://miguelpdm.github.io/fictional-octo-rotary-phone/cartera/";
 const CONFIG_URL = "https://miguelpdm.github.io/fictional-octo-rotary-phone/data/cartera.json";
 const TV_SCAN = "https://scanner.tradingview.com/global/scan";
-const TV_COLUMNS = ["close", "change", "currency"];
+const TV_COLUMNS = ["close", "change", "change_abs", "currency"];
 const TZ = "Europe/Madrid";
 const REFRESH_MINUTES = 15;
-const CACHE_NAME = "cartera-widget-cache-v2.json";
+const CACHE_NAME = "cartera-widget-cache-v3.json";
 const WIDGET_TV_TIMEOUT = 2;
 const APP_TV_TIMEOUT = 8;
 const APP_CONFIG_TIMEOUT = 6;
 const APP_YAHOO_TIMEOUT = 6;
 const COLORS = {
-  bg: "#0b0d10",
-  text: "#f4f6f8",
-  muted: "#8b95a5",
+  bg: "#1c1c1e",
+  bgAlpha: 0.82,
+  text: "#ffffff",
+  muted: "#8e8e93",
   green: "#30d158",
-  greenInk: "#04210c",
   red: "#ff453a",
-  flat: "#3a4150"
+  flat: "#8e8e93",
+  sep: "#ffffff",
+  sepAlpha: 0.14
 };
 
 const EMBEDDED_POSITIONS = [
@@ -174,7 +176,33 @@ function nf(value, digits) {
 function signedPct(pct) {
   if (pct == null || isNaN(pct)) return "n/d";
   var sign = pct > 0 ? "+" : "";
-  return sign + nf(pct, 2) + "%";
+  return sign + nf(pct, 2) + " %";
+}
+
+function signedAbs(value, digits) {
+  if (value == null || isNaN(value)) return "n/d";
+  var sign = value > 0 ? "+" : "";
+  return sign + nf(value, digits);
+}
+
+function absFromPct(price, pct) {
+  if (price == null || pct == null || !isFinite(price) || !isFinite(pct)) return null;
+  var prev = price / (1 + pct / 100);
+  if (!isFinite(prev)) return null;
+  return price - prev;
+}
+
+function dirClass(pct) {
+  if (pct > 0.005) return "up";
+  if (pct < -0.005) return "down";
+  return "flat";
+}
+
+function dirTriangle(pct) {
+  var d = dirClass(pct);
+  if (d === "up") return "▲";
+  if (d === "down") return "▼";
+  return "–";
 }
 
 function pad2(n) {
@@ -265,7 +293,8 @@ async function fetchTradingView(positions, opts) {
     map[item.s] = {
       price: close,
       changePct: d[1],
-      currency: d[2]
+      changeAbs: d[2],
+      currency: d[3]
     };
   }
   if (!Object.keys(map).length) throw new Error("TradingView vacío");
@@ -282,6 +311,7 @@ function quoteFromYahooChart(result) {
   return {
     price: price,
     changePct: changePct,
+    changeAbs: change,
     currency: meta.currency,
     name: meta.shortName || meta.symbol
   };
@@ -317,12 +347,16 @@ function mergeRows(positions, quoteMap, key) {
     if (!q || q.price == null) {
       out.push({ symbol: p.symbol, name: p.name, group: p.group, missing: true });
     } else {
+      var changeAbs = q.changeAbs;
+      if (changeAbs == null && q.change != null) changeAbs = q.change;
+      if (changeAbs == null) changeAbs = absFromPct(q.price, q.changePct);
       out.push({
         symbol: p.symbol,
         name: p.name || q.name,
         group: p.group,
         price: q.price,
         changePct: q.changePct,
+        changeAbs: changeAbs,
         currency: q.currency,
         missing: false
       });
@@ -461,124 +495,131 @@ function sortByPct(rows) {
 }
 
 function footerText(data) {
-  var when = new Date(data.at || Date.now());
-  if (data.stale) return "datos de " + formatHM(when);
-  var src = data.source === "yahoo" ? "Yahoo" : "TradingView";
-  return formatMadrid(when) + " · " + src;
+  if (!data || !data.stale) return "";
+  return "datos de " + formatHM(new Date(data.at || Date.now()));
 }
 
-function color(hex) {
-  return new Color(hex);
+function color(hex, alpha) {
+  if (alpha == null) return new Color(hex);
+  return new Color(hex, alpha);
 }
 
-function addTitleRow(widget, title, subtitle) {
-  var row = widget.addStack();
-  row.layoutHorizontally();
-  var left = row.addText(title);
-  left.font = Font.boldSystemFont(15);
-  left.textColor = color(COLORS.text);
-  row.addSpacer();
-  var right = row.addText(subtitle);
-  right.font = Font.systemFont(10);
-  right.textColor = color(COLORS.muted);
-  right.lineLimit = 1;
+function dirColor(pct) {
+  var d = dirClass(pct);
+  if (d === "up") return color(COLORS.green);
+  if (d === "down") return color(COLORS.red);
+  return color(COLORS.flat);
 }
 
-function addBadge(stack, pct) {
-  var badge = stack.addStack();
-  badge.cornerRadius = 6;
-  badge.setPadding(2, 5, 2, 5);
-  var up = pct > 0.005;
-  var down = pct < -0.005;
-  badge.backgroundColor = color(up ? COLORS.green : down ? COLORS.red : COLORS.flat);
-  var t = badge.addText(signedPct(pct));
-  t.font = Font.boldSystemFont(11);
-  t.textColor = color(up ? COLORS.greenInk : "#ffffff");
+function rowChangeAbs(row) {
+  if (row.changeAbs != null && isFinite(row.changeAbs)) return row.changeAbs;
+  return absFromPct(row.price, row.changePct);
 }
 
-function addQuoteRow(widget, row, compact) {
-  var line = widget.addStack();
-  line.layoutHorizontally();
-  line.centerAlignContent();
-  var sym = line.addText(row.symbol);
-  sym.font = Font.boldSystemFont(compact ? 11 : 12);
-  sym.textColor = color(COLORS.text);
-  line.addSpacer(6);
-  var name = line.addText(row.name);
-  name.font = Font.systemFont(compact ? 10 : 11);
-  name.textColor = color(COLORS.muted);
-  name.lineLimit = 1;
-  line.addSpacer();
-  var price = line.addText(nf(row.price, priceDigits(row.price)));
-  price.font = Font.boldSystemFont(compact ? 11 : 12);
+function layoutForFamily(family) {
+  if (family === "small") return { cols: 1, count: 3, colW: 142, pad: 10, compact: true };
+  if (family === "medium") return { cols: 2, count: 6, colW: 155, pad: 10, compact: true };
+  return { cols: 2, count: 12, colW: 155, pad: 10, compact: false };
+}
+
+function addSeparator(parent, width) {
+  parent.addSpacer(4);
+  var line = parent.addStack();
+  line.backgroundColor = color(COLORS.sep, COLORS.sepAlpha);
+  line.size = new Size(width, 1);
+  parent.addSpacer(4);
+}
+
+function addHoldingCell(parent, row, compact) {
+  var tickerSize = compact ? 12 : 13;
+  var metaSize = compact ? 11 : 12;
+  var cell = parent.addStack();
+  cell.layoutVertically();
+
+  var l1 = cell.addStack();
+  l1.layoutHorizontally();
+  l1.centerAlignContent();
+  var tri = l1.addText(dirTriangle(row.changePct));
+  tri.font = Font.systemFont(9);
+  tri.textColor = dirColor(row.changePct);
+  l1.addSpacer(3);
+  var ticker = l1.addText(row.symbol);
+  ticker.font = Font.boldSystemFont(tickerSize);
+  ticker.textColor = color(COLORS.text);
+  ticker.lineLimit = 1;
+  ticker.minimumScaleFactor = 0.7;
+  l1.addSpacer();
+  var pct = l1.addText(signedPct(row.changePct));
+  pct.font = Font.systemFont(metaSize);
+  pct.textColor = dirColor(row.changePct);
+  pct.lineLimit = 1;
+
+  cell.addSpacer(2);
+
+  var l2 = cell.addStack();
+  l2.layoutHorizontally();
+  l2.centerAlignContent();
+  var price = l2.addText(nf(row.price, priceDigits(row.price)));
+  price.font = Font.systemFont(metaSize);
   price.textColor = color(COLORS.text);
-  line.addSpacer(6);
-  addBadge(line, row.changePct);
+  price.lineLimit = 1;
+  l2.addSpacer();
+  var absVal = rowChangeAbs(row);
+  var abs = l2.addText(signedAbs(absVal, priceDigits(Math.abs(absVal || 0))));
+  abs.font = Font.systemFont(metaSize);
+  abs.textColor = dirColor(row.changePct);
+  abs.lineLimit = 1;
 }
 
 function createWidget(family, data) {
+  var spec = layoutForFamily(family);
   var widget = new ListWidget();
-  widget.backgroundColor = color(COLORS.bg);
-  widget.setPadding(12, 14, 12, 14);
+  widget.backgroundColor = color(COLORS.bg, COLORS.bgAlpha);
+  widget.setPadding(spec.pad, spec.pad, spec.pad, spec.pad);
   widget.url = PAGE_URL;
   var next = new Date();
   next.setMinutes(next.getMinutes() + REFRESH_MINUTES);
   widget.refreshAfterDate = next;
 
-  var rows = data.rows || [];
-  var stats = summarize(rows);
-  var footLabel = footerText(data);
+  var items = sortByPct(data.rows || []).slice(0, spec.count);
+  var columns = [];
+  var c;
+  for (c = 0; c < spec.cols; c++) columns.push([]);
+  var i;
+  for (i = 0; i < items.length; i++) {
+    columns[i % spec.cols].push(items[i]);
+  }
 
-  if (family === "small") {
-    var title = widget.addText("Cartera");
-    title.font = Font.boldSystemFont(16);
-    title.textColor = color(COLORS.text);
-    widget.addSpacer(8);
-    var counts = widget.addText(stats.up + " suben  ·  " + stats.down + " bajan");
-    counts.font = Font.boldSystemFont(13);
-    counts.textColor = color(COLORS.text);
-    widget.addSpacer(8);
-    if (stats.best) {
-      var best = widget.addText("Mejor  " + stats.best.symbol + "  " + signedPct(stats.best.changePct));
-      best.font = Font.systemFont(12);
-      best.textColor = color(COLORS.green);
+  var grid = widget.addStack();
+  grid.layoutHorizontally();
+  grid.topAlignContent();
+
+  for (c = 0; c < spec.cols; c++) {
+    if (c > 0) grid.addSpacer(12);
+    var col = grid.addStack();
+    col.layoutVertically();
+    var bucket = columns[c];
+    var r;
+    for (r = 0; r < bucket.length; r++) {
+      if (r > 0) addSeparator(col, spec.colW);
+      addHoldingCell(col, bucket[r], spec.compact);
     }
-    if (stats.worst) {
-      var worst = widget.addText("Peor   " + stats.worst.symbol + "  " + signedPct(stats.worst.changePct));
-      worst.font = Font.systemFont(12);
-      worst.textColor = color(COLORS.red);
-    }
-    widget.addSpacer();
-    var foot = widget.addText(footLabel);
-    foot.font = Font.systemFont(9);
+  }
+
+  var stale = footerText(data);
+  if (stale) {
+    widget.addSpacer(6);
+    var foot = widget.addText(stale);
+    foot.font = Font.systemFont(8);
     foot.textColor = color(COLORS.muted);
     foot.lineLimit = 1;
-    return widget;
-  }
-
-  addTitleRow(widget, "Cartera", footLabel);
-  widget.addSpacer(8);
-
-  if (family === "medium") {
-    var movers = topMovers(rows, 6);
-    for (var i = 0; i < movers.length; i++) {
-      addQuoteRow(widget, movers[i], true);
-      if (i < movers.length - 1) widget.addSpacer(5);
-    }
-    return widget;
-  }
-
-  var ranked = sortByPct(rows).slice(0, 14);
-  for (var g = 0; g < ranked.length; g++) {
-    addQuoteRow(widget, ranked[g], true);
-    if (g < ranked.length - 1) widget.addSpacer(4);
   }
   return widget;
 }
 
 function errorWidget(message) {
   var widget = new ListWidget();
-  widget.backgroundColor = color(COLORS.bg);
+  widget.backgroundColor = color(COLORS.bg, COLORS.bgAlpha);
   widget.url = PAGE_URL;
   var t = widget.addText("Cartera");
   t.font = Font.boldSystemFont(16);
@@ -665,9 +706,12 @@ var __exports = {
   fetchYahooSpark: fetchYahooSpark,
   loadQuotes: loadQuotes,
   summarize: summarize,
-  topMovers: topMovers,
-    sortByPct: sortByPct,
+  sortByPct: sortByPct,
   signedPct: signedPct,
+  signedAbs: signedAbs,
+  absFromPct: absFromPct,
+  dirTriangle: dirTriangle,
+  layoutForFamily: layoutForFamily,
   nf: nf,
   formatMadrid: formatMadrid,
   formatHM: formatHM,
