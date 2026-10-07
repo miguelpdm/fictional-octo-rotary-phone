@@ -10,6 +10,7 @@ on:
       - '.github/workflows/update-market-data.yml'
       - '.github/scripts/fetch_market_data.py'
       - 'index.html'
+      - 'data/cartera.json'
 
 permissions:
   contents: write
@@ -35,7 +36,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/market.json
+          git add data/market.json data/cartera-snapshot.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else

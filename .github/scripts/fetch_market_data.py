@@ -54,7 +54,10 @@ IMPACT_RULES = [
 ]
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; PulsoMercados/1.0)"}
-OUTPUT = Path(__file__).resolve().parents[2] / "data" / "market.json"
+ROOT = Path(__file__).resolve().parents[2]
+OUTPUT = ROOT / "data" / "market.json"
+CARTERA_CONFIG = ROOT / "data" / "cartera.json"
+CARTERA_SNAPSHOT = ROOT / "data" / "cartera-snapshot.json"
 
 
 def fetch_json(url: str) -> dict:
@@ -175,6 +178,78 @@ def main() -> None:
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Wrote {OUTPUT} with {len(indices)} indices and {len(payload['news'])} news items")
+
+    write_cartera_snapshot()
+
+
+def fetch_intraday(symbol: str) -> dict:
+    quoted = urllib.parse.quote(symbol)
+    url = (
+        "https://query1.finance.yahoo.com/v8/finance/chart/"
+        f"{quoted}?interval=5m&range=1d&includePrePost=false"
+    )
+    data = fetch_json(url)
+    result = data["chart"]["result"][0]
+    meta = result["meta"]
+    timestamps = result.get("timestamp") or []
+    quote = (result.get("indicators") or {}).get("quote") or [{}]
+    closes = (quote[0] or {}).get("close") or []
+    spark = []
+    for ts, close in zip(timestamps, closes):
+        if close is None:
+            continue
+        spark.append({"t": ts, "v": close})
+
+    previous_close = meta.get("chartPreviousClose") or meta.get("previousClose")
+    price = meta.get("regularMarketPrice")
+    change = (price - previous_close) if price is not None and previous_close else 0
+    change_pct = (change / previous_close * 100) if previous_close else 0
+
+    return {
+        "symbol": symbol,
+        "price": price,
+        "previousClose": previous_close,
+        "change": change,
+        "changePct": change_pct,
+        "currency": meta.get("currency"),
+        "exchange": meta.get("fullExchangeName") or meta.get("exchangeName"),
+        "timezone": meta.get("exchangeTimezoneName"),
+        "dayHigh": meta.get("regularMarketDayHigh"),
+        "dayLow": meta.get("regularMarketDayLow"),
+        "volume": meta.get("regularMarketVolume"),
+        "fiftyTwoWeekHigh": meta.get("fiftyTwoWeekHigh"),
+        "fiftyTwoWeekLow": meta.get("fiftyTwoWeekLow"),
+        "regularMarketTime": meta.get("regularMarketTime"),
+        "spark": spark,
+        "source": "yahoo-chart",
+    }
+
+
+def write_cartera_snapshot() -> None:
+    if not CARTERA_CONFIG.exists():
+        print("No cartera.json; skipping portfolio snapshot")
+        return
+
+    config = json.loads(CARTERA_CONFIG.read_text(encoding="utf-8"))
+    quotes = {}
+    errors = []
+
+    for position in config.get("positions") or []:
+        yahoo_symbol = position.get("yahoo") or position.get("symbol")
+        try:
+            quotes[position["symbol"]] = fetch_intraday(yahoo_symbol)
+        except Exception as error:  # noqa: BLE001
+            errors.append({"symbol": position.get("symbol"), "yahoo": yahoo_symbol, "error": str(error)})
+
+    snapshot = {
+        "updatedAt": datetime.now(timezone.utc).isoformat(),
+        "source": "yahoo-finance-chart",
+        "delayNote": "Snapshot de Yahoo vía GitHub Actions (~30 min). Las cotizaciones en vivo de la página usan TradingView (~15 min).",
+        "quotes": quotes,
+        "errors": errors,
+    }
+    CARTERA_SNAPSHOT.write_text(json.dumps(snapshot, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Wrote {CARTERA_SNAPSHOT} with {len(quotes)} quotes and {len(errors)} errors")
 
 
 if __name__ == "__main__":
