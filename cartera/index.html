@@ -28,6 +28,19 @@
           <input id="autoRefresh" type="checkbox" role="switch">
           <span class="track" aria-hidden="true"></span>
         </label>
+        <button class="view-btn" id="viewBtn" type="button" aria-pressed="false" aria-label="Vista compacta" title="Vista compacta">
+          <svg class="icon-dense" viewBox="0 0 24 24" aria-hidden="true">
+            <rect x="3" y="3" width="7" height="7" rx="1.5"/>
+            <rect x="14" y="3" width="7" height="7" rx="1.5"/>
+            <rect x="3" y="14" width="7" height="7" rx="1.5"/>
+            <rect x="14" y="14" width="7" height="7" rx="1.5"/>
+          </svg>
+          <svg class="icon-list" viewBox="0 0 24 24" aria-hidden="true" hidden>
+            <rect x="3" y="4" width="18" height="3.2" rx="1.2"/>
+            <rect x="3" y="10.4" width="18" height="3.2" rx="1.2"/>
+            <rect x="3" y="16.8" width="18" height="3.2" rx="1.2"/>
+          </svg>
+        </button>
       </div>
       <p class="meta" id="statusLine">Cargando cartera…</p>
       <p class="delay" id="delayLine">Cotizaciones gratuitas con ~15 min de retraso.</p>

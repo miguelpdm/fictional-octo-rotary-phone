@@ -177,6 +177,30 @@ header {
 .toggle:has(input:checked) > span:first-child { color: var(--text); }
 .toggle input:focus-visible + .track { outline: 2px solid var(--blue); outline-offset: 2px; }
 
+.view-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.35rem;
+  flex: 0 0 2.35rem;
+  border: 0;
+  border-left: 1px solid var(--line);
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  padding: 0;
+}
+
+.view-btn svg {
+  width: 1.05rem;
+  height: 1.05rem;
+  fill: currentColor;
+}
+
+.view-btn:active { background: var(--panel-2); }
+.view-btn:focus-visible { outline: 2px solid var(--blue); outline-offset: -2px; }
+.view-btn[aria-pressed="true"] { color: var(--text); background: var(--panel-2); }
+
 .meta, .delay {
   margin-top: 0.45rem;
   font-size: 0.74rem;
@@ -264,6 +288,82 @@ header {
 .chip .dir { font-size: 0.72rem; margin-left: 0.2rem; }
 
 .list { display: grid; gap: 0.45rem; }
+
+.app.dense .summary,
+.app.dense .markets { display: none; }
+
+.app.dense .list {
+  grid-template-columns: 1fr 1fr;
+  gap: 0.32rem;
+}
+
+.app.dense .list:has(.state) {
+  grid-template-columns: 1fr;
+}
+
+.app.dense .row {
+  border-radius: 10px;
+  padding: 0.38rem 0.45rem 0.34rem;
+}
+
+.app.dense .row-main {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.12rem;
+  cursor: default;
+}
+
+.app.dense .tile-top {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.25rem;
+}
+
+.app.dense .sym {
+  font-size: 0.78rem;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.app.dense .group-tag { display: none; }
+
+.app.dense .price {
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.app.dense .ccy { display: none; }
+
+.app.dense .tile-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.2rem;
+}
+
+.app.dense .chart-tiny {
+  width: 42px;
+  height: 16px;
+  flex: 0 0 42px;
+  pointer-events: none;
+}
+
+.app.dense .badge {
+  margin-top: 0;
+  padding: 0.06rem 0.28rem;
+  font-size: 0.68rem;
+  border-radius: 6px;
+}
+
+.app.dense .details { display: none !important; }
+
+@media (min-width: 520px) {
+  .app.dense .list { grid-template-columns: repeat(3, 1fr); }
+}
 
 .row {
   background: var(--panel);
@@ -480,4 +580,5 @@ footer {
   .summary { grid-template-columns: repeat(4, 1fr); }
   .row-main { grid-template-columns: minmax(0, 1.4fr) 110px minmax(7rem, auto); }
   .chart-mini { width: 110px; height: 42px; }
+  .app.dense .list { grid-template-columns: repeat(4, 1fr); }
 }
