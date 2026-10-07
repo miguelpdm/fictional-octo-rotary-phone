@@ -13,10 +13,10 @@ Widget de la cartera para la pantalla de inicio. Es gratis con la app [Scriptabl
 7. Mantén pulsado el widget → **Editar widget**:
    - **Script:** `Cartera`
    - **When Interacting:** Open App (o deja el valor por defecto; el widget ya abre la web al tocarlo)
-8. Abre el script en Scriptable y pulsa **Play** una vez (previsualiza el widget y guarda cotizaciones en caché).
-9. Listo. iOS refresca cuando quiere; el script pide unos **15 minutos**.
+8. Abre el script en Scriptable y pulsa **Play**. Debe verse la vista **mediana**. Si algo falla, aparece esa vista con el error y un aviso con el mensaje y la pila.
+9. En la pantalla de inicio, el widget usa el script; iOS refresca cuando quiere (~15 min).
 
-Si el widget de la pantalla de inicio muestra *Received timeout when running script*, vuelve a pegar este archivo (versión con timeout corto y caché) y pulsa **Play** en Scriptable. El widget no puede encadenar varias peticiones lentas: usa la lista embebida + una llamada a TradingView (≈2 s). Si la red no llega a tiempo, muestra **datos de HH:MM** de la última vez que funcionó.
+Si ves *Received timeout…* o un recuadro negro, vuelve a pegar este archivo y pulsa **Play**. El widget solo hace una llamada a TradingView (~2 s). Si la red no llega, muestra **datos de HH:MM**.
 
 ## Tamaños
 
