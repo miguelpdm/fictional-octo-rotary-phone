@@ -53,6 +53,7 @@
   let lastLiveAt = null;
   let liveSource = "snapshot";
   let started = false;
+  let chartUid = 0;
 
   const els = {
     gate: document.getElementById("gate"),
@@ -327,16 +328,34 @@
     const step = (w - 2) / (samples.length - 1);
     const y = (v) => h - 3 - ((v - min) / span) * (h - 6);
     const d = values.map((v, i) => `${i === 0 ? "M" : "L"} ${1 + i * step} ${y(v)}`).join(" ");
-    const area = `${d} L ${w - 1} ${h} L 1 ${h} Z`;
-    const up = (values[values.length - 1] ?? 0) >= (previousClose ?? values[0]);
-    const color = up ? "#30d158" : "#ff453a";
-    const prev = previousClose == null ? "" : `<line x1="0" x2="${w}" y1="${y(previousClose)}" y2="${y(previousClose)}" stroke="${color}" stroke-dasharray="3 3" stroke-width="1" opacity="0.7"/>`;
+    const yPrev = previousClose == null ? h : y(previousClose);
+    const lastX = 1 + (values.length - 1) * step;
+    const area = `${d} L ${lastX} ${yPrev} L 1 ${yPrev} Z`;
+    const strokeW = wide ? 2 : 1.5;
+    const uid = `c${chartUid += 1}`;
+    const yClip = Math.max(0, Math.min(h, yPrev));
+    const defs = previousClose == null ? "" : `
+        <defs>
+          <clipPath id="${uid}-up" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="${w}" height="${yClip}"></rect></clipPath>
+          <clipPath id="${uid}-dn" clipPathUnits="userSpaceOnUse"><rect x="0" y="${yClip}" width="${w}" height="${Math.max(0, h - yClip)}"></rect></clipPath>
+        </defs>`;
+    const split = previousClose == null
+      ? `<path d="${area}" fill="#8b95a5" opacity="0.16"></path>
+        <path d="${d}" fill="none" stroke="#8b95a5" stroke-width="${strokeW}" stroke-linejoin="round" stroke-linecap="round"></path>`
+      : `<g clip-path="url(#${uid}-up)">
+          <path d="${area}" fill="#30d158" opacity="0.22"></path>
+          <path d="${d}" fill="none" stroke="#30d158" stroke-width="${strokeW}" stroke-linejoin="round" stroke-linecap="round"></path>
+        </g>
+        <g clip-path="url(#${uid}-dn)">
+          <path d="${area}" fill="#ff453a" opacity="0.22"></path>
+          <path d="${d}" fill="none" stroke="#ff453a" stroke-width="${strokeW}" stroke-linejoin="round" stroke-linecap="round"></path>
+        </g>
+        <line x1="0" x2="${w}" y1="${yPrev}" y2="${yPrev}" stroke="#c5cad3" stroke-dasharray="3 3" stroke-width="1" opacity="0.85"></line>`;
     const payload = encodeURIComponent(JSON.stringify(samples));
     return `<div class="${klass}" role="img" aria-label="Gráfico intradía. Mantén pulsado o arrastra para ver precio y hora." data-wide="${wide ? 1 : 0}" data-ccy="${currency || ""}" data-prev="${previousClose ?? ""}" data-spark="${payload}">
       <svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">
-        <path d="${area}" fill="${color}" opacity="0.16"></path>
-        <path d="${d}" fill="none" stroke="${color}" stroke-width="${wide ? 2 : 1.5}" stroke-linejoin="round" stroke-linecap="round"></path>
-        ${prev}
+        ${defs}
+        ${split}
         <g class="xh" hidden>
           <line class="xh-v" y1="0" y2="${h}"></line>
           <circle class="xh-dot" r="${wide ? 4.2 : 3}"></circle>
