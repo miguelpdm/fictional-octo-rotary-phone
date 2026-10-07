@@ -197,6 +197,8 @@ header {
   fill: currentColor;
 }
 
+.view-btn svg[hidden] { display: none !important; }
+
 .view-btn:active { background: var(--panel-2); }
 .view-btn:focus-visible { outline: 2px solid var(--blue); outline-offset: -2px; }
 .view-btn[aria-pressed="true"] { color: var(--text); background: var(--panel-2); }
