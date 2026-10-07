@@ -589,48 +589,83 @@ function familySize(family) {
   return { w: medW, h: largeH };
 }
 
+function pickExtremes(rows, eachSide) {
+  var ranked = sortByPct(rows);
+  var n = ranked.length;
+  var leftN = 0;
+  var rightN = 0;
+  if (n <= 0) return { left: [], right: [] };
+  if (n === 1) return { left: ranked.slice(), right: [] };
+  if (n <= eachSide * 2) {
+    leftN = Math.ceil(n / 2);
+    rightN = Math.floor(n / 2);
+  } else {
+    leftN = eachSide;
+    rightN = eachSide;
+  }
+  var left = ranked.slice(0, leftN);
+  var right = ranked.slice(n - rightN, n).slice();
+  right.sort(function (a, b) {
+    return a.changePct - b.changePct;
+  });
+  return { left: left, right: right };
+}
+
 function layoutForFamily(family, nHoldings) {
   var n = nHoldings > 0 ? nHoldings : 0;
   if (family === "small") {
     return {
-      cols: 1,
-      count: Math.min(n, 4),
-      padY: 8,
-      padX: 10,
-      gutter: 0,
+      cols: 2,
+      eachSide: 2,
+      padY: 12,
+      padX: 12,
+      gutter: 12,
       tickerSize: 13,
       metaSize: 12,
-      absSize: 11,
+      absSize: 12,
       triSize: 10,
-      cellGap: 1
+      cellGap: 1,
+      sepPad: 3
     };
   }
   if (family === "medium") {
     return {
       cols: 2,
-      count: Math.min(n, 8),
-      padY: 8,
-      padX: 10,
+      eachSide: 3,
+      padY: 14,
+      padX: 14,
       gutter: 16,
-      tickerSize: 13,
-      metaSize: 12,
-      absSize: 11,
-      triSize: 10,
-      cellGap: 1
+      tickerSize: 14,
+      metaSize: 13,
+      absSize: 13,
+      triSize: 11,
+      cellGap: 2,
+      sepPad: 4
     };
   }
   return {
     cols: 2,
-    count: n,
-    padY: 8,
-    padX: 10,
-    gutter: 16,
-    tickerSize: 13,
-    metaSize: 12,
-    absSize: 11,
-    triSize: 10,
-    cellGap: 1
+    eachSide: 6,
+    padY: 15,
+    padX: 16,
+    gutter: 18,
+    tickerSize: 15,
+    metaSize: 14,
+    absSize: 13,
+    triSize: 11,
+    cellGap: 2,
+    sepPad: 5
   };
+}
+
+function addRowSeparator(parent, width, sepPad) {
+  parent.addSpacer(sepPad);
+  var line = parent.addStack();
+  line.backgroundColor = color(COLORS.sep, COLORS.sepAlpha);
+  try {
+    line.size = new Size(width, 1);
+  } catch (err) {}
+  parent.addSpacer(sepPad);
 }
 
 function addHoldingCell(parent, row, spec, colW) {
@@ -680,6 +715,7 @@ function addHoldingCell(parent, row, spec, colW) {
 function createWidget(family, data) {
   var ranked = sortByPct(data.rows || []);
   var spec = layoutForFamily(family, ranked.length);
+  var sides = pickExtremes(ranked, spec.eachSide);
   var canvas = familySize(family);
   var stale = footerText(data);
   var footerH = stale ? 10 : 0;
@@ -698,19 +734,13 @@ function createWidget(family, data) {
   next.setMinutes(next.getMinutes() + REFRESH_MINUTES);
   widget.refreshAfterDate = next;
 
-  var items = ranked.slice(0, spec.count);
-  var cols = spec.cols;
-  var rows = items.length ? Math.ceil(items.length / cols) : 0;
-  var colW = cols === 1 ? innerW : Math.floor((innerW - spec.gutter) / cols);
-  var rowH = rows ? Math.floor(innerH / rows) : innerH;
-  if (rowH < 24) rowH = 24;
+  var rows = Math.max(sides.left.length, sides.right.length);
+  var colW = Math.floor((innerW - spec.gutter) / 2);
+  var sepBlock = spec.sepPad * 2 + 1;
+  var sepTotal = rows > 1 ? (rows - 1) * sepBlock : 0;
+  var rowH = rows ? Math.floor((innerH - sepTotal) / rows) : innerH;
+  if (rowH < 26) rowH = 26;
   spec.rowH = rowH;
-  if (rowH < 28) {
-    spec.tickerSize = 12;
-    spec.metaSize = 11;
-    spec.absSize = 11;
-    spec.triSize = 9;
-  }
 
   var grid = widget.addStack();
   grid.layoutVertically();
@@ -719,25 +749,30 @@ function createWidget(family, data) {
   } catch (err) {}
 
   var r;
-  var c;
   for (r = 0; r < rows; r++) {
+    if (r > 0) addRowSeparator(grid, innerW, spec.sepPad);
     var line = grid.addStack();
     line.layoutHorizontally();
     line.centerAlignContent();
     try {
       line.size = new Size(innerW, rowH);
     } catch (errLine) {}
-    for (c = 0; c < cols; c++) {
-      if (c > 0) line.addSpacer(spec.gutter);
-      var idx = r * cols + c;
-      if (idx < items.length) {
-        addHoldingCell(line, items[idx], spec, colW);
-      } else {
-        var ph = line.addStack();
-        try {
-          ph.size = new Size(colW, rowH);
-        } catch (err2) {}
-      }
+    if (r < sides.left.length) {
+      addHoldingCell(line, sides.left[r], spec, colW);
+    } else {
+      var phL = line.addStack();
+      try {
+        phL.size = new Size(colW, rowH);
+      } catch (errL) {}
+    }
+    line.addSpacer(spec.gutter);
+    if (r < sides.right.length) {
+      addHoldingCell(line, sides.right[r], spec, colW);
+    } else {
+      var phR = line.addStack();
+      try {
+        phR.size = new Size(colW, rowH);
+      } catch (errR) {}
     }
   }
 
@@ -847,6 +882,7 @@ var __exports = {
   familySize: familySize,
   absFromPct: absFromPct,
   dirTriangle: dirTriangle,
+  pickExtremes: pickExtremes,
   layoutForFamily: layoutForFamily,
   nf: nf,
   formatMadrid: formatMadrid,

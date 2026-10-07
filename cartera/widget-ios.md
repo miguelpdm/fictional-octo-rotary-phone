@@ -20,11 +20,12 @@ Si ves *Received timeout…* o un recuadro negro, vuelve a pegar este archivo y 
 
 ## Tamaños
 
-Estilo tipo widget de Bolsa de iOS: dos líneas por valor (ticker + %, precio + cambio), sin nombres ni grupos. Orden: % del día, de mayor a menor (izquierda, luego derecha).
+Estilo tipo widget de Bolsa de iOS: dos líneas por valor (ticker + %, precio + cambio), sin nombres ni grupos.
 
-- **Pequeño:** hasta 4 filas × 1 columna.
-- **Mediano:** 4 filas × 2 columnas (8 valores).
-- **Grande:** todas las posiciones en 2 columnas (21 → 11×2), filas repartidas en toda la altura, ticker ~13 pt.
+- **Grande:** 6×2. Izquierda = 6 mejores (% desc.). Derecha = 6 peores (más negativo arriba). Omite el medio.
+- **Mediano:** 3×2 (top 3 / bottom 3).
+- **Pequeño:** 2×2 (top 2 / bottom 2).
+- Si hay menos de 12 valores, se parte a partes iguales.
 
 ## Datos
 
