@@ -516,23 +516,62 @@ function rowChangeAbs(row) {
   return absFromPct(row.price, row.changePct);
 }
 
-function layoutForFamily(family) {
-  if (family === "small") return { cols: 1, count: 3, colW: 142, pad: 10, compact: true };
-  if (family === "medium") return { cols: 2, count: 6, colW: 155, pad: 10, compact: true };
-  return { cols: 2, count: 12, colW: 155, pad: 10, compact: false };
+function layoutForFamily(family, nHoldings) {
+  var n = nHoldings > 0 ? nHoldings : 0;
+  if (family === "small") {
+    return {
+      cols: 1,
+      count: Math.min(n, 4),
+      colW: 142,
+      pad: 8,
+      gutter: 0,
+      tickerSize: 11,
+      metaSize: 10,
+      triSize: 8,
+      cellGap: 1,
+      showSep: false
+    };
+  }
+  if (family === "medium") {
+    return {
+      cols: 2,
+      count: Math.min(n, 8),
+      colW: 155,
+      pad: 8,
+      gutter: 10,
+      tickerSize: 11,
+      metaSize: 10,
+      triSize: 8,
+      cellGap: 1,
+      showSep: false
+    };
+  }
+  var cols = 2;
+  var rows = n > 0 ? Math.ceil(n / cols) : 1;
+  var dense = rows >= 8;
+  return {
+    cols: cols,
+    count: n,
+    colW: 155,
+    pad: dense ? 6 : 8,
+    gutter: dense ? 8 : 10,
+    tickerSize: 11,
+    metaSize: 10,
+    triSize: 8,
+    cellGap: dense ? 0 : 1,
+    showSep: !dense
+  };
 }
 
 function addSeparator(parent, width) {
-  parent.addSpacer(4);
+  parent.addSpacer(3);
   var line = parent.addStack();
   line.backgroundColor = color(COLORS.sep, COLORS.sepAlpha);
   line.size = new Size(width, 1);
-  parent.addSpacer(4);
+  parent.addSpacer(3);
 }
 
-function addHoldingCell(parent, row, compact) {
-  var tickerSize = compact ? 12 : 13;
-  var metaSize = compact ? 11 : 12;
+function addHoldingCell(parent, row, spec) {
   var cell = parent.addStack();
   cell.layoutVertically();
 
@@ -540,39 +579,40 @@ function addHoldingCell(parent, row, compact) {
   l1.layoutHorizontally();
   l1.centerAlignContent();
   var tri = l1.addText(dirTriangle(row.changePct));
-  tri.font = Font.systemFont(9);
+  tri.font = Font.systemFont(spec.triSize);
   tri.textColor = dirColor(row.changePct);
-  l1.addSpacer(3);
+  l1.addSpacer(2);
   var ticker = l1.addText(row.symbol);
-  ticker.font = Font.boldSystemFont(tickerSize);
+  ticker.font = Font.boldSystemFont(spec.tickerSize);
   ticker.textColor = color(COLORS.text);
   ticker.lineLimit = 1;
-  ticker.minimumScaleFactor = 0.7;
+  ticker.minimumScaleFactor = 0.65;
   l1.addSpacer();
   var pct = l1.addText(signedPct(row.changePct));
-  pct.font = Font.systemFont(metaSize);
+  pct.font = Font.systemFont(spec.metaSize);
   pct.textColor = dirColor(row.changePct);
   pct.lineLimit = 1;
 
-  cell.addSpacer(2);
+  if (spec.cellGap) cell.addSpacer(spec.cellGap);
 
   var l2 = cell.addStack();
   l2.layoutHorizontally();
   l2.centerAlignContent();
   var price = l2.addText(nf(row.price, priceDigits(row.price)));
-  price.font = Font.systemFont(metaSize);
+  price.font = Font.systemFont(spec.metaSize);
   price.textColor = color(COLORS.text);
   price.lineLimit = 1;
   l2.addSpacer();
   var absVal = rowChangeAbs(row);
   var abs = l2.addText(signedAbs(absVal, priceDigits(Math.abs(absVal || 0))));
-  abs.font = Font.systemFont(metaSize);
+  abs.font = Font.systemFont(spec.metaSize);
   abs.textColor = dirColor(row.changePct);
   abs.lineLimit = 1;
 }
 
 function createWidget(family, data) {
-  var spec = layoutForFamily(family);
+  var ranked = sortByPct(data.rows || []);
+  var spec = layoutForFamily(family, ranked.length);
   var widget = new ListWidget();
   widget.backgroundColor = color(COLORS.bg, COLORS.bgAlpha);
   widget.setPadding(spec.pad, spec.pad, spec.pad, spec.pad);
@@ -581,7 +621,7 @@ function createWidget(family, data) {
   next.setMinutes(next.getMinutes() + REFRESH_MINUTES);
   widget.refreshAfterDate = next;
 
-  var items = sortByPct(data.rows || []).slice(0, spec.count);
+  var items = ranked.slice(0, spec.count);
   var columns = [];
   var c;
   for (c = 0; c < spec.cols; c++) columns.push([]);
@@ -595,22 +635,25 @@ function createWidget(family, data) {
   grid.topAlignContent();
 
   for (c = 0; c < spec.cols; c++) {
-    if (c > 0) grid.addSpacer(12);
+    if (c > 0) grid.addSpacer(spec.gutter);
     var col = grid.addStack();
     col.layoutVertically();
     var bucket = columns[c];
     var r;
     for (r = 0; r < bucket.length; r++) {
-      if (r > 0) addSeparator(col, spec.colW);
-      addHoldingCell(col, bucket[r], spec.compact);
+      if (r > 0) {
+        if (spec.showSep) addSeparator(col, spec.colW);
+        else col.addSpacer(3);
+      }
+      addHoldingCell(col, bucket[r], spec);
     }
   }
 
   var stale = footerText(data);
   if (stale) {
-    widget.addSpacer(6);
+    widget.addSpacer(4);
     var foot = widget.addText(stale);
-    foot.font = Font.systemFont(8);
+    foot.font = Font.systemFont(7);
     foot.textColor = color(COLORS.muted);
     foot.lineLimit = 1;
   }
