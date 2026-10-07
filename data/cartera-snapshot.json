@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T20:54:43.186090+00:00",
+  "updatedAt": "2026-10-07T22:09:04.789146+00:00",
   "source": "yahoo-finance-chart",
   "delayNote": "Snapshot de Yahoo vía GitHub Actions (~30 min). Las cotizaciones en vivo de la página usan TradingView (~15 min).",
   "quotes": {
@@ -14,7 +14,7 @@
       "timezone": "America/New_York",
       "dayHigh": 3.55,
       "dayLow": 3.31,
-      "volume": 493182,
+      "volume": 493483,
       "fiftyTwoWeekHigh": 8.77,
       "fiftyTwoWeekLow": 2.15,
       "regularMarketTime": 1791403200,
@@ -341,7 +341,7 @@
       "timezone": "America/New_York",
       "dayHigh": 0.48,
       "dayLow": 0.46,
-      "volume": 3903288,
+      "volume": 3907949,
       "fiftyTwoWeekHigh": 1.895,
       "fiftyTwoWeekLow": 0.46,
       "regularMarketTime": 1791403201,
@@ -1007,7 +1007,7 @@
       "timezone": "America/New_York",
       "dayHigh": 1.12,
       "dayLow": 1.05,
-      "volume": 3942999,
+      "volume": 3950410,
       "fiftyTwoWeekHigh": 7.3,
       "fiftyTwoWeekLow": 0.54,
       "regularMarketTime": 1791403200,
@@ -1338,7 +1338,7 @@
       "timezone": "America/New_York",
       "dayHigh": 111.59,
       "dayLow": 106.02,
-      "volume": 3730034,
+      "volume": 3731179,
       "fiftyTwoWeekHigh": 278.1,
       "fiftyTwoWeekLow": 104.91,
       "regularMarketTime": 1791403201,
@@ -1748,7 +1748,7 @@
         },
         {
           "t": 1791361500,
-          "v": 14.364999771118164
+          "v": 14.359999656677246
         },
         {
           "t": 1791361800,
@@ -2104,7 +2104,7 @@
       "timezone": "America/New_York",
       "dayHigh": 29.918,
       "dayLow": 28.75,
-      "volume": 5438084,
+      "volume": 5446628,
       "fiftyTwoWeekHigh": 65.299,
       "fiftyTwoWeekLow": 13.74,
       "regularMarketTime": 1791403203,
@@ -2762,7 +2762,7 @@
         },
         {
           "t": 1791380100,
-          "v": 145.64999389648438
+          "v": 145.5500030517578
         },
         {
           "t": 1791380400,
@@ -3301,7 +3301,7 @@
       "timezone": "America/New_York",
       "dayHigh": 1.995,
       "dayLow": 1.9,
-      "volume": 3667798,
+      "volume": 3668925,
       "fiftyTwoWeekHigh": 2.5,
       "fiftyTwoWeekLow": 0.81,
       "regularMarketTime": 1791403200,
@@ -3635,8 +3635,8 @@
       "exchange": "NasdaqGS",
       "timezone": "America/New_York",
       "dayHigh": 237.3,
-      "dayLow": 227.0,
-      "volume": 6547351,
+      "dayLow": 227.05,
+      "volume": 6551931,
       "fiftyTwoWeekHigh": 363.7,
       "fiftyTwoWeekLow": 190.12,
       "regularMarketTime": 1791403201,
@@ -3675,7 +3675,7 @@
         },
         {
           "t": 1791382200,
-          "v": 227.3719940185547
+          "v": 227.33999633789062
         },
         {
           "t": 1791382500,
@@ -3763,7 +3763,7 @@
         },
         {
           "t": 1791388800,
-          "v": 232.55999755859375
+          "v": 232.58999633789062
         },
         {
           "t": 1791389100,
@@ -4365,8 +4365,8 @@
       "exchange": "NasdaqGM",
       "timezone": "America/New_York",
       "dayHigh": 28.86,
-      "dayLow": 27.71,
-      "volume": 8305877,
+      "dayLow": 27.72,
+      "volume": 8315833,
       "fiftyTwoWeekHigh": 43.0,
       "fiftyTwoWeekLow": 7.02,
       "regularMarketTime": 1791403201,
@@ -4681,7 +4681,7 @@
         },
         {
           "t": 1791402900,
-          "v": 28.18000030517578
+          "v": 28.190000534057617
         },
         {
           "t": 1791403200,
@@ -4701,7 +4701,7 @@
       "timezone": "America/New_York",
       "dayHigh": 158.26,
       "dayLow": 155.35,
-      "volume": 6076841,
+      "volume": 6178181,
       "fiftyTwoWeekHigh": 220.806,
       "fiftyTwoWeekLow": 150.14,
       "regularMarketTime": 1791403201,
@@ -5035,8 +5035,8 @@
       "exchange": "NYSE",
       "timezone": "America/New_York",
       "dayHigh": 149.665,
-      "dayLow": 147.755,
-      "volume": 8662197,
+      "dayLow": 147.76,
+      "volume": 8662344,
       "fiftyTwoWeekHigh": 167.25,
       "fiftyTwoWeekLow": 137.62,
       "regularMarketTime": 1791403202,
@@ -5371,7 +5371,7 @@
       "timezone": "America/New_York",
       "dayHigh": 395.9,
       "dayLow": 389.28,
-      "volume": 1429489,
+      "volume": 1430714,
       "fiftyTwoWeekHigh": 522.469,
       "fiftyTwoWeekLow": 361.031,
       "regularMarketTime": 1791403202,
@@ -5706,7 +5706,7 @@
       "timezone": "America/New_York",
       "dayHigh": 198.2,
       "dayLow": 194.051,
-      "volume": 5100350,
+      "volume": 5122012,
       "fiftyTwoWeekHigh": 291.09,
       "fiftyTwoWeekLow": 118.15,
       "regularMarketTime": 1791403203,
