@@ -1,16 +1,25 @@
 // Cartera — widget para Scriptable (iOS)
 // Pégalo entero en un script nuevo. Guía: widget-ios.md
 // Abre: https://miguelpdm.github.io/fictional-octo-rotary-phone/cartera/
+//
+// El widget de iOS mata el script a los pocos segundos. Camino crítico:
+// lista embebida/caché + UNA llamada a TradingView con timeout corto.
+// Yahoo solo al pulsar Play en la app. Si la red falla, se pintan datos en caché.
 
 const PAGE_URL = "https://miguelpdm.github.io/fictional-octo-rotary-phone/cartera/";
 const CONFIG_URL = "https://miguelpdm.github.io/fictional-octo-rotary-phone/data/cartera.json";
 const TV_SCAN = "https://scanner.tradingview.com/global/scan";
-const TV_COLUMNS = ["name", "description", "close", "change", "change_abs", "currency"];
+const TV_COLUMNS = ["close", "change", "currency"];
 const TZ = "Europe/Madrid";
 const REFRESH_MINUTES = 15;
+const CACHE_NAME = "cartera-widget-cache.json";
+const WIDGET_TV_TIMEOUT = 2;
+const WIDGET_BUDGET_MS = 2200;
+const APP_TV_TIMEOUT = 8;
+const APP_CONFIG_TIMEOUT = 6;
+const APP_YAHOO_TIMEOUT = 6;
 const COLORS = {
   bg: "#0b0d10",
-  panel: "#14181f",
   text: "#f4f6f8",
   muted: "#8b95a5",
   green: "#30d158",
@@ -19,27 +28,123 @@ const COLORS = {
   flat: "#3a4150"
 };
 
+const EMBEDDED_POSITIONS = [
+  { symbol: "QTRX", tv: "NASDAQ:QTRX", yahoo: "QTRX", name: "Quanterix", group: "P0" },
+  { symbol: "HUMA", tv: "NASDAQ:HUMA", yahoo: "HUMA", name: "Humacyte", group: "P0" },
+  { symbol: "LFMD", tv: "NASDAQ:LFMD", yahoo: "LFMD", name: "LifeMD", group: "P0" },
+  { symbol: "IFRX", tv: "NASDAQ:IFRX", yahoo: "IFRX", name: "InflaRx", group: "P0" },
+  { symbol: "UPXI", tv: "NASDAQ:UPXI", yahoo: "UPXI", name: "Upexi", group: "P0" },
+  { symbol: "CHTR", tv: "NASDAQ:CHTR", yahoo: "CHTR", name: "Charter Communications", group: "P0" },
+  { symbol: "UMG.AS", tv: "EURONEXT:UMG", yahoo: "UMG.AS", name: "Universal Music Group", group: "P0" },
+  { symbol: "HIMS", tv: "NYSE:HIMS", yahoo: "HIMS", name: "Hims & Hers Health", group: "P1" },
+  { symbol: "EL.PA", tv: "EURONEXT:EL", yahoo: "EL.PA", name: "EssilorLuxottica", group: "P1" },
+  { symbol: "GRF.MC", tv: "BME:GRF", yahoo: "GRF.MC", name: "Grifols", group: "P1" },
+  { symbol: "SABR", tv: "NASDAQ:SABR", yahoo: "SABR", name: "Sabre", group: "P1" },
+  { symbol: "ADBE", tv: "NASDAQ:ADBE", yahoo: "ADBE", name: "Adobe", group: "P1" },
+  { symbol: "RED.MC", tv: "BME:RED", yahoo: "RED.MC", name: "Redeia", group: "P1" },
+  { symbol: "ASST", tv: "NASDAQ:ASST", yahoo: "ASST", name: "Strive", group: "P1" },
+  { symbol: "BKNG", tv: "NASDAQ:BKNG", yahoo: "BKNG", name: "Booking Holdings", group: "P1" },
+  { symbol: "PG", tv: "NYSE:PG", yahoo: "PG", name: "Procter & Gamble", group: "P1" },
+  { symbol: "SPGI", tv: "NYSE:SPGI", yahoo: "SPGI", name: "S&P Global", group: "P1" },
+  { symbol: "ACN", tv: "NYSE:ACN", yahoo: "ACN", name: "Accenture", group: "P1" },
+  { symbol: "BRNT.MI", tv: "EURONEXT:BRNT", yahoo: "BRNT.MI", name: "WisdomTree Brent Crude Oil", group: "P2" },
+  { symbol: "SGLD.L", tv: "LSE:SGLD", yahoo: "SGLD.L", name: "Invesco Physical Gold", group: "P2" },
+  { symbol: "SSLV.L", tv: "LSE:SSLV", yahoo: "SSLV.L", name: "Invesco Physical Silver", group: "P2" },
+  { symbol: "XGLD.L", tv: "LSE:XGLD", yahoo: "XGLD.L", name: "Xtrackers Physical Gold ETC", group: "P2" }
+];
+
 function isScriptable() {
   return typeof ListWidget !== "undefined";
 }
 
+function runsInWidget(opts) {
+  if (opts && opts.inWidget != null) return !!opts.inWidget;
+  try {
+    return typeof config !== "undefined" && !!config.runsInWidget;
+  } catch (err) {
+    return false;
+  }
+}
+
+function delay(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+async function withBudget(promise, ms) {
+  let timer;
+  try {
+    return await Promise.race([
+      promise,
+      new Promise((_, reject) => {
+        timer = setTimeout(() => reject(new Error("tiempo agotado")), ms);
+      })
+    ]);
+  } finally {
+    if (timer) clearTimeout(timer);
+  }
+}
+
 function httpRequest(url, opts) {
+  const timeoutSec = (opts && opts.timeout) != null ? opts.timeout : APP_TV_TIMEOUT;
   if (isScriptable()) {
     const req = new Request(url);
     req.method = (opts && opts.method) || "GET";
+    req.timeoutInterval = timeoutSec;
     if (opts && opts.headers) req.headers = opts.headers;
     if (opts && opts.body != null) req.body = opts.body;
     return req.loadJSON();
   }
   const fetchFn = opts && opts.fetchImpl ? opts.fetchImpl : fetch;
-  return fetchFn(url, {
+  const init = {
     method: (opts && opts.method) || "GET",
     headers: (opts && opts.headers) || {},
     body: opts && opts.body
-  }).then((res) => {
+  };
+  if (typeof AbortSignal !== "undefined" && AbortSignal.timeout) {
+    init.signal = AbortSignal.timeout(Math.max(1, timeoutSec * 1000));
+  }
+  return fetchFn(url, init).then((res) => {
     if (!res.ok) throw new Error("HTTP " + res.status);
     return res.json();
   });
+}
+
+function cacheStore(opts) {
+  if (opts && opts.cacheStore) return opts.cacheStore;
+  return {
+    read() {
+      if (!isScriptable()) return null;
+      try {
+        const fm = FileManager.local();
+        const path = fm.joinPath(fm.documentsDirectory(), CACHE_NAME);
+        if (!fm.fileExists(path)) return null;
+        return JSON.parse(fm.readString(path));
+      } catch (err) {
+        return null;
+      }
+    },
+    write(data) {
+      if (!isScriptable()) return;
+      try {
+        const fm = FileManager.local();
+        const path = fm.joinPath(fm.documentsDirectory(), CACHE_NAME);
+        fm.writeString(path, JSON.stringify(data));
+      } catch (err) {
+        /* ignore */
+      }
+    }
+  };
+}
+
+function compactPositions(list) {
+  if (!Array.isArray(list)) return [];
+  return list.map((p) => ({
+    symbol: p.symbol,
+    tv: p.tv,
+    yahoo: p.yahoo,
+    name: p.name,
+    group: p.group
+  })).filter((p) => p.symbol);
 }
 
 function nf(value, digits) {
@@ -68,6 +173,15 @@ function formatMadrid(date) {
   });
 }
 
+function formatHM(date) {
+  return date.toLocaleString("es-ES", {
+    timeZone: TZ,
+    hour: "2-digit",
+    minute: "2-digit",
+    hourCycle: "h23"
+  });
+}
+
 function priceDigits(value) {
   const abs = Math.abs(value);
   if (abs < 1) return 4;
@@ -75,17 +189,18 @@ function priceDigits(value) {
   return 2;
 }
 
-async function loadPortfolio(fetchImpl) {
-  const data = await httpRequest(CONFIG_URL, { fetchImpl });
-  const positions = Array.isArray(data.positions) ? data.positions : [];
+async function loadPortfolio(opts) {
+  const data = await httpRequest(CONFIG_URL, opts);
+  const positions = compactPositions(data.positions);
   if (!positions.length) throw new Error("cartera.json sin posiciones");
   return positions;
 }
 
-async function fetchTradingView(positions, fetchImpl) {
+async function fetchTradingView(positions, opts) {
   const tickers = positions.map((p) => p.tv).filter(Boolean);
   const payload = await httpRequest(TV_SCAN, {
-    fetchImpl,
+    fetchImpl: opts && opts.fetchImpl,
+    timeout: opts && opts.timeout,
     method: "POST",
     headers: { "content-type": "text/plain;charset=UTF-8" },
     body: JSON.stringify({ symbols: { tickers }, columns: TV_COLUMNS })
@@ -101,9 +216,7 @@ async function fetchTradingView(positions, fetchImpl) {
     map[item.s] = {
       price: row.close,
       changePct: row.change,
-      change: row.change_abs,
-      currency: row.currency,
-      name: row.description || row.name
+      currency: row.currency
     };
   }
   if (!Object.keys(map).length) throw new Error("TradingView vacío");
@@ -120,61 +233,26 @@ function quoteFromYahooChart(result) {
   return {
     price,
     changePct,
-    change,
     currency: meta.currency,
     name: meta.shortName || meta.symbol
   };
 }
 
-async function fetchYahooSpark(symbols, fetchImpl) {
-  const map = {};
-  const chunkSize = 10;
-  const headers = { "User-Agent": "Mozilla/5.0 (compatible; CarteraWidget/1.0)" };
-  for (let i = 0; i < symbols.length; i += chunkSize) {
-    const chunk = symbols.slice(i, i + chunkSize);
-    const url =
-      "https://query1.finance.yahoo.com/v7/finance/spark?symbols=" +
-      encodeURIComponent(chunk.join(",")) +
-      "&range=1d&interval=1d";
-    const payload = await httpRequest(url, { fetchImpl, headers });
-    for (const item of (payload.spark && payload.spark.result) || []) {
-      const quoted = quoteFromYahooChart(item.response && item.response[0]);
-      if (quoted) map[item.symbol] = quoted;
-    }
-  }
-  return map;
-}
-
-async function fetchYahooChart(symbols, fetchImpl) {
-  const map = {};
-  const headers = { "User-Agent": "Mozilla/5.0 (compatible; CarteraWidget/1.0)" };
-  for (const symbol of symbols) {
-    const url =
-      "https://query1.finance.yahoo.com/v8/finance/chart/" +
-      encodeURIComponent(symbol) +
-      "?interval=1d&range=5d";
-    try {
-      const payload = await httpRequest(url, { fetchImpl, headers });
-      const result = payload.chart && payload.chart.result && payload.chart.result[0];
-      const quoted = quoteFromYahooChart(result);
-      if (quoted) map[symbol] = quoted;
-    } catch (err) {
-      /* skip one ticker; others may still work */
-    }
-  }
-  return map;
-}
-
-async function fetchYahoo(positions, fetchImpl) {
+async function fetchYahooSpark(positions, opts) {
   const symbols = [...new Set(positions.map((p) => p.yahoo || p.symbol))];
-  let map = {};
-  try {
-    map = await fetchYahooSpark(symbols, fetchImpl);
-  } catch (err) {
-    map = {};
-  }
-  if (!Object.keys(map).length) {
-    map = await fetchYahooChart(symbols, fetchImpl);
+  const url =
+    "https://query1.finance.yahoo.com/v7/finance/spark?symbols=" +
+    encodeURIComponent(symbols.join(",")) +
+    "&range=1d&interval=1d";
+  const payload = await httpRequest(url, {
+    fetchImpl: opts && opts.fetchImpl,
+    timeout: opts && opts.timeout,
+    headers: { "User-Agent": "Mozilla/5.0 (compatible; CarteraWidget/1.0)" }
+  });
+  const map = {};
+  for (const item of (payload.spark && payload.spark.result) || []) {
+    const quoted = quoteFromYahooChart(item.response && item.response[0]);
+    if (quoted) map[item.symbol] = quoted;
   }
   if (!Object.keys(map).length) throw new Error("Yahoo vacío");
   return map;
@@ -198,17 +276,72 @@ function mergeRows(positions, quoteMap, key) {
   });
 }
 
-async function loadQuotes(fetchImpl) {
-  const positions = await loadPortfolio(fetchImpl);
-  let source = "tradingview";
-  let map = null;
+function snapshotFrom(positions, map, key, source) {
+  const rows = mergeRows(positions, map, key);
+  const priced = rows.filter((r) => !r.missing).length;
+  if (!priced) throw new Error("sin cotizaciones");
+  return {
+    positions,
+    rows,
+    source,
+    at: Date.now(),
+    stale: false
+  };
+}
+
+function cachedPayload(raw) {
+  if (!raw || !Array.isArray(raw.rows) || !raw.rows.length) return null;
+  return {
+    positions: compactPositions(raw.positions) || EMBEDDED_POSITIONS,
+    rows: raw.rows,
+    source: raw.source || "cache",
+    at: raw.at || 0,
+    stale: true
+  };
+}
+
+async function loadQuotes(opts) {
+  const options = opts || {};
+  const widget = runsInWidget(options);
+  const store = cacheStore(options);
+  const cached = cachedPayload(store.read());
+  const positions = (cached && cached.positions.length)
+    ? cached.positions
+    : EMBEDDED_POSITIONS.slice();
+
+  const tvTimeout = widget ? WIDGET_TV_TIMEOUT : APP_TV_TIMEOUT;
+  const budget = widget ? WIDGET_BUDGET_MS : 14000;
+  const tvP = fetchTradingView(positions, { fetchImpl: options.fetchImpl, timeout: tvTimeout });
+  const cfgP = widget
+    ? Promise.resolve(null)
+    : loadPortfolio({ fetchImpl: options.fetchImpl, timeout: APP_CONFIG_TIMEOUT }).catch(() => null);
+
   try {
-    map = await fetchTradingView(positions, fetchImpl);
-    return { rows: mergeRows(positions, map, "tv"), source, positions };
-  } catch (err) {
-    source = "yahoo";
-    map = await fetchYahoo(positions, fetchImpl);
-    return { rows: mergeRows(positions, map, "yahoo"), source, positions };
+    const map = await withBudget(tvP, budget);
+    const cfg = await Promise.race([cfgP, delay(widget ? 0 : 1200)]);
+    const nextPositions = cfg && cfg.length ? cfg : positions;
+    const data = snapshotFrom(nextPositions, map, "tv", "tradingview");
+    store.write({ positions: nextPositions, rows: data.rows, source: data.source, at: data.at });
+    return data;
+  } catch (tvErr) {
+    if (widget) {
+      if (cached) return cached;
+      throw tvErr;
+    }
+    try {
+      const map = await withBudget(
+        fetchYahooSpark(positions, { fetchImpl: options.fetchImpl, timeout: APP_YAHOO_TIMEOUT }),
+        APP_YAHOO_TIMEOUT * 1000
+      );
+      const cfg = await Promise.race([cfgP, delay(400)]);
+      const nextPositions = cfg && cfg.length ? cfg : positions;
+      const data = snapshotFrom(nextPositions, map, "yahoo", "yahoo");
+      store.write({ positions: nextPositions, rows: data.rows, source: data.source, at: data.at });
+      return data;
+    } catch (yahooErr) {
+      if (cached) return cached;
+      throw yahooErr;
+    }
   }
 }
 
@@ -242,6 +375,13 @@ function byGroupThenPct(rows) {
     });
 }
 
+function footerText(data) {
+  const when = new Date(data.at || Date.now());
+  if (data.stale) return "datos de " + formatHM(when);
+  const src = data.source === "yahoo" ? "Yahoo" : "TradingView";
+  return formatMadrid(when) + " · " + src;
+}
+
 function color(hex) {
   return new Color(hex);
 }
@@ -256,6 +396,7 @@ function addTitleRow(widget, title, subtitle) {
   const right = row.addText(subtitle);
   right.font = Font.systemFont(10);
   right.textColor = color(COLORS.muted);
+  right.lineLimit = 1;
 }
 
 function addBadge(stack, pct) {
@@ -290,7 +431,7 @@ function addQuoteRow(widget, row, compact) {
   addBadge(line, row.changePct);
 }
 
-async function createWidget(family, data) {
+function createWidget(family, data) {
   const widget = new ListWidget();
   widget.backgroundColor = color(COLORS.bg);
   widget.setPadding(12, 14, 12, 14);
@@ -299,10 +440,9 @@ async function createWidget(family, data) {
   next.setMinutes(next.getMinutes() + REFRESH_MINUTES);
   widget.refreshAfterDate = next;
 
-  const { rows, source } = data;
+  const { rows } = data;
   const stats = summarize(rows);
-  const when = formatMadrid(new Date());
-  const srcLabel = source === "yahoo" ? "Yahoo" : "TradingView";
+  const footLabel = footerText(data);
 
   if (family === "small") {
     const title = widget.addText("Cartera");
@@ -324,13 +464,14 @@ async function createWidget(family, data) {
       worst.textColor = color(COLORS.red);
     }
     widget.addSpacer();
-    const foot = widget.addText(when + "  ·  " + srcLabel);
+    const foot = widget.addText(footLabel);
     foot.font = Font.systemFont(9);
     foot.textColor = color(COLORS.muted);
+    foot.lineLimit = 1;
     return widget;
   }
 
-  addTitleRow(widget, "Cartera", when + " · " + srcLabel);
+  addTitleRow(widget, "Cartera", footLabel);
   widget.addSpacer(8);
 
   if (family === "medium") {
@@ -359,29 +500,41 @@ async function createWidget(family, data) {
   return widget;
 }
 
+function errorWidget(message) {
+  const widget = new ListWidget();
+  widget.backgroundColor = color(COLORS.bg);
+  widget.url = PAGE_URL;
+  const t = widget.addText("Cartera");
+  t.font = Font.boldSystemFont(16);
+  t.textColor = color(COLORS.text);
+  widget.addSpacer(8);
+  const e = widget.addText(message);
+  e.font = Font.systemFont(12);
+  e.textColor = color(COLORS.red);
+  e.lineLimit = 6;
+  return widget;
+}
+
 async function runWidget() {
+  const inWidget = runsInWidget();
   let data;
   try {
-    data = await loadQuotes();
+    data = await loadQuotes({ inWidget });
   } catch (error) {
-    const widget = new ListWidget();
-    widget.backgroundColor = color(COLORS.bg);
-    widget.url = PAGE_URL;
-    const t = widget.addText("Cartera");
-    t.font = Font.boldSystemFont(16);
-    t.textColor = color(COLORS.text);
-    widget.addSpacer(8);
-    const e = widget.addText("No se pudieron cargar las cotizaciones. " + error.message);
-    e.font = Font.systemFont(12);
-    e.textColor = color(COLORS.red);
+    const widget = errorWidget(
+      inWidget
+        ? "Sin datos. Abre Scriptable y pulsa Play una vez."
+        : "No se pudieron cargar las cotizaciones. " + error.message
+    );
     Script.setWidget(widget);
+    if (!inWidget) await widget.presentSmall();
     Script.complete();
     return;
   }
-  const family = config.widgetFamily || "medium";
-  const widget = await createWidget(family, data);
+  const family = (typeof config !== "undefined" && config.widgetFamily) || "medium";
+  const widget = createWidget(family, data);
   Script.setWidget(widget);
-  if (!config.runsInWidget) {
+  if (!inWidget) {
     if (family === "small") await widget.presentSmall();
     else if (family === "large") await widget.presentLarge();
     else await widget.presentMedium();
@@ -391,10 +544,10 @@ async function runWidget() {
 
 if (typeof module !== "undefined" && module.exports) {
   module.exports = {
+    EMBEDDED_POSITIONS,
     loadPortfolio,
     fetchTradingView,
-    fetchYahoo,
-    fetchYahooChart,
+    fetchYahooSpark,
     loadQuotes,
     summarize,
     topMovers,
@@ -402,7 +555,11 @@ if (typeof module !== "undefined" && module.exports) {
     signedPct,
     nf,
     formatMadrid,
-    mergeRows
+    formatHM,
+    footerText,
+    mergeRows,
+    WIDGET_BUDGET_MS,
+    WIDGET_TV_TIMEOUT
   };
 } else {
   void runWidget();
