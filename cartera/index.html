@@ -9,7 +9,17 @@
   <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
-  <div class="app">
+  <div id="gate" class="gate">
+    <form id="gateForm" class="gate-card">
+      <h1>Cartera</h1>
+      <p class="gate-copy">Introduce la contraseña para ver las cotizaciones.</p>
+      <label class="gate-label" for="gatePassword">Contraseña</label>
+      <input id="gatePassword" class="gate-input" type="password" name="password" autocomplete="current-password" required>
+      <button class="gate-btn" id="gateSubmit" type="submit">Entrar</button>
+      <p class="gate-error" id="gateError" hidden>Contraseña incorrecta.</p>
+    </form>
+  </div>
+  <div class="app" id="app" hidden>
     <header>
       <div class="refresh-cluster" role="group" aria-label="Actualización">
         <button class="refresh-btn" id="refreshBtn" type="button">Actualizar</button>
@@ -35,9 +45,13 @@
     <section id="list" class="list" aria-live="polite"></section>
 
     <footer>
-      Cotizaciones en vivo: scanner de TradingView (sin clave; ~15 min de retraso, <span class="mono">delayed_streaming_900</span>).
-      Gráficos intradía: Yahoo Finance vía snapshot de GitHub Actions (~30 min) y último precio en vivo.
-      No es asesoramiento financiero. Edita tickers en <span class="mono">data/cartera.json</span>.
+      <div class="source-cluster" role="group" aria-label="Fuente de cotizaciones">
+        <button type="button" class="source-btn" data-source="tv">TradingView</button>
+        <button type="button" class="source-btn" data-source="yahoo">Yahoo</button>
+      </div>
+      <p>Yahoo en el navegador pasa por el lector público de Jina (<span class="mono">r.jina.ai</span>) porque Yahoo no envía CORS. Si falla, se usa TradingView.</p>
+      <p>No es asesoramiento financiero. Edita tickers en <span class="mono">data/cartera.json</span>.</p>
+      <button type="button" class="logout" id="logoutBtn">Cerrar sesión</button>
     </footer>
   </div>
   <script src="./app.js"></script>

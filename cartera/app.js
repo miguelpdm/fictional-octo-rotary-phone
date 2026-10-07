@@ -1,6 +1,16 @@
 (() => {
   const TZ = "Europe/Madrid";
   const AUTO_KEY = "cartera-auto-refresh";
+  const SORT_KEY = "cartera-sort";
+  const SOURCE_KEY = "cartera-live-source";
+  const UNLOCK_KEY = "cartera-unlock";
+  const AUTH = {
+    saltHex: "1b650c734f8a9d75eded8004053a84da",
+    iterations: 310000,
+    bits: 256,
+    hashHex: "0f00bb2e9d428fdef5ef5649c61add1435046eb2944c78fe573e23ed8315c964"
+  };
+  const SORT_DEFAULT_DIR = { priority: "asc", change: "desc", name: "asc", volume: "desc" };
   const TV_COLUMNS = [
     "name", "description", "close", "change", "change_abs", "volume",
     "high", "low", "open", "currency", "exchange", "type", "update_mode",
@@ -36,12 +46,21 @@
   let rows = [];
   let filter = "all";
   let sort = "priority";
+  let sortDir = "asc";
+  let preferredSource = "tv";
   let expanded = new Set();
   let autoTimer = null;
   let lastLiveAt = null;
   let liveSource = "snapshot";
+  let started = false;
 
   const els = {
+    gate: document.getElementById("gate"),
+    gateForm: document.getElementById("gateForm"),
+    gatePassword: document.getElementById("gatePassword"),
+    gateSubmit: document.getElementById("gateSubmit"),
+    gateError: document.getElementById("gateError"),
+    app: document.getElementById("app"),
     refresh: document.getElementById("refreshBtn"),
     auto: document.getElementById("autoRefresh"),
     status: document.getElementById("statusLine"),
@@ -50,7 +69,8 @@
     markets: document.getElementById("markets"),
     filters: document.getElementById("filterChips"),
     sorts: document.getElementById("sortChips"),
-    list: document.getElementById("list")
+    list: document.getElementById("list"),
+    logout: document.getElementById("logoutBtn")
   };
 
   const nf = (value, digits = 2) => new Intl.NumberFormat("es-ES", {
@@ -164,9 +184,85 @@
     };
   }
 
-  function mergeQuote(position, tvMap) {
+  function yahooSession(meta) {
+    const regular = meta?.currentTradingPeriod?.regular;
+    if (!regular?.start || !regular?.end) return null;
+    const now = Math.floor(Date.now() / 1000);
+    if (now >= regular.start && now < regular.end) return "market";
+    if (now < regular.start) return "pre_market";
+    return "out_of_session";
+  }
+
+  function fromYahooChart(result) {
+    const meta = result?.meta;
+    if (!meta || meta.regularMarketPrice == null) return null;
+    const timestamps = result.timestamp || [];
+    const closes = result.indicators?.quote?.[0]?.close || [];
+    const spark = [];
+    timestamps.forEach((t, i) => {
+      if (closes[i] != null) spark.push({ t, v: closes[i] });
+    });
+    const previousClose = meta.chartPreviousClose || meta.previousClose;
+    const price = meta.regularMarketPrice;
+    const change = previousClose ? price - previousClose : 0;
+    const changePct = previousClose ? (change / previousClose) * 100 : 0;
+    return {
+      price,
+      previousClose,
+      change,
+      changePct,
+      currency: meta.currency,
+      exchange: meta.fullExchangeName || meta.exchangeName,
+      timezone: meta.exchangeTimezoneName,
+      dayHigh: meta.regularMarketDayHigh,
+      dayLow: meta.regularMarketDayLow,
+      volume: meta.regularMarketVolume,
+      weekHigh: meta.fiftyTwoWeekHigh,
+      weekLow: meta.fiftyTwoWeekLow,
+      spark,
+      session: yahooSession(meta),
+      updateMode: "yahoo",
+      source: "yahoo",
+      lastBar: meta.regularMarketTime
+    };
+  }
+
+  function parseJinaJson(text) {
+    const start = text.indexOf("{");
+    const end = text.lastIndexOf("}");
+    if (start < 0 || end <= start) throw new Error("Jina no devolvió JSON");
+    return JSON.parse(text.slice(start, end + 1));
+  }
+
+  async function fetchYahooViaJina(yahooUrl) {
+    const res = await fetch(`https://r.jina.ai/${yahooUrl}`, { cache: "no-store" });
+    if (!res.ok) throw new Error(`Jina HTTP ${res.status}`);
+    return parseJinaJson(await res.text());
+  }
+
+  async function fetchYahooLive(positions) {
+    const symbols = positions.map((p) => p.yahoo || p.symbol);
+    const unique = [...new Set(symbols)];
+    const map = {};
+    const chunkSize = 10;
+    for (let i = 0; i < unique.length; i += chunkSize) {
+      const chunk = unique.slice(i, i + chunkSize);
+      const url = `https://query1.finance.yahoo.com/v7/finance/spark?symbols=${encodeURIComponent(chunk.join(","))}&range=1d&interval=5m&includePrePost=false`;
+      const payload = await fetchYahooViaJina(url);
+      for (const item of payload.spark?.result || []) {
+        const quoted = fromYahooChart(item.response?.[0]);
+        if (quoted) map[item.symbol] = quoted;
+      }
+    }
+    if (!Object.keys(map).length) throw new Error("Yahoo no devolvió cotizaciones");
+    return map;
+  }
+
+  function mergeQuote(position, tvMap, yahooMap) {
     const snap = fromSnapshot(position);
-    const live = tvMap ? fromTv(position, tvMap) : null;
+    const yahoo = yahooMap ? yahooMap[position.yahoo || position.symbol] : null;
+    const liveTv = tvMap ? fromTv(position, tvMap) : null;
+    const live = yahoo || liveTv;
     const quote = live || snap;
     if (!quote) {
       return {
@@ -176,7 +272,7 @@
       };
     }
 
-    const spark = [...(snap?.spark || [])];
+    let spark = yahoo?.spark?.length ? [...yahoo.spark] : [...(snap?.spark || [])];
     if (live?.price != null) {
       const last = spark[spark.length - 1];
       if (!last || Math.abs(last.v - live.price) > 1e-9) {
@@ -203,13 +299,14 @@
     });
 
     const groupRank = Object.fromEntries((config.groups || []).map((g, i) => [g.id, i]));
+    const dir = sortDir === "asc" ? 1 : -1;
     list = [...list].sort((a, b) => {
-      if (sort === "change") return (b.changePct ?? -999) - (a.changePct ?? -999);
-      if (sort === "name") return a.name.localeCompare(b.name, "es");
-      if (sort === "volume") return (b.relVolume ?? -1) - (a.relVolume ?? -1);
+      if (sort === "change") return dir * ((a.changePct ?? -999) - (b.changePct ?? -999));
+      if (sort === "name") return dir * a.name.localeCompare(b.name, "es");
+      if (sort === "volume") return dir * ((a.relVolume ?? -1) - (b.relVolume ?? -1));
       const ga = groupRank[a.group] ?? 99;
       const gb = groupRank[b.group] ?? 99;
-      if (ga !== gb) return ga - gb;
+      if (ga !== gb) return dir * (ga - gb);
       return 0;
     });
     return list;
@@ -367,9 +464,11 @@
     els.filters.innerHTML = FILTERS.map((item) =>
       `<button class="chip ${filter === item.id ? "active" : ""}" data-filter="${item.id}" type="button">${item.label}</button>`
     ).join("");
-    els.sorts.innerHTML = SORTS.map((item) =>
-      `<button class="chip ${sort === item.id ? "active" : ""}" data-sort="${item.id}" type="button">${item.label}</button>`
-    ).join("");
+    els.sorts.innerHTML = SORTS.map((item) => {
+      const active = sort === item.id;
+      const arrow = active ? (sortDir === "asc" ? "↑" : "↓") : "";
+      return `<button class="chip ${active ? "active" : ""}" data-sort="${item.id}" type="button">${item.label}${arrow ? `<span class="dir">${arrow}</span>` : ""}</button>`;
+    }).join("");
   }
 
   function renderAll() {
@@ -388,17 +487,36 @@
     els.refresh.disabled = true;
     try {
       let tvMap = null;
-      try {
-        const tickers = config.positions.map((p) => p.tv).filter(Boolean);
-        tvMap = await fetchTradingView(tickers);
-        liveSource = "tradingview";
-        lastLiveAt = new Date();
-      } catch (error) {
-        liveSource = "snapshot";
-        console.warn("TradingView falló, usando snapshot", error);
+      let yahooMap = null;
+      liveSource = "snapshot";
+      if (preferredSource === "yahoo") {
+        try {
+          yahooMap = await fetchYahooLive(config.positions);
+          liveSource = "yahoo";
+          lastLiveAt = new Date();
+        } catch (error) {
+          console.warn("Yahoo falló, usando TradingView", error);
+          try {
+            const tickers = config.positions.map((p) => p.tv).filter(Boolean);
+            tvMap = await fetchTradingView(tickers);
+            liveSource = "tv-fallback";
+            lastLiveAt = new Date();
+          } catch (tvError) {
+            console.warn("TradingView también falló", tvError);
+          }
+        }
+      } else {
+        try {
+          const tickers = config.positions.map((p) => p.tv).filter(Boolean);
+          tvMap = await fetchTradingView(tickers);
+          liveSource = "tradingview";
+          lastLiveAt = new Date();
+        } catch (error) {
+          console.warn("TradingView falló, usando snapshot", error);
+        }
       }
 
-      rows = config.positions.map((position) => mergeQuote(position, tvMap));
+      rows = config.positions.map((position) => mergeQuote(position, tvMap, yahooMap));
       const failed = rows.filter((r) => r.missing).map((r) => r.symbol);
       const when = lastLiveAt
         ? dt(lastLiveAt, { dateStyle: "short", timeStyle: "medium" })
@@ -407,7 +525,13 @@
         ? dt(new Date(snapshot.updatedAt), { dateStyle: "short", timeStyle: "short" })
         : "n/d";
 
-      if (liveSource === "tradingview") {
+      if (liveSource === "yahoo") {
+        setStatus(`Última actualización (Madrid): ${when}. Fuente en vivo: Yahoo Finance (vía Jina).`);
+        els.delay.textContent = "Yahoo gratuito suele ir con ~15 min de retraso (también en EE. UU.). Sparklines del propio gráfico Yahoo.";
+      } else if (liveSource === "tv-fallback") {
+        setStatus(`Última actualización (Madrid): ${when}. Yahoo no respondió; fuente en vivo: TradingView.`);
+        els.delay.textContent = "Reintento automático a TradingView (~15 min de retraso). Sparklines: snapshot Yahoo " + snapWhen + ".";
+      } else if (liveSource === "tradingview") {
         setStatus(`Última actualización (Madrid): ${when}. Fuente en vivo: TradingView.`);
         els.delay.textContent = "Fuente en vivo TradingView (~15 min de retraso). Sparklines: snapshot Yahoo " + snapWhen + ".";
       } else {
@@ -417,6 +541,7 @@
       if (failed.length) {
         els.delay.textContent += ` Sin cotización: ${failed.join(", ")}.`;
       }
+      renderSourceButtons();
       renderAll();
     } catch (error) {
       setStatus(`Error al cargar la cartera. ${error.message}`);
@@ -445,10 +570,37 @@
     renderAll();
   });
 
+  function loadSortPrefs() {
+    try {
+      const saved = JSON.parse(localStorage.getItem(SORT_KEY) || "null");
+      if (saved && SORTS.some((item) => item.id === saved.key) && (saved.dir === "asc" || saved.dir === "desc")) {
+        sort = saved.key;
+        sortDir = saved.dir;
+      }
+    } catch {}
+  }
+
+  function saveSortPrefs() {
+    localStorage.setItem(SORT_KEY, JSON.stringify({ key: sort, dir: sortDir }));
+  }
+
+  function renderSourceButtons() {
+    document.querySelectorAll(".source-btn").forEach((btn) => {
+      btn.classList.toggle("active", btn.dataset.source === preferredSource);
+    });
+  }
+
   els.sorts.addEventListener("click", (event) => {
     const btn = event.target.closest("[data-sort]");
     if (!btn) return;
-    sort = btn.dataset.sort;
+    const next = btn.dataset.sort;
+    if (sort === next) {
+      sortDir = sortDir === "asc" ? "desc" : "asc";
+    } else {
+      sort = next;
+      sortDir = SORT_DEFAULT_DIR[next] || "asc";
+    }
+    saveSortPrefs();
     renderAll();
   });
 
@@ -560,11 +712,61 @@
   els.auto.addEventListener("change", applyAutoRefresh);
 
   document.addEventListener("visibilitychange", () => {
-    if (document.visibilityState === "visible") refresh({ silent: true });
+    if (started && document.visibilityState === "visible") refresh({ silent: true });
   });
 
+  document.querySelectorAll(".source-btn").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      preferredSource = btn.dataset.source === "yahoo" ? "yahoo" : "tv";
+      localStorage.setItem(SOURCE_KEY, preferredSource);
+      renderSourceButtons();
+      refresh();
+    });
+  });
+
+  function hexToBytes(hex) {
+    const bytes = new Uint8Array(hex.length / 2);
+    for (let i = 0; i < bytes.length; i += 1) bytes[i] = parseInt(hex.slice(i * 2, i * 2 + 2), 16);
+    return bytes;
+  }
+
+  function bytesToHex(buffer) {
+    return [...new Uint8Array(buffer)].map((b) => b.toString(16).padStart(2, "0")).join("");
+  }
+
+  async function derivePassword(password) {
+    const material = await crypto.subtle.importKey("raw", new TextEncoder().encode(password), "PBKDF2", false, ["deriveBits"]);
+    const bits = await crypto.subtle.deriveBits(
+      { name: "PBKDF2", hash: "SHA-256", salt: hexToBytes(AUTH.saltHex), iterations: AUTH.iterations },
+      material,
+      AUTH.bits
+    );
+    return bytesToHex(bits);
+  }
+
+  function isUnlocked() {
+    return localStorage.getItem(UNLOCK_KEY) === AUTH.hashHex;
+  }
+
+  function showApp() {
+    els.gate.hidden = true;
+    els.app.hidden = false;
+  }
+
+  function showGate() {
+    els.app.hidden = true;
+    els.gate.hidden = false;
+    els.gateError.hidden = true;
+    els.gatePassword.value = "";
+  }
+
   async function init() {
+    if (started) return;
+    started = true;
+    preferredSource = localStorage.getItem(SOURCE_KEY) === "yahoo" ? "yahoo" : "tv";
+    loadSortPrefs();
     els.auto.checked = localStorage.getItem(AUTO_KEY) === "on";
+    renderSourceButtons();
     renderChips();
     try {
       config = await loadJson("../data/cartera.json");
@@ -581,5 +783,42 @@
     await refresh();
   }
 
-  init();
+  els.gateForm.addEventListener("submit", async (event) => {
+    event.preventDefault();
+    els.gateError.hidden = true;
+    els.gateSubmit.disabled = true;
+    els.gateSubmit.textContent = "Comprobando…";
+    try {
+      const derived = await derivePassword(els.gatePassword.value);
+      if (derived !== AUTH.hashHex) {
+        els.gateError.hidden = false;
+        return;
+      }
+      localStorage.setItem(UNLOCK_KEY, derived);
+      els.gatePassword.value = "";
+      showApp();
+      await init();
+    } catch (error) {
+      els.gateError.hidden = false;
+      els.gateError.textContent = "No se pudo comprobar la contraseña.";
+    } finally {
+      els.gateSubmit.disabled = false;
+      els.gateSubmit.textContent = "Entrar";
+    }
+  });
+
+  els.logout.addEventListener("click", () => {
+    localStorage.removeItem(UNLOCK_KEY);
+    started = false;
+    if (autoTimer) {
+      clearInterval(autoTimer);
+      autoTimer = null;
+    }
+    showGate();
+  });
+
+  if (isUnlocked()) {
+    showApp();
+    init();
+  }
 })();

@@ -24,6 +24,74 @@ html, body {
 
 body { padding: env(safe-area-inset-top) 0 env(safe-area-inset-bottom); }
 
+.gate[hidden], .app[hidden] { display: none !important; }
+
+.gate {
+  min-height: 100dvh;
+  display: grid;
+  place-items: center;
+  padding: 1.25rem;
+}
+
+.gate-card {
+  width: min(100%, 22rem);
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  padding: 1.25rem 1.1rem 1.15rem;
+}
+
+.gate-card h1 {
+  font-size: 1.35rem;
+  letter-spacing: -0.03em;
+  margin-bottom: 0.4rem;
+}
+
+.gate-copy, .gate-error {
+  color: var(--muted);
+  font-size: 0.88rem;
+  margin-bottom: 0.9rem;
+  line-height: 1.4;
+}
+
+.gate-label {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 650;
+  margin-bottom: 0.35rem;
+}
+
+.gate-input {
+  width: 100%;
+  border: 1px solid var(--line);
+  background: var(--bg);
+  color: var(--text);
+  border-radius: 12px;
+  padding: 0.7rem 0.8rem;
+  font: inherit;
+  margin-bottom: 0.75rem;
+}
+
+.gate-input:focus {
+  outline: 2px solid color-mix(in srgb, var(--blue) 55%, transparent);
+  outline-offset: 1px;
+}
+
+.gate-btn {
+  width: 100%;
+  border: 0;
+  background: var(--blue);
+  color: #042033;
+  border-radius: 12px;
+  padding: 0.7rem;
+  font-weight: 750;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+
+.gate-btn:disabled { opacity: 0.65; cursor: wait; }
+.gate-error { color: #ff9f9a; margin: 0.7rem 0 0; }
+
 .app {
   max-width: 720px;
   margin: 0 auto;
@@ -193,6 +261,7 @@ header {
 }
 
 .chip.active { color: var(--text); border-color: #4a5568; background: var(--panel-2); }
+.chip .dir { font-size: 0.72rem; margin-left: 0.2rem; }
 
 .list { display: grid; gap: 0.45rem; }
 
@@ -368,6 +437,41 @@ footer {
   color: var(--muted);
   line-height: 1.45;
   text-align: center;
+}
+
+.source-cluster {
+  display: inline-flex;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  overflow: hidden;
+  margin: 0 auto 0.75rem;
+  background: var(--panel);
+}
+
+.source-btn {
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  padding: 0.4rem 0.75rem;
+  font: inherit;
+  font-size: 0.75rem;
+  font-weight: 650;
+  cursor: pointer;
+}
+
+.source-btn + .source-btn { border-left: 1px solid var(--line); }
+.source-btn.active { color: var(--text); background: var(--panel-2); }
+
+.logout {
+  display: inline-block;
+  margin-top: 0.7rem;
+  border: 0;
+  background: none;
+  color: var(--blue);
+  font: inherit;
+  font-size: 0.75rem;
+  cursor: pointer;
+  text-decoration: underline;
 }
 
 .mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.68rem; }
