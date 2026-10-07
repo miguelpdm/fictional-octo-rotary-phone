@@ -11,13 +11,13 @@
 <body>
   <div class="app">
     <header>
-      <div class="toolbar">
+      <div class="refresh-cluster" role="group" aria-label="Actualización">
+        <button class="refresh-btn" id="refreshBtn" type="button">Actualizar</button>
         <label class="toggle" for="autoRefresh">
-          <span>Auto-refresco 1 min</span>
+          <span>Auto 1 min</span>
           <input id="autoRefresh" type="checkbox" role="switch">
           <span class="track" aria-hidden="true"></span>
         </label>
-        <button class="refresh-btn" id="refreshBtn" type="button">Actualizar</button>
       </div>
       <p class="meta" id="statusLine">Cargando cartera…</p>
       <p class="delay" id="delayLine">Cotizaciones gratuitas con ~15 min de retraso.</p>
