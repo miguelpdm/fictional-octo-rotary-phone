@@ -106,8 +106,7 @@ header {
 
 .toggle input:checked + .track { background: var(--green); }
 .toggle input:checked + .track::after { transform: translateX(14px); }
-.toggle input:checked ~ span,
-.toggle:has(input:checked) span { color: var(--text); }
+.toggle:has(input:checked) > span:first-child { color: var(--text); }
 .toggle input:focus-visible + .track { outline: 2px solid var(--blue); outline-offset: 2px; }
 
 .meta, .delay {
