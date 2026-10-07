@@ -1,0 +1,35 @@
+{
+  "title": "Cartera de Miguel",
+  "subtitle": "Acciones y ETC · vista diaria",
+  "groups": [
+    { "id": "P0", "label": "P0 · prioridad alta", "short": "P0" },
+    { "id": "P1", "label": "P1 · seguimiento", "short": "P1" },
+    { "id": "P2", "label": "P2 · materias primas", "short": "P2" }
+  ],
+  "positions": [
+    { "symbol": "QTRX", "tv": "NASDAQ:QTRX", "yahoo": "QTRX", "name": "Quanterix", "group": "P0", "quantity": null, "avgCost": null },
+    { "symbol": "HUMA", "tv": "NASDAQ:HUMA", "yahoo": "HUMA", "name": "Humacyte", "group": "P0", "quantity": null, "avgCost": null },
+    { "symbol": "LFMD", "tv": "NASDAQ:LFMD", "yahoo": "LFMD", "name": "LifeMD", "group": "P0", "quantity": null, "avgCost": null },
+    { "symbol": "IFRX", "tv": "NASDAQ:IFRX", "yahoo": "IFRX", "name": "InflaRx", "group": "P0", "quantity": null, "avgCost": null },
+    { "symbol": "UPXI", "tv": "NASDAQ:UPXI", "yahoo": "UPXI", "name": "Upexi", "group": "P0", "quantity": null, "avgCost": null },
+    { "symbol": "CHTR", "tv": "NASDAQ:CHTR", "yahoo": "CHTR", "name": "Charter Communications", "group": "P0", "quantity": null, "avgCost": null },
+    { "symbol": "UMG.AS", "tv": "EURONEXT:UMG", "yahoo": "UMG.AS", "name": "Universal Music Group", "group": "P0", "quantity": null, "avgCost": null },
+
+    { "symbol": "HIMS", "tv": "NYSE:HIMS", "yahoo": "HIMS", "name": "Hims & Hers Health", "group": "P1", "quantity": null, "avgCost": null },
+    { "symbol": "EL.PA", "tv": "EURONEXT:EL", "yahoo": "EL.PA", "name": "EssilorLuxottica", "group": "P1", "quantity": null, "avgCost": null },
+    { "symbol": "GRF.MC", "tv": "BME:GRF", "yahoo": "GRF.MC", "name": "Grifols", "group": "P1", "quantity": null, "avgCost": null },
+    { "symbol": "SABR", "tv": "NASDAQ:SABR", "yahoo": "SABR", "name": "Sabre", "group": "P1", "quantity": null, "avgCost": null },
+    { "symbol": "ADBE", "tv": "NASDAQ:ADBE", "yahoo": "ADBE", "name": "Adobe", "group": "P1", "quantity": null, "avgCost": null },
+    { "symbol": "RED.MC", "tv": "BME:RED", "yahoo": "RED.MC", "name": "Redeia", "group": "P1", "quantity": null, "avgCost": null },
+    { "symbol": "ASST", "tv": "NASDAQ:ASST", "yahoo": "ASST", "name": "Strive", "group": "P1", "quantity": null, "avgCost": null },
+    { "symbol": "BKNG", "tv": "NASDAQ:BKNG", "yahoo": "BKNG", "name": "Booking Holdings", "group": "P1", "quantity": null, "avgCost": null },
+    { "symbol": "PG", "tv": "NYSE:PG", "yahoo": "PG", "name": "Procter & Gamble", "group": "P1", "quantity": null, "avgCost": null },
+    { "symbol": "SPGI", "tv": "NYSE:SPGI", "yahoo": "SPGI", "name": "S&P Global", "group": "P1", "quantity": null, "avgCost": null },
+    { "symbol": "ACN", "tv": "NYSE:ACN", "yahoo": "ACN", "name": "Accenture", "group": "P1", "quantity": null, "avgCost": null },
+
+    { "symbol": "BRNT.MI", "tv": "EURONEXT:BRNT", "yahoo": "BRNT.MI", "name": "WisdomTree Brent Crude Oil", "group": "P2", "quantity": null, "avgCost": null, "note": "Yahoo: BRNT.MI (Milán). Cotización en vivo vía Euronext:BRNT; TradingView no lista el ticker milanés." },
+    { "symbol": "SGLD.L", "tv": "LSE:SGLD", "yahoo": "SGLD.L", "name": "Invesco Physical Gold", "group": "P2", "quantity": null, "avgCost": null },
+    { "symbol": "SSLV.L", "tv": "LSE:SSLV", "yahoo": "SSLV.L", "name": "Invesco Physical Silver", "group": "P2", "quantity": null, "avgCost": null, "note": "«SILV» no existe como ETC/acción en Yahoo. Se usa SSLV.L (ETC de plata de Invesco, pareja de SGLD.L). Cámbialo aquí si no es el producto correcto." },
+    { "symbol": "XGLD.L", "tv": "LSE:XGLD", "yahoo": "XGLD.L", "name": "Xtrackers Physical Gold ETC", "group": "P2", "quantity": null, "avgCost": null, "note": "XGLD.DE no resuelve en Yahoo ni en TradingView. Se usa XGLD.L (Londres). Si era otro ticker Xetra, edítalo en este JSON." }
+  ]
+}
