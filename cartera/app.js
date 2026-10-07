@@ -215,28 +215,38 @@
     return list;
   }
 
-  function sparkSvg(points, previousClose, wide) {
-    const values = (points || []).map((p) => p.v).filter((v) => v != null);
+  function chartHtml(points, previousClose, wide, currency) {
+    const samples = (points || []).filter((p) => p && p.v != null && p.t != null);
     const w = wide ? 320 : 72;
     const h = wide ? 140 : 36;
-    if (values.length < 2) {
-      return `<svg class="${wide ? "big-spark" : "spark"}" viewBox="0 0 ${w} ${h}" aria-hidden="true"></svg>`;
+    const klass = wide ? "chart chart-wide" : "chart chart-mini";
+    if (samples.length < 2) {
+      return `<div class="${klass}" aria-hidden="true"><svg viewBox="0 0 ${w} ${h}"></svg></div>`;
     }
+    const values = samples.map((p) => p.v);
     const min = Math.min(...values, previousClose ?? values[0]);
     const max = Math.max(...values, previousClose ?? values[0]);
     const span = max - min || 1;
-    const step = (w - 2) / (values.length - 1);
+    const step = (w - 2) / (samples.length - 1);
     const y = (v) => h - 3 - ((v - min) / span) * (h - 6);
     const d = values.map((v, i) => `${i === 0 ? "M" : "L"} ${1 + i * step} ${y(v)}`).join(" ");
     const area = `${d} L ${w - 1} ${h} L 1 ${h} Z`;
     const up = (values[values.length - 1] ?? 0) >= (previousClose ?? values[0]);
     const color = up ? "#30d158" : "#ff453a";
     const prev = previousClose == null ? "" : `<line x1="0" x2="${w}" y1="${y(previousClose)}" y2="${y(previousClose)}" stroke="${color}" stroke-dasharray="3 3" stroke-width="1" opacity="0.7"/>`;
-    return `<svg class="${wide ? "big-spark" : "spark"}" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" aria-hidden="true">
-      <path d="${area}" fill="${color}" opacity="0.16"></path>
-      <path d="${d}" fill="none" stroke="${color}" stroke-width="${wide ? 2 : 1.5}" stroke-linejoin="round" stroke-linecap="round"></path>
-      ${prev}
-    </svg>`;
+    const payload = encodeURIComponent(JSON.stringify(samples));
+    return `<div class="${klass}" role="img" aria-label="Gráfico intradía. Mantén pulsado o arrastra para ver precio y hora." data-wide="${wide ? 1 : 0}" data-ccy="${currency || ""}" data-prev="${previousClose ?? ""}" data-spark="${payload}">
+      <svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">
+        <path d="${area}" fill="${color}" opacity="0.16"></path>
+        <path d="${d}" fill="none" stroke="${color}" stroke-width="${wide ? 2 : 1.5}" stroke-linejoin="round" stroke-linecap="round"></path>
+        ${prev}
+        <g class="xh" hidden>
+          <line class="xh-v" y1="0" y2="${h}"></line>
+          <circle class="xh-dot" r="${wide ? 4.2 : 3}"></circle>
+        </g>
+      </svg>
+      <div class="chart-tip" hidden></div>
+    </div>`;
   }
 
   function rangeBar(low, high, price, lowLabel, highLabel, title) {
@@ -308,7 +318,7 @@
     els.list.innerHTML = list.map((row) => {
       const open = expanded.has(row.symbol);
       if (row.missing) {
-        return `<button class="row ${open ? "open" : ""}" data-symbol="${row.symbol}" type="button">
+        return `<article class="row ${open ? "open" : ""}" data-symbol="${row.symbol}">
           <div class="row-main">
             <div><div class="sym">${row.symbol}<span class="group-tag">${row.group}</span></div>
             <div class="name">${row.name}</div></div>
@@ -316,14 +326,14 @@
             <div class="right"><div class="price">n/d</div><div class="badge flat">Sin datos</div></div>
           </div>
           <div class="details"><p class="error">${row.error || "Ticker no resuelto."} ${row.note || ""}</p></div>
-        </button>`;
+        </article>`;
       }
 
       const klass = dirClass(row.changePct || 0);
       const delayed = String(row.updateMode || "").includes("delayed");
       const volTxt = row.relVolume != null ? `Vol. ${nf(row.relVolume, 2)}× media 10d` : (row.volume != null ? `Vol. ${nf(row.volume, 0)}` : "");
       const details = `
-        ${sparkSvg(row.spark, row.previousClose, true)}
+        ${chartHtml(row.spark, row.previousClose, true, row.currency)}
         <div class="stats">
           ${rangeBar(row.dayLow, row.dayHigh, row.price, nf(row.dayLow ?? 0, priceDigits(row.dayLow || 0)), nf(row.dayHigh ?? 0, priceDigits(row.dayHigh || 0)), "Rango del día")}
           ${rangeBar(row.weekLow, row.weekHigh, row.price, nf(row.weekLow ?? 0, priceDigits(row.weekLow || 0)), nf(row.weekHigh ?? 0, priceDigits(row.weekHigh || 0)), "52 semanas")}
@@ -336,20 +346,20 @@
         ${row.usedSnapshot ? '<p class="note">Precio del snapshot de GitHub Actions (la fuente en vivo no respondió para este ticker).</p>' : ""}
       `;
 
-      return `<button class="row ${open ? "open" : ""}" data-symbol="${row.symbol}" type="button" aria-expanded="${open}">
+      return `<article class="row ${open ? "open" : ""}" data-symbol="${row.symbol}">
         <div class="row-main">
           <div>
             <div class="sym">${row.symbol}<span class="group-tag">${row.group}</span></div>
             <div class="name">${row.name}</div>
           </div>
-          ${sparkSvg(row.spark, row.previousClose, false)}
+          ${chartHtml(row.spark, row.previousClose, false, row.currency)}
           <div class="right">
             <div class="price">${nf(row.price, priceDigits(row.price))}<span class="ccy">${row.currency || ""}</span></div>
             <div class="badge ${klass}">${signedPct(row.changePct)}</div>
           </div>
         </div>
         <div class="details">${details}</div>
-      </button>`;
+      </article>`;
     }).join("");
   }
 
@@ -442,9 +452,104 @@
     renderAll();
   });
 
+  let chartPointer = null;
+  let ignoreRowClick = false;
+
+  function chartSamples(chart) {
+    try {
+      return JSON.parse(decodeURIComponent(chart.dataset.spark || "")) || [];
+    } catch {
+      return [];
+    }
+  }
+
+  function hideChartTip(chart) {
+    const xh = chart.querySelector(".xh");
+    const tip = chart.querySelector(".chart-tip");
+    if (xh) xh.setAttribute("hidden", "");
+    if (tip) tip.hidden = true;
+  }
+
+  function showChartTip(chart, clientX) {
+    const samples = chartSamples(chart);
+    if (samples.length < 2) return;
+    const prevRaw = chart.dataset.prev;
+    const previousClose = prevRaw === "" ? null : Number(prevRaw);
+    const wide = chart.dataset.wide === "1";
+    const w = wide ? 320 : 72;
+    const h = wide ? 140 : 36;
+    const values = samples.map((p) => p.v);
+    const min = Math.min(...values, previousClose ?? values[0]);
+    const max = Math.max(...values, previousClose ?? values[0]);
+    const span = max - min || 1;
+    const rect = chart.getBoundingClientRect();
+    const ratio = Math.max(0, Math.min(1, (clientX - rect.left) / Math.max(rect.width, 1)));
+    const i = Math.round(ratio * (samples.length - 1));
+    const pt = samples[i];
+    const x = 1 + i * ((w - 2) / (samples.length - 1));
+    const y = h - 3 - ((pt.v - min) / span) * (h - 6);
+    const xh = chart.querySelector(".xh");
+    const vLine = chart.querySelector(".xh-v");
+    const dot = chart.querySelector(".xh-dot");
+    const tip = chart.querySelector(".chart-tip");
+    if (!xh || !vLine || !dot || !tip) return;
+    xh.removeAttribute("hidden");
+    vLine.setAttribute("x1", x);
+    vLine.setAttribute("x2", x);
+    dot.setAttribute("cx", x);
+    dot.setAttribute("cy", y);
+    const time = dt(new Date(pt.t * 1000), { hour: "2-digit", minute: "2-digit", hourCycle: "h23" });
+    const ccy = chart.dataset.ccy || "";
+    tip.hidden = false;
+    tip.textContent = `${time} · ${nf(pt.v, priceDigits(pt.v))}${ccy ? ` ${ccy}` : ""}`;
+    const leftPct = (x / w) * 100;
+    tip.style.left = `${leftPct}%`;
+    const shift = leftPct > 72 ? "-100%" : leftPct < 28 ? "0" : "-50%";
+    tip.style.transform = `translate(${shift}, -110%)`;
+  }
+
+  function onChartPointerDown(event) {
+    const chart = event.target.closest(".chart");
+    if (!chart || !chart.dataset.spark) return;
+    ignoreRowClick = true;
+    chartPointer = { id: event.pointerId, chart };
+    document.querySelectorAll(".chart").forEach((el) => {
+      if (el !== chart) hideChartTip(el);
+    });
+    try { chart.setPointerCapture(event.pointerId); } catch {}
+    event.preventDefault();
+    showChartTip(chart, event.clientX);
+  }
+
+  function onChartPointerMove(event) {
+    if (!chartPointer || event.pointerId !== chartPointer.id) return;
+    event.preventDefault();
+    showChartTip(chartPointer.chart, event.clientX);
+  }
+
+  function onChartPointerUp(event) {
+    if (!chartPointer || event.pointerId !== chartPointer.id) return;
+    showChartTip(chartPointer.chart, event.clientX);
+    chartPointer = null;
+  }
+
+  els.list.addEventListener("pointerdown", onChartPointerDown);
+  els.list.addEventListener("pointermove", onChartPointerMove);
+  els.list.addEventListener("pointerup", onChartPointerUp);
+  els.list.addEventListener("pointercancel", onChartPointerUp);
+
   els.list.addEventListener("click", (event) => {
+    if (event.target.closest(".chart")) {
+      ignoreRowClick = false;
+      return;
+    }
+    if (ignoreRowClick) {
+      ignoreRowClick = false;
+      return;
+    }
+    const main = event.target.closest(".row-main");
     const row = event.target.closest("[data-symbol]");
-    if (!row) return;
+    if (!main || !row) return;
     const symbol = row.dataset.symbol;
     if (expanded.has(symbol)) expanded.delete(symbol);
     else expanded.add(symbol);
