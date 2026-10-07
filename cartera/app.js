@@ -42,8 +42,6 @@
   let liveSource = "snapshot";
 
   const els = {
-    title: document.getElementById("pageTitle"),
-    subtitle: document.getElementById("pageSubtitle"),
     refresh: document.getElementById("refreshBtn"),
     auto: document.getElementById("autoRefresh"),
     status: document.getElementById("statusLine"),
@@ -465,8 +463,6 @@
     renderChips();
     try {
       config = await loadJson("../data/cartera.json");
-      els.title.textContent = config.title || "Cartera";
-      els.subtitle.textContent = config.subtitle || "";
     } catch (error) {
       setStatus("No se pudo leer data/cartera.json");
       return;
