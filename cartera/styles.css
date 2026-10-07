@@ -340,6 +340,14 @@ header {
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.45);
 }
 
+.chart:has(.chart-tip:not([hidden])) { z-index: 5; }
+
+.chart-tip-pct.up { color: var(--green); }
+.chart-tip-pct.down { color: var(--red); }
+.chart-tip-pct.flat { color: var(--muted); }
+
+.chart-mini .chart-tip { font-size: 0.64rem; }
+
 .right { text-align: right; }
 
 .price {

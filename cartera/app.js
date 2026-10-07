@@ -107,6 +107,14 @@
     return `${sign}${nf(pct, 2)}%`;
   }
 
+  function signedPctAtClose(pct) {
+    if (pct == null || Number.isNaN(pct)) return "n/d";
+    const body = nf(Math.abs(pct), 2);
+    if (pct > 0) return `+${body} %`;
+    if (pct < 0) return `−${body} %`;
+    return `${body} %`;
+  }
+
   async function loadJson(path) {
     const res = await fetch(`${path}?t=${Date.now()}`, { cache: "no-store" });
     if (!res.ok) throw new Error(`${path} HTTP ${res.status}`);
@@ -672,7 +680,16 @@
     const time = dt(new Date(pt.t * 1000), { hour: "2-digit", minute: "2-digit", hourCycle: "h23" });
     const ccy = chart.dataset.ccy || "";
     tip.hidden = false;
-    tip.textContent = `${time} · ${nf(pt.v, priceDigits(pt.v))}${ccy ? ` ${ccy}` : ""}`;
+    tip.replaceChildren();
+    tip.append(`${time} · ${nf(pt.v, priceDigits(pt.v))}${ccy ? ` ${ccy}` : ""}`);
+    if (previousClose != null && Number.isFinite(previousClose) && previousClose !== 0) {
+      const pct = ((pt.v - previousClose) / previousClose) * 100;
+      tip.append(" · ");
+      const pctEl = document.createElement("span");
+      pctEl.className = `chart-tip-pct ${dirClass(pct)}`;
+      pctEl.textContent = signedPctAtClose(pct);
+      tip.append(pctEl);
+    }
     const leftPct = (x / w) * 100;
     tip.style.left = `${leftPct}%`;
     const shift = leftPct > 72 ? "-100%" : leftPct < 28 ? "0" : "-50%";
