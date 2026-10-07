@@ -24,7 +24,7 @@ Estilo tipo widget de Bolsa de iOS: dos líneas por valor (ticker + %, precio + 
 
 - **Pequeño:** hasta 4 filas × 1 columna.
 - **Mediano:** 4 filas × 2 columnas (8 valores).
-- **Grande:** todas las posiciones en 2 columnas (21 → 11×2), tipografía y huecos reducidos para que quepan.
+- **Grande:** todas las posiciones en 2 columnas (21 → 11×2), filas repartidas en toda la altura, ticker ~13 pt.
 
 ## Datos
 
