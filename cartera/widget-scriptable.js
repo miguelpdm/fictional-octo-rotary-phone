@@ -12,7 +12,7 @@ const TV_SCAN = "https://scanner.tradingview.com/global/scan";
 const TV_COLUMNS = ["close", "change", "currency"];
 const TZ = "Europe/Madrid";
 const REFRESH_MINUTES = 15;
-const CACHE_NAME = "cartera-widget-cache.json";
+const CACHE_NAME = "cartera-widget-cache-v2.json";
 const WIDGET_TV_TIMEOUT = 2;
 const APP_TV_TIMEOUT = 8;
 const APP_CONFIG_TIMEOUT = 6;
@@ -30,7 +30,6 @@ const COLORS = {
 const EMBEDDED_POSITIONS = [
   { symbol: "QTRX", tv: "NASDAQ:QTRX", yahoo: "QTRX", name: "Quanterix", group: "P0" },
   { symbol: "HUMA", tv: "NASDAQ:HUMA", yahoo: "HUMA", name: "Humacyte", group: "P0" },
-  { symbol: "LFMD", tv: "NASDAQ:LFMD", yahoo: "LFMD", name: "LifeMD", group: "P0" },
   { symbol: "IFRX", tv: "NASDAQ:IFRX", yahoo: "IFRX", name: "InflaRx", group: "P0" },
   { symbol: "UPXI", tv: "NASDAQ:UPXI", yahoo: "UPXI", name: "Upexi", group: "P0" },
   { symbol: "CHTR", tv: "NASDAQ:CHTR", yahoo: "CHTR", name: "Charter Communications", group: "P0" },
@@ -348,13 +347,26 @@ function snapshotFrom(positions, map, key, source) {
   };
 }
 
+function allowedSymbols() {
+  var allow = {};
+  for (var i = 0; i < EMBEDDED_POSITIONS.length; i++) {
+    allow[EMBEDDED_POSITIONS[i].symbol] = true;
+  }
+  return allow;
+}
+
 function cachedPayload(raw) {
   if (!raw || !Array.isArray(raw.rows) || !raw.rows.length) return null;
-  var positions = compactPositions(raw.positions);
-  if (!positions.length) positions = EMBEDDED_POSITIONS.slice();
+  var allow = allowedSymbols();
+  var rows = [];
+  for (var i = 0; i < raw.rows.length; i++) {
+    var row = raw.rows[i];
+    if (row && allow[row.symbol]) rows.push(row);
+  }
+  if (!rows.length) return null;
   return {
-    positions: positions,
-    rows: raw.rows,
+    positions: EMBEDDED_POSITIONS.slice(),
+    rows: rows,
     source: raw.source || "cache",
     at: raw.at || 0,
     stale: true
@@ -366,7 +378,7 @@ async function loadQuotes(opts) {
   var widget = runsInWidget(options);
   var store = cacheStore(options);
   var cached = cachedPayload(store.read());
-  var positions = cached && cached.positions.length ? cached.positions : EMBEDDED_POSITIONS.slice();
+  var positions = EMBEDDED_POSITIONS.slice();
   var tvTimeout = widget ? WIDGET_TV_TIMEOUT : APP_TV_TIMEOUT;
   var cfgP = null;
   if (!widget) {
@@ -437,16 +449,12 @@ function topMovers(rows, n) {
   return list.slice(0, n);
 }
 
-function byGroupThenPct(rows) {
-  var order = { P0: 0, P1: 1, P2: 2 };
+function sortByPct(rows) {
   var list = [];
   for (var i = 0; i < rows.length; i++) {
     if (!rows[i].missing && rows[i].changePct != null) list.push(rows[i]);
   }
   list.sort(function (a, b) {
-    var ga = order[a.group] != null ? order[a.group] : 9;
-    var gb = order[b.group] != null ? order[b.group] : 9;
-    if (ga !== gb) return ga - gb;
     return b.changePct - a.changePct;
   });
   return list;
@@ -560,20 +568,10 @@ function createWidget(family, data) {
     return widget;
   }
 
-  var grouped = byGroupThenPct(rows).slice(0, 14);
-  var lastGroup = null;
-  for (var g = 0; g < grouped.length; g++) {
-    var row = grouped[g];
-    if (row.group && row.group !== lastGroup) {
-      lastGroup = row.group;
-      widget.addSpacer(6);
-      var h = widget.addText(row.group);
-      h.font = Font.boldSystemFont(10);
-      h.textColor = color(COLORS.muted);
-      widget.addSpacer(3);
-    }
-    addQuoteRow(widget, row, true);
-    widget.addSpacer(4);
+  var ranked = sortByPct(rows).slice(0, 14);
+  for (var g = 0; g < ranked.length; g++) {
+    addQuoteRow(widget, ranked[g], true);
+    if (g < ranked.length - 1) widget.addSpacer(4);
   }
   return widget;
 }
@@ -668,7 +666,7 @@ var __exports = {
   loadQuotes: loadQuotes,
   summarize: summarize,
   topMovers: topMovers,
-  byGroupThenPct: byGroupThenPct,
+    sortByPct: sortByPct,
   signedPct: signedPct,
   nf: nf,
   formatMadrid: formatMadrid,

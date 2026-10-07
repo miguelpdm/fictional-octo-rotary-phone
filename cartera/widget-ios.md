@@ -22,7 +22,7 @@ Si ves *Received timeout…* o un recuadro negro, vuelve a pegar este archivo y 
 
 - **Pequeño:** cuántos suben/bajan, mejor y peor del día.
 - **Mediano:** los 6 mayores movimientos (por |%|).
-- **Grande:** filas agrupadas por P0 / P1 / P2, ordenadas por % del día.
+- **Grande:** tantas filas como quepan, ordenadas por % del día (sin grupos).
 
 ## Datos
 
