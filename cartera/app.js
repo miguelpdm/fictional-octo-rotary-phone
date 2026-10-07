@@ -4,6 +4,7 @@
   const SORT_KEY = "cartera-sort";
   const SOURCE_KEY = "cartera-live-source";
   const UNLOCK_KEY = "cartera-unlock";
+  const VIEW_KEY = "cartera-view";
   const AUTH = {
     saltHex: "1b650c734f8a9d75eded8004053a84da",
     iterations: 310000,
@@ -48,6 +49,7 @@
   let sort = "priority";
   let sortDir = "asc";
   let preferredSource = "tv";
+  let denseView = false;
   let expanded = new Set();
   let autoTimer = null;
   let lastLiveAt = null;
@@ -71,6 +73,7 @@
     filters: document.getElementById("filterChips"),
     sorts: document.getElementById("sortChips"),
     list: document.getElementById("list"),
+    view: document.getElementById("viewBtn"),
     logout: document.getElementById("logoutBtn")
   };
 
@@ -432,10 +435,67 @@
       · P&amp;L <strong>${pnl >= 0 ? "+" : ""}${nf(pnl, 2)} (${signedPct(pnlPct)})</strong></p>`;
   }
 
+  function sparkTiny(points, previousClose) {
+    const samples = (points || []).filter((p) => p && p.v != null);
+    const w = 42;
+    const h = 16;
+    if (samples.length < 2) {
+      return `<div class="chart chart-tiny" aria-hidden="true"><svg viewBox="0 0 ${w} ${h}"></svg></div>`;
+    }
+    const values = samples.map((p) => p.v);
+    const min = Math.min(...values, previousClose ?? values[0]);
+    const max = Math.max(...values, previousClose ?? values[0]);
+    const span = max - min || 1;
+    const step = (w - 2) / (samples.length - 1);
+    const y = (v) => h - 1.5 - ((v - min) / span) * (h - 3);
+    const d = values.map((v, i) => `${i === 0 ? "M" : "L"} ${1 + i * step} ${y(v)}`).join(" ");
+    const up = (values[values.length - 1] ?? 0) >= (previousClose ?? values[0]);
+    const color = up ? "#30d158" : "#ff453a";
+    return `<div class="chart chart-tiny" aria-hidden="true"><svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none"><path d="${d}" fill="none" stroke="${color}" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"></path></svg></div>`;
+  }
+
+  function applyView() {
+    els.app.classList.toggle("dense", denseView);
+    els.view.setAttribute("aria-pressed", denseView ? "true" : "false");
+    els.view.setAttribute("aria-label", denseView ? "Vista detallada" : "Vista compacta");
+    els.view.setAttribute("title", denseView ? "Vista detallada" : "Vista compacta");
+    const denseIcon = els.view.querySelector(".icon-dense");
+    const listIcon = els.view.querySelector(".icon-list");
+    if (denseIcon) denseIcon.toggleAttribute("hidden", denseView);
+    if (listIcon) listIcon.toggleAttribute("hidden", !denseView);
+  }
+
   function renderList() {
     const list = visibleRows();
     if (!list.length) {
       els.list.innerHTML = '<div class="state">No hay valores para este filtro.</div>';
+      return;
+    }
+
+    if (denseView) {
+      els.list.innerHTML = list.map((row) => {
+        if (row.missing) {
+          return `<article class="row" data-symbol="${row.symbol}">
+            <div class="row-main">
+              <div class="tile-top"><div class="sym">${row.symbol}</div><div class="price">n/d</div></div>
+              <div class="tile-bottom"><div></div><div class="badge flat">Sin datos</div></div>
+            </div>
+          </article>`;
+        }
+        const klass = dirClass(row.changePct || 0);
+        return `<article class="row" data-symbol="${row.symbol}">
+          <div class="row-main">
+            <div class="tile-top">
+              <div class="sym">${row.symbol}</div>
+              <div class="price">${nf(row.price, priceDigits(row.price))}</div>
+            </div>
+            <div class="tile-bottom">
+              ${sparkTiny(row.spark, row.previousClose)}
+              <div class="badge ${klass}">${signedPct(row.changePct)}</div>
+            </div>
+          </div>
+        </article>`;
+      }).join("");
       return;
     }
 
@@ -727,6 +787,7 @@
   els.list.addEventListener("pointercancel", onChartPointerUp);
 
   els.list.addEventListener("click", (event) => {
+    if (denseView) return;
     if (event.target.closest(".chart")) {
       ignoreRowClick = false;
       return;
@@ -746,6 +807,13 @@
 
   els.refresh.addEventListener("click", () => refresh());
   els.auto.addEventListener("change", applyAutoRefresh);
+
+  els.view.addEventListener("click", () => {
+    denseView = !denseView;
+    localStorage.setItem(VIEW_KEY, denseView ? "dense" : "list");
+    applyView();
+    renderList();
+  });
 
   document.addEventListener("visibilitychange", () => {
     if (started && document.visibilityState === "visible") refresh({ silent: true });
@@ -801,6 +869,8 @@
     started = true;
     preferredSource = localStorage.getItem(SOURCE_KEY) === "yahoo" ? "yahoo" : "tv";
     loadSortPrefs();
+    denseView = localStorage.getItem(VIEW_KEY) === "dense";
+    applyView();
     els.auto.checked = localStorage.getItem(AUTO_KEY) === "on";
     renderSourceButtons();
     renderChips();
