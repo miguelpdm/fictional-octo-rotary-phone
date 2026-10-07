@@ -283,9 +283,9 @@
     const items = [...byTz.entries()].map(([tz, info]) => {
       const label = tz.replace("America/New_York", "EE. UU.").replace("Europe/", "").replace("_", " ");
       const session = info.session || "out_of_session";
-      return `<div class="market-row"><span>${label}</span><span class="pill ${sessionClass(session)}">${SESSION_LABEL[session] || session}</span></div>`;
+      return `<span class="market">${label} <span class="pill ${sessionClass(session)}">${SESSION_LABEL[session] || session}</span></span>`;
     }).join("");
-    els.markets.innerHTML = `<article class="card">${items}</article>`;
+    els.markets.innerHTML = `<article class="card"><div class="market-row">${items}</div></article>`;
   }
 
   function pnlHtml(row) {
@@ -401,7 +401,7 @@
 
       if (liveSource === "tradingview") {
         setStatus(`Última actualización (Madrid): ${when}. Fuente en vivo: TradingView.`);
-        els.delay.textContent = "Cotizaciones gratuitas con ~15 min de retraso (delayed_streaming_900). Algunos ETC de Londres llegan en streaming. Sparklines: snapshot Yahoo " + snapWhen + ".";
+        els.delay.textContent = "Fuente en vivo TradingView (~15 min de retraso). Sparklines: snapshot Yahoo " + snapWhen + ".";
       } else {
         setStatus(`Sin fuente en vivo. Mostrando snapshot de GitHub Actions (${snapWhen}, hora Madrid).`);
         els.delay.textContent = "El snapshot se genera cada ~30 min. Revisa la conexión e inténtalo de nuevo con Actualizar.";
