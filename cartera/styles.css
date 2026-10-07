@@ -197,7 +197,9 @@ header {
   fill: currentColor;
 }
 
-.view-btn svg[hidden] { display: none !important; }
+.view-btn .icon-list { display: none; }
+.app.dense .view-btn .icon-dense { display: none; }
+.app.dense .view-btn .icon-list { display: block; }
 
 .view-btn:active { background: var(--panel-2); }
 .view-btn:focus-visible { outline: 2px solid var(--blue); outline-offset: -2px; }
