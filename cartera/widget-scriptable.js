@@ -49,8 +49,7 @@ const EMBEDDED_POSITIONS = [
   { symbol: "ACN", tv: "NYSE:ACN", yahoo: "ACN", name: "Accenture", group: "P1" },
   { symbol: "BRNT.MI", tv: "EURONEXT:BRNT", yahoo: "BRNT.MI", name: "WisdomTree Brent Crude Oil", group: "P2" },
   { symbol: "SGLD.L", tv: "LSE:SGLD", yahoo: "SGLD.L", name: "Invesco Physical Gold", group: "P2" },
-  { symbol: "SSLV.L", tv: "LSE:SSLV", yahoo: "SSLV.L", name: "Invesco Physical Silver", group: "P2" },
-  { symbol: "XGLD.L", tv: "LSE:XGLD", yahoo: "XGLD.L", name: "Xtrackers Physical Gold ETC", group: "P2" }
+  { symbol: "SSLV.L", tv: "LSE:SSLV", yahoo: "SSLV.L", name: "Invesco Physical Silver", group: "P2" }
 ];
 
 function isScriptable() {
