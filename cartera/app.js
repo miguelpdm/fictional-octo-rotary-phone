@@ -5,7 +5,16 @@
   const SOURCE_KEY = "cartera-live-source";
   const UNLOCK_KEY = "cartera-unlock";
   const VIEW_KEY = "cartera-view";
-  const HIDE_US_KEY = "cartera-hide-us";
+  const HIDE_US_OVERRIDE_KEY = "cartera-hide-us-override";
+  const NY_TZ = "America/New_York";
+  const US_GOOD_FRIDAY = {
+    2024: "2024-03-29",
+    2025: "2025-04-18",
+    2026: "2026-04-03",
+    2027: "2027-03-26",
+    2028: "2028-04-14",
+    2029: "2029-03-30"
+  };
   const AUTH = {
     saltHex: "1b650c734f8a9d75eded8004053a84da",
     iterations: 310000,
@@ -52,6 +61,7 @@
   let preferredSource = "tv";
   let denseView = false;
   let hideUs = false;
+  let usSessionMeta = { session: "closed", date: "", open: false };
   let expanded = new Set();
   let autoTimer = null;
   let lastLiveAt = null;
@@ -202,13 +212,170 @@
     };
   }
 
+  function nowMs() {
+    const mock = globalThis.__carteraNowMs;
+    if (typeof mock === "number" && Number.isFinite(mock)) return mock;
+    return Date.now();
+  }
+
+  function nowDate() {
+    return new Date(nowMs());
+  }
+
   function yahooSession(meta) {
     const regular = meta?.currentTradingPeriod?.regular;
     if (!regular?.start || !regular?.end) return null;
-    const now = Math.floor(Date.now() / 1000);
+    const now = Math.floor(nowMs() / 1000);
     if (now >= regular.start && now < regular.end) return "market";
     if (now < regular.start) return "pre_market";
     return "out_of_session";
+  }
+
+  function nyParts(date = nowDate()) {
+    const parts = {};
+    for (const part of new Intl.DateTimeFormat("en-US", {
+      timeZone: NY_TZ,
+      weekday: "short",
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+      hour: "2-digit",
+      minute: "2-digit",
+      hourCycle: "h23"
+    }).formatToParts(date)) {
+      if (part.type !== "literal") parts[part.type] = part.value;
+    }
+    const weekday = { Sun: 0, Mon: 1, Tue: 2, Wed: 3, Thu: 4, Fri: 5, Sat: 6 }[parts.weekday];
+    return {
+      year: Number(parts.year),
+      month: Number(parts.month),
+      day: Number(parts.day),
+      hour: Number(parts.hour),
+      minute: Number(parts.minute),
+      weekday,
+      date: `${parts.year}-${parts.month}-${parts.day}`
+    };
+  }
+
+  function ymd(year, month, day) {
+    return `${year}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}`;
+  }
+
+  function observeUsHoliday(year, month, day) {
+    const utc = Date.UTC(year, month - 1, day);
+    const weekday = new Date(utc).getUTCDay();
+    if (weekday === 6) {
+      const prev = new Date(utc - 86400000);
+      return ymd(prev.getUTCFullYear(), prev.getUTCMonth() + 1, prev.getUTCDate());
+    }
+    if (weekday === 0) {
+      const next = new Date(utc + 86400000);
+      return ymd(next.getUTCFullYear(), next.getUTCMonth() + 1, next.getUTCDate());
+    }
+    return ymd(year, month, day);
+  }
+
+  function nthWeekdayOfMonth(year, month, weekday, n) {
+    let count = 0;
+    for (let day = 1; day <= 31; day += 1) {
+      const utc = Date.UTC(year, month - 1, day);
+      if (new Date(utc).getUTCMonth() !== month - 1) break;
+      if (new Date(utc).getUTCDay() === weekday) {
+        count += 1;
+        if (count === n) return ymd(year, month, day);
+      }
+    }
+    return null;
+  }
+
+  function lastWeekdayOfMonth(year, month, weekday) {
+    for (let day = 31; day >= 1; day -= 1) {
+      const utc = Date.UTC(year, month - 1, day);
+      if (new Date(utc).getUTCMonth() !== month - 1) continue;
+      if (new Date(utc).getUTCDay() === weekday) return ymd(year, month, day);
+    }
+    return null;
+  }
+
+  function usHolidayDates(year) {
+    const dates = new Set([
+      observeUsHoliday(year, 1, 1),
+      nthWeekdayOfMonth(year, 1, 1, 3),
+      nthWeekdayOfMonth(year, 2, 1, 3),
+      US_GOOD_FRIDAY[year],
+      lastWeekdayOfMonth(year, 5, 1),
+      observeUsHoliday(year, 6, 19),
+      observeUsHoliday(year, 7, 4),
+      nthWeekdayOfMonth(year, 9, 1, 1),
+      nthWeekdayOfMonth(year, 11, 4, 4),
+      observeUsHoliday(year, 12, 25)
+    ]);
+    const nextNyd = observeUsHoliday(year + 1, 1, 1);
+    if (nextNyd && nextNyd.startsWith(`${year}-`)) dates.add(nextNyd);
+    dates.delete(undefined);
+    dates.delete(null);
+    return dates;
+  }
+
+  function isUsHoliday(parts) {
+    return usHolidayDates(parts.year).has(parts.date);
+  }
+
+  function isUsRegularHours(date = nowDate()) {
+    const parts = nyParts(date);
+    if (parts.weekday === 0 || parts.weekday === 6) return false;
+    if (isUsHoliday(parts)) return false;
+    const mins = parts.hour * 60 + parts.minute;
+    return mins >= 9 * 60 + 30 && mins < 16 * 60;
+  }
+
+  function quotedUsSession() {
+    const sessions = rows.filter(isUsListing).map((row) => row.session).filter(Boolean);
+    if (!sessions.length) return null;
+    if (sessions.some((session) => session === "market")) return "market";
+    if (sessions.some((session) => session === "pre_market")) return "pre_market";
+    if (sessions.some((session) => session === "post_market")) return "post_market";
+    return "out_of_session";
+  }
+
+  function isUsMarketOpen(date = nowDate()) {
+    const clockOpen = isUsRegularHours(date);
+    if (typeof globalThis.__carteraNowMs === "number" && Number.isFinite(globalThis.__carteraNowMs)) {
+      return clockOpen;
+    }
+    const quoted = quotedUsSession();
+    if (clockOpen && (quoted === "out_of_session" || quoted === "post_market")) return false;
+    if (!clockOpen && quoted === "market") return true;
+    return clockOpen;
+  }
+
+  function usSessionSnapshot(date = nowDate()) {
+    const parts = nyParts(date);
+    const open = isUsMarketOpen(date);
+    return { session: open ? "open" : "closed", date: parts.date, open };
+  }
+
+  function loadHideUsOverride() {
+    try {
+      const raw = JSON.parse(localStorage.getItem(HIDE_US_OVERRIDE_KEY) || "null");
+      if (
+        raw
+        && typeof raw.hide === "boolean"
+        && (raw.session === "open" || raw.session === "closed")
+        && typeof raw.date === "string"
+      ) {
+        return raw;
+      }
+    } catch {}
+    return null;
+  }
+
+  function activeHideUsOverride(snap) {
+    const saved = loadHideUsOverride();
+    if (!saved) return null;
+    if (saved.session === snap.session && saved.date === snap.date) return saved;
+    localStorage.removeItem(HIDE_US_OVERRIDE_KEY);
+    return null;
   }
 
   function fromYahooChart(result) {
@@ -579,12 +746,28 @@
     return `<div class="chart chart-tiny" aria-hidden="true"><svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none"><path d="${d}" fill="none" stroke="${color}" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"></path></svg></div>`;
   }
 
-  function applyHideUs() {
+  function applyHideUs(snap = usSessionMeta, override = null) {
     if (!els.hideUs) return;
+    const autoHint = snap.open ? "Auto: mercado EE. UU. abierto" : "Auto: mercado EE. UU. cerrado";
+    const action = hideUs ? "Mostrar EE. UU." : "Ocultar EE. UU.";
+    const manual = override ? " Manual hasta el próximo cambio de sesión." : "";
+    const label = `${action} ${autoHint}.${manual}`;
     els.hideUs.setAttribute("aria-pressed", hideUs ? "true" : "false");
-    els.hideUs.setAttribute("aria-label", hideUs ? "Mostrar EE. UU." : "Ocultar EE. UU.");
-    els.hideUs.setAttribute("title", hideUs ? "Mostrar EE. UU." : "Ocultar EE. UU.");
+    els.hideUs.setAttribute("aria-label", label);
+    els.hideUs.setAttribute("title", label);
+    els.hideUs.toggleAttribute("data-manual", !!override);
+    els.hideUs.dataset.session = snap.session || "";
     els.app.classList.toggle("hide-us", hideUs);
+  }
+
+  function syncHideUs({ render = false } = {}) {
+    usSessionMeta = usSessionSnapshot();
+    const override = activeHideUsOverride(usSessionMeta);
+    const next = override ? override.hide : !usSessionMeta.open;
+    const changed = next !== hideUs;
+    hideUs = next;
+    applyHideUs(usSessionMeta, override);
+    if (render && changed) renderAll();
   }
 
   function applyView() {
@@ -704,6 +887,7 @@
   }
 
   async function refresh({ silent = false } = {}) {
+    syncHideUs();
     if (!silent) setStatus("Actualizando cotizaciones…");
     els.refresh.disabled = true;
     try {
@@ -738,6 +922,7 @@
       }
 
       rows = config.positions.map((position) => mergeQuote(position, tvMap, yahooMap));
+      syncHideUs();
       const failed = rows.filter((r) => r.missing).map((r) => r.symbol);
       const when = lastLiveAt
         ? dt(lastLiveAt, { dateStyle: "short", timeStyle: "medium" })
@@ -993,14 +1178,18 @@
   });
 
   els.hideUs.addEventListener("click", () => {
+    usSessionMeta = usSessionSnapshot();
     hideUs = !hideUs;
-    localStorage.setItem(HIDE_US_KEY, hideUs ? "1" : "0");
-    applyHideUs();
+    const override = { hide: hideUs, session: usSessionMeta.session, date: usSessionMeta.date };
+    localStorage.setItem(HIDE_US_OVERRIDE_KEY, JSON.stringify(override));
+    applyHideUs(usSessionMeta, override);
     renderAll();
   });
 
   document.addEventListener("visibilitychange", () => {
-    if (started && document.visibilityState === "visible") refresh({ silent: true });
+    if (!started || document.visibilityState !== "visible") return;
+    syncHideUs({ render: true });
+    refresh({ silent: true });
   });
 
   document.querySelectorAll(".source-btn").forEach((btn) => {
@@ -1054,9 +1243,8 @@
     preferredSource = localStorage.getItem(SOURCE_KEY) === "yahoo" ? "yahoo" : "tv";
     loadSortPrefs();
     denseView = localStorage.getItem(VIEW_KEY) === "dense";
-    hideUs = localStorage.getItem(HIDE_US_KEY) === "1";
     applyView();
-    applyHideUs();
+    syncHideUs();
     els.auto.checked = localStorage.getItem(AUTO_KEY) === "on";
     renderSourceButtons();
     renderChips();
@@ -1108,6 +1296,8 @@
     }
     showGate();
   });
+
+  globalThis.__carteraSyncUs = () => syncHideUs({ render: true });
 
   if (isUnlocked()) {
     showApp();
