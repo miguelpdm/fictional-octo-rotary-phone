@@ -751,7 +751,7 @@
     const autoHint = snap.open ? "Auto: mercado EE. UU. abierto" : "Auto: mercado EE. UU. cerrado";
     const action = hideUs ? "Mostrar EE. UU." : "Ocultar EE. UU.";
     const manual = override ? " Manual hasta el próximo cambio de sesión." : "";
-    const label = `${action}. ${autoHint}.${manual}`;
+    const label = `${action} ${autoHint}.${manual}`;
     els.hideUs.setAttribute("aria-pressed", hideUs ? "true" : "false");
     els.hideUs.setAttribute("aria-label", label);
     els.hideUs.setAttribute("title", label);
