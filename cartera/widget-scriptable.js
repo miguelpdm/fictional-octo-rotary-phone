@@ -13,7 +13,7 @@ const TV_COLUMNS = ["close", "change", "change_abs", "currency"];
 const TZ = "Europe/Madrid";
 const REFRESH_MINUTES = 15;
 const CACHE_NAME = "cartera-widget-cache-v3.json";
-const WIDGET_TV_TIMEOUT = 2;
+const WIDGET_TV_TIMEOUT = 6;
 const APP_TV_TIMEOUT = 8;
 const APP_CONFIG_TIMEOUT = 6;
 const APP_YAHOO_TIMEOUT = 6;
@@ -522,8 +522,10 @@ function sortByPct(rows) {
 }
 
 function footerText(data) {
-  if (!data || !data.stale) return "";
-  return "datos de " + formatHM(new Date(data.at || Date.now()));
+  var when = new Date((data && data.at) || Date.now());
+  var hm = formatHM(when);
+  if (data && data.stale) return "datos de " + hm;
+  return hm;
 }
 
 function color(hex, alpha) {
@@ -717,8 +719,8 @@ function createWidget(family, data) {
   var spec = layoutForFamily(family, ranked.length);
   var sides = pickExtremes(ranked, spec.eachSide);
   var canvas = familySize(family);
-  var stale = footerText(data);
-  var footerH = stale ? 10 : 0;
+  var stamp = footerText(data);
+  var footerH = 12;
   var innerW = canvas.w - spec.padX * 2;
   var innerH = canvas.h - spec.padY * 2 - footerH;
   if (innerH < 80) innerH = 80;
@@ -776,11 +778,14 @@ function createWidget(family, data) {
     }
   }
 
-  if (stale) {
-    var foot = widget.addText(stale);
+  if (stamp) {
+    var foot = widget.addText(stamp);
     foot.font = Font.systemFont(8);
     foot.textColor = color(COLORS.muted);
     foot.lineLimit = 1;
+    try {
+      foot.rightAlignText();
+    } catch (errFoot) {}
   }
   return widget;
 }
