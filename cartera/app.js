@@ -56,6 +56,9 @@
   let liveSource = "snapshot";
   let started = false;
   let chartUid = 0;
+  let sparkCache = { at: 0, map: {} };
+  const SPARK_TTL_MS = 5 * 60 * 1000;
+  const SPARK_TIMEOUT_MS = 12000;
 
   const els = {
     gate: document.getElementById("gate"),
@@ -246,28 +249,115 @@
     return JSON.parse(text.slice(start, end + 1));
   }
 
-  async function fetchYahooViaJina(yahooUrl) {
-    const res = await fetch(`https://r.jina.ai/${yahooUrl}`, { cache: "no-store" });
+  async function fetchYahooViaJina(yahooUrl, timeoutMs = SPARK_TIMEOUT_MS) {
+    const res = await fetch(`https://r.jina.ai/${yahooUrl}`, {
+      cache: "no-store",
+      signal: AbortSignal.timeout(timeoutMs)
+    });
     if (!res.ok) throw new Error(`Jina HTTP ${res.status}`);
     return parseJinaJson(await res.text());
   }
 
-  async function fetchYahooLive(positions) {
-    const symbols = positions.map((p) => p.yahoo || p.symbol);
-    const unique = [...new Set(symbols)];
+  function yahooSparkUrl(symbols) {
+    return `https://query1.finance.yahoo.com/v7/finance/spark?symbols=${encodeURIComponent(symbols.join(","))}&range=1d&interval=5m&includePrePost=false`;
+  }
+
+  async function fetchYahooSparkChunk(symbols) {
+    const payload = await fetchYahooViaJina(yahooSparkUrl(symbols));
     const map = {};
-    const chunkSize = 10;
-    for (let i = 0; i < unique.length; i += chunkSize) {
-      const chunk = unique.slice(i, i + chunkSize);
-      const url = `https://query1.finance.yahoo.com/v7/finance/spark?symbols=${encodeURIComponent(chunk.join(","))}&range=1d&interval=5m&includePrePost=false`;
-      const payload = await fetchYahooViaJina(url);
-      for (const item of payload.spark?.result || []) {
-        const quoted = fromYahooChart(item.response?.[0]);
-        if (quoted) map[item.symbol] = quoted;
-      }
+    for (const item of payload.spark?.result || []) {
+      const quoted = fromYahooChart(item.response?.[0]);
+      if (quoted) map[item.symbol] = quoted;
     }
+    return map;
+  }
+
+  async function fetchYahooChart5m(symbol) {
+    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?interval=5m&range=1d&includePrePost=false`;
+    const payload = await fetchYahooViaJina(url);
+    const result = payload.chart?.result?.[0];
+    return fromYahooChart(result);
+  }
+
+  async function fetchYahooLive(positions) {
+    const unique = [...new Set(positions.map((p) => p.yahoo || p.symbol))];
+    const map = {};
+    const chunkSize = 20;
+    const chunks = [];
+    for (let i = 0; i < unique.length; i += chunkSize) chunks.push(unique.slice(i, i + chunkSize));
+    const parts = await Promise.all(chunks.map((chunk) => fetchYahooSparkChunk(chunk)));
+    for (const part of parts) Object.assign(map, part);
     if (!Object.keys(map).length) throw new Error("Yahoo no devolvió cotizaciones");
     return map;
+  }
+
+  async function fetchSparkLive(positions) {
+    const unique = [...new Set(positions.map((p) => p.yahoo || p.symbol))];
+    const map = await fetchYahooLive(positions);
+    const missing = unique.filter((s) => (map[s]?.spark?.length || 0) < 2);
+    if (missing.length) {
+      const extras = await Promise.all(missing.map((s) =>
+        fetchYahooChart5m(s).then((q) => [s, q]).catch(() => null)
+      ));
+      for (const pair of extras) {
+        if (pair && pair[1]?.spark?.length >= 2) map[pair[0]] = pair[1];
+      }
+    }
+    return map;
+  }
+
+  function dayKey(date, tz) {
+    try {
+      return new Intl.DateTimeFormat("en-CA", {
+        timeZone: tz || TZ,
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit"
+      }).format(date);
+    } catch {
+      return date.toISOString().slice(0, 10);
+    }
+  }
+
+  function sparkIsCurrentSession(spark, timezone) {
+    if (!spark || spark.length < 2) return false;
+    const last = spark[spark.length - 1];
+    if (!last || last.t == null) return false;
+    return dayKey(new Date(last.t * 1000), timezone) === dayKey(new Date(), timezone);
+  }
+
+  function appendLivePrice(spark, price) {
+    const out = Array.isArray(spark) ? spark.slice() : [];
+    if (price == null || !Number.isFinite(Number(price))) return out;
+    const last = out[out.length - 1];
+    const now = Math.floor(Date.now() / 1000);
+    if (!last || Math.abs(last.v - price) > 1e-9) {
+      out.push({ t: now, v: price });
+    }
+    return out;
+  }
+
+  function attachSpark(row, sparkMap) {
+    if (row.missing) return row;
+    const live = sparkMap ? sparkMap[row.yahoo || row.symbol] : null;
+    let spark = [];
+    let sparkSource = "none";
+    let previousClose = row.previousClose;
+    if (live?.spark?.length >= 2) {
+      spark = live.spark;
+      sparkSource = "yahoo-live";
+      if (previousClose == null && live.previousClose != null) previousClose = live.previousClose;
+    } else {
+      const snap = snapshot.quotes?.[row.symbol];
+      const snapSpark = snap?.spark || [];
+      const tz = row.timezone || snap?.timezone;
+      if (sparkIsCurrentSession(snapSpark, tz)) {
+        spark = snapSpark;
+        sparkSource = "snapshot";
+      }
+    }
+    spark = appendLivePrice(spark, row.price);
+    return { ...row, spark, sparkSource, previousClose };
   }
 
   function mergeQuote(position, tvMap, yahooMap) {
@@ -284,13 +374,7 @@
       };
     }
 
-    let spark = yahoo?.spark?.length ? [...yahoo.spark] : [...(snap?.spark || [])];
-    if (live?.price != null) {
-      const last = spark[spark.length - 1];
-      if (!last || Math.abs(last.v - live.price) > 1e-9) {
-        spark.push({ t: Math.floor(Date.now() / 1000), v: live.price });
-      }
-    }
+    const spark = yahoo?.spark?.length >= 2 ? [...yahoo.spark] : [];
 
     return {
       ...position,
@@ -612,24 +696,66 @@
         ? dt(new Date(snapshot.updatedAt), { dateStyle: "short", timeStyle: "short" })
         : "n/d";
 
-      if (liveSource === "yahoo") {
-        setStatus(`Última actualización (Madrid): ${when}. Fuente en vivo: Yahoo Finance (vía Jina).`);
-        els.delay.textContent = "Yahoo gratuito suele ir con ~15 min de retraso (también en EE. UU.). Sparklines del propio gráfico Yahoo.";
-      } else if (liveSource === "tv-fallback") {
-        setStatus(`Última actualización (Madrid): ${when}. Yahoo no respondió; fuente en vivo: TradingView.`);
-        els.delay.textContent = "Reintento automático a TradingView (~15 min de retraso). Sparklines: snapshot Yahoo " + snapWhen + ".";
-      } else if (liveSource === "tradingview") {
-        setStatus(`Última actualización (Madrid): ${when}. Fuente en vivo: TradingView.`);
-        els.delay.textContent = "Fuente en vivo TradingView (~15 min de retraso). Sparklines: snapshot Yahoo " + snapWhen + ".";
-      } else {
+      const sparkFresh = sparkCache.at && (Date.now() - sparkCache.at < SPARK_TTL_MS);
+      if (liveSource === "yahoo" && yahooMap) {
+        sparkCache = { at: Date.now(), map: yahooMap };
+        rows = rows.map((row) => attachSpark(row, yahooMap));
+      } else if (sparkFresh) {
+        rows = rows.map((row) => attachSpark(row, sparkCache.map));
+      }
+
+      function delayBase() {
+        if (liveSource === "yahoo") {
+          setStatus(`Última actualización (Madrid): ${when}. Fuente en vivo: Yahoo Finance (vía Jina).`);
+          return "Yahoo gratuito suele ir con ~15 min de retraso (también en EE. UU.).";
+        }
+        if (liveSource === "tv-fallback") {
+          setStatus(`Última actualización (Madrid): ${when}. Yahoo no respondió; fuente en vivo: TradingView.`);
+          return "Reintento automático a TradingView (~15 min de retraso).";
+        }
+        if (liveSource === "tradingview") {
+          setStatus(`Última actualización (Madrid): ${when}. Fuente en vivo: TradingView.`);
+          return "Fuente en vivo TradingView (~15 min de retraso).";
+        }
         setStatus(`Sin fuente en vivo. Mostrando snapshot de GitHub Actions (${snapWhen}, hora Madrid).`);
-        els.delay.textContent = "El snapshot se genera cada ~30 min. Revisa la conexión e inténtalo de nuevo con Actualizar.";
+        return "El snapshot se genera periódicamente. Revisa la conexión e inténtalo de nuevo con Actualizar.";
       }
-      if (failed.length) {
-        els.delay.textContent += ` Sin cotización: ${failed.join(", ")}.`;
+
+      function applySparkNote(base) {
+        const liveN = rows.filter((r) => r.sparkSource === "yahoo-live").length;
+        const snapN = rows.filter((r) => r.sparkSource === "snapshot").length;
+        let note = base;
+        if (liveN) {
+          const sparkWhen = sparkCache.at
+            ? dt(new Date(sparkCache.at), { timeStyle: "short" })
+            : when;
+          note += ` Gráficos intradía: Yahoo ${sparkWhen} (Madrid).`;
+        } else if (snapN) {
+          note += ` Gráficos: snapshot ${snapWhen} (sesión de hoy).`;
+        } else {
+          note += " Gráficos: esperando serie de hoy (no se usa la curva de ayer).";
+        }
+        if (failed.length) note += ` Sin cotización: ${failed.join(", ")}.`;
+        els.delay.textContent = note;
       }
+
+      applySparkNote(delayBase());
       renderSourceButtons();
       renderAll();
+
+      const needSpark = liveSource !== "yahoo" && (!silent || !sparkFresh);
+      if (needSpark) {
+        try {
+          const map = await fetchSparkLive(config.positions);
+          sparkCache = { at: Date.now(), map };
+          rows = rows.map((row) => attachSpark(row, map));
+        } catch (sparkError) {
+          console.warn("Serie intradía en vivo falló", sparkError);
+          rows = rows.map((row) => attachSpark(row, {}));
+        }
+        applySparkNote(delayBase());
+        renderAll();
+      }
     } catch (error) {
       setStatus(`Error al cargar la cartera. ${error.message}`);
       els.list.innerHTML = '<div class="state">No se pudieron cargar los datos. Toca Actualizar.</div>';

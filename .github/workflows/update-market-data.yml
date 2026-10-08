@@ -3,6 +3,9 @@ name: Update market data
 on:
   schedule:
     - cron: '*/30 * * * *'
+    # Extra weekday slots in the EU/US cash session. GitHub may still delay
+    # or skip cron jobs; the cartera page loads today's spark live in the browser.
+    - cron: '7,37 7-21 * * 1-5'
   workflow_dispatch:
   push:
     branches: [main]
