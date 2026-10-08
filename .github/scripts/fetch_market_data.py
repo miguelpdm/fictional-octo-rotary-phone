@@ -202,6 +202,13 @@ def fetch_intraday(symbol: str) -> dict:
 
     previous_close = meta.get("chartPreviousClose") or meta.get("previousClose")
     price = meta.get("regularMarketPrice")
+    instrument = (meta.get("instrumentType") or "").upper()
+    if instrument == "CRYPTOCURRENCY":
+        start = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
+        start_ts = int(start.timestamp())
+        today = [p["v"] for p in spark if p.get("t") is not None and p["t"] >= start_ts]
+        if today:
+            previous_close = today[0]
     change = (price - previous_close) if price is not None and previous_close else 0
     change_pct = (change / previous_close * 100) if previous_close else 0
 

@@ -28,6 +28,9 @@
 
     { "symbol": "BRNT.MI", "tv": "EURONEXT:BRNT", "yahoo": "BRNT.MI", "name": "WisdomTree Brent Crude Oil", "group": "P2", "quantity": null, "avgCost": null, "note": "Yahoo: BRNT.MI (Milán). Cotización en vivo vía Euronext:BRNT; TradingView no lista el ticker milanés." },
     { "symbol": "SGLD.L", "tv": "LSE:SGLD", "yahoo": "SGLD.L", "name": "Invesco Physical Gold", "group": "P2", "quantity": null, "avgCost": null },
-    { "symbol": "SSLV.L", "tv": "LSE:SSLV", "yahoo": "SSLV.L", "name": "Invesco Physical Silver", "group": "P2", "quantity": null, "avgCost": null, "note": "«SILV» no existe como ETC/acción en Yahoo. Se usa SSLV.L (ETC de plata de Invesco, pareja de SGLD.L). Cámbialo aquí si no es el producto correcto." }
+    { "symbol": "XSLR.DE", "tv": "XETR:XSLR", "yahoo": "XSLR.DE", "name": "Xtrackers IE Physical Silver ETC", "group": "P2", "quantity": null, "avgCost": null },
+    { "symbol": "SLVR.DE", "tv": "XETR:SLVR", "yahoo": "SLVR.DE", "name": "Global X Silver Miners UCITS ETF", "group": "P2", "quantity": null, "avgCost": null },
+    { "symbol": "XC4X.F", "tv": "", "yahoo": "XC4X.F", "name": "Fidelity China Focus", "group": "P2", "quantity": null, "avgCost": null, "note": "Fidelity Funds – China Focus Fund (Yahoo XC4X.F, Fráncfort). El scanner de TradingView no cotiza XC4X; precio y sparkline van por Yahoo." },
+    { "symbol": "BTC-USD", "tv": "BITSTAMP:BTCUSD", "yahoo": "BTC-USD", "name": "Bitcoin (BTC)", "group": "P2", "quantity": null, "avgCost": null, "alwaysOpen": true, "utcOpenBaseline": true }
   ]
 }

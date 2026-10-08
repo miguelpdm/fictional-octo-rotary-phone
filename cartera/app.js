@@ -527,7 +527,7 @@
       }
     }
     spark = appendLivePrice(spark, row.price);
-    return { ...row, spark, sparkSource, previousClose };
+    return applyQuoteRules({ ...row, spark, sparkSource, previousClose });
   }
 
   function mergeQuote(position, tvMap, yahooMap) {
@@ -546,18 +546,53 @@
 
     const spark = yahoo?.spark?.length >= 2 ? [...yahoo.spark] : [];
 
-    return {
+    return applyQuoteRules({
       ...position,
       ...quote,
       spark,
       name: position.name || live?.tvName || position.symbol,
       missing: false,
       usedSnapshot: !live
-    };
+    });
+  }
+
+  function utcDayStartSec(date = nowDate()) {
+    const day = date.toISOString().slice(0, 10);
+    return Math.floor(Date.parse(`${day}T00:00:00.000Z`) / 1000);
+  }
+
+  function utcDailyOpenFromSpark(spark) {
+    const start = utcDayStartSec();
+    const today = (spark || []).filter((p) => p && p.t != null && p.v != null && Number(p.t) >= start);
+    if (!today.length) return null;
+    today.sort((a, b) => a.t - b.t);
+    return Number(today[0].v);
+  }
+
+  function applyQuoteRules(row) {
+    if (!row || row.missing) return row;
+    const next = { ...row };
+    if (row.alwaysOpen) {
+      next.session = "market";
+      if (!next.timezone) next.timezone = "Etc/UTC";
+    }
+    if (row.utcOpenBaseline) {
+      const open = utcDailyOpenFromSpark(next.spark);
+      if (open != null && Number.isFinite(open) && open !== 0 && next.price != null) {
+        next.previousClose = open;
+        next.change = next.price - open;
+        next.changePct = (next.change / open) * 100;
+      }
+    }
+    return next;
   }
 
   function isUsListing(row) {
+    if (row?.alwaysOpen || row?.utcOpenBaseline) return false;
+    const yahoo = String(row?.yahoo || row?.symbol || "").toUpperCase();
+    if (yahoo === "BTC-USD" || yahoo.startsWith("BTC-")) return false;
     const prefix = String(row.tv || "").split(":")[0].toUpperCase();
+    if (prefix === "BITSTAMP" || prefix === "COINBASE" || prefix === "BINANCE") return false;
     if (prefix === "NASDAQ" || prefix === "NYSE" || prefix === "AMEX") return true;
     const exchange = String(row.exchange || "").toUpperCase();
     return /\b(NASDAQ|NYSE|AMEX)\b/.test(exchange);
@@ -708,7 +743,12 @@
       return;
     }
     const items = [...byTz.entries()].map(([tz, info]) => {
-      const label = tz.replace("America/New_York", "EE. UU.").replace("Europe/", "").replace("_", " ");
+      const label = tz
+        .replace("America/New_York", "EE. UU.")
+        .replace("Etc/UTC", "Cripto")
+        .replace(/^UTC$/, "Cripto")
+        .replace("Europe/", "")
+        .replace("_", " ");
       const session = info.session || "out_of_session";
       return `<span class="market">${label} <span class="pill ${sessionClass(session)}">${SESSION_LABEL[session] || session}</span></span>`;
     }).join("");
@@ -919,6 +959,14 @@
         } catch (error) {
           console.warn("TradingView falló, usando snapshot", error);
         }
+        const tvMiss = config.positions.filter((p) => !p.tv || !tvMap?.[p.tv] || tvMap[p.tv].close == null);
+        if (tvMiss.length) {
+          try {
+            yahooMap = await fetchYahooLive(tvMiss);
+          } catch (gapError) {
+            console.warn("Yahoo para tickers sin TradingView falló", gapError);
+          }
+        }
       }
 
       rows = config.positions.map((position) => mergeQuote(position, tvMap, yahooMap));
@@ -934,6 +982,8 @@
       const sparkFresh = sparkCache.at && (Date.now() - sparkCache.at < SPARK_TTL_MS);
       if (liveSource === "yahoo" && yahooMap) {
         sparkCache = { at: Date.now(), map: yahooMap };
+        rows = rows.map((row) => attachSpark(row, yahooMap));
+      } else if (yahooMap && Object.keys(yahooMap).length) {
         rows = rows.map((row) => attachSpark(row, yahooMap));
       } else if (sparkFresh) {
         rows = rows.map((row) => attachSpark(row, sparkCache.map));
