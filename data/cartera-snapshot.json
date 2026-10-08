@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T09:13:20.821188+00:00",
+  "updatedAt": "2026-10-08T09:15:44.326045+00:00",
   "source": "yahoo-finance-chart",
   "delayNote": "Snapshot de Yahoo vía GitHub Actions (~30 min). Las cotizaciones en vivo de la página usan TradingView (~15 min).",
   "quotes": {
@@ -1664,19 +1664,19 @@
     },
     "UMG.AS": {
       "symbol": "UMG.AS",
-      "price": 14.63,
+      "price": 14.61,
       "previousClose": 14.355,
-      "change": 0.27500000000000036,
-      "changePct": 1.9157088122605388,
+      "change": 0.254999999999999,
+      "changePct": 1.7763845350052174,
       "currency": "EUR",
       "exchange": "Amsterdam",
       "timezone": "Europe/Amsterdam",
       "dayHigh": 14.685,
       "dayLow": 14.39,
-      "volume": 300169,
+      "volume": 303188,
       "fiftyTwoWeekHigh": 23.99,
       "fiftyTwoWeekLow": 13.92,
-      "regularMarketTime": 1791449880,
+      "regularMarketTime": 1791450030,
       "spark": [
         {
           "t": 1791442800,
@@ -1772,11 +1772,11 @@
         },
         {
           "t": 1791449700,
-          "v": 14.635000228881836
+          "v": 14.619999885559082
         },
         {
-          "t": 1791449880,
-          "v": 14.630000114440918
+          "t": 1791450030,
+          "v": 14.609999656677246
         }
       ],
       "source": "yahoo-chart"
@@ -2118,19 +2118,19 @@
     },
     "EL.PA": {
       "symbol": "EL.PA",
-      "price": 144.8,
+      "price": 144.7,
       "previousClose": 146.65,
-      "change": -1.8499999999999943,
-      "changePct": -1.2615069894306132,
+      "change": -1.950000000000017,
+      "changePct": -1.3296965564268781,
       "currency": "EUR",
       "exchange": "Paris",
       "timezone": "Europe/Paris",
       "dayHigh": 146.3,
       "dayLow": 144.05,
-      "volume": 69106,
+      "volume": 69559,
       "fiftyTwoWeekHigh": 323.8,
       "fiftyTwoWeekLow": 138.3,
-      "regularMarketTime": 1791449881,
+      "regularMarketTime": 1791449988,
       "spark": [
         {
           "t": 1791442800,
@@ -2226,30 +2226,30 @@
         },
         {
           "t": 1791449700,
-          "v": 144.85000610351562
+          "v": 144.75
         },
         {
-          "t": 1791449881,
-          "v": 144.8000030517578
+          "t": 1791449988,
+          "v": 144.6999969482422
         }
       ],
       "source": "yahoo-chart"
     },
     "GRF.MC": {
       "symbol": "GRF.MC",
-      "price": 9.738,
+      "price": 9.718,
       "previousClose": 9.948,
-      "change": -0.21000000000000085,
-      "changePct": -2.1109770808202737,
+      "change": -0.23000000000000043,
+      "changePct": -2.312022517088866,
       "currency": "EUR",
       "exchange": "MCE",
       "timezone": "Europe/Madrid",
       "dayHigh": 9.924,
-      "dayLow": 9.72,
-      "volume": 265253,
+      "dayLow": 9.716,
+      "volume": 271979,
       "fiftyTwoWeekHigh": 12.325,
       "fiftyTwoWeekLow": 8.432,
-      "regularMarketTime": 1791449574,
+      "regularMarketTime": 1791450033,
       "spark": [
         {
           "t": 1791442800,
@@ -2341,11 +2341,15 @@
         },
         {
           "t": 1791449400,
-          "v": 9.729999542236328
+          "v": 9.73799991607666
         },
         {
-          "t": 1791449574,
-          "v": 9.73799991607666
+          "t": 1791449700,
+          "v": 9.722000122070312
+        },
+        {
+          "t": 1791450033,
+          "v": 9.718000411987305
         }
       ],
       "source": "yahoo-chart"
@@ -3022,19 +3026,19 @@
     },
     "RED.MC": {
       "symbol": "RED.MC",
-      "price": 14.71,
+      "price": 14.7,
       "previousClose": 14.64,
-      "change": 0.07000000000000028,
-      "changePct": 0.47814207650273416,
+      "change": 0.05999999999999872,
+      "changePct": 0.40983606557376173,
       "currency": "EUR",
       "exchange": "MCE",
       "timezone": "Europe/Madrid",
       "dayHigh": 14.75,
       "dayLow": 14.55,
-      "volume": 81430,
+      "volume": 85592,
       "fiftyTwoWeekHigh": 17.68,
       "fiftyTwoWeekLow": 14.15,
-      "regularMarketTime": 1791449889,
+      "regularMarketTime": 1791450007,
       "spark": [
         {
           "t": 1791442800,
@@ -3121,8 +3125,12 @@
           "v": 14.710000038146973
         },
         {
-          "t": 1791449889,
+          "t": 1791449700,
           "v": 14.710000038146973
+        },
+        {
+          "t": 1791450007,
+          "v": 14.699999809265137
         }
       ],
       "source": "yahoo-chart"
@@ -4879,19 +4887,19 @@
     },
     "SGLD.L": {
       "symbol": "SGLD.L",
-      "price": 396.97,
+      "price": 396.82,
       "previousClose": 395.27,
-      "change": 1.7000000000000455,
-      "changePct": 0.4300857641612178,
+      "change": 1.5500000000000114,
+      "changePct": 0.3921370202646321,
       "currency": "USD",
       "exchange": "LSE",
       "timezone": "Europe/London",
       "dayHigh": 397.42,
       "dayLow": 396.04,
-      "volume": 4151,
+      "volume": 4099,
       "fiftyTwoWeekHigh": 534.03,
       "fiftyTwoWeekLow": 373.917,
-      "regularMarketTime": 1791449764,
+      "regularMarketTime": 1791450019,
       "spark": [
         {
           "t": 1791442800,
@@ -4970,8 +4978,8 @@
           "v": 396.8900146484375
         },
         {
-          "t": 1791449764,
-          "v": 396.9700012207031
+          "t": 1791450019,
+          "v": 396.82000732421875
         }
       ],
       "source": "yahoo-chart"
@@ -4987,7 +4995,7 @@
       "timezone": "Europe/London",
       "dayHigh": 56.37,
       "dayLow": 55.91,
-      "volume": 3371,
+      "volume": 3421,
       "fiftyTwoWeekHigh": 115.92,
       "fiftyTwoWeekLow": 42.389,
       "regularMarketTime": 1791449301,
