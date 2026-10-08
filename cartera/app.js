@@ -5,6 +5,7 @@
   const SOURCE_KEY = "cartera-live-source";
   const UNLOCK_KEY = "cartera-unlock";
   const VIEW_KEY = "cartera-view";
+  const HIDE_US_KEY = "cartera-hide-us";
   const AUTH = {
     saltHex: "1b650c734f8a9d75eded8004053a84da",
     iterations: 310000,
@@ -50,6 +51,7 @@
   let sortDir = "asc";
   let preferredSource = "tv";
   let denseView = false;
+  let hideUs = false;
   let expanded = new Set();
   let autoTimer = null;
   let lastLiveAt = null;
@@ -77,6 +79,7 @@
     sorts: document.getElementById("sortChips"),
     list: document.getElementById("list"),
     view: document.getElementById("viewBtn"),
+    hideUs: document.getElementById("hideUsBtn"),
     logout: document.getElementById("logoutBtn")
   };
 
@@ -386,8 +389,16 @@
     };
   }
 
+  function isUsListing(row) {
+    const prefix = String(row.tv || "").split(":")[0].toUpperCase();
+    if (prefix === "NASDAQ" || prefix === "NYSE" || prefix === "AMEX") return true;
+    const exchange = String(row.exchange || "").toUpperCase();
+    return /\b(NASDAQ|NYSE|AMEX)\b/.test(exchange);
+  }
+
   function visibleRows() {
     let list = rows.filter((row) => {
+      if (hideUs && isUsListing(row)) return false;
       if (filter === "all") return true;
       if (filter === "up") return (row.changePct || 0) > 0.005;
       if (filter === "down") return (row.changePct || 0) < -0.005;
@@ -408,8 +419,38 @@
     return list;
   }
 
+  function sparkSamples(points) {
+    const now = Date.now() / 1000 + 90;
+    return (points || [])
+      .filter((p) => p && p.v != null && p.t != null && Number.isFinite(Number(p.t)) && Number.isFinite(Number(p.v)))
+      .map((p) => ({ t: Number(p.t), v: Number(p.v) }))
+      .filter((p) => p.t <= now)
+      .sort((a, b) => a.t - b.t);
+  }
+
+  function sparkXScale(samples, w) {
+    const t0 = samples[0].t;
+    const t1 = samples[samples.length - 1].t;
+    const spanT = t1 - t0;
+    const x = (t) => (spanT <= 0 ? w / 2 : 1 + ((t - t0) / spanT) * (w - 2));
+    return { t0, t1, spanT, x };
+  }
+
+  function nearestSparkSample(samples, t) {
+    let best = samples[0];
+    let bestD = Math.abs(samples[0].t - t);
+    for (let i = 1; i < samples.length; i += 1) {
+      const d = Math.abs(samples[i].t - t);
+      if (d < bestD) {
+        best = samples[i];
+        bestD = d;
+      }
+    }
+    return best;
+  }
+
   function chartHtml(points, previousClose, wide, currency) {
-    const samples = (points || []).filter((p) => p && p.v != null && p.t != null);
+    const samples = sparkSamples(points);
     const w = wide ? 320 : 72;
     const h = wide ? 140 : 36;
     const klass = wide ? "chart chart-wide" : "chart chart-mini";
@@ -420,11 +461,11 @@
     const min = Math.min(...values, previousClose ?? values[0]);
     const max = Math.max(...values, previousClose ?? values[0]);
     const span = max - min || 1;
-    const step = (w - 2) / (samples.length - 1);
+    const { x } = sparkXScale(samples, w);
     const y = (v) => h - 3 - ((v - min) / span) * (h - 6);
-    const d = values.map((v, i) => `${i === 0 ? "M" : "L"} ${1 + i * step} ${y(v)}`).join(" ");
+    const d = samples.map((p, i) => `${i === 0 ? "M" : "L"} ${x(p.t)} ${y(p.v)}`).join(" ");
     const yPrev = previousClose == null ? h : y(previousClose);
-    const lastX = 1 + (values.length - 1) * step;
+    const lastX = x(samples[samples.length - 1].t);
     const area = `${d} L ${lastX} ${yPrev} L 1 ${yPrev} Z`;
     const strokeW = wide ? 2 : 1.5;
     const uid = `c${chartUid += 1}`;
@@ -520,7 +561,7 @@
   }
 
   function sparkTiny(points, previousClose) {
-    const samples = (points || []).filter((p) => p && p.v != null);
+    const samples = sparkSamples(points);
     const w = 42;
     const h = 16;
     if (samples.length < 2) {
@@ -530,12 +571,20 @@
     const min = Math.min(...values, previousClose ?? values[0]);
     const max = Math.max(...values, previousClose ?? values[0]);
     const span = max - min || 1;
-    const step = (w - 2) / (samples.length - 1);
+    const { x } = sparkXScale(samples, w);
     const y = (v) => h - 1.5 - ((v - min) / span) * (h - 3);
-    const d = values.map((v, i) => `${i === 0 ? "M" : "L"} ${1 + i * step} ${y(v)}`).join(" ");
+    const d = samples.map((p, i) => `${i === 0 ? "M" : "L"} ${x(p.t)} ${y(p.v)}`).join(" ");
     const up = (values[values.length - 1] ?? 0) >= (previousClose ?? values[0]);
     const color = up ? "#30d158" : "#ff453a";
     return `<div class="chart chart-tiny" aria-hidden="true"><svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none"><path d="${d}" fill="none" stroke="${color}" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"></path></svg></div>`;
+  }
+
+  function applyHideUs() {
+    if (!els.hideUs) return;
+    els.hideUs.setAttribute("aria-pressed", hideUs ? "true" : "false");
+    els.hideUs.setAttribute("aria-label", hideUs ? "Mostrar EE. UU." : "Ocultar EE. UU.");
+    els.hideUs.setAttribute("title", hideUs ? "Mostrar EE. UU." : "Ocultar EE. UU.");
+    els.app.classList.toggle("hide-us", hideUs);
   }
 
   function applyView() {
@@ -644,8 +693,9 @@
 
   function renderAll() {
     renderChips();
-    renderSummary(rows);
-    renderMarkets(rows);
+    const visible = visibleRows();
+    renderSummary(visible);
+    renderMarkets(visible);
     renderList();
   }
 
@@ -836,7 +886,7 @@
   }
 
   function showChartTip(chart, clientX) {
-    const samples = chartSamples(chart);
+    const samples = sparkSamples(chartSamples(chart));
     if (samples.length < 2) return;
     const prevRaw = chart.dataset.prev;
     const previousClose = prevRaw === "" ? null : Number(prevRaw);
@@ -847,11 +897,12 @@
     const min = Math.min(...values, previousClose ?? values[0]);
     const max = Math.max(...values, previousClose ?? values[0]);
     const span = max - min || 1;
+    const { t0, t1, spanT, x: xAt } = sparkXScale(samples, w);
     const rect = chart.getBoundingClientRect();
     const ratio = Math.max(0, Math.min(1, (clientX - rect.left) / Math.max(rect.width, 1)));
-    const i = Math.round(ratio * (samples.length - 1));
-    const pt = samples[i];
-    const x = 1 + i * ((w - 2) / (samples.length - 1));
+    const t = t0 + ratio * spanT;
+    const pt = nearestSparkSample(samples, t);
+    const x = xAt(pt.t);
     const y = h - 3 - ((pt.v - min) / span) * (h - 6);
     const xh = chart.querySelector(".xh");
     const vLine = chart.querySelector(".xh-v");
@@ -941,6 +992,13 @@
     renderList();
   });
 
+  els.hideUs.addEventListener("click", () => {
+    hideUs = !hideUs;
+    localStorage.setItem(HIDE_US_KEY, hideUs ? "1" : "0");
+    applyHideUs();
+    renderAll();
+  });
+
   document.addEventListener("visibilitychange", () => {
     if (started && document.visibilityState === "visible") refresh({ silent: true });
   });
@@ -996,7 +1054,9 @@
     preferredSource = localStorage.getItem(SOURCE_KEY) === "yahoo" ? "yahoo" : "tv";
     loadSortPrefs();
     denseView = localStorage.getItem(VIEW_KEY) === "dense";
+    hideUs = localStorage.getItem(HIDE_US_KEY) === "1";
     applyView();
+    applyHideUs();
     els.auto.checked = localStorage.getItem(AUTO_KEY) === "on";
     renderSourceButtons();
     renderChips();
