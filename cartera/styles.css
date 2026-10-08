@@ -227,7 +227,13 @@ header {
   line-height: 1;
 }
 
+.us-btn[aria-pressed="true"] {
+  color: var(--text);
+  background: #2a3140;
+}
+
 .us-btn[aria-pressed="true"] .us-pill {
+  background: #3a4150;
   text-decoration: line-through;
   text-decoration-thickness: 1.5px;
 }
