@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T22:09:04.789146+00:00",
+  "updatedAt": "2026-10-08T02:09:19.485032+00:00",
   "source": "yahoo-finance-chart",
   "delayNote": "Snapshot de Yahoo vía GitHub Actions (~30 min). Las cotizaciones en vivo de la página usan TradingView (~15 min).",
   "quotes": {
@@ -1339,7 +1339,7 @@
       "dayHigh": 111.59,
       "dayLow": 106.02,
       "volume": 3731179,
-      "fiftyTwoWeekHigh": 278.1,
+      "fiftyTwoWeekHigh": 275.58,
       "fiftyTwoWeekLow": 104.91,
       "regularMarketTime": 1791403201,
       "spark": [
@@ -1674,7 +1674,7 @@
       "dayHigh": 14.425,
       "dayLow": 14.21,
       "volume": 2385661,
-      "fiftyTwoWeekHigh": 24.22,
+      "fiftyTwoWeekHigh": 23.99,
       "fiftyTwoWeekLow": 13.92,
       "regularMarketTime": 1791387318,
       "spark": [
@@ -2871,7 +2871,7 @@
       "dayHigh": 9.976,
       "dayLow": 9.828,
       "volume": 1138122,
-      "fiftyTwoWeekHigh": 12.365,
+      "fiftyTwoWeekHigh": 12.325,
       "fiftyTwoWeekLow": 8.432,
       "regularMarketTime": 1791387409,
       "spark": [
@@ -4367,7 +4367,7 @@
       "dayHigh": 28.86,
       "dayLow": 27.72,
       "volume": 8315833,
-      "fiftyTwoWeekHigh": 43.0,
+      "fiftyTwoWeekHigh": 42.5,
       "fiftyTwoWeekLow": 7.02,
       "regularMarketTime": 1791403201,
       "spark": [
@@ -6230,11 +6230,11 @@
       "currency": "USD",
       "exchange": "LSE",
       "timezone": "Europe/London",
-      "dayHigh": 397.68,
-      "dayLow": 391.43,
-      "volume": 47647,
+      "dayHigh": 0.0,
+      "dayLow": 0.0,
+      "volume": 642,
       "fiftyTwoWeekHigh": 534.03,
-      "fiftyTwoWeekLow": 373.917,
+      "fiftyTwoWeekLow": 0.0,
       "regularMarketTime": 1791387318,
       "spark": [
         {
@@ -6557,11 +6557,11 @@
       "currency": "USD",
       "exchange": "LSE",
       "timezone": "Europe/London",
-      "dayHigh": 57.6,
-      "dayLow": 56.22,
-      "volume": 60634,
+      "dayHigh": 0.0,
+      "dayLow": 0.0,
+      "volume": 158,
       "fiftyTwoWeekHigh": 115.92,
-      "fiftyTwoWeekLow": 42.389,
+      "fiftyTwoWeekLow": 0.0,
       "regularMarketTime": 1791386576,
       "spark": [
         {
@@ -6720,11 +6720,11 @@
       "currency": "USD",
       "exchange": "LSE",
       "timezone": "Europe/London",
-      "dayHigh": 396.06,
-      "dayLow": 390.0,
-      "volume": 819,
+      "dayHigh": 0.0,
+      "dayLow": 0.0,
+      "volume": 55,
       "fiftyTwoWeekHigh": 531.18,
-      "fiftyTwoWeekLow": 372.701,
+      "fiftyTwoWeekLow": 0.0,
       "regularMarketTime": 1791386996,
       "spark": [
         {
