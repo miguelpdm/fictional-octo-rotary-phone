@@ -4718,37 +4718,6 @@
         }
       ],
       "source": "yahoo-chart"
-    },
-    "XGLD.L": {
-      "symbol": "XGLD.L",
-      "price": 394.53,
-      "previousClose": 392.56,
-      "change": 1.9699999999999704,
-      "changePct": 0.5018341145302554,
-      "currency": "USD",
-      "exchange": "LSE",
-      "timezone": "Europe/London",
-      "dayHigh": 394.53,
-      "dayLow": 394.36,
-      "volume": 20,
-      "fiftyTwoWeekHigh": 531.18,
-      "fiftyTwoWeekLow": 372.701,
-      "regularMarketTime": 1791443226,
-      "spark": [
-        {
-          "t": 1791442800,
-          "v": 394.3599853515625
-        },
-        {
-          "t": 1791443100,
-          "v": 394.5299987792969
-        },
-        {
-          "t": 1791443226,
-          "v": 394.5299987792969
-        }
-      ],
-      "source": "yahoo-chart"
     }
   },
   "errors": []

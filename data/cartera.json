@@ -28,7 +28,6 @@
 
     { "symbol": "BRNT.MI", "tv": "EURONEXT:BRNT", "yahoo": "BRNT.MI", "name": "WisdomTree Brent Crude Oil", "group": "P2", "quantity": null, "avgCost": null, "note": "Yahoo: BRNT.MI (Milán). Cotización en vivo vía Euronext:BRNT; TradingView no lista el ticker milanés." },
     { "symbol": "SGLD.L", "tv": "LSE:SGLD", "yahoo": "SGLD.L", "name": "Invesco Physical Gold", "group": "P2", "quantity": null, "avgCost": null },
-    { "symbol": "SSLV.L", "tv": "LSE:SSLV", "yahoo": "SSLV.L", "name": "Invesco Physical Silver", "group": "P2", "quantity": null, "avgCost": null, "note": "«SILV» no existe como ETC/acción en Yahoo. Se usa SSLV.L (ETC de plata de Invesco, pareja de SGLD.L). Cámbialo aquí si no es el producto correcto." },
-    { "symbol": "XGLD.L", "tv": "LSE:XGLD", "yahoo": "XGLD.L", "name": "Xtrackers Physical Gold ETC", "group": "P2", "quantity": null, "avgCost": null, "note": "XGLD.DE no resuelve en Yahoo ni en TradingView. Se usa XGLD.L (Londres). Si era otro ticker Xetra, edítalo en este JSON." }
+    { "symbol": "SSLV.L", "tv": "LSE:SSLV", "yahoo": "SSLV.L", "name": "Invesco Physical Silver", "group": "P2", "quantity": null, "avgCost": null, "note": "«SILV» no existe como ETC/acción en Yahoo. Se usa SSLV.L (ETC de plata de Invesco, pareja de SGLD.L). Cámbialo aquí si no es el producto correcto." }
   ]
 }
