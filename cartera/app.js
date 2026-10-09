@@ -5,6 +5,7 @@
   const SOURCE_KEY = "cartera-live-source";
   const UNLOCK_KEY = "cartera-unlock";
   const VIEW_KEY = "cartera-view";
+  const THEME_KEY = "cartera-theme";
   const HIDE_US_OVERRIDE_KEY = "cartera-hide-us-override";
   const NY_TZ = "America/New_York";
   const US_GOOD_FRIDAY = {
@@ -90,6 +91,9 @@
     list: document.getElementById("list"),
     view: document.getElementById("viewBtn"),
     hideUs: document.getElementById("hideUsBtn"),
+    theme: document.getElementById("themeBtn"),
+    themeGate: document.getElementById("themeBtnGate"),
+    themeColor: document.querySelector('meta[name="theme-color"]'),
     logout: document.getElementById("logoutBtn")
   };
 
@@ -810,6 +814,37 @@
     if (render && changed) renderAll();
   }
 
+  function systemTheme() {
+    return window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
+  }
+
+  function currentTheme() {
+    const saved = localStorage.getItem(THEME_KEY);
+    if (saved === "light" || saved === "dark") return saved;
+    const attr = document.documentElement.getAttribute("data-theme");
+    if (attr === "light" || attr === "dark") return attr;
+    return systemTheme();
+  }
+
+  function applyTheme(theme) {
+    const next = theme === "light" ? "light" : "dark";
+    document.documentElement.setAttribute("data-theme", next);
+    if (els.themeColor) els.themeColor.setAttribute("content", next === "light" ? "#f3f5f8" : "#0b0d10");
+    const nextLabel = next === "light" ? "Modo noche" : "Modo día";
+    for (const btn of [els.theme, els.themeGate]) {
+      if (!btn) continue;
+      btn.setAttribute("aria-pressed", next === "light" ? "true" : "false");
+      btn.setAttribute("aria-label", nextLabel);
+      btn.setAttribute("title", nextLabel);
+    }
+  }
+
+  function toggleTheme() {
+    const next = currentTheme() === "light" ? "dark" : "light";
+    localStorage.setItem(THEME_KEY, next);
+    applyTheme(next);
+  }
+
   function applyView() {
     els.app.classList.toggle("dense", denseView);
     els.view.setAttribute("aria-pressed", denseView ? "true" : "false");
@@ -1227,6 +1262,18 @@
     renderList();
   });
 
+  for (const btn of [els.theme, els.themeGate]) {
+    if (btn) btn.addEventListener("click", toggleTheme);
+  }
+
+  const themeMq = window.matchMedia("(prefers-color-scheme: light)");
+  const onSystemTheme = () => {
+    if (localStorage.getItem(THEME_KEY) === "light" || localStorage.getItem(THEME_KEY) === "dark") return;
+    applyTheme(systemTheme());
+  };
+  if (themeMq.addEventListener) themeMq.addEventListener("change", onSystemTheme);
+  else if (themeMq.addListener) themeMq.addListener(onSystemTheme);
+
   els.hideUs.addEventListener("click", () => {
     usSessionMeta = usSessionSnapshot();
     hideUs = !hideUs;
@@ -1293,6 +1340,7 @@
     preferredSource = localStorage.getItem(SOURCE_KEY) === "yahoo" ? "yahoo" : "tv";
     loadSortPrefs();
     denseView = localStorage.getItem(VIEW_KEY) === "dense";
+    applyTheme(currentTheme());
     applyView();
     syncHideUs();
     els.auto.checked = localStorage.getItem(AUTO_KEY) === "on";
@@ -1348,6 +1396,8 @@
   });
 
   globalThis.__carteraSyncUs = () => syncHideUs({ render: true });
+
+  applyTheme(currentTheme());
 
   if (isUnlocked()) {
     showApp();
