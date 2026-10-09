@@ -14,11 +14,38 @@
   <link rel="apple-touch-icon" href="./apple-touch-icon.png" sizes="180x180">
   <link rel="manifest" href="./manifest.webmanifest">
   <link rel="stylesheet" href="./styles.css">
+  <script>
+    (function () {
+      try {
+        var key = "cartera-theme";
+        var saved = localStorage.getItem(key);
+        var theme = saved === "light" || saved === "dark"
+          ? saved
+          : (window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark");
+        document.documentElement.setAttribute("data-theme", theme);
+        var meta = document.querySelector('meta[name="theme-color"]');
+        if (meta) meta.setAttribute("content", theme === "light" ? "#f3f5f8" : "#0b0d10");
+      } catch (e) {
+        document.documentElement.setAttribute("data-theme", "dark");
+      }
+    })();
+  </script>
 </head>
 <body>
   <div id="gate" class="gate">
     <form id="gateForm" class="gate-card">
-      <h1>💼 Cartera</h1>
+      <div class="gate-card-top">
+        <h1>💼 Cartera</h1>
+        <button class="view-btn theme-btn" id="themeBtnGate" type="button" aria-label="Modo claro" title="Modo claro">
+          <svg class="icon-moon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path d="M21 14.5A8.5 8.5 0 0 1 9.5 3 7 7 0 1 0 21 14.5z"/>
+          </svg>
+          <svg class="icon-sun" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <circle cx="12" cy="12" r="4.2"/>
+            <path d="M12 3v1.8M12 19.2V21M4.9 4.9l1.3 1.3M17.8 17.8l1.3 1.3M3 12h1.8M19.2 12H21M4.9 19.1l1.3-1.3M17.8 6.2l1.3-1.3"/>
+          </svg>
+        </button>
+      </div>
       <p class="gate-copy">Introduce la contraseña para ver las cotizaciones.</p>
       <label class="gate-label" for="gatePassword">Contraseña</label>
       <input id="gatePassword" class="gate-input" type="password" name="password" autocomplete="current-password" required>
@@ -49,6 +76,15 @@
             <rect x="3" y="4" width="18" height="3.2" rx="1.2"/>
             <rect x="3" y="10.4" width="18" height="3.2" rx="1.2"/>
             <rect x="3" y="16.8" width="18" height="3.2" rx="1.2"/>
+          </svg>
+        </button>
+        <button class="view-btn theme-btn" id="themeBtn" type="button" aria-label="Modo claro" title="Modo claro">
+          <svg class="icon-moon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path d="M21 14.5A8.5 8.5 0 0 1 9.5 3 7 7 0 1 0 21 14.5z"/>
+          </svg>
+          <svg class="icon-sun" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <circle cx="12" cy="12" r="4.2"/>
+            <path d="M12 3v1.8M12 19.2V21M4.9 4.9l1.3 1.3M17.8 17.8l1.3 1.3M3 12h1.8M19.2 12H21M4.9 19.1l1.3-1.3M17.8 6.2l1.3-1.3"/>
           </svg>
         </button>
       </div>
