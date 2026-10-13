@@ -235,10 +235,10 @@
     return "out_of_session";
   }
 
-  function nyParts(date = nowDate()) {
+  function tzParts(date, tz) {
     const parts = {};
     for (const part of new Intl.DateTimeFormat("en-US", {
-      timeZone: NY_TZ,
+      timeZone: tz,
       weekday: "short",
       year: "numeric",
       month: "2-digit",
@@ -259,6 +259,10 @@
       weekday,
       date: `${parts.year}-${parts.month}-${parts.day}`
     };
+  }
+
+  function nyParts(date = nowDate()) {
+    return tzParts(date, NY_TZ);
   }
 
   function ymd(year, month, day) {
@@ -446,11 +450,24 @@
     return map;
   }
 
-  async function fetchYahooChart5m(symbol) {
-    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?interval=5m&range=1d&includePrePost=false`;
+  async function fetchYahooChart5m(symbol, range = "1d") {
+    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?interval=5m&range=${encodeURIComponent(range)}&includePrePost=false`;
     const payload = await fetchYahooViaJina(url);
     const result = payload.chart?.result?.[0];
     return fromYahooChart(result);
+  }
+
+  async function enrichUsCloseSparks(map, positions) {
+    const extra = (positions || []).filter((p) => p.utcOpenBaseline);
+    if (!extra.length) return map;
+    const fetched = await Promise.all(extra.map((p) => {
+      const symbol = p.yahoo || p.symbol;
+      return fetchYahooChart5m(symbol, "2d").then((q) => [symbol, q]).catch(() => null);
+    }));
+    for (const pair of fetched) {
+      if (pair && pair[1]?.spark?.length >= 2) map[pair[0]] = pair[1];
+    }
+    return map;
   }
 
   async function fetchYahooLive(positions) {
@@ -462,7 +479,7 @@
     const parts = await Promise.all(chunks.map((chunk) => fetchYahooSparkChunk(chunk)));
     for (const part of parts) Object.assign(map, part);
     if (!Object.keys(map).length) throw new Error("Yahoo no devolvió cotizaciones");
-    return map;
+    return enrichUsCloseSparks(map, positions);
   }
 
   async function fetchSparkLive(positions) {
@@ -493,11 +510,14 @@
     }
   }
 
-  function sparkIsCurrentSession(spark, timezone) {
+  function sparkIsCurrentSession(spark, timezone, row) {
     if (!spark || spark.length < 2) return false;
     const last = spark[spark.length - 1];
     if (!last || last.t == null) return false;
-    return dayKey(new Date(last.t * 1000), timezone) === dayKey(new Date(), timezone);
+    if (row?.utcOpenBaseline) {
+      return Number(last.t) >= lastUsCloseSec() - 36 * 3600;
+    }
+    return dayKey(new Date(last.t * 1000), timezone) === dayKey(nowDate(), timezone);
   }
 
   function appendLivePrice(spark, price) {
@@ -525,7 +545,7 @@
       const snap = snapshot.quotes?.[row.symbol];
       const snapSpark = snap?.spark || [];
       const tz = row.timezone || snap?.timezone;
-      if (sparkIsCurrentSession(snapSpark, tz)) {
+      if (sparkIsCurrentSession(snapSpark, tz, row)) {
         spark = snapSpark;
         sparkSource = "snapshot";
       }
@@ -560,17 +580,42 @@
     });
   }
 
-  function utcDayStartSec(date = nowDate()) {
-    const day = date.toISOString().slice(0, 10);
-    return Math.floor(Date.parse(`${day}T00:00:00.000Z`) / 1000);
+  function zonedLocalToUnixSec(year, month, day, hour, minute, tz) {
+    const utcGuess = Date.UTC(year, month - 1, day, hour, minute, 0);
+    const parts = tzParts(new Date(utcGuess), tz);
+    const asUtc = Date.UTC(parts.year, parts.month - 1, parts.day, parts.hour, parts.minute, 0);
+    return Math.floor((utcGuess - (asUtc - utcGuess)) / 1000);
   }
 
-  function utcDailyOpenFromSpark(spark) {
-    const start = utcDayStartSec();
-    const today = (spark || []).filter((p) => p && p.t != null && p.v != null && Number(p.t) >= start);
-    if (!today.length) return null;
-    today.sort((a, b) => a.t - b.t);
-    return Number(today[0].v);
+  function lastUsCloseSec(date = nowDate()) {
+    const parts = tzParts(date, TZ);
+    let year = parts.year;
+    let month = parts.month;
+    let day = parts.day;
+    if (parts.hour < 22) {
+      const prev = new Date(Date.UTC(year, month - 1, day) - 86400000);
+      year = prev.getUTCFullYear();
+      month = prev.getUTCMonth() + 1;
+      day = prev.getUTCDate();
+    }
+    return zonedLocalToUnixSec(year, month, day, 22, 0, TZ);
+  }
+
+  function usCloseSessionFromSpark(spark, start) {
+    const points = (spark || [])
+      .filter((p) => p && p.t != null && p.v != null)
+      .sort((a, b) => a.t - b.t);
+    let before = null;
+    for (const point of points) {
+      if (Number(point.t) <= start) before = point;
+    }
+    const session = points.filter((p) => Number(p.t) >= start);
+    let baseline = before ? Number(before.v) : (session[0] ? Number(session[0].v) : null);
+    let clipped = session;
+    if (before && (!clipped.length || Number(clipped[0].t) > start)) {
+      clipped = [{ t: start, v: before.v }, ...clipped];
+    }
+    return { spark: clipped, open: baseline };
   }
 
   function applyQuoteRules(row) {
@@ -581,7 +626,10 @@
       if (!next.timezone) next.timezone = "Etc/UTC";
     }
     if (row.utcOpenBaseline) {
-      const open = utcDailyOpenFromSpark(next.spark);
+      const start = lastUsCloseSec();
+      const session = usCloseSessionFromSpark(next.spark, start);
+      if (session.spark.length) next.spark = session.spark;
+      const open = session.open;
       if (open != null && Number.isFinite(open) && open !== 0 && next.price != null) {
         next.previousClose = open;
         next.change = next.price - open;
