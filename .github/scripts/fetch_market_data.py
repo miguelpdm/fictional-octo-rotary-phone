@@ -3,8 +3,9 @@ import json
 import re
 import urllib.parse
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 INDICES = [
     {"symbol": "^IBEX", "name": "IBEX 35"},
@@ -58,6 +59,15 @@ ROOT = Path(__file__).resolve().parents[2]
 OUTPUT = ROOT / "data" / "market.json"
 CARTERA_CONFIG = ROOT / "data" / "cartera.json"
 CARTERA_SNAPSHOT = ROOT / "data" / "cartera-snapshot.json"
+MADRID_TZ = ZoneInfo("Europe/Madrid")
+
+
+def last_us_close_ts(now: datetime | None = None) -> int:
+    current = now.astimezone(MADRID_TZ) if now else datetime.now(MADRID_TZ)
+    start = current.replace(hour=22, minute=0, second=0, microsecond=0)
+    if current < start:
+        start -= timedelta(days=1)
+    return int(start.timestamp())
 
 
 def fetch_json(url: str) -> dict:
@@ -182,11 +192,13 @@ def main() -> None:
     write_cartera_snapshot()
 
 
-def fetch_intraday(symbol: str) -> dict:
+def fetch_intraday(symbol: str, us_close_baseline: bool = False) -> dict:
     quoted = urllib.parse.quote(symbol)
+    instrument_hint = us_close_baseline
+    range_param = "2d" if instrument_hint else "1d"
     url = (
         "https://query1.finance.yahoo.com/v8/finance/chart/"
-        f"{quoted}?interval=5m&range=1d&includePrePost=false"
+        f"{quoted}?interval=5m&range={range_param}&includePrePost=false"
     )
     data = fetch_json(url)
     result = data["chart"]["result"][0]
@@ -203,12 +215,17 @@ def fetch_intraday(symbol: str) -> dict:
     previous_close = meta.get("chartPreviousClose") or meta.get("previousClose")
     price = meta.get("regularMarketPrice")
     instrument = (meta.get("instrumentType") or "").upper()
-    if instrument == "CRYPTOCURRENCY":
-        start = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
-        start_ts = int(start.timestamp())
-        today = [p["v"] for p in spark if p.get("t") is not None and p["t"] >= start_ts]
-        if today:
-            previous_close = today[0]
+    if us_close_baseline or instrument == "CRYPTOCURRENCY":
+        start_ts = last_us_close_ts()
+        before = [p for p in spark if p.get("t") is not None and p["t"] <= start_ts]
+        session = [p for p in spark if p.get("t") is not None and p["t"] >= start_ts]
+        if before:
+            previous_close = before[-1]["v"]
+            if not session or session[0]["t"] > start_ts:
+                session = [{"t": start_ts, "v": before[-1]["v"]}, *session]
+        elif session:
+            previous_close = session[0]["v"]
+        spark = session
     change = (price - previous_close) if price is not None and previous_close else 0
     change_pct = (change / previous_close * 100) if previous_close else 0
 
@@ -244,7 +261,10 @@ def write_cartera_snapshot() -> None:
     for position in config.get("positions") or []:
         yahoo_symbol = position.get("yahoo") or position.get("symbol")
         try:
-            quotes[position["symbol"]] = fetch_intraday(yahoo_symbol)
+            quotes[position["symbol"]] = fetch_intraday(
+                yahoo_symbol,
+                us_close_baseline=bool(position.get("utcOpenBaseline")),
+            )
         except Exception as error:  # noqa: BLE001
             errors.append({"symbol": position.get("symbol"), "yahoo": yahoo_symbol, "error": str(error)})
 
