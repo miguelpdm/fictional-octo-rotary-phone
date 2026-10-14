@@ -297,6 +297,32 @@ header {
   text-decoration-thickness: 1.5px;
 }
 
+.sector-btn .us-pill {
+  letter-spacing: 0.02em;
+  font-size: 0.58rem;
+  text-transform: none;
+}
+
+.sector-btn[aria-pressed="true"] .us-pill {
+  text-decoration: none;
+}
+
+.bench {
+  margin-top: 0.12rem;
+  font-size: 0.64rem;
+  font-weight: 650;
+  color: var(--muted);
+  letter-spacing: 0.01em;
+  line-height: 1.2;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.bench .up { color: var(--green); }
+.bench .down { color: var(--red); }
+.bench .flat { color: var(--muted); }
+
 .theme-btn .icon-sun,
 .theme-btn .icon-moon {
   width: 1.08rem;
@@ -463,6 +489,13 @@ html:not([data-theme]) .theme-btn .icon-sun { display: none; }
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+
+.app.dense .tile-id { min-width: 0; flex: 1; }
+
+.app.dense .bench {
+  margin-top: 0.04rem;
+  font-size: 0.56rem;
 }
 
 .app.dense .group-tag { display: none; }

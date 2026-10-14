@@ -5,6 +5,7 @@
   const SOURCE_KEY = "cartera-live-source";
   const UNLOCK_KEY = "cartera-unlock";
   const VIEW_KEY = "cartera-view";
+  const SECTOR_KEY = "cartera-sector";
   const THEME_KEY = "cartera-theme";
   const HIDE_US_OVERRIDE_KEY = "cartera-hide-us-override";
   const NY_TZ = "America/New_York";
@@ -61,6 +62,9 @@
   let sortDir = "asc";
   let preferredSource = "tv";
   let denseView = false;
+  let sectorView = false;
+  let benchQuotes = {};
+  let benchFetch = null;
   let hideUs = false;
   let usSessionMeta = { session: "closed", date: "", open: false };
   let expanded = new Set();
@@ -91,6 +95,7 @@
     list: document.getElementById("list"),
     view: document.getElementById("viewBtn"),
     hideUs: document.getElementById("hideUsBtn"),
+    sector: document.getElementById("sectorBtn"),
     theme: document.getElementById("themeBtn"),
     themeGate: document.getElementById("themeBtnGate"),
     themeColor: document.querySelector('meta[name="theme-color"]'),
@@ -650,6 +655,138 @@
     return /\b(NASDAQ|NYSE|AMEX)\b/.test(exchange);
   }
 
+  function benchSpec(row) {
+    const raw = row?.benchmark;
+    if (!raw) return null;
+    if (typeof raw === "string") {
+      const meta = (config.benchmarks || {})[raw] || {};
+      return {
+        id: raw,
+        symbol: meta.symbol || raw,
+        yahoo: meta.yahoo || raw,
+        tv: meta.tv || ""
+      };
+    }
+    const id = raw.symbol || raw.yahoo;
+    if (!id) return null;
+    return { id, symbol: raw.symbol || id, yahoo: raw.yahoo || id, tv: raw.tv || "" };
+  }
+
+  function uniqueBenchSpecs() {
+    const seen = new Set();
+    const specs = [];
+    for (const position of config.positions || []) {
+      const spec = benchSpec(position);
+      if (!spec || !spec.yahoo || seen.has(spec.yahoo)) continue;
+      seen.add(spec.yahoo);
+      specs.push(spec);
+    }
+    return specs;
+  }
+
+  function quotePctFromYahoo(quoted) {
+    if (!quoted || quoted.changePct == null || Number.isNaN(Number(quoted.changePct))) return null;
+    return Number(quoted.changePct);
+  }
+
+  function quotePctFromTv(quoted) {
+    if (!quoted || quoted.change == null || Number.isNaN(Number(quoted.change))) return null;
+    return Number(quoted.change);
+  }
+
+  function reuseHoldingPct(spec) {
+    const match = rows.find((row) =>
+      !row.missing
+      && ((row.yahoo || row.symbol) === spec.yahoo || row.symbol === spec.symbol || row.symbol === spec.id)
+    );
+    if (match && match.changePct != null && Number.isFinite(match.changePct)) return Number(match.changePct);
+    return null;
+  }
+
+  async function fetchBenchQuotes(existingYahooMap, existingTvMap) {
+    const specs = uniqueBenchSpecs();
+    const out = {};
+    const missing = [];
+    for (const spec of specs) {
+      const reused = reuseHoldingPct(spec);
+      if (reused != null) {
+        out[spec.yahoo] = { changePct: reused, symbol: spec.symbol };
+        continue;
+      }
+      const fromYahoo = quotePctFromYahoo(existingYahooMap?.[spec.yahoo]);
+      if (fromYahoo != null) {
+        out[spec.yahoo] = { changePct: fromYahoo, symbol: spec.symbol };
+        continue;
+      }
+      const fromTv = spec.tv ? quotePctFromTv(existingTvMap?.[spec.tv]) : null;
+      if (fromTv != null) {
+        out[spec.yahoo] = { changePct: fromTv, symbol: spec.symbol };
+        continue;
+      }
+      missing.push(spec);
+    }
+    if (missing.length) {
+      try {
+        const tvs = missing.map((spec) => spec.tv).filter(Boolean);
+        if (tvs.length) {
+          const tvMap = await fetchTradingView(tvs);
+          for (const spec of missing) {
+            const pct = spec.tv ? quotePctFromTv(tvMap?.[spec.tv]) : null;
+            if (pct != null) out[spec.yahoo] = { changePct: pct, symbol: spec.symbol };
+          }
+        }
+      } catch (error) {
+        console.warn("Benchmarks TradingView falló", error);
+      }
+      const still = missing.filter((spec) => out[spec.yahoo] == null);
+      if (still.length) {
+        try {
+          const ymap = await fetchYahooLive(still.map((spec) => ({ yahoo: spec.yahoo, symbol: spec.yahoo })));
+          for (const spec of still) {
+            const pct = quotePctFromYahoo(ymap?.[spec.yahoo]);
+            if (pct != null) out[spec.yahoo] = { changePct: pct, symbol: spec.symbol };
+          }
+        } catch (error) {
+          console.warn("Benchmarks Yahoo falló", error);
+        }
+      }
+    }
+    return out;
+  }
+
+  async function refreshBenchmarks(existingYahooMap, existingTvMap) {
+    if (!sectorView) return;
+    const run = fetchBenchQuotes(existingYahooMap, existingTvMap).then((map) => {
+      benchQuotes = map;
+      return map;
+    }).catch((error) => {
+      console.warn("Benchmarks no disponibles", error);
+      return benchQuotes;
+    });
+    benchFetch = run;
+    await run;
+    renderList();
+  }
+
+  function benchHtml(row) {
+    if (!sectorView) return "";
+    const spec = benchSpec(row);
+    if (!spec) return "";
+    const quoted = benchQuotes[spec.yahoo];
+    const pct = quoted && quoted.changePct != null && Number.isFinite(quoted.changePct)
+      ? `<span class="${dirClass(quoted.changePct)}">${signedPct(quoted.changePct)}</span>`
+      : '<span class="flat">—</span>';
+    return `<div class="bench">${spec.symbol} ${pct}</div>`;
+  }
+
+  function applySector() {
+    if (!els.sector) return;
+    els.sector.setAttribute("aria-pressed", sectorView ? "true" : "false");
+    els.sector.setAttribute("aria-label", sectorView ? "Ocultar sector" : "Mostrar sector");
+    els.sector.setAttribute("title", sectorView ? "Ocultar sector" : "Mostrar sector");
+    els.app.classList.toggle("show-sector", sectorView);
+  }
+
   function visibleRows() {
     let list = rows.filter((row) => {
       if (hideUs && isUsListing(row)) return false;
@@ -925,7 +1062,10 @@
         return `<article class="row" data-symbol="${row.symbol}">
           <div class="row-main">
             <div class="tile-top">
-              <div class="sym">${row.symbol}</div>
+              <div class="tile-id">
+                <div class="sym">${row.symbol}</div>
+                ${benchHtml(row)}
+              </div>
               <div class="price">${nf(row.price, priceDigits(row.price))}</div>
             </div>
             <div class="tile-bottom">
@@ -973,6 +1113,7 @@
         <div class="row-main">
           <div>
             <div class="sym">${row.symbol}<span class="group-tag">${row.group}</span></div>
+            ${benchHtml(row)}
             <div class="name">${row.name}</div>
           </div>
           ${chartHtml(row.spark, row.previousClose, false, row.currency)}
@@ -1110,6 +1251,7 @@
       applySparkNote(delayBase());
       renderSourceButtons();
       renderAll();
+      const benchP = refreshBenchmarks(yahooMap, tvMap);
 
       const needSpark = liveSource !== "yahoo" && (!silent || !sparkFresh);
       if (needSpark) {
@@ -1124,6 +1266,7 @@
         applySparkNote(delayBase());
         renderAll();
       }
+      await benchP;
     } catch (error) {
       setStatus(`Error al cargar la cartera. ${error.message}`);
       els.list.innerHTML = '<div class="state">No se pudieron cargar los datos. Toca Actualizar.</div>';
@@ -1322,6 +1465,14 @@
   if (themeMq.addEventListener) themeMq.addEventListener("change", onSystemTheme);
   else if (themeMq.addListener) themeMq.addListener(onSystemTheme);
 
+  els.sector.addEventListener("click", async () => {
+    sectorView = !sectorView;
+    localStorage.setItem(SECTOR_KEY, sectorView ? "1" : "0");
+    applySector();
+    renderList();
+    if (sectorView) await refreshBenchmarks();
+  });
+
   els.hideUs.addEventListener("click", () => {
     usSessionMeta = usSessionSnapshot();
     hideUs = !hideUs;
@@ -1388,8 +1539,10 @@
     preferredSource = localStorage.getItem(SOURCE_KEY) === "yahoo" ? "yahoo" : "tv";
     loadSortPrefs();
     denseView = localStorage.getItem(VIEW_KEY) === "dense";
+    sectorView = localStorage.getItem(SECTOR_KEY) === "1";
     applyTheme(currentTheme());
     applyView();
+    applySector();
     syncHideUs();
     els.auto.checked = localStorage.getItem(AUTO_KEY) === "on";
     renderSourceButtons();
