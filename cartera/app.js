@@ -254,8 +254,6 @@
     if (regular?.start != null && t >= regular.start && t < regular.end) return "regular";
     if (pre?.start != null && t >= pre.start && t < (pre.end ?? regular?.start ?? Infinity)) return "pre";
     if (post?.start != null && t >= post.start && t < post.end) return "post";
-    if (regular?.start != null && t < regular.start) return "pre";
-    if (regular?.end != null && t >= regular.end) return "post";
     return "regular";
   }
 
@@ -434,11 +432,16 @@
     const price = meta.regularMarketPrice;
     const change = previousClose ? price - previousClose : 0;
     const changePct = previousClose ? (change / previousClose) * 100 : 0;
+    const fulldayPrice = meta.fulldayPrice;
+    const fulldayChangePercent = meta.fulldayChangePercent;
     return {
       price,
       previousClose,
       change,
       changePct,
+      fulldayPrice,
+      fulldayChangePercent,
+      hasPrePostMarketData: !!meta.hasPrePostMarketData,
       currency: meta.currency,
       exchange: meta.fullExchangeName || meta.exchangeName,
       timezone: meta.exchangeTimezoneName,
@@ -592,32 +595,41 @@
     return matches.length ? matches[matches.length - 1] : null;
   }
 
+  function yahooNum(value) {
+    if (value == null) return null;
+    if (typeof value === "object") value = value.raw ?? value.fmt;
+    const n = Number(String(value).replace("%", "").trim());
+    return Number.isFinite(n) ? n : null;
+  }
+
   function applyExtQuote(row, quote, phase) {
     if (!isUsListing(row) || (phase !== "pre" && phase !== "post")) {
       return { ...row, ext: null };
     }
-    const prev = quote?.regularMarketPreviousClose ?? row.previousClose;
-    let price = null;
-    let changePct = null;
     const kind = phase === "post" ? "post" : "pre";
-    if (phase === "pre") {
-      price = quote?.preMarketPrice;
-      changePct = quote?.preMarketChangePercent;
-    } else {
-      price = quote?.postMarketPrice;
-      changePct = quote?.postMarketChangePercent;
+    const src = quote || row;
+    const close = yahooNum(src.regularMarketPrice) ?? yahooNum(row.price);
+    let price = kind === "pre" ? yahooNum(src.preMarketPrice) : yahooNum(src.postMarketPrice);
+    let changePct = kind === "pre"
+      ? yahooNum(src.preMarketChangePercent)
+      : yahooNum(src.postMarketChangePercent);
+    if (price == null) price = yahooNum(src.fulldayPrice) ?? yahooNum(row.fulldayPrice);
+    if (changePct == null) {
+      changePct = yahooNum(src.fulldayChangePercent) ?? yahooNum(row.fulldayChangePercent);
     }
     if (price == null) {
       const pt = lastSparkOfKind(row.spark, kind);
-      if (pt) price = pt.v;
+      if (pt) price = yahooNum(pt.v);
     }
-    if (price == null || !Number.isFinite(Number(price))) return { ...row, ext: null };
-    price = Number(price);
-    if (changePct == null && prev && Number(prev) !== 0) {
-      changePct = ((price - Number(prev)) / Number(prev)) * 100;
+    if (price == null) return { ...row, ext: null };
+    if (close != null && Math.abs(close) > 1e-12) {
+      const rel = Math.abs(price - close) / Math.abs(close);
+      if (rel < 1.5e-4) return { ...row, ext: null };
+      changePct = ((price - close) / close) * 100;
+    } else if (changePct != null && Math.abs(changePct) <= 1) {
+      changePct = changePct * 100;
     }
-    if (changePct != null) changePct = Number(changePct);
-    return { ...row, ext: { kind, price, changePct } };
+    return { ...row, ext: { kind, price, changePct: changePct == null ? null : Number(changePct) } };
   }
 
   async function enrichUsExtended(list) {
@@ -627,12 +639,36 @@
       return (list || []).map((row) => ({ ...row, ext: null }));
     }
     let qmap = {};
+    const need = us.filter((row) => yahooNum(row.fulldayPrice) == null && yahooNum(row.preMarketPrice) == null);
     try {
-      qmap = await fetchYahooQuotes(us.map((row) => row.yahoo || row.symbol));
+      if (need.length) qmap = await fetchYahooQuotes(need.map((row) => row.yahoo || row.symbol));
     } catch (error) {
       console.warn("Yahoo pre/post no disponible", error);
     }
-    return (list || []).map((row) => applyExtQuote(row, qmap[row.yahoo || row.symbol], phase));
+    const missingAfterQuote = us.filter((row) => {
+      const q = qmap[row.yahoo || row.symbol];
+      return yahooNum(row.fulldayPrice) == null
+        && yahooNum(q?.preMarketPrice) == null
+        && yahooNum(q?.fulldayPrice) == null
+        && yahooNum(q?.postMarketPrice) == null;
+    });
+    if (missingAfterQuote.length) {
+      try {
+        const extras = await Promise.all(missingAfterQuote.map((row) => {
+          const symbol = row.yahoo || row.symbol;
+          return fetchYahooChart5m(symbol, "1d", true).then((q) => [symbol, q]).catch(() => null);
+        }));
+        for (const pair of extras) {
+          if (pair && pair[1]) qmap[pair[0]] = { ...qmap[pair[0]], ...pair[1] };
+        }
+      } catch (error) {
+        console.warn("Yahoo chart pre/post no disponible", error);
+      }
+    }
+    return (list || []).map((row) => {
+      const key = row.yahoo || row.symbol;
+      return applyExtQuote(row, { ...row, ...qmap[key] }, phase);
+    });
   }
 
   function attachSpark(row, sparkMap) {
@@ -654,8 +690,15 @@
         sparkSource = "snapshot";
       }
     }
-    spark = appendLivePrice(spark, row.price);
-    return applyQuoteRules({ ...row, spark, sparkSource, previousClose });
+    const phase = usSessionPhase();
+    const extLive = isUsListing(row) && (phase === "pre" || phase === "post")
+      ? (live?.fulldayPrice ?? row.fulldayPrice)
+      : null;
+    spark = appendLivePrice(spark, extLive != null ? extLive : row.price);
+    const extra = {};
+    if (live?.fulldayPrice != null) extra.fulldayPrice = live.fulldayPrice;
+    if (live?.fulldayChangePercent != null) extra.fulldayChangePercent = live.fulldayChangePercent;
+    return applyQuoteRules({ ...row, spark, sparkSource, previousClose, ...extra });
   }
 
   function mergeQuote(position, tvMap, yahooMap) {
