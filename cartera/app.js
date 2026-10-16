@@ -49,8 +49,8 @@
 
   const SESSION_LABEL = {
     market: "Abierto",
-    pre_market: "Precierre",
-    post_market: "Postcierre",
+    pre_market: "Pre",
+    post_market: "Post",
     out_of_session: "Cerrado"
   };
 
@@ -232,12 +232,29 @@
   }
 
   function yahooSession(meta) {
-    const regular = meta?.currentTradingPeriod?.regular;
-    if (!regular?.start || !regular?.end) return null;
     const now = Math.floor(nowMs() / 1000);
-    if (now >= regular.start && now < regular.end) return "market";
-    if (now < regular.start) return "pre_market";
-    return "out_of_session";
+    const pre = meta?.currentTradingPeriod?.pre;
+    const regular = meta?.currentTradingPeriod?.regular;
+    const post = meta?.currentTradingPeriod?.post;
+    if (regular?.start != null && now >= regular.start && now < regular.end) return "market";
+    if (pre?.start != null && now >= pre.start && now < (pre.end ?? regular?.start ?? Infinity)) return "pre_market";
+    if (post?.start != null && now >= post.start && now < post.end) return "post_market";
+    if (regular?.start != null && now < regular.start) return "pre_market";
+    if (regular?.end != null && now >= regular.end) {
+      if (post?.end != null && now < post.end) return "post_market";
+      return "out_of_session";
+    }
+    return null;
+  }
+
+  function sparkKindAt(t, meta) {
+    const pre = meta?.currentTradingPeriod?.pre;
+    const regular = meta?.currentTradingPeriod?.regular;
+    const post = meta?.currentTradingPeriod?.post;
+    if (regular?.start != null && t >= regular.start && t < regular.end) return "regular";
+    if (pre?.start != null && t >= pre.start && t < (pre.end ?? regular?.start ?? Infinity)) return "pre";
+    if (post?.start != null && t >= post.start && t < post.end) return "post";
+    return "regular";
   }
 
   function tzParts(date, tz) {
@@ -335,11 +352,18 @@
   }
 
   function isUsRegularHours(date = nowDate()) {
+    return usSessionPhase(date) === "open";
+  }
+
+  function usSessionPhase(date = nowDate()) {
     const parts = nyParts(date);
-    if (parts.weekday === 0 || parts.weekday === 6) return false;
-    if (isUsHoliday(parts)) return false;
+    if (parts.weekday === 0 || parts.weekday === 6) return "closed";
+    if (isUsHoliday(parts)) return "closed";
     const mins = parts.hour * 60 + parts.minute;
-    return mins >= 9 * 60 + 30 && mins < 16 * 60;
+    if (mins >= 4 * 60 && mins < 9 * 60 + 30) return "pre";
+    if (mins >= 9 * 60 + 30 && mins < 16 * 60) return "open";
+    if (mins >= 16 * 60 && mins < 20 * 60) return "post";
+    return "closed";
   }
 
   function quotedUsSession() {
@@ -352,20 +376,24 @@
   }
 
   function isUsMarketOpen(date = nowDate()) {
-    const clockOpen = isUsRegularHours(date);
+    const phase = usSessionPhase(date);
+    const clockVisible = phase === "open" || phase === "pre" || phase === "post";
     if (typeof globalThis.__carteraNowMs === "number" && Number.isFinite(globalThis.__carteraNowMs)) {
-      return clockOpen;
+      return clockVisible;
     }
     const quoted = quotedUsSession();
-    if (clockOpen && (quoted === "out_of_session" || quoted === "post_market")) return false;
-    if (!clockOpen && quoted === "market") return true;
-    return clockOpen;
+    if (phase === "closed" && (quoted === "market" || quoted === "pre_market" || quoted === "post_market")) {
+      return true;
+    }
+    if (phase === "open" && quoted === "out_of_session") return false;
+    return clockVisible;
   }
 
   function usSessionSnapshot(date = nowDate()) {
     const parts = nyParts(date);
+    const phase = usSessionPhase(date);
     const open = isUsMarketOpen(date);
-    return { session: open ? "open" : "closed", date: parts.date, open };
+    return { session: open ? "open" : "closed", date: parts.date, open, phase };
   }
 
   function loadHideUsOverride() {
@@ -398,17 +426,22 @@
     const closes = result.indicators?.quote?.[0]?.close || [];
     const spark = [];
     timestamps.forEach((t, i) => {
-      if (closes[i] != null) spark.push({ t, v: closes[i] });
+      if (closes[i] != null) spark.push({ t, v: closes[i], k: sparkKindAt(t, meta) });
     });
     const previousClose = meta.chartPreviousClose || meta.previousClose;
     const price = meta.regularMarketPrice;
     const change = previousClose ? price - previousClose : 0;
     const changePct = previousClose ? (change / previousClose) * 100 : 0;
+    const fulldayPrice = meta.fulldayPrice;
+    const fulldayChangePercent = meta.fulldayChangePercent;
     return {
       price,
       previousClose,
       change,
       changePct,
+      fulldayPrice,
+      fulldayChangePercent,
+      hasPrePostMarketData: !!meta.hasPrePostMarketData,
       currency: meta.currency,
       exchange: meta.fullExchangeName || meta.exchangeName,
       timezone: meta.exchangeTimezoneName,
@@ -441,12 +474,12 @@
     return parseJinaJson(await res.text());
   }
 
-  function yahooSparkUrl(symbols) {
-    return `https://query1.finance.yahoo.com/v7/finance/spark?symbols=${encodeURIComponent(symbols.join(","))}&range=1d&interval=5m&includePrePost=false`;
+  function yahooSparkUrl(symbols, includePrePost = false) {
+    return `https://query1.finance.yahoo.com/v7/finance/spark?symbols=${encodeURIComponent(symbols.join(","))}&range=1d&interval=5m&includePrePost=${includePrePost ? "true" : "false"}`;
   }
 
-  async function fetchYahooSparkChunk(symbols) {
-    const payload = await fetchYahooViaJina(yahooSparkUrl(symbols));
+  async function fetchYahooSparkChunk(symbols, includePrePost = false) {
+    const payload = await fetchYahooViaJina(yahooSparkUrl(symbols, includePrePost));
     const map = {};
     for (const item of payload.spark?.result || []) {
       const quoted = fromYahooChart(item.response?.[0]);
@@ -455,8 +488,20 @@
     return map;
   }
 
-  async function fetchYahooChart5m(symbol, range = "1d") {
-    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?interval=5m&range=${encodeURIComponent(range)}&includePrePost=false`;
+  async function fetchYahooQuotes(symbols) {
+    const unique = [...new Set((symbols || []).filter(Boolean))];
+    if (!unique.length) return {};
+    const url = `https://query1.finance.yahoo.com/v7/finance/quote?symbols=${encodeURIComponent(unique.join(","))}&fields=symbol,regularMarketPrice,regularMarketPreviousClose,preMarketPrice,preMarketChangePercent,postMarketPrice,postMarketChangePercent`;
+    const payload = await fetchYahooViaJina(url);
+    const map = {};
+    for (const item of payload.quoteResponse?.result || []) {
+      if (item?.symbol) map[item.symbol] = item;
+    }
+    return map;
+  }
+
+  async function fetchYahooChart5m(symbol, range = "1d", includePrePost = false) {
+    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?interval=5m&range=${encodeURIComponent(range)}&includePrePost=${includePrePost ? "true" : "false"}`;
     const payload = await fetchYahooViaJina(url);
     const result = payload.chart?.result?.[0];
     return fromYahooChart(result);
@@ -475,13 +520,21 @@
     return map;
   }
 
-  async function fetchYahooLive(positions) {
-    const unique = [...new Set(positions.map((p) => p.yahoo || p.symbol))];
-    const map = {};
-    const chunkSize = 20;
+  function chunkSymbols(symbols, size = 20) {
     const chunks = [];
-    for (let i = 0; i < unique.length; i += chunkSize) chunks.push(unique.slice(i, i + chunkSize));
-    const parts = await Promise.all(chunks.map((chunk) => fetchYahooSparkChunk(chunk)));
+    for (let i = 0; i < symbols.length; i += size) chunks.push(symbols.slice(i, i + size));
+    return chunks;
+  }
+
+  async function fetchYahooLive(positions) {
+    const us = [...new Set(positions.filter(isUsListing).map((p) => p.yahoo || p.symbol))];
+    const rest = [...new Set(positions.filter((p) => !isUsListing(p)).map((p) => p.yahoo || p.symbol))];
+    const map = {};
+    const jobs = [
+      ...chunkSymbols(rest).map((chunk) => fetchYahooSparkChunk(chunk, false)),
+      ...chunkSymbols(us).map((chunk) => fetchYahooSparkChunk(chunk, true))
+    ];
+    const parts = await Promise.all(jobs);
     for (const part of parts) Object.assign(map, part);
     if (!Object.keys(map).length) throw new Error("Yahoo no devolvió cotizaciones");
     return enrichUsCloseSparks(map, positions);
@@ -489,11 +542,12 @@
 
   async function fetchSparkLive(positions) {
     const unique = [...new Set(positions.map((p) => p.yahoo || p.symbol))];
+    const usSet = new Set(positions.filter(isUsListing).map((p) => p.yahoo || p.symbol));
     const map = await fetchYahooLive(positions);
     const missing = unique.filter((s) => (map[s]?.spark?.length || 0) < 2);
     if (missing.length) {
       const extras = await Promise.all(missing.map((s) =>
-        fetchYahooChart5m(s).then((q) => [s, q]).catch(() => null)
+        fetchYahooChart5m(s, "1d", usSet.has(s)).then((q) => [s, q]).catch(() => null)
       ));
       for (const pair of extras) {
         if (pair && pair[1]?.spark?.length >= 2) map[pair[0]] = pair[1];
@@ -531,9 +585,90 @@
     const last = out[out.length - 1];
     const now = Math.floor(Date.now() / 1000);
     if (!last || Math.abs(last.v - price) > 1e-9) {
-      out.push({ t: now, v: price });
+      out.push({ t: now, v: price, k: last?.k });
     }
     return out;
+  }
+
+  function lastSparkOfKind(spark, kind) {
+    const matches = (spark || []).filter((p) => p && p.v != null && (p.k || "regular") === kind);
+    return matches.length ? matches[matches.length - 1] : null;
+  }
+
+  function yahooNum(value) {
+    if (value == null) return null;
+    if (typeof value === "object") value = value.raw ?? value.fmt;
+    const n = Number(String(value).replace("%", "").trim());
+    return Number.isFinite(n) ? n : null;
+  }
+
+  function applyExtQuote(row, quote, phase) {
+    if (!isUsListing(row) || (phase !== "pre" && phase !== "post")) {
+      return { ...row, ext: null };
+    }
+    const kind = phase === "post" ? "post" : "pre";
+    const src = quote || row;
+    const close = yahooNum(src.regularMarketPrice) ?? yahooNum(row.price);
+    let price = kind === "pre" ? yahooNum(src.preMarketPrice) : yahooNum(src.postMarketPrice);
+    let changePct = kind === "pre"
+      ? yahooNum(src.preMarketChangePercent)
+      : yahooNum(src.postMarketChangePercent);
+    if (price == null) price = yahooNum(src.fulldayPrice) ?? yahooNum(row.fulldayPrice);
+    if (changePct == null) {
+      changePct = yahooNum(src.fulldayChangePercent) ?? yahooNum(row.fulldayChangePercent);
+    }
+    if (price == null) {
+      const pt = lastSparkOfKind(row.spark, kind);
+      if (pt) price = yahooNum(pt.v);
+    }
+    if (price == null) return { ...row, ext: null };
+    if (close != null && Math.abs(close) > 1e-12) {
+      const rel = Math.abs(price - close) / Math.abs(close);
+      if (rel < 1.5e-4) return { ...row, ext: null };
+      changePct = ((price - close) / close) * 100;
+    } else if (changePct != null && Math.abs(changePct) <= 1) {
+      changePct = changePct * 100;
+    }
+    return { ...row, ext: { kind, price, changePct: changePct == null ? null : Number(changePct) } };
+  }
+
+  async function enrichUsExtended(list) {
+    const phase = usSessionPhase();
+    const us = (list || []).filter((row) => !row.missing && isUsListing(row));
+    if (!us.length || (phase !== "pre" && phase !== "post")) {
+      return (list || []).map((row) => ({ ...row, ext: null }));
+    }
+    let qmap = {};
+    const need = us.filter((row) => yahooNum(row.fulldayPrice) == null && yahooNum(row.preMarketPrice) == null);
+    try {
+      if (need.length) qmap = await fetchYahooQuotes(need.map((row) => row.yahoo || row.symbol));
+    } catch (error) {
+      console.warn("Yahoo pre/post no disponible", error);
+    }
+    const missingAfterQuote = us.filter((row) => {
+      const q = qmap[row.yahoo || row.symbol];
+      return yahooNum(row.fulldayPrice) == null
+        && yahooNum(q?.preMarketPrice) == null
+        && yahooNum(q?.fulldayPrice) == null
+        && yahooNum(q?.postMarketPrice) == null;
+    });
+    if (missingAfterQuote.length) {
+      try {
+        const extras = await Promise.all(missingAfterQuote.map((row) => {
+          const symbol = row.yahoo || row.symbol;
+          return fetchYahooChart5m(symbol, "1d", true).then((q) => [symbol, q]).catch(() => null);
+        }));
+        for (const pair of extras) {
+          if (pair && pair[1]) qmap[pair[0]] = { ...qmap[pair[0]], ...pair[1] };
+        }
+      } catch (error) {
+        console.warn("Yahoo chart pre/post no disponible", error);
+      }
+    }
+    return (list || []).map((row) => {
+      const key = row.yahoo || row.symbol;
+      return applyExtQuote(row, { ...row, ...qmap[key] }, phase);
+    });
   }
 
   function attachSpark(row, sparkMap) {
@@ -555,8 +690,15 @@
         sparkSource = "snapshot";
       }
     }
-    spark = appendLivePrice(spark, row.price);
-    return applyQuoteRules({ ...row, spark, sparkSource, previousClose });
+    const phase = usSessionPhase();
+    const extLive = isUsListing(row) && (phase === "pre" || phase === "post")
+      ? (live?.fulldayPrice ?? row.fulldayPrice)
+      : null;
+    spark = appendLivePrice(spark, extLive != null ? extLive : row.price);
+    const extra = {};
+    if (live?.fulldayPrice != null) extra.fulldayPrice = live.fulldayPrice;
+    if (live?.fulldayChangePercent != null) extra.fulldayChangePercent = live.fulldayChangePercent;
+    return applyQuoteRules({ ...row, spark, sparkSource, previousClose, ...extra });
   }
 
   function mergeQuote(position, tvMap, yahooMap) {
@@ -768,6 +910,16 @@
     renderList();
   }
 
+  function extHtml(row) {
+    const ext = row?.ext;
+    if (!ext || ext.price == null || !Number.isFinite(Number(ext.price))) return "";
+    const label = ext.kind === "post" ? "Post" : "Pre";
+    const pct = ext.changePct == null || Number.isNaN(Number(ext.changePct))
+      ? ""
+      : ` <span class="${dirClass(ext.changePct)}">${signedPct(ext.changePct)}</span>`;
+    return `<div class="ext-line">${label} ${nf(ext.price, priceDigits(ext.price))}${pct}</div>`;
+  }
+
   function benchHtml(row) {
     if (!sectorView) return "";
     const spec = benchSpec(row);
@@ -814,7 +966,7 @@
     const now = Date.now() / 1000 + 90;
     return (points || [])
       .filter((p) => p && p.v != null && p.t != null && Number.isFinite(Number(p.t)) && Number.isFinite(Number(p.v)))
-      .map((p) => ({ t: Number(p.t), v: Number(p.v) }))
+      .map((p) => ({ t: Number(p.t), v: Number(p.v), k: p.k || "regular" }))
       .filter((p) => p.t <= now)
       .sort((a, b) => a.t - b.t);
   }
@@ -854,10 +1006,13 @@
     const span = max - min || 1;
     const { x } = sparkXScale(samples, w);
     const y = (v) => h - 3 - ((v - min) / span) * (h - 6);
-    const d = samples.map((p, i) => `${i === 0 ? "M" : "L"} ${x(p.t)} ${y(p.v)}`).join(" ");
+    const regular = samples.filter((p) => (p.k || "regular") === "regular");
+    const lineSamples = regular.length >= 2 ? regular : samples;
+    const d = lineSamples.map((p, i) => `${i === 0 ? "M" : "L"} ${x(p.t)} ${y(p.v)}`).join(" ");
     const yPrev = previousClose == null ? h : y(previousClose);
-    const lastX = x(samples[samples.length - 1].t);
-    const area = `${d} L ${lastX} ${yPrev} L 1 ${yPrev} Z`;
+    const lastX = x(lineSamples[lineSamples.length - 1].t);
+    const firstX = x(lineSamples[0].t);
+    const area = `${d} L ${lastX} ${yPrev} L ${firstX} ${yPrev} Z`;
     const strokeW = wide ? 2 : 1.5;
     const uid = `c${chartUid += 1}`;
     const yClip = Math.max(0, Math.min(h, yPrev));
@@ -878,11 +1033,16 @@
           <path d="${d}" fill="none" stroke="#ff453a" stroke-width="${strokeW}" stroke-linejoin="round" stroke-linecap="round"></path>
         </g>
         <line x1="0" x2="${w}" y1="${yPrev}" y2="${yPrev}" stroke="#c5cad3" stroke-dasharray="3 3" stroke-width="1" opacity="0.85"></line>`;
+    const extPath = sparkKindPath(samples, ["pre", "post"], x, y);
+    const extLine = extPath
+      ? `<path d="${extPath}" fill="none" stroke="#8b95a5" stroke-width="${wide ? 1.6 : 1.2}" stroke-dasharray="3 2" stroke-linejoin="round" stroke-linecap="round" opacity="0.85"></path>`
+      : "";
     const payload = encodeURIComponent(JSON.stringify(samples));
     return `<div class="${klass}" role="img" aria-label="Gráfico intradía. Mantén pulsado o arrastra para ver precio y hora." data-wide="${wide ? 1 : 0}" data-ccy="${currency || ""}" data-prev="${previousClose ?? ""}" data-spark="${payload}">
       <svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">
         ${defs}
         ${split}
+        ${extLine}
         <g class="xh" hidden>
           <line class="xh-v" y1="0" y2="${h}"></line>
           <circle class="xh-dot" r="${wide ? 4.2 : 3}"></circle>
@@ -956,6 +1116,25 @@
       · P&amp;L <strong>${pnl >= 0 ? "+" : ""}${nf(pnl, 2)} (${signedPct(pnlPct)})</strong></p>`;
   }
 
+  function sparkKindPath(samples, kinds, x, y) {
+    let d = "";
+    let drawing = false;
+    for (let i = 0; i < samples.length; i += 1) {
+      const ok = kinds.includes(samples[i].k || "regular");
+      if (!ok) {
+        drawing = false;
+        continue;
+      }
+      if (!drawing && i > 0) {
+        d += ` M ${x(samples[i - 1].t)} ${y(samples[i - 1].v)} L ${x(samples[i].t)} ${y(samples[i].v)}`;
+      } else {
+        d += ` ${drawing ? "L" : "M"} ${x(samples[i].t)} ${y(samples[i].v)}`;
+      }
+      drawing = true;
+    }
+    return d.trim();
+  }
+
   function sparkTiny(points, previousClose) {
     const samples = sparkSamples(points);
     const w = 42;
@@ -969,15 +1148,25 @@
     const span = max - min || 1;
     const { x } = sparkXScale(samples, w);
     const y = (v) => h - 1.5 - ((v - min) / span) * (h - 3);
-    const d = samples.map((p, i) => `${i === 0 ? "M" : "L"} ${x(p.t)} ${y(p.v)}`).join(" ");
-    const up = (values[values.length - 1] ?? 0) >= (previousClose ?? values[0]);
+    const regular = samples.filter((p) => (p.k || "regular") === "regular");
+    const lineSamples = regular.length >= 2 ? regular : samples;
+    const d = lineSamples.map((p, i) => `${i === 0 ? "M" : "L"} ${x(p.t)} ${y(p.v)}`).join(" ");
+    const up = (lineSamples[lineSamples.length - 1].v ?? 0) >= (previousClose ?? lineSamples[0].v);
     const color = up ? "#30d158" : "#ff453a";
-    return `<div class="chart chart-tiny" aria-hidden="true"><svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none"><path d="${d}" fill="none" stroke="${color}" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"></path></svg></div>`;
+    const extPath = sparkKindPath(samples, ["pre", "post"], x, y);
+    const ext = extPath
+      ? `<path d="${extPath}" fill="none" stroke="#8b95a5" stroke-width="1.1" stroke-dasharray="2 2" stroke-linejoin="round" stroke-linecap="round" opacity="0.9"></path>`
+      : "";
+    return `<div class="chart chart-tiny" aria-hidden="true"><svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">${ext}<path d="${d}" fill="none" stroke="${color}" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"></path></svg></div>`;
   }
 
   function applyHideUs(snap = usSessionMeta, override = null) {
     if (!els.hideUs) return;
-    const autoHint = snap.open ? "Auto: mercado EE. UU. abierto" : "Auto: mercado EE. UU. cerrado";
+    const autoHint = snap.phase === "pre"
+      ? "Auto: preapertura EE. UU."
+      : snap.phase === "post"
+        ? "Auto: postcierre EE. UU."
+        : snap.open ? "Auto: mercado EE. UU. abierto" : "Auto: mercado EE. UU. cerrado";
     const action = hideUs ? "Mostrar EE. UU." : "Ocultar EE. UU.";
     const manual = override ? " Manual hasta el próximo cambio de sesión." : "";
     const label = `${action} ${autoHint}.${manual}`;
@@ -1065,6 +1254,7 @@
               <div class="tile-id">
                 <div class="sym">${row.symbol}</div>
                 ${benchHtml(row)}
+                ${extHtml(row)}
               </div>
               <div class="price">${nf(row.price, priceDigits(row.price))}</div>
             </div>
@@ -1120,6 +1310,7 @@
           <div class="right">
             <div class="price">${nf(row.price, priceDigits(row.price))}<span class="ccy">${row.currency || ""}</span></div>
             <div class="badge ${klass}">${signedPct(row.changePct)}</div>
+            ${extHtml(row)}
           </div>
         </div>
         <div class="details">${details}</div>
@@ -1212,6 +1403,7 @@
       } else if (sparkFresh) {
         rows = rows.map((row) => attachSpark(row, sparkCache.map));
       }
+      rows = await enrichUsExtended(rows);
 
       function delayBase() {
         if (liveSource === "yahoo") {
@@ -1259,9 +1451,11 @@
           const map = await fetchSparkLive(config.positions);
           sparkCache = { at: Date.now(), map };
           rows = rows.map((row) => attachSpark(row, map));
+          rows = await enrichUsExtended(rows);
         } catch (sparkError) {
           console.warn("Serie intradía en vivo falló", sparkError);
           rows = rows.map((row) => attachSpark(row, {}));
+          rows = await enrichUsExtended(rows);
         }
         applySparkNote(delayBase());
         renderAll();

@@ -498,6 +498,25 @@ html:not([data-theme]) .theme-btn .icon-sun { display: none; }
   font-size: 0.56rem;
 }
 
+.ext-line {
+  margin-top: 0.12rem;
+  font-size: 0.64rem;
+  font-weight: 700;
+  color: var(--muted);
+  letter-spacing: 0.01em;
+  line-height: 1.2;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.ext-line .up { color: var(--green); }
+.ext-line .down { color: var(--red); }
+
+.app.dense .ext-line {
+  margin-top: 0.04rem;
+  font-size: 0.56rem;
+}
+
 .app.dense .group-tag { display: none; }
 
 .app.dense .price {
@@ -618,6 +637,7 @@ html:not([data-theme]) .theme-btn .icon-sun { display: none; }
 .chart-mini .chart-tip { font-size: 0.64rem; }
 
 .right { text-align: right; }
+.right .ext-line { margin-top: 0.18rem; }
 
 .price {
   font-weight: 750;
