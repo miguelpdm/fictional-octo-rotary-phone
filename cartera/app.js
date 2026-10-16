@@ -1262,12 +1262,12 @@
             <div class="sym">${row.symbol}<span class="group-tag">${row.group}</span></div>
             ${benchHtml(row)}
             <div class="name">${row.name}</div>
-            ${extHtml(row)}
           </div>
           ${chartHtml(row.spark, row.previousClose, false, row.currency)}
           <div class="right">
             <div class="price">${nf(row.price, priceDigits(row.price))}<span class="ccy">${row.currency || ""}</span></div>
             <div class="badge ${klass}">${signedPct(row.changePct)}</div>
+            ${extHtml(row)}
           </div>
         </div>
         <div class="details">${details}</div>

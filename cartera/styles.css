@@ -637,6 +637,7 @@ html:not([data-theme]) .theme-btn .icon-sun { display: none; }
 .chart-mini .chart-tip { font-size: 0.64rem; }
 
 .right { text-align: right; }
+.right .ext-line { margin-top: 0.18rem; }
 
 .price {
   font-weight: 750;
