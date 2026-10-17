@@ -1,0 +1,11 @@
+{
+  "name": "melodia",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test:audio": "playwright test tests/ios-audio.spec.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.1"
+  }
+}

@@ -1,4 +1,4 @@
-import { unlockAudio, playPitches } from "./synth.js";
+import { unlockAudio, playPitches, audioState, debugAudio } from "./synth.js";
 import { parseMidi, eventsFromNotes } from "./midi.js";
 
 const STORAGE_KEY = "tap-melody-last-song";
@@ -42,6 +42,7 @@ const songNameEl = $("song-name");
 const composerEl = $("composer");
 const progressEl = $("progress");
 const statusEl = $("status");
+const audioHint = $("audio-hint");
 const pad = $("pad");
 const padLabel = $("pad-label");
 const restartBtn = $("restart");
@@ -151,6 +152,12 @@ async function handleMidiFile(file) {
   }
 }
 
+function updateAudioHint() {
+  if (!audioHint) return;
+  const suspended = audioState() !== "running";
+  audioHint.hidden = !suspended;
+}
+
 function nextNote() {
   if (!state.events.length) return;
   if (state.index >= state.events.length) {
@@ -164,6 +171,13 @@ function nextNote() {
   renderProgress();
   pad.classList.add("is-hit");
   setTimeout(() => pad.classList.remove("is-hit"), 90);
+  updateAudioHint();
+  setTimeout(updateAudioHint, 120);
+}
+
+function onPadGesture() {
+  unlockAudio();
+  nextNote();
 }
 
 function fillSongList() {
@@ -187,18 +201,33 @@ function fillSongList() {
   }
 }
 
-pad.addEventListener("pointerdown", async (e) => {
-  e.preventDefault();
-  await unlockAudio();
-  nextNote();
+let playedFromPointer = false;
+pad.addEventListener("pointerdown", () => {
+  playedFromPointer = true;
+  onPadGesture();
 });
+pad.addEventListener(
+  "touchend",
+  () => {
+    if (playedFromPointer) {
+      playedFromPointer = false;
+      unlockAudio();
+      updateAudioHint();
+      return;
+    }
+    onPadGesture();
+  },
+  { passive: true }
+);
 
-restartBtn.addEventListener("click", async () => {
-  await unlockAudio();
+restartBtn.addEventListener("click", () => {
+  unlockAudio();
   state.index = 0;
   state.lastTap = 0;
   renderProgress();
 });
+
+window.__melodiaAudio = debugAudio;
 
 openPicker.addEventListener("click", () => {
   picker.hidden = false;
