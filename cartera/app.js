@@ -251,10 +251,10 @@
     const pre = meta?.currentTradingPeriod?.pre;
     const regular = meta?.currentTradingPeriod?.regular;
     const post = meta?.currentTradingPeriod?.post;
-    if (regular?.start != null && t >= regular.start && t < regular.end) return "regular";
+    if (regular?.start != null && t >= regular.start && t <= regular.end) return "regular";
     if (pre?.start != null && t >= pre.start && t < (pre.end ?? regular?.start ?? Infinity)) return "pre";
     if (post?.start != null && t >= post.start && t < post.end) return "post";
-    return "regular";
+    return "out";
   }
 
   function tzParts(date, tz) {
@@ -448,6 +448,8 @@
       fulldayChangePercent,
       lastPrePrice: lastPre ? lastPre.v : null,
       lastPostPrice: lastPost ? lastPost.v : null,
+      regularStart: meta.currentTradingPeriod?.regular?.start ?? null,
+      regularEnd: meta.currentTradingPeriod?.regular?.end ?? null,
       hasPrePostMarketData: !!meta.hasPrePostMarketData,
       currency: meta.currency,
       exchange: meta.fullExchangeName || meta.exchangeName,
@@ -586,13 +588,41 @@
     return dayKey(new Date(last.t * 1000), timezone) === dayKey(nowDate(), timezone);
   }
 
-  function appendLivePrice(spark, price) {
+  function isLiveCashSession(row) {
+    if (!row || row.missing) return false;
+    if (row.utcOpenBaseline || row.alwaysOpen) return true;
+    if (isUsListing(row)) return usSessionPhase() === "open";
+    return row.session === "market";
+  }
+
+  function clipSparkToRegularSession(spark, row) {
+    const points = Array.isArray(spark) ? spark.filter((p) => p && p.t != null && p.v != null) : [];
+    if (row?.utcOpenBaseline || row?.alwaysOpen) return points;
+    let out = points.filter((p) => !p.k || p.k === "regular");
+    const start = Number(row?.regularStart);
+    const end = Number(row?.regularEnd);
+    if (Number.isFinite(start) && Number.isFinite(end) && end > start) {
+      const bounded = out.filter((p) => Number(p.t) >= start && Number(p.t) <= end);
+      if (bounded.length >= 2) out = bounded;
+    }
+    out = out.slice().sort((a, b) => a.t - b.t);
+    const clipped = [];
+    for (const point of out) {
+      const prev = clipped[clipped.length - 1];
+      if (prev && Number(point.t) - Number(prev.t) > 3 * 3600) break;
+      clipped.push(point);
+    }
+    return clipped.length >= 2 ? clipped : out;
+  }
+
+  function appendLivePrice(spark, price, row) {
     const out = Array.isArray(spark) ? spark.slice() : [];
     if (price == null || !Number.isFinite(Number(price))) return out;
+    if (row && !row.utcOpenBaseline && !row.alwaysOpen && !isLiveCashSession(row)) return out;
     const last = out[out.length - 1];
     const now = Math.floor(Date.now() / 1000);
     if (!last || Math.abs(last.v - price) > 1e-9) {
-      out.push({ t: now, v: price, k: last?.k });
+      out.push({ t: now, v: price, k: last?.k || "regular" });
     }
     return out;
   }
@@ -689,14 +719,15 @@
         sparkSource = "snapshot";
       }
     }
-    const regular = (spark || []).filter((p) => !p.k || p.k === "regular");
-    if (regular.length >= 2) spark = regular;
-    spark = appendLivePrice(spark, row.price);
     const extra = {};
+    if (live?.regularStart != null) extra.regularStart = live.regularStart;
+    if (live?.regularEnd != null) extra.regularEnd = live.regularEnd;
     if (live?.fulldayPrice != null) extra.fulldayPrice = live.fulldayPrice;
     if (live?.fulldayChangePercent != null) extra.fulldayChangePercent = live.fulldayChangePercent;
     if (live?.lastPrePrice != null) extra.lastPrePrice = live.lastPrePrice;
     if (live?.lastPostPrice != null) extra.lastPostPrice = live.lastPostPrice;
+    spark = clipSparkToRegularSession(spark, { ...row, ...extra });
+    spark = appendLivePrice(spark, row.price, { ...row, ...extra });
     return applyQuoteRules({ ...row, spark, sparkSource, previousClose, ...extra });
   }
 
