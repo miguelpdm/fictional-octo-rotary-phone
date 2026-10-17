@@ -810,6 +810,14 @@ html:not([data-theme]) .theme-btn .icon-sun { display: none; }
   line-height: 1.3;
 }
 
+.news-source {
+  margin-top: 0.22rem;
+  font-size: 0.68rem;
+  font-weight: 650;
+  color: var(--muted);
+  letter-spacing: 0.01em;
+}
+
 .news-item .porque {
   margin: 0.35rem 0 0;
   font-size: 0.76rem;

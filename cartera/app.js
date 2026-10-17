@@ -68,6 +68,7 @@
   let benchFetch = null;
   let newsItems = [];
   let newsTicker = "all";
+  let newsLang = "all";
   let newsView = false;
   let quoteStatus = "";
   let hideUs = false;
@@ -102,6 +103,7 @@
     newsBtn: document.getElementById("newsBtn"),
     newsPanel: document.getElementById("newsPanel"),
     newsChips: document.getElementById("newsChips"),
+    newsLangChips: document.getElementById("newsLangChips"),
     newsList: document.getElementById("newsList"),
     hideUs: document.getElementById("hideUsBtn"),
     sector: document.getElementById("sectorBtn"),
@@ -1382,7 +1384,10 @@
       const porque = String(item.porque || "").trim();
       if (!/^\d{4}-\d{2}-\d{2}$/.test(fecha) || !ticker || !tipo || !titular || !porque) return null;
       if (!/^https:\/\//i.test(url)) return null;
-      return { fecha, ticker, tipo, titular, url, porque };
+      const fuente = String(item.fuente || "").trim();
+      const idiomaRaw = String(item.idioma || "").trim().toUpperCase();
+      const idioma = /^[A-Z]{2,3}$/.test(idiomaRaw) ? idiomaRaw : "";
+      return { fecha, ticker, tipo, titular, url, porque, fuente, idioma };
     }).filter(Boolean).sort((a, b) => {
       if (a.fecha !== b.fecha) return a.fecha < b.fecha ? 1 : -1;
       return a.ticker.localeCompare(b.ticker, "es");
@@ -1393,17 +1398,41 @@
     return [...new Set(newsItems.map((item) => item.ticker))].sort((a, b) => a.localeCompare(b, "es"));
   }
 
+  function newsLangs() {
+    return [...new Set(newsItems.map((item) => item.idioma).filter(Boolean))].sort((a, b) => a.localeCompare(b, "es"));
+  }
+
   function renderNews() {
     if (!els.newsList || !els.newsChips) return;
     const tickers = newsTickers();
+    const langs = newsLangs();
     if (newsTicker !== "all" && !tickers.includes(newsTicker)) newsTicker = "all";
+    if (newsLang !== "all" && !langs.includes(newsLang)) newsLang = "all";
     els.newsChips.innerHTML = [
       `<button class="chip ${newsTicker === "all" ? "active" : ""}" type="button" data-news-ticker="all">Todos</button>`,
       ...tickers.map((ticker) => (
         `<button class="chip ${newsTicker === ticker ? "active" : ""}" type="button" data-news-ticker="${escapeHtml(ticker)}">${escapeHtml(ticker)}</button>`
       ))
     ].join("");
-    const list = newsItems.filter((item) => newsTicker === "all" || item.ticker === newsTicker);
+    if (els.newsLangChips) {
+      if (!langs.length) {
+        els.newsLangChips.innerHTML = "";
+        els.newsLangChips.hidden = true;
+      } else {
+        els.newsLangChips.hidden = false;
+        els.newsLangChips.innerHTML = [
+          `<button class="chip ${newsLang === "all" ? "active" : ""}" type="button" data-news-lang="all">Todos</button>`,
+          ...langs.map((lang) => (
+            `<button class="chip ${newsLang === lang ? "active" : ""}" type="button" data-news-lang="${escapeHtml(lang)}">${escapeHtml(lang)}</button>`
+          ))
+        ].join("");
+      }
+    }
+    const list = newsItems.filter((item) => {
+      if (newsTicker !== "all" && item.ticker !== newsTicker) return false;
+      if (newsLang !== "all" && item.idioma !== newsLang) return false;
+      return true;
+    });
     if (!list.length) {
       els.newsList.innerHTML = '<div class="state">No hay noticias para este filtro.</div>';
       return;
@@ -1411,6 +1440,10 @@
     els.newsList.innerHTML = list.map((item) => {
       const tipoLabel = item.tipo === "duro" ? "🔴 Duro" : "🟡 Soft";
       const fechaTxt = `${item.fecha.slice(8, 10)}/${item.fecha.slice(5, 7)}/${item.fecha.slice(2, 4)}`;
+      const sourceBits = [item.fuente, item.idioma].filter(Boolean);
+      const source = sourceBits.length
+        ? `<div class="news-source">${escapeHtml(sourceBits.join(" · "))}</div>`
+        : "";
       return `<a class="news-item" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">
         <div class="news-meta">
           <span class="news-date">${escapeHtml(fechaTxt)}</span>
@@ -1418,6 +1451,7 @@
           <span class="news-tipo ${item.tipo}">${tipoLabel}</span>
         </div>
         <div class="titular">${escapeHtml(item.titular)}</div>
+        ${source}
         <p class="porque">${escapeHtml(item.porque)}</p>
       </a>`;
     }).join("");
@@ -1435,7 +1469,8 @@
     if (newsView) {
       els.status.textContent = "Noticias interesantes (solo públicas).";
       if (els.delay) els.delay.textContent = "Sin cantidades ni precios. Cada ficha abre la fuente en una pestaña nueva.";
-      renderNews();
+      if (!newsItems.length) loadNews();
+      else renderNews();
     } else if (quoteStatus) {
       els.status.textContent = quoteStatus;
     }
@@ -1754,6 +1789,14 @@
       const btn = event.target.closest("[data-news-ticker]");
       if (!btn) return;
       newsTicker = btn.dataset.newsTicker || "all";
+      renderNews();
+    });
+  }
+  if (els.newsLangChips) {
+    els.newsLangChips.addEventListener("click", (event) => {
+      const btn = event.target.closest("[data-news-lang]");
+      if (!btn) return;
+      newsLang = btn.dataset.newsLang || "all";
       renderNews();
     });
   }
