@@ -5,6 +5,7 @@
   const SOURCE_KEY = "cartera-live-source";
   const UNLOCK_KEY = "cartera-unlock";
   const VIEW_KEY = "cartera-view";
+  const NEWS_HASH = "#noticias";
   const SECTOR_KEY = "cartera-sector";
   const THEME_KEY = "cartera-theme";
   const HIDE_US_OVERRIDE_KEY = "cartera-hide-us-override";
@@ -65,6 +66,10 @@
   let sectorView = false;
   let benchQuotes = {};
   let benchFetch = null;
+  let newsItems = [];
+  let newsTicker = "all";
+  let newsView = false;
+  let quoteStatus = "";
   let hideUs = false;
   let usSessionMeta = { session: "closed", date: "", open: false };
   let expanded = new Set();
@@ -94,6 +99,10 @@
     sorts: document.getElementById("sortChips"),
     list: document.getElementById("list"),
     view: document.getElementById("viewBtn"),
+    newsBtn: document.getElementById("newsBtn"),
+    newsPanel: document.getElementById("newsPanel"),
+    newsChips: document.getElementById("newsChips"),
+    newsList: document.getElementById("newsList"),
     hideUs: document.getElementById("hideUsBtn"),
     sector: document.getElementById("sectorBtn"),
     theme: document.getElementById("themeBtn"),
@@ -1343,7 +1352,102 @@
   }
 
   function setStatus(message) {
+    if (newsView) {
+      quoteStatus = message;
+      return;
+    }
+    quoteStatus = message;
     els.status.textContent = message;
+  }
+
+  function escapeHtml(value) {
+    return String(value ?? "").replace(/[&<>"']/g, (ch) => ({
+      "&": "&amp;",
+      "<": "&lt;",
+      ">": "&gt;",
+      '"': "&quot;",
+      "'": "&#39;"
+    }[ch]));
+  }
+
+  function normalizeNews(raw) {
+    if (!Array.isArray(raw)) return [];
+    return raw.map((item) => {
+      if (!item || typeof item !== "object") return null;
+      const fecha = String(item.fecha || "").trim();
+      const ticker = String(item.ticker || "").trim();
+      const tipo = item.tipo === "duro" || item.tipo === "soft" ? item.tipo : "";
+      const titular = String(item.titular || "").trim();
+      const url = String(item.url || "").trim();
+      const porque = String(item.porque || "").trim();
+      if (!/^\d{4}-\d{2}-\d{2}$/.test(fecha) || !ticker || !tipo || !titular || !porque) return null;
+      if (!/^https:\/\//i.test(url)) return null;
+      return { fecha, ticker, tipo, titular, url, porque };
+    }).filter(Boolean).sort((a, b) => {
+      if (a.fecha !== b.fecha) return a.fecha < b.fecha ? 1 : -1;
+      return a.ticker.localeCompare(b.ticker, "es");
+    });
+  }
+
+  function newsTickers() {
+    return [...new Set(newsItems.map((item) => item.ticker))].sort((a, b) => a.localeCompare(b, "es"));
+  }
+
+  function renderNews() {
+    if (!els.newsList || !els.newsChips) return;
+    const tickers = newsTickers();
+    if (newsTicker !== "all" && !tickers.includes(newsTicker)) newsTicker = "all";
+    els.newsChips.innerHTML = [
+      `<button class="chip ${newsTicker === "all" ? "active" : ""}" type="button" data-news-ticker="all">Todos</button>`,
+      ...tickers.map((ticker) => (
+        `<button class="chip ${newsTicker === ticker ? "active" : ""}" type="button" data-news-ticker="${escapeHtml(ticker)}">${escapeHtml(ticker)}</button>`
+      ))
+    ].join("");
+    const list = newsItems.filter((item) => newsTicker === "all" || item.ticker === newsTicker);
+    if (!list.length) {
+      els.newsList.innerHTML = '<div class="state">No hay noticias para este filtro.</div>';
+      return;
+    }
+    els.newsList.innerHTML = list.map((item) => {
+      const tipoLabel = item.tipo === "duro" ? "🔴 Duro" : "🟡 Soft";
+      const fechaTxt = `${item.fecha.slice(8, 10)}/${item.fecha.slice(5, 7)}/${item.fecha.slice(2, 4)}`;
+      return `<a class="news-item" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">
+        <div class="news-meta">
+          <span class="news-date">${escapeHtml(fechaTxt)}</span>
+          <span class="news-ticker">${escapeHtml(item.ticker)}</span>
+          <span class="news-tipo ${item.tipo}">${tipoLabel}</span>
+        </div>
+        <div class="titular">${escapeHtml(item.titular)}</div>
+        <p class="porque">${escapeHtml(item.porque)}</p>
+      </a>`;
+    }).join("");
+  }
+
+  function applyNewsView() {
+    newsView = location.hash === NEWS_HASH;
+    els.app.classList.toggle("news-view", newsView);
+    if (els.newsBtn) {
+      els.newsBtn.setAttribute("aria-pressed", newsView ? "true" : "false");
+      els.newsBtn.setAttribute("aria-label", newsView ? "Volver a la cartera" : "Noticias interesantes");
+      els.newsBtn.setAttribute("title", newsView ? "Volver a la cartera" : "Noticias interesantes");
+    }
+    if (els.newsPanel) els.newsPanel.hidden = !newsView;
+    if (newsView) {
+      els.status.textContent = "Noticias interesantes (solo públicas).";
+      if (els.delay) els.delay.textContent = "Sin cantidades ni precios. Cada ficha abre la fuente en una pestaña nueva.";
+      renderNews();
+    } else if (quoteStatus) {
+      els.status.textContent = quoteStatus;
+    }
+  }
+
+  function toggleNewsView() {
+    if (location.hash === NEWS_HASH) {
+      history.pushState(null, "", `${location.pathname}${location.search}`);
+    } else {
+      location.hash = "noticias";
+    }
+    applyNewsView();
   }
 
   async function refresh({ silent = false } = {}) {
@@ -1442,7 +1546,7 @@
           note += " Gráficos: esperando serie de hoy (no se usa la curva de ayer).";
         }
         if (failed.length) note += ` Sin cotización: ${failed.join(", ")}.`;
-        els.delay.textContent = note;
+        if (!newsView) els.delay.textContent = note;
       }
 
       applySparkNote(delayBase());
@@ -1644,6 +1748,16 @@
 
   els.refresh.addEventListener("click", () => refresh());
   els.auto.addEventListener("change", applyAutoRefresh);
+  if (els.newsBtn) els.newsBtn.addEventListener("click", toggleNewsView);
+  if (els.newsChips) {
+    els.newsChips.addEventListener("click", (event) => {
+      const btn = event.target.closest("[data-news-ticker]");
+      if (!btn) return;
+      newsTicker = btn.dataset.newsTicker || "all";
+      renderNews();
+    });
+  }
+  window.addEventListener("hashchange", applyNewsView);
 
   els.view.addEventListener("click", () => {
     denseView = !denseView;
@@ -1716,6 +1830,16 @@
     return bytesToHex(bits);
   }
 
+  async function loadNews() {
+    try {
+      newsItems = normalizeNews(await loadJson("../data/noticias.json"));
+    } catch (error) {
+      console.warn("No se pudieron leer las noticias", error);
+      newsItems = [];
+    }
+    if (newsView) renderNews();
+  }
+
   function isUnlocked() {
     return localStorage.getItem(UNLOCK_KEY) === AUTH.hashHex;
   }
@@ -1757,8 +1881,15 @@
     } catch {
       snapshot = { quotes: {} };
     }
+    try {
+      newsItems = normalizeNews(await loadJson("../data/noticias.json"));
+    } catch {
+      newsItems = [];
+    }
+    applyNewsView();
     applyAutoRefresh();
     await refresh();
+    applyNewsView();
   }
 
   els.gateForm.addEventListener("submit", async (event) => {
@@ -1775,6 +1906,8 @@
       localStorage.setItem(UNLOCK_KEY, derived);
       els.gatePassword.value = "";
       showApp();
+      applyNewsView();
+      loadNews();
       await init();
     } catch (error) {
       els.gateError.hidden = false;
@@ -1801,6 +1934,8 @@
 
   if (isUnlocked()) {
     showApp();
+    applyNewsView();
+    loadNews();
     init();
   }
 })();
