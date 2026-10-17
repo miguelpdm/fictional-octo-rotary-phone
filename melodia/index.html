@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <meta name="theme-color" content="#1a1424" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>Toca la melodía</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <header class="top">
+        <button type="button" id="open-picker" class="picker-open">
+          Canciones
+        </button>
+        <label class="field track-field is-hidden" id="track-field">
+          <span>Pista</span>
+          <select id="track-select" aria-label="Elegir pista"></select>
+        </label>
+        <label class="midi-btn">
+          Cargar MIDI
+          <input
+            id="midi-file"
+            type="file"
+            accept=".mid,.midi,audio/midi"
+            hidden
+          />
+        </label>
+      </header>
+
+      <p class="song-name" id="song-name">Cargando…</p>
+      <p class="composer" id="composer"></p>
+      <p class="progress" id="progress">Nota 0 / 0</p>
+      <p class="status" id="status" hidden></p>
+
+      <main class="stage">
+        <button
+          type="button"
+          id="pad"
+          class="pad"
+          aria-label="Tocar la siguiente nota"
+        >
+          <span class="pad-label" id="pad-label">Toca</span>
+        </button>
+      </main>
+
+      <footer class="bottom">
+        <button type="button" id="restart" class="ghost">Reiniciar</button>
+      </footer>
+    </div>
+
+    <div id="picker" class="picker" hidden>
+      <div class="picker-sheet">
+        <div class="picker-head">
+          <h2>Elegir canción</h2>
+          <button type="button" id="close-picker" class="ghost">Cerrar</button>
+        </div>
+        <ul id="song-list" class="song-list"></ul>
+      </div>
+    </div>
+
+    <script type="module" src="./js/app.js"></script>
+  </body>
+</html>

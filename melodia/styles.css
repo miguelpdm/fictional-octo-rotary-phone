@@ -1,0 +1,255 @@
+:root {
+  --bg: #1a1424;
+  --ink: #f4ecdf;
+  --muted: #c9bba8;
+  --pad: #f3c98b;
+  --pad-ink: #3a2410;
+  --ring: #e8a85a;
+  --card: #2a2236;
+  --danger: #f0a0a0;
+  --safe: env(safe-area-inset-bottom, 0px);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+  background: radial-gradient(120% 80% at 50% 0%, #2d2340 0%, var(--bg) 55%);
+  color: var(--ink);
+  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+body {
+  min-height: 100dvh;
+}
+
+.app {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  padding: 14px 16px calc(16px + var(--safe));
+  max-width: 520px;
+  margin: 0 auto;
+}
+
+.top {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: end;
+}
+
+.picker-open,
+.midi-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 42px;
+  padding: 0 14px;
+  border: 0;
+  border-radius: 12px;
+  background: #3d314f;
+  color: var(--ink);
+  font-size: 14px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.picker-open {
+  flex: 1;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex: 1 1 140px;
+  font-size: 12px;
+  color: var(--muted);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.field select {
+  appearance: none;
+  border: 0;
+  border-radius: 12px;
+  background: var(--card);
+  color: var(--ink);
+  padding: 10px 12px;
+  font-size: 15px;
+  width: 100%;
+}
+
+.midi-btn:active,
+.picker-open:active {
+  transform: scale(0.98);
+}
+
+.midi-btn:active {
+  transform: scale(0.98);
+}
+
+.is-hidden {
+  display: none !important;
+}
+
+.song-name {
+  margin: 18px 0 2px;
+  text-align: center;
+  font-size: 1.28rem;
+  font-weight: 650;
+  line-height: 1.25;
+}
+
+.composer {
+  margin: 0 0 6px;
+  text-align: center;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.picker {
+  position: fixed;
+  inset: 0;
+  background: rgba(8, 6, 12, 0.62);
+  display: grid;
+  place-items: end center;
+  z-index: 20;
+  padding: 12px;
+}
+
+.picker[hidden] {
+  display: none !important;
+}
+
+.picker-sheet {
+  width: min(520px, 100%);
+  max-height: min(78dvh, 640px);
+  background: #241c30;
+  border-radius: 20px 20px 16px 16px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.picker-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 8px 8px 16px;
+}
+
+.picker-head h2 {
+  margin: 0;
+  font-size: 1.05rem;
+}
+
+.song-list {
+  list-style: none;
+  margin: 0;
+  padding: 0 8px 16px;
+  overflow: auto;
+}
+
+.song-list li button {
+  width: 100%;
+  text-align: left;
+  border: 0;
+  background: transparent;
+  color: var(--ink);
+  padding: 12px 10px;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.song-list li button.is-current,
+.song-list li button:active {
+  background: var(--card);
+}
+
+.song-title {
+  display: block;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.song-composer {
+  display: block;
+  margin-top: 2px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.progress {
+  margin: 0;
+  text-align: center;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.status {
+  margin: 8px 0 0;
+  text-align: center;
+  color: var(--danger);
+  font-size: 14px;
+}
+
+.stage {
+  flex: 1;
+  display: grid;
+  place-items: center;
+  padding: 12px 0 8px;
+}
+
+.pad {
+  --size: min(78vw, 78dvh, 420px);
+  width: var(--size);
+  height: var(--size);
+  border: 0;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 30%, #ffe7b8, var(--pad) 55%, #d89a4a);
+  color: var(--pad-ink);
+  box-shadow:
+    0 0 0 10px color-mix(in srgb, var(--ring) 28%, transparent),
+    0 18px 40px rgba(0, 0, 0, 0.35);
+  font-size: clamp(1.6rem, 7vw, 2.4rem);
+  font-weight: 750;
+  letter-spacing: 0.02em;
+  cursor: pointer;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+}
+
+.pad:active,
+.pad.is-hit {
+  transform: scale(0.965);
+  filter: brightness(1.08);
+}
+
+.bottom {
+  display: flex;
+  justify-content: center;
+}
+
+.ghost {
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  font-size: 16px;
+  padding: 10px 16px;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  cursor: pointer;
+}
+
+@media (min-width: 720px) {
+  .app {
+    padding-top: 28px;
+  }
+}
