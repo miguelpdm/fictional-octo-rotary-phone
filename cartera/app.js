@@ -381,6 +381,8 @@
     if (typeof globalThis.__carteraNowMs === "number" && Number.isFinite(globalThis.__carteraNowMs)) {
       return clockVisible;
     }
+    const parts = nyParts(date);
+    if (parts.weekday === 0 || parts.weekday === 6 || isUsHoliday(parts)) return false;
     const quoted = quotedUsSession();
     if (phase === "closed" && (quoted === "market" || quoted === "pre_market" || quoted === "post_market")) {
       return true;
@@ -428,6 +430,9 @@
     timestamps.forEach((t, i) => {
       if (closes[i] != null) spark.push({ t, v: closes[i], k: sparkKindAt(t, meta) });
     });
+    const lastPre = [...spark].reverse().find((p) => p.k === "pre");
+    const lastPost = [...spark].reverse().find((p) => p.k === "post");
+    const regular = spark.filter((p) => p.k === "regular");
     const previousClose = meta.chartPreviousClose || meta.previousClose;
     const price = meta.regularMarketPrice;
     const change = previousClose ? price - previousClose : 0;
@@ -441,6 +446,8 @@
       changePct,
       fulldayPrice,
       fulldayChangePercent,
+      lastPrePrice: lastPre ? lastPre.v : null,
+      lastPostPrice: lastPost ? lastPost.v : null,
       hasPrePostMarketData: !!meta.hasPrePostMarketData,
       currency: meta.currency,
       exchange: meta.fullExchangeName || meta.exchangeName,
@@ -450,7 +457,7 @@
       volume: meta.regularMarketVolume,
       weekHigh: meta.fiftyTwoWeekHigh,
       weekLow: meta.fiftyTwoWeekLow,
-      spark,
+      spark: regular.length ? regular : spark,
       session: yahooSession(meta),
       updateMode: "yahoo",
       source: "yahoo",
@@ -603,31 +610,23 @@
   }
 
   function applyExtQuote(row, quote, phase) {
-    if (!isUsListing(row) || (phase !== "pre" && phase !== "post")) {
-      return { ...row, ext: null };
-    }
-    const kind = phase === "post" ? "post" : "pre";
+    if (!isUsListing(row)) return { ...row, ext: null };
     const src = quote || row;
     const close = yahooNum(src.regularMarketPrice) ?? yahooNum(row.price);
-    let price = kind === "pre" ? yahooNum(src.preMarketPrice) : yahooNum(src.postMarketPrice);
-    let changePct = kind === "pre"
-      ? yahooNum(src.preMarketChangePercent)
-      : yahooNum(src.postMarketChangePercent);
-    if (price == null) price = yahooNum(src.fulldayPrice) ?? yahooNum(row.fulldayPrice);
-    if (changePct == null) {
-      changePct = yahooNum(src.fulldayChangePercent) ?? yahooNum(row.fulldayChangePercent);
-    }
-    if (price == null) {
-      const pt = lastSparkOfKind(row.spark, kind);
+    const kind = phase === "pre" ? "pre" : "post";
+    let price = kind === "pre"
+      ? (yahooNum(src.preMarketPrice) ?? yahooNum(src.lastPrePrice) ?? yahooNum(row.lastPrePrice))
+      : (yahooNum(src.postMarketPrice) ?? yahooNum(src.lastPostPrice) ?? yahooNum(row.lastPostPrice));
+    if (price == null && kind === "pre") {
+      const pt = lastSparkOfKind(row.spark, "pre");
       if (pt) price = yahooNum(pt.v);
     }
     if (price == null) return { ...row, ext: null };
+    let changePct = null;
     if (close != null && Math.abs(close) > 1e-12) {
       const rel = Math.abs(price - close) / Math.abs(close);
       if (rel < 1.5e-4) return { ...row, ext: null };
       changePct = ((price - close) / close) * 100;
-    } else if (changePct != null && Math.abs(changePct) <= 1) {
-      changePct = changePct * 100;
     }
     return { ...row, ext: { kind, price, changePct: changePct == null ? null : Number(changePct) } };
   }
@@ -635,23 +634,23 @@
   async function enrichUsExtended(list) {
     const phase = usSessionPhase();
     const us = (list || []).filter((row) => !row.missing && isUsListing(row));
-    if (!us.length || (phase !== "pre" && phase !== "post")) {
+    if (!us.length) {
       return (list || []).map((row) => ({ ...row, ext: null }));
     }
     let qmap = {};
-    const need = us.filter((row) => yahooNum(row.fulldayPrice) == null && yahooNum(row.preMarketPrice) == null);
+    const hasPrint = (row, extra) => {
+      const src = { ...row, ...extra };
+      return phase === "pre"
+        ? yahooNum(src.lastPrePrice) != null || yahooNum(src.preMarketPrice) != null
+        : yahooNum(src.lastPostPrice) != null || yahooNum(src.postMarketPrice) != null;
+    };
+    const need = us.filter((row) => !hasPrint(row));
     try {
       if (need.length) qmap = await fetchYahooQuotes(need.map((row) => row.yahoo || row.symbol));
     } catch (error) {
       console.warn("Yahoo pre/post no disponible", error);
     }
-    const missingAfterQuote = us.filter((row) => {
-      const q = qmap[row.yahoo || row.symbol];
-      return yahooNum(row.fulldayPrice) == null
-        && yahooNum(q?.preMarketPrice) == null
-        && yahooNum(q?.fulldayPrice) == null
-        && yahooNum(q?.postMarketPrice) == null;
-    });
+    const missingAfterQuote = us.filter((row) => !hasPrint(row, qmap[row.yahoo || row.symbol]));
     if (missingAfterQuote.length) {
       try {
         const extras = await Promise.all(missingAfterQuote.map((row) => {
@@ -690,14 +689,14 @@
         sparkSource = "snapshot";
       }
     }
-    const phase = usSessionPhase();
-    const extLive = isUsListing(row) && (phase === "pre" || phase === "post")
-      ? (live?.fulldayPrice ?? row.fulldayPrice)
-      : null;
-    spark = appendLivePrice(spark, extLive != null ? extLive : row.price);
+    const regular = (spark || []).filter((p) => !p.k || p.k === "regular");
+    if (regular.length >= 2) spark = regular;
+    spark = appendLivePrice(spark, row.price);
     const extra = {};
     if (live?.fulldayPrice != null) extra.fulldayPrice = live.fulldayPrice;
     if (live?.fulldayChangePercent != null) extra.fulldayChangePercent = live.fulldayChangePercent;
+    if (live?.lastPrePrice != null) extra.lastPrePrice = live.lastPrePrice;
+    if (live?.lastPostPrice != null) extra.lastPostPrice = live.lastPostPrice;
     return applyQuoteRules({ ...row, spark, sparkSource, previousClose, ...extra });
   }
 
@@ -782,6 +781,9 @@
         next.change = next.price - open;
         next.changePct = (next.change / open) * 100;
       }
+    }
+    if (isUsListing(next) && usSessionPhase() === "closed") {
+      next.session = "out_of_session";
     }
     return next;
   }
@@ -964,11 +966,13 @@
 
   function sparkSamples(points) {
     const now = Date.now() / 1000 + 90;
-    return (points || [])
+    const all = (points || [])
       .filter((p) => p && p.v != null && p.t != null && Number.isFinite(Number(p.t)) && Number.isFinite(Number(p.v)))
       .map((p) => ({ t: Number(p.t), v: Number(p.v), k: p.k || "regular" }))
       .filter((p) => p.t <= now)
       .sort((a, b) => a.t - b.t);
+    const regular = all.filter((p) => p.k === "regular");
+    return regular.length >= 2 ? regular : all;
   }
 
   function sparkXScale(samples, w) {
@@ -1006,8 +1010,7 @@
     const span = max - min || 1;
     const { x } = sparkXScale(samples, w);
     const y = (v) => h - 3 - ((v - min) / span) * (h - 6);
-    const regular = samples.filter((p) => (p.k || "regular") === "regular");
-    const lineSamples = regular.length >= 2 ? regular : samples;
+    const lineSamples = samples;
     const d = lineSamples.map((p, i) => `${i === 0 ? "M" : "L"} ${x(p.t)} ${y(p.v)}`).join(" ");
     const yPrev = previousClose == null ? h : y(previousClose);
     const lastX = x(lineSamples[lineSamples.length - 1].t);
@@ -1033,16 +1036,11 @@
           <path d="${d}" fill="none" stroke="#ff453a" stroke-width="${strokeW}" stroke-linejoin="round" stroke-linecap="round"></path>
         </g>
         <line x1="0" x2="${w}" y1="${yPrev}" y2="${yPrev}" stroke="#c5cad3" stroke-dasharray="3 3" stroke-width="1" opacity="0.85"></line>`;
-    const extPath = sparkKindPath(samples, ["pre", "post"], x, y);
-    const extLine = extPath
-      ? `<path d="${extPath}" fill="none" stroke="#8b95a5" stroke-width="${wide ? 1.6 : 1.2}" stroke-dasharray="3 2" stroke-linejoin="round" stroke-linecap="round" opacity="0.85"></path>`
-      : "";
     const payload = encodeURIComponent(JSON.stringify(samples));
     return `<div class="${klass}" role="img" aria-label="Gráfico intradía. Mantén pulsado o arrastra para ver precio y hora." data-wide="${wide ? 1 : 0}" data-ccy="${currency || ""}" data-prev="${previousClose ?? ""}" data-spark="${payload}">
       <svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">
         ${defs}
         ${split}
-        ${extLine}
         <g class="xh" hidden>
           <line class="xh-v" y1="0" y2="${h}"></line>
           <circle class="xh-dot" r="${wide ? 4.2 : 3}"></circle>
@@ -1116,25 +1114,6 @@
       · P&amp;L <strong>${pnl >= 0 ? "+" : ""}${nf(pnl, 2)} (${signedPct(pnlPct)})</strong></p>`;
   }
 
-  function sparkKindPath(samples, kinds, x, y) {
-    let d = "";
-    let drawing = false;
-    for (let i = 0; i < samples.length; i += 1) {
-      const ok = kinds.includes(samples[i].k || "regular");
-      if (!ok) {
-        drawing = false;
-        continue;
-      }
-      if (!drawing && i > 0) {
-        d += ` M ${x(samples[i - 1].t)} ${y(samples[i - 1].v)} L ${x(samples[i].t)} ${y(samples[i].v)}`;
-      } else {
-        d += ` ${drawing ? "L" : "M"} ${x(samples[i].t)} ${y(samples[i].v)}`;
-      }
-      drawing = true;
-    }
-    return d.trim();
-  }
-
   function sparkTiny(points, previousClose) {
     const samples = sparkSamples(points);
     const w = 42;
@@ -1148,16 +1127,11 @@
     const span = max - min || 1;
     const { x } = sparkXScale(samples, w);
     const y = (v) => h - 1.5 - ((v - min) / span) * (h - 3);
-    const regular = samples.filter((p) => (p.k || "regular") === "regular");
-    const lineSamples = regular.length >= 2 ? regular : samples;
+    const lineSamples = samples;
     const d = lineSamples.map((p, i) => `${i === 0 ? "M" : "L"} ${x(p.t)} ${y(p.v)}`).join(" ");
     const up = (lineSamples[lineSamples.length - 1].v ?? 0) >= (previousClose ?? lineSamples[0].v);
     const color = up ? "#30d158" : "#ff453a";
-    const extPath = sparkKindPath(samples, ["pre", "post"], x, y);
-    const ext = extPath
-      ? `<path d="${extPath}" fill="none" stroke="#8b95a5" stroke-width="1.1" stroke-dasharray="2 2" stroke-linejoin="round" stroke-linecap="round" opacity="0.9"></path>`
-      : "";
-    return `<div class="chart chart-tiny" aria-hidden="true"><svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">${ext}<path d="${d}" fill="none" stroke="${color}" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"></path></svg></div>`;
+    return `<div class="chart chart-tiny" aria-hidden="true"><svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none"><path d="${d}" fill="none" stroke="${color}" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"></path></svg></div>`;
   }
 
   function applyHideUs(snap = usSessionMeta, override = null) {
