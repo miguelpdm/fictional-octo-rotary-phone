@@ -199,6 +199,13 @@ body {
   font-size: 14px;
 }
 
+.audio-hint {
+  margin: 8px 0 0;
+  text-align: center;
+  color: var(--pad);
+  font-size: 14px;
+}
+
 .stage {
   flex: 1;
   display: grid;
