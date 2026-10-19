@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T23:50:05.790635+00:00",
+  "updatedAt": "2026-10-19T23:55:41.745855+00:00",
   "source": "yahoo-finance-chart",
   "delayNote": "Snapshot de Yahoo vía GitHub Actions (~30 min). Las cotizaciones en vivo de la página usan TradingView (~15 min).",
   "quotes": {
@@ -2519,7 +2519,7 @@
       "timezone": "Europe/Madrid",
       "dayHigh": 10.14,
       "dayLow": 9.922,
-      "volume": 1177078,
+      "volume": 1159724,
       "fiftyTwoWeekHigh": 11.93,
       "fiftyTwoWeekLow": 8.432,
       "regularMarketTime": 1792424121,
@@ -3612,7 +3612,7 @@
       "timezone": "Europe/Madrid",
       "dayHigh": 14.79,
       "dayLow": 14.51,
-      "volume": 1538929,
+      "volume": 1535509,
       "fiftyTwoWeekHigh": 17.68,
       "fiftyTwoWeekLow": 14.15,
       "regularMarketTime": 1792424121,
@@ -6648,19 +6648,19 @@
     },
     "BTC-USD": {
       "symbol": "BTC-USD",
-      "price": 81878.3,
+      "price": 81877.15,
       "previousClose": 81834.75,
-      "change": 43.55000000000291,
-      "changePct": 0.053217001335011,
+      "change": 42.39999999999418,
+      "changePct": 0.05181173034681987,
       "currency": "USD",
       "exchange": "CCC",
       "timezone": "UTC",
       "dayHigh": 83014.36,
       "dayLow": 81706.25,
-      "volume": 24524220416,
+      "volume": 24499867648,
       "fiftyTwoWeekHigh": 116273.31,
       "fiftyTwoWeekLow": 57747.766,
-      "regularMarketTime": 1792453802,
+      "regularMarketTime": 1792454138,
       "spark": [
         {
           "t": 1792440000,
@@ -6847,8 +6847,12 @@
           "v": 81859.0
         },
         {
-          "t": 1792453802,
-          "v": 81878.296875
+          "t": 1792453800,
+          "v": 81875.6484375
+        },
+        {
+          "t": 1792454138,
+          "v": 81877.1484375
         }
       ],
       "source": "yahoo-chart"
