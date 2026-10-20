@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T18:13:45.355456+00:00",
+  "updatedAt": "2026-10-20T21:33:22.569652+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7721.91,
-      "change": 62.470000000000255,
-      "changePct": 0.8155948737766764,
+      "price": 7712.57,
+      "change": 53.13000000000011,
+      "changePct": 0.6936538441452654,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26483.074,
-      "change": 343.0440000000017,
-      "changePct": 1.3123320822508686,
+      "price": 26424.816,
+      "change": 284.78600000000006,
+      "changePct": 1.0894631720009504,
       "currency": "USD"
     },
     {
