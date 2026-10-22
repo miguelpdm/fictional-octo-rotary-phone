@@ -280,14 +280,40 @@ header {
   line-height: 1;
 }
 
+.news-lang-row {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-bottom: 0.45rem;
+}
+
+.news-lang-row .chips {
+  flex: 1;
+  min-width: 0;
+  padding-bottom: 0;
+  margin: 0;
+}
+
 a.site-link {
-  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
   min-height: 2.75rem;
-  font-size: 0.75rem;
-  font-weight: 650;
+  padding: 0 0.65rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--panel);
   color: var(--muted);
+  text-decoration: none;
+  font-size: 0.78rem;
+  font-weight: 650;
   white-space: nowrap;
-  padding: 0 0.5rem;
+}
+
+a.site-link:focus-visible {
+  outline: 2px solid var(--blue);
+  outline-offset: 2px;
 }
 
 .us-btn {

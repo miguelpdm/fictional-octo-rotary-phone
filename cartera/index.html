@@ -82,7 +82,6 @@
           </svg>
         </button>
         <button class="view-btn news-btn" id="newsBtn" type="button" aria-pressed="false" aria-label="Noticias interesantes" title="Noticias interesantes">📰</button>
-        <a class="view-btn us-btn site-link" href="../prensa/" aria-label="Prensa">📰 Prensa</a>
         <button class="view-btn theme-btn" id="themeBtn" type="button" aria-label="Modo claro" title="Modo claro">
           <svg class="icon-moon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
             <path d="M21 14.5A8.5 8.5 0 0 1 9.5 3 7 7 0 1 0 21 14.5z"/>
@@ -112,7 +111,10 @@
       <h2 class="news-title">Noticias interesantes</h2>
       <p class="news-lead">Solo notas públicas. Sin cantidades ni precios de la cartera.</p>
       <div class="chips" id="newsChips" role="tablist" aria-label="Filtrar por ticker"></div>
-      <div class="chips" id="newsLangChips" role="tablist" aria-label="Filtrar por idioma"></div>
+      <div class="news-lang-row">
+        <div class="chips" id="newsLangChips" role="tablist" aria-label="Filtrar por idioma"></div>
+        <a class="site-link" href="../prensa/">📰 Prensa</a>
+      </div>
       <div id="newsList" class="news-list" aria-live="polite"></div>
     </section>
 
