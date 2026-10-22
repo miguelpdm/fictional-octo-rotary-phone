@@ -31,11 +31,41 @@ body {
 
 header { margin-bottom: 0.9rem; }
 
+.title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.6rem;
+}
+
 h1 {
   font-size: 1.45rem;
   font-weight: 750;
   letter-spacing: -0.02em;
 }
+
+a.site-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.75rem;
+  padding: 0 0.7rem;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--panel);
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 0.82rem;
+  font-weight: 650;
+  white-space: nowrap;
+}
+
+a.site-link:focus-visible {
+  outline: 2px solid var(--blue);
+  outline-offset: 2px;
+}
+
+a.site-link:active { background: var(--panel-2); }
 
 .lead {
   margin-top: 0.25rem;
