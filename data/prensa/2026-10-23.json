@@ -1,0 +1,147 @@
+{
+  "fecha": "2026-10-23",
+  "secciones": [
+    {
+      "nombre": "España",
+      "items": [
+        {
+          "titular": "La UCO detecta que faltan facturas en la contabilidad del PSOE al rastrear su financiación",
+          "url": "https://www.elmundo.es/espana/2026/10/22/6ada535cfdddff545b8b45a9.html",
+          "fuente": "El Mundo"
+        },
+        {
+          "titular": "Los vídeos falsos con IA irrumpen en la campaña del 29-N tras el vídeo del PP contra el PSOE",
+          "url": "https://elpais.com/espana/2026-10-23/el-video-del-pp-contra-el-psoe-agita-el-debate-sobre-los-limites-de-la-ia-en-la-batalla-politica.html",
+          "fuente": "El País",
+          "nota": "También en La Vanguardia"
+        },
+        {
+          "titular": "El verano más mortífero: el calor deja más de 5.000 muertes en España y más de 50.000 en las ciudades europeas",
+          "url": "https://www.eldiario.es/sociedad/verano-mortifero-calor-extremo-deja-5-000-muertes-espana_1_13607100.html",
+          "fuente": "elDiario.es",
+          "nota": "También en El Mundo, The Guardian y Le Monde"
+        },
+        {
+          "titular": "La CEOE da marcha atrás y no recurrirá la huelga general por la vivienda del 11-N",
+          "url": "https://elpais.com/economia/2026-10-22/ceoe-rectifica-y-no-impugnara-finalmente-la-huelga-general-por-la-vivienda-antes-del-11-de-noviembre.html",
+          "fuente": "El País",
+          "nota": "También en El Confidencial"
+        },
+        {
+          "titular": "Virus Shamonda: primer salto a un humano y detectado en tres granjas de vacuno en Girona",
+          "url": "https://elpais.com/sociedad/2026-10-23/el-primer-salto-del-shamonda-a-un-humano-que-se-sabe-de-un-virus-emergente-que-ha-sorprendido-a-los-expertos.html",
+          "fuente": "El País",
+          "nota": "También en La Vanguardia"
+        }
+      ]
+    },
+    {
+      "nombre": "Internacional",
+      "items": [
+        {
+          "titular": "Un terremoto de magnitud 7 en el Tíbet deja al menos 16 muertos y 65 heridos",
+          "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
+          "fuente": "The Guardian",
+          "nota": "También en BBC y ABC"
+        },
+        {
+          "titular": "Actualización: Trump llamó a Musk para levantar los límites de Starlink en Ucrania y asegura que ya está restaurado",
+          "url": "https://www.wsj.com/world/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions-5aeebc6e",
+          "fuente": "WSJ",
+          "nota": "También en NYT y BBC"
+        },
+        {
+          "titular": "Irán amenaza con atacar objetivos económicos y civiles si EE. UU. le ataca; Washington dice estar listo para un pulso largo",
+          "url": "https://www.wsj.com/world/middle-east/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-u-s-attacks-55f75e6b",
+          "fuente": "WSJ",
+          "nota": "También en FT"
+        },
+        {
+          "titular": "Francia multiplica las prohibiciones de manifestarse y Macron toma el mando del orden público antes del sábado",
+          "url": "https://www.lemonde.fr/politique/article/2026/10/23/les-interdictions-de-manifester-pleuvent-sur-toute-la-france-au-risque-de-malmener-l-etat-de-droit_6798944_823448.html",
+          "fuente": "Le Monde",
+          "nota": "También en BBC y El País"
+        }
+      ]
+    },
+    {
+      "nombre": "Economía y mercados",
+      "items": [
+        {
+          "titular": "La venta masiva de tecnológicas por miedo a la IA dispara la huida a la deuda de EE. UU.; las IA chinas ya pierden 150.000 millones en bolsa",
+          "url": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308",
+          "fuente": "FT",
+          "nota": "También en Bloomberg, NYT y Expansión"
+        },
+        {
+          "titular": "OpenAI rebaja su objetivo de valoración a 1,25 billones de dólares",
+          "url": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc",
+          "fuente": "FT"
+        },
+        {
+          "titular": "Las grandes empresas en España tributan solo un 8,9% de sus beneficios",
+          "url": "https://elpais.com/economia/2026-10-22/las-grandes-empresas-de-espana-tributan-solo-un-89-de-sus-beneficios.html",
+          "fuente": "El País"
+        }
+      ]
+    },
+    {
+      "nombre": "Tecnología e IA",
+      "items": [
+        {
+          "titular": "China autoriza a DeepSeek y MiniMax para uso global",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-23/deepseek-minimax-win-approval-for-global-use-state-media-says",
+          "fuente": "Bloomberg"
+        },
+        {
+          "titular": "Barclays recortará 5.000 empleos apoyándose en la IA",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo",
+          "fuente": "BBC",
+          "nota": "También en NYT y The Guardian"
+        },
+        {
+          "titular": "El iPhone Duo llega a las tiendas con poco stock y mucha demanda",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-23/apple-s-iphone-duo-hits-stores-in-face-of-short-supply-and-high-demand",
+          "fuente": "Bloomberg",
+          "nota": "También en El Confidencial"
+        }
+      ]
+    },
+    {
+      "nombre": "IA en X",
+      "items": [
+        {
+          "titular": "Los modelos de Claude, gestionados por Anthropic, ya están disponibles para todos en Google Cloud, y las novedades llegan el mismo día que a la plataforma propia",
+          "url": "https://x.com/claudeai/status/2113380122468454765",
+          "fuente": "@claudeai",
+          "nota": "Detalles: https://x.com/claudeai/status/2113380126561800305"
+        },
+        {
+          "titular": "Anuncian que Kimi K3.1 está a punto de salir",
+          "url": "https://x.com/SergioGMN/status/2113457586989072705",
+          "fuente": "@SergioGMN"
+        },
+        {
+          "titular": "Google regala Gemini Plus a estudiantes hasta final de año",
+          "url": "https://x.com/alvarombt/status/2113213019920728319",
+          "fuente": "@alvarombt"
+        },
+        {
+          "titular": "Claude Code Templates roza las 33.000 estrellas en GitHub y los 2 millones de descargas",
+          "url": "https://x.com/dani_avila7/status/2113436786462544163",
+          "fuente": "@dani_avila7"
+        },
+        {
+          "titular": "Sale en alfa la app de escritorio de Reforma Digital, que automatiza trámites con la Administración",
+          "url": "https://x.com/disamdev/status/2113264789904306458",
+          "fuente": "@disamdev"
+        },
+        {
+          "titular": "NEURA Robotics presenta la nueva versión de su robot en el TUM RoboGym de Múnich",
+          "url": "https://x.com/liderarmente/status/2113502709131129215",
+          "fuente": "@liderarmente"
+        }
+      ]
+    }
+  ]
+}
