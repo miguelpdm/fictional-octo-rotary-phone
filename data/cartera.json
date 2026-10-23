@@ -1,23 +1,6 @@
 {
   "title": "Cartera de Miguel",
   "subtitle": "Acciones y ETC · vista diaria",
-  "groups": [
-    {
-      "id": "P0",
-      "label": "P0 · prioridad alta",
-      "short": "P0"
-    },
-    {
-      "id": "P1",
-      "label": "P1 · seguimiento",
-      "short": "P1"
-    },
-    {
-      "id": "P2",
-      "label": "P2 · materias primas",
-      "short": "P2"
-    }
-  ],
   "benchmarks": {
     "XBI": {
       "yahoo": "XBI",
@@ -90,7 +73,6 @@
       "tv": "NASDAQ:QTRX",
       "yahoo": "QTRX",
       "name": "Quanterix",
-      "group": "P0",
       "benchmark": "XBI",
       "quantity": null,
       "avgCost": null
@@ -100,7 +82,6 @@
       "tv": "NASDAQ:HUMA",
       "yahoo": "HUMA",
       "name": "Humacyte",
-      "group": "P0",
       "benchmark": "XBI",
       "quantity": null,
       "avgCost": null
@@ -110,7 +91,6 @@
       "tv": "NASDAQ:IFRX",
       "yahoo": "IFRX",
       "name": "InflaRx",
-      "group": "P0",
       "benchmark": "XBI",
       "quantity": null,
       "avgCost": null
@@ -120,7 +100,6 @@
       "tv": "NASDAQ:CHTR",
       "yahoo": "CHTR",
       "name": "Charter Communications",
-      "group": "P0",
       "benchmark": "XLC",
       "quantity": null,
       "avgCost": null
@@ -130,7 +109,6 @@
       "tv": "EURONEXT:UMG",
       "yahoo": "UMG.AS",
       "name": "Universal Music Group",
-      "group": "P0",
       "benchmark": "^AEX",
       "quantity": null,
       "avgCost": null
@@ -140,7 +118,6 @@
       "tv": "NYSE:HIMS",
       "yahoo": "HIMS",
       "name": "Hims & Hers Health",
-      "group": "P1",
       "benchmark": "XBI",
       "quantity": null,
       "avgCost": null
@@ -150,7 +127,6 @@
       "tv": "EURONEXT:EL",
       "yahoo": "EL.PA",
       "name": "EssilorLuxottica",
-      "group": "P1",
       "benchmark": "^FCHI",
       "quantity": null,
       "avgCost": null
@@ -160,7 +136,6 @@
       "tv": "BME:GRF",
       "yahoo": "GRF.MC",
       "name": "Grifols",
-      "group": "P1",
       "benchmark": "^IBEX",
       "quantity": null,
       "avgCost": null
@@ -170,7 +145,6 @@
       "tv": "NASDAQ:SABR",
       "yahoo": "SABR",
       "name": "Sabre",
-      "group": "P1",
       "benchmark": "JETS",
       "quantity": null,
       "avgCost": null
@@ -180,7 +154,6 @@
       "tv": "NASDAQ:ADBE",
       "yahoo": "ADBE",
       "name": "Adobe",
-      "group": "P1",
       "benchmark": "IGV",
       "quantity": null,
       "avgCost": null
@@ -190,7 +163,6 @@
       "tv": "BME:RED",
       "yahoo": "RED.MC",
       "name": "Redeia",
-      "group": "P1",
       "benchmark": "^IBEX",
       "quantity": null,
       "avgCost": null
@@ -200,7 +172,15 @@
       "tv": "NASDAQ:ASST",
       "yahoo": "ASST",
       "name": "Strive",
-      "group": "P1",
+      "benchmark": "BTC-USD",
+      "quantity": null,
+      "avgCost": null
+    },
+    {
+      "symbol": "BTDR",
+      "tv": "NASDAQ:BTDR",
+      "yahoo": "BTDR",
+      "name": "Bitdeer Technologies Group",
       "benchmark": "BTC-USD",
       "quantity": null,
       "avgCost": null
@@ -210,7 +190,6 @@
       "tv": "NASDAQ:BKNG",
       "yahoo": "BKNG",
       "name": "Booking Holdings",
-      "group": "P1",
       "benchmark": "XLY",
       "quantity": null,
       "avgCost": null
@@ -220,7 +199,6 @@
       "tv": "NYSE:PG",
       "yahoo": "PG",
       "name": "Procter & Gamble",
-      "group": "P1",
       "benchmark": "XLP",
       "quantity": null,
       "avgCost": null
@@ -230,7 +208,6 @@
       "tv": "NYSE:SPGI",
       "yahoo": "SPGI",
       "name": "S&P Global",
-      "group": "P1",
       "benchmark": "XLF",
       "quantity": null,
       "avgCost": null
@@ -240,7 +217,6 @@
       "tv": "NYSE:ACN",
       "yahoo": "ACN",
       "name": "Accenture",
-      "group": "P1",
       "benchmark": "XLK",
       "quantity": null,
       "avgCost": null
@@ -250,7 +226,6 @@
       "tv": "EURONEXT:BRNT",
       "yahoo": "BRNT.MI",
       "name": "WisdomTree Brent Crude Oil",
-      "group": "P2",
       "benchmark": "BZ=F",
       "quantity": null,
       "avgCost": null,
@@ -261,7 +236,6 @@
       "tv": "LSE:SGLD",
       "yahoo": "SGLD.L",
       "name": "Invesco Physical Gold",
-      "group": "P2",
       "benchmark": "GC=F",
       "quantity": null,
       "avgCost": null
@@ -271,7 +245,6 @@
       "tv": "XETR:XSLR",
       "yahoo": "XSLR.DE",
       "name": "Xtrackers IE Physical Silver ETC",
-      "group": "P2",
       "benchmark": "SI=F",
       "quantity": null,
       "avgCost": null
@@ -281,7 +254,6 @@
       "tv": "XETR:SLVR",
       "yahoo": "SLVR.DE",
       "name": "Global X Silver Miners UCITS ETF",
-      "group": "P2",
       "benchmark": "SI=F",
       "quantity": null,
       "avgCost": null
@@ -291,7 +263,6 @@
       "tv": "",
       "yahoo": "XC4X.F",
       "name": "Fidelity China Focus",
-      "group": "P2",
       "benchmark": "MCHI",
       "quantity": null,
       "avgCost": null,
@@ -302,7 +273,6 @@
       "tv": "BITSTAMP:BTCUSD",
       "yahoo": "BTC-USD",
       "name": "Bitcoin (BTC)",
-      "group": "P2",
       "quantity": null,
       "avgCost": null,
       "alwaysOpen": true,

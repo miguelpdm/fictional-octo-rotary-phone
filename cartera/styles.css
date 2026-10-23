@@ -568,8 +568,6 @@ html:not([data-theme]) .theme-btn .icon-sun { display: none; }
   font-size: 0.56rem;
 }
 
-.app.dense .group-tag { display: none; }
-
 .app.dense .price {
   font-size: 0.78rem;
   font-weight: 700;
@@ -635,14 +633,6 @@ html:not([data-theme]) .theme-btn .icon-sun { display: none; }
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-}
-
-.group-tag {
-  display: inline-block;
-  font-size: 0.62rem;
-  font-weight: 700;
-  color: var(--blue);
-  margin-left: 0.25rem;
 }
 
 .chart {

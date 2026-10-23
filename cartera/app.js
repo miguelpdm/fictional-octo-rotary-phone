@@ -24,7 +24,7 @@
     bits: 256,
     hashHex: "0f00bb2e9d428fdef5ef5649c61add1435046eb2944c78fe573e23ed8315c964"
   };
-  const SORT_DEFAULT_DIR = { priority: "asc", change: "desc", name: "asc", volume: "desc" };
+  const SORT_DEFAULT_DIR = { change: "desc", name: "asc", volume: "desc" };
   const TV_COLUMNS = [
     "name", "description", "close", "change", "change_abs", "volume",
     "high", "low", "open", "currency", "exchange", "type", "update_mode",
@@ -34,15 +34,11 @@
 
   const FILTERS = [
     { id: "all", label: "Todas" },
-    { id: "P0", label: "P0" },
-    { id: "P1", label: "P1" },
-    { id: "P2", label: "P2" },
     { id: "up", label: "Suben" },
     { id: "down", label: "Bajan" }
   ];
 
   const SORTS = [
-    { id: "priority", label: "Prioridad" },
     { id: "change", label: "% día" },
     { id: "name", label: "Nombre" },
     { id: "volume", label: "Vol. rel." }
@@ -55,12 +51,12 @@
     out_of_session: "Cerrado"
   };
 
-  let config = { positions: [], groups: [] };
+  let config = { positions: [] };
   let snapshot = { quotes: {} };
   let rows = [];
   let filter = "all";
-  let sort = "priority";
-  let sortDir = "asc";
+  let sort = "change";
+  let sortDir = "desc";
   let preferredSource = "tv";
   let denseView = false;
   let sectorView = false;
@@ -989,19 +985,14 @@
       if (filter === "all") return true;
       if (filter === "up") return (row.changePct || 0) > 0.005;
       if (filter === "down") return (row.changePct || 0) < -0.005;
-      return row.group === filter;
+      return true;
     });
 
-    const groupRank = Object.fromEntries((config.groups || []).map((g, i) => [g.id, i]));
     const dir = sortDir === "asc" ? 1 : -1;
     list = [...list].sort((a, b) => {
-      if (sort === "change") return dir * ((a.changePct ?? -999) - (b.changePct ?? -999));
       if (sort === "name") return dir * a.name.localeCompare(b.name, "es");
       if (sort === "volume") return dir * ((a.relVolume ?? -1) - (b.relVolume ?? -1));
-      const ga = groupRank[a.group] ?? 99;
-      const gb = groupRank[b.group] ?? 99;
-      if (ga !== gb) return dir * (ga - gb);
-      return 0;
+      return dir * ((a.changePct ?? -999) - (b.changePct ?? -999));
     });
     return list;
   }
@@ -1289,7 +1280,7 @@
       if (row.missing) {
         return `<article class="row ${open ? "open" : ""}" data-symbol="${row.symbol}">
           <div class="row-main">
-            <div><div class="sym">${row.symbol}<span class="group-tag">${row.group}</span></div>
+            <div><div class="sym">${row.symbol}</div>
             <div class="name">${row.name}</div></div>
             <div></div>
             <div class="right"><div class="price">n/d</div><div class="badge flat">Sin datos</div></div>
@@ -1318,7 +1309,7 @@
       return `<article class="row ${open ? "open" : ""}" data-symbol="${row.symbol}">
         <div class="row-main">
           <div>
-            <div class="sym">${row.symbol}<span class="group-tag">${row.group}</span></div>
+            <div class="sym">${row.symbol}</div>
             ${benchHtml(row)}
             <div class="name">${row.name}</div>
           </div>
