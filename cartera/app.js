@@ -2,6 +2,7 @@
   const TZ = "Europe/Madrid";
   const AUTO_KEY = "cartera-auto-refresh";
   const SORT_KEY = "cartera-sort";
+  const CAT_FILTER_KEY = "cartera-category-filter";
   const SOURCE_KEY = "cartera-live-source";
   const UNLOCK_KEY = "cartera-unlock";
   const VIEW_KEY = "cartera-view";
@@ -24,7 +25,7 @@
     bits: 256,
     hashHex: "0f00bb2e9d428fdef5ef5649c61add1435046eb2944c78fe573e23ed8315c964"
   };
-  const SORT_DEFAULT_DIR = { change: "desc", name: "asc", volume: "desc" };
+  const SORT_DEFAULT_DIR = { change: "desc", name: "asc", volume: "desc", category: "asc" };
   const TV_COLUMNS = [
     "name", "description", "close", "change", "change_abs", "volume",
     "high", "low", "open", "currency", "exchange", "type", "update_mode",
@@ -41,8 +42,22 @@
   const SORTS = [
     { id: "change", label: "% día" },
     { id: "name", label: "Nombre" },
-    { id: "volume", label: "Vol. rel." }
+    { id: "volume", label: "Vol. rel." },
+    { id: "category", label: "Categoría" }
   ];
+
+  const CATEGORIES = [
+    { id: "quality", label: "Calidad" },
+    { id: "value", label: "Valor" },
+    { id: "growth", label: "Crecimiento" },
+    { id: "china", label: "China" },
+    { id: "crypto", label: "Cripto" },
+    { id: "gold", label: "Oro" },
+    { id: "silver", label: "Plata" },
+    { id: "energy", label: "Energía" }
+  ];
+  const CATEGORY_IDS = CATEGORIES.map((item) => item.id);
+  const CATEGORY_LABEL = Object.fromEntries(CATEGORIES.map((item) => [item.id, item.label]));
 
   const SESSION_LABEL = {
     market: "Abierto",
@@ -55,6 +70,7 @@
   let snapshot = { quotes: {} };
   let rows = [];
   let filter = "all";
+  let categoryFilter = new Set(CATEGORY_IDS);
   let sort = "change";
   let sortDir = "desc";
   let preferredSource = "tv";
@@ -93,6 +109,7 @@
     summary: document.getElementById("summary"),
     markets: document.getElementById("markets"),
     filters: document.getElementById("filterChips"),
+    cats: document.getElementById("categoryChips"),
     sorts: document.getElementById("sortChips"),
     list: document.getElementById("list"),
     view: document.getElementById("viewBtn"),
@@ -979,9 +996,33 @@
     els.app.classList.toggle("show-sector", sectorView);
   }
 
+  function categoryId(row) {
+    const raw = row && row.category != null ? String(row.category).trim() : "";
+    return CATEGORY_LABEL[raw] ? raw : "";
+  }
+
+  function categoryLabel(row) {
+    const id = categoryId(row);
+    return id ? CATEGORY_LABEL[id] : "";
+  }
+
+  function categoryTag(row) {
+    const label = categoryLabel(row);
+    return label ? `<span class="cat-tag">${escapeHtml(label)}</span>` : "";
+  }
+
+  function allCategoriesOn() {
+    return CATEGORY_IDS.every((id) => categoryFilter.has(id));
+  }
+
   function visibleRows() {
+    const catsOpen = allCategoriesOn() || categoryFilter.size === 0;
     let list = rows.filter((row) => {
       if (hideUs && isUsListing(row)) return false;
+      if (!catsOpen) {
+        const id = categoryId(row);
+        if (!id || !categoryFilter.has(id)) return false;
+      }
       if (filter === "all") return true;
       if (filter === "up") return (row.changePct || 0) > 0.005;
       if (filter === "down") return (row.changePct || 0) < -0.005;
@@ -992,6 +1033,14 @@
     list = [...list].sort((a, b) => {
       if (sort === "name") return dir * a.name.localeCompare(b.name, "es");
       if (sort === "volume") return dir * ((a.relVolume ?? -1) - (b.relVolume ?? -1));
+      if (sort === "category") {
+        const ia = CATEGORY_IDS.indexOf(categoryId(a));
+        const ib = CATEGORY_IDS.indexOf(categoryId(b));
+        const ra = ia === -1 ? 99 : ia;
+        const rb = ib === -1 ? 99 : ib;
+        if (ra !== rb) return dir * (ra - rb);
+        return a.name.localeCompare(b.name, "es");
+      }
       return dir * ((a.changePct ?? -999) - (b.changePct ?? -999));
     });
     return list;
@@ -1259,7 +1308,7 @@
           <div class="row-main">
             <div class="tile-top">
               <div class="tile-id">
-                <div class="sym">${row.symbol}</div>
+                <div class="sym">${row.symbol}${categoryTag(row)}</div>
                 ${benchHtml(row)}
                 ${extHtml(row)}
               </div>
@@ -1280,7 +1329,7 @@
       if (row.missing) {
         return `<article class="row ${open ? "open" : ""}" data-symbol="${row.symbol}">
           <div class="row-main">
-            <div><div class="sym">${row.symbol}</div>
+            <div><div class="sym">${row.symbol}${categoryTag(row)}</div>
             <div class="name">${row.name}</div></div>
             <div></div>
             <div class="right"><div class="price">n/d</div><div class="badge flat">Sin datos</div></div>
@@ -1309,7 +1358,7 @@
       return `<article class="row ${open ? "open" : ""}" data-symbol="${row.symbol}">
         <div class="row-main">
           <div>
-            <div class="sym">${row.symbol}</div>
+            <div class="sym">${row.symbol}${categoryTag(row)}</div>
             ${benchHtml(row)}
             <div class="name">${row.name}</div>
           </div>
@@ -1329,6 +1378,16 @@
     els.filters.innerHTML = FILTERS.map((item) =>
       `<button class="chip ${filter === item.id ? "active" : ""}" data-filter="${item.id}" type="button">${item.label}</button>`
     ).join("");
+    if (els.cats) {
+      const allOn = allCategoriesOn() || categoryFilter.size === 0;
+      els.cats.innerHTML = [
+        `<button class="chip ${allOn ? "active" : ""}" data-cat="all" type="button" aria-pressed="${allOn}">Todas</button>`,
+        ...CATEGORIES.map((item) => {
+          const on = allOn || categoryFilter.has(item.id);
+          return `<button class="chip ${!allOn && on ? "active" : ""}" data-cat="${item.id}" type="button" aria-pressed="${!allOn && on}">${item.label}</button>`;
+        })
+      ].join("");
+    }
     els.sorts.innerHTML = SORTS.map((item) => {
       const active = sort === item.id;
       const arrow = active ? (sortDir === "asc" ? "↑" : "↓") : "";
@@ -1623,6 +1682,47 @@
     renderAll();
   });
 
+  function loadCategoryPrefs() {
+    try {
+      const saved = JSON.parse(localStorage.getItem(CAT_FILTER_KEY) || "null");
+      if (!Array.isArray(saved)) return;
+      const next = saved.filter((id) => CATEGORY_IDS.includes(id));
+      categoryFilter = new Set(next.length ? next : CATEGORY_IDS);
+    } catch {
+      categoryFilter = new Set(CATEGORY_IDS);
+    }
+  }
+
+  function saveCategoryPrefs() {
+    const ids = allCategoriesOn() || categoryFilter.size === 0
+      ? CATEGORY_IDS
+      : CATEGORY_IDS.filter((id) => categoryFilter.has(id));
+    localStorage.setItem(CAT_FILTER_KEY, JSON.stringify(ids));
+  }
+
+  if (els.cats) {
+    els.cats.addEventListener("click", (event) => {
+      const btn = event.target.closest("[data-cat]");
+      if (!btn) return;
+      const id = btn.dataset.cat;
+      if (id === "all") {
+        categoryFilter = new Set(CATEGORY_IDS);
+      } else if (CATEGORY_IDS.includes(id)) {
+        if (allCategoriesOn() || categoryFilter.size === 0) {
+          categoryFilter = new Set([id]);
+        } else if (categoryFilter.has(id)) {
+          categoryFilter.delete(id);
+          if (categoryFilter.size === 0) categoryFilter = new Set(CATEGORY_IDS);
+        } else {
+          categoryFilter.add(id);
+          if (allCategoriesOn()) categoryFilter = new Set(CATEGORY_IDS);
+        }
+      }
+      saveCategoryPrefs();
+      renderAll();
+    });
+  }
+
   function loadSortPrefs() {
     try {
       const saved = JSON.parse(localStorage.getItem(SORT_KEY) || "null");
@@ -1895,6 +1995,7 @@
     started = true;
     preferredSource = localStorage.getItem(SOURCE_KEY) === "yahoo" ? "yahoo" : "tv";
     loadSortPrefs();
+    loadCategoryPrefs();
     denseView = localStorage.getItem(VIEW_KEY) === "dense";
     sectorView = localStorage.getItem(SECTOR_KEY) === "1";
     applyTheme(currentTheme());

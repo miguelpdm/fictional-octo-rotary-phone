@@ -486,6 +486,12 @@ html:not([data-theme]) .theme-btn .icon-sun { display: none; }
 
 .chips::-webkit-scrollbar { display: none; }
 
+.chips.cats {
+  flex-wrap: wrap;
+  overflow: visible;
+  row-gap: 0.32rem;
+}
+
 .chip {
   border: 1px solid var(--line);
   background: var(--panel);
@@ -625,6 +631,26 @@ html:not([data-theme]) .theme-btn .icon-sun { display: none; }
 .sym {
   font-weight: 750;
   letter-spacing: -0.02em;
+}
+
+.cat-tag {
+  display: inline-block;
+  font-size: 0.58rem;
+  font-weight: 700;
+  color: var(--blue);
+  margin-left: 0.28rem;
+  padding: 0.04rem 0.32rem;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--panel-2);
+  vertical-align: middle;
+  letter-spacing: 0;
+}
+
+.app.dense .cat-tag {
+  font-size: 0.5rem;
+  padding: 0.02rem 0.24rem;
+  margin-left: 0.18rem;
 }
 
 .name {
