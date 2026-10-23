@@ -46,18 +46,7 @@
     { id: "category", label: "Categoría" }
   ];
 
-  const CATEGORIES = [
-    { id: "quality", label: "Calidad" },
-    { id: "value", label: "Valor" },
-    { id: "growth", label: "Crecimiento" },
-    { id: "china", label: "China" },
-    { id: "crypto", label: "Cripto" },
-    { id: "gold", label: "Oro" },
-    { id: "silver", label: "Plata" },
-    { id: "energy", label: "Energía" }
-  ];
-  const CATEGORY_IDS = CATEGORIES.map((item) => item.id);
-  const CATEGORY_LABEL = Object.fromEntries(CATEGORIES.map((item) => [item.id, item.label]));
+  const CATEGORY_IDS = ["quality", "value", "growth", "china", "crypto", "gold", "silver", "energy"];
 
   const SESSION_LABEL = {
     market: "Abierto",
@@ -998,17 +987,12 @@
 
   function categoryId(row) {
     const raw = row && row.category != null ? String(row.category).trim() : "";
-    return CATEGORY_LABEL[raw] ? raw : "";
-  }
-
-  function categoryLabel(row) {
-    const id = categoryId(row);
-    return id ? CATEGORY_LABEL[id] : "";
+    return CATEGORY_IDS.includes(raw) ? raw : "";
   }
 
   function categoryTag(row) {
-    const label = categoryLabel(row);
-    return label ? `<span class="cat-tag">${escapeHtml(label)}</span>` : "";
+    const id = categoryId(row);
+    return id ? `<span class="cat-tag">${escapeHtml(id)}</span>` : "";
   }
 
   function allCategoriesOn() {
@@ -1382,9 +1366,9 @@
       const allOn = allCategoriesOn() || categoryFilter.size === 0;
       els.cats.innerHTML = [
         `<button class="chip ${allOn ? "active" : ""}" data-cat="all" type="button" aria-pressed="${allOn}">Todas</button>`,
-        ...CATEGORIES.map((item) => {
-          const on = allOn || categoryFilter.has(item.id);
-          return `<button class="chip ${!allOn && on ? "active" : ""}" data-cat="${item.id}" type="button" aria-pressed="${!allOn && on}">${item.label}</button>`;
+        ...CATEGORY_IDS.map((id) => {
+          const on = allOn || categoryFilter.has(id);
+          return `<button class="chip ${!allOn && on ? "active" : ""}" data-cat="${id}" type="button" aria-pressed="${!allOn && on}">${id}</button>`;
         })
       ].join("");
     }
