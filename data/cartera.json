@@ -75,7 +75,8 @@
       "name": "Quanterix",
       "benchmark": "XBI",
       "quantity": null,
-      "avgCost": null
+      "avgCost": null,
+      "category": "growth"
     },
     {
       "symbol": "HUMA",
@@ -84,7 +85,8 @@
       "name": "Humacyte",
       "benchmark": "XBI",
       "quantity": null,
-      "avgCost": null
+      "avgCost": null,
+      "category": "growth"
     },
     {
       "symbol": "IFRX",
@@ -93,7 +95,8 @@
       "name": "InflaRx",
       "benchmark": "XBI",
       "quantity": null,
-      "avgCost": null
+      "avgCost": null,
+      "category": "growth"
     },
     {
       "symbol": "CHTR",
@@ -102,7 +105,8 @@
       "name": "Charter Communications",
       "benchmark": "XLC",
       "quantity": null,
-      "avgCost": null
+      "avgCost": null,
+      "category": "value"
     },
     {
       "symbol": "UMG.AS",
@@ -111,7 +115,8 @@
       "name": "Universal Music Group",
       "benchmark": "^AEX",
       "quantity": null,
-      "avgCost": null
+      "avgCost": null,
+      "category": "quality"
     },
     {
       "symbol": "HIMS",
@@ -120,7 +125,8 @@
       "name": "Hims & Hers Health",
       "benchmark": "XBI",
       "quantity": null,
-      "avgCost": null
+      "avgCost": null,
+      "category": "growth"
     },
     {
       "symbol": "EL.PA",
@@ -129,7 +135,8 @@
       "name": "EssilorLuxottica",
       "benchmark": "^FCHI",
       "quantity": null,
-      "avgCost": null
+      "avgCost": null,
+      "category": "quality"
     },
     {
       "symbol": "GRF.MC",
@@ -138,7 +145,8 @@
       "name": "Grifols",
       "benchmark": "^IBEX",
       "quantity": null,
-      "avgCost": null
+      "avgCost": null,
+      "category": "value"
     },
     {
       "symbol": "SABR",
@@ -147,7 +155,8 @@
       "name": "Sabre",
       "benchmark": "JETS",
       "quantity": null,
-      "avgCost": null
+      "avgCost": null,
+      "category": "value"
     },
     {
       "symbol": "ADBE",
@@ -156,7 +165,8 @@
       "name": "Adobe",
       "benchmark": "IGV",
       "quantity": null,
-      "avgCost": null
+      "avgCost": null,
+      "category": "quality"
     },
     {
       "symbol": "RED.MC",
@@ -165,7 +175,8 @@
       "name": "Redeia",
       "benchmark": "^IBEX",
       "quantity": null,
-      "avgCost": null
+      "avgCost": null,
+      "category": "quality"
     },
     {
       "symbol": "ASST",
@@ -174,7 +185,8 @@
       "name": "Strive",
       "benchmark": "BTC-USD",
       "quantity": null,
-      "avgCost": null
+      "avgCost": null,
+      "category": "growth"
     },
     {
       "symbol": "BTDR",
@@ -183,7 +195,8 @@
       "name": "Bitdeer Technologies Group",
       "benchmark": "BTC-USD",
       "quantity": null,
-      "avgCost": null
+      "avgCost": null,
+      "category": "growth"
     },
     {
       "symbol": "BKNG",
@@ -192,7 +205,8 @@
       "name": "Booking Holdings",
       "benchmark": "XLY",
       "quantity": null,
-      "avgCost": null
+      "avgCost": null,
+      "category": "quality"
     },
     {
       "symbol": "PG",
@@ -201,7 +215,8 @@
       "name": "Procter & Gamble",
       "benchmark": "XLP",
       "quantity": null,
-      "avgCost": null
+      "avgCost": null,
+      "category": "quality"
     },
     {
       "symbol": "SPGI",
@@ -210,7 +225,8 @@
       "name": "S&P Global",
       "benchmark": "XLF",
       "quantity": null,
-      "avgCost": null
+      "avgCost": null,
+      "category": "quality"
     },
     {
       "symbol": "ACN",
@@ -219,7 +235,8 @@
       "name": "Accenture",
       "benchmark": "XLK",
       "quantity": null,
-      "avgCost": null
+      "avgCost": null,
+      "category": "quality"
     },
     {
       "symbol": "BRNT.MI",
@@ -229,7 +246,8 @@
       "benchmark": "BZ=F",
       "quantity": null,
       "avgCost": null,
-      "note": "Yahoo: BRNT.MI (Milán). Cotización en vivo vía Euronext:BRNT; TradingView no lista el ticker milanés."
+      "note": "Yahoo: BRNT.MI (Milán). Cotización en vivo vía Euronext:BRNT; TradingView no lista el ticker milanés.",
+      "category": "energy"
     },
     {
       "symbol": "SGLD.L",
@@ -238,7 +256,8 @@
       "name": "Invesco Physical Gold",
       "benchmark": "GC=F",
       "quantity": null,
-      "avgCost": null
+      "avgCost": null,
+      "category": "gold"
     },
     {
       "symbol": "XSLR.DE",
@@ -247,7 +266,8 @@
       "name": "Xtrackers IE Physical Silver ETC",
       "benchmark": "SI=F",
       "quantity": null,
-      "avgCost": null
+      "avgCost": null,
+      "category": "silver"
     },
     {
       "symbol": "SLVR.DE",
@@ -256,7 +276,8 @@
       "name": "Global X Silver Miners UCITS ETF",
       "benchmark": "SI=F",
       "quantity": null,
-      "avgCost": null
+      "avgCost": null,
+      "category": "silver"
     },
     {
       "symbol": "XC4X.F",
@@ -266,7 +287,8 @@
       "benchmark": "MCHI",
       "quantity": null,
       "avgCost": null,
-      "note": "Fidelity Funds – China Focus Fund (Yahoo XC4X.F, Fráncfort). El scanner de TradingView no cotiza XC4X; precio y sparkline van por Yahoo."
+      "note": "Fidelity Funds – China Focus Fund (Yahoo XC4X.F, Fráncfort). El scanner de TradingView no cotiza XC4X; precio y sparkline van por Yahoo.",
+      "category": "china"
     },
     {
       "symbol": "BTC-USD",
@@ -276,7 +298,8 @@
       "quantity": null,
       "avgCost": null,
       "alwaysOpen": true,
-      "utcOpenBaseline": true
+      "utcOpenBaseline": true,
+      "category": "crypto"
     }
   ]
 }
