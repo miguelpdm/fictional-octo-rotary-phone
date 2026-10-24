@@ -1,0 +1,159 @@
+{
+  "fecha": "2026-10-24",
+  "secciones": [
+    {
+      "nombre": "España",
+      "items": [
+        {
+          "titular": "Actualización 'ley de nietos': el Supremo da un ultimátum al Gobierno y Exteriores solo acredita que el 0,3% de los 'nietos' cumple los requisitos para votar el 29-N",
+          "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/23/6adba990fc6c8325318b4587.html",
+          "fuente": "El Mundo",
+          "nota": "También en La Vanguardia y El País (consulados contrarreloj)."
+        },
+        {
+          "titular": "El Rey avisa en los Princesa de Asturias de que la democracia «no se agota en unas elecciones», y Leonor apela a la esperanza ante el desencanto social",
+          "url": "https://www.lavanguardia.com/cultura/20261023/11666741/rey-advierte-elecciones-29-n-democracia-agota-urnas.html",
+          "fuente": "La Vanguardia",
+          "nota": "También en ABC y El Confidencial."
+        },
+        {
+          "titular": "Actualización Senado: el Frente Amplio tendrá el 30% de los puestos en las listas conjuntas con el PSOE, casi siempre en segundas posiciones",
+          "url": "https://www.eldiario.es/politica/frente-amplio-tendra-30-puestos-listas-conjuntas-psoe-senado_1_13611215.html",
+          "fuente": "elDiario.es",
+          "nota": "También en El Mundo."
+        },
+        {
+          "titular": "Sánchez acepta ir a la entrevista de Jordi Wild en plena campaña",
+          "url": "https://www.eldiario.es/politica/pedro-sanchez-acepta-entrevista-jordi-wild_1_13611264.html",
+          "fuente": "elDiario.es"
+        }
+      ]
+    },
+    {
+      "nombre": "Internacional",
+      "items": [
+        {
+          "titular": "Francia, en tensión máxima: un atentado racista en Trappes deja un muerto en vísperas de la gran jornada de protestas de hoy, con 70.000 policías desplegados",
+          "url": "https://elpais.com/internacional/2026-10-23/un-muerto-y-varios-heridos-en-tiroteos-en-una-localidad-de-las-afueras-de-paris.html",
+          "fuente": "El País",
+          "nota": "También en BBC, Le Monde y WSJ."
+        },
+        {
+          "titular": "Rusia y Ucrania pactan un alto el fuego local en Oleshky, intercambian prisioneros y Zelenski confirma negociaciones directas en noviembre con mediación de EE. UU.",
+          "url": "https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1",
+          "fuente": "Financial Times",
+          "nota": "También en El País y Le Monde."
+        },
+        {
+          "titular": "Actualización Irán: la inteligencia de EE. UU. avisa de planes «avanzados» para atacar a estadounidenses y Washington ordena salidas de personal en Oriente Medio",
+          "url": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
+          "fuente": "The New York Times",
+          "nota": "También en FT y Bloomberg."
+        },
+        {
+          "titular": "El Gobierno de Trump pide bloquear la certificación de la elección al Senado en Alaska si pierde el republicano Sullivan",
+          "url": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html",
+          "fuente": "The New York Times",
+          "nota": "También en FT, BBC y El País."
+        },
+        {
+          "titular": "Siete muertos y 40 heridos en un ataque armado contra un funeral en una iglesia de Jordania",
+          "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
+          "fuente": "The Guardian",
+          "nota": "También en El País y WSJ."
+        }
+      ]
+    },
+    {
+      "nombre": "Economía y mercados",
+      "items": [
+        {
+          "titular": "El petróleo toca los 117 dólares por el miedo a nuevos ataques contra Irán y Wall Street cierra a la baja una semana muy volátil",
+          "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+          "fuente": "The Guardian",
+          "nota": "También en Expansión y WSJ."
+        },
+        {
+          "titular": "Moody's no rebaja la nota de Francia pese a la crisis política y las protestas, aunque le da un aviso",
+          "url": "https://www.nytimes.com/2026/10/23/business/france-debt-moodys-protests.html",
+          "fuente": "The New York Times",
+          "nota": "También en FT, El País y Le Monde."
+        },
+        {
+          "titular": "Directivos de EE. UU. abandonan un proyecto de gas de 25.000 millones en Alaska por sospechas de control ruso oculto",
+          "url": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b",
+          "fuente": "Financial Times",
+          "nota": "También en NYT y Bloomberg."
+        },
+        {
+          "titular": "Seat para la producción de coches eléctricos en Martorell",
+          "url": "https://www.lavanguardia.com/dinero/20261023/11666723/seat-martorell-produccion-electricos-martorell-fabrica.html",
+          "fuente": "La Vanguardia"
+        }
+      ]
+    },
+    {
+      "nombre": "Tecnología e IA",
+      "items": [
+        {
+          "titular": "OpenAI retoma el entrenamiento de sus modelos punteros, ahora sin acceso a internet, tras sus incidentes de ciberseguridad",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-23/openai-to-train-ai-models-without-internet-after-cyber-incidents",
+          "fuente": "Bloomberg",
+          "nota": "También en Reuters."
+        },
+        {
+          "titular": "Reino Unido pone 100 millones de libras en un laboratorio de bioseguridad e IA con OpenAI y Anthropic",
+          "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
+          "fuente": "BBC",
+          "nota": "También en Bloomberg."
+        },
+        {
+          "titular": "Anthropic cierra un acuerdo para lanzar una consultora en Europa",
+          "url": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4",
+          "fuente": "Financial Times"
+        },
+        {
+          "titular": "Expertos ponen en duda el informe de Anthropic sobre cómo la IA ha cambiado el trabajo dentro de la empresa",
+          "url": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
+          "fuente": "The Guardian"
+        }
+      ]
+    },
+    {
+      "nombre": "IA en X",
+      "items": [
+        {
+          "titular": "Jack Dorsey presenta Dessa, un modelo de voz a voz sin texto intermedio, entrenado solo con conversaciones reales, que escucha y habla a la vez y corre en local en un MacBook",
+          "url": "https://x.com/santtiagom_/status/2113780068480639169",
+          "fuente": "X · @santtiagom_",
+          "nota": "También comentado por @NachDDa."
+        },
+        {
+          "titular": "OpenAI dice haber encontrado un fallo crítico en la librería de compresión Brotli, usada en Node.js, Bun y Envoy, que permitiría tomar el control de un sistema",
+          "url": "https://x.com/levelsio/status/2113799716471296052",
+          "fuente": "X · @levelsio"
+        },
+        {
+          "titular": "OpenAI explica cómo escaló el almacenamiento de ChatGPT para dar servicio a más de 1.000 millones de usuarios",
+          "url": "https://x.com/santtiagom_/status/2113714770192834880",
+          "fuente": "X · @santtiagom_"
+        },
+        {
+          "titular": "Actualización Claude Duet: Anthropic publica cómo gestiona la seguridad, la privacidad y la protección de su agente proactivo",
+          "url": "https://x.com/claudeai/status/2113736176737845353",
+          "fuente": "X · @claudeai"
+        },
+        {
+          "titular": "Sale T3 Code 2.1.0 para iOS, con revisión de pull requests desde el móvil, acceso sin conexión y diseño adaptado a iPhone Duo y iPad",
+          "url": "https://x.com/jullerino/status/2113756414263083033",
+          "fuente": "X · @jullerino"
+        },
+        {
+          "titular": "El director Tom Tykwer usa Seedance 2.5 de BytePlus para convertir una obra de teatro real en un mundo cinematográfico hecho con IA",
+          "url": "https://x.com/minchoi/status/2113836255490318407",
+          "fuente": "X · @minchoi"
+        }
+      ]
+    }
+  ]
+}
