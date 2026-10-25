@@ -1,4 +1,5 @@
 (() => {
+  const THEME_KEY = "prensa-theme";
   const INDEX_URL = "../data/prensa/index.json";
   const SECTION_ORDER = [
     "España",
@@ -14,7 +15,9 @@
     dayLabel: document.getElementById("dayLabel"),
     prev: document.getElementById("prevBtn"),
     next: document.getElementById("nextBtn"),
-    select: document.getElementById("dateSelect")
+    select: document.getElementById("dateSelect"),
+    theme: document.getElementById("themeBtn"),
+    themeColor: document.querySelector('meta[name="theme-color"]')
   };
 
   let dates = [];
@@ -190,6 +193,46 @@
       showStatus("Esa fecha no está en el archivo. Se muestra la última edición.", true);
     }
   }
+
+  function systemTheme() {
+    return window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
+  }
+
+  function currentTheme() {
+    const saved = localStorage.getItem(THEME_KEY);
+    if (saved === "light" || saved === "dark") return saved;
+    const attr = document.documentElement.getAttribute("data-theme");
+    if (attr === "light" || attr === "dark") return attr;
+    return systemTheme();
+  }
+
+  function applyTheme(theme) {
+    const next = theme === "light" ? "light" : "dark";
+    document.documentElement.setAttribute("data-theme", next);
+    if (els.themeColor) els.themeColor.setAttribute("content", next === "light" ? "#f3f5f8" : "#0b0d10");
+    if (els.theme) {
+      const label = next === "light" ? "Modo oscuro" : "Modo claro";
+      els.theme.setAttribute("aria-pressed", next === "light" ? "true" : "false");
+      els.theme.setAttribute("aria-label", label);
+      els.theme.setAttribute("title", label);
+    }
+  }
+
+  function toggleTheme() {
+    const next = currentTheme() === "light" ? "dark" : "light";
+    localStorage.setItem(THEME_KEY, next);
+    applyTheme(next);
+  }
+
+  applyTheme(currentTheme());
+  if (els.theme) els.theme.addEventListener("click", toggleTheme);
+  const themeMq = window.matchMedia("(prefers-color-scheme: light)");
+  const onSystemTheme = () => {
+    if (localStorage.getItem(THEME_KEY) === "light" || localStorage.getItem(THEME_KEY) === "dark") return;
+    applyTheme(systemTheme());
+  };
+  if (themeMq.addEventListener) themeMq.addEventListener("change", onSystemTheme);
+  else if (themeMq.addListener) themeMq.addListener(onSystemTheme);
 
   els.prev.addEventListener("click", () => {
     const i = dates.indexOf(current);
