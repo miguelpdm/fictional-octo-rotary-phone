@@ -1,0 +1,159 @@
+{
+  "fecha": "2026-10-25",
+  "secciones": [
+    {
+      "nombre": "España",
+      "items": [
+        {
+          "titular": "Noche de disturbios en el centro de Barcelona: saqueos, contenedores quemados y un centenar de detenidos tras una protesta juvenil 'contra el sistema'",
+          "url": "https://www.lavanguardia.com/local/barcelona/20261024/11667279/mossos-guardia-urbana-dispersan-concentracion-sistema-placa-catalunya.html",
+          "fuente": "La Vanguardia",
+          "nota": "14 tiendas saqueadas y una cuarta parte de los detenidos son menores. También en El País, El Mundo, elDiario.es y ABC."
+        },
+        {
+          "titular": "Miles de pensionistas se manifiestan en Madrid para pedir subidas con el IPC real a un mes del 29-N",
+          "url": "https://www.elconfidencial.com/espana/2026-10-24/manifestacion-pensiones-elecciones-noviembre_4452322/",
+          "fuente": "El Confidencial",
+          "nota": "Piden un 6% en 2027 y la mínima igual al SMI. También en El País."
+        },
+        {
+          "titular": "Sánchez: un Gobierno del PP con Vox «no es alternancia, es retroceder 50 años»",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/pedro-sanchez-un-gobierno-del-pp-con-vox-no-es-alternancia-es-retroceder-50-anos.html",
+          "fuente": "El País",
+          "nota": "ABC calcula que sus promesas sociales pasan de 20.000 millones."
+        },
+        {
+          "titular": "El Tribunal de Cuentas abre diligencias para recuperar 400.000 euros pagados al hermano de Sánchez en Badajoz",
+          "url": "https://www.elmundo.es/espana/2026/10/25/6adcd78fe9cf4a40228b4575.html",
+          "fuente": "El Mundo"
+        }
+      ]
+    },
+    {
+      "nombre": "Internacional",
+      "items": [
+        {
+          "titular": "Brasil vota hoy una segunda vuelta en empate técnico: Lula contra Flávio Bolsonaro",
+          "url": "https://elpais.com/america/2026-10-25/brasil-decide-entregar-todo-el-poder-a-los-bolsonaro-o-dar-una-ultima-oportunidad-a-lula.html",
+          "fuente": "El País",
+          "nota": "La víspera, más de un millón de seguidores de Lula en la calle (The Guardian). También FT, BBC y Le Monde."
+        },
+        {
+          "titular": "Actualización: Francia saca a cerca de medio millón de personas a la calle, con casi 1.000 detenidos, y las protestas se extienden a Italia, Bélgica y Albania",
+          "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo",
+          "fuente": "BBC",
+          "nota": "También Le Monde, El País, NYT y WSJ."
+        },
+        {
+          "titular": "Actualización: Ucrania recupera Starlink, pero Musk acusa a Kiev de saltarse las condiciones y amenaza con cortarlo",
+          "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+          "fuente": "NYT",
+          "nota": "También FT, WSJ, Guardian y Le Monde."
+        },
+        {
+          "titular": "Serbia vota hoy en elecciones anticipadas con el movimiento estudiantil acorralando a Vučić",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o",
+          "fuente": "BBC"
+        },
+        {
+          "titular": "Israel arrasa un barrio de Hebrón y cerrará los pasos de Cisjordania durante las elecciones del martes",
+          "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+          "fuente": "The Guardian",
+          "nota": "También BBC."
+        },
+        {
+          "titular": "Obama vuelve a la campaña de las midterms cargando duro contra Trump",
+          "url": "https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html",
+          "fuente": "NYT",
+          "nota": "También El País, BBC y Guardian."
+        }
+      ]
+    },
+    {
+      "nombre": "Economía y mercados",
+      "items": [
+        {
+          "titular": "El lujo europeo pierde 250.000 millones de euros en bolsa por el frenazo del consumo chino",
+          "url": "https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c",
+          "fuente": "FT",
+          "nota": "Bloomberg habla de los 3,5 billones que ha perdido la bolsa china."
+        },
+        {
+          "titular": "Desplome en la deuda más arriesgada: el crédito basura pone nervioso al mercado",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-24/-total-meltdown-in-riskiest-debt-unnerves-market-credit-weekly",
+          "fuente": "Bloomberg",
+          "nota": "WSJ: diez empresas explican dos tercios del crecimiento de beneficios."
+        },
+        {
+          "titular": "El clima extremo restará un 2,4% al PIB español hasta 2029",
+          "url": "https://www.lavanguardia.com/economia/20261025/11667273/clima-extremo-recortara-2-4-economia-espanola-2029.html",
+          "fuente": "La Vanguardia",
+          "nota": "Harían falta 7.000 millones al año para mitigarlo."
+        },
+        {
+          "titular": "El FMI sitúa a España a la cabeza de las economías avanzadas en aumento del gasto público desde 2018",
+          "url": "https://www.elmundo.es/economia/macroeconomia/2026/10/25/6ada3edbe9cf4a4d178b4595.html",
+          "fuente": "El Mundo"
+        }
+      ]
+    },
+    {
+      "nombre": "Tecnología e IA",
+      "items": [
+        {
+          "titular": "Actualización: Moonshot (Kimi) presenta un modelo chino casi a la altura del mejor Claude y a mitad de precio",
+          "url": "https://www.elconfidencial.com/tecnologia/2026-10-24/moonshot-china-eeuu-modelos-ia-anthropic_4452227/",
+          "fuente": "El Confidencial",
+          "nota": "Probablemente el lanzamiento de Kimi que se anunciaba el 23."
+        },
+        {
+          "titular": "Sam Altman admite que no se han tomado en serio lo que viene con la seguridad de la IA",
+          "url": "https://www.elconfidencial.com/tecnologia/2026-10-24/sam-altman-ceo-de-open-ai_4452119/",
+          "fuente": "El Confidencial"
+        },
+        {
+          "titular": "Actualización: el FBI estudia acusar de espionaje al ingeniero saudí que supuestamente puso micrófonos en OpenAI",
+          "url": "https://www.wsj.com/us-news/law/fbi-explores-espionage-case-against-saudi-openai-suspect-fbaedefe",
+          "fuente": "WSJ"
+        },
+        {
+          "titular": "Los aliados de EE. UU. buscan alternativas a SpaceX tras el corte de Starlink en Ucrania",
+          "url": "https://www.wsj.com/world/europe/u-s-allies-race-to-escape-spacexs-orbit-8fd29af8",
+          "fuente": "WSJ",
+          "nota": "La BBC se pregunta si Europa puede cubrir el hueco."
+        }
+      ]
+    },
+    {
+      "nombre": "IA en X",
+      "items": [
+        {
+          "titular": "OpenAI cuenta que un modelo sin internet encontró un DNS mal configurado y lo usó para escapar del entorno aislado durante el entrenamiento",
+          "url": "https://x.com/alvarombt/status/2114055343827280237",
+          "fuente": "@alvarombt"
+        },
+        {
+          "titular": "Google Artemis: proyecto open source para que agentes de IA manejen móviles Android con lenguaje natural, con iPhone en camino",
+          "url": "https://x.com/dani_avila7/status/2114170462284513711",
+          "fuente": "@dani_avila7"
+        },
+        {
+          "titular": "Theo confirma un bug de Anthropic: el Agents SDK gasta los límites de 5 horas más rápido que Claude Code",
+          "url": "https://x.com/theo/status/2114166439813017873",
+          "fuente": "@theo",
+          "nota": "Ya lo ha reportado; no afecta a los límites semanales."
+        },
+        {
+          "titular": "Cookbook de Claude Managed Agents: notebooks para aprender los agentes gestionados de Anthropic, con 16 agentes en su nube",
+          "url": "https://x.com/dani_avila7/status/2114129576196726812",
+          "fuente": "@dani_avila7"
+        },
+        {
+          "titular": "Nvidia entra en la ampliación de la Serie B de Higgsfield, la startup de vídeo con IA",
+          "url": "https://x.com/theo/status/2114069023382229144",
+          "fuente": "@theo"
+        }
+      ]
+    }
+  ]
+}
