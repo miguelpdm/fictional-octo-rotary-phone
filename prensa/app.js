@@ -194,12 +194,30 @@
     }
   }
 
+  function readThemePref() {
+    try {
+      return localStorage.getItem(THEME_KEY);
+    } catch {
+      return null;
+    }
+  }
+
+  function writeThemePref(value) {
+    try {
+      localStorage.setItem(THEME_KEY, value);
+    } catch {}
+  }
+
   function systemTheme() {
-    return window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
+    try {
+      return window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
+    } catch {
+      return "dark";
+    }
   }
 
   function currentTheme() {
-    const saved = localStorage.getItem(THEME_KEY);
+    const saved = readThemePref();
     if (saved === "light" || saved === "dark") return saved;
     const attr = document.documentElement.getAttribute("data-theme");
     if (attr === "light" || attr === "dark") return attr;
@@ -211,16 +229,16 @@
     document.documentElement.setAttribute("data-theme", next);
     if (els.themeColor) els.themeColor.setAttribute("content", next === "light" ? "#f3f5f8" : "#0b0d10");
     if (els.theme) {
-      const label = next === "light" ? "Modo oscuro" : "Modo claro";
+      const nextLabel = next === "light" ? "Modo noche" : "Modo día";
       els.theme.setAttribute("aria-pressed", next === "light" ? "true" : "false");
-      els.theme.setAttribute("aria-label", label);
-      els.theme.setAttribute("title", label);
+      els.theme.setAttribute("aria-label", nextLabel);
+      els.theme.setAttribute("title", nextLabel);
     }
   }
 
   function toggleTheme() {
     const next = currentTheme() === "light" ? "dark" : "light";
-    localStorage.setItem(THEME_KEY, next);
+    writeThemePref(next);
     applyTheme(next);
   }
 
@@ -228,7 +246,8 @@
   if (els.theme) els.theme.addEventListener("click", toggleTheme);
   const themeMq = window.matchMedia("(prefers-color-scheme: light)");
   const onSystemTheme = () => {
-    if (localStorage.getItem(THEME_KEY) === "light" || localStorage.getItem(THEME_KEY) === "dark") return;
+    const saved = readThemePref();
+    if (saved === "light" || saved === "dark") return;
     applyTheme(systemTheme());
   };
   if (themeMq.addEventListener) themeMq.addEventListener("change", onSystemTheme);

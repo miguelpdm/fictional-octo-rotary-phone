@@ -13,12 +13,13 @@
   <link rel="icon" href="./favicon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="./apple-touch-icon.png" sizes="180x180">
   <link rel="manifest" href="./manifest.webmanifest">
-  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./styles.css?v=20261025">
   <script>
     (function () {
       try {
         var key = "prensa-theme";
-        var saved = localStorage.getItem(key);
+        var saved = null;
+        try { saved = localStorage.getItem(key); } catch (err) {}
         var theme = saved === "light" || saved === "dark"
           ? saved
           : (window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark");
@@ -36,10 +37,15 @@
     <header>
       <div class="title-row">
         <h1>📰 Prensa</h1>
-        <div class="header-actions">
-          <button class="theme-btn" id="themeBtn" type="button" aria-label="Modo claro" title="Modo claro">
-            <span class="icon-sun" aria-hidden="true">☀️</span>
-            <span class="icon-moon" aria-hidden="true">🌙</span>
+        <div class="refresh-cluster" role="group" aria-label="Acciones">
+          <button class="view-btn theme-btn" id="themeBtn" type="button" aria-label="Modo claro" title="Modo claro">
+            <svg class="icon-moon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <path d="M21 14.5A8.5 8.5 0 0 1 9.5 3 7 7 0 1 0 21 14.5z"/>
+            </svg>
+            <svg class="icon-sun" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <circle cx="12" cy="12" r="4.2"/>
+              <path d="M12 3v1.8M12 19.2V21M4.9 4.9l1.3 1.3M17.8 17.8l1.3 1.3M3 12h1.8M19.2 12H21M4.9 19.1l1.3-1.3M17.8 6.2l1.3-1.3"/>
+            </svg>
           </button>
           <a class="site-link" href="../cartera/">💼 Cartera</a>
         </div>
@@ -60,6 +66,6 @@
     <p class="state" id="status" hidden></p>
     <div id="sections" class="sections"></div>
   </main>
-  <script src="./app.js"></script>
+  <script src="./app.js?v=20261025"></script>
 </body>
 </html>
