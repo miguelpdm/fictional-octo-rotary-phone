@@ -112,7 +112,13 @@
     theme: document.getElementById("themeBtn"),
     themeGate: document.getElementById("themeBtnGate"),
     themeColor: document.querySelector('meta[name="theme-color"]'),
-    logout: document.getElementById("logoutBtn")
+    logout: document.getElementById("logoutBtn"),
+    lookupInput: document.getElementById("lookupInput"),
+    lookupSuggest: document.getElementById("lookupSuggest"),
+    lookupHint: document.getElementById("lookupHint"),
+    lookupSheet: document.getElementById("lookupSheet"),
+    lookupBody: document.getElementById("lookupBody"),
+    lookupClose: document.getElementById("lookupClose")
   };
 
   const nf = (value, digits = 2) => new Intl.NumberFormat("es-ES", {
@@ -434,7 +440,7 @@
     return null;
   }
 
-  function fromYahooChart(result) {
+  function fromYahooChart(result, opts = {}) {
     const meta = result?.meta;
     if (!meta || meta.regularMarketPrice == null) return null;
     const timestamps = result.timestamp || [];
@@ -472,7 +478,8 @@
       volume: meta.regularMarketVolume,
       weekHigh: meta.fiftyTwoWeekHigh,
       weekLow: meta.fiftyTwoWeekLow,
-      spark: regular.length ? regular : spark,
+      spark: opts.keepAll ? spark : (regular.length ? regular : spark),
+      name: meta.shortName || meta.longName || meta.symbol,
       session: yahooSession(meta),
       updateMode: "yahoo",
       source: "yahoo",
@@ -523,10 +530,30 @@
   }
 
   async function fetchYahooChart5m(symbol, range = "1d", includePrePost = false) {
-    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?interval=5m&range=${encodeURIComponent(range)}&includePrePost=${includePrePost ? "true" : "false"}`;
-    const payload = await fetchYahooViaJina(url);
+    return fetchYahooChart(symbol, { range, interval: "5m", includePrePost });
+  }
+
+  async function fetchYahooChart(symbol, { range = "1d", interval = "5m", includePrePost = false, keepAll = false } = {}) {
+    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?interval=${encodeURIComponent(interval)}&range=${encodeURIComponent(range)}&includePrePost=${includePrePost ? "true" : "false"}`;
+    const payload = await fetchYahooViaJina(url, 18000);
     const result = payload.chart?.result?.[0];
-    return fromYahooChart(result);
+    return fromYahooChart(result, { keepAll });
+  }
+
+  async function fetchYahooSearch(query) {
+    const q = encodeURIComponent(query);
+    const urls = [
+      `https://query1.finance.yahoo.com/v1/finance/search?q=${q}&quotesCount=8&newsCount=0&listsCount=0`,
+      `https://query2.finance.yahoo.com/v1/finance/search?q=${q}&quotesCount=8&newsCount=0&listsCount=0`
+    ];
+    for (const url of urls) {
+      try {
+        const payload = await fetchYahooViaJina(url, 10000);
+        const quotes = (payload.quotes || []).filter((item) => item && item.symbol);
+        if (quotes.length) return quotes;
+      } catch {}
+    }
+    return [];
   }
 
   async function enrichUsCloseSparks(map, positions) {
@@ -1062,7 +1089,7 @@
     return best;
   }
 
-  function chartHtml(points, previousClose, wide, currency) {
+  function chartHtml(points, previousClose, wide, currency, tipMode) {
     const samples = sparkSamples(points);
     const w = wide ? 320 : 72;
     const h = wide ? 140 : 36;
@@ -1103,7 +1130,7 @@
         </g>
         <line x1="0" x2="${w}" y1="${yPrev}" y2="${yPrev}" stroke="#c5cad3" stroke-dasharray="3 3" stroke-width="1" opacity="0.85"></line>`;
     const payload = encodeURIComponent(JSON.stringify(samples));
-    return `<div class="${klass}" role="img" aria-label="Gráfico intradía. Mantén pulsado o arrastra para ver precio y hora." data-wide="${wide ? 1 : 0}" data-ccy="${currency || ""}" data-prev="${previousClose ?? ""}" data-spark="${payload}">
+    return `<div class="${klass}" role="img" aria-label="Gráfico. Mantén pulsado o arrastra para ver precio y hora." data-wide="${wide ? 1 : 0}" data-ccy="${currency || ""}" data-prev="${previousClose ?? ""}" data-tip="${tipMode || "time"}" data-spark="${payload}">
       <svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">
         ${defs}
         ${split}
@@ -1741,6 +1768,200 @@
     renderAll();
   });
 
+  const LOOKUP_RANGES = [
+    { id: "1d", label: "1D", range: "1d", interval: "5m" },
+    { id: "5d", label: "1S", range: "5d", interval: "15m" },
+    { id: "1mo", label: "1M", range: "1mo", interval: "1d" },
+    { id: "1y", label: "1A", range: "1y", interval: "1d" },
+    { id: "5y", label: "5A", range: "5y", interval: "1wk" }
+  ];
+
+  let lookupTimer = null;
+  let lookupSeq = 0;
+  let lookupPick = null;
+  let lookupRange = "1d";
+
+  function isCryptoLookup(pick) {
+    const type = String(pick?.quoteType || "").toUpperCase();
+    const symbol = String(pick?.symbol || "").toUpperCase();
+    if (type.includes("CRYPTO")) return true;
+    return symbol === "BTC-USD" || symbol.endsWith("-USD") && type === "";
+  }
+
+  function hideLookupSuggest() {
+    if (!els.lookupSuggest) return;
+    els.lookupSuggest.hidden = true;
+    els.lookupSuggest.innerHTML = "";
+    if (els.lookupInput) els.lookupInput.setAttribute("aria-expanded", "false");
+  }
+
+  function renderLookupSuggest(quotes) {
+    if (!els.lookupSuggest) return;
+    if (!quotes.length) {
+      hideLookupSuggest();
+      return;
+    }
+    els.lookupSuggest.hidden = false;
+    els.lookupInput.setAttribute("aria-expanded", "true");
+    els.lookupSuggest.innerHTML = quotes.slice(0, 8).map((item) => {
+      const name = item.shortname || item.longname || item.exchDisp || "";
+      return `<li role="none"><button type="button" role="option" data-symbol="${escapeHtml(item.symbol)}" data-name="${escapeHtml(item.shortname || item.longname || "")}" data-type="${escapeHtml(item.quoteType || "")}">
+        <span class="lookup-sym">${escapeHtml(item.symbol)}</span>
+        ${name ? `<span class="lookup-name">${escapeHtml(name)}</span>` : ""}
+      </button></li>`;
+    }).join("");
+  }
+
+  async function runLookupSearch(query) {
+    const q = String(query || "").trim();
+    if (q.length < 1) {
+      hideLookupSuggest();
+      return;
+    }
+    const seq = ++lookupSeq;
+    try {
+      const quotes = await fetchYahooSearch(q);
+      if (seq !== lookupSeq) return;
+      renderLookupSuggest(quotes);
+      if (!quotes.length && els.lookupHint) {
+        els.lookupHint.textContent = "Sin sugerencias. Escribe el símbolo exacto y pulsa Intro.";
+      }
+    } catch {
+      if (seq !== lookupSeq) return;
+      hideLookupSuggest();
+      if (els.lookupHint) {
+        els.lookupHint.textContent = "La búsqueda no respondió. Escribe el símbolo exacto y pulsa Intro.";
+      }
+    }
+  }
+
+  function closeLookupSheet() {
+    if (!els.lookupSheet) return;
+    els.lookupSheet.hidden = true;
+    document.body.style.overflow = "";
+    lookupPick = null;
+  }
+
+  function lookupSpec(rangeId, pick) {
+    const spec = LOOKUP_RANGES.find((item) => item.id === rangeId) || LOOKUP_RANGES[0];
+    const crypto = isCryptoLookup(pick);
+    return {
+      ...spec,
+      includePrePost: crypto && spec.id === "1d",
+      keepAll: spec.id !== "1d" || crypto
+    };
+  }
+
+  function lookupMetrics(quoted, rangeId) {
+    const spark = quoted?.spark || [];
+    const last = spark.length ? spark[spark.length - 1].v : quoted?.price;
+    if (rangeId === "1d") {
+      return { price: quoted?.price ?? last, changePct: quoted?.changePct, previousClose: quoted?.previousClose };
+    }
+    const first = spark[0]?.v;
+    const changePct = first && last != null ? ((last - first) / first) * 100 : null;
+    return { price: last, changePct, previousClose: first };
+  }
+
+  function renderLookupCard(pick, quoted, rangeId, error) {
+    if (!els.lookupBody) return;
+    const name = pick.name || quoted?.name || pick.symbol;
+    const metrics = quoted ? lookupMetrics(quoted, rangeId) : { price: null, changePct: null, previousClose: null };
+    const klass = dirClass(metrics.changePct || 0);
+    const ranges = LOOKUP_RANGES.map((item) => (
+      `<button class="chip ${rangeId === item.id ? "active" : ""}" type="button" data-lookup-range="${item.id}">${item.label}</button>`
+    )).join("");
+    const body = error
+      ? `<p class="lookup-error">${escapeHtml(error)}</p>`
+      : `${chartHtml(quoted?.spark || [], metrics.previousClose, true, quoted?.currency || "", "full")}
+        <p class="note">${quoted?.exchange || ""} · ${quoted?.currency || ""}</p>`;
+    els.lookupBody.innerHTML = `
+      <div class="lookup-head">
+        <div class="sym" id="lookupTitle">${escapeHtml(pick.symbol)}</div>
+        <div class="name">${escapeHtml(name)}</div>
+      </div>
+      <div class="lookup-price-row">
+        <div class="price">${metrics.price == null ? "n/d" : `${nf(metrics.price, priceDigits(metrics.price))}<span class="ccy">${escapeHtml(quoted?.currency || "")}</span>`}</div>
+        <div class="badge ${klass}">${signedPct(metrics.changePct)}</div>
+      </div>
+      <div class="lookup-ranges" role="group" aria-label="Rango del gráfico">${ranges}</div>
+      ${body}
+    `;
+  }
+
+  async function openLookup(pick) {
+    if (!pick?.symbol || !els.lookupSheet) return;
+    lookupPick = {
+      symbol: String(pick.symbol).trim(),
+      name: pick.name || pick.shortname || pick.longname || "",
+      quoteType: pick.quoteType || pick.type || ""
+    };
+    lookupRange = "1d";
+    hideLookupSuggest();
+    els.lookupSheet.hidden = false;
+    document.body.style.overflow = "hidden";
+    await loadLookupRange(lookupRange);
+  }
+
+  async function loadLookupRange(rangeId) {
+    if (!lookupPick) return;
+    lookupRange = rangeId;
+    const spec = lookupSpec(rangeId, lookupPick);
+    renderLookupCard(lookupPick, null, rangeId, "");
+    const loading = document.createElement("p");
+    loading.className = "note";
+    loading.textContent = "Cargando…";
+    const ranges = els.lookupBody.querySelector(".lookup-ranges");
+    if (ranges) ranges.insertAdjacentElement("afterend", loading);
+    try {
+      const quoted = await fetchYahooChart(lookupPick.symbol, spec);
+      if (!quoted) throw new Error("Sin datos");
+      if (!lookupPick.name && quoted.name) lookupPick.name = quoted.name;
+      renderLookupCard(lookupPick, quoted, rangeId, "");
+    } catch (error) {
+      renderLookupCard(lookupPick, null, rangeId, `No se pudo cargar ${lookupPick.symbol}. ${error.message || ""}`);
+    }
+  }
+
+  if (els.lookupInput) {
+    els.lookupInput.addEventListener("input", () => {
+      const q = els.lookupInput.value;
+      clearTimeout(lookupTimer);
+      lookupTimer = setTimeout(() => runLookupSearch(q), 280);
+    });
+    els.lookupInput.addEventListener("keydown", (event) => {
+      if (event.key !== "Enter") return;
+      event.preventDefault();
+      const first = els.lookupSuggest?.querySelector("[data-symbol]");
+      const symbol = first?.dataset.symbol || els.lookupInput.value.trim();
+      if (symbol) openLookup({ symbol, name: first?.dataset.name || "", quoteType: first?.dataset.type || "" });
+    });
+  }
+
+  if (els.lookupSuggest) {
+    els.lookupSuggest.addEventListener("click", (event) => {
+      const btn = event.target.closest("[data-symbol]");
+      if (!btn) return;
+      openLookup({ symbol: btn.dataset.symbol, name: btn.dataset.name, quoteType: btn.dataset.type });
+    });
+  }
+
+  if (els.lookupClose) els.lookupClose.addEventListener("click", closeLookupSheet);
+  if (els.lookupSheet) {
+    els.lookupSheet.addEventListener("click", (event) => {
+      if (event.target === els.lookupSheet) closeLookupSheet();
+    });
+    els.lookupBody?.addEventListener("click", (event) => {
+      const btn = event.target.closest("[data-lookup-range]");
+      if (!btn) return;
+      loadLookupRange(btn.dataset.lookupRange);
+    });
+  }
+
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && els.lookupSheet && !els.lookupSheet.hidden) closeLookupSheet();
+  });
+
   let chartPointer = null;
   let ignoreRowClick = false;
 
@@ -1788,7 +2009,10 @@
     vLine.setAttribute("x2", x);
     dot.setAttribute("cx", x);
     dot.setAttribute("cy", y);
-    const time = dt(new Date(pt.t * 1000), { hour: "2-digit", minute: "2-digit", hourCycle: "h23" });
+    const tipOpts = chart.dataset.tip === "full"
+      ? { day: "2-digit", month: "short", hour: "2-digit", minute: "2-digit", hourCycle: "h23" }
+      : { hour: "2-digit", minute: "2-digit", hourCycle: "h23" };
+    const time = dt(new Date(pt.t * 1000), tipOpts);
     const ccy = chart.dataset.ccy || "";
     tip.hidden = false;
     tip.replaceChildren();
@@ -1836,6 +2060,12 @@
   els.list.addEventListener("pointermove", onChartPointerMove);
   els.list.addEventListener("pointerup", onChartPointerUp);
   els.list.addEventListener("pointercancel", onChartPointerUp);
+  if (els.lookupBody) {
+    els.lookupBody.addEventListener("pointerdown", onChartPointerDown);
+    els.lookupBody.addEventListener("pointermove", onChartPointerMove);
+    els.lookupBody.addEventListener("pointerup", onChartPointerUp);
+    els.lookupBody.addEventListener("pointercancel", onChartPointerUp);
+  }
 
   els.list.addEventListener("click", (event) => {
     if (denseView) return;
