@@ -47,6 +47,13 @@
   ];
 
   const CATEGORY_IDS = ["quality", "value", "growth", "china", "crypto", "gold", "silver", "energy"];
+  const CHART_RANGES = [
+    { id: "1d", label: "1D", range: "1d", interval: "5m" },
+    { id: "5d", label: "1S", range: "5d", interval: "15m" },
+    { id: "1mo", label: "1M", range: "1mo", interval: "1d" },
+    { id: "1y", label: "1A", range: "1y", interval: "1d" },
+    { id: "5y", label: "5A", range: "5y", interval: "1wk" }
+  ];
 
   const SESSION_LABEL = {
     market: "Abierto",
@@ -81,6 +88,8 @@
   let started = false;
   let chartUid = 0;
   let sparkCache = { at: 0, map: {} };
+  const rowChartRange = new Map();
+  const rowRangeData = new Map();
   const SPARK_TTL_MS = 5 * 60 * 1000;
   const SPARK_TIMEOUT_MS = 12000;
 
@@ -538,6 +547,120 @@
     const payload = await fetchYahooViaJina(url, 18000);
     const result = payload.chart?.result?.[0];
     return fromYahooChart(result, { keepAll });
+  }
+
+  function isCryptoQuote(row) {
+    if (row?.alwaysOpen || row?.utcOpenBaseline) return true;
+    const type = String(row?.quoteType || "").toUpperCase();
+    const symbol = String(row?.symbol || row?.yahoo || "").toUpperCase();
+    if (type.includes("CRYPTO")) return true;
+    return symbol === "BTC-USD" || (symbol.endsWith("-USD") && type === "");
+  }
+
+  function chartRangeSpec(rangeId, row) {
+    const spec = CHART_RANGES.find((item) => item.id === rangeId) || CHART_RANGES[0];
+    const crypto = isCryptoQuote(row);
+    return {
+      ...spec,
+      includePrePost: crypto && spec.id === "1d",
+      keepAll: spec.id !== "1d" || crypto
+    };
+  }
+
+  function rangeMetrics(quoted, rangeId) {
+    const spark = quoted?.spark || [];
+    const last = spark.length ? spark[spark.length - 1].v : quoted?.price;
+    if (rangeId === "1d") {
+      return { price: quoted?.price ?? last, changePct: quoted?.changePct, previousClose: quoted?.previousClose };
+    }
+    const first = spark[0]?.v;
+    const changePct = first && last != null ? ((last - first) / first) * 100 : null;
+    return { price: last, changePct, previousClose: first };
+  }
+
+  function rangeChipsHtml(activeId, attr = "data-chart-range") {
+    return `<div class="lookup-ranges chart-ranges" role="group" aria-label="Rango del gráfico">${
+      CHART_RANGES.map((item) => (
+        `<button class="chip ${activeId === item.id ? "active" : ""}" type="button" ${attr}="${item.id}">${item.label}</button>`
+      )).join("")
+    }</div>`;
+  }
+
+  function chartRangeOf(symbol) {
+    const id = rowChartRange.get(symbol);
+    return CHART_RANGES.some((item) => item.id === id) ? id : "1d";
+  }
+
+  function rangeTipMode(rangeId) {
+    if (rangeId === "1d") return "time";
+    if (rangeId === "5d") return "full";
+    return "date";
+  }
+
+  function rowChartView(row) {
+    const range = chartRangeOf(row.symbol);
+    if (range === "1d") {
+      return {
+        range,
+        spark: row.spark,
+        previousClose: row.previousClose,
+        changePct: row.changePct,
+        tip: "time",
+        loading: false
+      };
+    }
+    const hit = rowRangeData.get(`${row.symbol}:${range}`);
+    if (hit?.spark?.length) {
+      const metrics = rangeMetrics({ spark: hit.spark, price: row.price }, range);
+      return {
+        range,
+        spark: hit.spark,
+        previousClose: metrics.previousClose,
+        changePct: metrics.changePct,
+        tip: rangeTipMode(range),
+        loading: false
+      };
+    }
+    return { range, spark: [], previousClose: null, changePct: null, tip: rangeTipMode(range), loading: true };
+  }
+
+  function rangePctHtml(view) {
+    if (view.loading) return '<div class="range-pct flat">…</div>';
+    return `<div class="range-pct ${dirClass(view.changePct || 0)}">${signedPct(view.changePct)}</div>`;
+  }
+
+  async function ensureRowRange(symbol, rangeId) {
+    if (rangeId === "1d") return;
+    const key = `${symbol}:${rangeId}`;
+    const hit = rowRangeData.get(key);
+    const ttl = rangeId === "5d" ? 5 * 60 * 1000 : 30 * 60 * 1000;
+    if (hit?.spark?.length && Date.now() - hit.at < ttl) return;
+    const row = rows.find((item) => item.symbol === symbol);
+    if (!row || row.missing) return;
+    const quoted = await fetchYahooChart(row.yahoo || row.symbol, chartRangeSpec(rangeId, row));
+    if (quoted?.spark?.length >= 2) {
+      rowRangeData.set(key, { spark: quoted.spark, at: Date.now() });
+    }
+  }
+
+  async function restoreRowCharts() {
+    const jobs = rows
+      .filter((row) => !row.missing && chartRangeOf(row.symbol) !== "1d")
+      .map((row) => ensureRowRange(row.symbol, chartRangeOf(row.symbol)).catch(() => {}));
+    if (jobs.length) await Promise.all(jobs);
+  }
+
+  async function setRowChartRange(symbol, rangeId) {
+    if (!CHART_RANGES.some((item) => item.id === rangeId)) return;
+    rowChartRange.set(symbol, rangeId);
+    if (rangeId !== "1d") {
+      try {
+        await ensureRowRange(symbol, rangeId);
+      } catch (error) {
+        console.warn("Rango de gráfica falló", symbol, rangeId, error);
+      }
+    }
+    renderList();
   }
 
   async function fetchYahooSearch(query) {
@@ -1315,6 +1438,7 @@
           </article>`;
         }
         const klass = dirClass(row.changePct || 0);
+        const view = rowChartView(row);
         return `<article class="row" data-symbol="${row.symbol}">
           <div class="row-main">
             <div class="tile-top">
@@ -1326,7 +1450,11 @@
               <div class="price">${nf(row.price, priceDigits(row.price))}</div>
             </div>
             <div class="tile-bottom">
-              ${sparkTiny(row.spark, row.previousClose)}
+              <div class="chart-col chart-col-dense">
+                ${rangeChipsHtml(view.range)}
+                ${sparkTiny(view.spark, view.previousClose)}
+                ${rangePctHtml(view)}
+              </div>
               <div class="badge ${klass}">${signedPct(row.changePct)}</div>
             </div>
           </div>
@@ -1350,10 +1478,15 @@
       }
 
       const klass = dirClass(row.changePct || 0);
+      const view = rowChartView(row);
       const delayed = String(row.updateMode || "").includes("delayed");
       const volTxt = row.relVolume != null ? `Vol. ${nf(row.relVolume, 2)}× media 10d` : (row.volume != null ? `Vol. ${nf(row.volume, 0)}` : "");
       const details = `
-        ${chartHtml(row.spark, row.previousClose, true, row.currency)}
+        <div class="chart-col chart-col-wide">
+          ${rangeChipsHtml(view.range)}
+          ${chartHtml(view.spark, view.previousClose, true, row.currency, view.tip)}
+          ${rangePctHtml(view)}
+        </div>
         <div class="stats">
           ${rangeBar(row.dayLow, row.dayHigh, row.price, nf(row.dayLow ?? 0, priceDigits(row.dayLow || 0)), nf(row.dayHigh ?? 0, priceDigits(row.dayHigh || 0)), "Rango del día")}
           ${rangeBar(row.weekLow, row.weekHigh, row.price, nf(row.weekLow ?? 0, priceDigits(row.weekLow || 0)), nf(row.weekHigh ?? 0, priceDigits(row.weekHigh || 0)), "52 semanas")}
@@ -1373,7 +1506,11 @@
             ${benchHtml(row)}
             <div class="name">${row.name}</div>
           </div>
-          ${chartHtml(row.spark, row.previousClose, false, row.currency)}
+          <div class="chart-col">
+            ${rangeChipsHtml(view.range)}
+            ${chartHtml(view.spark, view.previousClose, false, row.currency, view.tip)}
+            ${rangePctHtml(view)}
+          </div>
           <div class="right">
             <div class="price">${nf(row.price, priceDigits(row.price))}<span class="ccy">${row.currency || ""}</span></div>
             <div class="badge ${klass}">${signedPct(row.changePct)}</div>
@@ -1647,6 +1784,7 @@
 
       applySparkNote(delayBase());
       renderSourceButtons();
+      await restoreRowCharts();
       renderAll();
       const benchP = refreshBenchmarks(yahooMap, tvMap);
 
@@ -1663,6 +1801,7 @@
           rows = await enrichUsExtended(rows);
         }
         applySparkNote(delayBase());
+        await restoreRowCharts();
         renderAll();
       }
       await benchP;
@@ -1768,25 +1907,10 @@
     renderAll();
   });
 
-  const LOOKUP_RANGES = [
-    { id: "1d", label: "1D", range: "1d", interval: "5m" },
-    { id: "5d", label: "1S", range: "5d", interval: "15m" },
-    { id: "1mo", label: "1M", range: "1mo", interval: "1d" },
-    { id: "1y", label: "1A", range: "1y", interval: "1d" },
-    { id: "5y", label: "5A", range: "5y", interval: "1wk" }
-  ];
-
   let lookupTimer = null;
   let lookupSeq = 0;
   let lookupPick = null;
   let lookupRange = "1d";
-
-  function isCryptoLookup(pick) {
-    const type = String(pick?.quoteType || "").toUpperCase();
-    const symbol = String(pick?.symbol || "").toUpperCase();
-    if (type.includes("CRYPTO")) return true;
-    return symbol === "BTC-USD" || symbol.endsWith("-USD") && type === "";
-  }
 
   function hideLookupSuggest() {
     if (!els.lookupSuggest) return;
@@ -1842,38 +1966,14 @@
     lookupPick = null;
   }
 
-  function lookupSpec(rangeId, pick) {
-    const spec = LOOKUP_RANGES.find((item) => item.id === rangeId) || LOOKUP_RANGES[0];
-    const crypto = isCryptoLookup(pick);
-    return {
-      ...spec,
-      includePrePost: crypto && spec.id === "1d",
-      keepAll: spec.id !== "1d" || crypto
-    };
-  }
-
-  function lookupMetrics(quoted, rangeId) {
-    const spark = quoted?.spark || [];
-    const last = spark.length ? spark[spark.length - 1].v : quoted?.price;
-    if (rangeId === "1d") {
-      return { price: quoted?.price ?? last, changePct: quoted?.changePct, previousClose: quoted?.previousClose };
-    }
-    const first = spark[0]?.v;
-    const changePct = first && last != null ? ((last - first) / first) * 100 : null;
-    return { price: last, changePct, previousClose: first };
-  }
-
   function renderLookupCard(pick, quoted, rangeId, error) {
     if (!els.lookupBody) return;
     const name = pick.name || quoted?.name || pick.symbol;
-    const metrics = quoted ? lookupMetrics(quoted, rangeId) : { price: null, changePct: null, previousClose: null };
+    const metrics = quoted ? rangeMetrics(quoted, rangeId) : { price: null, changePct: null, previousClose: null };
     const klass = dirClass(metrics.changePct || 0);
-    const ranges = LOOKUP_RANGES.map((item) => (
-      `<button class="chip ${rangeId === item.id ? "active" : ""}" type="button" data-lookup-range="${item.id}">${item.label}</button>`
-    )).join("");
     const body = error
       ? `<p class="lookup-error">${escapeHtml(error)}</p>`
-      : `${chartHtml(quoted?.spark || [], metrics.previousClose, true, quoted?.currency || "", "full")}
+      : `${chartHtml(quoted?.spark || [], metrics.previousClose, true, quoted?.currency || "", rangeTipMode(rangeId))}
         <p class="note">${quoted?.exchange || ""} · ${quoted?.currency || ""}</p>`;
     els.lookupBody.innerHTML = `
       <div class="lookup-head">
@@ -1884,7 +1984,7 @@
         <div class="price">${metrics.price == null ? "n/d" : `${nf(metrics.price, priceDigits(metrics.price))}<span class="ccy">${escapeHtml(quoted?.currency || "")}</span>`}</div>
         <div class="badge ${klass}">${signedPct(metrics.changePct)}</div>
       </div>
-      <div class="lookup-ranges" role="group" aria-label="Rango del gráfico">${ranges}</div>
+      ${rangeChipsHtml(rangeId, "data-lookup-range")}
       ${body}
     `;
   }
@@ -1906,7 +2006,7 @@
   async function loadLookupRange(rangeId) {
     if (!lookupPick) return;
     lookupRange = rangeId;
-    const spec = lookupSpec(rangeId, lookupPick);
+    const spec = chartRangeSpec(rangeId, lookupPick);
     renderLookupCard(lookupPick, null, rangeId, "");
     const loading = document.createElement("p");
     loading.className = "note";
@@ -2011,7 +2111,9 @@
     dot.setAttribute("cy", y);
     const tipOpts = chart.dataset.tip === "full"
       ? { day: "2-digit", month: "short", hour: "2-digit", minute: "2-digit", hourCycle: "h23" }
-      : { hour: "2-digit", minute: "2-digit", hourCycle: "h23" };
+      : chart.dataset.tip === "date"
+        ? { day: "2-digit", month: "short", year: "2-digit" }
+        : { hour: "2-digit", minute: "2-digit", hourCycle: "h23" };
     const time = dt(new Date(pt.t * 1000), tipOpts);
     const ccy = chart.dataset.ccy || "";
     tip.hidden = false;
@@ -2068,6 +2170,14 @@
   }
 
   els.list.addEventListener("click", (event) => {
+    const rangeBtn = event.target.closest("[data-chart-range]");
+    if (rangeBtn) {
+      event.preventDefault();
+      event.stopPropagation();
+      const article = rangeBtn.closest("[data-symbol]");
+      if (article) setRowChartRange(article.dataset.symbol, rangeBtn.dataset.chartRange);
+      return;
+    }
     if (denseView) return;
     if (event.target.closest(".chart")) {
       ignoreRowClick = false;

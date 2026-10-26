@@ -583,10 +583,23 @@ html:not([data-theme]) .theme-btn .icon-sun { display: none; }
 
 .app.dense .tile-bottom {
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   justify-content: space-between;
   gap: 0.2rem;
 }
+
+.app.dense .chart-col-dense {
+  flex: 1;
+  min-width: 0;
+}
+
+.app.dense .chart-ranges .chip {
+  min-height: 1.45rem;
+  padding: 0.1rem 0.28rem;
+  font-size: 0.58rem;
+}
+
+.app.dense .range-pct { font-size: 0.58rem; }
 
 .app.dense .chart-tiny {
   width: 42px;
@@ -622,11 +635,44 @@ html:not([data-theme]) .theme-btn .icon-sun { display: none; }
 
 .row-main {
   display: grid;
-  grid-template-columns: minmax(0, 1.15fr) 72px minmax(5.6rem, auto);
+  grid-template-columns: minmax(0, 1.15fr) minmax(5.6rem, 7.2rem) minmax(5.6rem, auto);
   gap: 0.45rem;
   align-items: center;
   cursor: pointer;
 }
+
+.chart-col {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.22rem;
+  min-width: 0;
+}
+
+.chart-col .chart-mini { width: 100%; }
+
+.chart-col-wide { margin-bottom: 0.35rem; }
+
+.chart-ranges {
+  margin-bottom: 0;
+  gap: 0.2rem;
+}
+
+.chart-ranges .chip {
+  min-height: 1.7rem;
+  padding: 0.18rem 0.42rem;
+  font-size: 0.68rem;
+}
+
+.range-pct {
+  font-size: 0.68rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.range-pct.up { color: var(--green); }
+.range-pct.down { color: var(--red); }
+.range-pct.flat { color: var(--muted); }
 
 .sym {
   font-weight: 750;
