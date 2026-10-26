@@ -57,12 +57,22 @@ No subas JSON de prueba. Si no hay ediciones, deja `index.json` en `[]`.
 
 Si una sección no viene en el JSON, no se muestra. Si llega un nombre extra, va al final.
 
+## Retención (últimos 7 días)
+
+El archivo solo guarda **los últimos 7 días**. Al añadir una edición con fecha `F`:
+
+1. Borra todo `data/prensa/AAAA-MM-DD.json` cuya fecha sea **anterior a `F − 6 días`**.
+2. Quita esas fechas de `data/prensa/index.json`.
+
+Ejemplo: al añadir `2026-10-26` se conservan desde `2026-10-20` (incluido) y se borra `2026-10-19` y anteriores. Si no hay nada más viejo que esa cota, no se borra nada.
+
 ## Cómo añadir una edición
 
 1. Crea `data/prensa/AAAA-MM-DD.json` con la fecha del día y las secciones.
 2. Añade `"AAAA-MM-DD"` **al principio** de `data/prensa/index.json` (más reciente primero).
-3. Comprueba comas del JSON (sin coma final).
-4. Recarga `/prensa/` o abre `/prensa/?d=AAAA-MM-DD`.
+3. Aplica la retención de 7 días (arriba).
+4. Comprueba comas del JSON (sin coma final).
+5. Recarga `/prensa/` o abre `/prensa/?d=AAAA-MM-DD`.
 
 Ejemplo de índice con dos días:
 
