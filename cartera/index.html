@@ -13,7 +13,7 @@
   <link rel="icon" href="./favicon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="./apple-touch-icon.png" sizes="180x180">
   <link rel="manifest" href="./manifest.webmanifest">
-  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./styles.css?v=20261026">
   <script>
     (function () {
       try {
@@ -120,6 +120,12 @@
     </section>
 
     <footer>
+      <div class="lookup" id="lookup">
+        <label class="lookup-label" for="lookupInput">Buscar acción</label>
+        <input id="lookupInput" class="lookup-input" type="search" enterkeyhint="search" autocomplete="off" autocorrect="off" spellcheck="false" placeholder="Ticker o nombre (p. ej. AAPL)" aria-autocomplete="list" aria-controls="lookupSuggest" aria-expanded="false">
+        <ul class="lookup-suggest" id="lookupSuggest" role="listbox" hidden></ul>
+        <p class="lookup-hint" id="lookupHint">Sugerencias vía Yahoo. Si fallan, escribe el símbolo y pulsa Intro.</p>
+      </div>
       <div class="source-cluster" role="group" aria-label="Fuente de cotizaciones">
         <button type="button" class="source-btn" data-source="tv">TradingView</button>
         <button type="button" class="source-btn" data-source="yahoo">Yahoo</button>
@@ -129,6 +135,12 @@
       <button type="button" class="logout" id="logoutBtn">Cerrar sesión</button>
     </footer>
   </div>
-  <script src="./app.js"></script>
+  <div class="lookup-sheet" id="lookupSheet" hidden>
+    <div class="lookup-card" role="dialog" aria-modal="true" aria-labelledby="lookupTitle">
+      <button type="button" class="lookup-close" id="lookupClose" aria-label="Cerrar">✕</button>
+      <div id="lookupBody"></div>
+    </div>
+  </div>
+  <script src="./app.js?v=20261026"></script>
 </body>
 </html>
