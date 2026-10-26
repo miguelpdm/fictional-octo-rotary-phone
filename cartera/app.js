@@ -51,6 +51,8 @@
     { id: "1d", label: "1D", range: "1d", interval: "5m" },
     { id: "5d", label: "1S", range: "5d", interval: "15m" },
     { id: "1mo", label: "1M", range: "1mo", interval: "1d" },
+    { id: "3mo", label: "3M", range: "3mo", interval: "1d" },
+    { id: "6mo", label: "6M", range: "6mo", interval: "1d" },
     { id: "1y", label: "1A", range: "1y", interval: "1d" },
     { id: "5y", label: "5A", range: "5y", interval: "1wk" }
   ];
