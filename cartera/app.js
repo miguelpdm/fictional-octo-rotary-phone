@@ -643,9 +643,9 @@
     }
   }
 
-  async function restoreRowCharts() {
+  async function restoreOpenRowCharts() {
     const jobs = rows
-      .filter((row) => !row.missing && chartRangeOf(row.symbol) !== "1d")
+      .filter((row) => !row.missing && expanded.has(row.symbol) && chartRangeOf(row.symbol) !== "1d")
       .map((row) => ensureRowRange(row.symbol, chartRangeOf(row.symbol)).catch(() => {}));
     if (jobs.length) await Promise.all(jobs);
   }
@@ -1438,7 +1438,6 @@
           </article>`;
         }
         const klass = dirClass(row.changePct || 0);
-        const view = rowChartView(row);
         return `<article class="row" data-symbol="${row.symbol}">
           <div class="row-main">
             <div class="tile-top">
@@ -1450,11 +1449,7 @@
               <div class="price">${nf(row.price, priceDigits(row.price))}</div>
             </div>
             <div class="tile-bottom">
-              <div class="chart-col chart-col-dense">
-                ${rangeChipsHtml(view.range)}
-                ${sparkTiny(view.spark, view.previousClose)}
-                ${rangePctHtml(view)}
-              </div>
+              ${sparkTiny(row.spark, row.previousClose)}
               <div class="badge ${klass}">${signedPct(row.changePct)}</div>
             </div>
           </div>
@@ -1482,6 +1477,7 @@
       const delayed = String(row.updateMode || "").includes("delayed");
       const volTxt = row.relVolume != null ? `Vol. ${nf(row.relVolume, 2)}× media 10d` : (row.volume != null ? `Vol. ${nf(row.volume, 0)}` : "");
       const details = `
+        <button type="button" class="lookup-close row-close" data-close-row aria-label="Cerrar">✕</button>
         <div class="chart-col chart-col-wide">
           ${rangeChipsHtml(view.range)}
           ${chartHtml(view.spark, view.previousClose, true, row.currency, view.tip)}
@@ -1506,11 +1502,7 @@
             ${benchHtml(row)}
             <div class="name">${row.name}</div>
           </div>
-          <div class="chart-col">
-            ${rangeChipsHtml(view.range)}
-            ${chartHtml(view.spark, view.previousClose, false, row.currency, view.tip)}
-            ${rangePctHtml(view)}
-          </div>
+          ${chartHtml(row.spark, row.previousClose, false, row.currency)}
           <div class="right">
             <div class="price">${nf(row.price, priceDigits(row.price))}<span class="ccy">${row.currency || ""}</span></div>
             <div class="badge ${klass}">${signedPct(row.changePct)}</div>
@@ -1784,7 +1776,7 @@
 
       applySparkNote(delayBase());
       renderSourceButtons();
-      await restoreRowCharts();
+      await restoreOpenRowCharts();
       renderAll();
       const benchP = refreshBenchmarks(yahooMap, tvMap);
 
@@ -1801,7 +1793,7 @@
           rows = await enrichUsExtended(rows);
         }
         applySparkNote(delayBase());
-        await restoreRowCharts();
+        await restoreOpenRowCharts();
         renderAll();
       }
       await benchP;
@@ -2178,8 +2170,30 @@
       if (article) setRowChartRange(article.dataset.symbol, rangeBtn.dataset.chartRange);
       return;
     }
-    if (denseView) return;
-    if (event.target.closest(".chart")) {
+    if (event.target.closest("[data-close-row]")) {
+      event.preventDefault();
+      event.stopPropagation();
+      const article = event.target.closest("[data-symbol]");
+      if (article) {
+        expanded.delete(article.dataset.symbol);
+        renderList();
+      }
+      return;
+    }
+    if (denseView) {
+      const article = event.target.closest("[data-symbol]");
+      const row = rows.find((item) => item.symbol === article?.dataset.symbol);
+      if (row && !row.missing) {
+        openLookup({
+          symbol: row.yahoo || row.symbol,
+          name: row.name,
+          alwaysOpen: row.alwaysOpen,
+          utcOpenBaseline: row.utcOpenBaseline
+        });
+      }
+      return;
+    }
+    if (event.target.closest(".chart-mini")) {
       ignoreRowClick = false;
       return;
     }
@@ -2193,7 +2207,11 @@
     const symbol = row.dataset.symbol;
     if (expanded.has(symbol)) expanded.delete(symbol);
     else expanded.add(symbol);
-    renderList();
+    if (expanded.has(symbol) && chartRangeOf(symbol) !== "1d") {
+      setRowChartRange(symbol, chartRangeOf(symbol));
+    } else {
+      renderList();
+    }
   });
 
   els.refresh.addEventListener("click", () => refresh());
