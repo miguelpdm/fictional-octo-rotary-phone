@@ -518,11 +518,12 @@
     return `https://query1.finance.yahoo.com/v7/finance/spark?symbols=${encodeURIComponent(symbols.join(","))}&range=1d&interval=5m&includePrePost=${includePrePost ? "true" : "false"}`;
   }
 
-  async function fetchYahooSparkChunk(symbols, includePrePost = false) {
-    const payload = await fetchYahooViaJina(yahooSparkUrl(symbols, includePrePost));
+  async function fetchYahooSparkChunk(symbols, includePrePost = false, range = "1d") {
+    const url = `https://query1.finance.yahoo.com/v7/finance/spark?symbols=${encodeURIComponent(symbols.join(","))}&range=${encodeURIComponent(range)}&interval=5m&includePrePost=${includePrePost ? "true" : "false"}`;
+    const payload = await fetchYahooViaJina(url);
     const map = {};
     for (const item of payload.spark?.result || []) {
-      const quoted = fromYahooChart(item.response?.[0]);
+      const quoted = fromYahooChart(item.response?.[0], { keepAll: range !== "1d" });
       if (quoted) map[item.symbol] = quoted;
     }
     return map;
@@ -607,8 +608,9 @@
         spark: row.spark,
         previousClose: row.previousClose,
         changePct: row.changePct,
-        tip: "time",
-        loading: false
+        tip: row.sparkSessionDate ? "full" : "time",
+        loading: false,
+        sessionDate: row.sparkSessionDate || null
       };
     }
     const hit = rowRangeData.get(`${row.symbol}:${range}`);
@@ -760,6 +762,61 @@
     return row.session === "market";
   }
 
+  function extractLastRegularSession(spark, timezone, row) {
+    if (row?.utcOpenBaseline || row?.alwaysOpen) return null;
+    const points = (Array.isArray(spark) ? spark : [])
+      .filter((p) => p && p.t != null && p.v != null)
+      .map((p) => ({ t: Number(p.t), v: Number(p.v), k: p.k || "regular" }))
+      .sort((a, b) => a.t - b.t);
+    if (points.length < 2) return null;
+    const tz = timezone || row?.timezone || TZ;
+    const groups = [];
+    for (const point of points) {
+      const key = dayKey(new Date(point.t * 1000), tz);
+      if (!groups.length || groups[groups.length - 1].key !== key) groups.push({ key, points: [point] });
+      else groups[groups.length - 1].points.push(point);
+    }
+    const today = dayKey(nowDate(), tz);
+    for (let i = groups.length - 1; i >= 0; i -= 1) {
+      const group = groups[i];
+      let pts = group.points.filter((p) => p.k === "regular" || !p.k);
+      if (pts.length < 2) {
+        const onlyExt = group.points.every((p) => p.k === "pre" || p.k === "post");
+        if (onlyExt) continue;
+        pts = group.points.slice();
+      }
+      const contig = [];
+      for (const pt of pts) {
+        const prev = contig[contig.length - 1];
+        if (prev && pt.t - prev.t > 3 * 3600) contig.length = 0;
+        contig.push(pt);
+      }
+      const use = contig.length >= 2 ? contig : pts;
+      if (use.length < 2) continue;
+      const liveToday = group.key === today && isLiveCashSession(row);
+      const prevPts = groups[i - 1]?.points || [];
+      const previousClose = liveToday ? null : (prevPts.length ? prevPts[prevPts.length - 1].v : null);
+      return { spark: use, dateKey: group.key, previousClose, prior: !liveToday };
+    }
+    return null;
+  }
+
+  function applyPriorSession(row, session) {
+    if (!session?.spark?.length) return row;
+    const last = session.spark[session.spark.length - 1].v;
+    const previousClose = session.previousClose != null ? session.previousClose : row.previousClose;
+    const extra = {
+      spark: session.spark,
+      sparkSessionDate: session.prior ? session.dateKey : null
+    };
+    if (session.prior && previousClose != null && previousClose !== 0 && last != null) {
+      extra.previousClose = previousClose;
+      extra.change = last - previousClose;
+      extra.changePct = (extra.change / previousClose) * 100;
+    }
+    return applyQuoteRules({ ...row, ...extra });
+  }
+
   function clipSparkToRegularSession(spark, row) {
     const points = Array.isArray(spark) ? spark.filter((p) => p && p.t != null && p.v != null) : [];
     if (row?.utcOpenBaseline || row?.alwaysOpen) return points;
@@ -777,6 +834,9 @@
       if (prev && Number(point.t) - Number(prev.t) > 3 * 3600) break;
       clipped.push(point);
     }
+    if (clipped.length >= 2 && isLiveCashSession(row)) return clipped;
+    const last = extractLastRegularSession(points, row?.timezone, row);
+    if (last?.spark?.length >= 2) return last.spark;
     return clipped.length >= 2 ? clipped : out;
   }
 
@@ -868,6 +928,9 @@
   function attachSpark(row, sparkMap) {
     if (row.missing) return row;
     const live = sparkMap ? sparkMap[row.yahoo || row.symbol] : null;
+    const snap = snapshot.quotes?.[row.symbol];
+    const snapSpark = snap?.spark || [];
+    const tz = row.timezone || snap?.timezone || live?.timezone;
     let spark = [];
     let sparkSource = "none";
     let previousClose = row.previousClose;
@@ -875,14 +938,9 @@
       spark = live.spark;
       sparkSource = "yahoo-live";
       if (previousClose == null && live.previousClose != null) previousClose = live.previousClose;
-    } else {
-      const snap = snapshot.quotes?.[row.symbol];
-      const snapSpark = snap?.spark || [];
-      const tz = row.timezone || snap?.timezone;
-      if (sparkIsCurrentSession(snapSpark, tz, row)) {
-        spark = snapSpark;
-        sparkSource = "snapshot";
-      }
+    } else if (snapSpark.length >= 2) {
+      spark = snapSpark;
+      sparkSource = sparkIsCurrentSession(snapSpark, tz, row) ? "snapshot" : "snapshot-prior";
     }
     const extra = {};
     if (live?.regularStart != null) extra.regularStart = live.regularStart;
@@ -891,9 +949,60 @@
     if (live?.fulldayChangePercent != null) extra.fulldayChangePercent = live.fulldayChangePercent;
     if (live?.lastPrePrice != null) extra.lastPrePrice = live.lastPrePrice;
     if (live?.lastPostPrice != null) extra.lastPostPrice = live.lastPostPrice;
-    spark = clipSparkToRegularSession(spark, { ...row, ...extra });
+    const raw = spark.slice();
+    spark = clipSparkToRegularSession(spark, { ...row, ...extra, timezone: tz });
+    const session = extractLastRegularSession(spark.length >= 2 ? spark : raw, tz, { ...row, ...extra });
+    if (session?.prior && session.spark?.length >= 2) {
+      spark = session.spark;
+      extra.sparkSessionDate = session.dateKey;
+      if (session.previousClose != null) previousClose = session.previousClose;
+    } else {
+      extra.sparkSessionDate = null;
+    }
     spark = appendLivePrice(spark, row.price, { ...row, ...extra });
-    return applyQuoteRules({ ...row, spark, sparkSource, previousClose, ...extra });
+    let next = applyQuoteRules({ ...row, spark, sparkSource, previousClose, ...extra });
+    if (session?.prior) next = applyPriorSession(next, session);
+    return next;
+  }
+
+  async function fillPriorSessionSparks(list) {
+    const need = (list || []).filter((row) =>
+      !row.missing && !row.alwaysOpen && !row.utcOpenBaseline && (row.spark || []).length < 2
+    );
+    if (!need.length) return list;
+    const symbols = [...new Set(need.map((row) => row.yahoo || row.symbol))];
+    const map = {};
+    try {
+      const chunks = await Promise.all(chunkSymbols(symbols, 12).map((chunk) =>
+        fetchYahooSparkChunk(chunk, false, "5d").catch(() => ({}))
+      ));
+      for (const part of chunks) Object.assign(map, part);
+    } catch (error) {
+      console.warn("Serie 5d para última sesión falló", error);
+    }
+    const still = need.filter((row) => !map[row.yahoo || row.symbol]?.spark);
+    if (still.length) {
+      const extras = await Promise.all(still.map((row) => {
+        const symbol = row.yahoo || row.symbol;
+        return fetchYahooChart(symbol, { range: "5d", interval: "5m", keepAll: true })
+          .then((q) => [symbol, q])
+          .catch(() => null);
+      }));
+      for (const pair of extras) {
+        if (pair && pair[1]) map[pair[0]] = pair[1];
+      }
+    }
+    return (list || []).map((row) => {
+      if ((row.spark || []).length >= 2 || row.alwaysOpen || row.utcOpenBaseline) return row;
+      const quoted = map[row.yahoo || row.symbol];
+      const session = extractLastRegularSession(quoted?.spark, quoted?.timezone || row.timezone, row);
+      if (!session?.spark || session.spark.length < 2) return row;
+      return applyPriorSession({
+        ...row,
+        sparkSource: "yahoo-last-session",
+        timezone: quoted?.timezone || row.timezone
+      }, session);
+    });
   }
 
   function mergeQuote(position, tvMap, yahooMap) {
@@ -1332,6 +1441,24 @@
       · P&amp;L <strong>${pnl >= 0 ? "+" : ""}${nf(pnl, 2)} (${signedPct(pnlPct)})</strong></p>`;
   }
 
+  function formatCierre(dateKey) {
+    if (!dateKey) return "";
+    const [year, month, day] = String(dateKey).split("-").map(Number);
+    if (!year || !month || !day) return "";
+    const date = new Date(Date.UTC(year, month - 1, day, 12));
+    const label = new Intl.DateTimeFormat("es-ES", {
+      day: "numeric",
+      month: "short",
+      timeZone: "UTC"
+    }).format(date).replace(".", "");
+    return `cierre ${label}`;
+  }
+
+  function sparkDateHtml(dateKey) {
+    const label = formatCierre(dateKey);
+    return label ? `<div class="spark-date">${escapeHtml(label)}</div>` : "";
+  }
+
   function sparkTiny(points, previousClose) {
     const samples = sparkSamples(points);
     const w = 42;
@@ -1451,7 +1578,10 @@
               <div class="price">${nf(row.price, priceDigits(row.price))}</div>
             </div>
             <div class="tile-bottom">
-              ${sparkTiny(row.spark, row.previousClose)}
+              <div>
+                ${sparkTiny(row.spark, row.previousClose)}
+                ${sparkDateHtml(row.sparkSessionDate)}
+              </div>
               <div class="badge ${klass}">${signedPct(row.changePct)}</div>
             </div>
           </div>
@@ -1482,7 +1612,8 @@
         <button type="button" class="lookup-close row-close" data-close-row aria-label="Cerrar">✕</button>
         <div class="chart-col chart-col-wide">
           ${rangeChipsHtml(view.range)}
-          ${chartHtml(view.spark, view.previousClose, true, row.currency, view.tip)}
+          ${chartHtml(view.spark, view.previousClose, true, row.currency, view.range === "1d" && view.sessionDate ? "full" : view.tip)}
+          ${view.range === "1d" ? sparkDateHtml(view.sessionDate) : ""}
           ${rangePctHtml(view)}
         </div>
         <div class="stats">
@@ -1504,7 +1635,10 @@
             ${benchHtml(row)}
             <div class="name">${row.name}</div>
           </div>
-          ${chartHtml(row.spark, row.previousClose, false, row.currency)}
+          <div>
+            ${chartHtml(row.spark, row.previousClose, false, row.currency, row.sparkSessionDate ? "full" : "time")}
+            ${sparkDateHtml(row.sparkSessionDate)}
+          </div>
           <div class="right">
             <div class="price">${nf(row.price, priceDigits(row.price))}<span class="ccy">${row.currency || ""}</span></div>
             <div class="badge ${klass}">${signedPct(row.changePct)}</div>
@@ -1740,6 +1874,7 @@
         rows = rows.map((row) => attachSpark(row, sparkCache.map));
       }
       rows = await enrichUsExtended(rows);
+      rows = await fillPriorSessionSparks(rows);
 
       function delayBase() {
         if (liveSource === "yahoo") {
@@ -1789,10 +1924,12 @@
           sparkCache = { at: Date.now(), map };
           rows = rows.map((row) => attachSpark(row, map));
           rows = await enrichUsExtended(rows);
+          rows = await fillPriorSessionSparks(rows);
         } catch (sparkError) {
           console.warn("Serie intradía en vivo falló", sparkError);
           rows = rows.map((row) => attachSpark(row, {}));
           rows = await enrichUsExtended(rows);
+          rows = await fillPriorSessionSparks(rows);
         }
         applySparkNote(delayBase());
         await restoreOpenRowCharts();
@@ -1965,9 +2102,11 @@
     const name = pick.name || quoted?.name || pick.symbol;
     const metrics = quoted ? rangeMetrics(quoted, rangeId) : { price: null, changePct: null, previousClose: null };
     const klass = dirClass(metrics.changePct || 0);
+    const sessionDate = rangeId === "1d" ? quoted?.sparkSessionDate : null;
     const body = error
       ? `<p class="lookup-error">${escapeHtml(error)}</p>`
-      : `${chartHtml(quoted?.spark || [], metrics.previousClose, true, quoted?.currency || "", rangeTipMode(rangeId))}
+      : `${chartHtml(quoted?.spark || [], metrics.previousClose, true, quoted?.currency || "", sessionDate ? "full" : rangeTipMode(rangeId))}
+        ${sparkDateHtml(sessionDate)}
         <p class="note">${quoted?.exchange || ""} · ${quoted?.currency || ""}</p>`;
     els.lookupBody.innerHTML = `
       <div class="lookup-head">
@@ -2008,7 +2147,15 @@
     const ranges = els.lookupBody.querySelector(".lookup-ranges");
     if (ranges) ranges.insertAdjacentElement("afterend", loading);
     try {
-      const quoted = await fetchYahooChart(lookupPick.symbol, spec);
+      let quoted;
+      if (rangeId === "1d" && !isCryptoQuote(lookupPick)) {
+        quoted = await fetchYahooChart(lookupPick.symbol, { range: "5d", interval: "5m", includePrePost: false, keepAll: true });
+        if (!quoted) throw new Error("Sin datos");
+        const session = extractLastRegularSession(quoted.spark, quoted.timezone, quoted);
+        if (session?.spark?.length >= 2) quoted = applyPriorSession(quoted, session);
+      } else {
+        quoted = await fetchYahooChart(lookupPick.symbol, spec);
+      }
       if (!quoted) throw new Error("Sin datos");
       if (!lookupPick.name && quoted.name) lookupPick.name = quoted.name;
       renderLookupCard(lookupPick, quoted, rangeId, "");
