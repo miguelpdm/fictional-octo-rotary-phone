@@ -1,0 +1,150 @@
+{
+ "fecha": "2026-10-29",
+ "secciones": [
+  {
+   "nombre": "España",
+   "items": [
+    {
+     "titular": "Choque de un AVE y un Iryo en Urda (Toledo): al menos 68 muertos en la segunda gran tragedia ferroviaria en nueve meses",
+     "url": "https://elpais.com/espana/2026-10-29/por-que-chocaron-los-trenes-tres-fallos-catastroficos-que-han-costado-68-vidas.html",
+     "fuente": "El País",
+     "nota": "El Gobierno habla de una orden «inexplicable» del centro de control con el sistema LZB caído. También en El Mundo, eldiario.es, BBC, NYT y Le Monde."
+    },
+    {
+     "titular": "La tragedia congela la precampaña del 29-N: tres días de duelo y cargos del PSOE ya cuestionan a Óscar Puente",
+     "url": "https://www.lavanguardia.com/politica/20261028/11670576/sanchez-decreta-tres-dias-duelo-siniestro-urda-precampana-queda-suspenso.html",
+     "fuente": "La Vanguardia",
+     "nota": "Más en ABC y eldiario.es."
+    },
+    {
+     "titular": "Los controladores de Adif avisaron en mayo a Transportes de un riesgo de seguridad por la fatiga del personal",
+     "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae25af3e85ece095e8b45a3.html",
+     "fuente": "El Mundo"
+    },
+    {
+     "titular": "Los maquinistas de Renfe mantienen hoy la huelga en toda la red, Rodalies incluida",
+     "url": "https://www.lavanguardia.com/vida/20261029/11670547/maquinistas-renfe-mantienen-hoy-huelga-toda-red-incluida-rodalies.html",
+     "fuente": "La Vanguardia"
+    }
+   ]
+  },
+  {
+   "nombre": "Internacional",
+   "items": [
+    {
+     "titular": "Actualización Israel: los partidos árabes logran un récord de escaños y pasan a ser la llave para echar a Netanyahu",
+     "url": "https://elpais.com/internacional/2026-10-28/la-victoria-de-los-partidos-arabes-de-israel-record-de-escanos-frente-al-racismo-y-la-discriminacion.html",
+     "fuente": "El País",
+     "nota": "La oposición ya negocia; también en NYT y eldiario.es."
+    },
+    {
+     "titular": "Actualización Brasil: Flávio Bolsonaro aterriza en Miami y se proclama «verdadero presidente» antes de rebajarlo a «líder»",
+     "url": "https://elpais.com/us/2026-10-28/flavio-bolsonaro-aterriza-en-miami-tras-huir-de-brasil-via-argentina.html",
+     "fuente": "El País",
+     "nota": "El WSJ y el FT cuentan cómo fue la huida."
+    },
+    {
+     "titular": "Actualización Irán: Vance escribe a un dirigente iraní de línea dura para reabrir las conversaciones de paz y el crudo baja",
+     "url": "https://www.wsj.com/world/middle-east/vance-reaches-out-to-iranian-hard-liner-in-bid-to-restart-peace-talks-2c8a2ab8",
+     "fuente": "WSJ",
+     "nota": "También en NYT y Bloomberg."
+    },
+    {
+     "titular": "Presupuestos británicos: Healey sube impuestos a bancos y caseros para pagar 100 libras a 20 millones de hogares",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handout",
+     "fuente": "The Guardian",
+     "nota": "También en BBC y WSJ."
+    },
+    {
+     "titular": "Muere a los 92 años Cuauhtémoc Cárdenas, clave en el fin del partido único en México",
+     "url": "https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html",
+     "fuente": "NYT"
+    }
+   ]
+  },
+  {
+   "nombre": "Economía y mercados",
+   "items": [
+    {
+     "titular": "Actualización Fed: Warsh deja los tipos quietos pese a la inflación y desde 2027 habrá menos reuniones",
+     "url": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html",
+     "fuente": "NYT",
+     "nota": "También en FT y Le Monde."
+    },
+    {
+     "titular": "Alphabet se hunde cerca de un 10% tras fallar en ingresos y gastar 51.000 M$ en IA, mientras Microsoft dispara su beneficio un 32%",
+     "url": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d",
+     "fuente": "FT",
+     "nota": "También en Bloomberg, NYT y El País."
+    },
+    {
+     "titular": "Samsung sube su gasto en IA y aplaza el reparto a los accionistas; la acción cae",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-29/samsung-chip-profit-misses-estimates-lifted-by-resurgent-ai-hope",
+     "fuente": "Bloomberg"
+    },
+    {
+     "titular": "Marvell, cerca de comprar Lumentum en una gran operación ligada a la IA",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-28/marvell-is-said-to-near-deal-for-lumentum-in-ai-related-megadeal",
+     "fuente": "Bloomberg"
+    },
+    {
+     "titular": "Weil Gotshal, uno de los grandes bufetes de Wall Street, anuncia su disolución",
+     "url": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html",
+     "fuente": "NYT",
+     "nota": "También en WSJ y FT."
+    }
+   ]
+  },
+  {
+   "nombre": "Tecnología e IA",
+   "items": [
+    {
+     "titular": "DeepSeek y Moonshot habrían entrenado sus últimos modelos destilando GPT-6 Astra de OpenAI, según The Information",
+     "url": "https://money.usnews.com/investing/news/articles/2026-10-28/deepseek-moonshot-used-openais-gpt-6-astra-to-train-latest-models-the-information-reports",
+     "fuente": "Reuters"
+    },
+    {
+     "titular": "Apple presenta su primer MacBook Pro con pantalla táctil",
+     "url": "https://www.nytimes.com/2026/10/28/technology/apple-touch-screen-macbook-pro.html",
+     "fuente": "NYT"
+    },
+    {
+     "titular": "La IA está destapando una avalancha de fallos de software y Silicon Valley corre a parchearlos",
+     "url": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
+     "fuente": "NYT"
+    }
+   ]
+  },
+  {
+   "nombre": "IA en X",
+   "items": [
+    {
+     "titular": "Google presenta Gemini 4 Carbon, dos semanas después de Argon, y se pone primero en el índice de Artificial Analysis (59, por delante de Claude Opus 5.5 y GPT-6 Astra); de momento con acceso limitado",
+     "url": "https://x.com/alvarombt/status/2115512398308065583",
+     "fuente": "@alvarombt en X",
+     "nota": "DotCSV critica la espera de 2-3 semanas para el acceso general: https://x.com/DotCSV/status/2115514560920641646"
+    },
+    {
+     "titular": "Presentan «prism», un modelo voz a voz que dicen indistinguible de un humano, con respuesta por debajo de 300 ms",
+     "url": "https://x.com/lilyjclifford/status/2115521147890520503",
+     "fuente": "@lilyjclifford en X"
+    },
+    {
+     "titular": "«fx», el arnés de agentes open source de Vercel, ya viene integrado en T3 Code (web, escritorio y móvil)",
+     "url": "https://x.com/rauchg/status/2115504493026812164",
+     "fuente": "@rauchg en X"
+    },
+    {
+     "titular": "Primeras impresiones de «Rex», la nueva terminal de Mitchell Hashimoto, con sesiones persistentes, acceso remoto y automatización nativa",
+     "url": "https://x.com/dani_avila7/status/2115542930697908587",
+     "fuente": "@dani_avila7 en X"
+    },
+    {
+     "titular": "Sale la API de Sunra: los principales modelos de imagen, vídeo, audio y 3D con una sola clave y al precio de cada fabricante",
+     "url": "https://x.com/deanwperkins/status/2115550436531032205",
+     "fuente": "@deanwperkins en X"
+    }
+   ]
+  }
+ ]
+}
