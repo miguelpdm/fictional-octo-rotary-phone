@@ -31,4 +31,6 @@ Estilo tipo widget de Bolsa de iOS: dos líneas por valor (ticker + %, precio + 
 
 Lee los tickers de [`data/cartera.json`](../data/cartera.json) publicado en GitHub Pages. Si cambias ese JSON y se publica, el widget usará la lista nueva en el siguiente refresco.
 
+Campo opcional `peso` (número relativo) en cada posición de `data/cartera.json`: la gráfica agregada de la web lo normaliza. Si ninguna posición lo tiene, usa pesos iguales; si solo algunas, el resto cuenta 0. No añadas cantidades ni precios medios (la página es pública). El widget no usa `peso`.
+
 Cotizaciones: TradingView (sin CORS en Scriptable). Si falla, Yahoo Finance. Retraso típico ~15 min. No es asesoramiento financiero.
