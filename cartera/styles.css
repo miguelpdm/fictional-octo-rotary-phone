@@ -940,6 +940,35 @@ footer {
   text-align: center;
 }
 
+.agg-card {
+  text-align: left;
+  margin: 0 auto 1.15rem;
+  max-width: 40rem;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  padding: 1rem 0.9rem 0.95rem;
+  box-shadow: var(--shadow);
+}
+
+.agg-card .lookup-head { padding-right: 0; }
+
+.agg-card .lookup-price-row .price.up { color: var(--green); }
+.agg-card .lookup-price-row .price.down { color: var(--red); }
+.agg-card .lookup-price-row .price.flat { color: var(--muted); }
+
+.agg-card .chart-wide {
+  height: 168px;
+  margin-bottom: 0.4rem;
+}
+
+.agg-note {
+  margin: 0.15rem 0 0;
+  font-size: 0.68rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+
 .lookup {
   position: relative;
   text-align: left;

@@ -92,6 +92,10 @@
   let sparkCache = { at: 0, map: {} };
   const rowChartRange = new Map();
   const rowRangeData = new Map();
+  const aggBarCache = new Map();
+  let aggRange = "1mo";
+  let aggLoadSeq = 0;
+  let aggView = { range: "1mo", loading: true, spark: [], changePct: null, note: "Pesos iguales" };
   const SPARK_TTL_MS = 5 * 60 * 1000;
   const SPARK_TIMEOUT_MS = 12000;
 
@@ -129,7 +133,8 @@
     lookupHint: document.getElementById("lookupHint"),
     lookupSheet: document.getElementById("lookupSheet"),
     lookupBody: document.getElementById("lookupBody"),
-    lookupClose: document.getElementById("lookupClose")
+    lookupClose: document.getElementById("lookupClose"),
+    aggCard: document.getElementById("aggCard")
   };
 
   const nf = (value, digits = 2) => new Intl.NumberFormat("es-ES", {
@@ -518,12 +523,13 @@
     return `https://query1.finance.yahoo.com/v7/finance/spark?symbols=${encodeURIComponent(symbols.join(","))}&range=1d&interval=5m&includePrePost=${includePrePost ? "true" : "false"}`;
   }
 
-  async function fetchYahooSparkChunk(symbols, includePrePost = false, range = "1d") {
-    const url = `https://query1.finance.yahoo.com/v7/finance/spark?symbols=${encodeURIComponent(symbols.join(","))}&range=${encodeURIComponent(range)}&interval=5m&includePrePost=${includePrePost ? "true" : "false"}`;
+  async function fetchYahooSparkChunk(symbols, includePrePost = false, range = "1d", interval = "5m") {
+    const url = `https://query1.finance.yahoo.com/v7/finance/spark?symbols=${encodeURIComponent(symbols.join(","))}&range=${encodeURIComponent(range)}&interval=${encodeURIComponent(interval)}&includePrePost=${includePrePost ? "true" : "false"}`;
     const payload = await fetchYahooViaJina(url);
     const map = {};
+    const keepAll = range !== "1d" || interval !== "5m";
     for (const item of payload.spark?.result || []) {
-      const quoted = fromYahooChart(item.response?.[0], { keepAll: range !== "1d" });
+      const quoted = fromYahooChart(item.response?.[0], { keepAll });
       if (quoted) map[item.symbol] = quoted;
     }
     return map;
@@ -665,6 +671,260 @@
       }
     }
     renderList();
+  }
+
+  // peso (opcional en data/cartera.json): número relativo por posición; se normaliza.
+  // Si ninguna posición lo tiene, pesos iguales. Si solo algunas, el resto cuenta 0.
+  function rawPeso(row) {
+    const pos = (config.positions || []).find((item) => item.symbol === row.symbol);
+    const value = pos?.peso ?? row?.peso;
+    const n = Number(value);
+    return Number.isFinite(n) ? n : null;
+  }
+
+  function positionPesos(list) {
+    const positions = (list || []).filter((row) => row && !row.missing);
+    const raw = positions.map(rawPeso);
+    const any = raw.some((w) => w != null);
+    if (!any) {
+      const eq = positions.length ? 1 / positions.length : 0;
+      return {
+        mode: "equal",
+        weights: Object.fromEntries(positions.map((row) => [row.symbol, eq])),
+        skipped: []
+      };
+    }
+    const weights = {};
+    const skipped = [];
+    let sum = 0;
+    positions.forEach((row, i) => {
+      const w = raw[i] != null && raw[i] > 0 ? raw[i] : 0;
+      weights[row.symbol] = w;
+      if (w <= 0) skipped.push(row.symbol);
+      sum += w;
+    });
+    if (sum <= 0) {
+      const eq = positions.length ? 1 / positions.length : 0;
+      return {
+        mode: "equal",
+        weights: Object.fromEntries(positions.map((row) => [row.symbol, eq])),
+        skipped: []
+      };
+    }
+    Object.keys(weights).forEach((key) => { weights[key] /= sum; });
+    return { mode: "custom", weights, skipped };
+  }
+
+  function pesoNote(info) {
+    if (info.mode !== "custom") return "Pesos iguales";
+    if (!info.skipped?.length) return "Pesos personalizados";
+    return `Pesos personalizados (sin peso: ${info.skipped.join(", ")})`;
+  }
+
+  function aggRangeSpec(rangeId) {
+    const spec = CHART_RANGES.find((item) => item.id === rangeId) || CHART_RANGES[2];
+    if (rangeId === "1d") return spec;
+    return { ...spec, interval: "1d", keepAll: true, includePrePost: false };
+  }
+
+  function cacheTtlMs(rangeId) {
+    return rangeId === "1d" || rangeId === "5d" ? 5 * 60 * 1000 : 30 * 60 * 1000;
+  }
+
+  function sparkFromRangeCache(row, rangeId) {
+    const ttl = cacheTtlMs(rangeId);
+    const now = Date.now();
+    const rowHit = rowRangeData.get(`${row.symbol}:${rangeId}`);
+    const spec = CHART_RANGES.find((item) => item.id === rangeId);
+    if (rowHit?.spark?.length >= 2 && spec?.interval === "1d" && now - rowHit.at < ttl) {
+      return rowHit.spark;
+    }
+    const aggHit = aggBarCache.get(`${row.symbol}:${rangeId}`);
+    if (aggHit?.spark?.length >= 2 && now - aggHit.at < ttl) return aggHit.spark;
+    if (rowHit?.spark?.length >= 2 && spec?.interval === "1d") return rowHit.spark;
+    return aggHit?.spark || [];
+  }
+
+  function storeAggBars(row, rangeId, spark) {
+    if (!spark || spark.length < 2) return;
+    const payload = { spark, at: Date.now() };
+    aggBarCache.set(`${row.symbol}:${rangeId}`, payload);
+    const spec = CHART_RANGES.find((item) => item.id === rangeId);
+    if (spec?.interval === "1d") {
+      const key = `${row.symbol}:${rangeId}`;
+      if (!rowRangeData.get(key)?.spark?.length) rowRangeData.set(key, payload);
+    }
+  }
+
+  async function fillAggRangeData(rangeId) {
+    if (rangeId === "1d") return;
+    const spec = aggRangeSpec(rangeId);
+    const need = rows.filter((row) => {
+      if (row.missing) return false;
+      return sparkFromRangeCache(row, rangeId).length < 2;
+    });
+    if (!need.length) return;
+    const symbols = [...new Set(need.map((row) => row.yahoo || row.symbol))];
+    const map = {};
+    try {
+      const parts = await Promise.all(chunkSymbols(symbols, 12).map((chunk) =>
+        fetchYahooSparkChunk(chunk, false, spec.range, spec.interval).catch(() => ({}))
+      ));
+      for (const part of parts) Object.assign(map, part);
+    } catch (error) {
+      console.warn("Cartera agregada: spark por rango falló", error);
+    }
+    const still = need.filter((row) => !(map[row.yahoo || row.symbol]?.spark?.length >= 2));
+    if (still.length) {
+      const extras = await Promise.all(still.map((row) => {
+        const symbol = row.yahoo || row.symbol;
+        return fetchYahooChart(symbol, spec).then((q) => [symbol, q]).catch(() => null);
+      }));
+      for (const pair of extras) {
+        if (pair && pair[1]?.spark?.length >= 2) map[pair[0]] = pair[1];
+      }
+    }
+    for (const row of need) {
+      const quoted = map[row.yahoo || row.symbol];
+      if (quoted?.spark?.length >= 2) storeAggBars(row, rangeId, quoted.spark);
+    }
+  }
+
+  function madridBucket5(tSec) {
+    const parts = tzParts(new Date(Number(tSec) * 1000), TZ);
+    const minute = Math.floor(parts.minute / 5) * 5;
+    return zonedLocalToUnixSec(parts.year, parts.month, parts.day, parts.hour, minute, TZ);
+  }
+
+  function buildAggIntraday(info) {
+    const members = [];
+    for (const row of rows) {
+      if (row.missing) continue;
+      const w = info.weights[row.symbol] || 0;
+      if (w <= 0) continue;
+      const spark = sparkSamples(row.spark);
+      const prev = Number(row.previousClose);
+      if (spark.length < 2 || !Number.isFinite(prev) || prev === 0) continue;
+      members.push({
+        w,
+        prev,
+        points: spark.map((p) => ({ t: madridBucket5(p.t), v: Number(p.v) })).sort((a, b) => a.t - b.t)
+      });
+    }
+    if (!members.length) return { spark: [], changePct: null };
+    const times = [...new Set(members.flatMap((m) => m.points.map((p) => p.t)))].sort((a, b) => a - b);
+    const lastT = Math.max(...members.map((m) => m.points[m.points.length - 1].t));
+    const spark = [];
+    const idx = members.map(() => 0);
+    for (const t of times) {
+      if (t > lastT) break;
+      let num = 0;
+      let den = 0;
+      members.forEach((m, i) => {
+        while (idx[i] + 1 < m.points.length && m.points[idx[i] + 1].t <= t) idx[i] += 1;
+        const pt = m.points[idx[i]];
+        if (!pt || pt.t > t) return;
+        num += m.w * ((pt.v / m.prev - 1) * 100);
+        den += m.w;
+      });
+      if (den <= 0) continue;
+      spark.push({ t, v: num / den, k: "regular" });
+    }
+    const changePct = spark.length ? spark[spark.length - 1].v : null;
+    return { spark, changePct };
+  }
+
+  function buildAggDaily(rangeId, info) {
+    const members = [];
+    for (const row of rows) {
+      if (row.missing) continue;
+      const w = info.weights[row.symbol] || 0;
+      if (w <= 0) continue;
+      const spark = sparkSamples(sparkFromRangeCache(row, rangeId));
+      if (spark.length < 2) continue;
+      const byDay = new Map();
+      for (const p of spark) {
+        byDay.set(dayKey(new Date(p.t * 1000), TZ), { t: p.t, v: p.v });
+      }
+      if (byDay.size < 2) continue;
+      members.push({ w, byDay });
+    }
+    if (!members.length) return { spark: [], changePct: null };
+    const days = [...new Set(members.flatMap((m) => [...m.byDay.keys()]))].sort();
+    const state = members.map((m) => ({ ...m, last: null, baseline: null }));
+    const spark = [];
+    for (const day of days) {
+      let num = 0;
+      let den = 0;
+      let t = null;
+      for (const s of state) {
+        const pt = s.byDay.get(day);
+        if (pt) s.last = pt;
+        if (!s.last) continue;
+        if (s.baseline == null) s.baseline = s.last.v;
+        if (!s.baseline) continue;
+        num += s.w * ((s.last.v / s.baseline - 1) * 100);
+        den += s.w;
+        if (!t || s.last.t > t) t = s.last.t;
+      }
+      if (den <= 0 || t == null) continue;
+      spark.push({ t, v: num / den, k: "regular" });
+    }
+    const changePct = spark.length ? spark[spark.length - 1].v : null;
+    return { spark, changePct };
+  }
+
+  function computeAggView(rangeId) {
+    const info = positionPesos(rows);
+    const built = rangeId === "1d" ? buildAggIntraday(info) : buildAggDaily(rangeId, info);
+    return {
+      range: rangeId,
+      loading: false,
+      spark: built.spark,
+      changePct: built.changePct,
+      note: pesoNote(info)
+    };
+  }
+
+  function renderAggCard() {
+    if (!els.aggCard) return;
+    const view = aggView;
+    const tip = view.range === "1d" ? "full" : rangeTipMode(view.range);
+    const chart = view.loading
+      ? `<p class="note">Cargando evolución de la cartera…</p>`
+      : view.spark.length < 2
+        ? `<p class="note">No hay suficientes series para este periodo.</p>`
+        : chartHtml(view.spark, 0, true, "", tip, "pct");
+    els.aggCard.innerHTML = `
+      <div class="lookup-head">
+        <div class="sym">Cartera agregada</div>
+        <div class="name">Media ponderada de las posiciones, rebasada a 0 % al inicio del periodo</div>
+      </div>
+      <div class="lookup-price-row">
+        <div class="price ${dirClass(view.changePct || 0)}">${view.loading ? "…" : signedPct(view.changePct)}</div>
+      </div>
+      ${rangeChipsHtml(view.range, "data-agg-range")}
+      ${chart}
+      <p class="agg-note">${escapeHtml(view.note)}</p>
+    `;
+  }
+
+  async function loadAggRange(rangeId) {
+    if (!CHART_RANGES.some((item) => item.id === rangeId)) return;
+    aggRange = rangeId;
+    const seq = ++aggLoadSeq;
+    aggView = { ...aggView, range: rangeId, loading: true };
+    renderAggCard();
+    try {
+      await fillAggRangeData(rangeId);
+      if (seq !== aggLoadSeq) return;
+      aggView = computeAggView(rangeId);
+    } catch (error) {
+      console.warn("Cartera agregada falló", error);
+      if (seq !== aggLoadSeq) return;
+      aggView = { range: rangeId, loading: false, spark: [], changePct: null, note: pesoNote(positionPesos(rows)) };
+    }
+    renderAggCard();
   }
 
   async function fetchYahooSearch(query) {
@@ -1323,7 +1583,7 @@
     return best;
   }
 
-  function chartHtml(points, previousClose, wide, currency, tipMode) {
+  function chartHtml(points, previousClose, wide, currency, tipMode, unit) {
     const samples = sparkSamples(points);
     const w = wide ? 320 : 72;
     const h = wide ? 140 : 36;
@@ -1364,7 +1624,7 @@
         </g>
         <line x1="0" x2="${w}" y1="${yPrev}" y2="${yPrev}" stroke="#c5cad3" stroke-dasharray="3 3" stroke-width="1" opacity="0.85"></line>`;
     const payload = encodeURIComponent(JSON.stringify(samples));
-    return `<div class="${klass}" role="img" aria-label="Gráfico. Mantén pulsado o arrastra para ver precio y hora." data-wide="${wide ? 1 : 0}" data-ccy="${currency || ""}" data-prev="${previousClose ?? ""}" data-tip="${tipMode || "time"}" data-spark="${payload}">
+    return `<div class="${klass}" role="img" aria-label="Gráfico. Mantén pulsado o arrastra para ver precio y hora." data-wide="${wide ? 1 : 0}" data-ccy="${currency || ""}" data-prev="${previousClose ?? ""}" data-tip="${tipMode || "time"}" data-unit="${unit || ""}" data-spark="${payload}">
       <svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">
         ${defs}
         ${split}
@@ -1677,6 +1937,7 @@
     renderSummary(visible);
     renderMarkets(visible);
     renderList();
+    renderAggCard();
   }
 
   function setStatus(message) {
@@ -1915,6 +2176,7 @@
       renderSourceButtons();
       await restoreOpenRowCharts();
       renderAll();
+      loadAggRange(aggRange);
       const benchP = refreshBenchmarks(yahooMap, tvMap);
 
       const needSpark = liveSource !== "yahoo" && (!silent || !sparkFresh);
@@ -1934,6 +2196,7 @@
         applySparkNote(delayBase());
         await restoreOpenRowCharts();
         renderAll();
+        loadAggRange(aggRange);
       }
       await benchP;
     } catch (error) {
@@ -2259,14 +2522,22 @@
     const ccy = chart.dataset.ccy || "";
     tip.hidden = false;
     tip.replaceChildren();
-    tip.append(`${time} · ${nf(pt.v, priceDigits(pt.v))}${ccy ? ` ${ccy}` : ""}`);
-    if (previousClose != null && Number.isFinite(previousClose) && previousClose !== 0) {
-      const pct = ((pt.v - previousClose) / previousClose) * 100;
-      tip.append(" · ");
+    if (chart.dataset.unit === "pct") {
+      tip.append(`${time} · `);
       const pctEl = document.createElement("span");
-      pctEl.className = `chart-tip-pct ${dirClass(pct)}`;
-      pctEl.textContent = signedPctAtClose(pct);
+      pctEl.className = `chart-tip-pct ${dirClass(pt.v)}`;
+      pctEl.textContent = signedPctAtClose(pt.v);
       tip.append(pctEl);
+    } else {
+      tip.append(`${time} · ${nf(pt.v, priceDigits(pt.v))}${ccy ? ` ${ccy}` : ""}`);
+      if (previousClose != null && Number.isFinite(previousClose) && previousClose !== 0) {
+        const pct = ((pt.v - previousClose) / previousClose) * 100;
+        tip.append(" · ");
+        const pctEl = document.createElement("span");
+        pctEl.className = `chart-tip-pct ${dirClass(pct)}`;
+        pctEl.textContent = signedPctAtClose(pct);
+        tip.append(pctEl);
+      }
     }
     const leftPct = (x / w) * 100;
     tip.style.left = `${leftPct}%`;
@@ -2308,6 +2579,18 @@
     els.lookupBody.addEventListener("pointermove", onChartPointerMove);
     els.lookupBody.addEventListener("pointerup", onChartPointerUp);
     els.lookupBody.addEventListener("pointercancel", onChartPointerUp);
+  }
+  if (els.aggCard) {
+    els.aggCard.addEventListener("pointerdown", onChartPointerDown);
+    els.aggCard.addEventListener("pointermove", onChartPointerMove);
+    els.aggCard.addEventListener("pointerup", onChartPointerUp);
+    els.aggCard.addEventListener("pointercancel", onChartPointerUp);
+    els.aggCard.addEventListener("click", (event) => {
+      const btn = event.target.closest("[data-agg-range]");
+      if (!btn) return;
+      event.preventDefault();
+      loadAggRange(btn.dataset.aggRange);
+    });
   }
 
   els.list.addEventListener("click", (event) => {
