@@ -10,7 +10,6 @@
   const SECTOR_KEY = "cartera-sector";
   const THEME_KEY = "cartera-theme";
   const HIDE_US_OVERRIDE_KEY = "cartera-hide-us-override";
-  const MARKET_FILTER_KEY = "cartera-market-filter";
   const POST_KEY = "cartera-post-view";
   const AGG_ID = "__CARTERA__";
   const NY_TZ = "America/New_York";
@@ -40,12 +39,6 @@
     { id: "all", label: "Todas" },
     { id: "up", label: "Suben" },
     { id: "down", label: "Bajan" }
-  ];
-
-  const MARKET_FILTERS = [
-    { id: "all", label: "Todos" },
-    { id: "usa", label: "USA" },
-    { id: "nousa", label: "No USA" }
   ];
 
   const SORTS = [
@@ -90,8 +83,7 @@
   let newsLang = "all";
   let newsView = false;
   let quoteStatus = "";
-  let marketFilter = "all";
-  let marketManual = false;
+  let hideUs = false;
   let postView = false;
   let usSessionMeta = { session: "closed", date: "", open: false };
   let expanded = new Set();
@@ -124,7 +116,6 @@
     summary: document.getElementById("summary"),
     markets: document.getElementById("markets"),
     filters: document.getElementById("filterChips"),
-    marketChips: document.getElementById("marketChips"),
     cats: document.getElementById("categoryChips"),
     sorts: document.getElementById("sortChips"),
     list: document.getElementById("list"),
@@ -137,6 +128,7 @@
     postBtn: document.getElementById("postBtn"),
     postPanel: document.getElementById("postPanel"),
     postList: document.getElementById("postList"),
+    hideUs: document.getElementById("hideUsBtn"),
     sector: document.getElementById("sectorBtn"),
     theme: document.getElementById("themeBtn"),
     themeGate: document.getElementById("themeBtnGate"),
@@ -773,12 +765,6 @@
     }
   }
 
-  function matchesMarket(row) {
-    if (marketFilter === "usa") return isUsListing(row);
-    if (marketFilter === "nousa") return !isUsListing(row);
-    return true;
-  }
-
   function categoryOpen() {
     return allCategoriesOn() || categoryFilter.size === 0;
   }
@@ -787,7 +773,7 @@
     const catsOpen = categoryOpen();
     return rows.filter((row) => {
       if (row.missing) return false;
-      if (!matchesMarket(row)) return false;
+      if (hideUs && isUsListing(row)) return false;
       if (!catsOpen) {
         const id = categoryId(row);
         if (!id || !categoryFilter.has(id)) return false;
@@ -1542,7 +1528,7 @@
   function visibleRows() {
     const catsOpen = categoryOpen();
     let list = rows.filter((row) => {
-      if (!matchesMarket(row)) return false;
+      if (hideUs && isUsListing(row)) return false;
       if (!catsOpen) {
         const id = categoryId(row);
         if (!id || !categoryFilter.has(id)) return false;
@@ -1758,54 +1744,35 @@
     return `<div class="chart chart-tiny" aria-hidden="true"><svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none"><path d="${d}" fill="none" stroke="${color}" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"></path></svg></div>`;
   }
 
-  function loadMarketPrefs() {
-    try {
-      const saved = JSON.parse(localStorage.getItem(MARKET_FILTER_KEY) || "null");
-      if (saved && saved.manual && MARKET_FILTERS.some((item) => item.id === saved.value)) {
-        return { manual: true, value: saved.value };
-      }
-    } catch {}
-    const old = activeHideUsOverride(usSessionSnapshot());
-    if (old) {
-      return { manual: true, value: old.hide ? "nousa" : "all" };
-    }
-    return { manual: false, value: null };
+  function applyHideUs(snap = usSessionMeta, override = null) {
+    if (!els.hideUs) return;
+    const autoHint = snap.phase === "pre"
+      ? "Auto: preapertura EE. UU."
+      : snap.phase === "post"
+        ? "Auto: postcierre EE. UU."
+        : snap.open ? "Auto: mercado EE. UU. abierto" : "Auto: mercado EE. UU. cerrado";
+    const action = hideUs ? "Mostrar EE. UU." : "Ocultar EE. UU.";
+    const manual = override ? " Manual hasta el próximo cambio de sesión." : "";
+    const label = `${action} ${autoHint}.${manual}`;
+    els.hideUs.setAttribute("aria-pressed", hideUs ? "true" : "false");
+    els.hideUs.setAttribute("aria-label", label);
+    els.hideUs.setAttribute("title", label);
+    els.hideUs.toggleAttribute("data-manual", !!override);
+    els.hideUs.dataset.session = snap.session || "";
+    els.app.classList.toggle("hide-us", hideUs);
   }
 
-  function saveMarketPrefs() {
-    if (!marketManual) {
-      localStorage.removeItem(MARKET_FILTER_KEY);
-      return;
-    }
-    localStorage.setItem(MARKET_FILTER_KEY, JSON.stringify({ manual: true, value: marketFilter }));
-    localStorage.removeItem(HIDE_US_OVERRIDE_KEY);
-  }
-
-  function autoMarketFilter(snap = usSessionMeta) {
-    return snap.open ? "all" : "nousa";
-  }
-
-  function syncMarketFilter({ render = false } = {}) {
+  function syncHideUs({ render = false } = {}) {
     usSessionMeta = usSessionSnapshot();
-    const saved = loadMarketPrefs();
-    const prev = marketFilter;
-    const prevManual = marketManual;
-    if (saved.manual) {
-      marketManual = true;
-      marketFilter = saved.value;
-    } else {
-      marketManual = false;
-      marketFilter = autoMarketFilter(usSessionMeta);
-    }
-    const changed = prev !== marketFilter || prevManual !== marketManual;
+    const override = activeHideUsOverride(usSessionMeta);
+    const next = override ? override.hide : !usSessionMeta.open;
+    const changed = next !== hideUs;
+    hideUs = next;
+    applyHideUs(usSessionMeta, override);
     if (render && changed) {
       renderAll();
       loadAggRange(aggRange);
     }
-  }
-
-  function syncHideUs(opts) {
-    syncMarketFilter(opts);
   }
 
   function systemTheme() {
@@ -2044,20 +2011,6 @@
     els.filters.innerHTML = FILTERS.map((item) =>
       `<button class="chip ${filter === item.id ? "active" : ""}" data-filter="${item.id}" type="button">${item.label}</button>`
     ).join("");
-    if (els.marketChips) {
-      const autoHint = marketManual
-        ? ""
-        : usSessionMeta.open
-          ? " · auto abierto"
-          : " · auto cerrado";
-      els.marketChips.innerHTML = MARKET_FILTERS.map((item) => {
-        const active = marketFilter === item.id;
-        const title = item.id === "nousa" && !marketManual && !usSessionMeta.open
-          ? "No USA (automático: mercado EE. UU. cerrado)"
-          : item.label;
-        return `<button class="chip ${active ? "active" : ""}" data-market="${item.id}" type="button" aria-pressed="${active}" title="${title}${autoHint}">${item.label}</button>`;
-      }).join("");
-    }
     if (els.cats) {
       const allOn = allCategoriesOn() || categoryFilter.size === 0;
       els.cats.innerHTML = [
@@ -2219,7 +2172,7 @@
   }
 
   async function refresh({ silent = false } = {}) {
-    syncMarketFilter();
+    syncHideUs();
     if (!silent) setStatus("Actualizando cotizaciones…");
     els.refresh.disabled = true;
     try {
@@ -2410,26 +2363,6 @@
         }
       }
       saveCategoryPrefs();
-      renderAll();
-      loadAggRange(aggRange);
-    });
-  }
-
-  if (els.marketChips) {
-    els.marketChips.addEventListener("click", (event) => {
-      const btn = event.target.closest("[data-market]");
-      if (!btn) return;
-      const id = btn.dataset.market;
-      if (!MARKET_FILTERS.some((item) => item.id === id)) return;
-      if (marketManual && marketFilter === id) {
-        marketManual = false;
-        saveMarketPrefs();
-        syncMarketFilter();
-      } else {
-        marketManual = true;
-        marketFilter = id;
-        saveMarketPrefs();
-      }
       renderAll();
       loadAggRange(aggRange);
     });
@@ -2869,6 +2802,16 @@
     });
   }
 
+  els.hideUs.addEventListener("click", () => {
+    usSessionMeta = usSessionSnapshot();
+    hideUs = !hideUs;
+    const override = { hide: hideUs, session: usSessionMeta.session, date: usSessionMeta.date };
+    localStorage.setItem(HIDE_US_OVERRIDE_KEY, JSON.stringify(override));
+    applyHideUs(usSessionMeta, override);
+    renderAll();
+    loadAggRange(aggRange);
+  });
+
   els.sector.addEventListener("click", async () => {
     sectorView = !sectorView;
     localStorage.setItem(SECTOR_KEY, sectorView ? "1" : "0");
@@ -2950,7 +2893,7 @@
     applyTheme(currentTheme());
     applyView();
     applySector();
-    syncMarketFilter();
+    syncHideUs();
     applyPostView();
     els.auto.checked = localStorage.getItem(AUTO_KEY) === "on";
     renderSourceButtons();
@@ -3013,7 +2956,7 @@
     showGate();
   });
 
-  globalThis.__carteraSyncUs = () => syncMarketFilter({ render: true });
+  globalThis.__carteraSyncUs = () => syncHideUs({ render: true });
 
   applyTheme(currentTheme());
 
