@@ -449,6 +449,12 @@ html:not([data-theme]) .theme-btn .icon-sun { display: none; }
 .card .value { font-weight: 750; font-variant-numeric: tabular-nums; }
 .card .value.up { color: var(--green); }
 .card .value.down { color: var(--red); }
+.card .sub {
+  margin-top: 0.12rem;
+  font-size: 0.68rem;
+  font-weight: 650;
+  color: var(--muted);
+}
 
 .markets { grid-template-columns: 1fr; }
 

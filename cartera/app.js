@@ -164,9 +164,7 @@
   }
 
   function dirClass(pct) {
-    if (pct > 0.005) return "up";
-    if (pct < -0.005) return "down";
-    return "flat";
+    return (globalThis.CarteraDayMoves && globalThis.CarteraDayMoves.dayDirection({ changePct: pct })) || "flat";
   }
 
   function signedPct(pct) {
@@ -1525,19 +1523,23 @@
     return CATEGORY_IDS.every((id) => categoryFilter.has(id));
   }
 
-  function visibleRows() {
+  function scopedRows() {
     const catsOpen = categoryOpen();
-    let list = rows.filter((row) => {
+    return rows.filter((row) => {
       if (hideUs && isUsListing(row)) return false;
       if (!catsOpen) {
         const id = categoryId(row);
         if (!id || !categoryFilter.has(id)) return false;
       }
-      if (filter === "all") return true;
-      if (filter === "up") return (row.changePct || 0) > 0.005;
-      if (filter === "down") return (row.changePct || 0) < -0.005;
       return true;
     });
+  }
+
+  function visibleRows() {
+    let list = scopedRows();
+    if (filter === "up") list = list.filter((row) => globalThis.CarteraDayMoves.dayDirection(row) === "up");
+    else if (filter === "down") list = list.filter((row) => globalThis.CarteraDayMoves.dayDirection(row) === "down");
+    else if (filter === "flat") list = list.filter((row) => globalThis.CarteraDayMoves.dayDirection(row) === "flat");
 
     const dir = sortDir === "asc" ? 1 : -1;
     list = [...list].sort((a, b) => {
@@ -1652,15 +1654,19 @@
   }
 
   function renderSummary(list) {
-    const priced = list.filter((r) => r.changePct != null && !r.missing);
-    const up = priced.filter((r) => r.changePct > 0.005).length;
-    const down = priced.filter((r) => r.changePct < -0.005).length;
-    const avg = priced.length ? priced.reduce((s, r) => s + r.changePct, 0) / priced.length : null;
+    const priced = list.filter((r) => globalThis.CarteraDayMoves.regularChangePct(r) != null);
+    const moves = globalThis.CarteraDayMoves.countDayMoves(list);
+    const avg = priced.length
+      ? priced.reduce((s, r) => s + globalThis.CarteraDayMoves.regularChangePct(r), 0) / priced.length
+      : null;
     const best = priced.reduce((a, b) => (!a || b.changePct > a.changePct ? b : a), null);
     const worst = priced.reduce((a, b) => (!a || b.changePct < a.changePct ? b : a), null);
+    const flatBit = moves.flat
+      ? `<div class="sub">${moves.flat} plano${moves.flat === 1 ? "" : "s"}</div>`
+      : "";
 
     els.summary.innerHTML = `
-      <article class="card"><div class="label">Suben / bajan</div><div class="value">${up} / ${down}</div></article>
+      <article class="card"><div class="label">Suben / bajan</div><div class="value">${moves.up} / ${moves.down}</div>${flatBit}</article>
       <article class="card"><div class="label">Media del día</div><div class="value ${dirClass(avg || 0)}">${signedPct(avg)}</div></article>
       <article class="card"><div class="label">Mejor</div><div class="value up">${best ? `${best.symbol} ${signedPct(best.changePct)}` : "n/d"}</div></article>
       <article class="card"><div class="label">Peor</div><div class="value down">${worst ? `${worst.symbol} ${signedPct(worst.changePct)}` : "n/d"}</div></article>
@@ -2008,7 +2014,15 @@
   }
 
   function renderChips() {
-    els.filters.innerHTML = FILTERS.map((item) =>
+    const moves = globalThis.CarteraDayMoves.countDayMoves(scopedRows());
+    if (filter === "flat" && !moves.flat) filter = "all";
+    const filterItems = FILTERS.map((item) => {
+      if (item.id === "up") return { id: "up", label: `Suben ${moves.up}` };
+      if (item.id === "down") return { id: "down", label: `Bajan ${moves.down}` };
+      return item;
+    });
+    if (moves.flat) filterItems.push({ id: "flat", label: `Planos ${moves.flat}` });
+    els.filters.innerHTML = filterItems.map((item) =>
       `<button class="chip ${filter === item.id ? "active" : ""}" data-filter="${item.id}" type="button">${item.label}</button>`
     ).join("");
     if (els.cats) {
@@ -2030,9 +2044,9 @@
 
   function renderAll() {
     renderChips();
-    const visible = visibleRows();
-    renderSummary(visible);
-    renderMarkets(visible);
+    const scoped = scopedRows();
+    renderSummary(scoped);
+    renderMarkets(scoped);
     renderList();
     renderPostList();
   }
