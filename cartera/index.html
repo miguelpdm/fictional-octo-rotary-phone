@@ -13,7 +13,7 @@
   <link rel="icon" href="./favicon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="./apple-touch-icon.png" sizes="180x180">
   <link rel="manifest" href="./manifest.webmanifest">
-  <link rel="stylesheet" href="./styles.css?v=20261029">
+  <link rel="stylesheet" href="./styles.css?v=20261030">
   <script>
     (function () {
       try {
@@ -62,11 +62,11 @@
           <input id="autoRefresh" type="checkbox" role="switch">
           <span class="track" aria-hidden="true"></span>
         </label>
-        <button class="view-btn us-btn" id="hideUsBtn" type="button" aria-pressed="false" aria-label="Ocultar EE. UU." title="Ocultar EE. UU.">
-          <span class="us-pill" aria-hidden="true">US</span>
-        </button>
         <button class="view-btn us-btn sector-btn" id="sectorBtn" type="button" aria-pressed="false" aria-label="Mostrar sector" title="Mostrar sector">
           <span class="us-pill" aria-hidden="true">Sector</span>
+        </button>
+        <button class="view-btn us-btn post-btn" id="postBtn" type="button" aria-pressed="false" aria-label="Vista Post" title="Vista Post">
+          <span class="us-pill" aria-hidden="true">Post</span>
         </button>
         <button class="view-btn" id="viewBtn" type="button" aria-pressed="false" aria-label="Vista compacta" title="Vista compacta">
           <svg class="icon-dense" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
@@ -102,11 +102,18 @@
 
     <section class="controls" id="quoteControls" aria-label="Filtros y orden">
       <div class="chips" id="filterChips"></div>
+      <div class="chips" id="marketChips" aria-label="Filtrar por mercado"></div>
       <div class="chips cats" id="categoryChips" aria-label="Filtrar por categoría"></div>
       <div class="chips" id="sortChips"></div>
     </section>
 
     <section id="list" class="list" aria-live="polite"></section>
+
+    <section class="post-panel" id="postPanel" hidden>
+      <h2 class="news-title">USA Pre / Post</h2>
+      <p class="news-lead">Precio de sesión y variación fuera de horario. Los gráficos siguen siendo solo de sesión regular.</p>
+      <div id="postList" class="post-list" aria-live="polite"></div>
+    </section>
 
     <section class="news-panel" id="newsPanel" hidden>
       <h2 class="news-title">Noticias interesantes</h2>
@@ -120,7 +127,6 @@
     </section>
 
     <footer>
-      <section class="agg-card" id="aggCard" aria-label="Cartera agregada"></section>
       <div class="lookup" id="lookup">
         <label class="lookup-label" for="lookupInput">Buscar acción</label>
         <input id="lookupInput" class="lookup-input" type="search" enterkeyhint="search" autocomplete="off" autocorrect="off" spellcheck="false" placeholder="Ticker o nombre (p. ej. AAPL)" aria-autocomplete="list" aria-controls="lookupSuggest" aria-expanded="false">
@@ -142,6 +148,6 @@
       <div id="lookupBody"></div>
     </div>
   </div>
-  <script src="./app.js?v=20261029"></script>
+  <script src="./app.js?v=20261030"></script>
 </body>
 </html>

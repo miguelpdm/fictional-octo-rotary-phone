@@ -354,7 +354,8 @@ a.site-link:focus-visible {
   text-transform: none;
 }
 
-.sector-btn[aria-pressed="true"] .us-pill {
+.sector-btn[aria-pressed="true"] .us-pill,
+.post-btn[aria-pressed="true"] .us-pill {
   text-decoration: none;
 }
 
@@ -854,7 +855,13 @@ html:not([data-theme]) .theme-btn .icon-sun { display: none; }
 .app.news-view .markets,
 .app.news-view #quoteControls,
 .app.news-view #list,
-.app.news-view .source-cluster { display: none; }
+.app.news-view .source-cluster,
+.app.news-view .post-panel,
+.app.post-view .summary,
+.app.post-view .markets,
+.app.post-view #quoteControls,
+.app.post-view #list,
+.app.post-view .source-cluster { display: none; }
 
 .news-panel[hidden] { display: none; }
 
@@ -940,33 +947,82 @@ footer {
   text-align: center;
 }
 
-.agg-card {
-  text-align: left;
-  margin: 0 auto 1.15rem;
-  max-width: 40rem;
-  background: var(--panel);
-  border: 1px solid var(--line);
-  border-radius: 18px;
-  padding: 1rem 0.9rem 0.95rem;
-  box-shadow: var(--shadow);
-}
-
-.agg-card .lookup-head { padding-right: 0; }
-
-.agg-card .lookup-price-row .price.up { color: var(--green); }
-.agg-card .lookup-price-row .price.down { color: var(--red); }
-.agg-card .lookup-price-row .price.flat { color: var(--muted); }
-
-.agg-card .chart-wide {
-  height: 168px;
-  margin-bottom: 0.4rem;
-}
-
 .agg-note {
   margin: 0.15rem 0 0;
   font-size: 0.68rem;
   font-weight: 600;
   color: var(--muted);
+}
+
+.row.agg-row {
+  border-color: color-mix(in srgb, var(--blue) 35%, var(--line));
+}
+
+.app.dense .row.agg-row {
+  grid-column: 1 / -1;
+}
+
+.app.dense .row.agg-row.open .details {
+  display: block !important;
+}
+
+.app.dense .row.agg-row .row-main {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) 72px minmax(5.6rem, auto);
+  gap: 0.45rem;
+  align-items: center;
+  cursor: pointer;
+}
+
+.app.dense .row.agg-row .tile-top,
+.app.dense .row.agg-row .tile-bottom {
+  display: contents;
+}
+
+.app.dense .row.agg-row .sym { font-size: 0.92rem; }
+.app.dense .row.agg-row .price { font-size: 1.02rem; }
+.app.dense .row.agg-row .ccy { display: inline; }
+.app.dense .row.agg-row .chart-tiny { display: none; }
+
+.post-panel[hidden] { display: none; }
+
+.post-list { display: grid; gap: 0.32rem; }
+
+.post-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) auto auto;
+  gap: 0.4rem 0.55rem;
+  align-items: center;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 0.55rem 0.7rem;
+}
+
+.post-row .sym { font-size: 0.9rem; }
+.post-row .name {
+  font-size: 0.68rem;
+  margin-top: 0.04rem;
+}
+
+.post-price {
+  font-weight: 750;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+.post-ext {
+  text-align: right;
+  font-size: 0.72rem;
+  font-weight: 750;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.25;
+}
+
+.post-ext .kind {
+  color: var(--muted);
+  font-weight: 650;
+  margin-right: 0.2rem;
 }
 
 .lookup {
