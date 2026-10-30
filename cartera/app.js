@@ -10,6 +10,9 @@
   const SECTOR_KEY = "cartera-sector";
   const THEME_KEY = "cartera-theme";
   const HIDE_US_OVERRIDE_KEY = "cartera-hide-us-override";
+  const MARKET_FILTER_KEY = "cartera-market-filter";
+  const POST_KEY = "cartera-post-view";
+  const AGG_ID = "__CARTERA__";
   const NY_TZ = "America/New_York";
   const US_GOOD_FRIDAY = {
     2024: "2024-03-29",
@@ -37,6 +40,12 @@
     { id: "all", label: "Todas" },
     { id: "up", label: "Suben" },
     { id: "down", label: "Bajan" }
+  ];
+
+  const MARKET_FILTERS = [
+    { id: "all", label: "Todos" },
+    { id: "usa", label: "USA" },
+    { id: "nousa", label: "No USA" }
   ];
 
   const SORTS = [
@@ -81,7 +90,9 @@
   let newsLang = "all";
   let newsView = false;
   let quoteStatus = "";
-  let hideUs = false;
+  let marketFilter = "all";
+  let marketManual = false;
+  let postView = false;
   let usSessionMeta = { session: "closed", date: "", open: false };
   let expanded = new Set();
   let autoTimer = null;
@@ -113,6 +124,7 @@
     summary: document.getElementById("summary"),
     markets: document.getElementById("markets"),
     filters: document.getElementById("filterChips"),
+    marketChips: document.getElementById("marketChips"),
     cats: document.getElementById("categoryChips"),
     sorts: document.getElementById("sortChips"),
     list: document.getElementById("list"),
@@ -122,7 +134,9 @@
     newsChips: document.getElementById("newsChips"),
     newsLangChips: document.getElementById("newsLangChips"),
     newsList: document.getElementById("newsList"),
-    hideUs: document.getElementById("hideUsBtn"),
+    postBtn: document.getElementById("postBtn"),
+    postPanel: document.getElementById("postPanel"),
+    postList: document.getElementById("postList"),
     sector: document.getElementById("sectorBtn"),
     theme: document.getElementById("themeBtn"),
     themeGate: document.getElementById("themeBtnGate"),
@@ -133,8 +147,7 @@
     lookupHint: document.getElementById("lookupHint"),
     lookupSheet: document.getElementById("lookupSheet"),
     lookupBody: document.getElementById("lookupBody"),
-    lookupClose: document.getElementById("lookupClose"),
-    aggCard: document.getElementById("aggCard")
+    lookupClose: document.getElementById("lookupClose")
   };
 
   const nf = (value, digits = 2) => new Intl.NumberFormat("es-ES", {
@@ -662,6 +675,10 @@
 
   async function setRowChartRange(symbol, rangeId) {
     if (!CHART_RANGES.some((item) => item.id === rangeId)) return;
+    if (symbol === AGG_ID) {
+      await loadAggRange(rangeId);
+      return;
+    }
     rowChartRange.set(symbol, rangeId);
     if (rangeId !== "1d") {
       try {
@@ -756,13 +773,33 @@
     }
   }
 
+  function matchesMarket(row) {
+    if (marketFilter === "usa") return isUsListing(row);
+    if (marketFilter === "nousa") return !isUsListing(row);
+    return true;
+  }
+
+  function categoryOpen() {
+    return allCategoriesOn() || categoryFilter.size === 0;
+  }
+
+  function aggUniverse() {
+    const catsOpen = categoryOpen();
+    return rows.filter((row) => {
+      if (row.missing) return false;
+      if (!matchesMarket(row)) return false;
+      if (!catsOpen) {
+        const id = categoryId(row);
+        if (!id || !categoryFilter.has(id)) return false;
+      }
+      return true;
+    });
+  }
+
   async function fillAggRangeData(rangeId) {
     if (rangeId === "1d") return;
     const spec = aggRangeSpec(rangeId);
-    const need = rows.filter((row) => {
-      if (row.missing) return false;
-      return sparkFromRangeCache(row, rangeId).length < 2;
-    });
+    const need = aggUniverse().filter((row) => sparkFromRangeCache(row, rangeId).length < 2);
     if (!need.length) return;
     const symbols = [...new Set(need.map((row) => row.yahoo || row.symbol))];
     const map = {};
@@ -798,7 +835,7 @@
 
   function buildAggIntraday(info) {
     const members = [];
-    for (const row of rows) {
+    for (const row of aggUniverse()) {
       if (row.missing) continue;
       const w = info.weights[row.symbol] || 0;
       if (w <= 0) continue;
@@ -836,7 +873,7 @@
 
   function buildAggDaily(rangeId, info) {
     const members = [];
-    for (const row of rows) {
+    for (const row of aggUniverse()) {
       if (row.missing) continue;
       const w = info.weights[row.symbol] || 0;
       if (w <= 0) continue;
@@ -875,7 +912,7 @@
   }
 
   function computeAggView(rangeId) {
-    const info = positionPesos(rows);
+    const info = positionPesos(aggUniverse());
     const built = rangeId === "1d" ? buildAggIntraday(info) : buildAggDaily(rangeId, info);
     return {
       range: rangeId,
@@ -886,35 +923,17 @@
     };
   }
 
-  function renderAggCard() {
-    if (!els.aggCard) return;
-    const view = aggView;
-    const tip = view.range === "1d" ? "full" : rangeTipMode(view.range);
-    const chart = view.loading
-      ? `<p class="note">Cargando evolución de la cartera…</p>`
-      : view.spark.length < 2
-        ? `<p class="note">No hay suficientes series para este periodo.</p>`
-        : chartHtml(view.spark, 0, true, "", tip, "pct");
-    els.aggCard.innerHTML = `
-      <div class="lookup-head">
-        <div class="sym">Cartera agregada</div>
-        <div class="name">Media ponderada de las posiciones, rebasada a 0 % al inicio del periodo</div>
-      </div>
-      <div class="lookup-price-row">
-        <div class="price ${dirClass(view.changePct || 0)}">${view.loading ? "…" : signedPct(view.changePct)}</div>
-      </div>
-      ${rangeChipsHtml(view.range, "data-agg-range")}
-      ${chart}
-      <p class="agg-note">${escapeHtml(view.note)}</p>
-    `;
+  function aggDayView() {
+    return computeAggView("1d");
   }
 
   async function loadAggRange(rangeId) {
     if (!CHART_RANGES.some((item) => item.id === rangeId)) return;
     aggRange = rangeId;
+    rowChartRange.set(AGG_ID, rangeId);
     const seq = ++aggLoadSeq;
     aggView = { ...aggView, range: rangeId, loading: true };
-    renderAggCard();
+    renderList();
     try {
       await fillAggRangeData(rangeId);
       if (seq !== aggLoadSeq) return;
@@ -922,9 +941,9 @@
     } catch (error) {
       console.warn("Cartera agregada falló", error);
       if (seq !== aggLoadSeq) return;
-      aggView = { range: rangeId, loading: false, spark: [], changePct: null, note: pesoNote(positionPesos(rows)) };
+      aggView = { range: rangeId, loading: false, spark: [], changePct: null, note: pesoNote(positionPesos(aggUniverse())) };
     }
-    renderAggCard();
+    renderList();
   }
 
   async function fetchYahooSearch(query) {
@@ -1521,9 +1540,9 @@
   }
 
   function visibleRows() {
-    const catsOpen = allCategoriesOn() || categoryFilter.size === 0;
+    const catsOpen = categoryOpen();
     let list = rows.filter((row) => {
-      if (hideUs && isUsListing(row)) return false;
+      if (!matchesMarket(row)) return false;
       if (!catsOpen) {
         const id = categoryId(row);
         if (!id || !categoryFilter.has(id)) return false;
@@ -1739,32 +1758,54 @@
     return `<div class="chart chart-tiny" aria-hidden="true"><svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none"><path d="${d}" fill="none" stroke="${color}" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"></path></svg></div>`;
   }
 
-  function applyHideUs(snap = usSessionMeta, override = null) {
-    if (!els.hideUs) return;
-    const autoHint = snap.phase === "pre"
-      ? "Auto: preapertura EE. UU."
-      : snap.phase === "post"
-        ? "Auto: postcierre EE. UU."
-        : snap.open ? "Auto: mercado EE. UU. abierto" : "Auto: mercado EE. UU. cerrado";
-    const action = hideUs ? "Mostrar EE. UU." : "Ocultar EE. UU.";
-    const manual = override ? " Manual hasta el próximo cambio de sesión." : "";
-    const label = `${action} ${autoHint}.${manual}`;
-    els.hideUs.setAttribute("aria-pressed", hideUs ? "true" : "false");
-    els.hideUs.setAttribute("aria-label", label);
-    els.hideUs.setAttribute("title", label);
-    els.hideUs.toggleAttribute("data-manual", !!override);
-    els.hideUs.dataset.session = snap.session || "";
-    els.app.classList.toggle("hide-us", hideUs);
+  function loadMarketPrefs() {
+    try {
+      const saved = JSON.parse(localStorage.getItem(MARKET_FILTER_KEY) || "null");
+      if (saved && saved.manual && MARKET_FILTERS.some((item) => item.id === saved.value)) {
+        return { manual: true, value: saved.value };
+      }
+    } catch {}
+    const old = activeHideUsOverride(usSessionSnapshot());
+    if (old) {
+      return { manual: true, value: old.hide ? "nousa" : "all" };
+    }
+    return { manual: false, value: null };
   }
 
-  function syncHideUs({ render = false } = {}) {
+  function saveMarketPrefs() {
+    if (!marketManual) {
+      localStorage.removeItem(MARKET_FILTER_KEY);
+      return;
+    }
+    localStorage.setItem(MARKET_FILTER_KEY, JSON.stringify({ manual: true, value: marketFilter }));
+    localStorage.removeItem(HIDE_US_OVERRIDE_KEY);
+  }
+
+  function autoMarketFilter(snap = usSessionMeta) {
+    return snap.open ? "all" : "nousa";
+  }
+
+  function syncMarketFilter({ render = false } = {}) {
     usSessionMeta = usSessionSnapshot();
-    const override = activeHideUsOverride(usSessionMeta);
-    const next = override ? override.hide : !usSessionMeta.open;
-    const changed = next !== hideUs;
-    hideUs = next;
-    applyHideUs(usSessionMeta, override);
-    if (render && changed) renderAll();
+    const saved = loadMarketPrefs();
+    const prev = marketFilter;
+    const prevManual = marketManual;
+    if (saved.manual) {
+      marketManual = true;
+      marketFilter = saved.value;
+    } else {
+      marketManual = false;
+      marketFilter = autoMarketFilter(usSessionMeta);
+    }
+    const changed = prev !== marketFilter || prevManual !== marketManual;
+    if (render && changed) {
+      renderAll();
+      loadAggRange(aggRange);
+    }
+  }
+
+  function syncHideUs(opts) {
+    syncMarketFilter(opts);
   }
 
   function systemTheme() {
@@ -1798,6 +1839,52 @@
     applyTheme(next);
   }
 
+  function postSortPct(row) {
+    const post = row.ext?.kind === "post" ? row.ext.changePct : null;
+    const pre = row.ext?.kind === "pre" ? row.ext.changePct : null;
+    if (post != null && Number.isFinite(Number(post))) return Number(post);
+    if (pre != null && Number.isFinite(Number(pre))) return Number(pre);
+    return -Infinity;
+  }
+
+  function renderPostList() {
+    if (!els.postList) return;
+    const catsOpen = categoryOpen();
+    const list = rows
+      .filter((row) => !row.missing && isUsListing(row) && (catsOpen || categoryFilter.has(categoryId(row))))
+      .sort((a, b) => postSortPct(b) - postSortPct(a));
+    if (!list.length) {
+      els.postList.innerHTML = '<div class="state">No hay valores USA para esta vista.</div>';
+      return;
+    }
+    els.postList.innerHTML = list.map((row) => {
+      const ext = row.ext;
+      const extBlock = ext && ext.price != null
+        ? `<div class="post-ext"><span class="kind">${ext.kind === "pre" ? "Pre" : "Post"}</span><span class="${dirClass(ext.changePct || 0)}">${signedPct(ext.changePct)}</span><div>${nf(ext.price, priceDigits(ext.price))}</div></div>`
+        : `<div class="post-ext"><span class="kind">—</span></div>`;
+      return `<article class="post-row">
+        <div>
+          <div class="sym">${row.symbol}${categoryTag(row)}</div>
+          <div class="name">${escapeHtml(row.name || "")}</div>
+        </div>
+        <div class="post-price">${row.price != null ? nf(row.price, priceDigits(row.price)) : "n/d"}</div>
+        ${extBlock}
+      </article>`;
+    }).join("");
+  }
+
+  function applyPostView() {
+    if (!els.app) return;
+    els.app.classList.toggle("post-view", postView && !newsView);
+    if (els.postBtn) {
+      els.postBtn.setAttribute("aria-pressed", postView ? "true" : "false");
+      els.postBtn.setAttribute("aria-label", postView ? "Cerrar vista Post" : "Vista Post");
+      els.postBtn.setAttribute("title", postView ? "Cerrar vista Post" : "Vista Post");
+    }
+    if (els.postPanel) els.postPanel.hidden = !(postView && !newsView);
+    if (postView && !newsView) renderPostList();
+  }
+
   function applyView() {
     els.app.classList.toggle("dense", denseView);
     els.view.setAttribute("aria-pressed", denseView ? "true" : "false");
@@ -1809,15 +1896,58 @@
     if (listIcon) listIcon.toggleAttribute("hidden", !denseView);
   }
 
+  function renderAggRowHtml() {
+    const universe = aggUniverse();
+    if (!universe.length) return "";
+    const day = aggDayView();
+    const view = aggView.range === "1d" || !aggView.range ? day : aggView;
+    const open = expanded.has(AGG_ID);
+    const klass = dirClass(day.changePct || 0);
+    const miniSpark = day.spark;
+    const tip = view.range === "1d" ? "full" : rangeTipMode(view.range);
+    const chart = view.loading
+      ? `<p class="note">Cargando evolución de la cartera…</p>`
+      : view.spark.length < 2
+        ? `<p class="note">No hay suficientes series para este periodo.</p>`
+        : chartHtml(view.spark, 0, true, "", tip, "pct");
+    const details = `
+      <button type="button" class="lookup-close row-close" data-close-row aria-label="Cerrar">✕</button>
+      <div class="chart-col chart-col-wide">
+        ${rangeChipsHtml(view.range, "data-agg-range")}
+        ${chart}
+        ${rangePctHtml(view)}
+      </div>
+      <p class="agg-note">${escapeHtml(view.note || day.note || "Pesos iguales")}</p>
+    `;
+    return `<article class="row agg-row ${open ? "open" : ""}" data-symbol="${AGG_ID}">
+      <div class="row-main">
+        <div>
+          <div class="sym">Cartera (media)</div>
+          <div class="name">${escapeHtml(view.note || "Media de los valores visibles")}</div>
+        </div>
+        <div>
+          ${chartHtml(miniSpark, 0, false, "", "time", "pct")}
+        </div>
+        <div class="right">
+          <div class="badge ${klass}">${day.loading ? "…" : signedPct(day.changePct)}</div>
+        </div>
+      </div>
+      <div class="details">${details}</div>
+    </article>`;
+  }
+
   function renderList() {
     const list = visibleRows();
+    const aggHtml = renderAggRowHtml();
     if (!list.length) {
-      els.list.innerHTML = '<div class="state">No hay valores para este filtro.</div>';
+      els.list.innerHTML = aggHtml
+        ? `${aggHtml}<div class="state">No hay valores para este filtro.</div>`
+        : '<div class="state">No hay valores para este filtro.</div>';
       return;
     }
 
     if (denseView) {
-      els.list.innerHTML = list.map((row) => {
+      els.list.innerHTML = aggHtml + list.map((row) => {
         if (row.missing) {
           return `<article class="row" data-symbol="${row.symbol}">
             <div class="row-main">
@@ -1850,7 +1980,7 @@
       return;
     }
 
-    els.list.innerHTML = list.map((row) => {
+    els.list.innerHTML = aggHtml + list.map((row) => {
       const open = expanded.has(row.symbol);
       if (row.missing) {
         return `<article class="row ${open ? "open" : ""}" data-symbol="${row.symbol}">
@@ -1914,6 +2044,20 @@
     els.filters.innerHTML = FILTERS.map((item) =>
       `<button class="chip ${filter === item.id ? "active" : ""}" data-filter="${item.id}" type="button">${item.label}</button>`
     ).join("");
+    if (els.marketChips) {
+      const autoHint = marketManual
+        ? ""
+        : usSessionMeta.open
+          ? " · auto abierto"
+          : " · auto cerrado";
+      els.marketChips.innerHTML = MARKET_FILTERS.map((item) => {
+        const active = marketFilter === item.id;
+        const title = item.id === "nousa" && !marketManual && !usSessionMeta.open
+          ? "No USA (automático: mercado EE. UU. cerrado)"
+          : item.label;
+        return `<button class="chip ${active ? "active" : ""}" data-market="${item.id}" type="button" aria-pressed="${active}" title="${title}${autoHint}">${item.label}</button>`;
+      }).join("");
+    }
     if (els.cats) {
       const allOn = allCategoriesOn() || categoryFilter.size === 0;
       els.cats.innerHTML = [
@@ -1937,7 +2081,7 @@
     renderSummary(visible);
     renderMarkets(visible);
     renderList();
-    renderAggCard();
+    renderPostList();
   }
 
   function setStatus(message) {
@@ -2053,6 +2197,7 @@
       els.newsBtn.setAttribute("title", newsView ? "Volver a la cartera" : "Noticias interesantes");
     }
     if (els.newsPanel) els.newsPanel.hidden = !newsView;
+    if (newsView && els.postPanel) els.postPanel.hidden = true;
     if (newsView) {
       els.status.textContent = "Noticias interesantes (solo públicas).";
       if (els.delay) els.delay.textContent = "Sin cantidades ni precios. Cada ficha abre la fuente en una pestaña nueva.";
@@ -2061,6 +2206,7 @@
     } else if (quoteStatus) {
       els.status.textContent = quoteStatus;
     }
+    if (!newsView) applyPostView();
   }
 
   function toggleNewsView() {
@@ -2073,7 +2219,7 @@
   }
 
   async function refresh({ silent = false } = {}) {
-    syncHideUs();
+    syncMarketFilter();
     if (!silent) setStatus("Actualizando cotizaciones…");
     els.refresh.disabled = true;
     try {
@@ -2224,6 +2370,7 @@
     if (!btn) return;
     filter = btn.dataset.filter;
     renderAll();
+    loadAggRange(aggRange);
   });
 
   function loadCategoryPrefs() {
@@ -2264,6 +2411,27 @@
       }
       saveCategoryPrefs();
       renderAll();
+      loadAggRange(aggRange);
+    });
+  }
+
+  if (els.marketChips) {
+    els.marketChips.addEventListener("click", (event) => {
+      const btn = event.target.closest("[data-market]");
+      if (!btn) return;
+      const id = btn.dataset.market;
+      if (!MARKET_FILTERS.some((item) => item.id === id)) return;
+      if (marketManual && marketFilter === id) {
+        marketManual = false;
+        saveMarketPrefs();
+        syncMarketFilter();
+      } else {
+        marketManual = true;
+        marketFilter = id;
+        saveMarketPrefs();
+      }
+      renderAll();
+      loadAggRange(aggRange);
     });
   }
 
@@ -2580,20 +2748,14 @@
     els.lookupBody.addEventListener("pointerup", onChartPointerUp);
     els.lookupBody.addEventListener("pointercancel", onChartPointerUp);
   }
-  if (els.aggCard) {
-    els.aggCard.addEventListener("pointerdown", onChartPointerDown);
-    els.aggCard.addEventListener("pointermove", onChartPointerMove);
-    els.aggCard.addEventListener("pointerup", onChartPointerUp);
-    els.aggCard.addEventListener("pointercancel", onChartPointerUp);
-    els.aggCard.addEventListener("click", (event) => {
-      const btn = event.target.closest("[data-agg-range]");
-      if (!btn) return;
-      event.preventDefault();
-      loadAggRange(btn.dataset.aggRange);
-    });
-  }
-
   els.list.addEventListener("click", (event) => {
+    const aggRangeBtn = event.target.closest("[data-agg-range]");
+    if (aggRangeBtn) {
+      event.preventDefault();
+      event.stopPropagation();
+      loadAggRange(aggRangeBtn.dataset.aggRange);
+      return;
+    }
     const rangeBtn = event.target.closest("[data-chart-range]");
     if (rangeBtn) {
       event.preventDefault();
@@ -2614,6 +2776,14 @@
     }
     if (denseView) {
       const article = event.target.closest("[data-symbol]");
+      if (article?.dataset.symbol === AGG_ID) {
+        const symbol = AGG_ID;
+        if (expanded.has(symbol)) expanded.delete(symbol);
+        else expanded.add(symbol);
+        if (expanded.has(symbol) && aggRange !== "1d") loadAggRange(aggRange);
+        else renderList();
+        return;
+      }
       const row = rows.find((item) => item.symbol === article?.dataset.symbol);
       if (row && !row.missing) {
         openLookup({
@@ -2686,21 +2856,25 @@
   if (themeMq.addEventListener) themeMq.addEventListener("change", onSystemTheme);
   else if (themeMq.addListener) themeMq.addListener(onSystemTheme);
 
+  if (els.postBtn) {
+    els.postBtn.addEventListener("click", () => {
+      postView = !postView;
+      localStorage.setItem(POST_KEY, postView ? "1" : "0");
+      if (postView && newsView) {
+        history.pushState(null, "", `${location.pathname}${location.search}`);
+        applyNewsView();
+      }
+      applyPostView();
+      renderPostList();
+    });
+  }
+
   els.sector.addEventListener("click", async () => {
     sectorView = !sectorView;
     localStorage.setItem(SECTOR_KEY, sectorView ? "1" : "0");
     applySector();
     renderList();
     if (sectorView) await refreshBenchmarks();
-  });
-
-  els.hideUs.addEventListener("click", () => {
-    usSessionMeta = usSessionSnapshot();
-    hideUs = !hideUs;
-    const override = { hide: hideUs, session: usSessionMeta.session, date: usSessionMeta.date };
-    localStorage.setItem(HIDE_US_OVERRIDE_KEY, JSON.stringify(override));
-    applyHideUs(usSessionMeta, override);
-    renderAll();
   });
 
   document.addEventListener("visibilitychange", () => {
@@ -2772,10 +2946,12 @@
     loadCategoryPrefs();
     denseView = localStorage.getItem(VIEW_KEY) === "dense";
     sectorView = localStorage.getItem(SECTOR_KEY) === "1";
+    postView = localStorage.getItem(POST_KEY) === "1";
     applyTheme(currentTheme());
     applyView();
     applySector();
-    syncHideUs();
+    syncMarketFilter();
+    applyPostView();
     els.auto.checked = localStorage.getItem(AUTO_KEY) === "on";
     renderSourceButtons();
     renderChips();
@@ -2837,7 +3013,7 @@
     showGate();
   });
 
-  globalThis.__carteraSyncUs = () => syncHideUs({ render: true });
+  globalThis.__carteraSyncUs = () => syncMarketFilter({ render: true });
 
   applyTheme(currentTheme());
 
