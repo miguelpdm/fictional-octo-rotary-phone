@@ -949,9 +949,12 @@
   async function enrichUsCloseSparks(map, positions) {
     const extra = (positions || []).filter((p) => p.utcOpenBaseline);
     if (!extra.length) return map;
+    const spec = globalThis.CarteraBtcWeekend.weekendSparkSpec(nowDate());
     const fetched = await Promise.all(extra.map((p) => {
       const symbol = p.yahoo || p.symbol;
-      return fetchYahooChart5m(symbol, "2d").then((q) => [symbol, q]).catch(() => null);
+      return fetchYahooChart(symbol, { range: spec.range, interval: spec.interval, keepAll: true })
+        .then((q) => [symbol, q])
+        .catch(() => null);
     }));
     for (const pair of fetched) {
       if (pair && pair[1]?.spark?.length >= 2) map[pair[0]] = pair[1];
@@ -985,9 +988,16 @@
     const map = await fetchYahooLive(positions);
     const missing = unique.filter((s) => (map[s]?.spark?.length || 0) < 2);
     if (missing.length) {
-      const extras = await Promise.all(missing.map((s) =>
-        fetchYahooChart5m(s, "1d", usSet.has(s)).then((q) => [s, q]).catch(() => null)
-      ));
+      const extras = await Promise.all(missing.map((s) => {
+        const pos = positions.find((p) => (p.yahoo || p.symbol) === s);
+        if (pos?.utcOpenBaseline) {
+          const spec = globalThis.CarteraBtcWeekend.weekendSparkSpec(nowDate());
+          return fetchYahooChart(s, { range: spec.range, interval: spec.interval, keepAll: true })
+            .then((q) => [s, q])
+            .catch(() => null);
+        }
+        return fetchYahooChart5m(s, "1d", usSet.has(s)).then((q) => [s, q]).catch(() => null);
+      }));
       for (const pair of extras) {
         if (pair && pair[1]?.spark?.length >= 2) map[pair[0]] = pair[1];
       }
@@ -1302,17 +1312,7 @@
   }
 
   function lastUsCloseSec(date = nowDate()) {
-    const parts = tzParts(date, TZ);
-    let year = parts.year;
-    let month = parts.month;
-    let day = parts.day;
-    if (parts.hour < 22) {
-      const prev = new Date(Date.UTC(year, month - 1, day) - 86400000);
-      year = prev.getUTCFullYear();
-      month = prev.getUTCMonth() + 1;
-      day = prev.getUTCDate();
-    }
-    return zonedLocalToUnixSec(year, month, day, 22, 0, TZ);
+    return globalThis.CarteraBtcWeekend.btcOpenBaselineSec(date);
   }
 
   function usCloseSessionFromSpark(spark, start) {
