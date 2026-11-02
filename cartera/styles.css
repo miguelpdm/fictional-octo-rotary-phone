@@ -575,6 +575,7 @@ html:not([data-theme]) .theme-btn .icon-sun { display: none; }
 
 .ext-line .up { color: var(--green); }
 .ext-line .down { color: var(--red); }
+.ext-line .flat { color: var(--muted); }
 
 .app.dense .ext-line {
   margin-top: 0.04rem;
@@ -1030,6 +1031,10 @@ footer {
   font-weight: 650;
   margin-right: 0.2rem;
 }
+
+.post-ext .up { color: var(--green); }
+.post-ext .down { color: var(--red); }
+.post-ext .flat { color: var(--muted); }
 
 .lookup {
   position: relative;
