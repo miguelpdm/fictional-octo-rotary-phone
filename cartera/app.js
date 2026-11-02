@@ -1484,10 +1484,11 @@
     const ext = row?.ext;
     if (!ext || ext.price == null || !Number.isFinite(Number(ext.price))) return "";
     const label = ext.kind === "post" ? "Post" : "Pre";
+    const klass = dirClass(ext.changePct);
     const pct = ext.changePct == null || Number.isNaN(Number(ext.changePct))
       ? ""
-      : ` <span class="${dirClass(ext.changePct)}">${signedPct(ext.changePct)}</span>`;
-    return `<div class="ext-line">${label} ${nf(ext.price, priceDigits(ext.price))}${pct}</div>`;
+      : ` <span class="${klass}">${signedPct(ext.changePct)}</span>`;
+    return `<div class="ext-line">${label} <span class="${klass}">${nf(ext.price, priceDigits(ext.price))}</span>${pct}</div>`;
   }
 
   function benchHtml(row) {
@@ -1833,7 +1834,7 @@
     els.postList.innerHTML = list.map((row) => {
       const ext = row.ext;
       const extBlock = ext && ext.price != null
-        ? `<div class="post-ext"><span class="kind">${ext.kind === "pre" ? "Pre" : "Post"}</span><span class="${dirClass(ext.changePct || 0)}">${signedPct(ext.changePct)}</span><div>${nf(ext.price, priceDigits(ext.price))}</div></div>`
+        ? `<div class="post-ext"><span class="kind">${ext.kind === "pre" ? "Pre" : "Post"}</span><span class="${dirClass(ext.changePct)}">${signedPct(ext.changePct)}</span><div class="${dirClass(ext.changePct)}">${nf(ext.price, priceDigits(ext.price))}</div></div>`
         : `<div class="post-ext"><span class="kind">—</span></div>`;
       return `<article class="post-row">
         <div>
