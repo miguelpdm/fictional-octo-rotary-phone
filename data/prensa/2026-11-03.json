@@ -1,0 +1,139 @@
+{
+ "fecha": "2026-11-03",
+ "secciones": [
+  {
+   "nombre": "España",
+   "items": [
+    {
+     "titular": "Actualización Urda: Puente comparece hoy ante un Congreso que pide su dimisión, con un paquete de cambios en Adif y más personal",
+     "url": "https://elpais.com/espana/2026-11-03/puente-se-enfrenta-a-su-comparecencia-clave-con-un-plan-de-medidas-para-reforzar-la-seguridad-de-los-trenes.html",
+     "fuente": "El País",
+     "nota": "El Consejo de Ministros aprueba además ayudas exprés para los afectados."
+    },
+    {
+     "titular": "Identificadas ya las 69 víctimas de Urda; el Gobierno adelantará las indemnizaciones",
+     "url": "https://www.eldiario.es/castilla-la-mancha/provincias/toledo/identificadas-69-personas-fallecidas-accidente-ferroviario-urda_1_13632599.html",
+     "fuente": "elDiario.es",
+     "nota": "También en La Vanguardia."
+    },
+    {
+     "titular": "La Policía desaloja de madrugada a los últimos acampados de la Puerta del Sol",
+     "url": "https://www.abc.es/espana/madrid/policia-desaloja-ultimos-integrantes-acampada-sol-20261103060850-nt.html",
+     "fuente": "ABC",
+     "nota": "También en El Confidencial."
+    },
+    {
+     "titular": "Rebelión interna en Aliança Catalana porque Orriols no se presenta al 29-N; expedientan a los críticos",
+     "url": "https://www.elconfidencial.com/espana/cataluna/2026-11-03/rebelion-interna-alianca-negativa-orriols-generales_4456747/",
+     "fuente": "El Confidencial"
+    }
+   ]
+  },
+  {
+   "nombre": "Internacional",
+   "items": [
+    {
+     "titular": "Actualización Irán: EE. UU. ataca la isla de Qeshm en la víspera de las midterms, ataques «limitados y defensivos»",
+     "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
+     "fuente": "BBC",
+     "nota": "También FT, WSJ y Reuters."
+    },
+    {
+     "titular": "Midterms hoy: el Supremo rechaza la petición de Trump para frenar el recuento de votos en California",
+     "url": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html",
+     "fuente": "NYT",
+     "nota": "También BBC."
+    },
+    {
+     "titular": "Ucrania: al menos 26 muertos por bombas rusas en un centro de ayuda; EE. UU. anuncia negociaciones Moscú-Kiev el 10 y 11 de noviembre",
+     "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
+     "fuente": "BBC",
+     "nota": "También Guardian, El País y Le Monde (negociaciones)."
+    }
+   ]
+  },
+  {
+   "nombre": "Economía y mercados",
+   "items": [
+    {
+     "titular": "Actualización: Marvell y Lumentum confirman su fusión de 115.000 millones, apostando por la red óptica para centros de datos de IA",
+     "url": "https://www.nytimes.com/2026/11/02/technology/marvell-lumentum-115-billion-merger-ai.html",
+     "fuente": "NYT",
+     "nota": "También Bloomberg."
+    },
+    {
+     "titular": "Apple gana un 12% más, pero avisa de que la memoria cada vez más cara golpeará márgenes",
+     "url": "https://www.nytimes.com/2026/11/02/technology/apple-earnings.html",
+     "fuente": "NYT",
+     "nota": "También FT."
+    },
+    {
+     "titular": "CVR Energy, de Icahn, cerca de comprar refinerías de Marathon por más de 4.000 millones",
+     "url": "https://www.wsj.com/business/deals/carl-icahns-cvr-energy-near-over-4-billion-deal-for-marathon-refineries-e8487579",
+     "fuente": "WSJ",
+     "nota": "También Bloomberg."
+    },
+    {
+     "titular": "La luz subiría 2.000 millones al año si los centros de datos se conectan sin exigirles energía limpia, según un estudio",
+     "url": "https://elpais.com/economia/2026-11-03/la-factura-de-la-luz-se-encarecera-en-2000-millones-al-ano-si-descarrila-el-decreto-de-centros-de-datos.html",
+     "fuente": "El País"
+    }
+   ]
+  },
+  {
+   "nombre": "Tecnología e IA",
+   "items": [
+    {
+     "titular": "Actualización OPV: Anthropic ingresa 17.000 millones en el trimestre (12 veces más) y pierde 23.000; los inversores piden valorarla más cerca de 1,5 billones",
+     "url": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
+     "fuente": "NYT",
+     "nota": "También WSJ."
+    },
+    {
+     "titular": "Nvidia pide a los proveedores cloud que la mayoría de sus clientes no sean chinos",
+     "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2",
+     "fuente": "FT",
+     "nota": "También Bloomberg."
+    },
+    {
+     "titular": "Hackean congeladores de supermercados en siete países europeos, algunos llegaron a 50 °C",
+     "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
+     "fuente": "BBC",
+     "nota": "También NYT, Guardian y El País."
+    },
+    {
+     "titular": "China prepara un amplio paquete de normas de seguridad de IA para evitar perder el control de los modelos",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-03/china-plans-broad-ai-guardrails-after-global-security-lapses",
+     "fuente": "Bloomberg"
+    }
+   ]
+  },
+  {
+   "nombre": "IA en X",
+   "items": [
+    {
+     "titular": "@barckcode prepara para esta semana la beta de una app nativa (macOS, Linux y Windows) con computer use; tendrá móvil pero no web",
+     "url": "https://x.com/barckcode/status/2117376560068251722",
+     "fuente": "X @barckcode",
+     "nota": "Seguimiento: https://x.com/barckcode/status/2117399875575009676"
+    },
+    {
+     "titular": "NaN, de @G_Programming, gana usuarios: uno se pasa a su plan básico por 1.500 millones de tokens al mes y otro se anima a probar su herramienta «gentle»",
+     "url": "https://x.com/lufesarientomu/status/2117356371268010263",
+     "fuente": "X @lufesarientomu",
+     "nota": "También https://x.com/hachi1612/status/2117354274518860245"
+    },
+    {
+     "titular": "levelsio descompila Battlefield 1942 y lo porta a C y WASM por unos 100 dólares en tokens de API (≈1M de salida)",
+     "url": "https://x.com/levelsio/status/2117389002470769143",
+     "fuente": "X @levelsio"
+    },
+    {
+     "titular": "Truco de vibe coding: «HTML efímeros» para ajustar partes de un juego sin recompilar una y otra vez",
+     "url": "https://x.com/mormonnegro/status/2117398048892473488",
+     "fuente": "X @mormonnegro"
+    }
+   ]
+  }
+ ]
+}
