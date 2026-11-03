@@ -408,5 +408,65 @@
     "porque": "Una reapertura de Ormuz pegaría directamente a la prima de riesgo del Brent; aún no hay respuesta pública de EE. UU. y se teme una nueva escalada tras las elecciones del 3-nov",
     "fuente": "Reuters (vía CNBC)",
     "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-03",
+    "ticker": "BRNT",
+    "tipo": "duro",
+    "titular": "El Brent cae un 7,6% hasta 104,77 $ por la diplomacia con Irán y repunta tras un informe de ataque de EE. UU. a la isla de Qeshm",
+    "url": "https://www.cnbc.com/2026/11/03/oil-rises-after-report-of-us-strike-on-irans-qeshm-island.html",
+    "porque": "Irán dice tener mandato para negociar, pero vuelve la acción militar en Ormuz: la prima de riesgo sigue a merced de los titulares",
+    "fuente": "CNBC / Reuters",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-02",
+    "ticker": "EL.PA",
+    "tipo": "duro",
+    "titular": "Leonardo Maria Del Vecchio ofrece comprar las participaciones de otros socios de Delfin con hasta 22.000 M€ de Citi",
+    "url": "https://live.euronext.com/en/financial-news/leonardo-maria-del-vecchio-offers-buy-out-delfin-shareholders-says-financing-secured",
+    "porque": "Contraoferta a la de Strnad por el holding que controla el 32,4% de EssilorLuxottica",
+    "fuente": "Reuters",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-02",
+    "ticker": "GRF",
+    "tipo": "duro",
+    "titular": "Grifols 3T26: ingresos de 2.040 M€ (+8,4% cc), apalancamiento de 3,98x, guía confirmada y dividendo de 0,15 €",
+    "url": "https://www.grifols.com/en/view-news/-/news/grifols-increases-revenue-by-8-4-to-eur-2040-million-and-grows-net-profit-by-28-to-eur-162m-in-q326",
+    "porque": "Caja y desapalancamiento según el plan; dividendo a cuenta el 4-dic",
+    "fuente": "Grifols IR",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-02",
+    "ticker": "ASST",
+    "tipo": "duro",
+    "titular": "Strive suma 124 BTC hasta 43.124 y tiene 490,4 M$ en caja, sin dilución común",
+    "url": "https://www.sec.gov/Archives/edgar/data/1920406/000162828026068660/asst-20261102.htm",
+    "porque": "Actualización del BTC en tesorería; uso mínimo del ATM de preferentes SATS",
+    "fuente": "SEC 8-K",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-02",
+    "ticker": "HIMS",
+    "tipo": "soft",
+    "titular": "LegitScript certifica ofertas de los 6 péptidos bajo la política HHS 503A (solo un principio activo y jeringa 510(k))",
+    "url": "https://www.legitscript.com/healthcare/hhs-peptide-compounding-policy-what-healthcare-businesses-need-to-know/",
+    "porque": "Abre la captación para Peptides+, aunque no garantiza acceso a anuncios ni a pagos",
+    "fuente": "LegitScript",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-02",
+    "ticker": "BKNG",
+    "tipo": "soft",
+    "titular": "La acción colectiva contra Booking en Ámsterdam llega a 18.135 hoteles",
+    "url": "https://www.hotelnewsresource.com/article143577.html",
+    "porque": "Crece el riesgo legal por las cláusulas de paridad en Europa; primera vista en 2027",
+    "fuente": "SHCA/HOTREC vía Hotel News Resource",
+    "idioma": "EN"
   }
 ]
