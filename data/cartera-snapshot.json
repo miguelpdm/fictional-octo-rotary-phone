@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-11-04T15:21:54.769758+00:00",
+  "updatedAt": "2026-11-04T15:37:37.228400+00:00",
   "source": "yahoo-finance-chart",
   "delayNote": "Snapshot de Yahoo vía GitHub Actions (~30 min). Las cotizaciones en vivo de la página usan TradingView (~15 min).",
   "quotes": {
     "QTRX": {
       "symbol": "QTRX",
-      "price": 2.995,
+      "price": 2.98,
       "previousClose": 2.94,
-      "change": 0.05500000000000016,
-      "changePct": 1.8707482993197335,
+      "change": 0.040000000000000036,
+      "changePct": 1.360544217687076,
       "currency": "USD",
       "exchange": "NasdaqGM",
       "timezone": "America/New_York",
       "dayHigh": 3.125,
-      "dayLow": 2.99,
-      "volume": 66792,
+      "dayLow": 2.96,
+      "volume": 81511,
       "fiftyTwoWeekHigh": 8.77,
       "fiftyTwoWeekLow": 2.15,
-      "regularMarketTime": 1793805691,
+      "regularMarketTime": 1793806638,
       "spark": [
         {
           "t": 1793802600,
@@ -61,30 +61,42 @@
         },
         {
           "t": 1793805600,
-          "v": 3.0
+          "v": 2.990000009536743
         },
         {
-          "t": 1793805691,
-          "v": 2.994999885559082
+          "t": 1793805900,
+          "v": 2.9800000190734863
+        },
+        {
+          "t": 1793806200,
+          "v": 2.9600000381469727
+        },
+        {
+          "t": 1793806500,
+          "v": 2.9800000190734863
+        },
+        {
+          "t": 1793806638,
+          "v": 2.9800000190734863
         }
       ],
       "source": "yahoo-chart"
     },
     "HUMA": {
       "symbol": "HUMA",
-      "price": 0.4533,
+      "price": 0.4397,
       "previousClose": 0.4405,
-      "change": 0.012799999999999978,
-      "changePct": 2.905788876276953,
+      "change": -0.0008000000000000229,
+      "changePct": -0.1816118047673151,
       "currency": "USD",
       "exchange": "NasdaqGS",
       "timezone": "America/New_York",
       "dayHigh": 0.4749,
-      "dayLow": 0.4415,
-      "volume": 1059433,
+      "dayLow": 0.4381,
+      "volume": 1144579,
       "fiftyTwoWeekHigh": 1.525,
       "fiftyTwoWeekLow": 0.337,
-      "regularMarketTime": 1793805707,
+      "regularMarketTime": 1793806639,
       "spark": [
         {
           "t": 1793802600,
@@ -128,30 +140,42 @@
         },
         {
           "t": 1793805600,
-          "v": 0.45179998874664307
+          "v": 0.45010000467300415
         },
         {
-          "t": 1793805707,
-          "v": 0.45329999923706055
+          "t": 1793805900,
+          "v": 0.44999998807907104
+        },
+        {
+          "t": 1793806200,
+          "v": 0.44110000133514404
+        },
+        {
+          "t": 1793806500,
+          "v": 0.439300000667572
+        },
+        {
+          "t": 1793806639,
+          "v": 0.43970000743865967
         }
       ],
       "source": "yahoo-chart"
     },
     "CHTR": {
       "symbol": "CHTR",
-      "price": 119.73,
+      "price": 121.2,
       "previousClose": 113.79,
-      "change": 5.939999999999998,
-      "changePct": 5.220142367519112,
+      "change": 7.409999999999997,
+      "changePct": 6.511995781703134,
       "currency": "USD",
       "exchange": "NasdaqGS",
       "timezone": "America/New_York",
-      "dayHigh": 120.32,
+      "dayHigh": 121.5,
       "dayLow": 116.55,
-      "volume": 533018,
+      "volume": 687764,
       "fiftyTwoWeekHigh": 254.11,
       "fiftyTwoWeekLow": 101.11,
-      "regularMarketTime": 1793805708,
+      "regularMarketTime": 1793806653,
       "spark": [
         {
           "t": 1793802600,
@@ -195,30 +219,42 @@
         },
         {
           "t": 1793805600,
-          "v": 119.59500122070312
+          "v": 119.44000244140625
         },
         {
-          "t": 1793805708,
-          "v": 119.7300033569336
+          "t": 1793805900,
+          "v": 120.09500122070312
+        },
+        {
+          "t": 1793806200,
+          "v": 121.5
+        },
+        {
+          "t": 1793806500,
+          "v": 121.16000366210938
+        },
+        {
+          "t": 1793806653,
+          "v": 121.19999694824219
         }
       ],
       "source": "yahoo-chart"
     },
     "UMG.AS": {
       "symbol": "UMG.AS",
-      "price": 17.4,
+      "price": 17.42,
       "previousClose": 16.92,
-      "change": 0.4799999999999969,
-      "changePct": 2.8368794326240945,
+      "change": 0.5,
+      "changePct": 2.9550827423167845,
       "currency": "EUR",
       "exchange": "Amsterdam",
       "timezone": "Europe/Amsterdam",
       "dayHigh": 17.44,
       "dayLow": 16.825,
-      "volume": 598814,
+      "volume": 627651,
       "fiftyTwoWeekHigh": 23.19,
       "fiftyTwoWeekLow": 13.92,
-      "regularMarketTime": 1793804799,
+      "regularMarketTime": 1793805735,
       "spark": [
         {
           "t": 1793779200,
@@ -562,30 +598,42 @@
         },
         {
           "t": 1793804700,
-          "v": 17.405000686645508
+          "v": 17.434999465942383
         },
         {
-          "t": 1793804799,
-          "v": 17.399999618530273
+          "t": 1793805000,
+          "v": 17.420000076293945
+        },
+        {
+          "t": 1793805300,
+          "v": 17.40999984741211
+        },
+        {
+          "t": 1793805600,
+          "v": 17.40999984741211
+        },
+        {
+          "t": 1793805735,
+          "v": 17.420000076293945
         }
       ],
       "source": "yahoo-chart"
     },
     "HIMS": {
       "symbol": "HIMS",
-      "price": 27.81,
+      "price": 27.63,
       "previousClose": 25.7,
-      "change": 2.1099999999999994,
-      "changePct": 8.210116731517509,
+      "change": 1.9299999999999997,
+      "changePct": 7.509727626459144,
       "currency": "USD",
       "exchange": "NYSE",
       "timezone": "America/New_York",
       "dayHigh": 28.64,
       "dayLow": 25.92,
-      "volume": 4756317,
+      "volume": 5305963,
       "fiftyTwoWeekHigh": 46.82,
       "fiftyTwoWeekLow": 13.74,
-      "regularMarketTime": 1793805708,
+      "regularMarketTime": 1793806652,
       "spark": [
         {
           "t": 1793802600,
@@ -617,7 +665,7 @@
         },
         {
           "t": 1793804700,
-          "v": 28.319900512695312
+          "v": 28.299999237060547
         },
         {
           "t": 1793805000,
@@ -625,34 +673,46 @@
         },
         {
           "t": 1793805300,
-          "v": 27.860000610351562
+          "v": 27.850000381469727
         },
         {
           "t": 1793805600,
-          "v": 27.8700008392334
+          "v": 27.7549991607666
         },
         {
-          "t": 1793805708,
-          "v": 27.809999465942383
+          "t": 1793805900,
+          "v": 27.540000915527344
+        },
+        {
+          "t": 1793806200,
+          "v": 27.420000076293945
+        },
+        {
+          "t": 1793806500,
+          "v": 27.590099334716797
+        },
+        {
+          "t": 1793806652,
+          "v": 27.6299991607666
         }
       ],
       "source": "yahoo-chart"
     },
     "EL.PA": {
       "symbol": "EL.PA",
-      "price": 188.0,
+      "price": 188.75,
       "previousClose": 184.25,
-      "change": 3.75,
-      "changePct": 2.03527815468114,
+      "change": 4.5,
+      "changePct": 2.4423337856173677,
       "currency": "EUR",
       "exchange": "Paris",
       "timezone": "Europe/Paris",
-      "dayHigh": 188.55,
+      "dayHigh": 188.8,
       "dayLow": 180.6,
-      "volume": 238167,
+      "volume": 257854,
       "fiftyTwoWeekHigh": 323.8,
       "fiftyTwoWeekLow": 138.3,
-      "regularMarketTime": 1793804811,
+      "regularMarketTime": 1793805748,
       "spark": [
         {
           "t": 1793779200,
@@ -996,30 +1056,42 @@
         },
         {
           "t": 1793804700,
+          "v": 188.5500030517578
+        },
+        {
+          "t": 1793805000,
           "v": 188.1999969482422
         },
         {
-          "t": 1793804811,
-          "v": 188.0
+          "t": 1793805300,
+          "v": 188.8000030517578
+        },
+        {
+          "t": 1793805600,
+          "v": 188.64999389648438
+        },
+        {
+          "t": 1793805748,
+          "v": 188.75
         }
       ],
       "source": "yahoo-chart"
     },
     "GRF.MC": {
       "symbol": "GRF.MC",
-      "price": 11.14,
+      "price": 11.145,
       "previousClose": 11.23,
-      "change": -0.08999999999999986,
-      "changePct": -0.8014247551202124,
+      "change": -0.08500000000000085,
+      "changePct": -0.7569011576135427,
       "currency": "EUR",
       "exchange": "MCE",
       "timezone": "Europe/Madrid",
       "dayHigh": 11.36,
       "dayLow": 11.125,
-      "volume": 1547130,
+      "volume": 1591660,
       "fiftyTwoWeekHigh": 11.7,
       "fiftyTwoWeekLow": 8.432,
-      "regularMarketTime": 1793804790,
+      "regularMarketTime": 1793805751,
       "spark": [
         {
           "t": 1793779200,
@@ -1366,27 +1438,39 @@
           "v": 11.145000457763672
         },
         {
-          "t": 1793804790,
+          "t": 1793805000,
+          "v": 11.145000457763672
+        },
+        {
+          "t": 1793805300,
+          "v": 11.135000228881836
+        },
+        {
+          "t": 1793805600,
           "v": 11.140000343322754
+        },
+        {
+          "t": 1793805751,
+          "v": 11.145000457763672
         }
       ],
       "source": "yahoo-chart"
     },
     "SABR": {
       "symbol": "SABR",
-      "price": 1.811,
+      "price": 1.815,
       "previousClose": 1.67,
-      "change": 0.14100000000000001,
-      "changePct": 8.44311377245509,
+      "change": 0.14500000000000002,
+      "changePct": 8.682634730538924,
       "currency": "USD",
       "exchange": "NasdaqGS",
       "timezone": "America/New_York",
       "dayHigh": 1.85,
       "dayLow": 1.705,
-      "volume": 815004,
+      "volume": 1052324,
       "fiftyTwoWeekHigh": 2.5,
       "fiftyTwoWeekLow": 0.81,
-      "regularMarketTime": 1793805708,
+      "regularMarketTime": 1793806654,
       "spark": [
         {
           "t": 1793802600,
@@ -1430,30 +1514,42 @@
         },
         {
           "t": 1793805600,
-          "v": 1.8250000476837158
+          "v": 1.815000057220459
         },
         {
-          "t": 1793805708,
-          "v": 1.8111000061035156
+          "t": 1793805900,
+          "v": 1.815000057220459
+        },
+        {
+          "t": 1793806200,
+          "v": 1.820099949836731
+        },
+        {
+          "t": 1793806500,
+          "v": 1.815000057220459
+        },
+        {
+          "t": 1793806654,
+          "v": 1.815000057220459
         }
       ],
       "source": "yahoo-chart"
     },
     "ADBE": {
       "symbol": "ADBE",
-      "price": 253.95,
+      "price": 256.15,
       "previousClose": 246.14,
-      "change": 7.810000000000002,
-      "changePct": 3.172990980742668,
+      "change": 10.009999999999991,
+      "changePct": 4.066791257008203,
       "currency": "USD",
       "exchange": "NasdaqGS",
       "timezone": "America/New_York",
-      "dayHigh": 254.94,
+      "dayHigh": 256.4,
       "dayLow": 246.14,
-      "volume": 953054,
+      "volume": 1148149,
       "fiftyTwoWeekHigh": 362.71,
       "fiftyTwoWeekLow": 190.12,
-      "regularMarketTime": 1793805709,
+      "regularMarketTime": 1793806655,
       "spark": [
         {
           "t": 1793802600,
@@ -1497,30 +1593,42 @@
         },
         {
           "t": 1793805600,
-          "v": 253.63999938964844
+          "v": 255.50999450683594
         },
         {
-          "t": 1793805709,
-          "v": 253.9499969482422
+          "t": 1793805900,
+          "v": 255.9199981689453
+        },
+        {
+          "t": 1793806200,
+          "v": 255.91000366210938
+        },
+        {
+          "t": 1793806500,
+          "v": 255.67999267578125
+        },
+        {
+          "t": 1793806655,
+          "v": 256.1499938964844
         }
       ],
       "source": "yahoo-chart"
     },
     "RED.MC": {
       "symbol": "RED.MC",
-      "price": 15.6,
+      "price": 15.57,
       "previousClose": 15.3,
-      "change": 0.29999999999999893,
-      "changePct": 1.9607843137254832,
+      "change": 0.2699999999999996,
+      "changePct": 1.7647058823529385,
       "currency": "EUR",
       "exchange": "MCE",
       "timezone": "Europe/Madrid",
       "dayHigh": 15.63,
       "dayLow": 15.28,
-      "volume": 581262,
+      "volume": 610718,
       "fiftyTwoWeekHigh": 16.52,
       "fiftyTwoWeekLow": 14.15,
-      "regularMarketTime": 1793804783,
+      "regularMarketTime": 1793805732,
       "spark": [
         {
           "t": 1793779200,
@@ -1847,27 +1955,43 @@
           "v": 15.59000015258789
         },
         {
-          "t": 1793804783,
-          "v": 15.600000381469727
+          "t": 1793804700,
+          "v": 15.59000015258789
+        },
+        {
+          "t": 1793805000,
+          "v": 15.579999923706055
+        },
+        {
+          "t": 1793805300,
+          "v": 15.579999923706055
+        },
+        {
+          "t": 1793805600,
+          "v": 15.5600004196167
+        },
+        {
+          "t": 1793805732,
+          "v": 15.569999694824219
         }
       ],
       "source": "yahoo-chart"
     },
     "ASST": {
       "symbol": "ASST",
-      "price": 23.24,
+      "price": 23.27,
       "previousClose": 20.66,
-      "change": 2.5799999999999983,
-      "changePct": 12.487899322362043,
+      "change": 2.6099999999999994,
+      "changePct": 12.633107454017424,
       "currency": "USD",
       "exchange": "NasdaqGM",
       "timezone": "America/New_York",
       "dayHigh": 23.79,
       "dayLow": 20.8,
-      "volume": 3121343,
+      "volume": 3676525,
       "fiftyTwoWeekHigh": 34.4,
       "fiftyTwoWeekLow": 7.02,
-      "regularMarketTime": 1793805709,
+      "regularMarketTime": 1793806649,
       "spark": [
         {
           "t": 1793802600,
@@ -1911,30 +2035,42 @@
         },
         {
           "t": 1793805600,
-          "v": 23.389999389648438
+          "v": 23.239999771118164
         },
         {
-          "t": 1793805709,
-          "v": 23.239999771118164
+          "t": 1793805900,
+          "v": 23.229900360107422
+        },
+        {
+          "t": 1793806200,
+          "v": 23.149999618530273
+        },
+        {
+          "t": 1793806500,
+          "v": 23.34000015258789
+        },
+        {
+          "t": 1793806649,
+          "v": 23.270000457763672
         }
       ],
       "source": "yahoo-chart"
     },
     "BTDR": {
       "symbol": "BTDR",
-      "price": 6.72,
+      "price": 6.71,
       "previousClose": 6.92,
-      "change": -0.20000000000000018,
-      "changePct": -2.890173410404627,
+      "change": -0.20999999999999996,
+      "changePct": -3.034682080924855,
       "currency": "USD",
       "exchange": "NasdaqCM",
       "timezone": "America/New_York",
       "dayHigh": 6.941,
       "dayLow": 6.45,
-      "volume": 3451855,
+      "volume": 4182857,
       "fiftyTwoWeekHigh": 23.3,
       "fiftyTwoWeekLow": 5.99,
-      "regularMarketTime": 1793805711,
+      "regularMarketTime": 1793806649,
       "spark": [
         {
           "t": 1793802600,
@@ -1978,30 +2114,42 @@
         },
         {
           "t": 1793805600,
-          "v": 6.770500183105469
+          "v": 6.71999979019165
         },
         {
-          "t": 1793805711,
-          "v": 6.71999979019165
+          "t": 1793805900,
+          "v": 6.710000038146973
+        },
+        {
+          "t": 1793806200,
+          "v": 6.675000190734863
+        },
+        {
+          "t": 1793806500,
+          "v": 6.730000019073486
+        },
+        {
+          "t": 1793806649,
+          "v": 6.710000038146973
         }
       ],
       "source": "yahoo-chart"
     },
     "BKNG": {
       "symbol": "BKNG",
-      "price": 169.52,
+      "price": 169.7,
       "previousClose": 155.67,
-      "change": 13.850000000000023,
-      "changePct": 8.897025759619725,
+      "change": 14.030000000000001,
+      "changePct": 9.012654975268198,
       "currency": "USD",
       "exchange": "NasdaqGS",
       "timezone": "America/New_York",
       "dayHigh": 170.87,
       "dayLow": 160.0,
-      "volume": 3572036,
+      "volume": 4120662,
       "fiftyTwoWeekHigh": 220.806,
       "fiftyTwoWeekLow": 146.28,
-      "regularMarketTime": 1793805707,
+      "regularMarketTime": 1793806652,
       "spark": [
         {
           "t": 1793802600,
@@ -2045,30 +2193,42 @@
         },
         {
           "t": 1793805600,
-          "v": 169.66000366210938
+          "v": 169.72000122070312
         },
         {
-          "t": 1793805707,
-          "v": 169.52000427246094
+          "t": 1793805900,
+          "v": 169.6649932861328
+        },
+        {
+          "t": 1793806200,
+          "v": 169.84500122070312
+        },
+        {
+          "t": 1793806500,
+          "v": 169.3699951171875
+        },
+        {
+          "t": 1793806652,
+          "v": 169.6999969482422
         }
       ],
       "source": "yahoo-chart"
     },
     "PG": {
       "symbol": "PG",
-      "price": 165.735,
+      "price": 166.7,
       "previousClose": 162.06,
-      "change": 3.6750000000000114,
-      "changePct": 2.267678637541658,
+      "change": 4.639999999999986,
+      "changePct": 2.8631371097124436,
       "currency": "USD",
       "exchange": "NYSE",
       "timezone": "America/New_York",
-      "dayHigh": 166.54,
+      "dayHigh": 166.85,
       "dayLow": 164.82,
-      "volume": 2311714,
+      "volume": 2867518,
       "fiftyTwoWeekHigh": 167.25,
       "fiftyTwoWeekLow": 137.62,
-      "regularMarketTime": 1793805711,
+      "regularMarketTime": 1793806654,
       "spark": [
         {
           "t": 1793802600,
@@ -2104,38 +2264,50 @@
         },
         {
           "t": 1793805000,
-          "v": 165.75999450683594
+          "v": 165.78500366210938
         },
         {
           "t": 1793805300,
-          "v": 165.6699981689453
+          "v": 165.64500427246094
         },
         {
           "t": 1793805600,
-          "v": 165.61000061035156
+          "v": 165.9199981689453
         },
         {
-          "t": 1793805711,
-          "v": 165.73500061035156
+          "t": 1793805900,
+          "v": 166.19500732421875
+        },
+        {
+          "t": 1793806200,
+          "v": 166.8000030517578
+        },
+        {
+          "t": 1793806500,
+          "v": 166.62440490722656
+        },
+        {
+          "t": 1793806654,
+          "v": 166.6999969482422
         }
       ],
       "source": "yahoo-chart"
     },
     "SPGI": {
       "symbol": "SPGI",
-      "price": 479.63,
+      "price": 479.555,
       "previousClose": 466.03,
-      "change": 13.600000000000023,
-      "changePct": 2.9182670643520856,
+      "change": 13.525000000000034,
+      "changePct": 2.9021736798060283,
       "currency": "USD",
       "exchange": "NYSE",
       "timezone": "America/New_York",
-      "dayHigh": 480.523,
+      "dayHigh": 480.82,
       "dayLow": 470.0,
-      "volume": 301568,
+      "volume": 433761,
       "fiftyTwoWeekHigh": 522.469,
       "fiftyTwoWeekLow": 361.031,
-      "regularMarketTime": 1793805709,
+      "regularMarketTime": 1793806648,
       "spark": [
         {
           "t": 1793802600,
@@ -2179,30 +2351,42 @@
         },
         {
           "t": 1793805600,
-          "v": 478.8200988769531
+          "v": 479.989990234375
         },
         {
-          "t": 1793805709,
-          "v": 479.6300048828125
+          "t": 1793805900,
+          "v": 479.6600036621094
+        },
+        {
+          "t": 1793806200,
+          "v": 479.05999755859375
+        },
+        {
+          "t": 1793806500,
+          "v": 478.4100036621094
+        },
+        {
+          "t": 1793806648,
+          "v": 479.55499267578125
         }
       ],
       "source": "yahoo-chart"
     },
     "ACN": {
       "symbol": "ACN",
-      "price": 262.685,
+      "price": 264.205,
       "previousClose": 254.56,
-      "change": 8.125,
-      "changePct": 3.191781898177247,
+      "change": 9.644999999999982,
+      "changePct": 3.78889063482086,
       "currency": "USD",
       "exchange": "NYSE",
       "timezone": "America/New_York",
-      "dayHigh": 262.695,
+      "dayHigh": 264.94,
       "dayLow": 256.77,
-      "volume": 980145,
+      "volume": 1252159,
       "fiftyTwoWeekHigh": 291.09,
       "fiftyTwoWeekLow": 118.15,
-      "regularMarketTime": 1793805711,
+      "regularMarketTime": 1793806654,
       "spark": [
         {
           "t": 1793802600,
@@ -2234,7 +2418,7 @@
         },
         {
           "t": 1793804700,
-          "v": 261.19500732421875
+          "v": 261.17498779296875
         },
         {
           "t": 1793805000,
@@ -2246,30 +2430,42 @@
         },
         {
           "t": 1793805600,
-          "v": 262.4200134277344
+          "v": 263.8349914550781
         },
         {
-          "t": 1793805711,
-          "v": 262.68499755859375
+          "t": 1793805900,
+          "v": 263.7200012207031
+        },
+        {
+          "t": 1793806200,
+          "v": 264.875
+        },
+        {
+          "t": 1793806500,
+          "v": 264.1199951171875
+        },
+        {
+          "t": 1793806654,
+          "v": 264.2049865722656
         }
       ],
       "source": "yahoo-chart"
     },
     "BRNT.MI": {
       "symbol": "BRNT.MI",
-      "price": 91.9,
+      "price": 92.41,
       "previousClose": 94.37,
-      "change": -2.469999999999999,
-      "changePct": -2.617357210978064,
+      "change": -1.960000000000008,
+      "changePct": -2.076931228144546,
       "currency": "EUR",
       "exchange": "Milan",
       "timezone": "Europe/Rome",
       "dayHigh": 94.87,
       "dayLow": 91.25,
-      "volume": 17530,
+      "volume": 17550,
       "fiftyTwoWeekHigh": 104.53,
       "fiftyTwoWeekLow": 38.11,
-      "regularMarketTime": 1793804467,
+      "regularMarketTime": 1793804974,
       "spark": [
         {
           "t": 1793779200,
@@ -2428,27 +2624,35 @@
           "v": 91.73999786376953
         },
         {
-          "t": 1793804467,
+          "t": 1793804400,
           "v": 91.9000015258789
+        },
+        {
+          "t": 1793804700,
+          "v": 92.22000122070312
+        },
+        {
+          "t": 1793804974,
+          "v": 92.41000366210938
         }
       ],
       "source": "yahoo-chart"
     },
     "SGLD.L": {
       "symbol": "SGLD.L",
-      "price": 388.25,
+      "price": 387.62,
       "previousClose": 378.07,
-      "change": 10.180000000000007,
-      "changePct": 2.692623059221839,
+      "change": 9.550000000000011,
+      "changePct": 2.5259872510381705,
       "currency": "USD",
       "exchange": "LSE",
       "timezone": "Europe/London",
       "dayHigh": 389.55,
       "dayLow": 386.74,
-      "volume": 17551,
+      "volume": 19020,
       "fiftyTwoWeekHigh": 534.03,
       "fiftyTwoWeekLow": 374.2,
-      "regularMarketTime": 1793804586,
+      "regularMarketTime": 1793805578,
       "spark": [
         {
           "t": 1793779200,
@@ -2716,30 +2920,42 @@
         },
         {
           "t": 1793804400,
-          "v": 388.352294921875
+          "v": 388.25
         },
         {
-          "t": 1793804586,
-          "v": 388.25
+          "t": 1793804700,
+          "v": 388.04998779296875
+        },
+        {
+          "t": 1793805000,
+          "v": 388.1600036621094
+        },
+        {
+          "t": 1793805300,
+          "v": 387.67999267578125
+        },
+        {
+          "t": 1793805578,
+          "v": 387.6199951171875
         }
       ],
       "source": "yahoo-chart"
     },
     "XSLR.DE": {
       "symbol": "XSLR.DE",
-      "price": 66.18,
+      "price": 66.01,
       "previousClose": 63.55,
-      "change": 2.6300000000000097,
-      "changePct": 4.138473642800959,
+      "change": 2.460000000000008,
+      "changePct": 3.8709677419354964,
       "currency": "EUR",
       "exchange": "XETRA",
       "timezone": "Europe/Berlin",
       "dayHigh": 66.26,
       "dayLow": 65.66,
-      "volume": 5286,
+      "volume": 5404,
       "fiftyTwoWeekHigh": 145.45,
       "fiftyTwoWeekLow": 38.45,
-      "regularMarketTime": 1793804432,
+      "regularMarketTime": 1793805743,
       "spark": [
         {
           "t": 1793780100,
@@ -2854,27 +3070,35 @@
           "v": 66.12000274658203
         },
         {
-          "t": 1793804432,
+          "t": 1793804400,
           "v": 66.18000030517578
+        },
+        {
+          "t": 1793805300,
+          "v": 66.125
+        },
+        {
+          "t": 1793805743,
+          "v": 66.01000213623047
         }
       ],
       "source": "yahoo-chart"
     },
     "SLVR.DE": {
       "symbol": "SLVR.DE",
-      "price": 31.685,
+      "price": 31.635,
       "previousClose": 30.05,
-      "change": 1.634999999999998,
-      "changePct": 5.44093178036605,
+      "change": 1.5850000000000009,
+      "changePct": 5.274542429284528,
       "currency": "EUR",
       "exchange": "XETRA",
       "timezone": "Europe/Berlin",
       "dayHigh": 32.0,
       "dayLow": 31.25,
-      "volume": 151290,
+      "volume": 159004,
       "fiftyTwoWeekHigh": 50.46,
       "fiftyTwoWeekLow": 25.33,
-      "regularMarketTime": 1793804804,
+      "regularMarketTime": 1793805747,
       "spark": [
         {
           "t": 1793780100,
@@ -3190,11 +3414,23 @@
         },
         {
           "t": 1793804700,
-          "v": 31.709999084472656
+          "v": 31.700000762939453
         },
         {
-          "t": 1793804804,
-          "v": 31.684999465942383
+          "t": 1793805000,
+          "v": 31.700000762939453
+        },
+        {
+          "t": 1793805300,
+          "v": 31.770000457763672
+        },
+        {
+          "t": 1793805600,
+          "v": 31.7450008392334
+        },
+        {
+          "t": 1793805747,
+          "v": 31.635000228881836
         }
       ],
       "source": "yahoo-chart"
@@ -3256,19 +3492,19 @@
     },
     "BTC-USD": {
       "symbol": "BTC-USD",
-      "price": 80631.02,
+      "price": 80713.6,
       "previousClose": 77775.40625,
-      "change": 2855.613750000004,
-      "changePct": 3.6716153443428703,
+      "change": 2938.193750000006,
+      "changePct": 3.777792867523602,
       "currency": "USD",
       "exchange": "CCC",
       "timezone": "UTC",
       "dayHigh": 80746.25,
       "dayLow": 75709.914,
-      "volume": 32922617856,
+      "volume": 34362425344,
       "fiftyTwoWeekHigh": 107428.26,
       "fiftyTwoWeekLow": 57747.766,
-      "regularMarketTime": 1793805712,
+      "regularMarketTime": 1793806650,
       "spark": [
         {
           "t": 1793739600,
@@ -4152,11 +4388,23 @@
         },
         {
           "t": 1793805600,
-          "v": 80591.3828125
+          "v": 80532.40625
         },
         {
-          "t": 1793805712,
-          "v": 80631.0234375
+          "t": 1793805900,
+          "v": 80561.90625
+        },
+        {
+          "t": 1793806200,
+          "v": 80634.75
+        },
+        {
+          "t": 1793806500,
+          "v": 80688.9921875
+        },
+        {
+          "t": 1793806650,
+          "v": 80713.6015625
         }
       ],
       "source": "yahoo-chart"
