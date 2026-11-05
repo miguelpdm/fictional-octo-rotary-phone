@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T21:40:06.502968+00:00",
+  "updatedAt": "2026-11-05T01:45:45.773024+00:00",
   "source": "yahoo-finance-chart",
   "delayNote": "Snapshot de Yahoo vía GitHub Actions (~30 min). Las cotizaciones en vivo de la página usan TradingView (~15 min).",
   "quotes": {
@@ -14,7 +14,7 @@
       "timezone": "America/New_York",
       "dayHigh": 3.125,
       "dayLow": 2.925,
-      "volume": 401679,
+      "volume": 402179,
       "fiftyTwoWeekHigh": 8.77,
       "fiftyTwoWeekLow": 2.15,
       "regularMarketTime": 1793826000,
@@ -337,7 +337,7 @@
       "timezone": "America/New_York",
       "dayHigh": 0.4749,
       "dayLow": 0.425,
-      "volume": 2635174,
+      "volume": 2639570,
       "fiftyTwoWeekHigh": 1.525,
       "fiftyTwoWeekLow": 0.337,
       "regularMarketTime": 1793826000,
@@ -672,7 +672,7 @@
       "timezone": "America/New_York",
       "dayHigh": 123.13,
       "dayLow": 116.55,
-      "volume": 3257730,
+      "volume": 3257832,
       "fiftyTwoWeekHigh": 254.11,
       "fiftyTwoWeekLow": 101.11,
       "regularMarketTime": 1793826000,
@@ -1438,7 +1438,7 @@
       "timezone": "America/New_York",
       "dayHigh": 28.64,
       "dayLow": 25.92,
-      "volume": 11591023,
+      "volume": 11607929,
       "fiftyTwoWeekHigh": 46.82,
       "fiftyTwoWeekLow": 13.74,
       "regularMarketTime": 1793826002,
@@ -2204,7 +2204,7 @@
       "timezone": "Europe/Madrid",
       "dayHigh": 11.36,
       "dayLow": 11.125,
-      "volume": 2547230,
+      "volume": 2514146,
       "fiftyTwoWeekHigh": 11.7,
       "fiftyTwoWeekLow": 8.432,
       "regularMarketTime": 1793810489,
@@ -2635,7 +2635,7 @@
       "timezone": "America/New_York",
       "dayHigh": 1.85,
       "dayLow": 1.705,
-      "volume": 8838353,
+      "volume": 8838398,
       "fiftyTwoWeekHigh": 2.5,
       "fiftyTwoWeekLow": 0.81,
       "regularMarketTime": 1793826000,
@@ -2970,7 +2970,7 @@
       "timezone": "America/New_York",
       "dayHigh": 256.8,
       "dayLow": 246.14,
-      "volume": 4366725,
+      "volume": 4370640,
       "fiftyTwoWeekHigh": 362.71,
       "fiftyTwoWeekLow": 190.12,
       "regularMarketTime": 1793826001,
@@ -3305,7 +3305,7 @@
       "timezone": "Europe/Madrid",
       "dayHigh": 15.68,
       "dayLow": 15.28,
-      "volume": 1549621,
+      "volume": 1545321,
       "fiftyTwoWeekHigh": 16.52,
       "fiftyTwoWeekLow": 14.15,
       "regularMarketTime": 1793810102,
@@ -3720,7 +3720,7 @@
       "timezone": "America/New_York",
       "dayHigh": 23.79,
       "dayLow": 20.8,
-      "volume": 8569826,
+      "volume": 8608542,
       "fiftyTwoWeekHigh": 34.4,
       "fiftyTwoWeekLow": 7.02,
       "regularMarketTime": 1793826001,
@@ -4055,7 +4055,7 @@
       "timezone": "America/New_York",
       "dayHigh": 6.941,
       "dayLow": 6.375,
-      "volume": 12206352,
+      "volume": 12208863,
       "fiftyTwoWeekHigh": 23.3,
       "fiftyTwoWeekLow": 5.99,
       "regularMarketTime": 1793826000,
@@ -4390,7 +4390,7 @@
       "timezone": "America/New_York",
       "dayHigh": 174.09,
       "dayLow": 160.0,
-      "volume": 14298363,
+      "volume": 14561314,
       "fiftyTwoWeekHigh": 220.806,
       "fiftyTwoWeekLow": 146.28,
       "regularMarketTime": 1793826001,
@@ -4725,7 +4725,7 @@
       "timezone": "America/New_York",
       "dayHigh": 168.16,
       "dayLow": 164.82,
-      "volume": 13874899,
+      "volume": 13952458,
       "fiftyTwoWeekHigh": 168.16,
       "fiftyTwoWeekLow": 137.62,
       "regularMarketTime": 1793826272,
@@ -5060,7 +5060,7 @@
       "timezone": "America/New_York",
       "dayHigh": 483.94,
       "dayLow": 470.0,
-      "volume": 2517770,
+      "volume": 2517976,
       "fiftyTwoWeekHigh": 522.469,
       "fiftyTwoWeekLow": 361.031,
       "regularMarketTime": 1793826002,
@@ -5395,7 +5395,7 @@
       "timezone": "America/New_York",
       "dayHigh": 267.47,
       "dayLow": 256.77,
-      "volume": 6016251,
+      "volume": 6016555,
       "fiftyTwoWeekHigh": 291.09,
       "fiftyTwoWeekLow": 118.15,
       "regularMarketTime": 1793826003,
@@ -6936,19 +6936,19 @@
     },
     "BTC-USD": {
       "symbol": "BTC-USD",
-      "price": 80138.3,
+      "price": 80730.2,
       "previousClose": 80085.6015625,
-      "change": 52.69843750000291,
-      "changePct": 0.06580263676845363,
+      "change": 644.5984374999971,
+      "changePct": 0.8048868022761155,
       "currency": "USD",
       "exchange": "CCC",
       "timezone": "UTC",
-      "dayHigh": 80746.25,
-      "dayLow": 75709.914,
-      "volume": 39898488832,
+      "dayHigh": 80699.28,
+      "dayLow": 80237.086,
+      "volume": 39732371456,
       "fiftyTwoWeekHigh": 107428.26,
       "fiftyTwoWeekLow": 57747.766,
-      "regularMarketTime": 1793828400,
+      "regularMarketTime": 1793843140,
       "spark": [
         {
           "t": 1793826000,
@@ -6984,7 +6984,203 @@
         },
         {
           "t": 1793828400,
-          "v": 80138.296875
+          "v": 80123.4296875
+        },
+        {
+          "t": 1793828700,
+          "v": 80116.6796875
+        },
+        {
+          "t": 1793829000,
+          "v": 80130.0625
+        },
+        {
+          "t": 1793829300,
+          "v": 80155.4296875
+        },
+        {
+          "t": 1793829600,
+          "v": 80198.109375
+        },
+        {
+          "t": 1793829900,
+          "v": 80332.4921875
+        },
+        {
+          "t": 1793830200,
+          "v": 80381.0390625
+        },
+        {
+          "t": 1793830500,
+          "v": 80508.8671875
+        },
+        {
+          "t": 1793830800,
+          "v": 80488.671875
+        },
+        {
+          "t": 1793831100,
+          "v": 80590.109375
+        },
+        {
+          "t": 1793831400,
+          "v": 80624.6484375
+        },
+        {
+          "t": 1793831700,
+          "v": 80787.09375
+        },
+        {
+          "t": 1793832000,
+          "v": 80867.609375
+        },
+        {
+          "t": 1793832300,
+          "v": 80821.6015625
+        },
+        {
+          "t": 1793832600,
+          "v": 80693.7890625
+        },
+        {
+          "t": 1793832900,
+          "v": 80638.9609375
+        },
+        {
+          "t": 1793833200,
+          "v": 80500.0390625
+        },
+        {
+          "t": 1793833500,
+          "v": 80340.9609375
+        },
+        {
+          "t": 1793833800,
+          "v": 80461.71875
+        },
+        {
+          "t": 1793834100,
+          "v": 80423.2734375
+        },
+        {
+          "t": 1793834400,
+          "v": 80389.671875
+        },
+        {
+          "t": 1793834700,
+          "v": 80402.4765625
+        },
+        {
+          "t": 1793835000,
+          "v": 80460.40625
+        },
+        {
+          "t": 1793835300,
+          "v": 80544.3203125
+        },
+        {
+          "t": 1793835600,
+          "v": 80625.6171875
+        },
+        {
+          "t": 1793835900,
+          "v": 80584.390625
+        },
+        {
+          "t": 1793836200,
+          "v": 80476.6484375
+        },
+        {
+          "t": 1793836500,
+          "v": 80428.296875
+        },
+        {
+          "t": 1793836800,
+          "v": 80521.28125
+        },
+        {
+          "t": 1793837100,
+          "v": 80567.1171875
+        },
+        {
+          "t": 1793837400,
+          "v": 80627.1171875
+        },
+        {
+          "t": 1793837700,
+          "v": 80655.03125
+        },
+        {
+          "t": 1793838000,
+          "v": 80638.21875
+        },
+        {
+          "t": 1793838300,
+          "v": 80634.1171875
+        },
+        {
+          "t": 1793838600,
+          "v": 80630.1171875
+        },
+        {
+          "t": 1793838900,
+          "v": 80484.8125
+        },
+        {
+          "t": 1793839200,
+          "v": 80690.9921875
+        },
+        {
+          "t": 1793839500,
+          "v": 80657.640625
+        },
+        {
+          "t": 1793839800,
+          "v": 80585.9296875
+        },
+        {
+          "t": 1793840100,
+          "v": 80467.9765625
+        },
+        {
+          "t": 1793840400,
+          "v": 80468.34375
+        },
+        {
+          "t": 1793840700,
+          "v": 80468.6328125
+        },
+        {
+          "t": 1793841000,
+          "v": 80450.9765625
+        },
+        {
+          "t": 1793841300,
+          "v": 80234.4609375
+        },
+        {
+          "t": 1793841600,
+          "v": 80394.21875
+        },
+        {
+          "t": 1793841900,
+          "v": 80317.3828125
+        },
+        {
+          "t": 1793842200,
+          "v": 80485.4296875
+        },
+        {
+          "t": 1793842500,
+          "v": 80585.1328125
+        },
+        {
+          "t": 1793842800,
+          "v": 80656.34375
+        },
+        {
+          "t": 1793843140,
+          "v": 80730.203125
         }
       ],
       "source": "yahoo-chart"
