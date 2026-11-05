@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T01:45:45.773024+00:00",
+  "updatedAt": "2026-11-05T01:56:30.259818+00:00",
   "source": "yahoo-finance-chart",
   "delayNote": "Snapshot de Yahoo vía GitHub Actions (~30 min). Las cotizaciones en vivo de la página usan TradingView (~15 min).",
   "quotes": {
@@ -2204,7 +2204,7 @@
       "timezone": "Europe/Madrid",
       "dayHigh": 11.36,
       "dayLow": 11.125,
-      "volume": 2514146,
+      "volume": 2547230,
       "fiftyTwoWeekHigh": 11.7,
       "fiftyTwoWeekLow": 8.432,
       "regularMarketTime": 1793810489,
@@ -3305,7 +3305,7 @@
       "timezone": "Europe/Madrid",
       "dayHigh": 15.68,
       "dayLow": 15.28,
-      "volume": 1545321,
+      "volume": 1549621,
       "fiftyTwoWeekHigh": 16.52,
       "fiftyTwoWeekLow": 14.15,
       "regularMarketTime": 1793810102,
@@ -6936,19 +6936,19 @@
     },
     "BTC-USD": {
       "symbol": "BTC-USD",
-      "price": 80730.2,
+      "price": 80691.42,
       "previousClose": 80085.6015625,
-      "change": 644.5984374999971,
-      "changePct": 0.8048868022761155,
+      "change": 605.8184374999983,
+      "changePct": 0.7564636160311644,
       "currency": "USD",
       "exchange": "CCC",
       "timezone": "UTC",
-      "dayHigh": 80699.28,
+      "dayHigh": 80793.14,
       "dayLow": 80237.086,
-      "volume": 39732371456,
+      "volume": 39829909504,
       "fiftyTwoWeekHigh": 107428.26,
       "fiftyTwoWeekLow": 57747.766,
-      "regularMarketTime": 1793843140,
+      "regularMarketTime": 1793843784,
       "spark": [
         {
           "t": 1793826000,
@@ -7179,8 +7179,20 @@
           "v": 80656.34375
         },
         {
-          "t": 1793843140,
-          "v": 80730.203125
+          "t": 1793843100,
+          "v": 80652.9609375
+        },
+        {
+          "t": 1793843400,
+          "v": 80790.1875
+        },
+        {
+          "t": 1793843700,
+          "v": 80666.0703125
+        },
+        {
+          "t": 1793843784,
+          "v": 80691.421875
         }
       ],
       "source": "yahoo-chart"
