@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T23:21:40.478730+00:00",
+  "updatedAt": "2026-11-07T00:52:14.432944+00:00",
   "source": "yahoo-finance-chart",
   "delayNote": "Snapshot de Yahoo vía GitHub Actions (~30 min). Las cotizaciones en vivo de la página usan TradingView (~15 min).",
   "quotes": {
@@ -2196,7 +2196,7 @@
       "timezone": "Europe/Madrid",
       "dayHigh": 11.245,
       "dayLow": 10.88,
-      "volume": 2215868,
+      "volume": 2185643,
       "fiftyTwoWeekHigh": 11.7,
       "fiftyTwoWeekLow": 8.432,
       "regularMarketTime": 1793982910,
@@ -3297,7 +3297,7 @@
       "timezone": "Europe/Madrid",
       "dayHigh": 15.67,
       "dayLow": 15.47,
-      "volume": 947708,
+      "volume": 943715,
       "fiftyTwoWeekHigh": 16.52,
       "fiftyTwoWeekLow": 14.15,
       "regularMarketTime": 1793982910,
@@ -6792,19 +6792,19 @@
     },
     "BTC-USD": {
       "symbol": "BTC-USD",
-      "price": 75811.67,
+      "price": 75780.16,
       "previousClose": 75769.4375,
-      "change": 42.232499999998254,
-      "changePct": 0.05573817279559223,
+      "change": 10.722500000003492,
+      "changePct": 0.014151484231361084,
       "currency": "USD",
       "exchange": "CCC",
       "timezone": "UTC",
-      "dayHigh": 76282.4,
-      "dayLow": 75067.125,
-      "volume": 30425157632,
+      "dayHigh": 75868.49,
+      "dayLow": 75741.016,
+      "volume": 28638959616,
       "fiftyTwoWeekHigh": 107428.26,
       "fiftyTwoWeekLow": 57747.766,
-      "regularMarketTime": 1794007295,
+      "regularMarketTime": 1794012731,
       "spark": [
         {
           "t": 1793998800,
@@ -6916,15 +6916,55 @@
         },
         {
           "t": 1794006900,
-          "v": 75785.296875
+          "v": 75782.3203125
         },
         {
-          "t": 1794007200,
-          "v": 75802.3515625
+          "t": 1794009600,
+          "v": 75795.2265625
         },
         {
-          "t": 1794007295,
-          "v": 75811.671875
+          "t": 1794009900,
+          "v": 75835.4296875
+        },
+        {
+          "t": 1794010200,
+          "v": 75851.4921875
+        },
+        {
+          "t": 1794010500,
+          "v": 75847.640625
+        },
+        {
+          "t": 1794010800,
+          "v": 75862.65625
+        },
+        {
+          "t": 1794011100,
+          "v": 75827.9765625
+        },
+        {
+          "t": 1794011400,
+          "v": 75802.609375
+        },
+        {
+          "t": 1794011700,
+          "v": 75839.0
+        },
+        {
+          "t": 1794012000,
+          "v": 75809.4921875
+        },
+        {
+          "t": 1794012300,
+          "v": 75780.359375
+        },
+        {
+          "t": 1794012600,
+          "v": 75780.15625
+        },
+        {
+          "t": 1794012731,
+          "v": 75780.15625
         }
       ],
       "source": "yahoo-chart"
