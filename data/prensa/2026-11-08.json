@@ -1,0 +1,139 @@
+{
+ "fecha": "2026-11-08",
+ "secciones": [
+  {
+   "nombre": "España",
+   "items": [
+    {
+     "titular": "Actualización Urda: la caja negra del Iryo revela que la maquinista intentó avisar a Atocha 3-4 veces sin respuesta antes del choque",
+     "url": "https://www.elmundo.es/economia/2026/11/07/6aef1a7ffdddff8b688b45a0.html",
+     "fuente": "El Mundo",
+     "nota": "ABC: seis de cada diez españoles ya no creen que el tren sea seguro."
+    },
+    {
+     "titular": "Campaña del 29-N: Feijóo dice que gobernar en coalición con Vox «no depende de mí» y Sánchez avisa de que el partido «aún no está ganado»",
+     "url": "https://elpais.com/espana/2026-11-08/alberto-nunez-feijoo-hacer-una-coalicion-de-gobierno-con-vox-no-depende-de-mi.html",
+     "fuente": "El País",
+     "nota": "Entrevista a Sánchez en La Vanguardia."
+    },
+    {
+     "titular": "Las incógnitas de la huelga general inédita del 11-N, con Illa acusando a Feijóo de usar a las víctimas de Urda contra ella",
+     "url": "https://www.lavanguardia.com/economia/20261108/11678819/espana-11-n-incognitas-huelga-general-inedita.html",
+     "fuente": "La Vanguardia",
+     "nota": "Declaraciones de Illa en elDiario.es."
+    },
+    {
+     "titular": "La borrasca Bruna obliga a suspender hoy toda actividad que reúna a gente en Gran Canaria",
+     "url": "https://www.elmundo.es/espana/2026/11/07/6aeedb32e85ece55528b4595.html",
+     "fuente": "El Mundo"
+    },
+    {
+     "titular": "Deportes: Alcaraz arrolla a Ruud y jugará su primera final en París; España, campeona del mundo de pádel",
+     "url": "https://elpais.com/deportes/tenis/2026-11-07/alcaraz-implacable-ante-ruud-y-por-primera-vez-finalista-en-paris.html",
+     "fuente": "El País",
+     "nota": "Pádel: ABC."
+    }
+   ]
+  },
+  {
+   "nombre": "Internacional",
+   "items": [
+    {
+     "titular": "Un pistolero ultraderechista mata a seis personas en el centro de Cracovia y la policía halla otros tres cadáveres en su casa",
+     "url": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o",
+     "fuente": "BBC",
+     "nota": "También FT, Le Monde y elDiario.es; Tusk habla de terrorismo."
+    },
+    {
+     "titular": "El presidente de Israel encarga a Gadi Eisenkot, y no a Netanyahu, formar gobierno",
+     "url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+     "fuente": "NYT",
+     "nota": "También FT, Le Monde y La Vanguardia."
+    },
+    {
+     "titular": "Trump ofrece la portavocía de la Casa Blanca a Dana White, jefe de la UFC, que la rechaza",
+     "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo",
+     "fuente": "BBC",
+     "nota": "También Le Monde y elDiario.es."
+    }
+   ]
+  },
+  {
+   "nombre": "Economía y mercados",
+   "items": [
+    {
+     "titular": "Putin revende gas al cuádruple pese a las sanciones y Europa encara el invierno con las reservas más bajas desde 2013",
+     "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/08/6aecd8d3e9cf4ad7168b45ba.html",
+     "fuente": "El Mundo"
+    },
+    {
+     "titular": "Berkshire Hathaway acelera las recompras de acciones mientras cae su beneficio operativo",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise",
+     "fuente": "Bloomberg"
+    },
+    {
+     "titular": "Apple se ahorra 2.700 millones de dólares en impuestos apuntando beneficios en Singapur",
+     "url": "https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede",
+     "fuente": "FT"
+    },
+    {
+     "titular": "El bajón de la IA resucita en Asia las apuestas olvidadas, de China a la India",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
+     "fuente": "Bloomberg"
+    }
+   ]
+  },
+  {
+   "nombre": "Tecnología e IA",
+   "items": [
+    {
+     "titular": "La fiebre de los centros de datos se frena en el sudeste asiático",
+     "url": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia",
+     "fuente": "The Guardian"
+    },
+    {
+     "titular": "Tres acusados en EE. UU. por suplantar con IA a directivos y robar millones",
+     "url": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
+     "fuente": "The Guardian"
+    },
+    {
+     "titular": "¿Va Europa en serio con dejar de depender de la tecnología de EE. UU.?",
+     "url": "https://www.ft.com/content/bd763f67-4c23-4e55-8fbf-3ca0ed520175",
+     "fuente": "FT"
+    }
+   ]
+  },
+  {
+   "nombre": "IA en X",
+   "items": [
+    {
+     "titular": "Apple estrena plugin oficial de Xcode para Claude Code: compilar, probar, ver previews de SwiftUI y manejar simuladores e iPhones",
+     "url": "https://x.com/RoundtableSpace/status/2119043277173207238",
+     "fuente": "@RoundtableSpace en X"
+    },
+    {
+     "titular": "Google publica Elephant-Goldfish Model, plugin abierto de revisión de diseño que enfrenta a un agente con todo el contexto y revisores con contexto limpio",
+     "url": "https://x.com/dani_avila7/status/2119272702066282670",
+     "fuente": "@dani_avila7 en X"
+    },
+    {
+     "titular": "Un análisis de 1.400 sesiones de Claude Code ve un cambio brusco en el razonamiento desde el 3 de noviembre; Theo cree que Anthropic está cambiando su resumidor de razonamiento cuenta a cuenta",
+     "url": "https://x.com/shanemelaugh/status/2119192075505893695",
+     "fuente": "@shanemelaugh en X",
+     "nota": "Theo: https://x.com/theo/status/2119238026136330313"
+    },
+    {
+     "titular": "Theseus Robotics presenta robots que reponen supermercados de noche y preparan pedidos online de día",
+     "url": "https://x.com/liderarmente/status/2119313708879118472",
+     "fuente": "@liderarmente en X"
+    },
+    {
+     "titular": "Cambiar SaaS por herramientas abiertas autoalojadas: un caso dice que pasar de Datadog a Grafana y VictoriaMetrics con Opus abarató 38 veces la monitorización",
+     "url": "https://x.com/dani_avila7/status/2119232718047485997",
+     "fuente": "@dani_avila7 en X",
+     "nota": "Ojo con mantenimiento y ciberseguridad."
+    }
+   ]
+  }
+ ]
+}
