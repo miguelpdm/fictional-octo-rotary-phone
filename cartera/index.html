@@ -13,7 +13,7 @@
   <link rel="icon" href="./favicon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="./apple-touch-icon.png" sizes="180x180">
   <link rel="manifest" href="./manifest.webmanifest">
-  <link rel="stylesheet" href="./styles.css?v=20261110">
+  <link rel="stylesheet" href="./styles.css?v=20261110c">
   <script>
     (function () {
       try {
@@ -146,6 +146,15 @@
         <ul class="lookup-suggest" id="lookupSuggest" role="listbox" hidden></ul>
         <p class="lookup-hint" id="lookupHint">Sugerencias vía Yahoo. Si fallan, escribe el símbolo y pulsa Intro.</p>
       </div>
+      <div class="compare" id="compare">
+        <label class="lookup-label" for="compareInput">Comparar</label>
+        <p class="lookup-hint" id="compareLead">Añade dos o más acciones (cualquier símbolo) para ver el % desde el inicio del periodo.</p>
+        <div class="compare-chips" id="compareChips" aria-live="polite"></div>
+        <input id="compareInput" class="lookup-input" type="search" enterkeyhint="search" autocomplete="off" autocorrect="off" spellcheck="false" placeholder="Añadir ticker (p. ej. MSFT)" aria-autocomplete="list" aria-controls="compareSuggest" aria-expanded="false">
+        <ul class="lookup-suggest" id="compareSuggest" role="listbox" hidden></ul>
+        <p class="lookup-hint" id="compareHint">Máximo 6. Misma búsqueda que arriba. Pulsa Intro si no hay sugerencias.</p>
+        <div id="compareBody"></div>
+      </div>
       <div class="source-cluster" role="group" aria-label="Fuente de cotizaciones">
         <button type="button" class="source-btn" data-source="tv">TradingView</button>
         <button type="button" class="source-btn" data-source="yahoo">Yahoo</button>
@@ -163,6 +172,6 @@
   </div>
   <script src="./day-moves.js?v=20261102"></script>
   <script src="./btc-weekend.js?v=20261102"></script>
-  <script src="./app.js?v=20261110"></script>
+  <script src="./app.js?v=20261110c"></script>
 </body>
 </html>

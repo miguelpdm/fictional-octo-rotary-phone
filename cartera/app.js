@@ -12,6 +12,9 @@
   const HIDE_US_OVERRIDE_KEY = "cartera-hide-us-override";
   const POST_KEY = "cartera-post-view";
   const SECONDARY_KEY = "cartera-secondary-open";
+  const COMPARE_KEY = "cartera-compare";
+  const COMPARE_MAX = 6;
+  const COMPARE_COLORS = ["var(--cmp-0)", "var(--cmp-1)", "var(--cmp-2)", "var(--cmp-3)", "var(--cmp-4)", "var(--cmp-5)"];
   const AGG_ID = "__CARTERA__";
   const NY_TZ = "America/New_York";
   const US_GOOD_FRIDAY = {
@@ -145,7 +148,13 @@
     lookupHint: document.getElementById("lookupHint"),
     lookupSheet: document.getElementById("lookupSheet"),
     lookupBody: document.getElementById("lookupBody"),
-    lookupClose: document.getElementById("lookupClose")
+    lookupClose: document.getElementById("lookupClose"),
+    compare: document.getElementById("compare"),
+    compareInput: document.getElementById("compareInput"),
+    compareSuggest: document.getElementById("compareSuggest"),
+    compareHint: document.getElementById("compareHint"),
+    compareChips: document.getElementById("compareChips"),
+    compareBody: document.getElementById("compareBody")
   };
 
   const nf = (value, digits = 2) => new Intl.NumberFormat("es-ES", {
@@ -2630,6 +2639,437 @@
     if (event.key === "Escape" && els.lookupSheet && !els.lookupSheet.hidden) closeLookupSheet();
   });
 
+  let compareTimer = null;
+  let compareSeq = 0;
+  let compareLoadSeq = 0;
+  let compareSymbols = [];
+  let compareRange = "1d";
+  let compareSeries = [];
+
+  function loadComparePrefs() {
+    try {
+      const saved = JSON.parse(localStorage.getItem(COMPARE_KEY) || "null");
+      const list = Array.isArray(saved?.symbols) ? saved.symbols : [];
+      compareSymbols = list
+        .map((item) => {
+          const symbol = String(item?.symbol || item || "").trim();
+          if (!symbol) return null;
+          return {
+            symbol,
+            name: String(item?.name || ""),
+            quoteType: String(item?.quoteType || item?.type || "")
+          };
+        })
+        .filter(Boolean)
+        .slice(0, COMPARE_MAX);
+      const rangeId = String(saved?.range || "1d");
+      compareRange = CHART_RANGES.some((item) => item.id === rangeId) ? rangeId : "1d";
+    } catch {
+      compareSymbols = [];
+      compareRange = "1d";
+    }
+  }
+
+  function saveComparePrefs() {
+    try {
+      localStorage.setItem(COMPARE_KEY, JSON.stringify({
+        symbols: compareSymbols.map((item) => ({
+          symbol: item.symbol,
+          name: item.name || "",
+          quoteType: item.quoteType || ""
+        })),
+        range: compareRange
+      }));
+    } catch {}
+  }
+
+  function hideCompareSuggest() {
+    if (!els.compareSuggest) return;
+    els.compareSuggest.hidden = true;
+    els.compareSuggest.innerHTML = "";
+    if (els.compareInput) els.compareInput.setAttribute("aria-expanded", "false");
+  }
+
+  function renderCompareSuggest(quotes) {
+    if (!els.compareSuggest) return;
+    if (!quotes.length) {
+      hideCompareSuggest();
+      return;
+    }
+    els.compareSuggest.hidden = false;
+    els.compareInput.setAttribute("aria-expanded", "true");
+    els.compareSuggest.innerHTML = quotes.slice(0, 8).map((item) => {
+      const name = item.shortname || item.longname || item.exchDisp || "";
+      return `<li role="none"><button type="button" role="option" data-symbol="${escapeHtml(item.symbol)}" data-name="${escapeHtml(item.shortname || item.longname || "")}" data-type="${escapeHtml(item.quoteType || "")}">
+        <span class="lookup-sym">${escapeHtml(item.symbol)}</span>
+        ${name ? `<span class="lookup-name">${escapeHtml(name)}</span>` : ""}
+      </button></li>`;
+    }).join("");
+  }
+
+  async function runCompareSearch(query) {
+    const q = String(query || "").trim();
+    if (q.length < 1) {
+      hideCompareSuggest();
+      return;
+    }
+    const seq = ++compareSeq;
+    try {
+      const quotes = await fetchYahooSearch(q);
+      if (seq !== compareSeq) return;
+      renderCompareSuggest(quotes);
+      if (!quotes.length && els.compareHint) {
+        els.compareHint.textContent = "Sin sugerencias. Escribe el símbolo exacto y pulsa Intro.";
+      }
+    } catch {
+      if (seq !== compareSeq) return;
+      hideCompareSuggest();
+      if (els.compareHint) {
+        els.compareHint.textContent = "La búsqueda no respondió. Escribe el símbolo exacto y pulsa Intro.";
+      }
+    }
+  }
+
+  function compareBucket(tSec, rangeId) {
+    const parts = tzParts(new Date(Number(tSec) * 1000), TZ);
+    if (rangeId === "1d") {
+      const minute = Math.floor(parts.minute / 5) * 5;
+      return zonedLocalToUnixSec(parts.year, parts.month, parts.day, parts.hour, minute, TZ);
+    }
+    if (rangeId === "5d") {
+      const minute = Math.floor(parts.minute / 15) * 15;
+      return zonedLocalToUnixSec(parts.year, parts.month, parts.day, parts.hour, minute, TZ);
+    }
+    return zonedLocalToUnixSec(parts.year, parts.month, parts.day, 0, 0, TZ);
+  }
+
+  function alignCompareSeries(items, rangeId) {
+    const maps = items.map((item, index) => {
+      const samples = sparkSamples(item.spark);
+      const first = samples[0]?.v;
+      const map = new Map();
+      if (first && samples.length >= 2) {
+        for (const point of samples) {
+          const t = compareBucket(point.t, rangeId);
+          map.set(t, ((point.v - first) / first) * 100);
+        }
+      }
+      return {
+        symbol: item.symbol,
+        color: COMPARE_COLORS[index % COMPARE_COLORS.length],
+        map,
+        error: item.error || ""
+      };
+    });
+    const times = [...new Set(maps.flatMap((item) => [...item.map.keys()]))].sort((a, b) => a - b);
+    return {
+      times,
+      series: maps.map((item) => {
+        const values = [];
+        let last = null;
+        for (const t of times) {
+          if (item.map.has(t)) last = item.map.get(t);
+          values.push(last);
+        }
+        const own = values.filter((v) => v != null);
+        return {
+          symbol: item.symbol,
+          color: item.color,
+          values,
+          lastPct: own.length ? own[own.length - 1] : null,
+          error: item.error
+        };
+      })
+    };
+  }
+
+  function renderCompareChips() {
+    if (!els.compareChips) return;
+    els.compareChips.innerHTML = compareSymbols.map((item, index) => {
+      const color = COMPARE_COLORS[index % COMPARE_COLORS.length];
+      return `<span class="compare-chip" style="--cmp:${color}">
+        <i class="dot" aria-hidden="true"></i>
+        ${escapeHtml(item.symbol)}
+        <button type="button" class="compare-chip-x" data-compare-remove="${escapeHtml(item.symbol)}" aria-label="Quitar ${escapeHtml(item.symbol)}">✕</button>
+      </span>`;
+    }).join("");
+    if (els.compareInput) {
+      els.compareInput.disabled = compareSymbols.length >= COMPARE_MAX;
+      els.compareInput.placeholder = compareSymbols.length >= COMPARE_MAX
+        ? "Máximo 6 acciones"
+        : "Añadir ticker (p. ej. MSFT)";
+    }
+  }
+
+  function compareChartHtml(aligned, rangeId) {
+    const w = 320;
+    const h = 168;
+    const times = aligned.times || [];
+    const series = aligned.series || [];
+    if (times.length < 2 || !series.some((item) => item.values.filter((v) => v != null).length >= 2)) {
+      return `<div class="chart chart-wide chart-compare" aria-hidden="true"><svg viewBox="0 0 ${w} ${h}"></svg></div>
+        <p class="note compare-status">No hay suficientes datos para comparar este periodo.</p>`;
+    }
+    const nums = series.flatMap((item) => item.values.filter((v) => v != null));
+    const min = Math.min(0, ...nums);
+    const max = Math.max(0, ...nums);
+    const span = max - min || 1;
+    const t0 = times[0];
+    const t1 = times[times.length - 1];
+    const spanT = t1 - t0 || 1;
+    const x = (t) => 1 + ((t - t0) / spanT) * (w - 2);
+    const y = (v) => h - 3 - ((v - min) / span) * (h - 6);
+    const y0 = y(0);
+    const paths = series.map((item) => {
+      const pts = times.map((t, i) => (item.values[i] == null ? null : `${x(t)} ${y(item.values[i])}`)).filter(Boolean);
+      if (pts.length < 2) return "";
+      const d = pts.map((p, i) => `${i === 0 ? "M" : "L"} ${p}`).join(" ");
+      return `<path d="${d}" fill="none" stroke="${item.color}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"></path>`;
+    }).join("");
+    const dots = series.map((item, i) => (
+      `<circle class="xh-dot" data-cmp="${i}" r="4.2" fill="${item.color}" stroke="var(--xh-ring)"></circle>`
+    )).join("");
+    const legend = series.map((item) => (
+      `<span style="--cmp:${item.color}"><i class="dot" aria-hidden="true"></i>${escapeHtml(item.symbol)} <span class="${dirClass(item.lastPct || 0)}">${signedPct(item.lastPct)}</span></span>`
+    )).join("");
+    const payloadTimes = encodeURIComponent(JSON.stringify(times));
+    const payloadSeries = encodeURIComponent(JSON.stringify(series.map((item) => ({
+      symbol: item.symbol,
+      color: item.color,
+      values: item.values
+    }))));
+    return `<div class="compare-legend">${legend}</div>
+      <div class="chart chart-wide chart-compare" role="img" aria-label="Comparación. Mantén pulsado o arrastra para ver el % de cada acción." data-compare="1" data-wide="1" data-tip="${rangeTipMode(rangeId)}" data-times="${payloadTimes}" data-series="${payloadSeries}">
+        <svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">
+          <line x1="0" x2="${w}" y1="${y0}" y2="${y0}" stroke="#c5cad3" stroke-dasharray="3 3" stroke-width="1" opacity="0.85"></line>
+          ${paths}
+          <g class="xh" hidden>
+            <line class="xh-v" y1="0" y2="${h}"></line>
+            ${dots}
+          </g>
+        </svg>
+        <div class="chart-tip" hidden></div>
+      </div>`;
+  }
+
+  function renderCompareBody(status, error) {
+    if (!els.compareBody) return;
+    if (compareSymbols.length < 2) {
+      els.compareBody.innerHTML = `<p class="note compare-status">Añade al menos dos acciones para dibujar la gráfica.</p>`;
+      return;
+    }
+    const ranges = rangeChipsHtml(compareRange, "data-compare-range");
+    let extra;
+    if (error) extra = `<p class="lookup-error">${escapeHtml(error)}</p>`;
+    else if (status) extra = `<p class="note compare-status">${escapeHtml(status)}</p>`;
+    else if (!compareSeries.some((item) => item.spark?.length >= 2)) {
+      extra = `<p class="note compare-status">Cargando…</p>`;
+    } else extra = compareChartHtml(alignCompareSeries(compareSeries, compareRange), compareRange);
+    els.compareBody.innerHTML = `${ranges}${extra}`;
+  }
+
+  function addCompareSymbol(pick) {
+    const symbol = String(pick?.symbol || "").trim();
+    if (!symbol) return;
+    if (compareSymbols.some((item) => item.symbol.toUpperCase() === symbol.toUpperCase())) {
+      hideCompareSuggest();
+      if (els.compareInput) els.compareInput.value = "";
+      return;
+    }
+    if (compareSymbols.length >= COMPARE_MAX) {
+      if (els.compareHint) els.compareHint.textContent = "Máximo 6 acciones.";
+      return;
+    }
+    compareSymbols.push({
+      symbol,
+      name: pick.name || pick.shortname || pick.longname || "",
+      quoteType: pick.quoteType || pick.type || ""
+    });
+    hideCompareSuggest();
+    if (els.compareInput) els.compareInput.value = "";
+    if (els.compareHint) {
+      els.compareHint.textContent = "Máximo 6. Misma búsqueda que arriba. Pulsa Intro si no hay sugerencias.";
+    }
+    saveComparePrefs();
+    renderCompareChips();
+    loadCompareRange(compareRange);
+  }
+
+  function removeCompareSymbol(symbol) {
+    compareSymbols = compareSymbols.filter((item) => item.symbol !== symbol);
+    compareSeries = compareSeries.filter((item) => item.symbol !== symbol);
+    saveComparePrefs();
+    renderCompareChips();
+    loadCompareRange(compareRange);
+  }
+
+  async function loadCompareRange(rangeId) {
+    if (!CHART_RANGES.some((item) => item.id === rangeId)) return;
+    compareRange = rangeId;
+    saveComparePrefs();
+    renderCompareChips();
+    if (compareSymbols.length < 2) {
+      compareSeries = [];
+      renderCompareBody();
+      return;
+    }
+    const seq = ++compareLoadSeq;
+    renderCompareBody("Cargando…");
+    try {
+      const fetched = await Promise.all(compareSymbols.map(async (pick) => {
+        const spec = chartRangeSpec(rangeId, pick);
+        try {
+          const quoted = await fetchYahooChart(pick.symbol, spec);
+          if (!quoted?.spark || quoted.spark.length < 2) {
+            return { symbol: pick.symbol, spark: [], error: "sin datos" };
+          }
+          if (!pick.name && quoted.name) pick.name = quoted.name;
+          return { symbol: pick.symbol, spark: quoted.spark, error: "" };
+        } catch (error) {
+          return { symbol: pick.symbol, spark: [], error: error.message || "error" };
+        }
+      }));
+      if (seq !== compareLoadSeq) return;
+      compareSeries = fetched;
+      const failed = fetched.filter((item) => item.error || item.spark.length < 2).map((item) => item.symbol);
+      const ok = fetched.filter((item) => item.spark.length >= 2);
+      if (ok.length < 2) {
+        renderCompareBody("", failed.length
+          ? `No se pudieron cargar suficientes series (${failed.join(", ")}).`
+          : "No hay suficientes datos para comparar este periodo.");
+        return;
+      }
+      renderCompareBody();
+    } catch (error) {
+      if (seq !== compareLoadSeq) return;
+      renderCompareBody("", `No se pudo cargar la comparación. ${error.message || ""}`);
+    }
+  }
+
+  function showCompareTip(chart, clientX) {
+    let times = [];
+    let series = [];
+    try {
+      times = JSON.parse(decodeURIComponent(chart.dataset.times || "")) || [];
+      series = JSON.parse(decodeURIComponent(chart.dataset.series || "")) || [];
+    } catch {
+      return;
+    }
+    if (times.length < 2) return;
+    const w = 320;
+    const h = 168;
+    const nums = series.flatMap((item) => (item.values || []).filter((v) => v != null));
+    if (!nums.length) return;
+    const min = Math.min(0, ...nums);
+    const max = Math.max(0, ...nums);
+    const span = max - min || 1;
+    const t0 = times[0];
+    const t1 = times[times.length - 1];
+    const spanT = t1 - t0 || 1;
+    const xAt = (t) => 1 + ((t - t0) / spanT) * (w - 2);
+    const yAt = (v) => h - 3 - ((v - min) / span) * (h - 6);
+    const rect = chart.getBoundingClientRect();
+    const ratio = Math.max(0, Math.min(1, (clientX - rect.left) / Math.max(rect.width, 1)));
+    const t = t0 + ratio * spanT;
+    let idx = 0;
+    let bestD = Math.abs(times[0] - t);
+    for (let i = 1; i < times.length; i += 1) {
+      const d = Math.abs(times[i] - t);
+      if (d < bestD) {
+        bestD = d;
+        idx = i;
+      }
+    }
+    const x = xAt(times[idx]);
+    const xh = chart.querySelector(".xh");
+    const vLine = chart.querySelector(".xh-v");
+    const tip = chart.querySelector(".chart-tip");
+    if (!xh || !vLine || !tip) return;
+    xh.removeAttribute("hidden");
+    vLine.setAttribute("x1", x);
+    vLine.setAttribute("x2", x);
+    series.forEach((item, i) => {
+      const dot = chart.querySelector(`.xh-dot[data-cmp="${i}"]`);
+      if (!dot) return;
+      const value = item.values?.[idx];
+      if (value == null) {
+        dot.setAttribute("hidden", "");
+        return;
+      }
+      dot.removeAttribute("hidden");
+      dot.setAttribute("cx", x);
+      dot.setAttribute("cy", yAt(value));
+    });
+    const tipOpts = chart.dataset.tip === "full"
+      ? { day: "2-digit", month: "short", hour: "2-digit", minute: "2-digit", hourCycle: "h23" }
+      : chart.dataset.tip === "date"
+        ? { day: "2-digit", month: "short", year: "2-digit" }
+        : { hour: "2-digit", minute: "2-digit", hourCycle: "h23" };
+    const time = dt(new Date(times[idx] * 1000), tipOpts);
+    tip.hidden = false;
+    tip.replaceChildren();
+    const timeEl = document.createElement("span");
+    timeEl.className = "compare-tip-time";
+    timeEl.textContent = time;
+    tip.append(timeEl);
+    series.forEach((item) => {
+      const row = document.createElement("div");
+      row.className = "compare-tip-row";
+      const name = document.createElement("span");
+      name.textContent = item.symbol;
+      name.style.color = item.color;
+      const pctEl = document.createElement("span");
+      const value = item.values?.[idx];
+      pctEl.className = `chart-tip-pct ${dirClass(value || 0)}`;
+      pctEl.textContent = signedPctAtClose(value);
+      row.append(name, pctEl);
+      tip.append(row);
+    });
+    const leftPct = (x / w) * 100;
+    tip.style.left = `${leftPct}%`;
+    const shift = leftPct > 72 ? "-100%" : leftPct < 28 ? "0" : "-50%";
+    tip.style.transform = `translate(${shift}, -110%)`;
+  }
+
+  if (els.compareInput) {
+    els.compareInput.addEventListener("input", () => {
+      const q = els.compareInput.value;
+      clearTimeout(compareTimer);
+      compareTimer = setTimeout(() => runCompareSearch(q), 280);
+    });
+    els.compareInput.addEventListener("keydown", (event) => {
+      if (event.key !== "Enter") return;
+      event.preventDefault();
+      const first = els.compareSuggest?.querySelector("[data-symbol]");
+      const symbol = first?.dataset.symbol || els.compareInput.value.trim();
+      if (symbol) addCompareSymbol({ symbol, name: first?.dataset.name || "", quoteType: first?.dataset.type || "" });
+    });
+  }
+
+  if (els.compareSuggest) {
+    els.compareSuggest.addEventListener("click", (event) => {
+      const btn = event.target.closest("[data-symbol]");
+      if (!btn) return;
+      addCompareSymbol({ symbol: btn.dataset.symbol, name: btn.dataset.name, quoteType: btn.dataset.type });
+    });
+  }
+
+  if (els.compareChips) {
+    els.compareChips.addEventListener("click", (event) => {
+      const btn = event.target.closest("[data-compare-remove]");
+      if (!btn) return;
+      removeCompareSymbol(btn.dataset.compareRemove);
+    });
+  }
+
+  if (els.compareBody) {
+    els.compareBody.addEventListener("click", (event) => {
+      const btn = event.target.closest("[data-compare-range]");
+      if (!btn) return;
+      loadCompareRange(btn.dataset.compareRange);
+    });
+  }
+
   let chartPointer = null;
   let ignoreRowClick = false;
 
@@ -2649,6 +3089,10 @@
   }
 
   function showChartTip(chart, clientX) {
+    if (chart.dataset.compare === "1") {
+      showCompareTip(chart, clientX);
+      return;
+    }
     const samples = sparkSamples(chartSamples(chart));
     if (samples.length < 2) return;
     const prevRaw = chart.dataset.prev;
@@ -2711,7 +3155,7 @@
 
   function onChartPointerDown(event) {
     const chart = event.target.closest(".chart");
-    if (!chart || !chart.dataset.spark) return;
+    if (!chart || (!chart.dataset.spark && chart.dataset.compare !== "1")) return;
     ignoreRowClick = true;
     chartPointer = { id: event.pointerId, chart };
     document.querySelectorAll(".chart").forEach((el) => {
@@ -2750,6 +3194,12 @@
     els.lookupBody.addEventListener("pointermove", onChartPointerMove);
     els.lookupBody.addEventListener("pointerup", onChartPointerUp);
     els.lookupBody.addEventListener("pointercancel", onChartPointerUp);
+  }
+  if (els.compareBody) {
+    els.compareBody.addEventListener("pointerdown", onChartPointerDown);
+    els.compareBody.addEventListener("pointermove", onChartPointerMove);
+    els.compareBody.addEventListener("pointerup", onChartPointerUp);
+    els.compareBody.addEventListener("pointercancel", onChartPointerUp);
   }
   function onQuoteListClick(event) {
     const aggRangeBtn = event.target.closest("[data-agg-range]");
@@ -2969,6 +3419,9 @@
     sectorView = localStorage.getItem(SECTOR_KEY) === "1";
     postView = localStorage.getItem(POST_KEY) === "1";
     secondaryOpen = localStorage.getItem(SECONDARY_KEY) === "1";
+    loadComparePrefs();
+    renderCompareChips();
+    renderCompareBody();
     applyTheme(currentTheme());
     applyView();
     applySector();
@@ -2997,6 +3450,7 @@
     applyAutoRefresh();
     await refresh();
     applyNewsView();
+    loadCompareRange(compareRange);
   }
 
   els.gateForm.addEventListener("submit", async (event) => {
