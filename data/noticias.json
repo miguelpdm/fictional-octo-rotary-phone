@@ -578,5 +578,65 @@
     "porque": "Señal regulatoria sobre la operación reforzada tras el apagón; impacto económico mínimo",
     "fuente": "Economía Digital",
     "idioma": "ES"
+  },
+  {
+    "fecha": "2026-11-09",
+    "ticker": "HIMS",
+    "tipo": "duro",
+    "titular": "Hims cae un 11,8% hasta 22,94 $ tras un 3T26 con pérdidas, margen bruto del 57% y recorte de la guía de EBITDA ajustado 2026 a 257–277 M$",
+    "url": "https://www.investors.com/news/technology/hims-stock-hims-earnings-q3-2026/",
+    "porque": "Reacción de precio superior al 8% con noticia; el margen bruto perfora el suelo del 64% de la tesis",
+    "fuente": "Investor's Business Daily",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-09",
+    "ticker": "ASST",
+    "tipo": "duro",
+    "titular": "Strive compra 29 BTC (total 43.153) entre el 31-oct y el 6-nov; caja de 487,6 M$ y sin dilución en acciones comunes",
+    "url": "https://www.sec.gov/Archives/edgar/data/1920406/000162828026071888/asst-20261109.htm",
+    "porque": "Gate de BTC en tesorería: el ritmo de compra se frena mucho frente a octubre",
+    "fuente": "SEC 8-K",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-09",
+    "ticker": "BRNT",
+    "tipo": "duro",
+    "titular": "El Brent cae un 5,85% hasta 92,57 $, mínimo desde finales de agosto, tras la reunión de Trump con Qatar sin acuerdo sobre Ormuz",
+    "url": "https://finance.yahoo.com/news/oil-falls-open-trump-says-235002807.html",
+    "porque": "Catalizador político nuevo: la prima de guerra sigue deshaciéndose aunque los ataques a buques continúan",
+    "fuente": "Reuters (vía Yahoo Finance)",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-09",
+    "ticker": "HUMA",
+    "tipo": "soft",
+    "titular": "Humacyte abre el reclutamiento de la Fase 2a de su vaso coronario CTEV para bypass (10 pacientes)",
+    "url": "https://www.globenewswire.com/news-release/2026/11/09/3398371/0/en/humacyte-highlights-first-in-human-coronary-bypass-study-at-american-heart-association-scientific-sessions-2026.html",
+    "porque": "Extiende la plataforma a vasos coronarios; sin impacto en ingresos ni en caja a corto plazo",
+    "fuente": "GlobeNewswire / Humacyte",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-10",
+    "ticker": "HIMS",
+    "tipo": "soft",
+    "titular": "Andrew Huberman entra en el consejo de Hims como asesor de ciencia y marketing; Peptides+ se lanzará a finales de noviembre",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/hims-stock-slides-overnight-retail-070949212.html",
+    "porque": "Nombramiento con peso comercial en el lanzamiento de péptidos (3,5 M$/año en asesoría y 5 M$/año en publicidad a su empresa, según el 8-K)",
+    "fuente": "Yahoo Finance / Stocktwits",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-09",
+    "ticker": "ADBE",
+    "tipo": "soft",
+    "titular": "Adobe y Disney firman una alianza estratégica plurianual: Adobe pasa a ser socio oficial de IA de Disney, con modelos a medida en Firefly Foundry",
+    "url": "https://news.adobe.com/news/2026/11/adobe-and-the-walt-disney-company-alliance",
+    "porque": "Validación comercial de Firefly Foundry (modelos propietarios) con un gran cliente de medios",
+    "fuente": "Adobe Newsroom",
+    "idioma": "EN"
   }
 ]
