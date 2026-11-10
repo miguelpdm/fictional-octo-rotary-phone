@@ -11,6 +11,7 @@
   const THEME_KEY = "cartera-theme";
   const HIDE_US_OVERRIDE_KEY = "cartera-hide-us-override";
   const POST_KEY = "cartera-post-view";
+  const SECONDARY_KEY = "cartera-secondary-open";
   const AGG_ID = "__CARTERA__";
   const NY_TZ = "America/New_York";
   const US_GOOD_FRIDAY = {
@@ -85,6 +86,7 @@
   let quoteStatus = "";
   let hideUs = false;
   let postView = false;
+  let secondaryOpen = false;
   let usSessionMeta = { session: "closed", date: "", open: false };
   let expanded = new Set();
   let autoTimer = null;
@@ -119,6 +121,10 @@
     cats: document.getElementById("categoryChips"),
     sorts: document.getElementById("sortChips"),
     list: document.getElementById("list"),
+    secondaryWrap: document.getElementById("secondaryWrap"),
+    secondaryToggle: document.getElementById("secondaryToggle"),
+    secondaryList: document.getElementById("secondaryList"),
+    secondaryMeta: document.getElementById("secondaryMeta"),
     view: document.getElementById("viewBtn"),
     newsBtn: document.getElementById("newsBtn"),
     newsPanel: document.getElementById("newsPanel"),
@@ -767,10 +773,15 @@
     return allCategoriesOn() || categoryFilter.size === 0;
   }
 
+  function isSecondaryList(row) {
+    return String(row?.lista || "").trim().toLowerCase() === "secundaria";
+  }
+
   function aggUniverse() {
     const catsOpen = categoryOpen();
     return rows.filter((row) => {
       if (row.missing) return false;
+      if (isSecondaryList(row)) return false;
       if (hideUs && isUsListing(row)) return false;
       if (!catsOpen) {
         const id = categoryId(row);
@@ -1524,9 +1535,12 @@
     return CATEGORY_IDS.every((id) => categoryFilter.has(id));
   }
 
-  function scopedRows() {
+  function scopedRows(kind = "primary") {
     const catsOpen = categoryOpen();
     return rows.filter((row) => {
+      const secondary = isSecondaryList(row);
+      if (kind === "primary" && secondary) return false;
+      if (kind === "secondary" && !secondary) return false;
       if (hideUs && isUsListing(row)) return false;
       if (!catsOpen) {
         const id = categoryId(row);
@@ -1536,14 +1550,13 @@
     });
   }
 
-  function visibleRows() {
-    let list = scopedRows();
+  function sortVisibleRows(list) {
     if (filter === "up") list = list.filter((row) => globalThis.CarteraDayMoves.dayDirection(row) === "up");
     else if (filter === "down") list = list.filter((row) => globalThis.CarteraDayMoves.dayDirection(row) === "down");
     else if (filter === "flat") list = list.filter((row) => globalThis.CarteraDayMoves.dayDirection(row) === "flat");
 
     const dir = sortDir === "asc" ? 1 : -1;
-    list = [...list].sort((a, b) => {
+    return [...list].sort((a, b) => {
       if (sort === "name") return dir * a.name.localeCompare(b.name, "es");
       if (sort === "volume") return dir * ((a.relVolume ?? -1) - (b.relVolume ?? -1));
       if (sort === "category") {
@@ -1556,7 +1569,10 @@
       }
       return dir * ((a.changePct ?? -999) - (b.changePct ?? -999));
     });
-    return list;
+  }
+
+  function visibleRows(kind = "primary") {
+    return sortVisibleRows(scopedRows(kind));
   }
 
   function sparkSamples(points) {
@@ -1825,7 +1841,7 @@
     if (!els.postList) return;
     const catsOpen = categoryOpen();
     const list = rows
-      .filter((row) => !row.missing && isUsListing(row) && (catsOpen || categoryFilter.has(categoryId(row))))
+      .filter((row) => !row.missing && !isSecondaryList(row) && isUsListing(row) && (catsOpen || categoryFilter.has(categoryId(row))))
       .sort((a, b) => postSortPct(b) - postSortPct(a));
     if (!list.length) {
       els.postList.innerHTML = '<div class="state">No hay valores USA para esta vista.</div>';
@@ -1910,6 +1926,128 @@
     </article>`;
   }
 
+  function rowHtml(row) {
+    if (denseView) {
+      if (row.missing) {
+        return `<article class="row" data-symbol="${row.symbol}">
+          <div class="row-main">
+            <div class="tile-top"><div class="sym">${row.symbol}</div><div class="price">n/d</div></div>
+            <div class="tile-bottom"><div></div><div class="badge flat">Sin datos</div></div>
+          </div>
+        </article>`;
+      }
+      const klass = dirClass(row.changePct || 0);
+      return `<article class="row" data-symbol="${row.symbol}">
+        <div class="row-main">
+          <div class="tile-top">
+            <div class="tile-id">
+              <div class="sym">${row.symbol}${categoryTag(row)}</div>
+              ${benchHtml(row)}
+              ${extHtml(row)}
+            </div>
+            <div class="price">${nf(row.price, priceDigits(row.price))}</div>
+          </div>
+          <div class="tile-bottom">
+            <div>
+              ${sparkTiny(row.spark, row.previousClose)}
+              ${sparkDateHtml(row.sparkSessionDate)}
+            </div>
+            <div class="badge ${klass}">${signedPct(row.changePct)}</div>
+          </div>
+        </div>
+      </article>`;
+    }
+
+    const open = expanded.has(row.symbol);
+    if (row.missing) {
+      return `<article class="row ${open ? "open" : ""}" data-symbol="${row.symbol}">
+        <div class="row-main">
+          <div><div class="sym">${row.symbol}${categoryTag(row)}</div>
+          <div class="name">${row.name}</div></div>
+          <div></div>
+          <div class="right"><div class="price">n/d</div><div class="badge flat">Sin datos</div></div>
+        </div>
+        <div class="details"><p class="error">${row.error || "Ticker no resuelto."} ${row.note || ""}</p></div>
+      </article>`;
+    }
+
+    const klass = dirClass(row.changePct || 0);
+    const view = rowChartView(row);
+    const delayed = String(row.updateMode || "").includes("delayed");
+    const volTxt = row.relVolume != null ? `Vol. ${nf(row.relVolume, 2)}× media 10d` : (row.volume != null ? `Vol. ${nf(row.volume, 0)}` : "");
+    const details = `
+      <button type="button" class="lookup-close row-close" data-close-row aria-label="Cerrar">✕</button>
+      <div class="chart-col chart-col-wide">
+        ${rangeChipsHtml(view.range)}
+        ${chartHtml(view.spark, view.previousClose, true, row.currency, view.range === "1d" && view.sessionDate ? "full" : view.tip)}
+        ${view.range === "1d" ? sparkDateHtml(view.sessionDate) : ""}
+        ${rangePctHtml(view)}
+      </div>
+      <div class="stats">
+        ${rangeBar(row.dayLow, row.dayHigh, row.price, nf(row.dayLow ?? 0, priceDigits(row.dayLow || 0)), nf(row.dayHigh ?? 0, priceDigits(row.dayHigh || 0)), "Rango del día")}
+        ${rangeBar(row.weekLow, row.weekHigh, row.price, nf(row.weekLow ?? 0, priceDigits(row.weekLow || 0)), nf(row.weekHigh ?? 0, priceDigits(row.weekHigh || 0)), "52 semanas")}
+      </div>
+      <p class="note">${row.session ? SESSION_LABEL[row.session] || row.session : "Sesión n/d"}
+        · ${row.exchange || ""} · ${delayed ? "Retraso ~15 min" : (row.updateMode === "streaming" ? "Streaming" : row.source)}
+        ${volTxt ? ` · ${volTxt}` : ""}</p>
+      ${pnlHtml(row)}
+      ${row.note ? `<p class="note">${row.note}</p>` : ""}
+      ${row.usedSnapshot ? '<p class="note">Precio del snapshot de GitHub Actions (la fuente en vivo no respondió para este ticker).</p>' : ""}
+    `;
+
+    return `<article class="row ${open ? "open" : ""}" data-symbol="${row.symbol}">
+      <div class="row-main">
+        <div>
+          <div class="sym">${row.symbol}${categoryTag(row)}</div>
+          ${benchHtml(row)}
+          <div class="name">${row.name}</div>
+        </div>
+        <div>
+          ${chartHtml(row.spark, row.previousClose, false, row.currency, row.sparkSessionDate ? "full" : "time")}
+          ${sparkDateHtml(row.sparkSessionDate)}
+        </div>
+        <div class="right">
+          <div class="price">${nf(row.price, priceDigits(row.price))}<span class="ccy">${row.currency || ""}</span></div>
+          <div class="badge ${klass}">${signedPct(row.changePct)}</div>
+          ${extHtml(row)}
+        </div>
+      </div>
+      <div class="details">${details}</div>
+    </article>`;
+  }
+
+  function applySecondaryOpen() {
+    if (!els.secondaryWrap || !els.secondaryToggle || !els.secondaryList) return;
+    els.secondaryToggle.setAttribute("aria-expanded", secondaryOpen ? "true" : "false");
+    els.secondaryWrap.classList.toggle("open", secondaryOpen);
+    els.secondaryList.hidden = !secondaryOpen;
+  }
+
+  function renderSecondaryList() {
+    if (!els.secondaryWrap || !els.secondaryList) return;
+    const scoped = scopedRows("secondary");
+    if (!scoped.length) {
+      els.secondaryWrap.hidden = true;
+      els.secondaryList.innerHTML = "";
+      return;
+    }
+    const list = visibleRows("secondary");
+    els.secondaryWrap.hidden = false;
+    if (els.secondaryMeta) {
+      els.secondaryMeta.textContent = list.length === 1 ? "1 valor" : `${list.length} valores`;
+    }
+    applySecondaryOpen();
+    if (!secondaryOpen) {
+      els.secondaryList.innerHTML = "";
+      return;
+    }
+    if (!list.length) {
+      els.secondaryList.innerHTML = '<div class="state">No hay valores para este filtro.</div>';
+      return;
+    }
+    els.secondaryList.innerHTML = list.map(rowHtml).join("");
+  }
+
   function renderList() {
     const list = visibleRows();
     const aggHtml = renderAggRowHtml();
@@ -1917,101 +2055,11 @@
       els.list.innerHTML = aggHtml
         ? `${aggHtml}<div class="state">No hay valores para este filtro.</div>`
         : '<div class="state">No hay valores para este filtro.</div>';
+      renderSecondaryList();
       return;
     }
-
-    if (denseView) {
-      els.list.innerHTML = aggHtml + list.map((row) => {
-        if (row.missing) {
-          return `<article class="row" data-symbol="${row.symbol}">
-            <div class="row-main">
-              <div class="tile-top"><div class="sym">${row.symbol}</div><div class="price">n/d</div></div>
-              <div class="tile-bottom"><div></div><div class="badge flat">Sin datos</div></div>
-            </div>
-          </article>`;
-        }
-        const klass = dirClass(row.changePct || 0);
-        return `<article class="row" data-symbol="${row.symbol}">
-          <div class="row-main">
-            <div class="tile-top">
-              <div class="tile-id">
-                <div class="sym">${row.symbol}${categoryTag(row)}</div>
-                ${benchHtml(row)}
-                ${extHtml(row)}
-              </div>
-              <div class="price">${nf(row.price, priceDigits(row.price))}</div>
-            </div>
-            <div class="tile-bottom">
-              <div>
-                ${sparkTiny(row.spark, row.previousClose)}
-                ${sparkDateHtml(row.sparkSessionDate)}
-              </div>
-              <div class="badge ${klass}">${signedPct(row.changePct)}</div>
-            </div>
-          </div>
-        </article>`;
-      }).join("");
-      return;
-    }
-
-    els.list.innerHTML = aggHtml + list.map((row) => {
-      const open = expanded.has(row.symbol);
-      if (row.missing) {
-        return `<article class="row ${open ? "open" : ""}" data-symbol="${row.symbol}">
-          <div class="row-main">
-            <div><div class="sym">${row.symbol}${categoryTag(row)}</div>
-            <div class="name">${row.name}</div></div>
-            <div></div>
-            <div class="right"><div class="price">n/d</div><div class="badge flat">Sin datos</div></div>
-          </div>
-          <div class="details"><p class="error">${row.error || "Ticker no resuelto."} ${row.note || ""}</p></div>
-        </article>`;
-      }
-
-      const klass = dirClass(row.changePct || 0);
-      const view = rowChartView(row);
-      const delayed = String(row.updateMode || "").includes("delayed");
-      const volTxt = row.relVolume != null ? `Vol. ${nf(row.relVolume, 2)}× media 10d` : (row.volume != null ? `Vol. ${nf(row.volume, 0)}` : "");
-      const details = `
-        <button type="button" class="lookup-close row-close" data-close-row aria-label="Cerrar">✕</button>
-        <div class="chart-col chart-col-wide">
-          ${rangeChipsHtml(view.range)}
-          ${chartHtml(view.spark, view.previousClose, true, row.currency, view.range === "1d" && view.sessionDate ? "full" : view.tip)}
-          ${view.range === "1d" ? sparkDateHtml(view.sessionDate) : ""}
-          ${rangePctHtml(view)}
-        </div>
-        <div class="stats">
-          ${rangeBar(row.dayLow, row.dayHigh, row.price, nf(row.dayLow ?? 0, priceDigits(row.dayLow || 0)), nf(row.dayHigh ?? 0, priceDigits(row.dayHigh || 0)), "Rango del día")}
-          ${rangeBar(row.weekLow, row.weekHigh, row.price, nf(row.weekLow ?? 0, priceDigits(row.weekLow || 0)), nf(row.weekHigh ?? 0, priceDigits(row.weekHigh || 0)), "52 semanas")}
-        </div>
-        <p class="note">${row.session ? SESSION_LABEL[row.session] || row.session : "Sesión n/d"}
-          · ${row.exchange || ""} · ${delayed ? "Retraso ~15 min" : (row.updateMode === "streaming" ? "Streaming" : row.source)}
-          ${volTxt ? ` · ${volTxt}` : ""}</p>
-        ${pnlHtml(row)}
-        ${row.note ? `<p class="note">${row.note}</p>` : ""}
-        ${row.usedSnapshot ? '<p class="note">Precio del snapshot de GitHub Actions (la fuente en vivo no respondió para este ticker).</p>' : ""}
-      `;
-
-      return `<article class="row ${open ? "open" : ""}" data-symbol="${row.symbol}">
-        <div class="row-main">
-          <div>
-            <div class="sym">${row.symbol}${categoryTag(row)}</div>
-            ${benchHtml(row)}
-            <div class="name">${row.name}</div>
-          </div>
-          <div>
-            ${chartHtml(row.spark, row.previousClose, false, row.currency, row.sparkSessionDate ? "full" : "time")}
-            ${sparkDateHtml(row.sparkSessionDate)}
-          </div>
-          <div class="right">
-            <div class="price">${nf(row.price, priceDigits(row.price))}<span class="ccy">${row.currency || ""}</span></div>
-            <div class="badge ${klass}">${signedPct(row.changePct)}</div>
-            ${extHtml(row)}
-          </div>
-        </div>
-        <div class="details">${details}</div>
-      </article>`;
-    }).join("");
+    els.list.innerHTML = aggHtml + list.map(rowHtml).join("");
+    renderSecondaryList();
   }
 
   function renderChips() {
@@ -2686,17 +2734,24 @@
     chartPointer = null;
   }
 
-  els.list.addEventListener("pointerdown", onChartPointerDown);
-  els.list.addEventListener("pointermove", onChartPointerMove);
-  els.list.addEventListener("pointerup", onChartPointerUp);
-  els.list.addEventListener("pointercancel", onChartPointerUp);
+  function bindQuoteList(el) {
+    if (!el) return;
+    el.addEventListener("pointerdown", onChartPointerDown);
+    el.addEventListener("pointermove", onChartPointerMove);
+    el.addEventListener("pointerup", onChartPointerUp);
+    el.addEventListener("pointercancel", onChartPointerUp);
+    el.addEventListener("click", onQuoteListClick);
+  }
+
+  bindQuoteList(els.list);
+  bindQuoteList(els.secondaryList);
   if (els.lookupBody) {
     els.lookupBody.addEventListener("pointerdown", onChartPointerDown);
     els.lookupBody.addEventListener("pointermove", onChartPointerMove);
     els.lookupBody.addEventListener("pointerup", onChartPointerUp);
     els.lookupBody.addEventListener("pointercancel", onChartPointerUp);
   }
-  els.list.addEventListener("click", (event) => {
+  function onQuoteListClick(event) {
     const aggRangeBtn = event.target.closest("[data-agg-range]");
     if (aggRangeBtn) {
       event.preventDefault();
@@ -2762,7 +2817,15 @@
     } else {
       renderList();
     }
-  });
+  }
+
+  if (els.secondaryToggle) {
+    els.secondaryToggle.addEventListener("click", () => {
+      secondaryOpen = !secondaryOpen;
+      try { localStorage.setItem(SECONDARY_KEY, secondaryOpen ? "1" : "0"); } catch {}
+      renderSecondaryList();
+    });
+  }
 
   els.refresh.addEventListener("click", () => refresh());
   els.auto.addEventListener("change", applyAutoRefresh);
@@ -2905,6 +2968,7 @@
     denseView = localStorage.getItem(VIEW_KEY) === "dense";
     sectorView = localStorage.getItem(SECTOR_KEY) === "1";
     postView = localStorage.getItem(POST_KEY) === "1";
+    secondaryOpen = localStorage.getItem(SECONDARY_KEY) === "1";
     applyTheme(currentTheme());
     applyView();
     applySector();

@@ -237,7 +237,8 @@
       "quantity": null,
       "avgCost": null,
       "note": "Yahoo: BRNT.MI (Milán). Cotización en vivo vía Euronext:BRNT; TradingView no lista el ticker milanés.",
-      "category": "energy"
+      "category": "energy",
+      "lista": "secundaria"
     },
     {
       "symbol": "SGLD.L",
