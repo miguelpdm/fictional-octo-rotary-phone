@@ -119,6 +119,28 @@
       "category": "growth"
     },
     {
+      "symbol": "LFMD",
+      "tv": "NASDAQ:LFMD",
+      "yahoo": "LFMD",
+      "name": "LifeMD",
+      "benchmark": "XBI",
+      "quantity": null,
+      "avgCost": null,
+      "category": "growth",
+      "lista": "secundaria"
+    },
+    {
+      "symbol": "SANA",
+      "tv": "NASDAQ:SANA",
+      "yahoo": "SANA",
+      "name": "Sana Biotechnology",
+      "benchmark": "XBI",
+      "quantity": null,
+      "avgCost": null,
+      "category": "growth",
+      "lista": "secundaria"
+    },
+    {
       "symbol": "EL.PA",
       "tv": "EURONEXT:EL",
       "yahoo": "EL.PA",
@@ -137,6 +159,17 @@
       "quantity": null,
       "avgCost": null,
       "category": "value"
+    },
+    {
+      "symbol": "EDR.MC",
+      "tv": "BME:EDR",
+      "yahoo": "EDR.MC",
+      "name": "eDreams ODIGEO",
+      "benchmark": "^IBEX",
+      "quantity": null,
+      "avgCost": null,
+      "category": "value",
+      "lista": "secundaria"
     },
     {
       "symbol": "SABR",
