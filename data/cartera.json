@@ -262,6 +262,16 @@
       "category": "quality"
     },
     {
+      "symbol": "NVDA",
+      "tv": "NASDAQ:NVDA",
+      "yahoo": "NVDA",
+      "name": "NVIDIA",
+      "benchmark": "XLK",
+      "quantity": null,
+      "avgCost": null,
+      "category": "quality"
+    },
+    {
       "symbol": "BRNT.MI",
       "tv": "EURONEXT:BRNT",
       "yahoo": "BRNT.MI",
