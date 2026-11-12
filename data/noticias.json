@@ -678,5 +678,35 @@
     "porque": "Delfin tiene el 32,4% de EssilorLuxottica. Esta fórmula mantendría el control en Italia y evitaría la entrada de un tercero, que obligaría a una opa sobre Essilux. Es información de fuentes, sin decisión del consejo",
     "fuente": "MF-Milano Finanza",
     "idioma": "IT"
+  },
+  {
+    "fecha": "2026-11-11",
+    "ticker": "SABR",
+    "tipo": "duro",
+    "titular": "Sabre sube hasta un 8,5% en la sesión tras informarse de que accionistas de Travelport estudian una posible combinación con Sabre (sin confirmar por ninguna de las dos)",
+    "url": "https://seekingalpha.com/news/4670799-sabre-jumps-on-a-report-of-possible-combination-with-travelport",
+    "porque": "Posible consolidación en el sector GDS: cambiaría la escala de Sabre frente a Amadeus y su estructura de deuda; de momento es un informe, no una negociación confirmada",
+    "fuente": "Seeking Alpha (origen: post de OctusCredit en X)",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-11",
+    "ticker": "HUMA",
+    "tipo": "soft",
+    "titular": "Humacyte llevará cinco presentaciones a VEITHsymposium (17-21 nov), con datos interinos de Fase 3 en mujeres en diálisis y Symvess en trauma, y reitera la sBLA de diálisis en noviembre",
+    "url": "https://www.globenewswire.com/news-release/2026/11/11/3400652/0/en/five-presentations-one-leading-innovation-humacyte-s-acellular-tissue-engineered-vessel-takes-center-stage-at-veith-2026.html",
+    "porque": "Exposición del ATEV ante cirujanos vasculares, que deciden el acceso de diálisis, justo antes de presentar la sBLA",
+    "fuente": "GlobeNewswire (nota de Humacyte)",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-10",
+    "ticker": "BKNG",
+    "tipo": "soft",
+    "titular": "OpenAI compra Odessia, agente de viajes con IA que planifica y reserva; Booking, Expedia y Airbnb caen en bolsa",
+    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "porque": "Riesgo de desintermediación: ChatGPT gana capacidad propia de reserva frente a las agencias online",
+    "fuente": "TechCrunch",
+    "idioma": "EN"
   }
 ]
