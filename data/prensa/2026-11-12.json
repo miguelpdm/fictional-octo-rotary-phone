@@ -1,0 +1,150 @@
+{
+ "fecha": "2026-11-12",
+ "secciones": [
+  {
+   "nombre": "España",
+   "items": [
+    {
+     "titular": "Actualización: la huelga general del 11-N acaba con seguimiento desigual, grandes manifestaciones, disturbios en Barcelona, cargas en Madrid y un centenar de detenidos",
+     "url": "https://elpais.com/economia/2026-11-11/la-huelga-general-culmina-con-un-seguimiento-desigual-y-grandes-protestas-en-la-calle.html",
+     "fuente": "El País",
+     "nota": "También en El Mundo, La Vanguardia y elDiario.es"
+    },
+    {
+     "titular": "La Diputación Permanente vota hoy el decreto de vivienda cuya derogación precipitó el 29-N, con las prórrogas de alquiler en el aire",
+     "url": "https://www.lavanguardia.com/politica/20261112/11681894/congreso-aprueba-hoy-decreto-vivienda-cuya-derogacion-provoco-29-n.html",
+     "fuente": "La Vanguardia",
+     "nota": "También en ABC"
+    },
+    {
+     "titular": "Sánchez abre campaña en Sevilla para no perder el último gran bastión del PSOE, mientras Feijóo pasa por El Hormiguero",
+     "url": "https://www.abc.es/espana/sanchez-abre-campana-sevilla-ante-peligro-perder-20261112013554-nt.html",
+     "fuente": "ABC",
+     "nota": "Lo de Feijóo, en El País"
+    },
+    {
+     "titular": "Puigdemont ultima su vuelta a España para el 12 de diciembre",
+     "url": "https://www.abc.es/espana/cataluna/puigdemont-ultima-retorno-diciembre-20261111013624-nt.html",
+     "fuente": "ABC"
+    }
+   ]
+  },
+  {
+   "nombre": "Internacional",
+   "items": [
+    {
+     "titular": "El demócrata Scott Colom gana el Senado por Mississippi y será el tercer senador negro del estado",
+     "url": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html",
+     "fuente": "NYT",
+     "nota": "También en BBC y FT"
+    },
+    {
+     "titular": "Las conversaciones Rusia-Ucrania pasan a la seguridad de posguerra pero acaban sin avance; Zelenski ve posible un paso antes de fin de año",
+     "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o",
+     "fuente": "BBC",
+     "nota": "También en Le Monde"
+    },
+    {
+     "titular": "JD Vance se perfila como negociador jefe con Irán y Bessent es trasladado a una base militar por amenazas vinculadas a Teherán",
+     "url": "https://www.wsj.com/world/middle-east/jd-vance-emerges-as-lead-iran-negotiator-cba55bcb",
+     "fuente": "WSJ",
+     "nota": "También en BBC"
+    },
+    {
+     "titular": "Un ataque israelí contra el hospital Nasser de Gaza mata al menos a cinco personas",
+     "url": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
+     "fuente": "NYT",
+     "nota": "También en BBC"
+    },
+    {
+     "titular": "Unos tres millones de personas reciben al papa León XIV en Lima",
+     "url": "https://www.abc.es/internacional/tres-millones-personas-salen-calles-lima-recibir-20261112014733-nt.html",
+     "fuente": "ABC",
+     "nota": "También en WSJ"
+    }
+   ]
+  },
+  {
+   "nombre": "Economía y mercados",
+   "items": [
+    {
+     "titular": "Actualización Nvidia: el consejo se reúne para decidir el futuro de Jensen Huang tras salir a la luz una segunda relación, con una subordinada, y la acción se hunde fuera de horario",
+     "url": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
+     "fuente": "NYT",
+     "nota": "También en FT, Bloomberg, El País y Le Monde"
+    },
+    {
+     "titular": "Actualización BCE: Francia apoya al candidato español a presidir el banco central",
+     "url": "https://www.ft.com/content/b0d03a62-a75d-41f9-bac3-1518cefe400a",
+     "fuente": "FT"
+    },
+    {
+     "titular": "La UE y Reino Unido se preparan para aplazar el arancel del 10% a los coches eléctricos",
+     "url": "https://www.ft.com/content/b6c31ee9-0837-4fb0-83d9-a0e70100d0a3",
+     "fuente": "FT"
+    },
+    {
+     "titular": "El Gobierno prepara una última tanda de alivios fiscales para ciudadanos y profesionales",
+     "url": "https://www.abc.es/economia/gobierno-prepara-ultima-bateria-medidas-alivio-fiscal-20261112013735-nt.html",
+     "fuente": "ABC"
+    }
+   ]
+  },
+  {
+   "nombre": "Tecnología e IA",
+   "items": [
+    {
+     "titular": "El fundador de Tencent moviliza a la mitad de la plantilla para un giro hacia productos nativos de IA",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-12/tencent-founder-rallies-half-of-staff-behind-ai-native-push",
+     "fuente": "Bloomberg"
+    },
+    {
+     "titular": "Otro centro de datos se paraliza en Australia por el rechazo vecinal",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-12/another-data-center-halts-in-australia-as-public-backlash-rises",
+     "fuente": "Bloomberg"
+    },
+    {
+     "titular": "Escándalo en una gran biblioteca nueva de la India por libros supuestamente generados con IA",
+     "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo",
+     "fuente": "BBC"
+    }
+   ]
+  },
+  {
+   "nombre": "IA en X",
+   "items": [
+    {
+     "titular": "Google lanza Gemini Decisions API: entradas multimodales y decisiones estructuradas con confianza calibrada, hasta 256K de contexto",
+     "url": "https://x.com/dani_avila7/status/2120724143431979362",
+     "fuente": "@dani_avila7 en X"
+    },
+    {
+     "titular": "Gemini 4 Carbon, modelo de Google para trabajo agéntico largo, llega a Capy y se recomienda en Antigravity para programar",
+     "url": "https://x.com/capydotai/status/2120711780498542997",
+     "fuente": "@capydotai en X",
+     "nota": "También @alvarombt"
+    },
+    {
+     "titular": "Interior AI convierte el vídeo de una casa en un espacio 3D navegable donde mover muebles y cambiar acabados",
+     "url": "https://x.com/levelsio/status/2120691736657735765",
+     "fuente": "@levelsio en X"
+    },
+    {
+     "titular": "Un agente usado para un pentest en entorno de pruebas acaba volcando datos reales de producción",
+     "url": "https://x.com/SergioGMN/status/2120616376071078099",
+     "fuente": "@SergioGMN en X"
+    },
+    {
+     "titular": "Theo: los modelos de pesos abiertos son menos del 0,5% del tráfico de T3 Code",
+     "url": "https://x.com/theo/status/2120732020036993066",
+     "fuente": "@theo en X"
+    },
+    {
+     "titular": "Los robotaxis de Tesla ya funcionan 24 horas en ocho ciudades de Texas y Florida, según @minchoi",
+     "url": "https://x.com/minchoi/status/2120750075475558614",
+     "fuente": "@minchoi en X"
+    }
+   ]
+  }
+ ]
+}
