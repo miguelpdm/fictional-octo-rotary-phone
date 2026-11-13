@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T21:36:01.489430+00:00",
+  "updatedAt": "2026-11-13T22:45:13.517269+00:00",
   "source": "yahoo-finance-chart",
   "delayNote": "Snapshot de Yahoo vía GitHub Actions (~30 min). Las cotizaciones en vivo de la página usan TradingView (~15 min).",
   "quotes": {
@@ -337,7 +337,7 @@
       "timezone": "America/New_York",
       "dayHigh": 0.6099,
       "dayLow": 0.535,
-      "volume": 4319229,
+      "volume": 4625129,
       "fiftyTwoWeekHigh": 1.525,
       "fiftyTwoWeekLow": 0.337,
       "regularMarketTime": 1794603601,
@@ -672,7 +672,7 @@
       "timezone": "America/New_York",
       "dayHigh": 139.77,
       "dayLow": 133.14,
-      "volume": 2969578,
+      "volume": 2969600,
       "fiftyTwoWeekHigh": 254.11,
       "fiftyTwoWeekLow": 101.11,
       "regularMarketTime": 1794603601,
@@ -1026,7 +1026,7 @@
         },
         {
           "t": 1794557700,
-          "v": 17.329999923706055
+          "v": 17.325000762939453
         },
         {
           "t": 1794558000,
@@ -1222,7 +1222,7 @@
         },
         {
           "t": 1794572400,
-          "v": 17.440000534057617
+          "v": 17.434999465942383
         },
         {
           "t": 1794572700,
@@ -1342,7 +1342,7 @@
         },
         {
           "t": 1794581400,
-          "v": 17.559999465942383
+          "v": 17.55500030517578
         },
         {
           "t": 1794581700,
@@ -1438,7 +1438,7 @@
       "timezone": "America/New_York",
       "dayHigh": 20.16,
       "dayLow": 19.183,
-      "volume": 9927005,
+      "volume": 9976242,
       "fiftyTwoWeekHigh": 40.99,
       "fiftyTwoWeekLow": 13.74,
       "regularMarketTime": 1794603602,
@@ -1773,7 +1773,7 @@
       "timezone": "America/New_York",
       "dayHigh": 2.34,
       "dayLow": 1.85,
-      "volume": 6112115,
+      "volume": 6140912,
       "fiftyTwoWeekHigh": 5.38,
       "fiftyTwoWeekLow": 1.6,
       "regularMarketTime": 1794603601,
@@ -2108,7 +2108,7 @@
       "timezone": "America/New_York",
       "dayHigh": 2.05,
       "dayLow": 1.86,
-      "volume": 3193516,
+      "volume": 3195306,
       "fiftyTwoWeekHigh": 5.49,
       "fiftyTwoWeekLow": 1.86,
       "regularMarketTime": 1794603600,
@@ -2443,7 +2443,7 @@
       "timezone": "America/New_York",
       "dayHigh": 1.239,
       "dayLow": 1.15,
-      "volume": 220310,
+      "volume": 220953,
       "fiftyTwoWeekHigh": 2.949,
       "fiftyTwoWeekLow": 0.798,
       "regularMarketTime": 1794603601,
@@ -2694,7 +2694,7 @@
       "timezone": "Europe/Paris",
       "dayHigh": 182.9,
       "dayLow": 178.8,
-      "volume": 531529,
+      "volume": 531568,
       "fiftyTwoWeekHigh": 320.7,
       "fiftyTwoWeekLow": 138.3,
       "regularMarketTime": 1794587702,
@@ -2941,7 +2941,7 @@
         },
         {
           "t": 1794574800,
-          "v": 181.75
+          "v": 181.8000030517578
         },
         {
           "t": 1794575100,
@@ -3125,7 +3125,7 @@
       "timezone": "Europe/Madrid",
       "dayHigh": 11.695,
       "dayLow": 11.555,
-      "volume": 1281839,
+      "volume": 1267165,
       "fiftyTwoWeekHigh": 11.705,
       "fiftyTwoWeekLow": 8.432,
       "regularMarketTime": 1794588298,
@@ -3160,7 +3160,7 @@
         },
         {
           "t": 1794558900,
-          "v": 11.609999656677246
+          "v": 11.614999771118164
         },
         {
           "t": 1794559200,
@@ -3548,7 +3548,7 @@
       "timezone": "Europe/Madrid",
       "dayHigh": 5.08,
       "dayLow": 4.96,
-      "volume": 221996,
+      "volume": 221198,
       "fiftyTwoWeekHigh": 7.5,
       "fiftyTwoWeekLow": 2.68,
       "regularMarketTime": 1794587720,
@@ -3767,7 +3767,7 @@
       "timezone": "Europe/Madrid",
       "dayHigh": 32.45,
       "dayLow": 31.6,
-      "volume": 105655,
+      "volume": 103892,
       "fiftyTwoWeekHigh": 42.25,
       "fiftyTwoWeekLow": 23.7,
       "regularMarketTime": 1794587720,
@@ -3810,7 +3810,7 @@
         },
         {
           "t": 1794559500,
-          "v": 32.400001525878906
+          "v": 32.349998474121094
         },
         {
           "t": 1794559800,
@@ -3842,7 +3842,7 @@
         },
         {
           "t": 1794562200,
-          "v": 32.20000076293945
+          "v": 32.150001525878906
         },
         {
           "t": 1794562500,
@@ -3882,7 +3882,7 @@
         },
         {
           "t": 1794567000,
-          "v": 32.25
+          "v": 32.349998474121094
         },
         {
           "t": 1794567300,
@@ -4118,7 +4118,7 @@
       "timezone": "America/New_York",
       "dayHigh": 1.92,
       "dayLow": 1.834,
-      "volume": 5132766,
+      "volume": 5135543,
       "fiftyTwoWeekHigh": 2.5,
       "fiftyTwoWeekLow": 0.81,
       "regularMarketTime": 1794603600,
@@ -4453,7 +4453,7 @@
       "timezone": "America/New_York",
       "dayHigh": 243.78,
       "dayLow": 237.94,
-      "volume": 2431397,
+      "volume": 2434078,
       "fiftyTwoWeekHigh": 362.71,
       "fiftyTwoWeekLow": 190.12,
       "regularMarketTime": 1794603601,
@@ -4788,7 +4788,7 @@
       "timezone": "Europe/Madrid",
       "dayHigh": 16.3,
       "dayLow": 15.86,
-      "volume": 3833307,
+      "volume": 3816466,
       "fiftyTwoWeekHigh": 16.52,
       "fiftyTwoWeekLow": 14.15,
       "regularMarketTime": 1794587720,
@@ -5219,7 +5219,7 @@
       "timezone": "America/New_York",
       "dayHigh": 21.9,
       "dayLow": 19.97,
-      "volume": 6232807,
+      "volume": 6295929,
       "fiftyTwoWeekHigh": 32.08,
       "fiftyTwoWeekLow": 7.02,
       "regularMarketTime": 1794603601,
@@ -5554,7 +5554,7 @@
       "timezone": "America/New_York",
       "dayHigh": 6.11,
       "dayLow": 5.32,
-      "volume": 10448943,
+      "volume": 11063384,
       "fiftyTwoWeekHigh": 20.72,
       "fiftyTwoWeekLow": 5.03,
       "regularMarketTime": 1794603600,
@@ -5889,7 +5889,7 @@
       "timezone": "America/New_York",
       "dayHigh": 163.36,
       "dayLow": 158.88,
-      "volume": 4557075,
+      "volume": 4562632,
       "fiftyTwoWeekHigh": 220.806,
       "fiftyTwoWeekLow": 146.28,
       "regularMarketTime": 1794603601,
@@ -6224,7 +6224,7 @@
       "timezone": "America/New_York",
       "dayHigh": 170.73,
       "dayLow": 168.5,
-      "volume": 6939172,
+      "volume": 6939642,
       "fiftyTwoWeekHigh": 170.73,
       "fiftyTwoWeekLow": 137.62,
       "regularMarketTime": 1794603737,
@@ -6559,7 +6559,7 @@
       "timezone": "America/New_York",
       "dayHigh": 474.98,
       "dayLow": 469.948,
-      "volume": 897077,
+      "volume": 898141,
       "fiftyTwoWeekHigh": 522.469,
       "fiftyTwoWeekLow": 361.031,
       "regularMarketTime": 1794603602,
@@ -6894,7 +6894,7 @@
       "timezone": "America/New_York",
       "dayHigh": 254.71,
       "dayLow": 249.0,
-      "volume": 3381606,
+      "volume": 3389766,
       "fiftyTwoWeekHigh": 291.09,
       "fiftyTwoWeekLow": 118.15,
       "regularMarketTime": 1794603603,
@@ -7229,7 +7229,7 @@
       "timezone": "America/New_York",
       "dayHigh": 170.0,
       "dayLow": 158.39,
-      "volume": 360731669,
+      "volume": 362490337,
       "fiftyTwoWeekHigh": 243.37,
       "fiftyTwoWeekLow": 148.8,
       "regularMarketTime": 1794603601,
@@ -7758,7 +7758,7 @@
         },
         {
           "t": 1794558300,
-          "v": 374.3999938964844
+          "v": 374.3599853515625
         },
         {
           "t": 1794558600,
@@ -8205,7 +8205,7 @@
         },
         {
           "t": 1794587100,
-          "v": 63.755001068115234
+          "v": 63.75
         },
         {
           "t": 1794587400,
@@ -8682,39 +8682,39 @@
     },
     "BTC-USD": {
       "symbol": "BTC-USD",
-      "price": 68104.84,
-      "previousClose": 68564.3984375,
-      "change": -459.5584375000035,
-      "changePct": -0.6702581047493836,
+      "price": 68350.19,
+      "previousClose": 68563.3671875,
+      "change": -213.17718749999767,
+      "changePct": -0.3109199507617862,
       "currency": "USD",
       "exchange": "CCC",
       "timezone": "UTC",
       "dayHigh": 71386.0,
       "dayLow": 68052.44,
-      "volume": 42144604160,
+      "volume": 43226836992,
       "fiftyTwoWeekHigh": 99804.43,
       "fiftyTwoWeekLow": 57747.766,
-      "regularMarketTime": 1794605754,
+      "regularMarketTime": 1794609908,
       "spark": [
         {
           "t": 1794603600,
-          "v": 68564.3984375
+          "v": 68563.3671875
         },
         {
           "t": 1794603900,
-          "v": 68562.0703125
+          "v": 68555.3671875
         },
         {
           "t": 1794604200,
-          "v": 68526.4296875
+          "v": 68526.4375
         },
         {
           "t": 1794604500,
-          "v": 68381.59375
+          "v": 68377.6796875
         },
         {
           "t": 1794604800,
-          "v": 68334.609375
+          "v": 68335.15625
         },
         {
           "t": 1794605100,
@@ -8722,11 +8722,67 @@
         },
         {
           "t": 1794605400,
-          "v": 68255.7578125
+          "v": 68255.75
         },
         {
-          "t": 1794605754,
-          "v": 68104.84375
+          "t": 1794605700,
+          "v": 68203.5625
+        },
+        {
+          "t": 1794606000,
+          "v": 68066.4609375
+        },
+        {
+          "t": 1794606300,
+          "v": 68152.828125
+        },
+        {
+          "t": 1794606600,
+          "v": 68346.3984375
+        },
+        {
+          "t": 1794606900,
+          "v": 68319.0390625
+        },
+        {
+          "t": 1794607200,
+          "v": 68285.5390625
+        },
+        {
+          "t": 1794607500,
+          "v": 68203.7890625
+        },
+        {
+          "t": 1794607800,
+          "v": 68056.2421875
+        },
+        {
+          "t": 1794608100,
+          "v": 68247.7578125
+        },
+        {
+          "t": 1794608400,
+          "v": 68259.21875
+        },
+        {
+          "t": 1794608700,
+          "v": 68208.0078125
+        },
+        {
+          "t": 1794609000,
+          "v": 68287.59375
+        },
+        {
+          "t": 1794609300,
+          "v": 68320.90625
+        },
+        {
+          "t": 1794609600,
+          "v": 68350.1875
+        },
+        {
+          "t": 1794609908,
+          "v": 68350.1875
         }
       ],
       "source": "yahoo-chart"
