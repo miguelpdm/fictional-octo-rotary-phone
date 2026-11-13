@@ -1657,10 +1657,19 @@
         </g>
         <line x1="0" x2="${w}" y1="${yPrev}" y2="${yPrev}" stroke="#c5cad3" stroke-dasharray="3 3" stroke-width="1" opacity="0.85"></line>`;
     const payload = encodeURIComponent(JSON.stringify(samples));
-    return `<div class="${klass}" role="img" aria-label="Gráfico. Mantén pulsado o arrastra para ver precio y hora." data-wide="${wide ? 1 : 0}" data-ccy="${currency || ""}" data-prev="${previousClose ?? ""}" data-tip="${tipMode || "time"}" data-unit="${unit || ""}" data-spark="${payload}">
+    const rangeSel = wide ? `<g class="range-sel" hidden>
+          <rect class="range-fill" y="0" height="${h}" x="0" width="0"></rect>
+          <line class="range-v range-v0" y1="0" y2="${h}"></line>
+          <line class="range-v range-v1" y1="0" y2="${h}"></line>
+        </g>` : "";
+    const label = wide
+      ? "Gráfico. Un dedo: precio en un punto. Dos dedos o mantener pulsado y arrastrar: rango. Con ratón, clic y arrastre."
+      : "Gráfico. Mantén pulsado o arrastra para ver precio y hora.";
+    return `<div class="${klass}" role="img" aria-label="${label}" data-wide="${wide ? 1 : 0}" data-ccy="${currency || ""}" data-prev="${previousClose ?? ""}" data-tip="${tipMode || "time"}" data-unit="${unit || ""}" data-spark="${payload}">
       <svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">
         ${defs}
         ${split}
+        ${rangeSel}
         <g class="xh" hidden>
           <line class="xh-v" y1="0" y2="${h}"></line>
           <circle class="xh-dot" r="${wide ? 4.2 : 3}"></circle>
@@ -2839,10 +2848,15 @@
       values: item.values
     }))));
     return `<div class="compare-legend">${legend}</div>
-      <div class="chart chart-wide chart-compare" role="img" aria-label="Comparación. Mantén pulsado o arrastra para ver el % de cada acción." data-compare="1" data-wide="1" data-tip="${rangeTipMode(rangeId)}" data-times="${payloadTimes}" data-series="${payloadSeries}">
+      <div class="chart chart-wide chart-compare" role="img" aria-label="Comparación. Un dedo: % en un punto. Dos dedos o mantener pulsado y arrastrar: rango. Con ratón, clic y arrastre." data-compare="1" data-wide="1" data-tip="${rangeTipMode(rangeId)}" data-times="${payloadTimes}" data-series="${payloadSeries}">
         <svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">
           <line x1="0" x2="${w}" y1="${y0}" y2="${y0}" stroke="#c5cad3" stroke-dasharray="3 3" stroke-width="1" opacity="0.85"></line>
           ${paths}
+          <g class="range-sel" hidden>
+            <rect class="range-fill" y="0" height="${h}" x="0" width="0"></rect>
+            <line class="range-v range-v0" y1="0" y2="${h}"></line>
+            <line class="range-v range-v1" y1="0" y2="${h}"></line>
+          </g>
           <g class="xh" hidden>
             <line class="xh-v" y1="0" y2="${h}"></line>
             ${dots}
@@ -2985,7 +2999,9 @@
     const vLine = chart.querySelector(".xh-v");
     const tip = chart.querySelector(".chart-tip");
     if (!xh || !vLine || !tip) return;
+    if (chart.dataset.rangeOn) return;
     xh.removeAttribute("hidden");
+    tip.classList.remove("range-tip");
     vLine.setAttribute("x1", x);
     vLine.setAttribute("x2", x);
     series.forEach((item, i) => {
@@ -3031,6 +3047,148 @@
     tip.style.transform = `translate(${shift}, -110%)`;
   }
 
+  function nearestTimeIndex(times, t) {
+    let idx = 0;
+    let bestD = Math.abs(times[0] - t);
+    for (let i = 1; i < times.length; i += 1) {
+      const d = Math.abs(times[i] - t);
+      if (d < bestD) {
+        bestD = d;
+        idx = i;
+      }
+    }
+    return idx;
+  }
+
+  function showCompareRange(chart, clientX0, clientX1) {
+    let times = [];
+    let series = [];
+    try {
+      times = JSON.parse(decodeURIComponent(chart.dataset.times || "")) || [];
+      series = JSON.parse(decodeURIComponent(chart.dataset.series || "")) || [];
+    } catch {
+      return;
+    }
+    if (times.length < 2) return;
+    const { w } = chartBox(chart);
+    const t0 = times[0];
+    const t1 = times[times.length - 1];
+    const spanT = t1 - t0 || 1;
+    const xAt = (t) => 1 + ((t - t0) / spanT) * (w - 2);
+    const rect = chart.getBoundingClientRect();
+    const ratio = (clientX) => Math.max(0, Math.min(1, (clientX - rect.left) / Math.max(rect.width, 1)));
+    let i0 = nearestTimeIndex(times, t0 + ratio(clientX0) * spanT);
+    let i1 = nearestTimeIndex(times, t0 + ratio(clientX1) * spanT);
+    if (i0 === i1) {
+      if (i1 < times.length - 1) i1 += 1;
+      else if (i0 > 0) i0 -= 1;
+    }
+    if (i0 > i1) {
+      const tmp = i0;
+      i0 = i1;
+      i1 = tmp;
+    }
+    hideChartTip(chart);
+    const xA = xAt(times[i0]);
+    const xB = xAt(times[i1]);
+    paintRangeOverlay(chart, xA, xB);
+    const tip = chart.querySelector(".chart-tip");
+    if (!tip) return;
+    const spanDays = dayKey(new Date(times[i0] * 1000), TZ) !== dayKey(new Date(times[i1] * 1000), TZ);
+    const needTime = chart.dataset.tip !== "date";
+    const needDate = spanDays || chart.dataset.tip !== "time";
+    const startL = formatChartTime(times[i0], chart.dataset.tip, needDate, needTime);
+    const endL = formatChartTime(times[i1], chart.dataset.tip, needDate, needTime);
+    tip.replaceChildren();
+    const timeEl = document.createElement("span");
+    timeEl.className = "range-tip-time compare-tip-time";
+    timeEl.textContent = `${startL} → ${endL}`;
+    tip.append(timeEl);
+    series.forEach((item) => {
+      const v0 = item.values?.[i0];
+      const v1 = item.values?.[i1];
+      const row = document.createElement("div");
+      row.className = "compare-tip-row";
+      const name = document.createElement("span");
+      name.textContent = item.symbol;
+      name.style.color = item.color;
+      const pctEl = document.createElement("span");
+      const pct = v0 == null || v1 == null ? null : pctWindowFromIndex(v0, v1);
+      pctEl.className = `chart-tip-pct ${dirClass(pct || 0)}`;
+      pctEl.textContent = v0 == null || v1 == null
+        ? "n/d"
+        : `${signedPctAtClose(v0)} → ${signedPctAtClose(v1)} · ${signedPctAtClose(pct)}`;
+      row.append(name, pctEl);
+      tip.append(row);
+    });
+    placeRangeTip(chart, xA, xB);
+  }
+
+  function showSparkRange(chart, clientX0, clientX1) {
+    const samples = sparkSamples(chartSamples(chart));
+    if (samples.length < 2) return;
+    const { w } = chartBox(chart);
+    const { t0, t1, spanT, x: xAt } = sparkXScale(samples, w);
+    const rect = chart.getBoundingClientRect();
+    const atT = (clientX) => {
+      const ratio = Math.max(0, Math.min(1, (clientX - rect.left) / Math.max(rect.width, 1)));
+      return t0 + ratio * spanT;
+    };
+    let a = nearestSparkSample(samples, atT(clientX0));
+    let b = nearestSparkSample(samples, atT(clientX1));
+    if (a.t === b.t) {
+      const ia = samples.indexOf(a);
+      if (ia < samples.length - 1) b = samples[ia + 1];
+      else if (ia > 0) a = samples[ia - 1];
+    }
+    if (a.t > b.t) {
+      const tmp = a;
+      a = b;
+      b = tmp;
+    }
+    hideChartTip(chart);
+    const xA = xAt(a.t);
+    const xB = xAt(b.t);
+    paintRangeOverlay(chart, xA, xB);
+    const tip = chart.querySelector(".chart-tip");
+    if (!tip) return;
+    const spanDays = dayKey(new Date(a.t * 1000), TZ) !== dayKey(new Date(b.t * 1000), TZ);
+    const needTime = chart.dataset.tip !== "date";
+    const needDate = spanDays || chart.dataset.tip !== "time";
+    const startL = formatChartTime(a.t, chart.dataset.tip, needDate, needTime);
+    const endL = formatChartTime(b.t, chart.dataset.tip, needDate, needTime);
+    const unitPct = chart.dataset.unit === "pct";
+    const ccy = chart.dataset.ccy || "";
+    const abs = b.v - a.v;
+    const pct = unitPct ? pctWindowFromIndex(a.v, b.v) : windowPct(a.v, b.v);
+    tip.replaceChildren();
+    const timeEl = document.createElement("span");
+    timeEl.className = "range-tip-time";
+    timeEl.textContent = `${startL} → ${endL}`;
+    tip.append(timeEl);
+    const prices = document.createElement("span");
+    prices.className = "range-tip-prices";
+    if (unitPct) {
+      prices.textContent = `${signedPctAtClose(a.v)} → ${signedPctAtClose(b.v)}`;
+    } else {
+      const d = priceDigits(Math.max(Math.abs(a.v), Math.abs(b.v), Math.abs(abs)));
+      prices.textContent = `${nf(a.v, d)} → ${nf(b.v, d)}${ccy ? ` ${ccy}` : ""}`;
+    }
+    tip.append(prices);
+    if (unitPct) {
+      appendChg(tip, `${signedAbs(abs, 2)} pp`, pct);
+    } else {
+      const d = priceDigits(Math.abs(abs) || Math.abs(a.v));
+      appendChg(tip, `${signedAbs(abs, d)}${ccy ? ` ${ccy}` : ""}`, pct);
+    }
+    placeRangeTip(chart, xA, xB);
+  }
+
+  function showChartRange(chart, clientX0, clientX1) {
+    if (chart.dataset.compare === "1") showCompareRange(chart, clientX0, clientX1);
+    else showSparkRange(chart, clientX0, clientX1);
+  }
+
   if (els.compareInput) {
     els.compareInput.addEventListener("input", () => {
       const q = els.compareInput.value;
@@ -3070,8 +3228,11 @@
     });
   }
 
-  let chartPointer = null;
+  let chartGesture = null;
+  let stickyRangeChart = null;
   let ignoreRowClick = false;
+  const RANGE_HOLD_MS = 300;
+  const AXIS_LOCK_PX = 12;
 
   function chartSamples(chart) {
     try {
@@ -3081,11 +3242,117 @@
     }
   }
 
+  function isWideChart(chart) {
+    return chart?.classList.contains("chart-wide") && (chart.dataset.spark || chart.dataset.compare === "1");
+  }
+
+  function chartBox(chart) {
+    return {
+      w: 320,
+      h: chart.dataset.compare === "1" ? 168 : chart.dataset.wide === "1" ? 140 : 36
+    };
+  }
+
+  function tipTimeOpts(tipMode, withDate, withTime) {
+    if (tipMode === "date" && !withTime) {
+      return { day: "2-digit", month: "short", year: "2-digit" };
+    }
+    if (withDate && withTime) {
+      return { day: "2-digit", month: "short", hour: "2-digit", minute: "2-digit", hourCycle: "h23" };
+    }
+    if (withDate) return { day: "2-digit", month: "short", year: "2-digit" };
+    return { hour: "2-digit", minute: "2-digit", hourCycle: "h23" };
+  }
+
+  function formatChartTime(ts, tipMode, withDate, withTime) {
+    return dt(new Date(Number(ts) * 1000), tipTimeOpts(tipMode, withDate, withTime));
+  }
+
   function hideChartTip(chart) {
     const xh = chart.querySelector(".xh");
     const tip = chart.querySelector(".chart-tip");
     if (xh) xh.setAttribute("hidden", "");
-    if (tip) tip.hidden = true;
+    if (tip && !chart.dataset.rangeOn) {
+      tip.hidden = true;
+      tip.classList.remove("range-tip");
+    }
+  }
+
+  function hideChartRange(chart) {
+    if (!chart) return;
+    const g = chart.querySelector(".range-sel");
+    if (g) g.setAttribute("hidden", "");
+    delete chart.dataset.rangeOn;
+    const tip = chart.querySelector(".chart-tip");
+    if (tip && !chart.querySelector(".xh:not([hidden])")) {
+      tip.hidden = true;
+      tip.classList.remove("range-tip");
+    }
+    if (stickyRangeChart === chart) stickyRangeChart = null;
+  }
+
+  function hideOtherCharts(chart) {
+    document.querySelectorAll(".chart").forEach((el) => {
+      if (el === chart) return;
+      hideChartRange(el);
+      hideChartTip(el);
+    });
+  }
+
+  function paintRangeOverlay(chart, x0, x1) {
+    const g = chart.querySelector(".range-sel");
+    const fill = chart.querySelector(".range-fill");
+    const v0 = chart.querySelector(".range-v0");
+    const v1 = chart.querySelector(".range-v1");
+    if (!g || !fill || !v0 || !v1) return;
+    const left = Math.min(x0, x1);
+    const right = Math.max(x0, x1);
+    g.removeAttribute("hidden");
+    fill.setAttribute("x", left);
+    fill.setAttribute("width", Math.max(right - left, 1));
+    v0.setAttribute("x1", left);
+    v0.setAttribute("x2", left);
+    v1.setAttribute("x1", right);
+    v1.setAttribute("x2", right);
+    chart.dataset.rangeOn = "1";
+    stickyRangeChart = chart;
+  }
+
+  function placeRangeTip(chart, x0, x1) {
+    const tip = chart.querySelector(".chart-tip");
+    if (!tip) return;
+    const { w } = chartBox(chart);
+    const mid = (x0 + x1) / 2;
+    const leftPct = (mid / w) * 100;
+    tip.hidden = false;
+    tip.classList.add("range-tip");
+    tip.style.left = `${leftPct}%`;
+    const shift = leftPct > 68 ? "-100%" : leftPct < 32 ? "0" : "-50%";
+    tip.style.transform = `translate(${shift}, -110%)`;
+  }
+
+  function signedAbs(value, digits) {
+    if (value == null || Number.isNaN(value)) return "n/d";
+    const sign = value > 0 ? "+" : value < 0 ? "−" : "";
+    return `${sign}${nf(Math.abs(value), digits)}`;
+  }
+
+  function windowPct(v0, v1) {
+    if (v0 == null || v1 == null || !Number.isFinite(v0) || !Number.isFinite(v1) || v0 === 0) return null;
+    return ((v1 - v0) / Math.abs(v0)) * 100;
+  }
+
+  function pctWindowFromIndex(v0, v1) {
+    const base = 100 + v0;
+    if (!Number.isFinite(base) || base === 0) return v1 - v0;
+    return ((v1 - v0) / Math.abs(base)) * 100;
+  }
+
+  function appendChg(tip, absText, pct) {
+    const wrap = document.createElement("span");
+    wrap.className = `range-tip-chg chart-tip-pct ${dirClass(pct || 0)}`;
+    wrap.textContent = `${absText} (${signedPctAtClose(pct)})`;
+    tip.append(wrap);
   }
 
   function showChartTip(chart, clientX) {
@@ -3116,7 +3383,9 @@
     const dot = chart.querySelector(".xh-dot");
     const tip = chart.querySelector(".chart-tip");
     if (!xh || !vLine || !dot || !tip) return;
+    if (chart.dataset.rangeOn) return;
     xh.removeAttribute("hidden");
+    tip.classList.remove("range-tip");
     vLine.setAttribute("x1", x);
     vLine.setAttribute("x2", x);
     dot.setAttribute("cx", x);
@@ -3153,29 +3422,208 @@
     tip.style.transform = `translate(${shift}, -110%)`;
   }
 
+  function clearHoldTimer() {
+    if (chartGesture?.holdTimer) {
+      clearTimeout(chartGesture.holdTimer);
+      chartGesture.holdTimer = 0;
+    }
+  }
+
+  function lockChart(chart, on) {
+    chart.classList.toggle("is-chart-lock", !!on);
+  }
+
+  function capturePointer(chart, id) {
+    try { chart.setPointerCapture(id); } catch {}
+  }
+
+  function endGesture(keepRange) {
+    if (!chartGesture) return;
+    const chart = chartGesture.chart;
+    clearHoldTimer();
+    lockChart(chart, false);
+    if (!keepRange && chartGesture.mode !== "range") {
+      /* point tip stays until another interaction, matching previous behaviour */
+    }
+    chartGesture = null;
+  }
+
+  function pointerXs(gesture) {
+    return [...gesture.pointers.values()].map((p) => p.x);
+  }
+
+  function startRange(gesture) {
+    gesture.mode = "range";
+    ignoreRowClick = true;
+    lockChart(gesture.chart, true);
+    hideChartTip(gesture.chart);
+    const xs = pointerXs(gesture);
+    if (xs.length >= 2) {
+      gesture.anchorX = xs[0];
+      showChartRange(gesture.chart, xs[0], xs[xs.length - 1]);
+    } else {
+      const x = xs[0] ?? gesture.anchorX;
+      gesture.anchorX = gesture.anchorX ?? x;
+      showChartRange(gesture.chart, gesture.anchorX, x);
+    }
+  }
+
   function onChartPointerDown(event) {
     const chart = event.target.closest(".chart");
     if (!chart || (!chart.dataset.spark && chart.dataset.compare !== "1")) return;
-    ignoreRowClick = true;
-    chartPointer = { id: event.pointerId, chart };
-    document.querySelectorAll(".chart").forEach((el) => {
-      if (el !== chart) hideChartTip(el);
-    });
-    try { chart.setPointerCapture(event.pointerId); } catch {}
-    event.preventDefault();
-    showChartTip(chart, event.clientX);
+    const wide = isWideChart(chart);
+    hideOtherCharts(chart);
+
+    if (!wide) {
+      ignoreRowClick = true;
+      chartGesture = {
+        chart,
+        mode: "point",
+        pointers: new Map([[event.pointerId, { x: event.clientX, y: event.clientY }]]),
+        pointerType: event.pointerType
+      };
+      capturePointer(chart, event.pointerId);
+      event.preventDefault();
+      showChartTip(chart, event.clientX);
+      return;
+    }
+
+    if (chartGesture && chartGesture.chart === chart && event.pointerType !== "mouse") {
+      chartGesture.pointers.set(event.pointerId, { x: event.clientX, y: event.clientY });
+      capturePointer(chart, event.pointerId);
+      if (chartGesture.pointers.size >= 2) {
+        clearHoldTimer();
+        event.preventDefault();
+        const xs = pointerXs(chartGesture);
+        chartGesture.anchorX = xs[0];
+        startRange(chartGesture);
+      }
+      return;
+    }
+
+    const pointers = new Map([[event.pointerId, { x: event.clientX, y: event.clientY }]]);
+    chartGesture = {
+      chart,
+      mode: event.pointerType === "mouse" ? "range-pending" : "undecided",
+      pointers,
+      pointerType: event.pointerType,
+      startX: event.clientX,
+      startY: event.clientY,
+      anchorX: event.clientX,
+      holdTimer: 0,
+      moved: false
+    };
+    if (event.pointerType === "mouse") {
+      capturePointer(chart, event.pointerId);
+      ignoreRowClick = true;
+    } else {
+      chartGesture.holdTimer = setTimeout(() => {
+        if (!chartGesture || chartGesture.chart !== chart) return;
+        chartGesture.anchorX = [...chartGesture.pointers.values()][0]?.x ?? chartGesture.anchorX;
+        startRange(chartGesture);
+      }, RANGE_HOLD_MS);
+    }
   }
 
   function onChartPointerMove(event) {
-    if (!chartPointer || event.pointerId !== chartPointer.id) return;
-    event.preventDefault();
-    showChartTip(chartPointer.chart, event.clientX);
+    if (!chartGesture || !chartGesture.pointers.has(event.pointerId)) return;
+    const g = chartGesture;
+    g.pointers.set(event.pointerId, { x: event.clientX, y: event.clientY });
+    const dx = event.clientX - g.startX;
+    const dy = event.clientY - g.startY;
+
+    if (g.mode === "point") {
+      event.preventDefault();
+      showChartTip(g.chart, event.clientX);
+      return;
+    }
+
+    if (g.mode === "range") {
+      event.preventDefault();
+      const xs = pointerXs(g);
+      if (xs.length > 1) showChartRange(g.chart, xs[0], xs[xs.length - 1]);
+      else showChartRange(g.chart, g.anchorX, event.clientX);
+      return;
+    }
+
+    if (g.pointerType === "mouse" && g.mode === "range-pending") {
+      if (Math.abs(dx) > 3 || Math.abs(dy) > 3) {
+        g.moved = true;
+        startRange(g);
+        event.preventDefault();
+      }
+      return;
+    }
+
+    if (g.mode === "undecided") {
+      const adx = Math.abs(dx);
+      const ady = Math.abs(dy);
+      if (adx < AXIS_LOCK_PX && ady < AXIS_LOCK_PX) return;
+      if (ady > adx) {
+        endGesture(false);
+        return;
+      }
+      clearHoldTimer();
+      g.mode = "point";
+      ignoreRowClick = true;
+      lockChart(g.chart, true);
+      capturePointer(g.chart, event.pointerId);
+      event.preventDefault();
+      hideChartRange(g.chart);
+      showChartTip(g.chart, event.clientX);
+    }
   }
 
   function onChartPointerUp(event) {
-    if (!chartPointer || event.pointerId !== chartPointer.id) return;
-    showChartTip(chartPointer.chart, event.clientX);
-    chartPointer = null;
+    if (!chartGesture || !chartGesture.pointers.has(event.pointerId)) return;
+    const g = chartGesture;
+    g.pointers.delete(event.pointerId);
+
+    if (g.mode === "range") {
+      const xs = pointerXs(g);
+      if (xs.length >= 2) showChartRange(g.chart, xs[0], xs[xs.length - 1]);
+      else if (xs.length === 1) showChartRange(g.chart, g.anchorX, xs[0]);
+      else showChartRange(g.chart, g.anchorX, event.clientX);
+      if (g.pointers.size === 0) endGesture(true);
+      return;
+    }
+
+    if (g.mode === "range-pending" && g.pointerType === "mouse") {
+      if (!g.chart.dataset.rangeOn) showChartTip(g.chart, event.clientX);
+      endGesture(false);
+      return;
+    }
+
+    if (g.mode === "point") {
+      showChartTip(g.chart, event.clientX);
+      if (g.pointers.size === 0) endGesture(false);
+      return;
+    }
+
+    if (g.mode === "undecided") {
+      clearHoldTimer();
+      if (g.pointers.size === 0) {
+        if (!g.chart.dataset.rangeOn) showChartTip(g.chart, event.clientX);
+        endGesture(false);
+      }
+    }
+  }
+
+  function onChartTouchGuard(event) {
+    if (!chartGesture) return;
+    if (chartGesture.mode === "range" || chartGesture.mode === "point") {
+      event.preventDefault();
+    }
+    if (event.touches && event.touches.length >= 2) {
+      event.preventDefault();
+    }
+  }
+
+  function onDocPointerDown(event) {
+    if (!stickyRangeChart) return;
+    if (event.target.closest(".chart-wide") === stickyRangeChart) return;
+    hideChartRange(stickyRangeChart);
+    hideChartTip(stickyRangeChart);
   }
 
   function bindQuoteList(el) {
@@ -3184,6 +3632,8 @@
     el.addEventListener("pointermove", onChartPointerMove);
     el.addEventListener("pointerup", onChartPointerUp);
     el.addEventListener("pointercancel", onChartPointerUp);
+    el.addEventListener("touchstart", onChartTouchGuard, { passive: false });
+    el.addEventListener("touchmove", onChartTouchGuard, { passive: false });
     el.addEventListener("click", onQuoteListClick);
   }
 
@@ -3194,13 +3644,18 @@
     els.lookupBody.addEventListener("pointermove", onChartPointerMove);
     els.lookupBody.addEventListener("pointerup", onChartPointerUp);
     els.lookupBody.addEventListener("pointercancel", onChartPointerUp);
+    els.lookupBody.addEventListener("touchstart", onChartTouchGuard, { passive: false });
+    els.lookupBody.addEventListener("touchmove", onChartTouchGuard, { passive: false });
   }
   if (els.compareBody) {
     els.compareBody.addEventListener("pointerdown", onChartPointerDown);
     els.compareBody.addEventListener("pointermove", onChartPointerMove);
     els.compareBody.addEventListener("pointerup", onChartPointerUp);
     els.compareBody.addEventListener("pointercancel", onChartPointerUp);
+    els.compareBody.addEventListener("touchstart", onChartTouchGuard, { passive: false });
+    els.compareBody.addEventListener("touchmove", onChartTouchGuard, { passive: false });
   }
+  document.addEventListener("pointerdown", onDocPointerDown, true);
   function onQuoteListClick(event) {
     const aggRangeBtn = event.target.closest("[data-agg-range]");
     if (aggRangeBtn) {

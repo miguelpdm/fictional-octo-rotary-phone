@@ -787,16 +787,50 @@ html:not([data-theme]) .theme-btn .icon-sun { display: none; }
 
 .chart {
   position: relative;
-  touch-action: none;
   user-select: none;
   -webkit-user-select: none;
-  overscroll-behavior: none;
 }
 
 .chart svg { width: 100%; height: 100%; display: block; }
 
-.chart-mini { width: 72px; height: 36px; z-index: 1; }
-.chart-wide { width: 100%; height: 140px; cursor: crosshair; margin-bottom: 0.15rem; }
+.chart-mini {
+  width: 72px;
+  height: 36px;
+  z-index: 1;
+  touch-action: none;
+  overscroll-behavior: none;
+}
+.chart-wide {
+  width: 100%;
+  height: 140px;
+  cursor: crosshair;
+  margin-bottom: 0.15rem;
+  touch-action: pan-y;
+}
+.chart-wide.is-chart-lock { touch-action: none; }
+
+.range-sel[hidden] { display: none !important; }
+.range-fill { fill: var(--blue); opacity: 0.22; }
+.range-v { stroke: var(--xh); stroke-width: 1.2; }
+
+.chart-tip.range-tip {
+  white-space: normal;
+  max-width: min(94%, 17rem);
+  line-height: 1.35;
+  padding: 0.28rem 0.5rem;
+}
+.range-tip-time {
+  display: block;
+  color: var(--muted);
+  font-size: 0.68rem;
+  font-weight: 650;
+  margin-bottom: 0.12rem;
+}
+.range-tip-prices {
+  display: block;
+  margin-bottom: 0.06rem;
+}
+.range-tip-chg { font-weight: 750; }
 
 .spark-date {
   display: block;
