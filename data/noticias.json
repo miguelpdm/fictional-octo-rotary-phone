@@ -708,5 +708,55 @@
     "porque": "Riesgo de desintermediación: ChatGPT gana capacidad propia de reserva frente a las agencias online",
     "fuente": "TechCrunch",
     "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-12",
+    "ticker": "SABR",
+    "tipo": "duro",
+    "titular": "Travelport niega que haya conversaciones con Sabre (\"no truth\"); SABR recorta",
+    "url": "https://www.investing.com/news/pro/travelport-says-it-is-not-in-any-deal-talks-with-sabre--bloomberg-432SI-5022646",
+    "porque": "Desinfla el rumor de combinación del 11-nov que llevó a SABR hasta +8,5% intradía",
+    "fuente": "Bloomberg vía Investing.com",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-12",
+    "ticker": "ASST",
+    "tipo": "duro",
+    "titular": "Strive sube el dividendo de su preferente SATA al 13,25% desde el 1-dic (antes 13%); SATS sigue fijo al 15%",
+    "url": "https://www.sec.gov/Archives/edgar/data/1920406/000162828026073033/asst-20261111.htm",
+    "porque": "Encarece algo la financiación con preferentes que paga las compras de BTC",
+    "fuente": "SEC 8-K",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-12",
+    "ticker": "BRNT",
+    "tipo": "duro",
+    "titular": "Los hutíes atacan el oleoducto East-West, Yanbu y un edificio de Aramco en Riad; Irán dice que 4 petroleros fueron alcanzados en Ormuz; Brent +3,3% a 95,82 $",
+    "url": "https://www.channelnewsasia.com/business/oil-settles-3-higher-attacks-saudi-energy-sites-strait-hormuz-disruptions-6544501",
+    "porque": "Nuevo golpe a la ruta saudí que esquiva Ormuz; vuelve la prima de riesgo de oferta",
+    "fuente": "Reuters vía CNA",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-12",
+    "ticker": "oro",
+    "tipo": "soft",
+    "titular": "Oro y plata caen ~2,4% y ~2,8% por las apuestas (88-91%) de otra subida de la Fed el 8-9 dic, el bono a 10 años en ~5% y el dólar en máximos de 19 meses",
+    "url": "https://www.kitco.com/news/article/2026-11-12/gold-silver-extend-losses-fed-hike-bets-lift-dollar-treasury-yields-kitco",
+    "porque": "Tipos reales y dólar al alza pesan sobre oro y SILV",
+    "fuente": "Kitco",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-12",
+    "ticker": "ASST",
+    "tipo": "soft",
+    "titular": "MSCI confirma que excluye a Strategy y Metaplanet de sus índices tras el cierre del 30-nov por su metodología de empresas no operativas; Strive no figura en lo publicado",
+    "url": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november",
+    "porque": "Capa de industria: los índices empiezan a tratar a las tesorerías de BTC como no operativas",
+    "fuente": "Cointelegraph (vía X)",
+    "idioma": "EN"
   }
 ]
