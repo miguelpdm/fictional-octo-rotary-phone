@@ -798,5 +798,55 @@
     "porque": "Dólar y rendimientos al alza, ~92% de probabilidad de subida en diciembre; la plata, además, con una demanda solar y de joyería más floja (afecta a SILV)",
     "fuente": "Business Today",
     "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-16",
+    "ticker": "NVDA",
+    "tipo": "duro",
+    "titular": "El consejo de Nvidia no se plantea que Huang vuelva como CEO y se centra en la investigación de seguridad nacional; la acción cae un 4,12%",
+    "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+    "porque": "Cierra la vía del regreso de Huang (que tanteaba el FT) y mantiene la búsqueda de CEO con Kress de interina, justo antes de los resultados de hoy",
+    "fuente": "CNBC",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-16",
+    "ticker": "Redeia",
+    "tipo": "duro",
+    "titular": "Repsol demanda a Red Eléctrica, Iberdrola, Endesa y Naturgy y les reclama unos 120 M€ por el apagón de abril de 2025",
+    "url": "https://elpais.com/economia/2026-11-16/repsol-demanda-a-iberdrola-naturgy-y-endesa-por-el-apagon-electrico.html",
+    "porque": "Es la primera demanda grande que lleva a los tribunales la responsabilidad por el apagón y apunta también al operador del sistema. El importe es acotado, pero puede abrir la puerta a otras",
+    "fuente": "El País",
+    "idioma": "ES"
+  },
+  {
+    "fecha": "2026-11-16",
+    "ticker": "SPGI",
+    "tipo": "duro",
+    "titular": "S&P Global anuncia una emisión de bonos senior en tres tramos para fines corporativos generales",
+    "url": "https://press.spglobal.com/2026-11-16-S-P-Global-Announces-Public-Offering-of-Senior-Notes",
+    "porque": "Financiación ordinaria, sin impacto visible en la tesis",
+    "fuente": "S&P Global (nota de prensa)",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-16",
+    "ticker": "UMG",
+    "tipo": "soft",
+    "titular": "Jesús López deja la presidencia y la dirección de Universal Music Latin America & Iberian Peninsula y pasa a presidente emérito de GTS; el sucesor se anunciará más adelante",
+    "url": "https://www.universalmusic.com/jesus-lopez-announces-next-chapter-at-universal-music-group/",
+    "porque": "Relevo en la cúpula del negocio latino, que es un motor de crecimiento; todavía no hay sucesor",
+    "fuente": "UMG (nota de prensa)",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-16",
+    "ticker": "HUMA",
+    "tipo": "soft",
+    "titular": "Datos a largo plazo: el ATEV muestra poca aterosclerosis en 52 pacientes de 5 ensayos, con implantes de hasta más de 5 años",
+    "url": "https://www.globenewswire.com/news-release/2026/11/16/3403476/0/en/humacyte-presents-long-term-clinical-data-demonstrating-low-atherosclerosis-susceptibility-in-acellular-tissue-engineered-vessel.html",
+    "porque": "Refuerza la durabilidad del vaso de cara al sBLA de diálisis previsto en noviembre",
+    "fuente": "GlobeNewswire",
+    "idioma": "EN"
   }
 ]
