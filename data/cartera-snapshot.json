@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T00:36:19.751201+00:00",
+  "updatedAt": "2026-11-17T00:46:20.306078+00:00",
   "source": "yahoo-finance-chart",
   "delayNote": "Snapshot de Yahoo vía GitHub Actions (~30 min). Las cotizaciones en vivo de la página usan TradingView (~15 min).",
   "quotes": {
@@ -8758,19 +8758,19 @@
     },
     "BTC-USD": {
       "symbol": "BTC-USD",
-      "price": 64453.25,
+      "price": 64570.41,
       "previousClose": 64984.9296875,
-      "change": -531.6796875,
-      "changePct": -0.8181584408211953,
+      "change": -414.5196874999965,
+      "changePct": -0.6378704870395979,
       "currency": "USD",
       "exchange": "CCC",
       "timezone": "UTC",
       "dayHigh": 64828.375,
-      "dayLow": 64476.305,
-      "volume": 31639797760,
+      "dayLow": 64474.68,
+      "volume": 31582613504,
       "fiftyTwoWeekHigh": 97860.6,
       "fiftyTwoWeekLow": 57747.766,
-      "regularMarketTime": 1794875776,
+      "regularMarketTime": 1794876378,
       "spark": [
         {
           "t": 1794862800,
@@ -8874,11 +8874,19 @@
         },
         {
           "t": 1794875700,
-          "v": 64469.26171875
+          "v": 64499.078125
         },
         {
-          "t": 1794875776,
-          "v": 64453.25
+          "t": 1794876000,
+          "v": 64540.19921875
+        },
+        {
+          "t": 1794876300,
+          "v": 64542.21875
+        },
+        {
+          "t": 1794876378,
+          "v": 64570.41015625
         }
       ],
       "source": "yahoo-chart"
