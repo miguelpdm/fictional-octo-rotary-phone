@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T16:57:27.759811+00:00",
+  "updatedAt": "2026-11-17T00:36:16.313261+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -12,17 +12,17 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7474.04,
-      "change": -118.35999999999967,
-      "changePct": -1.5589273484010284,
+      "price": 7416.59,
+      "change": -175.8099999999995,
+      "changePct": -2.315605078762967,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 24738.06,
-      "change": -628.0299999999988,
-      "changePct": -2.4758644316092813,
+      "price": 24509.758,
+      "change": -856.3319999999985,
+      "changePct": -3.3758927765374898,
       "currency": "USD"
     },
     {
@@ -39,14 +39,14 @@
       "price": 6348.35,
       "change": -38.50999999999931,
       "changePct": -0.6029566954653666,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 21.02,
-      "change": 1.7199999999999989,
-      "changePct": 8.91191709844559,
+      "price": 22.91,
+      "change": 3.6099999999999994,
+      "changePct": 18.70466321243523,
       "currency": "USD"
     }
   ],
