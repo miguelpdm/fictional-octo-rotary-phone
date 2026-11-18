@@ -1,0 +1,151 @@
+{
+ "fecha": "2026-11-18",
+ "secciones": [
+  {
+   "nombre": "España",
+   "items": [
+    {
+     "titular": "Encuestas del 29-N: el PP se consolida frente a Vox y Podemos se aleja del escaño de Irene Montero",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/el-pp-consolida-su-posicion-frente-a-vox.html",
+     "fuente": "El País",
+     "nota": "También en El Mundo: https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afca438e9cf4a7d7a8b459c.html"
+    },
+    {
+     "titular": "Adamuz: Adif debía supervisar por contrato el material bajo sospecha en la vía de los 46 muertos",
+     "url": "https://www.elmundo.es/andalucia/2026/11/17/6afc4531fdddff025c8b4587.html",
+     "fuente": "El Mundo"
+    },
+    {
+     "titular": "Rodalies cumple 11 días de caos y huelgas; los usuarios hablan de «tortura constante»",
+     "url": "https://elpais.com/espana/catalunya/2026-11-18/los-usuarios-que-resisten-en-rodalies-tras-11-dias-de-caos-y-huelgas-es-una-tortura-constante.html",
+     "fuente": "El País"
+    },
+    {
+     "titular": "Feijóo hace campaña tras las agresiones a cargos del PP en el País Vasco",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afca35ce4d4d8b81f8b45ab.html",
+     "fuente": "El Mundo"
+    }
+   ]
+  },
+  {
+   "nombre": "Internacional",
+   "items": [
+    {
+     "titular": "Ucrania golpea el puente de Crimea, que se derrumba en parte; Zelenski habla de ataque «sin precedentes»",
+     "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
+     "fuente": "BBC"
+    },
+    {
+     "titular": "EE. UU. ataca la base iraní de misiles de la isla de Qeshm",
+     "url": "https://www.elmundo.es/internacional/2026/11/17/6afcbe6ce9cf4a7d7b8b45b2.html",
+     "fuente": "El Mundo"
+    },
+    {
+     "titular": "Cumbre APEC en China: Xi y Putin arrancan conversaciones y Trump llega a Asia para verse con ambos",
+     "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+     "fuente": "The Guardian",
+     "nota": "Actualización de la cita Trump-Xi-Putin"
+    },
+    {
+     "titular": "Los demócratas llegan a 56 escaños en el Senado tras ganar Mary Peltola en Alaska",
+     "url": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
+     "fuente": "NYT"
+    },
+    {
+     "titular": "EE. UU. pierde el estatus de país libre de sarampión tras 26 años",
+     "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo",
+     "fuente": "BBC"
+    }
+   ]
+  },
+  {
+   "nombre": "Economía y mercados",
+   "items": [
+    {
+     "titular": "Actualización Nvidia: dobla ingresos en el trimestre, el consejo no repescará a Huang y él declarará ante el Congreso",
+     "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
+     "fuente": "The Guardian",
+     "nota": "Comparecencia: https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy"
+    },
+    {
+     "titular": "Bruselas pide al próximo Gobierno español Presupuestos y más vivienda",
+     "url": "https://www.elmundo.es/economia/2026/11/18/6afc78befdddff057d8b45b2.html",
+     "fuente": "El Mundo"
+    },
+    {
+     "titular": "Deutsche Bank, en el foco: ignoró avisos sobre clientes de riesgo y tuvo papel en el negocio de Defex en Angola",
+     "url": "https://www.eldiario.es/economia/proyecto-rifle-oscuro-papel-deutsche-bank-pelotazo-armamentistica-espanola-defex-angola_1_13670945.html",
+     "fuente": "elDiario.es",
+     "nota": "The Guardian: https://www.theguardian.com/business/2026/nov/17/deutsche-bank-dimissed-warnings-risky-clients-reports-claim"
+    },
+    {
+     "titular": "Japón intenta reflotar US Steel",
+     "url": "https://www.nytimes.com/2026/11/18/business/us-steel-nippon-takeover-japan.html",
+     "fuente": "NYT"
+    }
+   ]
+  },
+  {
+   "nombre": "Tecnología e IA",
+   "items": [
+    {
+     "titular": "Ola de caídas digitales en EE. UU. (ahora Apple Pay e iCloud); Rubio apunta a las prisas por blindar sistemas",
+     "url": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
+     "fuente": "NYT",
+     "nota": "Apple: https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html"
+    },
+    {
+     "titular": "Descubren un fallo de seguridad en Java",
+     "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo",
+     "fuente": "BBC"
+    },
+    {
+     "titular": "Waymo retira sus robotaxis de todas las autopistas de EE. UU.",
+     "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo",
+     "fuente": "BBC"
+    },
+    {
+     "titular": "Corea del Sur blinda su selectividad contra la IA: revisión de mangas y fuera gafas inteligentes",
+     "url": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
+     "fuente": "The Guardian"
+    },
+    {
+     "titular": "El PP propone una «Ley Beckham» para perfiles tecnológicos y un «cheque IA» para formación",
+     "url": "https://www.elmundo.es/economia/empresas/2026/11/17/6af60134e9cf4a93598b45c1.html",
+     "fuente": "El Mundo"
+    }
+   ]
+  },
+  {
+   "nombre": "IA en X",
+   "items": [
+    {
+     "titular": "Debate sobre GPT-6.2 Astra de OpenAI: Theo lo critica y Collison lo defiende con una escena de juego a la primera",
+     "url": "https://x.com/theo/status/2122760447103484410",
+     "fuente": "@theo",
+     "nota": "Réplica: https://x.com/MrCollison/status/2122788211735048348"
+    },
+    {
+     "titular": "Claude Desktop estrena canal «Latest» con builds más frecuentes en Windows y Mac",
+     "url": "https://x.com/theo/status/2122829155163398344",
+     "fuente": "@theo"
+    },
+    {
+     "titular": "Actualización T3 Code: 31,7 billones de tokens en un día y más de 10 M$ de gasto en API en 24 h",
+     "url": "https://x.com/theo/status/2122860770329608290",
+     "fuente": "@theo"
+    },
+    {
+     "titular": "Antigravity cumple un año y resetea la cuota de todos los modelos para todos",
+     "url": "https://x.com/0xluffy/status/2122841102512451817",
+     "fuente": "@alvarombt"
+    },
+    {
+     "titular": "Combo de agentes barato: GLM 5.3 de orquestador y DeepSeek V4.1 Flash de workers, con oferta de opencode",
+     "url": "https://x.com/Fluyeporlaweb/status/2122858196662653330",
+     "fuente": "@Fluyeporlaweb"
+    }
+   ]
+  }
+ ]
+}
