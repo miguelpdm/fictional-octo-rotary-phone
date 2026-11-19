@@ -1,0 +1,139 @@
+{
+ "fecha": "2026-11-19",
+ "secciones": [
+  {
+   "nombre": "España",
+   "items": [
+    {
+     "titular": "Hoy, cara a cara Sánchez-Feijóo: 90 minutos con el PSOE a dos puntos del PP y pulso por meter la corrupción en el debate",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/90-minutos-cara-a-cara-sanchez-busca-remontar-los-dos-puntos-que-le-separan-del-pp-y-feijoo-repetir-el-exito-de-2023.html",
+     "fuente": "El País",
+     "nota": "También El Mundo (el PP se plantó para mantener el bloque de corrupción) y elDiario.es"
+    },
+    {
+     "titular": "Un juez abre causa contra Julio Iglesias por delitos contra la libertad sexual y lesiones",
+     "url": "https://www.lavanguardia.com/gente/20261118/11687154/juez-abre-causa-julio-iglesias-delitos-libertad-sexual-lesiones-trato-degradante.html",
+     "fuente": "La Vanguardia",
+     "nota": "También elDiario.es"
+    },
+    {
+     "titular": "Caso del hermano de Sánchez: el Tribunal de Cuentas eleva la factura a 700.000 euros e incluye las óperas",
+     "url": "https://www.elmundo.es/espana/2026/11/19/6afdf50b21efa0c7408b4592.html",
+     "fuente": "El Mundo"
+    },
+    {
+     "titular": "El Gobierno aprueba la baja por menopausia",
+     "url": "https://www.abc.es/economia/cuentas-corrientes/nueva-baja-menopausia-aprobada-gobierno-requisitos-puede-20261119050000-nt.html",
+     "fuente": "ABC"
+    }
+   ]
+  },
+  {
+   "nombre": "Internacional",
+   "items": [
+    {
+     "titular": "Actualización APEC: Trump se ve con Putin antes del trilateral con Xi, y Putin habla del «declive humillante» de Europa",
+     "url": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f",
+     "fuente": "FT",
+     "nota": "También The Guardian y El Mundo"
+    },
+    {
+     "titular": "Actualización Irán: Trump sopesa nuevos ataques con Israel presionando, y Kuwait repele el primer ataque iraní en dos meses",
+     "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-israel-iran-war.html",
+     "fuente": "NYT",
+     "nota": "También BBC"
+    },
+    {
+     "titular": "Myanmar, ante un veredicto histórico de la ONU por genocidio contra los rohinyás",
+     "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o",
+     "fuente": "BBC",
+     "nota": "También NYT y The Guardian (temor a sanciones de EE. UU. a jueces de la CIJ)"
+    },
+    {
+     "titular": "Israel lanza una rara ofensiva terrestre en Gaza más allá de la Línea Amarilla",
+     "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
+     "fuente": "BBC"
+    }
+   ]
+  },
+  {
+   "nombre": "Economía y mercados",
+   "items": [
+    {
+     "titular": "Anthropic firma la mayor OPV de la historia y supera a SpaceX: precio a 83 $ y más de un 20% arriba en el mercado gris",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-is-said-to-price-ipo-at-83-per-share",
+     "fuente": "Bloomberg",
+     "nota": "También NYT, FT, BBC, ABC y El Mundo; el FT apunta nuevos temores de seguridad"
+    },
+    {
+     "titular": "El oro ronda mínimos de 14 meses ante una Fed más dura",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
+     "fuente": "Bloomberg"
+    },
+    {
+     "titular": "La filial italiana de Deutsche Bank ocultó hasta 800 M€ en pérdidas hipotecarias",
+     "url": "https://www.ft.com/content/06be5c7d-b1f2-44e9-9cad-a2dcb5a2f452",
+     "fuente": "FT"
+    },
+    {
+     "titular": "Los riesgos en Francia hacen apostar a que el euro seguirá cayendo",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-19/french-risks-traders-betting-euro-slide-currency",
+     "fuente": "Bloomberg"
+    }
+   ]
+  },
+  {
+   "nombre": "Tecnología e IA",
+   "items": [
+    {
+     "titular": "Cómo los chips de Nvidia acabaron al alcance del ejército chino vía Alibaba",
+     "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
+     "fuente": "NYT",
+     "nota": "También Bloomberg (los controles de EE. UU. frenan la IA de Alibaba)"
+    },
+    {
+     "titular": "Llega GTA VI: la crítica habla de obra maestra y se esperan bajas en trabajos y colegios",
+     "url": "https://elpais.com/sociedad/2026-11-19/el-gta-vi-desata-la-locura-vuelos-a-nueva-zelanda-para-probarlo-antes-ausencias-laborales-y-hasta-dias-libres-en-el-ejercito.html",
+     "fuente": "El País",
+     "nota": "También BBC y NYT"
+    },
+    {
+     "titular": "La AIE avisa: los centros de datos emitirán un 70% más de CO2 en 2030",
+     "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+     "fuente": "The Guardian"
+    }
+   ]
+  },
+  {
+   "nombre": "IA en X",
+   "items": [
+    {
+     "titular": "Google lanza Gemini 4 Neon, modelo de gama media-alta: primeras pruebas lo ponen al nivel de Opus 5.5 en código a mitad de coste",
+     "url": "https://x.com/DotCSV/status/2123173396200714476",
+     "fuente": "@DotCSV",
+     "nota": "También @gregisenberg, @alvarombt y @theo"
+    },
+    {
+     "titular": "NVIDIA SkillEvaluator llega a aitmpl.com: comprueba si una skill de agente funciona en 6 harnesses (Claude Code, Codex, Copilot CLI…)",
+     "url": "https://x.com/dani_avila7/status/2123223560579633625",
+     "fuente": "@dani_avila7"
+    },
+    {
+     "titular": "Tráiler de «ARTIFICIAL», la película de Guadagnino sobre el despido y regreso de Altman en OpenAI, con Andrew Garfield; estreno el 8 de enero",
+     "url": "https://x.com/DotCSV/status/2123159687520461140",
+     "fuente": "@DotCSV"
+    },
+    {
+     "titular": "Dreamwork, un agente que se postula a ofertas de empleo por ti: sube el CV, escribe la carta y tú apruebas",
+     "url": "https://x.com/Fluyeporlaweb/status/2123190927023870173",
+     "fuente": "@Fluyeporlaweb"
+    },
+    {
+     "titular": "Cómo montar un equipo de contenido con agentes de IA: detecta qué funciona, escribe guiones, edita y publica vídeo",
+     "url": "https://x.com/gregisenberg/status/2123179348467278293",
+     "fuente": "@gregisenberg"
+    }
+   ]
+  }
+ ]
+}
