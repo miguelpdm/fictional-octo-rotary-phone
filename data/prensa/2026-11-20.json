@@ -1,0 +1,143 @@
+{
+  "fecha": "2026-11-20",
+  "secciones": [
+    {
+      "nombre": "España",
+      "items": [
+        {
+          "titular": "Cara a cara: Feijóo sale al ataque y un Sánchez contenido evita el choque; la prensa da ganador al líder del PP",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/feijoo-enmienda-ocho-anos-de-gobierno-ante-un-sanchez-que-evita-la-confrontacion.html",
+          "fuente": "El País",
+          "nota": "También El Mundo, La Vanguardia, elDiario.es y ABC"
+        },
+        {
+          "titular": "Verificación del debate: las mentiras y medias verdades de Sánchez y Feijóo",
+          "url": "https://www.eldiario.es/politica/mentiras-cara-cara_1_13678947.html",
+          "fuente": "elDiario.es",
+          "nota": "También El País"
+        },
+        {
+          "titular": "La banca endurece el crédito para construir vivienda",
+          "url": "https://www.abc.es/economia/banca-endurece-credito-promotor-medidas-intervencionistas-gobierno-20261120022518-nt.html",
+          "fuente": "ABC"
+        },
+        {
+          "titular": "Un informe pendiente de Fomento retrasa 5.500 viviendas en Pozuelo, más de la mitad protegidas",
+          "url": "https://www.elconfidencial.com/espana/madrid/2026-11-20/informe-pendiente-puente-cuerpo-viviendas-pozuelo_4468321/",
+          "fuente": "El Confidencial"
+        }
+      ]
+    },
+    {
+      "nombre": "Internacional",
+      "items": [
+        {
+          "titular": "Actualización APEC: Trump, Putin y Xi firman una «declaración de paz» que deja pocos resultados concretos",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
+          "fuente": "BBC",
+          "nota": "También NYT y FT"
+        },
+        {
+          "titular": "Europa se dice lista para negociar con Rusia el fin de la guerra en Ucrania",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
+          "fuente": "BBC",
+          "nota": "También Le Monde (reunión de aliados en Berlín)"
+        },
+        {
+          "titular": "Actualización Myanmar: el Tribunal de la ONU dictamina que cometió genocidio contra los rohinyás",
+          "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
+          "fuente": "BBC",
+          "nota": "The Guardian: temor a sanciones de EE. UU. a jueces"
+        },
+        {
+          "titular": "Reino Unido y la UE, cerca de pactar un programa de movilidad juvenil en una cumbre clave",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go",
+          "fuente": "BBC",
+          "nota": "También ABC y FT"
+        }
+      ]
+    },
+    {
+      "nombre": "Economía y mercados",
+      "items": [
+        {
+          "titular": "Actualización Anthropic: sube un 17 % en su debut y cierra valorada en ~1,3 billones de dólares",
+          "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
+          "fuente": "The Guardian",
+          "nota": "También FT, NYT, BBC, Le Monde y Expansión"
+        },
+        {
+          "titular": "El Taiex se hunde un 7 % y va a por su peor semana desde 1991",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/taiwan-stocks-taiex-twse-1991-ai-chips-tsmc-hon-hai-foxconn",
+          "fuente": "Bloomberg",
+          "nota": "FT: caen las tecnológicas asiáticas tras la OPV de Anthropic"
+        },
+        {
+          "titular": "Las bolsas van a por su peor racha desde 2023 y suben los refugios (yen, bonos)",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
+          "fuente": "Bloomberg"
+        },
+        {
+          "titular": "Citi rebaja con fuerza su previsión para bitcoin",
+          "url": "https://www.expansion.com/mercados/criptomonedas/2026/11/20/citi-rebaja-doble-pronostico-sobre-bitcoin-sobre-ethereum.html",
+          "fuente": "Expansión"
+        }
+      ]
+    },
+    {
+      "nombre": "Tecnología e IA",
+      "items": [
+        {
+          "titular": "Nvidia tantea a Rene Haas (Arm) en su búsqueda de nuevo consejero delegado",
+          "url": "https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas",
+          "fuente": "The Guardian"
+        },
+        {
+          "titular": "California investiga a Nvidia por chips de IA que acabaron en China",
+          "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no",
+          "fuente": "BBC"
+        },
+        {
+          "titular": "GTA VI bate récords: más de 2.300 millones de dólares en ventas, según estimaciones",
+          "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+          "fuente": "BBC"
+        },
+        {
+          "titular": "El regulador neerlandés desaconseja comprar gafas inteligentes con IA",
+          "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o",
+          "fuente": "BBC"
+        }
+      ]
+    },
+    {
+      "nombre": "IA en X",
+      "items": [
+        {
+          "titular": "Comparativa de Astra 6.2, Fable 5.2 y Gemini 4 Neon construyendo un «GTA Las Palmas»",
+          "url": "https://x.com/DotCSV/status/2123481283368247660",
+          "fuente": "@DotCSV"
+        },
+        {
+          "titular": "Gestalt, un modelo «stealth» nuevo, aparece con 1931 de Elo por encima de Fable 5.2",
+          "url": "https://x.com/SergioGMN/status/2123532240118517984",
+          "fuente": "@SergioGMN"
+        },
+        {
+          "titular": "Lewbot: app gratis para Mac que hace de centro de control de varios agentes",
+          "url": "https://x.com/sweetlew/status/2123523213816926448",
+          "fuente": "@sweetlew"
+        },
+        {
+          "titular": "Tesseract de Mirage: una DAW para que Claude y ChatGPT produzcan y mezclen música nota a nota",
+          "url": "https://x.com/deanwperkins/status/2123506615735497096",
+          "fuente": "@deanwperkins"
+        },
+        {
+          "titular": "Guía en Hugging Face para optimizar DeepSeek-V4.1-Flash en NVIDIA RTX PRO 6000 con ayuda de Codex",
+          "url": "https://x.com/alvarobartt/status/2123459429446074718",
+          "fuente": "@alvarobartt"
+        }
+      ]
+    }
+  ]
+}
