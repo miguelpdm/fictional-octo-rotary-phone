@@ -1,0 +1,140 @@
+{
+ "fecha": "2026-11-22",
+ "secciones": [
+  {
+   "nombre": "España",
+   "items": [
+    {
+     "titular": "Actualización encuestas: a una semana del 29-N, el tracking de 40dB pone al PSOE casi empatado con el PP, aunque la derecha sumaría mayoría absoluta",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-22/el-psoe-acaricia-el-empate-con-el-pp-segun-el-tracking-de-40db.html",
+     "fuente": "El País",
+     "nota": "También El Mundo, ABC (194 escaños para PP+Vox) y La Vanguardia"
+    },
+    {
+     "titular": "Abascal adelanta a Sánchez en valoración de líderes y solo le supera Feijóo",
+     "url": "https://www.abc.es/espana/abascal-supera-sanchez-valoracion-queda-solo-detras-20261122023235-nt.html",
+     "fuente": "ABC"
+    },
+    {
+     "titular": "El Gobierno cambia la ley para poder multar con hasta 60 millones a los centros de datos que incumplan",
+     "url": "https://www.lavanguardia.com/economia/20261121/11689896/gobierno-cambia-ley-electrica-multar-60-millones-centros-datos-cumplan.html",
+     "fuente": "La Vanguardia"
+    },
+    {
+     "titular": "Sánchez promete destinar a vivienda 1.400 millones de la prórroga del impuesto a la banca",
+     "url": "https://www.lavanguardia.com/politica/20261121/11689766/sanchez-anuncia-destinara-vivienda-1-400-millones-prorroga-impuesto-banca.html",
+     "fuente": "La Vanguardia"
+    }
+   ]
+  },
+  {
+   "nombre": "Internacional",
+   "items": [
+    {
+     "titular": "México captura a «El Chapo Isidro», capo de la lista de los 10 más buscados del FBI, y estalla la violencia en Sinaloa",
+     "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
+     "fuente": "NYT",
+     "nota": "También BBC, WSJ, The Guardian y FT"
+    },
+    {
+     "titular": "Atacan con drones un carguero con rumbo a Rusia en el golfo de Finlandia",
+     "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+     "fuente": "BBC",
+     "nota": "También Bloomberg"
+    },
+    {
+     "titular": "Protestas con muertos en Bangladés por la exprimera ministra en el exilio",
+     "url": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
+     "fuente": "NYT"
+    },
+    {
+     "titular": "El FBI investiga un aparente hackeo de su base de datos criminal",
+     "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+     "fuente": "BBC"
+    }
+   ]
+  },
+  {
+   "nombre": "Economía y mercados",
+   "items": [
+    {
+     "titular": "El desplome de la IA en China borra 1,7 billones de dólares y convierte la apuesta estrella en perdedora",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
+     "fuente": "Bloomberg"
+    },
+    {
+     "titular": "Goldman y Apollo colocan 32.000 millones en bonos de SpaceX para comprar chips de IA",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
+     "fuente": "Bloomberg"
+    },
+    {
+     "titular": "Emiratos saca petróleo por Ormuz esquivando a Irán en una operación arriesgada",
+     "url": "https://www.wsj.com/world/middle-east/the-u-a-e-is-shuttling-oil-past-iran-in-risky-hormuz-operation-9150693e?mod=rss_worldnews",
+     "fuente": "WSJ"
+    }
+   ]
+  },
+  {
+   "nombre": "Tecnología e IA",
+   "items": [
+    {
+     "titular": "Amazon, cerca de comprar la start-up de IA Decart por unos 7.500 millones",
+     "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
+     "fuente": "FT"
+    },
+    {
+     "titular": "Actualización Riemann: dos grupos verifican la demostración del matemático que usó Claude",
+     "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+     "fuente": "The Guardian"
+    },
+    {
+     "titular": "Actualización Corea del Sur: dimite el ministro de Educación por el escándalo de trampas con IA en los exámenes universitarios",
+     "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+     "fuente": "The Guardian"
+    },
+    {
+     "titular": "Fracasan en la ONU las negociaciones para controlar las armas autónomas",
+     "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+     "fuente": "The Guardian"
+    }
+   ]
+  },
+  {
+   "nombre": "IA en X",
+   "items": [
+    {
+     "titular": "Anthropic dice en su informe a inversores que ya alcanzó su umbral de «mejora recursiva»: la IA acelera la IA, dos años de progreso en uno",
+     "url": "https://x.com/moritzkremb/status/2124155931365875728",
+     "fuente": "@moritzkremb"
+    },
+    {
+     "titular": "Inkling 2 Mini de Thinking Machines, a probar en local: con exo va a 210 tok/s en un Mac Studio M5 Ultra",
+     "url": "https://x.com/barckcode/status/2124253011857789348",
+     "fuente": "@barckcode",
+     "nota": "También lo recomienda @dani_avila7"
+    },
+    {
+     "titular": "Software Factory: resumen de cómo lleva una tarea hasta el merge sin intervención humana",
+     "url": "https://x.com/GermanDZ/status/2124067215335162149",
+     "fuente": "@GermanDZ"
+    },
+    {
+     "titular": "Un «cerebro» compartido para 12 bots familiares: un bucket de Tigris montado como carpeta y grep, sin base de datos vectorial",
+     "url": "https://x.com/diegomarino/status/2124169530117181527",
+     "fuente": "@diegomarino"
+    },
+    {
+     "titular": "Edición de vídeo con IA a nivel humano: Claude en local más hyperframes, ffmpeg y whisper",
+     "url": "https://x.com/moritzkremb/status/2124235296883486816",
+     "fuente": "@moritzkremb"
+    },
+    {
+     "titular": "Actualización Gemini 4 Neon: un ingeniero de DeepMind confirma que usar Antigravity en T3 Code no supone baneo, y ya lo ven como el mejor lanzamiento de Google allí",
+     "url": "https://x.com/theo/status/2124266892991115362",
+     "fuente": "@theo",
+     "nota": "También @AdamHoltererer"
+    }
+   ]
+  }
+ ]
+}
