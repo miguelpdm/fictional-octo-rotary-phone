@@ -1138,5 +1138,105 @@
     "porque": "La corrección de los metales se profundiza por el dólar, los rendimientos y las apuestas de subida de la Fed",
     "fuente": "CNBC",
     "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-20",
+    "ticker": "NVDA",
+    "tipo": "duro",
+    "titular": "El SEC examina posibles problemas contables de Nvidia; la acción cae un 14%",
+    "url": "https://www.reuters.com/3fec1b0a85a0/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+    "porque": "La investigación pasa de los controles de exportación a la calidad del ingreso declarado",
+    "fuente": "Reuters",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-21",
+    "ticker": "NVDA",
+    "tipo": "duro",
+    "titular": "Nuevas licencias de EE. UU. para chips IA al sudeste asiático; socios de servidores paran envíos",
+    "url": "https://www.zaobao.com.sg/en/news/world/nvidia-suppliers-halt-shipments-southeast-asia-us-tightens-chip-controls",
+    "porque": "Recorta el TAM regional y puede retrasar inventario de GPU",
+    "fuente": "Lianhe Zaobao / Nikkei",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-20",
+    "ticker": "NVDA",
+    "tipo": "duro",
+    "titular": "Los demócratas de Exteriores piden explicaciones a Comercio sobre la influencia de Nvidia en el caso Megaspeed",
+    "url": "https://democrats-foreignaffairs.house.gov/2026/11/meeks-kamlager-dove-demand-answers-from-commerce-on-megaspeed/",
+    "porque": "Otro frente político sobre China; respuesta antes del 1-dic",
+    "fuente": "House Foreign Affairs Committee",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-22",
+    "ticker": "NVDA",
+    "tipo": "duro",
+    "titular": "Bessent: el Tesoro sigue esperando respuestas de Nvidia sobre ventas a China; plazo el 25-nov",
+    "url": "https://www.investing.com/news/stock-market-news/us-seeks-answers-on-nvidias-sale-of-chips-to-china-bessent-says-5044083",
+    "porque": "Si no responde, puede haber más medidas",
+    "fuente": "Reuters",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-19",
+    "ticker": "HIMS",
+    "tipo": "duro",
+    "titular": "Kentucky prohíbe componer y enviar BPC-157, TB-500 y otros péptidos; HIMS −8,9%",
+    "url": "https://pharmacy.ky.gov/Documents/Frankfort%2c%20KY.%2011.19.26%20Compliance%20Alert%20Compounding%20With%20Peptide%20Bulk%20Drug%20Substances%20Under%20the%20HHS%20Enforcement%20Discretion%20Policy.pdf",
+    "porque": "Choca con la ampliación de Peptides+",
+    "fuente": "Kentucky Board of Pharmacy",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-19",
+    "ticker": "PG",
+    "tipo": "duro",
+    "titular": "P&G plantea hasta 10.000 M$ de ahorros y recortar un 20-30% la plantilla de suministro para 2030",
+    "url": "https://www.investing.com/news/stock-market-news/procter--gamble-targets-up-to-10-billion-in-productivity-savings-cfo-says-5039819",
+    "porque": "Palanca de margen frente a ~1.400 M$ de costes en FY27",
+    "fuente": "Reuters",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-22",
+    "ticker": "Redeia",
+    "tipo": "duro",
+    "titular": "La CNMC recorta un 84% el incentivo de 2025 a Red Eléctrica como operador del sistema",
+    "url": "https://theobjective.com/economia/energia/2026-11-22/cnmc-recorta-incentivos-red-electrica-apagon/",
+    "porque": "Señal del regulador sobre la gestión en el año del apagón (cuantía pequeña)",
+    "fuente": "The Objective",
+    "idioma": "ES"
+  },
+  {
+    "fecha": "2026-11-21",
+    "ticker": "ACN",
+    "tipo": "soft",
+    "titular": "Accenture plantea hasta 950 bajas voluntarias en Portugal ligadas a Meta",
+    "url": "https://www.investing.com/news/stock-market-news/accenture-launches-plan-to-cut-950-metalinked-jobs-in-portugal-5038446",
+    "porque": "Ajuste de capacidad en operaciones",
+    "fuente": "Reuters",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-23",
+    "ticker": "oro",
+    "tipo": "soft",
+    "titular": "El oro rebota desde mínimos de 14 meses tras caer un 9% en la semana",
+    "url": "https://www.cnbc.com/2026/11/23/gold-rises-from-14-month-low-as-markets-await-us-inflation-data.html",
+    "porque": "Continúa la presión por las subidas de la Fed (incluye SILV)",
+    "fuente": "CNBC",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-23",
+    "ticker": "BRNT",
+    "tipo": "soft",
+    "titular": "Los hutíes reivindican un ataque a Rabigh; el Brent se mantiene en ~92,7 $",
+    "url": "https://www.arabnews.com/energy/oil-holds-in-tight-range-as-gulf-attacks-sustain-risk-premium-3013656",
+    "porque": "Mantiene la prima geopolítica; la OPEP+ se reúne el 29-nov",
+    "fuente": "Reuters / Arab News",
+    "idioma": "EN"
   }
 ]
