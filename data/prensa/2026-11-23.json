@@ -1,0 +1,151 @@
+{
+ "fecha": "2026-11-23",
+ "secciones": [
+  {
+   "nombre": "España",
+   "items": [
+    {
+     "titular": "Última semana de campaña: la ventaja de PP y Vox no cede mientras el PSOE pelea por el primer puesto",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/la-ventaja-de-la-derecha-no-cede-mientras-el-psoe-pugna-por-el-primer-puesto.html",
+     "fuente": "El País",
+     "nota": "El Mundo: menos de 10.000 votos decidirán el último escaño en 23 provincias"
+    },
+    {
+     "titular": "Los jefes políticos de la Guardia Civil recortaron el informe sobre la entrada masiva en Ceuta",
+     "url": "https://www.elmundo.es/espana/2026/11/22/6b032ee9e4d4d858798b456d.html",
+     "fuente": "El Mundo"
+    },
+    {
+     "titular": "Moncloa tomó el control directo del rescate de Air Europa",
+     "url": "https://www.elmundo.es/espana/2026/11/22/6b0323b7e85ece083e8b457e.html",
+     "fuente": "El Mundo"
+    },
+    {
+     "titular": "Sánchez, en 'Salvados': no aceptaría un referéndum de independencia a cambio de la investidura",
+     "url": "https://www.lavanguardia.com/local/valencia/20261122/11690427/sanchez-senala-salvados-aceptaria-referendum-independencia-cambio-investidura.html",
+     "fuente": "La Vanguardia"
+    },
+    {
+     "titular": "Alcaraz gana por primera vez las Finales ATP",
+     "url": "https://www.lemonde.fr/sport/article/2026/11/22/carlos-alcaraz-sacre-pour-la-premiere-fois-aux-finales-atp-complete-sa-collection_6814247_3242.html",
+     "fuente": "Le Monde",
+     "nota": "También en ABC"
+    }
+   ]
+  },
+  {
+   "nombre": "Internacional",
+   "items": [
+    {
+     "titular": "Actualización COP31: la cumbre del clima más larga de la historia acaba sin acuerdo sobre los fósiles",
+     "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
+     "fuente": "BBC",
+     "nota": "También FT, WSJ y Le Monde"
+    },
+    {
+     "titular": "Los demócratas logran la mayor mayoría en la Cámara de EE. UU. desde 1992 (258 escaños)",
+     "url": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html",
+     "fuente": "NYT",
+     "nota": "También BBC y FT"
+    },
+    {
+     "titular": "Actualización: explosión en un buque ruso en el puerto libio de Bengasi por un posible ataque con drones",
+     "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+     "fuente": "The Guardian",
+     "nota": "Segundo barco ruso atacado lejos de Ucrania (WSJ, BBC)"
+    },
+    {
+     "titular": "Ataques rusos en la región de Kiev dejan al menos 14 muertos",
+     "url": "https://www.lemonde.fr/international/live/2026/11/23/en-direct-guerre-en-ukraine-des-frappes-russes-dans-la-region-de-kiev-font-au-moins-14-morts-deux-navires-dont-au-moins-un-russe-attaques-en-lybie_6814183_3210.html",
+     "fuente": "Le Monde"
+    },
+    {
+     "titular": "Macron estudia reunir el Congreso en Versalles para aprobar una «regla de oro» presupuestaria",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/22/emmanuel-macron-envisage-de-reunir-le-congres-a-versailles-pour-faire-adopter-une-regle-d-or-budgetaire-une-procedure-inedite-a-plus-d-un-titre_6814241_823448.html",
+     "fuente": "Le Monde"
+    }
+   ]
+  },
+  {
+   "nombre": "Economía y mercados",
+   "items": [
+    {
+     "titular": "Actualización desplome IA: los reguladores asiáticos corren a sostener las bolsas y los futuros de Wall Street rebotan",
+     "url": "https://www.ft.com/content/69459363-8299-4555-a39c-8980ee6c3590",
+     "fuente": "FT",
+     "nota": "También WSJ y Bloomberg"
+    },
+    {
+     "titular": "Anthropic se ha comprometido a gastar 900.000 millones y Wall Street espera que su deuda sea bono basura",
+     "url": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d",
+     "fuente": "WSJ"
+    },
+    {
+     "titular": "El cobre duda cerca de 12.000 $/t tras su desplome y el oro rebota tras su peor semana desde marzo",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-23/copper-rises-after-falling-more-than-9-last-week-on-ai-gloom",
+     "fuente": "Bloomberg"
+    },
+    {
+     "titular": "La renta de los inmigrantes crece más que la de los españoles con Sánchez",
+     "url": "https://www.ft.com/content/ce066eb8-31fa-4c11-b49d-a353b04ec623",
+     "fuente": "FT"
+    }
+   ]
+  },
+  {
+   "nombre": "Tecnología e IA",
+   "items": [
+    {
+     "titular": "China teme que la IA dé ventaja a EE. UU. en la rivalidad nuclear",
+     "url": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html",
+     "fuente": "NYT"
+    },
+    {
+     "titular": "Novartis descarta que la IA vaya a curar el cáncer en 5-10 años",
+     "url": "https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340",
+     "fuente": "FT"
+    },
+    {
+     "titular": "San Francisco vive un boom de la IA, pero crece el miedo a un crash",
+     "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o",
+     "fuente": "BBC"
+    },
+    {
+     "titular": "La España del empleo barato ante la IA: «no aumenta los salarios por sí sola»",
+     "url": "https://www.elmundo.es/economia/2026/11/22/6b00387b21efa06d178b4590.html",
+     "fuente": "El Mundo"
+    }
+   ]
+  },
+  {
+   "nombre": "IA en X",
+   "items": [
+    {
+     "titular": "Gráfica METR actualizada: Opus 5.5 y Astra rondan las 40 h de horizonte de tareas",
+     "url": "https://x.com/JonhernandezIA/status/2124627957331239338",
+     "fuente": "@JonhernandezIA"
+    },
+    {
+     "titular": "LangChain: agentes que reportan errores y un agente curador que actualiza skills y docs para todos",
+     "url": "https://x.com/santtiagom_/status/2124627398209802401",
+     "fuente": "@santtiagom_"
+    },
+    {
+     "titular": "Salen Gentle Shell y Gentle AI v5.0.0, con panel de progreso por agente y uso por proveedor",
+     "url": "https://x.com/G_Programming/status/2124615191891456344",
+     "fuente": "@G_Programming"
+    },
+    {
+     "titular": "FMT: formato de imagen sin pérdidas con decodificación paralela, mucho más rápido que los códecs aprendidos",
+     "url": "https://x.com/root_rat/status/2124628995568271852",
+     "fuente": "@root_rat"
+    },
+    {
+     "titular": "AI Templates (aitmpl.com) acepta plugins externos por PR con triaje y revisión de seguridad",
+     "url": "https://x.com/dani_avila7/status/2124699420801499263",
+     "fuente": "@dani_avila7"
+    }
+   ]
+  }
+ ]
+}
