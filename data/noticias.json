@@ -1238,5 +1238,45 @@
     "porque": "Mantiene la prima geopolítica; la OPEP+ se reúne el 29-nov",
     "fuente": "Reuters / Arab News",
     "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-23",
+    "ticker": "NVDA",
+    "tipo": "duro",
+    "titular": "El consejo de Nvidia restituye a Jensen Huang como CEO, presidente y consejero",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+    "porque": "Deshace el cambio de CEO del 12-nov; votación unánime con input del Gobierno de EE. UU.; el consejo investiga posibles intentos de inteligencia extranjera contra Huang; +31,5% al cierre",
+    "fuente": "Nvidia Newsroom / Reuters",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-23",
+    "ticker": "NVDA",
+    "tipo": "duro",
+    "titular": "EE. UU. mete a Megaspeed y otras seis entidades del Sudeste Asiático en la Entity List",
+    "url": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
+    "porque": "Sanción formal al cliente del escándalo de exportaciones de Nvidia; licencias con presunción de denegación",
+    "fuente": "CNBC",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-24",
+    "ticker": "EL.PA",
+    "tipo": "soft",
+    "titular": "Milleri, dispuesto a un tercer mandato al frente de EssilorLuxottica",
+    "url": "https://www.corriere.it/economia/finanza/26_novembre_24/essilux-milleri-pronto-per-un-terzo-mandato-alla-guida-del-gruppo-degli-occhiali-e158a683-3827-40af-926e-4dc4ec1c4xlk.shtml",
+    "porque": "Continuidad del plan de medtech y gafas inteligentes; renovación parcial del consejo en la junta de abril; no es oficial",
+    "fuente": "Corriere della Sera",
+    "idioma": "IT"
+  },
+  {
+    "fecha": "2026-11-23",
+    "ticker": "BRNT",
+    "tipo": "soft",
+    "titular": "Irán dice que tres petroleros ardieron tras chocar con minas en Ormuz; el Brent sigue en mínimos de tres meses",
+    "url": "https://www.cnbc.com/2026/11/24/oil-wti-brent-hormuz-supply.html",
+    "porque": "Riesgo nuevo en Ormuz, pero pesa más la oferta: Brent en torno a 89 $, mínimo desde el 31-ago",
+    "fuente": "CNBC",
+    "idioma": "EN"
   }
 ]
