@@ -1,0 +1,144 @@
+{
+ "fecha": "2026-11-24",
+ "secciones": [
+  {
+   "nombre": "España",
+   "items": [
+    {
+     "titular": "El Supremo aplica la amnistía a Puigdemont y cierra la causa del procés",
+     "url": "https://www.lavanguardia.com/politica/20261123/11691225/supremo-amnistia-expresidente-catalan-carles-puigdemont.html",
+     "fuente": "La Vanguardia",
+     "nota": "El País: la amnistía mete presión a Puigdemont para salvar la campaña de Junts"
+    },
+    {
+     "titular": "Debate a ocho sin ganador claro: confirma los bloques PP-Vox frente a un PSOE presionado por su izquierda",
+     "url": "https://www.eldiario.es/politica/debate-ocho-confirma-bloques-apoyaran-29n-pp-vox-frente-psoe-exigido-izquierda_1_13687691.html",
+     "fuente": "elDiario.es",
+     "nota": "También La Vanguardia y El País"
+    },
+    {
+     "titular": "Actualización: Arranca el apagón de encuestas: todas menos el CIS dan ganador a Feijóo; el CIS pone al PSOE 10 puntos por delante",
+     "url": "https://www.lavanguardia.com/politica/20261123/11691293/todas-encuestas-cis-dan-victoria-feijoo-amplia-mayoria-absoluta.html",
+     "fuente": "La Vanguardia",
+     "nota": "El País publica su promedio final"
+    },
+    {
+     "titular": "Actualización: Air Europa: un directivo de la SEPI avisó a Bruselas de una “triquiñuela” en el rescate para eludir su escrutinio",
+     "url": "https://www.elmundo.es/espana/2026/11/23/6b047ec4e9cf4a38218b4592.html",
+     "fuente": "El Mundo"
+    },
+    {
+     "titular": "El Gobierno aprueba hoy ampliar a 10 días el permiso por fallecimiento",
+     "url": "https://www.lavanguardia.com/economia/20261123/11691537/gobierno-aprobara-manana-ampliacion-permisos-fallecimiento-10-dias.html",
+     "fuente": "La Vanguardia"
+    }
+   ]
+  },
+  {
+   "nombre": "Internacional",
+   "items": [
+    {
+     "titular": "Actualización: Ucrania confirma que atacó con drones navales dos barcos rusos frente a Libia: la guerra llega al Mediterráneo",
+     "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+     "fuente": "The Guardian",
+     "nota": "También BBC y Le Monde"
+    },
+    {
+     "titular": "Corea del Sur ordena refugiarse a vecinos de una isla tras acercarse aviones militares rusos",
+     "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
+     "fuente": "The Guardian"
+    },
+    {
+     "titular": "La OTAN promete defenderse de amenazas espaciales tras informes de un satélite nuclear ruso",
+     "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo",
+     "fuente": "BBC"
+    },
+    {
+     "titular": "El Pentágono retrasa envíos de misiles Patriot a Ucrania",
+     "url": "https://www.ft.com/content/02db16f6-808f-44b4-98dc-fe47f6a04d33",
+     "fuente": "FT",
+     "nota": "NYT: un análisis estima más de 700.000 soldados rusos muertos"
+    }
+   ]
+  },
+  {
+   "nombre": "Economía y mercados",
+   "items": [
+    {
+     "titular": "Actualización: Jensen Huang vuelve a Nvidia tras la presión de Trump; Nvidia gana casi 1 billón $ de valor y hay críticas republicanas",
+     "url": "https://www.nytimes.com/2026/11/23/business/nvidia-jensen-huang.html",
+     "fuente": "NYT",
+     "nota": "FT: Trump ganó hasta 15 M$ con acciones de Nvidia; también BBC, Le Monde, ABC"
+    },
+    {
+     "titular": "Las bolsas asiáticas se disparan con la vuelta de Huang y el oro mantiene las subidas",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-23/asian-chip-stocks-set-to-jump-as-huang-comeback-refires-ai-trade",
+     "fuente": "Bloomberg",
+     "nota": "También FT"
+    },
+    {
+     "titular": "Suben los bonos del Tesoro de EE.UU.: el petróleo barato alivia los temores de inflación",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns",
+     "fuente": "Bloomberg"
+    },
+    {
+     "titular": "España gastará en pensiones un 43% más de PIB que la UE en 2050",
+     "url": "https://www.elmundo.es/economia/2026/11/24/6b04613de9cf4ac8208b45a7.html",
+     "fuente": "El Mundo"
+    }
+   ]
+  },
+  {
+   "nombre": "Tecnología e IA",
+   "items": [
+    {
+     "titular": "EE.UU. pondrá en su lista negra a la firma asiática de IA Megaspeed tras el escándalo de Nvidia",
+     "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
+     "fuente": "BBC"
+    },
+    {
+     "titular": "Fiscales de EE.UU.: un ingeniero de OpenAI guardaba decenas de grabaciones de reuniones",
+     "url": "https://www.ft.com/content/f860152a-6bd6-43f7-8ba1-4a6ae94d6565",
+     "fuente": "FT"
+    },
+    {
+     "titular": "Australia podrá multar a las redes sociales con hasta el 5% de su facturación global",
+     "url": "https://www.theguardian.com/technology/2026/nov/24/social-media-big-tech-fines-global-revenue-australia-digital-duty-care-laws",
+     "fuente": "The Guardian"
+    }
+   ]
+  },
+  {
+   "nombre": "IA en X",
+   "items": [
+    {
+     "titular": "Anthropic lanza Claude Ship (beta) para automatizar revisión de código, PRs y despliegues",
+     "url": "https://x.com/santtiagom_/status/2125007779513733221",
+     "fuente": "@santtiagom_",
+     "nota": "@dani_avila7 lo prueba para automerge"
+    },
+    {
+     "titular": "Un modelo interno de Claude habría probado la conjetura de Valiant (análogo algebraico de P vs NP), verificada en Lean",
+     "url": "https://x.com/dobleio/status/2125018469976703431",
+     "fuente": "@dobleio",
+     "nota": "Debate sobre la confianza en la prueba en @mike_mates"
+    },
+    {
+     "titular": "Chrome publica Modern Web Guidance: skills para que Claude Code o Codex usen APIs nativas del navegador",
+     "url": "https://x.com/Fluyeporlaweb/status/2124989116035240350",
+     "fuente": "@Fluyeporlaweb"
+    },
+    {
+     "titular": "Drex Router: enrutador de modelos con un 12B basado en Gemma, ~0,10 $ por 1.000 peticiones",
+     "url": "https://x.com/dani_avila7/status/2125011621034733643",
+     "fuente": "@dani_avila7"
+    },
+    {
+     "titular": "DeepSeek V4.1 Flash con 80% de descuento 10 días en el portal de Nous Research",
+     "url": "https://x.com/Fluyeporlaweb/status/2125024050250486088",
+     "fuente": "@Fluyeporlaweb"
+    }
+   ]
+  }
+ ]
+}
