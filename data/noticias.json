@@ -1278,5 +1278,55 @@
     "porque": "Riesgo nuevo en Ormuz, pero pesa más la oferta: Brent en torno a 89 $, mínimo desde el 31-ago",
     "fuente": "CNBC",
     "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-24",
+    "ticker": "BKNG",
+    "tipo": "duro",
+    "titular": "OpenTable (Booking) acuerda comprar la australiana me&u",
+    "url": "https://www.opentable.com/blog/press/page/meu/",
+    "porque": "Amplía la suite de OpenTable con pedido y pago, CRM e IA de voz; unos 450 millones según AFR; cierre en el 1S27",
+    "fuente": "OpenTable",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-24",
+    "ticker": "EL.PA",
+    "tipo": "soft",
+    "titular": "Los consumidores alemanes demandan a Luxottica y a Meta por las Ray-Ban Meta",
+    "url": "https://www.vzbv.de/pressemitteilungen/smart-glasses-verbraucherzentrale-verklagt-meta-und-ray-ban",
+    "porque": "Primer frente legal europeo (RGPD) contra las gafas inteligentes, motor de crecimiento",
+    "fuente": "vzbv",
+    "idioma": "DE"
+  },
+  {
+    "fecha": "2026-11-24",
+    "ticker": "Redeia",
+    "tipo": "soft",
+    "titular": "El Gobierno amplía la capacidad de acceso a la red al 96% de los nudos",
+    "url": "https://www.miteco.gob.es/content/dam/miteco/es/prensa/20261124_NdP_El_Gobierno_aprueba_requisitos_m%C3%ADnimos_para_las_instalaciones.pdf",
+    "porque": "Más demanda conectada (centros de datos, hidrógeno, industria) a la red de transporte",
+    "fuente": "MITECO",
+    "idioma": "ES"
+  },
+  {
+    "fecha": "2026-11-24",
+    "ticker": "ACN",
+    "tipo": "soft",
+    "titular": "Accenture lanza Accenture Construct para proyectos de capital",
+    "url": "https://newsroom.accenture.com/news/2026/accenture-launches-accenture-construct-to-reinvent-fragmented-capital-project-delivery-amid-global-investment-supercycle",
+    "porque": "Más de 5.000 profesionales y 2.500 M$ invertidos; apuesta por el ciclo de infraestructura",
+    "fuente": "Accenture Newsroom",
+    "idioma": "EN"
+  },
+  {
+    "fecha": "2026-11-24",
+    "ticker": "HIMS",
+    "tipo": "soft",
+    "titular": "Hims lanza tratamiento de testosterona en Reino Unido y pide desestimar la demanda de la FTC",
+    "url": "https://news.hims.com/newsroom/closing-the-gap-in-mens-health-hims-launches-testosterone-care-in-the-uk",
+    "porque": "Expansión internacional; el pleito de la FTC sigue abierto",
+    "fuente": "Hims Newsroom",
+    "idioma": "EN"
   }
 ]
