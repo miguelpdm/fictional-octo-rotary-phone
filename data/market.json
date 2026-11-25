@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T21:25:55.589400+00:00",
+  "updatedAt": "2026-11-25T03:00:17.583111+00:00",
   "indices": [
     {
       "name": "IBEX 35",
@@ -39,14 +39,14 @@
       "price": 6003.76,
       "change": -70.71000000000004,
       "changePct": -1.1640521724529058,
-      "currency": "EUR"
+      "currency": null
     },
     {
       "name": "VIX (miedo)",
       "symbol": "^VIX",
-      "price": 26.4,
-      "change": -0.22000000000000242,
-      "changePct": -0.8264462809917446,
+      "price": 26.36,
+      "change": -0.26000000000000156,
+      "changePct": -0.9767092411720569,
       "currency": "USD"
     }
   ],
