@@ -1,0 +1,136 @@
+{
+  "fecha": "2026-11-26",
+  "secciones": [
+    {
+      "nombre": "España",
+      "items": [
+        {
+          "titular": "Hoy, debate a cuatro: Sánchez, Feijóo, Abascal y Colau se juegan la definición de los dos bloques ante el 29-N",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/sanchez-feijoo-abascal-y-colau-afrontan-un-debate-clave-para-la-definicion-de-los-dos-bloques-ante-el-29-n.html",
+          "fuente": "El País",
+          "nota": "También en elDiario.es y El Mundo; primer debate de Feijóo en tándem con Abascal."
+        },
+        {
+          "titular": "Puigdemont confirma que vuelve a Cataluña el 12 de diciembre y acudirá al Parlament",
+          "url": "https://www.lavanguardia.com/politica/20261125/11692596/puigdemont-confirma-regresara-catalunya-12-diciembre-acudira-parlament.html",
+          "fuente": "La Vanguardia",
+          "nota": "El Mundo: llegará con una ofensiva por el reconocimiento de la «República Catalana»."
+        },
+        {
+          "titular": "Interior puso escolta al jefe de la inteligencia marroquí para sus vacaciones en Marbella",
+          "url": "https://www.abc.es/espana/interior-dio-escolta-jefe-inteligencia-marroqui-vacaciones-20261126022524-nt.html",
+          "fuente": "ABC",
+          "nota": "Exclusiva de ABC."
+        },
+        {
+          "titular": "Adif validó en 2020 el sistema que no detectó la rotura de vía de Adamuz (46 muertos)",
+          "url": "https://www.elmundo.es/andalucia/2026/11/25/6b06d406fdddffe3308b45b0.html",
+          "fuente": "El Mundo"
+        },
+        {
+          "titular": "El Gobierno de Ayuso recurrirá al Constitucional el decreto de vivienda",
+          "url": "https://www.lavanguardia.com/politica/20261125/11693119/gobierno-ayuso-recurrira-tc-decreto-vivienda-invadir-competencias-autonomicas.html",
+          "fuente": "La Vanguardia"
+        }
+      ]
+    },
+    {
+      "nombre": "Internacional",
+      "items": [
+        {
+          "titular": "Actualización: EE UU anuncia ya la nueva tanda de aranceles a China, la UE y otros países",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
+          "fuente": "BBC",
+          "nota": "Le Monde subraya que llega pese al varapalo electoral de Trump."
+        },
+        {
+          "titular": "Jueces israelíes recomiendan retirar los cargos más graves contra Netanyahu",
+          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o",
+          "fuente": "BBC"
+        },
+        {
+          "titular": "Al menos 31 muertos al arder un camión cisterna en una autopista de El Cairo",
+          "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+          "fuente": "The Guardian",
+          "nota": "También en BBC."
+        },
+        {
+          "titular": "Los europeos, dispuestos a hablar con Putin para imponer su visión de la seguridad del continente",
+          "url": "https://www.lemonde.fr/international/article/2026/11/26/guerre-en-ukraine-les-europeens-prets-a-parler-a-vladimir-poutine-pour-imposer-leur-vision-de-l-architecture-de-securite-du-vieux-continent_6815467_3210.html",
+          "fuente": "Le Monde"
+        }
+      ]
+    },
+    {
+      "nombre": "Economía y mercados",
+      "items": [
+        {
+          "titular": "Los líderes europeos eligen hoy a De Cos presidente del BCE",
+          "url": "https://www.expansion.com/mercados/2026/11/26/lideres-europeos-eligen-hoy-cos-presidente-bce.html",
+          "fuente": "Expansión"
+        },
+        {
+          "titular": "Wall Street vuelve a caer por la IA, los aranceles y la inflación; Asia abre al alza",
+          "url": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
+          "fuente": "NYT",
+          "nota": "FT: el software se libra del castigo; Expansión: los inversores se refugian en bonos."
+        },
+        {
+          "titular": "Quiebra Poundland: 11.000 empleos en el aire en Reino Unido",
+          "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o",
+          "fuente": "BBC"
+        }
+      ]
+    },
+    {
+      "nombre": "Tecnología e IA",
+      "items": [
+        {
+          "titular": "Nvidia frena los envíos de chips al sudeste asiático",
+          "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370",
+          "fuente": "FT"
+        },
+        {
+          "titular": "EE UU aprueba el plan de SpaceX de lanzar un millón de satélites de datos",
+          "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
+          "fuente": "BBC"
+        },
+        {
+          "titular": "El fondo de IA de Aschenbrenner, Situational Awareness, perdió un 65% en el tercer trimestre",
+          "url": "https://www.wsj.com/finance/investing/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-de8e9797",
+          "fuente": "WSJ"
+        }
+      ]
+    },
+    {
+      "nombre": "IA en X",
+      "items": [
+        {
+          "titular": "Anthropic reescribe en Rust, con Claude, la API que sirve a Claude: dicen ~70% menos CPU",
+          "url": "https://x.com/minchoi/status/2125728944087589257",
+          "fuente": "X · @minchoi"
+        },
+        {
+          "titular": "Pydantic lanza Pax, su agente de programación para terminal basado en plugins",
+          "url": "https://x.com/dani_avila7/status/2125748164082774512",
+          "fuente": "X · @dani_avila7"
+        },
+        {
+          "titular": "Claude ya puede convertir lo que construye en app de escritorio con «Install as app» (Mac y Windows)",
+          "url": "https://x.com/minchoi/status/2125614837078384749",
+          "fuente": "X · @minchoi"
+        },
+        {
+          "titular": "Cloudflare abre Email Sending al plan gratuito de Workers",
+          "url": "https://x.com/CloudflareDev/status/2125564566755291247",
+          "fuente": "X · @CloudflareDev"
+        },
+        {
+          "titular": "Thariq (@trq212) deja Anthropic y se incorpora a OpenAI",
+          "url": "https://x.com/barckcode/status/2125709994549281200",
+          "fuente": "X · @barckcode"
+        }
+      ]
+    }
+  ]
+}
