@@ -1,0 +1,135 @@
+{
+ "fecha": "2026-11-28",
+ "secciones": [
+  {
+   "nombre": "España",
+   "items": [
+    {
+     "titular": "Jornada de reflexión: Sánchez llena la Caja Mágica y Feijóo cierra en Sevilla pidiendo el voto de la izquierda",
+     "url": "https://www.lavanguardia.com/politica/20261127/11695394/sanchez-cierra-campana-madrid-mayor-movilizacion-socialista-1982.html",
+     "fuente": "La Vanguardia",
+     "nota": "También en elDiario.es: https://www.eldiario.es/politica/feijoo-apela-votante-izquierdas-dias-elecciones-no-les-enganar-presidente_1_13700418.html"
+    },
+    {
+     "titular": "Blindaje contra la desestabilización rusa y los ciberataques de cara al 29-N",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-28/blindaje-frente-a-la-desestabilizacion-rusa-y-el-riesgo-de-ciberataques-ante-el-29-n.html",
+     "fuente": "El País"
+    },
+    {
+     "titular": "Sánchez deja más de 6.000 millones de gasto en Defensa comprometidos para la próxima legislatura",
+     "url": "https://www.elmundo.es/economia/empresas/2026/11/28/6b09a17ce9cf4a3f3c8b45b0.html",
+     "fuente": "El Mundo"
+    },
+    {
+     "titular": "Las mafias ofrecen descuentos para ir a Canarias cuando hay mala mar",
+     "url": "https://www.abc.es/espana/mafias-inmigracion-ofrecen-descuentos-canarias-mala-mar-20261128025530-nt.html",
+     "fuente": "ABC"
+    }
+   ]
+  },
+  {
+   "nombre": "Internacional",
+   "items": [
+    {
+     "titular": "Kiev asume que la guerra se extiende a nuevos frentes",
+     "url": "https://www.lemonde.fr/international/article/2026/11/28/guerre-en-ukraine-kiev-assume-l-extension-du-conflit-sur-de-nouveaux-fronts_6816064_3210.html",
+     "fuente": "Le Monde"
+    },
+    {
+     "titular": "El acercamiento de Trump a Xi y a Jensen Huang descoloca a los halcones de China en Washington",
+     "url": "https://www.nytimes.com/2026/11/28/us/politics/trump-china-critics-nvidia.html",
+     "fuente": "NYT"
+    },
+    {
+     "titular": "Irán ataca dos veces los mismos barcos para disuadir el tráfico por Ormuz",
+     "url": "https://www.ft.com/content/f9c4da80-cc2c-4b0b-b083-b7acd0337790",
+     "fuente": "FT"
+    },
+    {
+     "titular": "El Supremo de Canadá avala en lo esencial la ley de Quebec que prohíbe símbolos religiosos a los funcionarios",
+     "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o",
+     "fuente": "BBC",
+     "nota": "También en The Guardian"
+    },
+    {
+     "titular": "Ocho muertos al estrellarse un helicóptero militar en Perú",
+     "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o",
+     "fuente": "BBC"
+    }
+   ]
+  },
+  {
+   "nombre": "Economía y mercados",
+   "items": [
+    {
+     "titular": "S&P pone en negativa la perspectiva de Francia, que ya está en recesión",
+     "url": "https://www.ft.com/content/4e16110a-9604-4455-8557-4edece5df01a",
+     "fuente": "FT",
+     "nota": "También en Le Monde: https://www.lemonde.fr/politique/article/2026/11/27/l-agence-s-p-menace-de-degrader-encore-la-note-de-la-france-entree-en-recession_6815934_823448.html"
+    },
+    {
+     "titular": "El S&P 500 firma su mejor semana desde abril de 2025 con el rally de la IA; los emergentes, la mejor desde junio",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap",
+     "fuente": "Bloomberg",
+     "nota": "Emergentes: https://www.bloomberg.com/news/articles/2026-11-27/em-asia-stocks-set-for-weekly-gain-as-markets-regain-footing"
+    },
+    {
+     "titular": "Una oleada de ciberincidentes inquieta a las economías occidentales",
+     "url": "https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77",
+     "fuente": "FT"
+    }
+   ]
+  },
+  {
+   "nombre": "Tecnología e IA",
+   "items": [
+    {
+     "titular": "Hackean la plataforma cloud insignia de la Fuerza Aérea de EE UU",
+     "url": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing",
+     "fuente": "The Guardian"
+    },
+    {
+     "titular": "Rebelión científica tras el anuncio de un colaborador de OpenAI que dice haber resuelto el gran problema de la física",
+     "url": "https://elpais.com/ciencia/2026-11-27/rebelion-cientifica-tras-el-anuncio-de-un-colaborador-de-openai-que-asegura-haber-resuelto-el-gran-problema-de-la-fisica.html",
+     "fuente": "El País"
+    },
+    {
+     "titular": "Decenas de juicios en Inglaterra y Gales, afectados por usar IA sin declararlo",
+     "url": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
+     "fuente": "The Guardian"
+    },
+    {
+     "titular": "Las ambiciones rusas en IA chocan con los límites de la guerra",
+     "url": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html",
+     "fuente": "NYT"
+    }
+   ]
+  },
+  {
+   "nombre": "IA en X",
+   "items": [
+    {
+     "titular": "Google publica una skill oficial /migrate-to-rust para migrar sistemas legacy a Rust",
+     "url": "https://x.com/midudev/status/2126440485128454338",
+     "fuente": "@midudev",
+     "nota": "En el repo google/skills"
+    },
+    {
+     "titular": "El cookbook de Claude Managed Agents añade restricción por dominios en web_fetch y web_search",
+     "url": "https://x.com/dani_avila7/status/2126526006039040084",
+     "fuente": "@dani_avila7"
+    },
+    {
+     "titular": "Salen Gentle AI y Gentle Shell 5.1: el agente ya no corta el turno a medias y estrena «Controlled Engineering»",
+     "url": "https://x.com/G_Programming/status/2126402146065060107",
+     "fuente": "@G_Programming"
+    },
+    {
+     "titular": "Tyler Cowen (consejo económico de Anthropic): la IA llegará más lenta de lo que permite la tecnología por la adopción institucional",
+     "url": "https://x.com/JonhernandezIA/status/2126390604334784994",
+     "fuente": "@JonhernandezIA"
+    }
+   ]
+  }
+ ]
+}
